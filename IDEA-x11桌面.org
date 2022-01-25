@@ -1,0 +1,76 @@
+* VNC
+** tigervnc
+*** 自启动
+**** 按需启动（xinetd）
+***** 对接xdm验证密码
+
+centos 7上面调通，但ubuntu 14.04死活没成功
+
+***** DONE wait/nowait
+CLOSED: [2017-03-17 周五 16:37]
+
+**** 预先启动
+*** 优点：跟随客户端窗口变更桌面大小(DesktopSize？)
+** x11vnc
+*** 自启动
+**** 跟随xdm
+**** xinetd
+*** 文件传输
+**** ultrafilexfer
+**** +tightfilexfer+
+* RDP
+** TODO sesman查找会话时的高宽问题
+
+**hello**
+
+* xdmcp开启
+** lightdm
+* gnome
+** nautilus
+*** TODO nemo
+* 中文
+** 输入法
+** 字体
+*** wqy-{mico, zen}hei-fonts
+*** wqy-bitmap-fonts
+*** google-noto-fonts
+
+google-noto-cjk-fonts
+google-noto-sans-cjk-fonts
+google-noto-sans-simplified-chinese-fonts
+
+* 桌面软件
+** TODO parcellite / gpaste
+
+https://centos.pkgs.org/7/nux-dextop-x86_64/parcellite-1.1.7-3.el7.nux.x86_64.rpm.html
+
+** DONE gnome-search-tool / catfish
+CLOSED: [2017-04-03 Mon 18:28]
+
+** DONE doublecmd/gnome-commander
+CLOSED: [2017-04-03 Mon 18:28]
+
+https://centos.pkgs.org/7/nux-dextop-x86_64/gnome-commander-1.6.2-1.el7.nux.x86_64.rpm.html
+
+** DONE dukto
+CLOSED: [2017-04-03 Mon 18:29]
+
+https://build.opensuse.org/package/show?project=home%3AKenzy%3Apackages&package=dukto
+
+https://build.opensuse.org/package/show?project=home%3Acolomboem&package=dukto
+
+** DONE filezilla :epel:
+CLOSED: [2017-04-03 Mon 18:29]
+
+** TODO shutter/深度截图
+
+https://centos.pkgs.org/7/nux-dextop-x86_64/shutter-0.93.1-1.el7.nux.noarch.rpm.html
+
+** DONE gnote
+CLOSED: [2017-04-03 Mon 18:29]
+
+tom boy
+
+** DONE stardict/goldendict/有道词典
+CLOSED: [2017-04-18 Tue 14:10]
+

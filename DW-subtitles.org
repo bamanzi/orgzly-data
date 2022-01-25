@@ -1,0 +1,221 @@
+* 1st Doctor
+** 01x08 - The Reign of Terror
+** DONE 02x01 Planet of the Giants (fan-edit)
+CLOSED: [2019-03-09 Sat 10:09]
+
+** The Tenth Planet :cybermen:
+
+熟肉
+
+第四季 第二大集 The Tenth Planet 第十颗行星
+04×02 - The Tenth Planet 第十颗行星(1) 链接: http://pan.baidu.com/s/1hrKZT3m 密码: pcda
+04×02 - The Tenth Planet 第十颗行星(2) 链接: http://pan.baidu.com/s/1bpd0ZYv 密码: th2h
+04×02 - The Tenth Planet 第十颗行星(3) 链接: http://pan.baidu.com/s/1dFzbWHj 密码: v2eg
+04×02 - The Tenth Planet 第十颗行星(4) 链接: http://pan.baidu.com/s/1gf81J8Z 密码: 85ez
+
+*** DONE Episode 4 (animated)
+CLOSED: [2019-01-22 Tue 07:30]
+
+*** DONE fan-edit (The Tenth Planet)
+CLOSED: [2019-03-09 Sat 10:08]
+
+* 2nd Doctor
+** DONE 04x03 The Power of the Daleks :daleks:animated:
+CLOSED: <2018-06-13 Wed>
+
+https://assrt.net/xml/sub/622/622123.xml
+
+*** DONE fan-edit (The Power of the Daleks)
+CLOSED: <2018-12-30 Sun 07:33>
+
+https://assrt.net/xml/sub/623/623454.xml
+
+百度网盘链接:http://t.cn/EqdmbXi 提取码:9p11  （附有该故事的剧集音频（有四叔讲解词）、对白、改编小说）
+
+** CANCEL 04x06 The Moonbase :cybermen:
+CLOSED: [2019-02-28 Thu 13:28]
+
+*** DONE fan edit
+CLOSED: <2018-11-27 Tue>
+
+https://assrt.net/xml/sub/623/623231.xml
+
+神秘博士(老版) 第四季第六集 月球基地 粉丝剪辑版 中英文对照字幕 
+http://t.cn/Eq1u6RW
+
+Doctor Who (1963) - 04x06 - The Moonbase (1967)
+
+注意：本字幕针对的视频文件是 Whopix 粉丝剪辑版
+whoflix.wordpress.com/2016/04/22/the-moonbase/ 
+
+此剪辑版本为59分钟．原完整版本为４小集（有两小集是动画修复版本），每小集25分钟，工作量较大，而且涉及很多技术术语（其实那部分对剧情影响不大），所以以后有空再来做完整版本的字幕
+
+视频下载有困难的朋友可以试试这个  链接:http://t.cn/Eq11TEX 提取码:oz5f   其实mega下载比百度网盘快多了，但打开链接时需要科学shang网（下载时不用）
+
+** TODO 04x07 - The Macra Terror :animated:
+** DONE 04x09 The Evil of the Daleks :daleks:ppt:
+CLOSED: <2018-12-26 Wed 07:35>
+
+https://assrt.net/xml/sub/623/623426.xml
+
+2018/12/26: 修订版本: 补充了“修复版本视频”中静态画面的文字（及其翻译）, 并结合小说文字添加了少数必要的情节说明, 修正了一些翻译错误
+
+Doctor Who 1963 - 04x09 - The Evil of the Daleks 
+神秘博士(老版) 第四季第九集 Daleks的邪恶
+
+英文字幕原文取自opensubtitles.org，中文字幕基于此进行翻译。
+
+The Evil of the Daleks 是《神秘博士》老版第四季的最后一个故事（原本也
+是想当作《神秘博士》中关于 Daleks 的最后一个故事——Daleks之父， 编剧
+Terry Nation当时试图将版权卖给美国电视网出衍生剧集，但后来未成功，
+Daleks 也较长时间没有再出现在神秘博士剧集中，直到5年后第九季的Day of
+the Daleks）
+
+但当初BBC因为储存设备空间问题删除了第一、第二任博士的很多集的视频，这个故事7集里面只有第2集的视频是幸存下来的。Doctor Who视频修复团队根据当初的录音、照片和零散的录像制作了其它集的“修复视频“（这类修复版本被部分胡粉戏称为PPT版本）。
+
+本字幕根据上述”修复版本视频“制作，但视频中很多画面辅助了一些文字来说
+明所发生的情节， 这方面的文字尚未纳入字幕中来，这将在后面的字幕修订版
+本中再补充（补充：已完成）
+
+我翻译这样一个PPT版本的字幕，主要原因是在看Doctor Who Magazine上8叔的漫画故事Children of the Revolution时产生了兴趣，那里面出现了一个”好的
+Dalek"（那个叫Alpha的幸存下来了， 同时幸存的还有一批被“人类特质”同化
+过的），这在神秘博士宇宙中是非常少见的
+
+** DONE 05x01 The Tomb of the Cybermen (fan-edit) :cybermen:
+CLOSED: <2019-03-10 Sun>
+
+https://secure.assrt.net/xml/sub/624/624128.xml
+
+** CANCEL 05x02 The Abominable Snowmen :great-intelligence:ppt:
+CLOSED: [2019-01-22 Tue 12:42]
+
+** DONE 05x03 The Ice Warriors :ice-warriors:animated:
+CLOSED: <2018-11-27 Tue>
+
+https://assrt.net/xml/sub/623/623231.xml
+
+神秘博士(老版)第五季第三集 寒冰勇士 中英双语字幕
+
+这个故事是寒冰勇士(Ice Warriros)在神秘博士中的首次亮相.
+
+本故事总共6小集, 但其中第2 3 两集的原视频文件在BBC档案中被删除, 后来Qurios Entertainment制作了这两集的动画版, 2013年发行的DVD版本中也采用了这个动画版, 所以这里字幕的第2, 3集是针对此动画版进行时间轴对齐的. 注意网上有些共享的视频这两集不是动画版而是原来的修复版本(原语音+静态画面, 俗称PPT版本, 这种版本文件名里面一般带有(rec) 字样)
+
+** NEXT 05x04 - The Enemy of the World (7.8)
+** DONE 05x05 The Web of Fear :great-intelligence:
+CLOSED: [2019-02-26 Tue 06:41]
+
+Doctor Who (1963) - 05x05 - The Web of Fear
+神秘博士(老版)第五季第五集 恐惧之网
+
+故事主角为第二任博士，同伴是Jamie 和 Victoria
+
+本故事为＂大智慧（the Great Intelligence)＂在神秘博士电视中第二次出场．第一次出场为第五季第二集可恶的雪人(The Abominable Snowmen），但该集视频基本全部丢失（六小集中只有第二小集留存了下来））．后来GI在Doctor Who 2005中的The Snowmen和The Name of the Doctor中再次出场
+
+同时本故事也是UNIT（代表人物是后来的Brigadier）第一次出场．
+
+*** DONE fan-edit
+CLOSED: <2019-01-21 Mon>
+
+https://assrt.net/xml/sub/623/623663.xml
+
+Doctor Who (1963) - 05x05 - The Web of Fear (whopix fan edit)
+神秘博士(老版)第五季第五集 恐惧之网(粉丝剪辑版)
+
+注意: 本字幕不针对原版视频，而是针对 Whopix 粉丝剪辑版本 http://wp.me/p1mHFo-1e1 
+原视频为６小集，每集２５分钟，但其中第三小集视频丢失．此粉丝剪辑版本为了规避第三小集丢失的问题，将原来第二小集的片段顺序做了较大的调整，并拼接了第三小集的部分音频，基本弥补了该问题
+
+** 06x01 - The Dominators (6.1)
+** DONE 06x02 - The Mind Robber (fan-edit)
+CLOSED: [2019-03-24 Sun 21:07]
+
+https://secure.assrt.net/xml/sub/624/624278.xml
+
+** TODO 06x03 The Invasion :cybermen:
+** 06x04 - The Krotons (6.6)
+** DONE 06x05 The Seeds of Death :ice-warriors:
+CLOSED: [2019-02-26 Tue 06:41]
+
+* 3rd Doctor
+** FIXME 09x01 - Day of the Daleks :daleks:
+** DONE 10x03 Frontier in Space :draconians:
+CLOSED: <2019-01-14 Mon>
+
+- [X] part 1-3 done
+- [ ] part 4-6 todo
+
+Doctor Who 1963 - 10x03 - Frontier in Space (1973)
+神秘博士(老版) 第十季第三集 太空前线
+
+（分集视频的字幕只完成了前三部分 https://secure.assrt.net/xml/sub/623/623486.xml 短期内不打算做后面三部分了 )
+
+有兴趣做这个故事的字幕是因为这是龙族人(Draconians)唯一在剧集中出现的故事（后来在非官方的Mindgame三部曲中有不少戏份，在广播剧／漫画中也出现过但数量不多）；而且这一集有个很宏大的设定：太空中地球帝国与龙族帝国和平相处，引来了第三方试图挑起战争。不过感觉这个设定没有被很好地利用起来，故事有点虎头蛇尾
+
+*** DONE fan-edit
+CLOSED: <2019-01-14 Mon>
+
+Doctor Who 1963 - 10x03 - Frontier in Space (1973)
+神秘博士(老版) 第十季第三集 太空前线 （粉丝剪辑版）
+
+注意: 本字幕文件针对的是Whopix粉丝剪辑版视频（ http://wp.me/p1mHFo-xY ）
+
+https://assrt.net/xml/sub/623/623602.xml
+
+** TODO 10x04 Planet of the Daleks :daleks:
+** DONE 11x01 The Time Warrior :sontarans:
+CLOSED: [2019-01-22 Tue 08:50] DEADLINE: <2019-01-08 Tue>
+
+#神秘博士# 老版 11x01 时间勇士 The Time Warrior 中英文对照字幕 
+
+http://t.cn/EGgoXnp
+
+这是桑塔人（Sontarans）在神秘博士的首次出场，没想到很多设定那时就有了：重力很大的母星、对军事的痴迷、脖后的弱点、与Rutans 的持久战争
+
+这集也是深受大家喜欢的莎拉-简的首次出场（图5是她第一个镜头）
+
+*** DONE fan-edit
+CLOSED: <2019-01-08 Tue>
+
+https://assrt.net/xml/sub/623/623538.xml
+
+字幕包里也包含了whopix粉丝剪辑版本（ http:  //wp.me/p1mHFo-IO   ）的中英文字幕，这集的粉丝剪辑版被剪掉的内容非常少，适合那些觉得原视频尺寸太大的朋友（350Mx4  降到了 630M
+
+** 11x03 - Death to the Daleks (7.6)
+* 4th Doctor
+** FIXME 12x04 Genesis of the Daleks (fan-edit) :daleks:davros:
+
+完整剧集已有 CW字幕组的熟肉（地址？）
+
+** 12x05 Revenge of the Cybermen :cybermen:
+** 13x06 The Seeds of Doom
+** 14x06 - The Talons of Weng-Chang
+** 17x01 Destiny of the Daleks (fan-edit) :daleks:davros:
+** E-space Trilogy
+*** 18x03 - Full Circle (7.3)
+*** 18x04 - State of Decay (7.7)
+*** 18x05 - Warriors' Gate (7.6)
+* 5th Doctor
+** 19x06 Earthshock :cybermen:
+** FIXME 21x04 - Resurrection of the Daleks :daleks:
+* 6th Doctor
+** 22x06 - Revelation of the Daleks :daleks:
+* 7th Doctor
+** 25x01 - Remembrance of the Daleks :daleks:
+* BBV
+** Autons Trilogy :autons:
+*** DONE Autons 1
+CLOSED: [2019-03-05 Tue 16:24]
+
+https://secure.assrt.net/xml/sub/624/624016.xml
+
+*** DONE Autons 2: Sentinel :autons:
+CLOSED: <2019-03-17 Sun 21:09>
+
+https://secure.assrt.net/xml/sub/624/624218.xml
+
+*** FIXME Auton 3
+* Reeltime
+** DONE Downtime :great-intelligence:
+CLOSED: [2019-02-26 Tue 06:47]
+
+** Shaketime :sontarans:
+** Mindgame Saga

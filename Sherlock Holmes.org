@@ -1,0 +1,63 @@
+* Sherlock Holmes
+** books
+*** 血字的研究
+*** 四签名
+*** 冒险录
+** audio
+** tv
+*** Jeremy Brett 版 (1984-1994)
+**** The Adventures of SH
+***** DONE 1x01 A Scandal in Bohemia
+CLOSED: [2021-07-31 Sat 23:49]
+
+***** DONE 1x02 The Dancing Men
+CLOSED: <2021-07-23 Fri 23:49>
+
+***** 1x03 The Naval Treaty
+***** 1x04 The Solitary Cyclist
+***** 1x05 The Crooked Man
+*** 俄版福尔摩斯 (1979-1986)
+*** Elementary
+**** DONE S1
+**** DONE S2
+**** DONE S3
+*** Sherlock 神探夏洛克
+* Agatha Christie 阿加莎·克里斯蒂
+** tv
+*** 大侦探波罗 Agatha Christie's Poirot
+
+https://agathachristie.fandom.com/wiki/Agatha_Christie%27s_Poirot
+
+**** series 1 (10 episodes) :P1989:
+***** DONE 1x01 The Adventure of the Clapham Cook
+***** 1x02 Murder in the Mews
+***** 1x03 The Adventure of Johnnie Waverly
+***** 1x04 Four and Twenty Blackbirds
+***** 1x05 The Third Floor Flat
+**** series 13 :P2013:
+*** 玛普尔小姐 Agatha Christie's Marple
+
+https://agathachristie.fandom.com/wiki/Agatha_Christie's_Marple
+
+**** Season 1 :P2004:
+***** DONE 1x01 The Body in the Library 藏书室女尸之谜
+***** 1x02 The Murder At The Vicarage
+***** 1x03 4.50 From Paddington
+***** 1x04 A Murder Is Announced
+**** Season 6 :P2013:
+*** 汤米夫妇探案集 Agatha Christie's Partners in Crime
+
+https://agathachristie.fandom.com/wiki/Agatha_Christie%27s_Partners_in_Crime
+
+**** DONE ep0 The Secret Adversary
+**** DONE ep1 Affair of the Pink Pearl
+CLOSED: [2021-07-25 Sun 17:42]
+
+**** ep2 The House of Lurking Death
+**** ep3 The Sunningdale Mystery
+**** ep4 The Clergyman's Daughter
+*** 短篇集 The.Agatha.Christie.Hour
+* 狄公案
+** tv
+*** 1986电视剧 (14 集)
+* Monk 神探阿蒙

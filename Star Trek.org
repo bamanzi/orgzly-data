@@ -1,0 +1,1395 @@
+* TOS :TOS:
+** TOS tv (1966-1969) :📺:
+*** TOS S1
+
+29 episodes 
+
+**** DONE 1x08 Balance of Terror :Romulans:
+CLOSED: [2021-03-10 Wed 22:38]
+
+*** TOS S2
+
+26 episodes
+
+**** NEXT [#A] 2x04 Mirror, mirror :mirror_universe:
+:PROPERTIES:
+:rating:   9.2
+:END:
+
+**** TODO [#D] 2x14 Wolf in the Fold
+**** DONE 2x17 A Piece of the Action :Prime_Directive:
+CLOSED: <2021-01-01 Fri 13:35>
+
+**** DONE [#D] 2x19 A Private Little War :Klingons:
+CLOSED: <2021-01-01 Fri 21:56>
+
+**** DONE [#C] 2x20 Return to Tomorrow
+CLOSED: [2021-01-11 Mon 22:46]
+
+**** DONE [#C] 2x21 Patterns of Force
+CLOSED: [2021-01-24 Sun 10:36]
+
+**** DONE [#C] 2x22 By Any Other Name
+CLOSED: [2021-02-14 Sun 17:05]
+
+进取号遭遇一个强大的种族，他们会定身法，还能把人变成一块石头。他们劫持了进取号，想用它返回家乡仙女座星系。在全舰除了核心四人全被变成石头之后，Kirk 等人终于发现可以看到用“酒色气”来攻击敌人
+
+**** CANCEL [#E] 2x23 The Omega Glory
+CLOSED: [2021-01-15 Fri 21:55]
+:PROPERTIES:
+:rating:   6.3
+:END:
+
+**** DONE [#B] 2x24 The.Ultimate.Computer
+CLOSED: [2021-02-20 Sat 19:29]
+:PROPERTIES:
+:rating:   8.1
+:END:
+
+**** DONE [#D] 2x25 Bread.And.Circuses :Prime_Directive:
+CLOSED: [2021-02-26 Fri 19:38]
+:PROPERTIES:
+:rating:   7.3
+:END:
+
+**** DONE [#C] 2x26 Assignment: Earth
+CLOSED: <2021-01-01 Fri 19:18>
+:PROPERTIES:
+:rating:   7.7
+:END:
+
+*** START 📂TOS S3
+
+24 episodes
+
+**** CANCEL [#F] 3x01 Spock's Brain
+CLOSED: [2021-02-20 Sat 19:31]
+:PROPERTIES:
+:rating:   5.7
+:END:
+
+**** DONE [#B] 3x02 The Enterprise Incident :Romulans:
+CLOSED: [2021-03-06 Sat 10:03]
+:PROPERTIES:
+:rating:   8.5
+:END:
+
+**** DONE [#E] 3x03 The Paradise Syndrome
+CLOSED: <2021-01-01 Fri 14:50>
+:PROPERTIES:
+:rating:   6.9
+:END:
+
+**** CANCEL [#F] 3x04 And the Children Shall Lead
+CLOSED: [2021-02-20 Sat 19:34]
+:PROPERTIES:
+:rating:   5.4
+:END:
+
+**** 2DONE [#D] 3x05 Is There in Truth No Beauty?
+CLOSED: [2021-04-02 Fri 20:38]
+:PROPERTIES:
+:rating:   7.1
+:END:
+
+**** DONE [#D] 3x06 Spectre of the Gun
+CLOSED: [2021-04-03 Sat 10:28]
+:PROPERTIES:
+:rating:   7.4
+:END:
+
+**** DONE [#B] 3x07 Day of the Dove
+CLOSED: [2021-03-13 Sat 16:03]
+:PROPERTIES:
+:rating:   8.0
+:END:
+
+An extremely powerful non-corporeal being brings the Enterprise and a Klingon ship in direct conflict with one another.
+
+**** TODO [#D] 3x08 For the World Is Hollow and I Have Touched the Sky
+:PROPERTIES:
+:rating:   7.3
+:END:
+
+**** 2DONE [#B] 3x09 The Tholian Web
+:PROPERTIES:
+:rating:   8.2
+:END:
+
+**** CANCEL [#E] 3x10 Plato's Stepchildren
+CLOSED: [2021-02-25 Thu 18:55]
+:PROPERTIES:
+:rating:   
+:END:
+
+**** [#C] 3x11 Wink of an Eye
+:PROPERTIES:
+:rating:   7.5
+:END:
+
+**** CANCEL [#E] 3x12 The Empath
+CLOSED: [2021-02-25 Thu 18:55]
+:PROPERTIES:
+:rating:   6.7
+:END:
+
+**** [#D] 3x13 Elaan of Troyius
+:PROPERTIES:
+:rating:   7.3
+:END:
+
+**** [#D] 3x14 Whom Gods Destroy
+:PROPERTIES:
+:rating:   7.2
+:END:
+
+** TAS tv (1973-1974) :📺:TAS:
+*** 📂TAS S1
+
+16 episodes
+
+**** DONE [#D] 1x01 Beyond the Farthest Star
+CLOSED: [2021-03-21 Sun 18:50]
+:PROPERTIES:
+:rating:   6.7
+:END:
+
+**** DONE [#A] 1x02 Yesteryear :Spock:
+CLOSED: [2021-03-27 Sat 08:00]
+:PROPERTIES:
+:rating:   8.2
+:END:
+
+**** DONE [#D] 1x03 One of Our Planets Is Missing
+CLOSED: [2021-04-02 Fri 21:49]
+:PROPERTIES:
+:rating:   6.7
+:END:
+
+**** DONE [#D] 1x04 The Lorelei Signal
+CLOSED: [2021-04-03 Sat 14:40]
+:PROPERTIES:
+:rating:   6.5
+:END:
+
+**** DONE [#C] 1x05 More Tribbles, More Troubles :Tribbles:
+CLOSED: [2021-04-03 Sat 16:17]
+:PROPERTIES:
+:rating:   7.1
+:END:
+
+**** DONE [#D] 1x06 The Survivor
+CLOSED: [2021-03-12 Fri 21:24]
+:PROPERTIES:
+:rating:   6.8
+:END:
+
+**** NEXT [#E] 1x07 The Infinite Vulcan
+:PROPERTIES:
+:rating:   6.1
+:END:
+
+**** NEXT [#E] 1x08 The Magicks of Megas-Tu
+:PROPERTIES:
+:rating:   6.0
+:END:
+
+**** 1x16 The Jihad
+*** TAS S2
+
+6 episodes
+
+**** DONE [#E] 2x01 The Pirates of Orion
+CLOSED: [2021-04-01 Thu 18:43]
+:PROPERTIES:
+:rating:   6.5
+:END:
+
+**** [#D] 2x06 The Counter-Clock Incident
+:PROPERTIES:
+:rating:   7.1
+:END:
+
+** 📂STC (2013) :📺:fan_made:STC:
+
+11 episodes
+
+*** DONE [#B] 1. Pilgrim of Eternity (8.0) 阿波罗
+CLOSED: [2021-03-09 Tue 20:13]
+
+*** DONE [#A] 2. Lolani (8.5) :Orion:
+CLOSED: [2021-03-31 Wed 23:00]
+
+*** NEXT [#A] 3. Fairest of Them All (9.1) :mirror_universe:
+*** DONE [#C] 4. The White Iris (7.9)
+CLOSED: [2021-04-10 Sat 11:54]
+
+*** NEXT [#C] 5. Divided We Stand (7.9)
+*** [#A] 6. Come Not Between the Dragons (8.5)
+** movies :🎦:
+*** 2DONE 1. Star Trek: The Motion Picture 无限太空 :1979:
+*** 2DONE 2. The Wrath of Khan 可汗怒吼 :1982:Khan:
+*** 2DONE 3. The Search for Spock 石破天惊 :1984:
+*** 4. The Voyage Home 抢救未来 :1986:
+*** 5. The Final Frontier 终极先锋 :1989:
+*** 6. The Undiscovered Country 未来之城 :1991:
+** comics :📚:
+*** Classic-UK
+*** Peter Pan
+*** GoldKey (1967)
+*** Marvel (1980-1981)
+**** *best
+***** [#B] #13 All the Infinite Ways :best:
+*** DC Comics (1984-1996) :dc:
+**** TOS vol.1 (1984-1988)
+***** 01-04 The Wolmhold Connection :BoST:Klingons:⭐️:
+
+IDW Best of Star Trek vol.7
+
+***** 09-16 The Mirror Universe Saga :mirror_universe:⭐️:BoST:
+
+Best of Star Trek vol.6
+
+**** TOS vol.2 (1988-1996)
+***** 07-12 Best of Captain Kirk :⭐️:BoST:
+
+IDW Best of Star Trek vol.5
+
+*** IDW
+**** New Visions :photonovel:
+***** Strange New Worlds (Annual 2013) :tv-continuation:
+***** TODO Special: The Cage :tv-based:Pike:
+**** TPB: TOS omnibus
+***** DONE Blood Will Tell :hanzify:⭐️:Klingons:
+CLOSED: [2021-01-01 Fri 07:50]
+
+***** DONE Year Four :2007:
+CLOSED: [2021-02-14 Sun 16:09]
+
+****** 2DONE 01
+
+进取号路遇一个巨大的行星系统，Kirk 等人在其中那颗宜居星球上发现一个基因科学家在这里做实验，他克隆/改造出了好些奇怪的类人生物。他最终的目的是想拯救他病危的妻子，但当发现他造的生物会袭击他人时，他把他们全部杀死了，包括他自己
+
+****** 2DONE 02
+
+进取号与一个星球签署二锂资源开采协议，但却遭遇了传统反对派的暗杀抗议。进取号在为“不干涉原则是否与采矿行为矛盾”进行争论的时候，却发现此星球正反两边都打算干掉他们，而二锂主矿也在纠纷中被炸毁
+
+****** 2DONE 03
+
+星联与一个殖民地 Phi-11 失联了，进取号前去调查发现人都神秘死亡了。回到舰上之后 Kirk 逐渐发现舰桥人员开始不听他的命令了，接着指挥权被McCoy解除，因为他感染上病毒了。但 Kirk 认为是其它人感染上了病毒，结果只有护士 Chapel 相信他...
+
+****** 2DONE 04
+
+进取号遇到一个星球，上面的人在到处安装摄像头，什么都直播。Kirk 和他的船员们自然也成了新的素材，在被武力胁迫无法离开的情况下，Kirk 不得不跟他们签订了“演戏”的合同。要怎样才能脱身呢？
+
+****** 2DONE 05
+
+进取号进行一项粒子加速科学实验，不料却造出一块奇怪的粒子云，Spock 被困其中
+
+****** 2DONE 06
+
+一艘星舰出了事故，进取号只找到了一些残骸。他们去附近一个星球寻找幸存者，却被一个机器人捕获了，然后发现这个机器人以原来那些人为原材料来克隆出新的婴儿
+
+***** NEXT Year Four - The Enterprise Experiment :tv-continuation:
+
+a sequel to "The Enterprise Incident"
+
+**** _mini
+***** DONE Mirror Images (镜像权路) :mirror_universe:hanzify:
+CLOSED: [2021-01-01 Fri 08:49]
+
+***** DONE Hell's Mirror :hanzify:mirror_universe:2020:Khan:
+CLOSED: [2021-02-22 Mon 13:04]
+
+***** Misson's End
+***** DONE Star Trek II: The Wrath of Khan :movie_adaptation:Khan:
+CLOSED: [2021-01-01 Fri 08:49]
+
+***** DONE Star Trek: Khan - Ruling in Hell :movie-continuation:Khan:
+CLOSED: [2021-01-01 Fri 08:49]
+
+***** DONE Spock Reflections :movie-continuation:
+CLOSED: [2021-01-01 Fri 08:50]
+
+***** Leonard McCoy Frontier Doctor
+***** Burden of Knowledge.
+***** Star Trek: Harlan Ellison's Original The City on the Edge of Forever Teleplay :tv-based:
+**** DONE TPB: Star Trek: Romulans :Romulans:
+***** DONE Alien Spotlight: Romulans
+CLOSED: [2021-03-11 Thu 20:28]
+
+***** DONE Balance of Terror :tv-based:
+CLOSED: [2021-03-11 Thu 20:28]
+
+***** DONE Star Trek: Romulans - The Hollow Crown
+CLOSED: [2021-03-11 Thu 21:18]
+
+***** DONE Star Trek: Romulans - Schism :2009:
+CLOSED: [2021-03-26 Fri 06:56]
+
+**** START 📂Year Five (2019-) :hanzify:
+***** DONE 01-02 :Tholian:
+CLOSED: <2021-01-12 Tue 13:08>
+
+***** DONE 03-04 :tv-continuation:
+CLOSED: <2021-01-13 Wed 23:20>
+
+2x20 A Piece of Action
+
+***** DONE 05-08
+CLOSED: [2021-01-14 Thu 13:08]
+
+***** DONE 09-10
+CLOSED: [2021-01-15 Fri 13:06]
+
+***** DONE 11-12 :Gary_Seven:
+CLOSED: [2021-01-15 Fri 13:56]
+
+***** NEXT Year Five 13-19
+*** *best :best:
+**** DONE All the Infinite Ways :Marvel:1981:Klingons:
+CLOSED: [2021-02-18 Thu 23:03]
+
+**** 2DONE Gold Key 100-page (IDW selection) :hanzify:TOS:
+***** DONE The Planet of No Return 不归之地
+CLOSED: <2021-01-24 Sun 13:18>
+
+***** DONE The Youth Trap 青春困局
+CLOSED: <2021-01-24 Sun 13:18>
+
+***** DONE  The Enterprise Mutiny 进取号哗变
+CLOSED: <2021-01-24 Sun 13:18>
+
+**** DC Comics :DC:
+***** Best of Star Trek (DC selection)
+****** [#B] v1 #05 Mortal Gods
+****** [#B] v1 #24-25 Double Blind,
+****** DONE [#B] v1 Annual 1986: The Final Voyage
+CLOSED: [2021-01-11 Mon 13:05]
+
+****** [#A] v2 #10-12 The Trial of James T. Kirk
+***** IDW STA1: Best of Peter David :1990:
+****** DONE Retrospect (DC TOS vol1 Annual 03) (1988) 往事成追忆 :hanzify:
+CLOSED: [2021-01-11 Mon 14:34]
+
+****** DONE Once a Hero... (DC TOS vol2 #19) 一朝为英雄 :hanzify:
+CLOSED: [2021-01-11 Mon 17:50]
+
+****** START DC TOS vol.2 #13-15
+***** DONE IDW STA3: The Gary Seven Collection :Gary_Seven:
+****** DONE The Peacekeeper (DC TOS volume 2 #49-50) :1993:
+CLOSED: [2021-02-20 Sat 12:49]
+
+****** DONE Convergence :1995:
+CLOSED: [2021-03-14 Sun 16:10]
+
+******* DC TOS volume 2 Annual 1995 :TOS:
+******* DC TNG volume 2 Annual 1995 :TNG:
+***** IDW STA5. Best of Captain Kirk :1990:
+****** [#A] DC TOS volume 2 #7-12 (The Trial of James T. Kirk) :1990:
+***** IDW STA6. Mirror Universe Saga (DC TOS vol1 1984) :1984:
+****** DC TOS vol.1 #09-16
+***** IDW STA7. best.of.klingons
+****** DONE DC TOS vol.1 #01-04 :1984:
+CLOSED: [2021-01-12 Tue 19:43]
+
+****** DC TOS vol.1 #31-32
+***** STCvol.5 Who Killed Captain Kirk (DC TOS vol.1 48-55)
+***** Debt of Honor :DC:1992:
+
+Captain Kirk and the crew of the USS Enterprise find themselves teamed with the Klingons and Romulans to fight a the galactic threat that no government dares admit exists…
+
+**** IDW
+***** DONE Klingons - Blood Will Tell :IDW:Klingons:hanzify:
+CLOSED: <2021-01-01 Fri 19:44>
+
+***** TODO New Visions: Strange New Worlds :tv-continuation:
+
+ sequel story to the second pilot, "Where No Man Has Gone Before".
+
+***** DONE Spock Reflections :hanzify:
+CLOSED: <2021-01-01 Fri 17:24>
+
+***** Burden of Knowledge
+***** Leonard McCoy Frontier Doctor
+* TNG :TNG:
+** tv (1987-1993) :tv:📺:
+*** TNG S1 :2364:
+**** TODO 1x26 The Neutral Zone :Romulans:
+*** TNG S3 :2366:
+**** TODO 3x10 The Defector :Romulans:
+*** TNG S5 :2368:
+**** 2DONE 5x07-08 Unification (I, II) :Spock:Romulans:
+**** [#A] 5x25 - The Inner Light
+:PROPERTIES:
+:rating:   9.4
+:END:
+
+**** DONE [#A] 5x26 - Time's Arrow :Data:Guinan:
+CLOSED: [2021-01-10 Sun 21:40]
+:PROPERTIES:
+:rating:   8.5
+:END:
+
+An engineering team finds evidence of an alien presence on Earth in 19th century San Francisco: Data's severed head, buried five hundred years ago. 
+
+*** START 📂TNG S6 :2369:
+**** DONE [#B] 6x01 - Time's Arrow - Part II :Guinan:
+CLOSED: [2021-01-10 Sun 21:41]
+:PROPERTIES:
+:rating:   8.3
+:END:
+
+**** DONE [#D] 6x02 - Realm of Fear
+CLOSED: [2021-01-13 Wed 12:30]
+:PROPERTIES:
+:rating:   7.4
+:END:
+
+Barclay 中尉害怕传送机，所以当他被传送的时候他看见了怪物，他还以为是自己得了恐惧症
+
+**** DONE [#A] 6x04 - Relics :Scotty:
+CLOSED: [2021-01-15 Fri 19:57]
+:PROPERTIES:
+:rating:   8.6
+:END:
+
+怀旧集。 进取号发现一艘星联飞船的残骸，没想到救出了被困多年的Scotty，Scotty重登进取号，对科技进步相当感叹，却也发现自己已经“过时”了。不过在最后还能救进取号一把
+
+**** DONE [#C] 6x05 - Schisms
+CLOSED: <2021-01-16 Sat 16:37>
+:PROPERTIES:
+:rating:   7.7
+:END:
+
+大副、Data和Worf都出现睡眠不足、神情恍惚的症状，一番探究之后惊奇地发现，有外星人在他们睡着后把他们劫去做实验！这简直是 X 档案的星联版本！
+
+**** DONE [#C] 6x06 True Q :Q:
+CLOSED: [2021-01-20 Wed 19:07]
+:PROPERTIES:
+:rating:   7.5
+:END:
+
+一位优秀的学员来到进取号实习，没想到她身边出现很多奇怪的事情。Q现身，说这个女学员是Q一族的后代，要带走她。但她不愿意，Q说也可以，只要她能忍住不用超能力，她同意了。当她看到无辜的生命遭受威胁时，她能忍住吗？
+
+**** DONE [#D] 6x07 - Rascals :Ferengi:
+CLOSED: <2021-01-24 Sun 20:15>
+:PROPERTIES:
+:rating:   7.4
+:END:
+
+Picard, Gainan, Keiko, Ensign Ro 等几人在传送会舰时遭遇了离子流，他们变成了少年版，一群 Ferengi 人趁机攻占了进取号...
+
+**** DONE [#C] 6x08 - A Fistful of Datas
+CLOSED: [2021-01-29 Fri 20:15]
+:PROPERTIES:
+:rating:   7.5
+:END:
+
+La Forge在给飞船做检修的时候，把 Data 的大脑接入了飞船电脑以作为紧急时的备用系统。Worf 和儿子 Alexandra 进入全息甲板玩一个西部世界的游戏，却发现游戏中的NPC 全变成了Data，而且游戏还无法退出了...
+
+**** DONE [#C] 6x09 - The Quality of Life
+CLOSED: <2021-02-01 Mon 20:01>
+:PROPERTIES:
+:rating:   7.5
+:END:
+
+以为科学家发明了一种新机器，但 Data 发现它有自我保护意识，于是对于它是不是个“生命”开始了探讨和实验
+
+**** DONE [#B] 6x10 - Chain of Command - Part I
+CLOSED: [2021-02-13 Sat 09:49]
+:PROPERTIES:
+:rating:   8.4
+:END:
+
+**** DONE [#A] 6x11 - Chain of Command - Part II
+CLOSED: [2021-02-13 Sat 09:49]
+:PROPERTIES:
+:rating:   8.6
+:END:
+
+**** DONE [#A] 6x12 Ship in a Bottle
+CLOSED: [2021-02-10 Wed 22:46]
+:PROPERTIES:
+:rating:   8.6
+:END:
+
+在2x03 Elementary, Dear Data 一集中全息甲板人物 James Moriarty 获得了自我意识，并且想要脱离全息甲板。本集就讲述了他为这个目标而做的努力
+
+**** DONE [#B] 6x13 Face of the Enemy :Spock:Romulans:
+CLOSED: [2021-02-19 Fri 19:39]
+:PROPERTIES:
+:rating:   8.0
+:END:
+
+**** CANCEL [#E] 6x14 Aquiel
+CLOSED: [2021-02-19 Fri 19:42]
+:PROPERTIES:
+:rating:   6.2
+:END:
+
+**** DONE [#A] 6x15 Tapestry :Picard:Q:
+CLOSED: [2021-02-22 Mon 08:57]
+:PROPERTIES:
+:rating:   9.0
+:END:
+
+**** DONE [#C] 6x16 Birthright, Part I
+CLOSED: [2021-03-23 Tue 23:16]
+:PROPERTIES:
+:rating:   7.7
+:END:
+
+**** DONE [#D] 6x17 Birthright, Part II :Klingons:
+CLOSED: [2021-03-24 Wed 08:39]
+:PROPERTIES:
+:rating:   7.4
+:END:
+
+**** DONE [#B] 6x18 Starship Mine
+CLOSED: [2021-02-24 Wed 20:08]
+:PROPERTIES:
+:rating:   8.0
+:END:
+
+**** DONE [#C] 6x19 Lessons
+CLOSED: [2021-03-21 Sun 22:10]
+:PROPERTIES:
+:rating:   7.6
+:END:
+
+Picard falls in love with one of his subordinates, but he can't deal with having to order her into dangerous situations.
+
+**** DONE [#B] 6x20  - The Chase
+CLOSED: [2021-03-21 Sun 09:08]
+:PROPERTIES:
+:rating:   8.1
+:END:
+
+Picard tries to finish his old archaeology teacher's monumental last mission: solving a puzzle that leads Humans, Romulans, Klingons and Cardassians to the secret of life in this galaxy, revealing the origin of humanoid life.
+
+**** DONE [#B] 6x21 Frame of Mind :Riker:
+CLOSED: [2021-03-27 Sat 22:55]
+:PROPERTIES:
+:rating:   8.3
+:END:
+
+Riker thinks he is losing his mind when reality keeps shifting between an alien hospital and the Enterprise, where he is rehearsing a play.
+
+**** DONE [#D] 6x22 Suspicions
+CLOSED: [2021-03-30 Tue 21:29]
+:PROPERTIES:
+:rating:   7.1
+:END:
+
+Dr. Crusher violates Starfleet regulations and medical ethics when she investigates the death of a Ferengi scientist.
+
+**** DONE [#D] 6x23 Rightful Heir :Kahless:Klingons:
+CLOSED: [2021-04-03 Sat 18:53]
+:PROPERTIES:
+:rating:   7.3
+:END:
+
+At the Klingon monastery on Boreth, Worf sees a very real vision of Kahless the Unforgettable.
+
+**** DONE [#C] 6x24 - Second Chances :Thomas_Riker:
+CLOSED: [2021-04-07 Wed 20:13]
+:PROPERTIES:
+:rating:   7.6
+:END:
+
+**** NEXT [#A] 6x25  - Timescape
+:PROPERTIES:
+:rating:   8.6
+:END:
+
+** movies :🎦:
+*** DONE 07. Generations 斗转星移 :1994:Kirk:Picard:
+CLOSED: <2021-01-01 Fri 17:26>
+:PROPERTIES:
+:rating:   6.6
+:END:
+
+*** 2DONE 08. First Contact 第一类接触 :1996:Borg:Borg_Queen:2373:Data:
+:PROPERTIES:
+:rating:   7.6
+:END:
+
+Borg Queen 首次出现
+
+*** DONE [#E] 09. Insurrection 起义 :1998:2375:
+CLOSED: [2021-03-18 Thu 13:08]
+:PROPERTIES:
+:rating:   6.4
+:END:
+
+*** TODO 10. Nemesis 复仇女神 :2002:2379:
+:PROPERTIES:
+:rating:   6.4
+:END:
+
+** comics :📚:
+*** DC Comics (1988-1996)
+**** TNG vol.1 (1988)
+**** TNG vol.2 (1989-1996)
+***** [#B] 47-50 The Worst of Both Worlds :⭐️:Borg:1993:BoST:best:
+
+IDW best of star trek vol.2
+
+*** Marvel Paramount (1996-1998)
+**** Star Trek The Movie - First Contact :movie_adaptation:
+**** Second Contact (crossover with X-Men) :crossover:
+**** Star Trek TNG - Riker - The Enemy of My Enemy :Riker:
+**** Operation Assimilation
+*** WildStorm (1999-2001)
+**** DONE [#B] The Gorn Crisis :2001:TNG:best:
+CLOSED: [2021-01-01 Fri 13:52]
+
+**** Perchance to Dream
+**** Embrace the Wolf
+**** The Killing Shadows
+*** IDW :IDW:
+**** TODO [TPB] TNG omnibus
+***** The Space Between
+***** Intelligence Gathering
+***** The Last Generation
+***** Ghosts
+***** [#B] Hive :Borg:
+**** DONE The Next Generation/Doctor Who: Assimilation² :crossover:
+CLOSED: [2021-01-10 Sun 10:35]
+
+**** 2DONE #mirror_universe :mirror_universe:hanzify:
+***** DONE Mirror Broken （破碎镜像） :mirror_universe:
+CLOSED: <2021-01-01 Fri 12:09>
+
+***** DONE Through the Mirror （穿越镜像） :mirror_universe:
+CLOSED: <2021-01-01 Fri 12:09>
+
+***** DONE Terra Incognita （未知领域） :mirror_universe:
+CLOSED: <2021-01-01 Fri 12:09>
+
+*** * best
+**** DONE Best of Star Trek TNG (DC) :DC:
+CLOSED: <2021-01-01 Fri 17:50>
+
+***** DONE [#B] v2 #05-06 Serafin's Survivors :Geordi:1990:
+CLOSED: <2021-01-01 Fri 13:07>
+
+***** DONE [#B] v2 #09 The Lesson :Deanna:Dr_Crusher:Riker:1990:
+CLOSED: <2021-01-01 Fri 13:07>
+
+***** DONE [#B] v2 Annual 1990: The Gift :Picard:Q:
+CLOSED: <2021-01-01 Fri 13:09>
+
+***** DONE [#B] v2 Annual 1991: Thin Ice :Riker:
+CLOSED: <2021-01-01 Fri 17:49>
+
+**** 2DONE Best of Borg (Star Trek Archives vol.2) :TNG:Borg:
+***** DONE DC TNG volume 2 #47-50 (The Worst of Both Worlds) :DC:
+CLOSED: [2021-01-01 Fri 14:45]
+
+***** Operation Assimilation (Marvel Paramount) :1997:Romulans:Borg:Borg_Queen:
+**** Star Trek Classics (IDW)
+***** DONE [#B] vol.1 The Gorn Crisis :Wildstorm:
+CLOSED: <2021-01-01 Fri 23:42>
+
+***** vol.2 Enemy Unseen :Wildstorm:1999:
+
+all Windstorm comics of TNG
+
+***** DONE [#D] vol.4 Beginning (DC TNG vol.1 #01-06) :DC:1988:
+CLOSED: [2021-03-02 Tue 16:59]
+
+****** DONE 01. ... Where No One Has Gone Before!
+CLOSED: <2021-01-24 Sun 14:00>
+
+****** DONE [#D] 02. Spirit in the Sky!
+CLOSED: <2021-01-24 Sun 14:00>
+
+****** DONE [#E] 03-05. Q Factor / Q's Day / Q Affects! :Q:
+CLOSED: [2021-03-02 Tue 16:59]
+
+不怎么样
+
+****** DONE [#C] 06. Here Today
+CLOSED: [2021-03-02 Tue 16:59]
+
+* DS9 :DS9:
+** DS9 tv (1993-1998) :📺:tv:
+*** DS9 S1 (Jan. - Jun. 1993) :2369:
+*** DS9 S2 (Sep.93 - Jun.94) :2370:
+*** DS9 S3 (Sep.94 - Jun.95) :2371:
+**** NEXT 3x09 Defiant :Maquis:Thomas_Riker:
+*** DS9 S4 (Sep.95 - Jun.96) :2372:
+*** DS9 S5 (Sep.96 - Jun.97) :2373:
+**** [#C] 5x03 Looking for par'Mach in All the Wrong Places (7.7) :Klingons:
+:PROPERTIES:
+:rating:   7.7
+:END:
+
+**** 5x12 The Begotten :Changeling:
+**** [#D] 5x18 Business as Usual :Ferengi:
+:PROPERTIES:
+:rating:   7.4
+:END:
+
+**** [#E] 5x20 Ferengi Love Songs :Ferengi:
+:PROPERTIES:
+:rating:   6.8
+:END:
+
+**** DONE [#A] 5x26 Call to Arms
+CLOSED: [2021-01-28 Thu 08:26]
+:PROPERTIES:
+:rating:   9.0
+:END:
+
+*** START 📂DS9 S6 (Sep.97 - Jun.98) :2374:
+**** DONE [#A] 6x01 A Time to Stand
+CLOSED: [2021-01-28 Thu 23:11]
+:PROPERTIES:
+:rating:   8.6
+:END:
+
+**** DONE [#A] 6x02 Rocks and Shoals
+CLOSED: <2021-01-01 Fri 15:18>
+:PROPERTIES:
+:rating:   8.6
+:END:
+
+**** DONE [#D] 6x03 Sons and Daughters :Worf:
+CLOSED: <2021-01-31 Sun 17:00>
+:PROPERTIES:
+:ratings:  7.1
+:END:
+
+Worf 在队伍中发现了自己的儿子 Alexander，当初 Alex 说不愿成为士兵，Worf 五年没跟他联系，Alex 不对外称自己是 Worf 的儿子 （血脉对克林贡人而言很重要）。Worf 是否愿意认回自己的儿子，又能否认回？
+
+Dukat 的女儿 Ziyal 从贝久回到了 DS9, 她现在对艺术创作有了兴趣，也体现出不错的造诣。Kira 为她感到高兴，不过因为厌恶 Dukat 而不得不离 Ziyal 远点
+
+**** DONE [#B] 6x04 Behind the Lines
+CLOSED: [2021-02-02 Tue 18:31]
+:PROPERTIES:
+:rating:   8.0
+:END:
+
+这集主要讲 Kira, Odo, Jack, Quark, Rom 这个小小的抵抗组织在 DS9 上搞的一些破坏活动
+
+Dukat 的副官 Damar 想到了如何解除虫洞外面的雷阵，Quark 把他灌醉套出了一些细节，于是 Rom 推测出了具体方法。Rom 要去实施破坏行动的时候，Odo 却被女变形人“色诱”再次与她“连接”，导致 Rom 被捉，Kira 与 Odo 也闹翻
+
+另外，Dax 升任了挑战好的舰长。Sisko 虽然有更大的岗位责任，不过还是心系挑战号，并且有点小失落 
+
+**** DONE [#A] 6x05 Favor the Bold
+CLOSED: [2021-02-06 Sat 15:41]
+:PROPERTIES:
+:rating:   8.6
+:END:
+
+**** DONE [#A] 6x06 Sacrifice of Angels
+CLOSED: [2021-02-06 Sat 15:41]
+:PROPERTIES:
+:rating:   9.0
+:END:
+
+与6x05 为上下集，卡达西军队找到了破坏虫洞外雷阵的方法，迫使 Sisko 等不及星联大军集结，带着弱势兵力反攻深空九站。但还没抵达 DS9 ，雷阵就已经被全部引爆，伽玛象限的舰队蜂拥而来，挑战号孤注一掷进入虫洞试图螳臂当车，面临毁灭之际虫洞中的贝久神族现身，消灭了伽玛象限的舰队。卡达西人撤离 DS9，星联重新回到站上。
+
+**** DONE [#C] 6x07 You Are Cordially Invited :Worf:
+CLOSED: [2021-02-12 Fri 14:06]
+:PROPERTIES:
+:rating:   7.5
+:END:
+
+Worf 和 Jadzia 的婚礼
+
+**** DONE 6x08 Resurrection :mirror_universe:
+CLOSED: [2021-02-23 Tue 21:28]
+
+An alternate version of Vedek Bareil arrives from the "Mirror Universe" seeking refuge.
+
+**** DONE [#C] 6x09 Statistical Probabilities :Bashir:
+CLOSED: [2021-02-16 Tue 12:47]
+:PROPERTIES:
+:rating:   7.7
+:END:
+
+当初跟 Bashir 一样接受过基因改造的几个人来到了 DS9，不过他们没有Bashir 那么幸运，他们没有得到 DNA 重排治疗，最终都出现了严重的社交障碍。Gul Damar 对星联喊话，想进行一次和平会谈，但这几个异能者通过短短的讲话录像推断出了  Damar 上台的前因后果。Bashir 拿了更多的材料给他们看，他们又推断出 Damar 这次重画边界其实是为了能大量生产能刺激 Jem'hadar 的白药。Bashir 觉得这几个朋友能产生很大的价值，于是拿了更多材料给他们分析，但没想到他们得出一个结论：星联无法赢得对 Dominion 的战争，只有投降才能避免 9000亿生命枉死...
+
+**** DONE [#B] 6x10 The Magnificent Ferengi :Ferengi:
+CLOSED: [2021-02-12 Fri 16:26]
+:PROPERTIES:
+:rating:   8.2
+:END:
+
+When Quark's mother Ishka is captured by the Dominion, Quark, Rom, and Nog lead a team of Ferengi into a meeting on Empok Nor with Keevan as their payment.
+
+**** DONE [#C] 6x11 Waltz :Dukat:
+CLOSED: [2021-02-17 Wed 12:50]
+:PROPERTIES:
+:rating:   7.9
+:END:
+
+Following the destruction of the starship Honshu, Sisko is severely injured and trapped alone on a deserted planet with Dukat, who becomes increasingly unstable.
+
+**** DONE [#C] 6x12 Who Mourns for Morn?
+CLOSED: [2021-02-25 Thu 13:28]
+:PROPERTIES:
+:rating:   7.7
+:END:
+
+Morn dies, leaving his entire estate to Quark, but some of Morn's old acquaintances want a piece of the action.
+
+**** DONE [#A] 6x13 Far Beyond the Stars
+CLOSED: [2021-02-28 Sun 17:10]
+:PROPERTIES:
+:rating:   8.8
+:END:
+
+Experiencing a vision from the Prophets, Sisko sees himself as Benny Russell, a science-fiction writer in the 1950s, who struggles with civil rights and inequality when he writes the story of Captain Benjamin Sisko, a black commander of a futuristic space station.
+
+**** DONE [#C] 6x14 One Little Ship
+CLOSED: [2021-02-25 Thu 18:43]
+:PROPERTIES:
+:rating:   7.7
+:END:
+
+O'Brien, Dax, Bashir, and their runabout are reduced in size while investigating an anomaly. Meanwhile, the Jem'Hadar attack and commandeer the Defiant, leaving the runabout crew with no choice but to take their miniature ship inside the Defiant and help Sisko and the others recapture the vessel.
+
+**** DONE [#D] 6x15 Honor Among Thieves
+CLOSED: [2021-03-04 Thu 23:05]
+
+**** DONE [#D] 6x16 Change of Heart :Worf:Jadzia:
+CLOSED: [2021-03-06 Sat 17:47]
+
+**** DONE [#D] 6x17 Wrongs Darker Than Death or Night
+CLOSED: [2021-03-17 Wed 18:56]
+
+Kira uses the Orb of Time to travel into the past after Dukat claims that her mother was once his lover during the Occupation.
+
+**** DONE [#B] 6x18 Inquisition :sec31:
+CLOSED: [2021-03-20 Sat 19:56]
+:PROPERTIES:
+:rating:   8.3
+:END:
+
+An officer from the Starfleet Department of Internal Affairs arrives on the station and accuses Dr. Bashir of being a Dominion spy.
+
+**** DONE [#A] 6x19 In the Pale Moonlight
+CLOSED: [2021-03-21 Sun 12:03]
+:PROPERTIES:
+:rating:   9.3
+:END:
+
+With mounting losses in the Federation-Dominion war, and the specter of defeat, Captain Sisko enlists Garak's help to "persuade" the Romulans to join the Federation/Klingon alliance to win the war. However Sisko soon learns that to save the Federation he may have to betray the values it stands for.
+
+**** DONE [#C] 6x20 His Way
+CLOSED: [2021-03-27 Sat 21:22]
+:PROPERTIES:
+:rating:   7.6
+:END:
+
+**** DONE [#D] 6x21 The Reckoning
+CLOSED: [2021-03-29 Mon 08:43]
+:PROPERTIES:
+:rating:   7.3
+:END:
+
+**** DONE [#D] 6x22 Valiant
+CLOSED: [2021-03-31 Wed 08:45]
+:PROPERTIES:
+:rating:   7.1
+:END:
+
+**** CANCEL [#F] 6x23 Profit and Lace
+CLOSED: [2021-02-25 Thu 18:50]
+:PROPERTIES:
+:rating:   5.9
+:END:
+
+**** CANCEL [#E] 6x24 Time's Orphan
+CLOSED: [2021-03-04 Thu 23:05]
+:PROPERTIES:
+:rating:   6.4
+:END:
+
+**** DONE [#C] 6x25 The Sound of Her Voice
+CLOSED: [2021-04-03 Sat 20:23]
+:PROPERTIES:
+:rating:   7.6
+:END:
+
+**** TODO [#B] 6x26 Tears of the Prophets
+:PROPERTIES:
+:rating:   8.4
+:END:
+
+** comics :📚:
+*** Malibu (1993-1995) :Malibu:
+**** START 📂on-going
+***** Best of Star Trek DS9 :DS9:Malibu:
+****** DONE [#B] #01-02 Stowaway (偷渡者) :hanzify:
+CLOSED: [2021-01-11 Mon 14:32]
+
+****** DONE #03 Old Woulds :👍:
+CLOSED: <2021-01-01 Fri 17:24>
+
+****** DONE #04-05 Emancipation
+CLOSED: <2021-01-01 Fri 17:24>
+
+****** Hostage Situation (Malibu DS9 Preview #2)
+***** DONE #06 Field Trip/Pickpocket/Program 359
+CLOSED: [2021-01-28 Thu 12:35]
+
+***** DONE #07 Working Vacation
+CLOSED: [2021-02-02 Tue 13:54]
+
+***** DONE [#A] #08-09 Requiem
+CLOSED: [2021-02-04 Thu 14:39]
+
+***** #10 Descendants
+***** #11 A Short Fuse
+***** #12 Baby on Board
+**** miniseries
+***** TODO 9a. Hearts and Minds (Jun. 1994)
+***** Lightstorm
+***** The Maquis Soldier of Peace
+***** Terok Nor
+***** Blood and Honor
+***** Special
+***** Rules of Diplomacy
+***** Worf: Bonds of Hornor :1995:
+
+出版于1995年12月，Worf 于10月的4x01 The Way of the Warrior 登场DS9
+
+*** Marvel Paramount (1996-1998) :Marvel:
+**** START 📂Star Trek DS9 (1996-98)
+***** DONE 01-02 Judgment Day
+CLOSED: <2021-01-26 Tue 13:23>
+
+***** DONE 03-04 The Cancer Within
+CLOSED: <2021-03-06 Sat 20:23>
+
+***** TODO 05 The Shadow Group
+***** TODO 06-07 Risk
+***** 08-09 Public Enemies, Private Lives
+***** 10 Lwaxana Troi and the Wedding of Doom
+***** 11 Four Funerals and a Wedding
+***** 12-13 (part #2-3 of Telepathy War)
+***** 14 Nobody Knows the Tribbles I've Seen :Tribbles:
+***** 15 Requiem in Obsidian
+**** TODO Star Trek: Starfleet Academy (1996-1998) :Nog:
+
+19 issues
+
+*** WildStorm (1999-2001) :Wildstorm:
+**** CANCEL N-Vector :DS9:2000:
+CLOSED: [2021-02-20 Sat 13:13]
+
+**** TODO Divided We Fall :TNG:DS9:2001:crossover:
+*** IDW :IDW:
+**** 2DONE Fool's Gold :2010:
+**** DONE Too Long a Sacrifice (2020) :hanzify:
+CLOSED: [2021-01-18 Mon 22:11]
+
+** short stories :📄:
+*** The Lives of Dax
+*** Prophecy and Change
+*** Tales of the Dominion War
+*** Strange New Worlds
+**** Strange New Worlds I
+**** Strange New Worlds II
+**** Strange New Worlds III
+**** Strange New Worlds IV
+**** Strange New Worlds V
+**** Strange New Worlds VI
+* VOY :VOY:
+** Star Trek: Voyager (1995-2001) :📺:
+*** START 📂VOY S1
+**** DONE [#C] 1x01/02 Caretaker
+CLOSED: [2021-03-18 Thu 22:56]
+:PROPERTIES:
+:rating:   7.6
+:END:
+
+**** DONE [#D] 1x03 Parallax
+CLOSED: [2021-03-19 Fri 19:43]
+:PROPERTIES:
+:rating:   7.3
+:END:
+
+**** DONE [#D] 1x04 Time and Again
+CLOSED: [2021-03-23 Tue 19:37]
+:PROPERTIES:
+:rating:   7.2
+:END:
+
+**** DONE [#D] 1x05 Phage
+CLOSED: [2021-04-01 Thu 12:53]
+:PROPERTIES:
+:rating:   7.2
+:END:
+
+**** CANCEL [#E] 1x06 The Cloud
+CLOSED: [2021-03-19 Fri 08:03]
+:PROPERTIES:
+:rating:   6.6
+:END:
+
+**** [#B] 1x07 Eye of the Needle
+:PROPERTIES:
+:rating:   8.3
+:END:
+
+**** CANCEL [#E] 1x08 Ex Post Facto
+CLOSED: [2021-03-19 Fri 08:05]
+:PROPERTIES:
+:rating:   6.7
+:END:
+
+**** CANCEL [#E] 1x09 8. Emanations  6.8   13 Mar. 1995
+CLOSED: [2021-03-19 Fri 08:05]
+:PROPERTIES:
+:rating:   6.8
+:END:
+
+** comics :📚:
+*** Marvel Paramount
+**** Star Trek Voyager (1996-98)
+**** Star Trek Voyager - Splashdown (1998)
+*** WildStorm (1999-2001)
+**** False Colors
+**** Elite Force
+**** Voyager: Avalon Rising 阿瓦隆号崛起 :Wildstorm:hanzify:
+**** Planet Killer
+*** IDW
+**** Voyager: Mirrors and Smoke (环境迷雾) :mirror_universe:IDW:
+**** Voyager - Seven's Reckoning :2020:IDW:hanzify:
+* ENT
+** Enterprise (2001-2004)
+* KTL (AOS) :KTL:
+** movies
+*** Star Trek (2009) :2009:
+*** Star Trek Into Darkness :2013:Khan:
+*** Star Trek Beyond :2016:
+** comics :IDW:📚:
+*** on-going (2012-2016)
+**** 2DONE 01-02 Where No Man Has Gone Before :tv-based:hanzify:
+**** 2DONE 03-04 The Galileo Seven :tv-based:hanzify:
+**** 2DONE 05-06 Operation: Annihilate :tv-based:
+**** 2DONE 07-08 Vulcan's Vengeance :movie-continuation:
+**** 2DONE 09-10 The Return of the Archons :tv-based:
+**** 2DONE 11-12 The Truth About Tribbles :hanzify:
+**** 2DONE 13 The Redshirt's Tale :hanzify:
+**** 2DONE 14 Keenser's Tale :hanzify:
+**** 2DONE 15-16 Mirrored :mirror_universe:
+**** 2DONE 17 Bones :hanzify:
+**** 2DONE 18 The Voice of a Falling Star :hanzify:
+**** 2DONE 19 Scotty :hanzify:
+**** 2DONE 20 Red Level Down :hanzify:
+**** 2DONE 21-23 After Darkness :movie-continuation:
+**** 2DONE 24 Gorn
+**** 2DONE 25-28 The Khitomer Conflict :movie-continuation:
+**** 29-30 Parallel Lives :mirror_universe:
+**** 31-32 I, Enterprise
+**** 33-34 Lost Apollo
+**** DONE 35-40 The Q Gambit :DS9:AOS:VOY:hanzify:Q:
+CLOSED: [2021-01-13 Wed 12:34]
+
+**** NEXT 41-54 Five-Year Mission
+***** 41-42 Behemoth
+***** 43-45 Five-Year Mission: Eurydice
+***** START 46-47 The Tholian Webs
+***** 48-49 Diety
+***** 50-52 Live evil :mirror_universe:
+***** 53-54 Reunion
+**** 2DONE 55-58 Legacy of Spock
+**** 59-60 final
+*** KTL movie line
+**** DONE Star Trek: Countdown
+CLOSED: [2021-01-01 Fri 08:50]
+
+**** DONE Star Trek: Nero
+CLOSED: [2021-01-01 Fri 08:50]
+
+**** DONE Star Trek: Movie Adaptation
+CLOSED: [2021-01-01 Fri 08:50]
+
+**** 2DONE 07-08 Vulcan's Vengeance ↗
+**** DONE Star Trek: Countdown to Darkness
+CLOSED: [2021-01-01 Fri 08:50]
+
+**** DONE Star Trek: Khan
+CLOSED: [2021-01-01 Fri 08:50]
+
+**** 2DONE 25-28 The Khitomer Conflict ↗
+**** DONE Star Trek: Manifest Destiny
+CLOSED: [2021-01-01 Fri 08:50]
+
+*** Star Trek: Starfleet Academy
+*** 2DONE Star Trek: Boldly Go :hanzify:
+* DSC :DSC:
+** Discovery (2017- ) :📺:
+*** 📂DSC S2 :2019:
+**** DONE 2x10 The Red Angel
+CLOSED: <2021-01-01 Fri 18:37>
+
+**** DONE 2x11 Perpetual Infinity
+CLOSED: <2021-01-01 Fri 18:37>
+
+**** DONE 2x12 Through the Valley of Shadows
+CLOSED: [2021-03-13 Sat 18:33]
+
+**** DONE 2x13 Such Sweet Sorrow
+CLOSED: [2021-03-13 Sat 19:47]
+:PROPERTIES:
+:rating:   7.2
+:END:
+
+**** DONE 2x14 Such Sweet Sorrow, Part 2
+CLOSED: [2021-03-13 Sat 22:56]
+
+*** START 📂DSC S3 :2020:
+
+13 episodes
+
+**** DONE 3x01. That Hope Is You, Part 1
+CLOSED: <2021-03-14 Sun 19:00>
+
+7.2   15 Oct. 2020
+
+**** DONE 3x02 Far From Home
+CLOSED: <2021-03-14 Sun 19:53>
+
+**** DONE 3x03 People of Earth
+CLOSED: [2021-03-14 Sun 20:46]
+
+**** DONE 3x04 Forget Me Not
+CLOSED: [2021-03-21 Sun 21:40]
+
+6.3   5 Nov. 2020
+
+**** DONE 3x05 Die Trying
+CLOSED: [2021-03-21 Sun 21:40]
+
+12 Nov. 2020
+
+**** NEXT 3x06 Scavengers
+**** NEXT 3x07 Unification III
+**** 3x08 The Sanctuary
+** comics :IDW:📚:
+*** 2DONE Discovery: The Light of Kahless (卡勒斯之光) :hanzify:Kahless:
+*** 2DONE Discovery: Succession (继位) :mirror_universe:hanzify:
+*** 2DONE Discovery: Aftermath (余波) :hanzify:
+* _others
+** tv :tv:
+*** START 📂Picard (2020- ) :Picard:
+**** DONE 1x01 Remembrance
+CLOSED: <2021-02-28 Sun 21:03>
+
+**** DONE 1x02 Maps and Legends
+CLOSED: <2021-02-28 Sun 20:03>
+
+**** DONE 1x03 The End is the Beginning
+CLOSED: <2021-02-28 Sun 19:03>
+
+**** NEXT 1x04 Absolute Candor
+**** NEXT 1x05 Stardust City Rag
+**** 1x06 The Impossible Box
+**** 1x07 Nepenthe
+**** 1x08 Broken Pieces
+**** 1x09 Et in Arcadia Ego, Part 1
+**** 1x10 Et in Arcadia Ego, Part 2
+*** START 📂Lower Decks (2020) :LD:
+**** DONE 1x01 Second Contact
+CLOSED: <2021-01-12 Tue 19:10>
+
+**** DONE 1x02 Envoys
+CLOSED: [2021-02-28 Sun 09:08]
+
+**** DONE 1x03 Temporal Edict
+CLOSED: [2021-03-06 Sat 09:09]
+
+**** DONE 1x04 Moist Vessel
+CLOSED: [2021-04-02 Fri 19:43]
+
+**** NEXT 1x05 Cupid's Errant Arrow
+**** 1x06 Terminal Provocations
+**** 1x07 Much Ado About Boimler
+**** 1x08 Veritas
+**** 1x09 Crisis Point
+**** 1x10 No Small Parts
+** comics :comics:
+*** DONE 2.5 TNG+DS9 crossover (DC+Malibu) :1994:TNG:DS9:crossover:
+CLOSED: [2021-01-21 Thu 19:34]
+
+*** 4.Marvel Paramount (1996-1998)
+**** Early Voyages :Pike:
+
+17 issues
+
+***** 2DONE 04 Nor Iron Bars a Cage
+*** 5.WildStorm (1999-2001)
+**** New Frontier: Double Time :NF:
+**** Special :hanzify:mix:
+*** 6. IDW :idw:
+**** _mix
+***** Alien Spotlight 聚焦外星人 :hanzify:
+***** DONE waypoint 转折点 :hanzify:waypoint:
+****** Waypoint #03
+******* DONE Mother's Walk :DS9:
+CLOSED: <2021-01-13 Wed 12:20>
+
+****** Waypoint #05
+******* 2DONE Frontier Doctor :DS9:
+CLOSED: [2021-01-13 Wed 12:45]
+
+****** Waypoint 2018 special
+******* 2DONE Only You Can Save Yourself :DS9:
+CLOSED: [2021-01-13 Wed 12:45]
+
+****** Waypoint 2019 special
+******* 2DONE First Year :DS9:Worf:Jadzia:
+CLOSED: [2021-01-13 Wed 12:45]
+
+***** Captains' Log
+***** DONE The Q Conflict :hanzify:
+CLOSED: [2021-01-01 Fri 08:49]
+
+《Q的纠缠(The Q Conflict)》，Q神带着23和24世纪大联欢。
+
+***** DONE Flesh and Stone (血肉与晶石) :hanzify:
+CLOSED: [2021-01-01 Fri 09:01]
+
+[cp]本次我们为大家带来的是IDW在2014年出版的特别刊《#星际迷航[超话]#  ：血肉与晶石（Flesh and Stone）》！
+
+本期是一期“医生特辑”，来自五个系列的六位医生均有出场。Crusher、Pulaski、Bashir和the Doctor遇到一种能将血肉变成晶石的突发疫情，几人前去McCoy处寻求帮助，他们能否顺利解决这次的疫情呢？
+
+翻译@NCC-60205 @小壳子叔叔 校对+修图@直立行走的蛋与麦克斯韦 填字@孔府小鱼 
+
+链接:http://t.cn/Rk562X0  密码:te7i[/cp]
+
+**** _misc
+***** Star Trek: New Frontier
+***** DONE Assignment Earth
+CLOSED: [2021-01-01 Fri 07:50]
+
+***** Star Trek Deviations.
+***** Star Trek: Crew
+***** Picard: Countdown
+**** crossovers
+***** The Next Generation/Doctor Who: Assimilation2 :doctor-who:11D:tng:
+***** Star Trek/Planet of the Apes
+***** Star Trek/Green Lantern: The Spectrum War （光谱战争） :hanzify:
+***** Star Trek/Green Lantern Volume 2: Stranger Worlds (陌界生人)
+***** Star Trek vs. Transformers :tas:
+*** *best :best:
+**** IDW 100-Page Spectacular
+***** 2011
+****** Alien Spotlight Vol. 1: Romulans
+****** Alien Spotlight Vol. 2: Tribbles
+****** Captain's Log: Sulu
+****** Mission's End #1
+***** 2012 (Feb)
+****** Alien Spotlight: Q
+****** Captain's Log: Pike
+****** Alien Spotlight: Gorn
+****** Khan - Ruling in Hell #1
+***** 2012 Summer
+****** TODO Embrace the Wolf :TNG:Wildstorm:
+****** Voyager - False Colors :Wildstorm:VOY:
+***** 2012 Winter
+****** Captain's Log: Harriman
+****** Alien Spotlight, Volume 2: Romulans
+****** Alien Spotlight, Volume 2: Klingons
+****** Mirror Images #1
+**** Star Trek Classics
+***** vol.1 The Gorn Crisis :Wildstorm:TNG:
+***** vol.2 Enemy Unseen :Wildstorm:TNG:
+***** vol.3 Encounters with the Unknown :VOY:Wildstorm:
+***** vol.4 Beginning (DC TNG vol.1 #01-06)
+**** misc
+* The Orville
+** Orville S1.5 :📚:
+*** DONE New Beginning 新的开始 :hanzify:
+CLOSED: <2021-01-01 Fri 13:34>
+
+*** DONE The Word of Evis :hanzify:
+CLOSED: <2021-01-01 Fri 13:34>
+
+** 📂Orville S2 :📺:
+*** DONE [#C] 2x05 All the World Is Birthday Cake
+CLOSED: <2021-01-10 Sun 21:16>
+:PROPERTIES:
+:rating:   7.5
+:END:
+
+*** DONE [#B] 2x06 A Happy Refrain
+CLOSED: [2021-01-19 Tue 19:16]
+:PROPERTIES:
+:rating:   8.3
+:END:
+
+*** DONE [#C] 2x07 Deflectors
+CLOSED: <2021-01-01 Fri 13:50>
+:PROPERTIES:
+:rating:   7.6
+:END:
+
+*** DONE [#A] 2x08 Identity: Part I
+CLOSED: [2021-01-27 Wed 16:54]
+:PROPERTIES:
+:rating:   9.2
+:END:
+
+*** DONE [#A] 2x09 Identity: Part II
+CLOSED: [2021-01-27 Wed 16:54]
+:PROPERTIES:
+:rating:   9.2
+:END:
+
+*** DONE [#B] 2x10 Blood of Patriot
+CLOSED: [2021-02-06 Sat 20:57]
+:PROPERTIES:
+:rating:   8.0
+:END:
+
+*** DONE [#A] 2x11 Lasting Impressions
+CLOSED: [2021-02-16 Tue 15:08]
+:PROPERTIES:
+:rating:   9.0
+:END:
+
+*** DONE [#B] 2x12 Sanctuary
+CLOSED: [2021-03-12 Fri 22:08]
+:PROPERTIES:
+:rating:   8.3
+:END:
+
+*** DONE [#B] 2x13 Tomorrow, and Tomorrow, and Tomorrow
+CLOSED: [2021-03-26 Fri 19:13]
+:PROPERTIES:
+:rating:   8.4
+:END:
+
+A time distortion brings someone from the past to the Orville.
+
+*** DONE [#A] 2x14 The Road Not Taken
+CLOSED: [2021-03-26 Fri 23:23]
+:PROPERTIES:
+:rating:   8.7
+:END:
+
+The crew must contend with the disastrous fallout from Kelly's decision.
+
+** Orville S2.5 :📚:2020:
+*** DONE Launch Day 发射日 :hanzify:
+CLOSED: [2021-02-16 Tue 13:32]
+
+*** DONE Hero
+CLOSED: [2021-03-26 Fri 23:49]
+
+*** Degressions :2021:
+* Stargate
+** SG-1
+*** 2x03
+** SGA
+*** SGA S1

@@ -1,0 +1,1127 @@
+* 1st Doctor :1st_Dr:
+** tv
+*** Season 1 :1963:
+**** DONE An Unearthly Child
+**** DONE The Daleks :Daleks:
+**** DONE The Edge of Destruction
+**** +Marco Polo+ :missing:
+
+小说翻译： https://link.zhihu.com/?target=http%3A//tieba.baidu.com/p/2575205906 
+
+**** The Keys of Marinus
+**** The Aztecs
+**** The Sensorites
+**** DONE The Reign of Terror :part_missing:animated:P2013:
+
+Episode 4,5 missing (but animated in 2013).
+
+*** Season 2 :1964:
+**** DONE Planet of Giants
+**** DONE The Dalek Invasion of Earth :daleks:
+**** The Rescue
+**** DONE The Romans
+**** DONE [#E] The Web Planet
+**** +The Crusade+ :missing:
+
+Episode 2, 4 missing.
+
+**** The Space Museum
+**** DONE The Chase :daleks:Mechanoids:
+CLOSED: [2021-06-21 Mon 06:13]
+
+**** DONE The Time Meddler
+*** Season 3 :1965:
+**** +Galaxy 4+ :missing:
+
+Episode 2, 4 missing.
+
+**** DONE Mission to the Unknown :animated:missing:srt_full:
+**** +The Myth Makers+ :missing:
+**** DONE The Daleks' Master Plan :daleks:missing:
+**** +The Massacre+ :missing:
+**** DONE 3x06 The Ark :Steven:Dodo:
+CLOSED: [2021-06-30 Wed 22:12]
+
+**** +The Celestial Toymaker+ :missing:
+
+Episode 1-3 missing.
+
+**** The Gunfighters
+**** +The Savages+ :missing:
+**** The War Machines
+*** Season 4
+**** +The Smugglers+ :missing:
+**** DONE The Tenth Planet :cyberman:part_missing:animated:P2013:
+
+Episode 4 missing (but animated in 2013).
+
+** audio :🎧:
+*** EA
+**** EA S1
+***** [#C] EA1.1 Domain of the Voord :plot_yes:
+***** [#D] EA1.2 The Doctor's Tale :plot_yes:
+***** [#C] EA1.3 The Bounty of Ceres :plot_no:
+:PROPERTIES:
+:rating:   7.7
+:END:
+
+***** [#C] EA1.4 - An Ordinary Life :plot_yes:
+**** EA S3
+***** [#B] EA 3.3 The Ravelli Conspiracy (8.0) :plot_no:
+***** HALF [#B] EA3.4 The Sontarans (8.0) :D2021_09_dr:Sara_Kingdom:Steven:plot_yes:
+SCHEDULED: <2021-09-22 Wed>
+
+**** EA S5
+***** [#A] EA5.1 The Dalek Occupation of Winter (9.0) :daleks:plot_yes:
+***** [#B] EA5.2 An Ideal World (8.2) :plot_no:
+***** [#D] EA5.3 Entanglement (7.3) :plot_no:
+***** [#A] EA5.4 The Crash of the UK-201 (8.8) :plot_no:
+**** EA S7
+***** 2DONE EA7.1 After the Daleks :Dalek_War_1st:Susan:D2021_10_daleks:
+CLOSED: [2021-11-01 Mon 22:54] SCHEDULED: <2021-11-01 Mon>
+
+***** EA7.2 The Secrets of Det-Sun :plot_yes:
+*** 1DA
+**** HALF [#C] 1.1 The Destination Wars :Master_early:D2021_08_dr:
+:PROPERTIES:
+:rating:   7.8
+:END:
+
+**** [#C] 1.2 The Great White Hurricane (7.5)
+**** 2DONE [#A] 2.1 The Invention of Death :D2021_07_dr:P2018:plot_simple:
+CLOSED: [2021-07-27 Tue 23:10]
+:PROPERTIES:
+:rating:   9.2
+:END:
+
+**** [#A] 2.2 The Barbarians and the Samurai :P2018:plot_no:
+:PROPERTIES:
+:rating:   8.6
+:END:
+
+**** [#C] 3.1 The Phoenicians (7.5)
+**** [#A] 3.2 Tick-Tock World :P2019:plot_yes:
+:PROPERTIES:
+:rating:   8.5
+:END:
+
+**** [#E] +4.1 Return to Skaro+ (6.6)
+**** [#B] 4.2 Last of the Romanovs :P2020:plot_yes:
+:PROPERTIES:
+:rating:   8.1
+:END:
+
+**** [#B] 5.1 For the Glory of Urth :plot_no:
+:PROPERTIES:
+:rating:   8.4
+:END:
+
+**** [#A] 5.2 The Hollow Crown :plot_no:
+:PROPERTIES:
+:rating:   9.0?
+:END:
+
+*** CC
+**** TODO [#A] CC3.5 - Home Truths :D2021_13:Sara_Kingdom:
+:PROPERTIES:
+:rating:   9.1
+:END:
+
+**** [#B] CC3.7 - The Transit of Venus
+:PROPERTIES:
+:rating:   8.3
+:END:
+
+**** TODO [#B] CC4.1 The Drowned World :Sara_Kingdom:D2021_13:
+:PROPERTIES:
+:rating:   8.1
+:END:
+
+**** [#A] CC5.12 The Cold Equations
+:PROPERTIES:
+:rating:   8.5
+:END:
+
+**** HALF [#A] CC5.1 - The Guardian of the Solar System :Sara_Kingdom:plot_yes:D2021_11:
+SCHEDULED: <2021-11-06 Sat>
+:PROPERTIES:
+:rating:   8.5
+:END:
+
+**** 2DONE [#B] CC6.2 The Rocket Man :Ian:D2021_06:
+CLOSED: [2021-06-26 Sat 09:13]
+:PROPERTIES:
+:rating:   8.3
+:END:
+
+**** [#B] CC6.5 - The First Wave
+:PROPERTIES:
+:rating:   8.4
+:END:
+
+**** HALF [#B] CC7.5 - Return of the Rocket Men :Steven:D2021_06:
+:PROPERTIES:
+:rating:   8.2
+:END:
+
+**** [#B] 8.10 The War to End All Wars :Steven:
+:PROPERTIES:
+:rating:   8.0
+:END:
+
+**** [#A] CC9.4 - The Locked Room
+:PROPERTIES:
+:rating:   8.5
+:END:
+
+**** [#A] CC11.2 - Across the Darkened City
+:PROPERTIES:
+:rating:   8.5
+:END:
+
+* 2nd Doctor :2nd_Dr:
+** tv
+*** Season 4 :1967:
+**** DONE 04x03 The Power of the Daleks :daleks:animated:srt_full:missing:P2016:P1966:
+
+第二任博士的第一次出场
+
+-  [x] 动画完整版字幕
+
+   -  微博介绍: [[https://m.weibo.cn/1910110560/4243333884486439]]
+   -  字幕文件下载: [[https://secure.assrt.net/xml/sub/622/622123.xml]]
+
+-  [x] 粉丝剪辑版
+
+   -  粉丝版剪辑说明以及视频下载: [[https://whoflix.wordpress.com/2017/02/18/the-power-of-the-daleks-2/]]
+   -  微博介绍: [[https://m.weibo.cn/1910110560/4322905540222728]]
+   -  字幕文件下载: [[https://secure.assrt.net/xml/sub/623/623454.xml]]
+
+**** +04x04 The Highlanders+ :missing:D2021_13:
+
+4集视频全遗失, 未做中文字幕
+
+
+小说翻译： http://tieba.baidu.com/p/6573080784?share=9105&fr=share&see_lz=0&share_from=post&sfc=copy&client_type=2&client_version=11.9.8.0&st=1629813078&unique=2870A12337A54D67F67CE44D0875042B 
+
+**** +04x05 The Underwater Menace+ :missing:
+
+(总4集, 第1、4集遗失, 未做中文字幕)
+
+**** DONE 04x06 The Moonbase :cyberman:fan_edit:animated:P2014:P1966:
+
+Episode 1, 3 missing (but animated in 2014)
+
+赛博人第二次出场
+
+粉丝剪辑版
+
+-  粉丝版剪辑说明以及视频下载: [[https://whoflix.wordpress.com/2016/04/22/the-moonbase/]]
+-  微博介绍: [[https://m.weibo.cn/1910110560/4329181477133369]]
+-  字幕文件下载: [[https://secure.assrt.net/xml/sub/623/623564.xml]]
+
+**** DONE 04x07 The Macra Terror :animated:srt_full:2019:
+
+2019动画版完整字幕
+
+-  part 1 & 2
+
+   -  微博介绍: [[https://m.weibo.cn/1910110560/4359447025777169]]
+   -  字幕文件下载: [[https://secure.assrt.net/xml/sub/624/624458.xml]]
+
+-  part 3 & 4
+
+   -  微博介绍: [[https://m.weibo.cn/1910110560/4361424392909314]]
+   -  字幕文件下载: [[https://secure.assrt.net/xml/sub/624/624521.xml]]
+
+**** DONE 04x08 The Faceless Ones :animated:srt_full:
+
+Episode 2,4,5,6 missing (but all episodes animated in 2020)
+
+2020动画版完整字幕(英文/双语，SRT/ASS)
+
+   -  微博介绍: https://m.weibo.cn/1910110560/4607023331413359
+   -  字幕文件下载: https://assrt.net/xml/sub/642/642446.xml
+
+另：做字幕之前没有去查，结果发现其实2020年11月鹅组和小鱼儿行者都已经做
+过这个故事了 :-(，想直接要熟肉的可以访问此链接: http://t.cn/A6tIQQk4
+
+**** DONE 04x09 The Evil of the Daleks :daleks:srt_full:missing:Victoria:
+
+原视频7小集仅幸存第2小集。完整字幕，基于 LooseCannon修复版本（“PPT版本”）
+
+-  微博介绍: [[https://m.weibo.cn/1910110560/4327056802736592]]
+-  字幕文件下载: [[https://secure.assrt.net/xml/sub/623/623426.xml]]
+
+*** Season 5 :1968:
+**** DONE 05x01 The Tomb of the Cybermen :cyberman:fan_edit:
+
+粉丝剪辑版
+
+-  粉丝版剪辑说明以及视频下载: [[http://wp.me/p1mHFo-5z]]
+-  微博介绍: [[https://m.weibo.cn/1910110560/4348385387213052]]
+-  字幕文件下载: [[https://secure.assrt.net/xml/sub/624/624128.xml]]
+
+**** +The Abominable Snowmen+ :great_intelligence:missing:
+
+(总6集, 仅第2集幸存, 未做中文字幕)
+
+Great Intelligence (大智慧/超级智能）和 Yeti (雪怪）的首次出场
+
+**** DONE 05x03 The Ice Warriros :ice_warrior:srt_full:
+
+寒冰勇士首次出场。不过真正的敌人其实是”电脑“(或者说把一切留给电脑来决定的这种心态）
+
+完整版本字幕 （共6小集，第2、3小集针对动画重制版）
+
+-  微博介绍: [[https://m.weibo.cn/1910110560/4310940322849636]]
+-  字幕文件下载: [[https://secure.assrt.net/xml/sub/623/623231.xml]]
+
+**** DONE 05x04 The Enemy of the World :fan_edit:
+
+号称最像"007“的神秘博士
+
+粉丝剪辑版
+
+-  粉丝版剪辑说明以及视频下载: [[https://whoflix.wordpress.com/2014/11/28/the-enemy-of-the-world/]]
+-  微博介绍: [[https://m.weibo.cn/1910110560/4373747244878930]]
+-  字幕文件下载: [[https://secure.assrt.net/xml/sub/624/624874.xml]]
+
+**** DONE 05x05 The Web of Fear :great_intelligence:fan_edit:
+
+Great Intelligence (大智慧/超级智能）和 Yeti (雪怪）的第二次出场。
+
+UNIT 和 准将的第一次出场。不过那时候 UNIT 是此集之后才成立， Lethbridge-Stewart 也是之后才升任准将
+
+粉丝剪辑版（原视频6小集，第3小集遗失，剧情影响不大) 
+
+-  粉丝版剪辑说明以及视频下载: [[http://wp.me/p1mHFo-1e1]]
+-  微博介绍: [[https://m.weibo.cn/1910110560/4334522072393901]]
+-  字幕文件下载: [[https://secure.assrt.net/xml/sub/623/623663.xml]]
+
+**** DONE 05x06 Fury from the Deep (TODO) :Victoria:animated:missing:2020:
+CLOSED: <2021-03-25 Thu 07:29>
+
+总6集, 全遗失
+
+2020年BBC制作发行了动画重制版本
+
+**** +05x07 The Wheel in Space+ :cyberman:missing:Zoe:
+
+(总6集, 仅幸存3、6，未做中文字幕)
+
+*** Season 6 :1969:Zoe:
+**** DONE 06x01 The Dominators :fan_edit:
+
+粉丝剪辑版
+
+-  粉丝版剪辑说明以及视频下载: [[http://wp.me/p1mHFo-6Y]]
+-  微博介绍: [[https://m.weibo.cn/1910110560/4380482903268827]]
+-  字幕文件下载: [[https://secure.assrt.net/xml/sub/625/625001.xml]]
+
+**** DONE 06x02 The Mind Robber :fan_edit:
+
+粉丝剪辑版
+
+-  粉丝版剪辑说明以及视频下载: [[http://wp.me/p1mHFo-rj]]
+-  微博介绍: [[https://m.weibo.cn/1910110560/4353356472354914]]
+-  字幕文件下载: [[https://secure.assrt.net/xml/sub/624/624278.xml]]
+
+**** DONE 06x03 The Invasion (of the Cybermen) :cyberman:fan_edit:
+
+UNIT 和 准将第一次正式出场
+
+粉丝剪辑版
+
+-  粉丝版剪辑说明以及视频下载: [[http://wp.me/p1mHFo-lH]]
+-  微博介绍: [[https://m.weibo.cn/1910110560/4386407394841925]]
+-  字幕文件下载: [[https://secure.assrt.net/xml/sub/625/625209.xml]]
+
+**** DONE 06x04 The Krotons :fan_edit:
+
+粉丝剪辑版
+
+-  粉丝版剪辑说明以及视频下载: [[http://wp.me/p1mHFo-xw]]
+-  微博介绍: [[https://m.weibo.cn/1910110560/4391907947480683]]
+-  字幕文件下载: [[https://secure.assrt.net/xml/sub/625/625391.xml]]
+
+**** DONE 06x05 The Seeds of Death :ice_warrior:fan_edit:
+
+寒冰勇士第二次出场, 试图入侵地球
+
+粉丝剪辑版
+
+-  粉丝版剪辑说明以及视频下载: [[http://wp.me/p1mHFo-m8]]
+-  微博介绍: [[https://m.weibo.cn/1910110560/4343154256340286]]
+-  字幕文件下载: [[https://secure.assrt.net/xml/sub/623/623945.xml]]
+
+**** +06x06 The Space Pirates+ :missing:
+
+(6集中仅有第2集幸存，未做字幕)
+
+**** DONE +06x07 The War Games+ (iCelery军团有熟肉)
+*** Season 6B
+
+**Season 6B** 算是一个半官方的概念，用来指代第二任博士在《战争游戏》
+(The War Games)之后、重生为第三任博士之前所经历的故事。在这个期间，博
+士先被逼迫替CIA执行任务（一个典型特征是他可以控制住TARDIS的目的地了），
+后又被流放于地球。详细说明：https://tardis.fandom.com/wiki/Season_6B
+
+**** DONE The Dark Tower :fan_edit:
+
+《五个博士》的二爷部分（粉丝剪辑版本）
+
+详细说明： https://whoflix.wordpress.com/2013/09/20/the-dark-tower/ 
+
+目前仅做了英文字幕
+
+**** DONE The Dastari Experiment :fan_edit:
+
+《两个博士》的二爷部分（粉丝剪辑版本）
+
+详细说明： https://whoflix.wordpress.com/2011/04/07/the-dastari-experiment-1/
+
+目前仅做了英文字幕
+
+**** TODO Devious
+
+(声明：本人未参与下述字幕/熟肉的制作，在此放置链接仅为方便对故事感兴趣的粉丝）
+
+粉丝作品，呈现了第二任博士重生为第三任的过程，第三任博士的扮演者Jon Pertwee参与
+了，所以本作品在一定程度上得到了BBC的认可，并且BBC在2009年发行 /The War Games/
+的DVD版本的时候，附带了本作品的删减版本。
+
+- BBC版本(iCelery 熟肉): https://www.bilibili.com/video/av1780624/
+- 完整版本: http://www.doctorwho-devious.com/
+
+** audio :🎧:
+*** Lost Stories
+**** NEXT [#B] LS4.3 - Lords of the Red Planet :ice_warriors:D2021_13:plot_yes:
+:PROPERTIES:
+:rating:   8.2
+:END:
+
+*** EA
+**** EA S2
+***** [#C] 2.1 The Yes Men
+:PROPERTIES:
+:rating:   7.7
+:END:
+
+***** 2.2 The Forsaken
+***** 2DONE [#B] 2.3 The Black Hole (8.1) :D2021_06:Monk:
+CLOSED: [2021-06-19 Sat 11:50]
+
+***** 2.4 The Isos Network
+**** EA S4
+***** 4.1 The Night Witches
+***** [#C] 4.2 The Outliers
+:PROPERTIES:
+:rating:   7.7
+:END:
+
+***** 4.3 The Morton Legacy
+***** START [#B] 4.4 The Wreck of the World (8.2) :D2021_08_dr:plot_no:
+**** EA S6
+***** HALF [#D] 6.1 The Home Guard :Master_early:D2021_12_master:plot_half:week3:
+SCHEDULED: <2021-12-15 Wed>
+:PROPERTIES:
+:rating:   7.1
+:END:
+
+***** DONE [#A] 6.2 Daughter of the Gods (9.2) :daleks:P2019:D2021_04:
+CLOSED: <2021-04-30 Fri 22:59>
+
+*** Companion Chronicles
+**** #The_Company :Zoe:
+***** 2DONE [#D] CC5.02 - Echoes of Grey :Zoe:D2021_07_dr:
+CLOSED: [2021-07-06 Tue 17:33]
+:PROPERTIES:
+:rating:   7.2
+:END:
+
+***** 3QTR [#C] CC6.3 The Memory Cheats :The_Company:plot_no:D2021_07_dr:
+CLOSED: <2021-07-30 Fri 16:14>
+:PROPERTIES:
+:rating:   7.7
+:END:
+
+***** [#D] CC7.02 - The Uncertainty Principle
+:PROPERTIES:
+:rating:   7.0
+:END:
+
+***** [#B] CC8.12 - Second Chances :The_Company:plot_no:
+:PROPERTIES:
+:rating:   8.4
+:END:
+
+**** [#C] CC3.9 - Resistance :Polly:
+:PROPERTIES:
+:rating:   7.7
+:END:
+
+**** BLOCK [#B] CC4.2 - The Glorious Revolution :Jamie:D2021_13:plot_no:
+:PROPERTIES:
+:rating:   8.1
+:END:
+
+与 Highlanders 相关
+
+**** [#C] CC6.11 - The Jigsaw War :Jamie:
+:PROPERTIES:
+:rating:   7.8
+:END:
+
+**** [#C] CC10.1 - The Mouthless Dead :Jamie:Polly:scripted:
+:PROPERTIES:
+:rating:   7.7
+:END:
+
+**** START [#C] CC12.2 Dumb Waiter :Jamie:Leela:D2021_09_extra:plot_yes:ovedue:
+SCHEDULED: <2021-10-03 Sun>
+:PROPERTIES:
+:rating:   7.8
+:END:
+
+**** [#B] CC12.4 - The Tactics of Defeat :UNIT:
+:PROPERTIES:
+:rating:   8.1
+:END:
+
+*** The Missing Adventures (fan-made)
+
+https://chriswalkerthomson.com/dwthemissingadventures/
+
+**** START MA1. Red Snow :D2022_01_doctor:
+SCHEDULED: <2022-01-30 Sun>
+
+https://m.vk.com/wall-205306392_45
+
+*** [#C] DotD#2 - Shadow of Death
+:PROPERTIES:
+:thetimescales: 7.9
+:END:
+
+* 3rd Doctor :3rd_Dr:
+** TV S7-9 :📺:Liz:UNIT:
+*** DONE [#A] 7x4 Inferno †8. 5 （重看）
+CLOSED: [2020-07-15 Wed 19:13]
+
+*** 9x03 The Sea Devil
+*** DONE 9x05 - The Time Monster †6.9)
+CLOSED: [2020-07-20 Mon 20:15]
+
+** TV S10 :📺:UNIT:Jo:
+*** FIXME [#B] TV10x01 - The Three Doctors †8.1)
+*** [#C] 10x02 - Carnival of Monsters †7.8) :3D:Sarah:
+*** DONE 10x03 - Frontier in Space †7.6)
+*** DONE 10x04 - Planet of the Daleks †7.5)
+*** DONE [#B] 10x05 - The Green Death †8.2)
+CLOSED: [2020-06-25 Thu 20:46]
+
+sequel: Torchwood #26 The Green Life
+
+** TV S11 :📺:Sarah:
+*** DONE 11x01 - The Time Warriors †8.1)
+*** [#D] 11x02 - Invasion of the Dinosaurs †7.4)
+*** DONE 📺11x03 - Death to the Daleks †7.6)
+CLOSED: [2020-06-18 Thu 12:51]
+
+*** CANCEL 11x04 - The Monster of Peladon †6.6)
+*** DONE 11x05 - Planet of the Spiders †7.8)
+** comics :📚:
+*** DONE [#B] Titan Comics: The Heralds of Destruction :Titan:
+CLOSED: [2020-07-13 Mon 20:29]
+
+*** DONE DWM comics 3D :DWM:
+CLOSED: [2020-06-30 Tue 14:01]
+
+**** DWMS1991 Winter - The Man in the Ion Mask
+**** DWM221-223 - Change of Mind
+**** DWM234 - Target Practice
+*** TVAction/TVComic
+**** Marvel DWCC reprint
+** BF audio-drama :🎧:BigFinish:
+*** 3DA :3DA:Jo:
+**** [#D] 1.1 - Prisoners of the Lake :UNIT:plot_yes:
+:PROPERTIES:
+:rating:   7.2
+:END:
+
+**** [#C] 1.2 - The Havoc of Empires :plot_no:
+:PROPERTIES:
+:rating:   7.6
+:END:
+
+**** 2DONE [#B] 3DA2.1 The Transcendence of Ephros :D2021_07_dr:plot_yes:
+CLOSED: [2021-07-27 Tue 23:10]
+:PROPERTIES:
+:rating:   7.9
+:END:
+
+**** TODO [#C] 2.2 The Hidden Realm :plot_yes:D2022_Q2_doctor:
+:PROPERTIES:
+:rating:   7.5
+:END:
+
+**** 3.1 The Conquest of Far :plot_no:
+:PROPERTIES:
+:rating:   7.5
+:END:
+
+**** 3.2 Storm of the Horofax :plot_no:
+:PROPERTIES:
+:rating:   7.6
+:END:
+
+**** 2DONE [#B] 3DA 4.1 - The Rise of the New Humans (8.0) :Monk:P2018:D2021_05:plot_no:
+CLOSED: <2021-05-27 Thu 23:20>
+
+**** TODO [#C] 3DA 4.2 - The Tyrants of Logic :cybermen:plot_yes:D2022_02_doctor:
+SCHEDULED: <2022-02-13 Sun>
+:PROPERTIES:
+:rating:   7.5
+:END:
+
+**** DONE [#A] 5.1. Primord †8.5 :Liz:Jo:UNIT:
+CLOSED: [2020-07-15 Wed 19:13]
+
+Inferno
+
+**** 5.2 The Scream of Ghosts :plot_no:
+:PROPERTIES:
+:rating:   7.4
+:END:
+
+**** TODO [#B] 6.1. Poison of the Daleks (8.0) :Jo:UNIT:P2020:plot_no:
+:PROPERTIES:
+:rating:   8.0
+:END:
+
+**** [#D] 6.2. Operation Hellfire :Jo:P2020:
+:PROPERTIES:
+:rating:   7.4
+:END:
+
+**** 7.1 The Unzal Incursion
+**** 7.2 The Gulf
+*** Audio-drama misc
+**** DONE [#A] The Sacrifice of Jo Grant (The Legacy of Time #3) †9.0 :Jo:P2019:
+CLOSED: [2020-08-07 Fri 18:25]
+
+**** [#C] LS 4.4 The Mega (The Lost Stories #4.4) †7.6
+**** CANCEL [#E] Peepshow (The Diary of River Song #6.3) †6.6
+CLOSED: [2020-06-25 Thu 21:48]
+
+** BF shorts :BigFinish:audiobook:🎧:
+*** The Companion Chronicles (Liz) :Liz:
+**** DONE [#A] CC7.4 - The Last Post †9.1 :P2012:no_doctor:
+CLOSED: [2020-08-07 Fri 18:25]
+
+People are dying. Just a few, over a period of months... but the strange thing is that each person received a letter predicting the date and time of their death.
+
+Throughout her time as the Doctor's assistant, Liz Shaw has been documenting these passings.
+
+Her investigation ultimately uncovers a threat that could lead to the end of the world, but this time Liz has someone to help her.
+
+Her mother.
+
+**** 2DONE [#C] CC4.9 Shadow of the Past (7.8) :UNIT:has_plot:
+CLOSED: [2020-08-07 Fri 18:26]
+
+There's a secret locked up in UNIT's Vault 75-73/Whitehall. Dr Elizabeth Shaw is the only one left who knows what that secret is. Returning to UNIT for the first time in decades, she slowly unravels the past. The vault contains the remains of a spaceship that crashed in the Pennines in the seventies. For the young Liz Shaw, the priority is to ensure the thing's safe. However, the Doctor is more concerned about the alien pilot and the chance this ship offers for escape. Can he resist the temptation, or will the Third Doctor turn on his friends?
+
+**** DONE [#C] CC1.3 The Blue Tooth (7.5) :scripted:UNIT:cybermen:
+CLOSED: [2020-07-29 Wed 23:03]
+
+"I suppose that was one of the Doctor's most endearing qualities: the ability to make the bizarre and the terrifying seem utterly normal."
+
+When Liz Shaw's friend Jean goes missing, the Doctor and U.N.I.T. are drawn to the scene to investigate. Soon Liz discovers a potential alien invasion that will have far-reaching affects on her life... and the Doctor is unexpectedly re-united with an old enemy...
+
+**** 2DONE [#D] CC6.9 Binary (7.3)
+CLOSED: [2020-08-07 Fri 18:26]
+
+A damaged alien computer is being guarded by UNIT troops, but the soldiers simply vanish...
+
+Usually the Brigadier would call in the Doctor — but on this occasion the Time Lord is being kept out of the loop. Instead, it's up to Elizabeth Shaw to oversee the project to repair this alien technology, and recover the missing men.
+
+And then Liz vanishes too.
+
+Trapped inside the machine, Liz faces a battle for survival against a lethal defence system. And this time, she must save the day without the Doctor at her side....
+
+**** [#D] CC5.10 - The Sentinels of the New Dawn (7.2)
+
+Some time after leaving UNIT, Liz Shaw calls the Doctor to Cambridge University, where scientists are experimenting with time dilation. The device hurls them to the year 2014 and a meeting with Richard Beauregard, heir to the Beauregard estate.
+
+Yet there's something rotten at the core of this family... The seeds of a political movement that believes in a new world order.
+
+The Sentinels of the New Dawn are stirring and its malign influence will be felt for centuries to come...
+
+*** The Companion Chronicles (Jo) :Jo:
+**** [#A] CC7.9 - The Scorchies †8.7 :has_plot:
+:PROPERTIES:
+:fandom:   https://tardis.fandom.com/wiki/The_Scorchies_(audio_story)
+:END:
+
+The Doctor, his companion Jo Grant and the Brigadier face their strangest case yet — a Saturday night TV show that has been invaded by aliens that look like puppets!
+
+The Scorchies want to take over the world. They want to kill the Doctor. And they want to perform some outstanding showtunes. Though not necessarily in that order...
+
+With Jo caught inside The Scorchies Show, can she save the day before the planet Earth falls victim to the dark side of light entertainment?
+
+**** [#A] CC5.3 - Find and Replace †8.6 :UNIT:Iris:
+:PROPERTIES:
+:fandom:   https://tardis.fandom.com/wiki/Find_and_Replace_(audio_story)
+:END:
+
+Christmas 2010: Jo Grant finds herself stuck in a department store elevator with an alien creature called Huxley.
+
+Huxley is a narrator from Verbatim Six. He is here to let Jo revisit the best time of her life — when she was the plucky companion to that eccentric Space/Time traveller known only as... Iris Wildthyme.
+
+Confronted with memories she knows nothing about, Jo agrees to a meeting with Iris inside her transdimensional bus. Together the three of them take a trip back in time: back to the 1970s, to UNIT HQ and a meeting with the only person who knows the whole truth...
+
+**** [#D] CC6.0b - The Mists of Time (7.4)
+**** [#D] CC6.4 - The Many Deaths of Jo Grant (7.2)
+*** Short Trips
+**** [#A] ST9.6 The Same Face (8.6, top #4 in ST) :Jo:Master:P2019:
+**** [#B] ST6.7 The Blame Game (8.3, top #8 in ST) :Liz:Monk:
+
+To escape his Earth exile, the Doctor is prepared to make any bargain, come to any arrangement, or to do any deal with any devil – even if in this case the Devil wears a monk's robes. But when past misdeeds start catching up with both the Doctor and the Monk, who can Liz Shaw trust when time is running out and death is rapidly approaching?
+
+**** [#B] ST6.8 Damuscus (8.3, top #7 in ST) :Jo:UNIT:
+
+As the decade in English history which attracts the greatest quantity of alien invasions per annum, the 1970s are not the easiest time in which to steer the great British ship of state. The Prime Minister, nonetheless, is doing the very best job he can. Still, at least he has UNIT to rely on — their eccentric, bouffant-haired scientific adviser in particular. Or does he?
+
+**** [#C] ST7.X Landbound †7.6 :scripted:no_companion:
+**** CANCEL [#E] 10.03 Decline of the Ancient Mariner †4.2 :Sarah:
+CLOSED: [2020-06-25 Thu 21:52]
+
+** BBC short stories (audible) :BBC:📄:🎧:
+*** New
+**** DONE The Spear of Destiny (/12 Doctors, 12 Stories/ #3) :🎧:
+CLOSED: [2020-06-18 Thu 14:24]
+
+**** The Monster in the Woods (/Tales of Terror/) :Brigadier:Jo:
+**** The Christmas Invasion (/Twelve Doctors of Christmas/) :P2018:
+*** BBC Short Trips
+**** Freedom :Brigadier:Jo:
+**** Degrees of Truth :Brigadier:
+*** DW audio annual
+**** 1.05 - Dark Intruders
+**** 1.06 - Conundrum
+**** 2.04 - Scorched Earth
+**** 3.3 - The House That Jack Built
+** novels :📔:novel:
+*** TODO [#B] Harvest of Time (3.90) :UNIT:Jo:Master:
+
+After billions of years of imprisonment, the vicious Sild have broken out of confinement. From a ruined world at the end of time, they make preparations to conquer the past, with the ultimate goal of rewriting history. But to achieve their aims they will need to enslave an intellect greater than their own...
+
+On Earth, UNIT is called in to investigate a mysterious incident on a North Sea drilling platform. The Doctor believes something is afoot, and no sooner has the investigation begun when something even stranger takes hold: The Brigadier is starting to forget about UNIT's highest-profile prisoner. And he is not alone in his amnesia.
+
+As the Sild invasion begins, the Doctor faces a terrible dilemma. To save the universe, he must save his arch-nemesis... The Master
+
+**** BLOCK Harvest of Time (audiobook) (too big) :audiobook:🎧:
+*** [#D] Amorality Tale (PDA52) 3.75 :Sarah:audiobook:🎧:
+*** CANCEL [#E] Last of the Gadarene (PDA28) 3.67 :UNIT:Jo:
+CLOSED: [2020-07-02 Thu 07:08]
+
+**** BLOCK Last of the Gadarene (audiobook too big) :audiobook:🎧:
+*** CANCEL [#E] Verdigris (PDA30) 3.63 :UNIT:Jo:
+CLOSED: [2020-07-02 Thu 07:08]
+
+*** CANCEL [#E] +The Sands of Time (MA22)+ 3.63 :5th_Dr:
+CLOSED: [2021-06-18 Fri 04:57]
+
+*** CANCEL [#E] Scales of Injustice (MA24) 3.59 :UNIT:Liz:audiobook:🎧:
+CLOSED: [2020-07-02 Thu 07:08]
+
+非正义的尺度 第一章翻译
+https://tieba.baidu.com/p/2440478286?see_lz=1&pn=0&
+
+* 4th Doctor :4th_Dr:
+** tv :📺:
+*** S12 :Sarah:
+**** 12x04 Genesis of the Daleks :Best_of_Tom_Baker:
+**** DONE [#D] 12x05 - Revenge of the Cybermen †7.3)
+CLOSED: [2020-06-26 Fri 18:54]
+
+*** S13 :Sarah:
+**** DONE [#A] 13x01 - Terror of the Zygons †8.5)
+**** DONE [#C] 13x02 - Planet of Evil †7.7) 重看
+CLOSED: [2020-07-16 Thu 19:10]
+
+**** DONE [#A] 13x03 - Pyramids of Mars †8.6) :Sutekh:
+**** [#C] 13x04 - The Android Invasion †7.6)
+**** DONE 13x05 - The Brain of Morbius †8.4)
+**** DONE [#A] 13x06 - The Seeds of Doom †8.7)
+*** S14
+**** DONE [#C] 14x01 - The Masque of Mandragora †7.8)
+**** DONE [#C] 14x02 - The Hand of Fear †7.8) :Sarah:Best_of_Tom_Baker:
+CLOSED: [2020-08-01 Sat 21:49]
+
+**** DONE [#A] 14x03 - The Deadly Assassin †8.6) :Best_of_Tom_Baker:
+CLOSED: [2020-06-19 Fri 13:10]
+
+**** DONE [#C] 14x04 - The Face of Evil †7.6) :Leela:
+CLOSED: [2020-07-09 Thu 20:10]
+
+**** DONE [#A] 14x05 - The Robots of Death †8.6) :Leela:
+CLOSED: [2020-07-29 Wed 23:03]
+
+**** DONE [#A] 14x06 - The Talons of Weng-Chiang †8.8 :Leela:Best_of_Tom_Baker:
+*** S15 :Leela:
+**** DONE [#B] 15x01 - Horror of Fang Rock †8.2)
+**** TODO [#D] 15x02 - The Invisible Enemy †7.0)
+**** DONE [#C] 15x03 - Image of the Fendahl †7.6)
+CLOSED: <2020-08-03 Mon 18:24>
+
+sequel: Torchwood #25 Night of the Fendahl
+
+**** [#C] 15x04 - The Sun Makers †7.8)
+**** CANCEL [#E] 15x05 - Underworld †6.2)
+**** DONE [#C] 15x06 - The Invasion of Time †7.7)
+*** S16 :Romana_1:
+**** [#C] 16x01 - The Ribos Operation (7.7)
+**** [#C] 16x02 - The Pirate Planet (7.9)
+**** [#C] 16x03 - The Stones of Blood (7.8) 吸血之石
+**** [#C] 16x04 - The Androids of Tara (7.6)
+**** [#E] 16x05 - The Power of Kroll (6.9)
+**** DONE [#D] 16x06 - The Armageddon Factor (7.2)
+CLOSED: [2021-06-01 Tue 21:03]
+
+*** S17
+**** DONE 17x01 Destiny of the Daleks :Daleks:Davros:
+CLOSED: [2021-09-26 Sun 08:19]
+
+*** S18
+**** HALF [#C] 18x06 - The Keeper of Traken (7.9) :Nyssa:Master_decayed:
+**** TODO [#C] 18x07 - Logopolis (7.9) :Nyssa:Tegan:Master_tremas:
+** comics :📚:
+*** DONE Titan Comics: Gaze of the Medusa :Sarah:Titan:
+CLOSED: [2020-06-21 Sun 14:57]
+
+*** DONE DWM comics 4D
+CLOSED: [2020-08-10 Mon 20:14]
+
+**** DONE The Star Beast (重看) / The Star Beast 2
+CLOSED: [2020-08-10 Mon 20:19]
+
+**** 遗留 The Fangs of Time
+*** CANCEL Doctor Who Annuals (1976-1982) 看不下去
+CLOSED: [2020-08-03 Mon 23:17]
+
+*** TVComic
+**** Marvel DWCC reprint
+** audio :🎧:
+*** BF audio-drama misc :BigFinish:
+**** [#C] CA1.1 The Iron Legion (Comics Adaptation #1) (7.9)
+**** [#A] CA1.2 The Star Beast (Comics Adaptation #2) 9.0 :P2019:
+:PROPERTIES:
+:category: audio-drama
+:END:
+
+**** [#A] LS 2.07 - The Foe from the Future  8.9 :Leela:
+**** [#C] LS 2.08 - The Valley of Death 7.7 :Leela:
+**** [#B] LS6.1 - Return of the Cybermen
+:PROPERTIES:
+:rating:   8.1
+:END:
+
+**** [#A] LS6.2 - The Doomsday Contract
+:PROPERTIES:
+:rating:   8.9
+:END:
+
+**** DONE [#C] Night of the Stormcrow (Bonus Release #11) †7.7) :Leela:scripted:
+CLOSED: [2020-07-29 Wed 23:02]
+
+**** DONE [#C] Night of the Vashta Nerada †7.8) (Classic Doctors, New Monsters #2.1) :scripted:no_companion:
+CLOSED: [2020-07-29 Wed 23:03]
+
+mp3val fix
+
+**** LATER [#B] Collision Course †8.3) (The Legacy of Time #6) :Leela:Romana2:
+CLOSED: [2020-08-05 Wed 19:04]
+
+与前面的故事/设定相关（Main Range 001/ The Legecy of Time 等）
+
+thetimescales 上32/33认为需要先听前面的故事
+
+**** LATER [#A] Someone I Once Knew (The Diary of River Song #4.4) †8.5 :River:
+CLOSED: [2020-08-05 Wed 19:05]
+
+15 out of 16 (93.8%) raters say this story requires a previous story.
+
+*** BF 4DA :4DA:BigFinish:
+**** 4DA series 1 :Leela:scripted:P2012:
+***** CANCEL [#E] 1.1 Destination - Nerva †6.5
+CLOSED: [2020-06-28 Sun 13:30]
+
+***** DONE [#C] 1.2 The Renaissance Man †7.5)
+CLOSED: [2020-08-07 Fri 18:25]
+
+***** DONE [#B] 1.3 The Wrath of the Iceni †8.4) (w' scripting📄)
+CLOSED: [2020-06-23 Tue 09:05]
+
+***** DONE [#D] 1.5 - Trail of the White Worm (7.3) :Master_decayed:
+CLOSED: <2020-08-17 Mon 10:54>
+
+The legend dates back to Roman times, at least: a great White Worm, as wide as a man, slithers out of the rocks of the Dark Peak Gap to take animals, sometimes even children, for its food.
+
+When the Doctor and Leela arrive in the wilds of Derbyshire, only to get caught up in the hunt for a missing girl, they soon discover that the legend of the Worm is very much alive — even now, in 1979.
+
+Worse still, it seems that the Doctor isn't the only renegade Time Lord on the trail of this deadly and mysterious Worm...
+
+***** 2DONE [#D] 1.6 - The Oseidon Adventure (7.2) :Master_decayed:
+CLOSED: [2020-08-18 Tue 13:03]
+
+The first time the fearsome Kraals attempted to take over the Earth, with the help of their android agents, things didn't go quite according to plan — thanks to the time-travelling alien Doctor and his allies at UNIT.
+
+This time, Marshal Grinmal and his belligerent cohorts are ready for them. This time, they'll make no mistakes. This time, Chief Scientist Tyngworg has not just one plan, but a back-up plan, and a back-up back-up plan worked out...
+
+With the Doctor a prisoner on the Kraals' radiation-blasted home planet of Oseidon, only his companion Leela can save the day — alongside a most unlikely ally.
+
+**** 4DA series 2 :Romana_1:P2013:
+***** DONE [#B] 2.1 The Auntie Matter
+CLOSED: <2021-05-27 Thu 21:05>
+:PROPERTIES:
+:rating:   8.1
+:END:
+
+***** START [#B] 2.4 The Justice of Jalxar :Jago:Litefoot:D2022_01_doctor:
+SCHEDULED: <2022-01-30 Sun>
+:PROPERTIES:
+:rating:   8.1
+:END:
+
+***** [#C] 2.5 - Phantoms of the Deep (7.5)
+***** [#D] 2.6 - The Dalek Contract (7.0)
+**** 4DA series 3 :Leela:P2014:scripted:
+***** 2DONE [#C] 3.1 - The King of Sontar (7.7) :Sontarans:D2021_09_dr:
+CLOSED: [2020-08-27 Thu 12:44] SCHEDULED: <2021-09-11 Sat>
+
+Dowcra base. The third Elite Sontaran Assassination Squad closes in on its target. A dozen trained killers, but even they will be unable to bring down the invincible Strang...
+
+Manipulated by the Time Lords, the TARDIS also arrives on Dowcra. And the Doctor is set to encounter the greatest Sontaran ever cloned...
+
+-----
+
+The Time Lords sent her and the Doctor to Dowcra. She saved Vilhol as she didn't think it was fair for an unarmed soldier to be killed with arms. She was told by Vilhol of the Sontaran plans and of Strang's betrayal. She went to find the Doctor but was informed by Irving that he went to see Strang. She went to the armoury to find bombs to destroy the portal and the hatching vats. She told Reaver that Strang would not need her when his army of clones was activated. She blew up the portal which then caused the whole site to collapse. Because the Doctor wasn't certain that he could make the Sontaran clones good, she destroyed all the vats. This caused a rift between the two of them. (AUDIO: The King of Sontar)
+
+***** 2DONE [#D] 3.2 - White Ghosts (7.4)
+CLOSED: [2020-08-27 Thu 12:44]
+
+***** 2DONE [#B] 3.3 The Crooked Man (8.2) :D2021_12_doctor:week1:
+CLOSED: [2020-08-27 Thu 12:44]
+
+***** CANCEL [#E] +3.4 The Evil One+ (6.2)
+CLOSED: [2020-07-30 Thu 06:46]
+
+***** 2DONE [#C] 3.5 - Last of the Colophon (7.8)
+CLOSED: [2020-08-27 Thu 12:44]
+
+***** HALF [#E] +3.6 - Destroy the Infinite (6.9)+ :Eminence:D2021_08_dr:
+***** CANCEL [#E] +3.7 - The Abandoned+ (6.2)
+CLOSED: [2020-07-30 Thu 06:48]
+
+***** CANCEL [#D] 3.8 - Zygon Hunt (7.0)
+CLOSED: [2020-07-30 Thu 06:50]
+
+**** 4DA series 4 :Leela:P2015:
+***** CANCEL [#E] 4.1 +The Exxilons+ (6.5)
+***** [#C] 4.2 The Darkness of Glass (7.5)
+***** 2DONE [#B] 4.3 Requiem for the Rocket Men  (8.4) :Master_decayed:D2021_07_dr:
+CLOSED: [2021-07-27 Tue 23:11]
+
+***** [#D] 4.4 Death Match (7.3)
+:PROPERTIES:
+:rating:   7.3
+:END:
+
+***** TODO [#C] 4.5 - Suburban Hell (7.7)
+***** [#D] 4.6 The Cloisters of Terror (7.4)
+***** [#D] 4.7 The Fate of Krelos (7.2)
+***** CANCEL [#F] 4.8 Return to Telos (5.8)
+CLOSED: [2020-08-20 Thu 13:56]
+
+**** 4DA series 5 :Romana_2:P2016:
+***** [#D] 5.2 - The Labyrinth of Buda Castle (7.1)
+***** [#C] 5.3 - The Paradox Planet (7.6)
+***** [#C] 5.4 - Legacy of Death (7.6)
+***** 2DONE [#A] 5.6 The Trouble with Drax (8.7) :D2021_06:
+CLOSED: <2021-07-01 Thu 16:39>
+
+***** [#D] 5.7 - The Pursuit of History (7.1)
+**** 4DA series 6 :Romana_2:P2017:
+***** [#D] 6.2 - The Eternal Battle (7.3)
+***** [#D] 6.5 - The Haunting of Malkin Place (7.4)
+***** [#D] 6.8 - The Skin of the Sleek (7.2)
+**** 4DA series 7 :Leela:P2018:
+***** [#C] 7.1 The Sons of Kaldor (7.7) :Kaldor:Robots:
+***** [#C] 7.2 The Crowmarsh Experiment (7.6)
+***** [#C] 7.6 The Bad Penny (7.5)
+***** [#C] 7.7/7.8 - Kill the Doctor! / The Age of Sutekh (7.8/7.0) :Sutekh:
+**** 4DA series 8 :P2019:Ann:
+***** HALF [#E] +4DA 8.1 The Sinestran Kill+ :D2021_10_dr:Ann:plot_yes:
+SCHEDULED: <2021-11-05 Fri>
+:PROPERTIES:
+:rating:   6.8
+:END:
+
+***** [#C] 8.3 - The Enchantress of Numbers (7.6)
+***** [#B] 8.7/8.8 The Perfect Prisoners (8.2/8.3) :7:
+**** 4DA series 9 :P2020:
+***** [#C] 9.1 - Purgatory 12 (7.6)
+***** [#B] 9.2 Chase the Night (8.3) :Romana_2:
+:PROPERTIES:
+:rating:   8.3
+:END:
+
+***** [#D] 9.3 - The Planet of Witches (7.1)
+***** [#B] 9.4 - The Quest of the Engineer (8.0) :Romana_2:
+***** DONE [#A] 9SP1 Shadow of the Sun (8.6) :4D:2020:
+CLOSED: [2020-07-15 Wed 19:13]
+
+**** 4DA series 10 :Leela:P2021:
+***** 10.1 The World Traders
+***** 10.2 The Day of the Comet
+*** BBC 4DA :scripted:🎧:Yates:DA:BBC:
+**** [#B] 3.4 The Hexford Invasion †8.4)
+**** [#B] 3.5 Survivors in Space †8.1)
+*** BF shorts :🎧:audiobook:
+**** Companion Chronicles
+***** [#C] CC2.4 - The Catalyst †7.9
+***** CANCEL [#D] CC3.4 - Empathy Games †7.0
+CLOSED: [2020-07-05 Sun 23:49]
+
+***** [#D] CC4.10 - The Time Vampire †7.2 :Leela:
+***** CANCEL [#E] CC7.6 - The Child †6.3
+CLOSED: [2020-07-05 Sun 23:49]
+
+**** BF Short Trips :audiobook:
+***** LATER [#A] ST6.9 - A Full Life †9.0 :Romana_2:
+CLOSED: [2020-08-05 Wed 19:04]
+
+***** LATER [#B] ST8.4 - Erasure †8.2 :Adric:
+CLOSED: [2020-08-05 Wed 19:05]
+
+***** CANCEL [#E] ST9.8 #HarrySullivan †6.8
+CLOSED: [2020-06-25 Thu 21:56]
+
+*** BBC short stories :📄:
+**** New
+***** DONE The Roots of Evil (12 Doctors, 12 Stories #4) (微信读书) :📔:Leela:
+CLOSED: [2020-08-08 Sat 14:26]
+
+***** Sarah Jane and the Temple of Eyes (The Day She Saved the Doctor #1) :Sarah:P2018l:
+***** Tales of Terror #4 - Toil and Trouble
+***** Twelve Angels Weeping 11 - Ice Warriors - Red Planet
+***** Twelve Doctors of Christmas #4  - Three Wise Man
+**** BBC audio annual :scripted:🎧:
+***** CANCEL 1.6 Conundrum ----- Annual 1982 :Adric:K9-II:
+CLOSED: [2020-07-19 Sun 23:03]
+
+***** 2.5 Double Trouble ----- Annual 1977 :Sarah:Brigadier:
+***** 3.4 The Sinister Sponge (Annual 1976 :Sarah:Harry:
+***** 3.5 The Crocodiles from the Mist (Annual 1979, :Leela:
+**** BBC short trips :BBC:🎧:
+***** LATER Glass :Romana2:
+CLOSED: [2020-08-05 Wed 19:04]
+
+***** CANCEL Old Flames :Sarah:Iris:
+CLOSED: [2020-07-19 Sun 23:00]
+
+取消原因：Iris
+
+** novels :📔:novel:
+*** LATER [#A] Festival of Death (PDA35) 4.11 :Romana2:已购:
+CLOSED: [2020-08-05 Wed 19:04]
+
+*** [#A] Scratchman (4.06) :Sarah:
+**** Scratchman (audiobook) 网易云音乐 :audiobook:
+
+分享了#Doctor Who Audiobooks#的节目《2019-01 - Scratchman (BBC Physical Audio - Baker)》:  http://music.163.com/program/2065027170/89011524/?userid=88763995  (来自@网易云音乐)
+
+*** [#C] The Romance of Crime (MA06) 3.88 :Romana2:
+**** novel adaptation 03 - The Romance of Crime †8.0) :🎧:
+*** LATER [#C] The English Way Of Death (MA20) 3.87 :Romana2:
+CLOSED: [2020-08-05 Wed 19:04]
+
+**** novel adaptation 05 - The Well-Mannered War †8.1) :🎧:
+*** LATER [#A] The Well Mannered War (MA33) 4.00 :Romana2:
+CLOSED: [2020-08-05 Wed 19:04]
+
+**** novel adaptation 04 - The English Way of Death †7.9) :🎧:
+* no doctor :no_doctor:
+** comics
+*** DWM backup :📚:
+**** DONE The Return of the Daleks
+CLOSED: <2020-08-19 Wed 07:37>
+
+**** LATER Throwback: The Soul of a Cyberman
+CLOSED: [2020-08-29 Sat 07:37]
+
+**** The Final Quest
+**** DONE The Stolen TARDIS
+CLOSED: <2020-08-20 Thu 07:39-01:41>
+
+**** K9's Finest Hour
+**** Warlord of the Ogrons :Ogrons:
+**** Deathworld
+**** DONE Abslom Daak... Dalek Killer
+CLOSED: <2018-07-13 Fri 08:03>
+
+**** Twilight of the Silurians
+** P.R.O.B.E :📺:Liz:
+*** DONE The Zero Imperative 
+CLOSED: [2020-06-19 Fri 20:00]
+
+*** DONE The Devil of Winterborne
+CLOSED: [2020-07-12 Sun 12:00]
+
+**** DONE PROBE02 - The Devil of Winterborne 制作英文字幕
+CLOSED: <2020-07-11 Sat 12:01>
+
+*** DONE Unnatural Selection
+CLOSED: <2020-08-09 Sun 16:31>
+
+*** FIXME Ghosts of Winterborne
+*** DONE When to Die :P2015:
+CLOSED: <2020-08-15 Sat 16:31>
+
+** short stories
+*** [#A] ST7.6 - How to Win Planets and Influence People †9.2 :Monk:Sarah:Harry:
+*** TODO [#A] ST8.10 - I Am The Master †9.0 :Master:bilibili:
+
+【【中英熟肉】藏在大衣里的脆皮马w（I am the Master广播剧预告)-哔哩哔哩】https://b23.tv/IGxQAU
+
+** audio
+*** CANCEL Night of the Fendahl (Torchwood #25) :audio-drama:
+CLOSED: [2020-08-18 Tue 16:31]
+
+sequel to 15x03 The Image of Fandahl
+
+*** DONE [#B] The Green Life (Torchwood #26) †8.1 :BOSS:🎧:Jo:Jack:BigFinish:
+CLOSED: [2020-07-02 Thu 07:24]
+
+算是 10x05 - The Green Death 的续集
+
+** novels
+*** [#A] Who Killed Kennedy (4.1) :novel:
+*** DONE [#B] 敌人的脸孔 The Face of the Enemy (PDA top #5) †3. 83 :📔:UNIT:Master:
+CLOSED: [2020-07-21 Tue 18:26]
+
+敌人的脸孔
+
+https://tieba.baidu.com/p/1759652415?see_lz=1&pn=0&
+
+主要角色其实是Master和准将，不关Doctor什么事。更新至第十九章完（19/22），未完结
+
+PROSE: The Face of the Enemy is a sequel to Inferno, revisiting the "alternate" world.
+
+*** TODO 生命,宇宙及其一切 :📔:
+
+Doctor Who and the Krikkitmen
+这本书中的反派“坂裘人”的设定之后被完全沿用到《生命、宇宙及一切》中
+

@@ -1,0 +1,1544 @@
+* Torchwood :torchwood:
+** tv :📺:
+** BF monthly :🎧:
+*** series 1 (1-6) :P2015:scripted:
+
+List of Torchwood Big Finish audio transcripts
+https://pax-ltd.livejournal.com/9681.html
+
+**** DONE [#B] 1. The Conspiracy :Jack:The_Commitee:
+     CLOSED: [2020-11-02 Mon 10:34]
+     :PROPERTIES:
+     :rating:   8.1
+     :END:
+
+**** DONE [#A] 2. Fall to Earth :Ianto:
+     CLOSED: [2020-10-20 Tue 08:20]
+     :PROPERTIES:
+     :rating:   8.8
+     :END:
+
+**** DONE [#B] 3. Forgotten Lives :Jack:The_Commitee:
+     CLOSED: <2020-11-17 Tue 10:34>
+     :PROPERTIES:
+     :rating:   8.0
+     :END:
+
+**** TODO [#B] TW4. One Rule :Yvonne:D2021_09_extra:overdue:
+     SCHEDULED: <2021-11-05 Fri>
+     :PROPERTIES:
+     :rating:   8.1
+     :END:
+
+Yvonne Hartman
+
+**** DONE [#B] 5 Uncanny Valley :Jack:The_Commitee:
+     CLOSED: [2020-10-21 Wed 18:52]
+     :PROPERTIES:
+     :rating:   8.2
+     :END:
+
+**** DONE [#C] 6 More Than This :Gwen:
+     CLOSED: [2021-04-24 Sat 10:12]
+     :PROPERTIES:
+     :rating:   7.8
+     :END:
+
+half scripted https://www.pillowfort.io/posts/116528
+
+Gwen Cooper has triumphed against impossible odds before, but now she's finally met her match: Roger Pugh, Planning Officer for Cardiff City Council.
+
+Mr Pugh doesn't believe the world needs Torchwood. Gwen sets out to prove him wrong. For Mr Pugh, it's a day that'll change his life. If he can survive it.
+
+*** series 2 (07-12) :P2016:
+**** DONE [#D] 7 Victoria Age :Jack:
+     CLOSED: [2020-10-23 Fri 22:00]
+     :PROPERTIES:
+     :rating:   7.4
+     :END:
+
+**** 2DONE [#B] 8 Zone 10 :Tosh:
+     CLOSED: [2020-11-19 Thu 18:32]
+     :PROPERTIES:
+     :rating:   8.4
+     :END:
+
+**** DONE [#B] TW09 Ghost Mission :Andy:Norton:The_Commitee:D2021_08_extra:plot_no:
+     CLOSED: [2021-08-08 Sun 10:52]
+     :PROPERTIES:
+     :rating:   8.3
+     :END:
+
+**** 2DONE [#A] 10 Moving Target :Suzie:
+     CLOSED: [2020-11-19 Thu 18:32]
+     :PROPERTIES:
+     :rating:   8.9
+     :END:
+
+**** TODO [#A] 11 Broken [#S] :Jack:Ianto:scripted:
+     :PROPERTIES:
+     :rating:   9.2
+     :END:
+
+B站有字幕 https://b23.tv/AvT0wB
+https://b23.tv/Lv2q44
+
+**** 2DONE [#A] 12. Made You Look :Gwen:
+     CLOSED: [2021-04-27 Tue 08:33]
+     :PROPERTIES:
+     :rating:   8.8
+     :END:
+
+*** series 3 (13-18) :P2017:
+**** CANCEL [#E] +13. Visiting Hours+ :Rhys:
+     :PROPERTIES:
+     :rating:   6.4
+     :END:
+
+**** CANCEL [#E] +14. The Dollhouse+
+     :PROPERTIES:
+     :rating:   6.3
+     :END:
+
+**** START [#B] 15. Corpse Day :Andy:Owen:The_Commitee:
+     :PROPERTIES:
+     :rating:   8.1
+     :END:
+
+**** 2DONE [#A] 16. torchwood_cascade_CDRIP.tor :Tosh:
+     CLOSED: [2020-11-20 Fri 08:40]
+     :PROPERTIES:
+     :rating:   8.6
+     :END:
+
+**** [#D] 17. The Office of Never Was :Ianto:
+     :PROPERTIES:
+     :rating:   7.3
+     :END:
+
+**** [#D] 18. The Dying Room
+     :PROPERTIES:
+     :rating:   7.1
+     :END:
+
+*** series 4 (19-24) :P2018:
+**** DONE [#C] 19. The Death of Captain Jack :John:
+     CLOSED: <2018-08-25 Sat 21:00>
+     :PROPERTIES:
+     :rating:   7.9
+     :END:
+
+**** 2DONE [#B] TW20. The Last Beacon :Owen:Ianto:scripted:D2021_07_extra:
+     CLOSED: [2021-07-15 Thu 20:04]
+     :PROPERTIES:
+     :r:        8.3
+     :END:
+
+half scripted https://www.pillowfort.social/posts/563376
+
+**** [#A] 21. We Always Get Out Alive [#S] :Gwen:Rhys:
+     :PROPERTIES:
+     :rating:   9.2
+     :END:
+
+**** [#A] TW22. Goodbye Piccadilly :Andy:Norton:plot_yes:
+     :PROPERTIES:
+     :rating:   8.6
+     :END:
+
+Sgt Andy Davidson wakes up in the 1950s. He's chained to a bed, his clothes are missing and the building's on fire. Norton Folgate needs his help.
+
+The streets of Soho are swarming with gangsters, rumours and betrayals. Somewhere out there is a mysterious alien artefact, and Andy and Norton have to get to it first. Because tonight they're going to save Torchwood.
+
+**** HALF [#C] 23. Instant Karma :Tosh:
+     :PROPERTIES:
+     :rating:   7.7
+     :END:
+
+**** 2DONE [#A] 24. Deadbeat Escape [#S] :Bilis:
+     CLOSED: [2020-11-19 Thu 18:34]
+     :PROPERTIES:
+     :rating:   9.6
+     :END:
+
+*** series 5 :P2019:
+**** CANCEL [#E] +25 Night of the Fendahl+
+     :PROPERTIES:
+     :rating:   6.8
+     :END:
+
+**** DONE [#C] 26 The Green Life :Jack:Jo:
+     CLOSED: <2020-07-05 Sun 09:49>
+     :PROPERTIES:
+     :rating:   7.9
+     :END:
+
+**** 2DONE [#B] 27 Sync :Suzie:
+     CLOSED: [2020-11-20 Fri 07:55]
+     :PROPERTIES:
+     :rating:   8.4
+     :END:
+
+Torchwood vs Monsters!
+
+Margaret Blaine is the Mayor of Cardiff. She's also an alien who'll do anything to get off the planet Earth. When a spaceship crashes outside Cardiff, it seems like the answer to her prayers. But she's not the only person at crash site.
+
+Suzie Costello works for Torchwood, but strictly to her own agenda. When a spaceship crashes outside Cardiff, it seems like the answer to her prayers. But she's not the only person at the crash site.
+
+Bonded by an alien device, Margaret and Suzie find themselves on the run from Torchwood, the police, and six warp missiles that'll destroy them, Cardiff, and most of the Western Hemisphere.
+
+**** CANCEL [#E] +28 Sargasso+
+     :PROPERTIES:
+     :rating:   6.3
+     :END:
+
+**** [#C] 29 Serenity :Jack:Ianto:
+     :PROPERTIES:
+     :rating:   7.6
+     :END:
+
+**** 2DONE [#A] 30 The Hope [#S] :Owen:Andy:
+     CLOSED: [2021-05-08 Sat 08:04]
+     :PROPERTIES:
+     :rating:   9.5
+     :END:
+
+Megwyn Jones is one of the most hated women in Britain. She used to run a home for troubled children in an isolated part of Snowdonia called The Hope. For a long time there were rumours about what was happening there, and then one day it was realised that the children had gone missing.
+
+Ever since, Megwyn's kept her peace. Is she innocent? Is she guilty? Where are the bodies?
+
+The years have been long and hard on Megwyn and on the families of the children. But now Megwyn's dying, and she's agreed to go back to The Hope, to reveal the horrible secret she's kept all these years.
+
+**** 2DONE [#E] +31 The Vigil+ :Tosh:
+     CLOSED: [2020-11-20 Fri 07:52]
+     :PROPERTIES:
+     :rating:   6.6
+     :END:
+
+Sebastian Vaughan is the brightest, newest recruit to Torchwood. He's come from a very good family, an excellent school, and with a degree from the finest College. He's the kind of person bred for Torchwood...
+
+**** CANCEL [#E] +32 Smashed+ :Gwen:
+     :PROPERTIES:
+     :rating:   6.8
+     :END:
+
+**** 2DONE [#A] 33 Dead Man's Switch :Bilis:
+     CLOSED: [2021-04-08 Thu 19:31]
+     :PROPERTIES:
+     :rating:   8.6
+     :END:
+
+第三个被掳的人，后来得救的那个Zoe Blake，她口音比较重，难以听懂
+
+**** CANCEL [#F] +34 Expectant+ :Jack:Ianto:
+     :PROPERTIES:
+     :rating:   5.8
+     :END:
+
+**** HALF [#C] 35 Fortitude :Queen:plot_yes:D2021_12_extra:week4:
+     SCHEDULED: <2021-12-26 Sun>
+     :PROPERTIES:
+     :rating:   7.5
+     :END:
+
+**** 2DONE [#A] 36 Dissected :Gwen:Martha:plot_yes:D2021_06:
+     CLOSED: [2021-06-17 Thu 23:10]
+     :PROPERTIES:
+     :rating:   8.9
+     :END:
+
+*** series 6 :2020:
+**** 2DONE [#A] 37 Tropical Beach Sounds and Other Relaxing Seascapes #4 [#S]
+     :PROPERTIES:
+     :rating:   9.3
+     :END:
+
+**** DONE [#A] 38 Iceberg :Owen:plot_yes:
+     CLOSED: [2021-04-24 Sat 15:37]
+     :PROPERTIES:
+     :rating:   8.9
+     :END:
+
+**** HALF [#C] 39 Dinner and a Show :Tosh:Ianto:plot_yes:
+     :PROPERTIES:
+     :rating:   7.8
+     :END:
+
+**** DONE [#A] 40 Save Our Souls :Queen:
+     CLOSED: <2020-08-22 Sat 10:01>
+     :PROPERTIES:
+     :rating:   9.1
+     :END:
+
+**** [#B] 41 Red Base :Andy:
+     :PROPERTIES:
+     :rating:   8.1
+     :END:
+
+**** [#C] 42 Ex Machina :Ianto:
+     :PROPERTIES:
+     :rating:   7.9
+     :END:
+
+**** [#A] 43. The Three Monkeys :Owen:Andy:
+     SCHEDULED: <2021-12-08 Wed>
+     :PROPERTIES:
+     :rating:   8.8
+     :END:
+
+Andy Davidson's been ordered to watch over a local businessman. Everything's always gone right for him, and Andy's long wondered why.
+
+Owen joins him on the stakeout. He knows something – the businessman's attracted Torchwood's attention, and tonight, the two of them are going to take him down. But will luck be on their side?
+
+**** [#A] 44. Rhys and Ianto's Excellent Barbeque [#S] :Rhys:Ianto:
+     :PROPERTIES:
+     :rating:   9.4
+     :END:
+
+Rhys is planning a lads' night in. Barbie in the back yard, few tins, mates and bants. But the only person who turns up is Ianto – who hasn't been invited. Hell is other people, especially when they've brought board games.
+
+Something goes wrong. The two of them could be trapped together for eternity at a barbecue where the sausages never cook, and worse, the brewskis remain forever out of reach.
+
+**** 2DONE [#B] 45. The Crown :Queen:
+     CLOSED: [2021-05-08 Sat 22:59]
+     :PROPERTIES:
+     :rating:   8.4
+     :END:
+
+The Ferryman stands in shadow and waits.
+
+The Ferryman giggles, hungers and hates.
+
+The Ferryman comes to carry away
+
+All who behold the crown and disobey.
+
+Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. A patient who claims to be haunted by a terrible curse. A patient who claims to be Queen Victoria.
+
+**** HALF [#A] 46. Coffee :Ianto:D2021_07_extra:
+     :PROPERTIES:
+     :rating:   8.9
+     :END:
+
+**** [#D] 47. Drive :Tosh:
+     :PROPERTIES:
+     :rating:   7.2
+     :END:
+
+**** [#A] 48. Lease of Life :Owen:
+     :PROPERTIES:
+     :rating:   8.4
+     :END:
+
+*** series 7
+**** [#A] 49. Gooseberry :Owen:Andy:
+     :PROPERTIES:
+     :rating:   8.7
+     :END:
+
+**** BLOCK Absent Friends (missing)
+**** [#B] 51. The Five People You Kill in Middlebrough :Yvonne:
+     :PROPERTIES:
+     :rating:   8.3
+     :END:
+
+**** [#A] 52. Madam I'm :Norton:Adam:
+     :PROPERTIES:
+     :rating:   8.8
+     :END:
+
+**** [#D] 53. Empire of Shadows :Zach:
+     :PROPERTIES:
+     :rating:   7.1
+     :END:
+
+**** [#A] 54. Curios :Bilis:
+     :PROPERTIES:
+     :rating:   8.9
+     :END:
+
+**** HALF [#B] 55. The Great Sontaran War :Ianto:Sontarans:D2021_11_extra:
+     DEADLINE: <2021-11-25 Thu 12:50> SCHEDULED: <2021-11-27 Sat>
+     :PROPERTIES:
+     :rating:   8.4
+     :END:
+
+**** 56. The Red List :Ace:
+**** 57. The Grey Mare :Ianto:
+** BBC audio dramas :🎧:scripted:
+*** [#D] 1. Lost Souls :Martha:
+*** [#B] 2. Asylum
+*** DONE [#B] 3. Golden Age
+
+Torchwood India
+
+*** [#C] 4. The Dead Line :bilibili:
+
+【John Barrowman字幕组-火炬木广播剧中字-无人来电-哔哩哔哩】 https://b23.tv/Cxi034N
+
+*** [#C] The Devil and Miss Carew
+*** CANCEL [#E] Submission
+*** [#B] The House of the Dead :bilibili:
+
+【John Barrowman 字幕组-火炬木广播剧中字-亡者之屋-哔哩哔哩】 https://b23.tv/uQcs9jt
+
+** specials
+*** 2DONE [#B] special 1: The Torchwood Archive :P2016:The_Commitee:plot_yes:
+    CLOSED: [2020-11-19 Thu 18:33]
+    :PROPERTIES:
+    :rating:   8.3
+    :END:
+
+*** START [#B] special 2: Outbreak :P2016:plot_yes:
+    :PROPERTIES:
+    :rating:   8.3
+    :END:
+
+*** START [#A] special 3: Believe :P2018:
+    :PROPERTIES:
+    :rating:   8.7
+    :END:
+
+The Church of the Outsiders believe that mankind is about to evolve, to reach out into the stars. Owen Harper believes that Torchwood has to do whatever it takes to stop them
+
+*** Torchwood One: Before the Fall :P2017:
+*** Torchwood One: Machines :P2018:
+*** Torchwood One: Latter Days :P2019:
+*** The Sins of Captain John :P2020:
+*** Torchwood Soho: Parasite :P2020:
+*** Torchwood Soho: Ashenden :P2021:
+** tv continuation :🎧:
+*** Aliens Among Us
+**** 2DONE [#B] 5.01 Changes Everything
+     CLOSED: [2021-01-31 Sun 18:37]
+     :PROPERTIES:
+     :rating:   8.0
+     :END:
+
+**** 2DONE [#C] 5.02 Aliens & Sex & Chips & Gravy
+     CLOSED: [2021-01-31 Sun 18:37]
+     :PROPERTIES:
+     :rating:   7.6
+     :END:
+
+**** 2DONE [#A] 5.03 Orr
+     CLOSED: [2021-01-31 Sun 18:37]
+     :PROPERTIES:
+     :rating:   8.8
+     :END:
+
+**** 2DONE [#B] 5.04 Superiority Complex
+     CLOSED: [2021-01-31 Sun 18:37]
+     :PROPERTIES:
+     :rating:   8.1
+     :END:
+
+**** START [#D] 5.5 Love Rat
+**** HALF [#A] 5.6 A Kill to a View :plot_yes:Bilis:
+     :PROPERTIES:
+     :rating:   8.6
+     :END:
+
+**** 2DONE [#B] 5.7 Zero Hour
+     CLOSED: [2021-05-07 Fri 16:50]
+     :PROPERTIES:
+     :rating:   8.2
+     :END:
+
+**** 3QTR [#B] TW5.8 The Empty Hand :D2021_08_extra:Andy:
+     :PROPERTIES:
+     :rating:   8.3
+     :END:
+
+**** HALF [#A] TW5.9 Poker Face :Yvonne:D2021_09_extra:plot_yes:
+     SCHEDULED: <2021-09-24 Fri>
+     :PROPERTIES:
+     :rating:   9.1
+     :END:
+
+**** 3QTR TW5.10 Tagged :D2021_10_extra:plot_yes:
+     CLOSED: [2021-11-03 Wed 08:54] SCHEDULED: <2021-11-03 Wed>
+
+**** START [#D] +TW5.11 Escape Room+ :D2021_11_extra:
+     SCHEDULED: <2021-11-27 Sat>
+     :PROPERTIES:
+     :rating:   7.3
+     :END:
+
+**** HALF [#C] 5.12 - Herald of the Dawn :D2021_12_extra:week3:plot_yes:
+     SCHEDULED: <2021-12-25 Sat>
+     :PROPERTIES:
+     :rating:   7.6
+     :END:
+
+*** Gods Among Us
+**** [#A] 6.1 - Future Pain
+     :PROPERTIES:
+     :ratinh:   9.0
+     :END:
+
+**** 6.2 The Man Who Destroyed Torchwood
+**** 6.3 See No Evil
+**** 6.4 Night Watch
+** The Lives of Captain Jack :🎧:Jack:
+*** vol.1 :P2017:
+**** START [#D] The Year After I Died
+     :PROPERTIES:
+     :rating:   7.2
+     :END:
+
+**** [#C] Wednesdays For Beginners
+     :PROPERTIES:
+     :rating:   7.6
+     :END:
+
+**** [#D] One Enchanted Evening
+     :PROPERTIES:
+     :rating:   7.4
+     :END:
+
+**** DONE [#C] Month 25
+     CLOSED: <2018-08-19 Sun 21:58>
+     :PROPERTIES:
+     :rating:   7.7
+     :END:
+
+*** vol.2 :P2019:
+**** [#C] Piece of Mind :6th_Dr:
+     :PROPERTIES:
+     :rating:   7.8
+     :END:
+
+**** [#D] What Have I Done?
+     :PROPERTIES:
+     :rating:   7.2
+     :END:
+
+**** CANCEL [#E] Driving Miss Wells
+     CLOSED: [2021-04-23 Fri 23:05]
+     :PROPERTIES:
+     :rating:   6.3
+     :END:
+
+*** vol.3
+**** HALF [#B] Crush :D2021_07_extra:Jackie:
+     :PROPERTIES:
+     :rating:   8.2
+     :END:
+
+**** DONE [#B] JACK3.2 Mighty and Despair :D2021_08_extra:plot_no:
+     CLOSED: [2021-08-27 Fri 08:54]
+     :PROPERTIES:
+     :rating:   8.0
+     :END:
+
+**** DONE R&J :River:bilibili:
+     CLOSED: <2020-09-21 Mon 20:30>
+     :PROPERTIES:
+     :rating:   9.5
+     :END:
+
+【【神秘博士/火炬木广播剧翻译】R&J（博士、上校和宋江的超时空三角恋情！）-哔哩哔哩】https://b23.tv/IZfO0B
+
+* River Song :River:
+** prose
+*** DONE novel: Angel's Kiss
+    CLOSED: <2020-09-24 Thu 21:08>
+
+*** DONE short stories: The Legends of River Song
+    CLOSED: [2020-09-27 Sun 21:07]
+
+** audio :🎧:
+*** DoRS 1 :P2015:
+**** DONE [#E] 1.1 The Boundless Sea (6.6) :bilibili:
+     CLOSED: <2020-09-12 Sat 21:11>
+
+【The Diary of River Song Series 01-哔哩哔哩】https://b23.tv/CGrGlH
+
+**** DONE [#C] 1.2 I Went to a Marvellous Party (7.2) :bilibili:
+     CLOSED: <2020-09-15 Tue 21:11>
+
+**** 2DONE [#B] 1.3 Signs (8.0) :bilibili:
+     CLOSED: <2020-09-18 Fri 21:11>
+
+**** DONE [#B] 1.4 The Rulers of the Universe (8.4) :8th_Dr:bilibili:
+     CLOSED: [2020-09-21 Mon 21:06]
+
+*** DoRS 2 :P2016:
+**** DONE 2DONE [#C] 2.1 The Unknown (7.8) :7th_Dr:
+     CLOSED: [2020-11-19 Thu 07:59]
+
+**** DONE [#A] 2.2 - Five Twenty-Nine (9.0)
+     CLOSED: <2020-11-17 Tue 07:59>
+
+**** DONE [#B] 2.3 World Enough and Time (8.0) :6th_Dr:
+     CLOSED: <2020-11-18 Wed 20:10>
+
+**** [#C] 2.4 The Eye of the Storm (7.7) :6th_Dr:7th_Dr:
+*** DoRS 3 :P2018:
+**** DONE [#A] 3.1 The Lady in the Lake (8.8)
+     CLOSED: <2021-01-01 Fri 08:59>
+     :PROPERTIES:
+     :rating:   8.8
+     :END:
+
+**** HALF [#C] 3.2 A Requiem for the Doctor (7.8) :5th_Dr:
+     :PROPERTIES:
+     :rating:   7.8
+     :END:
+
+**** DONE [#A] 3.3 My Dinner with Andrew (8.9) :5th_Dr:D2021_05:
+     CLOSED: <2021-05-20 Thu 22:59>
+     :PROPERTIES:
+     :rating:   8.9
+     :END:
+
+Welcome, Mesdames et Messieurs, to The Bumptious Gastropod.
+
+The most exclusive, most discreet dining experience outside the universe. For the restaurant exists beyond spacetime itself, and the usual rules of causality do not apply. Anything could happen.
+
+It is here that the Doctor has a date. With River Song. And with death.
+
+**** 2DONE [#D] 3.4 The Furies (7.3) :5th_Dr:
+     CLOSED: [2021-06-17 Thu 23:09]
+     :PROPERTIES:
+     :rating:   7.3
+     :END:
+
+Stories of the Furies abound across the cosmos: vengeful spirits hounding guilty souls to death. Madame Kovarian taught them to a child raised in fear, trained to kill, and placed inside a spacesuit.
+
+Kovarian knows the universe’s greatest threat, the Doctor must be eliminated. An assassin was created for that purpose.
+
+But if Melody Pond has failed, Kovarian will simply have to try again...
+
+*** DoRS 4 :P2018:
+**** START [#D] DoRS4.1 - Time in a Bottle
+     :PROPERTIES:
+     :rating:   7.3
+     :END:
+
+River is recruited by a rival to explore a star system where time no longer exists.
+
+Professor Jemima Still has picked up a signal from an impossible source and takes an expert team to investigate.
+
+But their mission is about to unleash hell upon the universe…
+
+**** [#C] 4.2 - Kings of Infinite Space
+     :PROPERTIES:
+     :rating:   7.7
+     :END:
+
+With the Discordia on their tail, River and her friends run for their lives across time and space. But when your opponent can twist cause and effect to ensure victory at every turn, then escape may well be impossible.
+
+**** [#B] 4.3 - Whodunnit?
+     :PROPERTIES:
+     :rating:   8.0
+     :END:
+
+**** START [#A] 4.4 - Someone I Once Knew :4th_Dr:
+     :PROPERTIES:
+     :rating:   8.6
+     :END:
+
+*** DoRS 5 :P2019:
+**** 2DONE [#A] 5.1 The Bekdel Test :Missy:plot_yes:bilibili:
+     CLOSED: [2021-05-28 Fri 08:51]
+     :PROPERTIES:
+     :rating:   8.6
+     :END:
+
+**** 2DONE [#D] DoRS5.2 Animal Instinct :Master_decayed:D2021_07_extra:plot_no:
+     CLOSED: [2021-07-27 Tue 23:11]
+     :PROPERTIES:
+     :rating:   7.4
+     :END:
+
+Beevers Master
+
+**** 3QTR [#C] DoRS5.3 The Lifeboat and the Deathboat :Master_roberts:plot_yes:D2021_09_extra:plot_yes:
+     SCHEDULED: <2021-09-21 Tue>
+     :PROPERTIES:
+     :rating:   7.7
+     :END:
+
+Roberts Master
+
+**** 3QTR [#D] DoRS5.4 Concealed Weapon :Master_war:D2021_08_extra:
+     :PROPERTIES:
+     :rating:   7.4
+     :END:
+
+*** DoRS 6 :P2019:
+**** DONE [#C] 6.1 An Unearthly Woman (7.5) :1st_Dr:Susan:Ian:D2021_10_extra:
+     CLOSED: [2021-11-03 Wed 19:51] SCHEDULED: <2021-11-03 Wed>
+
+**** [#D] 6.2 The Web of Time             (7.0) :great_intelligence:
+**** CANCEL [#E] +6.3 Peepshow  (6.7)+
+**** START [#C] 6.4 The Talents of Greel        (7.8) :Jago:D2022_Q2:
+*** DoRS 7 :P2020:
+**** [#C] 7.1 Colony of Strangers         (7.7)
+**** [#D] 7.2 Abbey of Heretics           (7.2)
+**** [#A] 7.3 Barrister to the Stars      (8.9)
+**** [#D] 7.4 Carnival of Angels          (7.0)
+*** DoRS 8 :P2021:
+**** [#D] 8.1 Slight Glimpses of Tomorrow (7.1)
+**** [#C] 8.2 A Brave New World (7.6)
+**** [#C] 8.3 A Forever Home (7.5)
+**** HALF [#E] 8.4 Queen of the Mechonoids     (6.5) :Anya:Mark_7:
+*** DoRS 9 :P2021:
+**** 3QTR 9.1 The Blood Woods :Liz:Brigadier:D2022_01_extra:
+     CLOSED: [2022-01-14 Fri 08:37] SCHEDULED: <2022-01-26 Wed>
+
+**** HALF 9.2 Terror of the Suburbs :D2022_01_extra:
+     SCHEDULED: <2022-01-26 Wed>
+
+*** misc
+**** DONE R&J (The Lives of Captain Jack #3.3) :Jack:
+     CLOSED: <2020-09-14 Mon 21:12>
+
+**** The Power of River Song (UNIT 8.3/8.4)
+**** START Emancipation (8th of March #1) :P2019:Leela:
+     SCHEDULED: <2021-12-31 Fri>
+
+* Jago & Litefoot :🎧:Jago:Litefoot:
+** [#A] CC3.11 The Mahogany Murderers (8.9) :2009:
+   SCHEDULED: <2021-12-31 Fri>
+
+** J&L series 1 :P2010:
+*** [#B] 1.1 - The Bloodless Soldier           (8.1)
+*** [#C] 1.2 - The Bellova Devil  (7.9)
+*** [#C] 1.3 - The Spirit Trap                 (7.8)
+*** [#C] 1.4 - The Similarity Engine           (7.9)
+** J&L series 2 :P2011:
+*** [#A] 2.1 - Litefoot and Sanders            (8.6)
+*** [#C] 2.2 - The Necropolis Express          (7.8)
+*** [#B] 2.3 - The Theatre of Dreams           (8.4)
+*** [#C] 2.4 - The Ruthven Inheritance         (7.8)
+** J&L series 3 :P2012:Leela:
+*** [#D] 3.1 Dead Men's Tales                  (7.3)
+*** [#D] 3.2 The Man at the End of the Garden  (7.4)
+*** [#B] 3.3 Swan Song                         (8.2)
+*** [#C] 3.4 Chronoclasm                       (7.9)
+** J&L series 4 :P2012:6th_Dr:
+*** START [#C] 4.1 - Jago in Love (7.6)
+*** START [#C] 4.2 - Beautiful Things (7.9)
+*** START [#D] 4.3 - The Lonely Clock                (7.4)
+*** START [#C] 4.4 - The Hourglass Killers (7.9)
+*** [#C] Voyage to Venus                       (7.8)
+*** [#E] +Voyage to the New World+              (7.0)
+** J&L series 5 :P2013:
+*** 3QTR [#B] 5.1 - The Age of Revolution  (8.0) :D2021_07_extra:
+    CLOSED: <2021-08-13 Fri 08:16>
+
+*** 3QTR [#E] +5.2 - The Case of the Gluttonous Guru (6.8)+ :D2021_09_extra:plot_no:
+    CLOSED: [2021-09-13 Mon 10:10] SCHEDULED: <2021-09-04 Sat>
+
+*** HALF [#C] J&L5.3 - The Bloodchild Codex            (7.9) :D2021_09_extra:
+    SCHEDULED: <2021-09-10 Fri>
+
+*** HALF [#C] 5.4 - The Last Act (7.8) :D2021_11_extra:
+    DEADLINE: <2021-11-24 Wed 22:32> SCHEDULED: <2021-11-27 Sat>
+    :PROPERTIES:
+    :rating:   7.8
+    :END:
+
+** J&L series 6 :P2013:
+*** HALF [#C] 6.1 - The Skeleton Quay (7.8) :D2022_02_extra:
+    SCHEDULED: <2022-02-13 Sun>
+
+*** [#D] 6.2 - Return of the Repressed         (7.1) :D2022_02_extra:
+    SCHEDULED: <2022-02-13 Sun>
+
+*** [#D] 6.3 - Military Intelligence           (7.4)
+*** [#C] 6.4 - The Trial of George Litefoot    (7.8)
+** J&L series 7 :P2014:
+*** [#B] 7.1 The Monstrous Menagerie           (8.1)
+*** [#D] 7.2 The Night of 1000 Stars           (7.2)
+*** [#A] 7.3 Murder at Moorsey Manor           (8.7)
+*** [#C] 7.4 The Wax Princess                  (7.5)
+** J&L series 8 :P2014:
+*** [#A] 8.1 - Encore of the Scorchies         (8.9)
+*** [#D] 8.2 - The Backwards Men               (7.3)
+*** [#D] 8.3 - Jago & Litefoot & Patsy           (7.3)
+*** [#C] 8.4 - Higson & Quick                    (7.5)
+** J&L series 9 :P2015:
+*** [#B] 9.1 - The Flying Frenchmen              (8.1)
+*** [#B] 9.2 - The Devil's Dicemen               (8.1)
+*** [#C] 9.3 - Island of Death                   (7.5)
+*** [#D] 9.4 - Return of the Nightmare           (7.4)
+** J&L series 10 :P2015:
+*** [#C] 10.1 - The Case of the Missing Gasogene (7.9)
+*** [#C] 10.2 - The Year of the Bat              (7.7)
+*** [#B] 10.3 - The Mourning After               (8.2)
+*** [#A] 10.4 - The Museum of Curiosities        (8.7)
+*** [#A] 10.X Jago & Litefoot & Strax - The Haunting  (8.7) :D2021_12_extra:
+** J&L series 11 :P2016:
+*** [#C] 11.1 - Jago and Son (7.6)
+*** [#D] 11.2 - Maurice (7.2)
+*** [#B] 11.3 - The Woman in White (8.1)
+*** 3QTR [#C] J&L11.4 - Masterpiece (7.9) :Master_decayed:D2021_08_extra:plot_no:
+** J&L series 12 :P2016:
+*** [#B] 12.1 - Picture This (8.0)
+*** [#B] 12.2 - The Flickermen (8.3)
+*** [#B] 12.3 - School of Blood (8.1)
+*** [#D] 12.4 - Warm Blood (7.4)
+** J&L series 13 :P2017:
+*** [#C] 13.1 - The Stuff of Nightmares (7.8)
+*** [#C] 13.2 - Chapel of Night (7.7)
+*** [#B] 13.3 - How The Other Half Lives (8.0)
+*** [#D] 13.4 - Too Much Reality (7.4)
+** J&L misc
+*** [#C] (WoDW) Mind Games (7.5) :P2014:
+*** [#B] 6DLA: Stage Fright (8.4) :P2015:
+*** [#B] Jago & Litefoot Forever (8.3) :P2018:
+*** [#C] ST 7.3/7.4 The Jago & Litefoot Revival (7.8) :P2018:
+*** [#A] Benjamin & Baxter (documentary)                     (8.8)
+* Gallifrey :🎧:
+** series 1 :plot_simple:P2004:
+*** HALF [#C] 1.1 Weapon of Choice :D2021_08_extra:
+    :PROPERTIES:
+    :rating:   7.6
+    :END:
+
+*** 3QTR [#C] 1.2 Square One :D2021_09_extra:overdue:
+    CLOSED: [2021-11-03 Wed 21:05] SCHEDULED: <2021-11-03 Wed>
+    :PROPERTIES:
+    :rating:   7.6
+    :END:
+
+*** HALF [#C] GFY1.3 The Inquiry :D2021_11_extra:
+    SCHEDULED: <2021-11-27 Sat>
+    :PROPERTIES:
+    :rating:   7.8
+    :END:
+
+*** 3QTR [#B] 1.4 A Blind Eye :D2021_12_extra:week3:
+    CLOSED: [2021-12-21 Tue 21:39] SCHEDULED: <2021-12-15 Wed>
+    :PROPERTIES:
+    :rating:   8.4
+    :END:
+
+** series 2 :P2005:
+*** 3QTR [#B] 2.1 - Lies                                 :D2022_01_extra:
+    SCHEDULED: <2022-01-16 Sun>
+    :PROPERTIES:
+    :rating:   8.4
+    :END:
+
+*** 3QTR [#B] 2.2 - Spirit                                   :D2022_01_extra:
+    SCHEDULED: <2022-01-16 Sun>
+    :PROPERTIES:
+    :rating:   8.4
+    :END:
+
+*** [#B] 2.3 - Pandora
+    :PROPERTIES:
+    :rating:   8.4
+    :END:
+
+*** [#C] 2.4 - Insurgency
+    :PROPERTIES:
+    :rating:   7.6
+    :END:
+
+*** [#B] 2.5 - Imperiatrix
+    :PROPERTIES:
+    :rating:   8.4
+    :END:
+
+** series 3 :P2006:
+*** [#B] 3.1 - Fractures (8.0)
+*** [#B] 3.2 - Warfare (8.3)
+*** [#C] 3.3 - Appropriation (7.9)
+*** [#A] 3.4 - Mindbomb (8.9)
+*** [#B] 3.5 - Panacea (8.1)
+** series 4 :P2011:
+*** [#B] 4.1 - Gallifrey Reborn       (8.0)
+*** [#A] 4.2 - Gallifrey Disassembled (9.1)
+*** [#B] 4.3 - Gallifrey Annihilation (8.0)
+*** [#C] 4.4 - Gallifrey Forever      (7.9)
+** series 5 :P2013:
+*** [#E] 5.1 - Emancipation (6.9)
+*** [#E] 5.2 - Evolution (6.5)
+*** [#D] 5.3 - Arbitration (7.2)
+** series 6 :P2013:
+*** [#C] 6.1 - Extermination (7.8)
+*** [#B] 6.2 - Renaissance (8.1)
+*** [#B] 6.3 - Ascension (8.3)
+** [#B] 7.0 - Intervention Earth     (8.1) :P2015:
+** [#A] 8.0 - Enemy Lines (8.9) :P2016:
+* Missy / Master!
+** Missy series 1 :🎧:Master_missy:
+*** START [#C] 1.1 A Spoonful of Mayhem :D2021_07_extra:
+    :PROPERTIES:
+    :rating:   7.7
+    :END:
+
+*** HALF [#A] 1.2 Divorced, Beheaded, Regenerated :D2021_08_extra:plot_no:
+    :PROPERTIES:
+    :rating:   9.0
+    :END:
+
+*** 3QTR [#A] MISSY1.3 - The Broken Clock :D2021_10_extra:plot_no:overdue:
+    CLOSED: [2021-11-27 Sat 08:52] DEADLINE: <2021-11-30 Tue> SCHEDULED: <2021-11-13 Sat>
+    :PROPERTIES:
+    :rating:   8.6
+    :END:
+
+*** [#E] +Missy1.4 - The Belly of the Beast+ :D2021_11_master:
+    SCHEDULED: <2021-11-20 Sat>
+    :PROPERTIES:
+    :rating:   6.8
+    :END:
+
+** Missy series 2 :🎧:Master_missy:
+*** [#A] 2.1 - The Lumiat :D2022_Q2_extra:
+    :PROPERTIES:
+    :rating:   8.8
+    :END:
+
+*** [#D] 2.2 - Brimstone and Terror
+    :PROPERTIES:
+    :rating:   7.0
+    :END:
+
+*** [#D] 2.3 - Treason and Plot
+    :PROPERTIES:
+    :rating:   7.2
+    :END:
+
+*** [#B] 2.4 - Too Many Masters
+    :PROPERTIES:
+    :rating:   8.2
+    :END:
+
+** Missy and the Monk
+** Masterful
+** Master! :Master_roberts:
+*** START [#B] 1.1 Faustian :D2021_11_master:
+    SCHEDULED: <2021-11-20 Sat>
+    :PROPERTIES:
+    :rating:   8.2
+    :END:
+
+*** HALF Vienna #0 The Memory Box :D2021_12_extra:week2:
+    SCHEDULED: <2021-12-10 Fri>
+
+*** TODO [#D] 1.2 Prey :D2021_01_extra:
+    SCHEDULED: <2022-01-16 Sun>
+    :PROPERTIES:
+    :rating:   7.4
+    :END:
+
+*** [#A] 1.3. Vengeance
+    :PROPERTIES:
+    :rating:   8.6
+    :END:
+
+* #Daleks :daleks:
+** #Davros :Davros:
+*** tv :📺:
+**** 12x03 Genesis of the Daleks :4th_Dr:Sarah:
+**** DONE 17x01 Destiny of the Daleks :4th_Dr:Romana2:
+     CLOSED: [2021-09-26 Sun 08:19]
+
+**** DONE 21x04 Resurrection of the Daleks :5th_Dr:
+     CLOSED: [2021-10-05 Tue 20:27]
+
+**** DONE 22x06 Revelation of the Daleks :6th_Dr:Peri:
+     CLOSED: [2021-11-13 Sat 16:38]
+
+**** DONE 25x01 Remembrance of the Daleks :7th_Dr:Ace:
+     CLOSED: <2021-11-01 Mon 19:54>
+
+*** audio :🎧:
+**** I, Davros
+***** HALF [#A] 1. Innocence
+      SCHEDULED: <2021-12-05 Sun>
+      :PROPERTIES:
+      :rating:   8.7
+      :END:
+
+***** [#A] 2. Purity :D2021_Q1:
+      :PROPERTIES:
+      :rating:   8.7
+      :END:
+
+***** [#A] 3. Corruption
+      :PROPERTIES:
+      :rating:   8.7
+      :END:
+
+***** [#A] 4. Guilt
+      :PROPERTIES:
+      :rating:   8.9
+      :END:
+
+**** 3QTR MR48. Davros :6th_Dr:D2021_10_davros:
+     CLOSED: [2021-10-31 Sun 20:40] SCHEDULED: <2021-10-30 Sat>
+
+after /Resurrection of the Daleks/
+
+**** HALF [#C] +MR65. The Juggernauts+ :6th_Dr:Mel:Davros:D2021_11_davros:plot_no:
+     SCHEDULED: <2021-11-13 Sat>
+     :PROPERTIES:
+     :rating:   7.8
+     :END:
+
+after /Revelation of the Daleks/
+
+**** [#D] The Davros Mission
+     :PROPERTIES:
+     :rating:   7.0
+     :END:
+
+**** DONE Terror Firma :8th_Dr:D2021_09:
+
+after /Remembrance of the Daleks/
+
+**** 3QTR [#C] MR156. The Curse of Davros :6th_Dr:Flip:D2021_12_davros:week3:
+     CLOSED: <2021-12-23 Thu 20:53> SCHEDULED: <2021-12-25 Sat>
+     :PROPERTIES:
+     :rating:   7.9
+     :END:
+
+*** comics
+**** CANCEL +DWM31. Abel's Story+
+     CLOSED: [2021-11-14 Sun 22:53]
+
+Davros 只出现在新闻画面
+
+**** DONE DWM55. Nemesis of the Daleks
+**** DONE DWM74. Emperor of the Daleks!
+     CLOSED: <2021-11-14 Sun 17:26>
+
+**** DONE DWM84. Up Above the Gods :6th_Dr:
+     CLOSED: [2021-11-14 Sun 22:52]
+
+** Dalek Wars
+*** First Dalek War (22 century)
+**** tv: The Dalek Invasion of Earth :1st_Dr:
+**** tv: The Chase
+**** comics: The Daleks Chronicles
+**** 3QTR MR015 The Mutant Phase :Dalek_War_1st:🎧:5th_Dr:Nyssa:D2021_10_daleks:
+     CLOSED: [2021-10-23 Sat 20:14]
+
+**** 2DONE MR193 Masters of Earth :Dalek_War_1st:6th_Dr:Peri:🎧:D2021_10_daleks:
+     CLOSED: [2021-10-18 Mon 20:19]
+
+**** HALF [#C] EA7.1 After the Daleks :Susan:
+     :PROPERTIES:
+     :rating:   7.9
+     :END:
+
+**** 3QTR 8DA 4.09 Lucie Miller / 4.10 To the Death :Dalek_War_1st:🎧:D2021_10_daleks:
+     CLOSED: [2021-10-17 Sun 15:11]
+
+*** Second Dalek War (25xx)
+**** tv: Frontier in Space
+**** tv: Planet of the Daleks
+**** 2DONE [#C] audio: Out of Time :Dalek_War_2nd:D2021_10_daleks:10th_Dr:🎧:bilibili:
+     CLOSED: [2021-10-24 Sun 22:15]
+     :PROPERTIES:
+     :rating:   7.9
+     :END:
+
+【【David Tennant】Big Finish广播剧熟肉 Out of Time-哔哩哔哩】https://b23.tv/PTTovz
+
+**** DONE novel: Prisoner of the Daleks
+     CLOSED: <2021-10-16 Sat 10:18>
+
+**** LATER [#C] Love and War :🎧:📔:7th_Dr:Ace:Benny:
+     SCHEDULED: <2021-12-01 Wed>
+     :PROPERTIES:
+     :rating:   7.5
+     :END:
+
+**** comics
+***** DONE Abslom Daak... Dalek Killer
+      CLOSED: <2021-10-24 Sun 06:26>
+
+***** DONE Star Tigers
+      CLOSED: <2021-10-26 Tue 06:26>
+
+***** DONE Nemesis of the Daleks
+      CLOSED: <2021-10-29 Fri 11:11>
+
+DWM 152-155
+
+***** TODO Pureblood
+
+DWM193-196
+
+***** DONE Emperor of the Daleks! :D2021_11:📚:
+      CLOSED: <2021-11-14 Sun 05:26> SCHEDULED: <2021-11-13 Sat>
+
+DWM 197-202
+
+*** Third Dalek War (25xx)
+**** TV 11x3 Death to the Daleks 
+
+The Third Dalek War broke out in the same period as its predecessor and the Human-Draconian war. It supposedly occurred prior to Steven Taylor's native time period, 
+
+*** Great War (36-40th century) :SSS_agents:
+
+The Great War was the name used by the Daleks to identify a series of galactic conflicts fought after the year 4000 which nearly resulted in the extinction of the Dalek race. (PROSE: The Evil of the Daleks)
+
+**** tv: Misson to the Unknown
+**** tv: The Daleks' Master Plan
+**** TODO comics: The Only Good Dalek :D2021_11:📚:
+     SCHEDULED: <2021-11-28 Sun>
+
+**** START [#E] +LS2.2 The Destroyers+ :D2021_11_dalek:Sara_Kingdom:Mark_7:plot_yes:
+     SCHEDULED: <2021-11-06 Sat>
+     :PROPERTIES:
+     :rating:   6.7
+     :END:
+
+**** DONE [#B] EA3.4: The Sontarans :Sara_Kingdom:Steven:D2021_11_daleks:
+     SCHEDULED: <2021-11-06 Sat>
+     :PROPERTIES:
+     :rating:   8.1
+     :END:
+
+**** LATER +8.5 Time's Assassin / 8.7-8.8 The Perfect Prisoners+ :D2021_13:
+     SCHEDULED: <2021-12-01 Wed>
+
+**** HALF [#E] +DoRS 8.4: Queen of the Mechonoids+ :D2021_11_dalek:Anya:Mark_7:plot_no:
+     SCHEDULED: <2021-11-06 Sat>
+     :PROPERTIES:
+     :rating:   6.5
+     :END:
+
+**** Dalek Universe
+***** HALF [#E] +DU0 The Dalek Protocol+ :4th_Dr:Anya:Mark_7:plot_no:D2021_11_dalek:
+      SCHEDULED: <2021-11-06 Sat>
+      :PROPERTIES:
+      :rating:   6.6
+      :END:
+
+*** Second Great Dalek Occupation
+**** Dalek Empire vol.1
+* #Cybermen :Cybermen:
+** The Complete Story of The Cybermen :D2022_Q4:
+
+https://www.youtube.com/watch?v=r1BCt3CQARs
+
+** The Complete Story of The Cyber Wars :D2022_Q4:
+
+https://www.youtube.com/watch?v=zO1CxiQ2Dmk 
+
+** CyberMondas
+*** 2DONE DWC: 04x02 The Tenth Planet :1D:
+*** DONE 10x11 World Enough and Time :12D:D2022_Q4:
+*** DONE [#A] MR034 Spare Parts :5th_Dr:
+    CLOSED: [2021-03-16 Tue 20:59]
+    :PROPERTIES:
+    :rating:   9.2
+    :END:
+
+*** DONE [#B] MR058 The Harvest :7th_Dr:
+    :PROPERTIES:
+    :rating:   8.4
+    :END:
+
+*** [#D] MR087 The Gathering :5th_Dr:
+    :PROPERTIES:
+    :rating:   7.0
+    :END:
+
+*** 2DONE [#A] MR153 The Silver Turk :8th_Dr:Mary:
+    CLOSED: [2021-04-09 Fri 06:38]
+    :PROPERTIES:
+    :rating:   8.6
+    :END:
+
+*** COMIC: The Good Soldier :7th_Dr:D2022_Q4:
+
+DWM 175-178
+
+*** COMIC: The Cybermen :no_doctor:D2022_Q4:
+** CyberTelosian
+*** 2DONE DWC 04x06 The Moonbase :2D:
+*** 2DONE DWC 05x01 The Tomb of the Cybermen
+*** CANCEL [#E] 4DA 4.8 Return to Telos :4D:
+    CLOSED: [2021-03-16 Tue 23:18]
+    :PROPERTIES:
+    :rating:   6.0
+    :END:
+
+*** CANCEL [#E] EA 2.4 The Isos Network :2D:
+    CLOSED: [2021-03-16 Tue 23:18]
+    :PROPERTIES:
+    :rating:   6.3
+    :END:
+
+** CyberFaction
+*** TODO The Wheel in Space :2nd_Dr:
+*** The Invasion :2nd_Dr:
+*** Death in Heaven :12th_Dr:
+*** audio
+**** DONE [#E] MR017 Sword of Orion :8th_Dr:
+     CLOSED: [2021-03-16 Tue 23:18]
+     :PROPERTIES:
+     :rating:   6.8
+     :END:
+
+**** Cyberman 1
+***** 3QTR [#C] 1.1 - Scorpius :plot_yes:D2022_01_cybermen:
+      CLOSED: <2022-01-12 Wed 08:55> SCHEDULED: <2022-01-16 Sun>
+      :PROPERTIES:
+      :rating:   7.7
+      :END:
+
+***** 3QTR [#C] 1.2 - Fear :plot_yes:D2022_01_cybermen:
+      CLOSED: <2022-01-13 Thu 20:36> SCHEDULED: <2022-01-16 Sun>
+      :PROPERTIES:
+      :rating:   7.7
+      :END:
+
+***** [#C] 1.3 - Conversion :plot_no:
+      :PROPERTIES:
+      :rating:   7.7
+      :END:
+
+***** [#D] 1.4 - Telos
+      :PROPERTIES:
+      :rating:   7.4
+      :END:
+
+**** Cyberman 2
+***** [#B] 2.1 - Outsiders
+      :PROPERTIES:
+      :rating:   8.0
+      :END:
+
+***** [#C] 2.2 - Terror
+      :PROPERTIES:
+      :rating:   7.8
+      :END:
+
+***** [#B] 2.3 - Machines
+      :PROPERTIES:
+      :rating:   8.0
+      :END:
+
+***** [#C] 2.4 - Extinction
+      :PROPERTIES:
+      :rating:   7.7
+      :END:
+
+**** [#B] MR103 The Girl Who Never Was :8th_Dr:Charley:D2022_Q2:
+     :PROPERTIES:
+     :rating:   8.4
+     :END:
+
+**** [#E] +MR112a Kingdom of Silver+ :7th_Dr:
+     :PROPERTIES:
+     :rating:   6.7
+     :END:
+
+**** [#B] MR135 Legend of the Cybermen :6th_Dr:D2022_Q4:
+     :PROPERTIES:
+     :rating:   8.4
+     :END:
+
+**** [#D] MR199 Last of the Cybermen :6th_Dr:
+     :PROPERTIES:
+     :rating:   7.1
+     :END:
+
+**** [#C] 3DA 4.2 The Tyrants of Logic :3rd_Dr:
+     :PROPERTIES:
+     :rating:   7.5
+     :END:
+
+**** HALF [#A] 8DA 1.7/1.8 Human Resources :8th_Dr:
+     :PROPERTIES:
+     :rating:   8.5
+     :END:
+
+rating 8.7/8.3
+
+*** COMIC: Supremacy of the Cybermen :D2022_Q4:
+** CyberNeomorph
+*** 19x06 Earthshock :D2022_Q4:📺:
+*** 22x Attack of the Cybermen
+*** 25xx Silver Nemesis
+*** [#C] MR078 The Reaping :6th_Dr:D2022_Q4:
+    :PROPERTIES:
+    :rating:   7.8
+    :END:
+
+*** [#C] MR240 Hour of the Cybermen :6th_Dr:
+    :PROPERTIES:
+    :rating:   7.9
+    :END:
+
+*** [#C] MR258b Conversion :5th_Dr:
+    :PROPERTIES:
+    :rating:   7.5
+    :END:
+
+* UNIT
+** UNIT
+** UNIT 1: Extinction :Nestene:P2015:
+*** 1.1 [#C] Vanguard (7.5)
+    :PROPERTIES:
+    :rating:   7.5
+    :END:
+
+*** 1.2	[#C] Earthfall (7.8)
+    :PROPERTIES:
+    :rating:   7.8
+    :END:
+
+*** 1.3	[#C] Bridgehead (7.9)
+    :PROPERTIES:
+    :rating:   7.9
+    :END:
+
+*** 1.4	[#B] Armageddon (8.3)
+    :PROPERTIES:
+    :rating:   8.3
+    :END:
+
+** UNIT 2: Shutdown :P2016:
+*** [#C] 2.1 Power Cell (7.5)
+*** [#C] 2.2 Death in Geneva (7.1)
+*** [#C] 2.3 The Battle of the Tower (7.5)
+*** [#C] 2.4 Ice Station Alpha (7.3)
+** UNIT 3: Silenced :P2016:
+*** [#B] 3.1 House of Silents (8.2)
+*** [#B] 3.2 Square One (8.4)
+*** [#A] 3.3 Silent Majority (8.5)
+*** [#C] 3.4 In Memory Alone (7.5)
+** UNIT 4: Assembled :Silurians:P2017:
+*** [#C] 4.1 - Call to Arms (7.7)
+*** [#D] 4.3 - Retrieval    (7.2)
+*** [#B] 4.2 - Tidal Wave   (8.2)
+*** [#C] 4.4 - United       (7.5)
+** UNIT 5: Encounters :P2017:
+*** [#E] 5.1 - The Dalek Transaction            (6.8)
+*** [#E] 5.2 - Invocation                       (7.4)
+*** [#C] 5.3 - The Sontaran Project             (7.5)
+*** [#C] 5.4 - False Negative                   (7.7)
+** UNIT 6: Cyber-Reality :P2018:
+*** [#E] 6.1 - Game Theory                      (6.8)
+*** [#E] 6.2 - Telepresence                     (7.0)
+*** [#C] 6.3 - Code Silver                      (7.8)
+*** [#B] 6.4 - Master of Worlds                 (8.4)
+** UNIT 7: Revisitations :P2018:
+*** [#C] 7.1/7.2 - Hosts of the Wirrn           (7.6)
+*** [#A] 7.3 - Breach of Trust                  (8.6)
+*** [#D] 7.4 - Open the Box                     (7.3)
+** UNIT 8: Incursions :P2019:
+*** [#C] 8.1 - This Sleep of Death              (7.5)
+*** [#D] 8.2 - Tempest                          (6.6)
+*** [#C] 8.3 - The Power of River Song - Part 1 (7.7)
+*** [#D] 8.4 - The Power of River Song - Part 2 (7.2)
+*** Narcissus (Eighth of March #4)
+
+***+TBLFM: $1='(cond ((>= $3 8.5) "[#A]") ((>= $3 8.0) "[#B]") ((>= $3 7.5) "[#C]") ((>= $2 7.0) "[#D]") (t "[#E]"));N
+
+** UNIT Nemesis 1: Between Two Worlds :P2021:
+* The Paternoster Gang
+** audio :🎧:
+*** PG: Heritage 1 :P2019:
+**** [#D] (Eight of March #3) Inside Every Warrior (7.2) :D2021_08_extra:
+**** [#D] 1.1 - The Cars That Ate London! (7.2) :D2021_08_extra:
+**** START [#A] PG1.2 - A Photograph to Remember  (8.5) :D2021_11_extra:plot_no:
+     SCHEDULED: <2021-11-27 Sat>
+
+**** [#D] 1.3 - The Ghosts of Greenwich   (7.4) :D2021_12_extra:week4:
+     SCHEDULED: <2021-12-31 Fri>
+
+*** PG: Heritage 2 :P2019:
+**** [#D] 2.1 - Dining with Death         (7.0)
+**** [#C] 2.2 - The Screaming Ceiling     (7.6)
+**** [#C] 2.3 - Spring-Heeled Jack        (7.7)
+*** PG: Heritage 3 :P2020:
+**** [#C] 3.1 - Family Matters            (7.5)
+**** [#D] 3.2 - Whatever Remains          (7.2)
+**** [#B] 3.3 - Truth and Bone            (8.3)
+*** PG: Heritage 4 :P2020:
+**** [#A] 4.1 - Merry Christmas, Mr Jago  (9.0)
+**** [#E] +4.2 - The Ghost Writers+         (6.4)
+**** [#D] 4.3 - Rulers of Earth           (7.4)
+* Counter-Measures
+** CM series 1 :P2012:
+*** [#D] 1.1 - Threshold (7.3) :plot_yes:
+*** [#C] 1.2 - Artificial Intelligence      (7.5) :plot_yes:
+*** [#C] 1.3 - The Pelage Project           (7.7)
+*** [#B] 1.4 - State of Emergency           (8.3)
+** CM series 2 :P2013:
+*** [#B] 2.1 - Manhunt                      (8.1)
+*** [#B] 2.2 - The Fifth Citadel            (8.3)
+*** [#C] 2.3 - Peshka                       (7.7)
+*** [#C] 2.4 - Sins of the Fathers          (7.9)
+** CM series 3 :P2014:
+*** [#C] 3.1 - Changing of the Guard        (7.5)
+*** [#C] 3.2 - The Concrete Cage            (7.5)
+*** [#C] 3.3 - The Forgotten Village        (7.8)
+*** [#A] 3.4 - Unto the Breach              (8.9)
+** CM series 4 :P2015:
+*** [#D] 4.1 - New Horizons (7.3)
+*** [#C] 4.2 - The Keep (7.9)
+*** [#C] 4.3 - Rise and Shine (7.7)
+*** [#A] 4.4 - Clean Sweep (8.5)
+** special: Who Killed Toby Kinsella? :P2016:
+*** [#A] 1 - Who Killed Toby Kinsella? (8.5)
+*** [#B] 2 - The Dead Don't Rise (8.4)
+** The New Counter-Measures: Series 1 :P2016:
+*** [#D] TNCM 1.1 - Nothing to See Here (7.1)
+*** [#D] TNCM 1.2 - Troubled Waters (7.3)
+*** [#D] TNCM 1.3 - The Phoenix Strain (7.2)
+*** [#B] TNCM 1.4 - A Gamble With Time (8.0)
+** The New Counter-Measures: Series 2 :P2017:
+*** [#D] TNCM 2.1 - The Splintered Man (7.0)
+*** [#E] TNCM 2.2 - The Ship of the Sleepwalkers (6.7)
+*** [#C] TNCM 2.3 - My Enemy's Enemy (7.5)
+*** [#E] TNCM 2.4 - Time of the Intelligence (6.5)
+** [#C] 7. The Hollow King (7.5) :P2019:
+** [#D] 8. The Dalek Gambit (7.3) :2020:
+** [#D] 9. The Movellan Manoeuvre (7.4) :2020:
+* Faction Paradox
+** audio
+*** The Faction Paradox Protocols (BBV 2001-2004)
+**** 1. The Eleven-Day Empire :P2001:
+**** 2. The Shadow Play :P2001:
+**** 3. Sabbath Dei :P2003:
+**** 4. In the Year of the Cat :P2003:
+**** 5. Movers :P2003:
+**** 6. A Labyrinth of Histories :P2004:
+*** The True History of Faction Paradox (MBP 2004-2009)
+**** 1	Coming to Dust :P2005:
+**** 2	The Ship of a Billion Years :P2006:
+**** 3	Body Politic :P2008:
+**** 4	Words from Nine Divinities :P2008:
+**** 5	Ozymandias :P2009:
+**** 6	The Judgment of Sutekh :P2009:
+* Kaldor City / The Robots
+** The Robots (Big Finish, 2019-)
+*** [#D] 1.1 - The Robots of Life       (7.4)
+*** [#B] 1.2 - The Sentient             (8.2)
+*** [#A] 1.3 - Love Me Not              (8.8)
+*** [#B] 2.1 - The Robots of War        (8.0)
+*** [#B] 2.2 - Toos and Poul            (8.0)
+*** [#C] 2.3 - Do No Harm               (7.9)
+*** [#D] 3.1 - The Mystery of Sector 13 (7.2)
+*** [#A] 3.2 - Circuit Breaker          (8.5)
+*** [#B] 3.3 - A Matter of Conscience   (8.3)
+*** [#A] 4.1 - Closed Loop              (8.6)
+*** [#C] 4.2 - Off Grid                 (7.9)
+*** [#A] 4.3 - The Janus Deception      (8.4)
+* misc spin-offs (classic)
+** Sarah Jane Smith
+*** [#E] 1.1 Comeback (6.8)
+*** [#E] +1.2 The Tao Connection+ (6.2)
+*** [#B] 1.3 Test of Nerve (8.1)
+*** [#E] +1.4 Ghost Town+ (6.4)
+*** [#D] 1.5 Mirror, Signal, Manoeuvre (7.1)
+*** [#C] 2.1 Buried Secrets (7.5)
+*** [#B] 2.2 Snow Blind (8.4)
+*** [#B] 2.3 Fatal Consequences (8.1)
+*** [#B] 2.4 Dreamland (8.1)
+** Charlotte Pollard
+*** series 1 :P2014:
+**** [#D] 1.1 - The Lamentation Cipher              (7.2)
+**** [#E] +1.2 - The Shadow at the Edge of the World+ (6.8)
+**** [#C] 1.3 - The Fall of the House of Pollard    (7.9)
+**** [#D] 1.4 - The Viyran Solution                 (7.3)
+*** series 2 :P2017:
+**** [#E] +2.1 - Embankment Station+  (6.6)
+**** [#E] 2.2 - Ruffling  (6.9)
+**** [#E] +2.3 - Seed of Chaos+ (6.5)
+**** [#F] +2.4 - The Destructive Quality of Life+     (5.6)
+** (^)
+*** UNIT
+*** Bernice Summerfield
+*** Cyberman
+*** Dalek Empire
+*** Gallifrey
+*** I, Davros
+*** Jago & Litefoot
+*** Missy
+** ???
+*** Graceless
+*** Iris Wildthyme
+* misc spin-offs (nuwho)
+** The Churchil Years
+*** series 1 :P2016:
+**** [#E] 1.1 - The Oncoming Storm          (6.9)
+**** [#D] 1.2 - Hounded                     (7.2)
+**** [#C] 1.3 - Living History              (7.9)
+**** [#E] +1.4 - The Chartwell Metamorphosis+ (6.4)
+*** series 2 :P2018:
+**** [#D] 2.1 - Young Winston               (7.1)
+**** [#E] 2.2 - Human Conflict              (6.8)
+**** [#E] 2.3 - I Was Churchill's Double    (6.8)
+**** [#C] 2.4 - Churchill Victorious        (7.7)
+** Tales from New Earth :P2018:
+*** [#D] 1.1 Escape From New New York (7.3)
+*** [#E] 1.2 Death in the New Forest (6.9)
+*** [#D] 1.3 The Skies of New Earth (7.1)
+*** [#D] 1.4 The Cats of New Cairo (7.2)
+** Lady Christina
+*** series 1 :P2018:
+**** [#C] 1.1 - It Takes a Thief (7.8)
+**** [#D] 1.2 - Skin Deep (7.2)
+**** [#D] 1.3 - Portrait of a Lady (7.0)
+**** [#C] 1.4 - Death on the Mile (7.6)
+*** series 2 :P2021:
+**** [#D] 2.1 - The Wreck (7.2?)
+**** [#D] 2.2 - Walkabout (7.0?)
+**** [#D] 2.3 - Long Shot (7.0?)
+** Jenny - the Doctor's Daughter
+*** series 1 :P2018:
+**** [#D] 1.1 - Stolen Goods (7.1)
+**** [#E] +1.2 - Prisoner of the Ood+ (6.9)
+**** [#F] +1.3 - Neon Reign+ (5.6)
+**** [#D] 1.4 - Zero Space (7.0)
+*** series 2 :P2021:
+**** [#E] +2.1 - Inside the Maldorvarium+ (6.5?)
+**** [#E] +2.2 - Altered Status+ (6.8?)
+**** [#E] +2.3 - Calamity Jenny+ (6.6)
+**** [#D] 2.4 - Her Own Wrost Enemy (7.0)
+** Rose Tyler - The Dimension Cannon :P2019:
+*** [#B] 1.1 - The Endless Night       (8.3)
+*** [#C] 1.2 - The Flood               (7.6)
+*** [#C] 1.3 - Ghost Machines          (7.5)
+*** [#D] 1.4 - The Last Party on Earth (7.3)
+** Donna Nobel - Kidnapped :P2020:
+*** [#B] 1. Out of this World (8.1)
+*** [#C] 2. Spinvasion (7.8)
+*** [#E] +3. The Sorcerer of Albion+ (6.9)
+*** [#C] 4. The Chiswick Cuckoos (7.9) :10th_Dr:
+** The Lone Centurion :P2021:
+*** [#C] 1.1 - Gladiator              (7.9)
+*** [#C] 1.2 - The Unwilling Assassin (7.7)
+*** [#B] 1.3 - I, Rorius              (8.7)
+* special
+** Novel Adaptations
+** Doctor Who Unbound
+** Classic Doctors, New Monsters
+* #Dark Times
+
+https://tardis.fandom.com/wiki/Dark_Times_-_list_of_appearances
+
+** tv
+*** 12x?? The Timeless Children
+*** 13x03 Once, Upon Time
+** audio
+*** TLV: Lesser Evils
+*** TLV: The Minds of Magnox
+** novels
+*** Cat’s Cradle: Time’s Crucible
+*** TLV: The Knight, The Fool and The Dead
+*** TLV: All Flesh is Grass
+* _footnotes
+
+#+BEGIN_EXAMPLE
+  +TBLFM: $1='(cond ((>= $3 8.5) "[#A]") ((>= $3 8.0) "[#B]") ((>= $3 7.5) "[#C]") ((>= $3 7.0) "[#D]") (t "[#E]"));N
+#+END_EXAMPLE
+
