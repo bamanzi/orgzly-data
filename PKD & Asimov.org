@@ -180,8 +180,12 @@ CLOSED: <2021-12-19 Sun 20:20>
 ***** DONE 市长
 CLOSED: [2021-12-25 Sat 22:43]
 
-***** HALF 行商
-***** TODO 商业王侯
+***** DONE 行商
+CLOSED: <2022-01-14 Fri 20:07>
+
+***** DONE 商业王侯
+CLOSED: [2022-01-24 Mon 20:07]
+
 **** [#A] 2. 基地与帝国 :P1952:
 :PROPERTIES:
 :goodreads: 4.21
@@ -205,8 +209,7 @@ CLOSED: [2022-01-05 Wed 00:05]
 :douban:   9.1
 :END:
 
-**** DONE [#A] 5. 迈向基地 :P1993:
-CLOSED: <2022-01-04 Tue 21:52>
+**** [#A] 5. 迈向基地 :P1993:
 :PROPERTIES:
 :goodreads: 4.15
 :douban:   9.0

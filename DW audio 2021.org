@@ -6,7 +6,7 @@
      :rating:   7.7
      :END:
 
-**** DONE [#E] 017 - Sword Of Orion                                :cybermen:
+**** DONE [#E] 017 - Sword Of Orion :cybermen:
      CLOSED: [2020-08-18 Tue 08:19]
      :PROPERTIES:
      :rating:   6.9
@@ -18,7 +18,7 @@
      :rating:   7.0
      :END:
 
-**** DONE [#F] 019 - Minuet in Hell                               :Brigadier:
+**** DONE [#F] 019 - Minuet in Hell :Brigadier:
      CLOSED: <2020-08-24 Mon 16:30>
      :PROPERTIES:
      :rating:   5.8
@@ -39,7 +39,7 @@
 **** 2DONE [#B] 030 - Seasons of Fear (8.4).
      CLOSED: [2020-11-26 Thu 08:26]
 
-*** Dark Eyes vol.1                                                   :Molly:
+*** Dark Eyes vol.1 :Molly:
 **** DONE [#A] The Great War (8.5)
      CLOSED: <2020-09-25 Fri 16:37>
 
@@ -746,7 +746,7 @@
  - part4 (00:35:54)
 
 ** DONE DW 2021-11-doctor
-CLOSED: [2022-01-14 Fri 20:17]
+   CLOSED: [2022-01-14 Fri 20:17]
 
 *** HALF 12DC2.1. Fight to Calandra
 
@@ -868,7 +868,7 @@ CLOSED: [2022-01-14 Fri 20:17]
  - <second to last play position> (01:20:39)
  - <last play position> (01:30:35)
 
-*** START BF156 - The Curse of Davros (fixed)
+*** DONE BF156 - The Curse of Davros (fixed)
 
  - <last play position> (00:00:00)
  - <second to last play position> (00:00:00)
@@ -878,7 +878,7 @@ CLOSED: [2022-01-14 Fri 20:17]
  - flashback (01:32:09)
  - part4 (01:47:12)
 
-*** DONE DU1.2. The Wrong Woman
+*** OVERDUE DU1.2. The Wrong Woman
 
  - <second to last play position> (00:00:00)
  - <last play position> (00:03:03)
@@ -947,7 +947,7 @@ CLOSED: [2022-01-14 Fri 20:17]
  - Untitled (00:16:46)
  - <last play position> (00:55:51)
 
-*** START EA6.1 - The Home Guard (Master)
+*** HALF EA6.1 - The Home Guard (Master)
 
  - <second to last play position> (00:10:32)
  - <last play position> (00:12:12)
@@ -956,7 +956,7 @@ CLOSED: [2022-01-14 Fri 20:17]
  - part3 (01:06:34)
  - part4 (01:34:45)
 
-*** START Master! #2. Prey
+*** OVERDUE Master! #2. Prey
 
  - <last play position> (00:02:13)
  - <second to last play position> (00:02:16)

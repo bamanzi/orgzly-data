@@ -226,7 +226,7 @@ SCHEDULED: <2021-09-30 Thu>
 
 【【David Tennant】Big Finish广播剧熟肉the Tenth Doctor and River Song - Ghosts-哔哩哔哩】https://b23.tv/84jHoJ
 
-*** Dark Universe :P2021:Anya:Mark_7:
+*** Dalek Universe :P2021:Anya:Mark_7:
 **** The Dalek Protocol :4th_Dr:Leela:K9_1:plot_no:
 SCHEDULED: <2021-11-08 Mon>
 
@@ -236,7 +236,7 @@ SCHEDULED: <2021-11-06 Sat>
 :rating:   8.4
 :END:
 
-**** START [#A] DU 1.2 - The Wrong Woman :D2021_12:week2:
+**** HALF [#A] DU 1.2 - The Wrong Woman :D2022_01_extra:week2:
 SCHEDULED: <2021-12-30 Thu>
 :PROPERTIES:
 :rating:   8.8
@@ -327,7 +327,7 @@ CLOSED: <2021-10-16 Sat 10:18>
 **** HALF [#D] 11DC 2.1 The Evolving Dead (?7.1) :D2021_09_dr:overdue:plot_no:
 SCHEDULED: <2021-11-04 Thu>
 
-**** TODO [#D] 11DC2.2 The Day Before They Came (?7.4) :D2022_01_doctor:
+**** HALF [#D] 11DC2.2 The Day Before They Came (?7.4) :D2022_01_doctor:
 SCHEDULED: <2022-01-31 Mon>
 
 **** [#E] The Melting Pot (?6.0)
@@ -445,6 +445,8 @@ CLOSED: [2021-09-24 Fri 08:10]
 SCHEDULED: <2021-11-20 Sat>
 
 **** 2.1 Split Second :D2022_02_doctor:
+SCHEDULED: <2022-02-19 Sat>
+
 **** The Weight of History.mp3
 ** novels :novel:
 *** [#C] Silhouette 侧影 :已购:Kindle己购:

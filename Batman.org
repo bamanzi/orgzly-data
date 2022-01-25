@@ -4,65 +4,66 @@
 ** golden age
 ** 1985-1993
 *** 1987
-**** DONE [#A] Batman: Year One                        :hanzify:origin:P1987:
+**** DONE [#A] Batman: Year One :hanzify:origin:P1987:
 
  讲述了布鲁斯·韦恩作为蝙蝠侠和吉姆·戈登警长的“起源故事”，他是GCPD中唯一的新警察。被许多人认为是有史
  以来最伟大的蝙蝠侠故事之一。
 
  - Batman #404-407
 
-**** Second Chance                                                    :P1987:
+**** Second Chance :P1987:
+
 1986 Dec -1988 Feb
  - Batman #402-403, 408-416
  - Batman annual #11 (love bird)
+
 **** Batman - Year Two
+
 1987 May-Sept
  - Detective Comics #574-578
  - Batman: Full Circle
 
+**** The Crime Doctor's Crimson Clinic
 
-**** The Crime Doctor's Crimson Clinic	
 1987 Oct
 - Detective Comics #579	
 
 Legends of The Dark Knight: Norm Breyfogle
+
 **** 1987 Nov-Dec	Harvey Dent
 
 - Detective Comics #580-581
 
 *** 1988
 **** (1988) Ten Nights of the Beast (#417-420) 野兽十昼夜
-**** DONE [#A] Batman: The Killing Joke        :P1988:Barbara:Joker:hanzify:
+**** DONE [#A] Batman: The Killing Joke :P1988:Barbara:Joker:hanzify:
 
  有史以来最著名的漫画之一，小丑带来了芭芭拉·戈登，前蝙蝠女郎的残废。
 
 **** DONE (1987-12) Dumpster Slasher (#414,421,422)
-
-
-
 *** 1989
-**** READY [#B] Batman: The Cult (4 issues)              :P1988:hanzify:蝠鸟:
+**** READY [#C] Batman: The Cult (4 issues) :P1988:hanzify:蝠鸟:
 
  蝙蝠侠：邪教
 
  杰森·托德担任罗宾时期的少数著名漫画之一，蝙蝠侠被迫吸毒并被拉入一个决定接管哥谭市的地下邪教组织。
 
-**** READY [#B] Batman and the Monster Men        :Hugo_Strange:hanzify:蝠影:
+**** READY [#C] Batman and the Monster Men :Hugo_Strange:hanzify:蝠影:
 
  这是布鲁斯与蝙蝠侠最早的反派之一：雨果·斯特兰奇教授的初次交手的现代版重写。也引入了朱莉·麦迪逊，布鲁斯·韦恩的第一任恋人
 
-**** READY Batman: Dark Knight, Dark City (#452-454)     :P1990:Riddler:蝠影:
+**** READY [#B] Batman: Dark Knight, Dark City (#452-454) :P1990:Riddler:蝠影:
 
  谜语人疯了吗？当一群神秘学家试图召唤恶魔巴巴托斯时，谜语人突然采取了更加黑暗的手段，诉诸酷刑和谋杀。
  这里的许多创意之后在莫里森的蝙蝠史诗中得到了深入探讨。
 
  The events of Dark Knight, Dark City were later adapted by Grant Morrison in his Batman and Robin series.
 
-**** READY [#B] Batman: Shaman (LotDK #1-5)                      :P1989:蝠影:
+**** READY [#C] Batman: Shaman (LotDK #1-5) :P1989:蝠影:
 
  萨满与元年同时发生，布鲁斯的训练带他进入了阿拉斯加荒野，在那里他遇到了一个萨满，学会了面具的意义。他还必须调查一系列仪式性谋杀案，以及它哥谭市毒品交易的关联。
 
-**** BLOCK Blind Justice (DC #598-600)                                :P1989:
+**** BLOCK Blind Justice (DC #598-600) :P1989:
 
  汉化不全。水漫组做了598-599, 缺600
 
@@ -71,75 +72,77 @@ Legends of The Dark Knight: Norm Breyfogle
  - Detective Comics #599 (Chapter Four: Citizen Wayne)
  - Detective Comics #600 (Chapter Five: Hidden Agendas, Chapter Six: Cover Operations and Chapter Seven: Ulterior Motives)
 
-**** READY [#B] Gothic (LotDK #6-10)              :Grant_Morrison:P1990:蝠影:
+**** (1989-05) Many Deaths of the Batman (#433-435)
+**** (1989-08) Batman - Year Three (#436-439)
+*** 1990
+**** READY [#B] Gothic (LotDK #6-10) :Grant_Morrison:P1990:蝠影:
 
  一个真正的侦探故事，带有神秘的宗教和魔法。
 
-**** DONE [#B] Prey (LotDK #11-#15)                      :Hugo_Strange:P1990:
+**** DONE [#C] Prey (LotDK #11-#15) :Hugo_Strange:P1990:
 
  讲述了另一个蝙蝠侠与雨果·斯特兰奇的早期冲突，以及斯特兰奇的表面死亡。
 
-**** Batman: Gotham Nights (#1-4)                              :P1992:无汉化:
+*** 1992
+**** Batman: Gotham Nights (#1-4) :P1992:无汉化:
 
  了解哥谭市的日常生活。
 
-**** READY [#B] Blades (LotDK #32-34)                    :hanzify:P1992:蝠影:
+**** READY [#B] Blades (LotDK #32-34) :hanzify:P1992:蝠影:
 
  一个可疑的新义警来到了哥谭，并声称他可以做得比蝙蝠侠做得更好。
 
-**** [#B] Hot House (LotDK 42-43)                              :P1992:无汉化:
+**** [#B] Hot House (LotDK 42-43) :P1992:无汉化:
 
  一名男子在可疑的情况下自杀，蝙蝠侠怀疑事关毒藤女，但毒藤坚称她是无辜的。
 
-**** Knightfall (vol.1 & vol.3)                                       :P1993:
-**** singles
-***** DC v1 #569-574                                                  :P1986:
+*** Knightfall (vol.1 & vol.3) :P1993:
+*** misc
+**** (1986-12) DC #569–574
+*** singles
+**** DC v1 #569-574 :P1986:
 
  571,574有汉化
 
  这一阶段的故事是白银时代与80年代的完美结合。其中可以看到杰森作为罗宾的生涯的早期，甚至还有与夏洛克福尔摩斯的联动。
 
-***** Mortal Clay (Batman Annual #11 part1)                  :P1987:Clayface:
+**** Mortal Clay (Batman Annual #11 part1) :P1987:Clayface:
 
  泥面人的爱情故事
 
-***** DONE [#A] Batman: The Killing Joke        :P1988:Barbara:Joker:hanzify:
+**** DONE [#A] Batman: The Killing Joke :P1988:Barbara:Joker:hanzify:
 
  有史以来最著名的漫画之一，小丑带来了芭芭拉·戈登，前蝙蝠女郎的残废。
 
-***** DONE [#C] Blood secrets (DC Annual #2)                          :P1989:
+**** DONE [#C] Blood secrets (DC Annual #2) :P1989:
 
  这个故事主要是一个回忆，当时年轻的布鲁斯还在学习如何成为一名侦探。他必须调查一个南部小镇的系列杀人事件。
 
-***** DONE Pavane (Secret Origins vol.2 #36: part3)       :Poison_Ivy:origin:
+**** DONE Pavane (Secret Origins vol.2 #36: part3) :Poison_Ivy:origin:
 
  毒藤女的起源故事
 
-***** DONE Secret Origins vol.2 special                        :P1989:origin:
+**** DONE Secret Origins vol.2 special :P1989:origin:
 
  - original sins
  - the killing peck
  - when is a door: the secret origin of the riddler
  - two-face
 
-***** 侦探漫画＃583-594，601-621,627，蝙蝠侠＃455-466,470-476，蝙蝠之影＃1-5 :P1990:
+**** 侦探漫画＃583-594，601-621,627，蝙蝠侠＃455-466,470-476，蝙蝠之影＃1-5 :P1990:
 
  艾伦·格兰特和布雷福格尔（Alan Grant and Norm Breyfogle）的著名连载，其中包括众多首次出现的角色，如腹语师、扎斯与捕鼠人
 
  蝙蝠之影#1-4有汉化
 
-***** 侦探漫画＃629,631-633,638,643                                   :P1991:
+**** 侦探漫画＃629,631-633,638,643 :P1991:
 
  彼得·米利根（Peter Milligan）参与的故事，这一系列故事令人难以忘怀，并经常挑战对与错的概念。
 
-***** [#B] Night Cries                                                :P1992:
+**** [#B] Night Cries :P1992:
 
  一个非常黑暗的侦探故事，很大程度上聚焦于戈登局长，他试图追查一系列与虐待儿童有关的谋杀案，同时处理他自己陷入困境的家庭生活。
 
-**** misc
-***** (1986-12) DC #569–574
-***** (1989-05) Many Deaths of the Batman (#433-435)
-***** (1989-08) Batman - Year Three (#436-439)
 ** 1993-1999
 *** DONE [#A] The Long Halloween :hanzify:P1997:
 *** 2DONE [#B] Cataclysm :P1998:无汉化:
@@ -200,16 +203,18 @@ CLOSED: [2021-07-09 Fri 17:25]
 
 （莫里森史诗第2部分）蝙蝠侠和前英雄俱乐部的其他成员被邀请到他们神秘赞助人的私人岛屿，然后事态急转直下。
 
-| #663 The    | Clown at Midnight      |
-| #664-665    | Three Ghosts of Batman |
-| #666 Batman | in Bethlehem           |
-| #667-669    | Club of Heroes         |
-| #672-675    | The Black Glove        |
+| #663           | The Clown at Midnight      |
+| #664-665   | Three Ghosts of Batman |
+| #666           | Batman  in Bethlehem   |
+| #667-669   | Club of Heroes         |
+| #672-675   | The Black Glove        |
 
 *** DONE The Resurrection of Ra's Al Ghul
 *** DONE [#B] Batman R.I.P.
 
 （莫里森史诗第3部分）黑手套协会决定玩弄蝙蝠侠的生命，直到他们决定结束它为止。
+
+Batman #676-681
 
 *** [#B] Battle for the Cowl
 *** Whatever Happened to the Caped Crusader?
@@ -221,7 +226,7 @@ CLOSED: [2021-07-09 Fri 17:25]
 
 （莫里森史诗第5部分）随着布鲁斯·韦恩被推定死亡，迪克·格雷森再次接过了披风，这次达米安·韦恩作为他的罗宾。
 
-*** [#B] Time and Batman                                              :P2010:
+*** [#B] Time and Batman :P2010:
 
 （莫里森的史诗第4部分）从蝙蝠侠的角度探讨最终危机事件。
 
@@ -271,7 +276,8 @@ CLOSED: <2021-04-17 Sat 17:26>
 
 布鲁斯韦恩发现了一个关于哥谭市历史的黑暗秘密，甚至可能关系到他自己的家人。
 
-**** 2DONE [#B] Night of Owls 
+**** 2DONE [#B] Night of Owls
+
 (tie-ins to Court of Owls)
 
 - Batman #8-9
@@ -287,12 +293,13 @@ CLOSED: <2021-04-17 Sat 17:26>
 - All-Star Western #9
 
 **** 2DONE [#B] Death of the Family (#13-17)
-**** 2DONE [#B] Year Zero (#21-33)                                   :Snyder:
+**** 2DONE [#B] Year Zero (#21-33) :Snyder:
 CLOSED: <2021-06-20 Sun 17:26>
 
 ***** Zero Year: Secret City (#21-24)
 ***** Zero Year: Dark City (#25-27, #29-33)
 ***** Zero Year tie-ins
+
 - Batman #24-25
 - Detective Comics #25
 - Batgirl #25
@@ -326,9 +333,11 @@ CLOSED: <2021-06-20 Sun 17:34>
 *** [#B] 蝙蝠侠群英会V2 ＃0-13
 
 （莫里森史诗第8部分）格兰特·莫里森的蝙蝠史诗的结局终于来临，塔莉亚·阿尔·古尔决定收回她的儿子，不论死活。
-**** [#B] Demon Star	(Batman Incorporated #0-6)	
+
+**** [#B] Demon Star	(Batman Incorporated #0-6)
 
 Batman Incorporated: Demon Star
+
 **** [#B] Gotham's Most Wanted (Batman Incorporated #7-13)
 *** ＃18 “安魂曲”
 
@@ -373,45 +382,88 @@ CLOSED: <2021-05-23 Sun 17:27>
 CLOSED: <2021-05-13 Thu 17:35>
 
 ** 2016- (rebirth)
-*** 2016	DC Universe Rebirth #1	
+*** 2016	DC Universe Rebirth #1
 
 collected in: DC Universe Rebirth	
 
 Announces Rebirth
 
-*** [#B] 2016	I am Gotham		
+*** [#C] 2016	I am Gotham
 
-Batman #1-6	Batman: I am Gotham
-*** 2016	Rise of the Batmen	
+Batman #1-6	
+collected in Batman: I am Gotham
+
+*** 2016	Rise of the Batmen
+
 Detective Comics #934-940
 
 Batman: Detective Comics: Rise of the Batmen	
-*** 2016	Night of the Monster Men	
+
+*** 2016	Night of the Monster Men
+
 - Batman #7-8
 - Nightwing #5-6
 - Detective Comics #941-942
 - Batman: Night of the Monster Men	
-*** [#B] 2016	I am Suicide	
-Batman #9-13	Batman: I am Suicide
-*** (2016) The Victim Syndicate	
-Detective Comics #943-947	Batman: Detective Comics: The Victim Syndicate
-*** (2017) Rooftops	
-Batman #14-15	Batman: I am Suicide
-*** (2017) Batwoman Begins		
+
+*** [#B] 2016	I am Suicide
+
+Batman #9-13	
+
+collected in Batman: I am Suicide
+
+*** (2016) The Victim Syndicate
+
+Detective Comics #943-947	
+collected in Batman: Detective Comics: The Victim Syndicate
+
+*** (2017) Rooftops
+
+Batman #14-15	
+collected in Batman: I am Suicide
+
+*** (2017) Batwoman Begins
+
 Detective Comics #948-949
-*** [#B] (2017) I am Bane	
-Batman #16-20	Batman: I am Bane
-*** (2017) League of Shadows	
-Detective Comics #950-956	Batman: League of Shadows
+
+*** [#B] (2017) I am Bane
+
+Batman #16-20	
+collected in Batman: I am Bane
+
+*** (2017) League of Shadows
+
+Detective Comics #950-956	
+collected in Batman: League of Shadows
+
 *** (2017) Higher Powers
-Detective Comics #950		A Backup Story
+
+Detective Comics #950		
+A Backup Story
+
 *** (2017) The Big Picture
-Detective Comics #950		A Backup Story
-*** (2017) The Button	
-Batman #21-22	Batman / The Falsh: The Button
+
+Detective Comics #950		
+A Backup Story
+
+*** [#C] (2017) The Button
+
+- Batman v2 #21-22	
+- The Flash (Volume 5) #21-22
+collected in Batman / The Falsh: The Button
+
+*** [#B] Batman: White Knight vol.1 (8 issues) :P2017:
+*** [#B] Rules of Engagement :P2017:
+
+Batman Confidential #1-6
+
+*** [#C] Dark Nights: Metal :P2017:
+
+- Dark Nights: Metal #1-6
+
 ** Bat family
 *** DONE [#B] A Death in the Family (Batman #426-429) :Jason:P1988:
-*** DONE Batman: A Lonely Place of Dying :Jason:Tim:P1989:
+*** DONE [#B] Batman: A Lonely Place of Dying :Jason:Tim:P1989:
 
 随着罗宾死去，蝙蝠侠变得心烦意乱，鲁莽。蒂姆·德雷克试图帮助他，并最终在悲剧后继承杰森的衣钵。
 
@@ -438,6 +490,7 @@ Batman #21-22	Batman / The Falsh: The Button
 
 迪克·格雷森终于准备好单飞，在蝙蝠侠的阴影之外为自己扬名。当然随着迪克的离去，又出现了一个新的罗宾。
 
+*** DONE Under the Red Hood :P2005:
 *** Batwomen: Elegy (DC #854-857) :P2009:
 
 凯特·凯恩是新的蝙蝠女侠，她在探索她的过去并踏入她的新角色时，必须面对超自然的威胁。

@@ -73,7 +73,8 @@ CLOSED: [2021-03-22 Mon 23:17]
 :rating:   4.5
 :END:
 
-**** [#B] 44. Creatures of Beauty :plot_no:
+**** [#B] 44. Creatures of Beauty :plot_no:D2022_02_doctor:
+SCHEDULED: <2022-02-06 Sun>
 :PROPERTIES:
 :rating:   8.2
 :END:
@@ -487,7 +488,8 @@ CLOSED: [2021-03-22 Mon 20:39]
 
 **** [#B] 100b. My Own Private Wolfgang (8.0) :plot_no:
 *** main range 101-150 :scripted:
-**** TODO [#B] 105. The Condemned (8.4) :Charley:plot_no:
+**** [#B] 105. The Condemned (8.4) :Charley:plot_no:D2022_02_doctor:
+SCHEDULED: <2022-02-11 Fri>
 
 Six and Charley meet, and an enjoyable, weird adventure results.
 

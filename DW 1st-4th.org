@@ -164,7 +164,8 @@ CLOSED: [2021-06-26 Sat 09:13]
 :rating:   8.2
 :END:
 
-**** [#B] 8.10 The War to End All Wars :Steven:
+**** [#B] 8.10 The War to End All Wars :Steven:D2022_02_doctor:
+SCHEDULED: <2022-02-04 Fri>
 :PROPERTIES:
 :rating:   8.0
 :END:
@@ -395,12 +396,6 @@ UNIT 和 准将第一次正式出场
 - 完整版本: http://www.doctorwho-devious.com/
 
 ** audio :🎧:
-*** Lost Stories
-**** NEXT [#B] LS4.3 - Lords of the Red Planet :ice_warriors:D2021_13:plot_yes:
-:PROPERTIES:
-:rating:   8.2
-:END:
-
 *** EA
 **** EA S2
 ***** [#C] 2.1 The Yes Men
@@ -461,7 +456,7 @@ CLOSED: <2021-07-30 Fri 16:14>
 :rating:   7.7
 :END:
 
-**** BLOCK [#B] CC4.2 - The Glorious Revolution :Jamie:D2021_13:plot_no:
+**** HALF [#B] CC4.2 - The Glorious Revolution :Jamie:D2022_01_doctor:plot_no:
 :PROPERTIES:
 :rating:   8.1
 :END:
@@ -473,7 +468,7 @@ CLOSED: <2021-07-30 Fri 16:14>
 :rating:   7.8
 :END:
 
-**** [#C] CC10.1 - The Mouthless Dead :Jamie:Polly:scripted:
+**** [#C] CC10.1 - The Mouthless Dead :Jamie:Polly:scripted:plot_yes:
 :PROPERTIES:
 :rating:   7.7
 :END:
@@ -489,18 +484,70 @@ SCHEDULED: <2021-10-03 Sun>
 :rating:   8.1
 :END:
 
-*** The Missing Adventures (fan-made)
+*** Lost Stories
+**** [#D] 4.2 - The Queen of Time
+:PROPERTIES:
+:rating:   7.4
+:END:
 
-https://chriswalkerthomson.com/dwthemissingadventures/
-
-**** START MA1. Red Snow :D2022_01_doctor:
-SCHEDULED: <2022-01-30 Sun>
-
-https://m.vk.com/wall-205306392_45
+**** NEXT [#B] LS4.3 - Lords of the Red Planet :ice_warriors:D2021_13:plot_yes:
+:PROPERTIES:
+:rating:   8.2
+:END:
 
 *** [#C] DotD#2 - Shadow of Death
 :PROPERTIES:
 :thetimescales: 7.9
+:END:
+
+*** The Missing Adventures (fan-made)
+
+https://chriswalkerthomson.com/dwthemissingadventures/
+
+**** START MA1. Red Snow :D2022_01_extra:
+SCHEDULED: <2022-01-30 Sun>
+
+https://m.vk.com/wall-205306392_45
+
+*** short trips
+**** [#D] 2.2 - The Way Forwards
+:PROPERTIES:
+:rating:   7.1
+:END:
+
+**** [#D] 3.1 - Seven to One
+:PROPERTIES:
+:rating:   7.4
+:END:
+
+**** [#D] 6.6 - Lost and Found
+:PROPERTIES:
+:rating:   7.0
+:END:
+
+**** [#C] 7.8 - The British Invasion
+:PROPERTIES:
+:rating:   7.5
+:END:
+
+**** [#B] 8.X - The Last Day At Work
+:PROPERTIES:
+:rating:   8.1
+:END:
+
+**** [#C] 10.2 - Deleted Scenes
+:PROPERTIES:
+:rating:   7.8
+:END:
+
+**** [#B] STS#3. Lepidoptery for Beginners
+:PROPERTIES:
+:rating:   8.3
+:END:
+
+**** [#D] STS? The Horror of Hy-Brasil
+:PROPERTIES:
+:rating:   7.2
 :END:
 
 * 3rd Doctor :3rd_Dr:
@@ -578,8 +625,8 @@ CLOSED: [2021-07-27 Tue 23:10]
 **** 2DONE [#B] 3DA 4.1 - The Rise of the New Humans (8.0) :Monk:P2018:D2021_05:plot_no:
 CLOSED: <2021-05-27 Thu 23:20>
 
-**** TODO [#C] 3DA 4.2 - The Tyrants of Logic :cybermen:plot_yes:D2022_02_doctor:
-SCHEDULED: <2022-02-13 Sun>
+**** [#C] 3DA 4.2 - The Tyrants of Logic :cybermen:plot_yes:D2022_02_doctor:
+SCHEDULED: <2022-02-05 Sat>
 :PROPERTIES:
 :rating:   7.5
 :END:
@@ -684,7 +731,6 @@ Confronted with memories she knows nothing about, Jo agrees to a meeting with Ir
 **** [#D] CC6.0b - The Mists of Time (7.4)
 **** [#D] CC6.4 - The Many Deaths of Jo Grant (7.2)
 *** Short Trips
-**** [#A] ST9.6 The Same Face (8.6, top #4 in ST) :Jo:Master:P2019:
 **** [#B] ST6.7 The Blame Game (8.3, top #8 in ST) :Liz:Monk:
 
 To escape his Earth exile, the Doctor is prepared to make any bargain, come to any arrangement, or to do any deal with any devil – even if in this case the Devil wears a monk's robes. But when past misdeeds start catching up with both the Doctor and the Monk, who can Liz Shaw trust when time is running out and death is rapidly approaching?
@@ -694,6 +740,7 @@ To escape his Earth exile, the Doctor is prepared to make any bargain, come 
 As the decade in English history which attracts the greatest quantity of alien invasions per annum, the 1970s are not the easiest time in which to steer the great British ship of state. The Prime Minister, nonetheless, is doing the very best job he can. Still, at least he has UNIT to rely on — their eccentric, bouffant-haired scientific adviser in particular. Or does he?
 
 **** [#C] ST7.X Landbound †7.6 :scripted:no_companion:
+**** [#A] ST9.6 The Same Face (8.6, top #4 in ST) :Jo:Master:P2019:
 **** CANCEL [#E] 10.03 Decline of the Ancient Mariner †4.2 :Sarah:
 CLOSED: [2020-06-25 Thu 21:52]
 
@@ -889,8 +936,8 @@ CLOSED: <2021-05-27 Thu 21:05>
 :rating:   8.1
 :END:
 
-***** START [#B] 2.4 The Justice of Jalxar :Jago:Litefoot:D2022_01_doctor:
-SCHEDULED: <2022-01-30 Sun>
+***** 3QTR [#B] 2.4 The Justice of Jalxar :Jago:Litefoot:D2022_01_doctor:
+CLOSED: [2022-01-18 Tue 15:32] SCHEDULED: <2022-01-30 Sun>
 :PROPERTIES:
 :rating:   8.1
 :END:

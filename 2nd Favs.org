@@ -200,6 +200,16 @@ CLOSED: [2022-01-11 Tue 08:22]
 **** DONE 1x04, 05
 CLOSED: <2022-01-13 Thu 08:39>
 
+**** DONE 1x06, 07
+CLOSED: [2022-01-19 Wed 22:03]
+
+**** DONE 1x08, 09, 10
+CLOSED: [2022-01-21 Fri 23:07]
+
+*** S2 :P2017:
+**** DONE 2x01, 02
+CLOSED: [2022-01-24 Mon 18:54]
+
 * Swamp Thing
 * Supernatural
 ** DONE S11
