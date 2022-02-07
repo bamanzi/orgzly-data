@@ -109,9 +109,9 @@ CLOSED: [2021-06-15 Tue 08:16]
 :END:
 
 **** [#D] 087. The Gathering :Cybermen:Tegan:
-**** 91. Circular Time :plot_yes:Nyssa:
-***** Spring
-***** Summer
+**** 📂91. Circular Time :plot_yes:Nyssa:short:
+***** 91a. Spring
+***** 91b. Summer
 ***** [#A] 91c.Autumn
 :PROPERTIES:
 :rating:   8.6
@@ -181,12 +181,11 @@ CLOSED: <2021-08-01 Sun 00:10>
 
 **** The Whispering Forest
 **** The Cradle of the Snake
-**** The Demons of Red Lodge and Other Stories
+**** 📂142. The Demons of Red Lodge and Other Stories :short:
 ***** The Demons of Red Lodge
 ***** The Entropy Composition
 ***** Doing Time
 ***** Special Features
-**** The Four Doctors
 **** [#D] 146. Heroes of Sontar
 :PROPERTIES:
 :rating:   7.3
@@ -266,7 +265,7 @@ CLOSED: <2021-11-26 Fri 14:14> SCHEDULED: <2021-11-20 Sat>
 :rating:   7.5
 :END:
 
-**** 217. The Memory Bank and Other Stories
+**** 📂217. The Memory Bank and Other Stories :short:
 ***** [#D] The Memory Bank (7.2)
 ***** [#E] The Last Fairy Tale (6.9)
 ***** BLOCK [#B] 217c. Repeat Offender (8.1) :plot_yes:
@@ -289,7 +288,7 @@ CLOSED: [2021-02-27 Sat 18:03]
 :rating:   6.6
 :END:
 
-**** [#A] 224b. Dalek Soul (8.5) :plot_no:
+**** [#A] 224b. Dalek Soul (8.5) :plot_no:short:
 :PROPERTIES:
 :rating:   8.5
 :END:
@@ -332,16 +331,21 @@ CLOSED: [2021-02-27 Sat 18:02]
 
 *** main range 251-
 **** Tartarus
-**** Interstitial / Feast of Fear
-**** Warzone / Conversion
-**** Time Apart
+**** Interstitial / Feast of Fear :short:
+**** Warzone / Conversion :short:
+**** Time Apart :short:
 ***** Ghost Station
 ***** The Bridge Master
 ***** What Lurks Down Under
 ***** The Dancing Plague
-**** [#C] 267. Thin Time / Madquake :underrated:P2020:
+**** [#C] 267a. Thin Time :underrated:P2020:short:11th_Dr:
 :PROPERTIES:
 :rating:   7.8
+:END:
+
+**** [#E] 267b. Madquake
+:PROPERTIES:
+:rating:   6.8
 :END:
 
 **** Shadow of the Daleks 1
@@ -370,7 +374,7 @@ CLOSED: [2021-02-27 Sat 18:02]
 :rating:   8.3
 :END:
 
-**** Classic Doctors, New Monsters
+**** Classic Doctors, New Monsters :short:
 ***** [#B] 1.1 Fallen Angles :D2022_Q2_doctor:
 :PROPERTIES:
 :rating:   8.1
@@ -387,7 +391,10 @@ CLOSED: [2022-01-14 Fri 15:10]
 ***** A Requiem for the Doctor
 ***** My Dinner with Andrew
 ***** The Furies
-**** The Five Companions
+**** VI. Return to the Web Planet :short:
+**** X. The Five Companions :short:
+**** CC4.05 - Ringpullworld :short:
+**** ST7.11. The Ingenious Gentleman Adric of Alzarius :short:
 * 6th Doctor :6th_Dr:
 ** tv :📺:
 *** Season 21
@@ -483,12 +490,17 @@ CLOSED: <2021-06-09 Wed 08:10>
 :goodreads: 3.6
 :END:
 
-**** 2DONE [#A] 94b. Urgent Calls (8.8) :plot_yes:Viyrans:
+**** 2DONE [#A] 94b. Urgent Calls (8.8) :plot_yes:Viyrans:short:
 CLOSED: [2021-03-22 Mon 20:39]
 
 **** [#B] 100b. My Own Private Wolfgang (8.0) :plot_no:
+**** [#C] 100c. Bedtime Story :short:
+:PROPERTIES:
+:rating:   7.8
+:END:
+
 *** main range 101-150 :scripted:
-**** [#B] 105. The Condemned (8.4) :Charley:plot_no:D2022_02_doctor:
+**** [#B] 105. The Condemned (8.4) :Charley:plot_no:D2022_03_doctor:
 SCHEDULED: <2022-02-11 Fri>
 
 Six and Charley meet, and an enjoyable, weird adventure results.
@@ -543,8 +555,8 @@ CLOSED: <2021-04-18 Sun 08:14>
 **** 150. Recorded Time and Other Stories :Peri:
 ***** [#E] 150a. Recorded Time
 ***** [#E] 150b. Paradoxicide
-***** [#D] 150c. A Most Excellent Match
-***** [#B] 150d. Question Marks (8.3) :plot_no:
+***** [#D] 150c. A Most Excellent Match :short:
+***** [#B] 150d. Question Marks (8.3) :plot_no:short:
 *** main range 151-200 :scripted:
 **** 2DONE [#B] 156. The Curse of Davros (8.0) :plot_no:2buy:
 CLOSED: <2021-12-23 Thu 08:53>
@@ -552,7 +564,7 @@ CLOSED: <2021-12-23 Thu 08:53>
 **** [#E] 182. Antidote to Oblivion
 **** [#E] 183. The Brood of Erys
 **** [#D] 184. Scavenger
-**** 188. Breaking Bubbles and Other Stories
+**** 188. Breaking Bubbles and Other Stories :short:
 ***** [#A] 188d. The Curious Incident of the Doctor in the Night-Time (8.7) :plot_no:
 **** 3QTR [#A] MR192. The Widow's Assassin (8.6) :Peri:plot_no:D2021_09_dr:2buy:
 CLOSED: <2021-09-17 Fri 21:27> SCHEDULED: <2021-09-04 Sat>
@@ -578,14 +590,14 @@ CLOSED: [2021-10-18 Mon 20:15]
 :rating:   7.6
 :END:
 
-*** 6DA
+*** 6DA :short:
 **** The Sixth Doctor: The Last Adventure
 ***** 2DONE The End of the Line :Master:Valeyard:D2021_12_master:bilibili:week1:
 CLOSED: [2021-12-03 Fri 23:22] SCHEDULED: <2021-12-05 Sun>
 
 【【广播剧翻译】六任：最后的冒险 01 The end of the line-哔哩哔哩】 https://b23.tv/r4FWpnN
 
-***** The Red House :bilibili:D2022_Q2_doctor:
+***** The Red House :bilibili:D2022_02_doctor:
 
 【【广播剧翻译】照日光变成人的反向狼人 六任:最后的冒险 102 红房子-哔哩哔哩】 https://b23.tv/RLKffOm
 
@@ -607,6 +619,14 @@ Volume One
 :END:
 
 *** misc
+**** Real Time
+**** [#C] 33½ - The Maltese Penguin :short:
+:PROPERTIES:
+:rating:   7.6
+:END:
+
+**** VII - Return of the Krotons :short:
+**** XII - Trial of the Valeyard. :short:
 **** The Lost Stories
 ***** [#B] 1.3 - Leviathan
 :PROPERTIES:
@@ -643,12 +663,12 @@ Volume One
 :rating:   5.1
 :END:
 
-**** Jago and Litefoot: Series 4
-***** Jago in Love
-***** Beautiful Things
-***** The Lonely Clock
-***** The Hourglass Killers
-**** Classic Doctors, New Monsters
+**** Jago and Litefoot: Series 4 :short:
+***** 2DONE Jago in Love
+***** 2DONE Beautiful Things
+***** 2DONE The Lonely Clock
+***** 2DONE The Hourglass Killers
+**** Classic Doctors, New Monsters :short:
 ***** [#B] 1.2 Judoon in Chains
 :PROPERTIES:
 :rating:   8.3
@@ -662,6 +682,7 @@ Volume One
 **** The Diary of River Song: Series 2
 ***** World Enough and Time
 ***** The Eye of the Storm
+**** ST4.6 - To Cut a Blade of Grass :short:
 * 7th Doctor :7th_Dr:
 ** tv :📺:
 *** S25
@@ -735,7 +756,7 @@ CLOSED: [2021-06-24 Thu 12:31]
 :END:
 
 **** MR101-150
-***** 115. Forty-Five
+***** 115. Forty-Five :short:
 ****** [#E] 115a. False Gods
 :PROPERTIES:
 :rating:   6.9
@@ -756,7 +777,7 @@ CLOSED: [2021-06-24 Thu 12:31]
 ***** DONE [#A] 130. A Thousand Tiny Wings (8.8) :P2010:Klein:plot_no:
 CLOSED: <2021-05-13 Thu 08:13>
 
-***** DONE [#A] 131a. Klein's Story (8.6) :P2010:Klein:plot_yes:D2021_05:❤:
+***** DONE [#A] 131a. Klein's Story (8.6) :P2010:Klein:plot_yes:D2021_05:❤:short:
 CLOSED: <2021-05-26 Wed 08:10>
 
 ***** DONE [#C] 131b. Survival of the Fittest :plot_no:Klein:D2021_05:
@@ -818,7 +839,7 @@ SCHEDULED: <2022-01-30 Sun>
 :rating:   7.6
 :END:
 
-***** 207. You Are the Doctor and Other Stories
+***** 207. You Are the Doctor and Other Stories :short:
 ****** DONE [#B] MR207a. You Are the Doctor :D2021_08_dr:
 CLOSED: <2021-08-11 Wed 17:21>
 :PROPERTIES:
@@ -845,7 +866,7 @@ SCHEDULED: <2021-12-04 Sat>
 
 【【神秘博士广播剧汉化】The Two Masters 两个法师-哔哩哔哩】https://b23.tv/FjTGsz 
 
-***** [#C] 226b. World Apart :plot_no:
+***** [#C] 226b. World Apart :plot_no:short:
 :PROPERTIES:
 :rating:   7.7
 :END:
@@ -877,6 +898,33 @@ SCHEDULED: <2021-12-04 Sat>
 
 ***** 272. The Grey Man of the Mountain
 ***** 275B. Flight of the Blackstar
+*** 7DA
+**** [#D] 7DA 1.1 - The Trial of a Time Machine :D2022_Q2_doctor:short:
+:PROPERTIES:
+:rating:   7.4
+:END:
+
+**** CANCEL [#F] 7DA 1.2 - Vanguard :short:
+CLOSED: [2021-03-23 Tue 13:04]
+:PROPERTIES:
+:rating:   6.1
+:END:
+
+**** [#B] 7DA 1.3 - The Jabari Countdown :short:
+:PROPERTIES:
+:rating:   8.2
+:END:
+
+**** [#A] 7DA 1.4 - The Dread of Night :short:
+:PROPERTIES:
+:rating:   8.5
+:END:
+
+**** [#B] UNIT - Dominion
+:PROPERTIES:
+:rating:   8.1
+:END:
+
 *** misc
 **** [#A] NA Damaged Goods :plot_no:
 :PROPERTIES:
@@ -898,38 +946,13 @@ SCHEDULED: <2021-12-04 Sat>
 :rating:   8.1
 :END:
 
-**** [#E] CDNM1.3 Harvest of Sycorax
+**** [#E] CDNM1.3 Harvest of Sycorax :short:
 :PROPERTIES:
 :rating:   6.9
 :END:
 
-*** 7DA
-**** [#D] 7DA 1.1 - The Trial of a Time Machine :D2022_Q2_doctor:
-:PROPERTIES:
-:rating:   7.4
-:END:
-
-**** CANCEL [#F] 7DA 1.2 - Vanguard
-CLOSED: [2021-03-23 Tue 13:04]
-:PROPERTIES:
-:rating:   6.1
-:END:
-
-**** [#B] 7DA 1.3 - The Jabari Countdown
-:PROPERTIES:
-:rating:   8.2
-:END:
-
-**** [#A] 7DA 1.4 - The Dread of Night
-:PROPERTIES:
-:rating:   8.5
-:END:
-
-**** [#B] Unit - Dominion
-:PROPERTIES:
-:rating:   8.1
-:END:
-
+**** V. Return of the Daleks :short:
+**** ST6.13 - Forever Fallen :short:
 ** comics
 *** A Cold Day in Hell! (DWM 130-148)
 

@@ -793,7 +793,7 @@ Roberts Master
 *** [#B] Jago & Litefoot Forever (8.3) :P2018:
 *** [#C] ST 7.3/7.4 The Jago & Litefoot Revival (7.8) :P2018:
 *** [#A] Benjamin & Baxter (documentary)                     (8.8)
-* Gallifrey :🎧:
+* Gallifrey :🎧:Gallifrey:
 ** series 1 :plot_simple:P2004:
 *** HALF [#C] 1.1 Weapon of Choice :D2021_08_extra:
     :PROPERTIES:
@@ -831,7 +831,7 @@ Roberts Master
     :rating:   8.4
     :END:
 
-*** [#B] 2.3 - Pandora :D2022_02_spinoffs:
+*** START [#B] 2.3 - Pandora :D2022_02_spinoffs:
     SCHEDULED: <2022-02-26 Sat>
     :PROPERTIES:
     :rating:   8.4
@@ -939,7 +939,7 @@ Roberts Master
 
 * Bernice Summerfield :Benny:
 ** Bernice Summerfield
-*** Series 1                                                          :P1999:
+*** Series 1 :P1999:
 **** 1.1 Oh No It Isn't
 **** 1.2 Beyond the Sun
 **** 1.3 Walking to Babylon
@@ -948,11 +948,10 @@ Roberts Master
 **** 1.6 Dragon's Wrath
 **** Making Myths
 **** Closure
-
-*** Series 2                                                          :P2001:
-*** Series 3                                                          :P2002:
-*** Series 4                                                          :P2003:
-*** Series 5                                                          :P2004:
+*** Series 2 :P2001:
+*** Series 3 :P2002:
+*** Series 4 :P2003:
+*** Series 5 :P2004:
 **** novel: The Big Hunt
 **** anthology: A Life Worth Living
 **** anthology: A Life in Pieces
@@ -961,7 +960,7 @@ Roberts Master
 **** 5.3 The Relics of Jegg-Sau
 **** SP Sliver Lining
 **** 5.4 The Masquerade of Death
-*** Series 6                                                          :P2006:
+*** Series 6 :P2006:
 **** novel: The Tree of Life
 **** anthology: Paralel Lives
 **** anthology: Something Changed
@@ -969,30 +968,28 @@ Roberts Master
 **** 6.2 The Kingdom of the Blind
 **** 6.3 The Lost Museum
 **** 6.4 The Goddes Quandary
-**** 6.5 The Crystal of Cantus                                     :Cybermen:
+**** 6.5 The Crystal of Cantus :Cybermen:
 *** Series 7
 *** Series 8
 *** Series 9
 *** Series 10
 *** Series 11
-*** Boxset 1: Epoch                                                   :P2011:
-**** 1.1 The Kraken's Lament                              :Jack_McSpringheel:
-**** 1.2 The Temple of Questions                                       :Ruth:
-**** 1.3 Private Enemy No. 1                                           :Ruth:
-**** 1.4 Judgement Day                               :Jack_McSpringheel:Ruth:
-
-*** Boxset 2: Road Trip                                               :P2012:
-**** 2.1 Brand Management                                              :Ruth:
-**** 2.2 Bad Habits                                                    :Ruth:
-**** 2.3 The Weather on Versimmon                                      :Ruth:
-**** 2.4 Paradise Frost                              :Ruth:Jack_McSpringheel:
-*** Boxset 3: Legion                                                  :P2012:
-*** SP: Many Happy Returns                                            :P2012:
-*** Boxset 4: New Frontiers                                           :P2013:
-*** Boxset 5: Missing Persons                                         :P2014:
-
+*** Boxset 1: Epoch :P2011:
+**** 1.1 The Kraken's Lament :Jack_McSpringheel:
+**** 1.2 The Temple of Questions :Ruth:
+**** 1.3 Private Enemy No. 1 :Ruth:
+**** 1.4 Judgement Day :Jack_McSpringheel:Ruth:
+*** Boxset 2: Road Trip :P2012:
+**** 2.1 Brand Management :Ruth:
+**** 2.2 Bad Habits :Ruth:
+**** 2.3 The Weather on Versimmon :Ruth:
+**** 2.4 Paradise Frost :Ruth:Jack_McSpringheel:
+*** Boxset 3: Legion :P2012:
+*** SP: Many Happy Returns :P2012:
+*** Boxset 4: New Frontiers :P2013:
+*** Boxset 5: Missing Persons :P2014:
 ** New Adventures of BS :🎧:
-*** Volume 1                                                   :7th_Dr:P2014:
+*** Volume 1 :7th_Dr:P2014:
 **** [#B] 1.1 - The Revolution
      :PROPERTIES:
      :rating:   8.0
@@ -1015,8 +1012,8 @@ Roberts Master
 
 Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor can't get to her, not this time. All Benny can do is stay alive for as long as possible. And, in a city full of Daleks, that's not going to be very long.
 
-*** vol.2 The Triumph of Sutekh                                :7th_Dr:P2015:
-*** vol.3 The Unbound Universe        :unbound_universe:Doctor_unbound:P2016:
+*** vol.2 The Triumph of Sutekh :7th_Dr:P2015:
+*** vol.3 The Unbound Universe :unbound_universe:Doctor_unbound:P2016:
 **** 2DONE DWUN2: Sympathy from the Devil :D2021_06:Master_unbound:
      CLOSED: [2021-06-17 Thu 23:09]
 
@@ -1047,32 +1044,35 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
      :rating:   8.3
      :END:
 
-*** vol.4 Ruler of the Universe       :unbound_universe:Doctor_unbound:P2017:
-**** TODO [#C] 4.1 - The City And The Clock :D2022_01_spinoffs:
+*** vol.4 Ruler of the Universe :unbound_universe:Doctor_unbound:P2017:
+**** START [#C] 4.1 - The City And The Clock :D2022_02_spinoffs:
      :PROPERTIES:
      :rating:   7.5
      :END:
 
-**** [#A] 4.2 - Asking For A Friend :D2022_01_spinoffs:
+**** [#A] 4.2 - Asking For A Friend :D2022_02_spinoffs:
      :PROPERTIES:
      :rating:   9.2
      :END:
 
-**** [#A] 4.3 - Truant                                    :D2022_02_spinoffs:
+**** [#A] 4.3 - Truant
+     SCHEDULED: <2022-02-19 Sat>
      :PROPERTIES:
      :rating:   8.7
      :END:
 
-**** [#A] 4.4 - The True Saviour Of The Universe          :D2022_02_spinoffs:
+**** [#A] 4.4 - The True Saviour Of The Universe
+     SCHEDULED: <2022-02-19 Sat>
      :PROPERTIES:
      :rating:   8.9
      :END:
-*** vol.5 Buried Memories                              :Doctor_unbound:P2019:
+
+*** vol.5 Buried Memories :Doctor_unbound:P2019:
 **** 5.1 Pride of the Lampian
 **** 5.2 Clear History
 **** 5.3 Dead and Breakfast
 **** 5.4 Burrowed Time
-*** vol.6 Lost in Translation                          :Doctor_unbound:P2020:
+*** vol.6 Lost in Translation :Doctor_unbound:P2020:
 * #Daleks :daleks:
 ** #Davros :Davros:
 *** tv :📺:
@@ -1335,14 +1335,14 @@ DWM 175-178
       :rating:   7.7
       :END:
 
-***** [#C] 1.3 - Conversion :plot_no:D2022_02_spinoffs:
-      SCHEDULED: <2022-02-26 Sat>
+***** START [#C] 1.3 - Conversion :plot_no:D2022_02_spinoffs:
+      SCHEDULED: <2022-02-27 Sun>
       :PROPERTIES:
       :rating:   7.7
       :END:
 
 ***** [#D] 1.4 - Telos :D2022_02_spinoffs:
-      SCHEDULED: <2022-02-26 Sat>
+      SCHEDULED: <2022-02-27 Sun>
       :PROPERTIES:
       :rating:   7.4
       :END:
@@ -1388,7 +1388,7 @@ DWM 175-178
      :rating:   7.1
      :END:
 
-**** [#C] 3DA 4.2 The Tyrants of Logic :3rd_Dr:
+**** DOING [#C] 3DA 4.2 The Tyrants of Logic :3rd_Dr:
      :PROPERTIES:
      :rating:   7.5
      :END:
@@ -1635,7 +1635,7 @@ rating 8.7/8.3
 **** [#D] 2.3 - Long Shot (7.0?)
 ** Jenny - the Doctor's Daughter
 *** series 1 :P2018:
-**** [#D] 1.1 - Stolen Goods (7.1)
+**** [#D] 1.1 - Stolen Goods (7.1) :D2022_02_spinoffs:
 **** [#E] +1.2 - Prisoner of the Ood+ (6.9)
 **** [#F] +1.3 - Neon Reign+ (5.6)
 **** [#D] 1.4 - Zero Space (7.0)
@@ -1654,14 +1654,80 @@ rating 8.7/8.3
 *** [#C] 2. Spinvasion (7.8)
 *** [#E] +3. The Sorcerer of Albion+ (6.9)
 *** [#C] 4. The Chiswick Cuckoos (7.9) :10th_Dr:
-** The Lone Centurion :P2021:
-*** [#C] 1.1 - Gladiator              (7.9)
-*** [#C] 1.2 - The Unwilling Assassin (7.7)
-*** [#B] 1.3 - I, Rorius              (8.7)
+** The Lone Centurion
+*** vol.1 :P2021:
+**** [#C] 1.1 - Gladiator              (7.9)
+**** [#C] 1.2 - The Unwilling Assassin (7.7)
+**** [#B] 1.3 - I, Rorius              (8.7)
+*** vol.2 :P2022:
 * special
+** multi-doctor story
+*** IX. The Four Doctors :P2010:
+*** The Light at the End :P2013:
+*** Collision Course :P2019:
 ** Novel Adaptations
+*** [#C] 1. Love and War :7th_Dr:
+    :PROPERTIES:
+    :rating:   7.5
+    :END:
+
+*** [#E] 2. The Highest Science :7th_Dr:
+    :PROPERTIES:
+    :rating:   6.8
+    :END:
+
+*** [#C] 3. The Romance of Crime :4th_Dr:
+    :PROPERTIES:
+    :rating:   7.9
+    :END:
+
+*** [#C] 4. The English Way of Death :4th_Dr:
+    :PROPERTIES:
+    :rating:   7.9
+    :END:
+
+*** [#B] 5. The Well-Mannered War :4th_Dr:
+    :PROPERTIES:
+    :rating:   8.1
+    :END:
+
+*** [#A] 6. Damaged Goods :7th_Dr:
+    :PROPERTIES:
+    :rating:   9.0
+    :END:
+
+*** [#C] 7. Theatre of War :7th_Dr:
+    :PROPERTIES:
+    :rating:   7.6
+    :END:
+
+*** [#B] 8. All-Consuming Fire :7th_Dr:
+    :PROPERTIES:
+    :rating:   8.4
+    :END:
+
+*** [#B] 9. Nightshade :7th_Dr:
+    :PROPERTIES:
+    :rating:   8.2
+    :END:
+
+*** [#C] 10. Original Sin :7th_Dr:
+    :PROPERTIES:
+    :rating:   7.8
+    :END:
+
+*** [#A] 11. Cold Fusion :5th_Dr:7th_Dr:
+    :PROPERTIES:
+    :rating:   8.7
+    :END:
+
 ** Doctor Who Unbound
 ** Classic Doctors, New Monsters
+** Peladon :P2022_01:
+*** 1. The Ordeal of Peladon :10th_Dr:
+*** 2. The Poison of Peladon :River:
+*** 3. The Death of Peladon :6th_Dr:Mel:
+*** 4. The Truth of Peladon :8th_Dr:
 * #Dark Times
 
 https://tardis.fandom.com/wiki/Dark_Times_-_list_of_appearances

@@ -625,7 +625,7 @@ CLOSED: [2021-07-27 Tue 23:10]
 **** 2DONE [#B] 3DA 4.1 - The Rise of the New Humans (8.0) :Monk:P2018:D2021_05:plot_no:
 CLOSED: <2021-05-27 Thu 23:20>
 
-**** [#C] 3DA 4.2 - The Tyrants of Logic :cybermen:plot_yes:D2022_02_doctor:
+**** START [#C] 3DA 4.2 - The Tyrants of Logic :P2018:cybermen:plot_yes:D2022_02_doctor:
 SCHEDULED: <2022-02-05 Sat>
 :PROPERTIES:
 :rating:   7.5
@@ -651,8 +651,10 @@ Inferno
 :rating:   7.4
 :END:
 
-**** 7.1 The Unzal Incursion
-**** 7.2 The Gulf
+**** 7.1 The Unzal Incursion :P2021:Liz:
+**** 7.2 The Gulf :P2021:Sarah:
+**** 8.1 Conspiracy in Space :Jo:
+**** 8.2 The Devil's Hoofprints :P2021:Sarah:
 *** Audio-drama misc
 **** DONE [#A] The Sacrifice of Jo Grant (The Legacy of Time #3) †9.0 :Jo:P2019:
 CLOSED: [2020-08-07 Fri 18:25]

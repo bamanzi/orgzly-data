@@ -1,5 +1,5 @@
 * DW 2020
-*** MR 8D
+*** MR 8D                                                            :8th_Dr:
 **** DONE [#C] 016 - Storm Warning
      CLOSED: [2020-08-11 Tue 08:46]
      :PROPERTIES:
@@ -39,7 +39,7 @@
 **** 2DONE [#B] 030 - Seasons of Fear (8.4).
      CLOSED: [2020-11-26 Thu 08:26]
 
-*** Dark Eyes vol.1 :Molly:
+*** Dark Eyes vol.1                                            :Molly:8th_Dr:
 **** DONE [#A] The Great War (8.5)
      CLOSED: <2020-09-25 Fri 16:37>
 
@@ -53,7 +53,7 @@
      CLOSED: [2020-09-27 Sun 18:36]
 
 *** Last Great Time War
-**** MR11 The Apocalypse Element
+**** MR11 The Apocalypse Element                             :6th_Dr:Charley:
 **** Gallifrey Time War vol.1-3
 **** The War Master vol.1-3
 **** 8D Time War vol.1-2
@@ -67,7 +67,7 @@
 ** DONE BF209 - Aquitaine :5th_Dr:Nyssa:Tegan:
 ** DONE BF230 - Time in Office :5th_Dr:Tegan:Leela:
 * DW 2021-04
-** DONE 4DA2.1 - The Auntie Matter :4th_Dr:Romana_1:
+** DONE 4DA2.1 - The Auntie Matter                          :4th_Dr:Romana_1:
 ** DONE 8DA4.4 - The Book of Kells :8th_Dr:Tamsin:
 ** DONE BF024 - The Eye of the Scorpion (5D, Erimm) :5th_Dr:Erimem:
 ** DONE BF094b - Urgent Calls :6th_Dr:Viyrans:
@@ -79,12 +79,12 @@
 ** 3QTR TW38. Iceberg
 * DW 2021-05
 ** DONE 10DA 1.3 - Death and the Queen
-** HALF 3DA4.1 - The Rise of the New Humans :3rd_Dr:Jo:
+** HALF 3DA4.1 - The Rise of the New Humans                       :3rd_Dr:Jo:
 ** DONE 8DA4.5 - Deimos
 ** DONE 8DA4.6 - The Resurrection of Mars
-** DONE BF014 - The Holy Terror (6D)
-** DONE BF099 - Son of the Dragon (5D)
-** HALF BF131 - Klein's story／Survival of the Fittest (7D, Klein)
+** DONE BF014 - The Holy Terror (6D)                                 :6th_Dr:
+** DONE BF099 - Son of the Dragon (5D)                               :5th_Dr:
+** HALF BF131 - Klein's story／Survival of the Fittest (7D, Klein) :7th_Dr:Klein:
 ** HALF DoRS3.3 - My Dinner with Andrew
 ** HALF DoRS3.4 - The Furies
 ** HALF TW30 - The Hope
@@ -97,7 +97,7 @@
 - <last play position> (01:01:00)
 - appendix (01:04:57)
 
-** DONE BF058 - The Harvest (7D, Cybermen)
+** DONE BF058 - The Harvest (7D, Cybermen)                  :7th_Dr:Cybermen:
 
 - bad speed (00:00:05)
 - part1 (00:02:45)
@@ -105,7 +105,7 @@
 - part3 (00:59:03)
 - part4 (01:32:13)
 
-** DONE BF084 - The Nowhere Place (6D)
+** DONE BF084 - The Nowhere Place (6D)                        :6th_Dr:Evelyn:
 
 - part2 (00:27:55)
 - <last play position> (00:28:40)
@@ -114,7 +114,7 @@
 - trevor (01:03:33)
 - part4 (01:22:40)
 
-** 3QTR BF088 - Memory Lane (8D)
+** 3QTR BF088 - Memory Lane (8D)                             :8th_Dr:Charley:
 
 - part2 (00:20:12)
 - part3 (00:44:35)
@@ -124,7 +124,7 @@
 - ad (01:33:15)
 - ad (01:33:20)
 
-** DONE BF128 - The Eternal Summer (5D, Stockbridge)
+** DONE BF128 - The Eternal Summer (5D, Stockbridge)                 :5th_Dr:
 
 - max (00:21:03)
 - part2 (00:28:11)
@@ -136,26 +136,26 @@
 - <last play position> (01:44:02)
 - appd (02:11:30)
 
-** HALF CC6.02 - The Rocket Men (Ian)
+** HALF CC6.02 - The Rocket Men (Ian)                            :1st_Dr:Ian:
 
 - <last play position> (00:32:30)
 - part2 (00:32:30)
 - <second to last play position> (00:57:28)
 - appendix (01:08:03)
 
-** HALF CC7.05 - Return of the Rocket Men (Steven)
+** HALF CC7.05 - Return of the Rocket Men (Steven)            :1st_Dr:Steven:
 
 - <last play position> (00:00:00)
 - <second to last play position> (00:35:25)
 - part2 (00:35:50)
 
-** HALF DWU2 - Sympathy for the Devil
-** TODO DoRS6.3 - Peepshow (+3D)
+** HALF DWU2 - Sympathy for the Devil                               :Unbound:
+** TODO DoRS6.3 - Peepshow (+3D)                                     :3rd_Dr:
 
 - <last play position> (00:00:00)
 - <second to last play position> (00:00:00)
 
-** HALF EA2.3 - The Black Hole (2D, Monk)
+** HALF EA2.3 - The Black Hole (2D, Monk)                       :2nd_Dr:Monk:
 
 - part2 (00:26:10)
 - part3 (00:55:20)
@@ -164,7 +164,7 @@
 - <last play position> (01:25:31)
 - appendix (01:55:10)
 
-** START ST6.7 - The Blame Game (Monk)
+** START ST6.7 - The Blame Game (Monk)                                 :Monk:
 
 - <last play position> (00:00:00)
 
@@ -177,12 +177,12 @@
  - <second to last play position> (00:04:53)
  - <last play position> (00:12:59)
 
-*** DONE 1DA 2.1 - The Invention of Death (128kbps)
+*** DONE 1DA 2.1 - The Invention of Death (128kbps)                     :1st:
 
  - <second to last play position> (00:57:22)
  - <last play position> (01:01:06)
 
-*** DONE 3DA2.1 The Transcendence of Ephros
+*** DONE 3DA2.1 The Transcendence of Ephros                       :3rd_Dr:Jo:
 
  - part2 (00:26:40)
  - part3 (00:54:20)
@@ -191,20 +191,20 @@
  - <last play position> (01:38:20)
  - music (01:52:09)
 
-*** START 4DA4.3 - Requiem for the Rocket Men
+*** START 4DA4.3 - Requiem for the Rocket Men                        :4th_Dr:
 
  - <second to last play position> (00:00:00)
  - <last play position> (00:00:17)
  - part2 (00:35:22)
 
-*** DONE BF023 - Project Twilight (6D)
+*** DONE BF023 - Project Twilight (6D)                        :6th_Dr:Evelyn:
 
  - <second to last play position> (00:10:48)
  - part2 (00:23:30)
  - <last play position> (01:02:28)
  - part4 (01:04:20)
 
-*** DONE BF054 - The Natural History of Fear
+*** DONE BF054 - The Natural History of Fear                 :8th_Dr:Charley:
 
  - part2 (00:29:21)
  - part3 (01:00:45)
@@ -213,7 +213,7 @@
  - <last play position> (02:09:28)
  - music (02:09:47)
 
-*** 2DONE BF152 - House of Blue Fire (7D, Sally)
+*** 2DONE BF152 - House of Blue Fire (7D, Sally)                     :7th_Dr:
 
  - <second to last play position> (00:00:00)
  - <last play position> (00:24:10)
@@ -224,7 +224,7 @@
  - part4 (01:25:40)
  - appendix (01:50:52)
 
-*** DONE BF178. 1963_ Fanfare for the Common Men (5D)
+*** DONE BF178. 1963_ Fanfare for the Common Men (5D)                :5th_Dr:
 
  - <second to last play position> (00:00:32)
  - part1 (00:00:32)
@@ -234,7 +234,7 @@
  - part4 (01:15:30)
  - appendix (01:41:45)
 
-*** HALF DWU8 - Masters of War
+*** HALF DWU8 - Masters of War                                      :Unbound:
 
  - <second to last play position> (00:00:00)
  - music (01:05:00)
@@ -846,12 +846,12 @@
 
 * DW 2021-12
 ** DW 2021-12
-*** HALF 4DA3.3 - The Crooked Man
+*** HALF 4DA3.3 - The Crooked Man                              :4th_Dr:Leela:
 
  - <second to last play position> (00:08:19)
  - <last play position> (00:27:22)
 
-*** DONE BF077 - Other Lives (8D)
+*** DONE BF077 - Other Lives (8D)                            :8th_Dr:Charley:
 
  - part1 (00:02:10)
  - part2 (00:28:49)
@@ -860,7 +860,7 @@
  - part4 (01:28:09)
  - <second to last play position> (01:55:56)
 
-*** DONE BF107 - The Haunting of Thomas Brewster (6D)
+*** DONE BF107 - The Haunting of Thomas Brewster (6D)          :5th_Dr:Nyssa:
 
  - part2 (00:24:18)
  - part3 (00:48:29)
@@ -868,7 +868,7 @@
  - <second to last play position> (01:20:39)
  - <last play position> (01:30:35)
 
-*** DONE BF156 - The Curse of Davros (fixed)
+*** DONE BF156 - The Curse of Davros (fixed)                  :Davros:6th_Dr:
 
  - <last play position> (00:00:00)
  - <second to last play position> (00:00:00)
@@ -878,19 +878,19 @@
  - flashback (01:32:09)
  - part4 (01:47:12)
 
-*** OVERDUE DU1.2. The Wrong Woman
+*** OVERDUE DU1.2. The Wrong Woman                             :Monk:10th_Dr:
 
  - <second to last play position> (00:00:00)
  - <last play position> (00:03:03)
 
-*** TODO DU1.3. The House of Kingdom
-*** DONE FM9DA05 - Exhausted Supplies
+*** TODO DU1.3. The House of Kingdom                                :10th_Dr:
+*** DONE FM9DA05 - Exhausted Supplies                        :9th_Dr:12th_Dr:
 
  - <second to last play position> (00:01:50)
  - <last play position> (00:27:10)
 
 ** DW 2021-12-extra
-*** DONE DoRS9.1. The Blood Woods
+*** DONE DoRS9.1. The Blood Woods                                 :River:Liz:
 
  - <last play position> (00:51:25)
  - <second to last play position> (00:52:45)

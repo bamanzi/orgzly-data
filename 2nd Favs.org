@@ -17,7 +17,7 @@
 ** tv
 *** Watchmen S1 (2019, 9 eps) :P2019:
 * Sandman
-** Sandman v2 (1989-1996)
+** Sandman v2 (1989-1996) :📚:
 
 先去看尼尔盖曼的《睡魔》，总共75期。然后去看《路西法》V1，也是75期。这两个算是必读的。
 
@@ -26,17 +26,16 @@
 *** DONE 卷1：前奏与夜曲 (Preludes and Nocturnes)
 *** DONE 卷2：玩偶之家 (The Doll's House)
 *** DONE 卷3：梦境国度 (Dream Country, #17-20)
-*** TODO 卷4：迷雾季节 (Season of Mists, #21-#31)
+*** DONE 卷4：迷雾季节 (Season of Mists, #21-#31)
+CLOSED: <2022-02-05 Sat 17:17>
+
 *** TODO 卷五：一场游戏一场梦 (A Game of You, #32-37)
 *** TPB.6 Fables and Reflections
 *** TPB.7 Brief Lives
 *** TPB.8 Worlds' End
 *** TPB.9 The Kindly Ones
 *** TPB.10 The Wake
-** Lucifer v1 (2000-2006, 75 issues)
-
-水漫汉化联盟
-
+** Lucifer v1 (2000-2006, 75 issues) :📚:
 *** book one (#1-13)
 *** book two (#14-28, Nirvana)
 *** ?
@@ -47,14 +46,16 @@
 年新开了地狱神探刊，那个还行吧，没有开头的惊艳感了。 马上幻梦境刊会完
 结重开，改名叫《dreaming：wake hour》
 
-*** Sandman Universe Presents
+*** DONE Sandman Universe
+CLOSED: [2022-02-03 Thu 11:32]
+
+*** START The Dreaming v2 (2018-2020, 20 issues) :hanzify:
+
+幻梦境 （前期期有东尔汉化）
+
 *** Lucifer v3 (2018-2020, 24 issues) :hanzify:
 
-水漫汉化联盟
-
-*** The Dreaming v2 (2018-2020, 20 issues) :hanzify:
-
-幻梦境 （东尔汉化）
+水漫汉化联盟汉化了前21期
 
 *** READY The Dreaming: Waking Hour (2020-2021, 12 issues)
 
@@ -63,6 +64,11 @@
 *** READY John Constantine: Hellblazer v1 (2020，12期全)
 
 水漫汉化联盟
+
+** Lucifer (tv) :🎦:
+*** Lucifer S1 (13 ep) :P2016:
+**** DONE 1x01, 02
+CLOSED: [2022-02-02 Wed 17:07]
 
 * V for Vendetta ...
 * Fables :hanzify:
@@ -187,7 +193,7 @@ https://dc.fandom.com/wiki/Thy_Kingdom_Come
 *** DONE book 2 (13-26)
 *** book 3
 **** Preacher 27-33
-**** Saint of Killers #1-4
+**** DOING Saint of Killers #1-4
 *** book 4
 **** Preacher 34-40
 **** specials x4
@@ -208,13 +214,16 @@ CLOSED: [2022-01-21 Fri 23:07]
 
 *** S2 :P2017:
 **** DONE 2x01, 02
-CLOSED: [2022-01-24 Mon 18:54]
+CLOSED: [2022-01-27 Thu 19:05]
 
 * Swamp Thing
 * Supernatural
 ** DONE S11
 ** DONE S12
-** S13
+** DOING SPN S13
+*** DONE 13x01, 02
+CLOSED: [2022-02-02 Wed 14:29]
+
 ** S14
 ** S15
 * Ultimate Marvel

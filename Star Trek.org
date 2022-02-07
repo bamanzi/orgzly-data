@@ -1034,7 +1034,8 @@ CLOSED: [2021-03-19 Fri 08:03]
 :rating:   6.6
 :END:
 
-**** [#B] 1x07 Eye of the Needle
+**** DONE [#B] 1x07 Eye of the Needle
+CLOSED: [2022-01-29 Sat 19:30]
 :PROPERTIES:
 :rating:   8.3
 :END:
@@ -1128,6 +1129,7 @@ CLOSED: [2021-01-01 Fri 08:50]
 *** 2DONE Star Trek: Boldly Go :hanzify:
 * DSC :DSC:
 ** Discovery (2017- ) :📺:
+*** 📂DSC S1
 *** 📂DSC S2 :2019:
 **** DONE 2x10 The Red Angel
 CLOSED: <2021-01-01 Fri 18:37>
@@ -1217,6 +1219,7 @@ CLOSED: [2021-04-02 Fri 19:43]
 **** 1x08 Veritas
 **** 1x09 Crisis Point
 **** 1x10 No Small Parts
+*** Prodigy (2021)
 ** comics :comics:
 *** DONE 2.5 TNG+DS9 crossover (DC+Malibu) :1994:TNG:DS9:crossover:
 CLOSED: [2021-01-21 Thu 19:34]

@@ -444,7 +444,7 @@ CLOSED: [2021-09-24 Fri 08:10]
 **** HALF [#B] 12DC2.1. Flight to Calandra (?8.2) :D2021_11_doctor:
 SCHEDULED: <2021-11-20 Sat>
 
-**** 2.1 Split Second :D2022_02_doctor:
+**** START 2.1 Split Second :D2022_02_doctor:
 SCHEDULED: <2022-02-19 Sat>
 
 **** The Weight of History.mp3
