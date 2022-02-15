@@ -58,21 +58,25 @@ Episode 4 missing (but animated in 2013).
 ** audio :🎧:
 *** EA
 **** EA S1
-***** [#C] EA1.1 Domain of the Voord :plot_yes:
+***** READY [#C] EA1.1 Domain of the Voord :plot_yes:
 ***** [#D] EA1.2 The Doctor's Tale :plot_yes:
+:PROPERTIES:
+:rating:   7.1
+:END:
+
 ***** [#C] EA1.3 The Bounty of Ceres :plot_no:
 :PROPERTIES:
 :rating:   7.7
 :END:
 
-***** [#C] EA1.4 - An Ordinary Life :plot_yes:
+***** READY [#C] EA1.4 - An Ordinary Life :plot_yes:
 **** EA S3
 ***** [#B] EA 3.3 The Ravelli Conspiracy (8.0) :plot_no:
 ***** HALF [#B] EA3.4 The Sontarans (8.0) :D2021_09_dr:Sara_Kingdom:Steven:plot_yes:
 SCHEDULED: <2021-09-22 Wed>
 
 **** EA S5
-***** [#A] EA5.1 The Dalek Occupation of Winter (9.0) :daleks:plot_yes:
+***** READY [#A] EA5.1 The Dalek Occupation of Winter (9.0) :daleks:plot_yes:
 ***** [#B] EA5.2 An Ideal World (8.2) :plot_no:
 ***** [#D] EA5.3 Entanglement (7.3) :plot_no:
 ***** [#A] EA5.4 The Crash of the UK-201 (8.8) :plot_no:
@@ -80,14 +84,14 @@ SCHEDULED: <2021-09-22 Wed>
 ***** 2DONE EA7.1 After the Daleks :Dalek_War_1st:Susan:D2021_10_daleks:
 CLOSED: [2021-11-01 Mon 22:54] SCHEDULED: <2021-11-01 Mon>
 
-***** EA7.2 The Secrets of Det-Sun :plot_yes:
+***** READY EA7.2 The Secrets of Det-Sun :plot_yes:
 *** 1DA
 **** HALF [#C] 1.1 The Destination Wars :Master_early:D2021_08_dr:
 :PROPERTIES:
 :rating:   7.8
 :END:
 
-**** [#C] 1.2 The Great White Hurricane (7.5)
+**** [#C] 1.2 The Great White Hurricane (7.5) :plot_no:
 **** 2DONE [#A] 2.1 The Invention of Death :D2021_07_dr:P2018:plot_simple:
 CLOSED: [2021-07-27 Tue 23:10]
 :PROPERTIES:
@@ -99,24 +103,24 @@ CLOSED: [2021-07-27 Tue 23:10]
 :rating:   8.6
 :END:
 
-**** [#C] 3.1 The Phoenicians (7.5)
-**** [#A] 3.2 Tick-Tock World :P2019:plot_yes:
+**** [#C] 3.1 The Phoenicians (7.5) :Susan:Ian:Barbara:plot_no:P2019:
+**** READY [#A] 3.2 Tick-Tock World :Susan:Ian:Barbara:P2019:plot_yes:D2022_03_doctor:
 :PROPERTIES:
 :rating:   8.5
 :END:
 
 **** [#E] +4.1 Return to Skaro+ (6.6)
-**** [#B] 4.2 Last of the Romanovs :P2020:plot_yes:
+**** READY [#B] 4.2 Last of the Romanovs :P2020:plot_yes:
 :PROPERTIES:
 :rating:   8.1
 :END:
 
-**** [#B] 5.1 For the Glory of Urth :plot_no:
+**** [#B] 5.1 For the Glory of Urth :plot_no:P2021:
 :PROPERTIES:
 :rating:   8.4
 :END:
 
-**** [#A] 5.2 The Hollow Crown :plot_no:
+**** [#A] 5.2 The Hollow Crown :plot_no:P2021:
 :PROPERTIES:
 :rating:   9.0?
 :END:
@@ -164,8 +168,8 @@ CLOSED: [2021-06-26 Sat 09:13]
 :rating:   8.2
 :END:
 
-**** [#B] 8.10 The War to End All Wars :Steven:D2022_02_doctor:
-SCHEDULED: <2022-02-04 Fri>
+**** START [#B] 8.10 The War to End All Wars :Steven:D2022_02_doctor:
+SCHEDULED: <2022-02-24 Thu>
 :PROPERTIES:
 :rating:   8.0
 :END:
@@ -398,24 +402,32 @@ UNIT 和 准将第一次正式出场
 ** audio :🎧:
 *** EA
 **** EA S2
-***** [#C] 2.1 The Yes Men
+***** READY [#C] 2.1 The Yes Men :Jamie:Polly:Ben:plot_yes:
 :PROPERTIES:
 :rating:   7.7
 :END:
 
-***** 2.2 The Forsaken
+***** [#D] 2.2 The Forsaken
 ***** 2DONE [#B] 2.3 The Black Hole (8.1) :D2021_06:Monk:
 CLOSED: [2021-06-19 Sat 11:50]
 
-***** 2.4 The Isos Network
+***** CANCEL [#E] 2.4 The Isos Network
 **** EA S4
-***** 4.1 The Night Witches
-***** [#C] 4.2 The Outliers
+***** READY [#C] 4.1 The Night Witches :plot_yes:
+:PROPERTIES:
+:rating:   7.6
+:END:
+
+***** READY [#C] 4.2 The Outliers :plot_yes:
 :PROPERTIES:
 :rating:   7.7
 :END:
 
-***** 4.3 The Morton Legacy
+***** CANCEL [#E] +4.3 The Morton Legacy+
+:PROPERTIES:
+:rating:   6.7
+:END:
+
 ***** START [#B] 4.4 The Wreck of the World (8.2) :D2021_08_dr:plot_no:
 **** EA S6
 ***** HALF [#D] 6.1 The Home Guard :Master_early:D2021_12_master:plot_half:week3:
@@ -607,7 +619,7 @@ CLOSED: [2021-07-27 Tue 23:10]
 :rating:   7.9
 :END:
 
-**** TODO [#C] 2.2 The Hidden Realm :plot_yes:D2022_Q2_doctor:
+**** READY [#C] 2.2 The Hidden Realm :plot_yes:D2022_Q2_doctor:
 :PROPERTIES:
 :rating:   7.5
 :END:
@@ -625,14 +637,17 @@ CLOSED: [2021-07-27 Tue 23:10]
 **** 2DONE [#B] 3DA 4.1 - The Rise of the New Humans (8.0) :Monk:P2018:D2021_05:plot_no:
 CLOSED: <2021-05-27 Thu 23:20>
 
-**** START [#C] 3DA 4.2 - The Tyrants of Logic :P2018:cybermen:plot_yes:D2022_02_doctor:
-SCHEDULED: <2022-02-05 Sat>
+**** 3QTR [#C] 3DA 4.2 - The Tyrants of Logic :P2018:cybermen:plot_yes:D2022_02_doctor:
+CLOSED: [2022-02-12 Sat 15:45] SCHEDULED: <2022-02-13 Sun>
 :PROPERTIES:
 :rating:   7.5
 :END:
 
-**** DONE [#A] 5.1. Primord †8.5 :Liz:Jo:UNIT:
+**** DONE [#A] 5.1. Primord :Liz:Jo:UNIT:plot_yes:
 CLOSED: [2020-07-15 Wed 19:13]
+:PROPERTIES:
+:raiting:  8.5
+:END:
 
 Inferno
 
@@ -651,13 +666,16 @@ Inferno
 :rating:   7.4
 :END:
 
-**** 7.1 The Unzal Incursion :P2021:Liz:
-**** 7.2 The Gulf :P2021:Sarah:
-**** 8.1 Conspiracy in Space :Jo:
-**** 8.2 The Devil's Hoofprints :P2021:Sarah:
+**** [#A] 7.1 The Unzal Incursion :P2021:Liz:
+**** [#C] 7.2 The Gulf :P2021:Sarah:
+**** READY [#C] 8.1 Conspiracy in Space :Jo:draconians:plot_yes:
+**** [#B] 8.2 The Devil's Hoofprints :P2021:Sarah:
 *** Audio-drama misc
-**** DONE [#A] The Sacrifice of Jo Grant (The Legacy of Time #3) †9.0 :Jo:P2019:
+**** DONE [#A] The Sacrifice of Jo Grant (The Legacy of Time #3) :Jo:P2019:
 CLOSED: [2020-08-07 Fri 18:25]
+:PROPERTIES:
+:rating:   9.0
+:END:
 
 **** [#C] LS 4.4 The Mega (The Lost Stories #4.4) †7.6
 **** CANCEL [#E] Peepshow (The Diary of River Song #6.3) †6.6
@@ -665,8 +683,11 @@ CLOSED: [2020-06-25 Thu 21:48]
 
 ** BF shorts :BigFinish:audiobook:🎧:
 *** The Companion Chronicles (Liz) :Liz:
-**** DONE [#A] CC7.4 - The Last Post †9.1 :P2012:no_doctor:
+**** DONE [#A] CC7.4 - The Last Post :P2012:no_doctor:
 CLOSED: [2020-08-07 Fri 18:25]
+:PROPERTIES:
+:rating:   9.1
+:END:
 
 People are dying. Just a few, over a period of months... but the strange thing is that each person received a letter predicting the date and time of their death.
 
@@ -719,9 +740,9 @@ The Scorchies want to take over the world. They want to kill the Doctor. And the
 
 With Jo caught inside The Scorchies Show, can she save the day before the planet Earth falls victim to the dark side of light entertainment?
 
-**** [#A] CC5.3 - Find and Replace †8.6 :UNIT:Iris:
+**** HALF [#A] CC5.3 - Find and Replace :UNIT:Iris:
 :PROPERTIES:
-:fandom:   https://tardis.fandom.com/wiki/Find_and_Replace_(audio_story)
+:rating:   8.6
 :END:
 
 Christmas 2010: Jo Grant finds herself stuck in a department store elevator with an alien creature called Huxley.
@@ -730,9 +751,42 @@ Huxley is a narrator from Verbatim Six. He is here to let Jo revisit the best t
 
 Confronted with memories she knows nothing about, Jo agrees to a meeting with Iris inside her transdimensional bus. Together the three of them take a trip back in time: back to the 1970s, to UNIT HQ and a meeting with the only person who knows the whole truth...
 
+https://tardis.fandom.com/wiki/Find_and_Replace_(audio_story)
+
+**** [#B] CC8.4 - Ghost in the Machine
+:PROPERTIES:
+:rating:   8.1
+:END:
+
 **** [#D] CC6.0b - The Mists of Time (7.4)
 **** [#D] CC6.4 - The Many Deaths of Jo Grant (7.2)
+*** CC
+**** [#C] CC2.3 - Old Soldiers
+:PROPERTIES:
+:rating:   7.5
+:END:
+
+**** [#C] CC3.10 - The Magician's Oath
+:PROPERTIES:
+:rating:   7.5
+:END:
+
+**** [#C] CC7.12 - Council of War :Benton:
+:PROPERTIES:
+:rating:   7.7
+:END:
+
+**** [#C] CC4.3 - The Prisoner of Peladon :Peladon:
+:PROPERTIES:
+:rating:   7.6
+:END:
+
 *** Short Trips
+**** [#A] STS 39 Still Life :P2019:
+:PROPERTIES:
+:rating:   9.3
+:END:
+
 **** [#B] ST6.7 The Blame Game (8.3, top #8 in ST) :Liz:Monk:
 
 To escape his Earth exile, the Doctor is prepared to make any bargain, come to any arrangement, or to do any deal with any devil – even if in this case the Devil wears a monk's robes. But when past misdeeds start catching up with both the Doctor and the Monk, who can Liz Shaw trust when time is running out and death is rapidly approaching?
@@ -863,45 +917,6 @@ CLOSED: [2020-08-03 Mon 23:17]
 *** TVComic
 **** Marvel DWCC reprint
 ** audio :🎧:
-*** BF audio-drama misc :BigFinish:
-**** [#C] CA1.1 The Iron Legion (Comics Adaptation #1) (7.9)
-**** [#A] CA1.2 The Star Beast (Comics Adaptation #2) 9.0 :P2019:
-:PROPERTIES:
-:category: audio-drama
-:END:
-
-**** [#A] LS 2.07 - The Foe from the Future  8.9 :Leela:
-**** [#C] LS 2.08 - The Valley of Death 7.7 :Leela:
-**** [#B] LS6.1 - Return of the Cybermen
-:PROPERTIES:
-:rating:   8.1
-:END:
-
-**** [#A] LS6.2 - The Doomsday Contract
-:PROPERTIES:
-:rating:   8.9
-:END:
-
-**** DONE [#C] Night of the Stormcrow (Bonus Release #11) †7.7) :Leela:scripted:
-CLOSED: [2020-07-29 Wed 23:02]
-
-**** DONE [#C] Night of the Vashta Nerada †7.8) (Classic Doctors, New Monsters #2.1) :scripted:no_companion:
-CLOSED: [2020-07-29 Wed 23:03]
-
-mp3val fix
-
-**** LATER [#B] Collision Course †8.3) (The Legacy of Time #6) :Leela:Romana2:
-CLOSED: [2020-08-05 Wed 19:04]
-
-与前面的故事/设定相关（Main Range 001/ The Legecy of Time 等）
-
-thetimescales 上32/33认为需要先听前面的故事
-
-**** LATER [#A] Someone I Once Knew (The Diary of River Song #4.4) †8.5 :River:
-CLOSED: [2020-08-05 Wed 19:05]
-
-15 out of 16 (93.8%) raters say this story requires a previous story.
-
 *** BF 4DA :4DA:BigFinish:
 **** 4DA series 1 :Leela:scripted:P2012:
 ***** CANCEL [#E] 1.1 Destination - Nerva †6.5
@@ -944,7 +959,7 @@ CLOSED: [2022-01-18 Tue 15:32] SCHEDULED: <2022-01-30 Sun>
 :rating:   8.1
 :END:
 
-***** [#C] 2.5 - Phantoms of the Deep (7.5)
+***** READY [#C] 2.5 - Phantoms of the Deep (7.5)
 ***** [#D] 2.6 - The Dalek Contract (7.0)
 **** 4DA series 3 :Leela:P2014:scripted:
 ***** 2DONE [#C] 3.1 - The King of Sontar (7.7) :Sontarans:D2021_09_dr:
@@ -979,7 +994,7 @@ CLOSED: [2020-07-30 Thu 06:50]
 
 **** 4DA series 4 :Leela:P2015:
 ***** CANCEL [#E] 4.1 +The Exxilons+ (6.5)
-***** [#C] 4.2 The Darkness of Glass (7.5)
+***** READY [#C] 4.2 The Darkness of Glass (7.5) :plot_yes:
 ***** 2DONE [#B] 4.3 Requiem for the Rocket Men  (8.4) :Master_decayed:D2021_07_dr:
 CLOSED: [2021-07-27 Tue 23:11]
 
@@ -988,7 +1003,7 @@ CLOSED: [2021-07-27 Tue 23:11]
 :rating:   7.3
 :END:
 
-***** TODO [#C] 4.5 - Suburban Hell (7.7)
+***** TODO [#C] 4.5 - Suburban Hell (7.7) :plot_yes:
 ***** [#D] 4.6 The Cloisters of Terror (7.4)
 ***** [#D] 4.7 The Fate of Krelos (7.2)
 ***** CANCEL [#F] 4.8 Return to Telos (5.8)
@@ -1010,7 +1025,7 @@ CLOSED: <2021-07-01 Thu 16:39>
 ***** [#C] 7.1 The Sons of Kaldor (7.7) :Kaldor:Robots:
 ***** [#C] 7.2 The Crowmarsh Experiment (7.6)
 ***** [#C] 7.6 The Bad Penny (7.5)
-***** [#C] 7.7/7.8 - Kill the Doctor! / The Age of Sutekh (7.8/7.0) :Sutekh:
+***** TODO [#C] 7.7/7.8 - Kill the Doctor! / The Age of Sutekh (7.8/7.0) :Sutekh:
 **** 4DA series 8 :P2019:Ann:
 ***** HALF [#E] +4DA 8.1 The Sinestran Kill+ :D2021_10_dr:Ann:plot_yes:
 SCHEDULED: <2021-11-05 Fri>
@@ -1018,10 +1033,10 @@ SCHEDULED: <2021-11-05 Fri>
 :rating:   6.8
 :END:
 
-***** [#C] 8.3 - The Enchantress of Numbers (7.6)
+***** TODO [#C] 8.3 - The Enchantress of Numbers (7.6)
 ***** [#B] 8.7/8.8 The Perfect Prisoners (8.2/8.3) :7:
 **** 4DA series 9 :P2020:
-***** [#C] 9.1 - Purgatory 12 (7.6)
+***** [#C] 9.1 - Purgatory 12 (7.6) :Romana_2:
 ***** [#B] 9.2 Chase the Night (8.3) :Romana_2:
 :PROPERTIES:
 :rating:   8.3
@@ -1035,7 +1050,51 @@ CLOSED: [2020-07-15 Wed 19:13]
 **** 4DA series 10 :Leela:P2021:
 ***** 10.1 The World Traders
 ***** 10.2 The Day of the Comet
+*** BF audio-drama misc :BigFinish:
+**** HALF [#C] CA1.1 The Iron Legion (Comics Adaptation #1) (7.9)
+**** HALF [#A] CA1.2 The Star Beast (Comics Adaptation #2) 9.0 :P2019:
+:PROPERTIES:
+:category: audio-drama
+:END:
+
+**** [#A] LS 2.07 - The Foe from the Future  8.9 :Leela:
+**** [#C] LS 2.08 - The Valley of Death 7.7 :Leela:
+**** [#B] LS6.1 - Return of the Cybermen
+:PROPERTIES:
+:rating:   8.1
+:END:
+
+**** [#A] LS6.2 - The Doomsday Contract
+:PROPERTIES:
+:rating:   8.9
+:END:
+
+**** DONE [#C] Night of the Stormcrow (Bonus Release #11) †7.7) :Leela:scripted:
+CLOSED: [2020-07-29 Wed 23:02]
+
+**** DONE [#C] Night of the Vashta Nerada †7.8) (Classic Doctors, New Monsters #2.1) :scripted:no_companion:
+CLOSED: [2020-07-29 Wed 23:03]
+
+mp3val fix
+
+**** LATER [#B] Collision Course †8.3) (The Legacy of Time #6) :Leela:Romana2:
+CLOSED: [2020-08-05 Wed 19:04]
+
+与前面的故事/设定相关（Main Range 001/ The Legecy of Time 等）
+
+thetimescales 上32/33认为需要先听前面的故事
+
+**** LATER [#A] Someone I Once Knew (The Diary of River Song #4.4) †8.5 :River:
+CLOSED: [2020-08-05 Wed 19:05]
+
+15 out of 16 (93.8%) raters say this story requires a previous story.
+
 *** BBC 4DA :scripted:🎧:Yates:DA:BBC:
+**** [#C] 2.1. The Relics of Time
+:PROPERTIES:
+:rating:   7.8
+:END:
+
 **** [#B] 3.4 The Hexford Invasion †8.4)
 **** [#B] 3.5 Survivors in Space †8.1)
 *** BF shorts :🎧:audiobook:

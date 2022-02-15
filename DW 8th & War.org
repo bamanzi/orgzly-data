@@ -187,6 +187,8 @@ CLOSED: [2021-06-04 Fri 07:34]
 :rating:   6.8
 :END:
 
+*** Charlotte Pollard: The Further Adventuress :P2022_01:
+**** CPFA 1.4 Heart of Orion :D2022_03_doctor:Cybermen:
 *** 8DA :scripted:Lucie:8da:
 **** 8DA series 1 :scripted:
 ***** START [#C] 1.1/1.2 Blood of the Daleks
@@ -355,7 +357,7 @@ SCHEDULED: <2021-09-24 Fri>
 ***** 3QTR 4.3 Master of the Daleks :Master_bald:D2021_10_master:
 CLOSED: <2021-10-28 Thu 14:30>
 
-*** Doom Coalition :has_plot:scripted:
+*** Doom Coalition :plot_yes:scripted:
 **** Doom Coalition 1
 ***** 3QTR DC1.1 The Eleven :D2022_01_doctor:
 CLOSED: [2022-01-05 Wed 16:56] SCHEDULED: <2022-01-30 Sun>
@@ -369,14 +371,14 @@ CLOSED: <2022-01-19 Wed 20:06> SCHEDULED: <2022-01-30 Sun>
 :thetimescales: 9.3
 :END:
 
-***** 1.3 - The Galileo Trap :D2022_02_doctor:
-SCHEDULED: <2022-02-12 Sat>
+***** START [#E] 1.3 - The Galileo Trap :D2022_02_doctor:
+SCHEDULED: <2022-02-24 Thu>
 :PROPERTIES:
 :thetimescales: 6.8
 :END:
 
-***** 1.4 - The Satanic Mill :D2022_02_doctor:
-SCHEDULED: <2022-02-12 Sat>
+***** [#E] 1.4 - The Satanic Mill :D2022_02_doctor:
+SCHEDULED: <2022-02-28 Mon>
 :PROPERTIES:
 :thetimescales: 6.5
 :END:

@@ -59,36 +59,61 @@
 **** 8D Time War vol.1-2
 **** The War Doctor vol.1-4
 * DW 2021-03
+| 01 | BF209. Aquitaine           |
+| 02 | BF034. Spare Parts         |
+| 03 | BF153. The Silver Turk     |
+| 04 | BF162. Protect and Survive |
+| 05 | BF025. Colditz             |
+| 06 | BF040. Jubilee             |
+| 07 | BF230. Time in Office      |
 ** DONE BF025 - Colditz (7D, Klein) :7th_Dr:Klein:
+   :PROPERTIES:
+   :MyMR:     01
+   :END:
 ** DONE BF034 - Spare Parts (5D, Cybermen) :5th_Dr:Cybermen:
-** DONE BF040 - Jubilee (6D, Daleks) :6th_Dr:Daleks:
+** DONE BF040 - Jubilee (6D, Daleks)                   :6th_Dr:Daleks
 ** HALF BF153 - The Silver Turk (8D, Cybermen) :8th_Dr:Cybermen:
 ** HALF BF162 - Protect and Survive (7D) :7th_Dr:Ace:
 ** DONE BF209 - Aquitaine :5th_Dr:Nyssa:Tegan:
-** DONE BF230 - Time in Office :5th_Dr:Tegan:Leela:
+** DONE BF230 - Time in Office                    :5th_Dr:Tegan:Leela
 * DW 2021-04
+| 08 | BF124 - Patient Zero (6D)      :6th_Dr:Ch |
+| 09 | BF130 - A Thousand Tiny Wings (7D, Klein) |
+| 10 | BF024 - The Eye of the Scorpion (5D, Erim |
+|    | BF094b - Urgent Calls :6th_Dr:Viyrans:    |
+|    | BF102b - Mission of the Viyrans (5D) :5th |
 ** DONE 4DA2.1 - The Auntie Matter                          :4th_Dr:Romana_1:
 ** DONE 8DA4.4 - The Book of Kells :8th_Dr:Tamsin:
-** DONE BF024 - The Eye of the Scorpion (5D, Erimm) :5th_Dr:Erimem:
+** DONE BF024 - The Eye of the Scorpion (5D, Erimm)    :5th_Dr:Erimem
 ** DONE BF094b - Urgent Calls :6th_Dr:Viyrans:
 ** HALF BF102b - Mission of the Viyrans (5D) :5th_Dr:Peri:
-** DONE BF124 - Patient Zero (6D) :6th_Dr:Charley:Viyrans:Daleks:
-** DONE BF130 - A Thousand Tiny Wings (7D, Klein)
+** DONE BF124 - Patient Zero (6D)      :6th_Dr:Charley:Viyrans:Daleks
+** DONE BF130 - A Thousand Tiny Wings (7D, Klein)                    
 ** HALF DoRS5.1. The Bekdel Test (Missy)
 ** DONE EA6.2. Daughter of the Gods (1D, 2D)
 ** 3QTR TW38. Iceberg
 * DW 2021-05
+
+|   11 | BF099 - Son of the Dragon (5D)                 |
+|   13 | BF014 - The Holy Terror (6D)                   |
+|   12 | BF131 - Klein's story／Survival of the Fittest |
+
 ** DONE 10DA 1.3 - Death and the Queen
 ** HALF 3DA4.1 - The Rise of the New Humans                       :3rd_Dr:Jo:
 ** DONE 8DA4.5 - Deimos
 ** DONE 8DA4.6 - The Resurrection of Mars
-** DONE BF014 - The Holy Terror (6D)                                 :6th_Dr:
-** DONE BF099 - Son of the Dragon (5D)                               :5th_Dr:
-** HALF BF131 - Klein's story／Survival of the Fittest (7D, Klein) :7th_Dr:Klein:
+** DONE BF014 - The Holy Terror (6D)                          :6th_Dr
+** DONE BF099 - Son of the Dragon (5D)                        :5th_Dr
+** HALF BF131 - Klein's story／Survival of the Fittest (7D, Klein) :7th_Dr:Klein
 ** HALF DoRS3.3 - My Dinner with Andrew
 ** HALF DoRS3.4 - The Furies
 ** HALF TW30 - The Hope
 * DW 2021-06
+| 14 | BF088 - Memory Lane (8D)       |
+| 15 | BF128 - The Eternal Summer (5D |
+| 16 | BF084 - The Nowhere Place (6D) |
+| 17 | BF058 - The Harvent            |
+
 ** HALF 10D&RS 1. Expiry Dating
 ** DONE 4DA5.6 - The Trouble with Drax
 
@@ -97,7 +122,7 @@
 - <last play position> (01:01:00)
 - appendix (01:04:57)
 
-** DONE BF058 - The Harvest (7D, Cybermen)                  :7th_Dr:Cybermen:
+** DONE BF058 - The Harvest (7D, Cybermen)           :7th_Dr:Cybermen
 
 - bad speed (00:00:05)
 - part1 (00:02:45)
@@ -105,7 +130,7 @@
 - part3 (00:59:03)
 - part4 (01:32:13)
 
-** DONE BF084 - The Nowhere Place (6D)                        :6th_Dr:Evelyn:
+** DONE BF084 - The Nowhere Place (6D)                 :6th_Dr:Evelyn
 
 - part2 (00:27:55)
 - <last play position> (00:28:40)
@@ -114,7 +139,7 @@
 - trevor (01:03:33)
 - part4 (01:22:40)
 
-** 3QTR BF088 - Memory Lane (8D)                             :8th_Dr:Charley:
+** 3QTR BF088 - Memory Lane (8D)                      :8th_Dr:Charley
 
 - part2 (00:20:12)
 - part3 (00:44:35)
@@ -124,7 +149,7 @@
 - ad (01:33:15)
 - ad (01:33:20)
 
-** DONE BF128 - The Eternal Summer (5D, Stockbridge)                 :5th_Dr:
+** DONE BF128 - The Eternal Summer (5D, Stockbridge)          :5th_Dr
 
 - max (00:21:03)
 - part2 (00:28:11)
@@ -171,6 +196,11 @@
 ** HALF TW36. Dissected
 ** HALF TW39. Dinner and a Show
 * DW 2021-07
+| 18 | BF178. 1963_ Fanfare for the Common Men (5D)
+| 19 | BF054 - The Natural History of Fear
+| 20 | BF152 - House of Blue Fire (7D, Sally)
+| 22 | BF023 - Project Twilight (6D)
+
 ** DW 2021-07
 *** HALF 10DA 1.1 - Technophobia
 
@@ -197,14 +227,14 @@
  - <last play position> (00:00:17)
  - part2 (00:35:22)
 
-*** DONE BF023 - Project Twilight (6D)                        :6th_Dr:Evelyn:
+*** DONE BF023 - Project Twilight (6D)                 :6th_Dr:Evelyn
 
  - <second to last play position> (00:10:48)
  - part2 (00:23:30)
  - <last play position> (01:02:28)
  - part4 (01:04:20)
 
-*** DONE BF054 - The Natural History of Fear                 :8th_Dr:Charley:
+*** DONE BF054 - The Natural History of Fear          :8th_Dr:Charley
 
  - part2 (00:29:21)
  - part3 (01:00:45)
@@ -213,7 +243,7 @@
  - <last play position> (02:09:28)
  - music (02:09:47)
 
-*** 2DONE BF152 - House of Blue Fire (7D, Sally)                     :7th_Dr:
+*** 2DONE BF152 - House of Blue Fire (7D, Sally)              :7th_Dr
 
  - <second to last play position> (00:00:00)
  - <last play position> (00:24:10)
@@ -224,7 +254,7 @@
  - part4 (01:25:40)
  - appendix (01:50:52)
 
-*** DONE BF178. 1963_ Fanfare for the Common Men (5D)                :5th_Dr:
+*** DONE BF178. 1963_ Fanfare for the Common Men (5D)         :5th_Dr
 
  - <second to last play position> (00:00:32)
  - part1 (00:00:32)
@@ -240,6 +270,7 @@
  - music (01:05:00)
  - <last play position> (01:17:18)
  - part2 (01:17:52)
+
 
 ** DW 2021-07extra
 *** DONE CC5.02 - Echoes of Grey
@@ -288,6 +319,9 @@
 
 *** DONE WM1.1 - Beneath the Viscoid (#Master)
 * DW 2021-08
+| 21 | BF136. Cobwebs (5D)            |
+| 23 | BF045. Project Lazarus (6D+7D) |
+| 24 | BF207. You are the Doctor      |
 ** DW 2021-08
 *** HALF 10DA 2.1 Infamy of the Zaross
 
@@ -315,13 +349,13 @@
  - <second to last play position> (00:00:00)
  - <last play position> (00:01:30)
 
-*** DONE BF045 - Project Lazarus (6D+7D)(128kbps)
+*** DONE BF045 - Project Lazarus (6D+7D)(128kbps)                    
 
  - <second to last play position> (00:51:50)
  - <last play position> (00:54:35)
  - part3 (00:54:35)
 
-*** HALF BF136. Cobwebs (5D, Nyssa)
+*** HALF BF136. Cobwebs (5D, Nyssa)                                  
 
  - <last play position> (00:00:00)
  - part2 (00:28:20)
@@ -330,7 +364,7 @@
  - <second to last play position> (00:56:25)
  - part4 (01:24:50)
 
-*** HALF BF207 - You Are the Doctor and Other Stories
+*** HALF BF207 - You Are the Doctor and Other Stories                
 
  - 207a. You Are the Doctor (00:00:21)
  - 207b. Come Die With Me (00:31:25)
@@ -425,6 +459,11 @@
  - <last play position> (00:12:10)
 
 * DW 2021-09
+| 26 | BF192. The Widow's Assassin      |
+| 27 | BF200. The Secret History        |
+| 28 | BF049. Master                    |
+| 29 | BF132. The Architects of History |
+
 ** DW 2021-09
 *** START 10DA 3.1 No Place
 
@@ -453,7 +492,7 @@
  - <second to last play position> (01:25:43)
  - <last play position> (01:28:30)
 
-*** DONE BF132 - The Architects of History
+*** DONE BF132 - The Architects of History                           
 
  - Untitled (00:28:33)
  - part (00:28:38)
@@ -464,18 +503,18 @@
  - part4 (01:26:30)
  - <last play position> (01:31:36)
 
-*** DONE BF192 - The Widow's Assassin, Part 1
+*** DONE BF192 - The Widow's Assassin, Part 1                        
 
  - part2 (00:32:15)
  - <second to last play position> (01:03:43)
  - <last play position> (01:03:52)
 
-*** START BF192 - The Widow's Assassin, Part 2
+*** START BF192 - The Widow's Assassin, Part 2                       
 
  - <second to last play position> (00:00:00)
  - <last play position> (00:00:03)
 
-*** START BF200 - The Secret History
+*** START BF200 - The Secret History                                 
 
  - <second to last play position> (00:00:01)
  - part2 (00:29:50)
@@ -490,7 +529,7 @@
  - <last play position> (01:51:21)
 
 ** DW 2021-09extra
-*** DONE BF049 - Master
+*** DONE BF049 - Master                                              
 
  - part2 (00:31:30)
  - part3 (00:57:45)
@@ -543,6 +582,10 @@
  - <last play position> (00:43:10)
 
 * DW 2021-10
+| 30 | BF015 The Mutant Phase | daleks |
+| 31 | BF048 Davros           | davros |
+| 32 | BF193 Masters of Earth | daleks |
+| 33 | BF021 Dust Breeding    |        |
 ** DW 2021-10-daleks
 *** DONE 8DA4x09 Lucie Miller
 *** DONE 8DA4x10 To the Death
@@ -676,6 +719,10 @@
 
 *** DONE WM4.2. The Master's Dalek Plan
 * DW 2021-11
+| 34 | BF065 The Juggernatus      | davros |
+| 35 | BF211 And You Will Obey Me | Master |
+| 36 | BF212 Vampire of the Mind  | Master |
+
 ** DW 2021-11-daleks
 *** DONE CC5.1 - The Guardian of the Solar System
 
@@ -745,7 +792,7 @@
  - <second to last play position> (00:16:05)
  - part4 (00:35:54)
 
-** DONE DW 2021-11-doctor
+** DW 2021-11-doctor
    CLOSED: [2022-01-14 Fri 20:17]
 
 *** HALF 12DC2.1. Fight to Calandra
@@ -845,6 +892,10 @@
  - back_timeline (00:40:37)
 
 * DW 2021-12
+| 37 | BF077 Other Lives                     | 8th |
+| 38 | BF107 The Haunting of Thomas Brewster | 5th |
+| 39 | BF156 The Curse of Davros             | 6th |
+| 40 | BF213 The Two Masters                 | 7th |
 ** DW 2021-12
 *** HALF 4DA3.3 - The Crooked Man                              :4th_Dr:Leela:
 
@@ -971,6 +1022,8 @@
 ** TODO MAR8.1. Emancipation
 ** TODO NA1. Love and War
 * DW 2022-01
+| 41 | BF086 The Reaping       | 6th | Peri, Cybermen |
+| 42 | BF201 We are the Daleks | 7th | Mel            |
 ** DW 2022-01
 *** TODO 10DA 3.1 No Place
 *** TODO 11DC2.2. The Day Before They Came

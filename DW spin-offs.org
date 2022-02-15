@@ -744,10 +744,10 @@ Roberts Master
 
 ** J&L series 6 :P2013:
 *** HALF [#C] 6.1 - The Skeleton Quay (7.8) :D2022_03_spinoffs:
-    SCHEDULED: <2022-02-13 Sun>
+    SCHEDULED: <2022-03-13 Sun>
 
 *** [#D] 6.2 - Return of the Repressed         (7.1) :D2022_03_spinoffs:
-    SCHEDULED: <2022-02-13 Sun>
+    SCHEDULED: <2022-03-15 Tue>
 
 *** [#D] 6.3 - Military Intelligence           (7.4)
 *** [#C] 6.4 - The Trial of George Litefoot    (7.8)
@@ -831,14 +831,14 @@ Roberts Master
     :rating:   8.4
     :END:
 
-*** START [#B] 2.3 - Pandora :D2022_02_spinoffs:
-    SCHEDULED: <2022-02-26 Sat>
+*** 3QTR [#B] 2.3 - Pandora :D2022_02_spinoffs:
+    CLOSED: [2022-02-12 Sat 15:45] SCHEDULED: <2022-02-16 Wed>
     :PROPERTIES:
     :rating:   8.4
     :END:
 
 *** [#C] 2.4 - Insurgency :D2022_02_spinoffs:
-    SCHEDULED: <2022-02-26 Sat>
+    SCHEDULED: <2022-02-28 Mon>
     :PROPERTIES:
     :rating:   7.6
     :END:
@@ -869,74 +869,6 @@ Roberts Master
 *** [#B] 6.3 - Ascension (8.3)
 ** [#B] 7.0 - Intervention Earth     (8.1) :P2015:
 ** [#A] 8.0 - Enemy Lines (8.9) :P2016:
-* Missy / Master!
-** Missy series 1 :🎧:Master_missy:
-*** START [#C] 1.1 A Spoonful of Mayhem :D2021_07_extra:
-    :PROPERTIES:
-    :rating:   7.7
-    :END:
-
-*** HALF [#A] 1.2 Divorced, Beheaded, Regenerated :D2021_08_extra:plot_no:
-    :PROPERTIES:
-    :rating:   9.0
-    :END:
-
-*** 3QTR [#A] MISSY1.3 - The Broken Clock :D2021_10_extra:plot_no:overdue:
-    CLOSED: [2021-11-27 Sat 08:52] DEADLINE: <2021-11-30 Tue> SCHEDULED: <2021-11-13 Sat>
-    :PROPERTIES:
-    :rating:   8.6
-    :END:
-
-*** [#E] +Missy1.4 - The Belly of the Beast+ :D2021_11_master:
-    SCHEDULED: <2021-11-20 Sat>
-    :PROPERTIES:
-    :rating:   6.8
-    :END:
-
-** Missy series 2 :🎧:Master_missy:
-*** [#A] 2.1 - The Lumiat :D2022_Q2_extra:
-    :PROPERTIES:
-    :rating:   8.8
-    :END:
-
-*** [#D] 2.2 - Brimstone and Terror
-    :PROPERTIES:
-    :rating:   7.0
-    :END:
-
-*** [#D] 2.3 - Treason and Plot
-    :PROPERTIES:
-    :rating:   7.2
-    :END:
-
-*** [#B] 2.4 - Too Many Masters
-    :PROPERTIES:
-    :rating:   8.2
-    :END:
-
-** Missy and the Monk
-** Masterful
-** Master! :Master_roberts:
-*** START [#B] 1.1 Faustian :D2021_11_master:
-    SCHEDULED: <2021-11-20 Sat>
-    :PROPERTIES:
-    :rating:   8.2
-    :END:
-
-*** HALF Vienna #0 The Memory Box :D2021_12_extra:week2:
-    SCHEDULED: <2021-12-10 Fri>
-
-*** TODO [#D] 1.2 Prey :D2021_01_extra:
-    SCHEDULED: <2022-01-16 Sun>
-    :PROPERTIES:
-    :rating:   7.4
-    :END:
-
-*** [#A] 1.3. Vengeance
-    :PROPERTIES:
-    :rating:   8.6
-    :END:
-
 * Bernice Summerfield :Benny:
 ** Bernice Summerfield
 *** Series 1 :P1999:
@@ -1046,11 +978,13 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
 
 *** vol.4 Ruler of the Universe :unbound_universe:Doctor_unbound:P2017:
 **** START [#C] 4.1 - The City And The Clock :D2022_02_spinoffs:
+     SCHEDULED: <2022-02-17 Thu>
      :PROPERTIES:
      :rating:   7.5
      :END:
 
 **** [#A] 4.2 - Asking For A Friend :D2022_02_spinoffs:
+     SCHEDULED: <2022-02-28 Mon>
      :PROPERTIES:
      :rating:   9.2
      :END:
@@ -1073,6 +1007,74 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
 **** 5.3 Dead and Breakfast
 **** 5.4 Burrowed Time
 *** vol.6 Lost in Translation :Doctor_unbound:P2020:
+* Missy / Master!
+** Missy series 1 :🎧:Master_missy:
+*** START [#C] 1.1 A Spoonful of Mayhem :D2021_07_extra:
+    :PROPERTIES:
+    :rating:   7.7
+    :END:
+
+*** HALF [#A] 1.2 Divorced, Beheaded, Regenerated :D2021_08_extra:plot_no:
+    :PROPERTIES:
+    :rating:   9.0
+    :END:
+
+*** 3QTR [#A] MISSY1.3 - The Broken Clock :D2021_10_extra:plot_no:overdue:
+    CLOSED: [2021-11-27 Sat 08:52] DEADLINE: <2021-11-30 Tue> SCHEDULED: <2021-11-13 Sat>
+    :PROPERTIES:
+    :rating:   8.6
+    :END:
+
+*** [#E] +Missy1.4 - The Belly of the Beast+ :D2021_11_master:
+    SCHEDULED: <2021-11-20 Sat>
+    :PROPERTIES:
+    :rating:   6.8
+    :END:
+
+** Missy series 2 :🎧:Master_missy:
+*** [#A] 2.1 - The Lumiat :D2022_Q2_extra:
+    :PROPERTIES:
+    :rating:   8.8
+    :END:
+
+*** [#D] 2.2 - Brimstone and Terror
+    :PROPERTIES:
+    :rating:   7.0
+    :END:
+
+*** [#D] 2.3 - Treason and Plot
+    :PROPERTIES:
+    :rating:   7.2
+    :END:
+
+*** [#B] 2.4 - Too Many Masters
+    :PROPERTIES:
+    :rating:   8.2
+    :END:
+
+** Missy and the Monk
+** Masterful
+** Master! :Master_roberts:
+*** START [#B] 1.1 Faustian :D2021_11_master:
+    SCHEDULED: <2021-11-20 Sat>
+    :PROPERTIES:
+    :rating:   8.2
+    :END:
+
+*** HALF Vienna #0 The Memory Box :D2021_12_extra:week2:
+    SCHEDULED: <2021-12-10 Fri>
+
+*** TODO [#D] 1.2 Prey :D2021_01_extra:
+    SCHEDULED: <2022-01-16 Sun>
+    :PROPERTIES:
+    :rating:   7.4
+    :END:
+
+*** [#A] 1.3. Vengeance
+    :PROPERTIES:
+    :rating:   8.6
+    :END:
+
 * #Daleks :daleks:
 ** #Davros :Davros:
 *** tv :📺:
@@ -1335,14 +1337,16 @@ DWM 175-178
       :rating:   7.7
       :END:
 
-***** START [#C] 1.3 - Conversion :plot_no:D2022_02_spinoffs:
-      SCHEDULED: <2022-02-27 Sun>
+***** 3QTR [#C] 1.3 - Conversion :scripted:plot_no:D2022_02_spinoffs:
+      CLOSED: [2022-02-12 Sat 15:45] SCHEDULED: <2022-02-13 Sun>
       :PROPERTIES:
       :rating:   7.7
       :END:
 
+https://tardis.fandom.com/wiki/Conversion_(Cyberman_audio_story)
+
 ***** [#D] 1.4 - Telos :D2022_02_spinoffs:
-      SCHEDULED: <2022-02-27 Sun>
+      SCHEDULED: <2022-02-28 Mon>
       :PROPERTIES:
       :rating:   7.4
       :END:
@@ -1635,7 +1639,9 @@ rating 8.7/8.3
 **** [#D] 2.3 - Long Shot (7.0?)
 ** Jenny - the Doctor's Daughter
 *** series 1 :P2018:
-**** [#D] 1.1 - Stolen Goods (7.1) :D2022_02_spinoffs:
+**** START [#D] 1.1 - Stolen Goods (7.1) :D2022_02_spinoffs:plot_yes:
+     SCHEDULED: <2022-02-17 Thu>
+
 **** [#E] +1.2 - Prisoner of the Ood+ (6.9)
 **** [#F] +1.3 - Neon Reign+ (5.6)
 **** [#D] 1.4 - Zero Space (7.0)

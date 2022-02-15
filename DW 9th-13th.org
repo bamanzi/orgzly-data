@@ -21,19 +21,31 @@ SCHEDULED: <2021-11-04 Thu>
 
 **** 3.1. The Hunting Season :D2022_Q2:
 **** 3.2 The Curse of Lady Macbeth
-**** READY 3.3 Monsters in Metropolis :bilibili:
+**** READY 3.3 Monsters in Metropolis :Cybermen:bilibili:D2022_03_doctor:
 
 【【广播剧翻译】大都会电影里出现了赛博人？九任冒险集 303 Monsters in Metropolis-哔哩哔哩】 https://b23.tv/ayLbFDQ
 
-*** CC & ST
+*** ST (audiobooks)
 **** [#C] DotD#9. Night of the Whisper :plot_yes:
 :PROPERTIES:
 :thetimescales: 7.6
 :END:
 
-**** HALF ST9.7 Battle Scars :D2021_08_dr:
-**** ST10.9 Her Own Bootstraps
-**** ST11.X The Lichyrwick Abomination :P2021:
+**** HALF [#B] ST9.7 Battle Scars :D2021_08_dr:
+:PROPERTIES:
+:rating:   8.1
+:END:
+
+**** [#C] ST10.9 Her Own Bootstraps
+:PROPERTIES:
+:rating:   7.8
+:END:
+
+**** [#C] ST11.X The Lichyrwick Abomination :P2021:
+:PROPERTIES:
+:rating:   7.6
+:END:
+
 *** fan-made :fan_made:
 **** 0.3 - What I Did on My Christmas Holidays by Sally Sparrow
 **** 0.4 - The Beast of Babylon
@@ -444,10 +456,13 @@ CLOSED: [2021-09-24 Fri 08:10]
 **** HALF [#B] 12DC2.1. Flight to Calandra (?8.2) :D2021_11_doctor:
 SCHEDULED: <2021-11-20 Sat>
 
-**** START 2.1 Split Second :D2022_02_doctor:
-SCHEDULED: <2022-02-19 Sat>
+**** 2DONE [#E] 2.2 Split Second :D2022_02_doctor:
+CLOSED: [2022-02-15 Tue 08:37] SCHEDULED: <2022-02-24 Thu>
+:PROPERTIES:
+:rating:   6.4
+:END:
 
-**** The Weight of History.mp3
+**** 2.3 The Weight of History
 ** novels :novel:
 *** [#C] Silhouette 侧影 :已购:Kindle己购:
 :PROPERTIES:

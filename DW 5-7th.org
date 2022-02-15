@@ -73,8 +73,8 @@ CLOSED: [2021-03-22 Mon 23:17]
 :rating:   4.5
 :END:
 
-**** [#B] 44. Creatures of Beauty :plot_no:D2022_02_doctor:
-SCHEDULED: <2022-02-06 Sun>
+**** HALF [#B] 44. Creatures of Beauty :plot_no:D2022_02_doctor:
+SCHEDULED: <2022-02-24 Thu>
 :PROPERTIES:
 :rating:   8.2
 :END:
@@ -536,6 +536,7 @@ CLOSED: <2021-04-18 Sun 08:14>
 :END:
 
 **** TODO [#B] 126. Blue Forgotten Planet (8.1) :Charley:Mila:plot_no:D2021_13:
+**** [#C] 134. The Wreck of the Titan (7.6)
 **** [#B] 135. Legend of the Cybermen (8.4) :plot_yes:
 **** [#D] 143. The Crimes of Thomas Brewster :Evelyn:
 :PROPERTIES:
@@ -566,7 +567,7 @@ CLOSED: <2021-12-23 Thu 08:53>
 **** [#D] 184. Scavenger
 **** 188. Breaking Bubbles and Other Stories :short:
 ***** [#A] 188d. The Curious Incident of the Doctor in the Night-Time (8.7) :plot_no:
-**** 3QTR [#A] MR192. The Widow's Assassin (8.6) :Peri:plot_no:D2021_09_dr:2buy:
+**** 3QTR [#A] MR192. The Widow's Assassin (8.6) :Peri:plot_no:D2021_09_dr:🛒:
 CLOSED: <2021-09-17 Fri 21:27> SCHEDULED: <2021-09-04 Sat>
 
  与剧集23x02 Mindwrap联系紧密
@@ -585,48 +586,83 @@ CLOSED: [2021-10-18 Mon 20:15]
 :END:
 
 *** main range 201- :scripted:
+**** [#C] 204. Criss-Cross :Peri:Rani:
 **** [#C] 212. Vampire of the Mind :Master:
 :PROPERTIES:
 :rating:   7.6
 :END:
 
+**** [#C] 220. Quicksilver :Flip:Constance:
+**** [#B] 232. The Middle :Flip:Constance:
+:PROPERTIES:
+:rating:   8.4
+:END:
+
+**** [#A] 233. Static (8.6) :Flip:Constance:
+**** [#C] 239. Iron Bright (7.5)
+**** [#C] 240. Hour of the Cybermen (7.8) :Cybermen:
 *** 6DA :short:
+**** special/bonus
+***** [#E] The Ratings War
+***** [#D] Real Time
+***** [#C] 33½ - The Maltese Penguin :short:
+:PROPERTIES:
+:rating:   7.6
+:END:
+
+***** VII - Return of the Krotons :short:
+***** XII - Trial of the Valeyard. :short:
 **** The Sixth Doctor: The Last Adventure
 ***** 2DONE The End of the Line :Master:Valeyard:D2021_12_master:bilibili:week1:
 CLOSED: [2021-12-03 Fri 23:22] SCHEDULED: <2021-12-05 Sun>
 
 【【广播剧翻译】六任：最后的冒险 01 The end of the line-哔哩哔哩】 https://b23.tv/r4FWpnN
 
-***** The Red House :bilibili:D2022_02_doctor:
+***** START [#D] The Red House :Charley:plot_yes:bilibili:D2022_02_doctor:
+SCHEDULED: <2022-02-17 Thu>
+:PROPERTIES:
+:rating:   7.0
+:END:
 
 【【广播剧翻译】照日光变成人的反向狼人 六任:最后的冒险 102 红房子-哔哩哔哩】 https://b23.tv/RLKffOm
 
-***** Stage Fright :bilibili:
+***** [#B] Stage Fright :Jago:Litefoot:bilibili:
+:PROPERTIES:
+:rating:   8.3
+:END:
 
 【【广播剧翻译】博士的重生场景重演？六任：最后的冒险 103 Stage Fright-哔哩哔哩】 https://b23.tv/NnRPoV3
 
 ***** The Brink of Death
-**** The Sixth Doctor and Peri
+**** The Sixth Doctor and Peri :short:
 
 Volume One
 
-***** The Headless Ones
-***** Like
-***** The Vanity Trap
+***** [#C] The Headless Ones
+:PROPERTIES:
+:rating:   7.5
+:END:
+
+***** CANCEL [#E] Like
+:PROPERTIES:
+:rating:   6.6
+:END:
+
+***** [#D] The Vanity Trap
+:PROPERTIES:
+:rating:   7.1
+:END:
+
 ***** [#A] Conflict Theory
 :PROPERTIES:
 :rating:   9.0
 :END:
 
+**** The Eleven :P2021_09:
+***** 1. One for All
+***** 2. The Murder of Oliver Akkron
+***** 3. Elevation
 *** misc
-**** Real Time
-**** [#C] 33½ - The Maltese Penguin :short:
-:PROPERTIES:
-:rating:   7.6
-:END:
-
-**** VII - Return of the Krotons :short:
-**** XII - Trial of the Valeyard. :short:
 **** The Lost Stories
 ***** [#B] 1.3 - Leviathan
 :PROPERTIES:
@@ -693,20 +729,20 @@ CLOSED: [2021-11-01 Mon 19:54]
 *** main range :scripted:
 **** top
 
-|   |   12. The Fires of Vulcan       (8.4) | 7th | 2000 | Mel                                          | Steve Lyons                          |
-|   |   49. Master                    (9.0) | 7th | 2003 | The Master, Death                            | Joseph Lidster                       |
-|   |   58. The Harvest               (8.4) | 7th | 2004 | Ace, Hex, Cybermen                           | Dan Abnett                           |
-|   |   74. Live 34                   (8.5) | 7th | 2005 | Ace, Hex                                     | James Parson / Andrew Stirling-Brown |
-|   | 115d. The Word Lord             (8.6) | 7th | 2008 | Ace, Hex, Nobody No-One                      | Steven Hall                          |
-|   |  120. The Magic Mousetrap       (8.6) | 7th | 2009 | Ace, Hex, Celestial Toymaker                 | Matthew Sweet                        |
-|   |  130. A Thousand Tiny Wings     (8.8) | 7th | 2010 | Klein                                        | Andy Lane                            |
-|   | 131a. Klein's Story             (8.6) | 7th | 2010 | Klein                                        | John Ainsworth / Lee Mansfield       |
-|   |  132. The Architects of History (8.7) | 7th | 2010 | Klein, Selachians                            | Steve Lyons                          |
-|   |  140. A Death in the Family     (9.5) | 7th | 2010 | Ace, Hex, Evelyn, Nobody No-One, the Forge   | Steven Hall                          |
-|   |  149. Robophobia                (8.4) | 7th | 2011 | Liv, Kaldor androids                         | Nicholas Briggs                      |
-|   |  162. Protect and Survive       (8.7) | 7th | 2012 | Ace, Hex                                     | Jonathan Morris                      |
-|   |  164. Gods and Monsters         (8.4) | 7th | 2012 | Ace, Hex, Sally, Lysandra, Fenric, the Forge | Mike Maddox and Alan Barnes          |
-|   |  213. The Two Masters           (8.8) | 7th | 2016 | The Old Master, The New Master               | John Dorney                          |
+|   | 12. The Fires of Vulcan        | 8.4 | 7th | 2000 | Mel                                          | Steve Lyons                          |
+|   | 49. Master                     | 9.0 | 7th | 2003 | The Master, Death                            | Joseph Lidster                       |
+|   | 58. The Harvest                | 8.4 | 7th | 2004 | Ace, Hex, Cybermen                           | Dan Abnett                           |
+|   | 74. Live 34                    | 8.5 | 7th | 2005 | Ace, Hex                                     | James Parson / Andrew Stirling-Brown |
+|   | 115d. The Word Lord            | 8.6 | 7th | 2008 | Ace, Hex, Nobody No-One                      | Steven Hall                          |
+|   | 120. The Magic Mousetrap       | 8.6 | 7th | 2009 | Ace, Hex, Celestial Toymaker                 | Matthew Sweet                        |
+|   | 130. A Thousand Tiny Wings     | 8.8 | 7th | 2010 | Klein                                        | Andy Lane                            |
+|   | 131a. Klein's Story            | 8.6 | 7th | 2010 | Klein                                        | John Ainsworth / Lee Mansfield       |
+|   | 132. The Architects of History | 8.7 | 7th | 2010 | Klein, Selachians                            | Steve Lyons                          |
+|   | 140. A Death in the Family     | 9.5 | 7th | 2010 | Ace, Hex, Evelyn, Nobody No-One, the Forge   | Steven Hall                          |
+|   | 149. Robophobia                | 8.4 | 7th | 2011 | Liv, Kaldor androids                         | Nicholas Briggs                      |
+|   | 162. Protect and Survive       | 8.7 | 7th | 2012 | Ace, Hex                                     | Jonathan Morris                      |
+|   | 164. Gods and Monsters         | 8.4 | 7th | 2012 | Ace, Hex, Sally, Lysandra, Fenric, the Forge | Mike Maddox and Alan Barnes          |
+|   | 213. The Two Masters           | 8.8 | 7th | 2016 | The Old Master, The New Master               | John Dorney                          |
 
 **** MR001-050
 ***** [#C] 5. Fearmonger :plot_yes:
