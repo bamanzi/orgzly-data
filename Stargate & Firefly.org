@@ -168,51 +168,57 @@ CLOSED: <2021-09-21 Tue 16:16>
 CLOSED: [2021-09-21 Tue 17:02]
 
 * Battlestar Galactica :bsg:
-** DONE [#A] TV mini (2003)
+** tv
+
+https://www.txmeiju.com/tv/search?s=%E5%A4%AA%E7%A9%BA%E5%A0%A1%E5%9E%92
+
+BDrip 720p 人人影视
+
+*** DONE [#A] TV mini (2003)
 CLOSED: [2021-07-18 Sun 15:42]
 
-** S1 (13 episodes) :P2004:
-*** DONE 1x01 33
+*** S1 (13 episodes) :P2004:
+**** DONE 1x01 33
 CLOSED: [2021-07-21 Wed 08:20]
 
-*** DONE 1x02 Water
+**** DONE 1x02 Water
 CLOSED: <2021-07-23 Fri 08:40>
 
-*** DONE 1x03 Bastille Day
+**** DONE 1x03 Bastille Day
 CLOSED: [2021-07-30 Fri 08:20]
 
-*** DONE 1x04 Act of Contrition
+**** DONE 1x04 Act of Contrition
 CLOSED: <2021-07-31 Sat 20:15>
 
-*** DONE 1x05 You Can't Go Home Again
+**** DONE 1x05 You Can't Go Home Again
 CLOSED: [2021-08-03 Tue 20:15]
 
-*** DONE 1x06 Litmus
+**** DONE 1x06 Litmus
 CLOSED: [2021-08-08 Sun 11:40]
 
-*** DONE 1x07 Six Degrees of Separation
+**** DONE 1x07 Six Degrees of Separation
 CLOSED: [2021-08-18 Wed 20:14]
 
-*** DONE 1x08 Flesh and Bone
+**** DONE 1x08 Flesh and Bone
 CLOSED: [2021-08-22 Sun 22:34]
 
-*** DONE 1x09 Tigh Me Up, Tigh Me Down
+**** DONE 1x09 Tigh Me Up, Tigh Me Down
 CLOSED: <2021-08-26 Thu 08:25>
 
-*** DONE 1x10 The Hand of God
+**** DONE 1x10 The Hand of God
 CLOSED: [2021-09-04 Sat 22:22]
 
-*** DONE 1x11 Colonial Day
+**** DONE 1x11 Colonial Day
 CLOSED: [2021-09-08 Wed 23:59]
 
-*** DONE 1x12 Kobol's Last Gleaming, Part I
+**** DONE 1x12 Kobol's Last Gleaming, Part I
 CLOSED: <2021-10-19 Tue 20:21>
 
-*** DONE 1x13 Kobol's Last Gleaming, Part II
+**** DONE 1x13 Kobol's Last Gleaming, Part II
 CLOSED: <2021-10-19 Tue 10:48>
 
-** S2 (20 episodes) :P2005:
-** The Plan
+*** S2 (20 episodes) :P2005:
+*** The Plan
 
 Set during the events from the Miniseries to Season 2's /"Lay Down Your Burdens, Part II (2x20),"/ this story is told from the Cylons' perspective, centering on two distinct Cavil copies as they try to fulfill the Cylons' plan.
 

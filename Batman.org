@@ -11,7 +11,7 @@
 
  - Batman #404-407
 
-**** Second Chance :P1987:
+**** DONE Second Chance :P1987:
 
 1986 Dec -1988 Feb
  - Batman #402-403, 408-416
@@ -30,7 +30,7 @@
 
 Legends of The Dark Knight: Norm Breyfogle
 
-**** 1987 Nov-Dec	Harvey Dent
+**** Double Image :Two_Face:
 
 - Detective Comics #580-581
 
@@ -99,13 +99,14 @@ Legends of The Dark Knight: Norm Breyfogle
 *** Knightfall (vol.1 & vol.3) :P1993:
 *** misc
 **** (1986-12) DC #569–574
-*** singles
-**** DC v1 #569-574 :P1986:
 
  571,574有汉化
 
  这一阶段的故事是白银时代与80年代的完美结合。其中可以看到杰森作为罗宾的生涯的早期，甚至还有与夏洛克福尔摩斯的联动。
 
+The first six issues of Mike W. Barr's run on Detective Comics (#569–574) have a strange position in continuity. It's clear that they take place in /Post-Crisis continuity/ (following the /Crisis on Infinite Earths/), because the book switches over at the Legends crossover in #568. However, they were written prior to Frank Miller's reboot of Batman's origins in /Year One/ and Max Allan Collins' reboot of Robin's origins in Batman #408. These stories are technically no longer part of /Pre-Crisis/ continuity, but they're also missing some elements of the Post-Crisis reboots.
+
+*** singles
 **** Mortal Clay (Batman Annual #11 part1) :P1987:Clayface:
 
  泥面人的爱情故事
@@ -159,13 +160,13 @@ CLOSED: [2021-07-09 Fri 17:25]
  《漫长的万圣节》的续集，延续了许多故事情节。这个故事同时也详细介绍了初代罗宾迪克·格雷森。
 
 ** 2000-2006
-*** Batman: Ego :P2000:
+*** DONE Batman: Ego :P2000:
 
 一个探索蝙蝠侠内心思想和怀疑的短篇小说
 
-*** [#C] Bruce Wayne - Murder／Fugitive (crossover) :P2002:
+*** 2DONE [#C] Bruce Wayne - Murder／Fugitive (crossover) :P2002:
 **** DONE Bruce Wayne - Murder
-**** Bruce Wayne - Fugitive
+**** 2DONE Bruce Wayne - Fugitive
 *** DONE Batman: Blink (LotDK #156-157) :P2002:
 
  一个侦探故事，蝙蝠侠必须与一个盲人结盟以阻止一场谋杀案，他可以通过别人的眼睛看到事物。
@@ -173,7 +174,7 @@ CLOSED: [2021-07-09 Fri 17:25]
 *** DONE Hush (#608-619) :P2003:
 *** Broken City (#620-625) :P2004:
 *** DONE War Game saga :P2004:
-*** Batman: City of Crime  (DC #800-808,811-814) :P2005:
+*** [#C] Batman: City of Crime  (DC #800-808,811-814) :P2005:
 
  一个黑暗的谜团，将蝙蝠侠带入了哥谭下方最贫瘠的地区。
 
@@ -181,12 +182,12 @@ CLOSED: [2021-07-09 Fri 17:25]
 
 一个被称为红头罩的蒙面男子开始在哥谭市打击犯罪，并以致命的武力接管它。他与蝙蝠侠最大的错误之一：杰森·托德的死有什么联系呢？
 
-*** [#C] Batman and the Mad Monk :P2006:
+*** 2DONE [#C] Batman and the Mad Monk :P2006:Hugo_Strange:
 
 《蝙蝠侠与 怪物军团》的续集，以1939年的故事《蝙蝠侠与吸血鬼》为基础，发生在侦探漫画＃31-32中。这个故
 事还进一步深入发展了布鲁斯韦恩和猫女之间的关系。
 
-*** [#A] Batman: The Man Who Laughs :Joker:hanzify:P2005:
+*** DONE [#A] Batman: The Man Who Laughs :Joker:hanzify:P2005:
 
 蝙蝠侠与小丑第一次见面。基于1940年的蝙蝠侠＃1改编 。
 
@@ -230,14 +231,17 @@ CLOSED: <2022-02-05 Sat 16:16>
 CLOSED: <2022-02-05 Sat 16:16>
 
 **** 6. R.I.P. The Missing Chapter (#701-702)
-*** DOING Whatever Happened to the Caped Crusader? (2009.04-06) :P2009:
+*** DONE Whatever Happened to the Caped Crusader? (2009.04-06) :P2009:Neil_Gaiman:
+CLOSED: <2022-02-09 Wed 22:48>
 
 虽然不是严格意义上的经典，但这期其实是对蝙蝠侠的哀悼，无论是作为一个虚构的角色还是一个真实的想法。在他葬礼上的客人包括蝙蝠侠历史上的人物，活着和死亡的人物，以及不再存在的人物。
 
 - Batman #686
 - Detective Comics #853
 
-*** TODO [#B] Battle for the Cowl (2009.05-07) :P2009:
+*** DONE [#B] Battle for the Cowl (2009.05-07) :P2009:
+CLOSED: [2022-02-13 Sun 19:37]
+
 *** Batman Reborn (2009.08-12) :P2009:
 **** Batgirl: Batgirl Rising (v3 #1-3)
 **** TODO [#C] Batman: Hush Money
@@ -370,7 +374,7 @@ CLOSED: <2021-06-20 Sun 17:34>
 Batman Incorporated: Demon Star
 
 **** [#B] Gotham's Most Wanted (Batman Incorporated #7-13)
-*** ＃18 “安魂曲”
+*** #18 “安魂曲”
 
 完全沉默的一期，讲述了布鲁斯·韦恩哀悼他儿子的死亡。
 
@@ -552,13 +556,16 @@ Batman Confidential #1-6
 这个令人难以置信的系列讲述了GCPD的重大犯罪部，他们试图在一个由腐败，怪胎和蒙面义警统治的城市中工作。
 
 * movie
+** DCAU
+*** Batman: Mask of the Phantasm
+*** Batman & Mr. Freeze: SubZero
+*** Batman: Mystery of the Batwoman
+*** Batman Beyond: Return of the Joker
+*** Batman and Harley Quinn
+*** Justice League vs. the Fatal Five
 ** DCEU
 ** Nolan verse
 *** Batman: Gotham Knight :animated:P2008:
-** animated (non-DCAMU)
-*** DONE Batman: Under the Red Hood
-*** DONE Batman: Year One :P2011:
-*** DONE Batman: The Dark Knight Returns :P2012:
 ** DCAMU
 
 The DC Animated Movie Universe is a shared universe consisting of a number of movies, shorts and digital-first comics, originally conceived as an "animated New 52", but later expanding into older and original stories. 
@@ -573,19 +580,23 @@ The DC Animated Movie Universe is a shared universe consisting of a number of mo
 
 *** [#B] Justice League: War
 *** DONE Son of Batman
-*** Batman vs. Robin
+*** TODO Batman vs. Robin
 
 partially based on 
 - the /Batman: The Court of Owls/ arc, written by Scott Snyder and illustrated by Greg Capullo and Jonathan Glapion, 
 - and the /Batman and Robin: Born to Kill/ arc, written by Peter Tomasi and illustrated by Patrick Gleason and Mick Gray. 
 
-*** Batman: Bad Blood
+*** TODO Batman: Bad Blood
 
 The story is inspired by the /Batman Reborn/ arc, whilst also including elements from Batwoman: Go. 
 
 - Nightwing / Batman (Dick Grayson) (First appearance as Batman)
 - Robin (Damian Wayne)
 
+** other animated (non-DCAMU)
+*** DONE Batman: Under the Red Hood
+*** DONE Batman: Year One :P2011:
+*** DONE Batman: The Dark Knight Returns :P2012:
 * tv
 ** DONE Gotham S1
 ** DONE Gotham S2
