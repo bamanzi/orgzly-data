@@ -109,6 +109,10 @@ CLOSED: [2021-06-15 Tue 08:16]
 :END:
 
 **** [#D] 087. The Gathering :Cybermen:Tegan:
+:PROPERTIES:
+:rating:   7.0
+:END:
+
 **** 📂91. Circular Time :plot_yes:Nyssa:short:
 ***** 91a. Spring
 ***** 91b. Summer
@@ -367,6 +371,10 @@ CLOSED: [2021-02-27 Sat 18:02]
 ***** The Garden of Storms
 ***** The Moonrakers
 ***** The People Made of Smoke
+**** Forty
+***** 1.1 Secrets of Telos :Nyssa:Tegan:Cybermen:P2022_01:
+***** 1.2 God of War :Nyssa:Tegan:Adric:ice_warriors:P2022_01:
+***** 2.1 The Auton Infinity
 *** misc
 **** The Lost Stories
 ***** [#B] 3.1 - The Elite

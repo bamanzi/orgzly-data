@@ -151,7 +151,7 @@ CLOSED: [2021-03-22 Mon 22:48]
 :rating:   6.2
 :END:
 
-***** [#B] 103. The Girl Who Never Was :P2007:Charley:plot_yes:
+***** READY [#B] 103. The Girl Who Never Was :P2007:Charley:Cybermen:plot_yes:
 :PROPERTIES:
 :rating:   8.4
 :END:
@@ -615,7 +615,7 @@ CLOSED: [2021-11-16 Tue 19:56] SCHEDULED: <2021-11-13 Sat>
 :rating:   9.4
 :END:
 
-*** The War Master series 5
+*** TODO The War Master series 5
 **** [#B] 5.1 - The Edge of Redemption
 :PROPERTIES:
 :rating:   8.1
@@ -636,7 +636,7 @@ CLOSED: [2021-11-16 Tue 19:56] SCHEDULED: <2021-11-13 Sat>
 :rating:   8.9
 :END:
 
-*** The War Master series 6
+*** TODO The War Master series 6
 **** 6.1 - The Sincerest Form of Flattery
 **** 6.2 - A Quiet Night In
 **** 6.3 - The Orphan

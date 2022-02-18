@@ -977,7 +977,7 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
      :END:
 
 *** vol.4 Ruler of the Universe :unbound_universe:Doctor_unbound:P2017:
-**** START [#C] 4.1 - The City And The Clock :D2022_02_spinoffs:
+**** HALF [#C] 4.1 - The City And The Clock :D2022_02_spinoffs:
      SCHEDULED: <2022-02-17 Thu>
      :PROPERTIES:
      :rating:   7.5
@@ -1345,7 +1345,7 @@ DWM 175-178
 
 https://tardis.fandom.com/wiki/Conversion_(Cyberman_audio_story)
 
-***** [#D] 1.4 - Telos :D2022_02_spinoffs:
+***** START [#D] 1.4 - Telos :D2022_02_spinoffs:
       SCHEDULED: <2022-02-28 Mon>
       :PROPERTIES:
       :rating:   7.4
@@ -1470,8 +1470,8 @@ rating 8.7/8.3
 ** UNIT 6: Cyber-Reality :P2018:
 *** [#E] 6.1 - Game Theory                      (6.8)
 *** [#E] 6.2 - Telepresence                     (7.0)
-*** [#C] 6.3 - Code Silver                      (7.8)
-*** [#B] 6.4 - Master of Worlds                 (8.4)
+*** [#C] 6.3 - Code Silver      (7.8) :Cybermen:
+*** [#B] 6.4 - Master of Worlds                 (8.4) :Cybermen:
 ** UNIT 7: Revisitations :P2018:
 *** [#C] 7.1/7.2 - Hosts of the Wirrn           (7.6)
 *** [#A] 7.3 - Breach of Trust                  (8.6)
