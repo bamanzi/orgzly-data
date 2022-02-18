@@ -277,3 +277,8 @@ CLOSED: [2020-10-10 Sat 19:27]
 :rating:   3.56
 :END:
 
+* Fringe
+** Fringe S1
+*** DONE 1x01
+CLOSED: [2022-02-18 Fri 12:56]
+
