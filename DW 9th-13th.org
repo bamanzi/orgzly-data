@@ -24,7 +24,7 @@ SCHEDULED: <2021-11-04 Thu>
 **** vol.3 Lost Warriors :P2021_11:
 ***** 3.1. The Hunting Season :D2022_Q2:
 ***** 3.2 The Curse of Lady Macbeth
-***** READY 3.3 Monsters in Metropolis :Cybermen:bilibili:D2022_03_doctor:
+***** READY 3.3 Monsters in Metropolis :Cybermen:bilibili:
 
 【【广播剧翻译】大都会电影里出现了赛博人？九任冒险集 303 Monsters in Metropolis-哔哩哔哩】 https://b23.tv/ayLbFDQ
 
@@ -61,7 +61,7 @@ CLOSED: [2021-12-14 Tue 20:07] DEADLINE: <2021-12-08 Wed 20:05> SCHEDULED: <2021
 
 【【神秘博士/有声剧/字幕】饭制双博士有声剧Exhausted Supplies Doctor Who Audio Drama 九任和十二任博士意外相遇-哔哩哔哩】 https://b23.tv/KOphvaM 
 
-**** #1. Cold Open
+**** START #1. Cold Open :D2022_03_doctor:
 
 https://ninthdoctoradventures.wordpress.com/episodes/
 
@@ -175,7 +175,7 @@ CLOSED: [2021-08-01 Sun 15:54]
 
 【[BF广播剧熟肉]Technophobia科技恐惧症-哔哩哔哩】https://b23.tv/nq0u5s
 
-***** [#D] 10DA 1.2 - Time Reaver :bilibili:
+***** READY [#D] 10DA 1.2 - Time Reaver :bilibili:
 :PROPERTIES:
 :rating:   7.1
 :END:
@@ -354,7 +354,7 @@ SCHEDULED: <2022-01-31 Mon>
 :rating:   6.0
 :END:
 
-**** [#D] A Tragical History (?7.4)
+**** [#D] 12DC2.4 A Tragical History (?7.4) :D2022_03_doctor:
 ** comics
 *** IDW
 **** Omnibus vol.1
@@ -463,8 +463,8 @@ CLOSED: [2021-09-24 Fri 08:10]
 **** HALF [#B] 12DC2.1. Flight to Calandra (?8.2) :D2021_11_doctor:
 SCHEDULED: <2021-11-20 Sat>
 
-**** 2DONE [#E] 2.2 Split Second :D2022_02_doctor:
-CLOSED: [2022-02-15 Tue 08:37] SCHEDULED: <2022-02-24 Thu>
+**** 3QTR [#E] 2.2 Split Second :D2022_02_doctor:
+CLOSED: [2022-02-23 Wed 20:38] SCHEDULED: <2022-02-24 Thu>
 :PROPERTIES:
 :rating:   6.4
 :END:

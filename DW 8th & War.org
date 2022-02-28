@@ -188,7 +188,7 @@ CLOSED: [2021-06-04 Fri 07:34]
 :END:
 
 *** Charlotte Pollard: The Further Adventuress :P2022_01:
-**** CPFA 1.4 Heart of Orion :D2022_03_doctor:Cybermen:
+**** CPFA 1.4 Heart of Orion :D2022_04_doctor:Cybermen:
 *** 8DA :scripted:Lucie:8da:
 **** 8DA series 1 :scripted:
 ***** START [#C] 1.1/1.2 Blood of the Daleks
@@ -335,7 +335,7 @@ CLOSED: [2020-09-27 Sun 18:36]
 ***** 2DONE [#C] 2.1 The Traitor (7.9) :Liv:
 CLOSED: [2020-10-30 Fri 18:15]
 
-***** START [#C] 2.2 The White Room (7.6) :Molly:Viyrans:
+***** HALF [#C] 2.2 The White Room (7.6) :Molly:Viyrans:
 ***** [#B] 2.3 Time's Horizon (8.4) :Liv:Molly:Master_bald:
 ***** DONE [#A] 2.4 Eyes of the Master (8.6) :Liv:Molly:Master_bald:D2021_07_extra:
 CLOSED: <2021-07-16 Fri 16:32>
@@ -371,37 +371,58 @@ CLOSED: <2022-01-19 Wed 20:06> SCHEDULED: <2022-01-30 Sun>
 :thetimescales: 9.3
 :END:
 
-***** START [#E] 1.3 - The Galileo Trap :D2022_02_doctor:
+***** HALF [#E] 1.3 - The Galileo Trap :D2022_02_doctor:
 SCHEDULED: <2022-02-24 Thu>
 :PROPERTIES:
 :thetimescales: 6.8
 :END:
 
-***** [#E] 1.4 - The Satanic Mill :D2022_02_doctor:
+***** TODO [#E] 1.4 - The Satanic Mill :D2022_02_doctor:
 SCHEDULED: <2022-02-28 Mon>
 :PROPERTIES:
 :thetimescales: 6.5
 :END:
 
 **** Doom Coalition 2
-***** 2.1 - Beachhead
+***** [#D] 2.1 - Beachhead
 :PROPERTIES:
 :rating:   7.1
 :END:
 
-***** 2.2 - Scenes from Her Life
+***** [#C] 2.2 - Scenes from Her Life
 :PROPERTIES:
 :rating:   7.5
 :END:
 
-***** 2.3 - The Gift
+***** [#E] 2.3 - The Gift
 :PROPERTIES:
 :rating:   6.8
 :END:
 
-***** 2.4 - The Sonomancer
+***** [#E] 2.4 - The Sonomancer
 :PROPERTIES:
-:rating:   7.0
+:rating:   6.9
+:END:
+
+**** DC 3
+***** [#A] 3.1 - Absent Friends
+:PROPERTIES:
+:rating:   9.2
+:END:
+
+***** [#C] 3.2 - The Eighth Piece
+:PROPERTIES:
+:rating:   7.7
+:END:
+
+***** [#C] 3.3 - The Doomsday Chronometer
+:PROPERTIES:
+:rating:   7.9
+:END:
+
+***** [#A] 3.4 - The Crucible of Souls
+:PROPERTIES:
+:rating:   8.
 :END:
 
 *** Ravenous :Liv:
@@ -778,7 +799,7 @@ CLOSED: [2020-12-09 Wed 19:04]
 :rating:   7.2
 :END:
 
-**** START [#A] 3.4 The War Valeyard
+**** NEXT [#A] 3.4 The War Valeyard
 :PROPERTIES:
 :rating:   8.9
 :END:

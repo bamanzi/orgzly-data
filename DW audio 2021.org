@@ -286,7 +286,7 @@
  - <second to last play position> (00:39:16)
  - <last play position> (00:58:48)
 
-*** START Dark Eyes 2.4 - Eyes of the Master (#Master)
+*** HALF Dark Eyes 2.4 - Eyes of the Master (#Master)
 
  - <last play position> (00:00:00)
  - <second to last play position> (00:00:00)
@@ -1041,29 +1041,29 @@
 | 42 | BF201 We are the Daleks | 7th | Mel            |
 
 ** DW 2022-01
-*** TODO 10DA 3.1 No Place
+*** TODO 10DA 3.1 No Place :10th_Dr:
 *** TODO 11DC2.2. The Day Before They Came
-*** HALF 8DDC1.1 - The Eleven
+*** HALF 8DDC1.1 - The Eleven :8th_Dr:
 
  - <last play position> (00:16:46)
  - <second to last play position> (00:16:50)
 
-*** TODO 8DDC1.2 - The Red Lady
-*** HALF BF086 - The Reaping                                       :Cybermen:
+*** TODO 8DDC1.2 - The Red Lady :8th_Dr:
+*** HALF BF086 - The Reaping :Cybermen:6th_Dr:Peri:
 
  - part1 (00:05:55)
  - part2 (01:09:52)
 
-*** START BF201 - We are the Daleks (7D)
+*** START BF201 - We are the Daleks (7D) :7th_Dr:Mel:
 
  - <last play position> (00:00:00)
  - part2 (00:29:00)
  - part3 (00:55:15)
 
-*** HALF MA01 - Red Snow
+*** HALF MA01 - Red Snow :2nd_Dr:
 ** DW 2022-01-extra
-*** TODO CYBM1.1 Scorpius
-*** TODO CYBM1.2 Fear
+*** TODO CYBM1.1 Scorpius :Cybermen:
+*** TODO CYBM1.2 Fear :Cybermen:
 *** TODO DoRS9.1. The Blood Woods
 *** TODO DoRS9.2. Terror of the Suburbs
 *** HALF GFY2.1 - Lies
@@ -1079,9 +1079,9 @@
 ** DW 2022-02-doctors
 *** START CC8.10 The War to End All Wars
 *** 2DONE 3DA4.2 - The Tyrants of Logic
-*** HALF BF044 - Creatures of Beauty (5D)
+*** HALF BF044 - Creatures of Beauty (5D) :5th_Dr:
 *** START 6DLA #2 The Red House
-*** HALF 1.3 The Gallileo Trap
+*** HALF 8DDC1.3 The Gallileo Trap
 *** START 8DDC 1.4 The Satanic Mill
 *** HALF 12DC2.2. Split Second
 ** DW 2022-02-extra
@@ -1096,7 +1096,7 @@
 ** DW 2022-03-doctors
 *** 1DA3.2 Tick-Tock World
 *** CC8.4 Ghost in the Machine (3D)
-*** BF087 The Gathering (5D)                                       :Cybermen:
+*** BF087 The Gathering (5D) :Cybermen:
 *** BF089 No Man's Land (7D)
 *** 9DAFM #1 Cold Open
 *** 11DC2.4 A Tragical History
@@ -1105,24 +1105,21 @@
 *** DoRS 9.4 (+3D)
 *** TODO TW6.1. Future Pain
 *** TODO TW6.2. The Man Who Destroyed Torchwood
-
 *** Gallifrey 2.5
-*** BS6.5 The Crystal of Cantus                                    :Cybermen:
+*** BS6.5 The Crystal of Cantus :Cybermen:
 * DW 2022-04
 ** DW 2022-04-dooctors
 *** EA2.1 The Yes Man
 *** 4DA4.5 Suburan Hell (+Leela)
 *** BF105 - The Condemned (6D, Charley)
-*** BF017 Sword of Orion / CPFA1.4 Heart of Orion (8D, Charley)    :Cybermen:
-*** Out of Time #2 (10D+5D)                                        :Cybermen:
+*** BF017 Sword of Orion / CPFA1.4 Heart of Orion (8D, Charley) :Cybermen:
+*** Out of Time #2 (10D+5D) :Cybermen:
 *** 12DC2.3 The Weight of History
 ** DW 2022-04-extra
 *** BSNA 4.3 Truant
 *** BSNA 4.4 The True Saviour of the Universe
-
 *** TODO J&L6.1 - The Skeleton Quay
 *** TODO J&L6.2 - Return of the Repressed
-
 *** TODO UNIT6.1
 *** TODO UNIT6.2
 * DW 2022-Q2-pending
@@ -1136,7 +1133,7 @@
 *** BF267a Thin Time (5D+11D)
 ** doctor 6th
 *** TODO BF027 - The One Doctor (6D)
-*** TODO BF135 Legend of the Cybermen (6D, "Jamie")                :Cybermen:
+*** TODO BF135 Legend of the Cybermen (6D, "Jamie") :Cybermen:
 *** CC5.7 Peri and the Piscon Paradox (5D+6D)
 ** doctor 7th
 *** TODO BF013 - The Shadow of the Scourge (7D)
@@ -1149,11 +1146,10 @@
 *** 8DA 1.6 No More Lies
 *** 8DA 2.2 Max Warp
 ** doctor 9-12th
-*** 9DA 3.3 Monsters in Metropolis #bilibili                       :Cybermen:
+*** 9DA 3.3 Monsters in Metropolis #bilibili :Cybermen:
 *** 10D&RS #3 Ghosts
 *** ST8.8 - Flight into Hull! (alt 10D + alt Jackie)
-
 ** extra
 *** TODO BS1.1 - Oh No It Isn't!
 *** Missy 2.1 The Lumiat
-*** Jenny 2.2 Altered Status                                       :Cybermen:
+*** Jenny 2.2 Altered Status :Cybermen:

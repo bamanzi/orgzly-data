@@ -1,48 +1,50 @@
 * Torchwood :torchwood:
 ** tv :📺:
-** BF monthly :🎧:
-*** series 1 (1-6) :P2015:scripted:
+** comics
+** audio
+*** BF monthly :🎧:
+**** series 1 (1-6) :P2015:scripted:
 
 List of Torchwood Big Finish audio transcripts
 https://pax-ltd.livejournal.com/9681.html
 
-**** DONE [#B] 1. The Conspiracy :Jack:The_Commitee:
-     CLOSED: [2020-11-02 Mon 10:34]
-     :PROPERTIES:
-     :rating:   8.1
-     :END:
+***** DONE [#B] 1. The Conspiracy :Jack:The_Commitee:
+      CLOSED: [2020-11-02 Mon 10:34]
+      :PROPERTIES:
+      :rating:   8.1
+      :END:
 
-**** DONE [#A] 2. Fall to Earth :Ianto:
-     CLOSED: [2020-10-20 Tue 08:20]
-     :PROPERTIES:
-     :rating:   8.8
-     :END:
+***** DONE [#A] 2. Fall to Earth :Ianto:
+      CLOSED: [2020-10-20 Tue 08:20]
+      :PROPERTIES:
+      :rating:   8.8
+      :END:
 
-**** DONE [#B] 3. Forgotten Lives :Jack:The_Commitee:
-     CLOSED: <2020-11-17 Tue 10:34>
-     :PROPERTIES:
-     :rating:   8.0
-     :END:
+***** DONE [#B] 3. Forgotten Lives :Jack:The_Commitee:
+      CLOSED: <2020-11-17 Tue 10:34>
+      :PROPERTIES:
+      :rating:   8.0
+      :END:
 
-**** TODO [#B] TW4. One Rule :Yvonne:D2021_09_extra:overdue:
-     SCHEDULED: <2021-11-05 Fri>
-     :PROPERTIES:
-     :rating:   8.1
-     :END:
+***** TODO [#B] TW4. One Rule :Yvonne:D2021_09_extra:overdue:
+      SCHEDULED: <2021-11-05 Fri>
+      :PROPERTIES:
+      :rating:   8.1
+      :END:
 
 Yvonne Hartman
 
-**** DONE [#B] 5 Uncanny Valley :Jack:The_Commitee:
-     CLOSED: [2020-10-21 Wed 18:52]
-     :PROPERTIES:
-     :rating:   8.2
-     :END:
+***** DONE [#B] 5 Uncanny Valley :Jack:The_Commitee:
+      CLOSED: [2020-10-21 Wed 18:52]
+      :PROPERTIES:
+      :rating:   8.2
+      :END:
 
-**** DONE [#C] 6 More Than This :Gwen:
-     CLOSED: [2021-04-24 Sat 10:12]
-     :PROPERTIES:
-     :rating:   7.8
-     :END:
+***** DONE [#C] 6 More Than This :Gwen:
+      CLOSED: [2021-04-24 Sat 10:12]
+      :PROPERTIES:
+      :rating:   7.8
+      :END:
 
 half scripted https://www.pillowfort.io/posts/116528
 
@@ -50,134 +52,134 @@ Gwen Cooper has triumphed against impossible odds before, but now she's finally
 
 Mr Pugh doesn't believe the world needs Torchwood. Gwen sets out to prove him wrong. For Mr Pugh, it's a day that'll change his life. If he can survive it.
 
-*** series 2 (07-12) :P2016:
-**** DONE [#D] 7 Victoria Age :Jack:
-     CLOSED: [2020-10-23 Fri 22:00]
-     :PROPERTIES:
-     :rating:   7.4
-     :END:
+**** series 2 (07-12) :P2016:
+***** DONE [#D] 7 Victoria Age :Jack:
+      CLOSED: [2020-10-23 Fri 22:00]
+      :PROPERTIES:
+      :rating:   7.4
+      :END:
 
-**** 2DONE [#B] 8 Zone 10 :Tosh:
-     CLOSED: [2020-11-19 Thu 18:32]
-     :PROPERTIES:
-     :rating:   8.4
-     :END:
+***** 2DONE [#B] 8 Zone 10 :Tosh:
+      CLOSED: [2020-11-19 Thu 18:32]
+      :PROPERTIES:
+      :rating:   8.4
+      :END:
 
-**** DONE [#B] TW09 Ghost Mission :Andy:Norton:The_Commitee:D2021_08_extra:plot_no:
-     CLOSED: [2021-08-08 Sun 10:52]
-     :PROPERTIES:
-     :rating:   8.3
-     :END:
+***** DONE [#B] TW09 Ghost Mission :Andy:Norton:The_Commitee:D2021_08_extra:plot_no:
+      CLOSED: [2021-08-08 Sun 10:52]
+      :PROPERTIES:
+      :rating:   8.3
+      :END:
 
-**** 2DONE [#A] 10 Moving Target :Suzie:
-     CLOSED: [2020-11-19 Thu 18:32]
-     :PROPERTIES:
-     :rating:   8.9
-     :END:
+***** 2DONE [#A] 10 Moving Target :Suzie:
+      CLOSED: [2020-11-19 Thu 18:32]
+      :PROPERTIES:
+      :rating:   8.9
+      :END:
 
-**** TODO [#A] 11 Broken [#S] :Jack:Ianto:scripted:
-     :PROPERTIES:
-     :rating:   9.2
-     :END:
+***** TODO [#A] 11 Broken [#S] :Jack:Ianto:scripted:
+      :PROPERTIES:
+      :rating:   9.2
+      :END:
 
 B站有字幕 https://b23.tv/AvT0wB
 https://b23.tv/Lv2q44
 
-**** 2DONE [#A] 12. Made You Look :Gwen:
-     CLOSED: [2021-04-27 Tue 08:33]
-     :PROPERTIES:
-     :rating:   8.8
-     :END:
+***** 2DONE [#A] 12. Made You Look :Gwen:
+      CLOSED: [2021-04-27 Tue 08:33]
+      :PROPERTIES:
+      :rating:   8.8
+      :END:
 
-*** series 3 (13-18) :P2017:
-**** CANCEL [#E] +13. Visiting Hours+ :Rhys:
-     :PROPERTIES:
-     :rating:   6.4
-     :END:
+**** series 3 (13-18) :P2017:
+***** CANCEL [#E] +13. Visiting Hours+ :Rhys:
+      :PROPERTIES:
+      :rating:   6.4
+      :END:
 
-**** CANCEL [#E] +14. The Dollhouse+
-     :PROPERTIES:
-     :rating:   6.3
-     :END:
+***** CANCEL [#E] +14. The Dollhouse+
+      :PROPERTIES:
+      :rating:   6.3
+      :END:
 
-**** START [#B] 15. Corpse Day :Andy:Owen:The_Commitee:
-     :PROPERTIES:
-     :rating:   8.1
-     :END:
+***** START [#B] 15. Corpse Day :Andy:Owen:The_Commitee:
+      :PROPERTIES:
+      :rating:   8.1
+      :END:
 
-**** 2DONE [#A] 16. torchwood_cascade_CDRIP.tor :Tosh:
-     CLOSED: [2020-11-20 Fri 08:40]
-     :PROPERTIES:
-     :rating:   8.6
-     :END:
+***** 2DONE [#A] 16. torchwood_cascade_CDRIP.tor :Tosh:
+      CLOSED: [2020-11-20 Fri 08:40]
+      :PROPERTIES:
+      :rating:   8.6
+      :END:
 
-**** [#D] 17. The Office of Never Was :Ianto:
-     :PROPERTIES:
-     :rating:   7.3
-     :END:
+***** [#D] 17. The Office of Never Was :Ianto:
+      :PROPERTIES:
+      :rating:   7.3
+      :END:
 
-**** [#D] 18. The Dying Room
-     :PROPERTIES:
-     :rating:   7.1
-     :END:
+***** [#D] 18. The Dying Room
+      :PROPERTIES:
+      :rating:   7.1
+      :END:
 
-*** series 4 (19-24) :P2018:
-**** DONE [#C] 19. The Death of Captain Jack :John:
-     CLOSED: <2018-08-25 Sat 21:00>
-     :PROPERTIES:
-     :rating:   7.9
-     :END:
+**** series 4 (19-24) :P2018:
+***** DONE [#C] 19. The Death of Captain Jack :John:
+      CLOSED: <2018-08-25 Sat 21:00>
+      :PROPERTIES:
+      :rating:   7.9
+      :END:
 
-**** 2DONE [#B] TW20. The Last Beacon :Owen:Ianto:scripted:D2021_07_extra:
-     CLOSED: [2021-07-15 Thu 20:04]
-     :PROPERTIES:
-     :r:        8.3
-     :END:
+***** 2DONE [#B] TW20. The Last Beacon :Owen:Ianto:scripted:D2021_07_extra:
+      CLOSED: [2021-07-15 Thu 20:04]
+      :PROPERTIES:
+      :r:        8.3
+      :END:
 
 half scripted https://www.pillowfort.social/posts/563376
 
-**** [#A] 21. We Always Get Out Alive [#S] :Gwen:Rhys:
-     :PROPERTIES:
-     :rating:   9.2
-     :END:
+***** [#A] 21. We Always Get Out Alive [#S] :Gwen:Rhys:
+      :PROPERTIES:
+      :rating:   9.2
+      :END:
 
-**** [#A] TW22. Goodbye Piccadilly :Andy:Norton:plot_yes:
-     :PROPERTIES:
-     :rating:   8.6
-     :END:
+***** [#A] TW22. Goodbye Piccadilly :Andy:Norton:plot_yes:
+      :PROPERTIES:
+      :rating:   8.6
+      :END:
 
 Sgt Andy Davidson wakes up in the 1950s. He's chained to a bed, his clothes are missing and the building's on fire. Norton Folgate needs his help.
 
 The streets of Soho are swarming with gangsters, rumours and betrayals. Somewhere out there is a mysterious alien artefact, and Andy and Norton have to get to it first. Because tonight they're going to save Torchwood.
 
-**** HALF [#C] 23. Instant Karma :Tosh:
-     :PROPERTIES:
-     :rating:   7.7
-     :END:
+***** HALF [#C] 23. Instant Karma :Tosh:
+      :PROPERTIES:
+      :rating:   7.7
+      :END:
 
-**** 2DONE [#A] 24. Deadbeat Escape [#S] :Bilis:
-     CLOSED: [2020-11-19 Thu 18:34]
-     :PROPERTIES:
-     :rating:   9.6
-     :END:
+***** 2DONE [#A] 24. Deadbeat Escape [#S] :Bilis:
+      CLOSED: [2020-11-19 Thu 18:34]
+      :PROPERTIES:
+      :rating:   9.6
+      :END:
 
-*** series 5 :P2019:
-**** CANCEL [#E] +25 Night of the Fendahl+
-     :PROPERTIES:
-     :rating:   6.8
-     :END:
+**** series 5 :P2019:
+***** CANCEL [#E] +25 Night of the Fendahl+
+      :PROPERTIES:
+      :rating:   6.8
+      :END:
 
-**** DONE [#C] 26 The Green Life :Jack:Jo:
-     CLOSED: <2020-07-05 Sun 09:49>
-     :PROPERTIES:
-     :rating:   7.9
-     :END:
+***** DONE [#C] 26 The Green Life :Jack:Jo:
+      CLOSED: <2020-07-05 Sun 09:49>
+      :PROPERTIES:
+      :rating:   7.9
+      :END:
 
-**** 2DONE [#B] 27 Sync :Suzie:
-     CLOSED: [2020-11-20 Fri 07:55]
-     :PROPERTIES:
-     :rating:   8.4
-     :END:
+***** 2DONE [#B] 27 Sync :Suzie:
+      CLOSED: [2020-11-20 Fri 07:55]
+      :PROPERTIES:
+      :rating:   8.4
+      :END:
 
 Torchwood vs Monsters!
 
@@ -187,21 +189,21 @@ Suzie Costello works for Torchwood, but strictly to her own agenda. When a spac
 
 Bonded by an alien device, Margaret and Suzie find themselves on the run from Torchwood, the police, and six warp missiles that'll destroy them, Cardiff, and most of the Western Hemisphere.
 
-**** CANCEL [#E] +28 Sargasso+
-     :PROPERTIES:
-     :rating:   6.3
-     :END:
+***** CANCEL [#E] +28 Sargasso+
+      :PROPERTIES:
+      :rating:   6.3
+      :END:
 
-**** [#C] 29 Serenity :Jack:Ianto:
-     :PROPERTIES:
-     :rating:   7.6
-     :END:
+***** [#C] 29 Serenity :Jack:Ianto:
+      :PROPERTIES:
+      :rating:   7.6
+      :END:
 
-**** 2DONE [#A] 30 The Hope [#S] :Owen:Andy:
-     CLOSED: [2021-05-08 Sat 08:04]
-     :PROPERTIES:
-     :rating:   9.5
-     :END:
+***** 2DONE [#A] 30 The Hope [#S] :Owen:Andy:
+      CLOSED: [2021-05-08 Sat 08:04]
+      :PROPERTIES:
+      :rating:   9.5
+      :END:
 
 Megwyn Jones is one of the most hated women in Britain. She used to run a home for troubled children in an isolated part of Snowdonia called The Hope. For a long time there were rumours about what was happening there, and then one day it was realised that the children had gone missing.
 
@@ -209,101 +211,101 @@ Ever since, Megwyn's kept her peace. Is she innocent? Is she guilty? Where are t
 
 The years have been long and hard on Megwyn and on the families of the children. But now Megwyn's dying, and she's agreed to go back to The Hope, to reveal the horrible secret she's kept all these years.
 
-**** 2DONE [#E] +31 The Vigil+ :Tosh:
-     CLOSED: [2020-11-20 Fri 07:52]
-     :PROPERTIES:
-     :rating:   6.6
-     :END:
+***** 2DONE [#E] +31 The Vigil+ :Tosh:
+      CLOSED: [2020-11-20 Fri 07:52]
+      :PROPERTIES:
+      :rating:   6.6
+      :END:
 
 Sebastian Vaughan is the brightest, newest recruit to Torchwood. He's come from a very good family, an excellent school, and with a degree from the finest College. He's the kind of person bred for Torchwood...
 
-**** CANCEL [#E] +32 Smashed+ :Gwen:
-     :PROPERTIES:
-     :rating:   6.8
-     :END:
+***** CANCEL [#E] +32 Smashed+ :Gwen:
+      :PROPERTIES:
+      :rating:   6.8
+      :END:
 
-**** 2DONE [#A] 33 Dead Man's Switch :Bilis:
-     CLOSED: [2021-04-08 Thu 19:31]
-     :PROPERTIES:
-     :rating:   8.6
-     :END:
+***** 2DONE [#A] 33 Dead Man's Switch :Bilis:
+      CLOSED: [2021-04-08 Thu 19:31]
+      :PROPERTIES:
+      :rating:   8.6
+      :END:
 
 第三个被掳的人，后来得救的那个Zoe Blake，她口音比较重，难以听懂
 
-**** CANCEL [#F] +34 Expectant+ :Jack:Ianto:
-     :PROPERTIES:
-     :rating:   5.8
-     :END:
+***** CANCEL [#F] +34 Expectant+ :Jack:Ianto:
+      :PROPERTIES:
+      :rating:   5.8
+      :END:
 
-**** HALF [#C] 35 Fortitude :Queen:plot_yes:D2021_12_extra:week4:
-     SCHEDULED: <2021-12-26 Sun>
-     :PROPERTIES:
-     :rating:   7.5
-     :END:
+***** HALF [#C] 35 Fortitude :Queen:plot_yes:D2021_12_extra:week4:
+      SCHEDULED: <2021-12-26 Sun>
+      :PROPERTIES:
+      :rating:   7.5
+      :END:
 
-**** 2DONE [#A] 36 Dissected :Gwen:Martha:plot_yes:D2021_06:
-     CLOSED: [2021-06-17 Thu 23:10]
-     :PROPERTIES:
-     :rating:   8.9
-     :END:
+***** 2DONE [#A] 36 Dissected :Gwen:Martha:plot_yes:D2021_06:
+      CLOSED: [2021-06-17 Thu 23:10]
+      :PROPERTIES:
+      :rating:   8.9
+      :END:
 
-*** series 6 :2020:
-**** 2DONE [#A] 37 Tropical Beach Sounds and Other Relaxing Seascapes #4 [#S]
-     :PROPERTIES:
-     :rating:   9.3
-     :END:
+**** series 6 :P2020:
+***** 2DONE [#A] 37 Tropical Beach Sounds and Other Relaxing Seascapes #4 [#S]
+      :PROPERTIES:
+      :rating:   9.3
+      :END:
 
-**** DONE [#A] 38 Iceberg :Owen:plot_yes:
-     CLOSED: [2021-04-24 Sat 15:37]
-     :PROPERTIES:
-     :rating:   8.9
-     :END:
+***** DONE [#A] 38 Iceberg :Owen:plot_yes:
+      CLOSED: [2021-04-24 Sat 15:37]
+      :PROPERTIES:
+      :rating:   8.9
+      :END:
 
-**** HALF [#C] 39 Dinner and a Show :Tosh:Ianto:plot_yes:
-     :PROPERTIES:
-     :rating:   7.8
-     :END:
+***** HALF [#C] 39 Dinner and a Show :Tosh:Ianto:plot_yes:
+      :PROPERTIES:
+      :rating:   7.8
+      :END:
 
-**** DONE [#A] 40 Save Our Souls :Queen:
-     CLOSED: <2020-08-22 Sat 10:01>
-     :PROPERTIES:
-     :rating:   9.1
-     :END:
+***** DONE [#A] 40 Save Our Souls :Queen:
+      CLOSED: <2020-08-22 Sat 10:01>
+      :PROPERTIES:
+      :rating:   9.1
+      :END:
 
-**** [#B] 41 Red Base :Andy:
-     :PROPERTIES:
-     :rating:   8.1
-     :END:
+***** [#B] 41 Red Base :Andy:
+      :PROPERTIES:
+      :rating:   8.1
+      :END:
 
-**** [#C] 42 Ex Machina :Ianto:
-     :PROPERTIES:
-     :rating:   7.9
-     :END:
+***** [#C] 42 Ex Machina :Ianto:
+      :PROPERTIES:
+      :rating:   7.9
+      :END:
 
-**** [#A] 43. The Three Monkeys :Owen:Andy:
-     SCHEDULED: <2021-12-08 Wed>
-     :PROPERTIES:
-     :rating:   8.8
-     :END:
+***** [#A] 43. The Three Monkeys :Owen:Andy:
+      SCHEDULED: <2021-12-08 Wed>
+      :PROPERTIES:
+      :rating:   8.8
+      :END:
 
 Andy Davidson's been ordered to watch over a local businessman. Everything's always gone right for him, and Andy's long wondered why.
 
 Owen joins him on the stakeout. He knows something – the businessman's attracted Torchwood's attention, and tonight, the two of them are going to take him down. But will luck be on their side?
 
-**** [#A] 44. Rhys and Ianto's Excellent Barbeque [#S] :Rhys:Ianto:
-     :PROPERTIES:
-     :rating:   9.4
-     :END:
+***** [#A] 44. Rhys and Ianto's Excellent Barbeque [#S] :Rhys:Ianto:
+      :PROPERTIES:
+      :rating:   9.4
+      :END:
 
 Rhys is planning a lads' night in. Barbie in the back yard, few tins, mates and bants. But the only person who turns up is Ianto – who hasn't been invited. Hell is other people, especially when they've brought board games.
 
 Something goes wrong. The two of them could be trapped together for eternity at a barbecue where the sausages never cook, and worse, the brewskis remain forever out of reach.
 
-**** 2DONE [#B] 45. The Crown :Queen:
-     CLOSED: [2021-05-08 Sat 22:59]
-     :PROPERTIES:
-     :rating:   8.4
-     :END:
+***** 2DONE [#B] 45. The Crown :Queen:
+      CLOSED: [2021-05-08 Sat 22:59]
+      :PROPERTIES:
+      :rating:   8.4
+      :END:
 
 The Ferryman stands in shadow and waits.
 
@@ -315,228 +317,232 @@ All who behold the crown and disobey.
 
 Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. A patient who claims to be haunted by a terrible curse. A patient who claims to be Queen Victoria.
 
-**** HALF [#A] 46. Coffee :Ianto:D2021_07_extra:
+***** HALF [#A] 46. Coffee :Ianto:D2021_07_extra:
+      :PROPERTIES:
+      :rating:   8.9
+      :END:
+
+***** [#D] 47. Drive :Tosh:
+      :PROPERTIES:
+      :rating:   7.2
+      :END:
+
+***** [#A] 48. Lease of Life :Owen:
+      :PROPERTIES:
+      :rating:   8.4
+      :END:
+
+**** series 7
+***** [#A] 49. Gooseberry :Owen:Andy:
+      :PROPERTIES:
+      :rating:   8.7
+      :END:
+
+***** BLOCK Absent Friends (missing)
+***** BLOCK 50X. The Black Knight
+***** [#B] 51. The Five People You Kill in Middlebrough :Yvonne:
+      :PROPERTIES:
+      :rating:   8.3
+      :END:
+
+***** [#A] 52. Madam I'm :Norton:Adam:
+      :PROPERTIES:
+      :rating:   8.8
+      :END:
+
+***** [#D] 53. Empire of Shadows :Zach:
+      :PROPERTIES:
+      :rating:   7.1
+      :END:
+
+***** [#A] 54. Curios :Bilis:
+      :PROPERTIES:
+      :rating:   8.9
+      :END:
+
+***** HALF [#B] 55. The Great Sontaran War :Ianto:Sontarans:D2021_11_extra:
+      DEADLINE: <2021-11-25 Thu 12:50> SCHEDULED: <2021-11-27 Sat>
+      :PROPERTIES:
+      :rating:   8.4
+      :END:
+
+***** 56. The Red List :Ace:
+***** 57. The Grey Mare :Ianto:
+***** 58. Cadoc Point
+***** 59. Sonny
+***** BLOCK 60. Infidel Places
+*** specials
+**** 2DONE [#B] special 1: The Torchwood Archive :P2016:The_Commitee:plot_yes:
+     CLOSED: [2020-11-19 Thu 18:33]
      :PROPERTIES:
-     :rating:   8.9
+     :rating:   8.3
      :END:
 
-**** [#D] 47. Drive :Tosh:
+**** START [#B] special 2: Outbreak :P2016:plot_yes:
      :PROPERTIES:
-     :rating:   7.2
+     :rating:   8.3
      :END:
 
-**** [#A] 48. Lease of Life :Owen:
-     :PROPERTIES:
-     :rating:   8.4
-     :END:
-
-*** series 7
-**** [#A] 49. Gooseberry :Owen:Andy:
+**** START [#A] special 3: Believe :P2018:
      :PROPERTIES:
      :rating:   8.7
      :END:
 
-**** BLOCK Absent Friends (missing)
-**** [#B] 51. The Five People You Kill in Middlebrough :Yvonne:
-     :PROPERTIES:
-     :rating:   8.3
-     :END:
+The Church of the Outsiders believe that mankind is about to evolve, to reach out into the stars. Owen Harper believes that Torchwood has to do whatever it takes to stop them
 
-**** [#A] 52. Madam I'm :Norton:Adam:
-     :PROPERTIES:
-     :rating:   8.8
-     :END:
+**** Torchwood One: Before the Fall :P2017:
+**** Torchwood One: Machines :P2018:
+**** Torchwood One: Latter Days :P2019:
+**** The Sins of Captain John :P2020:
+**** Torchwood Soho: Parasite :P2020:
+**** Torchwood Soho: Ashenden :P2021:
+*** tv continuation :🎧:
+**** Aliens Among Us
+***** 2DONE [#B] 5.01 Changes Everything
+      CLOSED: [2021-01-31 Sun 18:37]
+      :PROPERTIES:
+      :rating:   8.0
+      :END:
 
-**** [#D] 53. Empire of Shadows :Zach:
-     :PROPERTIES:
-     :rating:   7.1
-     :END:
+***** 2DONE [#C] 5.02 Aliens & Sex & Chips & Gravy
+      CLOSED: [2021-01-31 Sun 18:37]
+      :PROPERTIES:
+      :rating:   7.6
+      :END:
 
-**** [#A] 54. Curios :Bilis:
-     :PROPERTIES:
-     :rating:   8.9
-     :END:
+***** 2DONE [#A] 5.03 Orr
+      CLOSED: [2021-01-31 Sun 18:37]
+      :PROPERTIES:
+      :rating:   8.8
+      :END:
 
-**** HALF [#B] 55. The Great Sontaran War :Ianto:Sontarans:D2021_11_extra:
-     DEADLINE: <2021-11-25 Thu 12:50> SCHEDULED: <2021-11-27 Sat>
-     :PROPERTIES:
-     :rating:   8.4
-     :END:
+***** 2DONE [#B] 5.04 Superiority Complex
+      CLOSED: [2021-01-31 Sun 18:37]
+      :PROPERTIES:
+      :rating:   8.1
+      :END:
 
-**** 56. The Red List :Ace:
-**** 57. The Grey Mare :Ianto:
-** BBC audio dramas :🎧:scripted:
-*** [#D] 1. Lost Souls :Martha:
-*** [#B] 2. Asylum
-*** DONE [#B] 3. Golden Age
+***** START [#D] 5.5 Love Rat
+***** HALF [#A] 5.6 A Kill to a View :plot_yes:Bilis:
+      :PROPERTIES:
+      :rating:   8.6
+      :END:
+
+***** 2DONE [#B] 5.7 Zero Hour
+      CLOSED: [2021-05-07 Fri 16:50]
+      :PROPERTIES:
+      :rating:   8.2
+      :END:
+
+***** 3QTR [#B] TW5.8 The Empty Hand :D2021_08_extra:Andy:
+      :PROPERTIES:
+      :rating:   8.3
+      :END:
+
+***** HALF [#A] TW5.9 Poker Face :Yvonne:D2021_09_extra:plot_yes:
+      SCHEDULED: <2021-09-24 Fri>
+      :PROPERTIES:
+      :rating:   9.1
+      :END:
+
+***** 3QTR TW5.10 Tagged :D2021_10_extra:plot_yes:
+      CLOSED: [2021-11-03 Wed 08:54] SCHEDULED: <2021-11-03 Wed>
+
+***** START [#D] +TW5.11 Escape Room+ :D2021_11_extra:
+      SCHEDULED: <2021-11-27 Sat>
+      :PROPERTIES:
+      :rating:   7.3
+      :END:
+
+***** HALF [#C] 5.12 - Herald of the Dawn :D2021_12_extra:week3:plot_yes:
+      SCHEDULED: <2021-12-25 Sat>
+      :PROPERTIES:
+      :rating:   7.6
+      :END:
+
+**** Gods Among Us
+***** [#A] TW6.1 - Future Pain :D2022_03_spinoffs:
+      :PROPERTIES:
+      :ratinh:   9.0
+      :END:
+
+***** TW6.2 The Man Who Destroyed Torchwood :D2022_03_spinoffs:
+***** 6.3 See No Evil
+***** 6.4 Night Watch
+*** BBC audio dramas :🎧:scripted:
+**** [#D] 1. Lost Souls :Martha:
+**** [#B] 2. Asylum
+**** DONE [#B] 3. Golden Age
 
 Torchwood India
 
-*** [#C] 4. The Dead Line :bilibili:
+**** [#C] 4. The Dead Line :bilibili:
 
 【John Barrowman字幕组-火炬木广播剧中字-无人来电-哔哩哔哩】 https://b23.tv/Cxi034N
 
-*** [#C] The Devil and Miss Carew
-*** CANCEL [#E] Submission
-*** [#B] The House of the Dead :bilibili:
+**** [#C] The Devil and Miss Carew
+**** CANCEL [#E] Submission
+**** [#B] The House of the Dead :bilibili:
 
 【John Barrowman 字幕组-火炬木广播剧中字-亡者之屋-哔哩哔哩】 https://b23.tv/uQcs9jt
 
-** specials
-*** 2DONE [#B] special 1: The Torchwood Archive :P2016:The_Commitee:plot_yes:
-    CLOSED: [2020-11-19 Thu 18:33]
-    :PROPERTIES:
-    :rating:   8.3
-    :END:
+*** The Lives of Captain Jack :🎧:Jack:
+**** vol.1 :P2017:
+***** START [#D] The Year After I Died
+      :PROPERTIES:
+      :rating:   7.2
+      :END:
 
-*** START [#B] special 2: Outbreak :P2016:plot_yes:
-    :PROPERTIES:
-    :rating:   8.3
-    :END:
+***** [#C] Wednesdays For Beginners
+      :PROPERTIES:
+      :rating:   7.6
+      :END:
 
-*** START [#A] special 3: Believe :P2018:
-    :PROPERTIES:
-    :rating:   8.7
-    :END:
+***** [#D] One Enchanted Evening
+      :PROPERTIES:
+      :rating:   7.4
+      :END:
 
-The Church of the Outsiders believe that mankind is about to evolve, to reach out into the stars. Owen Harper believes that Torchwood has to do whatever it takes to stop them
+***** DONE [#C] Month 25
+      CLOSED: <2018-08-19 Sun 21:58>
+      :PROPERTIES:
+      :rating:   7.7
+      :END:
 
-*** Torchwood One: Before the Fall :P2017:
-*** Torchwood One: Machines :P2018:
-*** Torchwood One: Latter Days :P2019:
-*** The Sins of Captain John :P2020:
-*** Torchwood Soho: Parasite :P2020:
-*** Torchwood Soho: Ashenden :P2021:
-** tv continuation :🎧:
-*** Aliens Among Us
-**** 2DONE [#B] 5.01 Changes Everything
-     CLOSED: [2021-01-31 Sun 18:37]
-     :PROPERTIES:
-     :rating:   8.0
-     :END:
+**** vol.2 :P2019:
+***** [#C] Piece of Mind :6th_Dr:
+      :PROPERTIES:
+      :rating:   7.8
+      :END:
 
-**** 2DONE [#C] 5.02 Aliens & Sex & Chips & Gravy
-     CLOSED: [2021-01-31 Sun 18:37]
-     :PROPERTIES:
-     :rating:   7.6
-     :END:
+***** [#D] What Have I Done?
+      :PROPERTIES:
+      :rating:   7.2
+      :END:
 
-**** 2DONE [#A] 5.03 Orr
-     CLOSED: [2021-01-31 Sun 18:37]
-     :PROPERTIES:
-     :rating:   8.8
-     :END:
+***** CANCEL [#E] Driving Miss Wells
+      CLOSED: [2021-04-23 Fri 23:05]
+      :PROPERTIES:
+      :rating:   6.3
+      :END:
 
-**** 2DONE [#B] 5.04 Superiority Complex
-     CLOSED: [2021-01-31 Sun 18:37]
-     :PROPERTIES:
-     :rating:   8.1
-     :END:
+**** vol.3
+***** HALF [#B] Crush :D2021_07_extra:Jackie:
+      :PROPERTIES:
+      :rating:   8.2
+      :END:
 
-**** START [#D] 5.5 Love Rat
-**** HALF [#A] 5.6 A Kill to a View :plot_yes:Bilis:
-     :PROPERTIES:
-     :rating:   8.6
-     :END:
+***** DONE [#B] JACK3.2 Mighty and Despair :D2021_08_extra:plot_no:
+      CLOSED: [2021-08-27 Fri 08:54]
+      :PROPERTIES:
+      :rating:   8.0
+      :END:
 
-**** 2DONE [#B] 5.7 Zero Hour
-     CLOSED: [2021-05-07 Fri 16:50]
-     :PROPERTIES:
-     :rating:   8.2
-     :END:
-
-**** 3QTR [#B] TW5.8 The Empty Hand :D2021_08_extra:Andy:
-     :PROPERTIES:
-     :rating:   8.3
-     :END:
-
-**** HALF [#A] TW5.9 Poker Face :Yvonne:D2021_09_extra:plot_yes:
-     SCHEDULED: <2021-09-24 Fri>
-     :PROPERTIES:
-     :rating:   9.1
-     :END:
-
-**** 3QTR TW5.10 Tagged :D2021_10_extra:plot_yes:
-     CLOSED: [2021-11-03 Wed 08:54] SCHEDULED: <2021-11-03 Wed>
-
-**** START [#D] +TW5.11 Escape Room+ :D2021_11_extra:
-     SCHEDULED: <2021-11-27 Sat>
-     :PROPERTIES:
-     :rating:   7.3
-     :END:
-
-**** HALF [#C] 5.12 - Herald of the Dawn :D2021_12_extra:week3:plot_yes:
-     SCHEDULED: <2021-12-25 Sat>
-     :PROPERTIES:
-     :rating:   7.6
-     :END:
-
-*** Gods Among Us
-**** [#A] 6.1 - Future Pain
-     :PROPERTIES:
-     :ratinh:   9.0
-     :END:
-
-**** 6.2 The Man Who Destroyed Torchwood
-**** 6.3 See No Evil
-**** 6.4 Night Watch
-** The Lives of Captain Jack :🎧:Jack:
-*** vol.1 :P2017:
-**** START [#D] The Year After I Died
-     :PROPERTIES:
-     :rating:   7.2
-     :END:
-
-**** [#C] Wednesdays For Beginners
-     :PROPERTIES:
-     :rating:   7.6
-     :END:
-
-**** [#D] One Enchanted Evening
-     :PROPERTIES:
-     :rating:   7.4
-     :END:
-
-**** DONE [#C] Month 25
-     CLOSED: <2018-08-19 Sun 21:58>
-     :PROPERTIES:
-     :rating:   7.7
-     :END:
-
-*** vol.2 :P2019:
-**** [#C] Piece of Mind :6th_Dr:
-     :PROPERTIES:
-     :rating:   7.8
-     :END:
-
-**** [#D] What Have I Done?
-     :PROPERTIES:
-     :rating:   7.2
-     :END:
-
-**** CANCEL [#E] Driving Miss Wells
-     CLOSED: [2021-04-23 Fri 23:05]
-     :PROPERTIES:
-     :rating:   6.3
-     :END:
-
-*** vol.3
-**** HALF [#B] Crush :D2021_07_extra:Jackie:
-     :PROPERTIES:
-     :rating:   8.2
-     :END:
-
-**** DONE [#B] JACK3.2 Mighty and Despair :D2021_08_extra:plot_no:
-     CLOSED: [2021-08-27 Fri 08:54]
-     :PROPERTIES:
-     :rating:   8.0
-     :END:
-
-**** DONE R&J :River:bilibili:
-     CLOSED: <2020-09-21 Mon 20:30>
-     :PROPERTIES:
-     :rating:   9.5
-     :END:
+***** DONE R&J :River:bilibili:
+      CLOSED: <2020-09-21 Mon 20:30>
+      :PROPERTIES:
+      :rating:   9.5
+      :END:
 
 【【神秘博士/火炬木广播剧翻译】R&J（博士、上校和宋江的超时空三角恋情！）-哔哩哔哩】https://b23.tv/IZfO0B
 
@@ -692,6 +698,8 @@ Roberts Master
 **** 3QTR 9.2 Terror of the Suburbs :D2022_01_spinoffs:
      CLOSED: <2022-01-24 Mon 21:44> SCHEDULED: <2022-01-26 Wed>
 
+**** DoRS9.3. Never Alone :D2022_03_spinoffs:
+***** DoRS9.4. Rivers of Light :Liz:3rd_Dr:D2022_03_spinoffs:
 *** misc
 **** DONE R&J (The Lives of Captain Jack #3.3) :Jack:
      CLOSED: <2020-09-14 Mon 21:12>
@@ -743,10 +751,10 @@ Roberts Master
     :END:
 
 ** J&L series 6 :P2013:
-*** HALF [#C] 6.1 - The Skeleton Quay (7.8) :D2022_03_spinoffs:
+*** HALF [#C] J&L6.1 - The Skeleton Quay (7.8) :D2022_03_spinoffs:
     SCHEDULED: <2022-03-13 Sun>
 
-*** [#D] 6.2 - Return of the Repressed         (7.1) :D2022_03_spinoffs:
+*** [#D] J&L6.2 - Return of the Repressed         (7.1) :D2022_03_spinoffs:
     SCHEDULED: <2022-03-15 Tue>
 
 *** [#D] 6.3 - Military Intelligence           (7.4)
@@ -837,13 +845,13 @@ Roberts Master
     :rating:   8.4
     :END:
 
-*** [#C] 2.4 - Insurgency :D2022_02_spinoffs:
+*** START [#C] 2.4 - Insurgency :D2022_02_spinoffs:
     SCHEDULED: <2022-02-28 Mon>
     :PROPERTIES:
     :rating:   7.6
     :END:
 
-*** [#B] 2.5 - Imperiatrix
+*** [#B] GFY2.5 - Imperiatrix :D2022_03_spinoffs:
     :PROPERTIES:
     :rating:   8.4
     :END:
@@ -900,7 +908,7 @@ Roberts Master
 **** 6.2 The Kingdom of the Blind
 **** 6.3 The Lost Museum
 **** 6.4 The Goddes Quandary
-**** 6.5 The Crystal of Cantus :Cybermen:
+**** BS6.5 The Crystal of Cantus :Cybermen:D2022_03_spinoffs:
 *** Series 7
 *** Series 8
 *** Series 9
@@ -983,7 +991,7 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
      :rating:   7.5
      :END:
 
-**** [#A] 4.2 - Asking For A Friend :D2022_02_spinoffs:
+**** HALF [#A] 4.2 - Asking For A Friend :D2022_02_spinoffs:
      SCHEDULED: <2022-02-28 Mon>
      :PROPERTIES:
      :rating:   9.2
@@ -1345,7 +1353,7 @@ DWM 175-178
 
 https://tardis.fandom.com/wiki/Conversion_(Cyberman_audio_story)
 
-***** START [#D] 1.4 - Telos :D2022_02_spinoffs:
+***** HALF [#D] 1.4 - Telos :D2022_02_spinoffs:
       SCHEDULED: <2022-02-28 Mon>
       :PROPERTIES:
       :rating:   7.4
@@ -1392,7 +1400,7 @@ https://tardis.fandom.com/wiki/Conversion_(Cyberman_audio_story)
      :rating:   7.1
      :END:
 
-**** DOING [#C] 3DA 4.2 The Tyrants of Logic :3rd_Dr:
+**** START [#C] 3DA 4.2 The Tyrants of Logic :3rd_Dr:
      :PROPERTIES:
      :rating:   7.5
      :END:
@@ -1563,6 +1571,10 @@ rating 8.7/8.3
 **** 5	Ozymandias :P2009:
 **** 6	The Judgment of Sutekh :P2009:
 * Kaldor City / The Robots
+** Kaldor City
+*** 1. Occam's Razor
+*** 2. Death's Head
+*** 3. Hidden Persuaders
 ** The Robots (Big Finish, 2019-)
 *** [#D] 1.1 - The Robots of Life       (7.4)
 *** [#B] 1.2 - The Sentient             (8.2)

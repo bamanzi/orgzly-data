@@ -104,7 +104,7 @@ CLOSED: [2021-07-27 Tue 23:10]
 :END:
 
 **** [#C] 3.1 The Phoenicians (7.5) :Susan:Ian:Barbara:plot_no:P2019:
-**** READY [#A] 3.2 Tick-Tock World :Susan:Ian:Barbara:P2019:plot_yes:D2022_03_doctor:
+**** READY [#A] 1DA3.2 Tick-Tock World :Susan:Ian:Barbara:P2019:plot_yes:D2022_03_doctor:
 :PROPERTIES:
 :rating:   8.5
 :END:
@@ -388,7 +388,7 @@ UNIT 和 准将第一次正式出场
 
 目前仅做了英文字幕
 
-**** TODO Devious
+**** Devious
 
 (声明：本人未参与下述字幕/熟肉的制作，在此放置链接仅为方便对故事感兴趣的粉丝）
 
@@ -753,7 +753,7 @@ Confronted with memories she knows nothing about, Jo agrees to a meeting with Ir
 
 https://tardis.fandom.com/wiki/Find_and_Replace_(audio_story)
 
-**** [#B] CC8.4 - Ghost in the Machine
+**** [#B] CC8.4 - Ghost in the Machine :D2022_03_doctor:
 :PROPERTIES:
 :rating:   8.1
 :END:

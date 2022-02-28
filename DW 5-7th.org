@@ -108,7 +108,7 @@ CLOSED: [2021-06-15 Tue 08:16]
 :rating:   8.8
 :END:
 
-**** [#D] 087. The Gathering :Cybermen:Tegan:
+**** [#D] MR087. The Gathering :Cybermen:Tegan:D2022_03_doctor:
 :PROPERTIES:
 :rating:   7.0
 :END:
@@ -455,7 +455,7 @@ CLOSED: [2021-07-15 Thu 14:15]
 **** DONE [#A] 40. Jubilee (9.0) :Evelyn:Daleks:plot_no:
 CLOSED: [2021-03-30 Tue 17:52]
 
-**** TODO [#A] 43. Doctor Who and The Pirates (8.8) :Evelyn:plot_yes:
+**** [#A] 43. Doctor Who and The Pirates (8.8) :Evelyn:plot_yes:
 
 or The Lass that Lost a Sailor 
 
@@ -508,7 +508,7 @@ CLOSED: [2021-03-22 Mon 20:39]
 :END:
 
 *** main range 101-150 :scripted:
-**** [#B] 105. The Condemned (8.4) :Charley:plot_no:D2022_03_doctor:
+**** [#B] 105. The Condemned (8.4) :Charley:plot_no:D2022_04_doctor:
 SCHEDULED: <2022-02-11 Fri>
 
 Six and Charley meet, and an enjoyable, weird adventure results.
@@ -543,7 +543,7 @@ CLOSED: <2021-04-18 Sun 08:14>
 :rating:   7.0
 :END:
 
-**** TODO [#B] 126. Blue Forgotten Planet (8.1) :Charley:Mila:plot_no:D2021_13:
+**** [#B] 126. Blue Forgotten Planet (8.1) :Charley:Mila:plot_no:D2021_13:
 **** [#C] 134. The Wreck of the Titan (7.6)
 **** [#B] 135. Legend of the Cybermen (8.4) :plot_yes:
 **** [#D] 143. The Crimes of Thomas Brewster :Evelyn:
@@ -626,7 +626,7 @@ CLOSED: [2021-12-03 Fri 23:22] SCHEDULED: <2021-12-05 Sun>
 
 【【广播剧翻译】六任：最后的冒险 01 The end of the line-哔哩哔哩】 https://b23.tv/r4FWpnN
 
-***** START [#D] The Red House :Charley:plot_yes:bilibili:D2022_02_doctor:
+***** HALF [#D] The Red House :Charley:plot_yes:bilibili:D2022_02_doctor:
 SCHEDULED: <2022-02-17 Thu>
 :PROPERTIES:
 :rating:   7.0
@@ -794,7 +794,7 @@ CLOSED: [2021-06-24 Thu 12:31]
 :rating:   7.7
 :END:
 
-***** [#C] 89. No Man's Land :plot_no:The_Forge:D2021_13:
+***** START [#C] MR89. No Man's Land :Ace:Hex:The_Forge:plot_no:D2022_03_doctor:
 :PROPERTIES:
 :rating:   7.8
 :END:
