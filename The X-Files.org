@@ -1,12 +1,29 @@
 * The X-Files :x-files:
 ** tv :📺:
+*** S1
+**** 1x01 Pilot :myth:
+**** 1x02 Deep Throat :myth:
+**** [#A] 1x03 Squeeze
+**** 1x04 Conduit
+**** 1x10 Fallen Angel :myth:
+**** 1x17 E.B.E :myth:
+**** 1x24 The Erlenmeyer Flask :myth:
 *** S2
+**** 2x01 Little Green Men :myth:
 **** DONE 2x02 Host :👍:
 CLOSED: <2020-10-16 Fri 20:34>
 
+**** 2x05 Duane Barry :myth:
+**** 2x06 Ascension  :myth:
+**** 2x08 One Breath  :myth:
+**** 2x10 Red Museum :myth:
 *** S3
 **** 3x21 Avatar :Skinner:
 *** S4
+**** 4x07 Musings of a Cigarette Smoking Man :myth:
+**** DONE 4x13 Never Again :Scally:
+CLOSED: [2022-02-21 Mon 12:24]
+
 **** 4x21 Zero Sum
 *** S6
 **** 6x09 S.R. 819 :Skinner:
@@ -41,7 +58,7 @@ CLOSED: <2020-10-22 Thu 23:04>
 :rating:   7.8
 :END:
 
-**** [#B] 8x04 Roadrunners
+**** DONE [#B] 8x04 Roadrunners
 :PROPERTIES:
 :rating:   8.3
 :END:
@@ -91,7 +108,7 @@ CLOSED: <2020-12-08 Tue 20:00>
 :rating:   7.7
 :END:
 
-**** DONE [#B] 8x13 Per Manum :myth:
+**** DONE [#B] 8x13 Per Manum :myth:super-soldier:
 CLOSED: [2020-12-27 Sun 17:50]
 :PROPERTIES:
 :rating:   8.2
@@ -100,13 +117,14 @@ CLOSED: [2020-12-27 Sun 17:50]
 **** DONE [#A] 8x14 This Is Not Happening (8.5) :myth:
 CLOSED: [2020-12-27 Sun 17:50]
 
-**** DONE [#B] 8x15 DeadAlive :myth:
+**** DONE [#B] 8x15 DeadAlive :myth:super-soldier:
 CLOSED: [2020-12-27 Sun 17:50]
 :PROPERTIES:
 :rating:   8.4
 :END:
 
-**** START [#B] 8x16 Three Words :myth:Supersoldier:
+**** DONE [#B] 8x16 Three Words :myth:super-soldier:
+CLOSED: <2022-02-15 Tue 22:12>
 :PROPERTIES:
 :rating:   8.3
 :END:
@@ -117,21 +135,37 @@ CLOSED: [2020-12-27 Sun 17:50]
 :rating:   7.4
 :END:
 
-**** TODO 8x18 Vienen :myth:
+**** DONE 8x18 Vienen :myth:
+CLOSED: [2022-02-18 Fri 19:12]
+
 **** DONE 8x19 Alone
 CLOSED: <2020-12-30 Wed 22:40>
 
-**** TODO 8x20 Essence :myth:Supersoldier:
-**** TODO 8x21 Existence :myth:Supersoldier:
+**** DONE 8x20 Essence :myth:super-soldier:
+CLOSED: <2022-02-22 Tue 20:27>
+
+与 8x13 Per Manum 紧密衔接
+
+**** DONE 8x21 Existence :myth:super-soldier:
+CLOSED: [2022-02-23 Wed 19:43]
+
 *** S9
-**** TODO 9x01 Nothing Important Happened Today :myth:Supersoldier:
-**** TODO 9x02 Nothing Important Happened Today II :myth:Supersoldier:
+**** NEXT 9x01 Nothing Important Happened Today :myth:super-soldier:
+**** NEXT 9x02 Nothing Important Happened Today II :myth:super-soldier:
 **** DONE 9x03 Dæmonicus
 CLOSED: <2021-01-05 Tue 18:39>
 
-**** START 9x04 4-D
-**** START 9x05 Lord of the Flies
-**** TODO 9x06 Trust No 1 :myth:
+**** 9x04 4-D
+**** 9x05 Lord of the Flies
+**** TODO 9x06 Trust No 1 :myth:super-soldier:
+**** 9x07 John Doe
+**** 9x08 Hellbound
+**** TODO 9x09 Provenance :myth:
+**** TODO 9x10 Providence :myth:super-soldier:
+**** 9x11 Audrey Pauley
+**** 9x15 Jump the Shark :myth:
+**** 9x16 William :myth:
+*** S10
 *** S11
 **** Kitten :Skinner:Vietnam_War:
 *** The Lone Gunmen
@@ -192,7 +226,7 @@ CLOSED: [2020-10-23 Fri 13:05]
 CLOSED: [2020-10-23 Fri 13:05]
 
 **** Season 11 (2015-2016)
-***** NEXT 01 Cantus
+***** DONE 01 Cantus
 ***** 2DONE 02-04 Home Again
 CLOSED: [2020-10-23 Fri 13:05]
 
@@ -279,6 +313,12 @@ CLOSED: [2020-10-10 Sat 19:27]
 
 * Fringe
 ** Fringe S1
-*** DONE 1x01
-CLOSED: [2022-02-18 Fri 12:56]
+*** DONE 1x01, 02
+CLOSED: [2022-02-19 Sat 20:28]
+
+*** DONE 1x03
+CLOSED: <2022-02-25 Fri 23:25>
+
+*** DONE 1x04 :Observer:
+CLOSED: [2022-02-27 Sun 20:48]
 

@@ -242,16 +242,21 @@ CLOSED: <2022-02-09 Wed 22:48>
 *** DONE [#B] Battle for the Cowl (2009.05-07) :P2009:
 CLOSED: [2022-02-13 Sun 19:37]
 
-*** Batman Reborn (2009.08-12) :P2009:
-**** Batgirl: Batgirl Rising (v3 #1-3)
-**** TODO [#C] Batman: Hush Money
+*** DOING Batman Reborn (2009.08-12) :P2009:
+**** DONE Batgirl: Batgirl Rising (v3 #1-3)
+CLOSED: <2022-02-20 Sun 16:51>
+
+**** DONE [#C] Batman: Hush Money
+CLOSED: [2022-02-20 Sun 09:22]
 
 Batman: Streets of Gotham #1-4
 
-**** Batman: Long Shadows (#687-691)
-**** TODO [#B] Batman and Robin: Batman Reborn (BnR #1-3)
-**** TODO Batwoman: Elegy (DC #854-857)
-**** Gotham City Sirens: Union (GCS #1-4)
+**** READY Batman: Long Shadows (#687-691)
+**** DONE [#B] Batman and Robin: Batman Reborn (BnR #1-3)
+CLOSED: [2022-02-20 Sun 09:22]
+
+**** READY Batwoman: Elegy (DC #854-857)
+**** READY Gotham City Sirens: Union (GCS #1-4)
 **** Outsiders: The Deep (v4 #19-20)
 **** Red Robin: The Grail (#1-4)
 *** Batman and Robin vol.1 #1-16 (2009-2011) :P2009:
@@ -298,6 +303,9 @@ Batman: Streets of Gotham #1-4
 
 保罗·迪尼（Paul Dini）在这个系列中的表现出色，虽然有时因其他刊物中发生的重大事件而被蒙上阴影，却完美地讲述了蝙蝠侠历史上的小故事。
 
+***** DONE DC #821-826 Detective
+***** NOW DC #827-834 Batman - Death and the City
+***** DC #841-845 Batman - Private Casebook (2008)
 **** Batman Confidential #49
 
 《从未完成的工作》
@@ -586,9 +594,9 @@ partially based on
 - the /Batman: The Court of Owls/ arc, written by Scott Snyder and illustrated by Greg Capullo and Jonathan Glapion, 
 - and the /Batman and Robin: Born to Kill/ arc, written by Peter Tomasi and illustrated by Patrick Gleason and Mick Gray. 
 
-*** TODO Batman: Bad Blood
+*** NOW Batman: Bad Blood
 
-The story is inspired by the /Batman Reborn/ arc, whilst also including elements from Batwoman: Go. 
+The story is inspired by the /Batman Reborn/ arc, whilst also including elements from /Batwoman: Go/. 
 
 - Nightwing / Batman (Dick Grayson) (First appearance as Batman)
 - Robin (Damian Wayne)

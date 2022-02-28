@@ -1,6 +1,6 @@
 * PKD
 ** Blade Runner
-*** TODO 小说：仿生人梦见电绵羊了吗
+*** 小说：仿生人梦见电绵羊了吗
 *** movies
 **** Blade Runner :🎦:P1982:
 **** 2022: Black Out (黑暗浩劫/大断电)
@@ -99,7 +99,7 @@
 
 2055年，埃里克·斯威特森特成为了联合国秘书长莫利纳里的私人器官移植医师。看似平步青云，实则险象环生。 地球被拖入了一场旷日持久的星际战争，人类和利利星结盟，与雷格人为敌。作为秘书长的亲信，埃里克也被卷入了云谲波诡的星际政治斗争中。同时，新型毒品JJ-180诞生，赋予了人穿梭于过去与未来的能力。由于糟糕的婚姻关系，埃里克的妻子在毒品中寻求精神的寄托。她和埃里克都在偶然间发现了JJ-180的神奇作用。 险恶的政治环境，岌岌可危的婚姻，埃里克会怎么巧用JJ-180，来应对人生危机呢？
 
-**** READY [#A] 帕莫·艾德里奇的三处圣痕 The Three Stigmata of Palmer Eldritch :🛒:
+**** START [#A] 帕莫·艾德里奇的三处圣痕 The Three Stigmata of Palmer Eldritch :🛒:
 :PROPERTIES:
 :douban:   8.5
 :goodreads: 4.01
@@ -227,7 +227,7 @@ CLOSED: [2022-01-05 Wed 00:05]
 :END:
 
 *** Robot
-**** NEXT I, Robot :P1950:
+**** NOW I, Robot :P1950:
 **** The Caves of Steel :P1958:
 **** The Naked Sun :P1958:
 **** The Robots of Dawn :P1983:
@@ -237,8 +237,13 @@ CLOSED: [2022-01-05 Wed 00:05]
 **** 14. 星空暗流 The Currents of Space :P1952:
 **** 15. 苍穹一粟 Pebble in the Sky :P1950:
 *** misc
-**** DONE The End of Eternity 永恒的终结
-**** DONE The Gods Themselves 神们自己
+**** DONE [#A] The End of Eternity 永恒的终结
+CLOSED: <2022-02-01 Tue>
+:PROPERTIES:
+:douban:   9.0
+:END:
+
+**** DONE [#B] The Gods Themselves 神们自己
 **** Nightfall (4.05)
 **** The Last Question
 **** Earth is Room Enough
@@ -272,4 +277,13 @@ CLOSED: <2022-01-15 Sat 14:48>
 
 **** DONE 1x10
 CLOSED: [2022-01-15 Sat 23:26]
+
+** movies
+*** DONE 永恒国度的终焉
+CLOSED: [2022-02-26 Sat 17:43]
+
+a 1987 Soviet science fiction film directed by Andrei Yermash based on the eponymous novel by Isaac Asimov.
+
+*** DONE 我，机器人
+CLOSED: [2022-02-26 Sat 20:03]
 

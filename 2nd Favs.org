@@ -29,7 +29,7 @@
 *** DONE 卷4：迷雾季节 (Season of Mists, #21-#31)
 CLOSED: <2022-02-05 Sat 17:17>
 
-*** TODO 卷五：一场游戏一场梦 (A Game of You, #32-37)
+*** NOW 卷五：一场游戏一场梦 (A Game of You, #32-37)
 *** TPB.6 Fables and Reflections
 *** TPB.7 Brief Lives
 *** TPB.8 Worlds' End
@@ -39,13 +39,16 @@ CLOSED: <2022-02-05 Sat 17:17>
 *** book one (#1-13)
 *** book two (#14-28, Nirvana)
 *** ?
-** 路西法 Lucifer (tv) :🎦:
+** 路西法 Lucifer (tv) :📺:lucifer:
 *** Lucifer S1 (13 ep) :P2016:
 **** DONE 1x01, 02
 CLOSED: [2022-02-02 Wed 17:07]
 
 **** DONE 1x03, 04
 CLOSED: <2022-02-13 Sun 16:07>
+
+**** DONE 1x05, 06
+CLOSED: [2022-02-27 Sun 13:08]
 
 ** Sandman Universe (2018- )
 
@@ -57,7 +60,7 @@ CLOSED: <2022-02-13 Sun 16:07>
 *** DONE Sandman Universe
 CLOSED: [2022-02-03 Thu 11:32]
 
-*** START The Dreaming v2 (2018-2020, 20 issues) :hanzify:
+*** TODO The Dreaming v2 (2018-2020, 20 issues) :hanzify:
 
 幻梦境 （前期期有东尔汉化）
 
@@ -73,6 +76,55 @@ CLOSED: [2022-02-03 Thu 11:32]
 
 水漫汉化联盟
 
+* Preacher
+** comics
+*** DONE book 1 (1-12)
+*** DONE book 2 (13-26)
+*** book 3
+**** DONE Preacher 27-33
+CLOSED: [2022-02-24 Thu 13:27]
+
+**** NOW Saint of Killers #1-4
+*** book 4
+**** Preacher 34-40
+**** specials x4
+*** book 5 (41-54)
+** tv
+*** S1 :P2016:
+**** DONE 1x01, 02, 03
+CLOSED: [2022-01-11 Tue 08:22]
+
+**** DONE 1x04, 05
+CLOSED: <2022-01-13 Thu 08:39>
+
+**** DONE 1x06, 07
+CLOSED: [2022-01-19 Wed 22:03]
+
+**** DONE 1x08, 09, 10
+CLOSED: [2022-01-21 Fri 23:07]
+
+*** S2 :P2017:
+**** DONE 2x01, 02
+CLOSED: [2022-01-27 Thu 19:05]
+
+* Supernatural :📺:spn:
+** DONE S11
+** DONE S12
+** DOING SPN S13
+*** DONE 13x01, 02
+CLOSED: [2022-02-02 Wed 14:29]
+
+*** DONE 13x03, 04
+CLOSED: [2022-02-10 Thu 20:15]
+
+*** DONE 13x05
+CLOSED: [2022-02-19 Sat 21:50]
+
+Cass 回归
+
+*** NOW 13x06
+** S14
+** S15
 * V for Vendetta ...
 * Fables :hanzify:
 
@@ -190,48 +242,7 @@ to the re-imagined Earth-22 reality.
 
 https://dc.fandom.com/wiki/Thy_Kingdom_Come
 
-* Preacher
-** comics
-*** DONE book 1 (1-12)
-*** DONE book 2 (13-26)
-*** book 3
-**** Preacher 27-33
-**** DOING Saint of Killers #1-4
-*** book 4
-**** Preacher 34-40
-**** specials x4
-*** book 5 (41-54)
-** tv
-*** S1 :P2016:
-**** DONE 1x01, 02, 03
-CLOSED: [2022-01-11 Tue 08:22]
-
-**** DONE 1x04, 05
-CLOSED: <2022-01-13 Thu 08:39>
-
-**** DONE 1x06, 07
-CLOSED: [2022-01-19 Wed 22:03]
-
-**** DONE 1x08, 09, 10
-CLOSED: [2022-01-21 Fri 23:07]
-
-*** S2 :P2017:
-**** DONE 2x01, 02
-CLOSED: [2022-01-27 Thu 19:05]
-
 * Swamp Thing
-* Supernatural
-** DONE S11
-** DONE S12
-** DOING SPN S13
-*** DONE 13x01, 02
-CLOSED: [2022-02-02 Wed 14:29]
-
-*** DONE 13x03, 04
-CLOSED: [2022-02-10 Thu 20:15]
-
-** S14
-** S15
 * Ultimate Marvel
 * Spider-Man
 ** The Amazing Spider-Man 神奇蜘蛛侠
