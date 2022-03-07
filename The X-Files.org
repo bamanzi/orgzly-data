@@ -1,4 +1,4 @@
-* The X-Files :x-files:
+* The X-Files :Ⓧ:
 ** tv :📺:
 *** S1
 **** 1x01 Pilot :myth:
@@ -14,8 +14,8 @@
 CLOSED: <2020-10-16 Fri 20:34>
 
 **** 2x05 Duane Barry :myth:
-**** 2x06 Ascension  :myth:
-**** 2x08 One Breath  :myth:
+**** 2x06 Ascension :myth:
+**** 2x08 One Breath :myth:
 **** 2x10 Red Museum :myth:
 *** S3
 **** 3x21 Avatar :Skinner:
@@ -58,7 +58,7 @@ CLOSED: <2020-10-22 Thu 23:04>
 :rating:   7.8
 :END:
 
-**** DONE [#B] 8x04 Roadrunners
+**** DONE [#B] 8x04 Roadrunners :👍:
 :PROPERTIES:
 :rating:   8.3
 :END:
@@ -69,7 +69,7 @@ CLOSED: <2020-10-30 Fri 20:52>
 :rating:   7.9
 :END:
 
-**** DONE [#A] 8x06 Redrum (8.5)
+**** DONE [#A] 8x06 Redrum (8.5) :👍:
 CLOSED: [2020-11-05 Thu 22:48]
 
 **** DONE [#C] 8x07 Via Negativa
@@ -138,8 +138,11 @@ CLOSED: [2020-12-27 Sun 17:50]
 **** DONE 8x18 Vienen :myth:
 CLOSED: [2022-02-18 Fri 19:12]
 
-**** DONE 8x19 Alone
+**** DONE [#B] 8x19 Alone :👍:
 CLOSED: <2020-12-30 Wed 22:40>
+:PROPERTIES:
+:rating:   8.1
+:END:
 
 **** DONE 8x20 Essence :myth:super-soldier:
 CLOSED: <2022-02-22 Tue 20:27>
@@ -149,13 +152,19 @@ CLOSED: <2022-02-22 Tue 20:27>
 **** DONE 8x21 Existence :myth:super-soldier:
 CLOSED: [2022-02-23 Wed 19:43]
 
-*** S9
-**** NEXT 9x01 Nothing Important Happened Today :myth:super-soldier:
-**** NEXT 9x02 Nothing Important Happened Today II :myth:super-soldier:
+*** NOW S9
+**** DONE 9x01 Nothing Important Happened Today :myth:super-soldier:
+CLOSED: <2022-02-28 Mon 23:23>
+
+**** DONE 9x02 Nothing Important Happened Today II :myth:super-soldier:
+CLOSED: [2022-03-01 Tue 19:01]
+
 **** DONE 9x03 Dæmonicus
 CLOSED: <2021-01-05 Tue 18:39>
 
-**** 9x04 4-D
+**** DONE [#B] 9x04 4-D :👍:
+CLOSED: [2022-03-07 Mon 08:17]
+
 **** 9x05 Lord of the Flies
 **** TODO 9x06 Trust No 1 :myth:super-soldier:
 **** 9x07 John Doe
@@ -163,11 +172,18 @@ CLOSED: <2021-01-05 Tue 18:39>
 **** TODO 9x09 Provenance :myth:
 **** TODO 9x10 Providence :myth:super-soldier:
 **** 9x11 Audrey Pauley
+**** 9x13 Improbable
 **** 9x15 Jump the Shark :myth:
 **** 9x16 William :myth:
+**** [#A] 9x17 Release :👍:
 *** S10
+**** 10x01 My Struggle :myth:
+**** 10x02 Founder's Mutation
 *** S11
-**** Kitten :Skinner:Vietnam_War:
+**** 11x01 My Struggle III :myth:
+**** 11x05 Ghouli
+**** 11x06 Kitten :Skinner:Vietnam_War:
+**** 11x10 My Struggle IV :myth:
 *** The Lone Gunmen
 **** DONE 1. Pilot
 CLOSED: [2020-11-13 Fri 19:34]
@@ -271,17 +287,26 @@ CLOSED: [2020-11-03 Tue 22:15]
 *** Stolen Lives (comics 17-25)
 ** prose :📄:
 *** vol.1 Trust No One :ebook:
+book review: https://is.gd/TyY4hb (coldbananas.com)
 **** DONE [#C] Oversight :Skinner:
 CLOSED: <2020-10-30 Fri 23:12>
 
 **** DONE [#C] Non Gratum Anus Rodentum :Skinner:Vietnam_War:
 CLOSED: <2020-10-10 Sat 16:40>
 
-*** vol.2 The Truth is Out There :paperbook:
+*** vol.2 The Truth is Out There :🛒:
+book review: https://is.gd/LXpZZR (coldbanas.com)
+ http://coldbananas.com/2016/05/books/the-truth-is-out-there-serves-up-another-mixed-bag-of-x-files-short-stories/
+**** DONE [#B] Mummiya
+CLOSED: [2022-03-06 Sun 21:26]
+
+**** DONE Phase Shift
 **** DONE [#C] Snowman :Doggett:
 CLOSED: <2019-11-29 Fri 13:13>
 
-*** vol.3 Secret Agendas :ebook:paperbook:
+**** Voice of Experience
+*** vol.3 Secret Agendas :🛒:ebook:
+book review: https://is.gd/Xv3hBF (coldbanans.com)
 **** DONE [#C] Seek and You Will Find
 CLOSED: [2020-12-13 Sun 21:04]
 
@@ -311,8 +336,8 @@ CLOSED: [2020-10-10 Sat 19:27]
 :rating:   3.56
 :END:
 
-* Fringe
-** Fringe S1
+* Fringe :fringe:
+** NOW Fringe S1 :📺:
 *** DONE 1x01, 02
 CLOSED: [2022-02-19 Sat 20:28]
 
@@ -321,4 +346,7 @@ CLOSED: <2022-02-25 Fri 23:25>
 
 *** DONE 1x04 :Observer:
 CLOSED: [2022-02-27 Sun 20:48]
+
+*** DONE 1x05,06
+CLOSED: [2022-03-06 Sun 19:45]
 
