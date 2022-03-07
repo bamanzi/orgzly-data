@@ -104,7 +104,7 @@ CLOSED: [2021-07-27 Tue 23:10]
 :END:
 
 **** [#C] 3.1 The Phoenicians (7.5) :Susan:Ian:Barbara:plot_no:P2019:
-**** READY [#A] 1DA3.2 Tick-Tock World :Susan:Ian:Barbara:P2019:plot_yes:D2022_03_doctor:
+**** NOW [#A] 1DA3.2 Tick-Tock World :Susan:Ian:Barbara:P2019:plot_yes:D2022_03_doctor:week2:
 :PROPERTIES:
 :rating:   8.5
 :END:
@@ -402,7 +402,7 @@ UNIT 和 准将第一次正式出场
 ** audio :🎧:
 *** EA
 **** EA S2
-***** READY [#C] 2.1 The Yes Men :Jamie:Polly:Ben:plot_yes:
+***** READY [#C] 2.1 The Yes Men :Jamie:Polly:Ben:plot_yes:D2022_04_doctor:
 :PROPERTIES:
 :rating:   7.7
 :END:
@@ -1003,7 +1003,7 @@ CLOSED: [2021-07-27 Tue 23:11]
 :rating:   7.3
 :END:
 
-***** TODO [#C] 4.5 - Suburban Hell (7.7) :plot_yes:
+***** TODO [#C] 4.5 - Suburban Hell (7.7) :plot_yes:D2022_04_doctor:
 ***** [#D] 4.6 The Cloisters of Terror (7.4)
 ***** [#D] 4.7 The Fate of Krelos (7.2)
 ***** CANCEL [#F] 4.8 Return to Telos (5.8)
@@ -1022,7 +1022,7 @@ CLOSED: <2021-07-01 Thu 16:39>
 ***** [#D] 6.5 - The Haunting of Malkin Place (7.4)
 ***** [#D] 6.8 - The Skin of the Sleek (7.2)
 **** 4DA series 7 :Leela:P2018:
-***** [#C] 7.1 The Sons of Kaldor (7.7) :Kaldor:Robots:
+***** TODO [#C] 7.1 The Sons of Kaldor (7.7) :Kaldor:Robots:
 ***** [#C] 7.2 The Crowmarsh Experiment (7.6)
 ***** [#C] 7.6 The Bad Penny (7.5)
 ***** TODO [#C] 7.7/7.8 - Kill the Doctor! / The Age of Sutekh (7.8/7.0) :Sutekh:

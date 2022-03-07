@@ -29,7 +29,10 @@ SCHEDULED: <2021-11-04 Thu>
 【【广播剧翻译】大都会电影里出现了赛博人？九任冒险集 303 Monsters in Metropolis-哔哩哔哩】 https://b23.tv/ayLbFDQ
 
 **** vol.4 Old Friends
-***** 4.1 Fond Farewell
+***** 4.1 Fond Farewell :bilibili:
+
+【【广播剧翻译】死者复活参加自己的葬礼？九任冒险集：老朋友 401 Fond Farewell-哔哩哔哩】 https://b23.tv/TSaPh4d
+
 ***** 4.2 Way of the Burryman :Cybermen:
 ***** 4.3 The Forth Generation :Cybermen:
 *** ST (audiobooks)
@@ -54,14 +57,14 @@ SCHEDULED: <2021-11-04 Thu>
 :END:
 
 *** fan-made :fan_made:
-**** 0.3 - What I Did on My Christmas Holidays by Sally Sparrow
+**** 0.3 - What I Did on My Christmas Holidays by Sally Sparrow :short:D2022_03_doctor:week2:
 **** 0.4 - The Beast of Babylon
 **** 3QTR 0.5 Exhausted Supplies :12th_Dr:D2021_12_doctor:week2:bilibili:
 CLOSED: [2021-12-14 Tue 20:07] DEADLINE: <2021-12-08 Wed 20:05> SCHEDULED: <2021-12-10 Fri>
 
 【【神秘博士/有声剧/字幕】饭制双博士有声剧Exhausted Supplies Doctor Who Audio Drama 九任和十二任博士意外相遇-哔哩哔哩】 https://b23.tv/KOphvaM 
 
-**** START #1. Cold Open :D2022_03_doctor:
+**** START [#C] #1. Cold Open :D2022_03_doctor:week2:
 
 https://ninthdoctoradventures.wordpress.com/episodes/
 
@@ -237,7 +240,7 @@ CLOSED: [2021-06-18 Fri 10:25]
 :rating:   6.5
 :END:
 
-**** TODO [#B] 10D&RS 3. Ghosts :bilibili:D2021_13:
+**** TODO [#B] 10D&RS 3. Ghosts :bilibili:D2022_04_doctor:
 SCHEDULED: <2021-09-30 Thu>
 :PROPERTIES:
 :rating:   8.3
@@ -309,6 +312,8 @@ SCHEDULED: <2021-12-31 Fri>
 :END:
 
 *** Tenth Doctor Classic Companions :P2022:
+*** CC & ST
+**** READY ST10.X Free Speech :scripted:
 ** novels :novel:
 *** DONE [#B] 美丽的混沌 Beautiful Chaos :已购:Kindle己购:
 :PROPERTIES:
@@ -354,7 +359,9 @@ SCHEDULED: <2022-01-31 Mon>
 :rating:   6.0
 :END:
 
-**** [#D] 12DC2.4 A Tragical History (?7.4) :D2022_03_doctor:
+**** NOW [#D] 11DC2.4 A Tragical History (?7.4) :D2022_03_doctor:week1:
+SCHEDULED: <2022-03-10 Thu>
+
 ** comics
 *** IDW
 **** Omnibus vol.1
@@ -469,7 +476,7 @@ CLOSED: [2022-02-23 Wed 20:38] SCHEDULED: <2022-02-24 Thu>
 :rating:   6.4
 :END:
 
-**** 2.3 The Weight of History
+**** 2.3 The Weight of History :D2022_04_doctor:
 ** novels :novel:
 *** [#C] Silhouette 侧影 :已购:Kindle己购:
 :PROPERTIES:

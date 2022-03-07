@@ -108,7 +108,7 @@ CLOSED: [2021-06-15 Tue 08:16]
 :rating:   8.8
 :END:
 
-**** [#D] MR087. The Gathering :Cybermen:Tegan:D2022_03_doctor:
+**** [#D] MR087. The Gathering :Cybermen:Tegan:plot_no:D2022_03_doctor:week3:
 :PROPERTIES:
 :rating:   7.0
 :END:
@@ -794,7 +794,8 @@ CLOSED: [2021-06-24 Thu 12:31]
 :rating:   7.7
 :END:
 
-***** START [#C] MR89. No Man's Land :Ace:Hex:The_Forge:plot_no:D2022_03_doctor:
+***** NOW [#C] MR89. No Man's Land :Ace:Hex:The_Forge:plot_no:D2022_05_doctor:
+SCHEDULED: <2022-03-10 Thu>
 :PROPERTIES:
 :rating:   7.8
 :END:
@@ -834,7 +835,9 @@ CLOSED: <2021-05-31 Mon 08:10>
 SCHEDULED: <2021-09-26 Sun>
 
 ***** [#A] 140. A Death in the Family (9.5) :P2010:Ace:Hex:Evelyn:Nobody_No_One:the_Forge:plot_no:
-***** [#B] MR149. Robophobia (8.4) :P2011:Liv:Kaldor_androids:plot_no:
+***** START [#B] MR149. Robophobia (8.4) :P2011:Liv:Kaldor_androids:plot_no:D2022_03_doctor:week1:
+SCHEDULED: <2022-03-10 Thu>
+
 **** MR151-200
 ***** 2DONE [#C] MR152. House of Blue Fire :plot_no:D2021_07_dr:Sally:Great_Old_Ones:
 CLOSED: <2021-07-09 Fri 14:15>
