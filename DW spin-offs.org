@@ -390,9 +390,6 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 
 The Church of the Outsiders believe that mankind is about to evolve, to reach out into the stars. Owen Harper believes that Torchwood has to do whatever it takes to stop them
 
-**** Torchwood One: Before the Fall :P2017:
-**** Torchwood One: Machines :P2018:
-**** Torchwood One: Latter Days :P2019:
 **** The Sins of Captain John :P2020:
 **** Torchwood Soho: Parasite :P2020:
 **** Torchwood Soho: Ashenden :P2021:
@@ -461,13 +458,13 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
       :END:
 
 **** Gods Among Us
-***** HALF [#A] TW6.1 - Future Pain :D2022_03_spinoffs:week1:
-      SCHEDULED: <2022-03-10 Thu>
+***** 3QTR [#A] TW6.1 - Future Pain :D2022_03_spinoffs:week1:
+      CLOSED: [2022-03-18 Fri 07:07] SCHEDULED: <2022-03-10 Thu>
       :PROPERTIES:
       :ratinh:   9.0
       :END:
 
-***** CANCEL [#F] +TW6.2 The Man Who Destroyed Torchwood+ :D2022_03_spinoffs:
+***** CANCEL [#F] +TW6.2 The Man Who Destroyed Torchwood+ :D2022_03_spinoffs:week4:
       CLOSED: [2022-03-01 Tue 00:07]
       :PROPERTIES:
       :rating:   5.9
@@ -551,6 +548,43 @@ Torchwood India
       :END:
 
 【【神秘博士/火炬木广播剧翻译】R&J（博士、上校和宋江的超时空三角恋情！）-哔哩哔哩】https://b23.tv/IZfO0B
+
+*** Torchwood One
+**** Torchwood One: Before the Fall :P2017:
+***** READY [#B] 1.1 New Girl
+      :PROPERTIES:
+      :rating:   8.2
+      :END:
+
+***** [#E] 1.2 - Through The Ruins
+***** [#E] 1.3 - Uprising
+**** Torchwood One: Machines :P2018:
+***** [#E] 2.1 - The Law Machines
+***** [#C] 2.2 - Blind Summit
+      :PROPERTIES:
+      :rating:   7.7
+      :END:
+
+***** [#B] 2.3 - 9 to 5
+      :PROPERTIES:
+      :rating:   8.2
+      :END:
+
+**** Torchwood One: Latter Days :P2019:
+***** [#C] 3.1 - Retirement Plan
+      :PROPERTIES:
+      :rating:   7.9
+      :END:
+
+***** [#D] 3.2 - Locker 15
+      :PROPERTIES:
+      :rating:   7.1
+      :END:
+
+***** [#A] 3.3 - The Rockery
+      :PROPERTIES:
+      :rating:   8.6
+      :END:
 
 * River Song :River:
 ** prose
@@ -704,16 +738,17 @@ Roberts Master
 **** 3QTR 9.2 Terror of the Suburbs :D2022_01_spinoffs:
      CLOSED: <2022-01-24 Mon 21:44> SCHEDULED: <2022-01-26 Wed>
 
-**** CANCEL [#E] DoRS9.3. Never Alone :D2022_03_spinoffs:
-     CLOSED: [2022-03-01 Tue 00:09]
+**** HALF [#E] DoRS9.3. Never Alone :D2022_03_spinoffs:week2:
+     SCHEDULED: <2022-03-14 Mon>
      :PROPERTIES:
      :rating:   6.1
      :END:
 
-***** [#B] DoRS9.4. Rivers of Light :Liz:3rd_Dr:D2022_03_spinoffs:
-      :PROPERTIES:
-      :rating:   8.1
-      :END:
+**** HALF [#B] DoRS9.4. Rivers of Light :Liz:3rd_Dr:D2022_03_spinoffs:week3:
+     SCHEDULED: <2022-03-14 Mon>
+     :PROPERTIES:
+     :rating:   8.1
+     :END:
 
 *** misc
 **** DONE R&J (The Lives of Captain Jack #3.3) :Jack:
@@ -766,12 +801,8 @@ Roberts Master
     :END:
 
 ** J&L series 6 :P2013:
-*** START [#C] J&L6.1 - The Skeleton Quay (7.8) :D2022_03_spinoffs:week2:
-    SCHEDULED: <2022-03-20 Sun>
-
-*** [#D] J&L6.2 - Return of the Repressed         (7.1) :D2022_03_spinoffs:week3:
-    SCHEDULED: <2022-03-15 Tue>
-
+*** START [#C] J&L6.1 - The Skeleton Quay (7.8) :D2022_05_spinoffs:week2:
+*** [#D] J&L6.2 - Return of the Repressed         (7.1) :D2022_05_spinoffs:week3:
 *** [#D] 6.3 - Military Intelligence           (7.4)
 *** [#C] 6.4 - The Trial of George Litefoot    (7.8)
 ** J&L series 7 :P2014:
@@ -867,6 +898,7 @@ Roberts Master
     :END:
 
 *** [#B] GFY2.5 - Imperiatrix :D2022_03_spinoffs:week3:
+    SCHEDULED: <2022-03-21 Mon>
     :PROPERTIES:
     :rating:   8.4
     :END:
@@ -923,7 +955,7 @@ Roberts Master
 **** 6.2 The Kingdom of the Blind
 **** 6.3 The Lost Museum
 **** 6.4 The Goddes Quandary
-**** NOW [#A] BS6.5 The Crystal of Cantus :Cybermen:D2022_03_spinoffs:week1:
+**** HALF [#A] BS6.5 The Crystal of Cantus :Cybermen:D2022_03_spinoffs:week1:
      SCHEDULED: <2022-03-10 Thu>
      :PROPERTIES:
      :rating:   8.7
@@ -1061,6 +1093,7 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
 
 ** Missy series 2 :🎧:Master_missy:
 *** [#A] 2.1 - The Lumiat :D2022_03_extra:plot_yes:week4:
+    SCHEDULED: <2022-03-28 Mon>
     :PROPERTIES:
     :rating:   8.8
     :END:
@@ -1593,9 +1626,7 @@ rating 8.7/8.3
 **** 6	The Judgment of Sutekh :P2009:
 * Kaldor City / The Robots
 ** Kaldor City
-*** NOW [#B] KC1. Occam's Razor :D2022_Q2:
-    SCHEDULED: <2022-03-10 Thu>
-
+*** [#B] KC1. Occam's Razor :D2022_Q2:
 *** 2. Death's Head
 *** 3. Hidden Persuaders
 ** The Robots (Big Finish, 2019-)
@@ -1654,7 +1685,7 @@ rating 8.7/8.3
 *** series 1 :P2016:
 **** [#E] 1.1 - The Oncoming Storm          (6.9)
 **** [#D] 1.2 - Hounded                     (7.2)
-**** [#C] 1.3 - Living History              (7.9)
+**** READY [#C] 1.3 - Living History              (7.9) :11th_Dr:
 **** [#E] +1.4 - The Chartwell Metamorphosis+ (6.4)
 *** series 2 :P2018:
 **** [#D] 2.1 - Young Winston               (7.1)

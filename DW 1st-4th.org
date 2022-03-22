@@ -104,7 +104,8 @@ CLOSED: [2021-07-27 Tue 23:10]
 :END:
 
 **** [#C] 3.1 The Phoenicians (7.5) :Susan:Ian:Barbara:plot_no:P2019:
-**** NOW [#A] 1DA3.2 Tick-Tock World :Susan:Ian:Barbara:P2019:plot_yes:D2022_03_doctor:week2:
+**** START [#A] 1DA3.2 Tick-Tock World :Susan:Ian:Barbara:P2019:plot_yes:D2022_03_doctor:week2:
+SCHEDULED: <2022-03-14 Mon>
 :PROPERTIES:
 :rating:   8.5
 :END:
@@ -125,6 +126,8 @@ CLOSED: [2021-07-27 Tue 23:10]
 :rating:   9.0?
 :END:
 
+**** 6.1 The Outlaws :Dodo:Monk:P2022_04:
+**** 6.2 The Miniaturist :Dodo:P2022_04:
 *** CC
 **** TODO [#A] CC3.5 - Home Truths :D2021_13:Sara_Kingdom:
 :PROPERTIES:
@@ -753,7 +756,8 @@ Confronted with memories she knows nothing about, Jo agrees to a meeting with Ir
 
 https://tardis.fandom.com/wiki/Find_and_Replace_(audio_story)
 
-**** [#B] CC8.4 - Ghost in the Machine :D2022_03_doctor:
+**** [#B] CC8.4 - Ghost in the Machine :D2022_03_doctor:week2:plot_yes:
+SCHEDULED: <2022-03-21 Mon>
 :PROPERTIES:
 :rating:   8.1
 :END:
@@ -1034,6 +1038,11 @@ SCHEDULED: <2021-11-05 Fri>
 :END:
 
 ***** TODO [#C] 8.3 - The Enchantress of Numbers (7.6)
+***** [#D] 8.6 - Fever Island
+:PROPERTIES:
+:rating:   7.2
+:END:
+
 ***** [#B] 8.7/8.8 The Perfect Prisoners (8.2/8.3) :7:
 **** 4DA series 9 :P2020:
 ***** [#C] 9.1 - Purgatory 12 (7.6) :Romana_2:
@@ -1050,6 +1059,9 @@ CLOSED: [2020-07-15 Wed 19:13]
 **** 4DA series 10 :Leela:P2021:
 ***** 10.1 The World Traders
 ***** 10.2 The Day of the Comet
+**** 4DA series 11 :P2022_03:
+***** 11.1 - Blood of the Time Lords
+***** 11.2 - The Ravencliff Witch
 *** BF audio-drama misc :BigFinish:
 **** HALF [#C] CA1.1 The Iron Legion (Comics Adaptation #1) (7.9)
 **** HALF [#A] CA1.2 The Star Beast (Comics Adaptation #2) 9.0 :P2019:
@@ -1095,8 +1107,16 @@ CLOSED: [2020-08-05 Wed 19:05]
 :rating:   7.8
 :END:
 
-**** [#B] 3.4 The Hexford Invasion †8.4)
-**** [#B] 3.5 Survivors in Space †8.1)
+**** [#B] 3.4 The Hexford Invasion
+:PROPERTIES:
+:rating:   8.4
+:END:
+
+**** [#B] 3.5 Survivors in Space
+:PROPERTIES:
+:rating:   8.1
+:END:
+
 *** BF shorts :🎧:audiobook:
 **** Companion Chronicles
 ***** [#C] CC2.4 - The Catalyst †7.9

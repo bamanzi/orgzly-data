@@ -539,8 +539,8 @@ CLOSED: [2020-12-18 Fri 12:20]
 :rating:   6.2
 :END:
 
-*** PROSE: Birth of a Legend (Heroes and Monsters Collection)
-*** Gallifrey (Daleks+Axis)
+*** PROSE: Birth of a Legend (Heroes and Monsters Collection) :📄:
+*** Gallifrey (Daleks+Axis) :🎧:
 **** AUDIO: Arbitration (Gallifrey #5.3)
 
 The Daleks infiltrate the Axis, and attack Gallifrey.
@@ -550,11 +550,11 @@ The Daleks infiltrate the Axis, and attack Gallifrey.
 
 Vayles is sent to meet the Fourth Doctor and to instruct him to destroy the Daleks before they were created, as a method of preventing the infiltration of the Axis.
 
-*** AUDIO: Dark Eyes series 3
+*** Dark Eyes series 3 :🎧:
 
 Narvin�from the future (AUDIO: Desperate Measures) attempts to prevent the War.
 
-*** AUDIO: The War Master series 2 :Master_war:scripted:
+*** The War Master series 2: The Master of Callous :Master_war:scripted:🎧:
 **** DONE Call for the Dead
 CLOSED: <2020-10-08 Thu 10:49>
 
@@ -581,7 +581,7 @@ CLOSED: <2020-11-09 Mon 10:30>
 **** DONE Desperate Measures (Gallifrey: Time War #1.4) :Rassilon:
 CLOSED: [2020-11-09 Mon 18:14]
 
-*** The War Master series 3 :Master_war:scripted:
+*** The War Master series 3: Rage of the Time Lords :Master_war:scripted:
 **** DONE [#C] The Survivor (The War Master #3.1)
 CLOSED: <2020-12-30 Wed 07:42>
 :PROPERTIES:
@@ -611,7 +611,7 @@ CLOSED: [2021-01-06 Wed 09:03]
 【【自制字幕】神秘博士BF特辑宋江八叔历险记-哔哩哔哩】https://b23.tv/vLRN31
 
 *** Master of Worlds (UNIT new #6.4) :Master_war:
-*** The War Master series 4 :Master_war:scripted:
+*** The War Master series 4: Anti-Genesis :Master_war:scripted:
 **** DONE [#B] 4.1 From the Flames :has_plot:D2021_10_master:
 CLOSED: <2021-01-16 Sat 22:52>
 :PROPERTIES:
@@ -636,7 +636,7 @@ CLOSED: [2021-11-16 Tue 19:56] SCHEDULED: <2021-11-13 Sat>
 :rating:   9.4
 :END:
 
-*** TODO The War Master series 5
+*** TODO The War Master series 5: Hearts of Darkness
 **** [#B] 5.1 - The Edge of Redemption
 :PROPERTIES:
 :rating:   8.1
@@ -657,12 +657,12 @@ CLOSED: [2021-11-16 Tue 19:56] SCHEDULED: <2021-11-13 Sat>
 :rating:   8.9
 :END:
 
-*** TODO The War Master series 6
+*** TODO The War Master series 6: Killing Time
 **** 6.1 - The Sincerest Form of Flattery
 **** 6.2 - A Quiet Night In
 **** 6.3 - The Orphan
 **** 6.4 - Unfinished Business
-*** The War Master series 1 :🎧:Master_war:scripted:
+*** The War Master series 1: Only the Good :🎧:Master_war:scripted:
 **** DONE [#B] Beneath the Viscoid :plot_yes:D2021_07_extra:
 CLOSED: [2020-12-18 Fri 12:30]
 :PROPERTIES:

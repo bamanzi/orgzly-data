@@ -33,7 +33,7 @@ SCHEDULED: <2021-11-04 Thu>
 
 【【广播剧翻译】死者复活参加自己的葬礼？九任冒险集：老朋友 401 Fond Farewell-哔哩哔哩】 https://b23.tv/TSaPh4d
 
-***** 4.2 Way of the Burryman :Cybermen:
+***** 4.2 Way of the Burryman :Cybermen:bilibili:
 ***** 4.3 The Forth Generation :Cybermen:
 *** ST (audiobooks)
 **** [#C] DotD#9. Night of the Whisper :plot_yes:
@@ -57,14 +57,17 @@ SCHEDULED: <2021-11-04 Thu>
 :END:
 
 *** fan-made :fan_made:
-**** 0.3 - What I Did on My Christmas Holidays by Sally Sparrow :short:D2022_03_doctor:week2:
+**** START 0.3 - What I Did on My Christmas Holidays by Sally Sparrow :short:D2022_03_doctor:week4:
+SCHEDULED: <2022-03-28 Mon>
+
 **** 0.4 - The Beast of Babylon
 **** 3QTR 0.5 Exhausted Supplies :12th_Dr:D2021_12_doctor:week2:bilibili:
 CLOSED: [2021-12-14 Tue 20:07] DEADLINE: <2021-12-08 Wed 20:05> SCHEDULED: <2021-12-10 Fri>
 
 【【神秘博士/有声剧/字幕】饭制双博士有声剧Exhausted Supplies Doctor Who Audio Drama 九任和十二任博士意外相遇-哔哩哔哩】 https://b23.tv/KOphvaM 
 
-**** START [#C] #1. Cold Open :D2022_03_doctor:week2:
+**** HALF [#C] #1. Cold Open :D2022_03_doctor:week2:
+SCHEDULED: <2022-03-14 Mon>
 
 https://ninthdoctoradventures.wordpress.com/episodes/
 
@@ -249,6 +252,20 @@ SCHEDULED: <2021-09-30 Thu>
 【【David Tennant】Big Finish广播剧熟肉the Tenth Doctor and River Song - Ghosts-哔哩哔哩】https://b23.tv/84jHoJ
 
 *** Dalek Universe :P2021:Anya:Mark_7:
+
+前两季基本就是The Dalek's Master Plan的续作
+
+第三季是The Destiny of the Daleks 的续作
+
+四爷的那个前传是Death to the Daleks的续作
+
+第三季结尾还接上了The Resurrection of the Daleks
+
+
+嗯，而且准确来说老版The Daleks' Master Plan—>四爷广播剧第八季—>广播剧The Dalek Protocol—>打雷宇宙前两季—>老版The Destiny of the Daleks—>打雷宇宙第三季—>Resurrection of the Daleks
+
+要理清情节顺序的话大概是这么个顺序
+
 **** The Dalek Protocol :4th_Dr:Leela:K9_1:plot_no:
 SCHEDULED: <2021-11-08 Mon>
 
@@ -345,8 +362,12 @@ CLOSED: <2021-10-16 Sat 10:18>
 * 11th :11th_Dr:
 ** tv :📺:
 ** audio
-*** 3QTR ST10.5 Regeneration Impossible :D2021_08_extra:12th_Dr:
 *** 11DC
+**** [#C] 11DC1.4 - False Coronets
+:PROPERTIES:
+:rating:   7.8
+:END:
+
 *** 11DC vol.2 :P2021:
 **** HALF [#D] 11DC 2.1 The Evolving Dead (?7.1) :D2021_09_dr:overdue:plot_no:
 SCHEDULED: <2021-11-04 Thu>
@@ -359,8 +380,20 @@ SCHEDULED: <2022-01-31 Mon>
 :rating:   6.0
 :END:
 
-**** NOW [#D] 11DC2.4 A Tragical History (?7.4) :D2022_03_doctor:week1:
+**** HALF [#D] 11DC2.4 A Tragical History (?7.4) :D2022_03_doctor:week1:
 SCHEDULED: <2022-03-10 Thu>
+
+*** short trips
+**** 3QTR ST10.5 Regeneration Impossible :D2021_08_extra:12th_Dr:
+**** [#B] ST11.1 Rearguard :P2022_02:
+:PROPERTIES:
+:rating:   8.4?
+:END:
+
+*** [#C] The Churchill Years 1.3 Living History :P2016:
+:PROPERTIES:
+:rating:   7.9
+:END:
 
 ** comics
 *** IDW
