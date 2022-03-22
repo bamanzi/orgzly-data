@@ -29,7 +29,9 @@
 *** DONE 卷4：迷雾季节 (Season of Mists, #21-#31)
 CLOSED: <2022-02-05 Sat 17:17>
 
-*** NOW 卷五：一场游戏一场梦 (A Game of You, #32-37)
+*** DONE 卷五：一场游戏一场梦 (A Game of You, #32-37)
+CLOSED: [2022-03-17 Thu 07:27]
+
 *** TPB.6 Fables and Reflections
 *** TPB.7 Brief Lives
 *** TPB.8 Worlds' End
@@ -88,19 +90,41 @@ CLOSED: [2022-03-04 Fri 20:16]
 
 路西法烧了自己的翅膀
 
+**** DONE 1x08
+CLOSED: [2022-03-08 Tue 20:20]
+
+**** DONE 1x09
+CLOSED: [2022-03-19 Sat 11:27]
+
 * Preacher
 ** comics :📚:
 *** DONE book 1 (1-12)
 *** DONE book 2 (13-26)
-*** book 3
-**** DONE Preacher 27-33
+*** vol.4 Ancient History
+**** NOW Saint of Killers #1-4
+
+https://dc.fandom.com/wiki/Saint_of_Killers_(Preacher)
+
+**** The Good Old Boys
+
+与杰西祖母有关的两个人物
+
+**** DONE The Story of You-Know-Who
+*** DONE vol.5 Dixie Fried
 CLOSED: [2022-02-24 Thu 13:27]
 
-**** NOW Saint of Killers #1-4
-*** book 4
-**** NOW Preacher 34-40
-**** specials x4
-*** book 5 (41-54)
+**** DONE Preacher #27-33
+**** BLOCK Cassidy: Blood & Whiskey
+*** DONE vol.6 War in the Sun
+CLOSED: [2022-03-20 Sun 10:45]
+
+**** DONE Preacher 34-40
+CLOSED: [2022-03-14 Mon 22:34]
+
+**** DONE One Man's War
+CLOSED: [2022-03-20 Sun 10:45]
+
+*** vol.7 Salvation (41-50)
 ** tv
 *** S1 :P2016:
 **** DONE 1x01, 02, 03
@@ -136,6 +160,18 @@ Cass 回归
 
 *** DONE 13x06,07
 CLOSED: [2022-03-04 Fri 18:14]
+
+*** DONE 13x08
+CLOSED: [2022-03-08 Tue 12:20]
+
+*** DONE 13x09,10
+CLOSED: [2022-03-10 Thu 19:34]
+
+*** DONE 13x11
+CLOSED: <2022-03-16 Wed 22:36>
+
+*** DONE 13x12
+CLOSED: [2022-03-20 Sun 10:10]
 
 ** S14
 ** S15

@@ -165,22 +165,37 @@ CLOSED: <2021-01-05 Tue 18:39>
 **** DONE [#B] 9x04 4-D :👍:
 CLOSED: [2022-03-07 Mon 08:17]
 
-**** 9x05 Lord of the Flies
+**** DONE 9x05 Lord of the Flies
+CLOSED: [2022-03-11 Fri 20:18]
+
 **** TODO 9x06 Trust No 1 :myth:super-soldier:
 **** 9x07 John Doe
-**** 9x08 Hellbound
+**** DONE 9x08 Hellbound
+CLOSED: [2022-03-19 Sat 10:25]
+
+轮回转世
+
 **** TODO 9x09 Provenance :myth:
 **** TODO 9x10 Providence :myth:super-soldier:
 **** 9x11 Audrey Pauley
+**** 9x12 Underneath
 **** 9x13 Improbable
+**** 9x14 Scary Monsters
 **** 9x15 Jump the Shark :myth:
 **** 9x16 William :myth:
 **** [#A] 9x17 Release :👍:
+**** 9x18 Sunshine Days
+**** 9x19 The Truth
 *** S10
 **** 10x01 My Struggle :myth:
 **** 10x02 Founder's Mutation
+**** [#B] 10x03 Mulder & Scully Meet the Were-Monster :👍:
+**** 10x04 Home Again
+**** 10x05 Babylon
+**** 10x06 My Struggle II :myth:
 *** S11
 **** 11x01 My Struggle III :myth:
+**** [#B] 11x04 The Lost Art of Forehead Sweat
 **** 11x05 Ghouli
 **** 11x06 Kitten :Skinner:Vietnam_War:
 **** 11x10 My Struggle IV :myth:
@@ -196,10 +211,10 @@ CLOSED: [2020-11-13 Fri 19:21]
 **** DONE 13-19 + ½ + annuals 1,2 :1996:
 CLOSED: <2020-11-14 Sat 22:47>
 
-**** DONE 20-29 (1996-1997)
+**** DONE vol.3 20-29 (1996-1997)
 CLOSED: [2020-12-02 Wed 22:47]
 
-**** 30-41 (1997-1998)
+**** vol.4 30-41 (1997-1998)
 **** specials: -1,-2, Digest 1/2/3
 *** Wildstorm (2008-2009)
 **** DONE 00-02 :myth:
@@ -287,7 +302,9 @@ CLOSED: [2020-11-03 Tue 22:15]
 *** Stolen Lives (comics 17-25)
 ** prose :📄:
 *** vol.1 Trust No One :ebook:
+
 book review: https://is.gd/TyY4hb (coldbananas.com)
+
 **** DONE [#C] Oversight :Skinner:
 CLOSED: <2020-10-30 Fri 23:12>
 
@@ -295,10 +312,30 @@ CLOSED: <2020-10-30 Fri 23:12>
 CLOSED: <2020-10-10 Sat 16:40>
 
 *** vol.2 The Truth is Out There :🛒:
-book review: https://is.gd/LXpZZR (coldbanas.com)
+
+book review: https://is.gd/LXpZZR (coldbananas.com)
  http://coldbananas.com/2016/05/books/the-truth-is-out-there-serves-up-another-mixed-bag-of-x-files-short-stories/
+
+**** DONE [#C] Dead Ringer
+CLOSED: [2022-03-13 Sun 14:23]
+
+[cp]#X档案# 短篇集 The Truth is Out There 中第一个故事 Dead Ringer ：一个小男孩夜里从床上突然消失，几小时后被几十里外露营的人遇到，但小男孩已经失去了记忆，身上还多了新的胎记，医生还发现小孩有几根肋骨断裂并愈合的痕迹。Mulder 和 Scully 前来调查，孩子的父亲却坚决地说回来的那位并不是他的孩子...
+
+二人调查发现有一个中年女人Heidi 在二十多年前有几乎一样的遭遇。当 Heidi 给出可能是外星人劫持的说法时，连 Scully 都几乎相信了，但 Mulder 没信。
+
+翻查二十年前档案后他们去精神病院访谈了其中一个涉案人员，后者混乱的话语带他们找到了 Heidi 的si体，依稀仍然是当年那个小女孩的模样 ...[/cp]
+
 **** DONE [#B] Mummiya
 CLOSED: [2022-03-06 Sun 21:26]
+
+
+[cp]补记：Mummiya 是上周看的，也收录于短篇集 The Truth is Out There
+
+这是一个关于埃及神秘的木乃伊的故事。街边流浪汉遇到一个木乃伊模样的影子在街上游荡，壮着胆子捅了一刀，木乃伊倒下了。Scully 发现层层裹尸布里面是一个女孩儿，判断死于两三个月前。那流浪汉怎么会看到木乃伊在街边晃荡呢？
+
+Scully 查明死者是个身患绝症的大学生后，Mulder 去埃及文化专家那里进行咨询，结果发现死者的男友是教授课上的狂热学生 Bryan ，而且也好几天没有消息了
+
+急于探明真相的 Mulder 根据线索夜探 Bryan 住宅，不料却被打晕，醒来后 Bryan 疯狂地问他要他女友的木乃伊，原来他为了挽救患上绝症的女友，疯狂研究从导师那里找到的典籍Book of the Dead，把女友做成了一具木乃伊，指望后面回魂之术能发挥作用。问题在于，他从昏迷中醒来后，木乃伊却不见了....[/cp]
 
 **** DONE Phase Shift
 **** DONE [#C] Snowman :Doggett:
@@ -306,7 +343,9 @@ CLOSED: <2019-11-29 Fri 13:13>
 
 **** Voice of Experience
 *** vol.3 Secret Agendas :🛒:ebook:
-book review: https://is.gd/Xv3hBF (coldbanans.com)
+
+book review: https://is.gd/Xv3hBF (coldbananas.com)
+
 **** DONE [#C] Seek and You Will Find
 CLOSED: [2020-12-13 Sun 21:04]
 
@@ -337,7 +376,7 @@ CLOSED: [2020-10-10 Sat 19:27]
 :END:
 
 * Fringe :fringe:
-** NOW Fringe S1 :📺:
+** NOW Fringe S1 (20 ep) :📺:
 *** DONE 1x01, 02
 CLOSED: [2022-02-19 Sat 20:28]
 
@@ -349,4 +388,10 @@ CLOSED: [2022-02-27 Sun 20:48]
 
 *** DONE 1x05,06
 CLOSED: [2022-03-06 Sun 19:45]
+
+*** DONE 1x07,08
+CLOSED: [2022-03-13 Sun 09:07]
+
+*** DONE 1x09
+CLOSED: [2022-03-15 Tue 18:48]
 

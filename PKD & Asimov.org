@@ -1,12 +1,53 @@
 * PKD
 ** Blade Runner
-*** 小说：仿生人梦见电绵羊了吗
+*** 小说：仿生人梦见电绵羊了吗(Do Androids Dream of Electric Sheep)
 *** movies
 **** Blade Runner :🎦:P1982:
 **** 2022: Black Out (黑暗浩劫/大断电)
 **** 2036: Nexus Dawn
 **** 2048: Nowherr to Run
 **** DONE Blade Runner 2049 :🎦:P2017:
+*** comics :📚:
+**** NEXT Do Androids Dream of Electric Sheep :P2009:Boom:
+
+https://bladerunner.fandom.com/wiki/Do_Androids_Dream_of_Electric_Sheep%3F_(comic_book)?so=search
+
+download: https://www.zipcomic.com/do-androids-dream-of-electric-sheep
+
+**** Blade Runner :P1982:
+
+Adaptation of the movie Blade Runner
+
+https://getcomics.info/marvel/blade-runner-1-2-1982/
+
+**** NEXT Blade Runner 2019 (12 issues) :Titan:P2019:
+
+https://bladerunner.fandom.com/wiki/Blade_Runner_2019
+
+download: 
+- https://comics.codes/blade-runner-2019/
+- https://www.zipcomic.com/blade-runner-2019
+
+**** READY Blade Runner 2029 :P2020:
+
+December 16, 2020 – February 9, 2022
+
+download: https://comics.codes/blade-runner-2029/
+
+**** BLOCK Blade Runner 2039
+**** BLOCK Blade Runner Origins :P2021:
+
+https://bladerunner.fandom.com/wiki/Blade_Runner_Origins
+
+**** Blade Runner: Black Lotus :P2022:
+
+https://bladerunner.fandom.com/wiki/Blade_Runner:_Black_Lotus_(comic)
+
+*** tv
+**** Blade Runner: Black Lotus (13 eps) :P2021:animated:
+
+https://bladerunner.fandom.com/wiki/Blade_Runner:_Black_Lotus
+
 ** The Man in the High Castle
 *** DONE 小说：高堡奇人
 *** tv :📺:
