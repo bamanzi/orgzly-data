@@ -22,19 +22,37 @@ SCHEDULED: <2021-11-04 Thu>
 【【广播剧翻译】墓地星球中针对博士的阴谋 九任冒险集 203 Planet of the End-哔哩哔哩】 https://b23.tv/uwJY0f7
 
 **** vol.3 Lost Warriors :P2021_11:
-***** 3.1. The Hunting Season :D2022_Q2:
-***** 3.2 The Curse of Lady Macbeth
-***** READY 3.3 Monsters in Metropolis :Cybermen:bilibili:
+***** [#E] 3.1. The Hunting Season :D2022_Q2:
+:PROPERTIES:
+:rating:   6.8
+:END:
+
+***** [#E] 3.2 The Curse of Lady Macbeth
+:PROPERTIES:
+:rating:   6.6
+:END:
+
+***** READY 3.3 Monsters in Metropolis :Cybermen:bilibili:D2022_05_doctor:
 
 【【广播剧翻译】大都会电影里出现了赛博人？九任冒险集 303 Monsters in Metropolis-哔哩哔哩】 https://b23.tv/ayLbFDQ
 
 **** vol.4 Old Friends
-***** 4.1 Fond Farewell :bilibili:
+***** [#C] 4.1 Fond Farewell :bilibili:
 
 【【广播剧翻译】死者复活参加自己的葬礼？九任冒险集：老朋友 401 Fond Farewell-哔哩哔哩】 https://b23.tv/TSaPh4d
 
-***** 4.2 Way of the Burryman :Cybermen:bilibili:
-***** 4.3 The Forth Generation :Cybermen:
+***** [#B] 4.2 Way of the Burryman :Cybermen:bilibili:
+:PROPERTIES:
+:rating:   8.2
+:END:
+
+【【广播剧翻译】九叔与老年准将 九任冒险集：老朋友 402 Way of the Burryman-哔哩哔哩】 https://b23.tv/HfJuOyt
+
+***** [#B] 4.3 The Forth Generation :Cybermen:
+:PROPERTIES:
+:rating:   8.2
+:END:
+
 *** ST (audiobooks)
 **** [#C] DotD#9. Night of the Whisper :plot_yes:
 :PROPERTIES:
@@ -58,7 +76,7 @@ SCHEDULED: <2021-11-04 Thu>
 
 *** fan-made :fan_made:
 **** START 0.3 - What I Did on My Christmas Holidays by Sally Sparrow :short:D2022_03_doctor:week4:
-SCHEDULED: <2022-03-28 Mon>
+SCHEDULED: <2022-03-31 Thu>
 
 **** 0.4 - The Beast of Babylon
 **** 3QTR 0.5 Exhausted Supplies :12th_Dr:D2021_12_doctor:week2:bilibili:
@@ -67,7 +85,7 @@ CLOSED: [2021-12-14 Tue 20:07] DEADLINE: <2021-12-08 Wed 20:05> SCHEDULED: <2021
 【【神秘博士/有声剧/字幕】饭制双博士有声剧Exhausted Supplies Doctor Who Audio Drama 九任和十二任博士意外相遇-哔哩哔哩】 https://b23.tv/KOphvaM 
 
 **** HALF [#C] #1. Cold Open :D2022_03_doctor:week2:
-SCHEDULED: <2022-03-14 Mon>
+SCHEDULED: <2022-03-30 Wed>
 
 https://ninthdoctoradventures.wordpress.com/episodes/
 
@@ -243,7 +261,7 @@ CLOSED: [2021-06-18 Fri 10:25]
 :rating:   6.5
 :END:
 
-**** TODO [#B] 10D&RS 3. Ghosts :bilibili:D2022_04_doctor:
+**** TODO [#B] 10D&RS 3. Ghosts :bilibili:D2022_06_doctor:
 SCHEDULED: <2021-09-30 Thu>
 :PROPERTIES:
 :rating:   8.3
@@ -363,7 +381,7 @@ CLOSED: <2021-10-16 Sat 10:18>
 ** tv :📺:
 ** audio
 *** 11DC
-**** [#C] 11DC1.4 - False Coronets
+**** TODO [#C] 11DC1.4 - False Coronets
 :PROPERTIES:
 :rating:   7.8
 :END:
@@ -381,16 +399,16 @@ SCHEDULED: <2022-01-31 Mon>
 :END:
 
 **** HALF [#D] 11DC2.4 A Tragical History (?7.4) :D2022_03_doctor:week1:
-SCHEDULED: <2022-03-10 Thu>
+SCHEDULED: <2022-03-30 Wed>
 
 *** short trips
 **** 3QTR ST10.5 Regeneration Impossible :D2021_08_extra:12th_Dr:
-**** [#B] ST11.1 Rearguard :P2022_02:
+**** [#B] ST11.1 Rearguard :P2022_07:
 :PROPERTIES:
 :rating:   8.4?
 :END:
 
-*** [#C] The Churchill Years 1.3 Living History :P2016:
+*** TODO [#C] The Churchill Years 1.3 Living History :P2016:D2022_05_spinoffs:
 :PROPERTIES:
 :rating:   7.9
 :END:
@@ -484,7 +502,7 @@ CLOSED: [2021-09-24 Fri 08:10]
 :rating:   7.3
 :END:
 
-**** [#C] 2. War Wounds
+**** TODO [#C] 2. War Wounds
 :PROPERTIES:
 :rating:   7.5
 :END:
@@ -509,7 +527,32 @@ CLOSED: [2022-02-23 Wed 20:38] SCHEDULED: <2022-02-24 Thu>
 :rating:   6.4
 :END:
 
-**** 2.3 The Weight of History :D2022_04_doctor:
+**** [#D] 12DC2.3 The Weight of History :D2022_04_doctor:
+:PROPERTIES:
+:rating:   7.0
+:END:
+
+*** Short Trips
+**** [#B] 9.2 - The Astrea Conspiracy
+:PROPERTIES:
+:rating:   8.0
+:END:
+
+**** [#C] 9.9 - Dead Media
+:PROPERTIES:
+:rating:   7.7
+:END:
+
+**** READY [#D] 9.X The Best-Laid Plans :scripted:
+:PROPERTIES:
+:rating:   7.2
+:END:
+
+**** [#D] A Song For Running
+:PROPERTIES:
+:rating:   7.2
+:END:
+
 ** novels :novel:
 *** [#C] Silhouette 侧影 :已购:Kindle己购:
 :PROPERTIES:

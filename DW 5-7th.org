@@ -108,8 +108,8 @@ CLOSED: [2021-06-15 Tue 08:16]
 :rating:   8.8
 :END:
 
-**** HALF [#D] MR087. The Gathering :Cybermen:Tegan:plot_no:D2022_03_doctor:week3:
-SCHEDULED: <2022-03-21 Mon>
+**** 2DONE [#D] MR087. The Gathering :Cybermen:Tegan:plot_no:D2022_03_doctor:week3:
+CLOSED: [2022-03-27 Sun 12:08] SCHEDULED: <2022-03-30 Wed>
 :PROPERTIES:
 :rating:   7.0
 :END:
@@ -447,7 +447,7 @@ CLOSED: [2021-07-15 Thu 14:15]
 :rating:   7.8
 :END:
 
-**** [#A] 27. The One Doctor (9.0) :Mel:plot_no:D2022_Q2_doctor:
+**** [#A] 27. The One Doctor (9.0) :Mel:plot_no:D2022_04_doctor:
 **** [#D] 34. ...ish :Peri:
 :PROPERTIES:
 :rating:   7.1
@@ -509,7 +509,7 @@ CLOSED: [2021-03-22 Mon 20:39]
 :END:
 
 *** main range 101-150 :scripted:
-**** [#B] 105. The Condemned (8.4) :Charley:plot_no:D2022_04_doctor:
+**** [#B] 105. The Condemned (8.4) :Charley:plot_no:D2022_06_doctor:
 SCHEDULED: <2022-02-11 Fri>
 
 Six and Charley meet, and an enjoyable, weird adventure results.
@@ -835,8 +835,11 @@ CLOSED: <2021-05-31 Mon 08:10>
 SCHEDULED: <2021-09-26 Sun>
 
 ***** [#A] 140. A Death in the Family (9.5) :P2010:Ace:Hex:Evelyn:Nobody_No_One:the_Forge:plot_no:
-***** HALF [#B] MR149. Robophobia (8.4) :P2011:Liv:Kaldor_androids:plot_no:D2022_03_doctor:week1:
-SCHEDULED: <2022-03-10 Thu>
+***** 3QTR [#B] MR149. Robophobia (8.4) :P2011:Liv:Kaldor_androids:plot_no:D2022_03_doctor:week1:
+CLOSED: [2022-03-25 Fri 11:24] SCHEDULED: <2022-03-15 Tue>
+:PROPERTIES:
+:rating:   8.4
+:END:
 
 **** MR151-200
 ***** 2DONE [#C] MR152. House of Blue Fire :plot_no:D2021_07_dr:Sally:Great_Old_Ones:
@@ -1035,4 +1038,9 @@ SCHEDULED: <2021-12-03 Fri>
 12月7日：第五章
 12月9日：第六章
 12月18-19日：第七-九章
+
+*** [#A] Just War
+:PROPERTIES:
+:rating:   4.13
+:END:
 

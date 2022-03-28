@@ -8,7 +8,7 @@ CLOSED: [2020-08-11 Tue 08:46]
 :rating:   7.7
 :END:
 
-***** DONE [#E] 017 - Sword Of Orion :cybermen:D2022_04_doctor:
+***** DONE [#E] 017 - Sword Of Orion :cybermen:D2022_06_doctor:
 CLOSED: [2020-08-18 Tue 08:19]
 :PROPERTIES:
 :rating:   6.9
@@ -188,7 +188,11 @@ CLOSED: [2021-06-04 Fri 07:34]
 :END:
 
 *** Charlotte Pollard: The Further Adventuress :P2022_01:
-**** CPFA 1.4 Heart of Orion :D2022_04_doctor:Cybermen:
+**** [#E] CPFA 1.4 Heart of Orion :D2022_06_doctor:Cybermen:
+:PROPERTIES:
+:rating:   6.8
+:END:
+
 *** 8DA :scripted:Lucie:8da:
 **** 8DA series 1 :scripted:
 ***** START [#C] 1.1/1.2 Blood of the Daleks
@@ -217,7 +221,7 @@ CLOSED: <2021-01-01 Fri 07:40>
 :rating:   7.1
 :END:
 
-***** TODO [#A] 1.7/1.8 Human Resources :cybermen:D2022_Q4:
+***** TODO [#A] 1.7/1.8 Human Resources :cybermen:D2022_04_doctor:
 :PROPERTIES:
 :rating:   8.5
 :END:
@@ -247,7 +251,7 @@ It was set between series 1 and series 2 of the Eighth Doctor Adventures a
 :rating:   7.5
 :END:
 
-***** [#C] 2.3 - Brave New Town
+***** TODO [#C] 2.3 - Brave New Town
 :PROPERTIES:
 :rating:   7.9
 :END:
@@ -257,7 +261,7 @@ It was set between series 1 and series 2 of the Eighth Doctor Adventures a
 :rating:   5.5
 :END:
 
-***** [#C] 2.5 - Grand Theft Cosmos
+***** TODO [#C] 2.5 - Grand Theft Cosmos
 :PROPERTIES:
 :rating:   7.9
 :END:
@@ -267,7 +271,7 @@ It was set between series 1 and series 2 of the Eighth Doctor Adventures a
 :rating:   7.9
 :END:
 
-***** [#C] 2.7 - Sisters of the Flame
+***** TODO [#C] 2.7 - Sisters of the Flame
 :PROPERTIES:
 :rating:   7.8
 :END:
@@ -284,7 +288,7 @@ It was set between series 1 and series 2 of the Eighth Doctor Adventures a
 ***** [#D] 3.4 Wirrn Dawn (7.1)
 ***** [#D] 3.5 The Scapegoat     (7.2)
 ***** [#C] 3.6 The Cannibalists  (7.5)
-***** [#C] 3.7 The Eight Truths  (7.7)
+***** TODO [#C] 3.7 The Eight Truths  (7.7)
 ***** [#C] 3.8 Worldwide Web (7.5)
 **** 8DA series 4
 ***** 3QTR [#B] 4.1 _Death in Blackpool_ :Zygons:D2021_08_dr:
@@ -294,7 +298,7 @@ It was set between series 1 and series 2 of the Eighth Doctor Adventures a
 
 ***** [#C] 4.2  Situation Vacant    (7.6) :Tamsin:
 ***** CANCEL +4.3  Nevermore+ (6.6) :Tamsin:
-***** DONE 4.4 The Book of Kells (8.1) :Tamsin:Monk:Lucie:
+***** DONE [#B] 4.4 The Book of Kells (8.1) :Tamsin:Monk:Lucie:
 ***** 2DONE [#C] 4.5 Deimos :ice_warriors:
 CLOSED: [2021-06-17 Thu 23:27]
 :PROPERTIES:
@@ -359,17 +363,21 @@ CLOSED: <2021-10-28 Thu 14:30>
 
 *** Doom Coalition :plot_yes:scripted:
 **** Doom Coalition 1
-***** 3QTR DC1.1 The Eleven :D2022_01_doctor:
+***** 3QTR [#B] DC1.1 The Eleven :D2022_01_doctor:
 CLOSED: [2022-01-05 Wed 16:56] SCHEDULED: <2022-01-30 Sun>
 :PROPERTIES:
 :thetimescales: 8.4
 :END:
 
-***** 3QTR DC1.2 The Red Lady :D2022_01_doctor:
+【【神秘博士广播剧汉化】欢迎新反派十一光荣登场 Doom Coalition 101 The Eleven-哔哩哔哩】 https://b23.tv/oIkDWd7
+
+***** 3QTR [#A] DC1.2 The Red Lady :D2022_01_doctor:
 CLOSED: <2022-01-19 Wed 20:06> SCHEDULED: <2022-01-30 Sun>
 :PROPERTIES:
 :thetimescales: 9.3
 :END:
+
+【【神秘博士广播剧汉化】Helen小姐姐初登场，智斗神秘怪物红夫人 Doom Coalition 102 The Red Lady-哔哩哔哩】 https://b23.tv/kysZeqJ
 
 ***** HALF [#E] 1.3 - The Galileo Trap :D2022_02_doctor:
 SCHEDULED: <2022-02-24 Thu>
@@ -426,20 +434,52 @@ SCHEDULED: <2022-02-28 Mon>
 :END:
 
 *** Ravenous :Liv:
+**** Ravenous 1
+***** READY 1.1 Their Finest Hour
+
+【【神秘博士广播剧汉化】博士与丘吉尔的再次相遇 Ravenous 101 Their Finest Hour-哔哩哔哩】 https://b23.tv/d59He2Z
+
+***** READY 1.2 How to Make a Killing in Time
+
+【【神秘博士广播剧汉化】如何在时间旅行中杀人 Ravenous 102 How to Make a Killing in Time Travel-哔哩哔哩】 https://b23.tv/Mk7EzIp
+
 **** Ravenous 4 :Helen:scripted:
 ***** 4.3/4.4 Day of the Master :War_Master:Missy:
 *** Stranded
 **** Stranded vol.1
-***** 1.1. Lost Property
+***** READY 1.1. Lost Property
 
 【【神秘博士广播剧汉化】Stranded 101 Lost Property-哔哩哔哩】 https://b23.tv/PVpk0P3
 
-***** 1.2. Wild Animals
+***** READY 1.2. Wild Animals
 
 【【神秘博士广播剧汉化】Stranded 102 Wild Animals-哔哩哔哩】 https://b23.tv/8ZlfnhS
 
-***** 1.3 Must-See TV
-***** 1.4 Divine Intervention
+***** READY 1.3 Must-See TV :bilibili:
+
+【【神秘博士广播剧汉化】贝克街遭遇神秘外星人监视 Stranded 103 Must-see TV-哔哩哔哩】 https://b23.tv/LxB2dhM
+
+***** READY 1.4 Divine Intervention :bilibili:
+
+【【神秘博士广播剧汉化】八任博士惨遭暗杀，到底是圣人还是暴君 Stranded 104 Divine Intervention-哔哩哔哩】 https://b23.tv/hp9RA9M
+
+**** Stranded vol.2
+***** READY 2.1 Dead Time :bilibili:
+
+【【神秘博士广播剧汉化】发生在在遥远未来的废土世界中的冒险 Stranded 201 Dead Time-哔哩哔哩】 https://b23.tv/j4y3Dku
+
+***** READY 2.2 UNIT Dating :bilibili:
+
+【【神秘博士广播剧汉化】UNIT时期诡异二三事  Stranded 202 UNIT Dating-哔哩哔哩】 https://b23.tv/smrjqOU
+
+***** READY 2.3 Baker Street Irregulars :bilibili:
+
+【【神秘博士广播剧汉化】博士的007体验 Stranded 203 Baker Street Irregulars-哔哩哔哩】 https://b23.tv/9cZaGrx
+
+***** READY 2.4 The Long Way Round :bilibili:
+
+【【神秘博士广播剧汉化】“博士”到底是谁 Stranded 204 The Long Way Round-哔哩哔哩】 https://b23.tv/SGbYhvK
+
 *** 8D Time War
 *** misc :short:
 **** [#C] ST2.8 - Letting Go

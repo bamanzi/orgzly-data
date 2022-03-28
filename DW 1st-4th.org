@@ -104,8 +104,8 @@ CLOSED: [2021-07-27 Tue 23:10]
 :END:
 
 **** [#C] 3.1 The Phoenicians (7.5) :Susan:Ian:Barbara:plot_no:P2019:
-**** START [#A] 1DA3.2 Tick-Tock World :Susan:Ian:Barbara:P2019:plot_yes:D2022_03_doctor:week2:
-SCHEDULED: <2022-03-14 Mon>
+**** HALF [#A] 1DA3.2 Tick-Tock World :Susan:Ian:Barbara:P2019:plot_yes:D2022_03_doctor:week2:
+SCHEDULED: <2022-03-30 Wed>
 :PROPERTIES:
 :rating:   8.5
 :END:
@@ -756,8 +756,8 @@ Confronted with memories she knows nothing about, Jo agrees to a meeting with Ir
 
 https://tardis.fandom.com/wiki/Find_and_Replace_(audio_story)
 
-**** [#B] CC8.4 - Ghost in the Machine :D2022_03_doctor:week2:plot_yes:
-SCHEDULED: <2022-03-21 Mon>
+**** HALF [#B] CC8.4 - Ghost in the Machine :D2022_03_doctor:week2:plot_yes:
+SCHEDULED: <2022-03-30 Wed>
 :PROPERTIES:
 :rating:   8.1
 :END:
@@ -1007,7 +1007,7 @@ CLOSED: [2021-07-27 Tue 23:11]
 :rating:   7.3
 :END:
 
-***** TODO [#C] 4.5 - Suburban Hell (7.7) :plot_yes:D2022_04_doctor:
+***** TODO [#C] 4.5 - Suburban Hell (7.7) :plot_yes:D2022_06_doctor:
 ***** [#D] 4.6 The Cloisters of Terror (7.4)
 ***** [#D] 4.7 The Fate of Krelos (7.2)
 ***** CANCEL [#F] 4.8 Return to Telos (5.8)
@@ -1031,13 +1031,27 @@ CLOSED: <2021-07-01 Thu 16:39>
 ***** [#C] 7.6 The Bad Penny (7.5)
 ***** TODO [#C] 7.7/7.8 - Kill the Doctor! / The Age of Sutekh (7.8/7.0) :Sutekh:
 **** 4DA series 8 :P2019:Ann:
+***** plot
+
+一只晗玥吹泡泡 20:36:05
+
+Anya Kindom初登场于四叔的广播剧集第八季“The Syndicate Master Plan”。初登场时，Anya处于卧底状态，当时为伪装人格Ann Kelso，是一名苏格兰场的警察，她在保护证人以及查案子的过程中遇到了当时到地球追查异常科技的四任博士，并于案件中得知幕后黑手为犯罪组织“Syndicate”，于是两人携手登上Tarids，踏上了追踪Syndicate的路程。
+
+在旅行中，两人数次遇到Syndicate成员，在博士破坏了他们的计划的同时，Anya也干掉了所有的反派，并将其掩饰为意外事故，最终在807中，Anya成功跳狼并表明其SSS特工的身份。可博士发现事情并没有那么简单，SSS的时任局长Zaal才是Syndicate真正的幕后主使，他洗脑了Anya，让她替自己杀死了不逊的前同僚以及将过往痕迹打扫干净。最终在博士的帮助下，Syndicate被彻底毁灭，Anya也彻底恢复了自我，可由于曾经的欺骗，以及博士对于Ann Kelso这个人格的喜爱与缅怀，两人最终分道扬镳。之后就是“The Dalek Protocol”中的故事了。
+
+Kingdom家族在Classic Who也有出现，Anya Kindom的姨妈Sara Kingdom也是SSS的特工，她也曾是一任博士同伴，并最终在与Dalek的抗争中不幸牺牲。Anya的舅舅Bret Vyon也曾帮助过一任博士挫败过Dalek针对太阳系的侵略行为。有趣的是，Bret Vyon的扮演者为Nicholas Courtney，也就是准将的扮演者。
+
+Syndicate是41世纪创立的犯罪组织，其成员主要为银河理事会中的幸存者和星代表继承者，他们于4000年加入了Dalek的伟大联盟。在四任博士第八季广播剧中，Syndicate的主要任务是控制地球，并向博士复仇，在Anya Kingdomg几乎将Syndicate的成员杀干净之后，四任博士最终也彻底毁灭了这个组织。
+
+
+
 ***** HALF [#E] +4DA 8.1 The Sinestran Kill+ :D2021_10_dr:Ann:plot_yes:
 SCHEDULED: <2021-11-05 Fri>
 :PROPERTIES:
 :rating:   6.8
 :END:
 
-***** TODO [#C] 8.3 - The Enchantress of Numbers (7.6)
+***** TODO [#C] 8.3 - The Enchantress of Numbers (7.6) :D2022_04_doctor:
 ***** [#D] 8.6 - Fever Island
 :PROPERTIES:
 :rating:   7.2
