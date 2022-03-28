@@ -168,15 +168,21 @@ CLOSED: [2022-03-07 Mon 08:17]
 **** DONE 9x05 Lord of the Flies
 CLOSED: [2022-03-11 Fri 20:18]
 
-**** TODO 9x06 Trust No 1 :myth:super-soldier:
+**** DONE 9x06 Trust No 1 :myth:super-soldier:
+CLOSED: [2022-03-24 Thu 19:09]
+
 **** 9x07 John Doe
 **** DONE 9x08 Hellbound
 CLOSED: [2022-03-19 Sat 10:25]
 
 轮回转世
 
-**** TODO 9x09 Provenance :myth:
-**** TODO 9x10 Providence :myth:super-soldier:
+**** DONE 9x09 Provenance :myth:
+CLOSED: <2022-03-25 Fri 18:15>
+
+**** DONE 9x10 Providence :myth:super-soldier:
+CLOSED: [2022-03-25 Fri 19:11]
+
 **** 9x11 Audrey Pauley
 **** 9x12 Underneath
 **** 9x13 Improbable
@@ -365,6 +371,7 @@ NOTE: This story is set prior to the events of The X-Files: Season 10 comics ser
 **** DONE [#E] An Eye for an Eye
 CLOSED: [2020-10-10 Sat 19:27]
 
+**** NOW Kanashibari 鬼压床
 *** [#B] Ground Zero & Ruins
 :PROPERTIES:
 :rating:   3.80
@@ -395,3 +402,8 @@ CLOSED: [2022-03-13 Sun 09:07]
 *** DONE 1x09
 CLOSED: [2022-03-15 Tue 18:48]
 
+*** DONE 1x10,11
+CLOSED: [2022-03-23 Wed 20:00]
+
+** comics :📚:
+*** NOW Fringe (vol.1)
