@@ -188,6 +188,21 @@ CLOSED: [2021-06-04 Fri 07:34]
 :END:
 
 *** Charlotte Pollard: The Further Adventuress :P2022_01:
+**** [#E] CPFA 1.1 The Mummy Speaks!
+:PROPERTIES:
+:rating:   6.9
+:END:
+
+**** [#D] CPFA 1.2 Eclipse
+:PROPERTIES:
+:rating:   7.0
+:END:
+
+**** [#D] CPFA 1.3 The Slaying of the Writhing Mass
+:PROPERTIES:
+:rating:   7.0
+:END:
+
 **** [#E] CPFA 1.4 Heart of Orion :D2022_06_doctor:Cybermen:
 :PROPERTIES:
 :rating:   6.8
@@ -221,7 +236,8 @@ CLOSED: <2021-01-01 Fri 07:40>
 :rating:   7.1
 :END:
 
-***** TODO [#A] 1.7/1.8 Human Resources :cybermen:D2022_04_doctor:
+***** START [#A] 1.7/1.8 Human Resources :cybermen:D2022_04_doctor:
+SCHEDULED: <2022-04-13 Wed>
 :PROPERTIES:
 :rating:   8.5
 :END:
@@ -344,7 +360,7 @@ CLOSED: [2020-10-30 Fri 18:15]
 ***** DONE [#A] 2.4 Eyes of the Master (8.6) :Liv:Molly:Master_bald:D2021_07_extra:
 CLOSED: <2021-07-16 Fri 16:32>
 
-**** Dark Eyes vol.3 :Master_bald:
+**** Dark Eyes vol.3 :Master_bald:Liv:
 ***** 2DONE [#C] 3.1 The Death of Hope (7.5) :D2021_07_extra:
 CLOSED: [2021-07-27 Tue 23:10]
 
@@ -355,14 +371,14 @@ CLOSED: <2021-08-20 Fri 08:56>
 ***** 3QTR [#C] DE3.4 Rule of the Eminence (7.5) :D2021_09_extra:
 SCHEDULED: <2021-09-24 Fri>
 
-**** Dark Eyes vol.4
+**** Dark Eyes vol.4 :Liv:
 ***** DONE [#A] 4.1 A Life in the Day (8.9)
 ***** HALF [#C] 4.2 The Monster of Montmartre (7.8)
 ***** 3QTR 4.3 Master of the Daleks :Master_bald:D2021_10_master:
 CLOSED: <2021-10-28 Thu 14:30>
 
-*** Doom Coalition :plot_yes:scripted:
-**** Doom Coalition 1
+*** Doom Coalition :Liv:plot_yes:scripted:
+**** DC vol.1 :Liv:
 ***** 3QTR [#B] DC1.1 The Eleven :D2022_01_doctor:
 CLOSED: [2022-01-05 Wed 16:56] SCHEDULED: <2022-01-30 Sun>
 :PROPERTIES:
@@ -371,7 +387,7 @@ CLOSED: [2022-01-05 Wed 16:56] SCHEDULED: <2022-01-30 Sun>
 
 【【神秘博士广播剧汉化】欢迎新反派十一光荣登场 Doom Coalition 101 The Eleven-哔哩哔哩】 https://b23.tv/oIkDWd7
 
-***** 3QTR [#A] DC1.2 The Red Lady :D2022_01_doctor:
+***** 3QTR [#A] DC1.2 The Red Lady :Helen:D2022_01_doctor:
 CLOSED: <2022-01-19 Wed 20:06> SCHEDULED: <2022-01-30 Sun>
 :PROPERTIES:
 :thetimescales: 9.3
@@ -379,19 +395,19 @@ CLOSED: <2022-01-19 Wed 20:06> SCHEDULED: <2022-01-30 Sun>
 
 【【神秘博士广播剧汉化】Helen小姐姐初登场，智斗神秘怪物红夫人 Doom Coalition 102 The Red Lady-哔哩哔哩】 https://b23.tv/kysZeqJ
 
-***** HALF [#E] 1.3 - The Galileo Trap :D2022_02_doctor:
+***** HALF [#E] 1.3 - The Galileo Trap :Helen:D2022_02_doctor:
 SCHEDULED: <2022-02-24 Thu>
 :PROPERTIES:
 :thetimescales: 6.8
 :END:
 
-***** TODO [#E] 1.4 - The Satanic Mill :D2022_02_doctor:
+***** TODO [#E] 1.4 - The Satanic Mill :Helen:D2022_02_doctor:
 SCHEDULED: <2022-02-28 Mon>
 :PROPERTIES:
 :thetimescales: 6.5
 :END:
 
-**** Doom Coalition 2
+**** DC vol.2 :Helen:
 ***** [#D] 2.1 - Beachhead
 :PROPERTIES:
 :rating:   7.1
@@ -412,7 +428,7 @@ SCHEDULED: <2022-02-28 Mon>
 :rating:   6.9
 :END:
 
-**** DC 3
+**** DC vol.3 :Helen:
 ***** [#A] 3.1 - Absent Friends
 :PROPERTIES:
 :rating:   9.2
@@ -433,8 +449,29 @@ SCHEDULED: <2022-02-28 Mon>
 :rating:   8.
 :END:
 
+**** DC vol.4 :Helen:
+***** [#B] 4.1 - Ship in a Bottle
+:PROPERTIES:
+:rating:   8.4
+:END:
+
+***** [#C] 4.2 - Songs of Love
+:PROPERTIES:
+:rating:   7.9
+:END:
+
+***** [#B] 4.3 - The Side of the Angels
+:PROPERTIES:
+:rating:   8.3
+:END:
+
+***** [#B] 4.4 - Stop the Clock
+:PROPERTIES:
+:rating:   8.1
+:END:
+
 *** Ravenous :Liv:
-**** Ravenous 1
+**** Ravenous vol.1
 ***** READY 1.1 Their Finest Hour
 
 【【神秘博士广播剧汉化】博士与丘吉尔的再次相遇 Ravenous 101 Their Finest Hour-哔哩哔哩】 https://b23.tv/d59He2Z
@@ -443,40 +480,108 @@ SCHEDULED: <2022-02-28 Mon>
 
 【【神秘博士广播剧汉化】如何在时间旅行中杀人 Ravenous 102 How to Make a Killing in Time Travel-哔哩哔哩】 https://b23.tv/Mk7EzIp
 
-**** Ravenous 4 :Helen:scripted:
-***** 4.3/4.4 Day of the Master :War_Master:Missy:
+***** [#D] 1.3 - World of Damnation
+:PROPERTIES:
+:rating:   7.1
+:END:
+
+***** CANCEL [#E] 1.4 - Sweet Salvation
+:PROPERTIES:
+:rating:   6.8
+:END:
+
+**** Ravenous vol.2
+***** [#D] 2.1 - Escape from Kaldor
+:PROPERTIES:
+:rating:   7.2
+:END:
+
+***** [#B] 2.2 - Better Watch Out
+:PROPERTIES:
+:rating:   8.2
+:END:
+
+***** [#B] 2.3 - Fairytale of Salzburg
+:PROPERTIES:
+:rating:   8.3
+:END:
+
+***** [#C] 2.4 - Seizure
+:PROPERTIES:
+:rating:   7.1
+:END:
+
+**** Ravenous vol.3
+***** [#C] 3.1 - Deeptime Frontier
+
+:PROPERTIES:
+:rating:   7.6
+:END:
+
+***** [#A] 3.2 - Companion Piece
+
+:PROPERTIES:
+:rating:   8.9
+:END:
+
+***** CANCEL [#E] +3.3 - L.E.G.E.N.D+
+:PROPERTIES:
+:rating:   6.4
+:END:
+
+***** [#C] 3.4 - The Odds Against
+:PROPERTIES:
+:rating:   7.9
+:END:
+
+**** Ravenous vol.4 :Helen:scripted:
+***** [#d] 4.1 - Whisper
+:PROPERTIES:
+:rating:   7.3
+:END:
+
+***** [#A] 4.2 - Planet of Dust
+:PROPERTIES:
+:rating:   8.9
+:END:
+
+***** [#A] 4.3/4.4 Day of the Master :War_Master:Missy:
+:PROPERTIES:
+:rating:   9.3/9.6
+:END:
+
 *** Stranded
 **** Stranded vol.1
-***** READY 1.1. Lost Property
+***** READY [#C] 1.1. Lost Property :bilibili:
 
 【【神秘博士广播剧汉化】Stranded 101 Lost Property-哔哩哔哩】 https://b23.tv/PVpk0P3
 
-***** READY 1.2. Wild Animals
+***** READY [#A] 1.2. Wild Animals :bilibili:
 
 【【神秘博士广播剧汉化】Stranded 102 Wild Animals-哔哩哔哩】 https://b23.tv/8ZlfnhS
 
-***** READY 1.3 Must-See TV :bilibili:
+***** READY [#C] 1.3 Must-See TV :bilibili:
 
 【【神秘博士广播剧汉化】贝克街遭遇神秘外星人监视 Stranded 103 Must-see TV-哔哩哔哩】 https://b23.tv/LxB2dhM
 
-***** READY 1.4 Divine Intervention :bilibili:
+***** READY [#C] 1.4 Divine Intervention :bilibili:
 
 【【神秘博士广播剧汉化】八任博士惨遭暗杀，到底是圣人还是暴君 Stranded 104 Divine Intervention-哔哩哔哩】 https://b23.tv/hp9RA9M
 
 **** Stranded vol.2
-***** READY 2.1 Dead Time :bilibili:
+***** READY [#D] 2.1 Dead Time :bilibili:
 
 【【神秘博士广播剧汉化】发生在在遥远未来的废土世界中的冒险 Stranded 201 Dead Time-哔哩哔哩】 https://b23.tv/j4y3Dku
 
-***** READY 2.2 UNIT Dating :bilibili:
+***** READY [#A] 2.2 UNIT Dating :bilibili:
 
 【【神秘博士广播剧汉化】UNIT时期诡异二三事  Stranded 202 UNIT Dating-哔哩哔哩】 https://b23.tv/smrjqOU
 
-***** READY 2.3 Baker Street Irregulars :bilibili:
+***** READY [#C] 2.3 Baker Street Irregulars :bilibili:
 
 【【神秘博士广播剧汉化】博士的007体验 Stranded 203 Baker Street Irregulars-哔哩哔哩】 https://b23.tv/9cZaGrx
 
-***** READY 2.4 The Long Way Round :bilibili:
+***** READY [#A] 2.4 The Long Way Round :bilibili:
 
 【【神秘博士广播剧汉化】“博士”到底是谁 Stranded 204 The Long Way Round-哔哩哔哩】 https://b23.tv/SGbYhvK
 
@@ -900,7 +1005,7 @@ CLOSED: [2020-09-23 Wed 14:01]
 :rating:   4.04
 :END:
 
-*** 11DY2
+*** 11DY2 (comics)
 *** The War Doctor vol.1 :scripted:
 *** The War Doctor vol.2 :scripted:
 *** The War Doctor vol.3 :scripted:

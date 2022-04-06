@@ -58,7 +58,8 @@
 **** The War Master vol.1-3
 **** 8D Time War vol.1-2
 **** The War Doctor vol.1-4
-* DW 2021-03
+* DW 2021
+** DW 2021-03
 
 | 01 | BF209. Aquitaine           | 5th | Nyssa, Tegan   |
 | 02 | BF034. Spare Parts         | 5th | Nyssa          |
@@ -68,18 +69,18 @@
 | 06 | BF040. Jubilee             | 6th | Evelyn, Daleks |
 | 07 | BF230. Time in Office      | 5th | Tegan, Leela   |
 
-** DONE BF025 - Colditz (7D, Klein) :7th_Dr:Klein:
-   :PROPERTIES:
-   :MyMR:     01
-   :END:
+*** DONE BF025 - Colditz :7th_Dr:Klein:
+    :PROPERTIES:
+    :MyMR:     01
+    :END:
 
-** DONE BF034 - Spare Parts (5D, Cybermen) :5th_Dr:Cybermen:
-** DONE BF040 - Jubilee (6D, Daleks)                   :6th_Dr:Daleks
-** HALF BF153 - The Silver Turk (8D, Cybermen) :8th_Dr:Cybermen:
-** HALF BF162 - Protect and Survive (7D) :7th_Dr:Ace:
-** DONE BF209 - Aquitaine :5th_Dr:Nyssa:Tegan:
-** DONE BF230 - Time in Office                    :5th_Dr:Tegan:Leela
-* DW 2021-04
+*** DONE BF034 - Spare Parts :5th_Dr:Nyssa:Cybermen:
+*** DONE BF040 - Jubilee :6th_Dr:Daleks:
+*** HALF BF153 - The Silver Turk :8th_Dr:Nyssa:Cybermen:
+*** HALF BF162 - Protect and Survive :7th_Dr:Ace:Hex:
+*** DONE BF209 - Aquitaine :5th_Dr:Nyssa:Tegan:
+*** DONE BF230 - Time in Office :5th_Dr:Tegan:Leela:
+** DW 2021-04
 
 | 08 | BF124 - Patient Zero            | 6th | Charley, Daleks |
 | 09 | BF130 - A Thousand Tiny Wings   | 7th | Klein           |
@@ -87,48 +88,48 @@
 |    | BF094b - Urgent Calls           | 6th | Viyrans         |
 |    | BF102b - Mission of the Viyrans | 5th | Viyrans         |
 
-** DONE 4DA2.1 - The Auntie Matter :4th_Dr:Romana_1:
-** DONE 8DA4.4 - The Book of Kells :8th_Dr:Tamsin:
-** DONE BF024 - The Eye of the Scorpion (5D, Erimm)    :5th_Dr:Erimem
-** DONE BF094b - Urgent Calls :6th_Dr:Viyrans:
-** HALF BF102b - Mission of the Viyrans (5D) :5th_Dr:Peri:
-** DONE BF124 - Patient Zero (6D)      :6th_Dr:Charley:Viyrans:Daleks
-** DONE BF130 - A Thousand Tiny Wings (7D, Klein)
-** HALF DoRS5.1. The Bekdel Test (Missy)
-** DONE EA6.2. Daughter of the Gods (1D, 2D)
-** 3QTR TW38. Iceberg
-* DW 2021-05
+*** DONE 4DA2.1 - The Auntie Matter :4th_Dr:Romana_1:
+*** DONE 8DA4.4 - The Book of Kells :8th_Dr:Tamsin:
+*** DONE BF024 - The Eye of the Scorpion :5th_Dr:Erimem:Peri:
+*** DONE BF094b - Urgent Calls :6th_Dr:Viyrans:
+*** HALF BF102b - Mission of the Viyrans :5th_Dr:Peri:
+*** DONE BF124 - Patient Zero :6th_Dr:Charley:Viyrans:Daleks:
+*** DONE BF130 - A Thousand Tiny Wings :7th_Dr:Klein:
+*** HALF DoRS5.1. The Bekdel Test :Master:Missy:
+*** DONE EA6.2. Daughter of the Gods :1st_Dr:2nd_Dr:Jamie:
+*** 3QTR TW38. Iceberg :Owen:
+** DW 2021-05
 
 | 11 | BF099 - Son of the Dragon (5D)                 | 5th | Peri, Erim |
 | 13 | BF014 - The Holy Terror (6D)                   | 6th | Fob        |
 | 12 | BF131 - Klein's story／Survival of the Fittest | 7th | Klein      |
 
-** DONE 10DA 1.3 - Death and the Queen
-** HALF 3DA4.1 - The Rise of the New Humans :3rd_Dr:Jo:
-** DONE 8DA4.5 - Deimos
-** DONE 8DA4.6 - The Resurrection of Mars
-** DONE BF014 - The Holy Terror (6D)                          :6th_Dr
-** DONE BF099 - Son of the Dragon (5D)                        :5th_Dr
-** HALF BF131 - Klein's story／Survival of the Fittest (7D, Klein) :7th_Dr:Klein
-** HALF DoRS3.3 - My Dinner with Andrew
-** HALF DoRS3.4 - The Furies
-** HALF TW30 - The Hope
-* DW 2021-06
+*** DONE 10DA 1.3 - Death and the Queen :10th_Dr:Donna:
+*** HALF 3DA4.1 - The Rise of the New Humans :3rd_Dr:Jo:
+*** DONE 8DA4.5 - Deimos :8th_Dr:Tasmin:Lucy:Monk:
+*** DONE 8DA4.6 - The Resurrection of Mars :8th_Dr:Monk:Tasmin:
+*** DONE BF014 - The Holy Terror :6th_Dr:Evelyn:
+*** DONE BF099 - Son of the Dragon :5th_Dr:Peri:Erimem:
+*** HALF BF131 - Klein's story／Survival of the Fittest :7th_Dr:Klein:
+*** HALF DoRS3.3 - My Dinner with Andrew :River:5th_Dr:
+*** HALF DoRS3.4 - The Furies :River:5th_Dr:
+*** HALF TW30 - The Hope :Owen:Andy:
+** DW 2021-06
 
 | 14 | BF088 - Memory Lane        | 8th | Charley, C'rizz |   |
 | 15 | BF128 - The Eternal Summer | 5th | Nyssa           |   |
 | 16 | BF084 - The Nowhere Place  | 6th | Evelyn          |   |
 | 17 | BF058 - The Harvest        | 7th | Ace, Hex        |   |
 
-** HALF 10D&RS 1. Expiry Dating
-** DONE 4DA5.6 - The Trouble with Drax
+*** HALF 10D&RS 1. Expiry Dating :10th_Dr:River:
+*** DONE 4DA5.6 - The Trouble with Drax :4th_Dr:Romana_2:
 
 - part2 (00:30:30)
 - <second to last play position> (00:52:43)
 - <last play position> (01:01:00)
 - appendix (01:04:57)
 
-** DONE BF058 - The Harvest (7D, Cybermen)           :7th_Dr:Cybermen
+*** DONE BF058 - The Harvest :7th_Dr:Ace:Hex:Cybermen:
 
 - bad speed (00:00:05)
 - part1 (00:02:45)
@@ -136,7 +137,7 @@
 - part3 (00:59:03)
 - part4 (01:32:13)
 
-** DONE BF084 - The Nowhere Place (6D)                 :6th_Dr:Evelyn
+*** DONE BF084 - The Nowhere Place :6th_Dr:Evelyn:
 
 - part2 (00:27:55)
 - <last play position> (00:28:40)
@@ -145,7 +146,7 @@
 - trevor (01:03:33)
 - part4 (01:22:40)
 
-** 3QTR BF088 - Memory Lane (8D)                      :8th_Dr:Charley
+*** 3QTR BF088 - Memory Lane                      :8th_Dr:Charley
 
 - part2 (00:20:12)
 - part3 (00:44:35)
@@ -155,7 +156,7 @@
 - ad (01:33:15)
 - ad (01:33:20)
 
-** DONE BF128 - The Eternal Summer (5D, Stockbridge)          :5th_Dr
+*** DONE BF128 - The Eternal Summer :Stockbridge:5th_Dr:Nyssa:
 
 - max (00:21:03)
 - part2 (00:28:11)
@@ -167,26 +168,26 @@
 - <last play position> (01:44:02)
 - appd (02:11:30)
 
-** HALF CC6.02 - The Rocket Men (Ian) :1st_Dr:Ian:
+*** HALF CC6.02 - The Rocket Men :1st_Dr:Ian:
 
 - <last play position> (00:32:30)
 - part2 (00:32:30)
 - <second to last play position> (00:57:28)
 - appendix (01:08:03)
 
-** HALF CC7.05 - Return of the Rocket Men (Steven) :1st_Dr:Steven:
+*** HALF CC7.05 - Return of the Rocket Men :1st_Dr:Steven:
 
 - <last play position> (00:00:00)
 - <second to last play position> (00:35:25)
 - part2 (00:35:50)
 
-** HALF DWU2 - Sympathy for the Devil :Unbound:
-** TODO DoRS6.3 - Peepshow (+3D) :3rd_Dr:
+*** HALF DWU2 - Sympathy for the Devil :Unbound:
+*** TODO DoRS6.3 - Peepshow :River:3rd_Dr:
 
 - <last play position> (00:00:00)
 - <second to last play position> (00:00:00)
 
-** HALF EA2.3 - The Black Hole (2D, Monk) :2nd_Dr:Monk:
+*** HALF EA2.3 - The Black Hole :2nd_Dr:Monk:
 
 - part2 (00:26:10)
 - part3 (00:55:20)
@@ -195,31 +196,31 @@
 - <last play position> (01:25:31)
 - appendix (01:55:10)
 
-** START ST6.7 - The Blame Game (Monk) :Monk:
+*** START ST6.7 - The Blame Game :Monk:
 
 - <last play position> (00:00:00)
 
-** HALF TW36. Dissected
-** HALF TW39. Dinner and a Show
-* DW 2021-07
+*** HALF TW36. Dissected
+*** HALF TW39. Dinner and a Show
+** DW 2021-07
 
 | 18 | BF178. 1963_ Fanfare for the Common Men | 5th | Nyssa             |
 | 19 | BF054 - The Natural History of Fear     | 8th | Charley, C'rizz   |
 | 20 | BF152 - House of Blue Fire              | 7th | Sally, Old ones   |
 | 22 | BF023 - Project Twilight (6D)           | 6th | Evelyn, The Forge |
 
-** DW 2021-07
-*** HALF 10DA 1.1 - Technophobia
+*** DW 2021-07
+**** HALF 10DA 1.1 - Technophobia :10th_Dr:Donna:
 
  - <second to last play position> (00:04:53)
  - <last play position> (00:12:59)
 
-*** DONE 1DA 2.1 - The Invention of Death (128kbps) :1st:
+**** DONE 1DA 2.1 - The Invention of Death (128kbps) :1st_Dr:Susan:Ian:Babraba:
 
  - <second to last play position> (00:57:22)
  - <last play position> (01:01:06)
 
-*** DONE 3DA2.1 The Transcendence of Ephros :3rd_Dr:Jo:
+**** DONE 3DA2.1 The Transcendence of Ephros :3rd_Dr:Jo:
 
  - part2 (00:26:40)
  - part3 (00:54:20)
@@ -228,20 +229,20 @@
  - <last play position> (01:38:20)
  - music (01:52:09)
 
-*** START 4DA4.3 - Requiem for the Rocket Men :4th_Dr:
+**** START 4DA4.3 - Requiem for the Rocket Men :4th_Dr:Leela:Master:
 
  - <second to last play position> (00:00:00)
  - <last play position> (00:00:17)
  - part2 (00:35:22)
 
-*** DONE BF023 - Project Twilight (6D)                 :6th_Dr:Evelyn
+**** DONE BF023 - Project Twilight :6th_Dr:Evelyn:
 
  - <second to last play position> (00:10:48)
  - part2 (00:23:30)
  - <last play position> (01:02:28)
  - part4 (01:04:20)
 
-*** DONE BF054 - The Natural History of Fear          :8th_Dr:Charley
+**** DONE BF054 - The Natural History of Fear :8th_Dr:Charley:
 
  - part2 (00:29:21)
  - part3 (01:00:45)
@@ -250,7 +251,7 @@
  - <last play position> (02:09:28)
  - music (02:09:47)
 
-*** 2DONE BF152 - House of Blue Fire (7D, Sally)              :7th_Dr
+**** 2DONE BF152 - House of Blue Fire :7th_Dr:Sally:
 
  - <second to last play position> (00:00:00)
  - <last play position> (00:24:10)
@@ -261,7 +262,7 @@
  - part4 (01:25:40)
  - appendix (01:50:52)
 
-*** DONE BF178. 1963_ Fanfare for the Common Men (5D)         :5th_Dr
+**** DONE BF178. 1963_ Fanfare for the Common Men :5th_Dr:Nyssa:
 
  - <second to last play position> (00:00:32)
  - part1 (00:00:32)
@@ -271,99 +272,99 @@
  - part4 (01:15:30)
  - appendix (01:41:45)
 
-*** HALF DWU8 - Masters of War :Unbound:
+**** HALF DWU8 - Masters of War :Unbound:Daleks:
 
  - <second to last play position> (00:00:00)
  - music (01:05:00)
  - <last play position> (01:17:18)
  - part2 (01:17:52)
 
-** DW 2021-07extra
-*** DONE CC5.02 - Echoes of Grey
-*** HALF CC6.03 - The Memory Cheats
+*** DW 2021-07extra
+**** DONE CC5.02 - Echoes of Grey :Zoe:2nd_Dr:Jamie:
+**** HALF CC6.03 - The Memory Cheats :Zoe:2nd_Dr:
 
  - part2 (00:39:10)
  - <second to last play position> (00:39:16)
  - <last play position> (00:58:48)
 
-*** HALF Dark Eyes 2.4 - Eyes of the Master (#Master)
+**** HALF Dark Eyes 2.4 - Eyes of the Master :8th_Dr:Master:Liv:
 
  - <last play position> (00:00:00)
  - <second to last play position> (00:00:00)
 
-*** DONE Dark Eyes 3.1 - The Death of Hope (#Master)
+**** DONE Dark Eyes 3.1 - The Death of Hope :8th_Dr:Master:Liv:
 
  - <second to last play position> (00:00:00)
  - <last play position> (00:23:52)
 
-*** START DoRS5.2. Animal Instinct (#Master)
+**** START DoRS5.2. Animal Instinct :Master:
 
  - <second to last play position> (00:00:00)
  - <last play position> (00:08:04)
 
-*** DONE J&L5.1 - The Age of Revolution
+**** DONE J&L5.1 - The Age of Revolution :Jago:Litefoot:
 
  - <second to last play position> (00:46:32)
  - <last play position> (00:49:01)
 
-*** START JACK3.1. Crush
+**** START JACK3.1. Crush :Jack:Jackie:
 
  - <second to last play position> (00:00:00)
  - <last play position> (00:00:00)
 
-*** START MISSY1.1. A Spoonful of Mayhem (#Master)
+**** START MISSY1.1. A Spoonful of Mayhem :Master:Missy:
 
  - <second to last play position> (00:00:00)
  - <last play position> (00:18:11)
 
-*** DONE TW20 - The Last Beacon
-*** HALF TW46. Coffee
+**** DONE TW20 - The Last Beacon :Owen:Ianto:
+**** HALF TW46. Coffee :Ianto:
 
  - <second to last play position> (00:40:49)
  - <last play position> (01:09:40)
  - appendix (01:10:18)
 
-*** DONE WM1.1 - Beneath the Viscoid (#Master)
-* DW 2021-08
+**** DONE WM1.1 - Beneath the Viscoid :Master:
+** DW 2021-08
 
 | 21 | BF136. Cobwebs            | 5th      | Nyssa, Tegan |
 | 23 | BF045. Project Lazarus    | 6th, 7th | The Forge    |
 | 24 | BF207a. You are the Doctor | 7th      |              |
 
-** DW 2021-08
-*** HALF 10DA 2.1 Infamy of the Zaross
+*** DW 2021-08
+**** HALF 10DA 2.1 Infamy of the Zaross :10th_Dr:Rose:
 
  - <second to last play position> (00:24:31)
  - <last play position> (00:27:37)
 
-*** START 1DA 1.01 - The Destination Wars (#Master)
+**** START 1DA 1.01 - The Destination Wars :1st_Dr:Susan:Ian:Barbaba:Master
 
  - <second to last play position> (00:52:13)
  - <last play position> (01:17:58)
 
-*** START 4DA 3.6 - Destroy the Infinite
+**** START 4DA 3.6 - Destroy the Infinite :4th_Dr:Leela:Eminence:
 
  - <last play position> (00:00:00)
  - part2 (00:23:50)
  - <second to last play position> (01:02:50)
 
-*** DONE 8DA2.6 - The Zygon Who Fell to Earth
+**** DONE 8DA2.6 - The Zygon Who Fell to Earth :8th_Dr:Lucy:Zygon:
 
  - <second to last play position> (00:35:32)
  - <last play position> (00:36:29)
 
-*** START 8DA4.1 - Death in Blackpool
+**** START 8DA4.1 - Death in Blackpool :8th_Dr:Lucy:Zygon:
 
  - <second to last play position> (00:00:00)
  - <last play position> (00:01:30)
 
-*** DONE BF045 - Project Lazarus (6D+7D)(128kbps)
+**** DONE BF045 - Project Lazarus :6th_Dr:7th_Dr:Evelyn:
 
  - <second to last play position> (00:51:50)
  - <last play position> (00:54:35)
  - part3 (00:54:35)
 
-*** HALF BF136. Cobwebs (5D, Nyssa)
+**** HALF BF136. Cobwebs :5th_Dr:Nyssa:Tegan:Adric:
 
  - <last play position> (00:00:00)
  - part2 (00:28:20)
@@ -372,7 +373,7 @@
  - <second to last play position> (00:56:25)
  - part4 (01:24:50)
 
-*** HALF BF207 - You Are the Doctor and Other Stories
+**** HALF BF207a - You Are the Doctor :7th_Dr:Ace:
 
  - 207a. You Are the Doctor (00:00:21)
  - 207b. Come Die With Me (00:31:25)
@@ -380,107 +381,102 @@
  - <last play position> (00:42:39)
  - p3 (01:00:41)
 
-*** START EA4.4 - The Wreck of the World (2D)
+**** HALF BF207b - Come Die with Me :7th_Dr:Ace:
+**** START EA4.4 - The Wreck of the World :2nd_Dr:Jamie:Zoe:
 
  - <second to last play position> (00:30:15)
  - p2 (00:30:15)
  - <last play position> (00:30:26)
  - p3 (01:03:09)
 
-** DW 2021-08extra
-*** START 1DA 1.01 - The Destination Wars (#Master)
-
- - <second to last play position> (00:00:00)
- - <last play position> (00:00:14)
- - p2 (00:30:10)
- - p3 (01:00:29)
-
-*** DONE BSNA3.1 The Library in the Body (#Master)
-
- - p1 (00:03:30)
- - <second to last play position> (00:29:22)
- - <last play position> (00:41:44)
-
-*** START CC7.04 - The Last Post (3D)
+**** DONE ST10.05 Regeneration Impossible :11th_Dr:12th_Dr:
+**** START CC7.04 - The Last Post :Liz:3rd_Dr:
 
  - <last play position> (00:00:00)
  - <second to last play position> (00:00:00)
  - mother got death letter (00:23:28)
  - part2 (00:33:46)
 
-*** DONE Dark Eyes 3.2 The Reviled
+*** DW 2021-08extra
+**** DONE BSNA3.1 The Library in the Body :Benny:Unbound:Master:
 
- - <second to last play position> (00:04:08)
- - <last play position> (00:14:39)
+ - p1 (00:03:30)
+ - <second to last play position> (00:29:22)
+ - <last play position> (00:41:44)
 
-*** DONE Dark Eyes 3.3 Masterplan (fixed)
-
- - <second to last play position> (00:17:12)
- - <last play position> (00:46:13)
-
-*** HALF DoRS5.3 - The Lifeboat and the Deathboat (#Master)
-
- - <second to last play position> (00:00:00)
- - <last play position> (00:04:20)
-
-*** DONE DoRS5.4. Concealed Weapon (War Master)
-*** DONE GFY1.1 - Weapon of Choice
+**** DONE GFY1.1 - Weapon of Choice :Romana_2:Leela:Narvin:
 
  - <second to last play position> (00:05:03)
  - <last play position> (00:57:10)
 
-*** HALF J&L11.4 - Masterpiece (#Master)
-
- - <last play position> (00:00:00)
- - <second to last play position> (00:58:05)
-
-*** START JACK3.2. Mighty and Despair
+**** START JACK3.2. Mighty and Despair :Jack:
 
  - <last play position> (00:00:00)
  - <second to last play position> (00:00:00)
  - p (00:49:33)
 
-*** HALF MISSY1.2. Divorced Beheaded Regenerated (#Master)
+**** START TW09 Ghost Mission
+
+ - <last play position> (00:00:00)
+ - <second to last play position> (00:41:52)
+
+**** DONE TW5.08 - The Empty Hand
+
+ - <second to last play position> (00:57:20)
+ - <last play position> (00:57:20)
+
+*** DW 2021-08-master
+**** DONE Dark Eyes 3.2 The Reviled :8th_Dr:Liv:Master:
+
+ - <second to last play position> (00:04:08)
+ - <last play position> (00:14:39)
+
+**** DONE Dark Eyes 3.3 Masterplan (fixed) :8th_Dr:Liv:Master:
+
+ - <second to last play position> (00:17:12)
+ - <last play position> (00:46:13)
+
+**** HALF DoRS5.3 - The Lifeboat and the Deathboat :River:Master:
+
+ - <second to last play position> (00:00:00)
+ - <last play position> (00:04:20)
+
+**** DONE DoRS5.4. Concealed Weapon :River:Master:
+**** HALF MISSY1.2. Divorced Beheaded Regenerated :Master:Missy:
 
  - <second to last play position> (00:22:55)
  - <last play position> (00:32:16)
  - music (00:54:39)
 
-*** DONE ST10.05 Regeneration Impossible (11th,12th)
 
  - <second to last play position> (00:13:10)
  - <last play position> (00:15:01)
 
-*** START TW09 Ghost Mission
-
- - <last play position> (00:00:00)
- - <second to last play position> (00:41:52)
-
-*** DONE TW5.08 - The Empty Hand
-
- - <second to last play position> (00:57:20)
- - <last play position> (00:57:20)
-
-*** DONE WM1.2 - The Good Master (#Master)
+**** DONE WM1.2 - The Good Master :Master_war:
 
  - <second to last play position> (00:00:02)
  - <last play position> (00:12:10)
 
-* DW 2021-09
+**** HALF J&L11.4 - Masterpiece :Master:
+
+ - <last play position> (00:00:00)
+ - <second to last play position> (00:58:05)
+
+** DW 2021-09
 
 | 26 | BF192. The Widow's Assassin      | 6th | Peri                |
 | 27 | BF200. The Secret History        | 5th | Steven, Vicki, Monk |
 | 28 | BF049. Master                    | 7th | Master              |
 | 29 | BF132. The Architects of History | 8th | Klein               |
 
-** DW 2021-09
-*** START 10DA 3.1 No Place
+*** DW 2021-09
+**** START 10DA 3.1 No Place :10th_Dr:Donna:
 
  - <second to last play position> (00:00:00)
  - <last play position> (00:00:00)
 
-*** TODO 3DA4.2 - The Tyrants of Logic
-*** DONE 4DA3.1 - The King of Sontar
+**** TODO 3DA4.2 - The Tyrants of Logic :3rd_Dr:Jo:Cybermen:
+**** DONE 4DA3.1 - The King of Sontar :4th_Dr:Leela:Sontarans:
 
  - Untitled (00:05:09)
  - Untitled (00:17:21)
@@ -488,12 +484,12 @@
  - part2 (00:32:10)
  - <last play position> (00:34:31)
 
-*** DONE 9DA2.2 Fright Motif
+**** DONE 9DA2.2 Fright Motif :9th_Dr:
 
  - <second to last play position> (00:00:00)
  - <last play position> (00:23:16)
 
-*** DONE BF072 - Terror Firma (8th)
+**** DONE BF072 - Terror Firm :8th_Dr:Charley:Crizz:
 
  - part2 (00:25:20)
  - part3 (00:57:00)
@@ -501,7 +497,7 @@
  - <second to last play position> (01:25:43)
  - <last play position> (01:28:30)
 
-*** DONE BF132 - The Architects of History
+**** DONE BF132 - The Architects of History :7th_Dr:Klein:
 
  - Untitled (00:28:33)
  - part (00:28:38)
@@ -512,18 +508,18 @@
  - part4 (01:26:30)
  - <last play position> (01:31:36)
 
-*** DONE BF192 - The Widow's Assassin, Part 1
+**** DONE BF192 - The Widow's Assassin, Part 1 :6th_Dr:Peri:
 
  - part2 (00:32:15)
  - <second to last play position> (01:03:43)
  - <last play position> (01:03:52)
 
-*** START BF192 - The Widow's Assassin, Part 2
+**** START BF192 - The Widow's Assassin, Part 2 :6th_Dr:Peri:
 
  - <second to last play position> (00:00:00)
  - <last play position> (00:00:03)
 
-*** START BF200 - The Secret History
+**** START BF200 - The Secret History :5th_Dr:Vicki:Steven:Monk:
 
  - <second to last play position> (00:00:01)
  - part2 (00:29:50)
@@ -531,14 +527,33 @@
  - part3 (00:58:07)
  - part4 (01:27:59)
 
-*** START EA3.4 - The Sontarans (1st)
+**** START EA3.4 - The Sontarans :1st_Dr:Steven:Sara:
 
  - part3 (01:00:32)
  - <second to last play position> (01:00:32)
  - <last play position> (01:51:21)
 
-** DW 2021-09extra
-*** DONE BF049 - Master
+*** DW 2021-09extra
+**** START CC11.2. Dumb Waiter :2nd_Dr:Leela:Jamie:
+
+ - <second to last play position> (00:00:44)
+ - <last play position> (00:01:00)
+
+**** START GFY1.2 - Square One :Romana_2:Leela:
+
+ - <second to last play position> (00:16:46)
+ - <last play position> (00:35:18)
+
+**** TODO J&L5.3 - The Bloodchild Codex :Jago:Litefoot:
+**** TODO PG1.2. A Photograph to Remember
+**** TODO TW04. One Rule :Yvonne:
+**** DONE TW5.09 - Poker Face :Yvonne:Jack:
+
+ - <last play position> (00:27:47)
+ - <second to last play position> (00:38:21)
+
+*** DW 2021-09-master
+**** DONE BF049 - Master :Master:
 
  - part2 (00:31:30)
  - part3 (00:57:45)
@@ -546,61 +561,43 @@
  - part4 (01:29:15)
  - <last play position> (01:34:18)
 
-*** START CC11.2. Dumb Waiter
-
- - <second to last play position> (00:00:44)
- - <last play position> (00:01:00)
-
-*** DONE Dark Eyes 3.4 Rule of the Eminence (Master)
+**** DONE Dark Eyes 3.4 Rule of the Eminence :Master_bald:
 
  - <second to last play position> (00:25:17)
  - <last play position> (00:40:26)
 
-*** DONE DoRS5.3 - The Lifeboat and the Deathboat (#Master)
+**** DONE DoRS5.3 - The Lifeboat and the Deathboat :Master:
 
  - <second to last play position> (00:01:35)
  - <last play position> (00:12:08)
 
-*** START GFY1.2 - Square One
-
- - <second to last play position> (00:16:46)
- - <last play position> (00:35:18)
-
-*** TODO J&L5.3 - The Bloodchild Codex
-*** START Missy 1.3. The Broken Clock
+**** START Missy 1.3. The Broken Clock :Master:Missy:
 
  - <last play position> (00:00:00)
 
-*** TODO PG1.2. A Photograph to Remember
-*** TODO TW04. One Rule
-*** DONE TW5.09 - Poker Face
-
- - <last play position> (00:27:47)
- - <second to last play position> (00:38:21)
-
-*** DONE WM1.3 - The Sky Man
+**** DONE WM1.3 - The Sky Man :Master_war:
 
  - <second to last play position> (00:22:53)
  - <last play position> (00:34:35)
 
-*** DONE WM1.4 - The Heavenly Paradigm
+**** DONE WM1.4 - The Heavenly Paradigm :Master_War:
 
  - Untitled (00:20:25)
  - Untitled (00:36:54)
  - <second to last play position> (00:40:34)
  - <last play position> (00:43:10)
 
-* DW 2021-10
+** DW 2021-10
 
 | 30 | BF015 The Mutant Phase | 6th | Charley, daleks |
 | 31 | BF048 Davros           | 6th | Davros          |
 | 32 | BF193 Masters of Earth | 6th | daleks          |
 | 33 | BF021 Dust Breeding    | 7th | Peri, Master         |
 
-** DW 2021-10-daleks
-*** DONE 8DA4x09 Lucie Miller
-*** DONE 8DA4x10 To the Death
-*** DONE 8DTW4.1. Palindrome (Davros)
+*** DW 2021-10-daleks
+**** DONE 8DA4x09 Lucie Miller :8th_Dr:Lucy:Susan:Alex:Daleks:
+**** DONE 8DA4x10 To the Death :8th_Dr:Lucy:Susan:Alex:Daleks:
+**** DONE 8DTW4.1. Palindrome :8th_Dr:Davros:Bliss:Daleks:
 
  - 1.day5 (00:01:10)
  - 2.day4 (00:11:05)
@@ -615,7 +612,7 @@
  - <last play position> (01:40:40)
  - 9 (01:52:41)
 
-*** DONE BF015 - The Mutant Phase
+**** DONE BF015 - The Mutant Phase :5th_Dr:Nyssa:Daleks:
 
  - p2 (00:32:10)
  - p3 (01:01:19)
@@ -623,7 +620,7 @@
  - <last play position> (01:32:10)
  - p4 (01:32:59)
 
-*** HALF BF048 - Davros (6th)
+**** HALF BF048 - Davros :6th_Dr:Davros:
 
  - Untitled (00:29:57)
  - together (00:31:43)
@@ -632,13 +629,13 @@
  - <last play position> (01:43:40)
  - Untitled (01:55:08)
 
-*** START BF193 - Masters of Earth Part 1 (6D)
+**** START BF193 - Masters of Earth Part 1 (6D) :6th_Dr:Peri:Daleks:
 
  - <last play position> (00:00:00)
  - <second to last play position> (00:00:00)
 
-*** DONE BF193 - Masters of Earth Part 2 (6D)
-*** DONE EA7.1 After the Daleks
+**** DONE BF193 - Masters of Earth Part 2 (6D)
+**** DONE EA7.1 After the Daleks :Susan:Daleks:
 
  - part2 (00:32:15)
  - music (01:02:58)
@@ -647,70 +644,70 @@
  - part4 (01:48:33)
  - <last play position> (02:03:49)
 
-*** DONE Out of Time 1 (10 Dr., 2nd Dalek War)
+**** DONE Out of Time 1 (2nd Dalek War) :10th_Dr:4th_Dr:Daleks:
 
  - <second to last play position> (00:49:33)
  - appendix (00:58:00)
  - <last play position> (00:58:26)
 
-** DW 2021-10-doctor
-*** HALF 11DC2.1. The Evolving Dead
+*** DW 2021-10-doctor
+**** HALF 11DC2.1. The Evolving Dead :11th_Dr:
 
  - <last play position> (00:20:12)
  - <second to last play position> (00:36:32)
  - Untitled (01:02:17)
 
-*** HALF 4DA8.1. The Sinestran Kill
+**** HALF 4DA8.1. The Sinestran Kill :4th_Dr:Ann:
 
  - <second to last play position> (00:01:15)
  - p2 (00:23:33)
  - <last play position> (00:24:09)
  - Untitled (00:54:51)
 
-*** DONE 9DA2.3. Planet of the End
+**** DONE 9DA2.3. Planet of the End :9th_Dr:
 
  - <second to last play position> (00:01:57)
  - <last play position> (00:05:13)
 
-*** DONE BSNA3.2 Planet X
+**** DONE BSNA3.2 Planet X :Benny:Unbound:
 
  - <second to last play position> (00:03:57)
  - <last play position> (00:38:52)
 
-** DW 2021-10-extra
-*** HALF CC11.2. Dumb Waiter
+*** DW 2021-10-extra
+**** HALF CC11.2. Dumb Waiter :2nd_Dr:Leela:Jamie:
 
  - <second to last play position> (00:21:51)
  - <last play position> (00:29:53)
 
-*** DONE DoRS6.1. An Unearthly Woman
+**** DONE DoRS6.1. An Unearthly Woman :River:Susan:1st_Dr:
 
  - <last play position> (00:00:00)
  - Barbara reaches River and Ian (00:32:19)
  - <second to last play position> (00:57:25)
 
-*** DONE GFY1.2 - Square One
+**** DONE GFY1.2 - Square One :Romana_2:Leela:Narvin:
 
  - <second to last play position> (00:36:08)
  - <last play position> (01:00:50)
 
-*** START J&L5.4 - The Final Act
+**** START J&L5.4 - The Final Act :Jago:Litefoot:
 
  - <last play position> (00:00:00)
  - <second to last play position> (00:00:00)
 
-*** HALF TW5.10 - Tagged
+**** HALF TW5.10 - Tagged
 
  - <second to last play position> (00:11:56)
  - <last play position> (00:51:09)
 
-** DW 2021-10-master
-*** DONE 8DDE4.3 Master of the Daleks
+*** DW 2021-10-master
+**** DONE 8DDE4.3 Master of the Daleks :Master_bold:8th_Dr:Liv:
 
  - <second to last play position> (00:35:23)
  - <last play position> (00:35:31)
 
-*** HALF MR021. Dust Breeding (decayed Master)
+**** HALF MR021. Dust Breeding (decayed Master) :7th_Dr:Ace:Master:
 
  - p2 (00:27:39)
  - p3 (00:49:50)
@@ -718,30 +715,30 @@
  - <second to last play position> (01:13:41)
  - p4 (01:14:25)
 
-*** TODO Master! 1. Faustian
-*** DONE Missy 1.3. The Broken Clock
+**** TODO Master! 1. Faustian :Master:
+**** DONE Missy 1.3. The Broken Clock :Master:Missy:
 
  - <second to last play position> (00:13:14)
  - <last play position> (00:53:30)
 
-*** DONE WM4.1. From the Flames
+**** DONE WM4.1. From the Flames :Master_war:Narvin:
 
  - <last play position> (00:00:00)
 
-*** DONE WM4.2. The Master's Dalek Plan
-* DW 2021-11
+**** DONE WM4.2. The Master's Dalek Plan :Master_war:Daleks:
+** DW 2021-11
 
 | 34 | BF065 The Juggernatus      | 7th | Mel, Davros |
 | 35 | BF211 And You Will Obey Me | 5th | Master |
 | 36 | BF212 Vampire of the Mind  | 6th | Master |
 
-** DW 2021-11-daleks
-*** DONE CC5.1 - The Guardian of the Solar System
+*** DW 2021-11-daleks
+**** DONE CC5.1 - The Guardian of the Solar System :Sara:1st_Dr:
 
  - <second to last play position> (00:22:17)
  - <last play position> (00:44:34)
 
-*** HALF DU0. The Dalek Protocol
+**** HALF DU0. The Dalek Protocol :4th_Dr:Anya:Mark_7:
 
  - part2 (00:27:31)
  - music (00:54:01)
@@ -751,105 +748,105 @@
  - <second to last play position> (01:39:16)
  - part4 (01:39:43)
 
-*** DONE DU1.1. Buying Time
+**** DONE DU1.1. Buying Time :10th_Dr:Anya:Mark_7:
 
  - <second to last play position> (00:22:51)
  - tmp1 (00:35:28)
  - <last play position> (00:36:45)
  - clapsed (00:39:10)
 
-*** START DoRS8.4. Queen of the Mechonoids
+**** START DoRS8.4. Queen of the Mechonoids :River:Anya:Mark_7:
 
  - <last play position> (00:00:00)
  - <second to last play position> (00:26:09)
  - annam (00:26:10)
 
-*** START EA3.4 - The Sontarans (1st)
+**** START EA3.4 - The Sontarans (1st) :1st_Dr:Steven:Sontarans:
 
  - <second to last play position> (00:31:05)
  - part2 (00:31:10)
  - <last play position> (00:31:57)
 
-*** HALF LS2.2b - The Destroyers (Daleks)
+**** HALF LS2.2b - The Destroyers (Daleks) :Sara:Mark_7:Daleks:
 
  - p2 (00:09:31)
  - <second to last play position> (00:38:06)
  - p4 (00:38:11)
  - <last play position> (00:38:18)
 
-** DW 2021-11-davros
-*** HALF 8DTW4.3. Dreadshade (128bps)
+*** DW 2021-11-davros
+**** HALF 8DTW4.3. Dreadshade (128bps) :8th_Dr:Bliss:
 
  - <second to last play position> (00:49:38)
  - <last play position> (00:49:57)
  - Untitled (00:50:24)
  - music (00:54:11)
 
-*** HALF 8DTW4.4. Restoration of the Daleks (128bps)
+**** HALF 8DTW4.4. Restoration of the Daleks (128bps) :8th_Dr:Davros:Daleks:
 
  - <second to last play position> (00:37:44)
  - Untitled (00:55:40)
  - <last play position> (01:03:56)
 
-*** DONE BF065 - The Juggernauts 1
+**** DONE BF065 - The Juggernauts 1 :Davros:6th_Dr:Mel:
 
  - <second to last play position> (00:23:02)
  - p2 (00:23:02)
  - <last play position> (00:40:00)
 
-*** DONE BF065 - The Juggernauts 2
+**** DONE BF065 - The Juggernauts 2 :6th_Dr:Mel:Davros:
 
  - part3 (00:00:07)
  - <last play position> (00:10:25)
  - <second to last play position> (00:16:05)
  - part4 (00:35:54)
 
-** DW 2021-11-doctor
-   CLOSED: [2022-01-14 Fri 20:17]
+*** DW 2021-11-doctor
+    CLOSED: [2022-01-14 Fri 20:17]
 
-*** HALF 12DC2.1. Fight to Calandra
+**** HALF 12DC2.1. Fight to Calandra :12th_Dr:
 
  - Untitled (00:13:36)
  - <second to last play position> (00:49:10)
  - <last play position> (00:49:44)
  - end (00:51:05)
 
-*** START 3DA4.2 - The Tyrants of Logic
+**** START 3DA4.2 - The Tyrants of Logic :3rd_Dr:Jo:Cybermen:
 
  - <last play position> (00:00:00)
  - part2 (00:31:15)
  - <second to last play position> (01:00:18)
  - part3 (01:03:27)
 
-*** DONE BSNA3.3 The Very Dark Thing
+**** DONE BSNA3.3 The Very Dark Thing :Benny:Unbound:
 
  - <second to last play position> (00:24:35)
  - i'm the doctor (00:36:01)
  - <last play position> (00:37:23)
 
-** DW 2021-11-extra
-*** HALF GFY1.3 - The Inquiry
+*** DW 2021-11-extra
+**** HALF GFY1.3 - The Inquiry :Romana_2:Leena:
 
  - <second to last play position> (00:10:24)
  - <last play position> (00:18:36)
 
-*** DONE J&L5.4 - The Final Act
+**** DONE J&L5.4 - The Final Act :Jago:Litefoot:
 
  - Untitled (00:05:20)
  - <second to last play position> (00:16:34)
  - <last play position> (00:49:21)
 
-*** HALF PG1.2. A Photograph to Remember
+**** HALF PG1.2. A Photograph to Remember
 
  - <second to last play position> (00:04:50)
  - <last play position> (00:08:24)
 
-*** START TW5.11 - Escape Room
+**** START TW5.11 - Escape Room
 
  - <last play position> (00:00:00)
  - <second to last play position> (00:00:00)
 
-*** HALF TW55. The Great Sontaran War
+**** HALF TW55. The Great Sontaran War
 
  - Untitled (00:14:09)
  - <second to last play position> (00:17:08)
@@ -857,8 +854,8 @@
  - <last play position> (01:01:14)
  - end (01:09:20)
 
-** DW 2021-11-master
-*** DONE BF211 - And You Will Obey Me
+*** DW 2021-11-master
+**** DONE BF211 - And You Will Obey Me :5th_Dr:Master:
 
  - part2 (00:26:08)
  - Untitled (00:53:59)
@@ -869,7 +866,7 @@
  - <last play position> (01:27:04)
  - end (01:52:49)
 
-*** HALF BF212 - Vampire of the Mind
+**** HALF BF212 - Vampire of the Mind :6th_Dr:Masetr:
 
  - part2 (00:29:37)
  - part3 (00:55:55)
@@ -878,45 +875,45 @@
  - part4 (01:27:25)
  - Untitled (01:44:00)
 
-*** HALF Master! 1. Faustian
+**** HALF Master! 1. Faustian :Master:
 
  - <last play position> (00:00:00)
  - <second to last play position> (00:00:39)
  - master came (00:39:47)
  - end (00:54:03)
 
-*** DONE Missy 1.3. The Broken Clock
+**** DONE Missy 1.3. The Broken Clock :Master:Missy:
 
  - <last play position> (00:00:00)
  - <second to last play position> (00:00:00)
  - Untitled (00:42:04)
 
-*** START WM4.3. Shockwave
+**** START WM4.3. Shockwave :Master_war:
 
  - <second to last play position> (00:00:00)
  - <last play position> (00:27:25)
 
-*** HALF WM4.4. He Who Wins
+**** HALF WM4.4. He Who Wins :Master_war:
 
  - <second to last play position> (00:00:00)
  - <last play position> (00:00:01)
  - Untitled (00:19:00)
  - back_timeline (00:40:37)
 
-* DW 2021-12
+** DW 2021-12
 
 | 37 | BF077 Other Lives                     | 8th | Charley, C'rizz |
 | 38 | BF107 The Haunting of Thomas Brewster | 5th | Nyssa, Brewster |
 | 39 | BF156 The Curse of Davros             | 6th | Davros, Flip    |
 | 40 | BF213 The Two Masters                 | 7th | Master          |
 
-** DW 2021-12
-*** HALF 4DA3.3 - The Crooked Man :4th_Dr:Leela:
+*** DW 2021-12
+**** HALF 4DA3.3 - The Crooked Man :4th_Dr:Leela:
 
  - <second to last play position> (00:08:19)
  - <last play position> (00:27:22)
 
-*** DONE BF077 - Other Lives (8D) :8th_Dr:Charley:
+**** DONE BF077 - Other Lives (8D) :8th_Dr:Charley:
 
  - part1 (00:02:10)
  - part2 (00:28:49)
@@ -925,7 +922,7 @@
  - part4 (01:28:09)
  - <second to last play position> (01:55:56)
 
-*** DONE BF107 - The Haunting of Thomas Brewster (6D) :5th_Dr:Nyssa:
+**** DONE BF107 - The Haunting of Thomas Brewster (6D) :5th_Dr:Nyssa:
 
  - part2 (00:24:18)
  - part3 (00:48:29)
@@ -933,7 +930,7 @@
  - <second to last play position> (01:20:39)
  - <last play position> (01:30:35)
 
-*** DONE BF156 - The Curse of Davros (fixed) :Davros:6th_Dr:
+**** DONE BF156 - The Curse of Davros (fixed) :Davros:6th_Dr:
 
  - <last play position> (00:00:00)
  - <second to last play position> (00:00:00)
@@ -943,61 +940,61 @@
  - flashback (01:32:09)
  - part4 (01:47:12)
 
-*** OVERDUE DU1.2. The Wrong Woman :Monk:10th_Dr:
+**** OVERDUE DU1.2. The Wrong Woman :Monk:10th_Dr:
 
  - <second to last play position> (00:00:00)
  - <last play position> (00:03:03)
 
-*** TODO DU1.3. The House of Kingdom :10th_Dr:
-*** DONE FM9DA05 - Exhausted Supplies :9th_Dr:12th_Dr:
+**** TODO DU1.3. The House of Kingdom :10th_Dr:Anya:Mark_7:
+**** DONE FM9DA05 - Exhausted Supplies :9th_Dr:12th_Dr:
 
  - <second to last play position> (00:01:50)
  - <last play position> (00:27:10)
 
-** DW 2021-12-extra
-*** DONE DoRS9.1. The Blood Woods :River:Liz:
+*** DW 2021-12-extra
+**** DONE DoRS9.1. The Blood Woods :River:Liz:
 
  - <last play position> (00:51:25)
  - <second to last play position> (00:52:45)
 
-*** DONE GFY1.4 - A Blind Eye
+**** DONE GFY1.4 - A Blind Eye :Romana_2:Leela:
 
  - <second to last play position> (00:39:11)
  - <last play position> (00:45:14)
 
-*** START Jago & Litefoot & Strax - The Haunting
+**** START Jago & Litefoot & Strax - The Haunting :Jago:Litefoot:Strax:
 
  - <last play position> (00:00:00)
 
-*** START PG1.3. The Ghosts of Greenwich
+**** START PG1.3. The Ghosts of Greenwich
 
  - <last play position> (00:00:00)
  - <second to last play position> (00:00:00)
 
-*** HALF TW35 - Fortitude
+**** HALF TW35 - Fortitude :Queen:
 
  - Untitled (00:14:52)
  - Untitled (00:23:07)
  - <last play position> (00:52:39)
  - <second to last play position> (00:52:44)
 
-*** TODO TW5.12 - Herald of the Dawn
+**** TODO TW5.12 - Herald of the Dawn
 
  - <second to last play position> (00:11:44)
  - <last play position> (01:05:45)
 
-*** START Vienna #0 The Memory Box
+**** START Vienna #0 The Memory Box
 
  - <last play position> (00:21:31)
  - <second to last play position> (00:21:37)
 
-** DW 2021-12-master
-*** DONE 6DLA 1 - The End of the Line
+*** DW 2021-12-master
+**** DONE 6DLA 1 - The End of the Line :6th_Dr:Master:Valeyard:
 
  - <last play position> (00:27:32)
  - <second to last play position> (00:27:37)
 
-*** HALF BF213 - The Two Masters
+**** HALF BF213 - The Two Masters :7th_Dr:Master:Master_bald:
 
  - part2 (00:29:10)
  - part3 (01:04:58)
@@ -1006,13 +1003,13 @@
  - part4 (01:39:30)
  - end (02:17:42)
 
-*** DONE BSNA3.4 The Emporium at the End
+**** DONE BSNA3.4 The Emporium at the End :Benny:Ubound:Master:
 
  - <second to last play position> (00:10:37)
  - Untitled (00:16:46)
  - <last play position> (00:55:51)
 
-*** HALF EA6.1 - The Home Guard (Master)
+**** HALF EA6.1 - The Home Guard :2nd_Dr:Jamie:Master:
 
  - <second to last play position> (00:10:32)
  - <last play position> (00:12:12)
@@ -1021,117 +1018,188 @@
  - part3 (01:06:34)
  - part4 (01:34:45)
 
-*** OVERDUE Master! #2. Prey
+**** OVERDUE Master! #2. Prey :Master:
 
  - <last play position> (00:02:13)
  - <second to last play position> (00:02:16)
 
-*** TODO Missy 1.4. The Belly of the Beast
-* DW 2021-13
-** TODO BF013 - The Shadow of the Scourge
-** TODO BF027 - The One Doctor
-** TODO CC5.7 - Peri and the Piscon Paradox (5D&6D)
-** TODO DAV1.1 - Innocence
-** TODO DAV1.2 - Purity
-** TODO MAR8.1. Emancipation
-** TODO NA1. Love and War
+**** TODO Missy 1.4. The Belly of the Beast :Master:Missy:
+** DW 2021-13
+*** TODO BF013 - The Shadow of the Scourge
+*** TODO BF027 - The One Doctor
+*** TODO CC5.7 - Peri and the Piscon Paradox (5D&6D)
+*** TODO DAV1.1 - Innocence
+*** TODO DAV1.2 - Purity
+*** TODO MAR8.1. Emancipation
+*** TODO NA1. Love and War
 * DW 2022-01
 
-| 41 | BF086 The Reaping       | 6th | Peri, Cybermen |
-| 42 | BF201 We are the Daleks | 7th | Mel            |
+| 41 | MR086 The Reaping       | 6th | Peri, Cybermen |
+| 42 | MR201 We are the Daleks | 7th | Mel            |
 
 ** DW 2022-01
+*** MA01 - Red Snow :2nd_Dr:
+*** HALF [#B] CC4.2 The Glorious Revolution :Jamie:2nd_Dr:
 
-*** MA01 - Red Snow                                                 :2nd_Dr:
-*** HALF [#B] CC4.2 The Glorious Revolution                          :2nd_Dr:
-*** 3QTR [#B] 4DA2.4 The Justice of Jalxar
-*** HALF [#C] BF201 - We are the Daleks                     :7th_Dr:Mel:
+- <second to last play position> (00:20:49)
+- <last play position> (00:20:57)
+- Untitled (00:26:51)
+- part2 (00:33:12)
+
+*** 3QTR [#B] 4DA2.4 The Justice of Jalxar :4th_Dr:Romana_1:Jago:Litefoot:
+*** HALF [#C] BF201 - We are the Daleks :7th_Dr:Mel:
 
  - <last play position> (00:00:00)
  - part2 (00:29:00)
  - part3 (00:55:15)
-*** HALF [#C] BF086 - The Reaping                      :Cybermen:6th_Dr:Peri:
+ - part4 (01:22:52)
+ - appendix (01:51:40)
+
+*** HALF [#C] BF086 - The Reaping :Cybermen:6th_Dr:Peri:
 
  - part1 (00:05:55)
  - part2 (01:09:52)
-*** 3QTR [#B] 8DDC1.1 - The Eleven                                   :8th_Dr:
+
+*** 3QTR [#B] 8DDC1.1 - The Eleven :8th_Dr:Liv:
 
  - <last play position> (00:16:46)
  - <second to last play position> (00:16:50)
 
-*** 3QTR [#A] 8DDC1.2 - The Red Lady                                 :8th_Dr:
-*** HALF [#B] 10DA 3.1 No Place                                     :10th_Dr:
-*** HALF [#A] DU 1.2 The Wrong Women                                :10th_Dr:
-*** HALF [#D] 11DC2.2. The Day Before They Came
+*** 3QTR [#A] 8DDC1.2 - The Red Lady :8th_Dr:Liv:Helen:
+*** HALF [#B] 10DA 3.1 No Place :10th_Dr:Donna:
+*** HALF [#A] DU 1.2 The Wrong Women :10th_Dr:Anya:Mark_7:
+*** HALF [#D] 11DC2.2. The Day Before They Came :11th_Dr:
 ** DW 2022-01-extra
-*** 3QTR [#C] CYBM1.1 Scorpius                                     :Cybermen:
-*** 3QTR [#C] CYBM1.2 Fear                                         :Cybermen:
-*** 3QTR DoRS9.1. The Blood Woods
-*** 3QTR DoRS9.2. Terror of the Suburbs
-*** 3QTR [#B] GFY2.1 - Lies
+*** 3QTR [#C] CYBM1.1 Scorpius :Cybermen:
+*** 3QTR [#C] CYBM1.2 Fear :Cybermen:
+*** 3QTR DoRS9.1. The Blood Woods :River:Liz:Brigadier:
+*** 3QTR DoRS9.2. Terror of the Suburbs :River:Liz:
+*** 3QTR [#B] GFY2.1 - Lies :Romana_2:Leela:
 
  - <second to last play position> (00:22:33)
  - <last play position> (00:48:26)
 
-*** 3QTR [#B] GFY2.2 - Spirit
+*** 3QTR [#B] GFY2.2 - Spirit :Romana_2:Leela:
 * DW 2022-02
 
-| 43 | BF044 Creatures of Beauty | 5th | Nyssa |
+| 043 | MR044 Creatures of Beauty | 5th | Nyssa |
 
 ** DW 2022-02-doctors
-*** [#B] CC8.10 The War to End All Wars
-*** 2DONE [#C] 3DA4.2 - The Tyrants of Logic
-*** HALF [#B] BF044 - Creatures of Beauty (5D)                       :5th_Dr:
-*** [#D] 6DLA #2 The Red House
-*** HALF [#E] 8DDC1.3 The Gallileo Trap
-*** [#E] 8DDC 1.4 The Satanic Mill
-*** HALF [#E] 12DC2.2. Split Second
-** DW 2022-02-extra
-*** HALF [#C] BSNA4.1 The City and the Clock
-*** HALF [#A] BSNA4.2 Asking For a Friend
-*** HALF [#B] Gallifrey 2.3 Pandora
-*** [#C] Gallifrey 2.4 Insugency
-*** 2DONE [#C] Cybermen 1.3 Conversion
-*** HALF [#D] Cybermen 1.4 Telos
+*** [#B] CC8.10 The War to End All Wars :Steven:Dodo:
+*** 2DONE [#C] 3DA4.2 - The Tyrants of Logic :3rd_Dr:Jo:Cybermen:
+
+- <last play position> (00:00:00)
+- part2 (00:31:55)
+- Untitled (00:50:08)
+- part3 (01:03:50)
+- part4 (01:40:25)
+- <second to last play position> (02:03:29)
+
+*** HALF [#B] BF044 - Creatures of Beauty (5D) :5th_Dr:Nyssa:
+
+- <second to last play position> (00:00:00)
+- <last play position> (00:02:34)
+- part2 (00:26:41)
+- part3 (00:56:46)
+- part4 (01:21:34)
+
+*** [#D] 6DLA #2 The Red House :6th_Dr:
+*** HALF [#E] 8DDC1.3 The Gallileo Trap :8th_Dr:Liv:Helen:
+*** [#E] 8DDC 1.4 The Satanic Mill :8th_Dr:Liv:Helen:
+*** HALF [#E] 12DC2.2. Split Second :12th_Dr:
+*** DONE DU1.3. The House of Kingdom :10th_Dr:Anya:Mark_7:
+** DW 2022-02-spinoffs
+*** HALF [#C] BSNA4.1 The City and the Clock :Benny:Unbound:Master:
+*** HALF [#A] BSNA4.2 Asking For a Friend :Benny:Unbound:
+*** HALF [#B] Gallifrey 2.3 Pandora :Romana_2:Leela:
+*** [#C] Gallifrey 2.4 Insugency :Romana:2:Leela:
+*** 2DONE [#C] Cybermen 1.3 Conversion :Cybermen:
+*** HALF [#D] Cybermen 1.4 Telos :Cybermen:
 *** HALF [#D] Jenny 1.1 Stolen Goods
 * DW 2022-03
 
-| 087 | BF087 The Gathering | 5th |     |
-| 149 | BF149 Robophobia    | 7th | Liv |
+| 044 | MR087 | BF087 The Gathering | 5th |     |
+| 045 | MR149 | BF149 Robophobia    | 7th | Liv |
 
 ** DW 2022-03-doctors
-*** HALF [#A] 1DA3.2 Tick-Tock World
-*** [#B] CC8.4 Ghost in the Machine (3D)
-*** HALF [#D] BF087 The Gathering (5D)                             :Cybermen:
-*** HALF [#B] BF149. Robophobia                                  :7th_Dr:Liv:
-*** HALF 9DAFM #1 Cold Open
-*** [#D] 11DC2.4 A Tragical History
+*** HALF [#A] 1DA3.2 Tick-Tock World :Ian:Susan:Ian:Barbara:
+
+- part2 (00:24:32)
+- <second to last play position> (00:49:25)
+- part3 (00:49:30)
+- <last play position> (01:19:56)
+- part4 (01:20:41)
+
+*** [#B] CC8.4 Ghost in the Machine (3D) :Jo:
+
+- <second to last play position> (00:00:00)
+- <last play position> (00:33:01)
+- part2 (00:33:08)
+
+*** 2DONE [#D] BF087 The Gathering :Cybermen:Tegan:5th_Dr:
+
+- part1 (00:03:00)
+- part2 (00:54:45)
+- <last play position> (01:46:28)
+- <second to last play position> (01:46:30)
+- end (01:51:00)
+
+*** 2DONE [#B] BF149. Robophobia :7th_Dr:Liv:
+
+- part2 (00:31:01)
+- <second to last play position> (00:39:10)
+- <last play position> (00:42:00)
+- music (00:58:12)
+- part3 (01:08:49)
+- part4 (01:33:20)
+- Untitled (01:43:37)
+- appendix (02:03:10)
+
+*** HALF 9DAFM #1 Cold Open :9th_Dr:
+*** START 03 - What I Did on My Christmas Holidays by Sally Sparrow :9th_Dr:
+*** [#D] 11DC2.4 A Tragical History :11th_Dr:
 ** DW 2022-03-extra
-*** HALF [#E] DoRS 9.3 Nevel Alone
-*** HALF [#B] DoRS 9.4 Rivers of Light (+3D)
-*** 3QTR [#A] TW6.1. Future Pain
-*** [#E] TW6.2. The Man Who Destroyed Torchwood
-*** HALF [#A] BS6.5 The Crystal of Cantus                          :Cybermen:
-*** [#A] Missy 2.1 The Lumiat
-*** [#B] Gallifrey 2.5 Imperiatirx
+*** CANCEL [#E] DoRS 9.3 Nevel Alone :River:
+*** HALF [#B] DoRS 9.4 Rivers of Light (+3D) :River:Liz:3th_Dr:Brigadier:
+*** 3QTR [#A] TW6.1. Future Pain :Jack:Yvonne:
+*** CANCEL [#E] TW6.2. The Man Who Destroyed Torchwood
+*** HALF [#A] BS6.5 The Crystal of Cantus :Cybermen:
+*** HALF [#B] Gallifrey 2.5 Imperiatirx :Romana_2:Leela:
+*** [#A] Missy 2.1 The Lumiat :Master:Missy:
 * DW 2022-04
+
+| 046 | MR027 The One Doctor | 6th | Mel |
+
 ** DW 2022-04-doctors
 *** EA2.1 The Yes Man :2nd_Dr:
-*** +4DA4.5 Suburan Hell+ (+Leela)                             :4th_Dr:Leela:
-*** 4DA8.3 The Enchantress of Numbers                               :4th:Ann:
-*** BF027 The One Doctor                                         :6th_Dr:Mel:
-*** +BF105 - The Condemned+)                                 :6th_Dr:Charley:
-*** BF017 Sword of Orion / CPFA1.4 Heart of Orion   :8th_Dr:Charley:Cybermen:
-*** Out of Time #2 (10D+5D)                         :Cybermen:10th_Dr:5th_Dr:
-*** 12DC2.3 The Weight of History                                   :12th_Dr:
+*** [#C] 4DA8.3 The Enchantress of Numbers :4th:Ann:
+*** [#A] BF027 The One Doctor :6th_Dr:Mel:
+*** [#A] 8DA1.7/1.8 Human Resources :8th_Dr:Charley:
+*** HALF [#C] Out of Time #2 (10D+5D) :Cybermen:10th_Dr:5th_Dr:
+*** [#D] 12DC2.3 The Weight of History :12th_Dr:
 ** DW 2022-04-extra
-*** BSNA 4.3 Truant
-*** BSNA 4.4 The True Saviour of the Universe
-*** TW6.3 See No Evil
-*** TW6.4 Night Watch
-*** TODO UNIT6.1
-*** TODO UNIT6.2
-*** The Robots 1.1 The Robots of Life
+*** [#A] BSNA 4.3 Truant :Benny:Unbound:
+*** [#A] BSNA 4.4 The True Saviour of the Universe :Benny:Unbound:
+*** HALF [#A] TW6.3 See No Evil :Jack:Yvonne:Andy:
+*** [#A] TW6.4 Night Watch
+*** HALF [#E] UNIT5.1 The Dalek Transaction :Kate:Osgood:
+*** [#C] UNIT5.2 Invocation
+*** The Robots 1.1 The Robots of Life :Liv:Kaldor:
+* DW 2022-05
+*** TODO BF089 - No Man's Land (7D)
+
+- start (00:01:07)
+- Untitled (00:34:25)
+- part2 (00:34:40)
+- <second to last play position> (00:50:02)
+- part3 (01:02:30)
+- <last play position> (01:37:10)
+- part4 (01:38:01)
+
+* DW 2022-06
+*** 4DA4.5 Suburan Hell (+Leela) :4th_Dr:Leela:
+*** BF105 - The Condemned :6th_Dr:Charley:
+*** BF017 Sword of Orion / CPFA1.4 Heart of Orion :8th_Dr:Charley:Cybermen:
 * DW 2022-Q2-pending
 ** doctor 1-4th
 *** TODO 3DA2.2 The Hidden Realm
@@ -1151,7 +1219,6 @@
 *** NA#1 Love and War (7D, Benny)
 *** NA Damaged Goods (7D) #bilibili
 *** BF089 No Man's Land (7D)
-
 ** doctor 8th
 *** 061. Faith Stealer
 *** 080. Time Works
@@ -1166,4 +1233,3 @@
 *** Jenny 2.2 Altered Status :Cybermen:
 *** TODO J&L6.1 - The Skeleton Quay
 *** TODO J&L6.2 - Return of the Repressed
-

@@ -470,14 +470,14 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
       :rating:   5.9
       :END:
 
-***** [#A] 6.3 See No Evil :D2022_04_spinoffs:
-      SCHEDULED: <2022-04-08 Fri>
+***** HALF [#A] 6.3 See No Evil :D2022_04_spinoffs:
+      SCHEDULED: <2022-04-10 Sun>
       :PROPERTIES:
       :rating:   8.4
       :END:
 
 ***** [#A] 6.4 Night Watch :D2022_04_spinoffs:
-      SCHEDULED: <2022-04-08 Fri>
+      SCHEDULED: <2022-04-16 Sat>
       :PROPERTIES:
       :rating:   8.5
       :END:
@@ -742,20 +742,26 @@ Roberts Master
 **** [#C] 8.3 A Forever Home (7.5)
 **** HALF [#E] 8.4 Queen of the Mechonoids     (6.5) :Anya:Mark_7:
 *** DoRS 9 :P2021:
-**** 3QTR 9.1 The Blood Woods :Liz:Brigadier:D2022_01_spinoffs:
+**** 3QTR [#B] 9.1 The Blood Woods :Liz:Brigadier:D2022_01_spinoffs:
      CLOSED: [2022-01-14 Fri 08:37] SCHEDULED: <2022-01-26 Wed>
+     :PROPERTIES:
+     :rating:   7.9
+     :END:
 
-**** 3QTR 9.2 Terror of the Suburbs :D2022_01_spinoffs:
+**** 3QTR [#C] 9.2 Terror of the Suburbs :D2022_01_spinoffs:
      CLOSED: <2022-01-24 Mon 21:44> SCHEDULED: <2022-01-26 Wed>
+     :PROPERTIES:
+     :rating:   7.2
+     :END:
 
-**** HALF [#E] DoRS9.3. Never Alone :D2022_03_spinoffs:week2:
-     SCHEDULED: <2022-03-30 Wed>
+**** CANCEL [#E] DoRS9.3. Never Alone :D2022_03_spinoffs:week2:
+     CLOSED: [2022-03-30 Wed 19:27]
      :PROPERTIES:
      :rating:   6.1
      :END:
 
 **** HALF [#B] DoRS9.4. Rivers of Light :Liz:3rd_Dr:D2022_03_spinoffs:week3:
-     SCHEDULED: <2022-03-13 Sun>
+     SCHEDULED: <2022-03-19 Sat>
      :PROPERTIES:
      :rating:   8.1
      :END:
@@ -901,14 +907,14 @@ Roberts Master
     :rating:   8.4
     :END:
 
-*** START [#C] 2.4 - Insurgency :D2022_02_spinoffs:
-    SCHEDULED: <2022-02-28 Mon>
+*** 3QTR [#C] 2.4 - Insurgency :D2022_02_spinoffs:
+    CLOSED: [2022-03-29 Tue 21:39] SCHEDULED: <2022-02-28 Mon>
     :PROPERTIES:
     :rating:   7.6
     :END:
 
 *** HALF [#B] GFY2.5 - Imperiatrix :D2022_03_spinoffs:week3:
-    SCHEDULED: <2022-03-14 Mon>
+    SCHEDULED: <2022-03-12 Sat>
     :PROPERTIES:
     :rating:   8.4
     :END:
@@ -1029,7 +1035,7 @@ Roberts Master
 
 **** [#F] +6.4 The Goddes Quandary+
 **** HALF [#A] BS6.5 The Crystal of Cantus :Cybermen:D2022_03_spinoffs:week1:
-     SCHEDULED: <2022-03-30 Wed>
+     SCHEDULED: <2022-03-19 Sat>
      :PROPERTIES:
      :rating:   8.7
      :END:
@@ -1618,8 +1624,10 @@ rating 8.7/8.3
 *** [#C] 2.3 The Battle of the Tower (7.5)
 *** [#D] 2.4 Ice Station Alpha (7.3)
 ** UNIT 3: Silenced :P2016:
-*** [#B] 3.1 House of Silents (8.2)
-*** [#B] 3.2 Square One (8.4)
+*** HALF [#B] 3.1 House of Silents (8.2) :D2022_04_spinoffs:
+    SCHEDULED: <2022-04-09 Sat>
+
+*** [#B] 3.2 Square One (8.4) :D2022_04_spinoffs:
 *** [#A] 3.3 Silent Majority (8.5)
 *** [#C] 3.4 In Memory Alone (7.5)
 ** UNIT 4: Assembled :Silurians:P2017:
@@ -1628,8 +1636,10 @@ rating 8.7/8.3
 *** [#B] 4.2 - Tidal Wave   (8.2)
 *** [#C] 4.4 - United       (7.5)
 ** UNIT 5: Encounters :P2017:
-*** START [#E] 5.1 - The Dalek Transaction            (6.8) :D2022_04_spinoffs:
-*** [#C] 5.2 - Invocation :D2022_04_spinoffs:
+*** HALF [#E] 5.1 - The Dalek Transaction            (6.8) :D2022_08_spinoffs:
+    SCHEDULED: <2022-04-10 Sun>
+
+*** [#C] 5.2 - Invocation :D2022_08_spinoffs:
     :PROPERTIES:
     :rating:   7.4
     :END:
