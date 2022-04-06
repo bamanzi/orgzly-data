@@ -221,7 +221,9 @@ CLOSED: <2021-10-19 Tue 20:21>
 **** DONE 1x13 Kobol's Last Gleaming, Part II
 CLOSED: <2021-10-19 Tue 10:48>
 
-*** S2 (20 episodes) :P2005:
+*** NOW S2 (20 episodes) :P2005:
+SCHEDULED: <2022-05-15 Sun>
+
 *** The Plan
 
 Set during the events from the Miniseries to Season 2's /"Lay Down Your Burdens, Part II (2x20),"/ this story is told from the Cylons' perspective, centering on two distinct Cavil copies as they try to fulfill the Cylons' plan.

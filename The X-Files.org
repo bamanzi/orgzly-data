@@ -153,6 +153,8 @@ CLOSED: <2022-02-22 Tue 20:27>
 CLOSED: [2022-02-23 Wed 19:43]
 
 *** NOW S9
+SCHEDULED: <2022-03-31 Thu>
+
 **** DONE 9x01 Nothing Important Happened Today :myth:super-soldier:
 CLOSED: <2022-02-28 Mon 23:23>
 
@@ -183,15 +185,17 @@ CLOSED: <2022-03-25 Fri 18:15>
 **** DONE 9x10 Providence :myth:super-soldier:
 CLOSED: [2022-03-25 Fri 19:11]
 
-**** 9x11 Audrey Pauley
-**** 9x12 Underneath
+**** DONE 9x11 Audrey Pauley
+CLOSED: [2022-03-30 Wed 19:03]
+
+**** TODO 9x12 Underneath
 **** 9x13 Improbable
 **** 9x14 Scary Monsters
-**** 9x15 Jump the Shark :myth:
-**** 9x16 William :myth:
+**** TODO 9x15 Jump the Shark :myth:
+**** TODO 9x16 William :myth:
 **** [#A] 9x17 Release :👍:
 **** 9x18 Sunshine Days
-**** 9x19 The Truth
+**** TODO 9x19 The Truth
 *** S10
 **** 10x01 My Struggle :myth:
 **** 10x02 Founder's Mutation
@@ -211,16 +215,16 @@ CLOSED: [2020-11-13 Fri 19:34]
 
 ** comics :📚:
 *** Topps (1995-1998)
-**** LATER 01-12 :myth:1995:
-CLOSED: [2020-11-13 Fri 19:21]
+**** NOW 01-12 :myth:P1995:
+SCHEDULED: <2022-03-31 Thu>
 
-**** DONE 13-19 + ½ + annuals 1,2 :1996:
+**** DONE 13-19 + ½ + annuals 1,2 :P1996:
 CLOSED: <2020-11-14 Sat 22:47>
 
 **** DONE vol.3 20-29 (1996-1997)
 CLOSED: [2020-12-02 Wed 22:47]
 
-**** vol.4 30-41 (1997-1998)
+**** vol.4 30-41 (1997-1998) :🛒:
 **** specials: -1,-2, Digest 1/2/3
 *** Wildstorm (2008-2009)
 **** DONE 00-02 :myth:
@@ -231,7 +235,7 @@ CLOSED: <2020-10-13 Tue 13:10>
 
 **** 05-06
 *** IDW (2013-2018)
-**** Season 10 (2013-2015) :🎧:
+**** Season 10 (2013-2015) :🛒:🎧:
 ***** DONE 01-05 Believers :myth:
 CLOSED: [2020-11-07 Sat 10:40]
 
@@ -299,7 +303,9 @@ CLOSED: [2020-11-03 Tue 10:06]
 ****** DONE Origins - Dog Days of Summer (2018)
 CLOSED: [2020-11-03 Tue 22:15]
 
-***** JFK Disclosure (2017)
+***** NOW JFK Disclosure (2017)
+SCHEDULED: <2022-03-31 Thu>
+
 ***** Case Files (2018)
 **** crossover
 ***** NEXT Conspiracy (2014)
@@ -372,6 +378,8 @@ NOTE: This story is set prior to the events of The X-Files: Season 10 comics ser
 CLOSED: [2020-10-10 Sat 19:27]
 
 **** NOW Kanashibari 鬼压床
+SCHEDULED: <2022-03-31 Thu>
+
 *** [#B] Ground Zero & Ruins
 :PROPERTIES:
 :rating:   3.80
@@ -384,6 +392,8 @@ CLOSED: [2020-10-10 Sat 19:27]
 
 * Fringe :fringe:
 ** NOW Fringe S1 (20 ep) :📺:
+SCHEDULED: <2022-03-31 Thu>
+
 *** DONE 1x01, 02
 CLOSED: [2022-02-19 Sat 20:28]
 
@@ -405,5 +415,13 @@ CLOSED: [2022-03-15 Tue 18:48]
 *** DONE 1x10,11
 CLOSED: [2022-03-23 Wed 20:00]
 
+*** DONE 1x12
+CLOSED: [2022-03-28 Mon 20:02]
+
+*** DONE 1x13
+CLOSED: [2022-04-02 Sat 19:15]
+
 ** comics :📚:
-*** NOW Fringe (vol.1)
+*** DONE Fringe (vol.1)
+CLOSED: [2022-03-29 Tue 23:27]
+
