@@ -243,7 +243,7 @@ CLOSED: <2022-02-09 Wed 22:48>
 **** DONE [#B] Battle for the Cowl (2009.05-07) :P2009:
 CLOSED: [2022-02-13 Sun 19:37]
 
-**** NOW Batman Reborn (2009.08-12) :P2009:
+**** LATER Batman Reborn (2009.08-12) :P2009:
 SCHEDULED: <2022-07-31 Sun>
 
 ***** DONE Batgirl: Batgirl Rising (v3 #1-3)
@@ -262,7 +262,7 @@ CLOSED: [2022-02-20 Sun 09:22]
 ***** READY Gotham City Sirens: Union (GCS #1-4)
 ***** Outsiders: The Deep (v4 #19-20)
 ***** Red Robin: The Grail (#1-4)
-**** NOW Batman and Robin vol.1 #1-16 (2009-2011) :P2009:
+**** LATER Batman and Robin vol.1 #1-16 (2009-2011) :P2009:
 SCHEDULED: <2022-07-31 Sun>
 
 （莫里森史诗第5部分）随着布鲁斯·韦恩被推定死亡，迪克·格雷森再次接过了披风，这次达米安·韦恩作为他的罗宾。
@@ -308,7 +308,7 @@ SCHEDULED: <2022-07-31 Sun>
 保罗·迪尼（Paul Dini）在这个系列中的表现出色，虽然有时因其他刊物中发生的重大事件而被蒙上阴影，却完美地讲述了蝙蝠侠历史上的小故事。
 
 ****** DONE DC #821-826 Detective
-****** NOW DC #827-834 Batman - Death and the City
+****** LATER DC #827-834 Batman - Death and the City
 SCHEDULED: <2022-07-31 Sun>
 
 ****** DC #841-845 Batman - Private Casebook (2008)
@@ -600,7 +600,7 @@ partially based on
 - the /Batman: The Court of Owls/ arc, written by Scott Snyder and illustrated by Greg Capullo and Jonathan Glapion, 
 - and the /Batman and Robin: Born to Kill/ arc, written by Peter Tomasi and illustrated by Patrick Gleason and Mick Gray. 
 
-**** NOW Batman: Bad Blood
+**** LATER Batman: Bad Blood
 SCHEDULED: <2022-07-31 Sun>
 
 The story is inspired by the /Batman Reborn/ arc, whilst also including elements from /Batwoman: Go/. 
