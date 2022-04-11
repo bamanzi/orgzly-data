@@ -236,8 +236,8 @@ CLOSED: <2021-01-01 Fri 07:40>
 :rating:   7.1
 :END:
 
-***** START [#A] 1.7/1.8 Human Resources :cybermen:D2022_04_doctor:
-SCHEDULED: <2022-04-13 Wed>
+***** HALF [#A] 1.7/1.8 Human Resources :cybermen:D2022_04_doctor:
+SCHEDULED: <2022-04-15 Fri>
 :PROPERTIES:
 :rating:   8.5
 :END:

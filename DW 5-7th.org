@@ -448,7 +448,7 @@ CLOSED: [2021-07-15 Thu 14:15]
 :END:
 
 **** HALF [#A] 27. The One Doctor (9.0) :Mel:plot_no:D2022_04_doctor:
-SCHEDULED: <2022-04-08 Fri>
+SCHEDULED: <2022-04-29 Fri>
 
 **** [#D] 34. ...ish :Peri:
 :PROPERTIES:
@@ -1029,7 +1029,7 @@ DWMGN #24
 *** DWM misc
 *** Operation Volcano (Titan Comics)
 ** novels
-*** HALF [#A] /Human Nature/ :📔:Benny:D2021_12:
+*** OVERDUE [#A] /Human Nature/ :📔:Benny:D2021_12:
 SCHEDULED: <2021-12-03 Fri>
 :PROPERTIES:
 :rating:   4.10

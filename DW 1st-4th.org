@@ -422,17 +422,17 @@ UNIT 和 准将第一次正式出场
 ** audio :🎧:
 *** EA
 **** EA S2
-***** READY [#C] 2.1 The Yes Men :Jamie:Polly:Ben:plot_yes:D2022_04_doctor:
-SCHEDULED: <2022-04-23 Sat>
+***** HALF [#C] 2.1 The Yes Men :Jamie:Polly:Ben:plot_yes:D2022_04_doctor:
+SCHEDULED: <2022-04-29 Fri>
 :PROPERTIES:
 :rating:   7.7
 :END:
 
-***** [#D] 2.2 The Forsaken
+***** READY [#D] 2.2 The Forsaken :plot_yes:
 ***** 2DONE [#B] 2.3 The Black Hole (8.1) :D2021_06:Monk:
 CLOSED: [2021-06-19 Sat 11:50]
 
-***** CANCEL [#E] 2.4 The Isos Network
+***** CANCEL [#E] 2.4 The Isos Network :Cybermen:plot_yes:
 **** EA S4
 ***** READY [#C] 4.1 The Night Witches :plot_yes:
 :PROPERTIES:
@@ -496,27 +496,74 @@ CLOSED: <2021-07-30 Fri 16:14>
 
 与 Highlanders 相关
 
+**** READY [#C] 5.9 - The Forbidden Time :Polly:plot_yes:
+:PROPERTIES:
+:rating:   7.5
+:END:
+
+**** READY [#C] 6.1 Tales From the Vault :Ruth:UNIT:plot_yes:
+:PROPERTIES:
+:rating:   7.5
+:END:
+
+**** READY [#C] 6.8 - The Selachian Gambit :Polly:Jamie:plot_yes:D2022_06_doctor:
+:PROPERTIES:
+:rating:   7.7
+:END:
+
 **** [#C] CC6.11 - The Jigsaw War :Jamie:
 :PROPERTIES:
 :rating:   7.8
 :END:
 
-**** [#C] CC10.1 - The Mouthless Dead :Jamie:Polly:scripted:plot_yes:
+**** CC10 - The Second Doctor: Volume One
+***** READY [#C] CC10.1 - The Mouthless Dead :Jamie:Polly:scripted:plot_yes:
 :PROPERTIES:
 :rating:   7.7
 :END:
 
-**** START [#C] CC12.2 Dumb Waiter :Jamie:Leela:D2021_09_extra:plot_yes:ovedue:
+***** [#D] 10.2 The Story of Extinction :Victoria:plot_no:
+:PROPERTIES:
+:rating:   7.2
+:END:
+
+***** [#E] 10.3 The Integral :plot_no:
+:PROPERTIES:
+:rating:   6.6
+:END:
+
+***** [#D] 10.4. The Edge :plot_no:
+:PROPERTIES:
+:rating:   7.4
+:END:
+
+**** CC12 - The Second Doctor: Volume Two :P2018:
+***** [#D] 12.1 - The Curator's Egg
+:PROPERTIES:
+:rating:   7.2
+:END:
+
+***** START [#C] CC12.2 Dumb Waiter :Jamie:Leela:D2021_09_extra:plot_yes:ovedue:
 SCHEDULED: <2021-10-03 Sun>
 :PROPERTIES:
 :rating:   7.8
 :END:
 
-**** [#B] CC12.4 - The Tactics of Defeat :UNIT:
+***** [#D] 12.3 The Iron Maid
+:PROPERTIES:
+:rating:   7.3
+:END:
+
+***** [#B] CC12.4 - The Tactics of Defeat :UNIT:
 :PROPERTIES:
 :rating:   8.1
 :END:
 
+**** /CC14 - The Second Doctor: Volume Three/ :P2022_04:
+***** 14.1 The Death of the Daleks
+***** 14.2 The Phantom Piper
+***** 14.3 The Prints of Denmark
+***** 14.4 The Deepest Tragedian
 *** Lost Stories
 **** [#D] 4.2 - The Queen of Time
 :PROPERTIES:
@@ -1070,7 +1117,7 @@ SCHEDULED: <2021-11-05 Fri>
 :END:
 
 ***** [#C] 8.3 - The Enchantress of Numbers (7.6) :D2022_04_doctor:
-SCHEDULED: <2022-04-16 Sat>
+SCHEDULED: <2022-04-17 Sun>
 
 ***** [#D] 8.6 - Fever Island
 :PROPERTIES:
@@ -1123,15 +1170,13 @@ CLOSED: [2020-07-29 Wed 23:03]
 
 mp3val fix
 
-**** LATER [#B] Collision Course †8.3) (The Legacy of Time #6) :Leela:Romana2:
-CLOSED: [2020-08-05 Wed 19:04]
+**** TODO [#B] Collision Course †8.3) (The Legacy of Time #6) :Leela:Romana2:
 
 与前面的故事/设定相关（Main Range 001/ The Legecy of Time 等）
 
 thetimescales 上32/33认为需要先听前面的故事
 
-**** LATER [#A] Someone I Once Knew (The Diary of River Song #4.4) †8.5 :River:
-CLOSED: [2020-08-05 Wed 19:05]
+**** TODO [#A] Someone I Once Knew (The Diary of River Song #4.4) †8.5 :River:
 
 15 out of 16 (93.8%) raters say this story requires a previous story.
 
@@ -1162,12 +1207,8 @@ CLOSED: [2020-07-05 Sun 23:49]
 CLOSED: [2020-07-05 Sun 23:49]
 
 **** BF Short Trips :audiobook:
-***** LATER [#A] ST6.9 - A Full Life †9.0 :Romana_2:
-CLOSED: [2020-08-05 Wed 19:04]
-
-***** LATER [#B] ST8.4 - Erasure †8.2 :Adric:
-CLOSED: [2020-08-05 Wed 19:05]
-
+***** TODO [#A] ST6.9 - A Full Life †9.0 :Romana_2:
+***** TODO [#B] ST8.4 - Erasure †8.2 :Adric:
 ***** CANCEL [#E] ST9.8 #HarrySullivan †6.8
 CLOSED: [2020-06-25 Thu 21:56]
 
@@ -1188,18 +1229,14 @@ CLOSED: [2020-07-19 Sun 23:03]
 ***** 3.4 The Sinister Sponge (Annual 1976 :Sarah:Harry:
 ***** 3.5 The Crocodiles from the Mist (Annual 1979, :Leela:
 **** BBC short trips :BBC:🎧:
-***** LATER Glass :Romana2:
-CLOSED: [2020-08-05 Wed 19:04]
-
+***** TODO Glass :Romana2:
 ***** CANCEL Old Flames :Sarah:Iris:
 CLOSED: [2020-07-19 Sun 23:00]
 
 取消原因：Iris
 
 ** novels :📔:novel:
-*** LATER [#A] Festival of Death (PDA35) 4.11 :Romana2:已购:
-CLOSED: [2020-08-05 Wed 19:04]
-
+*** TODO [#A] Festival of Death (PDA35) 4.11 :Romana2:已购:
 *** [#A] Scratchman (4.06) :Sarah:
 **** Scratchman (audiobook) 网易云音乐 :audiobook:
 
@@ -1207,13 +1244,9 @@ CLOSED: [2020-08-05 Wed 19:04]
 
 *** [#C] The Romance of Crime (MA06) 3.88 :Romana2:
 **** novel adaptation 03 - The Romance of Crime †8.0) :🎧:
-*** LATER [#C] The English Way Of Death (MA20) 3.87 :Romana2:
-CLOSED: [2020-08-05 Wed 19:04]
-
+*** TODO [#C] The English Way Of Death (MA20) 3.87 :Romana2:
 **** novel adaptation 05 - The Well-Mannered War †8.1) :🎧:
-*** LATER [#A] The Well Mannered War (MA33) 4.00 :Romana2:
-CLOSED: [2020-08-05 Wed 19:04]
-
+*** TODO [#A] The Well Mannered War (MA33) 4.00 :Romana2:
 **** novel adaptation 04 - The English Way of Death †7.9) :🎧:
 * no doctor :no_doctor:
 ** comics
@@ -1221,9 +1254,7 @@ CLOSED: [2020-08-05 Wed 19:04]
 **** DONE The Return of the Daleks
 CLOSED: <2020-08-19 Wed 07:37>
 
-**** LATER Throwback: The Soul of a Cyberman
-CLOSED: [2020-08-29 Sat 07:37]
-
+**** TODO Throwback: The Soul of a Cyberman
 **** The Final Quest
 **** DONE The Stolen TARDIS
 CLOSED: <2020-08-20 Thu 07:39-01:41>

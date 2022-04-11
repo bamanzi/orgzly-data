@@ -342,7 +342,7 @@ SCHEDULED: <2021-12-31 Fri>
 :END:
 
 **** HALF [#C] Out of Time 2 - The Gates of Hell :P2021:Cybermen:5th_Dr:D2022_04_doctor:
-SCHEDULED: <2022-04-09 Sat>
+SCHEDULED: <2022-04-29 Fri>
 :PROPERTIES:
 :rating:   7.5
 :END:
@@ -539,6 +539,7 @@ CLOSED: [2022-02-23 Wed 20:38] SCHEDULED: <2022-02-24 Thu>
 :END:
 
 **** [#D] 12DC2.3 The Weight of History :D2022_04_doctor:
+SCHEDULED: <2022-04-22 Fri>
 :PROPERTIES:
 :rating:   7.0
 :END:
@@ -655,9 +656,7 @@ CLOSED: [2020-07-01 Wed 18:45]
 **** DONE holiday specials
 CLOSED: [2020-08-02 Sun 16:17]
 
-**** LATER 13DY2 1-4 A Little Help from My Friends :10th_Dr:
-CLOSED: [2020-08-06 Thu 18:40]
-
+**** TODO 13DY2 1-4 A Little Help from My Friends :10th_Dr:
 **** DWC20 #1-4 Alternating Current
 *** DWM Comics :📚:DWM:
 **** DONE The Warmonger (531-534)
@@ -672,9 +671,7 @@ CLOSED: [2020-06-23 Tue 14:47]
 **** DONE Mistress of Chaos (DWM543-548)
 CLOSED: [2020-07-12 Sun 11:56]
 
-**** LATER The Piggybackers (DWM549-552)
-CLOSED: [2020-08-06 Thu 18:40]
-
+**** TODO The Piggybackers (DWM549-552)
 **** The White Dragon (DWM559-562)
 **** The Forest Bride  (DWM570-571)
 **** It's Behind You! (DWM572)
