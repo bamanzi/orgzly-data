@@ -221,7 +221,7 @@ CLOSED: [2021-03-22 Mon 23:16]
 CLOSED: [2021-02-27 Sat 18:02]
 
 **** [#C] 173. The Lady of Mercia (7.7)
-**** BLOCK [#B] 174. Prisoners of Fate (8.2) :plot_yes:D2021_13:Nyssa:Tegan:
+**** READY [#B] 174. Prisoners of Fate (8.2) :plot_yes:D2021_13:Nyssa:Tegan:
 
 应该先听 MR136 Cobwebs
 
@@ -448,7 +448,7 @@ CLOSED: [2021-07-15 Thu 14:15]
 :END:
 
 **** HALF [#A] 27. The One Doctor (9.0) :Mel:plot_no:D2022_04_doctor:
-SCHEDULED: <2022-04-29 Fri>
+SCHEDULED: <2022-04-23 Sat>
 
 **** [#D] 34. ...ish :Peri:
 :PROPERTIES:

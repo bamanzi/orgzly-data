@@ -538,8 +538,8 @@ CLOSED: [2022-02-23 Wed 20:38] SCHEDULED: <2022-02-24 Thu>
 :rating:   6.4
 :END:
 
-**** [#D] 12DC2.3 The Weight of History :D2022_04_doctor:
-SCHEDULED: <2022-04-22 Fri>
+**** START [#D] 12DC2.3 The Weight of History :D2022_04_doctor:
+SCHEDULED: <2022-04-30 Sat>
 :PROPERTIES:
 :rating:   7.0
 :END:

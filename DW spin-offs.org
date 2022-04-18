@@ -319,7 +319,7 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 
 ***** HALF [#A] 46. Coffee :Ianto:D2021_07_extra:
       :PROPERTIES:
-      :rating:   8.9
+      :rating:   8.8
       :END:
 
 ***** [#D] 47. Drive :Tosh:
@@ -327,9 +327,9 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
       :rating:   7.2
       :END:
 
-***** [#A] 48. Lease of Life :Owen:
+***** [#B] 48. Lease of Life :Owen:D2022_05_spinoffs:
       :PROPERTIES:
-      :rating:   8.4
+      :rating:   8.3
       :END:
 
 **** series 7
@@ -338,11 +338,11 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
       :rating:   8.7
       :END:
 
-***** BLOCK Absent Friends (missing)
-***** BLOCK 50X. The Black Knight
-***** [#B] 51. The Five People You Kill in Middlebrough :Yvonne:
+***** NA 50. Absent Friends (missing)
+***** 50X. The Black Knight :Norton:
+***** [#A] 51. The Five People You Kill in Middlebrough :Yvonne:
       :PROPERTIES:
-      :rating:   8.3
+      :rating:   8.5
       :END:
 
 ***** [#A] 52. Madam I'm :Norton:Adam:
@@ -350,9 +350,9 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
       :rating:   8.8
       :END:
 
-***** [#D] 53. Empire of Shadows :Zach:
+***** [#C] 53. Empire of Shadows :Zach:
       :PROPERTIES:
-      :rating:   7.1
+      :rating:   7.6
       :END:
 
 ***** [#A] 54. Curios :Bilis:
@@ -360,17 +360,17 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
       :rating:   8.9
       :END:
 
-***** HALF [#B] 55. The Great Sontaran War :Ianto:Sontarans:D2021_11_extra:
+***** HALF [#A] 55. The Great Sontaran War :Ianto:Sontarans:D2021_11_extra:
       DEADLINE: <2021-11-25 Thu 12:50> SCHEDULED: <2021-11-27 Sat>
       :PROPERTIES:
-      :rating:   8.4
+      :rating:   8.6
       :END:
 
-***** 56. The Red List :Ace:
-***** 57. The Grey Mare :Ianto:
-***** 58. Cadoc Point
-***** 59. Sonny
-***** BLOCK 60. Infidel Places
+***** [#B] 56. The Red List :Ace:Colchester:
+***** [#A] 57. The Grey Mare :Ianto:
+***** [#B] 58. Cadoc Point :Andy:
+***** [#A] 59. Sonny :Rhys:
+***** NA 60. Infidel Places
 *** specials
 **** 2DONE [#B] special 1: The Torchwood Archive :P2016:The_Commitee:plot_yes:
      CLOSED: [2020-11-19 Thu 18:33]
@@ -471,7 +471,7 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
       :END:
 
 ***** HALF [#A] 6.3 See No Evil :D2022_04_spinoffs:
-      SCHEDULED: <2022-04-29 Fri>
+      SCHEDULED: <2022-04-23 Sat>
       :PROPERTIES:
       :rating:   8.4
       :END:
@@ -1157,7 +1157,7 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
      :END:
 
 **** START [#A] 4.3 - Truant :D2022_04_spinoffs:
-     SCHEDULED: <2022-04-29 Fri>
+     SCHEDULED: <2022-04-16 Sat>
      :PROPERTIES:
      :rating:   8.7
      :END:
@@ -1597,6 +1597,11 @@ rating 8.7/8.3
 
 * UNIT :UNIT:
 ** UNIT
+** NA UNIT: Brave New World
+
+Brave New World was a subseries of the UNIT audio series produced by Big Finish Productions. Beginning in 2022, it focused on the exploits of UNIT under the command of /Winifred Bambera/ (TV: Battlefield) along with her new team: /Sergeant Jean-Paul Savarin/ and /Dr Louise Rix/.
+
+* UNIT: The New Series
 ** UNIT 1: Extinction :Nestene:P2015:
 *** 1.1 [#C] Vanguard (7.5)
     :PROPERTIES:
@@ -1624,10 +1629,8 @@ rating 8.7/8.3
 *** [#C] 2.3 The Battle of the Tower (7.5)
 *** [#D] 2.4 Ice Station Alpha (7.3)
 ** UNIT 3: Silenced :P2016:
-*** HALF [#B] 3.1 House of Silents (8.2) :D2022_04_spinoffs:
-    SCHEDULED: <2022-04-29 Fri>
-
-*** [#B] 3.2 Square One (8.4) :D2022_04_spinoffs:
+*** HALF [#B] 3.1 House of Silents (8.2) :D2022_06_spinoffs:
+*** START [#B] 3.2 Square One (8.4)
 *** [#A] 3.3 Silent Majority (8.5)
 *** [#C] 3.4 In Memory Alone (7.5)
 ** UNIT 4: Assembled :Silurians:P2017:
@@ -1636,8 +1639,8 @@ rating 8.7/8.3
 *** [#B] 4.2 - Tidal Wave   (8.2)
 *** [#C] 4.4 - United       (7.5)
 ** UNIT 5: Encounters :P2017:
-*** HALF [#E] 5.1 - The Dalek Transaction            (6.8) :D2022_08_spinoffs:
-*** [#C] 5.2 - Invocation :D2022_08_spinoffs:
+*** HALF [#E] 5.1 - The Dalek Transaction            (6.8) :D2022_04_spinoffs:
+*** HALF [#C] 5.2 - Invocation :D2022_04_spinoffs:
     :PROPERTIES:
     :rating:   7.4
     :END:
@@ -1663,7 +1666,7 @@ rating 8.7/8.3
 ***+TBLFM: $1='(cond ((>= $3 8.5) "[#A]") ((>= $3 8.0) "[#B]") ((>= $3 7.5) "[#C]") ((>= $2 7.0) "[#D]") (t "[#E]"));N
 
 ** Nemesis 1: Between Two Worlds :P2021:
-** Nemesis 2: Agents of the Vulpreen
+** Nemesis 2: Agents of the Vulpreen :P2022:
 * The Paternoster Gang
 ** audio :🎧:
 *** PG: Heritage 1 :P2019:
@@ -1747,7 +1750,7 @@ rating 8.7/8.3
 *** 3. Hidden Persuaders
 ** The Robots (Big Finish, 2019-)
 *** The Robots vol.1 :P2019_12:
-**** [#D] 1.1 - The Robots of Life       (7.4) :D2022_04_spinoffs:
+**** HALF [#D] 1.1 - The Robots of Life       (7.4) :D2022_04_spinoffs:
      SCHEDULED: <2022-04-17 Sun>
 
 **** [#B] 1.2 - The Sentient             (8.2)

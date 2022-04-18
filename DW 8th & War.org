@@ -93,7 +93,7 @@ CLOSED: [2021-03-22 Mon 22:38]
 :rating:   7.6
 :END:
 
-***** BLOCK [#C] MR63. Caerdroia :plot_yes:underrated:week2:
+***** BLOCK [#C] 63. Caerdroia :plot_yes:underrated:week2:
 :PROPERTIES:
 :rating:   7.7
 :END:
@@ -237,7 +237,7 @@ CLOSED: <2021-01-01 Fri 07:40>
 :END:
 
 ***** HALF [#A] 1.7/1.8 Human Resources :cybermen:D2022_04_doctor:
-SCHEDULED: <2022-04-15 Fri>
+SCHEDULED: <2022-04-29 Fri>
 :PROPERTIES:
 :rating:   8.5
 :END:
