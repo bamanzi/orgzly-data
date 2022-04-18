@@ -26,6 +26,7 @@ CLOSED: [2022-02-21 Mon 12:24]
 
 **** 4x21 Zero Sum
 *** S5 (1997.11-1998.05)
+**** 5x03 Unusual Suspects :Lone_Gunmen:
 *** movie: Fight the Future (1998.06) :P1998:
 *** S6 (1998.11-1999.05)
 **** 6x09 S.R. 819 :Skinner:
@@ -197,8 +198,12 @@ CLOSED: [2022-04-09 Sat 22:57]
 
 **** 9x13 Improbable
 **** 9x14 Scary Monsters
-**** TODO 9x15 Jump the Shark :myth:
-**** TODO 9x16 William :myth:
+**** DONE 9x15 Jump the Shark :myth:Lone_Gunmen:
+CLOSED: [2022-04-12 Tue 20:14]
+
+**** DONE 9x16 William :myth:
+CLOSED: [2022-04-18 Mon 08:06]
+
 **** [#A] 9x17 Release :👍:
 **** 9x18 Sunshine Days
 **** TODO 9x19 The Truth
@@ -217,15 +222,12 @@ CLOSED: [2022-04-09 Sat 22:57]
 **** 11x06 Kitten :Skinner:Vietnam_War:
 **** 11x10 My Struggle IV :myth:
 *** The Lone Gunmen
-**** DONE 1. Pilot
-CLOSED: [2020-11-13 Fri 19:34]
-
 ** comics :📚:
 
 https://x-files.fandom.com/wiki/Comics
 
 *** Topps (1995-1998) :topps:
-**** OVERDUE 01-12 :myth:P1995:
+**** NOW 01-12 :myth:P1995:
 DEADLINE: <2022-03-31 Thu> SCHEDULED: <2022-03-31 Thu>
 
 ***** HALF 01. Not to be Opened Until X-Mas (1995-01)
@@ -235,7 +237,17 @@ CLOSED: <2022-04-06 Wed 12:40>
 ***** DONE 03. A Little Dream of Me
 CLOSED: [2022-04-06 Wed 13:20]
 
-***** 04-06. Firebird
+***** DONE 04-06. Firebird
+CLOSED: [2022-04-12 Tue 13:54]
+
+***** HALF 07. Trepanning Opera
+
+没怎么看懂
+
+***** HALF 08-09. Silent Cities of the Mind
+
+也没怎么看懂，尤其第二部分里面 enoch 讲述的Aztec 人历史传说部分
+
 **** DONE 13-19 + ½ + annuals 1,2 :P1996:
 CLOSED: <2020-11-14 Sat 22:47>
 
@@ -410,6 +422,10 @@ Topps 漫画#22也是“鬼压床”这个主题
 :rating:   3.56
 :END:
 
+* The Lone Gunmen (12 eps)
+** DONE 1. Pilot
+CLOSED: [2020-11-13 Fri 19:34]
+
 * Fringe :fringe:
 ** OVERDUE Fringe S1 (20 ep) :📺:
 DEADLINE: <2022-03-31 Thu> SCHEDULED: <2022-03-31 Thu>
@@ -443,6 +459,12 @@ CLOSED: [2022-04-02 Sat 19:15]
 
 *** DONE 1x14
 CLOSED: [2022-04-08 Fri 21:53]
+
+*** DONE 1x15
+CLOSED: [2022-04-16 Sat 20:23]
+
+*** DONE 1x16
+CLOSED: [2022-04-17 Sun 13:03]
 
 ** comics :📚:
 *** DONE Fringe (vol.1)

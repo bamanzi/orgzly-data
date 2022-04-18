@@ -129,7 +129,7 @@ https://dc.fandom.com/wiki/Saint_of_Killers_(Preacher)
 CLOSED: [2022-02-24 Thu 13:27]
 
 ***** DONE Preacher #27-33
-***** BLOCK Cassidy: Blood & Whiskey
+***** NA Cassidy: Blood & Whiskey
 **** DONE vol.6 War in the Sun
 CLOSED: [2022-03-20 Sun 10:45]
 
@@ -386,7 +386,7 @@ Ultimate Spider-Man #129–133, Annual #3
 * Supernatural :📺:spn:
 ** DONE S11
 ** DONE S12
-** OVERDUE SPN S13
+** SPN S13
 DEADLINE: <2022-02-28 Mon> SCHEDULED: <2022-02-28 Mon>
 
 *** DONE 13x01, 02
@@ -424,9 +424,14 @@ CLOSED: [2022-04-08 Fri 07:47]
 *** DONE 13x15
 CLOSED: [2022-04-11 Mon 08:08]
 
-*** TODO 13x16
-*** 13x17-18,20-22 :Gabriel:
-*** TODO 13x19
+*** DONE 13x16 Scoobynatural
+CLOSED: [2022-04-13 Wed 08:14]
+
+*** LATER 13x17-18,20-22 :Gabriel:
+*** DONE 13x19
+CLOSED: [2022-04-14 Thu 19:04]
+
+*** 13x23
 ** S14
 ** S15
 * Star Wars
@@ -475,6 +480,9 @@ CLOSED: [2022-04-04 Mon 16:50]
 SCHEDULED: <2022-04-30 Sat>
 
 ***** season 1 (8 eps) :P2019:
+
+9 ABY
+
 ****** DONE 1x01
 CLOSED: [2022-04-05 Tue 22:54]
 
@@ -482,6 +490,9 @@ CLOSED: [2022-04-05 Tue 22:54]
 ***** season 3
 **** The Book of Boba Fett
 ***** season 1 (7 eps) :P2021:
+
+c.9 ABY
+
 **** Obi-Wan Kenobi
 ***** season 1 (6 eps)
 **** Andor
@@ -511,6 +522,12 @@ It premiered worldwide as a one-hour television movie, Star Wars Rebels: Spark o
 
 ***** shorts (4 eps) :P2014:
 ***** season 1 (15 eps) :P2014:
+
+5BBY
+
+****** DONE 1x01
+CLOSED: [2022-04-13 Wed 23:12]
+
 ***** season 2 (22 eps) :P2015:
 ***** season 3 (22 eps) :P2016:
 ***** season 1 (16 eps) :P2017:
@@ -548,10 +565,13 @@ CLOSED: <2022-04-03 Sun 10:51>
 ****** DONE vol.2 Showdown on the Smuggler's Moon (#8-12) :hanzify:
 CLOSED: [2022-04-07 Thu 23:11]
 
-****** DONE vol.3 Vader Down :hanzify:
+****** DONE vol.2X Vader Down :hanzify:
 CLOSED: [2022-04-10 Sun 15:51]
 
-****** vol.3 Rebel Jail (A1, #15-19)
+****** DONE vol.3 Rebel Jail (A1, #15-19)
+CLOSED: [2022-04-15 Fri 13:58]
+
+****** vol.4 The Last Flight of the Harbinger (#20-25)
 ***** NOW Darth Vader (2015-2016)
 SCHEDULED: <2022-04-30 Sat>
 
@@ -586,7 +606,7 @@ takes place between the events of /Star Wars: Episode V The Empire Strikes Bac
 
 Between the events of /Star Wars: Episode V The Empire Strikes Back/ and /Star Wars: Episode VI Return of the Jedi/
 
-***** mini-series 正传三部曲
+***** mini-series 正传三部曲相关
 ****** before movie 4
 ******* Lando - Double or Nothing :P2018:
 
@@ -644,12 +664,12 @@ Beilert Valance first appeared in Solo: A Star Wars Story Adaptation 1
 link: https://www.starwars.com/news/a-guide-to-star-wars-rebels-books-and-comics
 
 ****** Kanan
-****** BLOCK Thrawn :P2018:
+****** LATER Thrawn :P2018:
 
 
 Thrawn first appeared in Star Wars Rebels 3x01-02
 
-***** mini-series 前传三部曲
+***** mini-series 前传三部曲相关
 ****** before movie 1
 ******* Darth Maul
 
@@ -670,7 +690,7 @@ c.232 BBY
 a prequel to the Respawn Entertainment video game /Star Wars Jedi: Fallen Order/. 
 
 ****** Age of Republic
-***** mini-series 后传三部曲
+***** mini-series 后传三部曲相关
 ****** before movie 7
 ******* on-going: Poe Dameron (2016-2018)
 
