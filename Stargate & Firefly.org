@@ -221,8 +221,11 @@ CLOSED: <2021-10-19 Tue 20:21>
 **** DONE 1x13 Kobol's Last Gleaming, Part II
 CLOSED: <2021-10-19 Tue 10:48>
 
-*** LATER S2 (20 episodes) :P2005:
+*** DOING S2 (20 episodes) :P2005:
 SCHEDULED: <2022-05-15 Sun>
+
+**** DONE 2x01
+CLOSED: [2022-04-21 Thu 20:29]
 
 *** The Plan
 

@@ -471,8 +471,8 @@ CLOSED: [2022-04-04 Mon 16:50]
 ***** Star Wars: Episode IX The Rise of Skywalker
 **** spin-offs
 ***** The Clone Wars :P2008:
-***** Rogue One
-***** Solo
+***** NOW Rogue One 侠盗一号
+***** NOW Solo
 ***** A Droid Story
 ***** Rogue Squadron
 *** tv (live-action) :📺:
@@ -486,6 +486,12 @@ SCHEDULED: <2022-04-30 Sat>
 ****** DONE 1x01
 CLOSED: [2022-04-05 Tue 22:54]
 
+****** DONE 1x02 The Child
+CLOSED: [2022-04-18 Mon 18:51]
+
+****** DONE 1x03 The Sin
+CLOSED: [2022-04-23 Sat 16:39]
+
 ***** season 2 (8 eps) :P2020:
 ***** season 3
 **** The Book of Boba Fett
@@ -495,13 +501,13 @@ c.9 ABY
 
 **** Obi-Wan Kenobi
 ***** season 1 (6 eps)
-**** Andor
+**** NA Andor
 ***** season 1 (12 eps)
 ***** season 2
-**** Ahsoka
-**** The Acolyte
-**** Lando
-**** Rangers of the New Republic
+**** NA Ahsoka
+**** NA The Acolyte
+**** NA Lando
+**** NA Rangers of the New Republic
 *** tv (animated)
 **** The Clone Wars (2008-2014) :P2008:
 
@@ -514,23 +520,31 @@ c.9 ABY
 ***** season 5 (20 eps) :P2012:
 ***** season 6 (13 eps) :P2014:
 ***** season 7 (12 eps) :P2020:
-**** Rebels (2014-2018) 义军崛起 :P2014:
+**** Rebels (2014-2018) 义军崛起
 
 set during the time frame between the films /Star Wars: Episode III Revenge of the Sith/ and /Star Wars: Episode IV A New Hope/.
 
 It premiered worldwide as a one-hour television movie, Star Wars Rebels: Spark of Rebellion, on Disney Channel on October 3, 2014; 
 
 ***** shorts (4 eps) :P2014:
-***** season 1 (15 eps) :P2014:
+***** NOW season 1 (15 eps) :P2014:
 
 5BBY
 
-****** DONE 1x01
+https://starwars.fandom.com/wiki/Star_Wars_Rebels_Season_One
+
+****** DONE 1x01-02 Spark of Rebellion
 CLOSED: [2022-04-13 Wed 23:12]
+
+****** DONE 1x03 Droids in Distress
+CLOSED: [2022-04-22 Fri 20:06]
+
+****** DONE 1x04 Fighter Flight"
+CLOSED: [2022-04-22 Fri 20:31]
 
 ***** season 2 (22 eps) :P2015:
 ***** season 3 (22 eps) :P2016:
-***** season 1 (16 eps) :P2017:
+***** season 4 (16 eps) :P2017:
 **** Forces of Destiny (2017-2018)
 ***** season 1 (18 eps) :P2017:
 ***** season 2 (18 eps) :P2018:
@@ -544,13 +558,47 @@ CLOSED: [2022-04-13 Wed 23:12]
 **** Galaxy of Adventures (2018-2020)
 ***** season 1 (36 eps) :P2018:
 ***** season 2 (18 eps) :P2019:
-**** The Bad Batch (2021- ) 残次品
+**** The Bad Batch (2021- ) 残次品/异等小队
+
+讲述了“残次品”的精英和实验性克隆人在克隆人战争刚结束时，在迅速变化的银河系中寻找自己的方向。“残次品”成员是一支独特的克隆人队伍，他们在基因上与克隆人军队中的兄弟不同，每个人都拥有一种独特的特殊技能，使他们成为特殊的士兵和可怕的船员。
+
 ***** season 1 (16 eps) :P2021:
 **** Visions (2021, 9 eps) :P2021:
 **** Galaxy of Creatures
 *** comics :📚:
 **** Marvel (2015- ) :canon:
-***** NOW Star Wars (2015-2019)
+***** 正传三部曲相关
+****** before movie 4
+******* Darth Vader v2: Dark Lord of the Sith (2017-2018)
+
+
+19 BBY-12 BBY
+
+Beginning during the events of /Star Wars: Episode III Revenge of the Sith/ directly after Darth Vader discovers that his wife, Padmé Amidala, has died, the series chronicles Vader going on various missions across the galaxy, all the while hunting the few surviving Jedi alongside his band of dark side apprentices known as the /Inquisitorius/. 
+
+******* Lando - Double or Nothing :P2018:
+
+10BBY
+
+******* Han Solo - Imperial Cadet :P2018:
+
+Between 13 BBY and 10 BBY
+
+******* Solo: A Star Wars Story Adaptation
+******* Vader - Dark Visions :P2019:
+
+Between 2 BBY and 0 BBY
+
+****** between movie 4 & 5
+******* READY Han Solo :P2016:
+
+0 ABY
+
+******* Chewbacca :P2015:
+
+0 ABY
+
+******* NOW Star Wars (2015-2019)
 SCHEDULED: <2022-04-30 Sat>
 
 set between the events of /Star Wars: Episode IV A New Hope/ and /Star Wars: Episode V The Empire Strikes Back/
@@ -559,20 +607,24 @@ https://starwars.fandom.com/wiki/Star_Wars_(Marvel_Comics_2015)
 
 75 issues
 
-****** DONE vol.1 Skywalker Strikes (#1-7) :hanzify:
+******** DONE vol.1 Skywalker Strikes (#1-7) :hanzify:
 CLOSED: <2022-04-03 Sun 10:51>
 
-****** DONE vol.2 Showdown on the Smuggler's Moon (#8-12) :hanzify:
+******** DONE vol.2 Showdown on the Smuggler's Moon (#8-12) :hanzify:
 CLOSED: [2022-04-07 Thu 23:11]
 
-****** DONE vol.2X Vader Down :hanzify:
+******** DONE vol.2X Vader Down :hanzify:
 CLOSED: [2022-04-10 Sun 15:51]
 
-****** DONE vol.3 Rebel Jail (A1, #15-19)
+******** DONE vol.3 Rebel Jail (A1, #15-19)
 CLOSED: [2022-04-15 Fri 13:58]
 
-****** vol.4 The Last Flight of the Harbinger (#20-25)
-***** NOW Darth Vader (2015-2016)
+******** DONE vol.4 The Last Flight of the Harbinger (#20-25)
+CLOSED: [2022-04-19 Tue 22:22]
+
+******** vol.5 Yoda's Secret War
+******** vol.5X The Screaming Citadel
+******* NOW Darth Vader (2015-2016)
 SCHEDULED: <2022-04-30 Sat>
 
 https://starwars.fandom.com/wiki/Star_Wars:_Darth_Vader_(2015)
@@ -581,61 +633,39 @@ https://starwars.fandom.com/wiki/Star_Wars:_Darth_Vader_(2015)
 
 The story centers on the character Darth Vader between the events of /Star Wars: Episode IV A New Hope/ and /Star Wars: Episode V The Empire Strikes Back/
 
-****** DONE vol.1 Vader (#1-6) :hanzify:
+******** DONE vol.1 Vader (#1-6) :hanzify:
 CLOSED: [2022-04-05 Tue 10:02]
 
-****** DONE vol.2 Shadows and Secrets (#7-12) :hanzify:
+******** DONE vol.2 Shadows and Secrets (#7-12) :hanzify:
 CLOSED: [2022-04-09 Sat 21:13]
 
-****** vol.3 The Shu-Torun War (A1, #16-19)
-****** vol.4 End of Games (#20-25)
-***** Doctor Aphra (2016-2019)
-***** Darth Vader v2: Dark Lord of the Sith (2017-2018)
+******** vol.3 The Shu-Torun War (A1, #16-19)
+******** vol.4 End of Games (#20-25)
+******* Doctor Aphra (2016-2019)
+******* DONE Lando (2015) :hanzify:
+CLOSED: [2022-04-18 Mon 13:57]
 
+******* DONE Princess Leia (2015) :hanzify:
+CLOSED: [2022-04-22 Fri 23:31]
 
-19 BBY-12 BBY
+网友汉化版翻译比较烂
 
-Beginning during the events of /Star Wars: Episode III Revenge of the Sith/ directly after Darth Vader discovers that his wife, Padmé Amidala, has died, the series chronicles Vader going on various missions across the galaxy, all the while hunting the few surviving Jedi alongside his band of dark side apprentices known as the /Inquisitorius/. 
-
-***** Doctor Aphra v2 (2020- )
-***** Star Wars v2 (2020- )
+****** between movie 5-6
+******* Star Wars v2 (2020- )
 
 takes place between the events of /Star Wars: Episode V The Empire Strikes Back/ and /Star Wars: Episode VI Return of the Jedi/
 
-***** Darth Vader  (2020)
+******* Darth Vader v2 (2020-)
 
 Between the events of /Star Wars: Episode V The Empire Strikes Back/ and /Star Wars: Episode VI Return of the Jedi/
 
-***** mini-series 正传三部曲相关
-****** before movie 4
-******* Lando - Double or Nothing :P2018:
+******* Doctor Aphra v2 (2020- )
+******* Bounty Hunters (2020- )
 
-10BBY
+The series features the bounty hunters Beilert Valance, Boba Fett and Bossk, and takes place between the events of /Star Wars: Episode V The Empire Strikes Back/ and /Star Wars: Episode VI Return of the Jedi/
 
-******* Solo: A Star Wars Story Adaptation
-******* Han Solo - Imperial Cadet :P2018:
-
-Between 13 BBY and 10 BBY
-
-******* Vader - Dark Visions :P2019:
-
-Between 2 BBY and 0 BBY
-
-****** between movie 4 & 5
-******* Lando (2015) :hanzify:
-******* Princess Leia (2015) :hanzify:
-******* Chewbacca :P2015:
-
-0 ABY
-
-******* Han Solo :P2016:
-
-0 ABY
-
-****** between movie 5-6
-******* on-going: Bounty Hunters (2020- )
 ****** between movie 6-7
-******* Shattered Empire (2015) :hanzify:
+******* READY Shattered Empire (2015) :hanzify:
 
 4 ABY–5 ABY
 
@@ -669,7 +699,7 @@ link: https://www.starwars.com/news/a-guide-to-star-wars-rebels-books-and-comics
 
 Thrawn first appeared in Star Wars Rebels 3x01-02
 
-***** mini-series 前传三部曲相关
+***** 前传三部曲相关
 ****** before movie 1
 ******* Darth Maul
 
@@ -690,7 +720,7 @@ c.232 BBY
 a prequel to the Respawn Entertainment video game /Star Wars Jedi: Fallen Order/. 
 
 ****** Age of Republic
-***** mini-series 后传三部曲相关
+***** 后传三部曲相关
 ****** before movie 7
 ******* on-going: Poe Dameron (2016-2018)
 
@@ -717,7 +747,7 @@ Poe Dameron was portrayed by actor Oscar Isaac in Star Wars: Episode VII The
 The story is set prior to the events of /Star Wars: Episode IX The Rise of Skywalker/. 
 
 ****** Age of Resistance
-** legends
+** 👽legends
 *** movies
 **** Holiday Special
 **** Caravan of Courage

@@ -155,7 +155,7 @@ CLOSED: <2022-02-22 Tue 20:27>
 **** DONE 8x21 Existence :myth:super-soldier:
 CLOSED: [2022-02-23 Wed 19:43]
 
-*** OVERDUE S9 (2001.11-2002.05)
+*** S9 (2001.11-2002.05)
 DEADLINE: <2022-03-31 Thu> SCHEDULED: <2022-03-31 Thu>
 
 **** DONE 9x01 Nothing Important Happened Today :myth:super-soldier:
@@ -206,7 +206,9 @@ CLOSED: [2022-04-18 Mon 08:06]
 
 **** [#A] 9x17 Release :👍:
 **** 9x18 Sunshine Days
-**** TODO 9x19 The Truth
+**** DONE 9x19 The Truth
+CLOSED: [2022-04-23 Sat 13:29]
+
 *** movie 2: I Want to Believe (2008.07) :P2008:
 *** S10 (2016.01-02)
 **** 10x01 My Struggle :myth:
@@ -227,9 +229,7 @@ CLOSED: [2022-04-18 Mon 08:06]
 https://x-files.fandom.com/wiki/Comics
 
 *** Topps (1995-1998) :topps:
-**** NOW 01-12 :myth:P1995:
-DEADLINE: <2022-03-31 Thu> SCHEDULED: <2022-03-31 Thu>
-
+**** 01-12 :myth:P1995:
 ***** HALF 01. Not to be Opened Until X-Mas (1995-01)
 ***** DONE 02. The Dismemberance of Things Past
 CLOSED: <2022-04-06 Wed 12:40>
@@ -248,6 +248,7 @@ CLOSED: [2022-04-12 Tue 13:54]
 
 也没怎么看懂，尤其第二部分里面 enoch 讲述的Aztec 人历史传说部分
 
+***** HALF 10-12. Feeling of Unreality
 **** DONE 13-19 + ½ + annuals 1,2 :P1996:
 CLOSED: <2020-11-14 Sat 22:47>
 
@@ -334,8 +335,6 @@ CLOSED: [2020-11-03 Tue 10:06]
 CLOSED: [2020-11-03 Tue 22:15]
 
 ***** OVERDUE JFK Disclosure (2017)
-DEADLINE: <2022-03-31 Thu> SCHEDULED: <2022-03-31 Thu>
-
 ***** Case Files (2018)
 **** crossover
 ***** NEXT Conspiracy (2014)
@@ -427,7 +426,7 @@ Topps 漫画#22也是“鬼压床”这个主题
 CLOSED: [2020-11-13 Fri 19:34]
 
 * Fringe :fringe:
-** OVERDUE Fringe S1 (20 ep) :📺:
+** DOING Fringe S1 (20 ep) :📺:
 DEADLINE: <2022-03-31 Thu> SCHEDULED: <2022-03-31 Thu>
 
 *** DONE 1x01, 02
@@ -465,6 +464,12 @@ CLOSED: [2022-04-16 Sat 20:23]
 
 *** DONE 1x16
 CLOSED: [2022-04-17 Sun 13:03]
+
+*** DONE 1x17
+CLOSED: [2022-04-20 Wed 07:39]
+
+*** DONE 1x18
+CLOSED: [2022-04-24 Sun 07:56]
 
 ** comics :📚:
 *** DONE Fringe (vol.1)
