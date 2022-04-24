@@ -58,25 +58,28 @@ Episode 4 missing (but animated in 2013).
 ** audio :🎧:
 *** EA
 **** EA S1
-***** READY [#C] EA1.1 Domain of the Voord :plot_yes:
-***** [#D] EA1.2 The Doctor's Tale :plot_yes:
+***** BLOCK [#C] EA1.1 Domain of the Voord :Susan:Ian:Barbara:plot_yes:D2022_Q4:
+
+应该先看老版剧集 1x05 The Keys of Marinus
+
+***** [#D] EA1.2 The Doctor's Tale :Steven:Vicki:plot_yes:D2022_07_doctor:
 :PROPERTIES:
 :rating:   7.1
 :END:
 
-***** [#C] EA1.3 The Bounty of Ceres :plot_no:
+***** [#C] EA1.3 The Bounty of Ceres :Vicki:Steven:plot_no:
 :PROPERTIES:
 :rating:   7.7
 :END:
 
-***** READY [#C] EA1.4 - An Ordinary Life :plot_yes:
+***** READY [#C] EA1.4 - An Ordinary Life :Steven:Sara_Kingdom:plot_yes:
 **** EA S3
 ***** [#B] EA 3.3 The Ravelli Conspiracy (8.0) :plot_no:
 ***** HALF [#B] EA3.4 The Sontarans (8.0) :D2021_09_dr:Sara_Kingdom:Steven:plot_yes:
 SCHEDULED: <2021-09-22 Wed>
 
 **** EA S5
-***** READY [#A] EA5.1 The Dalek Occupation of Winter (9.0) :daleks:plot_yes:
+***** READY [#A] EA5.1 The Dalek Occupation of Winter (9.0) :Steven:Vicki:daleks:plot_yes:
 ***** [#B] EA5.2 An Ideal World (8.2) :plot_no:
 ***** [#D] EA5.3 Entanglement (7.3) :plot_no:
 ***** [#A] EA5.4 The Crash of the UK-201 (8.8) :plot_no:
@@ -84,8 +87,8 @@ SCHEDULED: <2021-09-22 Wed>
 ***** 2DONE EA7.1 After the Daleks :Dalek_War_1st:Susan:D2021_10_daleks:
 CLOSED: [2021-11-01 Mon 22:54] SCHEDULED: <2021-11-01 Mon>
 
-***** READY EA7.2 The Secrets of Det-Sun :plot_yes:
-*** 1DA
+***** READY EA7.2 The Secrets of Det-Sen :plot_yes:
+*** 1DA :Susan:Ian:Barbara:
 **** HALF [#C] 1.1 The Destination Wars :Master_early:D2021_08_dr:
 :PROPERTIES:
 :rating:   7.8
@@ -103,8 +106,8 @@ CLOSED: [2021-07-27 Tue 23:10]
 :rating:   8.6
 :END:
 
-**** [#C] 3.1 The Phoenicians (7.5) :Susan:Ian:Barbara:plot_no:P2019:
-**** HALF [#A] 1DA3.2 Tick-Tock World :Susan:Ian:Barbara:P2019:plot_yes:D2022_03_doctor:week2:
+**** [#C] 3.1 The Phoenicians (7.5) :plot_no:P2019:
+**** HALF [#A] 1DA3.2 Tick-Tock World :P2019:plot_yes:D2022_03_doctor:week2:
 SCHEDULED: <2022-03-12 Sat>
 :PROPERTIES:
 :rating:   8.5
@@ -126,6 +129,7 @@ SCHEDULED: <2022-03-12 Sat>
 :rating:   9.0?
 :END:
 
+*** 1DA Outlaws
 **** 6.1 The Outlaws :Dodo:Monk:P2022_04:
 **** 6.2 The Miniaturist :Dodo:P2022_04:
 *** CC
@@ -455,36 +459,36 @@ SCHEDULED: <2022-04-29 Fri>
 :rating:   7.7
 :END:
 
-***** READY [#D] 2.2 The Forsaken :plot_yes:
-***** 2DONE [#B] 2.3 The Black Hole (8.1) :D2021_06:Monk:
+***** READY [#D] 2.2 The Forsaken :Jamie:Polly:Ben:plot_yes:
+***** 2DONE [#B] 2.3 The Black Hole (8.1) :Jamie:Victoria:D2021_06:Monk:
 CLOSED: [2021-06-19 Sat 11:50]
 
-***** CANCEL [#E] 2.4 The Isos Network :Cybermen:plot_yes:
+***** CANCEL [#E] 2.4 The Isos Network :Jamie:Zoe:Cybermen:plot_yes:
 **** EA S4
-***** READY [#C] 4.1 The Night Witches :plot_yes:
+***** READY [#C] 4.1 The Night Witches :Jamie:Polly:Ben:plot_yes:
 :PROPERTIES:
 :rating:   7.6
 :END:
 
-***** READY [#C] 4.2 The Outliers :plot_yes:
+***** READY [#C] 4.2 The Outliers :Jamie:Polly:Ben:plot_yes:
 :PROPERTIES:
 :rating:   7.7
 :END:
 
-***** CANCEL [#E] +4.3 The Morton Legacy+
+***** CANCEL [#E] +4.3 The Morton Legacy+ :Jamie:Polly:Ben:
 :PROPERTIES:
 :rating:   6.7
 :END:
 
-***** START [#B] 4.4 The Wreck of the World (8.2) :D2021_08_dr:plot_no:
+***** START [#B] 4.4 The Wreck of the World (8.2) :Jamie:Zoe:D2021_08_dr:plot_no:
 **** EA S6
-***** HALF [#D] 6.1 The Home Guard :Master_early:D2021_12_master:plot_half:week3:
+***** HALF [#D] 6.1 The Home Guard :Jamie:Polly:Ben:Master_early:D2021_12_master:plot_half:week3:
 SCHEDULED: <2021-12-15 Wed>
 :PROPERTIES:
 :rating:   7.1
 :END:
 
-***** DONE [#A] 6.2 Daughter of the Gods (9.2) :daleks:P2019:D2021_04:
+***** DONE [#A] 6.2 Daughter of the Gods (9.2) :Jamie:Zoe:Steven:Katarina:Daleks:P2019:D2021_04:
 CLOSED: <2021-04-30 Fri 22:59>
 
 *** Companion Chronicles
@@ -591,18 +595,18 @@ SCHEDULED: <2021-10-03 Sun>
 ***** 14.2 The Phantom Piper
 ***** 14.3 The Prints of Denmark
 ***** 14.4 The Deepest Tragedian
-*** Lost Stories
-**** [#D] 4.2 - The Queen of Time
+*** misc
+**** [#D] 4.2 - The Queen of Time :Jamie:Zoe:plot_yes:
 :PROPERTIES:
 :rating:   7.4
 :END:
 
-**** NEXT [#B] LS4.3 - Lords of the Red Planet :ice_warriors:D2021_13:plot_yes:
+**** NEXT [#B] LS4.3 - Lords of the Red Planet :ice_warriors:D2022_06_doctor:plot_yes:
 :PROPERTIES:
 :rating:   8.2
 :END:
 
-*** [#C] DotD#2 - Shadow of Death
+**** [#C] DotD#2 - Shadow of Death
 :PROPERTIES:
 :thetimescales: 7.9
 :END:
@@ -697,42 +701,42 @@ CLOSED: [2020-06-30 Tue 14:01]
 *** TVAction/TVComic
 **** Marvel DWCC reprint
 ** BF audio-drama :🎧:BigFinish:
-*** 3DA :3DA:Jo:
-**** [#D] 1.1 - Prisoners of the Lake :UNIT:plot_yes:
+*** 3DA :3DA:
+**** READY [#D] 1.1 - Prisoners of the Lake :Jo:UNIT:plot_yes:
 :PROPERTIES:
 :rating:   7.2
 :END:
 
-**** [#C] 1.2 - The Havoc of Empires :plot_no:
+**** [#C] 1.2 - The Havoc of Empires :Jo:plot_no:
 :PROPERTIES:
 :rating:   7.6
 :END:
 
-**** 2DONE [#B] 3DA2.1 The Transcendence of Ephros :D2021_07_dr:plot_yes:
+**** 2DONE [#B] 2.1 The Transcendence of Ephros :Jo:D2021_07_dr:plot_yes:
 CLOSED: [2021-07-27 Tue 23:10]
 :PROPERTIES:
 :rating:   7.9
 :END:
 
-**** READY [#C] 2.2 The Hidden Realm :plot_yes:D2022_Q2_doctor:
+**** READY [#C] 2.2 The Hidden Realm :Jo:plot_yes:D2022_07_doctor:
 :PROPERTIES:
 :rating:   7.5
 :END:
 
-**** 3.1 The Conquest of Far :plot_no:
+**** [#C] 3.1 The Conquest of Far :Jo:plot_no:
 :PROPERTIES:
 :rating:   7.5
 :END:
 
-**** 3.2 Storm of the Horofax :plot_no:
+**** [#C] 3.2 Storm of the Horofax :Jo:plot_no:
 :PROPERTIES:
 :rating:   7.6
 :END:
 
-**** 2DONE [#B] 3DA 4.1 - The Rise of the New Humans (8.0) :Monk:P2018:D2021_05:plot_no:
+**** 2DONE [#B] 3DA 4.1 - The Rise of the New Humans (8.0) :Jo:Monk:P2018:D2021_05:plot_no:
 CLOSED: <2021-05-27 Thu 23:20>
 
-**** 3QTR [#C] 3DA 4.2 - The Tyrants of Logic :P2018:cybermen:plot_yes:D2022_02_doctor:
+**** 3QTR [#C] 3DA 4.2 - The Tyrants of Logic :Jo:P2018:cybermen:plot_yes:D2022_02_doctor:
 CLOSED: [2022-02-12 Sat 15:45] SCHEDULED: <2022-02-13 Sun>
 :PROPERTIES:
 :rating:   7.5
@@ -746,7 +750,7 @@ CLOSED: [2020-07-15 Wed 19:13]
 
 Inferno
 
-**** 5.2 The Scream of Ghosts :plot_no:
+**** [#D] 5.2 The Scream of Ghosts :Jo:plot_no:
 :PROPERTIES:
 :rating:   7.4
 :END:
@@ -761,11 +765,26 @@ Inferno
 :rating:   7.4
 :END:
 
-**** [#A] 7.1 The Unzal Incursion :P2021:Liz:Brigadier:
-**** [#C] 7.2 The Gulf :P2021:Sarah:
+**** [#C] 7.1 The Unzal Incursion :P2021:Liz:Brigadier:
+:PROPERTIES:
+:rating:   7.9
+:END:
+
+**** [#A] 7.2 The Gulf :P2021:Sarah:D2022_05_doctor:
+:PROPERTIES:
+:rating:   8.7
+:END:
+
 **** READY [#C] 8.1 Conspiracy in Space :Jo:draconians:plot_yes:
 **** [#B] 8.2 The Devil's Hoofprints :P2021:Sarah:
-**** 9. The Annihilators :P2022_02:
+:PROPERTIES:
+:rating:   8.1
+:END:
+
+**** BLOCK 9. The Annihilators :P2022_02:Liz:2nd_Dr:Jamie:Brigadier:
+
+block原因：太长（3CD）
+
 *** Audio-drama misc
 **** DONE [#A] The Sacrifice of Jo Grant (The Legacy of Time #3) :Jo:P2019:
 CLOSED: [2020-08-07 Fri 18:25]
@@ -773,7 +792,10 @@ CLOSED: [2020-08-07 Fri 18:25]
 :rating:   9.0
 :END:
 
-**** [#C] LS 4.4 The Mega (The Lost Stories #4.4) †7.6
+**** BLOCK [#C] LS 4.4 The Mega (The Lost Stories #4.4) †7.6 :3CD:
+
+block原因：太长（3小时）
+
 **** CANCEL [#E] Peepshow (The Diary of River Song #6.3) †6.6
 CLOSED: [2020-06-25 Thu 21:48]
 
@@ -1139,8 +1161,6 @@ Kingdom家族在Classic Who也有出现，Anya Kindom的姨妈Sara Kingdom也是
 
 Syndicate是41世纪创立的犯罪组织，其成员主要为银河理事会中的幸存者和星代表继承者，他们于4000年加入了Dalek的伟大联盟。在四任博士第八季广播剧中，Syndicate的主要任务是控制地球，并向博士复仇，在Anya Kingdomg几乎将Syndicate的成员杀干净之后，四任博士最终也彻底毁灭了这个组织。
 
-
-
 ***** HALF [#E] 4DA 8.1 The Sinestran Kill :D2021_10_dr:Ann:plot_yes:
 SCHEDULED: <2021-11-05 Fri>
 :PROPERTIES:
@@ -1174,13 +1194,7 @@ CLOSED: [2020-07-15 Wed 19:13]
 **** 4DA series 11 :P2022_03:
 ***** 11.1 - Blood of the Time Lords
 ***** 11.2 - The Ravencliff Witch
-*** BF misc :BigFinish:
-**** HALF [#C] CA1.1 The Iron Legion (Comics Adaptation #1) (7.9)
-**** HALF [#A] CA1.2 The Star Beast (Comics Adaptation #2) 9.0 :P2019:
-:PROPERTIES:
-:category: audio-drama
-:END:
-
+*** BF The Lost Stories
 **** [#A] LS 2.07 - The Foe from the Future  8.9 :Leela:
 **** [#C] LS 2.08 - The Valley of Death 7.7 :Leela:
 **** READY [#B] LS6.1 - Return of the Cybermen
@@ -1193,39 +1207,38 @@ CLOSED: [2020-07-15 Wed 19:13]
 :rating:   8.9
 :END:
 
+*** BF misc :BigFinish:
+**** HALF [#C] CA1.1 The Iron Legion (Comics Adaptation #1) (7.9)
+**** HALF [#A] CA1.2 The Star Beast (Comics Adaptation #2) 9.0 :P2019:
+:PROPERTIES:
+:category: audio-drama
+:END:
+
 **** DONE [#C] Night of the Stormcrow (Bonus Release #11) †7.7) :Leela:scripted:
 CLOSED: [2020-07-29 Wed 23:02]
 
-**** DONE [#C] Night of the Vashta Nerada †7.8) (Classic Doctors, New Monsters #2.1) :scripted:no_companion:
+**** DONE [#C] Night of the Vashta Nerada †7.8) (Classic Doctors, New Monsters #2.1) :scripted:no_companion:bilibili:
 CLOSED: [2020-07-29 Wed 23:03]
 
 mp3val fix
 
-**** TODO [#B] Collision Course †8.3) (The Legacy of Time #6) :Leela:Romana2:
+【【广播剧翻译】四任对抗Vashta Nerada 老博士新怪物 201 Night of Vashta Nerada-哔哩哔哩】 https://b23.tv/YCrcZhV
+
+**** TODO [#B] Collision Course (The Legacy of Time #6) :Leela:Romana2:
+:PROPERTIES:
+:rating:   8.3
+:END:
 
 与前面的故事/设定相关（Main Range 001/ The Legecy of Time 等）
 
 thetimescales 上32/33认为需要先听前面的故事
 
-**** TODO [#A] Someone I Once Knew (The Diary of River Song #4.4) †8.5 :River:
+**** TODO [#A] Someone I Once Knew (The Diary of River Song #4.4) :River:
+:PROPERTIES:
+:rating:   8.5
+:END:
 
 15 out of 16 (93.8%) raters say this story requires a previous story.
-
-*** BBC 4DA :scripted:🎧:Yates:DA:BBC:
-**** [#C] 2.1. The Relics of Time
-:PROPERTIES:
-:rating:   7.8
-:END:
-
-**** [#B] 3.4 The Hexford Invasion
-:PROPERTIES:
-:rating:   8.4
-:END:
-
-**** [#B] 3.5 Survivors in Space
-:PROPERTIES:
-:rating:   8.1
-:END:
 
 *** BF shorts :🎧:audiobook:
 **** Companion Chronicles
@@ -1242,6 +1255,22 @@ CLOSED: [2020-07-05 Sun 23:49]
 ***** TODO [#B] ST8.4 - Erasure †8.2 :Adric:
 ***** CANCEL [#E] ST9.8 #HarrySullivan †6.8
 CLOSED: [2020-06-25 Thu 21:56]
+
+*** BBC 4DA :scripted:🎧:Yates:DA:BBC:
+**** [#C] 2.1. The Relics of Time
+:PROPERTIES:
+:rating:   7.8
+:END:
+
+**** [#B] 3.4 The Hexford Invasion
+:PROPERTIES:
+:rating:   8.4
+:END:
+
+**** [#B] 3.5 Survivors in Space
+:PROPERTIES:
+:rating:   8.1
+:END:
 
 *** BBC short stories :📄:
 **** New

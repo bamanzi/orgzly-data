@@ -337,7 +337,16 @@ CLOSED: [2021-02-27 Sat 18:02]
 *** main range 251-
 **** Tartarus
 **** Interstitial / Feast of Fear :short:
-**** Warzone / Conversion :short:
+**** [#B] 258a. Warzone :Tegan:Nyssa:Cybermen:D2022_05_doctor:
+:PROPERTIES:
+:rating:   8.1
+:END:
+
+**** [#D] 258b. Conversion :Tegan:Nyssa:Cybermen:D2022_05_doctor:
+:PROPERTIES:
+:rating:   7.4
+:END:
+
 **** Time Apart :short:
 ***** Ghost Station
 ***** The Bridge Master
@@ -373,7 +382,7 @@ CLOSED: [2021-02-27 Sat 18:02]
 ***** The Moonrakers
 ***** The People Made of Smoke
 **** Forty
-***** 1.1 Secrets of Telos :Nyssa:Tegan:Cybermen:P2022_01:
+***** 1.1 Secrets of Telos :Nyssa:Tegan:Cybermen:P2022_01:D2022_07_doctor:
 ***** 1.2 God of War :Nyssa:Tegan:Adric:ice_warriors:P2022_01:
 ***** 2.1 The Auton Infinity
 *** misc
@@ -447,8 +456,8 @@ CLOSED: [2021-07-15 Thu 14:15]
 :rating:   7.8
 :END:
 
-**** HALF [#A] 27. The One Doctor (9.0) :Mel:plot_no:D2022_04_doctor:
-SCHEDULED: <2022-04-23 Sat>
+**** 2DONE [#A] 27. The One Doctor (9.0) :Mel:plot_no:D2022_04_doctor:
+CLOSED: [2022-04-22 Fri 08:22] SCHEDULED: <2022-04-30 Sat>
 
 **** [#D] 34. ...ish :Peri:
 :PROPERTIES:
@@ -644,7 +653,10 @@ SCHEDULED: <2022-02-17 Thu>
 
 【【广播剧翻译】博士的重生场景重演？六任：最后的冒险 103 Stage Fright-哔哩哔哩】 https://b23.tv/NnRPoV3
 
-***** The Brink of Death
+***** The Brink of Death :bilibili:
+
+【【广播剧翻译】在重生29年后补的重生集 六任：最后的冒险  104 The Brink of Death-哔哩哔哩】 https://b23.tv/4Ozoj0K
+
 **** The Sixth Doctor and Peri :short:
 
 Volume One
@@ -680,14 +692,29 @@ Volume One
 :rating:   8.1
 :END:
 
+***** CANCEL [#F] 1.4 - The Hollows of Time
+:PROPERTIES:
+:rating:   5.8
+:END:
+
 ***** [#B] 1.5 - Paradise 5
 :PROPERTIES:
 :rating:   8.1
 :END:
 
+***** [#D] 1.6 - Point of Entry
+:PROPERTIES:
+:rating:   7.3
+:END:
+
 ***** [#C] 1.7 - The Song of Megaptera
 :PROPERTIES:
 :rating:   7.5
+:END:
+
+***** CANCEL [#E] 1.8 - The Macros
+:PROPERTIES:
+:rating:   6.8
 :END:
 
 ***** [#C] 3.4 - The Guardians of Prophecy
@@ -710,6 +737,7 @@ Volume One
 :rating:   5.1
 :END:
 
+***** [#D] Mind of the Hodiac :P2022_03:
 **** Jago and Litefoot: Series 4 :short:
 ***** 2DONE Jago in Love
 ***** 2DONE Beautiful Things
@@ -978,10 +1006,12 @@ CLOSED: [2021-03-23 Tue 13:04]
 :END:
 
 *** misc
-**** [#A] NA Damaged Goods :plot_no:
+**** [#A] NA Damaged Goods :plot_no:bilibili:
 :PROPERTIES:
 :rating:   9.0
 :END:
+
+【【神秘博士广播剧翻译】RTD早期作品 Damaged Goods-哔哩哔哩】 https://b23.tv/5a9c2Hb
 
 **** [#A] NA11. Cold Fusion
 :PROPERTIES:

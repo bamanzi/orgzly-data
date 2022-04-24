@@ -470,34 +470,17 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
       :rating:   5.9
       :END:
 
-***** HALF [#A] 6.3 See No Evil :D2022_04_spinoffs:
-      SCHEDULED: <2022-04-23 Sat>
+***** HALF [#B] 6.3 See No Evil :D2022_04_spinoffs:
+      SCHEDULED: <2022-04-30 Sat>
       :PROPERTIES:
       :rating:   8.4
       :END:
 
-***** [#A] 6.4 Night Watch :D2022_04_spinoffs:
-      SCHEDULED: <2022-04-29 Fri>
+***** HALF [#B] 6.4 Night Watch :D2022_04_spinoffs:
+      SCHEDULED: <2022-04-23 Sat>
       :PROPERTIES:
       :rating:   8.5
       :END:
-
-*** BBC audio dramas :🎧:scripted:
-**** [#D] 1. Lost Souls :Martha:
-**** [#B] 2. Asylum
-**** DONE [#B] 3. Golden Age
-
-Torchwood India
-
-**** [#C] 4. The Dead Line :bilibili:
-
-【John Barrowman字幕组-火炬木广播剧中字-无人来电-哔哩哔哩】 https://b23.tv/Cxi034N
-
-**** [#C] The Devil and Miss Carew
-**** CANCEL [#E] Submission
-**** [#B] The House of the Dead :bilibili:
-
-【John Barrowman 字幕组-火炬木广播剧中字-亡者之屋-哔哩哔哩】 https://b23.tv/uQcs9jt
 
 *** The Lives of Captain Jack :🎧:Jack:
 **** vol.1 :P2017:
@@ -595,6 +578,24 @@ Torchwood India
       :PROPERTIES:
       :rating:   8.6
       :END:
+
+**** TWone 4: Nightmares :P2022_04:
+*** BBC audio dramas :🎧:scripted:
+**** [#D] 1. Lost Souls :Martha:
+**** [#B] 2. Asylum
+**** DONE [#B] 3. Golden Age
+
+Torchwood India
+
+**** [#C] 4. The Dead Line :bilibili:
+
+【John Barrowman字幕组-火炬木广播剧中字-无人来电-哔哩哔哩】 https://b23.tv/Cxi034N
+
+**** [#C] The Devil and Miss Carew
+**** CANCEL [#E] Submission
+**** [#B] The House of the Dead :bilibili:
+
+【John Barrowman 字幕组-火炬木广播剧中字-亡者之屋-哔哩哔哩】 https://b23.tv/uQcs9jt
 
 * River Song :River:
 ** prose
@@ -841,7 +842,7 @@ Roberts Master
 *** [#C] 10.2 - The Year of the Bat              (7.7)
 *** [#B] 10.3 - The Mourning After               (8.2)
 *** [#A] 10.4 - The Museum of Curiosities        (8.7)
-*** [#A] 10.X Jago & Litefoot & Strax - The Haunting  (8.7) :D2021_12_extra:
+*** [#A] 10.X Jago & Litefoot & Strax - The Haunting  (8.7)
 ** J&L series 11 :P2016:
 *** [#C] 11.1 - Jago and Son (7.6)
 *** [#D] 11.2 - Maurice (7.2)
@@ -1157,13 +1158,13 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
      :END:
 
 **** START [#A] 4.3 - Truant :D2022_04_spinoffs:
-     SCHEDULED: <2022-04-16 Sat>
+     SCHEDULED: <2022-04-30 Sat>
      :PROPERTIES:
      :rating:   8.7
      :END:
 
-**** [#A] 4.4 - The True Saviour Of The Universe :D2022_04_spinoffs:
-     SCHEDULED: <2022-04-29 Fri>
+**** HALF [#A] 4.4 - The True Saviour Of The Universe :D2022_04_spinoffs:
+     SCHEDULED: <2022-04-23 Sat>
      :PROPERTIES:
      :rating:   8.9
      :END:
@@ -1199,7 +1200,7 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
     :END:
 
 ** Missy series 2 :🎧:Master_missy:
-*** START [#A] 2.1 - The Lumiat :D2022_05_spinoffs:plot_yes:week4:
+*** TODO [#A] 2.1 - The Lumiat :D2022_05_spinoffs:plot_yes:week4:
     SCHEDULED: <2022-03-14 Mon>
     :PROPERTIES:
     :rating:   8.8
@@ -1601,7 +1602,7 @@ rating 8.7/8.3
 
 Brave New World was a subseries of the UNIT audio series produced by Big Finish Productions. Beginning in 2022, it focused on the exploits of UNIT under the command of /Winifred Bambera/ (TV: Battlefield) along with her new team: /Sergeant Jean-Paul Savarin/ and /Dr Louise Rix/.
 
-* UNIT: The New Series
+* UNIT: The New Series :UNIT:
 ** UNIT 1: Extinction :Nestene:P2015:
 *** 1.1 [#C] Vanguard (7.5)
     :PROPERTIES:
@@ -1639,19 +1640,23 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
 *** [#B] 4.2 - Tidal Wave   (8.2)
 *** [#C] 4.4 - United       (7.5)
 ** UNIT 5: Encounters :P2017:
-*** HALF [#E] 5.1 - The Dalek Transaction            (6.8) :D2022_04_spinoffs:
+*** HALF [#E] 5.1 - The Dalek Transaction :D2022_04_spinoffs:
+    :PROPERTIES:
+    :rating:   6.8
+    :END:
+
 *** HALF [#C] 5.2 - Invocation :D2022_04_spinoffs:
     :PROPERTIES:
     :rating:   7.4
     :END:
 
-*** [#C] 5.3 - The Sontaran Project             (7.5)
-*** [#C] 5.4 - False Negative                   (7.7)
+*** [#C] 5.3 - The Sontaran Project             (7.5) :D2022_05_spinoffs:
+*** [#C] 5.4 - False Negative                   (7.7) :D2022_05_spinoffs:
 ** UNIT 6: Cyber-Reality :P2018:
 *** [#E] 6.1 - Game Theory  (6.8) :D2022_07_spinoffs:plot_no:
 *** [#E] 6.2 - Telepresence   (7.0) :D2022_07_spinoffs:plot_no:
 *** [#C] 6.3 - Code Silver      (7.8) :Cybermen:D2022_05_spinoffs:
-*** [#B] 6.4 - Master of Worlds                 (8.4) :Cybermen:D2022_05_spinoffs:
+*** [#B] 6.4 - Master of Worlds                 (8.4) :Cybermen:Master_War:D2022_05_spinoffs:
 ** UNIT 7: Revisitations :P2018:
 *** [#C] 7.1/7.2 - Hosts of the Wirrn           (7.6)
 *** [#A] 7.3 - Breach of Trust                  (8.6)
@@ -1753,8 +1758,8 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
 **** HALF [#D] 1.1 - The Robots of Life       (7.4) :D2022_04_spinoffs:
      SCHEDULED: <2022-04-17 Sun>
 
-**** [#B] 1.2 - The Sentient             (8.2)
-**** [#A] 1.3 - Love Me Not              (8.8)
+**** [#B] 1.2 - The Sentient             (8.2) :D2022_05_spinoffs:
+**** [#A] 1.3 - Love Me Not              (8.8) :D2022_05_spinoffs:
 *** The Robots vol.2 :P2020_07:
 **** [#B] 2.1 - The Robots of War        (8.0)
 **** [#B] 2.2 - Toos and Poul            (8.0)

@@ -236,7 +236,7 @@ CLOSED: <2021-01-01 Fri 07:40>
 :rating:   7.1
 :END:
 
-***** HALF [#A] 1.7/1.8 Human Resources :cybermen:D2022_04_doctor:
+***** 3QTR [#B] 1.7/1.8 Human Resources :cybermen:D2022_04_doctor:
 SCHEDULED: <2022-04-29 Fri>
 :PROPERTIES:
 :rating:   8.5
@@ -944,10 +944,12 @@ CLOSED: [2020-12-09 Wed 19:04]
 :rating:   7.2
 :END:
 
-**** NEXT [#A] 3.4 The War Valeyard
+**** NEXT [#A] 3.4 The War Valeyard :bilibili:
 :PROPERTIES:
 :rating:   8.9
 :END:
+
+【【广播剧翻译】Valeyard复活参战？时间大战 304 The War Valeyard-哔哩哔哩】 https://b23.tv/klLTjmK
 
 *** 8D Time War vol.4 :P2020:scripted:
 **** 3QTR [#A] 4.1/4.2 The Palindrome :D2021_10_davros:Davros:

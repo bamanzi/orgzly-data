@@ -3,20 +3,20 @@
 ** audio :🎧:
 *** 9DA
 **** vol.1 Ravagers :P2021_05:
-***** START 1.1 Sphere of Freedom
-***** START 1.2 Cataclysm
-***** START 1.3 Food Fight
+***** START 1.1 Sphere of Freedom (7.2)
+***** START 1.2 Cataclysm (7.0)
+***** START 1.3 Food Fight (7.1)
 **** vol.2 Respond to All Calls :P2021_05:
-***** HALF 9DA 2.1 Girl, Deconstructed :D2021_08_dr:plot_yes:bilibili:
+***** HALF [#C] 9DA 2.1 Girl, Deconstructed :D2021_08_dr:plot_yes:bilibili:
 
 【【神秘博士广播剧翻译】女孩离奇失踪，九叔英雄救美 九任冒险集 201 被解构的女孩-哔哩哔哩】 https://b23.tv/dXGOnq7
 
-***** HALF 9DA 2.2. Fright Motif :D2021_09_dr:plot_yes:bilibili:
+***** HALF [#D] 9DA 2.2. Fright Motif :D2021_09_dr:plot_yes:bilibili:
 SCHEDULED: <2021-10-01 Fri>
 
 【【神秘博士广播剧翻译】如何打败无形且食人的声音？九任冒险集 202 Fright Motif-哔哩哔哩】 https://b23.tv/n9maru4
 
-***** HALF 9DA 2.3. Planet of the End :D2021_10_dr:plot_yes:bilibili:
+***** HALF [#C] 9DA 2.3. Planet of the End :D2021_10_dr:plot_yes:bilibili:
 SCHEDULED: <2021-11-04 Thu>
 
 【【广播剧翻译】墓地星球中针对博士的阴谋 九任冒险集 203 Planet of the End-哔哩哔哩】 https://b23.tv/uwJY0f7
@@ -32,7 +32,7 @@ SCHEDULED: <2021-11-04 Thu>
 :rating:   6.6
 :END:
 
-***** READY 3.3 Monsters in Metropolis :Cybermen:bilibili:D2022_05_doctor:
+***** READY [#A] 3.3 Monsters in Metropolis :Cybermen:bilibili:D2022_05_doctor:
 
 【【广播剧翻译】大都会电影里出现了赛博人？九任冒险集 303 Monsters in Metropolis-哔哩哔哩】 https://b23.tv/ayLbFDQ
 
@@ -91,7 +91,6 @@ https://ninthdoctoradventures.wordpress.com/episodes/
 
 In the aftermath of the Time War, the Doctor has no time to mourn. But how can he even begin to take ahold of the situation if he cannot face his own reflection? The human race is in danger of dying. Forever. 
 
-
 **** #2. Legacy of the Slitheen
 ** novels :novel:
 *** [#E] Deviant Strain 异种
@@ -104,7 +103,7 @@ In the aftermath of the Time War, the Doctor has no time to mourn. But how can h
 :rating:   3.88
 :END:
 
-*** DONE [#B] Only Human 人类唯一 :已购:
+*** DONE [#B] Only Human 人类唯一 :已购:Rose:Jack:
 :PROPERTIES:
 :rating:   3.9
 :END:
@@ -238,10 +237,14 @@ SCHEDULED: <2022-01-16 Sun>
 :rating:   8.3
 :END:
 
-***** [#C] 10DA 3.2 - One Mile Down
+【【神秘博士广播剧熟肉】The 10th Doctor Adventures 301 No Place-哔哩哔哩】 https://b23.tv/ID4AEtu
+
+***** READY [#C] 10DA 3.2 - One Mile Down :bilibili:
 :PROPERTIES:
 :rating:   7.6
 :END:
+
+【【神秘博士广播剧熟肉】The 10th Doctor Adventures 302 One Mile Down-哔哩哔哩】 https://b23.tv/4UM8Y1U
 
 ***** [#D] 10DA 3.3 - The Creeping Death
 :PROPERTIES:
@@ -299,7 +302,7 @@ SCHEDULED: <2021-12-30 Thu>
 :rating:   8.8
 :END:
 
-**** [#C] DU 1.3 - The House of Kingdom :D2021_12:week4:
+**** [#C] DU 1.3 - The House of Kingdom
 SCHEDULED: <2021-12-31 Fri>
 :PROPERTIES:
 :rating:   7.9
@@ -351,36 +354,45 @@ SCHEDULED: <2022-04-29 Fri>
 *** CC & ST
 **** READY ST10.X Free Speech :scripted:
 ** novels :novel:
-*** DONE [#B] 美丽的混沌 Beautiful Chaos :已购:Kindle己购:
+*** DONE [#B] 美丽的混沌 Beautiful Chaos :已购:Kindle己购:Donna:
 :PROPERTIES:
 :rating:   3.95
 :END:
 
-*** [#C] Shining Darkness 耀眼的黑暗
+*** [#C] Shining Darkness 耀眼的黑暗 :Donna:
 :PROPERTIES:
 :rating:   3.84
 :END:
 
 *** [#B] The Story of Martha 玛莎的故事 :Kindle己购:
 :PROPERTIES:
-:rating:   3.90
+:rating:   3.89
 :END:
 
-*** [#B] Stone Rose 石中女神 :Kindle己购:
+*** [#B] Stone Rose 石中女神 :Kindle己购:Rose:
 :PROPERTIES:
-:rating:   3.9
+:rating:   3.92
 :END:
 
-*** Resurrection Cask 复活棺
+*** [#C] Resurrection Cask 复活棺
+:PROPERTIES:
+:goodreads: 3.8
+:END:
+
 *** DONE [#A] Prisoner of the Daleks 戴立克之囚 :已购:
 CLOSED: <2021-10-16 Sat 10:18>
 :PROPERTIES:
 :rating:   4.1
 :END:
 
+*** [#B] Martha in the Mirror 镜中玛莎
+:PROPERTIES:
+:goodreads: 3.85
+:END:
+
 * 11th :11th_Dr:
 ** tv :📺:
-** audio
+** audio :🎧:
 *** 11DC
 **** [#D] 1.1 - The Calendar Man
 :PROPERTIES:
@@ -419,7 +431,7 @@ SCHEDULED: <2022-03-30 Wed>
 :rating:   8.4?
 :END:
 
-*** TODO [#C] The Churchill Years 1.3 Living History :P2016:D2022_05_spinoffs:plot_yes:
+*** TODO [#C] The Churchill Years 1.3 Living History :P2016:D2022_07_spinoffs:plot_yes:
 :PROPERTIES:
 :rating:   7.9
 :END:
@@ -466,8 +478,8 @@ CLOSED: [2020-08-16 Sun 17:00]
 CLOSED: [2020-08-16 Sun 17:00]
 
 **** 11DY3
-** novels :novel:
-*** [#B] The Silent Stars Go By 寂静星辰飞过 :已购:
+** novels :📔:
+*** HALF [#B] The Silent Stars Go By 寂静星辰飞过 (3.95) :已购:Kindle己购:
 :PROPERTIES:
 :rating:   3.95
 :END:
@@ -477,12 +489,12 @@ CLOSED: [2020-08-16 Sun 17:00]
 :rating:   3.88
 :END:
 
-*** [#E] Shroud of Sorrow 噬悲者
+*** [#E] Shroud of Sorrow 噬悲者 :Kindle己购:
 :PROPERTIES:
 :rating:   3.65
 :END:
 
-*** [#A] 天使之触 Touched by Angles :已购:Kindle己购:
+*** DONE [#A] 天使之触 Touched by Angles :已购:Kindle己购:
 :PROPERTIES:
 :rating:   4.10
 :END:
@@ -492,9 +504,14 @@ CLOSED: [2020-08-16 Sun 17:00]
 :rating:   3.81
 :END:
 
-*** [#B] Borrowed Time 时间捕手 :🛒:
+*** READY [#B] Borrowed Time 时间捕手 (3.98) :已购:
 :PROPERTIES:
 :rating:   3.98
+:END:
+
+*** [#B] Dead of Winter 死亡寒冬 (3.85)
+:PROPERTIES:
+:goodreads: 3.85
 :END:
 
 * 12th Doctor :12th_Dr:
@@ -506,14 +523,14 @@ CLOSED: <2021-09-23 Thu 11:39>
 **** DONE 10x12 The Doctor Falls :Cybermen:D2022_Q4:
 CLOSED: [2021-09-24 Fri 08:10]
 
-** audio
+** audio :🎧:
 *** 12DC vol.1
-**** [#D] 1. The Charge of the Night Brigade
+**** [#D] 1. The Charge of the Night Brigade :Mary_Seacole:
 :PROPERTIES:
 :rating:   7.3
 :END:
 
-**** TODO [#C] 2. War Wounds
+**** TODO [#C] 2. War Wounds :Danny_Pink:
 :PROPERTIES:
 :rating:   7.5
 :END:
@@ -523,7 +540,7 @@ CLOSED: [2021-09-24 Fri 08:10]
 :rating:   7.1
 :END:
 
-**** [#D] 4. Field Trip
+**** [#C] 4. Field Trip :Osgood:
 :PROPERTIES:
 :rating:   7.6
 :END:
@@ -565,8 +582,8 @@ SCHEDULED: <2022-04-30 Sat>
 :rating:   7.2
 :END:
 
-** novels :novel:
-*** [#C] Silhouette 侧影 :已购:Kindle己购:
+** novels :📔:
+*** HALF [#C] Silhouette 侧影 :已购:Kindle己购:
 :PROPERTIES:
 :rating:   3.80
 :END:
@@ -576,14 +593,14 @@ SCHEDULED: <2022-04-30 Sat>
 :rating:   3.81
 :END:
 
-*** [#B] Deep Time 四维深渊 :🛒:
+*** READY [#B] Deep Time 四维深渊 (3.91) :已购:
 :PROPERTIES:
 :rating:   3.9
 :END:
 
-*** [#B] The Shining Man 闪光的人
+*** [#B] The Shining Man 闪光的人 (3.87)
 :PROPERTIES:
-:rating:   3.9
+:rating:   3.87
 :END:
 
 * 13rd Doctor :13th_Dr:
@@ -638,6 +655,9 @@ CLOSED: <2021-12-10 Fri 20:53>
 **** DONE 13x06
 CLOSED: [2021-12-12 Sun 14:53]
 
+** audio
+*** Redacted :P2022_04:BBC:
+**** Redacted 01: SOS :D2022_05_doctor:
 ** comics
 *** Titan Comics :📚:Titan:
 **** DONE The Many Lives of Doctor Who
@@ -685,6 +705,11 @@ CLOSED: [2020-07-05 Sun 17:11]
 *** TODO [#A] At Childhood’s End
 :PROPERTIES:
 :rating:   4.02
+:END:
+
+*** [#C] Combat Magicks 战斗魔法
+:PROPERTIES:
+:goodreads: 3.7
 :END:
 
 ** short stories
