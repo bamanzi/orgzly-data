@@ -327,7 +327,7 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
       :rating:   7.2
       :END:
 
-***** [#B] 48. Lease of Life :Owen:D2022_05_spinoffs:
+***** START [#B] 48. Lease of Life :Owen:D2022_05_spinoffs:
       :PROPERTIES:
       :rating:   8.3
       :END:
@@ -552,7 +552,10 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
 ***** [#E] 1.2 - Through The Ruins
 ***** [#E] 1.3 - Uprising
 **** Torchwood One: Machines :P2018:
-***** [#E] 2.1 - The Law Machines
+***** BLOCK [#E] 2.1 - The Law Machines
+
+超级电脑 WOTAN 最早出现于老版3x10 The War Machines 
+
 ***** [#C] 2.2 - Blind Summit
       :PROPERTIES:
       :rating:   7.7
@@ -599,11 +602,22 @@ Torchwood India
 
 * River Song :River:
 ** prose
-*** DONE novel: Angel's Kiss
-    CLOSED: <2020-09-24 Thu 21:08>
-
-*** DONE short stories: The Legends of River Song
+*** DONE [#A] The Legends of River Song 瑞文·宋传奇 :P2016:己购:
     CLOSED: [2020-09-27 Sun 21:07]
+    :PROPERTIES:
+    :goodreads: 3.97
+    :END:
+
+*** DONE [#C] novel: Angel's Kiss
+    CLOSED: <2020-09-24 Thu 21:08>
+    :PROPERTIES:
+    :goodreads: 3.7
+    :END:
+
+*** [#A] The Ruby's Curse :P2021:
+    :PROPERTIES:
+    :goodreads: 4.2
+    :END:
 
 ** audio :🎧:
 *** DoRS 1 :P2015:
@@ -703,6 +717,8 @@ With the Discordia on their tail, River and her friends run for their lives 
      :PROPERTIES:
      :rating:   8.6
      :END:
+
+【［神秘博士广播剧］missy和river被绑架至神秘研究所，幕后黑手究竟是谁?《River Song的日记: 贝克德尔测验》-哔哩哔哩】 https://b23.tv/MNnZ13F
 
 **** 2DONE [#D] DoRS5.2 Animal Instinct :Master_decayed:D2021_07_extra:plot_no:
      CLOSED: [2021-07-27 Tue 23:11]
@@ -1157,7 +1173,7 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
      :rating:   9.2
      :END:
 
-**** START [#A] 4.3 - Truant :D2022_04_spinoffs:
+**** HALF [#A] 4.3 - Truant :D2022_04_spinoffs:
      SCHEDULED: <2022-04-30 Sat>
      :PROPERTIES:
      :rating:   8.7
@@ -1182,10 +1198,12 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
     :rating:   7.7
     :END:
 
-*** HALF [#A] 1.2 Divorced, Beheaded, Regenerated :D2021_08_extra:plot_no:
+*** HALF [#A] 1.2 Divorced, Beheaded, Regenerated :D2021_08_extra:plot_no:bilibili:
     :PROPERTIES:
     :rating:   9.0
     :END:
+
+【「重製版熟肉神秘博士廣播劇」Missy 102 Divorced, Beheaded, Regenerated-哔哩哔哩】 https://b23.tv/imPAE6N
 
 *** 3QTR [#A] MISSY1.3 - The Broken Clock :D2021_10_extra:plot_no:overdue:
     CLOSED: [2021-11-27 Sat 08:52] DEADLINE: <2021-11-30 Tue> SCHEDULED: <2021-11-13 Sat>
@@ -1200,7 +1218,7 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
     :END:
 
 ** Missy series 2 :🎧:Master_missy:
-*** TODO [#A] 2.1 - The Lumiat :D2022_05_spinoffs:plot_yes:week4:
+*** START [#A] 2.1 - The Lumiat :D2022_05_spinoffs:plot_yes:week4:
     SCHEDULED: <2022-03-14 Mon>
     :PROPERTIES:
     :rating:   8.8
@@ -1650,13 +1668,21 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
     :rating:   7.4
     :END:
 
-*** [#C] 5.3 - The Sontaran Project             (7.5) :D2022_05_spinoffs:
-*** [#C] 5.4 - False Negative                   (7.7) :D2022_05_spinoffs:
+*** [#C] 5.3 - The Sontaran Project :D2022_05_spinoffs:
+    :PROPERTIES:
+    :rating:   7.5
+    :END:
+
+*** [#C] 5.4 - False Negative :D2022_05_spinoffs:
+    :PROPERTIES:
+    :rating:   7.7
+    :END:
+
 ** UNIT 6: Cyber-Reality :P2018:
 *** [#E] 6.1 - Game Theory  (6.8) :D2022_07_spinoffs:plot_no:
 *** [#E] 6.2 - Telepresence   (7.0) :D2022_07_spinoffs:plot_no:
-*** [#C] 6.3 - Code Silver      (7.8) :Cybermen:D2022_05_spinoffs:
-*** [#B] 6.4 - Master of Worlds                 (8.4) :Cybermen:Master_War:D2022_05_spinoffs:
+*** [#C] 6.3 - Code Silver      (7.8) :Cybermen:
+*** [#B] 6.4 - Master of Worlds                 (8.4) :Cybermen:Master_War:
 ** UNIT 7: Revisitations :P2018:
 *** [#C] 7.1/7.2 - Hosts of the Wirrn           (7.6)
 *** [#A] 7.3 - Breach of Trust                  (8.6)
@@ -1672,6 +1698,77 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
 
 ** Nemesis 1: Between Two Worlds :P2021:
 ** Nemesis 2: Agents of the Vulpreen :P2022:
+* Kaldor City / The Robots :🤖:
+** Kaldor City
+*** [#B] KC1. Occam's Razor :D2022_Q2:
+*** 2. Death's Head
+*** 3. Hidden Persuaders
+** The Robots (Big Finish, 2019-)
+*** The Robots vol.1 :P2019_12:
+**** 3QTR [#D] 1.1 - The Robots of Life :D2022_04_spinoffs:
+     CLOSED: [2022-04-24 Sun 21:31] SCHEDULED: <2022-04-17 Sun>
+     :PROPERTIES:
+     :rating:   7.4
+     :END:
+
+**** [#B] RBT1.2 - The Sentient :D2022_05_spinoffs:
+     :PROPERTIES:
+     :rating:   8.2
+     :END:
+
+**** [#A] 1.3 - Love Me Not :D2022_06_spinoffs:
+     :PROPERTIES:
+     :rating:   8.8
+     :END:
+
+*** The Robots vol.2 :P2020_07:
+**** [#B] 2.1 - The Robots of War
+     :PROPERTIES:
+     :rating:   8.0
+     :END:
+
+**** [#B] 2.2 - Toos and Poul
+     :PROPERTIES:
+     :rating:   8.0
+     :END:
+
+**** [#C] 2.3 - Do No Harm
+     :PROPERTIES:
+     :rating:   7.9
+     :END:
+
+*** The Robots vol.3 :P2020_12:
+**** [#D] 3.1 - The Mystery of Sector 13
+     :PROPERTIES:
+     :rating:   7.2
+     :END:
+
+**** [#A] 3.2 - Circuit Breaker
+     :PROPERTIES:
+     :rating:   8.5
+     :END:
+
+**** [#B] 3.3 - A Matter of Conscience
+     :PROPERTIES:
+     :rating:   8.3
+     :END:
+
+*** The Robots vol.4 :P2021_06:
+**** [#A] 4.1 - Closed Loop
+     :PROPERTIES:
+     :rating:   8.6
+     :END:
+
+**** [#C] 4.2 - Off Grid
+     :PROPERTIES:
+     :rating:   7.9
+     :END:
+
+**** [#A] 4.3 - The Janus Deception
+     :PROPERTIES:
+     :rating:   8.4
+     :END:
+
 * The Paternoster Gang
 ** audio :🎧:
 *** PG: Heritage 1 :P2019:
@@ -1748,30 +1845,6 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
 **** 4	Words from Nine Divinities :P2008:
 **** 5	Ozymandias :P2009:
 **** 6	The Judgment of Sutekh :P2009:
-* Kaldor City / The Robots :🤖:
-** Kaldor City
-*** [#B] KC1. Occam's Razor :D2022_Q2:
-*** 2. Death's Head
-*** 3. Hidden Persuaders
-** The Robots (Big Finish, 2019-)
-*** The Robots vol.1 :P2019_12:
-**** HALF [#D] 1.1 - The Robots of Life       (7.4) :D2022_04_spinoffs:
-     SCHEDULED: <2022-04-17 Sun>
-
-**** [#B] 1.2 - The Sentient             (8.2) :D2022_05_spinoffs:
-**** [#A] 1.3 - Love Me Not              (8.8) :D2022_05_spinoffs:
-*** The Robots vol.2 :P2020_07:
-**** [#B] 2.1 - The Robots of War        (8.0)
-**** [#B] 2.2 - Toos and Poul            (8.0)
-**** [#C] 2.3 - Do No Harm               (7.9)
-*** The Robots vol.3 :P2020_12:
-**** [#D] 3.1 - The Mystery of Sector 13 (7.2)
-**** [#A] 3.2 - Circuit Breaker          (8.5)
-**** [#B] 3.3 - A Matter of Conscience   (8.3)
-*** The Robots vol.4 :P2021_06:
-**** [#A] 4.1 - Closed Loop              (8.6)
-**** [#C] 4.2 - Off Grid                 (7.9)
-**** [#A] 4.3 - The Janus Deception      (8.4)
 * misc spin-offs (classic)
 ** Sarah Jane Smith
 *** [#E] 1.1 Comeback (6.8)
@@ -1843,7 +1916,7 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
 **** [#D] 1.4 - Zero Space (7.0)
 *** series 2 :P2021:
 **** [#E] +2.1 - Inside the Maldorvarium+ (6.5?)
-**** [#E] +2.2 - Altered Status+ (6.8?)
+**** [#E] +2.2 - Altered Status+ (6.8?) :Cybermen:
 **** [#E] +2.3 - Calamity Jenny+ (6.6)
 **** [#D] 2.4 - Her Own Wrost Enemy (7.0)
 ** Rose Tyler - The Dimension Cannon :P2019:
@@ -1861,7 +1934,10 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
 **** [#C] 1.1 - Gladiator              (7.9) :D2022_06_spinoffs:
 **** [#C] 1.2 - The Unwilling Assassin (7.7)
 **** [#B] 1.3 - I, Rorius              (8.7)
-*** vol.2 :P2022:
+*** vol.2 :P2022_03:
+**** 2.1 The Once and Future Nurse
+**** 2.2 The Glowing Warrior
+**** 2.3 The Last King of Camelot
 * special
 ** multi-doctor story
 *** IX. The Four Doctors :P2010:
@@ -1925,6 +2001,9 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
 
 ** Doctor Who Unbound
 ** Classic Doctors, New Monsters
+** The Eighth of March
+*** vol.1 The Eighth of March :P2021_03:
+*** vol.2 Protectors of Time :P2022_03:
 ** Peladon :P2022_01:
 *** 1. The Ordeal of Peladon :10th_Dr:
 *** 2. The Poison of Peladon :River:

@@ -337,7 +337,7 @@ CLOSED: [2021-02-27 Sat 18:02]
 *** main range 251-
 **** Tartarus
 **** Interstitial / Feast of Fear :short:
-**** [#B] 258a. Warzone :Tegan:Nyssa:Cybermen:D2022_05_doctor:
+**** START [#B] 258a. Warzone :Tegan:Nyssa:Cybermen:D2022_05_doctor:
 :PROPERTIES:
 :rating:   8.1
 :END:
@@ -456,7 +456,7 @@ CLOSED: [2021-07-15 Thu 14:15]
 :rating:   7.8
 :END:
 
-**** 2DONE [#A] 27. The One Doctor (9.0) :Mel:plot_no:D2022_04_doctor:
+**** 3QTR [#A] 27. The One Doctor (9.0) :Mel:plot_no:D2022_04_doctor:
 CLOSED: [2022-04-22 Fri 08:22] SCHEDULED: <2022-04-30 Sat>
 
 **** [#D] 34. ...ish :Peri:
@@ -825,7 +825,7 @@ CLOSED: [2021-06-24 Thu 12:31]
 :rating:   7.7
 :END:
 
-***** [#C] MR89. No Man's Land :Ace:Hex:The_Forge:plot_no:D2022_05_doctor:
+***** START [#C] MR89. No Man's Land :Ace:Hex:The_Forge:plot_no:D2022_05_doctor:
 :PROPERTIES:
 :rating:   7.8
 :END:

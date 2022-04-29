@@ -1002,7 +1002,7 @@ CLOSED: [2020-09-23 Wed 12:53]
 CLOSED: [2020-09-23 Wed 14:01]
 
 ** The War Doctor
-*** [#A] Engines of War (novel)
+*** READY [#A] Engines of War /战争引擎 (novel) :📔:己购:
 :PROPERTIES:
 :rating:   4.04
 :END:

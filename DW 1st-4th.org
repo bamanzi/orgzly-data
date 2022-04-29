@@ -453,8 +453,8 @@ UNIT 和 准将第一次正式出场
 ** audio :🎧:
 *** EA
 **** EA S2
-***** HALF [#C] 2.1 The Yes Men :Jamie:Polly:Ben:plot_yes:D2022_04_doctor:
-SCHEDULED: <2022-04-29 Fri>
+***** 3QTR [#C] 2.1 The Yes Men :Jamie:Polly:Ben:plot_yes:D2022_04_doctor:
+CLOSED: [2022-04-27 Wed 21:33] SCHEDULED: <2022-04-29 Fri>
 :PROPERTIES:
 :rating:   7.7
 :END:
@@ -1167,7 +1167,7 @@ SCHEDULED: <2021-11-05 Fri>
 :rating:   6.8
 :END:
 
-***** START [#C] 8.3 - The Enchantress of Numbers (7.6) :D2022_04_doctor:
+***** HALF [#C] 8.3 - The Enchantress of Numbers (7.6) :D2022_04_doctor:
 SCHEDULED: <2022-04-23 Sat>
 
 ***** [#D] 8.6 - Fever Island
