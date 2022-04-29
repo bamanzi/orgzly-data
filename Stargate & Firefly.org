@@ -178,6 +178,11 @@ https://www.txmeiju.com/tv/search?s=%E5%A4%AA%E7%A9%BA%E5%A0%A1%E5%9E%92
 
 BDrip 720p 人人影视
 
+
+终极无剧透观影顺序指南
+https://m.douban.com/note/731811864
+
+
 *** DONE [#A] TV mini (2003)
 CLOSED: [2021-07-18 Sun 15:42]
 
@@ -222,32 +227,60 @@ CLOSED: <2021-10-19 Tue 20:21>
 CLOSED: <2021-10-19 Tue 10:48>
 
 *** DOING S2 (20 episodes) :P2005:
-SCHEDULED: <2022-05-15 Sun>
+SCHEDULED: <2022-05-28 Sat>
+
+2005-07-15 — 2006-04-10
 
 **** DONE 2x01
 CLOSED: [2022-04-21 Thu 20:29]
+
+**** DONE 2x02
+CLOSED: [2022-04-25 Mon 20:14]
+
+*** Razer
+
+ 建议在2x17之后观看
+
+在看完第三季之前不要看最后10分钟
+
+**** Razer: Flashback
+*** The Resistance (10集短篇)
+
+这部网络剧的作用是连接第二季和第三季，有 1 到 10 的合集版，十分推荐
 
 *** The Plan
 
 Set during the events from the Miniseries to Season 2's /"Lay Down Your Burdens, Part II (2x20),"/ this story is told from the Cylons' perspective, centering on two distinct Cavil copies as they try to fulfill the Cylons' plan.
 
+*** S3 (20 eps)
+*** S4 (20 eps)
+*** The Face of the Enemy (10集短篇)
+*** Caprica (前传，18集)
+*** Blood & Chrome
 ** comics
 *** Origins
 **** Zarek
-**** START Amada
+**** OVERDUE Amada
 **** DONE Starbuck & Helo
 CLOSED: <2021-08-11 Wed 23:20>
 
 **** HALF Baltar
-*** Season Zero
-*** ongoing (#0-12)
+*** Season Zero (#0-12)
+*** ongoing (#0-12) :P2006:🛒:
 
-The first series of issues based on the Re-imagined Series written by Greg Pak and pencilled by Nigel Raynor. The storyline appears after the events of "Home, Part II" and before "Pegasus" and significantly diverge from the Re-imagined Series' timeline of Season 2.
+The first series of issues based on the Re-imagined Series written by Greg Pak and pencilled by Nigel Raynor. The storyline appears after the events of "Home, Part II" (2x07) and before "Pegasus" (2x10) and significantly diverge from the Re-imagined Series' timeline of Season 2.
 
-*** Pegasus (one-shot)
-*** Ghosts (4 issues)
-*** Cylon War (4 issues)
-*** The Final Five (4 issues)
+*** Pegasus (one-shot) :🛒:
+
+https://en.battlestarwiki.org/Battlestar_Galactica:_Pegasus
+
+The story is obviously set within the two-year span where humanoid Cylon infiltration began, likely within a year prior to /the Fall of the Twelve Colonies/ based on comments at the start of the story from a Number Six, Simon and Number Five.
+
+
+*** Tales from the Fleet Omnibus
+**** Ghosts (4 issues)
+**** Cylon War (4 issues)
+**** The Final Five (4 issues)
 *** Six :P2014:
 
 Between April and August 2014, Dynamite produced a 5-issue series on the origins of Six.

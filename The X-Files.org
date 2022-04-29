@@ -471,7 +471,12 @@ CLOSED: [2022-04-20 Wed 07:39]
 *** DONE 1x18
 CLOSED: [2022-04-24 Sun 07:56]
 
+*** DONE 1x19
+CLOSED: [2022-04-27 Wed 00:30]
+
 ** comics :📚:
 *** DONE Fringe (vol.1)
 CLOSED: [2022-03-29 Tue 23:27]
 
+*** Tales from the Fringe (2010-2011)
+*** Beyond the Fringe (2011-2012)
