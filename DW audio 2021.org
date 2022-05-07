@@ -1165,54 +1165,158 @@
 *** CANCEL [#E] TW6.2. The Man Who Destroyed Torchwood
 *** HALF [#A] BS6.5 The Crystal of Cantus :Cybermen:
 *** HALF [#B] Gallifrey 2.5 Imperiatirx :Romana_2:Leela:
-*** [#A] Missy 2.1 The Lumiat :Master:Missy:
+*** [#A] Missy 2.1 The Lumiat                              
+
 * DW 2022-04
 
 | 046 | MR027 The One Doctor | 6th | Mel |
 
 ** DW 2022-04-doctors
-*** EA2.1 The Yes Man :2nd_Dr:
-*** [#C] 4DA8.3 The Enchantress of Numbers :4th:Ann:
-*** [#A] BF027 The One Doctor :6th_Dr:Mel:
-*** [#A] 8DA1.7/1.8 Human Resources :8th_Dr:Charley:
+*** DONE EA2.1 The Yes Man                                           :2nd_Dr:
+*** HALF [#C] 4DA8.3 The Enchantress of Numbers                     :4th:Ann:
+*** DONE [#A] BF027 The One Doctor                               :6th_Dr:Mel:
+*** DONE [#A] 8DA1.7/1.8 Human Resources                     :8th_Dr:Charley:
 *** HALF [#C] Out of Time #2 (10D+5D) :Cybermen:10th_Dr:5th_Dr:
-*** [#D] 12DC2.3 The Weight of History :12th_Dr:
+*** HALF [#D] 12DC2.3 The Weight of History                         :12th_Dr:
 ** DW 2022-04-extra
-*** [#A] BSNA 4.3 Truant :Benny:Unbound:
-*** [#A] BSNA 4.4 The True Saviour of the Universe :Benny:Unbound:
-*** HALF [#A] TW6.3 See No Evil :Jack:Yvonne:Andy:
-*** [#A] TW6.4 Night Watch
+*** HALF [#A] BSNA 4.3 Truant                                 :Benny:Unbound:
+*** DONE [#A] BSNA 4.4 The True Saviour of the Universe       :Benny:Unbound:
+*** DONE [#A] TW6.3 See No Evil                            :Jack:Yvonne:Andy:
+*** DONE [#A] TW6.4 Night Watch
 *** HALF [#E] UNIT5.1 The Dalek Transaction :Kate:Osgood:
-*** [#C] UNIT5.2 Invocation
-*** The Robots 1.1 The Robots of Life :Liv:Kaldor:
+*** DONE [#C] UNIT5.2 Invocation
+*** DONE The Robots 1.1 The Robots of Life                       :Liv:Kaldor:
 * DW 2022-05
-*** TODO BF089 - No Man's Land (7D)
 
-- start (00:01:07)
-- Untitled (00:34:25)
-- part2 (00:34:40)
-- <second to last play position> (00:50:02)
+| 047 | MR089 No Man's Land        | 7th | Ace, Hex               |
+| 048 | MR258 Warzone / Conversion | 5th | Tegan, Nyssa, Cybermen |
+
+** DW 2022-05-doctor
+
+*** START CC1.1 - Frostfire                                    :1st_Dr:Vicki:
+
+- <second to last play position> (00:00:00)
+- <last play position> (00:05:24)
+
+*** START 3DA7.2. The Gulf                                     :3rd_Dr:Sarah:
+
+- <second to last play position> (00:00:00)
+- <last play position> (00:23:15)
+
+*** START BF258a. Warzone                       :5th_Dr:Tegan:Nyssa:Cybermen:
+
+- <last play position> (00:00:00)
+- part2 (00:30:00)
+- <second to last play position> (00:48:26)
+- music (01:00:17)
+
+*** START BF258b. Conversion                    :5th_Dr:Tegan:Nyssa:Cybermen:
+
+- <last play position> (00:06:42)
+- <second to last play position> (00:22:53)
+
+*** DONE BF089 - No Man's Land (7D)                          :7th_Dr:Ace:Hex:
+
+- part1 (00:01:09)
+- part2 (00:34:48)
 - part3 (01:02:30)
-- <last play position> (01:37:10)
-- part4 (01:38:01)
+- <second to last play position> (01:37:48)
+- part4 (01:38:00)
+- <last play position> (01:41:09)
+
+*** START 9DA3.3. Monsters in Metropolis                    :9th_Dr:Cybermen:
+
+- <last play position> (00:00:00)
+- <second to last play position> (00:00:15)
+*** START 11DC1.3. The Light Keepers                      :11th_Dr:New_Earth:
+
+- <last play position> (00:00:00)
+- <second to last play position> (00:00:00)
+
+*** TODO Redacted #0. Inroducing Doctor Who Redacted                :13th_Dr:
+
+*** TODO Redacted #1. SOS                                           :13th_Dr:
+
+*** TODO Redacted #2. Hysteria                                      :13th_Dr:
+
+** DW 2022-05-spinoffs
+*** DONE J&L6.1 - The Skeleton Quay                           :Jago:Litefoot:
+
+- <second to last play position> (00:15:33)
+- <last play position> (00:40:05)
+
+*** START J&L6.2 - Return of the Repressed                    :Jago:Litefoot:
+
+- <last play position> (00:00:00)
+
+*** TODO Robots1.2. Toos and Poul                                :Liv:Kaldor:
+*** TODO Robots1.3. Do No Harm
+*** DONE TNE 1.01 - Escape from New New York                      :New_Earth:
+
+- <last play position> (00:58:12)
+- <second to last play position> (00:58:14)
+
+*** HALF TW48. Lease of Life                                           :Owen:
+
+- <second to last play position> (00:34:59)
+- <last play position> (01:01:53)
+
+*** DONE UNIT5.3 - The Sontaran Project                                :UNIT:
+
+- <second to last play position> (00:15:43)
+- <last play position> (00:28:55)
+
+*** TODO UNIT5.4 - False Negative                                      :UNIT:
+*** START Missy2.1. The Lumiat     :Master:Missy:
+
+- <last play position> (00:00:00)
 
 * DW 2022-06
-*** 4DA4.5 Suburan Hell (+Leela) :4th_Dr:Leela:
-*** BF105 - The Condemned :6th_Dr:Charley:
-*** BF017 Sword of Orion / CPFA1.4 Heart of Orion :8th_Dr:Charley:Cybermen:
-* DW 2022-Q2-pending
-** doctor 1-4th
+** DW 2022-06-doctor
+*** TODO 10D&RS 1.3 Ghosts
+
+*** TODO 12DC1.1. The Charge of the Night Brigade
+
+*** TODO 4DA7.1 - The Sons of Kaldor
+
+*** TODO 8DDC2.1 - Beachhead
+
+*** TODO 8DDC2.2 - Scenes From Her Life
+
+*** TODO BF135 - Legend of the Cybermen (6D)
+
+*** TODO CC12.4 - The Tactics of Defeat (2nd Dr., Ruth)(128kbps)
+
+** DW 2022-06-spinoffs
+*** TODO BS5.1 - The Grel Escape
+
+*** TODO J&L6.3 - Military Intelligence
+
+*** TODO J&L6.4 - The Trial of George Litefoot
+
+*** TODO Jenny2.2. Altered Status
+
+*** TODO KC1 - Occam's Razor
+
+*** TODO TW1-1.1 - New Girl
+
+*** TODO TW1-1.2 - Through the Ruins
+* DW 2022-Q3-pending
+** doctor 1-3th
 *** TODO 3DA2.2 The Hidden Realm
+** doctor 4th
 *** TODO 4DA7.6 - The Bad Penny-2
-*** 4DA 8.3 The Enchantrees of Numbers
+*** 4DA4.5 Suburan Hell (+Leela) :4th_Dr:Leela:
+
 ** doctor 5th
 *** TODO BF159 The Emerald Tiger (5D)
 *** TODO BF258a Warzone (5D, Nyssa, Tegan)
 *** BF267a Thin Time (5D+11D)
 ** doctor 6th
-*** TODO BF027 - The One Doctor (6D)
 *** TODO BF135 Legend of the Cybermen (6D, "Jamie") :Cybermen:
 *** CC5.7 Peri and the Piscon Paradox (5D+6D)
+*** BF105 - The Condemned :6th_Dr:Charley:
+
 ** doctor 7th
 *** TODO BF013 - The Shadow of the Scourge (7D)
 *** 7DA1.1 The Trail of a Time Machine
@@ -1220,10 +1324,12 @@
 *** NA Damaged Goods (7D) #bilibili
 *** BF089 No Man's Land (7D)
 ** doctor 8th
-*** 061. Faith Stealer
-*** 080. Time Works
+*** BF061. Faith Stealer
+*** BF080. Time Works
 *** 8DA 1.6 No More Lies
 *** 8DA 2.2 Max Warp
+*** BF017 Sword of Orion / CPFA1.4 Heart of Orion :8th_Dr:Charley:Cybermen:
+
 ** doctor 9-12th
 *** 9DA 3.3 Monsters in Metropolis #bilibili :Cybermen:
 *** 10D&RS #3 Ghosts
@@ -1231,5 +1337,6 @@
 ** extra
 *** TODO BS1.1 - Oh No It Isn't!
 *** Jenny 2.2 Altered Status :Cybermen:
-*** TODO J&L6.1 - The Skeleton Quay
-*** TODO J&L6.2 - Return of the Repressed
+
+
+

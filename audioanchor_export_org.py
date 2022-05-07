@@ -11,13 +11,16 @@ def format_seconds_to_hhmmss(seconds):
     return "%02i:%02i:%02i" % (hours, minutes, seconds)
 
 
-def export_to_org_format(sqlite_file):
+def export_to_org_format(sqlite_file, albums_like = ""):
     conn = sqlite3.connect(sqlite_file)
     try:
         cur = conn.cursor()
 
         last_toplevel = ""
-        for album in cur.execute('SELECT * FROM albums ORDER BY title'):
+        query_cond = ""
+        if albums_like:
+            query_cond = " WHERE title like '%" + albums_like + "%'"
+        for album in cur.execute('SELECT * FROM albums ' + query_cond + ' ORDER BY title'):
             # album: _id, title, director, last_played, cover_path
             album_id, album_title = album[0:2]
 
@@ -71,8 +74,11 @@ def export_to_org_format(sqlite_file):
 
 if __name__ == "__main__":
     import sys
-    if len(sys.argv)<2:
+    if len(sys.argv) < 2:
         print("Usage: %s audioanchror.db" % sys.argv[0])
         sys.exit(-1)
-    
-    export_to_org_format(sys.argv[1])
+
+    cond = ""
+    if len(sys.argv) > 2:
+        cond = sys.argv[2]
+    export_to_org_format(sys.argv[1], cond)
