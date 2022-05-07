@@ -8,17 +8,21 @@
 **** 2048: Nowherr to Run
 **** DONE Blade Runner 2049 :🎦:P2017:
 *** comics :📚:
+**** Blade Runner :P1982:
+
+Adaptation of the movie Blade Runner
+
+https://getcomics.info/marvel/blade-runner-1-2-1982/
+
 **** NEXT Do Androids Dream of Electric Sheep :P2009:Boom:
 
 https://bladerunner.fandom.com/wiki/Do_Androids_Dream_of_Electric_Sheep%3F_(comic_book)?so=search
 
 download: https://www.zipcomic.com/do-androids-dream-of-electric-sheep
 
-**** Blade Runner :P1982:
+**** NA Dust to Dust :Boom:
 
-Adaptation of the movie Blade Runner
-
-https://getcomics.info/marvel/blade-runner-1-2-1982/
+prequel to /Do Androids Dream of Electric Sheep/
 
 **** NEXT Blade Runner 2019 (12 issues) :Titan:P2019:
 
@@ -34,7 +38,7 @@ December 16, 2020 – February 9, 2022
 
 download: https://comics.codes/blade-runner-2029/
 
-**** NA Blade Runner 2039
+**** TBR /Blade Runner 2039/
 **** NA Blade Runner Origins :P2021:
 
 https://bladerunner.fandom.com/wiki/Blade_Runner_Origins
@@ -78,7 +82,7 @@ https://bladerunner.fandom.com/wiki/Blade_Runner:_Black_Lotus
 :END:
 
 **** DONE 少数派报告 :🛒:
-**** DONE [#C] 高堡奇人 :🛒:
+**** DONE [#D] 高堡奇人 :🛒:
 :PROPERTIES:
 :goodreads: 3.62
 :END:
@@ -96,31 +100,36 @@ https://bladerunner.fandom.com/wiki/Blade_Runner:_Black_Lotus
 ***** 火星人的时光倒转 Martian Time-Slip
 ***** 末日危机 Now Wait for Last Year
 ***** 遮蔽的眼睛 （黑暗扫描仪）
+
+英国科幻协会奖（BSFA）获奖
+
 **** [#B] 幻觉 Time Out of Joint
 :PROPERTIES:
 :goodreads: 3.86
 :END:
 
-**** [#B] ³主角的轮回 The Transmigration of Timothy Archer
+**** [#B] ³主教的轮回 The Transmigration of Timothy Archer
 :PROPERTIES:
 :goodreads: 3.88
 :END:
 
+星云奖提名
+
 《主教的轮回》是三部曲的最后一部（其他两部为《瓦利斯》和《神的入侵》）。小说讲述一位温文尔雅的主教蒂莫西·阿彻的故事。儿子与情妇的自杀痛苦的折磨着他，最终使他踏上了探索基督真实身份的奇异旅途。作品从学术的高度对宗教信仰的种种迷思进行了痛苦的探索，感人至深。
-
-**** [#C] 一个废物艺术家的自白 Confessions of a Crap Artist
-:PROPERTIES:
-:goodreads: 3.69
-:END:
-
-**** [#C] 琼斯缔造的世界 The World Jones Made
-:PROPERTIES:
-:goodread: 3.64
-:END:
 
 **** [#C] 阿尔法卫星上的家族Clans of the Alphane Moon
 :PROPERTIES:
 :goodreads: 3.74
+:END:
+
+**** [#D] 一个废物艺术家的自白 Confessions of a Crap Artist
+:PROPERTIES:
+:goodreads: 3.69
+:END:
+
+**** [#D] 琼斯缔造的世界 The World Jones Made
+:PROPERTIES:
+:goodread: 3.64
 :END:
 
 **** [#D] 模拟造人 We Can Build You
@@ -135,20 +144,14 @@ https://bladerunner.fandom.com/wiki/Blade_Runner:_Black_Lotus
 **** 中短篇集4：少数派报告 (8.9) :🛒:
 **** 中短篇集5：全面回忆 (8.8) :🛒:
 **** DONE 菲利普·迪克的电子梦 PKD's Electric Dreams :📺:🛒:
-**** READY [#A] 等待去年来临 （末日危机）Now Wait for Last Year :🛒:
-:PROPERTIES:
-:douban:   8.4
-:goodreads: 3.89
-:END:
-
-2055年，埃里克·斯威特森特成为了联合国秘书长莫利纳里的私人器官移植医师。看似平步青云，实则险象环生。 地球被拖入了一场旷日持久的星际战争，人类和利利星结盟，与雷格人为敌。作为秘书长的亲信，埃里克也被卷入了云谲波诡的星际政治斗争中。同时，新型毒品JJ-180诞生，赋予了人穿梭于过去与未来的能力。由于糟糕的婚姻关系，埃里克的妻子在毒品中寻求精神的寄托。她和埃里克都在偶然间发现了JJ-180的神奇作用。 险恶的政治环境，岌岌可危的婚姻，埃里克会怎么巧用JJ-180，来应对人生危机呢？
-
 **** DONE [#A] 帕莫·艾德里奇的三处圣痕 The Three Stigmata of Palmer Eldritch :🛒:
 CLOSED: [2022-03-06 Sun 11:46]
 :PROPERTIES:
 :douban:   8.5
 :goodreads: 4.01
 :END:
+
+星云奖提名
 
 未来，一种名为“糖麻”的药物被广泛使用，它让人们把眼前的微缩城市模型当作现实，进而开启另一段人生。 此时，帕莫·艾德里奇恰从异星归来，他带回的“嚼麻”能让人获得近乎神明的体验，从而导致糖麻产业链面临崩溃。 巴尼·梅尔森临危受命，对帕莫·艾德里奇展开调查。然而，他所见、所思、所做的一切，究竟是现实、幻觉，还是幻觉之中的另一场幻觉？ 帕莫·艾德里奇，究竟是外星人的傀儡、梅尔森眼中的幻觉，还是神灵本身的再现？
 
@@ -157,13 +160,15 @@ CLOSED: [2022-03-06 Sun 11:46]
 :goodreads: 4.0
 :END:
 
-**** READY [#B] 死亡迷局  A Maze of Death :🛒:
+英国科幻协会奖（BSFA）获奖
+
+**** READY [#B] 等待去年来临 （末日危机）Now Wait for Last Year :🛒:
 :PROPERTIES:
 :douban:   8.4
-:goodreads: 3.80
+:goodreads: 3.89
 :END:
 
-十四个移民被送到了未经开发的德尔马克-欧星，却因设备故障与外界失去了联系。面对荒凉而陌生的环境，他们各怀心事、满腹猜疑，只能通过信号向神祈祷，但死亡随时可能降临……德尔马克-欧星上满是奇特的原生生物，还有早在移民到来之前就已存在的神秘大楼——它诱惑着所有人进入，却在各人眼中呈现出不同的模样……探索这颗星球的过程中，移民们接连遇害，是人们控制不住自己的癫狂，还是恶神在悄悄逼近？ 在这里，上帝要么不存在，要么是在蓄意毁灭它的造物……
+2055年，埃里克·斯威特森特成为了联合国秘书长莫利纳里的私人器官移植医师。看似平步青云，实则险象环生。 地球被拖入了一场旷日持久的星际战争，人类和利利星结盟，与雷格人为敌。作为秘书长的亲信，埃里克也被卷入了云谲波诡的星际政治斗争中。同时，新型毒品JJ-180诞生，赋予了人穿梭于过去与未来的能力。由于糟糕的婚姻关系，埃里克的妻子在毒品中寻求精神的寄托。她和埃里克都在偶然间发现了JJ-180的神奇作用。 险恶的政治环境，岌岌可危的婚姻，埃里克会怎么巧用JJ-180，来应对人生危机呢？
 
 **** READY [#B] ¹神圣秘密 （瓦利斯） VALIS :🛒:
 :PROPERTIES:
@@ -172,10 +177,18 @@ CLOSED: [2022-03-06 Sun 11:46]
 
 一道粉红色激光照射后，爱马士·肥特的人生改变了。他看到古罗马和现实生活重叠到一起，他了解到小儿子身上连医生都没有诊断出的病症，他服药自杀却存活下来……一切无望的生活琐碎仿佛开始有了终极意义。 他需要做出一个判断：究竟是自己疯了，还是一个如神圣存在般的智能系统正在向自己彰显这个世界的本质。 他究竟是谁？是隐秘宗教诺斯替教派的教徒，是能通晓古今的救世主，抑或，只是郁郁不得志的科幻小说家菲利普·迪克？
 
-**** [#B] ²神圣入侵 The Divine Invasion
+**** [#C] ²神圣入侵 The Divine Invasion :🛒:
 :PROPERTIES:
 :goodreads: 3.81
 :END:
+
+**** READY [#C] 死亡迷局  A Maze of Death :🛒:
+:PROPERTIES:
+:douban:   8.4
+:goodreads: 3.80
+:END:
+
+十四个移民被送到了未经开发的德尔马克-欧星，却因设备故障与外界失去了联系。面对荒凉而陌生的环境，他们各怀心事、满腹猜疑，只能通过信号向神祈祷，但死亡随时可能降临……德尔马克-欧星上满是奇特的原生生物，还有早在移民到来之前就已存在的神秘大楼——它诱惑着所有人进入，却在各人眼中呈现出不同的模样……探索这颗星球的过程中，移民们接连遇害，是人们控制不住自己的癫狂，还是恶神在悄悄逼近？ 在这里，上帝要么不存在，要么是在蓄意毁灭它的造物……
 
 **** [#C] 倒数第二个真相 The Penultimate Truth
 :PROPERTIES:
@@ -192,12 +205,14 @@ CLOSED: [2022-03-06 Sun 11:46]
 :goodreads: 3.76
 :END:
 
-**** [#C] 血钱博士 Dr. Bloodmoney
+**** [#D] 血钱博士 Dr. Bloodmoney :🛒:
 :PROPERTIES:
 :goodreads: 3.68
 :END:
 
-**** [#C] 泰坦棋手 The Game-Players of Titan
+星云奖提名
+
+**** [#D] 泰坦棋手 The Game-Players of Titan
 :PROPERTIES:
 :goodreads: 3.65
 :END:
@@ -209,8 +224,9 @@ CLOSED: [2022-03-06 Sun 11:46]
 
 * Asimov
 ** novels :📔:
-*** Foundation
-**** HALF [#A] 1. 基地 :P1951:
+*** Foundation :🛒:
+**** DONE [#A] 1. 基地 :P1951:
+CLOSED: <2022-01-24 Mon 20:41>
 :PROPERTIES:
 :goodreads: 4.17
 :douban:   9.0
@@ -275,8 +291,8 @@ CLOSED: [2022-01-05 Wed 00:05]
 **** DONE I, Robot :P1950:
 CLOSED: [2022-03-05 Sat 23:24]
 
-**** The Caves of Steel :P1958:
-**** The Naked Sun :P1958:
+**** The Caves of Steel 钢窟 :P1958:
+**** The Naked Sun 裸阳 :P1958:
 **** The Robots of Dawn :P1983:
 **** Robots and Empire :P1985:
 *** 帝国系列
@@ -284,13 +300,13 @@ CLOSED: [2022-03-05 Sat 23:24]
 **** 14. 星空暗流 The Currents of Space :P1952:
 **** 15. 苍穹一粟 Pebble in the Sky :P1950:
 *** misc
-**** DONE [#A] The End of Eternity 永恒的终结
+**** DONE [#A] The End of Eternity 永恒的终结 :🛒:
 CLOSED: <2022-02-01 Tue>
 :PROPERTIES:
 :douban:   9.0
 :END:
 
-**** DONE [#B] The Gods Themselves 神们自己
+**** DONE [#B] The Gods Themselves 神们自己 :🛒:
 **** Nightfall (4.05)
 **** The Last Question
 **** Earth is Room Enough

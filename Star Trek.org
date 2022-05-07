@@ -1,4 +1,4 @@
-* TOS :TOS:
+* The Original Series :TOS:
 ** TOS tv (1966-1969) :📺:
 *** TOS S1
 
@@ -412,7 +412,7 @@ CLOSED: <2021-01-01 Fri 17:24>
 
 ***** Burden of Knowledge
 ***** Leonard McCoy Frontier Doctor
-* TNG :TNG:
+* The Next Generation :TNG:
 ** tv (1987-1993) :tv:📺:
 *** TNG S1 :2364:
 **** TODO 1x26 The Neutral Zone :Romulans:
@@ -433,7 +433,7 @@ CLOSED: [2021-01-10 Sun 21:40]
 
 An engineering team finds evidence of an alien presence on Earth in 19th century San Francisco: Data's severed head, buried five hundred years ago. 
 
-*** START 📂TNG S6 :2369:
+*** 📂TNG S6 :2369:
 **** DONE [#B] 6x01 - Time's Arrow - Part II :Guinan:
 CLOSED: [2021-01-10 Sun 21:41]
 :PROPERTIES:
@@ -603,6 +603,7 @@ CLOSED: [2021-04-07 Wed 20:13]
 :rating:   8.6
 :END:
 
+*** TNG S7
 ** movies :🎦:
 *** DONE 07. Generations 斗转星移 :1994:Kirk:Picard:
 CLOSED: <2021-01-01 Fri 17:26>
@@ -714,7 +715,7 @@ CLOSED: [2021-03-02 Tue 16:59]
 ****** DONE [#C] 06. Here Today
 CLOSED: [2021-03-02 Tue 16:59]
 
-* DS9 :DS9:
+* Deep Space Nine :DS9:
 ** DS9 tv (1993-1998) :📺:tv:
 *** DS9 S1 (Jan. - Jun. 1993) :2369:
 *** DS9 S2 (Sep.93 - Jun.94) :2370:
@@ -744,7 +745,7 @@ CLOSED: [2021-01-28 Thu 08:26]
 :rating:   9.0
 :END:
 
-*** START 📂DS9 S6 (Sep.97 - Jun.98) :2374:
+*** 📂DS9 S6 (Sep.97 - Jun.98) :2374:
 **** DONE [#A] 6x01 A Time to Stand
 CLOSED: [2021-01-28 Thu 23:11]
 :PROPERTIES:
@@ -922,6 +923,7 @@ CLOSED: [2021-04-03 Sat 20:23]
 :rating:   8.4
 :END:
 
+*** DS9 S7
 ** comics :📚:
 *** Malibu (1993-1995) :Malibu:
 **** START 📂on-going
@@ -1001,8 +1003,8 @@ CLOSED: [2021-01-18 Mon 22:11]
 **** Strange New Worlds IV
 **** Strange New Worlds V
 **** Strange New Worlds VI
-* VOY :VOY:
-** Star Trek: Voyager (1995-2001) :📺:
+* Voyager :VOY:
+** tv (1995-2001) :📺:
 *** START 📂VOY S1
 **** DONE [#C] 1x01/02 Caretaker
 CLOSED: [2021-03-18 Thu 22:56]
@@ -1064,7 +1066,7 @@ CLOSED: [2021-03-19 Fri 08:05]
 *** IDW
 **** Voyager: Mirrors and Smoke (环境迷雾) :mirror_universe:IDW:
 **** Voyager - Seven's Reckoning :2020:IDW:hanzify:
-* ENT
+* Enterprise
 ** Enterprise (2001-2004)
 * KTL (AOS) :KTL:
 ** movies
@@ -1127,7 +1129,7 @@ CLOSED: [2021-01-01 Fri 08:50]
 
 *** Star Trek: Starfleet Academy
 *** 2DONE Star Trek: Boldly Go :hanzify:
-* DSC :DSC:
+* Discovery :DSC:
 ** Discovery (2017- ) :📺:
 *** 📂DSC S1
 *** 📂DSC S2 :2019:
@@ -1220,17 +1222,18 @@ CLOSED: [2021-04-02 Fri 19:43]
 **** 1x09 Crisis Point
 **** 1x10 No Small Parts
 *** Prodigy (2021)
+*** Strange New Worlds
 ** comics :comics:
 *** DONE 2.5 TNG+DS9 crossover (DC+Malibu) :1994:TNG:DS9:crossover:
 CLOSED: [2021-01-21 Thu 19:34]
 
-*** 4.Marvel Paramount (1996-1998)
+*** 4. Marvel Paramount (1996-1998)
 **** Early Voyages :Pike:
 
 17 issues
 
 ***** 2DONE 04 Nor Iron Bars a Cage
-*** 5.WildStorm (1999-2001)
+*** 5. WildStorm (1999-2001)
 **** New Frontier: Double Time :NF:
 **** Special :hanzify:mix:
 *** 6. IDW :idw:
@@ -1383,16 +1386,12 @@ CLOSED: [2021-03-26 Fri 23:23]
 
 The crew must contend with the disastrous fallout from Kelly's decision.
 
-** Orville S2.5 :📚:2020:
-*** DONE Launch Day 发射日 :hanzify:
+** Orville S2.5 :📚:
+*** DONE Launch Day 发射日 :P2020:hanzify:
 CLOSED: [2021-02-16 Tue 13:32]
 
-*** DONE Hero
+*** DONE Hero :P2020:
 CLOSED: [2021-03-26 Fri 23:49]
 
-*** Degressions :2021:
-* Stargate
-** SG-1
-*** 2x03
-** SGA
-*** SGA S1
+*** Degressions :P2021:
+*** Artifact :P2021:

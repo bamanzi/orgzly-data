@@ -426,8 +426,8 @@ Topps 漫画#22也是“鬼压床”这个主题
 CLOSED: [2020-11-13 Fri 19:34]
 
 * Fringe :fringe:
-** DOING Fringe S1 (20 ep) :📺:
-DEADLINE: <2022-03-31 Thu> SCHEDULED: <2022-03-31 Thu>
+** DONE Fringe S1 (20 ep) :📺:
+SCHEDULED: <2022-03-31 Thu>
 
 *** DONE 1x01, 02
 CLOSED: [2022-02-19 Sat 20:28]
@@ -473,6 +473,9 @@ CLOSED: [2022-04-24 Sun 07:56]
 
 *** DONE 1x19
 CLOSED: [2022-04-27 Wed 00:30]
+
+*** DONE 1x20
+CLOSED: [2022-04-29 Fri 20:23]
 
 ** comics :📚:
 *** DONE Fringe (vol.1)
