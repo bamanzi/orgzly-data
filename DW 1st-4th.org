@@ -150,7 +150,8 @@ SCHEDULED: <2021-11-06 Sat>
 :rating:   8.5
 :END:
 
-**** READY [#C] 1.1 Frostfire :bilibili:scripted:Vicki:Steven:D2022_05_doctor:
+**** READY [#C] 1.1 Frostfire :Vicki:Steven:scripted:plot_yes:bilibili:D2022_05_doctor:
+SCHEDULED: <2022-05-14 Sat>
 :PROPERTIES:
 :rating:   7.8
 :END:
@@ -213,7 +214,7 @@ Old Steven 2/3
 
 Old Steven 3/3
 
-**** 📂CC11. First Doctor - Volume Two
+**** 📂CC11. First Doctor - Volume Two :scripted:
 ***** [#A] CC11.2 - Across the Darkened City
 :PROPERTIES:
 :rating:   8.5
@@ -547,8 +548,8 @@ CLOSED: <2021-07-30 Fri 16:14>
 :rating:   7.8
 :END:
 
-**** 📂CC10 - The Second Doctor: Volume One
-***** READY [#C] CC10.1 - The Mouthless Dead :Jamie:Polly:scripted:plot_yes:
+**** 📂CC10 - The Second Doctor: Volume One :scripted:
+***** READY [#C] CC10.1 - The Mouthless Dead :Jamie:Polly:Ben:plot_yes:
 :PROPERTIES:
 :rating:   7.7
 :END:
@@ -590,7 +591,7 @@ SCHEDULED: <2021-10-03 Sun>
 :rating:   8.1
 :END:
 
-**** NA 📂/CC14 - The Second Doctor: Volume Three/ :P2022_04:
+**** 📂/CC14 - The Second Doctor: Volume Three/ :P2022_04:
 ***** 14.1 The Death of the Daleks
 ***** 14.2 The Phantom Piper
 ***** 14.3 The Prints of Denmark
@@ -760,7 +761,7 @@ Inferno
 :rating:   8.0
 :END:
 
-**** READY [#D] 6.2. Operation Hellfire :Jo:Churchill:P2020:plot_yes:
+**** READY [#D] 6.2. Operation: Hellfire :Jo:Churchill:P2020:plot_yes:
 :PROPERTIES:
 :rating:   7.4
 :END:
@@ -771,6 +772,7 @@ Inferno
 :END:
 
 **** [#A] 7.2 The Gulf :P2021:Sarah:D2022_05_doctor:
+SCHEDULED: <2022-05-21 Sat>
 :PROPERTIES:
 :rating:   8.7
 :END:
@@ -785,14 +787,17 @@ Inferno
 
 block原因：太长（3CD）
 
-*** Audio-drama misc
+*** misc
 **** DONE [#A] The Sacrifice of Jo Grant (The Legacy of Time #3) :Jo:P2019:
 CLOSED: [2020-08-07 Fri 18:25]
 :PROPERTIES:
 :rating:   9.0
 :END:
 
-**** BLOCK [#C] LS 4.4 The Mega (The Lost Stories #4.4) †7.6 :3CD:
+**** BLOCK [#C] LS4.4 The Mega :3CD:
+:PROPERTIES:
+:rating:   7.6
+:END:
 
 block原因：太长（3小时）
 
@@ -800,7 +805,7 @@ block原因：太长（3小时）
 CLOSED: [2020-06-25 Thu 21:48]
 
 ** BF shorts :BigFinish:audiobook:🎧:
-*** The Companion Chronicles (Liz) :Liz:
+*** CC (Liz) :Liz:
 **** DONE [#A] CC7.4 - The Last Post :P2012:no_doctor:
 CLOSED: [2020-08-07 Fri 18:25]
 :PROPERTIES:
@@ -846,7 +851,7 @@ Yet there's something rotten at the core of this family... The seeds of a politi
 
 The Sentinels of the New Dawn are stirring and its malign influence will be felt for centuries to come...
 
-*** The Companion Chronicles (Jo) :Jo:
+*** CC (Jo) :Jo:
 **** [#A] CC7.9 - The Scorchies †8.7 :has_plot:
 :PROPERTIES:
 :fandom:   https://tardis.fandom.com/wiki/The_Scorchies_(audio_story)
@@ -880,7 +885,7 @@ SCHEDULED: <2022-03-30 Wed>
 **** [#D] CC6.0b - The Mists of Time (7.4)
 **** [#D] CC6.4 - The Many Deaths of Jo Grant (7.2)
 *** CC
-**** [#C] CC2.3 - Old Soldiers
+**** START [#C] CC2.3 - Old Soldiers
 :PROPERTIES:
 :rating:   7.5
 :END:
@@ -890,7 +895,7 @@ SCHEDULED: <2022-03-30 Wed>
 :rating:   7.5
 :END:
 
-**** [#C] CC7.12 - Council of War :Benton:
+**** [#C] CC7.12 - Council of War :Benton:Brigadier:
 :PROPERTIES:
 :rating:   7.7
 :END:
@@ -906,16 +911,16 @@ SCHEDULED: <2022-03-30 Wed>
 :rating:   9.3
 :END:
 
-**** [#B] ST6.7 The Blame Game (8.3, top #8 in ST) :Liz:Monk:
-
-To escape his Earth exile, the Doctor is prepared to make any bargain, come to any arrangement, or to do any deal with any devil – even if in this case the Devil wears a monk's robes. But when past misdeeds start catching up with both the Doctor and the Monk, who can Liz Shaw trust when time is running out and death is rapidly approaching?
-
+**** [#A] ST9.6 The Same Face (8.6, top #4 in ST) :Jo:Master:P2019:
 **** [#B] ST6.8 Damuscus (8.3, top #7 in ST) :Jo:UNIT:
 
 As the decade in English history which attracts the greatest quantity of alien invasions per annum, the 1970s are not the easiest time in which to steer the great British ship of state. The Prime Minister, nonetheless, is doing the very best job he can. Still, at least he has UNIT to rely on — their eccentric, bouffant-haired scientific adviser in particular. Or does he?
 
+**** [#B] ST6.7 The Blame Game (8.3, top #8 in ST) :Liz:Monk:
+
+To escape his Earth exile, the Doctor is prepared to make any bargain, come to any arrangement, or to do any deal with any devil – even if in this case the Devil wears a monk's robes. But when past misdeeds start catching up with both the Doctor and the Monk, who can Liz Shaw trust when time is running out and death is rapidly approaching?
+
 **** [#C] ST7.X Landbound †7.6 :scripted:no_companion:
-**** [#A] ST9.6 The Same Face (8.6, top #4 in ST) :Jo:Master:P2019:
 **** CANCEL [#E] 10.03 Decline of the Ancient Mariner †4.2 :Sarah:
 CLOSED: [2020-06-25 Thu 21:52]
 

@@ -337,12 +337,14 @@ CLOSED: [2021-02-27 Sat 18:02]
 *** main range 251-
 **** Tartarus
 **** Interstitial / Feast of Fear :short:
-**** START [#B] 258a. Warzone :Tegan:Nyssa:Cybermen:D2022_05_doctor:
+**** 3QTR [#B] 258a. Warzone :Tegan:Nyssa:Cybermen:D2022_05_doctor:
+CLOSED: [2022-05-02 Mon 14:39] SCHEDULED: <2022-05-07 Sat>
 :PROPERTIES:
 :rating:   8.1
 :END:
 
 **** [#D] 258b. Conversion :Tegan:Nyssa:Cybermen:D2022_05_doctor:
+SCHEDULED: <2022-05-14 Sat>
 :PROPERTIES:
 :rating:   7.4
 :END:
@@ -825,7 +827,8 @@ CLOSED: [2021-06-24 Thu 12:31]
 :rating:   7.7
 :END:
 
-***** START [#C] MR89. No Man's Land :Ace:Hex:The_Forge:plot_no:D2022_05_doctor:
+***** HALF [#C] MR89. No Man's Land :Ace:Hex:The_Forge:plot_no:D2022_05_doctor:
+SCHEDULED: <2022-05-07 Sat>
 :PROPERTIES:
 :rating:   7.8
 :END:

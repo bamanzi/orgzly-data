@@ -143,7 +143,7 @@ half scripted https://www.pillowfort.social/posts/563376
       :rating:   9.2
       :END:
 
-***** [#A] TW22. Goodbye Piccadilly :Andy:Norton:plot_yes:
+***** READY [#A] TW22. Goodbye Piccadilly :Andy:Norton:plot_yes:
       :PROPERTIES:
       :rating:   8.6
       :END:
@@ -266,7 +266,7 @@ Sebastian Vaughan is the brightest, newest recruit to Torchwood. He's come fro
       :rating:   7.8
       :END:
 
-***** DONE [#A] 40 Save Our Souls :Queen:
+***** DONE [#A] 40 Save Our Souls :Queen:plot_yes:
       CLOSED: <2020-08-22 Sat 10:01>
       :PROPERTIES:
       :rating:   9.1
@@ -328,6 +328,7 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
       :END:
 
 ***** START [#B] 48. Lease of Life :Owen:D2022_05_spinoffs:
+      SCHEDULED: <2022-05-21 Sat>
       :PROPERTIES:
       :rating:   8.3
       :END:
@@ -338,14 +339,14 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
       :rating:   8.7
       :END:
 
-***** NA 50. Absent Friends (missing)
+***** TBR 50. Absent Friends (missing)
 ***** 50X. The Black Knight :Norton:
-***** [#A] 51. The Five People You Kill in Middlebrough :Yvonne:
+***** READY [#A] 51. The Five People You Kill in Middlebrough :Yvonne:plot_yes:
       :PROPERTIES:
       :rating:   8.5
       :END:
 
-***** [#A] 52. Madam I'm :Norton:Adam:
+***** READY [#A] 52. Madam I'm :Norton:Adam:plot_yes:
       :PROPERTIES:
       :rating:   8.8
       :END:
@@ -370,7 +371,7 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 ***** [#A] 57. The Grey Mare :Ianto:
 ***** [#B] 58. Cadoc Point :Andy:
 ***** [#A] 59. Sonny :Rhys:
-***** NA 60. Infidel Places
+***** 60. Infidel Places
 *** specials
 **** 2DONE [#B] special 1: The Torchwood Archive :P2016:The_Commitee:plot_yes:
      CLOSED: [2020-11-19 Thu 18:33]
@@ -834,8 +835,12 @@ Roberts Master
     :END:
 
 ** J&L series 6 :P2013:
-*** START [#C] J&L6.1 - The Skeleton Quay (7.8) :D2022_05_spinoffs:week2:
+*** HALF [#C] J&L6.1 - The Skeleton Quay (7.8) :D2022_05_spinoffs:week2:
+    SCHEDULED: <2022-05-07 Sat>
+
 *** [#D] J&L6.2 - Return of the Repressed         (7.1) :D2022_05_spinoffs:week3:
+    SCHEDULED: <2022-05-28 Sat>
+
 *** [#D] 6.3 - Military Intelligence           (7.4)
 *** [#C] 6.4 - The Trial of George Litefoot    (7.8)
 ** J&L series 7 :P2014:
@@ -1218,8 +1223,8 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
     :END:
 
 ** Missy series 2 :🎧:Master_missy:
-*** START [#A] 2.1 - The Lumiat :D2022_05_spinoffs:plot_yes:week4:
-    SCHEDULED: <2022-03-14 Mon>
+*** START [#A] 2.1 - The Lumiat :D2022_07_spinoffs:plot_yes:week4:
+    SCHEDULED: <2022-05-14 Sat>
     :PROPERTIES:
     :rating:   8.8
     :END:
@@ -1616,7 +1621,7 @@ rating 8.7/8.3
 
 * UNIT :UNIT:
 ** UNIT
-** NA UNIT: Brave New World
+** TBR UNIT: Brave New World
 
 Brave New World was a subseries of the UNIT audio series produced by Big Finish Productions. Beginning in 2022, it focused on the exploits of UNIT under the command of /Winifred Bambera/ (TV: Battlefield) along with her new team: /Sergeant Jean-Paul Savarin/ and /Dr Louise Rix/.
 
@@ -1668,12 +1673,14 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
     :rating:   7.4
     :END:
 
-*** [#C] 5.3 - The Sontaran Project :D2022_05_spinoffs:
+*** START [#C] 5.3 - The Sontaran Project :D2022_05_spinoffs:
+    SCHEDULED: <2022-05-14 Sat>
     :PROPERTIES:
     :rating:   7.5
     :END:
 
 *** [#C] 5.4 - False Negative :D2022_05_spinoffs:
+    SCHEDULED: <2022-05-28 Sat>
     :PROPERTIES:
     :rating:   7.7
     :END:
@@ -1712,6 +1719,7 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
      :END:
 
 **** [#B] RBT1.2 - The Sentient :D2022_05_spinoffs:
+     SCHEDULED: <2022-05-28 Sat>
      :PROPERTIES:
      :rating:   8.2
      :END:
@@ -1793,9 +1801,9 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
 **** [#E] +4.2 - The Ghost Writers+         (6.4)
 **** [#D] 4.3 - Rulers of Earth           (7.4)
 * Counter-Measures
-** CM series 1 :P2012:
-*** [#D] 1.1 - Threshold (7.3) :plot_yes:
-*** [#C] 1.2 - Artificial Intelligence      (7.5) :plot_yes:
+** CM series 1 :P2012:plot_yes:
+*** [#D] 1.1 - Threshold (7.3)
+*** [#C] 1.2 - Artificial Intelligence      (7.5)
 *** [#C] 1.3 - The Pelage Project           (7.7)
 *** [#B] 1.4 - State of Emergency           (8.3)
 ** CM series 2 :P2013:
@@ -1892,13 +1900,15 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
 **** [#E] 2.3 - I Was Churchill's Double    (6.8)
 **** [#C] 2.4 - Churchill Victorious        (7.7)
 ** Tales from New Earth :P2018:
-*** [#D] 1.1 Escape From New New York (7.3)
+*** START [#D] 1.1 Escape From New New York (7.3) :D2022_05_spinoffs:
+    SCHEDULED: <2022-05-14 Sat>
+
 *** [#E] 1.2 Death in the New Forest (6.9)
 *** [#D] 1.3 The Skies of New Earth (7.1)
 *** [#D] 1.4 The Cats of New Cairo (7.2)
 ** Lady Christina
 *** series 1 :P2018:
-**** [#C] 1.1 - It Takes a Thief (7.8)
+**** [#C] 1.1 - It Takes a Thief (7.8) :D2022_09_spinoffs:
 **** [#D] 1.2 - Skin Deep (7.2)
 **** [#D] 1.3 - Portrait of a Lady (7.0)
 **** [#C] 1.4 - Death on the Mile (7.6)
@@ -1920,20 +1930,20 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
 **** [#E] +2.3 - Calamity Jenny+ (6.6)
 **** [#D] 2.4 - Her Own Wrost Enemy (7.0)
 ** Rose Tyler - The Dimension Cannon :P2019:
-*** [#B] 1.1 - The Endless Night       (8.3)
+*** [#B] 1.1 - The Endless Night       (8.3) :D2022_07_spinoffs:
 *** [#C] 1.2 - The Flood               (7.6)
 *** [#C] 1.3 - Ghost Machines          (7.5)
 *** [#D] 1.4 - The Last Party on Earth (7.3)
 ** Donna Nobel - Kidnapped :P2020:
-*** [#B] 1. Out of this World (8.1)
+*** [#B] 1. Out of this World (8.1) :D2022_07_spinoffs:
 *** [#C] 2. Spinvasion (7.8)
 *** [#E] +3. The Sorcerer of Albion+ (6.9)
 *** [#C] 4. The Chiswick Cuckoos (7.9) :10th_Dr:
 ** The Lone Centurion
 *** vol.1 :P2021:
 **** [#C] 1.1 - Gladiator              (7.9) :D2022_06_spinoffs:
-**** [#C] 1.2 - The Unwilling Assassin (7.7)
-**** [#B] 1.3 - I, Rorius              (8.7)
+**** [#C] 1.2 - The Unwilling Assassin (7.7) :D2022_07_spinoffs:
+**** [#B] 1.3 - I, Rorius              (8.7) :D2022_08_spinoffs:
 *** vol.2 :P2022_03:
 **** 2.1 The Once and Future Nurse
 **** 2.2 The Glowing Warrior
