@@ -1,3 +1,5 @@
+#+TITLE: Space operas
+
 * Firefly :firefly:
 ** DONE tv
 ** Dark Horse Comics 2005-2017
@@ -260,6 +262,21 @@ CLOSED: [2022-05-04 Wed 20:47]
 
 找到地球
 
+**** DONE 2x08
+CLOSED: [2022-05-12 Thu 20:18]
+
+**** DONE 2x09
+CLOSED: [2022-05-15 Sun 10:00]
+
+**** DONE 2x10 Pegasus
+CLOSED: <2022-05-15 Sun 11:09>
+
+**** DONE 2x11 Resurrection Ship, Part I
+CLOSED: [2022-05-15 Sun 12:09]
+
+**** DONE 2x12 Resurrection Ship, Part II
+CLOSED: [2022-05-15 Sun 20:09]
+
 *** Razer
 
  建议在2x17之后观看
@@ -267,13 +284,13 @@ CLOSED: [2022-05-04 Wed 20:47]
 在看完第三季之前不要看最后10分钟
 
 **** Razer: Flashback
-*** The Resistance (10集短篇)
-
-这部网络剧的作用是连接第二季和第三季，有 1 到 10 的合集版，十分推荐
-
 *** The Plan
 
 Set during the events from the Miniseries to Season 2's /"Lay Down Your Burdens, Part II (2x20),"/ this story is told from the Cylons' perspective, centering on two distinct Cavil copies as they try to fulfill the Cylons' plan.
+
+*** The Resistance (10集短篇)
+
+这部网络剧的作用是连接第二季和第三季，有 1 到 10 的合集版，十分推荐
 
 *** S3 (20 eps)
 *** S4 (20 eps)
@@ -294,7 +311,7 @@ CLOSED: <2021-08-11 Wed 23:20>
 
 This series chronicles the first mission of Galactica under the command of Commander William Adama, dealing with terrorism in the Twelve Colonies.
 
-*** ongoing (#0-12) :P2006:🛒:
+*** DONE ongoing (#0-12) :P2006:🛒:
 
 The first series of issues based on the Re-imagined Series written by Greg Pak and pencilled by Nigel Raynor. The storyline appears after the events of "Home, Part II" (2x07) and before "Pegasus" (2x10) and significantly diverge from the Re-imagined Series' timeline of Season 2.
 
@@ -304,8 +321,10 @@ CLOSED: [2022-05-05 Thu 22:51]
 **** DONE vol.2 #5-8
 CLOSED: [2022-05-06 Fri 22:51]
 
-**** DOING vol.3 #9-12
-*** Pegasus (one-shot) :🛒:
+**** DONE vol.3 #9-12
+CLOSED: [2022-05-08 Sun 11:38]
+
+*** NOW Pegasus (one-shot) :🛒:
 
 https://en.battlestarwiki.org/Battlestar_Galactica:_Pegasus
 
@@ -332,7 +351,7 @@ takes place during the second season of the Re-imagined Series, covering /Gaius 
 
 It’s a dangerous time for the last remaining humans. Captured by the Cylons on New Caprica, the colonists live in fear of what every new day will bring. As the Cylons press their oppressive–and life-threatening agenda—the survivors grow more desperate to reclaim their freedom. But there’s hope. Out in the wilds of New Caprica, beyond the Cylon boundaries, is a band of human freedom fighters. They answer to no one. They fear no Cylons. They are Twilight Command–and they have a plan. From writer Michael Moreci (Wasted Space, Archie Meets Batman ’66) and artist Breno Tamura (Batgirl and the Birds of Prey) comes the untold tale of Twilight Command!
 
-* Star Wars
+* Star Wars :star_wars:
 ** movies :🎦:
 
 观看顺序：https://www.douban.com/doulist/133200925/
@@ -410,8 +429,15 @@ CLOSED: [2022-05-01 Sun 20:35]
 ****** DONE 1x05 Gunslinger
 CLOSED: [2022-05-05 Thu 21:23]
 
+****** DONE 1x06 The Prisoner
+CLOSED: [2022-05-07 Sat 21:23]
+
+****** DONE 1x07 The Reckoning
+CLOSED: [2022-05-14 Sat 17:30]
+
+****** 1x08 Redemption
 ***** season 2 (8 eps) :P2020:
-***** season 3
+***** season 3 :P2022:
 **** The Book of Boba Fett
 ***** season 1 (7 eps) :P2021:
 
@@ -438,7 +464,7 @@ c.9 ABY
 ***** season 5 (20 eps) :P2012:
 ***** season 6 (13 eps) :P2014:
 ***** season 7 (12 eps) :P2020:
-**** Rebels (2014-2018) 义军崛起
+**** START Rebels (2014-2018) 义军崛起
 
 set during the time frame between the films /Star Wars: Episode III Revenge of the Sith/ and /Star Wars: Episode IV A New Hope/.
 
@@ -455,19 +481,25 @@ https://starwars.fandom.com/wiki/Star_Wars_Rebels_Season_One
 ****** DONE 1x01-02 Spark of Rebellion
 CLOSED: [2022-04-13 Wed 23:12]
 
-****** DONE 1x03 Droids in Distress
+****** DONE 1x02 Droids in Distress
 CLOSED: [2022-04-22 Fri 20:06]
 
-****** DONE 1x04 Fighter Flight"
+****** DONE 1x03 Fighter Flight"
 CLOSED: [2022-04-22 Fri 20:31]
 
-****** DONE 1x05 Rise of the Old Masters
+****** DONE 1x04 Rise of the Old Masters
 CLOSED: [2022-04-25 Mon 21:54]
 
-****** DONE 1x06 Breaking Ranks
+****** DONE 1x05 Breaking Ranks
 CLOSED: [2022-05-01 Sun 18:31]
 
-****** 1x07 Out of Darkness
+****** 1x06 Out of Darkness
+****** DONE 1x07 Empire Day
+CLOSED: [2022-05-11 Wed 08:17]
+
+****** DONE 1x08 Gathering Forces
+CLOSED: [2022-05-12 Thu 21:09]
+
 ***** season 2 (22 eps) :P2015:
 ***** season 3 (22 eps) :P2016:
 ***** season 4 (16 eps) :P2017:
@@ -585,13 +617,23 @@ CLOSED: [2022-05-01 Sun 12:57] SCHEDULED: <2022-05-05 Thu>
 
 0-3ABY
 
-***** DOING [#B] Shadows of the Empire (1996, 1998)
+***** Shadows of the Empire trilogy
+****** DONE [#C] 📂Shadows of the Empire (1996, 1998)
+CLOSED: <2022-05-11 Wed 10:48>
 
-3.5ABY
+3.5ABY (紧接《帝国反击战》)
 
-未收录入epic collection. 但有单独的Star Wars Omnibus – Shadows of the Empire
+未收录入epic collection. 但有单独的Star Wars DX – Shadows of the Empire
 
-****** Mara Jade - By The Emperor's Hand
+故事两条线
+- Boba Fett 运送碳凝的Solo 给贾巴 
+- 一个叫做 Black Sun 的小星球在达斯·维达和义军之间搅局
+bmz评价：挺一般，Boba Fett 那条线还好点，Black Sun 那条线很水
+
+****** NOW Mara Jade - By The Emperor's Hand
+
+4ABY
+
 ****** Shadows of the Empire: Evolution :hanzify:
 
 4ABY
@@ -741,13 +783,15 @@ CLOSED: [2022-04-24 Sun 13:34]
 ******* DONE vol.4 End of Games (#20-25)
 CLOSED: [2022-04-26 Tue 12:52]
 
-****** DOING Doctor Aphra (2016-2019) :ongoing:hanzify:
+****** DOING 📂Doctor Aphra (2016-2019) :ongoing:hanzify:
 SCHEDULED: <2022-05-21 Sat>
 
 ******* DONE vol.1 Aphra (#1-6)
 CLOSED: [2022-05-01 Sun 15:04]
 
-******* vol.2 The Enormous Profit (A1, #9-12)
+******* DONE vol.2 The Enormous Profit (A1, #9-12)
+CLOSED: [2022-05-13 Fri 07:24]
+
 ******* vol.3 Remastered
 ******* vol.4 The Catastrophe Con (#20-25)
 ******* Vol.5 Worst Among Equals (A2, #26-31)
