@@ -51,7 +51,7 @@ Episode 1-3 missing.
 **** The War Machines
 *** Season 4
 **** +The Smugglers+ :missing:
-**** DONE The Tenth Planet :cyberman:part_missing:animated:P2013:
+**** DONE The Tenth Planet :Cybermen:part_missing:animated:P2013:
 
 Episode 4 missing (but animated in 2013).
 
@@ -87,7 +87,7 @@ SCHEDULED: <2021-09-22 Wed>
 ***** 2DONE EA7.1 After the Daleks :Dalek_War_1st:Susan:D2021_10_daleks:
 CLOSED: [2021-11-01 Mon 22:54] SCHEDULED: <2021-11-01 Mon>
 
-***** READY EA7.2 The Secrets of Det-Sen :plot_yes:
+***** READY EA7.2 The Secrets of Det-Sen :plot_yes:D2022_07_doctor:
 *** 1DA :Susan:Ian:Barbara:
 **** HALF [#C] 1.1 The Destination Wars :Master_early:D2021_08_dr:
 :PROPERTIES:
@@ -150,8 +150,8 @@ SCHEDULED: <2021-11-06 Sat>
 :rating:   8.5
 :END:
 
-**** READY [#C] 1.1 Frostfire :Vicki:Steven:scripted:plot_yes:bilibili:D2022_05_doctor:
-SCHEDULED: <2022-05-14 Sat>
+**** START [#C] 1.1 Frostfire :Vicki:Steven:scripted:plot_yes:bilibili:D2022_05_doctor:
+SCHEDULED: <2022-05-28 Sat>
 :PROPERTIES:
 :rating:   7.8
 :END:
@@ -236,6 +236,12 @@ Old Steven 3/3
 :rating:   7.4
 :END:
 
+*** Lost Stories
+**** [#A] 2.1a - Farewell Great Macedon :scripted:
+:PROPERTIES:
+:rating:   9.2
+:END:
+
 * 2nd Doctor :2nd_Dr:
 ** tv
 *** Season 4 :1967:
@@ -265,7 +271,7 @@ Old Steven 3/3
 
 (总4集, 第1、4集遗失, 未做中文字幕)
 
-**** DONE 04x06 The Moonbase :cyberman:fan_edit:animated:P2014:P1966:
+**** DONE 04x06 The Moonbase :Cybermen:fan_edit:animated:P2014:P1966:
 
 Episode 1, 3 missing (but animated in 2014)
 
@@ -311,7 +317,7 @@ Episode 2,4,5,6 missing (but all episodes animated in 2020)
 -  字幕文件下载: [[https://secure.assrt.net/xml/sub/623/623426.xml]]
 
 *** Season 5 :1968:
-**** DONE 05x01 The Tomb of the Cybermen :cyberman:fan_edit:
+**** DONE 05x01 The Tomb of the Cybermen :Cybermen:fan_edit:
 
 粉丝剪辑版
 
@@ -363,7 +369,7 @@ CLOSED: <2021-03-25 Thu 07:29>
 
 2020年BBC制作发行了动画重制版本
 
-**** +05x07 The Wheel in Space+ :cyberman:missing:Zoe:
+**** +05x07 The Wheel in Space+ :Cybermen:missing:Zoe:
 
 (总6集, 仅幸存3、6，未做中文字幕)
 
@@ -384,7 +390,7 @@ CLOSED: <2021-03-25 Thu 07:29>
 -  微博介绍: [[https://m.weibo.cn/1910110560/4353356472354914]]
 -  字幕文件下载: [[https://secure.assrt.net/xml/sub/624/624278.xml]]
 
-**** DONE 06x03 The Invasion (of the Cybermen) :cyberman:fan_edit:
+**** DONE 06x03 The Invasion (of the Cybermen) :Cybermen:fan_edit:
 
 UNIT 和 准将第一次正式出场
 
@@ -538,7 +544,7 @@ CLOSED: <2021-07-30 Fri 16:14>
 :rating:   7.5
 :END:
 
-**** READY [#C] 6.8 - The Selachian Gambit :Polly:Jamie:plot_yes:D2022_06_doctor:
+**** READY [#C] 6.8 - The Selachian Gambit :Polly:Jamie:plot_yes:D2022_08_doctor:
 :PROPERTIES:
 :rating:   7.7
 :END:
@@ -586,7 +592,7 @@ SCHEDULED: <2021-10-03 Sun>
 :rating:   7.3
 :END:
 
-***** [#B] CC12.4 - The Tactics of Defeat :Ruth:Zoe:UNIT:
+***** [#B] CC12.4 - The Tactics of Defeat :Ruth:Zoe:UNIT:D2022_06_spinoffs:
 :PROPERTIES:
 :rating:   8.1
 :END:
@@ -597,12 +603,12 @@ SCHEDULED: <2021-10-03 Sun>
 ***** 14.3 The Prints of Denmark
 ***** 14.4 The Deepest Tragedian
 *** misc
-**** [#D] 4.2 - The Queen of Time :Jamie:Zoe:plot_yes:
+**** [#D] 4.2 - The Queen of Time :Jamie:Zoe:plot_yes:D2022_08_doctor:
 :PROPERTIES:
 :rating:   7.4
 :END:
 
-**** NEXT [#B] LS4.3 - Lords of the Red Planet :ice_warriors:D2022_06_doctor:plot_yes:
+**** NEXT [#B] LS4.3 - Lords of the Red Planet :ice_warriors:D2022_08_doctor:plot_yes:
 :PROPERTIES:
 :rating:   8.2
 :END:
@@ -772,7 +778,7 @@ Inferno
 :END:
 
 **** [#A] 7.2 The Gulf :P2021:Sarah:D2022_05_doctor:
-SCHEDULED: <2022-05-21 Sat>
+SCHEDULED: <2022-05-28 Sat>
 :PROPERTIES:
 :rating:   8.7
 :END:
@@ -895,7 +901,7 @@ SCHEDULED: <2022-03-30 Wed>
 :rating:   7.5
 :END:
 
-**** [#C] CC7.12 - Council of War :Benton:Brigadier:
+**** [#C] CC7.12 - Council of War :Benton:Brigadier:D2022_07_doctor:
 :PROPERTIES:
 :rating:   7.7
 :END:
@@ -1052,8 +1058,11 @@ CLOSED: [2020-06-28 Sun 13:30]
 ***** DONE [#C] 1.2 The Renaissance Man †7.5)
 CLOSED: [2020-08-07 Fri 18:25]
 
-***** DONE [#B] 1.3 The Wrath of the Iceni †8.4) (w' scripting📄)
+***** DONE [#B] 1.3 The Wrath of the Iceni :scripted:
 CLOSED: [2020-06-23 Tue 09:05]
+:PROPERTIES:
+:rating:   8.4
+:END:
 
 ***** DONE [#D] 1.5 - Trail of the White Worm (7.3) :Master_decayed:
 CLOSED: <2020-08-17 Mon 10:54>
@@ -1149,7 +1158,7 @@ CLOSED: <2021-07-01 Thu 16:39>
 ***** [#D] 6.5 - The Haunting of Malkin Place (7.4)
 ***** [#D] 6.8 - The Skin of the Sleek (7.2)
 **** 4DA series 7 :Leela:P2018:
-***** TODO [#C] 7.1 The Sons of Kaldor (7.7) :Kaldor:Robots:
+***** TODO [#C] 7.1 The Sons of Kaldor (7.7) :Kaldor:Robots:D2022_08_doctor:
 ***** [#C] 7.2 The Crowmarsh Experiment (7.6)
 ***** [#C] 7.6 The Bad Penny (7.5)
 ***** TODO [#C] 7.7/7.8 - Kill the Doctor! / The Age of Sutekh (7.8/7.0) :Sutekh:
@@ -1202,10 +1211,15 @@ CLOSED: [2020-07-15 Wed 19:13]
 *** BF The Lost Stories
 **** [#A] LS 2.07 - The Foe from the Future  8.9 :Leela:
 **** [#C] LS 2.08 - The Valley of Death 7.7 :Leela:
-**** READY [#B] LS6.1 - Return of the Cybermen
+**** READY [#B] LS6.1 - Return of the Cybermen :Cybermen:D2022_08_doctor:
 :PROPERTIES:
 :rating:   8.1
 :END:
+
+
+《赛博人回归》（Return of the Cybermen）是赛博人亲爹之一的Gerry Davis当年写给《神秘博士》老版第12季（1974）的剧本，之后由当时的剧本编辑（职能类似总编剧）Robert Holmes大幅度改编，最终拍成了《赛博人的复仇》（1205）。如今，这个剧本被大完结制作（Big Finish Production）委托编剧John Dorney改编成广播剧。
+
+对比改编版，本故事基调更为黑暗和恐怖，更会让人联想到幽闭恐惧症。
 
 **** [#A] LS6.2 - The Doomsday Contract
 :PROPERTIES:
@@ -1245,6 +1259,8 @@ thetimescales 上32/33认为需要先听前面的故事
 
 15 out of 16 (93.8%) raters say this story requires a previous story.
 
+**** NA03 - The Romance of Crime †8.0) :🎧:
+**** NA05 - The Well-Mannered War †8.1) :🎧:
 *** BF shorts :🎧:audiobook:
 **** Companion Chronicles
 ***** [#C] CC2.4 - The Catalyst †7.9
@@ -1308,9 +1324,7 @@ CLOSED: [2020-07-19 Sun 23:00]
 分享了#Doctor Who Audiobooks#的节目《2019-01 - Scratchman (BBC Physical Audio - Baker)》:  http://music.163.com/program/2065027170/89011524/?userid=88763995  (来自@网易云音乐)
 
 *** [#C] The Romance of Crime (MA06) 3.88 :Romana2:
-**** novel adaptation 03 - The Romance of Crime †8.0) :🎧:
 *** TODO [#C] The English Way Of Death (MA20) 3.87 :Romana2:
-**** novel adaptation 05 - The Well-Mannered War †8.1) :🎧:
 *** TODO [#A] The Well Mannered War (MA33) 4.00 :Romana2:
 **** novel adaptation 04 - The English Way of Death †7.9) :🎧:
 * no doctor :no_doctor:

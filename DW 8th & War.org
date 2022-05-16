@@ -8,7 +8,7 @@ CLOSED: [2020-08-11 Tue 08:46]
 :rating:   7.7
 :END:
 
-***** DONE [#E] 017 - Sword Of Orion :cybermen:D2022_06_doctor:
+***** DONE [#E] 017 - Sword Of Orion :cybermen:D2022_08_doctor:
 CLOSED: [2020-08-18 Tue 08:19]
 :PROPERTIES:
 :rating:   6.9
@@ -170,7 +170,7 @@ CLOSED: [2021-03-22 Mon 22:31]
 :rating:   8.4
 :END:
 
-***** 2DONE [#A] 153 Silver Turk :Mary:cyberman:plot_yes:
+***** 2DONE [#A] 153 Silver Turk :Mary:Cybermen:plot_yes:
 CLOSED: <2021-03-20 Sat 21:30>
 :PROPERTIES:
 :rating:   8.6
@@ -203,7 +203,7 @@ CLOSED: [2021-06-04 Fri 07:34]
 :rating:   7.0
 :END:
 
-**** [#E] CPFA 1.4 Heart of Orion :D2022_06_doctor:Cybermen:
+**** [#E] CPFA 1.4 Heart of Orion :D2022_08_doctor:Cybermen:
 :PROPERTIES:
 :rating:   6.8
 :END:
@@ -408,22 +408,22 @@ SCHEDULED: <2022-02-28 Mon>
 :END:
 
 **** DC vol.2 :Helen:
-***** [#D] 2.1 - Beachhead
+***** [#D] 2.1 - Beachhead :D2022_06_doctor:
 :PROPERTIES:
 :rating:   7.1
 :END:
 
-***** [#C] 2.2 - Scenes from Her Life
+***** [#C] 2.2 - Scenes from Her Life :D2022_06_doctor:
 :PROPERTIES:
 :rating:   7.5
 :END:
 
-***** [#E] 2.3 - The Gift
+***** [#E] 2.3 - The Gift :D2022_08_doctor:
 :PROPERTIES:
 :rating:   6.8
 :END:
 
-***** [#E] 2.4 - The Sonomancer
+***** [#E] 2.4 - The Sonomancer :D2022_08_doctor:
 :PROPERTIES:
 :rating:   6.9
 :END:
@@ -472,15 +472,15 @@ SCHEDULED: <2022-02-28 Mon>
 
 *** Ravenous :Liv:
 **** Ravenous vol.1
-***** READY 1.1 Their Finest Hour
+***** READY 1.1 Their Finest Hour :bilibili:
 
 【【神秘博士广播剧汉化】博士与丘吉尔的再次相遇 Ravenous 101 Their Finest Hour-哔哩哔哩】 https://b23.tv/d59He2Z
 
-***** READY 1.2 How to Make a Killing in Time
+***** READY 1.2 How to Make a Killing in Time :bilibili:
 
 【【神秘博士广播剧汉化】如何在时间旅行中杀人 Ravenous 102 How to Make a Killing in Time Travel-哔哩哔哩】 https://b23.tv/Mk7EzIp
 
-***** [#D] 1.3 - World of Damnation
+***** [#D] 1.3 - World of Damnation :Helen:
 :PROPERTIES:
 :rating:   7.1
 :END:
@@ -496,22 +496,26 @@ SCHEDULED: <2022-02-28 Mon>
 :rating:   7.2
 :END:
 
-***** [#B] 2.2 - Better Watch Out
+***** [#B] 2.2 - Better Watch Out :bilibili:
 :PROPERTIES:
 :rating:   8.2
 :END:
 
-***** [#B] 2.3 - Fairytale of Salzburg
+【【神秘博士广播剧汉化】恶魔降临之日 Ravenous 202 Better Watch Out-哔哩哔哩】 https://b23.tv/vpmqJSH
+
+***** [#B] 2.3 - Fairytale of Salzburg :bilibili:
 :PROPERTIES:
 :rating:   8.3
 :END:
+
+【【神秘博士广播剧汉化】童话成真 Ravenous 203 Fairytale of Salzburg-哔哩哔哩】 https://b23.tv/d8zLcw8
 
 ***** [#C] 2.4 - Seizure
 :PROPERTIES:
 :rating:   7.1
 :END:
 
-**** Ravenous vol.3
+**** Ravenous vol.3 :Helen:
 ***** [#C] 3.1 - Deeptime Frontier
 
 :PROPERTIES:
@@ -519,7 +523,6 @@ SCHEDULED: <2022-02-28 Mon>
 :END:
 
 ***** [#A] 3.2 - Companion Piece
-
 :PROPERTIES:
 :rating:   8.9
 :END:
@@ -535,7 +538,7 @@ SCHEDULED: <2022-02-28 Mon>
 :END:
 
 **** Ravenous vol.4 :Helen:scripted:
-***** [#d] 4.1 - Whisper
+***** [#D] 4.1 - Whisper
 :PROPERTIES:
 :rating:   7.3
 :END:
@@ -585,6 +588,8 @@ SCHEDULED: <2022-02-28 Mon>
 
 【【神秘博士广播剧汉化】“博士”到底是谁 Stranded 204 The Long Way Round-哔哩哔哩】 https://b23.tv/SGbYhvK
 
+**** Stranded vol.3
+**** Stranded vol.4
 *** 8D Time War
 *** misc :short:
 **** [#C] ST2.8 - Letting Go
@@ -633,21 +638,10 @@ http://blog.sina.cn/dpool/blog/s/blog_6c777581010185u0.html?type=2
 *** Titan
 * misc
 ** War Master :Master_war:
-*** [#C] Concealed Weapon (Diary Of River Song 5.4)
-:PROPERTIES:
-:rating:   7.6
-:END:
-
-1 out of 25 (4.0%) raters say this story requires a previous story.
-
-*** BLOCKED [#B] Master of Worlds (UNIT The New Series 6.4)
-:PROPERTIES:
-:rating:   8.4
-:END:
-
-7 out of 8 (87.5%) raters say this story requires a previous story.
-
 * Last Great Time War timeline :time_war:
+
+https://tardis.fandom.com/wiki/Theory:Timeline_-_Last_Great_Time_War
+
 ** 概述： The Complete Story of 'The Time War'
 
 https://www.youtube.com/watch?v=Ft-aZtM_qlo&t=533s
@@ -659,30 +653,13 @@ https://www.youtube.com/watch?v=Ft-aZtM_qlo&t=533s
 *** TV: Genesis of the Daleks (12x04)
 *** TV: Resurrection of the Daleks (21x04)
 *** TV: Remembrance of the Daleks (25x01)
-*** Dalek Empire 0
-**** [#D] MR07 The Genocide Machine :7th_Dr:
-:PROPERTIES:
-:rating:   7.0
-:END:
-
-**** DONE [#D] MR11 The Apocalypse Element :6th_Dr:
+*** DONE [#D] MR11 The Apocalypse Element :6th_Dr:
 CLOSED: <2020-11-07 Sat 18:41>
 :PROPERTIES:
 :rating:   7.0
 :END:
 
 The Daleks attack Gallifrey, and imprison Romana for twenty years.
-
-**** DONE [#D] MR15 The Mutant Phase :5th_Dr:
-:PROPERTIES:
-:rating:   7.0
-:END:
-
-**** CANCEL [#E] MR32 The Time of the Daleks :8th_Dr:
-CLOSED: [2020-12-18 Fri 12:20]
-:PROPERTIES:
-:rating:   6.2
-:END:
 
 *** PROSE: Birth of a Legend (Heroes and Monsters Collection) :📄:
 *** Gallifrey (Daleks+Axis) :🎧:
@@ -713,108 +690,129 @@ CLOSED: [2020-12-26 Sat 09:41]
 CLOSED: [2020-12-27 Sun 08:30]
 
 ** The First Segment of the War
-*** Gallifrey: Time War vol.1
-**** DONE Celestial Intervention (Gallifrey: Time War #1.1)
+*** First timeline
+**** TODO MR269/270 Shadow of the Daleks :5th_Dr:
+**** DONE GTW1.1 Celestial Intervention
 CLOSED: <2020-11-06 Fri 20:12>
 
-**** DONE Soldier Obscura (Gallifrey: Time War #1.2)
+**** Father of the Daleks (short story)
+*** Timeline established after shifting at beginning
+**** 8D misc
+***** PROSE: Natural Regression (The Scientific Secrets of Doctor Who #9)
+***** DONE [#C] The Sontaran Ordeal (CDNM #1.4)
+CLOSED: [2020-09-23 Wed 12:53]
+:PROPERTIES:
+:rating:   7.7
+:END:
+
+***** DONE [#C] Day of the Vashta Nerada (CDNM #2.4)
+CLOSED: [2020-09-23 Wed 12:53]
+:PROPERTIES:
+:rating:   7.8
+:END:
+
+***** DONE PROSE: Museum Peace
+CLOSED: [2020-09-23 Wed 12:53]
+
+***** DONE COMIC: The Forgotten (8D part)
+CLOSED: [2020-09-23 Wed 12:53]
+
+**** DONE GTW1.2 Soldier Obscura (Gallifrey: Time War #1.2)
 CLOSED: <2020-11-07 Sat 10:33>
 
-**** DONE The Devil You Know (Gallifrey: Time War #1.3) :Master_war:
-CLOSED: <2020-11-09 Mon 10:30>
-
-**** DONE Desperate Measures (Gallifrey: Time War #1.4) :Rassilon:
-CLOSED: [2020-11-09 Mon 18:14]
-
-*** The War Master series 3: Rage of the Time Lords :Master_war:scripted:
-**** DONE [#C] The Survivor (The War Master #3.1)
+**** The War Master series 3: Rage of the Time Lords :Master_war:scripted:
+***** DONE [#C] The Survivor (The War Master #3.1)
 CLOSED: <2020-12-30 Wed 07:42>
 :PROPERTIES:
 :rating:   7.5
 :END:
 
-**** DONE [#E] The Coney Island Chameleon (The War Master #3.2)
+***** DONE [#E] The Coney Island Chameleon (The War Master #3.2)
 CLOSED: <2020-11-12 Thu 13:14>
 :PROPERTIES:
 :rating:   6.9
 :END:
 
-**** DONE [#B] The Missing Link (The War Master #3.3) :8th_Dr:
+***** DONE [#B] The Missing Link (The War Master #3.3) :8th_Dr:
 CLOSED: <2021-01-05 Tue 01:03>
 :PROPERTIES:
 :rating:   8.2
 :END:
 
-**** DONE [#B] Darkness and Light (The War Master #3.4) :8th_Dr:
+***** DONE [#B] Darkness and Light (The War Master #3.4) :8th_Dr:
 CLOSED: [2021-01-06 Wed 09:03]
 :PROPERTIES:
 :rating:   8.5
 :END:
 
-*** Lies in Ruins (The Legacy of Time) :8th_Dr:bilibili:Benny:
+**** [#C] Concealed Weapon (Diary Of River Song 5.4)
+:PROPERTIES:
+:rating:   7.6
+:END:
+
+1 out of 25 (4.0%) raters say this story requires a previous story.
+
+**** Lies in Ruins (The Legacy of Time) :8th_Dr:bilibili:Benny:
 
 【【自制字幕】神秘博士BF特辑宋江八叔历险记-哔哩哔哩】https://b23.tv/vLRN31
 
-*** Master of Worlds (UNIT new #6.4) :Master_war:
-*** The War Master series 4: Anti-Genesis :Master_war:scripted:
-**** DONE [#B] 4.1 From the Flames :has_plot:D2021_10_master:
+**** TODO The War Master series 5: Hearts of Darkness
+***** [#B] 5.1 - The Edge of Redemption
+:PROPERTIES:
+:rating:   8.1
+:END:
+
+***** [#C] 5.2 - The Scaramancer
+:PROPERTIES:
+:rating:   7.9
+:END:
+
+***** [#A] 5.3 - The Castle of Kurnos 5
+:PROPERTIES:
+:rating:   8.6
+:END:
+
+***** [#A] 5.4 - The Cognition Shift
+:PROPERTIES:
+:rating:   8.9
+:END:
+
+**** Master of Worlds (UNIT new #6.4) :Master_war:
+**** The War Master series 4: Anti-Genesis :Master_war:scripted:
+***** DONE [#B] 4.1 From the Flames :has_plot:D2021_10_master:
 CLOSED: <2021-01-16 Sat 22:52>
 :PROPERTIES:
 :rating:   8.2
 :END:
 
-**** DONE [#A] 4.2 The Master's Dalek Plan :D2021_10_master:
+***** DONE [#A] 4.2 The Master's Dalek Plan :D2021_10_master:
 CLOSED: <2021-01-18 Mon 22:53>
 :PROPERTIES:
 :rating:   8.7
 :END:
 
-**** 3QTR [#A] 4.3 Shockwave :Master_unbound:D2021_11_master:
+***** 3QTR [#A] 4.3 Shockwave :Master_unbound:D2021_11_master:
 CLOSED: <2021-11-16 Tue 14:35> SCHEDULED: <2021-11-13 Sat>
 :PROPERTIES:
 :rating:   4.3
 :END:
 
-**** 3QTR [#A] 4.4 He Who Wins :Master_unbound:D2021_11_master:
+*** Timeline made after Anti-Genesis cascade
+**** 3QTR [#A] WM4.4 He Who Wins :Master_unbound:D2021_11_master:
 CLOSED: [2021-11-16 Tue 19:56] SCHEDULED: <2021-11-13 Sat>
 :PROPERTIES:
 :rating:   9.4
 :END:
 
-*** TODO The War Master series 5: Hearts of Darkness
-**** [#B] 5.1 - The Edge of Redemption
-:PROPERTIES:
-:rating:   8.1
-:END:
-
-**** [#C] 5.2 - The Scaramancer
-:PROPERTIES:
-:rating:   7.9
-:END:
-
-**** [#A] 5.3 - The Castle of Kurnos 5
-:PROPERTIES:
-:rating:   8.6
-:END:
-
-**** [#A] 5.4 - The Cognition Shift
-:PROPERTIES:
-:rating:   8.9
-:END:
-
-*** TODO The War Master series 6: Killing Time
-**** 6.1 - The Sincerest Form of Flattery
-**** 6.2 - A Quiet Night In
-**** 6.3 - The Orphan
-**** 6.4 - Unfinished Business
-*** The War Master series 1: Only the Good :🎧:Master_war:scripted:
-**** DONE [#B] Beneath the Viscoid :plot_yes:D2021_07_extra:
+**** DONE [#B] WM1.1 Beneath the Viscoid :plot_yes:D2021_07_extra:
 CLOSED: [2020-12-18 Fri 12:30]
 :PROPERTIES:
 :rating:   8.1
 :END:
 
-**** ↗The Devil You Know (Gallifrey: Time War #1.3) :D2021_07_extra:
+**** DONE GTW1.3 The Devil You Know (Gallifrey: Time War #1.3) :Master_war:
+CLOSED: <2020-11-09 Mon 10:30>
+
 **** 3QTR [#C] WM1.2 The Good Master :D2021_08_extra:
 :PROPERTIES:
 :rating:   7.8
@@ -826,60 +824,30 @@ CLOSED: [2021-09-24 Fri 18:50] SCHEDULED: <2021-09-04 Sat>
 :rating:   9.2
 :END:
 
+**** DONE GTW1.4 Desperate Measures (Gallifrey: Time War #1.4) :Rassilon:
+CLOSED: [2020-11-09 Mon 18:14]
+
+**** Damaged Goods
+
+The N-Forms receive an activation call, setting this after Desperate Measures
+
+**** A Heart on Both Sides (Short Trips #7.9)
+**** TODO The War Master series 6: Killing Time
+***** 6.1 - The Sincerest Form of Flattery
+***** 6.2 - A Quiet Night In
+***** 6.3 - The Orphan
+***** 6.4 - Unfinished Business
 **** DONE [#A] WM1.4 The Heavenly Paradigm :D2021_09_extra:
 CLOSED: [2020-12-24 Thu 15:51] SCHEDULED: <2021-09-28 Tue>
 :PROPERTIES:
 :rating:   9.0
 :END:
 
-*** DONE PROSE: The Third Wise Man :War_Doctor:
+**** DONE PROSE: The Third Wise Man :War_Doctor:
 CLOSED: <2019-10-29 Tue 13:59>
 
-*** PROSE: The Stranger :War_Doctor:
+**** PROSE: The Stranger :War_Doctor:
 ** Rassilon's Return
-*** Gallifrey: Time War vol.2 :P2019:
-**** DONE Havoc
-CLOSED: [2020-11-12 Thu 07:48]
-
-**** DONE Partisans
-CLOSED: [2020-11-12 Thu 07:48]
-
-**** DONE Collateral
-CLOSED: [2020-11-12 Thu 07:48]
-
-**** DONE Assassins
-CLOSED: [2020-11-12 Thu 07:48]
-
-*** Gallifrey: Time War vol.3 :P2020:
-**** DONE Hostiles
-CLOSED: [2020-12-17 Thu 19:53]
-
-**** DONE Nevernor
-CLOSED: [2020-12-17 Thu 19:53]
-
-**** DONE Mother Tongue
-CLOSED: [2020-12-17 Thu 19:53]
-
-**** DONE Unity
-CLOSED: <2020-12-17 Thu 19:57>
-
-*** Susan's War :Susan:
-**** DONE All Hands on Deck (Short Trips #7.10) :8th_Dr:bilibili:
-CLOSED: [2020-09-23 Wed 12:53]
-
-【【翻译】Big Finish神秘博士八叔Time War短篇有声书 - 严阵以待 第一部分-哔哩哔哩】https://b23.tv/zhgkAz 
-
-**** Prequel
-**** 1. Sphere of Influence
-**** 2. The Uncertain Shore :bilibili:
-
-【【神秘博士广播剧汉化】Susan's War 苏珊的战争 102 The Uncertain Shore-哔哩哔哩】https://b23.tv/WenJUb
-
-**** 3. Assets of War :bilibili:
-
-【【神秘博士广播剧汉化】Susan's War 苏珊的战争 103 Assets of War-哔哩哔哩】https://b23.tv/rjUz2u
-
-**** 4. The Shoreditch Intervention
 *** 8D Time War vol.1 :P2017:scripted:
 **** DONE [#B] The Starship of Theseus
 CLOSED: <2019-09-23 Mon 12:53>
@@ -905,6 +873,50 @@ CLOSED: [2020-09-23 Wed 12:53]
 :rating:   7.9
 :END:
 
+*** Gallifrey: Time War vol.2 :P2019:
+**** DONE Havoc
+CLOSED: [2020-11-12 Thu 07:48]
+
+**** DONE Partisans
+CLOSED: [2020-11-12 Thu 07:48]
+
+**** DONE Collateral
+CLOSED: [2020-11-12 Thu 07:48]
+
+**** DONE Assassins
+CLOSED: [2020-11-12 Thu 07:48]
+
+*** Gallifrey: Time War vol.3 :P2020:
+**** DONE Hostiles
+CLOSED: [2020-12-17 Thu 19:53]
+
+**** DONE Nevernor
+CLOSED: [2020-12-17 Thu 19:53]
+
+**** DONE Mother Tongue
+CLOSED: [2020-12-17 Thu 19:53]
+
+*** Susan's War :Susan:
+**** Dalek Combat Training Manual (novel)
+**** DONE All Hands on Deck (Short Trips #7.10) :8th_Dr:bilibili:
+CLOSED: [2020-09-23 Wed 12:53]
+
+【【翻译】Big Finish神秘博士八叔Time War短篇有声书 - 严阵以待 第一部分-哔哩哔哩】https://b23.tv/zhgkAz 
+
+**** Prequel
+**** READY 1. Sphere of Influence :bilibili:
+
+【【神秘博士广播剧汉化】Susan's War 苏珊的战争 101 Sphere of Influence-哔哩哔哩】 https://b23.tv/qIYe1v0
+
+**** READY 2. The Uncertain Shore :bilibili:
+
+【【神秘博士广播剧汉化】Susan's War 苏珊的战争 102 The Uncertain Shore-哔哩哔哩】https://b23.tv/WenJUb
+
+**** READY 3. Assets of War :bilibili:
+
+【【神秘博士广播剧汉化】Susan's War 苏珊的战争 103 Assets of War-哔哩哔哩】https://b23.tv/rjUz2u
+
+**** 4. The Shoreditch Intervention
 *** 8D Time War vol.2 :P2018:scripted:
 **** 2DONE [#C] 2.1 The Lords of Terror
 CLOSED: [2020-12-09 Wed 19:04]
@@ -974,45 +986,65 @@ CLOSED: <2021-11-26 Fri 09:50> DEADLINE: <2021-11-26 Fri 21:54> SCHEDULED: <2021
 :END:
 
 *** 8D in Time War misc
-**** DONE PROSE: Museum Peace
-CLOSED: [2020-09-23 Wed 12:53]
-
-**** DONE COMIC: The Forgotten (8D part)
-CLOSED: [2020-09-23 Wed 12:53]
-
-**** PROSE: Natural Regression (The Scientific Secrets of Doctor Who #9)
-**** DONE [#C] The Sontaran Ordeal (CDNM #1.4)
-CLOSED: [2020-09-23 Wed 12:53]
-:PROPERTIES:
-:rating:   7.7
-:END:
-
 **** DONE The Rulers of the Universe (DoRS #1.4)
 CLOSED: [2020-09-23 Wed 12:53]
 
-**** DONE [#C] Day of the Vashta Nerada (CDNM #2.4)
-CLOSED: [2020-09-23 Wed 12:53]
-:PROPERTIES:
-:rating:   7.8
-:END:
-
-**** A Heart on Both Sides (Short Trips #7.9)
 ** The War Doctor begins
 *** DONE The Night of the Doctor
 CLOSED: [2020-09-23 Wed 14:01]
 
-** The War Doctor
-*** READY [#A] Engines of War /战争引擎 (novel) :📔:己购:
-:PROPERTIES:
-:rating:   4.04
-:END:
+*** vol.1 Forged in Fire :P2021_06:
+**** [#B] 1.1 - Light the Flame
+**** [#D] 1.2 - Lion Hearts
+**** [#B] 1.3 - The Shadow Squad
+*** Four Doctors (comic)
 
+The young looking War Doctor makes a decision. In one outcome, he ends up a Dalek spy.
+
+*** DONE The Clockwise War (comic) :War_Doctor:12th_Dr:
+*** Gallifrey: Time War vol.4
+**** DONE GTW3.4 Unity
+CLOSED: <2020-12-17 Thu 19:57>
+
+**** 4.1 Deception
+**** 4.2 Dissolution
+**** 4.3 Beyond
+**** 4.4 Homecoming
+*** vol.2 Warbringer :P2021_12:
+**** [#D] 2.1 - Consequences
+**** [#D] 2.2 - Destroyer
+**** [#D] 2.3 - Saviour
+*** vol.3 Battlegrounds :P2022_05:
+**** 3.1 - The Keeper of Light
+**** 3.2 - Temmosus
+**** 3.3 - Rewind
+*** Ambush (comic)
+** The War Doctor
 *** 11DY2 (comics)
 *** The War Doctor vol.1 :scripted:
 *** The War Doctor vol.2 :scripted:
 *** The War Doctor vol.3 :scripted:
 *** The War Doctor vol.4 :scripted:
+*** READY [#A] Engines of War /战争引擎 (novel) :📔:己购:
+:PROPERTIES:
+:rating:   4.04
+:END:
+
+*** The Bidding War (comic) :War_Doctor:9th_Dr:
 ** The Fall of Arcadia
+*** DONE The Last Day
+*** Sky Jacks (comic)
+
+Priyan tells Engin that Rassilon is initiating the Ultimate Sanction, placing it just before The End of Time.
+
+*** The End of Time
 *** tv: The Day of the Doctor
 *** Novel: The Day of the Doctor :🛒:
 ** Aftermath
+*** 1x01 Rose
+*** 1x06 Dalek
+*** Bad Wolf / The Parting of the Ways
+*** The Time of the Doctor
+
+The Siege of Trenzalore is viewed by some as the true final battle of the Time War. 
+

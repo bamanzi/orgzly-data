@@ -26,7 +26,7 @@ https://pax-ltd.livejournal.com/9681.html
       :rating:   8.0
       :END:
 
-***** TODO [#B] TW4. One Rule :Yvonne:D2021_09_extra:overdue:
+***** TODO [#B] TW4. One Rule :Yvonne:D2022_06_spinoffs:
       SCHEDULED: <2021-11-05 Fri>
       :PROPERTIES:
       :rating:   8.1
@@ -163,7 +163,7 @@ The streets of Soho are swarming with gangsters, rumours and betrayals. Somew
       :rating:   9.6
       :END:
 
-**** series 5 :P2019:
+**** series 5 (25-36) :P2019:
 ***** CANCEL [#E] +25 Night of the Fendahl+
       :PROPERTIES:
       :rating:   6.8
@@ -249,7 +249,7 @@ Sebastian Vaughan is the brightest, newest recruit to Torchwood. He's come fro
       :rating:   8.9
       :END:
 
-**** series 6 :P2020:
+**** series 6 (37-48) :P2020:
 ***** 2DONE [#A] 37 Tropical Beach Sounds and Other Relaxing Seascapes #4 [#S]
       :PROPERTIES:
       :rating:   9.3
@@ -327,13 +327,13 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
       :rating:   7.2
       :END:
 
-***** START [#B] 48. Lease of Life :Owen:D2022_05_spinoffs:
-      SCHEDULED: <2022-05-21 Sat>
+***** HALF [#B] 48. Lease of Life :Owen:D2022_05_spinoffs:
+      SCHEDULED: <2022-05-14 Sat>
       :PROPERTIES:
       :rating:   8.3
       :END:
 
-**** series 7
+**** series 7 (49-60) :P2021:
 ***** [#A] 49. Gooseberry :Owen:Andy:
       :PROPERTIES:
       :rating:   8.7
@@ -523,7 +523,7 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
       :rating:   6.3
       :END:
 
-**** vol.3
+**** vol.3 :P2020:
 ***** HALF [#B] Crush :D2021_07_extra:Jackie:
       :PROPERTIES:
       :rating:   8.2
@@ -545,7 +545,7 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
 
 *** Torchwood One
 **** Torchwood One: Before the Fall :P2017:
-***** READY [#B] 1.1 New Girl
+***** READY [#B] 1.1 New Girl :D2022_06_spinoffs:
       :PROPERTIES:
       :rating:   8.2
       :END:
@@ -746,8 +746,12 @@ Roberts Master
 **** DONE [#C] 6.1 An Unearthly Woman (7.5) :1st_Dr:Susan:Ian:D2021_10_extra:
      CLOSED: [2021-11-03 Wed 19:51] SCHEDULED: <2021-11-03 Wed>
 
-**** [#D] 6.2 The Web of Time             (7.0) :great_intelligence:
-**** CANCEL [#E] +6.3 Peepshow  (6.7)+
+**** [#D] 6.2 The Web of Time             (7.0) :great_intelligence:D2022_06_spinoffs:
+**** CANCEL [#E] +6.3 Peepshow+
+     :PROPERTIES:
+     :rating:   6.5
+     :END:
+
 **** START [#C] 6.4 The Talents of Greel        (7.8) :Jago:D2022_Q2:
 *** DoRS 7 :P2020:
 **** [#C] 7.1 Colony of Strangers         (7.7)
@@ -835,14 +839,14 @@ Roberts Master
     :END:
 
 ** J&L series 6 :P2013:
-*** HALF [#C] J&L6.1 - The Skeleton Quay (7.8) :D2022_05_spinoffs:week2:
+*** HALF [#C] J&L6.1 - The Skeleton Quay (7.8) :D2022_05_spinoffs:
     SCHEDULED: <2022-05-07 Sat>
 
-*** [#D] J&L6.2 - Return of the Repressed         (7.1) :D2022_05_spinoffs:week3:
+*** [#D] J&L6.2 - Return of the Repressed         (7.1) :D2022_05_spinoffs:
     SCHEDULED: <2022-05-28 Sat>
 
-*** [#D] 6.3 - Military Intelligence           (7.4)
-*** [#C] 6.4 - The Trial of George Litefoot    (7.8)
+*** [#D] 6.3 - Military Intelligence           (7.4) :D2022_06_spinoffs:
+*** [#C] 6.4 - The Trial of George Litefoot    (7.8) :D2022_06_spinoffs:
 ** J&L series 7 :P2014:
 *** [#B] 7.1 The Monstrous Menagerie           (8.1)
 *** [#D] 7.2 The Night of 1000 Stars           (7.2)
@@ -1067,23 +1071,24 @@ Roberts Master
 *** Series 9
 *** Series 10
 *** Series 11
-*** Boxset 1: Epoch :P2011:
-**** [#B] 1.1 The Kraken's Lament :Jack_McSpringheel:
+** Bernice Summerfield (boxset)
+*** Boxset 1: Epoch :P2011:Atlantis:
+**** [#B] 1.1 The Kraken's Lament :Jack_McSpringheel:D2022_06_spinoffs:
      :PROPERTIES:
      :rating:   7.9
      :END:
 
-**** [#B] 1.2 The Temple of Questions :Ruth:
+**** [#B] 1.2 The Temple of Questions :Ruth_Leonidas:D2022_06_spinoffs:
      :PROPERTIES:
      :rating:   8.0
      :END:
 
-**** [#C] 1.3 Private Enemy No. 1 :Ruth:
+**** [#C] 1.3 Private Enemy No. 1 :Ruth_Leonidas:
      :PROPERTIES:
      :rating:   7.8
      :END:
 
-**** [#B] 1.4 Judgement Day :Jack_McSpringheel:Ruth:
+**** [#B] 1.4 Judgement Day :Jack_McSpringheel:Ruth_Leonidas:
      :PROPERTIES:
      :rating:   8.3
      :END:
@@ -1223,8 +1228,8 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
     :END:
 
 ** Missy series 2 :🎧:Master_missy:
-*** START [#A] 2.1 - The Lumiat :D2022_07_spinoffs:plot_yes:week4:
-    SCHEDULED: <2022-05-14 Sat>
+*** HALF [#A] 2.1 - The Lumiat :D2022_05_spinoffs:plot_yes:week4:
+    SCHEDULED: <2022-05-21 Sat>
     :PROPERTIES:
     :rating:   8.8
     :END:
@@ -1424,7 +1429,7 @@ The Great War was the name used by the Daleks to identify a series of galac
 **** OVERDUE comics: The Only Good Dalek :D2021_11:📚:
      SCHEDULED: <2021-11-28 Sun>
 
-**** START [#E] +LS2.2 The Destroyers+ :D2021_11_dalek:Sara_Kingdom:Mark_7:plot_yes:
+**** HALF [#E] +LS2.2 The Destroyers+ :D2021_11_dalek:Sara_Kingdom:Mark_7:plot_yes:
      SCHEDULED: <2021-11-06 Sat>
      :PROPERTIES:
      :rating:   6.7
@@ -1653,7 +1658,7 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
 *** [#C] 2.3 The Battle of the Tower (7.5)
 *** [#D] 2.4 Ice Station Alpha (7.3)
 ** UNIT 3: Silenced :P2016:
-*** HALF [#B] 3.1 House of Silents (8.2) :D2022_06_spinoffs:
+*** HALF [#B] 3.1 House of Silents (8.2)
 *** START [#B] 3.2 Square One (8.4)
 *** [#A] 3.3 Silent Majority (8.5)
 *** [#C] 3.4 In Memory Alone (7.5)
@@ -1673,13 +1678,13 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
     :rating:   7.4
     :END:
 
-*** START [#C] 5.3 - The Sontaran Project :D2022_05_spinoffs:
+*** START [#C] 5.3 - The Sontaran Project :Sontarans:D2022_05_spinoffs:
     SCHEDULED: <2022-05-14 Sat>
     :PROPERTIES:
     :rating:   7.5
     :END:
 
-*** [#C] 5.4 - False Negative :D2022_05_spinoffs:
+*** START [#C] 5.4 - False Negative :D2022_05_spinoffs:
     SCHEDULED: <2022-05-28 Sat>
     :PROPERTIES:
     :rating:   7.7
@@ -1707,7 +1712,7 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
 ** Nemesis 2: Agents of the Vulpreen :P2022:
 * Kaldor City / The Robots :🤖:
 ** Kaldor City
-*** [#B] KC1. Occam's Razor :D2022_Q2:
+*** [#B] KC1. Occam's Razor :D2022_06_spinoffs:
 *** 2. Death's Head
 *** 3. Hidden Persuaders
 ** The Robots (Big Finish, 2019-)
@@ -1718,13 +1723,13 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
      :rating:   7.4
      :END:
 
-**** [#B] RBT1.2 - The Sentient :D2022_05_spinoffs:
-     SCHEDULED: <2022-05-28 Sat>
+**** HALF [#B] RBT1.2 - The Sentient :D2022_05_spinoffs:
+     SCHEDULED: <2022-05-21 Sat>
      :PROPERTIES:
      :rating:   8.2
      :END:
 
-**** [#A] 1.3 - Love Me Not :D2022_06_spinoffs:
+**** [#A] 1.3 - Love Me Not :D2022_07_spinoffs:
      :PROPERTIES:
      :rating:   8.8
      :END:
@@ -1901,7 +1906,7 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
 **** [#C] 2.4 - Churchill Victorious        (7.7)
 ** Tales from New Earth :P2018:
 *** START [#D] 1.1 Escape From New New York (7.3) :D2022_05_spinoffs:
-    SCHEDULED: <2022-05-14 Sat>
+    SCHEDULED: <2022-05-21 Sat>
 
 *** [#E] 1.2 Death in the New Forest (6.9)
 *** [#D] 1.3 The Skies of New Earth (7.1)
@@ -1926,7 +1931,7 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
 **** [#D] 1.4 - Zero Space (7.0)
 *** series 2 :P2021:
 **** [#E] +2.1 - Inside the Maldorvarium+ (6.5?)
-**** [#E] +2.2 - Altered Status+ (6.8?) :Cybermen:
+**** [#E] +2.2 - Altered Status+ (6.8?) :Cybermen:D2022_06_spinoffs:
 **** [#E] +2.3 - Calamity Jenny+ (6.6)
 **** [#D] 2.4 - Her Own Wrost Enemy (7.0)
 ** Rose Tyler - The Dimension Cannon :P2019:
@@ -1941,7 +1946,11 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
 *** [#C] 4. The Chiswick Cuckoos (7.9) :10th_Dr:
 ** The Lone Centurion
 *** vol.1 :P2021:
-**** [#C] 1.1 - Gladiator              (7.9) :D2022_06_spinoffs:
+**** [#C] 1.1 - Gladiator :D2022_06_spinoffs:
+     :PROPERTIES:
+     :rating:   7.9
+     :END:
+
 **** [#C] 1.2 - The Unwilling Assassin (7.7) :D2022_07_spinoffs:
 **** [#B] 1.3 - I, Rorius              (8.7) :D2022_08_spinoffs:
 *** vol.2 :P2022_03:
