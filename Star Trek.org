@@ -1,33 +1,98 @@
-* The Original Series :TOS:
+* TOS - The Original Series :TOS:
 ** TOS tv (1966-1969) :📺:
 *** TOS S1
 
 29 episodes 
 
-**** DONE 1x08 Balance of Terror :Romulans:
+
+**** DONE [#C] 1x00. The Cage                        (7.7)             :Pike:
+**** DONE [#D] 1x01. The Man Trap                    (7.3)
+**** DONE [#D] 1x02. Charlie X                       (7.1)
+**** DONE [#C] 1x03. Where No Man Has Gone Before    (7.8)
+**** DONE [#B] 1x04. The Naked Time               (8.0)
+**** DONE [#C] 1x05. The Enemy Within                (7.8)
+**** CANCEL [#E] 1x06. Mudd's Women                    (6.8)
+**** DONE [#C] 1x07. What Are Little Girls Made Of?  (7.6)
+**** DONE [#D] 1x08. Miri                            (7.1)
+**** DONE [#C] 1x09. Dagger of the Mind              (7.5)
+**** DONE [#B] 1x10 The Corbomite Maneuver  (8.2)
+**** DONE [#B] 1x11 The Menagerie: Part I (8.4)                        :Pike:
+**** DONE [#B] 1x12 The Menagerie: Part II (8.3)                       :Pike:
+**** DONE [#D] 1x13. The Conscience of the King      (7.2)
+**** DONE [#A] 1x14 Balance of Terror (9.0)                        :Romulans:
 CLOSED: [2021-03-10 Wed 22:38]
+
+
+这集贡献了星际迷航系列首场精彩的舰斗戏，进取号与罗慕伦猛禽舰间有来有往，斗智斗勇的博弈，瓦肯与罗慕伦关系的交代，最后双方英雄惜英雄的对话，都值得一看。
+
+**** DONE [#C] 1x15. Shore Leave                     (7.6)
+**** DONE [#C] 1x16. The Galileo Seven               (7.8)
+**** DONE [#D] 1x17. The Squire of Gothos            (7.4)
+**** DONE [#B] 1x18. Arena (8.1)
+**** DONE [#B] 1x19. Tomorrow Is Yesterday (8.0)
+**** DONE [#C] 1x20. Court Martial                   (7.5)
+**** DONE [#D] 1x21. The Return of the Archons       (7.3)
+**** DONE [#A] 1x22. Space Seed (8.9)
+**** DONE [#B] 1x23. A Taste of Armageddon           (8.1)
+**** DONE [#B] 1x24. This Side of Paradise           (8.0)
+**** DONE [#B] 1x25. The Devil in the Dark           (8.4)
+**** DONE [#B] 1x26. Errand of Mercy                 (8.3)
+**** CANCEL [#E] 1x27. The Alternative Factor          (5.8)
+**** DONE [#A] 1x28 The City on the Edge of Forever (9.3)
+**** DONE [#C] 1x29. Operation - Annihilate!         (7.6)
+
+
+****        [#A] 1x28. The City on the Edge of Forever (9.3)
+
+
 
 *** TOS S2
 
 26 episodes
 
-**** NEXT [#A] 2x04 Mirror, mirror :mirror_universe:
+
+**** DONE [#A] 2x01 Amok Time (8.7)  :Spock:
+:PROPERTIES:
+:rating:   8.7
+:END:
+
+**** DONE [#D] 2x02. Who Mourns for Adonais?      (7.3)
+**** DONE [#C] 2x03. The Changeling               (7.8)
+**** DONE [#A] 2x04 Mirror, mirror (9.2)                    :mirror_universe:
+CLOSED: [2022-05-17 Tue 13:08]
 :PROPERTIES:
 :rating:   9.2
 :END:
+**** CANCEL [#E] 2x05. The Apple                    (6.5)
 
-**** TODO [#D] 2x14 Wolf in the Fold
+**** DONE [#A] 2x06 The Doomsday Machine (8.8)
+:PROPERTIES:
+:rating:   8.8
+:END:
+**** CANCEL [#E] 2x07. Catspaw  (6.4)
+**** DONE [#C] 2x08. I, Mudd  (7.5)
+**** DONE [#D] 2x09. Metamorphosis (7.4)
+**** DONE [#A] 2x10 Journey to Babel (8.6)
+**** DONE [#D] 2x11. Friday's Child              (7.0)
+**** DONE [#C] 2x12. The Deadly Years            (7.5)
+**** DONE [#D] 2x13. Obsession                   (7.4)
+**** TODO [#D] 2x14 Wolf in the Fold (7.4)
+**** DONE [#A] 2x15 The Trouble with Tribbles (8.9)
+:PROPERTIES:
+:rating:   8.9
+:END:
+**** DONE [#D] 2x16. The Gamesters of Triskelion (7.1)
 **** DONE 2x17 A Piece of the Action :Prime_Directive:
-CLOSED: <2021-01-01 Fri 13:35>
+**** [#C] 2x18. The Immunity Syndrome       (7.7)
 
-**** DONE [#D] 2x19 A Private Little War :Klingons:
-CLOSED: <2021-01-01 Fri 21:56>
+#+TBLFM: $2='(cond ((> $4 8.5) "[#A]") ((>= $4 8.0) "[#B]") ((>= $4 7.5) "[#C]") ((>= $4 7.0) "[#D]") (t "[#E]"));N
+#+TBLFM: $1='(cond ((< $4 7.0) "CANCEL") (t ""));N
+
+**** DONE [#D] 2x19 A Private Little War (7.1)                     :Klingons:
 
 **** DONE [#C] 2x20 Return to Tomorrow
-CLOSED: [2021-01-11 Mon 22:46]
 
 **** DONE [#C] 2x21 Patterns of Force
-CLOSED: [2021-01-24 Sun 10:36]
 
 **** DONE [#C] 2x22 By Any Other Name
 CLOSED: [2021-02-14 Sun 17:05]
@@ -142,6 +207,20 @@ CLOSED: [2021-02-25 Thu 18:55]
 :PROPERTIES:
 :rating:   7.2
 :END:
+
+**** [#D] 3x15. Let That Be Your Last Battlefield (7.3)
+**** CANCEL [#E] 3x16. The Mark of Gideon                (6.7)
+**** CANCEL [#E] 3x17. That Which Survives               (6.7)
+**** CANCEL [#E] 3x18. The Lights of Zetar               (6.3)
+**** [#C] 3x19. Requiem for Methuselah            (7.6)
+**** CANCEL [#E] 3x20. The Way to Eden                   (5.6)
+**** [#D] 3x21. The Cloud Minders                 (7.2)
+**** CANCEL [#E] 3x22. The Savage Curtain                (6.9)
+**** [#B] 3x23. All Our Yesterdays                (8.4)
+**** [#D] 3x24. Turnabout Intruder                (7.0)
+
+#+TBLFM: $2='(cond ((> $4 8.5) "[#A]") ((>= $4 8.0) "[#B]") ((>= $4 7.5) "[#C]") ((>= $4 7.0) "[#D]") (t "[#E]"));N
+#+TBLFM: $1='(cond ((< $4 7.0) "CANCEL") (t ""));N
 
 ** TAS tv (1973-1974) :📺:TAS:
 *** 📂TAS S1
@@ -604,27 +683,55 @@ CLOSED: [2021-04-07 Wed 20:13]
 :END:
 
 *** TNG S7
+
+**** [#C] 7x1. Descent, Part II     (7.9)
+**** CANCEL [#E] 7x2. Liaisons             (6.7)
+**** CANCEL [#E] 7x3. Interface            (6.3)
+**** [#C] 7x4. Gambit, Part I       (7.9)
+**** [#B] 7x5. Gambit, Part II      (8.0)
+**** [#C] 7x6. Phantasms            (7.7)
+**** CANCEL [#E] 7x7. Dark Page            (6.5)
+**** [#C] 7x8. Attached             (7.5)
+**** CANCEL [#E] 7x9. Force of Nature      (6.5)
+**** [#C] 7x10. Inheritance         (7.6)
+**** [#A] 7x11. Parallels           (8.8)
+**** [#A] 7x12. The Pegasus         (8.6)
+**** [#D] 7x13. Homeward            (7.2)
+**** CANCEL [#E] 7x14. Sub Rosa            (5.1)
+**** [#A] 7x15. Lower Decks         (8.7)
+**** [#C] 7x16. Thine Own Self      (7.9)
+**** CANCEL [#E] 7x17. Masks               (6.1)
+**** CANCEL [#E] 7x18. Eye of the Beholder (6.8)
+**** [#D] 7x19. Genesis             (7.2)
+**** CANCEL [#E] 7x20. Journey's End       (6.5)
+**** CANCEL [#E] 7x21. Firstborn           (6.9)
+**** CANCEL [#E] 7x22. Bloodlines          (6.6)
+**** CANCEL [#E] 7x23. Emergence           (6.7)
+**** [#B] 7x24. Preemptive Strike   (8.0)
+**** [#A] 7x25. All Good Things...  (9.1)
+
+
 ** movies :🎦:
-*** DONE 07. Generations 斗转星移 :1994:Kirk:Picard:
-CLOSED: <2021-01-01 Fri 17:26>
+*** DONE 07. Generations 斗转星移 :P1994:Kirk:Picard:
+
 :PROPERTIES:
 :rating:   6.6
 :END:
 
-*** 2DONE 08. First Contact 第一类接触 :1996:Borg:Borg_Queen:2373:Data:
+*** 2DONE 08. First Contact 第一类接触 :P1996:Borg:Borg_Queen:Y2373:Data:
 :PROPERTIES:
 :rating:   7.6
 :END:
 
 Borg Queen 首次出现
 
-*** DONE [#E] 09. Insurrection 起义 :1998:2375:
+*** DONE [#E] 09. Insurrection 起义 :P1998:Y2375:
 CLOSED: [2021-03-18 Thu 13:08]
 :PROPERTIES:
 :rating:   6.4
 :END:
 
-*** TODO 10. Nemesis 复仇女神 :2002:2379:
+*** TODO 10. Nemesis 复仇女神 :P2002:Y2379:
 :PROPERTIES:
 :rating:   6.4
 :END:
@@ -924,6 +1031,34 @@ CLOSED: [2021-04-03 Sat 20:23]
 :END:
 
 *** DS9 S7
+**** [#C] 7x1. Image in the Sand                    (7.7)
+**** [#B] 7x2. Shadows and Symbols                  (8.0)
+**** [#D] 7x3. Afterimage                           (7.3)
+**** [#C] 7x4. Take Me Out to the Holosuite         (7.5)
+**** [#D] 7x5. Chrysalis                            (7.1)
+**** [#B] 7x6. Treachery, Faith and the Great River (8.4)
+**** [#C] 7x7. Once More Unto the Breach            (7.7)
+**** [#A] 7x8. The Siege of AR-558                  (8.7)
+**** CANCEL [#E] 7x9. Covenant                             (6.9)
+**** [#B] 7x10. It's Only a Paper Moon              (8.2)
+**** CANCEL [#E] 7x11. Prodigal Daughter                   (6.5)
+**** CANCEL [#E] 7x12. The Emperor's New Cloak             (6.5)
+**** CANCEL [#E] 7x13. Field of Fire                       (6.8)
+**** [#D] 7x14. Chimera                             (7.3)
+**** [#C] 7x15. Badda-Bing, Badda-Bang              (7.8)
+**** [#B] 7x16. Inter Arma Enim Silent Leges        (8.4)
+**** [#C] 7x17. Penumbra                            (7.6)
+**** [#C] 7x18. 'Til Death Do Us Part               (7.7)
+**** [#B] 7x19. Strange Bedfellows                  (8.0)
+**** [#B] 7x20. The Changing Face of Evil           (8.5)
+**** [#B] 7x21. When It Rains...                    (8.2)
+**** [#A] 7x22. Tacking Into the Wind               (8.7)
+**** [#C] 7x23. Extreme Measures                    (7.7)
+**** [#B] 7x24. The Dogs of War                     (8.3)
+**** [#A] 7x25. What You Leave Behind               (8.7)
+#+TBLFM: $2='(cond ((> $4 8.5) "[#A]") ((>= $4 8.0) "[#B]") ((>= $4 7.5) "[#C]") ((>= $4 7.0) "[#D]") (t "[#E]"));N
+#+TBLFM: $1='(cond ((< $4 7.0) "CANCEL") (t ""));N
+
 ** comics :📚:
 *** Malibu (1993-1995) :Malibu:
 **** START 📂on-going
@@ -1048,11 +1183,92 @@ CLOSED: [2021-03-19 Fri 08:05]
 :rating:   6.7
 :END:
 
-**** CANCEL [#E] 1x09 8. Emanations  6.8   13 Mar. 1995
+**** CANCEL [#E] 1x09 Emanations
 CLOSED: [2021-03-19 Fri 08:05]
 :PROPERTIES:
 :rating:   6.8
 :END:
+
+**** DONE [#D] 1x10 Prime Factors
+CLOSED: [2022-05-19 Thu 07:53]
+:PROPERTIES:
+:rating:   7.4
+:END:
+
+**** [#C] 1x11 State of Flux
+:PROPERTIES:
+:rating:   7.7
+:END:
+
+**** [#E] 1x12 Heroes and Demons
+:PROPERTIES:
+:rating:   6.8
+:END:
+
+**** [#E] 1x13 Cathexis
+**** [#D] 1x14 Faces
+**** [#D] 1x15 Jetrel
+**** [#D] 1x16 Learning Curve
+*** VOY S2
+
+26 issues
+
+**** [#C] 2x01 The 37's
+**** CANCEL [#E] 2x02 Initiations
+**** [#B] 2x03 Projections
+**** CANCEL [#F] 2x04 Elogium
+**** [#D] 2x05 Non Sequitur
+**** [#D] 2x06. Twisted               (7.2)
+**** CANCEL [#E] 2x07. Parturition			 (6.5)
+**** [#D] 2x08. Persistence of Vision (7.0)
+**** CANCEL [#E] 2x09. Tattoo				 (6.3)
+**** [#D] 2x10. Cold Fire			 (7.3)
+**** [#D] 2x11. Maneuvers			 (7.3)
+**** [#D] 2x12. Resistance			 (7.2)
+**** [#C] 2x13. Prototype			 (7.6)
+**** [#D] 2x14. Alliances			 (7.3)
+**** CANCEL [#E] 2x15. Threshold			 (5.4)
+**** [#B] 2x16. Meld					 (8.0)
+**** [#C] 2x17. Dreadnought			 (7.7)
+**** [#B] 2x18. Death Wish			 (8.4)
+**** [#C] 2x19. Lifesigns			 (7.6)
+**** [#C] 2x20. Investigations		 (7.7)
+**** [#B] 2x21. Deadlock				 (8.3)
+**** CANCEL [#E] 2x22. Innocence			 (6.8)
+**** [#D] 2x23. The Thaw				 (7.4)
+**** [#C] 2x24. Tuvix				 (7.7)
+**** [#C] 2x25. Resolutions			 (7.5)
+**** [#C] 2x26. Basics: Part I		(7.9)
+
+*** VOY S3
+
+**** [#B] 3x01. Basics: Part II       (8.0)
+**** [#C] 3x02. Flashback			   (7.9)
+**** CANCEL [#E] 3x03. The Chute			   (6.9)
+**** [#D] 3x04. The Swarm			   (7.3)
+**** CANCEL [#E] 3x05. False Profits		   (6.8)
+**** [#D] 3x06. Remember			   (7.1)
+**** CANCEL [#E] 3x07. Sacred Ground		   (5.9)
+**** [#B] 3x08. Future's End		   (8.4)
+**** [#B] 3x09. Future's End: Part II (8.3)
+**** CANCEL [#E] 3x10. Warlord			   (6.8)
+**** [#D] 3x11. The Q and the Grey   (7.4)
+**** [#D] 3x12. Macrocosm			   (7.3)
+**** CANCEL [#E] 3x13. Fair Trade		   (6.8)
+**** CANCEL [#E] 3x14. Alter Ego			   (6.8)
+**** [#D] 3x15. Coda				   (7.2)
+**** [#D] 3x16. Blood Fever		   (7.4)
+**** [#C] 3x17. Unity				   (7.9)
+**** CANCEL [#E] 3x18. Darkling			   (6.5)
+**** CANCEL [#E] 3x19. Rise				   (6.8)
+**** CANCEL [#E] 3x20. Favorite Son		   (6.2)
+**** [#C] 3x21. Before and After	   (7.9)
+**** [#C] 3x22. Real Life			   (7.5)
+**** [#A] 3x23. Distant Origin	   (8.6)
+**** [#C] 3x24. Displaced			   (7.6)
+**** [#B] 3x25. Worst Case Scenario  (8.2)
+**** [#A] 3x26. Scorpion			   (8.9)
+
 
 ** comics :📚:
 *** Marvel Paramount
