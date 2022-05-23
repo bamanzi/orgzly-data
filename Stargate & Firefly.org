@@ -300,7 +300,7 @@ Set during the events from the Miniseries to Season 2's /"Lay Down Your Burden
 ** comics :📚:
 *** Origins
 **** Zarek
-**** OVERDUE Amada
+**** NOW Amada
 SCHEDULED: <2022-05-28 Sat>
 
 **** DONE Starbuck & Helo
@@ -324,12 +324,12 @@ CLOSED: [2022-05-06 Fri 22:51]
 **** DONE vol.3 #9-12
 CLOSED: [2022-05-08 Sun 11:38]
 
-*** NOW Pegasus (one-shot) :🛒:
+*** DONE Pegasus (one-shot) :🛒:
+CLOSED: [2022-05-21 Sat 16:27] SCHEDULED: <2022-05-22 Sun>
 
 https://en.battlestarwiki.org/Battlestar_Galactica:_Pegasus
 
 The story is obviously set within the two-year span where humanoid Cylon infiltration began, likely within a year prior to /the Fall of the Twelve Colonies/ based on comments at the start of the story from a Number Six, Simon and Number Five.
-
 
 *** Tales from the Fleet Omnibus
 **** Ghosts (4 issues)
@@ -399,6 +399,8 @@ SCHEDULED: <2022-04-15 Fri>
 **** NEXT Solo
 SCHEDULED: <2022-04-15 Fri>
 
+10 BBY, with a prologue set in 13 BBY
+
 **** TBR A Droid Story 机器人故事 :P2022:
 **** TBR Rogue Squadron :P2023:
 *** movies (legends)
@@ -436,6 +438,8 @@ CLOSED: [2022-05-07 Sat 21:23]
 CLOSED: [2022-05-14 Sat 17:30]
 
 ****** 1x08 Redemption
+SCHEDULED: <2022-05-21 Sat>
+
 ***** season 2 (8 eps) :P2020:
 ***** season 3 :P2022:
 **** The Book of Boba Fett
@@ -493,13 +497,20 @@ CLOSED: [2022-04-25 Mon 21:54]
 ****** DONE 1x05 Breaking Ranks
 CLOSED: [2022-05-01 Sun 18:31]
 
-****** 1x06 Out of Darkness
+****** DONE 1x06 Out of Darkness
+CLOSED: [2022-05-16 Mon 21:08]
+
 ****** DONE 1x07 Empire Day
 CLOSED: [2022-05-11 Wed 08:17]
 
 ****** DONE 1x08 Gathering Forces
 CLOSED: [2022-05-12 Thu 21:09]
 
+****** DONE 1x09
+CLOSED: [2022-05-20 Fri 23:34]
+
+****** 1x10
+****** 1x11
 ***** season 2 (22 eps) :P2015:
 ***** season 3 (22 eps) :P2016:
 ***** season 4 (16 eps) :P2017:
@@ -644,11 +655,11 @@ SCHEDULED: <2022-05-04 Wed>
 4-5 ABY
 
 **** 6.5 续篇
-***** [#A] The Thrawn Trilogy (1995-1998) :hanzify:
+***** DOING [#A] The Thrawn Trilogy (1995-1998) :hanzify:
 
  9ABY
 
-****** Heir to the Empire
+****** NOW Heir to the Empire
 ****** Dark Force Rising
 ****** The Last Command
 ***** [#A] Dark Empire trilogy :Luke:Solo:Leia:
@@ -713,8 +724,10 @@ SCHEDULED: <2022-05-14 Sat>
 
 10BBY
 
+It told a story that focused on the characters Lando Calrissian and L3-37 just prior to Solo: A Star Wars Story
+
 ****** NOW Vader - Dark Visions :P2019:hanzify:
-SCHEDULED: <2022-05-14 Sat>
+SCHEDULED: <2022-05-28 Sat>
 
 Between 2 BBY and 0 BBY
 
@@ -731,7 +744,7 @@ CLOSED: [2022-04-29 Fri 13:22]
 
 0 ABY
 
-****** Star Wars (2015-2019) :ongoing:
+****** 📂Star Wars (2015-2019) :ongoing:
 SCHEDULED: <2022-05-28 Sat>
 
 set between the events of /Star Wars: Episode IV A New Hope/ and /Star Wars: Episode V The Empire Strikes Back/
@@ -784,7 +797,7 @@ CLOSED: [2022-04-24 Sun 13:34]
 CLOSED: [2022-04-26 Tue 12:52]
 
 ****** DOING 📂Doctor Aphra (2016-2019) :ongoing:hanzify:
-SCHEDULED: <2022-05-21 Sat>
+SCHEDULED: <2022-05-28 Sat>
 
 ******* DONE vol.1 Aphra (#1-6)
 CLOSED: [2022-05-01 Sun 15:04]
@@ -792,7 +805,7 @@ CLOSED: [2022-05-01 Sun 15:04]
 ******* DONE vol.2 The Enormous Profit (A1, #9-12)
 CLOSED: [2022-05-13 Fri 07:24]
 
-******* vol.3 Remastered
+******* NOW vol.3 Remastered
 ******* vol.4 The Catastrophe Con (#20-25)
 ******* Vol.5 Worst Among Equals (A2, #26-31)
 ******* vol. 6 Unspeakable Rebel Superweapon (#32-36)
@@ -815,7 +828,7 @@ takes place between the events of /Star Wars: Episode V The Empire Strikes Bac
 Between the events of /Star Wars: Episode V The Empire Strikes Back/ and /Star Wars: Episode VI Return of the Jedi/
 
 ****** Doctor Aphra v2 (2020- )
-****** NOW Bounty Hunters (2020- )
+****** DOING Bounty Hunters (2020- )
 SCHEDULED: <2022-05-15 Sun>
 
 The series features the bounty hunters /Beilert Valance/, /Boba Fett/ and /Bossk/, and takes place between the events of /Star Wars: Episode V The Empire Strikes Back/ and /Star Wars: Episode VI
@@ -921,6 +934,24 @@ Poe Dameron was portrayed by actor Oscar Isaac in Star Wars: Episode VII The
 The story is set prior to the events of /Star Wars: Episode IX The Rise of Skywalker/. 
 
 ***** Age of Resistance
+** novels
+*** Darth Bane trilogy
+**** Darth Bane: Path of Destruction
+
+1000BBY
+
+*** Tarkin 塔金 :canon:
+
+14BBY
+
+The novel is set in 14 BBY, five years after the events of /Star Wars: Episode III Revenge of the Sith/, and it focuses on /Wilhuff Tarkin/ and how he became a /Grand Moff/.
+
+*** Thrawn trilogy :legends:
+**** DONE Thrawn 1: Heir to the Empire 帝国传承
+CLOSED: <2022-05-21 Sat 11:48>
+
+9ABY
+
 ** for children
 *** Disney–Lucasfilm Press
 
