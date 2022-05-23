@@ -306,14 +306,13 @@ Best of Star Trek vol.6
 
 IDW Best of Star Trek vol.5
 
+*** Marvel Paramount (1996-1998)
 *** IDW
 **** New Visions :photonovel:
 ***** Strange New Worlds (Annual 2013) :tv-continuation:
 ***** TODO Special: The Cage :tv-based:Pike:
 **** TPB: TOS omnibus
 ***** DONE Blood Will Tell :hanzify:⭐️:Klingons:
-CLOSED: [2021-01-01 Fri 07:50]
-
 ***** DONE Year Four :2007:
 CLOSED: [2021-02-14 Sun 16:09]
 
@@ -341,31 +340,23 @@ CLOSED: [2021-02-14 Sun 16:09]
 
 一艘星舰出了事故，进取号只找到了一些残骸。他们去附近一个星球寻找幸存者，却被一个机器人捕获了，然后发现这个机器人以原来那些人为原材料来克隆出新的婴儿
 
-***** NEXT Year Four - The Enterprise Experiment :tv-continuation:
+***** TODO Year Four - The Enterprise Experiment :tv-continuation:
 
 a sequel to "The Enterprise Incident"
 
 **** _mini
 ***** DONE Mirror Images (镜像权路) :mirror_universe:hanzify:
-CLOSED: [2021-01-01 Fri 08:49]
-
 ***** DONE Hell's Mirror :hanzify:mirror_universe:2020:Khan:
 CLOSED: [2021-02-22 Mon 13:04]
 
 ***** Misson's End
 ***** DONE Star Trek II: The Wrath of Khan :movie_adaptation:Khan:
-CLOSED: [2021-01-01 Fri 08:49]
-
 ***** DONE Star Trek: Khan - Ruling in Hell :movie-continuation:Khan:
-CLOSED: [2021-01-01 Fri 08:49]
-
 ***** DONE Spock Reflections :movie-continuation:
-CLOSED: [2021-01-01 Fri 08:50]
-
 ***** Leonard McCoy Frontier Doctor
 ***** Burden of Knowledge.
 ***** Star Trek: Harlan Ellison's Original The City on the Edge of Forever Teleplay :tv-based:
-**** DONE TPB: Star Trek: Romulans :Romulans:
+**** DONE TPB: Star Trek: Romulans: Pawns of War :Romulans:
 ***** DONE Alien Spotlight: Romulans
 CLOSED: [2021-03-11 Thu 20:28]
 
@@ -378,7 +369,7 @@ CLOSED: [2021-03-11 Thu 21:18]
 ***** DONE Star Trek: Romulans - Schism :2009:
 CLOSED: [2021-03-26 Fri 06:56]
 
-**** START 📂Year Five (2019-) :hanzify:
+**** 📂Year Five (2019-) :hanzify:
 ***** DONE 01-02 :Tholian:
 CLOSED: <2021-01-12 Tue 13:08>
 
@@ -396,9 +387,9 @@ CLOSED: [2021-01-15 Fri 13:06]
 ***** DONE 11-12 :Gary_Seven:
 CLOSED: [2021-01-15 Fri 13:56]
 
-***** NEXT Year Five 13-19
+***** NOW Year Five 13-25
 *** *best :best:
-**** DONE All the Infinite Ways :Marvel:1981:Klingons:
+**** DONE All the Infinite Ways :Marvel:P1981:Klingons:
 CLOSED: [2021-02-18 Thu 23:03]
 
 **** 2DONE Gold Key 100-page (IDW selection) :hanzify:TOS:
@@ -419,7 +410,7 @@ CLOSED: <2021-01-24 Sun 13:18>
 CLOSED: [2021-01-11 Mon 13:05]
 
 ****** [#A] v2 #10-12 The Trial of James T. Kirk
-***** IDW STA1: Best of Peter David :1990:
+***** IDW STA1: Best of Peter David :P1990:
 ****** DONE Retrospect (DC TOS vol1 Annual 03) (1988) 往事成追忆 :hanzify:
 CLOSED: [2021-01-11 Mon 14:34]
 
@@ -428,48 +419,46 @@ CLOSED: [2021-01-11 Mon 17:50]
 
 ****** START DC TOS vol.2 #13-15
 ***** DONE IDW STA3: The Gary Seven Collection :Gary_Seven:
-****** DONE The Peacekeeper (DC TOS volume 2 #49-50) :1993:
+****** DONE The Peacekeeper (DC TOS volume 2 #49-50) :P1993:
 CLOSED: [2021-02-20 Sat 12:49]
 
-****** DONE Convergence :1995:
+****** DONE Convergence :P1995:
 CLOSED: [2021-03-14 Sun 16:10]
 
 ******* DC TOS volume 2 Annual 1995 :TOS:
 ******* DC TNG volume 2 Annual 1995 :TNG:
-***** IDW STA5. Best of Captain Kirk :1990:
+***** IDW STA5. Best of Captain Kirk :P1990:
 ****** [#A] DC TOS volume 2 #7-12 (The Trial of James T. Kirk) :1990:
-***** IDW STA6. Mirror Universe Saga (DC TOS vol1 1984) :1984:
+***** IDW STA6. Mirror Universe Saga (DC TOS vol1 1984) :P1984:
 ****** DC TOS vol.1 #09-16
 ***** IDW STA7. best.of.klingons
-****** DONE DC TOS vol.1 #01-04 :1984:
+****** DONE DC TOS vol.1 #01-04 :P1984:
 CLOSED: [2021-01-12 Tue 19:43]
 
 ****** DC TOS vol.1 #31-32
 ***** STCvol.5 Who Killed Captain Kirk (DC TOS vol.1 48-55)
-***** Debt of Honor :DC:1992:
+***** Debt of Honor :DC:P1992:
 
 Captain Kirk and the crew of the USS Enterprise find themselves teamed with the Klingons and Romulans to fight a the galactic threat that no government dares admit exists…
 
 **** IDW
 ***** DONE Klingons - Blood Will Tell :IDW:Klingons:hanzify:
-CLOSED: <2021-01-01 Fri 19:44>
-
 ***** TODO New Visions: Strange New Worlds :tv-continuation:
 
  sequel story to the second pilot, "Where No Man Has Gone Before".
 
 ***** DONE Spock Reflections :hanzify:
-CLOSED: <2021-01-01 Fri 17:24>
-
 ***** Burden of Knowledge
 ***** Leonard McCoy Frontier Doctor
-* The Next Generation :TNG:
+* TNG - The Next Generation :TNG:
 ** tv (1987-1993) :tv:📺:
-*** TNG S1 :2364:
+*** TNG S1 :Y2364:
 **** TODO 1x26 The Neutral Zone :Romulans:
-*** TNG S3 :2366:
-**** TODO 3x10 The Defector :Romulans:
-*** TNG S5 :2368:
+*** TNG S3 :Y2366:
+**** DONE 3x10 The Defector :Romulans:
+CLOSED: [2022-05-22 Sun 22:30]
+
+*** TNG S5 :Y2368:
 **** 2DONE 5x07-08 Unification (I, II) :Spock:Romulans:
 **** [#A] 5x25 - The Inner Light
 :PROPERTIES:
@@ -484,7 +473,7 @@ CLOSED: [2021-01-10 Sun 21:40]
 
 An engineering team finds evidence of an alien presence on Earth in 19th century San Francisco: Data's severed head, buried five hundred years ago. 
 
-*** 📂TNG S6 :2369:
+*** 📂TNG S6 :Y2369:
 **** DONE [#B] 6x01 - Time's Arrow - Part II :Guinan:
 CLOSED: [2021-01-10 Sun 21:41]
 :PROPERTIES:
@@ -655,7 +644,6 @@ CLOSED: [2021-04-07 Wed 20:13]
 :END:
 
 *** TNG S7
-
 **** [#C] 7x1. Descent, Part II     (7.9)
 **** CANCEL [#E] 7x2. Liaisons             (6.7)
 **** CANCEL [#E] 7x3. Interface            (6.3)
@@ -681,8 +669,6 @@ CLOSED: [2021-04-07 Wed 20:13]
 **** CANCEL [#E] 7x23. Emergence           (6.7)
 **** [#B] 7x24. Preemptive Strike   (8.0)
 **** [#A] 7x25. All Good Things...  (9.1)
-
-
 ** movies :🎦:
 *** DONE 07. Generations 斗转星移 :P1994:Kirk:Picard:
 
@@ -703,7 +689,7 @@ CLOSED: [2021-03-18 Thu 13:08]
 :rating:   6.4
 :END:
 
-*** TODO 10. Nemesis 复仇女神 :P2002:Y2379:
+*** NOW 10. Nemesis 复仇女神 :P2002:Y2379:Romulans:
 :PROPERTIES:
 :rating:   6.4
 :END:
@@ -712,7 +698,7 @@ CLOSED: [2021-03-18 Thu 13:08]
 *** DC Comics (1988-1996)
 **** TNG vol.1 (1988)
 **** TNG vol.2 (1989-1996)
-***** [#B] 47-50 The Worst of Both Worlds :⭐️:Borg:1993:BoST:best:
+***** [#B] 47-50 The Worst of Both Worlds :⭐️:Borg:P1993:BoST:best:
 
 IDW best of star trek vol.2
 
@@ -723,8 +709,6 @@ IDW best of star trek vol.2
 **** Operation Assimilation
 *** WildStorm (1999-2001)
 **** DONE [#B] The Gorn Crisis :2001:TNG:best:
-CLOSED: [2021-01-01 Fri 13:52]
-
 **** Perchance to Dream
 **** Embrace the Wolf
 **** The Killing Shadows
@@ -740,44 +724,24 @@ CLOSED: [2021-01-10 Sun 10:35]
 
 **** 2DONE #mirror_universe :mirror_universe:hanzify:
 ***** DONE Mirror Broken （破碎镜像） :mirror_universe:
-CLOSED: <2021-01-01 Fri 12:09>
-
 ***** DONE Through the Mirror （穿越镜像） :mirror_universe:
-CLOSED: <2021-01-01 Fri 12:09>
-
 ***** DONE Terra Incognita （未知领域） :mirror_universe:
-CLOSED: <2021-01-01 Fri 12:09>
-
 *** * best
 **** DONE Best of Star Trek TNG (DC) :DC:
-CLOSED: <2021-01-01 Fri 17:50>
-
-***** DONE [#B] v2 #05-06 Serafin's Survivors :Geordi:1990:
-CLOSED: <2021-01-01 Fri 13:07>
-
-***** DONE [#B] v2 #09 The Lesson :Deanna:Dr_Crusher:Riker:1990:
-CLOSED: <2021-01-01 Fri 13:07>
-
+***** DONE [#B] v2 #05-06 Serafin's Survivors :Geordi:P1990:
+***** DONE [#B] v2 #09 The Lesson :Deanna:Dr_Crusher:Riker:P1990:
 ***** DONE [#B] v2 Annual 1990: The Gift :Picard:Q:
-CLOSED: <2021-01-01 Fri 13:09>
-
 ***** DONE [#B] v2 Annual 1991: Thin Ice :Riker:
-CLOSED: <2021-01-01 Fri 17:49>
-
 **** 2DONE Best of Borg (Star Trek Archives vol.2) :TNG:Borg:
 ***** DONE DC TNG volume 2 #47-50 (The Worst of Both Worlds) :DC:
-CLOSED: [2021-01-01 Fri 14:45]
-
-***** Operation Assimilation (Marvel Paramount) :1997:Romulans:Borg:Borg_Queen:
+***** Operation Assimilation (Marvel Paramount) :P1997:Romulans:Borg:Borg_Queen:
 **** Star Trek Classics (IDW)
 ***** DONE [#B] vol.1 The Gorn Crisis :Wildstorm:
-CLOSED: <2021-01-01 Fri 23:42>
-
-***** vol.2 Enemy Unseen :Wildstorm:1999:
+***** vol.2 Enemy Unseen :Wildstorm:P1999:
 
 all Windstorm comics of TNG
 
-***** DONE [#D] vol.4 Beginning (DC TNG vol.1 #01-06) :DC:1988:
+***** DONE [#D] vol.4 Beginning (DC TNG vol.1 #01-06) :DC:P1988:
 CLOSED: [2021-03-02 Tue 16:59]
 
 ****** DONE 01. ... Where No One Has Gone Before!
@@ -794,14 +758,14 @@ CLOSED: [2021-03-02 Tue 16:59]
 ****** DONE [#C] 06. Here Today
 CLOSED: [2021-03-02 Tue 16:59]
 
-* Deep Space Nine :DS9:
+* DS9 - Deep Space Nine :DS9:
 ** DS9 tv (1993-1998) :📺:tv:
-*** DS9 S1 (Jan. - Jun. 1993) :2369:
-*** DS9 S2 (Sep.93 - Jun.94) :2370:
-*** DS9 S3 (Sep.94 - Jun.95) :2371:
+*** DS9 S1 (Jan. - Jun. 1993) :Y2369:
+*** DS9 S2 (Sep.93 - Jun.94) :Y2370:
+*** DS9 S3 (Sep.94 - Jun.95) :Y2371:
 **** NEXT 3x09 Defiant :Maquis:Thomas_Riker:
-*** DS9 S4 (Sep.95 - Jun.96) :2372:
-*** DS9 S5 (Sep.96 - Jun.97) :2373:
+*** DS9 S4 (Sep.95 - Jun.96) :Y2372:
+*** DS9 S5 (Sep.96 - Jun.97) :Y2373:
 **** [#C] 5x03 Looking for par'Mach in All the Wrong Places (7.7) :Klingons:
 :PROPERTIES:
 :rating:   7.7
@@ -824,7 +788,7 @@ CLOSED: [2021-01-28 Thu 08:26]
 :rating:   9.0
 :END:
 
-*** 📂DS9 S6 (Sep.97 - Jun.98) :2374:
+*** 📂DS9 S6 (Sep.97 - Jun.98) :Y2374:
 **** DONE [#A] 6x01 A Time to Stand
 CLOSED: [2021-01-28 Thu 23:11]
 :PROPERTIES:
@@ -832,7 +796,7 @@ CLOSED: [2021-01-28 Thu 23:11]
 :END:
 
 **** DONE [#A] 6x02 Rocks and Shoals
-CLOSED: <2021-01-01 Fri 15:18>
+
 :PROPERTIES:
 :rating:   8.6
 :END:
@@ -1028,9 +992,6 @@ CLOSED: [2021-04-03 Sat 20:23]
 **** [#C] 7x23. Extreme Measures                    (7.7)
 **** [#B] 7x24. The Dogs of War                     (8.3)
 **** [#A] 7x25. What You Leave Behind               (8.7)
-#+TBLFM: $2='(cond ((> $4 8.5) "[#A]") ((>= $4 8.0) "[#B]") ((>= $4 7.5) "[#C]") ((>= $4 7.0) "[#D]") (t "[#E]"));N
-#+TBLFM: $1='(cond ((< $4 7.0) "CANCEL") (t ""));N
-
 ** comics :📚:
 *** Malibu (1993-1995) :Malibu:
 **** START 📂on-going
@@ -1039,11 +1000,7 @@ CLOSED: [2021-04-03 Sat 20:23]
 CLOSED: [2021-01-11 Mon 14:32]
 
 ****** DONE #03 Old Woulds :👍:
-CLOSED: <2021-01-01 Fri 17:24>
-
 ****** DONE #04-05 Emancipation
-CLOSED: <2021-01-01 Fri 17:24>
-
 ****** Hostage Situation (Malibu DS9 Preview #2)
 ***** DONE #06 Field Trip/Pickpocket/Program 359
 CLOSED: [2021-01-28 Thu 12:35]
@@ -1065,7 +1022,7 @@ CLOSED: [2021-02-04 Thu 14:39]
 ***** Blood and Honor
 ***** Special
 ***** Rules of Diplomacy
-***** Worf: Bonds of Hornor :1995:
+***** Worf: Bonds of Hornor :P1995:
 
 出版于1995年12月，Worf 于10月的4x01 The Way of the Warrior 登场DS9
 
@@ -1110,9 +1067,9 @@ CLOSED: [2021-01-18 Mon 22:11]
 **** Strange New Worlds IV
 **** Strange New Worlds V
 **** Strange New Worlds VI
-* Voyager :VOY:
+* VOY - Voyager :VOY:
 ** tv (1995-2001) :📺:
-*** START 📂VOY S1
+*** DOING 📂VOY S1
 **** DONE [#C] 1x01/02 Caretaker
 CLOSED: [2021-03-18 Thu 22:56]
 :PROPERTIES:
@@ -1211,9 +1168,7 @@ CLOSED: [2022-05-19 Thu 07:53]
 **** [#C] 2x24. Tuvix				 (7.7)
 **** [#C] 2x25. Resolutions			 (7.5)
 **** [#C] 2x26. Basics: Part I		(7.9)
-
 *** VOY S3
-
 **** [#B] 3x01. Basics: Part II       (8.0)
 **** [#C] 3x02. Flashback			   (7.9)
 **** CANCEL [#E] 3x03. The Chute			   (6.9)
@@ -1240,8 +1195,6 @@ CLOSED: [2022-05-19 Thu 07:53]
 **** [#C] 3x24. Displaced			   (7.6)
 **** [#B] 3x25. Worst Case Scenario  (8.2)
 **** [#A] 3x26. Scorpion			   (8.9)
-
-
 ** comics :📚:
 *** Marvel Paramount
 **** Star Trek Voyager (1996-98)
@@ -1254,9 +1207,9 @@ CLOSED: [2022-05-19 Thu 07:53]
 *** IDW
 **** Voyager: Mirrors and Smoke (环境迷雾) :mirror_universe:IDW:
 **** Voyager - Seven's Reckoning :2020:IDW:hanzify:
-* Enterprise
+* ENT - Enterprise
 ** Enterprise (2001-2004)
-* KTL (AOS) :KTL:
+* KTL - Kelvin Timeline (AOS) :KTL:
 ** movies
 *** Star Trek (2009) :2009:
 *** Star Trek Into Darkness :2013:Khan:
@@ -1296,37 +1249,21 @@ CLOSED: [2021-01-13 Wed 12:34]
 **** 59-60 final
 *** KTL movie line
 **** DONE Star Trek: Countdown
-CLOSED: [2021-01-01 Fri 08:50]
-
 **** DONE Star Trek: Nero
-CLOSED: [2021-01-01 Fri 08:50]
-
 **** DONE Star Trek: Movie Adaptation
-CLOSED: [2021-01-01 Fri 08:50]
-
 **** 2DONE 07-08 Vulcan's Vengeance ↗
 **** DONE Star Trek: Countdown to Darkness
-CLOSED: [2021-01-01 Fri 08:50]
-
 **** DONE Star Trek: Khan
-CLOSED: [2021-01-01 Fri 08:50]
-
 **** 2DONE 25-28 The Khitomer Conflict ↗
 **** DONE Star Trek: Manifest Destiny
-CLOSED: [2021-01-01 Fri 08:50]
-
 *** Star Trek: Starfleet Academy
 *** 2DONE Star Trek: Boldly Go :hanzify:
-* Discovery :DSC:
+* DSC - Discovery :DSC:
 ** Discovery (2017- ) :📺:
 *** 📂DSC S1
 *** 📂DSC S2 :2019:
 **** DONE 2x10 The Red Angel
-CLOSED: <2021-01-01 Fri 18:37>
-
 **** DONE 2x11 Perpetual Infinity
-CLOSED: <2021-01-01 Fri 18:37>
-
 **** DONE 2x12 Through the Valley of Shadows
 CLOSED: [2021-03-13 Sat 18:33]
 
@@ -1339,7 +1276,7 @@ CLOSED: [2021-03-13 Sat 19:47]
 **** DONE 2x14 Such Sweet Sorrow, Part 2
 CLOSED: [2021-03-13 Sat 22:56]
 
-*** START 📂DSC S3 :2020:
+*** NOW 📂DSC S3 :2020:
 
 13 episodes
 
@@ -1390,7 +1327,7 @@ CLOSED: <2021-02-28 Sun 19:03>
 **** 1x08 Broken Pieces
 **** 1x09 Et in Arcadia Ego, Part 1
 **** 1x10 Et in Arcadia Ego, Part 2
-*** START 📂Lower Decks (2020) :LD:
+*** START 📂Lower Decks (2020- ) :LD:
 **** DONE 1x01 Second Contact
 CLOSED: <2021-01-12 Tue 19:10>
 
@@ -1410,9 +1347,9 @@ CLOSED: [2021-04-02 Fri 19:43]
 **** 1x09 Crisis Point
 **** 1x10 No Small Parts
 *** Prodigy (2021)
-*** Strange New Worlds
+*** SNW - Strange New Worlds (2022- )
 ** comics :comics:
-*** DONE 2.5 TNG+DS9 crossover (DC+Malibu) :1994:TNG:DS9:crossover:
+*** DONE 2.5 TNG+DS9 crossover (DC+Malibu) :P1994:TNG:DS9:crossover:
 CLOSED: [2021-01-21 Thu 19:34]
 
 *** 4. Marvel Paramount (1996-1998)
@@ -1445,13 +1382,15 @@ CLOSED: [2021-01-13 Wed 12:45]
 CLOSED: [2021-01-13 Wed 12:45]
 
 ***** Captains' Log
+****** Captain's Log: Sulu
+****** Captain's Log: Harriman
+****** Captain's Log: Pike :Pike:
+****** Captain's Log: Jellico
 ***** DONE The Q Conflict :hanzify:
-CLOSED: [2021-01-01 Fri 08:49]
 
 《Q的纠缠(The Q Conflict)》，Q神带着23和24世纪大联欢。
 
 ***** DONE Flesh and Stone (血肉与晶石) :hanzify:
-CLOSED: [2021-01-01 Fri 09:01]
 
 [cp]本次我们为大家带来的是IDW在2014年出版的特别刊《#星际迷航[超话]#  ：血肉与晶石（Flesh and Stone）》！
 
@@ -1464,8 +1403,6 @@ CLOSED: [2021-01-01 Fri 09:01]
 **** _misc
 ***** Star Trek: New Frontier
 ***** DONE Assignment Earth
-CLOSED: [2021-01-01 Fri 07:50]
-
 ***** Star Trek Deviations.
 ***** Star Trek: Crew
 ***** Picard: Countdown
@@ -1496,7 +1433,7 @@ CLOSED: [2021-01-01 Fri 07:50]
 ****** Alien Spotlight, Volume 2: Klingons
 ****** Mirror Images #1
 **** Star Trek Classics
-***** vol.1 The Gorn Crisis :Wildstorm:TNG:
+***** DONE vol.1 The Gorn Crisis :Wildstorm:TNG:
 ***** vol.2 Enemy Unseen :Wildstorm:TNG:
 ***** vol.3 Encounters with the Unknown :VOY:Wildstorm:
 ***** vol.4 Beginning (DC TNG vol.1 #01-06)
@@ -1504,11 +1441,7 @@ CLOSED: [2021-01-01 Fri 07:50]
 * The Orville
 ** Orville S1.5 :📚:
 *** DONE New Beginning 新的开始 :hanzify:
-CLOSED: <2021-01-01 Fri 13:34>
-
 *** DONE The Word of Evis :hanzify:
-CLOSED: <2021-01-01 Fri 13:34>
-
 ** 📂Orville S2 :📺:
 *** DONE [#C] 2x05 All the World Is Birthday Cake
 CLOSED: <2021-01-10 Sun 21:16>
@@ -1523,7 +1456,7 @@ CLOSED: [2021-01-19 Tue 19:16]
 :END:
 
 *** DONE [#C] 2x07 Deflectors
-CLOSED: <2021-01-01 Fri 13:50>
+
 :PROPERTIES:
 :rating:   7.6
 :END:
@@ -1583,3 +1516,8 @@ CLOSED: [2021-03-26 Fri 23:49]
 
 *** Degressions :P2021:
 *** Artifact :P2021:
+* footnotes
+
+#+TBLFM: $2='(cond ((> $4 8.5) "[#A]") ((>= $4 8.0) "[#B]") ((>= $4 7.5) "[#C]") ((>= $4 7.0) "[#D]") (t "[#E]"));N
+#+TBLFM: $1='(cond ((< $4 7.0) "CANCEL") (t ""));N
+
