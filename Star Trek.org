@@ -4,8 +4,7 @@
 
 29 episodes 
 
-
-**** DONE [#C] 1x00. The Cage                        (7.7)             :Pike:
+**** DONE [#C] 1x00. The Cage                        (7.7) :Pike:
 **** DONE [#D] 1x01. The Man Trap                    (7.3)
 **** DONE [#D] 1x02. Charlie X                       (7.1)
 **** DONE [#C] 1x03. Where No Man Has Gone Before    (7.8)
@@ -16,12 +15,11 @@
 **** DONE [#D] 1x08. Miri                            (7.1)
 **** DONE [#C] 1x09. Dagger of the Mind              (7.5)
 **** DONE [#B] 1x10 The Corbomite Maneuver  (8.2)
-**** DONE [#B] 1x11 The Menagerie: Part I (8.4)                        :Pike:
-**** DONE [#B] 1x12 The Menagerie: Part II (8.3)                       :Pike:
+**** DONE [#B] 1x11 The Menagerie: Part I (8.4) :Pike:
+**** DONE [#B] 1x12 The Menagerie: Part II (8.3) :Pike:
 **** DONE [#D] 1x13. The Conscience of the King      (7.2)
-**** DONE [#A] 1x14 Balance of Terror (9.0)                        :Romulans:
+**** DONE [#A] 1x14 Balance of Terror (9.0) :Romulans:
 CLOSED: [2021-03-10 Wed 22:38]
-
 
 这集贡献了星际迷航系列首场精彩的舰斗戏，进取号与罗慕伦猛禽舰间有来有往，斗智斗勇的博弈，瓦肯与罗慕伦关系的交代，最后双方英雄惜英雄的对话，都值得一看。
 
@@ -40,35 +38,30 @@ CLOSED: [2021-03-10 Wed 22:38]
 **** CANCEL [#E] 1x27. The Alternative Factor          (5.8)
 **** DONE [#A] 1x28 The City on the Edge of Forever (9.3)
 **** DONE [#C] 1x29. Operation - Annihilate!         (7.6)
-
-
-****        [#A] 1x28. The City on the Edge of Forever (9.3)
-
-
-
+**** [#A] 1x28. The City on the Edge of Forever (9.3)
 *** TOS S2
 
 26 episodes
 
-
-**** DONE [#A] 2x01 Amok Time (8.7)  :Spock:
+**** DONE [#A] 2x01 Amok Time (8.7) :Spock:
 :PROPERTIES:
 :rating:   8.7
 :END:
 
 **** DONE [#D] 2x02. Who Mourns for Adonais?      (7.3)
 **** DONE [#C] 2x03. The Changeling               (7.8)
-**** DONE [#A] 2x04 Mirror, mirror (9.2)                    :mirror_universe:
+**** DONE [#A] 2x04 Mirror, mirror (9.2) :mirror_universe:
 CLOSED: [2022-05-17 Tue 13:08]
 :PROPERTIES:
 :rating:   9.2
 :END:
-**** CANCEL [#E] 2x05. The Apple                    (6.5)
 
+**** CANCEL [#E] 2x05. The Apple                    (6.5)
 **** DONE [#A] 2x06 The Doomsday Machine (8.8)
 :PROPERTIES:
 :rating:   8.8
 :END:
+
 **** CANCEL [#E] 2x07. Catspaw  (6.4)
 **** DONE [#C] 2x08. I, Mudd  (7.5)
 **** DONE [#D] 2x09. Metamorphosis (7.4)
@@ -81,6 +74,7 @@ CLOSED: [2022-05-17 Tue 13:08]
 :PROPERTIES:
 :rating:   8.9
 :END:
+
 **** DONE [#D] 2x16. The Gamesters of Triskelion (7.1)
 **** DONE 2x17 A Piece of the Action :Prime_Directive:
 **** [#C] 2x18. The Immunity Syndrome       (7.7)
@@ -88,12 +82,9 @@ CLOSED: [2022-05-17 Tue 13:08]
 #+TBLFM: $2='(cond ((> $4 8.5) "[#A]") ((>= $4 8.0) "[#B]") ((>= $4 7.5) "[#C]") ((>= $4 7.0) "[#D]") (t "[#E]"));N
 #+TBLFM: $1='(cond ((< $4 7.0) "CANCEL") (t ""));N
 
-**** DONE [#D] 2x19 A Private Little War (7.1)                     :Klingons:
-
+**** DONE [#D] 2x19 A Private Little War (7.1) :Klingons:
 **** DONE [#C] 2x20 Return to Tomorrow
-
 **** DONE [#C] 2x21 Patterns of Force
-
 **** DONE [#C] 2x22 By Any Other Name
 CLOSED: [2021-02-14 Sun 17:05]
 
@@ -118,12 +109,11 @@ CLOSED: [2021-02-26 Fri 19:38]
 :END:
 
 **** DONE [#C] 2x26 Assignment: Earth
-CLOSED: <2021-01-01 Fri 19:18>
 :PROPERTIES:
 :rating:   7.7
 :END:
 
-*** START 📂TOS S3
+*** DOING 📂TOS S3
 
 24 episodes
 
@@ -139,8 +129,9 @@ CLOSED: [2021-03-06 Sat 10:03]
 :rating:   8.5
 :END:
 
+柯克偷了罗姆兰的隐形装置
+
 **** DONE [#E] 3x03 The Paradise Syndrome
-CLOSED: <2021-01-01 Fri 14:50>
 :PROPERTIES:
 :rating:   6.9
 :END:
@@ -227,98 +218,79 @@ CLOSED: [2021-02-25 Thu 18:55]
 
 16 episodes
 
-**** DONE [#D] 1x01 Beyond the Farthest Star
+**** DONE 1x01 Beyond the Farthest Star (6.7)
 CLOSED: [2021-03-21 Sun 18:50]
-:PROPERTIES:
-:rating:   6.7
-:END:
 
-**** DONE [#A] 1x02 Yesteryear :Spock:
+**** DONE [#B] 1x02 Yesteryear (8.2)                                  :Spock:
 CLOSED: [2021-03-27 Sat 08:00]
-:PROPERTIES:
-:rating:   8.2
-:END:
 
-**** DONE [#D] 1x03 One of Our Planets Is Missing
+**** DONE 1x03 One of Our Planets Is Missing (6.7)
 CLOSED: [2021-04-02 Fri 21:49]
-:PROPERTIES:
-:rating:   6.7
-:END:
 
-**** DONE [#D] 1x04 The Lorelei Signal
+**** DONE 1x04 The Lorelei Signal (6.5)
 CLOSED: [2021-04-03 Sat 14:40]
-:PROPERTIES:
-:rating:   6.5
-:END:
 
-**** DONE [#C] 1x05 More Tribbles, More Troubles :Tribbles:
+**** DONE [#D] 1x05 More Tribbles, More Troubles (7.1)             :Tribbles:
 CLOSED: [2021-04-03 Sat 16:17]
-:PROPERTIES:
-:rating:   7.1
-:END:
 
-**** DONE [#D] 1x06 The Survivor
+**** DONE 1x06 The Survivor (6.8)
 CLOSED: [2021-03-12 Fri 21:24]
-:PROPERTIES:
-:rating:   6.8
-:END:
 
-**** NEXT [#E] 1x07 The Infinite Vulcan
-:PROPERTIES:
-:rating:   6.1
-:END:
+**** NEXT 1x07 The Infinite Vulcan (6.1)
 
-**** NEXT [#E] 1x08 The Magicks of Megas-Tu
-:PROPERTIES:
-:rating:   6.0
-:END:
-
-**** 1x16 The Jihad
+**** NEXT 1x08 The Magicks of Megas-Tu (6.0)
+**** 1x09 Once Upon a Planet (6.3)
+**** 1x10 Mudd's Passion (6.5)
+**** 1x11 The Terratin Incident (6.6)
+**** [#D] 1x12 The Time Trap (7.0)
+**** 1x13 The Ambergris Element (6.4)
+**** [#D] 1x14 The Slaver Weapon (7.2)
+**** 1x15 The Eye of the Beholder (6.7)
+**** 1x16 The Jihad (6.3)
 *** TAS S2
 
 6 episodes
 
-**** DONE [#E] 2x01 The Pirates of Orion
+**** DONE [#E] 2x01 The Pirates of Orion (6.5)
 CLOSED: [2021-04-01 Thu 18:43]
-:PROPERTIES:
-:rating:   6.5
-:END:
 
-**** [#D] 2x06 The Counter-Clock Incident
-:PROPERTIES:
-:rating:   7.1
-:END:
 
-** 📂STC (2013) :📺:fan_made:STC:
+**** 2x02 Bem	(6.2)
+**** 2x03 The Practical Joker	(6.5)
+**** 2x05 Albatross	(6.9)
+**** 2x05 How Sharper Than a Serpent's Tooth	(6.5)
+**** [#D] 2x06 The Counter-Clock Incident (7.1)
+
+** DOING 📂STC (2013) :📺:fan_made:STC:
 
 11 episodes
 
 *** DONE [#B] 1. Pilgrim of Eternity (8.0) 阿波罗
 CLOSED: [2021-03-09 Tue 20:13]
 
-*** DONE [#A] 2. Lolani (8.5) :Orion:
+*** DONE [#A] 2. Lolani 楼兰妮 (8.5) :Orion:
 CLOSED: [2021-03-31 Wed 23:00]
 
-*** NEXT [#A] 3. Fairest of Them All (9.1) :mirror_universe:
-*** DONE [#C] 4. The White Iris (7.9)
+*** DONE [#A] 3. Fairest of Them All 镜像 (9.1) :mirror_universe:
+CLOSED: [2022-05-18 Wed 19:03]
+
+*** DONE [#C] 4. The White Iris 鸢尾花 (7.9)
 CLOSED: [2021-04-10 Sat 11:54]
 
 *** NEXT [#C] 5. Divided We Stand (7.9)
 *** [#A] 6. Come Not Between the Dragons (8.5)
 ** movies :🎦:
-*** 2DONE 1. Star Trek: The Motion Picture 无限太空 :1979:
-*** 2DONE 2. The Wrath of Khan 可汗怒吼 :1982:Khan:
-*** 2DONE 3. The Search for Spock 石破天惊 :1984:
-*** 4. The Voyage Home 抢救未来 :1986:
-*** 5. The Final Frontier 终极先锋 :1989:
-*** 6. The Undiscovered Country 未来之城 :1991:
+*** 2DONE 1. Star Trek: The Motion Picture 无限太空 :P1979:
+*** 2DONE 2. The Wrath of Khan 可汗怒吼 :P1982:Khan:
+*** 2DONE 3. The Search for Spock 石破天惊 :P1984:
+*** 4. The Voyage Home 抢救未来 :P1986:
+*** 5. The Final Frontier 终极先锋 :P1989:
+*** 6. The Undiscovered Country 未来之城 :P1991:
 ** comics :📚:
 *** Classic-UK
 *** Peter Pan
 *** GoldKey (1967)
 *** Marvel (1980-1981)
-**** *best
-***** [#B] #13 All the Infinite Ways :best:
 *** DC Comics (1984-1996) :dc:
 **** TOS vol.1 (1984-1988)
 ***** 01-04 The Wolmhold Connection :BoST:Klingons:⭐️:
