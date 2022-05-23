@@ -409,11 +409,13 @@ SCHEDULED: <2022-02-28 Mon>
 
 **** DC vol.2 :Helen:
 ***** [#D] 2.1 - Beachhead :D2022_06_doctor:
+SCHEDULED: <2022-06-04 Sat>
 :PROPERTIES:
 :rating:   7.1
 :END:
 
 ***** [#C] 2.2 - Scenes from Her Life :D2022_06_doctor:
+SCHEDULED: <2022-06-18 Sat>
 :PROPERTIES:
 :rating:   7.5
 :END:

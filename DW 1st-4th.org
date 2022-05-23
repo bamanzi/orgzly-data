@@ -242,6 +242,11 @@ Old Steven 3/3
 :rating:   9.2
 :END:
 
+** novels
+*** An Unearthly Child
+
+https://www.bilibili.com/read/cv16029955
+
 * 2nd Doctor :2nd_Dr:
 ** tv
 *** Season 4 :1967:
@@ -592,7 +597,7 @@ SCHEDULED: <2021-10-03 Sun>
 :rating:   7.3
 :END:
 
-***** [#B] CC12.4 - The Tactics of Defeat :Ruth:Zoe:UNIT:D2022_06_spinoffs:
+***** [#B] CC12.4 - The Tactics of Defeat :Ruth:Zoe:UNIT:D2022_08_doctor:
 :PROPERTIES:
 :rating:   8.1
 :END:
@@ -603,12 +608,13 @@ SCHEDULED: <2021-10-03 Sun>
 ***** 14.3 The Prints of Denmark
 ***** 14.4 The Deepest Tragedian
 *** misc
-**** [#D] 4.2 - The Queen of Time :Jamie:Zoe:plot_yes:D2022_08_doctor:
+**** [#D] 4.2 - The Queen of Time :Jamie:Zoe:plot_yes:D2022_06_doctor:
+SCHEDULED: <2022-06-18 Sat>
 :PROPERTIES:
 :rating:   7.4
 :END:
 
-**** NEXT [#B] LS4.3 - Lords of the Red Planet :ice_warriors:D2022_08_doctor:plot_yes:
+**** [#B] LS4.3 - Lords of the Red Planet :ice_warriors:D2022_08_doctor:plot_yes:
 :PROPERTIES:
 :rating:   8.2
 :END:
@@ -1140,6 +1146,8 @@ CLOSED: [2021-07-27 Tue 23:11]
 :END:
 
 ***** TODO [#C] 4.5 - Suburban Hell (7.7) :plot_yes:D2022_06_doctor:
+SCHEDULED: <2022-06-11 Sat>
+
 ***** [#D] 4.6 The Cloisters of Terror (7.4)
 ***** [#D] 4.7 The Fate of Krelos (7.2)
 ***** CANCEL [#F] 4.8 Return to Telos (5.8)
@@ -1215,7 +1223,6 @@ CLOSED: [2020-07-15 Wed 19:13]
 :PROPERTIES:
 :rating:   8.1
 :END:
-
 
 《赛博人回归》（Return of the Cybermen）是赛博人亲爹之一的Gerry Davis当年写给《神秘博士》老版第12季（1974）的剧本，之后由当时的剧本编辑（职能类似总编剧）Robert Holmes大幅度改编，最终拍成了《赛博人的复仇》（1205）。如今，这个剧本被大完结制作（Big Finish Production）委托编剧John Dorney改编成广播剧。
 
