@@ -236,7 +236,7 @@ CLOSED: <2021-01-01 Fri 07:40>
 :rating:   7.1
 :END:
 
-***** 3QTR [#B] 1.7/1.8 Human Resources :cybermen:D2022_04_doctor:
+***** 2DONE [#B] 1.7/1.8 Human Resources :cybermen:D2022_04_doctor:
 SCHEDULED: <2022-04-29 Fri>
 :PROPERTIES:
 :rating:   8.5
@@ -282,7 +282,7 @@ It was set between series 1 and series 2 of the Eighth Doctor Adventures a
 :rating:   7.9
 :END:
 
-***** 3QTR [#C] 2.6 - The Zygon Who Fell to Earth :Zygons:D2021_08_dr:
+***** 2DONE [#C] 2.6 - The Zygon Who Fell to Earth :Zygons:D2021_08_dr:
 :PROPERTIES:
 :rating:   7.9
 :END:
@@ -307,7 +307,7 @@ It was set between series 1 and series 2 of the Eighth Doctor Adventures a
 ***** TODO [#C] 3.7 The Eight Truths  (7.7)
 ***** [#C] 3.8 Worldwide Web (7.5)
 **** 8DA series 4
-***** 3QTR [#B] 4.1 _Death in Blackpool_ :Zygons:D2021_08_dr:
+***** 2DONE [#B] 4.1 _Death in Blackpool_ :Zygons:D2021_08_dr:
 :PROPERTIES:
 :rating:   8.4
 :END:
@@ -367,19 +367,19 @@ CLOSED: [2021-07-27 Tue 23:10]
 ***** DONE [#D] DE3.2 The Reviled (7.2) :D2021_08_extra:
 CLOSED: <2021-08-20 Fri 08:56>
 
-***** 3QTR [#B] DE3.3 Masterplan (8.4) :D2021_08_extra:
-***** 3QTR [#C] DE3.4 Rule of the Eminence (7.5) :D2021_09_extra:
+***** 2DONE [#B] DE3.3 Masterplan (8.4) :D2021_08_extra:
+***** 2DONE [#C] DE3.4 Rule of the Eminence (7.5) :D2021_09_extra:
 SCHEDULED: <2021-09-24 Fri>
 
 **** Dark Eyes vol.4 :Liv:
 ***** DONE [#A] 4.1 A Life in the Day (8.9)
 ***** HALF [#C] 4.2 The Monster of Montmartre (7.8)
-***** 3QTR 4.3 Master of the Daleks :Master_bald:D2021_10_master:
+***** 2DONE 4.3 Master of the Daleks :Master_bald:D2021_10_master:
 CLOSED: <2021-10-28 Thu 14:30>
 
 *** Doom Coalition :Liv:plot_yes:scripted:
 **** DC vol.1 :Liv:
-***** 3QTR [#B] DC1.1 The Eleven :D2022_01_doctor:
+***** 2DONE [#B] DC1.1 The Eleven :D2022_01_doctor:
 CLOSED: [2022-01-05 Wed 16:56] SCHEDULED: <2022-01-30 Sun>
 :PROPERTIES:
 :thetimescales: 8.4
@@ -387,7 +387,7 @@ CLOSED: [2022-01-05 Wed 16:56] SCHEDULED: <2022-01-30 Sun>
 
 【【神秘博士广播剧汉化】欢迎新反派十一光荣登场 Doom Coalition 101 The Eleven-哔哩哔哩】 https://b23.tv/oIkDWd7
 
-***** 3QTR [#A] DC1.2 The Red Lady :Helen:D2022_01_doctor:
+***** 2DONE [#A] DC1.2 The Red Lady :Helen:D2022_01_doctor:
 CLOSED: <2022-01-19 Wed 20:06> SCHEDULED: <2022-01-30 Sun>
 :PROPERTIES:
 :thetimescales: 9.3
@@ -408,8 +408,8 @@ SCHEDULED: <2022-02-28 Mon>
 :END:
 
 **** DC vol.2 :Helen:
-***** [#D] 2.1 - Beachhead :D2022_06_doctor:
-SCHEDULED: <2022-06-04 Sat>
+***** HALF [#D] 2.1 - Beachhead :Voord:D2022_06_doctor:
+SCHEDULED: <2022-06-11 Sat>
 :PROPERTIES:
 :rating:   7.1
 :END:
@@ -474,11 +474,11 @@ SCHEDULED: <2022-06-18 Sat>
 
 *** Ravenous :Liv:
 **** Ravenous vol.1
-***** READY 1.1 Their Finest Hour :bilibili:
+***** READY [#D] 1.1 Their Finest Hour :bilibili:
 
 【【神秘博士广播剧汉化】博士与丘吉尔的再次相遇 Ravenous 101 Their Finest Hour-哔哩哔哩】 https://b23.tv/d59He2Z
 
-***** READY 1.2 How to Make a Killing in Time :bilibili:
+***** READY [#D] 1.2 How to Make a Killing in Time :bilibili:
 
 【【神秘博士广播剧汉化】如何在时间旅行中杀人 Ravenous 102 How to Make a Killing in Time Travel-哔哩哔哩】 https://b23.tv/Mk7EzIp
 
@@ -638,8 +638,6 @@ http://blog.sina.cn/dpool/blog/s/blog_6c777581010185u0.html?type=2
 ** comics
 *** DWM
 *** Titan
-* misc
-** War Master :Master_war:
 * Last Great Time War timeline :time_war:
 
 https://tardis.fandom.com/wiki/Theory:Timeline_-_Last_Great_Time_War
@@ -793,7 +791,7 @@ CLOSED: <2021-01-18 Mon 22:53>
 :rating:   8.7
 :END:
 
-***** 3QTR [#A] 4.3 Shockwave :Master_unbound:D2021_11_master:
+***** 2DONE [#A] 4.3 Shockwave :Master_unbound:D2021_11_master:
 CLOSED: <2021-11-16 Tue 14:35> SCHEDULED: <2021-11-13 Sat>
 :PROPERTIES:
 :rating:   4.3
@@ -815,12 +813,12 @@ CLOSED: [2020-12-18 Fri 12:30]
 **** DONE GTW1.3 The Devil You Know (Gallifrey: Time War #1.3) :Master_war:
 CLOSED: <2020-11-09 Mon 10:30>
 
-**** 3QTR [#C] WM1.2 The Good Master :D2021_08_extra:
+**** 2DONE [#C] WM1.2 The Good Master :D2021_08_extra:
 :PROPERTIES:
 :rating:   7.8
 :END:
 
-**** 3QTR [#A] WM1.3 The Sky Man :D2021_09_extra:
+**** 2DONE [#A] WM1.3 The Sky Man :D2021_09_extra:
 CLOSED: [2021-09-24 Fri 18:50] SCHEDULED: <2021-09-04 Sat>
 :PROPERTIES:
 :rating:   9.2

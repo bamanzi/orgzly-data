@@ -297,6 +297,7 @@ SCHEDULED: <2021-09-30 Thu>
 【【David Tennant】Big Finish广播剧熟肉the Tenth Doctor and River Song - Ghosts-哔哩哔哩】https://b23.tv/84jHoJ
 
 *** Dalek Universe :P2021:Anya:Mark_7:
+**** _intro
 
 前两季基本就是The Dalek's Master Plan的续作
 
@@ -307,7 +308,14 @@ SCHEDULED: <2021-09-30 Thu>
 第三季结尾还接上了The Resurrection of the Daleks
 
 
-嗯，而且准确来说老版The Daleks' Master Plan—>四爷广播剧第八季—>广播剧The Dalek Protocol—>打雷宇宙前两季—>老版The Destiny of the Daleks—>打雷宇宙第三季—>Resurrection of the Daleks
+嗯，而且准确来说
+老版The Daleks' Master Plan
+—>四爷广播剧第八季
+—>广播剧The Dalek Protocol
+—>打雷宇宙前两季
+—>老版The Destiny of the Daleks
+—>打雷宇宙第三季
+—>Resurrection of the Daleks
 
 要理清情节顺序的话大概是这么个顺序
 
@@ -318,24 +326,24 @@ SCHEDULED: <2021-11-08 Mon>
 
 【【神秘博士广播剧熟肉】Dalek Universe - The Dalek Protocol (Part 3&4)-哔哩哔哩】 https://b23.tv/MruDd4V
 
-**** HALF [#B] DU 1.1 - Buying Time :plot_no:D2021_11_daleks:bilibili:
-SCHEDULED: <2021-11-06 Sat>
+**** DONE [#B] DU 1.1 - Buying Time :plot_no:D2021_11_daleks:bilibili:
+CLOSED: <2022-05-21 Sat 19:23> SCHEDULED: <2021-11-06 Sat>
 :PROPERTIES:
 :rating:   8.4
 :END:
 
 【【神秘博士广播剧汉化】听后感：？？？Dalek Universe 101 Buying Time-哔哩哔哩】 https://b23.tv/bPVKCTF
 
-**** HALF [#A] DU 1.2 - The Wrong Woman :D2022_01_extra:week2:bilibili:
-SCHEDULED: <2021-12-30 Thu>
+**** 2DONE [#A] DU 1.2 - The Wrong Woman :D2022_06_extra:week2:bilibili:
+CLOSED: <2022-05-28 Sat 20:33> SCHEDULED: <2022-06-05 Sun>
 :PROPERTIES:
 :rating:   8.8
 :END:
 
 【【神秘博士广播剧汉化】听后感：！！！ Dalek Universe 102 The Wrong Woman-哔哩哔哩】 https://b23.tv/a6fUWqp
 
-**** [#C] DU 1.3 - The House of Kingdom :D2022_06_doctor:
-SCHEDULED: <2022-06-04 Sat>
+**** READY [#C] DU 1.3 - The House of Kingdom :D2022_06_doctor:
+SCHEDULED: <2022-06-18 Sat>
 :PROPERTIES:
 :rating:   7.9
 :END:
@@ -354,10 +362,12 @@ SCHEDULED: <2022-06-04 Sat>
 
 【【神秘博士广播剧熟肉】Dalek Universe 202 The Trojan Dalek-哔哩哔哩】 https://b23.tv/ke8FadW
 
-**** [#A] DU2.3 - The Lost
+**** READY [#A] DU2.3 - The Lost :bilibili:
 :PROPERTIES:
 :rating:   8.6
 :END:
+
+【【神秘博士广播剧熟肉】Dalek Universe 203 The Lost 迷失-哔哩哔哩】 https://b23.tv/HGdsWE3
 
 **** [#E] DU3.1 - The First Son
 :PROPERTIES:
@@ -375,7 +385,7 @@ SCHEDULED: <2022-06-04 Sat>
 :END:
 
 *** Out of Time
-**** READY [#C] Out of Time 1 :P2020:bilibili:4th_Dr:
+**** HALF [#C] Out of Time 1 :P2020:bilibili:4th_Dr:
 :PROPERTIES:
 :rating:   7.8
 :END:
@@ -606,7 +616,7 @@ CLOSED: [2021-09-24 Fri 08:10]
 ** audio :🎧:
 *** 12DC vol.1
 **** [#D] 1. The Charge of the Night Brigade :Mary_Seacole:D2022_06_doctor:
-SCHEDULED: <2022-06-18 Sat>
+SCHEDULED: <2022-06-04 Sat>
 :PROPERTIES:
 :rating:   7.3
 :END:
@@ -760,8 +770,8 @@ SCHEDULED: <2022-05-07 Sat>
 
 【【会动的广播剧|双语字幕】十三的第一部广播剧《神秘博士：删改》第一集《求救信号》| Redacted-哔哩哔哩】 https://b23.tv/5ieRpAk
 
-**** [#C] 02: Hysteria :D2022_05_doctor:
-SCHEDULED: <2022-05-28 Sat>
+**** TODO [#C] 02: Hysteria :D2022_05_doctor:
+SCHEDULED: <2022-05-31 Tue>
 
 **** [#C] 03: Lost
 **** [#B] 04. Angels

@@ -549,7 +549,7 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
 
 *** Torchwood One :tw1:
 **** Torchwood One: Before the Fall :P2017:
-***** [#B] 1.1 New Girl :D2022_06_spinoffs:
+***** HALF [#B] 1.1 New Girl :D2022_06_spinoffs:
       SCHEDULED: <2022-06-04 Sat>
       :PROPERTIES:
       :rating:   8.2
@@ -754,7 +754,7 @@ Roberts Master
      CLOSED: [2021-11-03 Wed 19:51] SCHEDULED: <2021-11-03 Wed>
 
 **** [#D] 6.2 The Web of Time             (7.0) :great_intelligence:D2022_06_extra:
-     SCHEDULED: <2022-06-04 Sat>
+     SCHEDULED: <2022-06-11 Sat>
 
 **** CANCEL [#E] +6.3 Peepshow+
      :PROPERTIES:
@@ -851,7 +851,7 @@ Roberts Master
 *** HALF [#C] J&L6.1 - The Skeleton Quay (7.8) :D2022_05_spinoffs:
     SCHEDULED: <2022-05-07 Sat>
 
-*** [#D] J&L6.2 - Return of the Repressed         (7.1) :D2022_05_spinoffs:
+*** TODO [#D] J&L6.2 - Return of the Repressed         (7.1) :D2022_05_spinoffs:
     SCHEDULED: <2022-05-28 Sat>
 
 *** [#D] 6.3 - Military Intelligence           (7.4) :D2022_06_spinoffs:
@@ -1086,14 +1086,12 @@ Roberts Master
 *** Series 11
 ** Bernice Summerfield (boxset)
 *** Boxset 1: Epoch :P2011:Atlantis:
-**** [#B] 1.1 The Kraken's Lament :Jack_McSpringheel:D2022_06_spinoffs:
-     SCHEDULED: <2022-06-04 Sat>
+**** [#B] 1.1 The Kraken's Lament :Jack_McSpringheel:D2022_07_spinoffs:
      :PROPERTIES:
      :rating:   7.9
      :END:
 
-**** [#B] 1.2 The Temple of Questions :Ruth_Leonidas:D2022_06_spinoffs:
-     SCHEDULED: <2022-06-18 Sat>
+**** [#B] 1.2 The Temple of Questions :Ruth_Leonidas:D2022_07_spinoffs:
      :PROPERTIES:
      :rating:   8.0
      :END:
@@ -1126,6 +1124,21 @@ Roberts Master
 
 **** novel: The Weather on Versimmon :Ruth:
 *** Boxset 3: Legion :P2012:
+**** [#C] 3.1 - Vesuvius Falling
+     :PROPERTIES:
+     :rating:   7.8
+     :END:
+
+**** [#C] 3.2 - Shades of Gray
+     :PROPERTIES:
+     :rating:   7.7
+     :END:
+
+**** [#B] 3.3 - Everybody Loves Irving
+     :PROPERTIES:
+     :rating:   8.0
+     :END:
+
 *** SP: Many Happy Returns :P2012:
 *** Boxset 4: New Frontiers :P2013:
 *** Boxset 5: Missing Persons :P2014:
@@ -1725,7 +1738,7 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
 
 ** Nemesis 1: Between Two Worlds :P2021:
 ** Nemesis 2: Agents of the Vulpreen :P2022:
-* Kaldor City / The Robots :🤖:
+* Kaldor City / The Robots :Kaldor:
 ** Kaldor City
 *** [#B] KC1. Occam's Razor :D2022_06_spinoffs:
     SCHEDULED: <2022-06-18 Sat>
@@ -1960,8 +1973,12 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
 **** [#E] +2.3 - Calamity Jenny+ (6.6)
 **** [#D] 2.4 - Her Own Wrost Enemy (7.0)
 ** Rose Tyler - The Dimension Cannon :P2019:Rose:
-*** [#B] 1.1 - The Endless Night       (8.3) :D2022_07_spinoffs:
-*** [#C] 1.2 - The Flood               (7.6) :D2022_07_spinoffs:
+*** START [#B] 1.1 - The Endless Night       (8.3) :D2022_06_spinoffs:
+    SCHEDULED: <2022-06-04 Sat>
+
+*** [#C] 1.2 - The Flood               (7.6) :D2022_06_spinoffs:
+    SCHEDULED: <2022-06-25 Sat>
+
 *** [#C] 1.3 - Ghost Machines          (7.5) :D2022_08_spinoffs:
 *** [#D] 1.4 - The Last Party on Earth (7.3) :D2022_08_spinoffs:
 ** Donna Nobel - Kidnapped :P2020:

@@ -1,5 +1,5 @@
 * 1st Doctor :1st_Dr:
-** tv
+** tv :📺:
 *** Season 1 :1963:
 **** DONE An Unearthly Child
 **** DONE The Daleks :Daleks:
@@ -8,7 +8,9 @@
 
 小说翻译： https://link.zhihu.com/?target=http%3A//tieba.baidu.com/p/2575205906 
 
-**** The Keys of Marinus
+**** NOW The Keys of Marinus :Voord:D2022_06_extra:
+SCHEDULED: <2022-06-05 Sun>
+
 **** The Aztecs
 **** The Sensorites
 **** DONE The Reign of Terror :part_missing:animated:P2013:
@@ -58,7 +60,7 @@ Episode 4 missing (but animated in 2013).
 ** audio :🎧:
 *** EA
 **** EA S1
-***** BLOCK [#C] EA1.1 Domain of the Voord :Susan:Ian:Barbara:plot_yes:D2022_Q4:
+***** BLOCK [#C] EA1.1 Domain of the Voord :Susan:Ian:Barbara:Voord:plot_yes:D2022_Q4:
 
 应该先看老版剧集 1x05 The Keys of Marinus
 
@@ -87,7 +89,7 @@ SCHEDULED: <2021-09-22 Wed>
 ***** 2DONE EA7.1 After the Daleks :Dalek_War_1st:Susan:D2021_10_daleks:
 CLOSED: [2021-11-01 Mon 22:54] SCHEDULED: <2021-11-01 Mon>
 
-***** READY EA7.2 The Secrets of Det-Sen :plot_yes:D2022_07_doctor:
+***** READY EA7.2 The Secrets of Det-Sen :plot_simple:D2022_07_doctor:
 *** 1DA :Susan:Ian:Barbara:
 **** HALF [#C] 1.1 The Destination Wars :Master_early:D2021_08_dr:
 :PROPERTIES:
@@ -150,8 +152,8 @@ SCHEDULED: <2021-11-06 Sat>
 :rating:   8.5
 :END:
 
-**** START [#C] 1.1 Frostfire :Vicki:Steven:scripted:plot_yes:bilibili:D2022_05_doctor:
-SCHEDULED: <2022-05-28 Sat>
+**** 3QTR [#C] 1.1 Frostfire :Vicki:Steven:scripted:plot_yes:bilibili:D2022_05_doctor:
+CLOSED: [2022-05-27 Fri 11:35] SCHEDULED: <2022-05-28 Sat>
 :PROPERTIES:
 :rating:   7.8
 :END:
@@ -783,7 +785,7 @@ Inferno
 :rating:   7.9
 :END:
 
-**** [#A] 7.2 The Gulf :P2021:Sarah:D2022_05_doctor:
+**** START [#A] 7.2 The Gulf :P2021:Sarah:D2022_05_doctor:
 SCHEDULED: <2022-05-28 Sat>
 :PROPERTIES:
 :rating:   8.7
@@ -1146,7 +1148,7 @@ CLOSED: [2021-07-27 Tue 23:11]
 :END:
 
 ***** TODO [#C] 4.5 - Suburban Hell (7.7) :plot_yes:D2022_06_doctor:
-SCHEDULED: <2022-06-11 Sat>
+SCHEDULED: <2022-06-04 Sat>
 
 ***** [#D] 4.6 The Cloisters of Terror (7.4)
 ***** [#D] 4.7 The Fate of Krelos (7.2)
