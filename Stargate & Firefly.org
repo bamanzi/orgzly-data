@@ -234,8 +234,8 @@ CLOSED: <2021-10-19 Tue 20:21>
 **** DONE 1x13 Kobol's Last Gleaming, Part II
 CLOSED: <2021-10-19 Tue 10:48>
 
-*** DOING S2 (20 episodes) :P2005:
-SCHEDULED: <2022-05-28 Sat>
+*** DOING 📂BSG S2 (20 episodes) :P2005:
+DEADLINE: <2022-05-31 Tue>
 
 2005-07-15 — 2006-04-10
 
@@ -277,16 +277,35 @@ CLOSED: [2022-05-15 Sun 12:09]
 **** DONE 2x12 Resurrection Ship, Part II
 CLOSED: [2022-05-15 Sun 20:09]
 
+**** DONE 2x13
+CLOSED: [2022-05-20 Fri 22:40] SCHEDULED: <2022-05-22 Sun>
+
+**** DONE 2x14
+CLOSED: [2022-05-24 Tue 08:03] SCHEDULED: <2022-05-22 Sun>
+
+**** DONE 2x15
+CLOSED: [2022-05-25 Wed 21:10] SCHEDULED: <2022-05-27 Fri>
+
+**** DONE 2x16
+CLOSED: [2022-05-28 Sat 08:23] SCHEDULED: <2022-05-28 Sat>
+
+**** NOW 2x17
+SCHEDULED: <2022-05-29 Sun>
+
+*** NEXT The Plan
+SCHEDULED: <2022-05-31 Tue>
+
+Set during the events from the Miniseries to Season 2's /"Lay Down Your Burdens, Part II (2x20),"/ this story is told from the Cylons' perspective, centering on two distinct Cavil copies as they try to fulfill the Cylons' plan.
+
 *** Razer
+SCHEDULED: <2022-05-31 Tue>
 
  建议在2x17之后观看
 
 在看完第三季之前不要看最后10分钟
 
 **** Razer: Flashback
-*** The Plan
-
-Set during the events from the Miniseries to Season 2's /"Lay Down Your Burdens, Part II (2x20),"/ this story is told from the Cylons' perspective, centering on two distinct Cavil copies as they try to fulfill the Cylons' plan.
+SCHEDULED: <2022-05-31 Tue>
 
 *** The Resistance (10集短篇)
 
@@ -300,13 +319,13 @@ Set during the events from the Miniseries to Season 2's /"Lay Down Your Burden
 ** comics :📚:
 *** Origins
 **** Zarek
-**** NOW Amada
-SCHEDULED: <2022-05-28 Sat>
-
+**** Amada
 **** DONE Starbuck & Helo
 CLOSED: <2021-08-11 Wed 23:20>
 
-**** HALF Baltar
+**** DONE Baltar
+CLOSED: [2022-05-30 Mon 06:28] SCHEDULED: <2022-05-29 Sun>
+
 *** Season Zero (#0-12)
 
 This series chronicles the first mission of Galactica under the command of Commander William Adama, dealing with terrorism in the Twelve Colonies.
@@ -391,13 +410,13 @@ CLOSED: [2022-04-04 Mon 16:50]
 **** Star Wars: Episode IX The Rise of Skywalker
 *** spin-offs
 **** The Clone Wars :P2008:
-**** HALF Rogue One 侠盗一号
-SCHEDULED: <2022-04-15 Fri>
+**** DONE Rogue One 侠盗一号
+CLOSED: [2022-05-29 Sun 13:32]
 
-13BBY-10BBY
+0 BBY, days before A New Hope, with a prologue set in 13 BBY
 
 **** NEXT Solo
-SCHEDULED: <2022-04-15 Fri>
+SCHEDULED: <2022-05-29 Sun>
 
 10 BBY, with a prologue set in 13 BBY
 
@@ -409,10 +428,10 @@ SCHEDULED: <2022-04-15 Fri>
 **** The Battle for Endor
 ** tv :📺:
 *** tv (canon, live-action)
-**** DOING The Mandalorian (2019- )
-SCHEDULED: <2022-05-28 Sat>
+**** 📂The Mandalorian (2019- )
+DEADLINE: <2022-05-31 Tue>
 
-***** season 1 (8 eps) :P2019:
+***** DONE 📂Mandalorian season 1 (8 eps) :P2019:
 
 9 ABY
 
@@ -437,11 +456,15 @@ CLOSED: [2022-05-07 Sat 21:23]
 ****** DONE 1x07 The Reckoning
 CLOSED: [2022-05-14 Sat 17:30]
 
-****** 1x08 Redemption
-SCHEDULED: <2022-05-21 Sat>
+****** DONE 1x08 Redemption
+CLOSED: [2022-05-29 Sun 05:47] SCHEDULED: <2022-05-28 Sat 21:47>
 
-***** season 2 (8 eps) :P2020:
-***** season 3 :P2022:
+***** DOING 📂Mandalorian season 2 (8 eps) :P2020:
+
+****** DONE 2x01
+CLOSED: [2022-05-29 Sun 21:14]
+
+***** season 3 :P2023:
 **** The Book of Boba Fett
 ***** season 1 (7 eps) :P2021:
 
@@ -456,8 +479,8 @@ c.9 ABY
 **** The Acolyte
 **** Lando
 **** Rangers of the New Republic
-*** tv (canon, animated)
-**** The Clone Wars (2008-2014) :P2008:
+*** tv (canon, animated) :animated:
+**** The Clone Wars (2008-2014)
 
 7 seasons
 
@@ -468,15 +491,15 @@ c.9 ABY
 ***** season 5 (20 eps) :P2012:
 ***** season 6 (13 eps) :P2014:
 ***** season 7 (12 eps) :P2020:
-**** START Rebels (2014-2018) 义军崛起
+**** Rebels (2014-2018) 义军崛起
 
 set during the time frame between the films /Star Wars: Episode III Revenge of the Sith/ and /Star Wars: Episode IV A New Hope/.
 
 It premiered worldwide as a one-hour television movie, Star Wars Rebels: Spark of Rebellion, on Disney Channel on October 3, 2014; 
 
 ***** shorts (4 eps) :P2014:
-***** DOING Rebels season 1 (15 eps) :P2014:
-SCHEDULED: <2022-05-28 Sat>
+***** DOING 📂Rebels season 1 (15 eps) :P2014:rebels:
+DEADLINE: <2022-05-31 Tue>
 
 5BBY
 
@@ -509,8 +532,21 @@ CLOSED: [2022-05-12 Thu 21:09]
 ****** DONE 1x09
 CLOSED: [2022-05-20 Fri 23:34]
 
-****** 1x10
-****** 1x11
+****** NOW 1x10
+SCHEDULED: <2022-05-29 Sun>
+
+****** DONE 1x11
+CLOSED: <2022-05-26 Thu 08:06>
+
+****** NOW 1x12
+SCHEDULED: <2022-05-29 Sun>
+
+****** LATER 1x13
+SCHEDULED: <2022-05-31 Tue>
+
+****** LATER 1x14
+SCHEDULED: <2022-05-31 Tue>
+
 ***** season 2 (22 eps) :P2015:
 ***** season 3 (22 eps) :P2016:
 ***** season 4 (16 eps) :P2017:
@@ -641,25 +677,28 @@ CLOSED: <2022-05-11 Wed 10:48>
 - 一个叫做 Black Sun 的小星球在达斯·维达和义军之间搅局
 bmz评价：挺一般，Boba Fett 那条线还好点，Black Sun 那条线很水
 
-****** NOW Mara Jade - By The Emperor's Hand
+****** DONE Mara Jade - By The Emperor's Hand
+CLOSED: [2022-05-24 Tue 22:11]
 
 4ABY
 
-****** Shadows of the Empire: Evolution :hanzify:
+****** DONE Shadows of the Empire: Evolution :hanzify:
+CLOSED: [2022-05-28 Sat 12:59] SCHEDULED: <2022-05-29 Sun>
 
 4ABY
 
-***** NEXT [#B] X-Wing: Rogue Squadron (1995) :hanzify:
-SCHEDULED: <2022-05-04 Wed>
+***** LATER [#B] X-Wing: Rogue Squadron (1995) :hanzify:
 
 4-5 ABY
 
 **** 6.5 续篇
-***** DOING [#A] The Thrawn Trilogy (1995-1998) :hanzify:
+***** DOING [#A] 📂The Thrawn Trilogy (1995-1998) :hanzify:
 
  9ABY
 
-****** NOW Heir to the Empire
+****** DONE Heir to the Empire
+CLOSED: <2022-05-21 Sat 14:52>
+
 ****** Dark Force Rising
 ****** The Last Command
 ***** [#A] Dark Empire trilogy :Luke:Solo:Leia:
@@ -726,8 +765,8 @@ SCHEDULED: <2022-05-14 Sat>
 
 It told a story that focused on the characters Lando Calrissian and L3-37 just prior to Solo: A Star Wars Story
 
-****** NOW Vader - Dark Visions :P2019:hanzify:
-SCHEDULED: <2022-05-28 Sat>
+****** NEXT Vader - Dark Visions :P2019:hanzify:
+SCHEDULED: <2022-05-31 Tue>
 
 Between 2 BBY and 0 BBY
 
@@ -744,8 +783,8 @@ CLOSED: [2022-04-29 Fri 13:22]
 
 0 ABY
 
-****** 📂Star Wars (2015-2019) :ongoing:
-SCHEDULED: <2022-05-28 Sat>
+****** DOING 📂Star Wars (2015-2019) :ongoing:
+SCHEDULED: <2022-06-02 Thu>
 
 set between the events of /Star Wars: Episode IV A New Hope/ and /Star Wars: Episode V The Empire Strikes Back/
 
@@ -768,13 +807,19 @@ CLOSED: [2022-04-15 Fri 13:58]
 ******* DONE vol.4 The Last Flight of the Harbinger (#20-25)
 CLOSED: [2022-04-19 Tue 22:22]
 
-******* DONE vol.5 Yoda's Secret War (#26-30, A2)
+******* DONE [#B] vol.5 Yoda's Secret War (#26-30, A2)
 CLOSED: [2022-05-03 Tue 15:22] SCHEDULED: <2022-05-10 Tue>
 
 ******* DONE vol.5X The Screaming Citadel
 CLOSED: [2022-05-03 Tue 16:25] SCHEDULED: <2022-05-10 Tue>
 
-******* Vol. 6 Out Among the Stars (#33-37,A3)
+******* NOW Vol.6 Out Among the Stars (#33-37,A3)
+******* NEXT Vol.7 The Ashes of Jedha (#38-43)
+******* vol.8 Mutiny at Mon Cala (#44-49,A4)
+******* vol.9 Hope Dies (#50-55)
+******* vol.10 The Escape (#56-61)
+******* [#B] vol.11 The Scourging of Shu-Torun (#62-67)
+******* vol.12 Rebels and Rogues (#68-75,EA1)
 ****** DONE Darth Vader (2015-2016)
 CLOSED: [2022-04-26 Tue 12:52] SCHEDULED: <2022-04-30 Sat>
 
@@ -797,7 +842,7 @@ CLOSED: [2022-04-24 Sun 13:34]
 CLOSED: [2022-04-26 Tue 12:52]
 
 ****** DOING 📂Doctor Aphra (2016-2019) :ongoing:hanzify:
-SCHEDULED: <2022-05-28 Sat>
+DEADLINE: <2022-05-31 Tue>
 
 ******* DONE vol.1 Aphra (#1-6)
 CLOSED: [2022-05-01 Sun 15:04]
@@ -805,8 +850,12 @@ CLOSED: [2022-05-01 Sun 15:04]
 ******* DONE vol.2 The Enormous Profit (A1, #9-12)
 CLOSED: [2022-05-13 Fri 07:24]
 
-******* NOW vol.3 Remastered
-******* vol.4 The Catastrophe Con (#20-25)
+******* DONE vol.3 Remastered
+CLOSED: [2022-05-26 Thu 13:43]
+
+没意思
+
+******* NOW vol.4 The Catastrophe Con (#20-25)
 ******* Vol.5 Worst Among Equals (A2, #26-31)
 ******* vol. 6 Unspeakable Rebel Superweapon (#32-36)
 ******* vol.7 A Rogue's End (#37-40)
@@ -828,15 +877,14 @@ takes place between the events of /Star Wars: Episode V The Empire Strikes Bac
 Between the events of /Star Wars: Episode V The Empire Strikes Back/ and /Star Wars: Episode VI Return of the Jedi/
 
 ****** Doctor Aphra v2 (2020- )
-****** DOING Bounty Hunters (2020- )
-SCHEDULED: <2022-05-15 Sun>
+****** LATER Bounty Hunters (2020- )
 
 The series features the bounty hunters /Beilert Valance/, /Boba Fett/ and /Bossk/, and takes place between the events of /Star Wars: Episode V The Empire Strikes Back/ and /Star Wars: Episode VI
 Return of the Jedi/
 
 ***** between movie 6-7
-****** NEXT [#B] Shattered Empire (2015) :hanzify:
-SCHEDULED: <2022-05-04 Wed>
+****** DONE [#B] Shattered Empire (2015) :hanzify:
+CLOSED: [2022-05-28 Sat 13:48] SCHEDULED: <2022-05-29 Sun>
 
 4 ABY–5 ABY
 
@@ -874,7 +922,7 @@ It takes place during /Order 66/
 
 It depicts Kanan's first foray into the Clone Wars
 
-***** LATER Thrawn :P2018:
+***** NEXT Thrawn :P2018:
 
 /Star Wars: Thrawn/ is a canon comic book miniseries adapting the novel of the same name (2017开始的新三部曲，与原三部曲不是一回事）. It was written by Jody Houser, illustrated by Luke Ross, and published by Marvel Comics on February 14, 2018, running until July 11, 2018. 
 
@@ -934,7 +982,12 @@ Poe Dameron was portrayed by actor Oscar Isaac in Star Wars: Episode VII The
 The story is set prior to the events of /Star Wars: Episode IX The Rise of Skywalker/. 
 
 ***** Age of Resistance
-** novels
+*** IDW
+**** The High Republic Adventures (2021.02-2022.02)
+
+15 issues
+
+** novels :📔:
 *** Darth Bane trilogy
 **** Darth Bane: Path of Destruction
 
@@ -951,6 +1004,9 @@ The novel is set in 14 BBY, five years after the events of /Star Wars: Episode
 CLOSED: <2022-05-21 Sat 11:48>
 
 9ABY
+
+**** START Dark Force Rising 黑潮汹涌
+SCHEDULED: <2022-06-05 Sun>
 
 ** for children
 *** Disney–Lucasfilm Press
