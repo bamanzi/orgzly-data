@@ -115,7 +115,7 @@ CLOSED: [2022-04-04 Mon 19:41]
 **** DONE book 1 (1-12)
 **** DONE book 2 (13-26)
 **** vol.4 Ancient History
-***** LATER Saint of Killers #1-4
+***** OVERDUE Saint of Killers #1-4
 DEADLINE: <2022-02-28 Mon>
 
 https://dc.fandom.com/wiki/Saint_of_Killers_(Preacher)
