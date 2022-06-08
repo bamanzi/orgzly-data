@@ -66,8 +66,12 @@ CLOSED: [2021-03-15 Mon 20:29]
 
 Genesis of the Cyberman (Mondas)
 
-**** 038. The Church and the Crown
-**** CANCEL [#F] 41. Nekromanteia
+**** [#C] 038. The Church and the Crown :Peri:Erimem:
+:PROPERTIES:
+:rating:   7.7
+:END:
+
+**** CANCEL [#F] 41. Nekromanteia :Erimem:
 CLOSED: [2021-03-22 Mon 23:17]
 :PROPERTIES:
 :rating:   4.5
@@ -384,7 +388,7 @@ SCHEDULED: <2022-05-14 Sat>
 ***** The Moonrakers
 ***** The People Made of Smoke
 **** Forty
-***** 1.1 Secrets of Telos :Nyssa:Tegan:Cybermen:P2022_01:D2022_07_doctor:
+***** 1.1 Secrets of Telos :Nyssa:Tegan:Cybermen:P2022_01:D2022_09_doctor:
 ***** 1.2 God of War :Nyssa:Tegan:Adric:ice_warriors:P2022_01:
 ***** 2.1 The Auton Infinity
 *** misc
@@ -559,7 +563,7 @@ CLOSED: <2021-04-18 Sun 08:14>
 
 **** [#B] 126. Blue Forgotten Planet (8.1) :Charley:Mila:plot_no:D2021_13:
 **** [#C] 134. The Wreck of the Titan (7.6)
-**** [#B] 135. Legend of the Cybermen (8.4) :Cybermen:plot_yes:D2022_06_doctor:
+**** [#B] 135. Legend of the Cybermen (8.4) :Cybermen:Jamie:Zoe:plot_yes:D2022_08_doctor:
 SCHEDULED: <2022-06-11 Sat>
 
 **** [#D] 143. The Crimes of Thomas Brewster :Evelyn:
@@ -624,7 +628,7 @@ CLOSED: [2021-10-18 Mon 20:15]
 
 **** [#A] 233. Static (8.6) :Flip:Constance:
 **** [#C] 239. Iron Bright (7.5)
-**** [#C] 240. Hour of the Cybermen (7.8) :Cybermen:
+**** [#C] 240. Hour of the Cybermen (7.8) :Cybermen:D2022_06_doctor:
 *** 6DA :short:
 **** special/bonus
 ***** [#E] The Ratings War

@@ -1191,29 +1191,32 @@
 | 047 | MR089 No Man's Land        | 7th | Ace, Hex               |
 | 048 | MR258 Warzone / Conversion | 5th | Tegan, Nyssa, Cybermen |
 
+
 ** DW 2022-05-doctor
 
-*** START CC1.1 - Frostfire                                    :1st_Dr:Vicki:
+*** DONE CC1.1 - Frostfire                                :1st_Dr:Vicki:
 
 - <second to last play position> (00:00:00)
 - <last play position> (00:05:24)
 
-*** START 3DA7.2. The Gulf                                     :3rd_Dr:Sarah:
+*** 2DONE 3DA7.2. The Gulf                                :3rd_Dr:Sarah:
 
+- start (00:01:59)
 - <second to last play position> (00:00:00)
 - <last play position> (00:23:15)
 
-*** START BF258a. Warzone                       :5th_Dr:Tegan:Nyssa:Cybermen:
+*** DONE BF258a. Warzone                   :5th_Dr:Tegan:Nyssa:Cybermen:
 
 - <last play position> (00:00:00)
 - part2 (00:30:00)
 - <second to last play position> (00:48:26)
 - music (01:00:17)
 
-*** START BF258b. Conversion                    :5th_Dr:Tegan:Nyssa:Cybermen:
+*** HALF BF258b. Conversion                :5th_Dr:Tegan:Nyssa:Cybermen:
 
 - <last play position> (00:06:42)
 - <second to last play position> (00:22:53)
+- Untitled (00:31:02)
 
 *** DONE BF089 - No Man's Land (7D)                          :7th_Dr:Ace:Hex:
 
@@ -1224,7 +1227,7 @@
 - part4 (01:38:00)
 - <last play position> (01:41:09)
 
-*** START 9DA3.3. Monsters in Metropolis                    :9th_Dr:Cybermen:
+*** DONE 9DA3.3. Monsters in Metropolis                     :9th_Dr:Cybermen:
 
 - <last play position> (00:00:00)
 - <second to last play position> (00:00:15)
@@ -1233,11 +1236,11 @@
 - <last play position> (00:00:00)
 - <second to last play position> (00:00:00)
 
-*** TODO Redacted #0. Inroducing Doctor Who Redacted                :13th_Dr:
+*** DONE Redacted #0. Inroducing Doctor Who Redacted            :13th_Dr:
 
-*** TODO Redacted #1. SOS                                           :13th_Dr:
+*** DONE Redacted #1. SOS                                           :13th_Dr:
 
-*** TODO Redacted #2. Hysteria                                      :13th_Dr:
+*** START Redacted #2. Hysteria                                     :13th_Dr:
 
 ** DW 2022-05-spinoffs
 *** DONE J&L6.1 - The Skeleton Quay                           :Jago:Litefoot:
@@ -1249,14 +1252,17 @@
 
 - <last play position> (00:00:00)
 
-*** TODO Robots1.2. Toos and Poul                                :Liv:Kaldor:
-*** TODO Robots1.3. Do No Harm
-*** DONE TNE 1.01 - Escape from New New York                      :New_Earth:
+*** TODO Robots1.2. The Sentient                     :Liv:Kaldor:
+*** DONE The Secret of Novice Hame
+
+- <last play position> (00:00:00)
+- <second to last play position> (00:04:23)
+*** START TNE 1.01 - Escape from New New York                     :New_Earth:
 
 - <last play position> (00:58:12)
 - <second to last play position> (00:58:14)
 
-*** HALF TW48. Lease of Life                                           :Owen:
+*** 2DONE TW48. Lease of Life                                      :Owen:
 
 - <second to last play position> (00:34:59)
 - <last play position> (01:01:53)
@@ -1266,51 +1272,88 @@
 - <second to last play position> (00:15:43)
 - <last play position> (00:28:55)
 
-*** TODO UNIT5.4 - False Negative                                      :UNIT:
-*** START Missy2.1. The Lumiat     :Master:Missy:
+*** 3QTR UNIT5.4 - False Negative                                  :UNIT:
+*** HALF Missy2.1. The Lumiat                                  :Master:Missy:
 
 - <last play position> (00:00:00)
 
 * DW 2022-06
+
 ** DW 2022-06-doctor
-*** TODO 10D&RS 1.3 Ghosts
+*** START LS4.2 - The Queen Of Time
 
-*** TODO 12DC1.1. The Charge of the Night Brigade
+*** HALF 4DA4.5 - Suburban Hell
 
-*** TODO 4DA7.1 - The Sons of Kaldor
+
+*** START BF240 - Hour of the Cybermen (6D)
 
 *** TODO 8DDC2.1 - Beachhead
 
 *** TODO 8DDC2.2 - Scenes From Her Life
 
-*** TODO BF135 - Legend of the Cybermen (6D)
+*** TODO DU1.3. The House of Kingdom
 
-*** TODO CC12.4 - The Tactics of Defeat (2nd Dr., Ruth)(128kbps)
+
+*** TODO 12DC1.1. The Charge of the Night Brigade
+
 
 ** DW 2022-06-spinoffs
-*** TODO BS5.1 - The Grel Escape
 
 *** TODO J&L6.3 - Military Intelligence
 
 *** TODO J&L6.4 - The Trial of George Litefoot
 
-*** TODO Jenny2.2. Altered Status
+*** START Rose1.01 - The Endless Night
 
-*** TODO KC1 - Occam's Razor
+*** START Rose1.02 - The Flood
 
 *** TODO TW1-1.1 - New Girl
 
 *** TODO TW1-1.2 - Through the Ruins
+
+*** TODO KC1 - Occam's Razor
+
+*** TODO Jenny2.2. Altered Status
+
+*** TODO DoRS6.2. The Web of Time
+
+
+* DW 2022-07
+** DW 2022-07-doctor
+*** TODO EA7.2 The Secrets of Det-Sen
+*** TODO CC7.12 - Council of War (3rd Dr., Benton)
+*** TODO 9DA4.2. Way of the Burryman
+*** TODO BF038 The Church and the Crown
+*** TODO MR 079 - Night Thoughts
+*** TODO 11DC1.3. The Light Keepers
+
+** DW 2022-07-spinoffs
+*** TODO BS 12.01 - The Kraken's Lament
+
+*** TODO BS 12.02 - The Temple of Questions
+
+*** TODO CY1.3 - Living History
+
+*** TODO KC2 - Death's Head
+
+*** TODO Missy2.2. Brimstone and Terror
+
+*** TODO RBT1.3. Love Me Not
+
+*** TODO Robots1.3. Do No Harm
+
+*** TODO TW1 1.3 - Uprising
+
+*** TODO TW51. The Five People You Kill in Meddlesbrough
+
 * DW 2022-Q3-pending
 ** doctor 1-3th
 *** TODO 3DA2.2 The Hidden Realm
 ** doctor 4th
 *** TODO 4DA7.6 - The Bad Penny-2
-*** 4DA4.5 Suburan Hell (+Leela) :4th_Dr:Leela:
 
 ** doctor 5th
 *** TODO BF159 The Emerald Tiger (5D)
-*** TODO BF258a Warzone (5D, Nyssa, Tegan)
 *** BF267a Thin Time (5D+11D)
 ** doctor 6th
 *** TODO BF135 Legend of the Cybermen (6D, "Jamie") :Cybermen:
@@ -1322,7 +1365,7 @@
 *** 7DA1.1 The Trail of a Time Machine
 *** NA#1 Love and War (7D, Benny)
 *** NA Damaged Goods (7D) #bilibili
-*** BF089 No Man's Land (7D)
+
 ** doctor 8th
 *** BF061. Faith Stealer
 *** BF080. Time Works
@@ -1331,12 +1374,11 @@
 *** BF017 Sword of Orion / CPFA1.4 Heart of Orion :8th_Dr:Charley:Cybermen:
 
 ** doctor 9-12th
-*** 9DA 3.3 Monsters in Metropolis #bilibili :Cybermen:
 *** 10D&RS #3 Ghosts
 *** ST8.8 - Flight into Hull! (alt 10D + alt Jackie)
 ** extra
 *** TODO BS1.1 - Oh No It Isn't!
-*** Jenny 2.2 Altered Status :Cybermen:
+
 
 
 

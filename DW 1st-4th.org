@@ -8,7 +8,7 @@
 
 小说翻译： https://link.zhihu.com/?target=http%3A//tieba.baidu.com/p/2575205906 
 
-**** NOW The Keys of Marinus :Voord:D2022_06_extra:
+**** NEXT The Keys of Marinus :Voord:D2022_06_extra:
 SCHEDULED: <2022-06-05 Sun>
 
 **** The Aztecs
@@ -85,11 +85,18 @@ SCHEDULED: <2021-09-22 Wed>
 ***** [#B] EA5.2 An Ideal World (8.2) :plot_no:
 ***** [#D] EA5.3 Entanglement (7.3) :plot_no:
 ***** [#A] EA5.4 The Crash of the UK-201 (8.8) :plot_no:
-**** EA S7
-***** 2DONE EA7.1 After the Daleks :Dalek_War_1st:Susan:D2021_10_daleks:
+**** EA S7 :P2021_08:
+***** 2DONE [#C] EA7.1 After the Daleks :Dalek_War_1st:Susan:D2021_10_daleks:
 CLOSED: [2021-11-01 Mon 22:54] SCHEDULED: <2021-11-01 Mon>
+:PROPERTIES:
+:rating:   7.6
+:END:
 
-***** READY EA7.2 The Secrets of Det-Sen :plot_simple:D2022_07_doctor:
+***** READY [#C] EA7.2 The Secrets of Det-Sen :plot_simple:D2022_07_doctor:
+:PROPERTIES:
+:rating:   7.8
+:END:
+
 *** 1DA :Susan:Ian:Barbara:
 **** HALF [#C] 1.1 The Destination Wars :Master_early:D2021_08_dr:
 :PROPERTIES:
@@ -610,8 +617,8 @@ SCHEDULED: <2021-10-03 Sun>
 ***** 14.3 The Prints of Denmark
 ***** 14.4 The Deepest Tragedian
 *** misc
-**** [#D] 4.2 - The Queen of Time :Jamie:Zoe:plot_yes:D2022_06_doctor:
-SCHEDULED: <2022-06-18 Sat>
+**** [#D] LS4.2 - The Queen of Time :Jamie:Zoe:plot_yes:D2022_06_doctor:
+SCHEDULED: <2022-06-08 Wed>
 :PROPERTIES:
 :rating:   7.4
 :END:
@@ -785,7 +792,7 @@ Inferno
 :rating:   7.9
 :END:
 
-**** START [#A] 7.2 The Gulf :P2021:Sarah:D2022_05_doctor:
+**** HALF [#A] 7.2 The Gulf :P2021:Sarah:D2022_05_doctor:
 SCHEDULED: <2022-05-28 Sat>
 :PROPERTIES:
 :rating:   8.7
@@ -1147,7 +1154,7 @@ CLOSED: [2021-07-27 Tue 23:11]
 :rating:   7.3
 :END:
 
-***** TODO [#C] 4.5 - Suburban Hell (7.7) :plot_yes:D2022_06_doctor:
+***** START [#C] 4.5 - Suburban Hell (7.7) :plot_yes:D2022_06_doctor:
 SCHEDULED: <2022-06-04 Sat>
 
 ***** [#D] 4.6 The Cloisters of Terror (7.4)

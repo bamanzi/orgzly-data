@@ -1740,8 +1740,10 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
 ** Nemesis 2: Agents of the Vulpreen :P2022:
 * Kaldor City / The Robots :Kaldor:
 ** Kaldor City
-*** [#B] KC1. Occam's Razor :D2022_06_spinoffs:
-    SCHEDULED: <2022-06-18 Sat>
+*** START [#B] KC1. Occam's Razor :D2022_06_spinoffs:
+    SCHEDULED: <2022-06-08 Wed>
+
+Synopsis:  http://www.drwhoguide.com/kaldor01.htm
 
 *** 2. Death's Head
 *** 3. Hidden Persuaders
@@ -1973,7 +1975,7 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
 **** [#E] +2.3 - Calamity Jenny+ (6.6)
 **** [#D] 2.4 - Her Own Wrost Enemy (7.0)
 ** Rose Tyler - The Dimension Cannon :P2019:Rose:
-*** START [#B] 1.1 - The Endless Night       (8.3) :D2022_06_spinoffs:
+*** HALF [#B] 1.1 - The Endless Night       (8.3) :D2022_06_spinoffs:
     SCHEDULED: <2022-06-04 Sat>
 
 *** [#C] 1.2 - The Flood               (7.6) :D2022_06_spinoffs:

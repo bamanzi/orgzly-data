@@ -485,7 +485,7 @@ SCHEDULED: <2022-05-21 Sat>
 :rating:   7.1
 :END:
 
-**** START [#C] 11DC1.4 - False Coronets :Jane_Austen:D2022_05_doctor:
+**** HALF [#C] 11DC1.4 - False Coronets :Jane_Austen:D2022_05_doctor:
 SCHEDULED: <2022-05-21 Sat>
 :PROPERTIES:
 :rating:   7.8
