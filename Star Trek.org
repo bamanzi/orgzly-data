@@ -1,3 +1,5 @@
+#+TITLE: Star Trek
+
 * TOS - The Original Series :TOS:
 ** TOS tv (1966-1969) :📺:
 *** TOS S1
@@ -30,7 +32,7 @@ CLOSED: [2021-03-10 Wed 22:38]
 **** DONE [#B] 1x19. Tomorrow Is Yesterday (8.0)
 **** DONE [#C] 1x20. Court Martial                   (7.5)
 **** DONE [#D] 1x21. The Return of the Archons       (7.3)
-**** DONE [#A] 1x22. Space Seed (8.9)
+**** DONE [#A] 1x22. Space Seed (8.9) :Khan:
 **** DONE [#B] 1x23. A Taste of Armageddon           (8.1)
 **** DONE [#B] 1x24. This Side of Paradise           (8.0)
 **** DONE [#B] 1x25. The Devil in the Dark           (8.4)
@@ -214,7 +216,7 @@ CLOSED: [2021-02-25 Thu 18:55]
 #+TBLFM: $2='(cond ((> $4 8.5) "[#A]") ((>= $4 8.0) "[#B]") ((>= $4 7.5) "[#C]") ((>= $4 7.0) "[#D]") (t "[#E]"));N
 #+TBLFM: $1='(cond ((< $4 7.0) "CANCEL") (t ""));N
 
-** TAS tv (1973-1974) :📺:TAS:
+** TAS tv (1973-1974) :📺:TAS:animated:
 *** 📂TAS S1
 
 16 episodes
@@ -237,8 +239,12 @@ CLOSED: [2021-04-03 Sat 16:17]
 **** DONE 1x06 The Survivor (6.8)
 CLOSED: [2021-03-12 Fri 21:24]
 
-**** NEXT 1x07 The Infinite Vulcan (6.1)
+**** DONE 1x07 The Infinite Vulcan (6.1)
+CLOSED: [2022-05-31 Tue 06:44]
+
 **** NEXT 1x08 The Magicks of Megas-Tu (6.0)
+SCHEDULED: <2022-06-03 Fri>
+
 **** 1x09 Once Upon a Planet (6.3)
 **** 1x10 Mudd's Passion (6.5)
 **** 1x11 The Terratin Incident (6.6)
@@ -259,24 +265,25 @@ CLOSED: [2021-04-01 Thu 18:43]
 **** 2x05 Albatross	(6.9)
 **** 2x05 How Sharper Than a Serpent's Tooth	(6.5)
 **** [#D] 2x06 The Counter-Clock Incident (7.1)
-** DOING 📂STC (2013) :📺:fan_made:STC:
+** fan_made videos                                                 :fan_made:
+*** DOING 📂STC (2013) :📺:STC:
 
-11 episodes
+ 11 episodes
 
-*** DONE [#B] 1. Pilgrim of Eternity (8.0) 阿波罗
-CLOSED: [2021-03-09 Tue 20:13]
+**** DONE [#B] 1. Pilgrim of Eternity (8.0) 阿波罗
+     CLOSED: [2021-03-09 Tue 20:13]
 
-*** DONE [#A] 2. Lolani 楼兰妮 (8.5) :Orion:
-CLOSED: [2021-03-31 Wed 23:00]
+**** DONE [#A] 2. Lolani 楼兰妮 (8.5)                                 :Orion:
+     CLOSED: [2021-03-31 Wed 23:00]
 
-*** DONE [#A] 3. Fairest of Them All 镜像 (9.1) :mirror_universe:
-CLOSED: [2022-05-18 Wed 19:03]
+**** DONE [#A] 3. Fairest of Them All 镜像 (9.1)            :mirror_universe:
+     CLOSED: [2022-05-18 Wed 19:03]
 
-*** DONE [#C] 4. The White Iris 鸢尾花 (7.9)
-CLOSED: [2021-04-10 Sat 11:54]
+**** DONE [#C] 4. The White Iris 鸢尾花 (7.9)
+     CLOSED: [2021-04-10 Sat 11:54]
 
-*** NEXT [#C] 5. Divided We Stand (7.9)
-*** [#A] 6. Come Not Between the Dragons (8.5)
+**** NEXT [#C] 5. Divided We Stand 内战 (7.9)
+**** [#A] 6. Come Not Between the Dragons (8.5)
 ** movies :🎦:
 *** 2DONE 1. Star Trek: The Motion Picture 无限太空 :P1979:
 *** 2DONE 2. The Wrath of Khan 可汗怒吼 :P1982:Khan:
@@ -308,11 +315,11 @@ IDW Best of Star Trek vol.5
 *** IDW
 **** New Visions :photonovel:
 ***** Strange New Worlds (Annual 2013) :tv_continuation:
-***** NOW 01. The Mirror Cracked :mirror_universe:
+***** NEXT 01. The Mirror Cracked :mirror_universe:
 ***** NEXT Special: The Cage :tv_based:Pike:
 **** TPB: TOS omnibus
 ***** DONE Blood Will Tell :hanzify:⭐️:Klingons:
-***** DONE Year Four :2007:
+***** DONE [#C] Year Four                                              :2007:
 CLOSED: [2021-02-14 Sun 16:09]
 
 ****** 2DONE 01
@@ -390,7 +397,7 @@ CLOSED: [2021-01-15 Fri 13:56]
 CLOSED: [2022-05-27 Fri 08:46]
 
 *** *best :⭐️:
-**** DONE All the Infinite Ways :Marvel:P1981:Klingons:
+**** DONE [#B] All the Infinite Ways                  :Marvel:P1981:Klingons:
 CLOSED: [2021-02-18 Thu 23:03]
 
 **** 2DONE Gold Key 100-page (IDW selection) :hanzify:TOS:
@@ -412,10 +419,10 @@ CLOSED: [2021-01-11 Mon 13:05]
 
 ****** [#A] v2 #10-12 The Trial of James T. Kirk
 ***** IDW STA1: Best of Peter David :P1990:
-****** DONE Retrospect (DC TOS vol1 Annual 03) (1988) 往事成追忆 :hanzify:
+****** DONE [#A] Retrospect (DC TOS vol1 Annual 03) (1988) 往事成追忆 :hanzify:
 CLOSED: [2021-01-11 Mon 14:34]
 
-****** DONE Once a Hero... (DC TOS vol2 #19) 一朝为英雄 :hanzify:
+****** DONE [#A] Once a Hero... (DC TOS vol2 #19) 一朝为英雄        :hanzify:
 CLOSED: [2021-01-11 Mon 17:50]
 
 ****** LATER DC TOS vol.2 #13-15
@@ -438,7 +445,7 @@ CLOSED: [2021-01-12 Tue 19:43]
 
 ****** DC TOS vol.1 #31-32
 ***** STCvol.5 Who Killed Captain Kirk (DC TOS vol.1 48-55)
-***** Debt of Honor :DC:P1992:
+***** [#B] Debt of Honor                                           :DC:P1992:
 
 Captain Kirk and the crew of the USS Enterprise find themselves teamed with the Klingons and Romulans to fight a the galactic threat that no government dares admit exists…
 
@@ -448,9 +455,9 @@ Captain Kirk and the crew of the USS Enterprise find themselves teamed wi
 
  sequel story to the second pilot, "Where No Man Has Gone Before".
 
-***** DONE Spock Reflections :hanzify:
-***** Burden of Knowledge
-***** Leonard McCoy Frontier Doctor
+***** DONE [#B] Spock Reflections                                   :hanzify:
+***** [#B] Burden of Knowledge
+***** [#B] Leonard McCoy Frontier Doctor
 ** short stories
 *** Strange New Worlds VI
 **** "Whales Weep Not" by Juanita Nolte
@@ -543,14 +550,20 @@ CLOSED: [2022-05-25 Wed 08:06]
 **** DONE [#D] 3x20. Tin Man                  (7.4)
 **** DONE [#C] 3x21. Hollow Pursuits          (7.9)
 **** DONE [#C] 3x22. The Most Toys            (7.8)
-**** DONE [#B] 3x23. Sarek                    (8.2)
+**** NOW [#B] 3x23. Sarek                    (8.2)
+SCHEDULED: <2022-06-05 Sun>
+
 **** CANCEL [#E] 3x24. Ménage à Troi          (6.7)
 **** DONE [#D] 3x25. Transfigurations         (7.0)
 **** DONE [#A] 3x26. The Best of Both Worlds  (9.4) :Borg:Picard:
 *** TNG S4 :Y2367:
 **** DONE [#A] 4x01. The Best of Both Worlds: Part II (9.3) :Borg:
 **** DONE [#B] 4x02. Family          (8.3) :Picard:
-**** DONE [#C] 4x03. Brothers        (7.9) :Data:
+**** DONE [#C] 4x03. Brothers        (7.9) :Data:Lore:
+CLOSED: [2022-06-03 Fri 20:06]
+
+Data jeopardizes an emergency mission to save an ill child when he receives a signal from his creator, Noonian Soong.
+
 **** CANCEL [#E] 4x04. Suddenly Human  (6.6)
 **** DONE [#C] 4x05. Remember Me     (7.9)
 **** CANCEL [#E] 4x06. Legacy          (6.8)
@@ -783,14 +796,14 @@ CLOSED: [2021-04-07 Wed 20:13]
 :rating:   8.6
 :END:
 
-**** DONE [#B] 6x26 Descent, part 1 :Data:
+**** DONE [#B] 6x26 Descent, part 1 :Data:Lore:
 CLOSED: <2022-05-27 Fri 20:18> SCHEDULED: <2022-06-03 Fri>
 :PROPERTIES:
 :rating:   8.3
 :END:
 
 *** TNG S7 :Y2370:
-**** DONE [#C] 7x1. Descent, Part II     (7.9) :Data:
+**** DONE [#C] 7x1. Descent, Part II     (7.9) :Data:Lore:
 CLOSED: [2022-05-27 Fri 22:42] SCHEDULED: <2022-06-03 Fri>
 
 **** CANCEL [#E] 7x2. Liaisons             (6.7)
@@ -847,7 +860,7 @@ CLOSED: [2022-05-23 Mon 20:25]
 *** DC Comics (1988-1996)
 **** TNG vol.1 (1988)
 **** TNG vol.2 (1989-1996)
-***** [#B] 47-50 The Worst of Both Worlds :⭐️:Borg:P1993:BoST:best:
+***** NEXT [#B] 47-50 The Worst of Both Worlds :⭐️:Borg:P1993:BoST:best:
 
 IDW best of star trek vol.2
 
@@ -862,21 +875,21 @@ IDW best of star trek vol.2
 **** Embrace the Wolf
 **** The Killing Shadows
 *** IDW :IDW:
-**** LATER [TPB] TNG omnibus
+**** [TPB] TNG omnibus
 ***** The Space Between
 ***** Intelligence Gathering
-***** The Last Generation
+***** [#C] The Last Generation
 ***** Ghosts
 ***** [#B] Hive :Borg:
 **** DONE The Next Generation/Doctor Who: Assimilation² :crossover:
 CLOSED: [2021-01-10 Sun 10:35]
 
-**** 📂TNG mirror_universe :mirror_universe:hanzify:
+**** [#B] 📂TNG mirror_universe                     :mirror_universe:hanzify:
 ***** DONE Mirror Broken （破碎镜像） :mirror_universe:
 ***** DONE Through the Mirror （穿越镜像） :mirror_universe:
 ***** DONE Terra Incognita （未知领域） :mirror_universe:
 ***** LATER Mirror War :P2022:
-*** * best :⭐️:
+*** _best :⭐️:
 **** DONE Best of Star Trek TNG (DC) :DC:
 ***** DONE [#B] v2 #05-06 Serafin's Survivors :Geordi:P1990:
 ***** DONE [#B] v2 #09 The Lesson :Deanna:Dr_Crusher:Riker:P1990:
@@ -1560,8 +1573,7 @@ CLOSED: [2021-03-13 Sat 19:47]
 **** DONE 2x14 Such Sweet Sorrow, Part 2
 CLOSED: [2021-03-13 Sat 22:56]
 
-*** DONE 📂DSC S3 :2020:
-CLOSED: [2022-05-27 Fri 08:46]
+*** DOING 📂DSC S3 :2020:
 
 13 episodes
 
@@ -1586,10 +1598,10 @@ CLOSED: [2021-03-21 Sun 21:40]
 
 12 Nov. 2020
 
-**** NOW 3x06 Scavengers
-SCHEDULED: <2022-06-18 Sat>
+**** DONE 3x06 Scavengers
+CLOSED: [2022-06-02 Thu 20:36] SCHEDULED: <2022-06-18 Sat>
 
-**** NEXT 3x07 Unification III
+**** NOW 3x07 Unification III
 SCHEDULED: <2022-06-18 Sat>
 
 **** 3x08 The Sanctuary
@@ -1598,8 +1610,16 @@ SCHEDULED: <2022-06-18 Sat>
 *** 2DONE Discovery: Succession (继位) :mirror_universe:hanzify:
 *** 2DONE Discovery: Aftermath (余波) :hanzify:
 * _others
-** tv :tv:
-*** DOING 📂Picard (2020- ) :Picard:
+** tv :tv:📺:
+*** short treks :ST:
+**** 1x03 The Brightest Star :DSC:
+**** 2x01 Q&A :Spock:Una:Pike:
+**** 2x02 The Trouble with Edward :Tribbles:
+**** 2x03 Ask Not :Pike:Spock:
+**** DONE 2x06 Children of Mars :PIC:Y2385:
+CLOSED: [2022-06-05 Sun 12:34]
+
+*** DOING 📂Picard (2020- ) :PIC:Y2399:
 **** DONE 1x01 Remembrance
 CLOSED: <2021-02-28 Sun 21:03>
 
@@ -1609,14 +1629,18 @@ CLOSED: <2021-02-28 Sun 20:03>
 **** DONE 1x03 The End is the Beginning
 CLOSED: <2021-02-28 Sun 19:03>
 
-**** NEXT 1x04 Absolute Candor
-**** NEXT 1x05 Stardust City Rag
+**** DONE 1x04 Absolute Candor
+CLOSED: <2022-06-05 Sun 11:45> SCHEDULED: <2022-06-04 Sat>
+
+**** NOW 1x05 Stardust City Rag :Seven_of_Nine:
+SCHEDULED: <2022-06-04 Sat>
+
 **** 1x06 The Impossible Box
 **** 1x07 Nepenthe
 **** 1x08 Broken Pieces
 **** 1x09 Et in Arcadia Ego, Part 1
 **** 1x10 Et in Arcadia Ego, Part 2
-*** DOING 📂Lower Decks (2020- ) :LD:
+*** DOING 📂Lower Decks (2020- ) :LD:animated:
 **** DONE 1x01 Second Contact
 CLOSED: <2021-01-12 Tue 19:10>
 
@@ -1677,7 +1701,7 @@ CLOSED: [2021-01-13 Wed 12:45]
 ****** Captain's Log: Harriman
 ****** Captain's Log: Pike :Pike:
 ****** Captain's Log: Jellico
-***** DONE The Q Conflict :hanzify:
+***** DONE [#C] The Q Conflict                                      :hanzify:
 
 《Q的纠缠(The Q Conflict)》，Q神带着23和24世纪大联欢。
 
@@ -1695,8 +1719,10 @@ CLOSED: [2021-01-13 Wed 12:45]
 ***** Star Trek: New Frontier
 ***** DONE Assignment Earth
 ***** Star Trek Deviations.
-***** Star Trek: Crew
-***** Picard: Countdown
+***** NEXT Star Trek: Crew
+***** DONE Picard: Countdown
+CLOSED: <2022-06-04 Sat 17:14> SCHEDULED: <2022-06-03 Fri>
+
 **** crossovers
 ***** The Next Generation/Doctor Who: Assimilation2 :doctor-who:11D:tng:
 ***** Star Trek/Planet of the Apes
@@ -1709,12 +1735,12 @@ CLOSED: [2021-01-13 Wed 12:45]
 ****** Alien Spotlight Vol. 1: Romulans
 ****** Alien Spotlight Vol. 2: Tribbles
 ****** Captain's Log: Sulu
-****** Mission's End #1
+****** NEXT [#C] Mission's End #1
 ***** 2012 (Feb)
 ****** Alien Spotlight: Q
 ****** Captain's Log: Pike
 ****** Alien Spotlight: Gorn
-****** Khan - Ruling in Hell #1
+****** [#B] Khan - Ruling in Hell #1
 ***** 2012 Summer
 ****** DONE Embrace the Wolf :TNG:Wildstorm:
 CLOSED: [2022-05-27 Fri 08:46]
@@ -1745,12 +1771,18 @@ https://memory-beta.fandom.com/wiki/Strange_New_Worlds_II
 **** DONE [#A] "I Am Klingon" by Ken Rand (Third Prize) :TNG:Klingons:
 CLOSED: [2022-05-27 Fri 16:39]
 
+The Enterprise-D discovers a century-old Klingon "lifeboat," with an unusual looking Klingon aboard.
+
 进取号打捞到一艘100年前的救生船，里面有一个没有头脊的克林贡人，Worf 了解到了一段被刻意遗忘的往事。这个克林贡人身体已经撑不了24小时，Worf 不想将他送回克林贡，而是打算让他带着荣誉死去，同时也可以洗清对方家族的名声
 
 **** "Reciprocity" by Brad Curry :TNG:
 **** "Calculated Risk" by Christina F. York :TNG:
 **** "Gods, Fate, and Fractals" by William Leisner :TNG:
-**** "I Am Become Death" by Franklin Thatcher :TNG:
+**** NEXT "I Am Become Death" by Franklin Thatcher :TNG:Data:
+SCHEDULED: <2022-06-05 Sun>
+
+In the far future of an alternate timeline, humanoid life is extinct, replaced by a race of androids begun by Data.
+
 **** "Research" by J. R. Rasmussen :DS9:
 **** "Change of Heart" by Steven Scott Ripley :DS9:
 **** [#A] "A Ribbon for Rosie" by Ilsa J. Bick (Grand Prize) :VOY:
@@ -1786,7 +1818,7 @@ https://memory-beta.fandom.com/wiki/Strange_New_Worlds_IV
 **** "Welcome Home" by Diana Kornfeld :VOY:
 **** [#A] "Shadows, in the Dark" by Ilsa J. Bick (Second Prize) :VOY:
 *** [#C] Strange New Worlds V (3.83)
-*** TODO [#B] Strange New Worlds VI (3.99) :已购:P2003:
+*** DOING [#B] 📂Strange New Worlds VI (3.99) :已购:P2003:
 
 https://memory-beta.fandom.com/wiki/Strange_New_Worlds_VI
 

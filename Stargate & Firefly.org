@@ -190,7 +190,6 @@ BDrip 720p 人人影视
 终极无剧透观影顺序指南
 https://m.douban.com/note/731811864
 
-
 *** DONE [#A] TV mini (2003)
 CLOSED: [2021-07-18 Sun 15:42]
 
@@ -289,24 +288,24 @@ CLOSED: [2022-05-25 Wed 21:10] SCHEDULED: <2022-05-27 Fri>
 **** DONE 2x16
 CLOSED: [2022-05-28 Sat 08:23] SCHEDULED: <2022-05-28 Sat>
 
-**** NOW 2x17
-SCHEDULED: <2022-05-29 Sun>
+**** DONE 2x17
+CLOSED: [2022-06-03 Fri 15:49] SCHEDULED: <2022-06-03 Fri>
 
-*** NEXT The Plan
-SCHEDULED: <2022-05-31 Tue>
+**** 2x18
+**** 2x19
+**** 2x20
+*** DONE The Plan
+CLOSED: [2022-06-05 Sun 22:44] SCHEDULED: <2022-06-05 Sun>
 
 Set during the events from the Miniseries to Season 2's /"Lay Down Your Burdens, Part II (2x20),"/ this story is told from the Cylons' perspective, centering on two distinct Cavil copies as they try to fulfill the Cylons' plan.
 
 *** Razer
-SCHEDULED: <2022-05-31 Tue>
 
  建议在2x17之后观看
 
 在看完第三季之前不要看最后10分钟
 
 **** Razer: Flashback
-SCHEDULED: <2022-05-31 Tue>
-
 *** The Resistance (10集短篇)
 
 这部网络剧的作用是连接第二季和第三季，有 1 到 10 的合集版，十分推荐
@@ -375,12 +374,12 @@ It’s a dangerous time for the last remaining humans. Captured by the Cylons on
 
 观看顺序：https://www.douban.com/doulist/133200925/
 
-*** saga
-**** Star Wars: Episode I The Phantom Menace
+*** skywalker saga
+**** LATER Star Wars: Episode I The Phantom Menace
 
 32BBY
 
-**** Star Wars: Episode II Attack of the Clones
+**** LATER Star Wars: Episode II Attack of the Clones
 
 22BBY
 
@@ -415,20 +414,19 @@ CLOSED: [2022-05-29 Sun 13:32]
 
 0 BBY, days before A New Hope, with a prologue set in 13 BBY
 
-**** NEXT Solo
-SCHEDULED: <2022-05-29 Sun>
+**** LATER Solo
 
 10 BBY, with a prologue set in 13 BBY
 
 **** TBR A Droid Story 机器人故事 :P2022:
 **** TBR Rogue Squadron :P2023:
 *** movies (legends)
-**** Holiday Special
-**** Caravan of Courage
-**** The Battle for Endor
+**** Holiday Special :P1978:
+**** Caravan of Courage :P1984:
+**** Ewoks The Battle for Endor :P1985:
 ** tv :📺:
 *** tv (canon, live-action)
-**** 📂The Mandalorian (2019- )
+**** The Mandalorian (2019- )
 DEADLINE: <2022-05-31 Tue>
 
 ***** DONE 📂Mandalorian season 1 (8 eps) :P2019:
@@ -457,12 +455,20 @@ CLOSED: [2022-05-07 Sat 21:23]
 CLOSED: [2022-05-14 Sat 17:30]
 
 ****** DONE 1x08 Redemption
-CLOSED: [2022-05-29 Sun 05:47] SCHEDULED: <2022-05-28 Sat 21:47>
+CLOSED: <2022-05-28 Sat 21:47>
 
 ***** DOING 📂Mandalorian season 2 (8 eps) :P2020:
-
 ****** DONE 2x01
 CLOSED: [2022-05-29 Sun 21:14]
+
+****** DONE 2x02
+CLOSED: <2022-05-31 Tue 21:45>
+
+****** DONE 2x03
+CLOSED: <2022-06-03 Fri 22:15>
+
+****** NOW 2x04
+SCHEDULED: <2022-06-05 Sun>
 
 ***** season 3 :P2023:
 **** The Book of Boba Fett
@@ -532,20 +538,20 @@ CLOSED: [2022-05-12 Thu 21:09]
 ****** DONE 1x09
 CLOSED: [2022-05-20 Fri 23:34]
 
-****** NOW 1x10
-SCHEDULED: <2022-05-29 Sun>
+****** DONE 1x10 :Lando:
+CLOSED: [2022-05-31 Tue 20:11] SCHEDULED: <2022-05-29 Sun>
 
-****** DONE 1x11
+****** DONE 1x11 Vision of Hope
 CLOSED: <2022-05-26 Thu 08:06>
 
-****** NOW 1x12
-SCHEDULED: <2022-05-29 Sun>
+****** DONE 1x12 Call to Action
+CLOSED: [2022-06-02 Thu 18:45] SCHEDULED: <2022-06-02 Thu>
 
-****** LATER 1x13
-SCHEDULED: <2022-05-31 Tue>
+****** DONE 1x13 Rebel Resolve
+CLOSED: [2022-06-05 Sun 16:21] SCHEDULED: <2022-06-06 Mon>
 
-****** LATER 1x14
-SCHEDULED: <2022-05-31 Tue>
+****** NOW 1x14 Fire Across the Galaxy
+SCHEDULED: <2022-06-07 Tue>
 
 ***** season 2 (22 eps) :P2015:
 ***** season 3 (22 eps) :P2016:
@@ -664,7 +670,7 @@ CLOSED: [2022-05-01 Sun 12:57] SCHEDULED: <2022-05-05 Thu>
 
 0-3ABY
 
-***** Shadows of the Empire trilogy
+***** DONE Shadows of the Empire trilogy
 ****** DONE [#C] 📂Shadows of the Empire (1996, 1998)
 CLOSED: <2022-05-11 Wed 10:48>
 
@@ -701,7 +707,7 @@ CLOSED: <2022-05-21 Sat 14:52>
 
 ****** Dark Force Rising
 ****** The Last Command
-***** [#A] Dark Empire trilogy :Luke:Solo:Leia:
+***** LATER [#A] Dark Empire trilogy :Luke:Solo:Leia:
 
  All three comic series detailed the resurrection of Emperor Palpatine in clone bodies.
 
@@ -709,7 +715,7 @@ CLOSED: <2022-05-21 Sat 14:52>
 
 https://starwars.fandom.com/wiki/Star_Wars:_Dark_Empire
 
-***** [#B] Crimson Empire trilogy
+***** LATER [#B] Crimson Empire trilogy
 
  11ABY
 
@@ -748,25 +754,25 @@ It ran for 83 issues, spanning from before The Phantom Menace to after Reveng
 *** Marvel (2015- ) :canon:
 **** 正传三部曲相关
 ***** before movie 4
-****** Solo: A Star Wars Story Adaptation
+****** LATER Solo: A Star Wars Story Adaptation
 SCHEDULED: <2022-05-14 Sat>
 
 13BBY-10BBY
 
-****** Han Solo - Imperial Cadet :P2018:
+****** LATER Han Solo - Imperial Cadet :P2018:
 SCHEDULED: <2022-05-14 Sat>
 
 Between 13 BBY and 10 BBY
 
-****** Lando - Double or Nothing :P2018:
+****** LATER Lando - Double or Nothing :P2018:
 SCHEDULED: <2022-05-14 Sat>
 
 10BBY
 
 It told a story that focused on the characters Lando Calrissian and L3-37 just prior to Solo: A Star Wars Story
 
-****** NEXT Vader - Dark Visions :P2019:hanzify:
-SCHEDULED: <2022-05-31 Tue>
+****** LATER Vader - Dark Visions :P2019:hanzify:
+SCHEDULED: <2022-06-03 Fri>
 
 Between 2 BBY and 0 BBY
 
@@ -784,7 +790,7 @@ CLOSED: [2022-04-29 Fri 13:22]
 0 ABY
 
 ****** DOING 📂Star Wars (2015-2019) :ongoing:
-SCHEDULED: <2022-06-02 Thu>
+SCHEDULED: <2022-06-05 Sun>
 
 set between the events of /Star Wars: Episode IV A New Hope/ and /Star Wars: Episode V The Empire Strikes Back/
 
@@ -813,9 +819,15 @@ CLOSED: [2022-05-03 Tue 15:22] SCHEDULED: <2022-05-10 Tue>
 ******* DONE vol.5X The Screaming Citadel
 CLOSED: [2022-05-03 Tue 16:25] SCHEDULED: <2022-05-10 Tue>
 
-******* NOW Vol.6 Out Among the Stars (#33-37,A3)
-******* NEXT Vol.7 The Ashes of Jedha (#38-43)
-******* vol.8 Mutiny at Mon Cala (#44-49,A4)
+******* DONE Vol.6 Out Among the Stars (#33-37,A3)
+CLOSED: [2022-06-03 Fri 07:09] SCHEDULED: <2022-06-01 Wed>
+
+******* LATER Vol.7 The Ashes of Jedha (#38-43)
+SCHEDULED: <2022-06-04 Sat>
+
+******* LATER vol.8 Mutiny at Mon Cala (#44-49,A4)
+SCHEDULED: <2022-06-05 Sun>
+
 ******* vol.9 Hope Dies (#50-55)
 ******* vol.10 The Escape (#56-61)
 ******* [#B] vol.11 The Scourging of Shu-Torun (#62-67)
@@ -855,8 +867,8 @@ CLOSED: [2022-05-26 Thu 13:43]
 
 没意思
 
-******* NOW vol.4 The Catastrophe Con (#20-25)
-******* Vol.5 Worst Among Equals (A2, #26-31)
+******* LATER vol.4 The Catastrophe Con (#20-25)
+******* LATER Vol.5 Worst Among Equals (A2, #26-31)
 ******* vol. 6 Unspeakable Rebel Superweapon (#32-36)
 ******* vol.7 A Rogue's End (#37-40)
 ****** DONE Lando (2015) :hanzify:
@@ -922,7 +934,7 @@ It takes place during /Order 66/
 
 It depicts Kanan's first foray into the Clone Wars
 
-***** NEXT Thrawn :P2018:
+***** Thrawn :P2018:
 
 /Star Wars: Thrawn/ is a canon comic book miniseries adapting the novel of the same name (2017开始的新三部曲，与原三部曲不是一回事）. It was written by Jody Houser, illustrated by Luke Ross, and published by Marvel Comics on February 14, 2018, running until July 11, 2018. 
 
@@ -983,10 +995,6 @@ The story is set prior to the events of /Star Wars: Episode IX The Rise of Skywa
 
 ***** Age of Resistance
 *** IDW
-**** The High Republic Adventures (2021.02-2022.02)
-
-15 issues
-
 ** novels :📔:
 *** Darth Bane trilogy
 **** Darth Bane: Path of Destruction
@@ -1005,8 +1013,8 @@ CLOSED: <2022-05-21 Sat 11:48>
 
 9ABY
 
-**** START Dark Force Rising 黑潮汹涌
-SCHEDULED: <2022-06-05 Sun>
+**** HALF Dark Force Rising 黑潮汹涌
+SCHEDULED: <2022-06-10 Fri>
 
 ** for children
 *** Disney–Lucasfilm Press
@@ -1055,4 +1063,8 @@ https://starwars.fandom.com/wiki/Disney%E2%80%93Lucasfilm_Press
 **** movie adaptations
 
 https://starwars.fandom.com/wiki/Star_Wars_Movie_Adaptations
+
+**** The High Republic Adventures (2021.02-2022.02)
+
+15 issues
 
