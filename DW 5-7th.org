@@ -86,28 +86,28 @@ SCHEDULED: <2022-02-24 Thu>
 **** [#C] 047. Omega
 **** Zagreus
 *** main range 051-100 :scripted:
-**** CANCEL [#F] The Axis of Insanity
+**** CANCEL [#F] 056. The Axis of Insanity :Erimem:
 CLOSED: [2021-03-22 Mon 23:22]
 :PROPERTIES:
 :rating:   6.2
 :END:
 
-**** CANCEL [#E] The Roof of the World
+**** CANCEL [#E] 059. The Roof of the World :Erimem:
 CLOSED: [2021-03-22 Mon 23:24]
 :PROPERTIES:
 :rating:   6.3
 :END:
 
 **** The Game
-**** CANCEL [#E] Three's a Crowd
+**** CANCEL [#E] 069. Three's a Crowd :Erimem:
 CLOSED: [2021-06-15 Tue 08:16]
 :PROPERTIES:
 :rating:   6.4
 :END:
 
-**** The Council of Nicaea
+**** [#C] 071. The Council of Nicaea :Peri:Erimem:
 **** Singularity
-**** [#A] The Kingmaker :Peri:Erimem:4D:plot_no:
+**** [#A] MR081. The Kingmaker :Peri:Erimem:4D:plot_no:
 :PROPERTIES:
 :rating:   8.8
 :END:
@@ -152,7 +152,7 @@ CLOSED: <2021-05-29 Sat 08:11>
 **** The 100 Days of the Doctor
 *** main range 101-150 :scripted:
 **** START 102. The Mind's Eye / Mission of the Viyrans :Viyrans:Peri:D2021_04:
-**** 104. The Bride of Peladon
+**** [#C] 104. The Bride of Peladon :Peri:Erimem:
 **** 3QTR [#C] 107. The Haunting of Thomas Brewster :D2021_12_doctor:week4:
 CLOSED: [2021-12-28 Tue 14:32] SCHEDULED: <2021-12-26 Sun>
 :PROPERTIES:
@@ -363,7 +363,7 @@ SCHEDULED: <2022-05-14 Sat>
 :rating:   7.8
 :END:
 
-**** [#E] 267b. Madquake
+**** [#E] 267b. Madquake :plot_yes:
 :PROPERTIES:
 :rating:   6.8
 :END:
@@ -694,67 +694,68 @@ Volume One
 ***** 2. The Murder of Oliver Akkron
 ***** 3. Elevation
 *** The Lost Stories
-**** [#E] LS1.1 The Nightmare Fair :scripted:
+**** The Lost Stories s1 :Peri:
+***** [#E] LS1.1 The Nightmare Fair :scripted:
 :PROPERTIES:
 :rating:   6.8
 :END:
 
-**** CANCEL [#F] +LS1.2 Mission to Magnus+ :ice_warriors:
+***** CANCEL [#F] +LS1.2 Mission to Magnus+ :ice_warriors:
 :PROPERTIES:
 :rating:   5.7
 :END:
 
-**** [#B] 1.3 - Leviathan :scripted:
+***** [#B] 1.3 - Leviathan :scripted:
 :PROPERTIES:
 :rating:   8.1
 :END:
 
-**** CANCEL [#F] 1.4 - The Hollows of Time
+***** CANCEL [#F] 1.4 - The Hollows of Time
 :PROPERTIES:
 :rating:   5.8
 :END:
 
-**** [#B] 1.5 - Paradise 5 :scripted:
+***** [#B] 1.5 - Paradise 5 :scripted:
 :PROPERTIES:
 :rating:   8.1
 :END:
 
-**** [#D] 1.6 - Point of Entry :scripted:
+***** [#D] 1.6 - Point of Entry :scripted:
 :PROPERTIES:
 :rating:   7.3
 :END:
 
-**** [#C] 1.7 - The Song of Megaptera :scripted:
+***** [#C] 1.7 - The Song of Megaptera :scripted:
 :PROPERTIES:
 :rating:   7.5
 :END:
 
-**** CANCEL [#E] 1.8 - The Macros
+***** CANCEL [#E] 1.8 - The Macros
 :PROPERTIES:
 :rating:   6.8
 :END:
 
-**** [#C] 3.4 - The Guardians of Prophecy
+**** [#C] 3.4 - The Guardians of Prophecy :Peri:
 :PROPERTIES:
 :rating:   7.9
 :END:
 
-**** CANCEL [#E] 3.5 - Power Play
+**** CANCEL [#E] 3.5 - Power Play :Peri:
 :PROPERTIES:
 :rating:   6.5
 :END:
 
-**** [#B] 3.6 - The First Sontarans
+**** [#B] 3.6 - The First Sontarans :Peri:
 :PROPERTIES:
 :rating:   8.2
 :END:
 
-**** CANCEL [#F] 5.2 - The Ultimate Evil
+**** CANCEL [#F] 5.2 - The Ultimate Evil :Peri:
 :PROPERTIES:
 :rating:   5.1
 :END:
 
-**** [#D] Mind of the Hodiac :P2022_03:
+**** [#D] Mind of the Hodiac :Mel:P2022_03:
 *** misc
 **** Jago and Litefoot: Series 4 :short:
 ***** 2DONE Jago in Love
@@ -1020,7 +1021,7 @@ CLOSED: [2021-03-23 Tue 13:04]
 :rating:   8.5
 :END:
 
-**** [#B] UNIT - Dominion
+**** [#B] UNIT - Dominion :Klein:
 :PROPERTIES:
 :rating:   8.1
 :END:

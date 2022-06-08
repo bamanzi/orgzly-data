@@ -82,7 +82,7 @@ CLOSED: [2022-05-19 Thu 08:51] SCHEDULED: <2022-05-07 Sat>
 :END:
 
 *** fan-made :fan_made:
-**** START 0.3 - What I Did on My Christmas Holidays by Sally Sparrow :short:D2022_03_doctor:week4:
+**** START 0.3 - What I Did on My Christmas Holidays by Sally Sparrow :short:D2022_03_doctor:week4:🗣:
 SCHEDULED: <2022-03-19 Sat>
 
 **** 0.4 - The Beast of Babylon
@@ -473,7 +473,7 @@ CLOSED: <2021-10-16 Sat 10:18>
 *** S6
 **** DONE 6x07 A Good Man Goes to War :River:
 ** audio :🎧:
-*** 11DC vol.1
+*** 11DC vol.1 :🗣:
 **** [#D] 1.1 - The Calendar Man
 :PROPERTIES:
 :rating:   7.3
@@ -614,7 +614,7 @@ CLOSED: <2021-09-23 Thu 11:39>
 CLOSED: [2021-09-24 Fri 08:10]
 
 ** audio :🎧:
-*** 12DC vol.1
+*** 12DC vol.1 :P2020:🗣:
 **** [#D] 1. The Charge of the Night Brigade :Mary_Seacole:D2022_06_doctor:
 SCHEDULED: <2022-06-04 Sat>
 :PROPERTIES:
@@ -636,7 +636,7 @@ SCHEDULED: <2022-06-04 Sat>
 :rating:   7.6
 :END:
 
-*** 12DC vol.2
+*** 12DC vol.2 :P2021:
 **** HALF [#B] 12DC2.1. Flight to Calandra (?8.2) :D2021_11_doctor:
 SCHEDULED: <2021-11-20 Sat>
 

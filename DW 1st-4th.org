@@ -141,7 +141,7 @@ SCHEDULED: <2022-03-12 Sat>
 *** 1DA Outlaws
 **** 6.1 The Outlaws :Dodo:Monk:P2022_04:
 **** 6.2 The Miniaturist :Dodo:P2022_04:
-*** CC
+*** CC :🗣:
 **** Sara Kingdom trilogy
 ***** TODO [#A] CC3.5 - Home Truths :D2021_13:Sara_Kingdom:
 :PROPERTIES:
@@ -512,7 +512,7 @@ SCHEDULED: <2021-12-15 Wed>
 ***** DONE [#A] 6.2 Daughter of the Gods (9.2) :Jamie:Zoe:Steven:Katarina:Daleks:P2019:D2021_04:
 CLOSED: <2021-04-30 Fri 22:59>
 
-*** Companion Chronicles
+*** Companion Chronicles :🗣:
 **** #The_Company :Zoe:
 ***** 2DONE [#D] CC5.02 - Echoes of Grey :Zoe:D2021_07_dr:
 CLOSED: [2021-07-06 Tue 17:33]
@@ -825,7 +825,7 @@ block原因：太长（3小时）
 **** CANCEL [#E] Peepshow (The Diary of River Song #6.3) †6.6
 CLOSED: [2020-06-25 Thu 21:48]
 
-** BF shorts :BigFinish:audiobook:🎧:
+** BF shorts :BigFinish:audiobook:🎧:🗣:
 *** CC (Liz) :Liz:
 **** DONE [#A] CC7.4 - The Last Post :P2012:no_doctor:
 CLOSED: [2020-08-07 Fri 18:25]
@@ -1277,7 +1277,7 @@ thetimescales 上32/33认为需要先听前面的故事
 
 **** NA03 - The Romance of Crime †8.0) :🎧:
 **** NA05 - The Well-Mannered War †8.1) :🎧:
-*** BF shorts :🎧:audiobook:
+*** BF shorts :🎧:🗣:
 **** Companion Chronicles
 ***** [#C] CC2.4 - The Catalyst †7.9
 ***** CANCEL [#D] CC3.4 - Empathy Games †7.0
