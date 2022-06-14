@@ -375,11 +375,11 @@ It’s a dangerous time for the last remaining humans. Captured by the Cylons on
 观看顺序：https://www.douban.com/doulist/133200925/
 
 *** skywalker saga
-**** LATER Star Wars: Episode I The Phantom Menace
+**** NEXT Star Wars: Episode I The Phantom Menace
 
 32BBY
 
-**** LATER Star Wars: Episode II Attack of the Clones
+**** NEXT Star Wars: Episode II Attack of the Clones
 
 22BBY
 
@@ -414,7 +414,7 @@ CLOSED: [2022-05-29 Sun 13:32]
 
 0 BBY, days before A New Hope, with a prologue set in 13 BBY
 
-**** LATER Solo
+**** NEXT Solo
 
 10 BBY, with a prologue set in 13 BBY
 
@@ -693,7 +693,7 @@ CLOSED: [2022-05-28 Sat 12:59] SCHEDULED: <2022-05-29 Sun>
 
 4ABY
 
-***** LATER [#B] X-Wing: Rogue Squadron (1995) :hanzify:
+***** NEXT [#B] X-Wing: Rogue Squadron (1995) :hanzify:
 
 4-5 ABY
 
@@ -705,8 +705,8 @@ CLOSED: [2022-05-28 Sat 12:59] SCHEDULED: <2022-05-29 Sun>
 ****** DONE Heir to the Empire
 CLOSED: <2022-05-21 Sat 14:52>
 
-****** Dark Force Rising
-****** The Last Command
+****** NEXT Dark Force Rising
+****** NEXT2 The Last Command
 ***** LATER [#A] Dark Empire trilogy :Luke:Solo:Leia:
 
  All three comic series detailed the resurrection of Emperor Palpatine in clone bodies.
@@ -754,24 +754,24 @@ It ran for 83 issues, spanning from before The Phantom Menace to after Reveng
 *** Marvel (2015- ) :canon:
 **** 正传三部曲相关
 ***** before movie 4
-****** LATER Solo: A Star Wars Story Adaptation
+****** NEXT Solo: A Star Wars Story Adaptation
 SCHEDULED: <2022-05-14 Sat>
 
 13BBY-10BBY
 
-****** LATER Han Solo - Imperial Cadet :P2018:
+****** NEXT Han Solo - Imperial Cadet :P2018:
 SCHEDULED: <2022-05-14 Sat>
 
 Between 13 BBY and 10 BBY
 
-****** LATER Lando - Double or Nothing :P2018:
+****** NEXT Lando - Double or Nothing :P2018:
 SCHEDULED: <2022-05-14 Sat>
 
 10BBY
 
 It told a story that focused on the characters Lando Calrissian and L3-37 just prior to Solo: A Star Wars Story
 
-****** LATER Vader - Dark Visions :P2019:hanzify:
+****** NEXT Vader - Dark Visions :P2019:hanzify:
 SCHEDULED: <2022-06-03 Fri>
 
 Between 2 BBY and 0 BBY
@@ -822,10 +822,10 @@ CLOSED: [2022-05-03 Tue 16:25] SCHEDULED: <2022-05-10 Tue>
 ******* DONE Vol.6 Out Among the Stars (#33-37,A3)
 CLOSED: [2022-06-03 Fri 07:09] SCHEDULED: <2022-06-01 Wed>
 
-******* LATER Vol.7 The Ashes of Jedha (#38-43)
+******* NEXT Vol.7 The Ashes of Jedha (#38-43)
 SCHEDULED: <2022-06-04 Sat>
 
-******* LATER vol.8 Mutiny at Mon Cala (#44-49,A4)
+******* NEXT vol.8 Mutiny at Mon Cala (#44-49,A4)
 SCHEDULED: <2022-06-05 Sun>
 
 ******* vol.9 Hope Dies (#50-55)
@@ -867,8 +867,8 @@ CLOSED: [2022-05-26 Thu 13:43]
 
 没意思
 
-******* LATER vol.4 The Catastrophe Con (#20-25)
-******* LATER Vol.5 Worst Among Equals (A2, #26-31)
+******* NEXT2 vol.4 The Catastrophe Con (#20-25)
+******* NEXT2 Vol.5 Worst Among Equals (A2, #26-31)
 ******* vol. 6 Unspeakable Rebel Superweapon (#32-36)
 ******* vol.7 A Rogue's End (#37-40)
 ****** DONE Lando (2015) :hanzify:
@@ -889,7 +889,7 @@ takes place between the events of /Star Wars: Episode V The Empire Strikes Bac
 Between the events of /Star Wars: Episode V The Empire Strikes Back/ and /Star Wars: Episode VI Return of the Jedi/
 
 ****** Doctor Aphra v2 (2020- )
-****** LATER Bounty Hunters (2020- )
+****** NEXT2 Bounty Hunters (2020- )
 
 The series features the bounty hunters /Beilert Valance/, /Boba Fett/ and /Bossk/, and takes place between the events of /Star Wars: Episode V The Empire Strikes Back/ and /Star Wars: Episode VI
 Return of the Jedi/
@@ -917,7 +917,7 @@ focusing on the character Beilert Valance during his time as a bounty hunter.
 
 Beilert Valance first appeared in Solo: A Star Wars Story Adaptation 1
 
-***** Age of Rebellion
+***** NEXT2 Age of Rebellion
 **** Star Wars Rebels
 
 link: https://www.starwars.com/news/a-guide-to-star-wars-rebels-books-and-comics
@@ -1001,7 +1001,7 @@ The story is set prior to the events of /Star Wars: Episode IX The Rise of Skywa
 
 1000BBY
 
-*** Tarkin 塔金 :canon:
+*** NEXT2 Tarkin 塔金 :canon:
 
 14BBY
 
@@ -1013,9 +1013,10 @@ CLOSED: <2022-05-21 Sat 11:48>
 
 9ABY
 
-**** HALF Dark Force Rising 黑潮汹涌
-SCHEDULED: <2022-06-10 Fri>
+**** DONE Dark Force Rising 黑潮汹涌
+CLOSED: [2022-06-09 Thu 13:55] SCHEDULED: <2022-06-10 Fri>
 
+**** NEXT The Last Command
 ** for children
 *** Disney–Lucasfilm Press
 
