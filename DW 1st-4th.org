@@ -8,8 +8,8 @@
 
 小说翻译： https://link.zhihu.com/?target=http%3A//tieba.baidu.com/p/2575205906 
 
-**** NEXT The Keys of Marinus :Voord:D2022_06_extra:
-SCHEDULED: <2022-06-05 Sun>
+**** HALF The Keys of Marinus :Voord:D2022_06_extra:
+SCHEDULED: <2022-06-12 Sun>
 
 **** The Aztecs
 **** The Sensorites
@@ -617,8 +617,8 @@ SCHEDULED: <2021-10-03 Sun>
 ***** 14.3 The Prints of Denmark
 ***** 14.4 The Deepest Tragedian
 *** misc
-**** [#D] LS4.2 - The Queen of Time :Jamie:Zoe:plot_yes:D2022_06_doctor:
-SCHEDULED: <2022-06-08 Wed>
+**** START [#D] LS4.2 - The Queen of Time :Jamie:Zoe:plot_yes:D2022_06_doctor:
+SCHEDULED: <2022-06-09 Thu>
 :PROPERTIES:
 :rating:   7.4
 :END:
@@ -1155,7 +1155,7 @@ CLOSED: [2021-07-27 Tue 23:11]
 :END:
 
 ***** START [#C] 4.5 - Suburban Hell (7.7) :plot_yes:D2022_06_doctor:
-SCHEDULED: <2022-06-04 Sat>
+SCHEDULED: <2022-06-09 Thu>
 
 ***** [#D] 4.6 The Cloisters of Terror (7.4)
 ***** [#D] 4.7 The Fate of Krelos (7.2)

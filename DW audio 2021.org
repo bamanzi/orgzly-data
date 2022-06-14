@@ -1322,9 +1322,9 @@
 ** DW 2022-07-doctor
 *** TODO EA7.2 The Secrets of Det-Sen
 *** TODO CC7.12 - Council of War (3rd Dr., Benton)
-*** TODO 9DA4.2. Way of the Burryman
 *** TODO BF038 The Church and the Crown
 *** TODO MR 079 - Night Thoughts
+*** TODO 9DA4.2. Way of the Burryman
 *** TODO 11DC1.3. The Light Keepers
 
 ** DW 2022-07-spinoffs

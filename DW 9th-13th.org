@@ -343,7 +343,7 @@ CLOSED: <2022-05-28 Sat 20:33> SCHEDULED: <2022-06-05 Sun>
 【【神秘博士广播剧汉化】听后感：！！！ Dalek Universe 102 The Wrong Woman-哔哩哔哩】 https://b23.tv/a6fUWqp
 
 **** READY [#C] DU 1.3 - The House of Kingdom :D2022_06_doctor:
-SCHEDULED: <2022-06-18 Sat>
+SCHEDULED: <2022-06-25 Sat>
 :PROPERTIES:
 :rating:   7.9
 :END:
@@ -616,7 +616,7 @@ CLOSED: [2021-09-24 Fri 08:10]
 ** audio :🎧:
 *** 12DC vol.1 :P2020:🗣:
 **** [#D] 1. The Charge of the Night Brigade :Mary_Seacole:D2022_06_doctor:
-SCHEDULED: <2022-06-04 Sat>
+SCHEDULED: <2022-06-19 Sun>
 :PROPERTIES:
 :rating:   7.3
 :END:
