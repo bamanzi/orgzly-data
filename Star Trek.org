@@ -164,7 +164,7 @@ CLOSED: [2021-03-13 Sat 16:03]
 
 An extremely powerful non-corporeal being brings the Enterprise and a Klingon ship in direct conflict with one another.
 
-**** NEXT [#D] 3x08 For the World Is Hollow and I Have Touched the Sky
+**** NOW [#D] 3x08 For the World Is Hollow and I Have Touched the Sky
 SCHEDULED: <2022-06-18 Sat>
 :PROPERTIES:
 :rating:   7.3
@@ -197,7 +197,7 @@ CLOSED: [2021-02-25 Thu 18:55]
 :rating:   7.3
 :END:
 
-**** [#D] 3x14 Whom Gods Destroy
+**** NEXT [#D] 3x14 Whom Gods Destroy
 :PROPERTIES:
 :rating:   7.2
 :END:
@@ -206,7 +206,9 @@ CLOSED: [2021-02-25 Thu 18:55]
 **** CANCEL [#E] 3x16. The Mark of Gideon                (6.7)
 **** CANCEL [#E] 3x17. That Which Survives               (6.7)
 **** CANCEL [#E] 3x18. The Lights of Zetar               (6.3)
-**** [#C] 3x19. Requiem for Methuselah            (7.6)
+**** DONE [#C] 3x19. Requiem for Methuselah            (7.6)
+CLOSED: [2022-06-12 Sun 23:15]
+
 **** CANCEL [#E] 3x20. The Way to Eden                   (5.6)
 **** [#D] 3x21. The Cloud Minders                 (7.2)
 **** CANCEL [#E] 3x22. The Savage Curtain                (6.9)
@@ -265,24 +267,24 @@ CLOSED: [2021-04-01 Thu 18:43]
 **** 2x05 Albatross	(6.9)
 **** 2x05 How Sharper Than a Serpent's Tooth	(6.5)
 **** [#D] 2x06 The Counter-Clock Incident (7.1)
-** fan_made videos                                                 :fan_made:
+** fan_made videos :fan_made:
 *** DOING 📂STC (2013) :📺:STC:
 
  11 episodes
 
 **** DONE [#B] 1. Pilgrim of Eternity (8.0) 阿波罗
-     CLOSED: [2021-03-09 Tue 20:13]
+CLOSED: [2021-03-09 Tue 20:13]
 
-**** DONE [#A] 2. Lolani 楼兰妮 (8.5)                                 :Orion:
-     CLOSED: [2021-03-31 Wed 23:00]
+**** DONE [#A] 2. Lolani 楼兰妮 (8.5) :Orion:
+CLOSED: [2021-03-31 Wed 23:00]
 
-**** DONE [#A] 3. Fairest of Them All 镜像 (9.1)            :mirror_universe:
-     CLOSED: [2022-05-18 Wed 19:03]
+**** DONE [#A] 3. Fairest of Them All 镜像 (9.1) :mirror_universe:
+CLOSED: [2022-05-18 Wed 19:03]
 
 **** DONE [#C] 4. The White Iris 鸢尾花 (7.9)
-     CLOSED: [2021-04-10 Sat 11:54]
+CLOSED: [2021-04-10 Sat 11:54]
 
-**** NEXT [#C] 5. Divided We Stand 内战 (7.9)
+**** NOW [#C] 5. Divided We Stand 内战 (7.9)
 **** [#A] 6. Come Not Between the Dragons (8.5)
 ** movies :🎦:
 *** 2DONE 1. Star Trek: The Motion Picture 无限太空 :P1979:
@@ -319,7 +321,7 @@ IDW Best of Star Trek vol.5
 ***** NEXT Special: The Cage :tv_based:Pike:
 **** TPB: TOS omnibus
 ***** DONE Blood Will Tell :hanzify:⭐️:Klingons:
-***** DONE [#C] Year Four                                              :2007:
+***** DONE [#C] Year Four :2007:
 CLOSED: [2021-02-14 Sun 16:09]
 
 ****** 2DONE 01
@@ -397,7 +399,7 @@ CLOSED: [2021-01-15 Fri 13:56]
 CLOSED: [2022-05-27 Fri 08:46]
 
 *** *best :⭐️:
-**** DONE [#B] All the Infinite Ways                  :Marvel:P1981:Klingons:
+**** DONE [#B] All the Infinite Ways :Marvel:P1981:Klingons:
 CLOSED: [2021-02-18 Thu 23:03]
 
 **** 2DONE Gold Key 100-page (IDW selection) :hanzify:TOS:
@@ -422,7 +424,7 @@ CLOSED: [2021-01-11 Mon 13:05]
 ****** DONE [#A] Retrospect (DC TOS vol1 Annual 03) (1988) 往事成追忆 :hanzify:
 CLOSED: [2021-01-11 Mon 14:34]
 
-****** DONE [#A] Once a Hero... (DC TOS vol2 #19) 一朝为英雄        :hanzify:
+****** DONE [#A] Once a Hero... (DC TOS vol2 #19) 一朝为英雄 :hanzify:
 CLOSED: [2021-01-11 Mon 17:50]
 
 ****** LATER DC TOS vol.2 #13-15
@@ -445,7 +447,7 @@ CLOSED: [2021-01-12 Tue 19:43]
 
 ****** DC TOS vol.1 #31-32
 ***** STCvol.5 Who Killed Captain Kirk (DC TOS vol.1 48-55)
-***** [#B] Debt of Honor                                           :DC:P1992:
+***** [#B] Debt of Honor :DC:P1992:
 
 Captain Kirk and the crew of the USS Enterprise find themselves teamed with the Klingons and Romulans to fight a the galactic threat that no government dares admit exists…
 
@@ -455,7 +457,7 @@ Captain Kirk and the crew of the USS Enterprise find themselves teamed wi
 
  sequel story to the second pilot, "Where No Man Has Gone Before".
 
-***** DONE [#B] Spock Reflections                                   :hanzify:
+***** DONE [#B] Spock Reflections :hanzify:
 ***** [#B] Burden of Knowledge
 ***** [#B] Leonard McCoy Frontier Doctor
 ** short stories
@@ -468,63 +470,68 @@ Captain Kirk and the crew of the USS Enterprise find themselves teamed wi
 **** "A Piece of the Pie" by G. Wood
 * TNG - The Next Generation :TNG:
 ** tv (1987-1993) :tv:📺:
-*** TNG S1 :Y2364:
+*** _download
 
-**** DONE   [#D] 1x01-02 Encounter at Farpoint (7.0)
+
+- 低清全七季https://pan.baidu.com/s/1i4X1Qhn密码：8ugy
+- 高清+低清 全七季「阿里云盘」：https://www.aliyundrive.com/s/usTBnCMevfd
+
+
+*** TNG S1 :Y2364:
+**** DONE [#D] 1x01-02 Encounter at Farpoint (7.0) :Q:
 **** CANCEL [#E] 1x03 The Naked Now (6.6)
 **** CANCEL [#E] 1x04 Code of Honor (5.3)
 **** CANCEL [#E] 1x05 The Last Outpost             (6.4)
-**** DONE   [#C] 1x06 Where No One Has Gone Before (7.6)
+**** DONE [#C] 1x06 Where No One Has Gone Before (7.6)
 **** CANCEL [#E] 1x07 Lonely Among Us              (6.4)
 **** CANCEL [#E] 1x08 Justice                      (6.1)
 **** CANCEL [#E] 1x09 The Battle                   (6.9)
-**** DONE   [#D] 1x10 Hide and Q                   (7.0)
+**** DONE [#D] 1x10 Hide and Q                   (7.0)
 **** CANCEL [#E] 1x11 Haven                        (6.3)
-**** DONE   [#D] 1x12 The Big Goodbye              (7.4)
-**** DONE       [#C] 1x13 Datalore                     (7.8)      :Data:Lore:
+**** DONE [#D] 1x12 The Big Goodbye              (7.4)
+**** DONE [#C] 1x13 Datalore                     (7.8) :Data:Lore:
 CLOSED: [2022-06-03 Fri 17:15] SCHEDULED: <2022-06-03 Fri>
 
 **** CANCEL [#E] 1x14 Angel One (5.8)
-**** DONE   [#C] 1x15 11001001 (7.5)
+**** DONE [#C] 1x15 11001001 (7.5)
 **** CANCEL [#E] 1x16 Too Short a Season (6.2)
 **** CANCEL [#E] 1x17 When the Bough Breaks (6.4)
 **** CANCEL [#E] 1x18 Home Soil (6.9)
-**** DONE   [#D] 1x19 Coming of Age (7.2)
+**** DONE [#D] 1x19 Coming of Age (7.2)
 **** DONE [#D] 1x20 Heart of Glory (7.3)
 **** DONE [#D] 1x21 The Arsenal of Freedom (7.2)
 **** DONE [#D] 1x22 Symbiosis (7.0)
 **** DONE [#D] 1x23 Skin of Evil (7.0)
 **** CANCEL [#E] 1x24 We'll Always Have Paris (6.7)
 **** DONE [#B] 1x25 Conspiracy (8.2)
-**** DONE       [#C] 1x26 The Neutral Zone (7.5)                   :Romulans:
+**** DONE [#C] 1x26 The Neutral Zone (7.5) :Romulans:
 CLOSED: [2022-06-01 Wed 08:14] SCHEDULED: <2022-06-02 Thu>
 
 其实这一集的主角并不是罗慕兰人，也不是星联与罗慕兰之间的矛盾，而是三个被冰冻的地球人
 
 *** TNG S2 :Y2365:
 **** CANCEL [#E] 2x01. The Child              (5.9)
-**** DONE   [#D] 2x02. Where Silence Has Lease(7.2)
-**** DONE   [#B] 2x03. Elementary, Dear Data  (8.2)
+**** DONE [#D] 2x02. Where Silence Has Lease(7.2)
+**** DONE [#B] 2x03. Elementary, Dear Data  (8.2)
 **** CANCEL [#E] 2x04. The Outrageous Okona   (6.3)
 **** CANCEL [#E] 2x05. Loud as a Whisper      (6.6)
-**** DONE   [#D] 2x06. The Schizoid Man       (7.1)
+**** DONE [#D] 2x06. The Schizoid Man       (7.1)
 **** CANCEL [#E] 2x07. Unnatural Selection    (6.6)
-**** DONE   [#B] 2x08. A Matter of Honor      (8.2)
-**** DONE   [#A] 2x09. The Measure of a Man   (9.1)
+**** DONE [#B] 2x08. A Matter of Honor      (8.2)
+**** DONE [#A] 2x09. The Measure of a Man   (9.1)
 **** CANCEL [#E] 2x10. The Dauphin            (6.3)
-**** DONE   [#C] 2x11. Contagion              (7.7)
+**** DONE [#C] 2x11. Contagion              (7.7)
 **** CANCEL [#E] 2x12. The Royale             (6.7)
-**** DONE   [#C] 2x13. Time Squared           (7.6)
+**** DONE [#C] 2x13. Time Squared           (7.6)
 **** CANCEL [#E] 2x14. The Icarus Factor      (6.4)
 **** CANCEL [#E] 2x15. Pen Pals               (6.9)
-**** DONE   [#A] 2x16. Q Who                  (9.0)
+**** DONE [#A] 2x16. Q Who                  (9.0)
 **** CANCEL [#E] 2x17. Samaritan Snare        (6.6)
 **** CANCEL [#E] 2x18. Up the Long Ladder     (6.4)
 **** CANCEL [#E] 2x19. Manhunt                (6.2)
-**** DONE   [#C] 2x20. The Emissary           (7.7)
-**** DONE   [#C] 2x21. Peak Performance       (7.8)
+**** DONE [#C] 2x20. The Emissary           (7.7)
+**** DONE [#C] 2x21. Peak Performance       (7.8)
 **** CANCEL [#E] 2x22. Shades of Gray         (3.5)
-
 *** TNG S3 :Y2366:
 **** CANCEL [#E] 3x01. Evolution                (6.7)
 **** DONE [#C] 3x02. The Ensigns of Command   (7.5)
@@ -550,8 +557,8 @@ CLOSED: [2022-05-25 Wed 08:06]
 **** DONE [#D] 3x20. Tin Man                  (7.4)
 **** DONE [#C] 3x21. Hollow Pursuits          (7.9)
 **** DONE [#C] 3x22. The Most Toys            (7.8)
-**** NOW [#B] 3x23. Sarek                    (8.2)
-SCHEDULED: <2022-06-05 Sun>
+**** DONE [#B] 3x23. Sarek                    (8.2)
+CLOSED: [2022-06-07 Tue 20:24] SCHEDULED: <2022-06-05 Sun>
 
 **** CANCEL [#E] 3x24. Ménage à Troi          (6.7)
 **** DONE [#D] 3x25. Transfigurations         (7.0)
@@ -588,37 +595,40 @@ Data jeopardizes an emergency mission to save an ill child when he receives a si
 **** DONE [#D] 4x25. In Theory       (7.2)
 **** DONE [#B] 4x26. Redemption      (8.5)
 *** TNG S5 :Y2368:P1992:
-****        [#B] 5x01. Redemption II           (8.5)
-****        [#A] 5x02. Darmok                  (8.7)
-****        [#C] 5x03. Ensign Ro               (7.8)
-****        [#D] 5x04. Silicon Avatar          (7.3)
-****        [#C] 5x05. Disaster                (7.9)
-****        [#C] 5x06. The Game                (7.5)
-**** NOW 5x07 Unification I (8.3) :Spock:Romulans:
-SCHEDULED: <2022-06-05 Sun>
-**** NOW 5x08 Unification II (8.4)                           :Spock:Romulans:
-****        [#D] 5x09. A Matter of Time        (7.4)
+**** [#B] 5x01. Redemption II           (8.5)
+**** [#A] 5x02. Darmok                  (8.7)
+**** [#C] 5x03. Ensign Ro               (7.8)
+**** [#D] 5x04. Silicon Avatar          (7.3)
+**** [#C] 5x05. Disaster                (7.9)
+**** [#C] 5x06. The Game                (7.5)
+**** DONE 5x07 Unification I (8.3) :Spock:Romulans:
+CLOSED: [2022-06-10 Fri 08:23] SCHEDULED: <2022-06-10 Fri>
+
+**** DONE 5x08 Unification II (8.4) :Spock:Romulans:
+CLOSED: <2022-06-10 Fri 23:58> SCHEDULED: <2022-06-10 Fri>
+
+**** [#D] 5x09. A Matter of Time        (7.4)
 **** CANCEL [#E] 5x10. New Ground              (6.6)
 **** CANCEL [#E] 5x11. Hero Worship            (6.7)
 **** CANCEL [#E] 5x12. Violations              (6.4)
 **** CANCEL [#E] 5x13. The Masterpiece Society (6.8)
-****        [#B] 5x14. Conundrum               (8.3)
-****        [#C] 5x15. Power Play              (7.5)
-****        [#D] 5x16. Ethics                  (7.4)
+**** [#B] 5x14. Conundrum               (8.3)
+**** [#C] 5x15. Power Play              (7.5)
+**** [#D] 5x16. Ethics                  (7.4)
 **** CANCEL [#E] 5x17. The Outcast             (6.8)
-****        [#A] 5x18. Cause and Effect        (9.0)
-**** DONE [#C] 5x19 The First Duty (7.9)                             :Picard:
+**** [#A] 5x18. Cause and Effect        (9.0)
+**** NOW [#C] 5x19 The First Duty (7.9) :Picard:
 **** CANCEL [#E] 5x20. Cost of Living          (6.3)
-****        [#C] 5x21. The Perfect Mate        (7.5)
+**** [#C] 5x21. The Perfect Mate        (7.5)
 **** CANCEL [#E] 5x22. Imaginary Friend        (6.2)
-****        [#A] 5x23. I Borg                  (8.7)
-****        [#B] 5x24. The Next Phase          (8.4)
-**** DONE [#A] 5x25 - The Inner Light (9.4)                          :Picard:
+**** [#A] 5x23. I Borg                  (8.7)
+**** [#B] 5x24. The Next Phase          (8.4)
+**** DONE [#A] 5x25 - The Inner Light (9.4) :Picard:
 :PROPERTIES:
 :rating:   9.4
 :END:
 
-**** DONE [#A] 5x26 - Time's Arrow (8.5)                        :Data:Guinan:
+**** DONE [#A] 5x26 - Time's Arrow (8.5) :Data:Guinan:
 CLOSED: [2021-01-10 Sun 21:40]
 :PROPERTIES:
 :rating:   8.5
@@ -791,7 +801,7 @@ CLOSED: [2021-04-07 Wed 20:13]
 :rating:   7.6
 :END:
 
-**** NEXT [#A] 6x25  - Timescape
+**** NOW [#A] 6x25  - Timescape
 :PROPERTIES:
 :rating:   8.6
 :END:
@@ -860,7 +870,7 @@ CLOSED: [2022-05-23 Mon 20:25]
 *** DC Comics (1988-1996)
 **** TNG vol.1 (1988)
 **** TNG vol.2 (1989-1996)
-***** NEXT [#B] 47-50 The Worst of Both Worlds :⭐️:Borg:P1993:BoST:best:
+***** NEXT2 [#B] 47-50 The Worst of Both Worlds :⭐️:Borg:P1993:BoST:best:
 
 IDW best of star trek vol.2
 
@@ -884,7 +894,7 @@ IDW best of star trek vol.2
 **** DONE The Next Generation/Doctor Who: Assimilation² :crossover:
 CLOSED: [2021-01-10 Sun 10:35]
 
-**** [#B] 📂TNG mirror_universe                     :mirror_universe:hanzify:
+**** [#B] 📂TNG mirror_universe :mirror_universe:hanzify:
 ***** DONE Mirror Broken （破碎镜像） :mirror_universe:
 ***** DONE Through the Mirror （穿越镜像） :mirror_universe:
 ***** DONE Terra Incognita （未知领域） :mirror_universe:
@@ -895,7 +905,7 @@ CLOSED: [2021-01-10 Sun 10:35]
 ***** DONE [#B] v2 #09 The Lesson :Deanna:Dr_Crusher:Riker:P1990:
 ***** DONE [#B] v2 Annual 1990: The Gift :Picard:Q:
 ***** DONE [#B] v2 Annual 1991: Thin Ice :Riker:
-**** 2DONE Best of Borg (Star Trek Archives vol.2) :TNG:Borg:
+**** NOW Best of Borg (Star Trek Archives vol.2) :TNG:Borg:
 ***** DONE DC TNG volume 2 #47-50 (The Worst of Both Worlds) :DC:
 ***** Operation Assimilation (Marvel Paramount) :P1997:Romulans:Borg:Borg_Queen:
 **** Star Trek Classics (IDW)
@@ -922,11 +932,7 @@ CLOSED: [2021-03-02 Tue 16:59]
 CLOSED: [2021-03-02 Tue 16:59]
 
 ** short stories
-*** Strange New Worlds VI
-**** "The Soft Room" by Geoffrey Thorne
-**** "Protecting Data's Friends" by Scott William Carter
-**** "The Human Factor" by Russ Crossley
-**** "Tribble in Paradise" by Louisa M. Swann
+*** The Sky's the Limit
 * DS9 - Deep Space Nine :DS9:
 ** DS9 tv (1993-1998) :📺:tv:
 *** DS9 S1 (Jan. - Jun. 1993) :Y2369:
@@ -1130,13 +1136,13 @@ CLOSED: [2021-04-03 Sat 20:23]
 :rating:   7.6
 :END:
 
-**** TODO [#B] 6x26 Tears of the Prophets
+**** NOW [#B] 6x26 Tears of the Prophets
 :PROPERTIES:
 :rating:   8.4
 :END:
 
 *** DS9 S7 :Y2375:
-**** [#C] 7x1. Image in the Sand                    (7.7)
+**** NEXT [#C] 7x1. Image in the Sand                    (7.7)
 **** [#B] 7x2. Shadows and Symbols                  (8.0)
 **** [#D] 7x3. Afterimage                           (7.3)
 **** [#C] 7x4. Take Me Out to the Holosuite         (7.5)
@@ -1262,7 +1268,6 @@ CLOSED: [2021-04-01 Thu 12:53]
 :END:
 
 **** CANCEL [#E] 1x06 The Cloud
-CLOSED: [2021-03-19 Fri 08:03]
 :PROPERTIES:
 :rating:   6.6
 :END:
@@ -1274,19 +1279,17 @@ CLOSED: [2022-01-29 Sat 19:30]
 :END:
 
 **** CANCEL [#E] 1x08 Ex Post Facto
-CLOSED: [2021-03-19 Fri 08:05]
 :PROPERTIES:
 :rating:   6.7
 :END:
 
 **** CANCEL [#E] 1x09 Emanations
-CLOSED: [2021-03-19 Fri 08:05]
 :PROPERTIES:
 :rating:   6.8
 :END:
 
 **** DONE [#D] 1x10 Prime Factors
-CLOSED: [2022-05-19 Thu 07:53]
+CLOSED: <2022-05-19 Thu 07:53>
 :PROPERTIES:
 :rating:   7.4
 :END:
@@ -1371,8 +1374,12 @@ CLOSED: <2022-05-24 Tue 21:35> SCHEDULED: <2022-05-27 Fri>
 **** DONE [#B] 4x02 The Gift				   (8.0) :Borg:
 CLOSED: [2022-05-26 Thu 23:32]
 
-**** [#C] 4x03 Day of Honor			   (7.5)
-**** [#D] 4x04 Nemesis				   (7.0)
+**** DONE [#C] 4x03 Day of Honor			   (7.5)
+CLOSED: [2022-06-09 Thu 21:45]
+
+**** DONE [#D] 4x04 Nemesis				   (7.0)
+CLOSED: [2022-06-11 Sat 22:00]
+
 **** [#C] 4x05 Revulsion				   (7.5)
 **** [#C] 4x06 The Raven				   (7.6)
 SCHEDULED: <2022-06-05 Sun>
@@ -1424,62 +1431,59 @@ SCHEDULED: <2022-06-05 Sun>
 **** [#A] 5x24 Relativity               (8.6)
 **** [#D] 5x25 Warhead                  (7.3)
 **** [#B] 5x26 Equinox: Part I          (8.5)
-
 *** VOY S6
-****        [#B] 6x01. Equinox: Part II            (8.3)
-****        [#C] 6x02. Survival Instinct           (7.7)
+**** [#B] 6x01. Equinox: Part II            (8.3)
+**** [#C] 6x02. Survival Instinct           (7.7)
 **** CANCEL [#E] 6x03. Barge of the Dead           (6.5)
-****        [#B] 6x04. Tinker Tenor Doctor Spy     (8.5)
+**** [#B] 6x04. Tinker Tenor Doctor Spy     (8.5)
 **** CANCEL [#E] 6x05. Alice                       (6.6)
-****        [#C] 6x06. Riddles                     (7.5)
-****        [#C] 6x07. Dragon's Teeth              (7.7)
-****        [#C] 6x08. One Small Step              (7.8)
-****        [#C] 6x09. The Voyager Conspiracy      (7.6)
-****        [#B] 6x10. Pathfinder                  (8.5)
+**** [#C] 6x06. Riddles                     (7.5)
+**** [#C] 6x07. Dragon's Teeth              (7.7)
+**** [#C] 6x08. One Small Step              (7.8)
+**** [#C] 6x09. The Voyager Conspiracy      (7.6)
+**** [#B] 6x10. Pathfinder                  (8.5)
 **** CANCEL [#E] 6x11. Fair Haven                  (6.4)
-****        [#A] 6x12. Blink of an Eye             (9.0)
-****        [#D] 6x13. Virtuoso                    (7.2)
-****        [#D] 6x14. Memorial                    (7.1)
-****        [#D] 6x15. Tsunkatse                   (7.3)
-****        [#D] 6x16. Collective                  (7.4)
+**** [#A] 6x12. Blink of an Eye             (9.0)
+**** [#D] 6x13. Virtuoso                    (7.2)
+**** [#D] 6x14. Memorial                    (7.1)
+**** [#D] 6x15. Tsunkatse                   (7.3)
+**** [#D] 6x16. Collective                  (7.4)
 **** CANCEL [#E] 6x17. Spirit Folk                 (6.4)
-****        [#D] 6x18. Ashes to Ashes              (7.1)
-****        [#C] 6x19. Child's Play                (7.6)
-****        [#D] 6x20. Good Shepherd               (7.3)
-****        [#D] 6x21. Live Fast and Prosper       (7.3)
+**** [#D] 6x18. Ashes to Ashes              (7.1)
+**** [#C] 6x19. Child's Play                (7.6)
+**** [#D] 6x20. Good Shepherd               (7.3)
+**** [#D] 6x21. Live Fast and Prosper       (7.3)
 **** CANCEL [#E] 6x22. Muse                        (6.9)
 **** CANCEL [#E] 6x23. Fury                        (6.4)
-****        [#B] 6x24. Life Line                   (8.3)
-****        [#D] 6x25. The Haunting of Deck Twelve (7.3)
-****        [#B] 6x26. Unimatrix Zero              (8.1)
+**** [#B] 6x24. Life Line                   (8.3)
+**** [#D] 6x25. The Haunting of Deck Twelve (7.3)
+**** [#B] 6x26. Unimatrix Zero              (8.1)
 *** VOY S7
-****        [#B] 7x01. Unimatrix Zero: Part II     (8.0)
+**** [#B] 7x01. Unimatrix Zero: Part II     (8.0)
 **** CANCEL [#E] 7x02. Imperfection                (0.0)
 **** CANCEL [#E] 7x03. Drive                       (0.0)
 **** CANCEL [#E] 7x04. Repression                  (6.8)
-****        [#C] 7x05. Critical Care               (7.9)
-****        [#C] 7x06. Inside Man                  (7.5)
-****        [#B] 7x07. Body and Soul               (8.0)
+**** [#C] 7x05. Critical Care               (7.9)
+**** [#C] 7x06. Inside Man                  (7.5)
+**** [#B] 7x07. Body and Soul               (8.0)
 **** CANCEL [#E] 7x08. Nightingale                 (6.7)
-****        [#C] 7x09. Flesh and Blood             (7.7)
-****        [#C] 7x10. Flesh and Blood: Part II    (7.6)
-****        [#B] 7x11. Shattered                   (8.2)
-****        [#D] 7x12. Lineage                     (7.1)
-****        [#D] 7x13. Repentance                  (7.4)
-****        [#D] 7x14. Prophecy                    (7.4)
-****        [#B] 7x15. The Void                    (8.1)
-****        [#C] 7x16. Workforce                   (7.7)
-****        [#C] 7x17. Workforce: Part II          (7.8)
-****        [#D] 7x18. Human Error                 (7.4)
-****        [#D] 7x19. Q2                          (7.4)
-****        [#B] 7x20. Author, Author              (8.0)
-****        [#D] 7x21. Friendship One              (7.2)
-****        [#D] 7x22. Natural Law                 (7.2)
-****        [#C] 7x23. Homestead                   (7.7)
-****        [#C] 7x24. Renaissance Man             (7.7)
-****        [#B] 7x25. Endgame                     (8.5)
-
-
+**** [#C] 7x09. Flesh and Blood             (7.7)
+**** [#C] 7x10. Flesh and Blood: Part II    (7.6)
+**** [#B] 7x11. Shattered                   (8.2)
+**** [#D] 7x12. Lineage                     (7.1)
+**** [#D] 7x13. Repentance                  (7.4)
+**** [#D] 7x14. Prophecy                    (7.4)
+**** [#B] 7x15. The Void                    (8.1)
+**** [#C] 7x16. Workforce                   (7.7)
+**** [#C] 7x17. Workforce: Part II          (7.8)
+**** [#D] 7x18. Human Error                 (7.4)
+**** [#D] 7x19. Q2                          (7.4)
+**** [#B] 7x20. Author, Author              (8.0)
+**** [#D] 7x21. Friendship One              (7.2)
+**** [#D] 7x22. Natural Law                 (7.2)
+**** [#C] 7x23. Homestead                   (7.7)
+**** [#C] 7x24. Renaissance Man             (7.7)
+**** [#B] 7x25. Endgame                     (8.5)
 ** comics :📚:
 *** Marvel Paramount
 **** Star Trek Voyager (1996-98)
@@ -1521,7 +1525,7 @@ SCHEDULED: <2022-06-05 Sun>
 **** 2DONE 11-12 The Truth About Tribbles :hanzify:
 **** 2DONE 13 The Redshirt's Tale :hanzify:
 **** 2DONE 14 Keenser's Tale :hanzify:
-**** NEXT 15-16 Mirrored :mirror_universe:
+**** NEXT2 15-16 Mirrored :mirror_universe:
 **** 2DONE 17 Bones :hanzify:
 **** 2DONE 18 The Voice of a Falling Star :hanzify:
 **** 2DONE 19 Scotty :hanzify:
@@ -1601,25 +1605,18 @@ CLOSED: [2021-03-21 Sun 21:40]
 **** DONE 3x06 Scavengers
 CLOSED: [2022-06-02 Thu 20:36] SCHEDULED: <2022-06-18 Sat>
 
-**** NOW 3x07 Unification III
-SCHEDULED: <2022-06-18 Sat>
+**** DONE 3x07 Unification III
+CLOSED: [2022-06-12 Sun 13:02] SCHEDULED: <2022-06-14 Tue>
 
-**** 3x08 The Sanctuary
+**** NOW 3x08 The Sanctuary
+*** Discovery S4
 ** comics :IDW:📚:
-*** 2DONE Discovery: The Light of Kahless (卡勒斯之光) :hanzify:Kahless:
+*** 2DONE Discovery: The Light of Kahless (卡勒斯之光) :hanzify:Kahless:Klingons:
 *** 2DONE Discovery: Succession (继位) :mirror_universe:hanzify:
 *** 2DONE Discovery: Aftermath (余波) :hanzify:
-* _others
-** tv :tv:📺:
-*** short treks :ST:
-**** 1x03 The Brightest Star :DSC:
-**** 2x01 Q&A :Spock:Una:Pike:
-**** 2x02 The Trouble with Edward :Tribbles:
-**** 2x03 Ask Not :Pike:Spock:
-**** DONE 2x06 Children of Mars :PIC:Y2385:
-CLOSED: [2022-06-05 Sun 12:34]
-
-*** DOING 📂Picard (2020- ) :PIC:Y2399:
+* PIC - Picard :PIC:
+** tv :📺:
+*** DOING 📂Picard S1 :P2020:Y2399:
 **** DONE 1x01 Remembrance
 CLOSED: <2021-02-28 Sun 21:03>
 
@@ -1632,14 +1629,52 @@ CLOSED: <2021-02-28 Sun 19:03>
 **** DONE 1x04 Absolute Candor
 CLOSED: <2022-06-05 Sun 11:45> SCHEDULED: <2022-06-04 Sat>
 
-**** NOW 1x05 Stardust City Rag :Seven_of_Nine:
-SCHEDULED: <2022-06-04 Sat>
+**** DONE 1x05 Stardust City Rag :Seven_of_Nine:
+CLOSED: [2022-06-09 Thu 20:13] SCHEDULED: <2022-06-04 Sat>
 
-**** 1x06 The Impossible Box
-**** 1x07 Nepenthe
-**** 1x08 Broken Pieces
+**** DONE 1x06 The Impossible Box
+CLOSED: [2022-06-12 Sun 09:41]
+
+**** DONE 1x07 Nepenthe
+CLOSED: [2022-06-13 Mon 11:01]
+
+**** NOW 1x08 Broken Pieces
 **** 1x09 Et in Arcadia Ego, Part 1
 **** 1x10 Et in Arcadia Ego, Part 2
+*** Picard S2 :P2022:
+** comics :📚:
+*** DONE Picard: Countdown
+CLOSED: <2022-06-04 Sat 17:14> SCHEDULED: <2022-06-03 Fri>
+
+*** Picard: Stargazer :P2022:
+* SNW - Strange New Worlds (2022- ) :SNW:Pike:
+** tv
+*** SNW S1 :P2022:
+**** DONE 1x01
+CLOSED: [2022-06-08 Wed 08:32]
+
+**** NOW 1x02
+**** NEXT 1x03
+** comics :📚:
+*** NEXT Early Voyages (Marvel)
+
+17 issues
+
+**** 2DONE 04 Nor Iron Bars a Cage
+*** START Star Trek: Crew :Una:P2009:
+
+The five-issue miniseries from John Byrne charts the early career of Number One.
+
+* _others
+** tv :tv:📺:
+*** short treks :ST:
+**** 1x03 The Brightest Star :DSC:
+**** 2x01 Q&A :Spock:Una:Pike:
+**** 2x02 The Trouble with Edward :Tribbles:
+**** 2x03 Ask Not :Pike:Spock:
+**** DONE 2x06 Children of Mars :PIC:Y2385:
+CLOSED: [2022-06-05 Sun 12:34]
+
 *** DOING 📂Lower Decks (2020- ) :LD:animated:
 **** DONE 1x01 Second Contact
 CLOSED: <2021-01-12 Tue 19:10>
@@ -1662,17 +1697,11 @@ CLOSED: <2022-05-28 Sat 19:18>
 **** 1x09 Crisis Point
 **** 1x10 No Small Parts
 *** Prodigy (2021)
-*** SNW - Strange New Worlds (2022- )
 ** comics :📚:
 *** DONE 2.5 TNG+DS9 crossover (DC+Malibu) :P1994:TNG:DS9:crossover:
 CLOSED: [2021-01-21 Thu 19:34]
 
 *** 4. Marvel Paramount (1996-1998)
-**** NOW Early Voyages :Pike:
-
-17 issues
-
-***** 2DONE 04 Nor Iron Bars a Cage
 *** 5. WildStorm (1999-2001)
 **** New Frontier: Double Time :NF:
 **** Special :hanzify:mix:
@@ -1701,7 +1730,7 @@ CLOSED: [2021-01-13 Wed 12:45]
 ****** Captain's Log: Harriman
 ****** Captain's Log: Pike :Pike:
 ****** Captain's Log: Jellico
-***** DONE [#C] The Q Conflict                                      :hanzify:
+***** DONE [#C] The Q Conflict :hanzify:
 
 《Q的纠缠(The Q Conflict)》，Q神带着23和24世纪大联欢。
 
@@ -1718,13 +1747,9 @@ CLOSED: [2021-01-13 Wed 12:45]
 **** _misc
 ***** Star Trek: New Frontier
 ***** DONE Assignment Earth
-***** Star Trek Deviations.
-***** NEXT Star Trek: Crew
-***** DONE Picard: Countdown
-CLOSED: <2022-06-04 Sat 17:14> SCHEDULED: <2022-06-03 Fri>
-
+***** DONE Deviations
 **** crossovers
-***** The Next Generation/Doctor Who: Assimilation2 :doctor-who:11D:tng:
+***** The Next Generation/Doctor Who: Assimilation2 :doctor_who:11D:tng:
 ***** Star Trek/Planet of the Apes
 ***** Star Trek/Green Lantern: The Spectrum War （光谱战争） :hanzify:
 ***** Star Trek/Green Lantern Volume 2: Stranger Worlds (陌界生人)
@@ -1757,7 +1782,7 @@ CLOSED: [2022-05-27 Fri 08:46]
 ***** vol.3 Encounters with the Unknown :VOY:Wildstorm:
 ***** vol.4 Beginning (DC TNG vol.1 #01-06)
 **** misc
-** short stories
+** short stories :📄:
 *** [#C] Strange New Worlds I (3.76)
 *** [#B] Strange New Worlds II (3.95) :P1999:
 
@@ -1778,7 +1803,7 @@ The Enterprise-D discovers a century-old Klingon "lifeboat," with an unusual
 **** "Reciprocity" by Brad Curry :TNG:
 **** "Calculated Risk" by Christina F. York :TNG:
 **** "Gods, Fate, and Fractals" by William Leisner :TNG:
-**** NEXT "I Am Become Death" by Franklin Thatcher :TNG:Data:
+**** NEXT "I Am Become Death" by Franklin Thatcher :TNG:Data:Lore:
 SCHEDULED: <2022-06-05 Sun>
 
 In the far future of an alternate timeline, humanoid life is extinct, replaced by a race of androids begun by Data.
@@ -1827,8 +1852,8 @@ https://memory-beta.fandom.com/wiki/Strange_New_Worlds_VI
 **** "Marking Time" by Pat Detmer :TOS:
 **** "Ancient History" by Robert J. Mendenhall :TOS:
 **** "Bum Radish: Five Spins on a Turquoise Reindeer" by TG Theodore :TOS:
-**** "A Piece of the Pie" by G. Wood :TOS:
-**** [#A] "The Soft Room" by Geoffrey Thorne (Second Prize) :TNG:
+**** NOW "A Piece of the Pie" by G. Wood :TOS:
+**** NOW [#A] "The Soft Room" by Geoffrey Thorne (Second Prize) :TNG:
 **** "Protecting Data's Friends" by Scott William Carter :TNG:
 **** "The Human Factor" by Russ Crossley :TNG:
 **** "Tribble in Paradise" by Louisa M. Swann :TNG:
@@ -1875,41 +1900,31 @@ https://memory-beta.fandom.com/wiki/Strange_New_Worlds_9
 **** "The Immortality Blues" by Marc Carlson
 **** [#A] "Orphans" by R.S. Belcher (Grand Prize)
 *** [#B] Strange New Worlds 10 (3.93) :P2007:
-
-**** [#A] "The Smell of Dead Roses" by Gerri Leen (Grand Prize)         :TOS:
+**** [#A] "The Smell of Dead Roses" by Gerri Leen (Grand Prize) :TOS:
 **** "The Doomsday Gambit" by Rick Dickson :TOS:
 **** "Empty" by David DeLee :TOS:
-
 **** "Wired" by Aimee Ford Foster :TNG:
-**** "A Dish Served Cold" by Paul C. Tseng  :TNG:
+**** "A Dish Served Cold" by Paul C. Tseng :TNG:
 **** "The Very Model" by Muri McCage :TNG:
-
-**** "So a Horse Walks into a Bar..." by Brian Seidman  :DS9:
-**** "Signal to Noise" by Jim Johnson  :DS9:
-
-**** "The Fate of Captain Ransom" by Rob Vagle  :VOY:
-**** "A Taste of Spam" by L. E. Doggett  :VOY:
-**** "Adjustments" by Laura Ware  :VOY:
+**** "So a Horse Walks into a Bar..." by Brian Seidman :DS9:
+**** "Signal to Noise" by Jim Johnson :DS9:
+**** "The Fate of Captain Ransom" by Rob Vagle :VOY:
+**** "A Taste of Spam" by L. E. Doggett :VOY:
+**** "Adjustments" by Laura Ware :VOY:
 **** "The Day the Borg Came" by M.C. DeMarco :VOY:
-
-**** "The Dream" by Robyn Sullivent Gries  :ENT:
-**** [#A] "Universal Chord" by Carolyn Winifred (Third Prize)           :ENT:
-**** "You Are Not in Space" by Edgar Governo  :ENT:
-
+**** "The Dream" by Robyn Sullivent Gries :ENT:
+**** [#A] "Universal Chord" by Carolyn Winifred (Third Prize) :ENT:
+**** "You Are Not in Space" by Edgar Governo :ENT:
 **** "Time Line" by Jerry M. Wolfe
 **** [#A] "Echoes" by Randy Tatano (Second Prize)
 **** "Brigadoon" by Rigel Ailur
 **** "Reborn" by Jeremy Yoder
-
 *** [#C] Strange New Worlds 2016 (3.73) :P2016:
-
-
 ** 贴吧共享资源
 
 下载网址分成几段吧，老是发不出来，第一段是https://pan.baidu.com/s/1En_zxHrbcExsv5S6mY6atg ，提取码: vd5j 
 
 * The Orville
-
 ** tv :📺:
 *** Orville S1
 **** DONE [#C] 1x01 Old Wounds                 (7.5)
@@ -1924,18 +1939,18 @@ https://memory-beta.fandom.com/wiki/Strange_New_Worlds_9
 **** DONE [#B] 1x10 Firestorm (8.2)
 **** DONE [#B] 1x11 New Dimensions (8.1)
 **** DONE [#A] 1x12 Mad Idolatry (8.6)
-*** 📂Orville S2 
+*** Orville S2
 **** DONE [#C] 2x05 All the World Is Birthday Cake
-     CLOSED: <2021-01-10 Sun 21:16>
-     :PROPERTIES:
-     :rating:   7.5
-     :END:
+CLOSED: <2021-01-10 Sun 21:16>
+:PROPERTIES:
+:rating:   7.5
+:END:
 
 **** DONE [#B] 2x06 A Happy Refrain
-     CLOSED: [2021-01-19 Tue 19:16]
-     :PROPERTIES:
-     :rating:   8.3
-     :END:
+CLOSED: [2021-01-19 Tue 19:16]
+:PROPERTIES:
+:rating:   8.3
+:END:
 
 **** DONE [#C] 2x07 Deflectors
 
@@ -1944,53 +1959,56 @@ https://memory-beta.fandom.com/wiki/Strange_New_Worlds_9
  :END:
 
 **** DONE [#A] 2x08 Identity: Part I
-     CLOSED: [2021-01-27 Wed 16:54]
-     :PROPERTIES:
-     :rating:   9.2
-     :END:
+CLOSED: [2021-01-27 Wed 16:54]
+:PROPERTIES:
+:rating:   9.2
+:END:
 
 **** DONE [#A] 2x09 Identity: Part II
-     CLOSED: [2021-01-27 Wed 16:54]
-     :PROPERTIES:
-     :rating:   9.2
-     :END:
+CLOSED: [2021-01-27 Wed 16:54]
+:PROPERTIES:
+:rating:   9.2
+:END:
 
 **** DONE [#B] 2x10 Blood of Patriot
-     CLOSED: [2021-02-06 Sat 20:57]
-     :PROPERTIES:
-     :rating:   8.0
-     :END:
+CLOSED: [2021-02-06 Sat 20:57]
+:PROPERTIES:
+:rating:   8.0
+:END:
 
 **** DONE [#A] 2x11 Lasting Impressions
-     CLOSED: [2021-02-16 Tue 15:08]
-     :PROPERTIES:
-     :rating:   9.0
-     :END:
+CLOSED: [2021-02-16 Tue 15:08]
+:PROPERTIES:
+:rating:   9.0
+:END:
 
 **** DONE [#B] 2x12 Sanctuary
-     CLOSED: [2021-03-12 Fri 22:08]
-     :PROPERTIES:
-     :rating:   8.3
-     :END:
+CLOSED: [2021-03-12 Fri 22:08]
+:PROPERTIES:
+:rating:   8.3
+:END:
 
 **** DONE [#B] 2x13 Tomorrow, and Tomorrow, and Tomorrow
-     CLOSED: [2021-03-26 Fri 19:13]
-     :PROPERTIES:
-     :rating:   8.4
-     :END:
+CLOSED: [2021-03-26 Fri 19:13]
+:PROPERTIES:
+:rating:   8.4
+:END:
 
  A time distortion brings someone from the past to the Orville.
 
 **** DONE [#A] 2x14 The Road Not Taken
-     CLOSED: [2021-03-26 Fri 23:23]
-     :PROPERTIES:
-     :rating:   8.7
-     :END:
+CLOSED: [2021-03-26 Fri 23:23]
+:PROPERTIES:
+:rating:   8.7
+:END:
 
  The crew must contend with the disastrous fallout from Kelly's decision.
 
+*** 📂Orville S3
+**** NOW 3x01
+**** 3x02
 ** comics :📚:
-*** Orville S1.5 
+*** Orville S1.5
 **** DONE New Beginning 新的开始 :hanzify:
 **** DONE The Word of Evis :hanzify:
 *** Orville S2.5
@@ -2008,6 +2026,7 @@ CLOSED: [2021-03-26 Fri 23:49]
 #+TBLFM: $1='(cond ((< $4 7.0) "CANCEL") (t ""));N
 
 ** best TNG episodes
+
 https://screenrant.com/best-star-trek-tng-episodes/
 
 | 20 |      1x24 | Conspiracy              | #Aliens      |
@@ -2030,3 +2049,4 @@ https://screenrant.com/best-star-trek-tng-episodes/
 | 19 |      7x15 | Lower Decks             |              |
 | 15 |      7x19 | Genesis                 |              |
 | 13 |      7x25 | All Good Things         |              |
+
