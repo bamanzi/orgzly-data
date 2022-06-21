@@ -550,8 +550,8 @@ CLOSED: [2022-06-02 Thu 18:45] SCHEDULED: <2022-06-02 Thu>
 ****** DONE 1x13 Rebel Resolve
 CLOSED: [2022-06-05 Sun 16:21] SCHEDULED: <2022-06-06 Mon>
 
-****** NOW 1x14 Fire Across the Galaxy
-SCHEDULED: <2022-06-07 Tue>
+****** DONE 1x14 Fire Across the Galaxy
+CLOSED: [2022-06-18 Sat 00:12] SCHEDULED: <2022-06-07 Tue>
 
 ***** season 2 (22 eps) :P2015:
 ***** season 3 (22 eps) :P2016:

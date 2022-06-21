@@ -232,7 +232,7 @@ CLOSED: <2022-02-05 Sat 16:16>
 CLOSED: <2022-02-05 Sat 16:16>
 
 ***** 6. R.I.P. The Missing Chapter (#701-702)
-**** DONE Whatever Happened to the Caped Crusader? (2009.04-06) :P2009:Neil_Gaiman:
+**** DONE [#B] Whatever Happened to the Caped Crusader? (2009.04-06) :P2009:Neil_Gaiman:
 CLOSED: <2022-02-09 Wed 22:48>
 
 虽然不是严格意义上的经典，但这期其实是对蝙蝠侠的哀悼，无论是作为一个虚构的角色还是一个真实的想法。在他葬礼上的客人包括蝙蝠侠历史上的人物，活着和死亡的人物，以及不再存在的人物。
@@ -240,7 +240,7 @@ CLOSED: <2022-02-09 Wed 22:48>
 - Batman #686
 - Detective Comics #853
 
-**** DONE [#B] Battle for the Cowl (2009.05-07) :P2009:
+**** DONE [#B] Battle for the Cowl (2009.05-07) 披风争夺战 :P2009:
 CLOSED: [2022-02-13 Sun 19:37]
 
 **** LATER Batman Reborn (2009.08-12) :P2009:
@@ -570,13 +570,6 @@ Batman Confidential #1-6
 这个令人难以置信的系列讲述了GCPD的重大犯罪部，他们试图在一个由腐败，怪胎和蒙面义警统治的城市中工作。
 
 ** movie
-*** DCAU
-**** Batman: Mask of the Phantasm
-**** Batman & Mr. Freeze: SubZero
-**** Batman: Mystery of the Batwoman
-**** Batman Beyond: Return of the Joker
-**** Batman and Harley Quinn
-**** Justice League vs. the Fatal Five
 *** DCEU
 *** Nolan verse
 **** Batman: Gotham Knight :animated:P2008:
@@ -625,6 +618,47 @@ The story is inspired by the /Batman Reborn/ arc, whilst also including elements
 **** DONE 1x01
 **** DONE 1x02
 **** DONE 1x03
+** DCAU
+*** Batman Adventures
+**** movies
+***** Batman: Mask of the Phantasm
+***** Batman & Mr. Freeze: SubZero
+***** Batman: Mystery of the Batwoman
+***** Batman and Harley Quinn
+***** Justice League vs. the Fatal Five
+*** Batman Beyond
+**** comics
+***** DONE Batman Beyond vol1 (1999)
+***** Batman Beyond vol2 (1999-2001)
+
+ 24 issues
+
+***** +Batman Beyond vol3 (2010-2011)+ (New Earth, not DCAU)
+
+6 issues
+
+***** Batman Beyond v4 (2011)
+
+8 issues
+
+***** Batman Beyond (Digital)(2012-2013)
+***** CANCEL [#E] 7. The New 52 - Futures End (2014-2015)
+
+据说非常垃圾
+
+***** Batman Beyond v5 (2015-2016)
+
+16 issues
+
+***** Batman Beyond v6 (2016-2021)
+
+50 issues
+
+***** others
+****** Batman: Beyond the White Knight (2022-)
+****** Batman Beyond: Neo Year (2022-)
+**** movies
+***** Batman Beyond: Return of the Joker
 * Superman
 ** DONE All-star Superman
 ** Kingdom Come
