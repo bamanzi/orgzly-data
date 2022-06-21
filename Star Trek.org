@@ -197,7 +197,8 @@ CLOSED: [2021-02-25 Thu 18:55]
 :rating:   7.3
 :END:
 
-**** NEXT [#D] 3x14 Whom Gods Destroy
+**** DONE [#D] 3x14 Whom Gods Destroy
+CLOSED: [2022-06-20 Mon 00:19]
 :PROPERTIES:
 :rating:   7.2
 :END:
@@ -617,7 +618,7 @@ CLOSED: <2022-06-10 Fri 23:58> SCHEDULED: <2022-06-10 Fri>
 **** [#D] 5x16. Ethics                  (7.4)
 **** CANCEL [#E] 5x17. The Outcast             (6.8)
 **** [#A] 5x18. Cause and Effect        (9.0)
-**** NOW [#C] 5x19 The First Duty (7.9) :Picard:
+**** TODO [#C] 5x19 The First Duty (7.9) :Picard:
 **** CANCEL [#E] 5x20. Cost of Living          (6.3)
 **** [#C] 5x21. The Perfect Mate        (7.5)
 **** CANCEL [#E] 5x22. Imaginary Friend        (6.2)
@@ -1119,13 +1120,11 @@ CLOSED: [2021-03-31 Wed 08:45]
 :END:
 
 **** CANCEL [#F] 6x23 Profit and Lace
-CLOSED: [2021-02-25 Thu 18:50]
 :PROPERTIES:
 :rating:   5.9
 :END:
 
 **** CANCEL [#E] 6x24 Time's Orphan
-CLOSED: [2021-03-04 Thu 23:05]
 :PROPERTIES:
 :rating:   6.4
 :END:
@@ -1136,14 +1135,19 @@ CLOSED: [2021-04-03 Sat 20:23]
 :rating:   7.6
 :END:
 
-**** NOW [#B] 6x26 Tears of the Prophets
+**** DONE [#B] 6x26 Tears of the Prophets
+CLOSED: [2022-06-17 Fri 21:36]
 :PROPERTIES:
 :rating:   8.4
 :END:
 
 *** DS9 S7 :Y2375:
-**** NEXT [#C] 7x1. Image in the Sand                    (7.7)
-**** [#B] 7x2. Shadows and Symbols                  (8.0)
+**** DONE [#C] 7x1. Image in the Sand (7.7)
+CLOSED: [2022-06-17 Fri 22:20]
+
+**** DONE [#B] 7x2. Shadows and Symbols                  (8.0)
+CLOSED: [2022-06-18 Sat 18:30]
+
 **** [#D] 7x3. Afterimage                           (7.3)
 **** [#C] 7x4. Take Me Out to the Holosuite         (7.5)
 **** [#D] 7x5. Chrysalis                            (7.1)
@@ -1294,7 +1298,8 @@ CLOSED: <2022-05-19 Thu 07:53>
 :rating:   7.4
 :END:
 
-**** [#C] 1x11 State of Flux
+**** DONE [#C] 1x11 State of Flux
+CLOSED: [2022-06-19 Sun 10:23]
 :PROPERTIES:
 :rating:   7.7
 :END:
@@ -1380,9 +1385,11 @@ CLOSED: [2022-06-09 Thu 21:45]
 **** DONE [#D] 4x04 Nemesis				   (7.0)
 CLOSED: [2022-06-11 Sat 22:00]
 
-**** [#C] 4x05 Revulsion				   (7.5)
-**** [#C] 4x06 The Raven				   (7.6)
-SCHEDULED: <2022-06-05 Sun>
+**** DONE [#C] 4x05 Revulsion				   (7.5)
+CLOSED: [2022-06-14 Tue 22:15]
+
+**** DONE [#C] 4x06 The Raven				   (7.6) :Seven_of_Nine:
+CLOSED: [2022-06-14 Tue 23:15] SCHEDULED: <2022-06-05 Sun>
 
 **** [#B] 4x07 Scientific Method		   (8.1)
 **** [#A] 4x08 Year of Hell			   (8.8)
@@ -1581,34 +1588,44 @@ CLOSED: [2021-03-13 Sat 22:56]
 
 13 episodes
 
-**** DONE 3x01. That Hope Is You, Part 1
+**** DONE [#D] 3x01. That Hope Is You, Part 1
 CLOSED: <2021-03-14 Sun 19:00>
 
 7.2   15 Oct. 2020
 
-**** DONE 3x02 Far From Home
+**** DONE [#D] 3x02 Far From Home
 CLOSED: <2021-03-14 Sun 19:53>
 
-**** DONE 3x03 People of Earth
+**** DONE [#D] 3x03 People of Earth
 CLOSED: [2021-03-14 Sun 20:46]
 
-**** DONE 3x04 Forget Me Not
+**** DONE [#F] 3x04 Forget Me Not
 CLOSED: [2021-03-21 Sun 21:40]
 
 6.3   5 Nov. 2020
 
-**** DONE 3x05 Die Trying
+**** DONE [#D] 3x05 Die Trying
 CLOSED: [2021-03-21 Sun 21:40]
 
 12 Nov. 2020
 
-**** DONE 3x06 Scavengers
+**** DONE [#E] 3x06 Scavengers
 CLOSED: [2022-06-02 Thu 20:36] SCHEDULED: <2022-06-18 Sat>
 
-**** DONE 3x07 Unification III
+**** DONE [#E] 3x07 Unification III
 CLOSED: [2022-06-12 Sun 13:02] SCHEDULED: <2022-06-14 Tue>
 
-**** NOW 3x08 The Sanctuary
+**** DONE [#F] 3x08 The Sanctuary
+CLOSED: [2022-06-18 Sat 11:51]
+:PROPERTIES:
+:imdb:     5.7
+:END:
+
+**** [#E] 3x09 Terra Firma, Part 1
+**** [#E] 3x10 Terra Firma, Part 2
+**** [#F] 3x11 Su'Kal
+**** [#E] 3x12 There Is a Tide...
+**** [#E] 3x13 That Hope Is You, Part 2
 *** Discovery S4
 ** comics :IDW:📚:
 *** 2DONE Discovery: The Light of Kahless (卡勒斯之光) :hanzify:Kahless:Klingons:
@@ -1638,7 +1655,9 @@ CLOSED: [2022-06-12 Sun 09:41]
 **** DONE 1x07 Nepenthe
 CLOSED: [2022-06-13 Mon 11:01]
 
-**** NOW 1x08 Broken Pieces
+**** DONE 1x08 Broken Pieces
+CLOSED: [2022-06-19 Sun 11:51]
+
 **** 1x09 Et in Arcadia Ego, Part 1
 **** 1x10 Et in Arcadia Ego, Part 2
 *** Picard S2 :P2022:
@@ -1924,7 +1943,7 @@ https://memory-beta.fandom.com/wiki/Strange_New_Worlds_9
 
 下载网址分成几段吧，老是发不出来，第一段是https://pan.baidu.com/s/1En_zxHrbcExsv5S6mY6atg ，提取码: vd5j 
 
-* The Orville
+* The Orville :ORV:
 ** tv :📺:
 *** Orville S1
 **** DONE [#C] 1x01 Old Wounds                 (7.5)
@@ -2005,8 +2024,10 @@ CLOSED: [2021-03-26 Fri 23:23]
  The crew must contend with the disastrous fallout from Kelly's decision.
 
 *** 📂Orville S3
-**** NOW 3x01
-**** 3x02
+**** DONE 3x01
+CLOSED: [2022-06-20 Mon 23:48]
+
+**** NOW 3x02
 ** comics :📚:
 *** Orville S1.5
 **** DONE New Beginning 新的开始 :hanzify:
