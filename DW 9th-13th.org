@@ -41,7 +41,7 @@ CLOSED: [2022-05-19 Thu 08:51] SCHEDULED: <2022-05-07 Sat>
 【【广播剧翻译】大都会电影里出现了赛博人？九任冒险集 303 Monsters in Metropolis-哔哩哔哩】 https://b23.tv/ayLbFDQ
 
 **** vol.4 Old Friends
-***** HALF [#C] 4.1 Fond Farewell :bilibili:D2022_07_doctor:
+***** HALF [#C] 4.1 Fond Farewell :bilibili:DW2022_07_doctor:
 :PROPERTIES:
 :rating:   7.6
 :END:
@@ -342,11 +342,13 @@ CLOSED: <2022-05-28 Sat 20:33> SCHEDULED: <2022-06-05 Sun>
 
 【【神秘博士广播剧汉化】听后感：！！！ Dalek Universe 102 The Wrong Woman-哔哩哔哩】 https://b23.tv/a6fUWqp
 
-**** READY [#C] DU 1.3 - The House of Kingdom :D2022_06_doctor:
-SCHEDULED: <2022-06-25 Sat>
+**** DONE [#C] DU 1.3 - The House of Kingdom :D2022_06_doctor:bilibili:Varga:
+CLOSED: [2022-06-18 Sat 10:57] SCHEDULED: <2022-06-25 Sat>
 :PROPERTIES:
 :rating:   7.9
 :END:
+
+【【神秘博士广播剧熟肉】Dalek Universe 103 The House of Kingdom 家族-哔哩哔哩】 https://b23.tv/bQCgXoT
 
 **** READY [#D] DU2.1 - Cycle of Destruction :bilibili:
 :PROPERTIES:
@@ -479,7 +481,7 @@ CLOSED: <2021-10-16 Sat 10:18>
 :rating:   7.3
 :END:
 
-**** [#D] 1.3 - The Light Keepers :plot_yes:D2022_07_doctor:
+**** [#D] 1.3 - The Light Keepers :Dorium:plot_yes:DW2022_07_doctor:
 SCHEDULED: <2022-05-21 Sat>
 :PROPERTIES:
 :rating:   7.1
@@ -513,7 +515,7 @@ SCHEDULED: <2022-03-30 Wed>
 :rating:   8.4?
 :END:
 
-*** TODO [#C] The Churchill Years 1.3 Living History :P2016:D2022_07_spinoffs:plot_yes:
+*** TODO [#C] The Churchill Years 1.3 Living History :P2016:DW2022_07_spinoffs:plot_yes:
 :PROPERTIES:
 :rating:   7.9
 :END:
@@ -615,7 +617,7 @@ CLOSED: [2021-09-24 Fri 08:10]
 
 ** audio :🎧:
 *** 12DC vol.1 :P2020:🗣:
-**** [#D] 1. The Charge of the Night Brigade :Mary_Seacole:D2022_06_doctor:
+**** START [#D] 1. The Charge of the Night Brigade :Mary_Seacole:D2022_06_doctor:
 SCHEDULED: <2022-06-19 Sun>
 :PROPERTIES:
 :rating:   7.3

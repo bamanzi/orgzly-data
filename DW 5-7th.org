@@ -10,7 +10,7 @@
 **** Kinda
 **** The Visitation
 **** Black Orchid
-**** Earthshock
+**** Earthshock :Cybermen:DW2022_10_extra:
 **** Time-Flight
 *** Season 20
 **** Arc of Infinity
@@ -29,7 +29,7 @@
 CLOSED: <2021-10-05 Tue 20:27>
 
 **** Planet of Fire
-**** The Caves of Androzani :D2021_Q4:
+**** The Caves of Androzani
 ** audio :🎧:
 *** main range 001-050 :scripted:
 **** The Sirens of Time
@@ -444,7 +444,7 @@ CLOSED: [2021-12-12 Sun 17:32]
 
 *** Season 24
 **** Time and the Rani
-*** special: Real Time :D2022_Q4:Cybermen:Evelyn:
+*** special: Real Time :Cybermen:Evelyn:DW2022_11_extra:
 ** audio :🎧:
 *** main range 01-50 :scripted:
 **** [#A] 6. The Marian Conspiracy (8.6) :Evelyn:plot_yes:
@@ -626,8 +626,8 @@ CLOSED: [2021-10-18 Mon 20:15]
 
 **** [#A] 233. Static (8.6) :Flip:Constance:
 **** [#C] 239. Iron Bright (7.5)
-**** [#C] 240. Hour of the Cybermen (7.8) :Cybermen:D2022_06_doctor:
-SCHEDULED: <2022-06-15 Wed>
+**** HALF [#C] 240. Hour of the Cybermen (7.8) :Cybermen:D2022_06_doctor:
+SCHEDULED: <2022-06-19 Sun>
 
 *** 6DA :short:
 **** special/bonus
@@ -779,10 +779,23 @@ Volume One
 **** ST4.6 - To Cut a Blade of Grass :short:
 * 7th Doctor :7th_Dr:
 ** tv :📺:
+*** S24
+**** 24x01 - Time and the Rani (5.1)
+**** TODO 24x02 - Paradise Towers (6.1) :DW2022_12_extra:
+**** 24x03 - Delta and the Bannermen (6.0)
+**** 24x04 - Dragonfire (6.3)
 *** S25
 **** DONE 25x01 Remembrance of the Daleks :Davros:
 CLOSED: [2021-11-01 Mon 19:54]
 
+**** 25x02 The Happiness Patrol
+**** 25x03 Silver Nemesis
+**** 25x04 The Greatest Show in the Galaxy
+*** S26
+**** S26E01 - Battlefield (7.4)
+**** S26E02 鬼舍之光 - Ghost Light (7.2)
+**** S26E03 Fenric的诅咒 - The Curse of Fenric (8.2)
+**** S26E04 幸存 - Survival (7.7)
 ** audio :🎧:
 *** main range :scripted:
 **** top
@@ -839,7 +852,7 @@ CLOSED: <2021-09-23 Thu 21:27> SCHEDULED: <2021-09-04 Sat>
 CLOSED: [2021-06-24 Thu 12:31]
 
 ***** [#A] 74. Live 34 (8.5) :P2005:Ace:Hex:plot_no:
-***** [#B] 79. Night Thoughts :Ace:Hex:D2022_07_doctor:
+***** [#B] 79. Night Thoughts :Ace:Hex:DW2022_07_doctor:
 ***** [#C] 82. The Settling :plot_no:
 :PROPERTIES:
 :rating:   7.7

@@ -8,8 +8,8 @@
 
 小说翻译： https://link.zhihu.com/?target=http%3A//tieba.baidu.com/p/2575205906 
 
-**** HALF The Keys of Marinus :Voord:D2022_06_extra:
-SCHEDULED: <2022-06-12 Sun>
+**** DONE The Keys of Marinus :Voord:D2022_06_extra:
+CLOSED: [2022-06-15 Wed 22:25] SCHEDULED: <2022-06-15 Wed>
 
 **** The Aztecs
 **** The Sensorites
@@ -20,7 +20,7 @@ Episode 4,5 missing (but animated in 2013).
 *** Season 2 :1964:
 **** DONE Planet of Giants
 **** DONE The Dalek Invasion of Earth :daleks:
-**** The Rescue
+**** The Rescue :Vicki:
 **** DONE The Romans
 **** DONE [#E] The Web Planet
 **** +The Crusade+ :missing:
@@ -28,10 +28,10 @@ Episode 4,5 missing (but animated in 2013).
 Episode 2, 4 missing.
 
 **** The Space Museum
-**** DONE The Chase :daleks:Mechanoids:
+**** DONE The Chase :Steven:daleks:Mechanoids:
 CLOSED: [2021-06-21 Mon 06:13]
 
-**** DONE The Time Meddler
+**** DONE The Time Meddler :Monk:
 *** Season 3 :1965:
 **** +Galaxy 4+ :missing:
 
@@ -64,7 +64,7 @@ Episode 4 missing (but animated in 2013).
 
 应该先看老版剧集 1x05 The Keys of Marinus
 
-***** [#D] EA1.2 The Doctor's Tale :Steven:Vicki:plot_yes:D2022_07_doctor:
+***** [#D] EA1.2 The Doctor's Tale :Steven:Vicki:plot_yes:DW2022_07_doctor:
 :PROPERTIES:
 :rating:   7.1
 :END:
@@ -92,7 +92,7 @@ CLOSED: [2021-11-01 Mon 22:54] SCHEDULED: <2021-11-01 Mon>
 :rating:   7.6
 :END:
 
-***** READY [#C] EA7.2 The Secrets of Det-Sen :plot_simple:D2022_07_doctor:
+***** READY [#C] EA7.2 The Secrets of Det-Sen :plot_simple:DW2022_07_doctor:
 :PROPERTIES:
 :rating:   7.8
 :END:
@@ -257,7 +257,7 @@ Old Steven 3/3
 https://www.bilibili.com/read/cv16029955
 
 * 2nd Doctor :2nd_Dr:
-** tv
+** tv :📺:
 *** Season 4 :1967:
 **** DONE 04x03 The Power of the Daleks :daleks:animated:srt_full:missing:P2016:P1966:
 
@@ -339,7 +339,7 @@ Episode 2,4,5,6 missing (but all episodes animated in 2020)
 -  微博介绍: [[https://m.weibo.cn/1910110560/4348385387213052]]
 -  字幕文件下载: [[https://secure.assrt.net/xml/sub/624/624128.xml]]
 
-**** +The Abominable Snowmen+ :great_intelligence:missing:
+**** [#C] +The Abominable Snowmen+ (7.5) :great_intelligence:missing:DW2022_07_extra:
 
 (总6集, 仅第2集幸存, 未做中文字幕)
 
@@ -617,8 +617,8 @@ SCHEDULED: <2021-10-03 Sun>
 ***** 14.3 The Prints of Denmark
 ***** 14.4 The Deepest Tragedian
 *** misc
-**** START [#D] LS4.2 - The Queen of Time :Jamie:Zoe:plot_yes:D2022_06_doctor:
-SCHEDULED: <2022-06-09 Thu>
+**** HALF [#D] LS4.2 - The Queen of Time :Jamie:Zoe:plot_yes:D2022_06_doctor:
+SCHEDULED: <2022-06-05 Sun>
 :PROPERTIES:
 :rating:   7.4
 :END:
@@ -684,32 +684,46 @@ https://m.vk.com/wall-205306392_45
 :END:
 
 * 3rd Doctor :3rd_Dr:
-** TV S7-9 :📺:Liz:UNIT:
-*** DONE [#A] 7x4 Inferno †8. 5 （重看）
+** tv
+*** season 7 :📺:Liz:UNIT:
+**** DONE 7x01 - Spearhead from Space (8.2)
+**** DONE 7x02 - Doctor Who and the Silurians (8.0)
+**** DONE 7x03 - The Ambassadors of Death (7.5)
+**** DONE [#A] 7x4 Inferno †8. 5 （重看）
 CLOSED: [2020-07-15 Wed 19:13]
 
-*** 9x03 The Sea Devil
-*** DONE 9x05 - The Time Monster †6.9)
+*** season 8
+**** DONE 8x01 - Terror of the Autons (7.8)
+**** DONE 8x02 - The Mind of Evil (7.6)
+**** DONE 8x03 - The Claws of Axos (7.3)
+**** DONE 8x04 - Colony in Space (7.1)
+**** 8x05 - The Dæmons (7.8)
+*** season 9
+**** DONE 9x01 - Day of the Daleks (7.9)
+**** DONE 9x02 - The Curse of Peladon (7.6)
+**** [#C] 9x03 The Sea Devil (7.7) :DW2022_08_extra:
+**** 9x04 - The Mutants (7.0)
+**** DONE 9x05 - The Time Monster †6.9)
 CLOSED: [2020-07-20 Mon 20:15]
 
-** TV S10 :📺:UNIT:Jo:
-*** FIXME [#B] TV10x01 - The Three Doctors †8.1)
-*** [#C] 10x02 - Carnival of Monsters †7.8) :3D:Sarah:
-*** DONE 10x03 - Frontier in Space †7.6)
-*** DONE 10x04 - Planet of the Daleks †7.5)
-*** DONE [#B] 10x05 - The Green Death †8.2)
+*** season 10 :📺:UNIT:Jo:
+**** DONE [#B] 10x01 - The Three Doctors †8.1)
+**** [#C] 10x02 - Carnival of Monsters †7.8) :3D:Sarah:
+**** DONE 10x03 - Frontier in Space †7.6)
+**** DONE 10x04 - Planet of the Daleks †7.5)
+**** DONE [#B] 10x05 - The Green Death †8.2)
 CLOSED: [2020-06-25 Thu 20:46]
 
 sequel: Torchwood #26 The Green Life
 
-** TV S11 :📺:Sarah:
-*** DONE 11x01 - The Time Warriors †8.1)
-*** [#D] 11x02 - Invasion of the Dinosaurs †7.4)
-*** DONE 📺11x03 - Death to the Daleks †7.6)
+*** season 11 :📺:Sarah:
+**** DONE 11x01 - The Time Warriors †8.1)
+**** [#D] 11x02 - Invasion of the Dinosaurs †7.4)
+**** DONE 📺11x03 - Death to the Daleks †7.6)
 CLOSED: [2020-06-18 Thu 12:51]
 
-*** CANCEL 11x04 - The Monster of Peladon †6.6)
-*** DONE 11x05 - Planet of the Spiders †7.8)
+**** CANCEL 11x04 - The Monster of Peladon †6.6)
+**** DONE 11x05 - Planet of the Spiders †7.8)
 ** comics :📚:
 *** DONE [#B] Titan Comics: The Heralds of Destruction :Titan:
 CLOSED: [2020-07-13 Mon 20:29]
@@ -740,7 +754,7 @@ CLOSED: [2021-07-27 Tue 23:10]
 :rating:   7.9
 :END:
 
-**** READY [#C] 2.2 The Hidden Realm :Jo:plot_yes:D2022_07_doctor:
+**** READY [#C] 2.2 The Hidden Realm :Jo:plot_yes:DW2022_07_doctor:
 :PROPERTIES:
 :rating:   7.5
 :END:
@@ -916,7 +930,7 @@ SCHEDULED: <2022-03-30 Wed>
 :rating:   7.5
 :END:
 
-**** [#C] CC7.12 - Council of War :Benton:Brigadier:D2022_07_doctor:
+**** [#C] CC7.12 - Council of War :Benton:Brigadier:DW2022_07_doctor:
 :PROPERTIES:
 :rating:   7.7
 :END:
@@ -993,7 +1007,10 @@ https://tieba.baidu.com/p/2440478286?see_lz=1&pn=0&
 * 4th Doctor :4th_Dr:
 ** tv :📺:
 *** S12 :Sarah:
-**** 12x04 Genesis of the Daleks :Best_of_Tom_Baker:
+**** DONE 12x01 Robot (7.4)
+**** DONE 12x02 The Ark in Space (8.2)
+**** DONE 12x03 - The Sontaran Experiment (7.4)
+**** DONE 12x04 Genesis of the Daleks :Best_of_Tom_Baker:
 **** DONE [#D] 12x05 - Revenge of the Cybermen †7.3)
 CLOSED: [2020-06-26 Fri 18:54]
 
@@ -1029,7 +1046,7 @@ CLOSED: <2020-08-03 Mon 18:24>
 
 sequel: Torchwood #25 Night of the Fendahl
 
-**** [#C] 15x04 - The Sun Makers †7.8)
+**** [#C] 15x04 - The Sun Makers †7.8) :DW2022_09_extra:
 **** CANCEL [#E] 15x05 - Underworld †6.2)
 **** DONE [#C] 15x06 - The Invasion of Time †7.7)
 *** S16 :Romana_1:
@@ -1154,8 +1171,8 @@ CLOSED: [2021-07-27 Tue 23:11]
 :rating:   7.3
 :END:
 
-***** START [#C] 4.5 - Suburban Hell (7.7) :plot_yes:D2022_06_doctor:
-SCHEDULED: <2022-06-09 Thu>
+***** HALF [#C] 4.5 - Suburban Hell (7.7) :plot_yes:D2022_06_doctor:
+SCHEDULED: <2022-06-16 Thu>
 
 ***** [#D] 4.6 The Cloisters of Terror (7.4)
 ***** [#D] 4.7 The Fate of Krelos (7.2)
