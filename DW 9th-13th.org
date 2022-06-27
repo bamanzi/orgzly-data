@@ -2,11 +2,11 @@
 ** tv :📺:
 ** audio :🎧:
 *** 9DA
-**** vol.1 Ravagers :P2021_05:
+**** S1.1 Ravagers :P2021_05:
 ***** START 1.1 Sphere of Freedom (7.2)
 ***** START 1.2 Cataclysm (7.0)
 ***** START 1.3 Food Fight (7.1)
-**** vol.2 Respond to All Calls :P2021_05:
+**** S1.2 Respond to All Calls :P2021_05:
 ***** HALF [#C] 9DA 2.1 Girl, Deconstructed :D2021_08_dr:plot_yes:bilibili:
 
 【【神秘博士广播剧翻译】女孩离奇失踪，九叔英雄救美 九任冒险集 201 被解构的女孩-哔哩哔哩】 https://b23.tv/dXGOnq7
@@ -21,7 +21,7 @@ SCHEDULED: <2021-11-04 Thu>
 
 【【广播剧翻译】墓地星球中针对博士的阴谋 九任冒险集 203 Planet of the End-哔哩哔哩】 https://b23.tv/uwJY0f7
 
-**** vol.3 Lost Warriors :P2021_11:
+**** S1.3 Lost Warriors :P2021_11:
 ***** [#E] 3.1. The Hunting Season :D2022_Q2:
 :PROPERTIES:
 :rating:   6.8
@@ -40,26 +40,34 @@ CLOSED: [2022-05-19 Thu 08:51] SCHEDULED: <2022-05-07 Sat>
 
 【【广播剧翻译】大都会电影里出现了赛博人？九任冒险集 303 Monsters in Metropolis-哔哩哔哩】 https://b23.tv/ayLbFDQ
 
-**** vol.4 Old Friends
-***** HALF [#C] 4.1 Fond Farewell :bilibili:DW2022_07_doctor:
+**** S1.4 Old Friends :P2021_11:
+***** LATER [#C] 4.1 Fond Farewell :bilibili:DW2022_07_maybe:
+SCHEDULED: <2022-07-31 Sun>
 :PROPERTIES:
 :rating:   7.6
 :END:
 
 【【广播剧翻译】死者复活参加自己的葬礼？九任冒险集：老朋友 401 Fond Farewell-哔哩哔哩】 https://b23.tv/TSaPh4d
 
-***** [#B] 4.2 Way of the Burryman :Cybermen:UNIT:Brigadier:bilibili:
+***** TODO [#B] 4.2 Way of the Burryman :Cybermen:UNIT:Brigadier:bilibili:DW2022_07_doctor:
+SCHEDULED: <2022-07-09 Sat>
 :PROPERTIES:
 :rating:   8.2
 :END:
 
 【【广播剧翻译】九叔与老年准将 九任冒险集：老朋友 402 Way of the Burryman-哔哩哔哩】 https://b23.tv/HfJuOyt
 
-***** [#B] 4.3 The Forth Generation :Cybermen:
+***** TODO [#B] 4.3 The Forth Generation :Cybermen:DW2022_07_doctor:
+SCHEDULED: <2022-07-30 Sat>
 :PROPERTIES:
 :rating:   8.2
 :END:
 
+**** S2.1 Back to Earth :P2022_05:
+***** [#B] 2.1 Station to Station
+***** [#F] 2.2 The False Dimitry
+***** [#B] 2.3 Auld Lang Syne
+**** TBR S2.2 Into the Stars :P2022_08:
 *** ST (audiobooks)
 **** [#C] DotD#9. Night of the Whisper :plot_yes:
 :PROPERTIES:
@@ -76,7 +84,7 @@ CLOSED: [2022-05-19 Thu 08:51] SCHEDULED: <2022-05-07 Sat>
 :rating:   7.8
 :END:
 
-**** [#C] ST11.X The Lichyrwick Abomination :P2021:
+**** [#C] ST11.X The Lichyrwick Abomination :P2021:scripted:
 :PROPERTIES:
 :rating:   7.6
 :END:
@@ -288,7 +296,7 @@ CLOSED: [2021-06-18 Fri 10:25]
 
 【【David Tennant】BigFinish广播剧The Tenth Doctor and River Song-Precious Annihilation-哔哩哔哩】 https://b23.tv/ACUaNVw
 
-**** TODO [#B] 10D&RS 3. Ghosts :bilibili:D2022_08_doctor:
+**** TODO [#B] 10D&RS 3. Ghosts :bilibili:DW2022_08_doctor:
 SCHEDULED: <2021-09-30 Thu>
 :PROPERTIES:
 :rating:   8.3
@@ -398,7 +406,7 @@ SCHEDULED: <2022-04-29 Fri>
 :rating:   7.5
 :END:
 
-*** Tenth Doctor Classic Companions :P2022:
+*** TBR Tenth Doctor Classic Companions :P2022_09:
 *** 10DC
 **** [#D] 1.1 - the Taste of Death :Rose:
 :PROPERTIES:
@@ -410,7 +418,7 @@ SCHEDULED: <2022-04-29 Fri>
 :rating:   7.0
 :END:
 
-**** [#C] 1.3 - Wild Pastures
+**** TODO [#C] 1.3 - Wild Pastures
 :PROPERTIES:
 :rating:   7.5
 :END:
@@ -476,18 +484,20 @@ CLOSED: <2021-10-16 Sat 10:18>
 **** DONE 6x07 A Good Man Goes to War :River:
 ** audio :🎧:
 *** 11DC vol.1 :🗣:
-**** [#D] 1.1 - The Calendar Man
+**** TODO [#D] 1.1 - The Calendar Man :DW2022_07_doctor:
+SCHEDULED: <2022-07-16 Sat>
 :PROPERTIES:
 :rating:   7.3
 :END:
 
-**** [#D] 1.3 - The Light Keepers :Dorium:plot_yes:DW2022_07_doctor:
-SCHEDULED: <2022-05-21 Sat>
+**** [#E] 1.2 - The Top of the Tree
+**** TODO [#D] 1.3 - The Light Keepers :Dorium:plot_yes:DW2022_09_doctor:
+SCHEDULED: <2022-07-16 Sat>
 :PROPERTIES:
 :rating:   7.1
 :END:
 
-**** HALF [#C] 11DC1.4 - False Coronets :Jane_Austen:D2022_05_doctor:
+**** HALF [#C] 1.4 - False Coronets :Jane_Austen:D2022_05_doctor:
 SCHEDULED: <2022-05-21 Sat>
 :PROPERTIES:
 :rating:   7.8
@@ -510,12 +520,13 @@ SCHEDULED: <2022-03-30 Wed>
 
 *** short trips
 **** 3QTR ST10.5 Regeneration Impossible :D2021_08_extra:12th_Dr:
-**** [#B] ST11.1 Rearguard :P2022_02:
+**** READY [#B] ST11.1 Rearguard :P2022_02:
 :PROPERTIES:
 :rating:   8.4?
 :END:
 
-*** TODO [#C] The Churchill Years 1.3 Living History :P2016:DW2022_07_spinoffs:plot_yes:
+*** LATER [#C] The Churchill Years 1.3 Living History :P2016:DW2022_07_maybe:plot_yes:
+SCHEDULED: <2022-07-31 Sun>
 :PROPERTIES:
 :rating:   7.9
 :END:
@@ -617,23 +628,23 @@ CLOSED: [2021-09-24 Fri 08:10]
 
 ** audio :🎧:
 *** 12DC vol.1 :P2020:🗣:
-**** START [#D] 1. The Charge of the Night Brigade :Mary_Seacole:D2022_06_doctor:
-SCHEDULED: <2022-06-19 Sun>
+**** HALF [#D] 1.1 The Charge of the Night Brigade :Mary_Seacole:D2022_06_doctor:
+DEADLINE: <2022-06-23 Thu 22:40> SCHEDULED: <2022-06-19 Sun>
 :PROPERTIES:
 :rating:   7.3
 :END:
 
-**** TODO [#C] 2. War Wounds :Danny_Pink:
+**** TODO [#C] 1.2 War Wounds :Danny_Pink:DW2022_08_doctor:
 :PROPERTIES:
 :rating:   7.5
 :END:
 
-**** [#D] 3. Distant Voices
+**** [#D] 1.3 Distant Voices
 :PROPERTIES:
 :rating:   7.1
 :END:
 
-**** [#C] 4. Field Trip :Osgood:
+**** [#C] 1.4 Field Trip :Osgood:
 :PROPERTIES:
 :rating:   7.6
 :END:
@@ -775,8 +786,12 @@ SCHEDULED: <2022-05-07 Sat>
 **** TODO [#C] 02: Hysteria :D2022_05_doctor:
 SCHEDULED: <2022-05-31 Tue>
 
-**** [#C] 03: Lost
-**** [#B] 04. Angels
+**** TODO [#C] 03: Lost :DW2022_07_doctor:
+SCHEDULED: <2022-07-23 Sat>
+
+**** TODO [#B] 04. Angels :DW2022_07_doctor:
+SCHEDULED: <2022-07-23 Sat>
+
 **** [#D] 05. Interrogation
 ** comics
 *** Titan Comics :📚:Titan:

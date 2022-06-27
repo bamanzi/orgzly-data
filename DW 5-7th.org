@@ -66,7 +66,8 @@ CLOSED: [2021-03-15 Mon 20:29]
 
 Genesis of the Cyberman (Mondas)
 
-**** [#C] 038. The Church and the Crown :Peri:Erimem:
+**** TODO [#C] 038. The Church and the Crown :Peri:Erimem:DW2022_07_doctor:
+SCHEDULED: <2022-07-23 Sat>
 :PROPERTIES:
 :rating:   7.7
 :END:
@@ -347,7 +348,7 @@ CLOSED: [2022-05-20 Fri 08:12] SCHEDULED: <2022-05-07 Sat>
 :rating:   8.1
 :END:
 
-**** START [#D] 258b. Conversion :Tegan:Nyssa:Cybermen:D2022_05_doctor:
+**** HALF [#D] 258b. Conversion :Tegan:Nyssa:Cybermen:D2022_05_doctor:
 SCHEDULED: <2022-05-14 Sat>
 :PROPERTIES:
 :rating:   7.4
@@ -390,7 +391,8 @@ SCHEDULED: <2022-05-14 Sat>
 **** Forty
 ***** 1.1 Secrets of Telos :Nyssa:Tegan:Cybermen:P2022_01:D2022_09_doctor:
 ***** 1.2 God of War :Nyssa:Tegan:Adric:ice_warriors:P2022_01:
-***** 2.1 The Auton Infinity
+***** TBR 2.1 The Auton Infinity :P2022_09:
+**** Conflict of Interests :P2023_04:
 *** misc
 **** The Lost Stories
 ***** [#B] 3.1 - The Elite
@@ -526,7 +528,7 @@ CLOSED: [2021-03-22 Mon 20:39]
 :END:
 
 *** main range 101-150 :scripted:
-**** [#B] 105. The Condemned (8.4) :Charley:plot_no:D2022_08_doctor:
+**** [#B] 105. The Condemned (8.4) :Charley:plot_no:DW2022_08_doctor:
 SCHEDULED: <2022-02-11 Fri>
 
 Six and Charley meet, and an enjoyable, weird adventure results.
@@ -689,10 +691,12 @@ Volume One
 :rating:   9.0
 :END:
 
-**** The Eleven :P2021_09:
+**** The Eleven :P2021_09:The_Eleven:Constance:
 ***** 1. One for All
 ***** 2. The Murder of Oliver Akkron
 ***** 3. Elevation
+**** Water Worlds :P2022_05:Mel:
+**** TBR Purity Undreamed :P2022_08:
 *** The Lost Stories
 **** The Lost Stories s1 :Peri:
 ***** [#E] LS1.1 The Nightmare Fair :scripted:
@@ -852,7 +856,9 @@ CLOSED: <2021-09-23 Thu 21:27> SCHEDULED: <2021-09-04 Sat>
 CLOSED: [2021-06-24 Thu 12:31]
 
 ***** [#A] 74. Live 34 (8.5) :P2005:Ace:Hex:plot_no:
-***** [#B] 79. Night Thoughts :Ace:Hex:DW2022_07_doctor:
+***** TODO [#B] 79. Night Thoughts :Ace:Hex:DW2022_07_doctor:
+SCHEDULED: <2022-07-30 Sat>
+
 ***** [#C] 82. The Settling :plot_no:
 :PROPERTIES:
 :rating:   7.7
@@ -1019,40 +1025,45 @@ SCHEDULED: <2021-12-04 Sat>
 :rating:   8.1
 :END:
 
-**** [#D] 7DA 1.1 - The Trial of a Time Machine :D2022_Q2_doctor:short:
+**** 7DA New Adventures :P2018:
+***** [#D] 7DA 1.1 - The Trial of a Time Machine :D2022_Q2_doctor:short:
 :PROPERTIES:
 :rating:   7.4
 :END:
 
-**** CANCEL [#F] 7DA 1.2 - Vanguard :short:
+***** CANCEL [#F] 7DA 1.2 - Vanguard :short:
 CLOSED: [2021-03-23 Tue 13:04]
 :PROPERTIES:
 :rating:   6.1
 :END:
 
-**** [#B] 7DA 1.3 - The Jabari Countdown :short:
+***** [#B] 7DA 1.3 - The Jabari Countdown :short:
 :PROPERTIES:
 :rating:   8.2
 :END:
 
-**** [#A] 7DA 1.4 - The Dread of Night :short:
+***** [#A] 7DA 1.4 - The Dread of Night :short:
 :PROPERTIES:
 :rating:   8.5
 :END:
 
+**** TBR 7DA Silver and Ice :P2022_06:
+***** Bad Day in Tinseltown :Cybermen:Mel:
+***** The Ribos Inheritance :Mel:
 *** misc
-**** [#A] NA Damaged Goods :plot_no:bilibili:
+**** BLOCK [#D] NA1 Love and War :Ace:Benny:
+
+block 原因：太长（3小时多）
+
+**** [#E] NA2 The Highest Science
+**** [#A] NA6 Damaged Goods :plot_no:bilibili:
 :PROPERTIES:
 :rating:   9.0
 :END:
 
 【【神秘博士广播剧翻译】RTD早期作品 Damaged Goods-哔哩哔哩】 https://b23.tv/5a9c2Hb
 
-**** [#A] NA11. Cold Fusion
-:PROPERTIES:
-:rating:   8.7
-:END:
-
+**** [#C] NA7 Theatre of War
 **** [#A] NA8. All Consuming Fire
 :PROPERTIES:
 :rating:   8.4
@@ -1061,6 +1072,12 @@ CLOSED: [2021-03-23 Tue 13:04]
 **** [#B] NA9. Nightshade
 :PROPERTIES:
 :rating:   8.1
+:END:
+
+**** [#C] NA10 Original Sin
+**** [#A] NA11. Cold Fusion :5th_Dr:
+:PROPERTIES:
+:rating:   8.7
 :END:
 
 **** [#E] CDNM1.3 Harvest of Sycorax :short:

@@ -143,7 +143,8 @@ half scripted https://www.pillowfort.social/posts/563376
       :rating:   9.2
       :END:
 
-***** READY [#A] TW22. Goodbye Piccadilly :Andy:Norton:plot_yes:
+***** HALF [#A] TW22. Goodbye Piccadilly :Andy:Norton:plot_yes:DW2022_07_spinoffs:
+      SCHEDULED: <2022-07-02 Sat>
       :PROPERTIES:
       :rating:   8.6
       :END:
@@ -157,7 +158,7 @@ The streets of Soho are swarming with gangsters, rumours and betrayals. Somew
       :rating:   7.7
       :END:
 
-***** 2DONE [#A] 24. Deadbeat Escape [#S] :Bilis:
+***** 2DONE [#A] 24. Deadbeat Escape [#S] :Bilis_Manger:
       CLOSED: [2020-11-19 Thu 18:34]
       :PROPERTIES:
       :rating:   9.6
@@ -224,7 +225,7 @@ Sebastian Vaughan is the brightest, newest recruit to Torchwood. He's come fro
       :rating:   6.8
       :END:
 
-***** 2DONE [#A] 33 Dead Man's Switch :Bilis:
+***** 2DONE [#A] 33 Dead Man's Switch :Bilis_Manger:
       CLOSED: [2021-04-08 Thu 19:31]
       :PROPERTIES:
       :rating:   8.6
@@ -327,8 +328,8 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
       :rating:   7.2
       :END:
 
-***** HALF [#B] 48. Lease of Life :Owen:D2022_05_spinoffs:
-      SCHEDULED: <2022-05-14 Sat>
+***** 3QTR [#B] 48. Lease of Life :Owen:D2022_05_spinoffs:
+      CLOSED: <2022-05-27 Fri 09:32> SCHEDULED: <2022-05-14 Sat>
       :PROPERTIES:
       :rating:   8.3
       :END:
@@ -341,7 +342,8 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 
 ***** TBR 50. Absent Friends (missing)
 ***** 50X. The Black Knight :Norton:
-***** READY [#A] 51. The Five People You Kill in Middlebrough :Yvonne:plot_yes:DW2022_07_spinoffs:
+***** LATER [#A] 51. The Five People You Kill in Middlebrough :Yvonne:plot_yes:DW2022_07_maybe:
+      SCHEDULED: <2022-07-31 Sun>
       :PROPERTIES:
       :rating:   8.5
       :END:
@@ -356,7 +358,7 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
       :rating:   7.6
       :END:
 
-***** [#A] 54. Curios :Bilis:
+***** [#A] 54. Curios :Bilis_Manger:
       :PROPERTIES:
       :rating:   8.9
       :END:
@@ -372,6 +374,9 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 ***** [#B] 58. Cadoc Point :Andy:
 ***** [#A] 59. Sonny :Rhys:
 ***** 60. Infidel Places
+**** series 8 (61-72)
+***** 61. War Chest :Tosh:
+***** 62. Dead Plates :Bilis_Manger:
 *** specials
 **** 2DONE [#B] special 1: The Torchwood Archive :P2016:The_Commitee:plot_yes:
      CLOSED: [2020-11-19 Thu 18:33]
@@ -412,8 +417,8 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
       :rating:   7.5
       :END:
 
-**** Torchwood Soho: Parasite :P2020:plot_yes:
-**** Torchwood Soho: Ashenden :P2021:plot_yes:
+**** Torchwood Soho: Parasite :P2020:plot_yes:Norton:
+**** Torchwood Soho: Ashenden :Norton:P2021:plot_yes:
 *** tv continuation :🎧:
 **** Aliens Among Us
 ***** 2DONE [#B] 5.01 Changes Everything
@@ -441,7 +446,7 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
       :END:
 
 ***** START [#D] 5.5 Love Rat
-***** HALF [#A] 5.6 A Kill to a View :plot_yes:Bilis:
+***** HALF [#A] 5.6 A Kill to a View :Bilis_Manger:plot_yes:
       :PROPERTIES:
       :rating:   8.6
       :END:
@@ -503,18 +508,22 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
       :rating:   8.5
       :END:
 
-***** 6.5 Flight 405 :D2022_08_spinoffs:
-***** 6.6 Hostile Environment :D2022_08_spinoffs:
-***** 6.7 Another Man's Shoes
-***** 6.8 Eye of the Storm
+***** TODO 6.5 Flight 405 :Norton:P2019:DW2022_08_spinoffs:
+      SCHEDULED: <2022-07-10 Sun>
+
+***** TODO 6.6 Hostile Environment :DW2022_08_spinoffs:
+      SCHEDULED: <2022-07-05 Tue>
+
+***** 6.7 Another Man's Shoes :Norton:P2019:
+***** 6.8 Eye of the Storm :Norton:P2019:
 *** The Lives of Captain Jack :🎧:Jack:
 **** vol.1 :P2017:
-***** START [#D] The Year After I Died
+***** HALF [#D] The Year After I Died
       :PROPERTIES:
       :rating:   7.2
       :END:
 
-***** [#C] Wednesdays For Beginners
+***** HALF [#C] Wednesdays For Beginners
       :PROPERTIES:
       :rating:   7.6
       :END:
@@ -553,7 +562,7 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
       :rating:   8.2
       :END:
 
-***** DONE [#B] JACK3.2 Mighty and Despair :D2021_08_extra:plot_no:
+***** DONE [#B] 3.2 Mighty and Despair :D2021_08_extra:plot_no:
       CLOSED: [2021-08-27 Fri 08:54]
       :PROPERTIES:
       :rating:   8.0
@@ -578,7 +587,9 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
 ***** HALF [#E] 1.2 - Through The Ruins :D2022_06_spinoffs:
       SCHEDULED: <2022-06-16 Thu>
 
-***** [#E] 1.3 - Uprising :DW2022_07_spinoffs:
+***** LATER [#E] 1.3 - Uprising :DW2022_07_maybe:
+      SCHEDULED: <2022-07-31 Sun>
+
 **** Torchwood One: Machines :P2018:
 ***** BLOCK [#E] 2.1 - The Law Machines
 
@@ -879,8 +890,8 @@ Roberts Master
 *** START [#D] 6.3 - Military Intelligence           (7.4) :D2022_06_spinoffs:
     SCHEDULED: <2022-06-16 Thu>
 
-*** [#C] 6.4 - The Trial of George Litefoot    (7.8) :D2022_06_spinoffs:
-    SCHEDULED: <2022-06-26 Sun>
+*** HALF [#C] 6.4 - The Trial of George Litefoot    (7.8) :D2022_06_spinoffs:
+    DEADLINE: <2022-06-23 Thu 20:40> SCHEDULED: <2022-06-26 Sun>
 
 ** J&L series 7 :P2014:
 *** [#B] 7.1 The Monstrous Menagerie           (8.1)
@@ -981,8 +992,10 @@ Roberts Master
     :END:
 
 ** series 3 :P2006:
-*** [#B] 3.1 - Fractures (8.0) :D2022_08_spinoffs:
-*** [#B] 3.2 - Warfare (8.3) :D2022_08_spinoffs:
+*** TODO [#B] 3.1 - Fractures (8.0) :DW2022_07_spinoffs:
+    SCHEDULED: <2022-07-16 Sat>
+
+*** [#B] 3.2 - Warfare (8.3) :DW2022_08_spinoffs:
 *** [#C] 3.3 - Appropriation (7.9)
 *** [#A] 3.4 - Mindbomb (8.9)
 *** [#B] 3.5 - Panacea (8.1)
@@ -1004,20 +1017,33 @@ Roberts Master
 * Bernice Summerfield :Benny:
 ** Bernice Summerfield
 *** Series 1 :P1999:
-**** [#B] 1.1 Oh No It Isn't
+**** START [#B] 1.1 Oh No It Isn't :DW2022_07_spinoffs:
+     SCHEDULED: <2022-07-02 Sat>
      :PROPERTIES:
      :rating:   7.9
      :END:
 
-**** 1.2 Beyond the Sun
+**** CANCEL 1.2 Beyond the Sun
+     :PROPERTIES:
+     :rating:   6.2
+     :END:
+
 **** [#D] 1.3 Walking to Babylon
-**** 1.4 Birthright
+**** CANCEL 1.4 Birthright
+     :PROPERTIES:
+     :rating:   6.7
+     :END:
+
 **** [#A] 1.5 Just War
      :PROPERTIES:
      :rating:   9.2
      :END:
 
-**** 1.6 Dragon's Wrath
+**** CANCEL [#F] 1.6 Dragon's Wrath
+     :PROPERTIES:
+     :rating:   5.9
+     :END:
+
 **** Making Myths
 **** Closure
 *** Series 2 :P2001:
@@ -1062,7 +1088,8 @@ Roberts Master
 **** novel: The Big Hunt
 **** anthology: A Life Worth Living
 **** anthology: A Life in Pieces
-**** [#A] 5.1 The Grel Escape
+**** LATER [#A] 5.1 The Grel Escape :DW2022_07_maybe:
+     SCHEDULED: <2022-07-31 Sun>
      :PROPERTIES:
      :rating:   8.5
      :END:
@@ -1108,22 +1135,23 @@ Roberts Master
 *** Series 11
 ** Bernice Summerfield (boxset)
 *** Boxset 1: Epoch :P2011:Atlantis:
-**** [#B] 1.1 The Kraken's Lament :Jack_McSpringheel:DW2022_07_spinoffs:
+**** LATER [#B] 1.1 The Kraken's Lament :Jack_McSpringheel:DW2022_07_maybe:
+     SCHEDULED: <2022-07-31 Sun>
      :PROPERTIES:
      :rating:   7.9
      :END:
 
-**** [#B] 1.2 The Temple of Questions :Ruth_Leonidas:DW2022_07_spinoffs:
+**** [#B] 1.2 The Temple of Questions :Ruth_Leonidas:DW2022_08_maybe:
      :PROPERTIES:
      :rating:   8.0
      :END:
 
-**** [#C] 1.3 Private Enemy No. 1 :Ruth_Leonidas:DW2022_08_spinoffs:
+**** [#C] 1.3 Private Enemy No. 1 :Ruth_Leonidas:DW2022_09_maybe:
      :PROPERTIES:
      :rating:   7.8
      :END:
 
-**** [#B] 1.4 Judgement Day :Jack_McSpringheel:Ruth_Leonidas:DW2022_08_spinoffs:
+**** [#B] 1.4 Judgement Day :Jack_McSpringheel:Ruth_Leonidas:DW2022_09_maybe:
      :PROPERTIES:
      :rating:   8.3
      :END:
@@ -1284,7 +1312,7 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
     :rating:   8.8
     :END:
 
-*** [#D] 2.2 - Brimstone and Terror :plot_no:
+*** [#D] 2.2 - Brimstone and Terror :plot_no:DW2022_08_spinoffs:
     :PROPERTIES:
     :rating:   7.0
     :END:
@@ -1299,32 +1327,38 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
     :rating:   8.2
     :END:
 
-** Missy and the Monk
+** Missy and the Monk :Master_missy:
 *** 3.1 Body and Soulless
 *** 3.2 War Seed
 *** 3.3 Two Monks, One Mistress
 ** Masterful
 ** Master! :Master_roberts:
-*** START [#B] 1.1 Faustian :D2021_11_master:
-    SCHEDULED: <2021-11-20 Sat>
-    :PROPERTIES:
-    :rating:   8.2
-    :END:
-
-*** HALF Vienna #0 The Memory Box :D2021_12_extra:week2:
+*** HALF [#C] Vienna #0 The Memory Box :D2021_12_extra:week2:
     SCHEDULED: <2021-12-10 Fri>
-
-*** TODO [#D] 1.2 Prey :D2021_01_extra:
-    SCHEDULED: <2022-01-16 Sun>
     :PROPERTIES:
-    :rating:   7.4
+    :rating:   7.9
     :END:
 
-*** [#A] 1.3. Vengeance
-    :PROPERTIES:
-    :rating:   8.6
-    :END:
+*** Master! vol.1
+**** START [#B] 1.1 Faustian :D2021_11_master:
+     SCHEDULED: <2021-11-20 Sat>
+     :PROPERTIES:
+     :rating:   8.2
+     :END:
 
+**** TODO [#D] 1.2 Prey :D2021_01_extra:
+     SCHEDULED: <2022-01-16 Sun>
+     :PROPERTIES:
+     :rating:   7.4
+     :END:
+
+**** [#A] 1.3. Vengeance :DW2022_08_extra:
+     :PROPERTIES:
+     :rating:   8.6
+     :END:
+
+*** TBR Master! vol.2 Nemesis Express :P2022_10:
+** TBR Call Me Master :Master_spy:
 * #Daleks :daleks:
 ** #Davros :Davros:
 *** tv :📺:
@@ -1689,22 +1723,22 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
 
 * UNIT: The New Series :UNIT:
 ** UNIT 1: Extinction :Nestene:P2015:
-*** 1.1 [#C] Vanguard (7.5)
+*** [#C] 1.1 Vanguard (7.5)
     :PROPERTIES:
     :rating:   7.5
     :END:
 
-*** 1.2	[#C] Earthfall (7.8)
+*** [#C] 1.2 Earthfall (7.8)
     :PROPERTIES:
     :rating:   7.8
     :END:
 
-*** 1.3	[#C] Bridgehead (7.9)
+*** [#C] 1.3 Bridgehead (7.9)
     :PROPERTIES:
     :rating:   7.9
     :END:
 
-*** 1.4	[#B] Armageddon (8.3)
+*** [#B] 1.4	 Armageddon (8.3)
     :PROPERTIES:
     :rating:   8.3
     :END:
@@ -1774,7 +1808,7 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
 
 Synopsis:  http://www.drwhoguide.com/kaldor01.htm
 
-*** 2. Death's Head
+*** 2. Death's Head :DW2022_08_spinoffs:
 *** 3. Hidden Persuaders
 ** The Robots (Big Finish, 2019-)
 *** The Robots vol.1 :P2019_12:
@@ -1790,7 +1824,8 @@ Synopsis:  http://www.drwhoguide.com/kaldor01.htm
      :rating:   8.2
      :END:
 
-**** [#A] 1.3 - Love Me Not :DW2022_07_spinoffs:
+**** TODO [#A] 1.3 - Love Me Not :DW2022_07_spinoffs:
+     SCHEDULED: <2022-07-16 Sat>
      :PROPERTIES:
      :rating:   8.8
      :END:
@@ -1888,8 +1923,12 @@ Synopsis:  http://www.drwhoguide.com/kaldor01.htm
 *** [#C] 4.3 - Rise and Shine (7.7)
 *** [#A] 4.4 - Clean Sweep (8.5)
 ** special: Who Killed Toby Kinsella? :P2016:
-*** [#A] NCM0.1 - Who Killed Toby Kinsella? (8.5) :D2022_09_spinoffs:
-*** [#B] NCM0.2 - The Dead Don't Rise (8.4) :D2022_09_spinoffs:
+*** TODO [#A] NCM0.1 - Who Killed Toby Kinsella? (8.5) :DW2022_07_spinoffs:
+    SCHEDULED: <2022-07-09 Sat>
+
+*** TODO [#B] NCM0.2 - The Dead Don't Rise (8.4) :DW2022_07_spinoffs:
+    SCHEDULED: <2022-07-29 Fri>
+
 ** The New Counter-Measures: Series 1 :P2016:
 *** [#D] TNCM 1.1 - Nothing to See Here (7.1)
 *** [#D] TNCM 1.2 - Troubled Waters (7.3)
@@ -1958,7 +1997,7 @@ Synopsis:  http://www.drwhoguide.com/kaldor01.htm
 *** series 1 :P2016:
 **** [#E] 1.1 - The Oncoming Storm          (6.9)
 **** [#D] 1.2 - Hounded                     (7.2)
-**** TODO [#C] 1.3 - Living History              (7.9) :11th_Dr:plot_yes:
+**** TODO [#C] 1.3 - Living History              (7.9) :11th_Dr:plot_yes:DW2022_08_spinoffs:
 
 4 out of 20 (20.0%) raters say this story requires a previous story.
 
@@ -2004,29 +2043,40 @@ Synopsis:  http://www.drwhoguide.com/kaldor01.htm
 **** [#E] +2.3 - Calamity Jenny+ (6.6)
 **** [#D] 2.4 - Her Own Wrost Enemy (7.0)
 ** Rose Tyler - The Dimension Cannon :P2019:Rose:
-*** HALF [#B] 1.1 - The Endless Night       (8.3) :D2022_06_spinoffs:
-    SCHEDULED: <2022-06-04 Sat>
+*** RTDC vol.1
+**** 3QTR [#B] 1.1 - The Endless Night       (8.3) :D2022_06_spinoffs:
+     CLOSED: <2022-06-11 Sat 22:40> SCHEDULED: <2022-06-04 Sat>
 
-*** HALF [#C] 1.2 - The Flood               (7.6) :D2022_06_spinoffs:
-    SCHEDULED: <2022-06-25 Sat>
+**** 3QTR [#C] 1.2 - The Flood               (7.6) :D2022_06_spinoffs:
+     CLOSED: <2022-06-23 Thu 19:09> SCHEDULED: <2022-06-25 Sat>
 
-*** [#C] 1.3 - Ghost Machines   (7.5) :D2022_08_spinoffs:
-*** [#D] 1.4 - The Last Party on Earth (7.3) :D2022_08_spinoffs:
+**** [#C] 1.3 - Ghost Machines   (7.5) :D2022_07_spinoffs:
+     SCHEDULED: <2022-07-09 Sat>
+
+**** [#D] 1.4 - The Last Party on Earth (7.3) :D2022_07_spinoffs:
+     SCHEDULED: <2022-07-30 Sat>
+
+*** TBR RTDC vol.2 Other Worlds :P2022_10:
+*** TBR RTDC vol.3 Trapped :P2023_09:
 ** Donna Nobel - Kidnapped :Donna:P2020:
-*** [#B] 1. Out of this World (8.1) :DW2022_07_spinoffs:
+*** LATER [#B] 1. Out of this World (8.1) :DW2022_07_maybe:
+    SCHEDULED: <2022-07-31 Sun>
+
 *** [#C] 2. Spinvasion (7.8)
 *** [#E] +3. The Sorcerer of Albion+ (6.9)
 *** [#C] 4. The Chiswick Cuckoos (7.9) :10th_Dr:
-** The Lone Centurion
+** The Lone Centurion :Rory:
 *** vol.1 :P2021:
-**** START [#C] 1.1 - Gladiator :D2022_06_spinoffs:
-     SCHEDULED: <2022-06-19 Sun>
+**** 3QTR [#C] 1.1 - Gladiator :D2022_06_spinoffs:
+     CLOSED: [2022-06-21 Tue 21:53] SCHEDULED: <2022-06-19 Sun>
      :PROPERTIES:
      :rating:   7.9
      :END:
 
-**** [#C] 1.2 - The Unwilling Assassin (7.7) :DW2022_07_spinoffs:
-**** [#B] 1.3 - I, Rorius              (8.7) :D2022_09_spinoffs:
+**** TODO [#C] 1.2 - The Unwilling Assassin (7.7) :DW2022_07_spinoffs:
+     SCHEDULED: <2022-07-16 Sat>
+
+**** [#B] 1.3 - I, Rorius              (8.7) :DW2022_08_spinoffs:
 *** vol.2 :P2022_03:
 **** 2.1 The Once and Future Nurse
 **** 2.2 The Glowing Warrior
@@ -2094,6 +2144,10 @@ Synopsis:  http://www.drwhoguide.com/kaldor01.htm
 
 ** Doctor Who Unbound
 ** Classic Doctors, New Monsters
+*** CDNM vol.1
+*** CDNM vol.2
+*** TBR CDNM vol.3 The Stuff of Nightmares :P2022_07:
+*** TBR CDNM vol.4 Broken Memories :P2023_10:
 ** The Eighth of March
 *** vol.1 The Eighth of March :P2021_03:
 *** vol.2 Protectors of Time :P2022_03:

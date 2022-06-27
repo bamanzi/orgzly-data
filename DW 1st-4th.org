@@ -64,7 +64,7 @@ Episode 4 missing (but animated in 2013).
 
 应该先看老版剧集 1x05 The Keys of Marinus
 
-***** [#D] EA1.2 The Doctor's Tale :Steven:Vicki:plot_yes:DW2022_07_doctor:
+***** [#D] EA1.2 The Doctor's Tale :Steven:Vicki:plot_yes:
 :PROPERTIES:
 :rating:   7.1
 :END:
@@ -74,7 +74,9 @@ Episode 4 missing (but animated in 2013).
 :rating:   7.7
 :END:
 
-***** READY [#C] EA1.4 - An Ordinary Life :Steven:Sara_Kingdom:plot_yes:
+***** TODO [#C] EA1.4 - An Ordinary Life :Steven:Sara_Kingdom:plot_yes:DW2022_07_doctor:
+SCHEDULED: <2022-07-09 Sat>
+
 **** EA S3
 ***** [#B] EA 3.3 The Ravelli Conspiracy (8.0) :plot_no:
 ***** HALF [#B] EA3.4 The Sontarans (8.0) :D2021_09_dr:Sara_Kingdom:Steven:plot_yes:
@@ -92,7 +94,8 @@ CLOSED: [2021-11-01 Mon 22:54] SCHEDULED: <2021-11-01 Mon>
 :rating:   7.6
 :END:
 
-***** READY [#C] EA7.2 The Secrets of Det-Sen :plot_simple:DW2022_07_doctor:
+***** LATER [#C] EA7.2 The Secrets of Det-Sen :plot_simple:DW2022_07_maybe:
+SCHEDULED: <2022-07-31 Sun>
 :PROPERTIES:
 :rating:   7.8
 :END:
@@ -339,7 +342,8 @@ Episode 2,4,5,6 missing (but all episodes animated in 2020)
 -  微博介绍: [[https://m.weibo.cn/1910110560/4348385387213052]]
 -  字幕文件下载: [[https://secure.assrt.net/xml/sub/624/624128.xml]]
 
-**** [#C] +The Abominable Snowmen+ (7.5) :great_intelligence:missing:DW2022_07_extra:
+**** TODO [#C] +The Abominable Snowmen+ (7.5) :great_intelligence:missing:DW2022_07_extra:
+SCHEDULED: <2022-07-29 Fri>
 
 (总6集, 仅第2集幸存, 未做中文字幕)
 
@@ -606,7 +610,7 @@ SCHEDULED: <2021-10-03 Sun>
 :rating:   7.3
 :END:
 
-***** [#B] CC12.4 - The Tactics of Defeat :Ruth:Zoe:UNIT:D2022_08_doctor:
+***** [#B] CC12.4 - The Tactics of Defeat :Ruth:Zoe:UNIT:DW2022_08_doctor:
 :PROPERTIES:
 :rating:   8.1
 :END:
@@ -754,7 +758,8 @@ CLOSED: [2021-07-27 Tue 23:10]
 :rating:   7.9
 :END:
 
-**** READY [#C] 2.2 The Hidden Realm :Jo:plot_yes:DW2022_07_doctor:
+**** LATER [#C] 2.2 The Hidden Realm :Jo:plot_yes:DW2022_07_maybe:
+SCHEDULED: <2022-07-31 Sun>
 :PROPERTIES:
 :rating:   7.5
 :END:
@@ -856,12 +861,12 @@ Her investigation ultimately uncovers a threat that could lead to the end of the
 Her mother.
 
 **** 2DONE [#C] CC4.9 Shadow of the Past (7.8) :UNIT:has_plot:
-CLOSED: [2020-08-07 Fri 18:26]
+CLOSED: [2020-08-07 Fri 18:26] SCHEDULED: <2022-07-09 Sat>
 
 There's a secret locked up in UNIT's Vault 75-73/Whitehall. Dr Elizabeth Shaw is the only one left who knows what that secret is. Returning to UNIT for the first time in decades, she slowly unravels the past. The vault contains the remains of a spaceship that crashed in the Pennines in the seventies. For the young Liz Shaw, the priority is to ensure the thing's safe. However, the Doctor is more concerned about the alien pilot and the chance this ship offers for escape. Can he resist the temptation, or will the Third Doctor turn on his friends?
 
-**** DONE [#C] CC1.3 The Blue Tooth (7.5) :scripted:UNIT:cybermen:
-CLOSED: [2020-07-29 Wed 23:03]
+**** DONE [#C] CC1.3 The Blue Tooth (7.5) :scripted:UNIT:cybermen:DW2022_07_doctor:
+CLOSED: [2020-07-29 Wed 23:03] SCHEDULED: <2022-07-16 Sat>
 
 "I suppose that was one of the Doctor's most endearing qualities: the ability to make the bizarre and the terrifying seem utterly normal."
 
@@ -930,7 +935,8 @@ SCHEDULED: <2022-03-30 Wed>
 :rating:   7.5
 :END:
 
-**** [#C] CC7.12 - Council of War :Benton:Brigadier:DW2022_07_doctor:
+**** LATER [#C] CC7.12 - Council of War :Benton:Brigadier:DW2022_07_maybe:
+SCHEDULED: <2022-07-31 Sun>
 :PROPERTIES:
 :rating:   7.7
 :END:
@@ -1239,13 +1245,17 @@ CLOSED: [2020-07-15 Wed 19:13]
 **** 4DA series 10 :Leela:P2021:
 ***** 10.1 The World Traders
 ***** 10.2 The Day of the Comet
-**** 4DA series 11 :P2022_03:
-***** 11.1 - Blood of the Time Lords
-***** 11.2 - The Ravencliff Witch
+**** 4DA series 11 :P2022:
+***** 11.1 - Blood of the Time Lords :Master_early:
+***** 11.2 - The Ravencliff Witch :Margaret:
+***** 11.3 The Dreams of Avaice
+***** 11.4 Shellshock
+***** 11.5 Peake Season
+**** TBR 4DA series 12 :Leela:Margaret:P2023:
 *** BF The Lost Stories
 **** [#A] LS 2.07 - The Foe from the Future  8.9 :Leela:
 **** [#C] LS 2.08 - The Valley of Death 7.7 :Leela:
-**** READY [#B] LS6.1 - Return of the Cybermen :Cybermen:D2022_08_doctor:
+**** READY [#B] LS6.1 - Return of the Cybermen :Cybermen:DW2022_08_doctor:
 :PROPERTIES:
 :rating:   8.1
 :END:
@@ -1259,6 +1269,8 @@ CLOSED: [2020-07-15 Wed 19:13]
 :rating:   8.9
 :END:
 
+**** TBR LS7.1 Doctor Who and the Ark :P2023_03:
+**** TBR LS7.2 Daleks! Genesis of Terror :P2023_03:
 *** BF misc :BigFinish:
 **** HALF [#C] CA1.1 The Iron Legion (Comics Adaptation #1) (7.9)
 **** HALF [#A] CA1.2 The Star Beast (Comics Adaptation #2) 9.0 :P2019:

@@ -377,8 +377,8 @@ SCHEDULED: <2021-09-24 Fri>
 ***** 2DONE 4.3 Master of the Daleks :Master_bald:D2021_10_master:
 CLOSED: <2021-10-28 Thu 14:30>
 
-*** Doom Coalition :Liv:plot_yes:scripted:
-**** DC vol.1 :Liv:
+*** Doom Coalition :Liv:Helen:plot_yes:scripted:
+**** DC vol.1
 ***** 2DONE [#B] DC1.1 The Eleven :D2022_01_doctor:
 CLOSED: [2022-01-05 Wed 16:56] SCHEDULED: <2022-01-30 Sun>
 :PROPERTIES:
@@ -407,30 +407,30 @@ SCHEDULED: <2022-02-28 Mon>
 :thetimescales: 6.5
 :END:
 
-**** DC vol.2 :Helen:
+**** DC vol.2
 ***** HALF [#D] 2.1 - Beachhead :Voord:D2022_06_doctor:
 SCHEDULED: <2022-06-16 Thu>
 :PROPERTIES:
 :rating:   7.1
 :END:
 
-***** [#C] 2.2 - Scenes from Her Life :D2022_06_doctor:
-SCHEDULED: <2022-06-25 Sat>
+***** HALF [#C] 2.2 - Scenes from Her Life :D2022_06_doctor:
+DEADLINE: <2022-06-24 Fri 07:26> SCHEDULED: <2022-06-25 Sat>
 :PROPERTIES:
 :rating:   7.5
 :END:
 
-***** [#E] 2.3 - The Gift :D2022_08_doctor:
+***** [#E] 2.3 - The Gift :DW2022_08_doctor:
 :PROPERTIES:
 :rating:   6.8
 :END:
 
-***** [#E] 2.4 - The Sonomancer :D2022_08_doctor:
+***** [#E] 2.4 - The Sonomancer :DW2022_08_doctor:
 :PROPERTIES:
 :rating:   6.9
 :END:
 
-**** DC vol.3 :Helen:
+**** DC vol.3
 ***** [#A] 3.1 - Absent Friends
 :PROPERTIES:
 :rating:   9.2
@@ -451,7 +451,7 @@ SCHEDULED: <2022-06-25 Sat>
 :rating:   8.
 :END:
 
-**** DC vol.4 :Helen:
+**** DC vol.4
 ***** [#B] 4.1 - Ship in a Bottle
 :PROPERTIES:
 :rating:   8.4
@@ -994,8 +994,8 @@ CLOSED: [2020-09-23 Wed 12:53]
 CLOSED: [2020-09-23 Wed 14:01]
 
 *** vol.1 Forged in Fire :P2021_06:War_Doctor:
-**** HALF [#B] 1.1 - Light the Flame :D2022_06_doctor:
-SCHEDULED: <2022-06-25 Sat>
+**** 3QTR [#B] 1.1 - Light the Flame :D2022_06_doctor:
+CLOSED: [2022-06-21 Tue 10:07] SCHEDULED: <2022-06-25 Sat>
 :PROPERTIES:
 :rating:   8.4
 :END:
