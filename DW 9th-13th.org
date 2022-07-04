@@ -1,5 +1,9 @@
 * 9th Doctor :9th_Dr:
 ** tv :📺:
+*** S1
+**** DONE 1x01 Rose
+CLOSED: [2022-06-30 Thu 08:12]
+
 ** audio :🎧:
 *** 9DA
 **** S1.1 Ravagers :P2021_05:
@@ -41,7 +45,7 @@ CLOSED: [2022-05-19 Thu 08:51] SCHEDULED: <2022-05-07 Sat>
 【【广播剧翻译】大都会电影里出现了赛博人？九任冒险集 303 Monsters in Metropolis-哔哩哔哩】 https://b23.tv/ayLbFDQ
 
 **** S1.4 Old Friends :P2021_11:
-***** LATER [#C] 4.1 Fond Farewell :bilibili:DW2022_07_maybe:
+***** LATER [#C] 4.1 Fond Farewell :bilibili:DW2022_09_doctor:
 SCHEDULED: <2022-07-31 Sun>
 :PROPERTIES:
 :rating:   7.6
@@ -49,8 +53,8 @@ SCHEDULED: <2022-07-31 Sun>
 
 【【广播剧翻译】死者复活参加自己的葬礼？九任冒险集：老朋友 401 Fond Farewell-哔哩哔哩】 https://b23.tv/TSaPh4d
 
-***** TODO [#B] 4.2 Way of the Burryman :Cybermen:UNIT:Brigadier:bilibili:DW2022_07_doctor:
-SCHEDULED: <2022-07-09 Sat>
+***** 3QTR [#B] 4.2 Way of the Burryman :Cybermen:UNIT:Brigadier:plot_no:bilibili:DW2022_07_doctor:
+CLOSED: [2022-07-03 Sun 17:05] SCHEDULED: <2022-07-06 Wed>
 :PROPERTIES:
 :rating:   8.2
 :END:
@@ -58,15 +62,23 @@ SCHEDULED: <2022-07-09 Sat>
 【【广播剧翻译】九叔与老年准将 九任冒险集：老朋友 402 Way of the Burryman-哔哩哔哩】 https://b23.tv/HfJuOyt
 
 ***** TODO [#B] 4.3 The Forth Generation :Cybermen:DW2022_07_doctor:
-SCHEDULED: <2022-07-30 Sat>
+SCHEDULED: <2022-07-23 Sat>
 :PROPERTIES:
 :rating:   8.2
 :END:
 
 **** S2.1 Back to Earth :P2022_05:
-***** [#B] 2.1 Station to Station
-***** [#F] 2.2 The False Dimitry
-***** [#B] 2.3 Auld Lang Syne
+***** [#B] 2.1 Station to Station :bilibili:
+
+【【神秘博士广播剧熟肉】Back to Earth 101 Station to Station 车站之间-哔哩哔哩】 https://b23.tv/ueI1ubC
+
+***** CANCEL [#F] 2.2 The False Dimitry
+CLOSED: [2022-07-02 Sat 23:47]
+
+***** [#B] 2.3 Auld Lang Syne :bilibili:
+
+【【神秘博士广播剧熟肉】Back to Earth 503 Auld Lang Syne 逝去已久的时光-哔哩哔哩】 https://b23.tv/1NrKKIN
+
 **** TBR S2.2 Into the Stars :P2022_08:
 *** ST (audiobooks)
 **** [#C] DotD#9. Night of the Whisper :plot_yes:
@@ -429,7 +441,12 @@ SCHEDULED: <2022-04-29 Fri>
 :END:
 
 *** CC & ST
-**** ST8.8 - Flight into Hull!
+**** [#C] ST8.6 The Siege of Big Ben
+:PROPERTIES:
+:rating:   7.9
+:END:
+
+**** [#B] ST8.8 - Flight into Hull!
 
 (alt 10D + alt Jackie)
 
@@ -479,7 +496,11 @@ CLOSED: <2021-10-16 Sat 10:18>
 * 11th :11th_Dr:
 ** tv :📺:
 *** S5
+**** DONE 5x07 The Hungry Earth /08 Cold Blood :Silurians:
 **** DONE 5x12 Pandorica Opens
+**** DONE 5x13 The Big Bang :DW2022_07_extra:
+CLOSED: [2022-07-04 Mon 08:12]
+
 *** S6
 **** DONE 6x07 A Good Man Goes to War :River:
 ** audio :🎧:
@@ -525,7 +546,7 @@ SCHEDULED: <2022-03-30 Wed>
 :rating:   8.4?
 :END:
 
-*** LATER [#C] The Churchill Years 1.3 Living History :P2016:DW2022_07_maybe:plot_yes:
+*** LATER [#C] The Churchill Years 1.3 Living History :P2016:DW2022_09_maybe:plot_yes:
 SCHEDULED: <2022-07-31 Sun>
 :PROPERTIES:
 :rating:   7.9

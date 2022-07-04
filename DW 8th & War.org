@@ -408,24 +408,26 @@ SCHEDULED: <2022-02-28 Mon>
 :END:
 
 **** DC vol.2
-***** HALF [#D] 2.1 - Beachhead :Voord:D2022_06_doctor:
-SCHEDULED: <2022-06-16 Thu>
+***** 3QTR [#D] 2.1 - Beachhead :Voord:D2022_06_doctor:
+CLOSED: [2022-07-04 Mon 09:24] SCHEDULED: <2022-06-16 Thu>
 :PROPERTIES:
 :rating:   7.1
 :END:
 
-***** HALF [#C] 2.2 - Scenes from Her Life :D2022_06_doctor:
-DEADLINE: <2022-06-24 Fri 07:26> SCHEDULED: <2022-06-25 Sat>
+***** 3QTR [#C] 2.2 - Scenes from Her Life :D2022_06_doctor:
+CLOSED: [2022-06-29 Wed 13:41] DEADLINE: <2022-06-24 Fri 07:26> SCHEDULED: <2022-06-25 Sat>
 :PROPERTIES:
 :rating:   7.5
 :END:
 
 ***** [#E] 2.3 - The Gift :DW2022_08_doctor:
+SCHEDULED: <2022-07-30 Sat>
 :PROPERTIES:
 :rating:   6.8
 :END:
 
 ***** [#E] 2.4 - The Sonomancer :DW2022_08_doctor:
+SCHEDULED: <2022-07-30 Sat>
 :PROPERTIES:
 :rating:   6.9
 :END:

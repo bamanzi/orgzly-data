@@ -60,7 +60,7 @@ Episode 4 missing (but animated in 2013).
 ** audio :🎧:
 *** EA
 **** EA S1
-***** BLOCK [#C] EA1.1 Domain of the Voord :Susan:Ian:Barbara:Voord:plot_yes:D2022_Q4:
+***** TODO [#C] EA1.1 Domain of the Voord :Susan:Ian:Barbara:Voord:plot_yes:D2022_Q4:
 
 应该先看老版剧集 1x05 The Keys of Marinus
 
@@ -75,7 +75,7 @@ Episode 4 missing (but animated in 2013).
 :END:
 
 ***** TODO [#C] EA1.4 - An Ordinary Life :Steven:Sara_Kingdom:plot_yes:DW2022_07_doctor:
-SCHEDULED: <2022-07-09 Sat>
+SCHEDULED: <2022-07-16 Sat>
 
 **** EA S3
 ***** [#B] EA 3.3 The Ravelli Conspiracy (8.0) :plot_no:
@@ -94,7 +94,7 @@ CLOSED: [2021-11-01 Mon 22:54] SCHEDULED: <2021-11-01 Mon>
 :rating:   7.6
 :END:
 
-***** LATER [#C] EA7.2 The Secrets of Det-Sen :plot_simple:DW2022_07_maybe:
+***** LATER [#C] EA7.2 The Secrets of Det-Sen :plot_simple:DW2022_09_doctor:
 SCHEDULED: <2022-07-31 Sun>
 :PROPERTIES:
 :rating:   7.8
@@ -249,7 +249,7 @@ Old Steven 3/3
 :END:
 
 *** Lost Stories
-**** [#A] 2.1a - Farewell Great Macedon :scripted:
+**** [#A] 2.1a - Farewell Great Macedon :scripted:3CD:
 :PROPERTIES:
 :rating:   9.2
 :END:
@@ -342,14 +342,14 @@ Episode 2,4,5,6 missing (but all episodes animated in 2020)
 -  微博介绍: [[https://m.weibo.cn/1910110560/4348385387213052]]
 -  字幕文件下载: [[https://secure.assrt.net/xml/sub/624/624128.xml]]
 
-**** TODO [#C] +The Abominable Snowmen+ (7.5) :great_intelligence:missing:DW2022_07_extra:
+**** [#C] +The Abominable Snowmen+ (7.5) :great_intelligence:missing:DW2022_07_extra:
 SCHEDULED: <2022-07-29 Fri>
 
 (总6集, 仅第2集幸存, 未做中文字幕)
 
 Great Intelligence (大智慧/超级智能）和 Yeti (雪怪）的首次出场
 
-**** DONE 05x03 The Ice Warriros :ice_warrior:srt_full:
+**** DONE 05x03 The Ice Warriros :ice_warriors:srt_full:
 
 寒冰勇士首次出场。不过真正的敌人其实是”电脑“(或者说把一切留给电脑来决定的这种心态）
 
@@ -426,7 +426,7 @@ UNIT 和 准将第一次正式出场
 -  微博介绍: [[https://m.weibo.cn/1910110560/4391907947480683]]
 -  字幕文件下载: [[https://secure.assrt.net/xml/sub/625/625391.xml]]
 
-**** DONE 06x05 The Seeds of Death :ice_warrior:fan_edit:
+**** DONE 06x05 The Seeds of Death :ice_warriors:fan_edit:
 
 寒冰勇士第二次出场, 试图入侵地球
 
@@ -516,6 +516,9 @@ SCHEDULED: <2021-12-15 Wed>
 ***** DONE [#A] 6.2 Daughter of the Gods (9.2) :Jamie:Zoe:Steven:Katarina:Daleks:P2019:D2021_04:
 CLOSED: <2021-04-30 Fri 22:59>
 
+*** TBR Beyond War Games :P2022_07:
+**** The Final Beginning :Daleks:
+**** Wrath of the Ice Warriors :Brigadier:ice_warriors:
 *** Companion Chronicles :🗣:
 **** #The_Company :Zoe:
 ***** 2DONE [#D] CC5.02 - Echoes of Grey :Zoe:D2021_07_dr:
@@ -627,7 +630,7 @@ SCHEDULED: <2022-06-05 Sun>
 :rating:   7.4
 :END:
 
-**** [#B] LS4.3 - Lords of the Red Planet :ice_warriors:D2022_08_doctor:plot_yes:
+**** BLOCK [#B] LS4.3 - Lords of the Red Planet :Jamie:Zoe:ice_warriors:3CD:plot_yes:
 :PROPERTIES:
 :rating:   8.2
 :END:
@@ -688,8 +691,8 @@ https://m.vk.com/wall-205306392_45
 :END:
 
 * 3rd Doctor :3rd_Dr:
-** tv
-*** season 7 :📺:Liz:UNIT:
+** tv :📺:
+*** season 7 :Liz:UNIT:
 **** DONE 7x01 - Spearhead from Space (8.2)
 **** DONE 7x02 - Doctor Who and the Silurians (8.0)
 **** DONE 7x03 - The Ambassadors of Death (7.5)
@@ -705,7 +708,7 @@ CLOSED: [2020-07-15 Wed 19:13]
 *** season 9
 **** DONE 9x01 - Day of the Daleks (7.9)
 **** DONE 9x02 - The Curse of Peladon (7.6)
-**** [#C] 9x03 The Sea Devil (7.7) :DW2022_08_extra:
+**** [#C] 9x03 The Sea Devil (7.7) :DW2022_07_extra:
 **** 9x04 - The Mutants (7.0)
 **** DONE 9x05 - The Time Monster †6.9)
 CLOSED: [2020-07-20 Mon 20:15]
@@ -758,7 +761,7 @@ CLOSED: [2021-07-27 Tue 23:10]
 :rating:   7.9
 :END:
 
-**** LATER [#C] 2.2 The Hidden Realm :Jo:plot_yes:DW2022_07_maybe:
+**** LATER [#C] 2.2 The Hidden Realm :Jo:plot_yes:DW2022_09_doctor:
 SCHEDULED: <2022-07-31 Sun>
 :PROPERTIES:
 :rating:   7.5
@@ -823,7 +826,7 @@ SCHEDULED: <2022-05-28 Sat>
 :rating:   8.1
 :END:
 
-**** BLOCK 9. The Annihilators :P2022_02:Liz:2nd_Dr:Jamie:Brigadier:
+**** BLOCK 9. The Annihilators :P2022_02:Liz:2nd_Dr:Jamie:Brigadier:3CD:
 
 block原因：太长（3CD）
 
@@ -866,7 +869,7 @@ CLOSED: [2020-08-07 Fri 18:26] SCHEDULED: <2022-07-09 Sat>
 There's a secret locked up in UNIT's Vault 75-73/Whitehall. Dr Elizabeth Shaw is the only one left who knows what that secret is. Returning to UNIT for the first time in decades, she slowly unravels the past. The vault contains the remains of a spaceship that crashed in the Pennines in the seventies. For the young Liz Shaw, the priority is to ensure the thing's safe. However, the Doctor is more concerned about the alien pilot and the chance this ship offers for escape. Can he resist the temptation, or will the Third Doctor turn on his friends?
 
 **** DONE [#C] CC1.3 The Blue Tooth (7.5) :scripted:UNIT:cybermen:DW2022_07_doctor:
-CLOSED: [2020-07-29 Wed 23:03] SCHEDULED: <2022-07-16 Sat>
+CLOSED: [2020-07-29 Wed 23:03] SCHEDULED: <2022-07-09 Sat>
 
 "I suppose that was one of the Doctor's most endearing qualities: the ability to make the bizarre and the terrifying seem utterly normal."
 
@@ -935,7 +938,7 @@ SCHEDULED: <2022-03-30 Wed>
 :rating:   7.5
 :END:
 
-**** LATER [#C] CC7.12 - Council of War :Benton:Brigadier:DW2022_07_maybe:
+**** LATER [#C] CC7.12 - Council of War :Benton:Brigadier:DW2022_09_maybe:
 SCHEDULED: <2022-07-31 Sun>
 :PROPERTIES:
 :rating:   7.7
@@ -1052,7 +1055,7 @@ CLOSED: <2020-08-03 Mon 18:24>
 
 sequel: Torchwood #25 Night of the Fendahl
 
-**** [#C] 15x04 - The Sun Makers †7.8) :DW2022_09_extra:
+**** [#C] 15x04 - The Sun Makers †7.8) :DW2022_08_extra:
 **** CANCEL [#E] 15x05 - Underworld †6.2)
 **** DONE [#C] 15x06 - The Invasion of Time †7.7)
 *** S16 :Romana_1:
@@ -1255,7 +1258,7 @@ CLOSED: [2020-07-15 Wed 19:13]
 *** BF The Lost Stories
 **** [#A] LS 2.07 - The Foe from the Future  8.9 :Leela:
 **** [#C] LS 2.08 - The Valley of Death 7.7 :Leela:
-**** READY [#B] LS6.1 - Return of the Cybermen :Cybermen:DW2022_08_doctor:
+**** TODO [#B] LS6.1 - Return of the Cybermen :Cybermen:DW2022_08_doctor:
 :PROPERTIES:
 :rating:   8.1
 :END:

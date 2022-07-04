@@ -1,35 +1,36 @@
-#+TODO: TODO NEXT BLOCK | 2DONE DONE CANCEL
+#+TODO: TODO NEXT BLOCK TBR START HALF 3QTR | 2DONE DONE CANCEL
+#+PRIORITIES: A F C
 
 * 5th Doctor :5th_Dr:
 ** tv :📺:
 *** Season 18
 **** Logopolis
 *** Season 19
-**** Castrovalva
-**** Four to Doomsday
-**** Kinda
-**** The Visitation
-**** Black Orchid
-**** Earthshock :Cybermen:DW2022_10_extra:
-**** Time-Flight
+**** [#D] Castrovalva (7.3)
+**** CANCEL [#E] Four to Doomsday (6.9)
+**** [#D] Kinda (7.4)
+**** [#C] The Visitation (7.6)
+**** [#D] Black Orchid (7.2)
+**** [#A] Earthshock (8.5) :Cybermen:DW2022_10_extra:
+**** CANCEL [#F] Time-Flight (6.0)
 *** Season 20
-**** Arc of Infinity
-**** Snakedance
-**** Mawdryn Undead
-**** Terminus
-**** Enlightenment
-**** The King's Demons
+**** [#D] Arc of Infinity (7.1)
+**** [#D] Snakedance (7.2)
+**** [#C] Mawdryn Undead (7.8(
+**** CANCEL [#E] Terminus (6.4)
+**** [#B] Enlightenment (8.1)
+**** CANCEL [#E] The King's Demons (6.6)
 *** 20th anniversary special
-**** The Five Doctors
+**** [#B] The Five Doctors (8.1)
 *** Season 21
-**** Warriors of the Deep
-**** The Awakening
-**** Frontios
-**** DONE Resurrection of the Daleks
+**** CANCEL [#E] Warriors of the Deep (6.5)
+**** [#D] The Awakening (7.3)
+**** [#D] Frontios (7.3)
+**** DONE [#B] Resurrection of the Daleks (7.9)
 CLOSED: <2021-10-05 Tue 20:27>
 
-**** Planet of Fire
-**** The Caves of Androzani
+**** [#C] Planet of Fire (7.5)
+**** [#C] The Caves of Androzani (8.7)
 ** audio :🎧:
 *** main range 001-050 :scripted:
 **** The Sirens of Time
@@ -67,7 +68,7 @@ CLOSED: [2021-03-15 Mon 20:29]
 Genesis of the Cyberman (Mondas)
 
 **** TODO [#C] 038. The Church and the Crown :Peri:Erimem:DW2022_07_doctor:
-SCHEDULED: <2022-07-23 Sat>
+SCHEDULED: <2022-07-09 Sat>
 :PROPERTIES:
 :rating:   7.7
 :END:
@@ -425,23 +426,23 @@ CLOSED: [2022-01-14 Fri 15:10]
 ** tv :📺:
 *** Season 21
 **** The Caves of Androzani
-**** The Twin Dilemma
+**** CANCEL [#F] The Twin Dilemma (5.4)
 *** Season 22
-**** Attack of the Cybermen
-**** Vengeance on Varos
-**** The Mark of the Rani
-**** The Two Doctors
-**** Timelash
-**** Revelation of the Daleks
+**** CANCEL [#F] Attack of the Cybermen (6.9)
+**** [#C] Vengeance on Varos (7.7)
+**** [#D] The Mark of the Rani (6.9)
+**** [#C] The Two Doctors (7.5)
+**** CANCEL [#E] Timelash (5.5)
+**** [#C] Revelation of the Daleks (7.8)
 *** Season 23
-**** **** The Mysterious Planet
-**** DONE **** Mindwarp :Peri:
+**** [#D] The Mysterious Planet (7.1)
+**** DONE [#D] Mindwarp (7.3) :Peri:
 CLOSED: [2021-07-25 Sun 21:08]
 
-**** DONE **** Terror of the Vervoids :D2021_Q4:Mel:
+**** DONE [#D] Terror of the Vervoids (7.0) :D2021_Q4:Mel:
 CLOSED: <2021-12-02 Thu 21:20>
 
-**** DONE **** The Ultimate Foe
+**** DONE [#D] The Ultimate Foe (7.2)
 CLOSED: [2021-12-12 Sun 17:32]
 
 *** Season 24
@@ -628,8 +629,8 @@ CLOSED: [2021-10-18 Mon 20:15]
 
 **** [#A] 233. Static (8.6) :Flip:Constance:
 **** [#C] 239. Iron Bright (7.5)
-**** HALF [#C] 240. Hour of the Cybermen (7.8) :Cybermen:D2022_06_doctor:
-SCHEDULED: <2022-06-19 Sun>
+**** 3QTR [#C] 240. Hour of the Cybermen (7.8) :Cybermen:D2022_06_doctor:
+CLOSED: [2022-06-29 Wed 16:22] SCHEDULED: <2022-06-19 Sun>
 
 *** 6DA :short:
 **** special/bonus
@@ -784,22 +785,22 @@ Volume One
 * 7th Doctor :7th_Dr:
 ** tv :📺:
 *** S24
-**** 24x01 - Time and the Rani (5.1)
-**** TODO 24x02 - Paradise Towers (6.1) :DW2022_12_extra:
-**** 24x03 - Delta and the Bannermen (6.0)
-**** 24x04 - Dragonfire (6.3)
+**** CANCEL [#F] 24x01 - Time and the Rani (5.1)
+**** TODO [#F] 24x02 - Paradise Towers (6.1) :DW2022_12_extra:
+**** CANCEL [#F] 24x03 - Delta and the Bannermen (6.0)
+**** CANCEL [#F] 24x04 - Dragonfire (6.3)
 *** S25
-**** DONE 25x01 Remembrance of the Daleks :Davros:
+**** DONE [#A] 25x01 Remembrance of the Daleks (8.5) :Davros:
 CLOSED: [2021-11-01 Mon 19:54]
 
-**** 25x02 The Happiness Patrol
-**** 25x03 Silver Nemesis
-**** 25x04 The Greatest Show in the Galaxy
+**** CANCEL [#E] 25x02 The Happiness Patrol (6.6)
+**** CANCEL [#E] 25x03 Silver Nemesis (6.4)
+**** [#D] 25x04 The Greatest Show in the Galaxy (7.2)
 *** S26
-**** S26E01 - Battlefield (7.4)
-**** S26E02 鬼舍之光 - Ghost Light (7.2)
-**** S26E03 Fenric的诅咒 - The Curse of Fenric (8.2)
-**** S26E04 幸存 - Survival (7.7)
+**** [#C] S26E01 - Battlefield (7.4)
+**** [#D] S26E02 鬼舍之光 - Ghost Light (7.2)
+**** [#B] S26E03 Fenric的诅咒 - The Curse of Fenric (8.2)
+**** [#C] S26E04 幸存 - Survival (7.7)
 ** audio :🎧:
 *** main range :scripted:
 **** top
@@ -856,7 +857,7 @@ CLOSED: <2021-09-23 Thu 21:27> SCHEDULED: <2021-09-04 Sat>
 CLOSED: [2021-06-24 Thu 12:31]
 
 ***** [#A] 74. Live 34 (8.5) :P2005:Ace:Hex:plot_no:
-***** TODO [#B] 79. Night Thoughts :Ace:Hex:DW2022_07_doctor:
+***** TODO [#B] 79. Night Thoughts :Ace:Hex:DW2022_09_doctor:
 SCHEDULED: <2022-07-30 Sat>
 
 ***** [#C] 82. The Settling :plot_no:
@@ -1020,13 +1021,14 @@ SCHEDULED: <2021-12-04 Sat>
 ***** 275B. Flight of the Blackstar
 *** 7DA
 **** V. Return of the Daleks :Susan_Mendes:Kalendorf:P2006:
-**** [#B] UNIT - Dominion :Klein:P2012:
+**** [#B] UNIT - Dominion :Klein:P2012:4CD:
 :PROPERTIES:
 :rating:   8.1
 :END:
 
-**** 7DA New Adventures :P2018:
-***** [#D] 7DA 1.1 - The Trial of a Time Machine :D2022_Q2_doctor:short:
+**** 7DA New Adventures :P2018:Roz:Chris:1CD:
+***** HALF [#D] 7DA 1.1 - The Trial of a Time Machine :DW2022_07_doctor:
+SCHEDULED: <2022-07-06 Wed>
 :PROPERTIES:
 :rating:   7.4
 :END:
@@ -1047,40 +1049,40 @@ CLOSED: [2021-03-23 Tue 13:04]
 :rating:   8.5
 :END:
 
-**** TBR 7DA Silver and Ice :P2022_06:
+**** 7DA Silver and Ice :P2022_06:
 ***** Bad Day in Tinseltown :Cybermen:Mel:
 ***** The Ribos Inheritance :Mel:
 *** misc
-**** BLOCK [#D] NA1 Love and War :Ace:Benny:
+**** BLOCK [#D] NA1 Love and War :Ace:Benny:3CD:
 
 block 原因：太长（3小时多）
 
-**** [#E] NA2 The Highest Science
-**** [#A] NA6 Damaged Goods :plot_no:bilibili:
+**** CANCEL [#E] NA2 The Highest Science :Benny:
+**** [#A] NA6 Damaged Goods :Roz:Chris:plot_no:bilibili:
 :PROPERTIES:
 :rating:   9.0
 :END:
 
 【【神秘博士广播剧翻译】RTD早期作品 Damaged Goods-哔哩哔哩】 https://b23.tv/5a9c2Hb
 
-**** [#C] NA7 Theatre of War
-**** [#A] NA8. All Consuming Fire
+**** [#C] NA7 Theatre of War :Ace:Benny:Brax:
+**** [#A] NA8. All Consuming Fire :Ace:Benny:Holmes:
 :PROPERTIES:
 :rating:   8.4
 :END:
 
-**** [#B] NA9. Nightshade
+**** [#B] NA9. Nightshade :Ace:
 :PROPERTIES:
 :rating:   8.1
 :END:
 
-**** [#C] NA10 Original Sin
-**** [#A] NA11. Cold Fusion :5th_Dr:
+**** [#C] NA10 Original Sin :Benny:Roz:Chris:
+**** [#A] NA11. Cold Fusion :Roz:Chris:5th_Dr:
 :PROPERTIES:
 :rating:   8.7
 :END:
 
-**** [#E] CDNM1.3 Harvest of Sycorax :short:
+**** CANCEL [#E] CDNM1.3 Harvest of Sycorax :short:
 :PROPERTIES:
 :rating:   6.9
 :END:
@@ -1107,7 +1109,19 @@ DWMGN #22
 
 DWMGN #24
 
+**** Pureblood :Benny:
+**** Flashback :Benny:DWMS:P1992:
+**** Emperor of the Daleks :Davros:Benny:
+**** Final Genesis :Benny:
+**** Time and Time Again :Benny:
+**** Cuckoo :Benny:
+**** Up Above the Gods :Davros:6th_Dr:
 *** DWM misc
+**** Seaside Rendezvous :Ace:DWMS:P1991:
+**** Younger and Wiser :DWMS:P1994:
+**** Plastic Millenium :Mel:DWMS:P1994:
+**** Ground Zero :Ace:Threshold:P1996:
+**** The Last Word :Benny:P2001:
 *** Operation Volcano (Titan Comics)
 ** novels
 *** OVERDUE [#A] /Human Nature/ :📔:Benny:D2021_12:

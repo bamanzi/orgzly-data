@@ -89,7 +89,7 @@ https://secure.assrt.net/xml/sub/624/624128.xml
 ** CANCEL 05x02 The Abominable Snowmen :great-intelligence:ppt:
 CLOSED: [2019-01-22 Tue 12:42]
 
-** DONE 05x03 The Ice Warriors :ice-warriors:animated:
+** DONE 05x03 The Ice Warriors :ice_warriors:animated:
 CLOSED: <2018-11-27 Tue>
 
 https://assrt.net/xml/sub/623/623231.xml
@@ -132,7 +132,7 @@ https://secure.assrt.net/xml/sub/624/624278.xml
 
 ** TODO 06x03 The Invasion :cybermen:
 ** 06x04 - The Krotons (6.6)
-** DONE 06x05 The Seeds of Death :ice-warriors:
+** DONE 06x05 The Seeds of Death :ice_warriors:
 CLOSED: [2019-02-26 Tue 06:41]
 
 * 3rd Doctor

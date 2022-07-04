@@ -144,7 +144,7 @@ half scripted https://www.pillowfort.social/posts/563376
       :END:
 
 ***** HALF [#A] TW22. Goodbye Piccadilly :Andy:Norton:plot_yes:DW2022_07_spinoffs:
-      SCHEDULED: <2022-07-02 Sat>
+      SCHEDULED: <2022-07-06 Wed>
       :PROPERTIES:
       :rating:   8.6
       :END:
@@ -342,7 +342,7 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 
 ***** TBR 50. Absent Friends (missing)
 ***** 50X. The Black Knight :Norton:
-***** LATER [#A] 51. The Five People You Kill in Middlebrough :Yvonne:plot_yes:DW2022_07_maybe:
+***** LATER [#A] 51. The Five People You Kill in Middlebrough :Yvonne:plot_yes:
       SCHEDULED: <2022-07-31 Sun>
       :PROPERTIES:
       :rating:   8.5
@@ -587,8 +587,8 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
 ***** HALF [#E] 1.2 - Through The Ruins :D2022_06_spinoffs:
       SCHEDULED: <2022-06-16 Thu>
 
-***** LATER [#E] 1.3 - Uprising :DW2022_07_maybe:
-      SCHEDULED: <2022-07-31 Sun>
+***** LATER [#E] 1.3 - Uprising :DW2022_07_spinoffs:
+      SCHEDULED: <2022-07-23 Sat>
 
 **** Torchwood One: Machines :P2018:
 ***** BLOCK [#E] 2.1 - The Law Machines
@@ -786,8 +786,8 @@ Roberts Master
 **** DONE [#C] 6.1 An Unearthly Woman (7.5) :1st_Dr:Susan:Ian:D2021_10_extra:
      CLOSED: [2021-11-03 Wed 19:51] SCHEDULED: <2021-11-03 Wed>
 
-**** [#D] 6.2 The Web of Time             (7.0) :great_intelligence:D2022_06_extra:
-     SCHEDULED: <2022-06-26 Sun>
+**** TODO [#D] 6.2 The Web of Time             (7.0) :great_intelligence:DW2022_07_spinoffs:
+     SCHEDULED: <2022-07-10 Sun>
 
 **** CANCEL [#E] +6.3 Peepshow+
      :PROPERTIES:
@@ -985,8 +985,8 @@ Roberts Master
     :rating:   7.6
     :END:
 
-*** HALF [#B] GFY2.5 - Imperiatrix :D2022_03_spinoffs:week3:
-    SCHEDULED: <2022-03-12 Sat>
+*** 3QTR [#B] GFY2.5 - Imperiatrix :D2022_03_spinoffs:week3:
+    CLOSED: [2022-06-27 Mon 18:16] SCHEDULED: <2022-03-12 Sat>
     :PROPERTIES:
     :rating:   8.4
     :END:
@@ -1017,8 +1017,8 @@ Roberts Master
 * Bernice Summerfield :Benny:
 ** Bernice Summerfield
 *** Series 1 :P1999:
-**** START [#B] 1.1 Oh No It Isn't :DW2022_07_spinoffs:
-     SCHEDULED: <2022-07-02 Sat>
+**** HALF [#C] 1.1 Oh No It Isn't :plot_yes:DW2022_07_spinoffs:
+     SCHEDULED: <2022-07-06 Wed>
      :PROPERTIES:
      :rating:   7.9
      :END:
@@ -1088,7 +1088,7 @@ Roberts Master
 **** novel: The Big Hunt
 **** anthology: A Life Worth Living
 **** anthology: A Life in Pieces
-**** LATER [#A] 5.1 The Grel Escape :DW2022_07_maybe:
+**** LATER [#A] 5.1 The Grel Escape :DW2022_08_spinoffs:
      SCHEDULED: <2022-07-31 Sun>
      :PROPERTIES:
      :rating:   8.5
@@ -1135,7 +1135,7 @@ Roberts Master
 *** Series 11
 ** Bernice Summerfield (boxset)
 *** Boxset 1: Epoch :P2011:Atlantis:
-**** LATER [#B] 1.1 The Kraken's Lament :Jack_McSpringheel:DW2022_07_maybe:
+**** LATER [#B] 1.1 The Kraken's Lament :Jack_McSpringheel:
      SCHEDULED: <2022-07-31 Sun>
      :PROPERTIES:
      :rating:   7.9
@@ -1339,20 +1339,21 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
     :rating:   7.9
     :END:
 
-*** Master! vol.1
-**** START [#B] 1.1 Faustian :D2021_11_master:
-     SCHEDULED: <2021-11-20 Sat>
+*** Master! vol.1 :plot_yes:
+**** HALF [#B] 1.1 Faustian :DW2022_07_extra:
+     SCHEDULED: <2022-07-09 Sat>
      :PROPERTIES:
      :rating:   8.2
      :END:
 
-**** TODO [#D] 1.2 Prey :D2021_01_extra:
-     SCHEDULED: <2022-01-16 Sun>
+**** [#D] 1.2 Prey :D2021_12_master:DW2022_07_extra:
+     SCHEDULED: <2022-07-31 Sun>
      :PROPERTIES:
      :rating:   7.4
      :END:
 
-**** [#A] 1.3. Vengeance :DW2022_08_extra:
+**** [#A] 1.3. Vengeance :DW2022_08_spinoffs:
+     SCHEDULED: <2022-07-31 Sun>
      :PROPERTIES:
      :rating:   8.6
      :END:
@@ -1903,7 +1904,9 @@ Synopsis:  http://www.drwhoguide.com/kaldor01.htm
 **** [#D] 4.3 - Rulers of Earth           (7.4)
 * Counter-Measures
 ** CM series 1 :P2012:plot_yes:
-*** [#D] 1.1 - Threshold (7.3)
+*** START [#D] 1.1 - Threshold (7.3) :plot_yes:DW2022_07_spinoffs:
+    SCHEDULED: <2022-07-09 Sat>
+
 *** [#C] 1.2 - Artificial Intelligence      (7.5)
 *** [#C] 1.3 - The Pelage Project           (7.7)
 *** [#B] 1.4 - State of Emergency           (8.3)
@@ -1923,12 +1926,8 @@ Synopsis:  http://www.drwhoguide.com/kaldor01.htm
 *** [#C] 4.3 - Rise and Shine (7.7)
 *** [#A] 4.4 - Clean Sweep (8.5)
 ** special: Who Killed Toby Kinsella? :P2016:
-*** TODO [#A] NCM0.1 - Who Killed Toby Kinsella? (8.5) :DW2022_07_spinoffs:
-    SCHEDULED: <2022-07-09 Sat>
-
-*** TODO [#B] NCM0.2 - The Dead Don't Rise (8.4) :DW2022_07_spinoffs:
-    SCHEDULED: <2022-07-29 Fri>
-
+*** [#A] NCM0.1 - Who Killed Toby Kinsella? (8.5)
+*** [#B] NCM0.2 - The Dead Don't Rise (8.4)
 ** The New Counter-Measures: Series 1 :P2016:
 *** [#D] TNCM 1.1 - Nothing to See Here (7.1)
 *** [#D] TNCM 1.2 - Troubled Waters (7.3)
@@ -1939,9 +1938,10 @@ Synopsis:  http://www.drwhoguide.com/kaldor01.htm
 *** [#E] TNCM 2.2 - The Ship of the Sleepwalkers (6.7)
 *** [#C] TNCM 2.3 - My Enemy's Enemy (7.5)
 *** [#E] TNCM 2.4 - Time of the Intelligence (6.5)
-** [#C] 7. The Hollow King (7.5) :P2019:
-** [#D] 8. The Dalek Gambit (7.3) :2020:
-** [#D] 9. The Movellan Manoeuvre (7.4) :2020:
+** The New Counter-Measures: Series 3
+*** [#C] 3.1. The Hollow King (7.5) :P2019:
+*** [#D] 3.2. The Dalek Gambit (7.3) :2020:
+*** [#D] 3.3. The Movellan Manoeuvre (7.4) :2020:
 * Faction Paradox
 ** audio
 *** The Faction Paradox Protocols (BBV 2001-2004)
@@ -2050,16 +2050,16 @@ Synopsis:  http://www.drwhoguide.com/kaldor01.htm
 **** 3QTR [#C] 1.2 - The Flood               (7.6) :D2022_06_spinoffs:
      CLOSED: <2022-06-23 Thu 19:09> SCHEDULED: <2022-06-25 Sat>
 
-**** [#C] 1.3 - Ghost Machines   (7.5) :D2022_07_spinoffs:
+**** TODO [#C] 1.3 - Ghost Machines   (7.5) :DW2022_07_spinoffs:
      SCHEDULED: <2022-07-09 Sat>
 
-**** [#D] 1.4 - The Last Party on Earth (7.3) :D2022_07_spinoffs:
+**** TODO [#D] 1.4 - The Last Party on Earth (7.3) :DW2022_07_spinoffs:
      SCHEDULED: <2022-07-30 Sat>
 
 *** TBR RTDC vol.2 Other Worlds :P2022_10:
 *** TBR RTDC vol.3 Trapped :P2023_09:
 ** Donna Nobel - Kidnapped :Donna:P2020:
-*** LATER [#B] 1. Out of this World (8.1) :DW2022_07_maybe:
+*** LATER [#B] 1. Out of this World (8.1) :DW2022_08_spinoffs:
     SCHEDULED: <2022-07-31 Sun>
 
 *** [#C] 2. Spinvasion (7.8)
@@ -2074,9 +2074,9 @@ Synopsis:  http://www.drwhoguide.com/kaldor01.htm
      :END:
 
 **** TODO [#C] 1.2 - The Unwilling Assassin (7.7) :DW2022_07_spinoffs:
-     SCHEDULED: <2022-07-16 Sat>
+     SCHEDULED: <2022-07-23 Sat>
 
-**** [#B] 1.3 - I, Rorius              (8.7) :DW2022_08_spinoffs:
+**** [#A] 1.3 - I, Rorius              (8.7) :DW2022_08_spinoffs:
 *** vol.2 :P2022_03:
 **** 2.1 The Once and Future Nurse
 **** 2.2 The Glowing Warrior
@@ -2145,8 +2145,20 @@ Synopsis:  http://www.drwhoguide.com/kaldor01.htm
 ** Doctor Who Unbound
 ** Classic Doctors, New Monsters
 *** CDNM vol.1
+**** [#B] 1.1 Fallen Angels :5th_Dr:
+**** [#B] 1.2 Judoon in Chains :6th_Dr:
+**** [#E] 1.3 Harvest of the Sycorax :7th_Dr:
+**** [#C] 1.4 The Sontaran Ordeal :8th_Dr:time_war:
 *** CDNM vol.2
+**** [#C] 2.1 Night of the Vashta Nerada :4th_Dr:
+**** [#F] 2.2 Empire of the Racnoss :5th_Dr:
+**** [#D] 2.3 The Carrionite Curse :6th_Dr:
+**** [#C] 2.4 Day of the Vashta Nerada :8th_Dr:time_war:
 *** TBR CDNM vol.3 The Stuff of Nightmares :P2022_07:
+**** 3.1 The House That Hoxx Built :3rd_Dr:Sarah:
+**** 3.2 The Tivolian Who Knew Too Much :4th_Dr:Leela:
+**** 3.3 Together In Eclectic Dreams :6th_Dr:
+**** 3.4 If I Should Die Before I Wake :8th_Dr:Charley:
 *** TBR CDNM vol.4 Broken Memories :P2023_10:
 ** The Eighth of March
 *** vol.1 The Eighth of March :P2021_03:
