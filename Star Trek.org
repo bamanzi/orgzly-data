@@ -125,7 +125,7 @@ CLOSED: [2021-02-20 Sat 19:31]
 :rating:   5.7
 :END:
 
-**** DONE [#B] 3x02 The Enterprise Incident :Romulans:
+**** DONE [#B] 3x02 The Enterprise Incident (8.5) :Romulans:
 CLOSED: [2021-03-06 Sat 10:03]
 :PROPERTIES:
 :rating:   8.5
@@ -194,7 +194,7 @@ CLOSED: [2021-02-25 Thu 18:55]
 :rating:   6.7
 :END:
 
-**** [#D] 3x13 Elaan of Troyius
+**** NEXT [#D] 3x13 Elaan of Troyius
 :PROPERTIES:
 :rating:   7.3
 :END:
@@ -215,7 +215,7 @@ CLOSED: [2022-06-12 Sun 23:15]
 **** CANCEL [#E] 3x20. The Way to Eden                   (5.6)
 **** [#D] 3x21. The Cloud Minders                 (7.2)
 **** CANCEL [#E] 3x22. The Savage Curtain                (6.9)
-**** NOW [#B] 3x23. All Our Yesterdays (8.4)
+**** [#B] 3x23. All Our Yesterdays (8.4)
 **** [#D] 3x24. Turnabout Intruder                (7.0)
 
 #+TBLFM: $2='(cond ((> $4 8.5) "[#A]") ((>= $4 8.0) "[#B]") ((>= $4 7.5) "[#C]") ((>= $4 7.0) "[#D]") (t "[#E]"));N
@@ -287,8 +287,10 @@ CLOSED: [2022-05-18 Wed 19:03]
 **** DONE [#C] 4. The White Iris 鸢尾花 (7.9)
 CLOSED: [2021-04-10 Sat 11:54]
 
-**** NOW [#C] 5. Divided We Stand 内战 (7.9)
-**** [#A] 6. Come Not Between the Dragons (8.5)
+**** DONE [#C] 5. Divided We Stand 内战 (7.9)
+CLOSED: [2022-07-03 Sun 15:08]
+
+**** NOW [#A] 6. Come Not Between the Dragons (8.5)
 ** movies :🎦:
 *** 2DONE 1. Star Trek: The Motion Picture 无限太空 :P1979:
 *** 2DONE 2. The Wrath of Khan 可汗怒吼 :P1982:Khan:
@@ -398,8 +400,11 @@ CLOSED: [2021-01-15 Fri 13:06]
 ***** DONE 11-12 :Gary_Seven:
 CLOSED: [2021-01-15 Fri 13:56]
 
-***** DONE Year Five 13-25
-CLOSED: [2022-05-27 Fri 08:46]
+***** DONE 13-21
+CLOSED: <2022-06-26 Sun 11:12>
+
+***** DONE 22-25
+CLOSED: [2022-07-03 Sun 23:06]
 
 *** *best :⭐️:
 **** DONE [#B] All the Infinite Ways :Marvel:P1981:Klingons:
@@ -485,15 +490,19 @@ Captain Kirk and the crew of the USS Enterprise find themselves teamed wi
 **** DONE [#E] 1x03 The Naked Now (6.6)
 CLOSED: [2022-06-23 Thu 23:46]
 
+所有人都出现了醉酒症状
+
 **** CANCEL [#E] 1x04 Code of Honor (5.3)
 **** CANCEL [#E] 1x05 The Last Outpost             (6.4)
 **** DONE [#C] 1x06 Where No One Has Gone Before (7.6)
 **** CANCEL [#E] 1x07 Lonely Among Us   (6.4)
 **** CANCEL [#E] 1x08 Justice                      (6.1)
-**** READY [#E] 1x09 The Battle                   (6.9)
-**** READY [#D] 1x10 Hide and Q                   (7.0)
+**** NOW [#E] 1x09 The Battle                   (6.9)
+**** NOW [#D] 1x10 Hide and Q                   (7.0)
 **** CANCEL [#E] 1x11 Haven                        (6.3)
-**** READY [#D] 1x12 The Big Goodbye              (7.4)
+**** DONE [#D] 1x12 The Big Goodbye              (7.4) :Holodeck:
+CLOSED: [2022-07-02 Sat 19:23]
+
 **** DONE [#C] 1x13 Datalore                     (7.8) :Data:Lore:
 CLOSED: [2022-06-03 Fri 17:15] SCHEDULED: <2022-06-03 Fri>
 
@@ -501,13 +510,13 @@ CLOSED: [2022-06-03 Fri 17:15] SCHEDULED: <2022-06-03 Fri>
 **** DONE [#C] 1x15 11001001 (7.5)
 **** CANCEL [#E] 1x16 Too Short a Season (6.2)
 **** CANCEL [#E] 1x17 When the Bough Breaks (6.4)
-**** READY [#E] 1x18 Home Soil (6.9)
-**** READY [#D] 1x19 Coming of Age (7.2)
-**** READY [#D] 1x20 Heart of Glory (7.3)
-**** READY [#D] 1x21 The Arsenal of Freedom (7.2)
-**** READY [#D] 1x22 Symbiosis (7.0)
-**** NOW [#D] 1x23 Skin of Evil (7.0)
-**** READY [#E] 1x24 We'll Always Have Paris (6.7)
+**** [#E] 1x18 Home Soil (6.9)
+**** [#D] 1x19 Coming of Age (7.2)
+**** [#D] 1x20 Heart of Glory (7.3)
+**** [#D] 1x21 The Arsenal of Freedom (7.2)
+**** [#D] 1x22 Symbiosis (7.0)
+**** [#D] 1x23 Skin of Evil (7.0)
+**** [#E] 1x24 We'll Always Have Paris (6.7)
 **** DONE [#B] 1x25 Conspiracy (8.2)
 **** DONE [#C] 1x26 The Neutral Zone (7.5) :Romulans:
 CLOSED: [2022-06-01 Wed 08:14] SCHEDULED: <2022-06-02 Thu>
@@ -516,20 +525,22 @@ CLOSED: [2022-06-01 Wed 08:14] SCHEDULED: <2022-06-02 Thu>
 
 *** TNG S2 :Y2365:
 **** CANCEL [#E] 2x01. The Child              (5.9)
-**** TODO [#D] 2x02. Where Silence Has Lease (7.2)
+**** [#D] 2x02. Where Silence Has Lease (7.2)
 **** DONE [#B] 2x03. Elementary, Dear Data  (8.2)
 **** CANCEL [#E] 2x04. The Outrageous Okona   (6.3)
 **** CANCEL [#E] 2x05. Loud as a Whisper      (6.6)
-**** TODO [#D] 2x06. The Schizoid Man       (7.1)
+**** DONE [#D] 2x06. The Schizoid Man       (7.1)
+CLOSED: [2022-07-01 Fri 06:21]
+
 **** CANCEL [#E] 2x07. Unnatural Selection    (6.6)
 **** DONE [#B] 2x08. A Matter of Honor      (8.2)
 **** DONE [#A] 2x09. The Measure of a Man   (9.1)
 **** CANCEL [#E] 2x10. The Dauphin            (6.3)
 **** DONE [#C] 2x11. Contagion              (7.7)
-**** TODO [#E] 2x12. The Royale             (6.7)
+**** [#E] 2x12. The Royale             (6.7)
 **** DONE [#C] 2x13. Time Squared           (7.6)
 **** CANCEL [#E] 2x14. The Icarus Factor      (6.4)
-**** TODO [#E] 2x15. Pen Pals               (6.9)
+**** [#E] 2x15. Pen Pals               (6.9)
 **** DONE [#A] 2x16. Q Who                  (9.0)
 **** CANCEL [#E] 2x17. Samaritan Snare        (6.6)
 **** CANCEL [#E] 2x18. Up the Long Ladder     (6.4)
@@ -538,35 +549,35 @@ CLOSED: [2022-06-01 Wed 08:14] SCHEDULED: <2022-06-02 Thu>
 **** DONE [#C] 2x21. Peak Performance       (7.8)
 **** CANCEL [#E] 2x22. Shades of Gray         (3.5)
 *** TNG S3 :Y2366:
-**** TODO [#E] 3x01. Evolution                (6.7)
+**** [#E] 3x01. Evolution                (6.7)
 **** DONE [#C] 3x02. The Ensigns of Command   (7.5)
 **** DONE [#C] 3x03. The Survivors            (7.7)
 **** DONE [#B] 3x04. Who Watches the Watchers (8.1)
-**** TODO [#E] 3x05. The Bonding              (6.7)
+**** [#E] 3x05. The Bonding              (6.7)
 **** DONE [#C] 3x06. Booby Trap               (7.5)
 **** DONE [#C] 3x07. The Enemy                (7.9)
 **** CANCEL [#E] 3x08. The Price                (6.4)
 **** CANCEL [#E] 3x09.The Vengeance Factor      (6.6)
 **** DONE [#B] 3x10. The Defector             (8.5) :Romulans:
 **** DONE [#C] 3x11. The Hunted               (7.6)
-**** TODO [#E] 3x12. The High Ground          (6.9)
+**** [#E] 3x12. The High Ground          (6.9)
 **** DONE [#A] 3x13. Déjà Q                 (8.6)
-**** TODO [#E] 3x14. A Matter of Perspective  (6.9)
+**** [#E] 3x14. A Matter of Perspective  (6.9)
 **** DONE [#A] 3x15. Yesterday's Enterprise   (9.2)
 **** DONE [#A] 3x16. The Offspring            (8.6) :Data:
 CLOSED: [2022-05-25 Wed 08:06]
 
 **** DONE [#B] 3x17. Sins of the Father       (8.3)
-**** READY [#C] 3x18. Allegiance               (7.5)
-**** READY [#D] 3x19. Captain's Holiday        (7.3)
-**** READY [#D] 3x20. Tin Man                  (7.4)
+**** [#C] 3x18. Allegiance               (7.5)
+**** [#D] 3x19. Captain's Holiday        (7.3)
+**** [#D] 3x20. Tin Man                  (7.4)
 **** DONE [#C] 3x21. Hollow Pursuits          (7.9)
 **** DONE [#C] 3x22. The Most Toys            (7.8)
 **** DONE [#B] 3x23. Sarek                    (8.2)
 CLOSED: [2022-06-07 Tue 20:24] SCHEDULED: <2022-06-05 Sun>
 
-**** TODO [#E] 3x24. Ménage à Troi          (6.7)
-**** TODO [#D] 3x25. Transfigurations         (7.0)
+**** [#E] 3x24. Ménage à Troi          (6.7)
+**** [#D] 3x25. Transfigurations         (7.0)
 **** DONE [#A] 3x26. The Best of Both Worlds  (9.4) :Borg:Picard:
 *** TNG S4 :Y2367:
 **** DONE [#A] 4x01. The Best of Both Worlds: Part II (9.3) :Borg:
@@ -806,7 +817,8 @@ CLOSED: [2021-04-07 Wed 20:13]
 :rating:   7.6
 :END:
 
-**** NOW [#A] 6x25  - Timescape
+**** DONE [#A] 6x25  - Timescape
+CLOSED: <2022-06-22 Wed 22:40>
 :PROPERTIES:
 :rating:   8.6
 :END:
@@ -893,9 +905,9 @@ IDW best of star trek vol.2
 **** [TPB] TNG omnibus
 ***** The Space Between
 ***** Intelligence Gathering
-***** [#C] The Last Generation
+***** NOW [#C] The Last Generation
 ***** Ghosts
-***** [#B] Hive :Borg:
+***** NOW [#B] Hive :Borg:
 **** DONE The Next Generation/Doctor Who: Assimilation² :crossover:
 CLOSED: [2021-01-10 Sun 10:35]
 
@@ -1293,7 +1305,8 @@ CLOSED: [2022-01-29 Sat 19:30]
 :rating:   6.7
 :END:
 
-**** NOW [#E] 1x09 Emanations
+**** DONE [#E] 1x09 Emanations
+CLOSED: [2022-07-02 Sat 22:08]
 :PROPERTIES:
 :rating:   6.8
 :END:
@@ -1310,12 +1323,13 @@ CLOSED: [2022-06-19 Sun 10:23]
 :rating:   7.7
 :END:
 
-**** NOW [#E] 1x12 Heroes and Demons
+**** DONE [#E] 1x12 Heroes and Demons
+CLOSED: <2022-06-29 Wed 21:53>
 :PROPERTIES:
 :rating:   6.8
 :END:
 
-**** NEXT [#E] 1x13 Cathexis
+**** NOW [#E] 1x13 Cathexis
 :PROPERTIES:
 :rating:   6.8
 :END:
@@ -1324,7 +1338,7 @@ CLOSED: [2022-06-19 Sun 10:23]
 CLOSED: [2022-06-22 Wed 23:59]
 
 **** NEXT [#D] 1x15 Jetrel
-**** [#D] 1x16 Learning Curve
+**** NEXT [#D] 1x16 Learning Curve
 *** VOY S2
 
 26 issues
@@ -1406,9 +1420,15 @@ CLOSED: [2022-06-14 Tue 23:15] SCHEDULED: <2022-06-05 Sun>
 **** DONE [#B] 4x07 Scientific Method		   (8.1)
 CLOSED: [2022-06-25 Sat 21:18]
 
-**** NOW [#A] 4x08 Year of Hell			   (8.8)
-**** NOW [#A] 4x09 Year of Hell: Part II	   (8.6)
-**** NEXT [#D] 4x10 Random Thoughts		   (7.0)
+**** DONE [#A] 4x08 Year of Hell			   (8.8)
+CLOSED: [2022-07-01 Fri 22:22]
+
+时间大战
+
+**** DONE [#A] 4x09 Year of Hell: Part II	   (8.6)
+CLOSED: [2022-07-02 Sat 13:12]
+
+**** NOW [#D] 4x10 Random Thoughts		   (7.0)
 **** NEXT [#E] 4x11 Concerning Flight		   (6.9)
 **** [#E] 4x12 Mortal Coil			   (6.9)
 **** [#C] 4x13 Waking Moments			   (7.7)
@@ -1598,7 +1618,7 @@ CLOSED: [2021-03-13 Sat 19:47]
 **** DONE 2x14 Such Sweet Sorrow, Part 2
 CLOSED: [2021-03-13 Sat 22:56]
 
-*** DOING 📂DSC S3 :2020:
+*** 📂DSC S3 :2020:
 
 13 episodes
 
@@ -1641,9 +1661,15 @@ CLOSED: [2022-06-21 Tue 22:39]
 **** DONE [#E] 3x10 Terra Firma, Part 2
 CLOSED: [2022-06-21 Tue 23:56]
 
-**** NOW [#F] 3x11 Su'Kal
-**** NEXT [#E] 3x12 There Is a Tide...
-**** NEXT [#E] 3x13 That Hope Is You, Part 2
+**** DONE [#F] 3x11 Su'Kal
+CLOSED: [2022-06-29 Wed 20:30]
+
+**** DONE [#E] 3x12 There Is a Tide...
+CLOSED: [2022-07-02 Sat 17:02]
+
+**** DONE [#E] 3x13 That Hope Is You, Part 2
+CLOSED: [2022-07-02 Sat 18:08]
+
 *** Discovery S4
 ** comics :IDW:📚:
 *** 2DONE Discovery: The Light of Kahless (卡勒斯之光) :hanzify:Kahless:Klingons:
@@ -1691,11 +1717,13 @@ CLOSED: <2022-06-04 Sat 17:14> SCHEDULED: <2022-06-03 Fri>
 * SNW - Strange New Worlds (2022- ) :SNW:Pike:
 ** tv
 *** SNW S1 :P2022:
-**** DONE 1x01
+**** DONE 1x01 Strange New Worlds
 CLOSED: [2022-06-08 Wed 08:32]
 
-**** NOW 1x02
-**** NEXT 1x03
+**** DONE 1x02 Children of the Comet
+CLOSED: [2022-07-02 Sat 23:03]
+
+**** NOW 1x03 Ghosts of Illyria
 ** comics :📚:
 *** NEXT Early Voyages (Marvel)
 
@@ -1704,7 +1732,9 @@ CLOSED: [2022-06-08 Wed 08:32]
 **** DONE 01. Flesh of My Flesh
 CLOSED: <2022-06-21 Tue 13:07>
 
-**** 02. The Fires of Pharos
+**** DONE 02. The Fires of Pharos
+CLOSED: [2022-06-29 Wed 13:49]
+
 **** 03. Our Dearest Blood
 **** 2DONE 04 Nor Iron Bars a Cage
 **** 05-06. Cloak & Dagger
