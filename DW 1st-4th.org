@@ -618,11 +618,11 @@ SCHEDULED: <2021-10-03 Sun>
 :rating:   8.1
 :END:
 
-**** 📂/CC14 - The Second Doctor: Volume Three/ :P2022_04:
-***** 14.1 The Death of the Daleks
-***** 14.2 The Phantom Piper
-***** 14.3 The Prints of Denmark
-***** 14.4 The Deepest Tragedian
+**** 📂CC14 - The Second Doctor: Volume Three :Jamie:P2022_04:
+***** [#A] 14.1 The Death of the Daleks :Daleks:
+***** [#C] 14.2 The Phantom Piper
+***** [#A] 14.3 The Prints of Denmark :Zoe:
+***** [#D] 14.4 The Deepest Tragedian :Zoe:
 *** misc
 **** HALF [#D] LS4.2 - The Queen of Time :Jamie:Zoe:plot_yes:D2022_06_doctor:
 SCHEDULED: <2022-06-05 Sun>
@@ -1227,33 +1227,32 @@ SCHEDULED: <2021-11-05 Fri>
 ***** HALF [#C] 8.3 - The Enchantress of Numbers (7.6) :D2022_04_doctor:
 SCHEDULED: <2022-04-23 Sat>
 
-***** [#D] 8.6 - Fever Island
-:PROPERTIES:
-:rating:   7.2
-:END:
-
-***** [#B] 8.7/8.8 The Perfect Prisoners (8.2/8.3) :7:
+***** [#D] 8.4 - The False Guardian (7.1)
+***** [#D] 8.6 - Fever Island (7.2)
+***** [#B] 8.7/8.8 - The Perfect Prisoners (8.2/8.3)
 **** 4DA series 9 :P2020:
-***** [#C] 9.1 - Purgatory 12 (7.6) :Romana_2:
-***** [#B] 9.2 Chase the Night (8.3) :Romana_2:
+***** [#C] 9.1 - Purgatory 12 (7.6) :Romana_2:Adric:
+***** [#B] 9.2 - Chase the Night (8.3) :Romana_2:Adric:
 :PROPERTIES:
 :rating:   8.3
 :END:
 
-***** [#D] 9.3 - The Planet of Witches (7.1)
-***** [#B] 9.4 - The Quest of the Engineer (8.0) :Romana_2:
-***** DONE [#A] 9SP1 Shadow of the Sun (8.6) :4D:2020:
+***** [#D] 9.3 - The Planet of Witches (7.1) :Romana_2:Adric:
+***** [#B] 9.4 - The Quest of the Engineer (8.0) :Romana_2:Adric:
+***** DONE [#A] 9SP1 Shadow of the Sun (8.6) :Leela:
 CLOSED: [2020-07-15 Wed 19:13]
 
 **** 4DA series 10 :Leela:P2021:
-***** 10.1 The World Traders
-***** 10.2 The Day of the Comet
+***** [#C] 10.1 The World Traders
+***** [#C] 10.2 The Day of the Comet
+***** [#C] 10.3 [[https://tardis.fandom.com/wiki/The_Tribulations_of_Tahdeus_Nook_(audio_story)][The Tribulations of Tahdeus Nook]]
+***** [#E] 10.4 [[https://tardis.fandom.com/wiki/The_Primeval_Design_(audio_story)][The Primeval Design]]
 **** 4DA series 11 :P2022:
-***** 11.1 - Blood of the Time Lords :Master_early:
-***** 11.2 - The Ravencliff Witch :Margaret:
-***** 11.3 The Dreams of Avaice
-***** 11.4 Shellshock
-***** 11.5 Peake Season
+***** [#A] 11.1 Blood of the Time Lords :Master_early:
+***** [#B] 11.2 The Ravencliff Witch :Margaret:
+***** [#B] 11.3 The Dreams of Avaice :The_Nine:
+***** [#E] 11.4 Shellshock
+***** [#D] 11.5 Peake Season
 **** TBR 4DA series 12 :Leela:Margaret:P2023:
 *** BF The Lost Stories
 **** [#A] LS 2.07 - The Foe from the Future  8.9 :Leela:

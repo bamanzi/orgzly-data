@@ -1311,39 +1311,45 @@
 | 050 | MR038 The Church and the Crown | 5th  | Peri, Erimem |
 
 *** [#C] EA1.4 - An Ordinary Life :1st_Dr:Steven:Sara_Kingdom:
-*** HALF [#C] CC1.3 The Blue Tooth(Liz, 3rd) :Liz:Cybermen:
+*** START [#A] ST11.3 The Threshold                   :Master_nemesis:3rd_Dr:
 *** [#C] MR038. The Church and the Crown :5th_Dr:Peri:Erimem:
-*** [#A] MR079 Night Thoughts :7th_Dr:Ace:Hex:
-*** START [#B] 9DA 4.2 Way of the Burryma :Cybermen:
+*** DONE 7DA1.1 The Trial of a Time Machine :7th_Dr:Roz:Chris:
+*** START [#B] 9DA 4.2 Way of the Burryma :9th_Dr:Cybermen:Brigadier:Sam_Bishop:
+*** TODO 9DA4.3. The Forth Generation
 *** [#D] 11DC1.1 - The Calendar Man :11th_Dr:
 *** 13th: Redacted #3/#4
 ** DW 2022-07-spinoffs
 *** [#E] TW1 1.3 Before the Fall :Yvonne:
 *** HALF [#A] TW22 Goodbye Picardilly :Norton:Andy:
-*** START [#C] NCM0.1 Who Killed Toby Kinsella?
+*** START [#D] CM1.1 - Threshold
 *** [#B] Gallifrey 3.1 Fractures #B :Romana_2:Leela:
 *** [#C] Rose 1.3 :Rose:
-*** [#D] Rose 1.4 :Rose:
 *** HALF [#B] BS1.1 Oh No It Isn't :Benny:
 *** [#A] Robots 1.3 :Liv:Kaldor_Robots:
-*** [#C] LC1.2 The Unwilling Assassin :Rory:
-*** [#D] Missy 2.2 Brimstone and Terror :Missy:
-*** TODO DoRS6.2. The Web of Time :River:
+*** [#C] Rory1.2 The Unwilling Assassin :Rory:
+*** HALF [#B] Master! 1.1. Faustian :Master:
+*** TODO [#D] DoRS6.2. The Web of Time :River:
+** DW 2022-07-pending
+*** TODO [#A] MR079 Night Thoughts :7th_Dr:Ace:Hex:
+*** START CM1.2 - Artificial Intelligence
+*** START [#C] NCM0.1 Who Killed Toby Kinsella?
+*** [#D] Rose 1.4 :Rose:
+*** HALF [#C] CC1.3 The Blue Tooth(Liz, 3rd) :Liz:Cybermen:
 
 * DW 2022-08
 ** DW 2022-08-doctor
-*** [#B] CC12.4 - The Tactics of Defeat                :2nd_Dr:Zoe:Ruth:UNIT:
-*** [#B] LS6.1 Return of the Cybermen                    :4th_Dr:Sarah:Harry:
-*** [#A] 6. The Marian Conspiracy                             :6th_Dr:Evelyn:
-*** [#E/#E] 8DDC 2.3 / 2.4                                 :8th_Dr:Liv:Helen:
-*** [#C] 10DA 3.2 One Mile Down                               :10th_Dr:Donna:
-*** [#C] 12DC1.2 War Wounds                                   :12th_Dr:Danny:
+*** [#B] CC12.4 - The Tactics of Defeat :2nd_Dr:Zoe:Ruth:UNIT:
+*** [#B] LS6.1 Return of the Cybermen :4th_Dr:Sarah:Harry:
+*** [#A] MR006. The Marian Conspiracy :6th_Dr:Evelyn:
+*** [#E/#E] 8DDC 2.3 / 2.4 :8th_Dr:Liv:Helen:
+*** [#C] 10DA 3.2 One Mile Down :10th_Dr:Donna:
+*** [#C] 12DC1.2 War Wounds :12th_Dr:Danny:
 ** DW 2022-08-spinoffs
-*** TW6.5/6.6                                            :Jack:Yvonne:Norton:
+*** TW6.5/6.6 :Jack:Yvonne:Norton:
 *** [#C] CM1.2 Artificial Intelligence
-*** [#B] Gallifrey 3.2 Warfare                               :Romana_2:Leela:
-*** [#C] CY1.3 Living History                                     :Churchill:
-*** [#A] BS5.1 - The Grel Escape                                      :Benny:
-*** KC #2 Death's Head                                        :Kaldor_Robots:
+*** [#B] Gallifrey 3.2 Warfare :Romana_2:Leela:
+*** [#C] CY1.3 Living History :Churchill:
+*** [#A] BS5.1 - The Grel Escape :Benny:
+*** KC #2 Death's Head :Kaldor_Robots:
 *** [#A] Rory 1.3 I, Rorius
-*** [#D] Missy 2.2 Brimstone and Terror                        :Missy:Master:
+*** [#D] Missy 2.2 Brimstone and Terror :Missy:Master:
