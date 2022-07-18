@@ -1028,33 +1028,137 @@ M5 首次是在 TOS 剧集 The Ultimate Computer 出现
 * DS9 - Deep Space Nine :DS9:
 ** DS9 tv (1993-1998) :📺:tv:
 *** DS9 S1 (Jan. - Jun. 1993) :Y2369:
-**** LATER 1x07 Q-less :Q:
+
+**** DONE   [#C] 1x01. Emissary (7.6)
+****        [#D] 1x03. Past Prologue (7.1)
+**** CANCEL [#E] 1x04. A Man Alone (6.9)
+****        [#D] 1x05. Babel (7.0)
+**** DONE   [#C] 1x06. Captive Pursuit (7.7)
+**** LATER [#E] 1x07. Q-Less (6.9)                                  :Q:
+****        [#D] 1x08. Dax (7.2)
+**** CANCEL [#E] 1x09. The Passenger (6.5)
+**** CANCEL [#E] 1x10. Move Along Home (6.0)
+****        [#D] 1x11. The Nagus (7.2)
+****        [#D] 1x12. Vortex (7.1)
+**** CANCEL [#E] 1x13. Battle Lines (6.7)
+**** CANCEL [#E] 1x14. The Storyteller (6.1)
+**** CANCEL [#E] 1x15. Progress (6.9)
+**** CANCEL [#E] 1x16. If Wishes Were Horses (6.6)
+****        [#D] 1x17. The Forsaken (7.0)
+****        [#D] 1x18. Dramatis Personae (7.2)
+**** DONE   [#A] 1x19. Duet (9.0)
+**** DONE   [#C] 1x20. In the Hands of the Prophets (7.8)
 *** DS9 S2 (Sep.93 - Jun.94) :Y2370:
+
+**** DONE   [#C] 2x01. The Homecoming (7.8)
+**** DONE   [#C] 2x02. The Circle (7.8)
+**** DONE   [#C] 2x03. The Siege (7.9)
+****        [#D] 2x04. Invasive Procedures (7.0)
+**** DONE   [#C] 2x05. Cardassians (7.6)
+**** CANCEL [#E] 2x06. Melora (6.5)
+**** DONE   [#C] 2x07. Rules of Acquisition (7.5)
+**** DONE   [#B] 2x08. Necessary Evil (8.3)
+**** CANCEL [#E] 2x09. Second Sight (6.3)
+**** CANCEL [#E] 2x10. Sanctuary (6.6)
+**** CANCEL [#E] 2x11. Rivals (6.7)
+**** CANCEL [#E] 2x12. The Alternate (6.9)
+**** DONE   [#C] 2x13. Armageddon Game (7.5)
+**** DONE   [#B] 2x14. Whispers (8.3)
+**** CANCEL [#E] 2x15. Paradise (6.8)
+****        [#D] 2x16. Shadowplay (7.4)
+**** CANCEL [#E] 2x17. Playing God (6.5)
+****        [#D] 2x18. Profit and Loss (7.3)
+**** DONE   [#B] 2x19. Blood Oath (8.0)
+**** DONE   [#C] 2x20. The Maquis: Part I (7.9)
+**** DONE   [#B] 2x21. The Maquis: Part II (8.0)
+**** DONE   [#B] 2x22. The Wire (8.3)
+**** DONE   [#B] 2x23. Crossover (8.1)
+****        [#D] 2x24. The Collaborator (7.2)
+**** DONE   [#C] 2x25. Tribunal (7.7)
+**** DONE   [#B] 2x26. The Jem'Hadar (8.5)
 *** DS9 S3 (Sep.94 - Jun.95) :Y2371:
-**** 3x09 Defiant :Maquis:Thomas_Riker:
+**** DONE   [#B] 3x01. The Search: Part I (8.4)
+**** DONE   [#B] 3x02. The Search: Part II (8.3)
+**** DONE   [#B] 3x03. The House of Quark (8.1)
+**** CANCEL [#E] 3x04. Equilibrium (6.8)
+**** DONE   [#C] 3x05. Second Skin (7.9)
+****        [#D] 3x06. The Abandoned (7.0)
+**** DONE   [#B] 3x07. Civil Defense (8.0)
+**** CANCEL [#E] 3x08. Meridian (5.7)
+**** DONE   [#B] 3x09. Defiant (8.1)                                 :Maquis:
+**** CANCEL [#E] 3x10. Fascination (6.3)
+**** DONE   [#B] 3x11. Past Tense: Part I (8.0)
+**** DONE   [#B] 3x12. Past Tense: Part II (8.0)
+**** CANCEL [#E] 3x13. Life Support (6.8)
+****        [#D] 3x14. Heart of Stone (7.4)
+**** DONE   [#C] 3x15. Destiny (7.5)
+**** CANCEL [#E] 3x16. Prophet Motive (6.9)
+**** DONE   [#C] 3x17. Visionary (7.9)
+**** CANCEL [#E] 3x18. Distant Voices (6.6)
+**** DONE   [#C] 3x19. Through the Looking Glass (7.5)
+**** DONE   [#A] 3x20. Improbable Cause (8.7)
+**** DONE   [#A] 3x21. The Die Is Cast (9.0)
+****        [#D] 3x22. Explorers (7.4)
+****        [#D] 3x23. Family Business (7.3)
+****        [#D] 3x24. Shakaar (7.0)
+****        [#D] 3x25. Facets (7.3)
+**** DONE   [#B] 3x26. The Adversary (8.3)
 *** DS9 S4 (Sep.95 - Jun.96) :Y2372:
+
+**** DONE   [#A] 4x01. The Way of the Warrior (9.1)
+**** DONE   [#A] 4x02. The Visitor (9.1)
+**** DONE   [#C] 4x03. Hippocratic Oath (7.8)
+**** DONE   [#C] 4x04. Indiscretion (7.8)
+****        [#D] 4x05. Rejoined (7.1)
+**** DONE   [#C] 4x06. Starship Down (7.8)
+**** DONE   [#A] 4x07. Little Green Men (8.6)
+****        [#D] 4x08. The Sword of Kahless (7.1)
+**** DONE   [#B] 4x09. Our Man Bashir (8.0)
+**** DONE   [#B] 4x10. Homefront (8.4)
+**** DONE   [#B] 4x11. Paradise Lost (8.4)
+****        [#D] 4x12. Crossfire (7.3)
+**** DONE   [#C] 4x13. Return to Grace (7.9)
+****        [#D] 4x14. Sons of Mogh (7.4)
+**** DONE   [#C] 4x15. Bar Association (7.5)
+****        [#D] 4x16. Accession (7.3)
+****        [#D] 4x17. Rules of Engagement (7.4)
+**** DONE   [#B] 4x18. Hard Time (8.3)
+****        [#D] 4x19. Shattered Mirror (7.3)
+**** CANCEL [#E] 4x20. The Muse (5.7)
+**** DONE   [#C] 4x21. For the Cause (7.9)
+**** DONE   [#B] 4x22. To the Death (8.2)
+**** DONE   [#C] 4x23. The Quickening (7.7)
+**** DONE   [#C] 4x24. Body Parts (7.6)
+**** DONE   [#B] 4x25. Broken Link (8.3)
+
 *** DS9 S5 (Sep.96 - Jun.97) :Y2373:
-**** [#C] 5x03 Looking for par'Mach in All the Wrong Places (7.7) :Klingons:
-:PROPERTIES:
-:rating:   7.7
-:END:
-
-**** 5x12 The Begotten :Changeling:
-**** [#D] 5x18 Business as Usual :Ferengi:
-:PROPERTIES:
-:rating:   7.4
-:END:
-
-**** [#E] 5x20 Ferengi Love Songs :Ferengi:
-:PROPERTIES:
-:rating:   6.8
-:END:
-
-**** DONE [#A] 5x26 Call to Arms
+**** DONE   [#B] 5x01. Apocalypse Rising (8.3)
+**** DONE   [#B] 5x02. The Ship (8.1)
+**** DONE   [#C] 5x03. Looking for par'Mach in All the Wrong Places (7.7) :Klingons:
+**** DONE   [#C] 5x04. ...Nor the Battle to the Strong (7.7)
+****        [#D] 5x05. The Assignment (7.3)
+**** DONE   [#A] 5x06. Trials and Tribble-ations (9.4)
+**** CANCEL [#E] 5x07. Let He Who Is Without Sin... (5.6)
+**** DONE   [#C] 5x08. Things Past (7.6)
+**** DONE   [#C] 5x09. The Ascent (7.6)
+****        [#D] 5x10. Rapture (7.4)
+****        [#D] 5x11. The Darkness and the Light (7.0)
+**** DONE   [#C] 5x12. The Begotten (7.9)
+**** DONE   [#B] 5x13. For the Uniform (8.0)
+**** DONE   [#A] 5x14. In Purgatory's Shadow (8.9)
+**** DONE   [#A] 5x15. By Inferno's Light (8.9)
+**** DONE   [#C] 5x16. Doctor Bashir, I Presume (7.9)
+**** CANCEL [#E] 5x17. A Simple Investigation (6.7)
+****        [#D] 5x18. Business as Usual (7.4)                      :Ferengi:
+****        [#D] 5x19. Ties of Blood and Water (7.3)
+**** CANCEL [#E] 5x20. Ferengi Love Songs (6.8)                     :Ferengi:
+**** DONE   [#C] 5x21. Soldiers of the Empire (7.8)
+**** DONE   [#B] 5x22. Children of Time (8.1)
+**** DONE   [#C] 5x23. Blaze of Glory (7.7)
+**** DONE   [#C] 5x24. Empok Nor (7.9)
+**** DONE   [#C] 5x25. In the Cards (7.9)
+**** DONE   [#A] 5x26. Call to Arms (9.0)
 CLOSED: [2021-01-28 Thu 08:26]
-:PROPERTIES:
-:rating:   9.0
-:END:
 
 *** DS9 S6 (Sep.97 - Jun.98) :Y2374:
 **** DONE [#A] 6x01 A Time to Stand
