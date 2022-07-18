@@ -74,7 +74,7 @@ Episode 4 missing (but animated in 2013).
 :rating:   7.7
 :END:
 
-***** TODO [#C] EA1.4 - An Ordinary Life :Steven:Sara_Kingdom:plot_yes:DW2022_07_doctor:
+***** HALF [#C] EA1.4 - An Ordinary Life :Steven:Sara_Kingdom:plot_yes:DW2022_07_doctor:
 SCHEDULED: <2022-07-16 Sat>
 
 **** EA S3
@@ -964,9 +964,12 @@ As the decade in English history which attracts the greatest quantity of alien i
 
 To escape his Earth exile, the Doctor is prepared to make any bargain, come to any arrangement, or to do any deal with any devil – even if in this case the Devil wears a monk's robes. But when past misdeeds start catching up with both the Doctor and the Monk, who can Liz Shaw trust when time is running out and death is rapidly approaching?
 
-**** [#C] ST7.X Landbound †7.6 :scripted:no_companion:
+**** READY [#C] ST7.X Landbound †7.6 :scripted:no_companion:
 **** CANCEL [#E] 10.03 Decline of the Ancient Mariner †4.2 :Sarah:
 CLOSED: [2020-06-25 Thu 21:52]
+
+**** START [#A] ST11.3 The Threshold :Master_nemesis:P2022_02:DW2022_07_doctor:
+SCHEDULED: <2022-07-16 Sat>
 
 ** BBC short stories (audible) :BBC:📄:🎧:
 *** New

@@ -506,14 +506,13 @@ CLOSED: [2022-07-04 Mon 08:12]
 ** audio :🎧:
 *** 11DC vol.1 :🗣:
 **** TODO [#D] 1.1 - The Calendar Man :DW2022_07_doctor:
-SCHEDULED: <2022-07-16 Sat>
+SCHEDULED: <2022-07-23 Sat>
 :PROPERTIES:
 :rating:   7.3
 :END:
 
 **** [#E] 1.2 - The Top of the Tree
 **** TODO [#D] 1.3 - The Light Keepers :Dorium:plot_yes:DW2022_09_doctor:
-SCHEDULED: <2022-07-16 Sat>
 :PROPERTIES:
 :rating:   7.1
 :END:
@@ -795,7 +794,7 @@ CLOSED: <2021-12-10 Fri 20:53>
 CLOSED: [2021-12-12 Sun 14:53]
 
 ** audio
-*** Redacted :P2022_04:BBC:
+*** Redacted :P2022_04:BBC:scripted:
 **** HALF [#C] Redacted 01: SOS :D2022_05_doctor:bilibili:
 SCHEDULED: <2022-05-07 Sat>
 :PROPERTIES:
@@ -804,14 +803,14 @@ SCHEDULED: <2022-05-07 Sat>
 
 【【会动的广播剧|双语字幕】十三的第一部广播剧《神秘博士：删改》第一集《求救信号》| Redacted-哔哩哔哩】 https://b23.tv/5ieRpAk
 
-**** TODO [#C] 02: Hysteria :D2022_05_doctor:
+**** TODO [#C] 02: Hysteria :D2022_05_doctor:bilibili:
 SCHEDULED: <2022-05-31 Tue>
 
 **** TODO [#C] 03: Lost :DW2022_07_doctor:
 SCHEDULED: <2022-07-23 Sat>
 
 **** TODO [#B] 04. Angels :DW2022_07_doctor:
-SCHEDULED: <2022-07-23 Sat>
+SCHEDULED: <2022-07-30 Sat>
 
 **** [#D] 05. Interrogation
 ** comics

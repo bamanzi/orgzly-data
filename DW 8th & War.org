@@ -1009,8 +1009,8 @@ CLOSED: [2020-09-23 Wed 12:53]
 CLOSED: [2020-09-23 Wed 14:01]
 
 *** vol.1 Forged in Fire :P2021_06:War_Doctor:
-**** 3QTR [#B] 1.1 - Light the Flame :D2022_06_doctor:
-CLOSED: [2022-06-21 Tue 10:07] SCHEDULED: <2022-06-25 Sat>
+**** 2DONE [#B] 1.1 - Light the Flame :D2022_06_doctor:
+CLOSED: [2022-07-15 Fri 21:16] SCHEDULED: <2022-06-25 Sat>
 :PROPERTIES:
 :rating:   8.4
 :END:

@@ -67,8 +67,8 @@ CLOSED: [2021-03-15 Mon 20:29]
 
 Genesis of the Cyberman (Mondas)
 
-**** TODO [#C] 038. The Church and the Crown :Peri:Erimem:DW2022_07_doctor:
-SCHEDULED: <2022-07-09 Sat>
+**** DONE [#C] 038. The Church and the Crown :Peri:Erimem:DW2022_07_doctor:
+CLOSED: [2022-07-14 Thu 06:48] SCHEDULED: <2022-07-10 Sun>
 :PROPERTIES:
 :rating:   7.7
 :END:
@@ -1027,8 +1027,8 @@ SCHEDULED: <2021-12-04 Sat>
 :END:
 
 **** 7DA New Adventures :P2018:Roz:Chris:1CD:
-***** HALF [#D] 7DA 1.1 - The Trial of a Time Machine :DW2022_07_doctor:
-SCHEDULED: <2022-07-06 Wed>
+***** 3QTR [#D] 7DA 1.1 - The Trial of a Time Machine :DW2022_07_doctor:
+CLOSED: <2022-07-06 Wed 20:52> SCHEDULED: <2022-07-06 Wed>
 :PROPERTIES:
 :rating:   7.4
 :END:
