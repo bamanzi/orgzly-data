@@ -483,7 +483,7 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
       :rating:   7.6
       :END:
 
-**** Gods Among Us
+**** God Among Us
 ***** 3QTR [#A] TW6.1 - Future Pain :D2022_03_spinoffs:week1:
       CLOSED: [2022-03-18 Fri 07:07] SCHEDULED: <2022-03-30 Wed>
       :PROPERTIES:
@@ -509,13 +509,13 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
       :END:
 
 ***** TODO 6.5 Flight 405 :Norton:P2019:DW2022_08_spinoffs:
-      SCHEDULED: <2022-07-10 Sun>
-
 ***** TODO 6.6 Hostile Environment :DW2022_08_spinoffs:
-      SCHEDULED: <2022-07-05 Tue>
-
-***** 6.7 Another Man's Shoes :Norton:P2019:
-***** 6.8 Eye of the Storm :Norton:P2019:
+***** 6.7 Another Man's Shoes :Norton:P2019:DW2022_09_spinoffs:
+***** 6.8 Eye of the Storm :Norton:P2019:DW2022_09_spinoffs:
+***** 6.9 A Mother's Son
+***** 6.10 ScrapeJane
+***** 6.11 Day Zero
+***** 6.12 Thoughts and Prayers
 *** The Lives of Captain Jack :🎧:Jack:
 **** vol.1 :P2017:
 ***** HALF [#D] The Year After I Died
@@ -568,7 +568,7 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
       :rating:   8.0
       :END:
 
-***** DONE R&J :River:bilibili:
+***** DONE [#A] R&J :River:bilibili:
       CLOSED: <2020-09-21 Mon 20:30>
       :PROPERTIES:
       :rating:   9.5
@@ -577,7 +577,7 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
 【【神秘博士/火炬木广播剧翻译】R&J（博士、上校和宋江的超时空三角恋情！）-哔哩哔哩】https://b23.tv/IZfO0B
 
 *** Torchwood One :tw1:🎧:
-**** Torchwood One: Before the Fall :P2017:
+**** TW1 vol.1: Before the Fall :P2017:
 ***** 3QTR [#B] 1.1 New Girl :D2022_06_spinoffs:
       CLOSED: [2022-06-19 Sun 09:27] SCHEDULED: <2022-06-04 Sat>
       :PROPERTIES:
@@ -605,7 +605,7 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
       :rating:   8.2
       :END:
 
-**** Torchwood One: Latter Days :P2019:
+**** TW1 vol.3: Latter Days :P2019:
 ***** [#C] 3.1 - Retirement Plan
       :PROPERTIES:
       :rating:   7.9
@@ -621,7 +621,7 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
       :rating:   8.6
       :END:
 
-**** TWone 4: Nightmares :P2022_04:
+**** TW1 vol.4: Nightmares :P2022_04:
 ***** 4.1 My Guest Tonight
 ***** 4.2 Lola
 ***** 4.3 Less Majesty
@@ -799,7 +799,7 @@ Roberts Master
 
 **** START [#C] 6.4 The Talents of Greel        (7.8) :Jago:D2022_08_spinoffs:
 *** DoRS 7 :P2020:
-**** [#C] 7.1 Colony of Strangers         (7.7)
+**** [#C] 7.1 Colony of Strangers         (7.7) :DW2022_09_spinoffs:
 **** [#D] 7.2 Abbey of Heretics           (7.2)
 **** [#A] 7.3 Barrister to the Stars      (8.9)
 **** [#D] 7.4 Carnival of Angels          (7.0)
@@ -1098,7 +1098,7 @@ Roberts Master
      :END:
 
 **** [#E] +5.2 The Bone of Contention+
-**** [#B] 5.3 The Relics of Jegg-Sau
+**** [#B] 5.3 The Relics of Jegg-Sau :DW2022_09_spinoffs:
      :PROPERTIES:
      :rating:   8.1
      :END:
@@ -1138,23 +1138,23 @@ Roberts Master
 *** Series 11
 ** Bernice Summerfield (boxset)
 *** Boxset 1: Epoch :P2011:Atlantis:
-**** LATER [#B] 1.1 The Kraken's Lament :Jack_McSpringheel:
+**** [#B] 1.1 The Kraken's Lament :Jack_McSpringheel:DW2022_09_spinoffs:
      SCHEDULED: <2022-07-31 Sun>
      :PROPERTIES:
      :rating:   7.9
      :END:
 
-**** [#B] 1.2 The Temple of Questions :Ruth_Leonidas:DW2022_08_maybe:
+**** [#B] 1.2 The Temple of Questions :Ruth_Leonidas:DW2022_09_spinoffs:
      :PROPERTIES:
      :rating:   8.0
      :END:
 
-**** [#C] 1.3 Private Enemy No. 1 :Ruth_Leonidas:DW2022_09_maybe:
+**** [#C] 1.3 Private Enemy No. 1 :Ruth_Leonidas:
      :PROPERTIES:
      :rating:   7.8
      :END:
 
-**** [#B] 1.4 Judgement Day :Jack_McSpringheel:Ruth_Leonidas:DW2022_09_maybe:
+**** [#B] 1.4 Judgement Day :Jack_McSpringheel:Ruth_Leonidas:
      :PROPERTIES:
      :rating:   8.3
      :END:
@@ -1894,7 +1894,7 @@ Synopsis:  http://www.drwhoguide.com/kaldor01.htm
      SCHEDULED: <2021-12-31 Fri>
 
 *** PG: Heritage 2 :P2019:
-**** [#D] 2.1 - Dining with Death         (7.0)
+**** [#D] 2.1 - Dining with Death         (7.0) :DW2022_09_spinoffs:
 **** [#C] 2.2 - The Screaming Ceiling     (7.6)
 **** [#C] 2.3 - Spring-Heeled Jack        (7.7)
 *** PG: Heritage 3 :P2020:
@@ -2062,12 +2062,15 @@ Synopsis:  http://www.drwhoguide.com/kaldor01.htm
 *** TBR RTDC vol.2 Other Worlds :P2022_10:
 *** TBR RTDC vol.3 Trapped :P2023_09:
 ** Donna Nobel - Kidnapped :Donna:P2020:
-*** LATER [#B] 1. Out of this World (8.1) :bilibili:DW2022_08_spinoffs:
-    SCHEDULED: <2022-07-31 Sun>
+*** TODO [#B] 1. Out of this World (8.1) :bilibili:DW2022_09_spinoffs:
+    SCHEDULED: <2022-09-30 Fri>
 
 【【神秘博士广播剧熟肉】Kidnapped! 101 Out of this World 世界之外-哔哩哔哩】 https://b23.tv/By95ZJG
 
-*** [#C] 2. Spinvasion (7.8)
+*** [#C] 2. Spinvasion (7.8) :bilibili:
+
+【【神秘博士广播剧熟肉】Kidnapped! 102 Spinvasion 虚假宣传-哔哩哔哩】 https://b23.tv/bUsymNF
+
 *** [#E] +3. The Sorcerer of Albion+ (6.9)
 *** [#C] 4. The Chiswick Cuckoos (7.9) :10th_Dr:
 ** The Lone Centurion :Rory:

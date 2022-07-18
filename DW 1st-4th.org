@@ -210,7 +210,7 @@ SCHEDULED: <2022-02-24 Thu>
 Old Steven 1/3
 
 **** 📂CC9. First Doctor - Volume One
-***** [#B] 9.2 - The Unwinding World :Vicki:
+***** [#B] 9.2 - The Unwinding World :Vicki:Ian:Barbara:
 :PROPERTIES:
 :rating:   8.0
 :END:
@@ -232,7 +232,7 @@ Old Steven 3/3
 :rating:   8.5
 :END:
 
-***** [#B] 11.4 - The Plague of Dreams
+***** [#B] 11.4 - The Plague of Dreams :Polly:Ben:
 :PROPERTIES:
 :rating:   8.0
 :END:
@@ -928,7 +928,7 @@ SCHEDULED: <2022-03-30 Wed>
 **** [#D] CC6.0b - The Mists of Time (7.4)
 **** [#D] CC6.4 - The Many Deaths of Jo Grant (7.2)
 *** CC
-**** START [#C] CC2.3 - Old Soldiers
+**** START [#C] CC2.3 - Old Soldiers :Brigadier:
 :PROPERTIES:
 :rating:   7.5
 :END:
@@ -1126,7 +1126,7 @@ This time, Marshal Grinmal and his belligerent cohorts are ready for them. This 
 
 With the Doctor a prisoner on the Kraals' radiation-blasted home planet of Oseidon, only his companion Leela can save the day — alongside a most unlikely ally.
 
-**** 4DA series 2 :Romana_1:P2013:
+**** 4DA series 2 :Romana_1:P2013:scripted:
 ***** DONE [#B] 2.1 The Auntie Matter
 CLOSED: <2021-05-27 Thu 21:05>
 :PROPERTIES:
@@ -1187,7 +1187,7 @@ CLOSED: [2021-07-27 Tue 23:11]
 SCHEDULED: <2022-06-16 Thu>
 
 ***** [#D] 4.6 The Cloisters of Terror (7.4)
-***** [#D] 4.7 The Fate of Krelos (7.2)
+***** [#D] 4.7 The Fate of Krelos (7.2) :plot_yes:
 ***** CANCEL [#F] 4.8 Return to Telos (5.8)
 CLOSED: [2020-08-20 Thu 13:56]
 
@@ -1221,7 +1221,7 @@ Kingdom家族在Classic Who也有出现，Anya Kindom的姨妈Sara Kingdom也是
 
 Syndicate是41世纪创立的犯罪组织，其成员主要为银河理事会中的幸存者和星代表继承者，他们于4000年加入了Dalek的伟大联盟。在四任博士第八季广播剧中，Syndicate的主要任务是控制地球，并向博士复仇，在Anya Kingdomg几乎将Syndicate的成员杀干净之后，四任博士最终也彻底毁灭了这个组织。
 
-***** HALF [#E] 4DA 8.1 The Sinestran Kill :D2021_10_dr:Ann:plot_yes:
+***** HALF [#E] 8.1 - The Sinestran Kill :D2021_10_dr:Ann:plot_yes:
 SCHEDULED: <2021-11-05 Fri>
 :PROPERTIES:
 :rating:   6.8
