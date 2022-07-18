@@ -32,7 +32,7 @@ CLOSED: [2021-03-10 Wed 22:38]
 **** DONE [#B] 1x19. Tomorrow Is Yesterday (8.0)
 **** DONE [#C] 1x20. Court Martial                   (7.5)
 **** DONE [#D] 1x21. The Return of the Archons       (7.3)
-**** DONE [#A] 1x22. Space Seed (8.9) :Khan:
+**** DONE [#A] 1x22. Space Seed (8.9) :Khan:genetically_engineered:
 **** DONE [#B] 1x23. A Taste of Armageddon           (8.1)
 **** DONE [#B] 1x24. This Side of Paradise           (8.0)
 **** DONE [#B] 1x25. The Devil in the Dark           (8.4)
@@ -115,7 +115,7 @@ CLOSED: [2021-02-26 Fri 19:38]
 :rating:   7.7
 :END:
 
-*** DOING 📂TOS S3
+*** 📂TOS S3
 
 24 episodes
 
@@ -183,8 +183,8 @@ CLOSED: [2021-02-25 Thu 18:55]
 :rating:   
 :END:
 
-**** NOW [#C] 3x11 Wink of an Eye
-SCHEDULED: <2022-07-08 Fri>
+**** DONE [#C] 3x11 Wink of an Eye
+CLOSED: [2022-07-12 Tue 23:06] SCHEDULED: <2022-07-08 Fri>
 :PROPERTIES:
 :rating:   7.5
 :END:
@@ -252,8 +252,10 @@ CLOSED: [2022-05-31 Tue 06:44]
 **** DONE 1x08 The Magicks of Megas-Tu (6.0)
 CLOSED: [2022-07-09 Sat 21:05] SCHEDULED: <2022-07-10 Sun>
 
-**** NEXT 1x09 Once Upon a Planet (6.3)
-SCHEDULED: <2022-07-20 Wed>
+**** DONE 1x09 Once Upon a Planet (6.3) :tv_continuation:
+CLOSED: [2022-07-16 Sat 22:31] SCHEDULED: <2022-07-20 Wed>
+
+是 TOS 1x15 Shore Leave 的续集
 
 **** NEXT 1x10 Mudd's Passion (6.5)
 SCHEDULED: <2022-07-30 Sat>
@@ -277,7 +279,7 @@ CLOSED: [2021-04-01 Thu 18:43]
 **** 2x05 How Sharper Than a Serpent's Tooth	(6.5)
 **** [#D] 2x06 The Counter-Clock Incident (7.1)
 ** fan_made videos :fan_made:
-*** DOING 📂STC (2013) :📺:STC:
+*** 📂STC (2013) :📺:STC:
 
  11 episodes
 
@@ -287,21 +289,26 @@ CLOSED: [2021-03-09 Tue 20:13]
 **** DONE [#A] 2. Lolani 楼兰妮 (8.5) :Orion:
 CLOSED: [2021-03-31 Wed 23:00]
 
-**** DONE [#A] 3. Fairest of Them All 镜像 (9.1) :mirror_universe:
+**** DONE [#A] 3. Fairest of Them All 镜像 (8.9) :mirror_universe:
 CLOSED: [2022-05-18 Wed 19:03]
 
-**** DONE [#C] 4. The White Iris 鸢尾花 (7.9)
+**** DONE [#C] 4. The White Iris 鸢尾花 (7.7)
 CLOSED: [2021-04-10 Sat 11:54]
 
-**** DONE [#C] 5. Divided We Stand 内战 (7.9)
+**** DONE [#C] 5. Divided We Stand 内战 (7.5)
 CLOSED: [2022-07-03 Sun 15:08]
 
-**** NOW [#A] 6. Come Not Between the Dragons (8.5)
-SCHEDULED: <2022-07-16 Sat>
+**** DONE [#C] 6. Come Not Between the Dragons (7.9)
+CLOSED: [2022-07-15 Fri 19:34] SCHEDULED: <2022-07-16 Sat>
 
+**** [#D] 7. Embracing the Winds  (7.4)
+**** [#B] 8. Still Treads the Shadow  (8.1)
+**** [#A] 9. What Ships Are For  (8.6)
+**** [#A] 10. To Boldly Go: Part I  (9.1)
+**** [#A] 11. To Boldly Go: Part II  (9.4)
 ** movies :🎦:
 *** 2DONE 1. Star Trek: The Motion Picture 无限太空 :P1979:
-*** 2DONE 2. The Wrath of Khan 可汗怒吼 :P1982:Khan:
+*** 2DONE 2. The Wrath of Khan 可汗怒吼 :P1982:Khan:genetically_engineered:
 *** 2DONE 3. The Search for Spock 石破天惊 :P1984:
 *** 4. The Voyage Home 抢救未来 :P1986:
 *** 5. The Final Frontier 终极先锋 :P1989:
@@ -328,8 +335,8 @@ IDW Best of Star Trek vol.5
 
 *** Marvel Paramount (1996-1998)
 *** Wildstorm (1999-2001)
-**** TODO All of Me :IDIC:
-SCHEDULED: <2022-07-17 Sun>
+**** DONE All of Me :alternate_universe:
+CLOSED: <2022-07-11 Mon 23:38> SCHEDULED: <2022-07-17 Sun>
 
 **** Enter the Wolves :Sarek:
 
@@ -338,7 +345,7 @@ This story acts as a sequel to the novel /Sarek/ by A.C. Crispin, and as a p
 *** IDW
 **** New Visions :photonovel:
 ***** Strange New Worlds (Annual 2013) :tv_continuation:
-***** NEXT 01. The Mirror Cracked :mirror_universe:
+***** NEXT2 01. The Mirror Cracked :mirror_universe:
 SCHEDULED: <2022-08-01 Mon>
 
 ***** DONE Special: The Cage :tv_based:Pike:
@@ -377,12 +384,12 @@ a sequel to "The Enterprise Incident"
 
 **** _mini
 ***** DONE Mirror Images (镜像权路) :mirror_universe:hanzify:
-***** DONE Hell's Mirror :hanzify:mirror_universe:2020:Khan:
+***** DONE Hell's Mirror :hanzify:mirror_universe:P2020:Khan:genetically_engineered:
 CLOSED: [2021-02-22 Mon 13:04]
 
 ***** Misson's End
 ***** DONE Star Trek II: The Wrath of Khan :movie_adaptation:Khan:
-***** DONE Star Trek: Khan - Ruling in Hell :movie_continuation:Khan:
+***** DONE Star Trek: Khan - Ruling in Hell :movie_continuation:Khan:genetically_engineered:
 ***** DONE Spock Reflections :movie_continuation:Spock:
 ***** Leonard McCoy Frontier Doctor
 ***** Burden of Knowledge.
@@ -479,7 +486,7 @@ Captain Kirk and the crew of the USS Enterprise find themselves teamed wi
 
 **** IDW
 ***** DONE Klingons - Blood Will Tell :IDW:Klingons:hanzify:
-***** TODO New Visions: Strange New Worlds :tv_continuation:
+***** LATER New Visions: Strange New Worlds :tv_continuation:
 
  sequel story to the second pilot, "Where No Man Has Gone Before".
 
@@ -538,8 +545,8 @@ CLOSED: [2022-06-03 Fri 17:15] SCHEDULED: <2022-06-03 Fri>
 **** DONE [#C] 1x15 11001001 (7.5)
 **** CANCEL [#E] 1x16 Too Short a Season (6.2)
 **** CANCEL [#E] 1x17 When the Bough Breaks (6.4)
-**** TODO [#E] 1x18 Home Soil (6.9)
-SCHEDULED: <2022-07-14 Thu>
+**** DONE [#E] 1x18 Home Soil (6.9) :life_form:
+CLOSED: [2022-07-12 Tue 21:10] SCHEDULED: <2022-07-14 Thu>
 
 **** TODO [#D] 1x19 Coming of Age (7.2)
 SCHEDULED: <2022-07-17 Sun>
@@ -867,11 +874,11 @@ CLOSED: [2022-05-27 Fri 22:42] SCHEDULED: <2022-06-03 Fri>
 
 **** CANCEL [#E] 7x2. Liaisons             (6.7)
 **** CANCEL [#E] 7x3. Interface            (6.3)
-**** NOW [#C] 7x4. Gambit, Part I       (7.9)
-SCHEDULED: <2022-07-23 Sat>
+**** DONE [#C] 7x4. Gambit, Part I       (7.9)
+CLOSED: <2022-07-16 Sat 16:47> SCHEDULED: <2022-07-23 Sat>
 
-**** NOW [#B] 7x5. Gambit, Part II      (8.0)
-SCHEDULED: <2022-07-23 Sat>
+**** DONE [#B] 7x5. Gambit, Part II      (8.0)
+CLOSED: [2022-07-17 Sun 14:46] SCHEDULED: <2022-07-23 Sat>
 
 **** TODO [#C] 7x6. Phantasms            (7.7)
 SCHEDULED: <2022-07-30 Sat>
@@ -880,7 +887,7 @@ SCHEDULED: <2022-07-30 Sat>
 **** [#C] 7x8. Attached             (7.5)
 **** CANCEL [#E] 7x9. Force of Nature      (6.5)
 **** [#C] 7x10. Inheritance         (7.6)
-**** [#A] 7x11. Parallels           (8.8)
+**** [#A] 7x11. Parallels           (8.8) :alternate_universe:
 **** [#A] 7x12. The Pegasus         (8.6)
 **** [#D] 7x13. Homeward            (7.2)
 **** CANCEL [#E] 7x14. Sub Rosa            (5.1)
@@ -926,7 +933,7 @@ CLOSED: [2022-05-23 Mon 20:25]
 **** TNG vol.1 (1988)
 **** TNG vol.2 (1989-1996)
 ***** LATER 33-35. The Way of the Warrior / Devil's Brew / The Dogs of War :Q:
-***** LATER [#B] 47-50 The Worst of Both Worlds :⭐️:Borg:P1993:BoST:best:
+***** TODO [#B] 47-50 The Worst of Both Worlds :⭐️:Borg:P1993:BoST:best:
 SCHEDULED: <2022-08-01 Mon>
 
 IDW best of star trek vol.2
@@ -945,23 +952,28 @@ IDW best of star trek vol.2
 **** [TPB] TNG omnibus
 ***** The Space Between
 ***** Intelligence Gathering
-***** LATER [#C] The Last Generation
+***** NOW [#C] The Last Generation :alternate_universe:
+SCHEDULED: <2022-07-23 Sat>
+
 ***** Ghosts
 ***** LATER [#B] Hive :Borg:
 **** DONE The Next Generation/Doctor Who: Assimilation² :crossover:
 CLOSED: [2021-01-10 Sun 10:35]
 
-**** [#B] 📂TNG mirror_universe :mirror_universe:hanzify:
-***** DONE Mirror Broken （破碎镜像） :mirror_universe:
-***** DONE Through the Mirror （穿越镜像） :mirror_universe:
+**** 📂TNG mirror_universe :mirror_universe:hanzify:
+***** DONE [#B] Mirror Broken （破碎镜像） :mirror_universe:
+***** DONE [#B] Through the Mirror （穿越镜像） :mirror_universe:
 CLOSED: [2022-07-07 Thu 13:49] SCHEDULED: <2022-07-17 Sun>
 
-***** NEXT Terra Incognita （未知领域） :mirror_universe:
-SCHEDULED: <2022-07-17 Sun>
+***** DONE [#A] Terra Incognita （未知领域） :mirror_universe:
+CLOSED: [2022-07-15 Fri 13:18] SCHEDULED: <2022-07-17 Sun>
+
+除了最后一集，其它几集都跟镜像宇宙其实没什么关系。标题翻译为“未知领域”其实不对，Terra Incognita 原义更像是“潜行于地球”这类
 
 ***** NEXT2 Mirror War :P2022:
 SCHEDULED: <2022-07-31 Sun>
 
+**** DONE Deviations :alternate_universe:
 *** _best :⭐️:
 **** DONE Best of Star Trek TNG (DC) :DC:
 ***** DONE [#B] v2 #05-06 Serafin's Survivors :Geordi:P1990:
@@ -976,7 +988,7 @@ SCHEDULED: <2022-07-31 Sun>
 ***** Operation Assimilation (Marvel Paramount) :P1997:Romulans:Borg:Borg_Queen:
 **** Star Trek Classics (IDW)
 ***** DONE [#B] vol.1 The Gorn Crisis :Wildstorm:
-***** vol.2 Enemy Unseen :Wildstorm:P1999:
+***** [#C] vol.2 Enemy Unseen :Wildstorm:P1999:
 
 all Windstorm comics of TNG
 
@@ -997,6 +1009,14 @@ CLOSED: [2021-03-02 Tue 16:59]
 ****** DONE [#C] 06. Here Today
 CLOSED: [2021-03-02 Tue 16:59]
 
+**** Best of Picard :P2022:
+
+The Q Conflict, The Mirror Broken, DC Originals: TNG #1, Return to Raimon #1, and Picard #1.
+
+***** DONE The Q Conflict :IDW:
+***** DONE Mirror Broken :IDW:
+***** DC TNG #1
+***** DC TNG vol.2 #1 Return to Raimon
 ** short stories
 *** The Sky's the Limit
 *** Strange New Worlds VI
@@ -1098,7 +1118,7 @@ CLOSED: [2021-02-23 Tue 21:28]
 
 An alternate version of Vedek Bareil arrives from the "Mirror Universe" seeking refuge.
 
-**** DONE [#C] 6x09 Statistical Probabilities :Bashir:
+**** DONE [#C] 6x09 Statistical Probabilities :Bashir:genetically_engineered:
 CLOSED: [2021-02-16 Tue 12:47]
 :PROPERTIES:
 :rating:   7.7
@@ -1226,8 +1246,8 @@ CLOSED: [2022-06-25 Sat 19:21]
 **** DONE [#C] 7x4. Take Me Out to the Holosuite         (7.5)
 CLOSED: [2022-07-05 Tue 20:36]
 
-**** NOW [#D] 7x5. Chrysalis                            (7.1)
-SCHEDULED: <2022-07-16 Sat>
+**** DONE [#D] 7x5. Chrysalis                            (7.1) :genetically_engineered:
+CLOSED: [2022-07-13 Wed 08:08] SCHEDULED: <2022-07-16 Sat>
 
 **** TODO [#B] 7x6. Treachery, Faith and the Great River (8.4)
 SCHEDULED: <2022-07-23 Sat>
@@ -1328,7 +1348,7 @@ CLOSED: [2021-01-18 Mon 22:11]
 **** "Best Tools Available" by Shawn Michael Scott
 * VOY - Voyager :VOY:
 ** tv (1995-2001) :📺:
-*** DOING VOY S1
+*** VOY S1 :Y2371:
 **** DONE [#C] 1x01/02 Caretaker
 CLOSED: [2021-03-18 Thu 22:56]
 :PROPERTIES:
@@ -1410,16 +1430,18 @@ CLOSED: [2022-07-08 Fri 19:57] SCHEDULED: <2022-07-09 Sat>
 **** DONE [#D] 1x16 Learning Curve
 CLOSED: [2022-07-09 Sat 12:06] SCHEDULED: <2022-07-16 Sat>
 
-*** VOY S2
+*** VOY S2 :Y2372:
 
 26 issues
 
-**** TODO [#C] 2x01 The 37's
-SCHEDULED: <2022-07-23 Sat>
+**** DONE [#C] 2x01 The 37's
+CLOSED: [2022-07-11 Mon 23:17] SCHEDULED: <2022-07-23 Sat>
 
 **** CANCEL [#E] 2x02 Initiations (6.7)
-**** TODO [#B] 2x03 Projections
-SCHEDULED: <2022-07-30 Sat>
+**** DONE [#B] 2x03 Projections :EMH:Holodeck:
+CLOSED: [2022-07-16 Sat 10:36] SCHEDULED: <2022-07-30 Sat>
+
+EMH 玩了一回“全息小说”，陷入了自己到底是全息投影还是真人的迷惑。很有庄周梦蝶的感觉
 
 **** CANCEL [#F] 2x04 Elogium (6.1)
 **** [#D] 2x05 Non Sequitur
@@ -1444,7 +1466,7 @@ SCHEDULED: <2022-07-30 Sat>
 **** [#C] 2x24. Tuvix				 (7.7)
 **** [#C] 2x25. Resolutions			 (7.5)
 **** [#C] 2x26. Basics: Part I		(7.9)
-*** VOY S3
+*** VOY S3 :Y2373:
 **** [#B] 3x01. Basics: Part II       (8.0)
 **** [#C] 3x02. Flashback			   (7.9)
 **** CANCEL [#E] 3x03. The Chute			   (6.9)
@@ -1473,7 +1495,7 @@ SCHEDULED: <2022-07-30 Sat>
 **** DONE [#A] 3x26. Scorpion			   (8.9) :Borg:
 CLOSED: <2022-05-24 Tue 20:12> SCHEDULED: <2022-05-27 Fri>
 
-*** DOING VOY S4
+*** DOING VOY S4 :Y2374:
 **** DONE [#A] 4x01 Scorpion: Part II (8.8) :Borg:
 CLOSED: <2022-05-24 Tue 21:35> SCHEDULED: <2022-05-27 Fri>
 
@@ -1495,19 +1517,19 @@ CLOSED: [2022-06-14 Tue 23:15] SCHEDULED: <2022-06-05 Sun>
 **** DONE [#B] 4x07 Scientific Method		   (8.1)
 CLOSED: [2022-06-25 Sat 21:18]
 
-**** DONE [#A] 4x08 Year of Hell			   (8.8)
+**** DONE [#A] 4x08 Year of Hell			   (8.8) :alternate_universe:
 CLOSED: [2022-07-01 Fri 22:22]
 
 时间大战
 
-**** DONE [#A] 4x09 Year of Hell: Part II	   (8.6)
+**** DONE [#A] 4x09 Year of Hell: Part II	   (8.6) :alternate_universe:
 CLOSED: [2022-07-02 Sat 13:12]
 
 **** DONE [#D] 4x10 Random Thoughts		   (7.0)
 CLOSED: [2022-07-07 Thu 20:03] SCHEDULED: <2022-07-09 Sat>
 
-**** NOW [#E] 4x11 Concerning Flight		   (6.9)
-SCHEDULED: <2022-07-16 Sat>
+**** DONE [#E] 4x11 Concerning Flight		   (6.9) :Da_Vinci:
+CLOSED: [2022-07-14 Thu 21:08] SCHEDULED: <2022-07-16 Sat>
 
 **** TODO [#E] 4x12 Mortal Coil			   (6.9)
 SCHEDULED: <2022-07-23 Sat>
@@ -1528,7 +1550,7 @@ SCHEDULED: <2022-07-30 Sat>
 **** [#D] 4x24 Demon					   (7.2)
 **** [#B] 4x25 One					   (8.1)
 **** [#B] 4x26 Hope and Fear			   (8.2)
-*** VOY S5
+*** VOY S5 :Y2375:
 **** [#C] 5x01 Night                    (7.9)
 **** [#A] 5x02 Drone                    (8.6)
 **** CANCEL [#E] 5x03 Extreme Risk             (6.9)
@@ -1555,7 +1577,7 @@ SCHEDULED: <2022-07-30 Sat>
 **** [#A] 5x24 Relativity               (8.6)
 **** [#D] 5x25 Warhead                  (7.3)
 **** [#B] 5x26 Equinox: Part I          (8.5)
-*** VOY S6
+*** VOY S6 :Y2376:
 **** [#B] 6x01. Equinox: Part II            (8.3)
 **** [#C] 6x02. Survival Instinct           (7.7)
 **** CANCEL [#E] 6x03. Barge of the Dead           (6.5)
@@ -1582,7 +1604,7 @@ SCHEDULED: <2022-07-30 Sat>
 **** [#B] 6x24. Life Line                   (8.3)
 **** [#D] 6x25. The Haunting of Deck Twelve (7.3)
 **** [#B] 6x26. Unimatrix Zero              (8.1)
-*** VOY S7
+*** VOY S7 :Y2377:
 **** [#B] 7x01. Unimatrix Zero: Part II     (8.0)
 **** CANCEL [#E] 7x02. Imperfection                (0.0)
 **** CANCEL [#E] 7x03. Drive                       (0.0)
@@ -1618,7 +1640,9 @@ SCHEDULED: <2022-07-30 Sat>
 **** Voyager: Avalon Rising 阿瓦隆号崛起 :Wildstorm:hanzify:
 **** Planet Killer
 *** IDW
-**** Voyager: Mirrors and Smoke (环境迷雾) :mirror_universe:IDW:
+**** TODO Voyager: Mirrors and Smoke (镜像迷雾) :mirror_universe:IDW:Y2372:
+SCHEDULED: <2022-07-30 Sat>
+
 **** Voyager - Seven's Reckoning :2020:IDW:hanzify:
 ** short stories
 *** Strange New Worlds VI
@@ -1635,9 +1659,9 @@ SCHEDULED: <2022-07-30 Sat>
 **** "Preconceptions" by Penny A. Proctor
 **** "Cabin E-14" by Shane Zeranski
 * KTL - Kelvin Timeline (AOS) :KTL:
-** movies
+** movies :🎦:
 *** Star Trek (2009) :P2009:Y2387:
-*** Star Trek Into Darkness :P2013:Khan:
+*** Star Trek Into Darkness :P2013:Khan:genetically_engineered:
 *** Star Trek Beyond :P2016:
 ** comics :IDW:📚:
 *** on-going (2012-2016)
@@ -1659,7 +1683,7 @@ CLOSED: [2022-07-10 Sun 15:06] SCHEDULED: <2022-08-01 Mon>
 **** 2DONE 21-23 After Darkness :movie_continuation:
 **** 2DONE 24 Gorn
 **** 2DONE 25-28 The Khitomer Conflict :movie_continuation:
-**** DONE 29-30 Parallel Lives :mirror_universe:IDIC:
+**** DONE 29-30 Parallel Lives :alternate_universe:
 CLOSED: [2022-07-10 Sun 16:10] SCHEDULED: <2022-08-01 Mon>
 
 另一个宇宙，还是进取号，还是那些成员，但性别基本都是反的，船长 Kirk 和 大副 Spock 、医生等等都是女的，Uhuro 。本故事后来有了续集：Boldly Go #13-18
@@ -1669,21 +1693,21 @@ CLOSED: [2022-07-10 Sun 16:10] SCHEDULED: <2022-08-01 Mon>
 **** DONE 35-40 The Q Gambit :DS9:AOS:VOY:hanzify:Q:
 CLOSED: [2021-01-13 Wed 12:34]
 
-**** NEXT 41-54 Five-Year Mission
+**** LATER 41-54 Five-Year Mission
 SCHEDULED: <2022-08-01 Mon>
 
 ***** 41-42 Behemoth
 ***** 43-45 Five-Year Mission: Eurydice
 ***** OVERDUE 46-47 The Tholian Webs
 ***** 48-49 Diety
-***** TODO 50-52 Live evil :mirror_universe:
-SCHEDULED: <2022-07-14 Thu>
+***** DONE 50-52 Live evil :mirror_universe:Khan:
+CLOSED: <2022-07-15 Fri 19:16> SCHEDULED: <2022-07-14 Thu>
 
 ***** 53-54 Reunion
 **** 2DONE 55-58 Legacy of Spock :Spock:
 **** 59-60 final
 *** 2DONE Star Trek: Boldly Go
-**** TODO IDIC #13-18 :IDIC:hanzify:
+**** TODO IDIC #13-18 :alternate_universe:hanzify:
 SCHEDULED: <2022-07-24 Sun>
 
 *** KTL movie line
@@ -1823,11 +1847,11 @@ CLOSED: [2022-06-08 Wed 08:32]
 **** DONE 1x02 Children of the Comet
 CLOSED: [2022-07-02 Sat 23:03]
 
-**** DONE 1x03 Ghosts of Illyria
+**** DONE 1x03 Ghosts of Illyria :genetically_engineered:
 CLOSED: [2022-07-10 Sun 19:03] SCHEDULED: <2022-07-09 Sat>
 
-**** TODO 1x04
-SCHEDULED: <2022-07-16 Sat>
+**** DONE 1x04 Momento Mori
+CLOSED: [2022-07-16 Sat 14:49] SCHEDULED: <2022-07-16 Sat>
 
 **** TODO 1x05
 SCHEDULED: <2022-07-23 Sat>
@@ -1855,11 +1879,11 @@ TOS 试播集The Cage开篇提到了这次在 Rigel VII 上的遭遇，然后 Te
 **** DONE 05-06. Cloak & Dagger
 CLOSED: [2022-07-10 Sun 10:38] SCHEDULED: <2022-07-17 Sun>
 
-**** TODO 07. The Flat, Gold Forever
-SCHEDULED: <2022-07-24 Sun>
+**** DONE 07. The Flat, Gold Forever
+CLOSED: [2022-07-16 Sat 07:31] SCHEDULED: <2022-07-24 Sun>
 
-**** TODO 08. Immortal Wounds
-SCHEDULED: <2022-07-24 Sun>
+**** DONE 08. Immortal Wounds
+CLOSED: [2022-07-16 Sat 07:50] SCHEDULED: <2022-07-24 Sun>
 
 **** 09. One of a Kind
 SCHEDULED: <2022-07-31 Sun>
@@ -1880,8 +1904,8 @@ CLOSED: [2022-07-10 Sun 14:04]
 
 进取号在一个星球上遭遇了地球人，他们分成五个族群相互战争，结果发现他们是当初 Gary Seven 传送过来的克隆士兵。与 IDW 的 Operation Earth 系列故事相关
 
-**** TODO 05. The Ends of Eternity
-SCHEDULED: <2022-07-17 Sun>
+**** DONE 05. The Ends of Eternity
+CLOSED: [2022-07-16 Sat 07:03] SCHEDULED: <2022-07-17 Sun>
 
 *** DONE New Visions special: The Cage :tv_based:idw:Talosians:
 CLOSED: [2022-07-07 Thu 22:46]
@@ -1918,8 +1942,8 @@ CLOSED: [2022-06-25 Sat 00:45]
 **** DONE 1x07 Much Ado About Boimler
 CLOSED: [2022-07-09 Sat 21:01] SCHEDULED: <2022-07-09 Sat>
 
-**** TODO 1x08 Veritas
-SCHEDULED: <2022-07-16 Sat>
+**** DONE 1x08 Veritas
+CLOSED: [2022-07-14 Thu 21:45] SCHEDULED: <2022-07-16 Sat>
 
 **** TODO 1x09 Crisis Point
 SCHEDULED: <2022-07-23 Sat>
@@ -1978,7 +2002,6 @@ CLOSED: [2021-01-13 Wed 12:45]
 **** _misc
 ***** Star Trek: New Frontier
 ***** DONE Assignment Earth
-***** DONE Deviations
 **** crossovers
 ***** The Next Generation/Doctor Who: Assimilation2 :doctor_who:11D:tng:
 ***** Star Trek/Planet of the Apes
@@ -1996,7 +2019,7 @@ CLOSED: [2021-01-13 Wed 12:45]
 ****** Alien Spotlight: Q
 ****** Captain's Log: Pike
 ****** Alien Spotlight: Gorn
-****** [#B] Khan - Ruling in Hell #1
+****** DONE [#B] Khan - Ruling in Hell :genetically_engineered:
 ***** 2012 Summer
 ****** DONE Embrace the Wolf :TNG:Wildstorm:
 CLOSED: [2022-05-27 Fri 08:46]
@@ -2019,11 +2042,15 @@ CLOSED: [2022-05-27 Fri 08:46]
 
 https://memory-beta.fandom.com/wiki/Strange_New_Worlds_II
 
-**** [#A] "Triptych" by Melissa Dickinson (Second Prize) :TOS:
+**** TODO [#A] "Triptych" by Melissa Dickinson (Second Prize) :TOS:alternate_universe:
+SCHEDULED: <2022-07-27 Wed>
+
 **** "The Quick and the Dead" by Kathy Oltion :TOS:
 **** "The First Law of Metaphysics" by Michael S. Poteet :TOS:
 **** "The Hero of My Own Life" by Peg Robinson :TOS:
-**** "Doctors Three" by Charles Skaggs :TOS:
+**** TODO "Doctors Three" by Charles Skaggs :TOS:
+SCHEDULED: <2022-07-23 Sat>
+
 **** DONE [#A] "I Am Klingon" by Ken Rand (Third Prize) :TNG:Klingons:
 CLOSED: [2022-05-27 Fri 16:39]
 
@@ -2031,15 +2058,17 @@ The Enterprise-D discovers a century-old Klingon "lifeboat," with an unusual
 
 进取号打捞到一艘100年前的救生船，里面有一个没有头脊的克林贡人，Worf 了解到了一段被刻意遗忘的往事。这个克林贡人身体已经撑不了24小时，Worf 不想将他送回克林贡，而是打算让他带着荣誉死去，同时也可以洗清对方家族的名声
 
-**** "Reciprocity" by Brad Curry :TNG:
+**** TODO "Reciprocity" by Brad Curry :TNG:
+SCHEDULED: <2022-07-23 Sat>
+
 **** "Calculated Risk" by Christina F. York :TNG:
 **** "Gods, Fate, and Fractals" by William Leisner :TNG:
-**** NEXT "I Am Become Death" by Franklin Thatcher :TNG:Data:Lore:
+**** "I Am Become Death" by Franklin Thatcher :TNG:Data:Lore:
 SCHEDULED: <2022-06-05 Sun>
 
 In the far future of an alternate timeline, humanoid life is extinct, replaced by a race of androids begun by Data.
 
-**** "Research" by J. R. Rasmussen :DS9:
+**** TODO "Research" by J. R. Rasmussen :DS9:
 **** "Change of Heart" by Steven Scott Ripley :DS9:
 **** [#A] "A Ribbon for Rosie" by Ilsa J. Bick (Grand Prize) :VOY:
 **** "Touched" by Kim Sheard :VOY:
@@ -2051,7 +2080,9 @@ In the far future of an alternate timeline, humanoid life is extinct, replaced b
 
 https://memory-beta.fandom.com/wiki/Strange_New_Worlds_IV
 
-**** "A Little More Action" by TG Theodore :TOS:
+**** NOW "A Little More Action" by TG Theodore :TOS:
+SCHEDULED: <2022-07-23 Sat>
+
 **** "Prodigal Father" by Robert J. Mendenhall :TOS:
 **** "Missed" by Pat Detmer :TOS:
 **** "Tears for Eternity" by Lynda Martinez Foley :TOS:
@@ -2083,8 +2114,10 @@ https://memory-beta.fandom.com/wiki/Strange_New_Worlds_VI
 **** "Marking Time" by Pat Detmer :TOS:
 **** "Ancient History" by Robert J. Mendenhall :TOS:
 **** "Bum Radish: Five Spins on a Turquoise Reindeer" by TG Theodore :TOS:
-**** NOW "A Piece of the Pie" by G. Wood :TOS:
-SCHEDULED: <2022-07-17 Sun>
+**** DONE "A Piece of the Pie" by G. Wood :TOS:
+CLOSED: [2022-07-17 Sun 22:32] SCHEDULED: <2022-07-17 Sun>
+
+A Piece of Action 的后续
 
 **** DONE [#A] "The Soft Room" by Geoffrey Thorne (Second Prize) :TNG:
 **** "Protecting Data's Friends" by Scott William Carter :TNG:
@@ -2244,8 +2277,8 @@ CLOSED: [2022-06-20 Mon 23:48]
 **** DONE 3x02
 CLOSED: [2022-07-09 Sat 20:21] SCHEDULED: <2022-07-09 Sat>
 
-**** TODO 3x03
-SCHEDULED: <2022-07-16 Sat>
+**** DONE 3x03
+CLOSED: [2022-07-15 Fri 08:19] SCHEDULED: <2022-07-16 Sat>
 
 **** TODO 3x04
 SCHEDULED: <2022-07-23 Sat>
