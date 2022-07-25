@@ -26,7 +26,7 @@ SCHEDULED: <2021-11-04 Thu>
 【【广播剧翻译】墓地星球中针对博士的阴谋 九任冒险集 203 Planet of the End-哔哩哔哩】 https://b23.tv/uwJY0f7
 
 **** S1.3 Lost Warriors :P2021_11:
-***** [#E] 3.1. The Hunting Season :D2022_Q2:
+***** [#E] 3.1. The Hunting Season
 :PROPERTIES:
 :rating:   6.8
 :END:
@@ -61,7 +61,7 @@ CLOSED: [2022-07-03 Sun 17:05] SCHEDULED: <2022-07-06 Wed>
 
 【【广播剧翻译】九叔与老年准将 九任冒险集：老朋友 402 Way of the Burryman-哔哩哔哩】 https://b23.tv/HfJuOyt
 
-***** TODO [#B] 4.3 The Forth Generation :Cybermen:DW2022_07_doctor:
+***** START [#B] 4.3 The Forth Generation :Cybermen:DW2022_07_doctor:
 SCHEDULED: <2022-07-23 Sat>
 :PROPERTIES:
 :rating:   8.2
@@ -120,9 +120,10 @@ In the aftermath of the Time War, the Doctor has no time to mourn. But how can h
 
 **** #2. Legacy of the Slitheen
 ** novels :📔:
-*** TOBUY [#B] The Stealers of Dreams 盗梦贼 :Kindle己购:
+*** TODO2 [#B] The Stealers of Dreams 盗梦贼 :Kindle己购:
 :PROPERTIES:
 :rating:   3.88
+:todo:     buy
 :END:
 
 *** DONE [#B] Only Human 人类唯一 :已购:Rose:Jack:
@@ -277,7 +278,8 @@ SCHEDULED: <2022-01-16 Sun>
 
 【【神秘博士广播剧熟肉】The 10th Doctor Adventures 301 No Place-哔哩哔哩】 https://b23.tv/ID4AEtu
 
-***** READY [#C] 10DA 3.2 - One Mile Down :bilibili:
+***** READY [#C] 10DA 3.2 - One Mile Down :bilibili:DW2022_08_doctor:
+SCHEDULED: <2022-08-20 Sat>
 :PROPERTIES:
 :rating:   7.6
 :END:
@@ -308,8 +310,8 @@ CLOSED: [2021-06-18 Fri 10:25]
 
 【【David Tennant】BigFinish广播剧The Tenth Doctor and River Song-Precious Annihilation-哔哩哔哩】 https://b23.tv/ACUaNVw
 
-**** TODO [#B] 10D&RS 3. Ghosts :bilibili:DW2022_08_doctor:
-SCHEDULED: <2021-09-30 Thu>
+**** TODO [#B] 10D&RS 3. Ghosts :bilibili:DW2022_12_doctor:
+SCHEDULED: <2022-08-20 Sat>
 :PROPERTIES:
 :rating:   8.3
 :END:
@@ -468,9 +470,10 @@ CLOSED: <2021-10-16 Sat 10:18>
 :rating:   3.95
 :END:
 
-*** TOBUY [#B] Stone Rose 石中女神 :Kindle己购:Rose:
+*** TODO2 [#B] Stone Rose 石中女神 :Kindle己购:Rose:
 :PROPERTIES:
 :rating:   3.92
+:todo:     buy
 :END:
 
 *** READY [#B] The Story of Martha 玛莎的故事 :Kindle己购:己购:
@@ -505,7 +508,7 @@ CLOSED: [2022-07-04 Mon 08:12]
 **** DONE 6x07 A Good Man Goes to War :River:
 ** audio :🎧:
 *** 11DC vol.1 :🗣:
-**** TODO [#D] 1.1 - The Calendar Man :DW2022_07_doctor:
+**** HALF [#D] 1.1 - The Calendar Man :DW2022_07_doctor:
 SCHEDULED: <2022-07-23 Sat>
 :PROPERTIES:
 :rating:   7.3
@@ -640,10 +643,10 @@ CLOSED: [2020-08-16 Sun 17:00]
 * 12th Doctor :12th_Dr:
 ** tv :📺:
 *** S10
-**** DONE 10x11 World Enough and Time :cybermen:D2022_Q4:
+**** DONE 10x11 World Enough and Time :cybermen:
 CLOSED: <2021-09-23 Thu 11:39>
 
-**** DONE 10x12 The Doctor Falls :Cybermen:D2022_Q4:
+**** DONE 10x12 The Doctor Falls :Cybermen:
 CLOSED: [2021-09-24 Fri 08:10]
 
 ** audio :🎧:
@@ -655,6 +658,7 @@ DEADLINE: <2022-06-23 Thu 22:40> SCHEDULED: <2022-06-19 Sun>
 :END:
 
 **** TODO [#C] 1.2 War Wounds :Danny_Pink:DW2022_08_doctor:
+SCHEDULED: <2022-08-20 Sat>
 :PROPERTIES:
 :rating:   7.5
 :END:
@@ -803,15 +807,11 @@ SCHEDULED: <2022-05-07 Sat>
 
 【【会动的广播剧|双语字幕】十三的第一部广播剧《神秘博士：删改》第一集《求救信号》| Redacted-哔哩哔哩】 https://b23.tv/5ieRpAk
 
-**** TODO [#C] 02: Hysteria :D2022_05_doctor:bilibili:
+**** HALF [#C] 02: Hysteria :D2022_05_doctor:bilibili:
 SCHEDULED: <2022-05-31 Tue>
 
-**** TODO [#C] 03: Lost :DW2022_07_doctor:
-SCHEDULED: <2022-07-23 Sat>
-
-**** TODO [#B] 04. Angels :DW2022_07_doctor:
-SCHEDULED: <2022-07-30 Sat>
-
+**** [#C] 03: Lost
+**** [#B] 04. Angels
 **** [#D] 05. Interrogation
 ** comics
 *** Titan Comics :📚:Titan:

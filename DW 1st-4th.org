@@ -60,7 +60,7 @@ Episode 4 missing (but animated in 2013).
 ** audio :🎧:
 *** EA
 **** EA S1
-***** TODO [#C] EA1.1 Domain of the Voord :Susan:Ian:Barbara:Voord:plot_yes:D2022_Q4:
+***** TODO [#C] EA1.1 Domain of the Voord :Susan:Ian:Barbara:Voord:plot_yes:DW2022_11_doctor:
 
 应该先看老版剧集 1x05 The Keys of Marinus
 
@@ -227,7 +227,7 @@ Old Steven 2/3
 Old Steven 3/3
 
 **** 📂CC11. First Doctor - Volume Two :scripted:
-***** [#A] CC11.2 - Across the Darkened City
+***** [#A] 11.2 - Across the Darkened City
 :PROPERTIES:
 :rating:   8.5
 :END:
@@ -342,7 +342,7 @@ Episode 2,4,5,6 missing (but all episodes animated in 2020)
 -  微博介绍: [[https://m.weibo.cn/1910110560/4348385387213052]]
 -  字幕文件下载: [[https://secure.assrt.net/xml/sub/624/624128.xml]]
 
-**** [#C] +The Abominable Snowmen+ (7.5) :great_intelligence:missing:DW2022_07_extra:
+**** [#C] +The Abominable Snowmen+ (7.5) :great_intelligence:missing:DW2022_08_extra:
 SCHEDULED: <2022-07-29 Fri>
 
 (总6集, 仅第2集幸存, 未做中文字幕)
@@ -516,7 +516,7 @@ SCHEDULED: <2021-12-15 Wed>
 ***** DONE [#A] 6.2 Daughter of the Gods (9.2) :Jamie:Zoe:Steven:Katarina:Daleks:P2019:D2021_04:
 CLOSED: <2021-04-30 Fri 22:59>
 
-*** TBR Beyond War Games :P2022_07:
+*** Beyond War Games :P2022_07:
 **** The Final Beginning :Daleks:
 **** Wrath of the Ice Warriors :Brigadier:ice_warriors:
 *** Companion Chronicles :🗣:
@@ -555,17 +555,18 @@ CLOSED: <2021-07-30 Fri 16:14>
 
 与 Highlanders 相关
 
-**** READY [#C] 5.9 - The Forbidden Time :Polly:plot_yes:
+**** [#C] 5.9 - The Forbidden Time :Polly:plot_yes:
 :PROPERTIES:
 :rating:   7.5
 :END:
 
-**** READY [#C] 6.1 Tales From the Vault :Ruth:UNIT:plot_yes:
+**** TODO [#C] 6.1 Tales From the Vault :Ruth:UNIT:plot_yes:DW2022_08_doctor:
 :PROPERTIES:
 :rating:   7.5
 :END:
 
-**** READY [#C] 6.8 - The Selachian Gambit :Polly:Jamie:plot_yes:D2022_08_doctor:
+**** READY [#C] 6.8 - The Selachian Gambit :Polly:Jamie:plot_yes:
+SCHEDULED: <2022-08-30 Tue>
 :PROPERTIES:
 :rating:   7.7
 :END:
@@ -613,7 +614,8 @@ SCHEDULED: <2021-10-03 Sun>
 :rating:   7.3
 :END:
 
-***** [#B] CC12.4 - The Tactics of Defeat :Ruth:Zoe:UNIT:DW2022_08_doctor:
+***** TODO [#B] CC12.4 - The Tactics of Defeat :Ruth:Zoe:UNIT:
+SCHEDULED: <2022-08-20 Sat>
 :PROPERTIES:
 :rating:   8.1
 :END:
@@ -644,7 +646,7 @@ SCHEDULED: <2022-06-05 Sun>
 
 https://chriswalkerthomson.com/dwthemissingadventures/
 
-**** START MA1. Red Snow :D2022_01_extra:
+**** START MA1. Red Snow :ice_warriors:D2022_01_extra:
 SCHEDULED: <2022-01-30 Sun>
 
 https://m.vk.com/wall-205306392_45
@@ -665,22 +667,22 @@ https://m.vk.com/wall-205306392_45
 :rating:   7.0
 :END:
 
-**** [#C] 7.8 - The British Invasion
+**** TODO [#C] 7.8 - The British Invasion
 :PROPERTIES:
 :rating:   7.5
 :END:
 
-**** [#B] 8.X - The Last Day At Work
+**** TODO [#B] 8.X - The Last Day At Work
 :PROPERTIES:
 :rating:   8.1
 :END:
 
-**** [#C] 10.2 - Deleted Scenes
+**** TODO [#C] 10.2 - Deleted Scenes
 :PROPERTIES:
 :rating:   7.8
 :END:
 
-**** [#B] STS#3. Lepidoptery for Beginners
+**** TODO [#B] STS#3. Lepidoptery for Beginners
 :PROPERTIES:
 :rating:   8.3
 :END:
@@ -1058,7 +1060,9 @@ CLOSED: <2020-08-03 Mon 18:24>
 
 sequel: Torchwood #25 Night of the Fendahl
 
-**** [#C] 15x04 - The Sun Makers †7.8) :DW2022_08_extra:
+**** TODO [#C] 15x04 - The Sun Makers †7.8) :DW2022_08_extra:
+SCHEDULED: <2022-08-31 Wed>
+
 **** CANCEL [#E] 15x05 - Underworld †6.2)
 **** DONE [#C] 15x06 - The Invasion of Time †7.7)
 *** S16 :Romana_1:
@@ -1204,7 +1208,9 @@ CLOSED: <2021-07-01 Thu 16:39>
 ***** [#D] 6.5 - The Haunting of Malkin Place (7.4)
 ***** [#D] 6.8 - The Skin of the Sleek (7.2)
 **** 4DA series 7 :Leela:P2018:
-***** TODO [#C] 7.1 The Sons of Kaldor (7.7) :Kaldor:Robots:D2022_08_doctor:
+***** TODO [#C] 7.1 The Sons of Kaldor (7.7) :Kaldor:Robots:
+SCHEDULED: <2022-08-30 Tue>
+
 ***** [#C] 7.2 The Crowmarsh Experiment (7.6)
 ***** [#C] 7.6 The Bad Penny (7.5)
 ***** TODO [#C] 7.7/7.8 - Kill the Doctor! / The Age of Sutekh (7.8/7.0) :Sutekh:
@@ -1261,6 +1267,7 @@ CLOSED: [2020-07-15 Wed 19:13]
 **** [#A] LS 2.07 - The Foe from the Future  8.9 :Leela:
 **** [#C] LS 2.08 - The Valley of Death 7.7 :Leela:
 **** TODO [#B] LS6.1 - Return of the Cybermen :Cybermen:DW2022_08_doctor:
+SCHEDULED: <2022-08-13 Sat>
 :PROPERTIES:
 :rating:   8.1
 :END:
