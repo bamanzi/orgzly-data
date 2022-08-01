@@ -74,8 +74,8 @@ Episode 4 missing (but animated in 2013).
 :rating:   7.7
 :END:
 
-***** HALF [#C] EA1.4 - An Ordinary Life :Steven:Sara_Kingdom:plot_yes:DW2022_07_doctor:
-SCHEDULED: <2022-07-16 Sat>
+***** DONE [#C] EA1.4 - An Ordinary Life :Steven:Sara_Kingdom:plot_yes:DW2022_07_doctor:
+CLOSED: [2022-07-31 Sun 08:14] SCHEDULED: <2022-07-16 Sat>
 
 **** EA S3
 ***** [#B] EA 3.3 The Ravelli Conspiracy (8.0) :plot_no:
@@ -95,7 +95,6 @@ CLOSED: [2021-11-01 Mon 22:54] SCHEDULED: <2021-11-01 Mon>
 :END:
 
 ***** LATER [#C] EA7.2 The Secrets of Det-Sen :plot_simple:DW2022_09_doctor:
-SCHEDULED: <2022-07-31 Sun>
 :PROPERTIES:
 :rating:   7.8
 :END:
@@ -162,7 +161,8 @@ SCHEDULED: <2021-11-06 Sat>
 :rating:   8.5
 :END:
 
-**** 3QTR [#C] 1.1 Frostfire :Vicki:Steven:scripted:plot_yes:bilibili:D2022_05_doctor:
+**** Vicki
+***** 3QTR [#C] 1.1 Frostfire :Vicki:Steven:scripted:plot_yes:bilibili:D2022_05_doctor:
 CLOSED: [2022-05-27 Fri 11:35] SCHEDULED: <2022-05-28 Sat>
 :PROPERTIES:
 :rating:   7.8
@@ -170,38 +170,34 @@ CLOSED: [2022-05-27 Fri 11:35] SCHEDULED: <2022-05-28 Sat>
 
 【Doctor Who (1963) 广播剧 - Frostfire 霜火 【听译字幕】-哔哩哔哩】 https://b23.tv/ZUuW5gR
 
-**** [#B] CC3.7 - The Transit of Venus
-:PROPERTIES:
-:rating:   8.3
-:END:
-
-**** [#B] 4.7 - The Suffering :Vicki:Steven:
+***** [#B] 4.7 - The Suffering :Vicki:Steven:
 :PROPERTIES:
 :rating:   8.1
 :END:
 
-**** [#A] CC5.12 The Cold Equations
+***** [#B] 9.2 - The Unwinding World :Vicki:Ian:Barbara:
+:PROPERTIES:
+:rating:   8.0
+:END:
+
+**** Steven
+***** [#A] CC5.12 The Cold Equations :Steven:
 :PROPERTIES:
 :rating:   8.5
 :END:
 
-**** 2DONE [#B] CC6.2 The Rocket Man :Ian:D2021_06:
-CLOSED: [2021-06-26 Sat 09:13]
-:PROPERTIES:
-:rating:   8.3
-:END:
-
-**** [#B] CC6.5 - The First Wave
+***** [#B] CC6.5 - The First Wave :Steven:
 :PROPERTIES:
 :rating:   8.4
 :END:
 
-**** HALF [#B] CC7.5 - Return of the Rocket Men :Steven:D2021_06:
+***** HALF [#B] CC7.5 - Return of the Rocket Men :Steven:D2021_06:
 :PROPERTIES:
 :rating:   8.2
 :END:
 
-**** START [#B] 8.10 The War to End All Wars :Steven:D2022_02_doctor:
+***** Old Steven trilogy
+****** START [#B] 8.10 The War to End All Wars :Steven:D2022_02_doctor:
 SCHEDULED: <2022-02-24 Thu>
 :PROPERTIES:
 :rating:   8.0
@@ -209,45 +205,68 @@ SCHEDULED: <2022-02-24 Thu>
 
 Old Steven 1/3
 
-**** 📂CC9. First Doctor - Volume One
-***** [#B] 9.2 - The Unwinding World :Vicki:Ian:Barbara:
-:PROPERTIES:
-:rating:   8.0
-:END:
-
-***** 9.3 The Founding Fathers :Steven:
+****** 9.3 The Founding Fathers :Steven:
 
 Old Steven 2/3
 
-***** [#A] 9.4 - The Locked Room :Steven:
+****** [#A] 9.4 - The Locked Room :Steven:
 :PROPERTIES:
 :rating:   8.5
 :END:
 
 Old Steven 3/3
 
-**** 📂CC11. First Doctor - Volume Two :scripted:
-***** [#A] 11.2 - Across the Darkened City
+***** [#A] 11.2 - Across the Darkened City :Steven:scripted:
 :PROPERTIES:
 :rating:   8.5
 :END:
 
-***** [#B] 11.4 - The Plague of Dreams :Polly:Ben:
+***** [#B] 13.3 - The Vardan Invasion of Mirth :Steven:
 :PROPERTIES:
 :rating:   8.0
 :END:
 
-**** 📂CC13. First Doctor - Volume Three
-***** [#B] 13.3 - The Vardan Invasion of Mirth
+**** Ian
+***** [#B] CC3.7 - The Transit of Venus :Ian:Barbara:
+:PROPERTIES:
+:rating:   8.3
+:END:
+
+***** 2DONE [#B] CC6.2 The Rocket Man :Ian:D2021_06:
+CLOSED: [2021-06-26 Sat 09:13]
+:PROPERTIES:
+:rating:   8.3
+:END:
+
+***** [#C] 7.1 - The Time Museum
+:PROPERTIES:
+:rating:   7.7
+:END:
+
+***** [#C] 7.7 The Flames of Cadiz :Ian:Susan:
+:PROPERTIES:
+:rating:   7.8
+:END:
+
+***** [#B] 7.10 - The Library of Alexandria
 :PROPERTIES:
 :rating:   8.0
 :END:
 
-***** [#D] 13.4 - The Crumbling Magician
+**** Polly
+***** [#B] 11.4 - The Plague of Dreams :Polly:Ben:scripted:
+:PROPERTIES:
+:rating:   8.0
+:END:
+
+***** [#D] 13.4 - The Crumbling Magician :Polly:
 :PROPERTIES:
 :rating:   7.4
 :END:
 
+**** 📂CC9. First Doctor - Volume One
+**** 📂CC11. First Doctor - Volume Two :scripted:
+**** 📂CC13. First Doctor - Volume Three
 *** Lost Stories
 **** [#A] 2.1a - Farewell Great Macedon :scripted:3CD:
 :PROPERTIES:
@@ -342,7 +361,7 @@ Episode 2,4,5,6 missing (but all episodes animated in 2020)
 -  微博介绍: [[https://m.weibo.cn/1910110560/4348385387213052]]
 -  字幕文件下载: [[https://secure.assrt.net/xml/sub/624/624128.xml]]
 
-**** [#C] +The Abominable Snowmen+ (7.5) :great_intelligence:missing:DW2022_08_extra:
+**** [#C] +The Abominable Snowmen+ (7.5) :great_intelligence:missing:DW2022_10_extra:
 SCHEDULED: <2022-07-29 Fri>
 
 (总6集, 仅第2集幸存, 未做中文字幕)
@@ -560,13 +579,8 @@ CLOSED: <2021-07-30 Fri 16:14>
 :rating:   7.5
 :END:
 
-**** TODO [#C] 6.1 Tales From the Vault :Ruth:UNIT:plot_yes:DW2022_08_doctor:
-:PROPERTIES:
-:rating:   7.5
-:END:
-
-**** READY [#C] 6.8 - The Selachian Gambit :Polly:Jamie:plot_yes:
-SCHEDULED: <2022-08-30 Tue>
+**** HALF [#C] 6.8 - The Selachian Gambit :Polly:Jamie:plot_yes:DW2022_08_doctor:
+SCHEDULED: <2022-08-10 Wed>
 :PROPERTIES:
 :rating:   7.7
 :END:
@@ -672,7 +686,7 @@ https://m.vk.com/wall-205306392_45
 :rating:   7.5
 :END:
 
-**** TODO [#B] 8.X - The Last Day At Work
+**** TODO [#B] 8.X - The Last Day At Work :Jamie:
 :PROPERTIES:
 :rating:   8.1
 :END:
@@ -764,7 +778,6 @@ CLOSED: [2021-07-27 Tue 23:10]
 :END:
 
 **** LATER [#C] 2.2 The Hidden Realm :Jo:plot_yes:DW2022_09_doctor:
-SCHEDULED: <2022-07-31 Sun>
 :PROPERTIES:
 :rating:   7.5
 :END:
@@ -941,7 +954,6 @@ SCHEDULED: <2022-03-30 Wed>
 :END:
 
 **** LATER [#C] CC7.12 - Council of War :Benton:Brigadier:DW2022_09_maybe:
-SCHEDULED: <2022-07-31 Sun>
 :PROPERTIES:
 :rating:   7.7
 :END:
@@ -966,7 +978,10 @@ As the decade in English history which attracts the greatest quantity of alien i
 
 To escape his Earth exile, the Doctor is prepared to make any bargain, come to any arrangement, or to do any deal with any devil – even if in this case the Devil wears a monk's robes. But when past misdeeds start catching up with both the Doctor and the Monk, who can Liz Shaw trust when time is running out and death is rapidly approaching?
 
-**** READY [#C] ST7.X Landbound †7.6 :scripted:no_companion:
+**** READY [#C] ST7.X Landbound †7.6 :scripted:no_companion:bilibili:
+
+【【神秘博士】短途旅行：以陆为牢 | Short Trips: Landbound-哔哩哔哩】 https://b23.tv/hbxNYVJ
+
 **** CANCEL [#E] 10.03 Decline of the Ancient Mariner †4.2 :Sarah:
 CLOSED: [2020-06-25 Thu 21:52]
 
@@ -1260,14 +1275,14 @@ CLOSED: [2020-07-15 Wed 19:13]
 ***** [#A] 11.1 Blood of the Time Lords :Master_early:
 ***** [#B] 11.2 The Ravencliff Witch :Margaret:
 ***** [#B] 11.3 The Dreams of Avaice :The_Nine:
-***** [#E] 11.4 Shellshock
+***** [#D] 11.4 Shellshock
 ***** [#D] 11.5 Peake Season
 **** TBR 4DA series 12 :Leela:Margaret:P2023:
 *** BF The Lost Stories
 **** [#A] LS 2.07 - The Foe from the Future  8.9 :Leela:
 **** [#C] LS 2.08 - The Valley of Death 7.7 :Leela:
 **** TODO [#B] LS6.1 - Return of the Cybermen :Cybermen:DW2022_08_doctor:
-SCHEDULED: <2022-08-13 Sat>
+SCHEDULED: <2022-08-17 Wed>
 :PROPERTIES:
 :rating:   8.1
 :END:
@@ -1426,6 +1441,12 @@ CLOSED: <2020-08-15 Sat 16:31>
 【【中英熟肉】藏在大衣里的脆皮马w（I am the Master广播剧预告)-哔哩哔哩】https://b23.tv/IGxQAU
 
 ** audio
+*** TODO [#C] CC6.1 Tales From the Vault :Ruth:UNIT:Jo:Romana_1:plot_yes:
+SCHEDULED: <2022-08-06 Sat>
+:PROPERTIES:
+:rating:   7.5
+:END:
+
 *** CANCEL Night of the Fendahl (Torchwood #25) :audio-drama:
 CLOSED: [2020-08-18 Tue 16:31]
 

@@ -46,7 +46,6 @@ CLOSED: [2022-05-19 Thu 08:51] SCHEDULED: <2022-05-07 Sat>
 
 **** S1.4 Old Friends :P2021_11:
 ***** LATER [#C] 4.1 Fond Farewell :bilibili:DW2022_09_doctor:
-SCHEDULED: <2022-07-31 Sun>
 :PROPERTIES:
 :rating:   7.6
 :END:
@@ -235,7 +234,7 @@ CLOSED: [2021-08-01 Sun 15:54]
 
 【[BF广播剧熟肉]Technophobia科技恐惧症-哔哩哔哩】https://b23.tv/nq0u5s
 
-***** READY [#D] 10DA 1.2 - Time Reaver :bilibili:
+***** [#D] 10DA 1.2 - Time Reaver :bilibili:
 :PROPERTIES:
 :rating:   7.1
 :END:
@@ -278,15 +277,15 @@ SCHEDULED: <2022-01-16 Sun>
 
 【【神秘博士广播剧熟肉】The 10th Doctor Adventures 301 No Place-哔哩哔哩】 https://b23.tv/ID4AEtu
 
-***** READY [#C] 10DA 3.2 - One Mile Down :bilibili:DW2022_08_doctor:
-SCHEDULED: <2022-08-20 Sat>
+***** START [#C] 10DA 3.2 - One Mile Down :bilibili:DW2022_08_doctor:
+SCHEDULED: <2022-08-10 Wed>
 :PROPERTIES:
 :rating:   7.6
 :END:
 
 【【神秘博士广播剧熟肉】The 10th Doctor Adventures 302 One Mile Down-哔哩哔哩】 https://b23.tv/4UM8Y1U
 
-***** READY [#D] 10DA 3.3 - The Creeping Death :bilibili:
+***** [#D] 10DA 3.3 - The Creeping Death :bilibili:
 :PROPERTIES:
 :rating:   7.2
 :END:
@@ -549,7 +548,6 @@ SCHEDULED: <2022-03-30 Wed>
 :END:
 
 *** LATER [#C] The Churchill Years 1.3 Living History :P2016:DW2022_09_maybe:plot_yes:
-SCHEDULED: <2022-07-31 Sun>
 :PROPERTIES:
 :rating:   7.9
 :END:
@@ -658,7 +656,7 @@ DEADLINE: <2022-06-23 Thu 22:40> SCHEDULED: <2022-06-19 Sun>
 :END:
 
 **** TODO [#C] 1.2 War Wounds :Danny_Pink:DW2022_08_doctor:
-SCHEDULED: <2022-08-20 Sat>
+SCHEDULED: <2022-08-24 Wed>
 :PROPERTIES:
 :rating:   7.5
 :END:

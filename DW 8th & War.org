@@ -289,7 +289,7 @@ It was set between series 1 and series 2 of the Eighth Doctor Adventures a
 :END:
 
 ***** TODO [#C] 2.7 - Sisters of the Flame :Morbius:Karn:DW2022_08_extra:
-SCHEDULED: <2022-08-13 Sat>
+SCHEDULED: <2022-08-31 Wed>
 :PROPERTIES:
 :rating:   7.8
 :END:
@@ -423,13 +423,13 @@ CLOSED: [2022-06-29 Wed 13:41] DEADLINE: <2022-06-24 Fri 07:26> SCHEDULED: <2022
 :END:
 
 ***** TODO [#E] 2.3 - The Gift :DW2022_08_doctor:
-SCHEDULED: <2022-08-06 Sat>
+SCHEDULED: <2022-08-03 Wed>
 :PROPERTIES:
 :rating:   6.8
 :END:
 
 ***** TODO [#E] 2.4 - The Sonomancer :DW2022_08_doctor:
-SCHEDULED: <2022-08-27 Sat>
+SCHEDULED: <2022-08-24 Wed>
 :PROPERTIES:
 :rating:   6.9
 :END:
