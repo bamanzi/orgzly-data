@@ -504,7 +504,7 @@ set during the time frame between the films /Star Wars: Episode III Revenge of t
 It premiered worldwide as a one-hour television movie, Star Wars Rebels: Spark of Rebellion, on Disney Channel on October 3, 2014; 
 
 ***** shorts (4 eps) :P2014:
-***** DOING 📂Rebels season 1 (15 eps) :P2014:rebels:
+***** DONE 📂Rebels season 1 (15 eps) :P2014:rebels:
 DEADLINE: <2022-05-31 Tue>
 
 5BBY
@@ -706,7 +706,7 @@ CLOSED: [2022-05-28 Sat 12:59] SCHEDULED: <2022-05-29 Sun>
 CLOSED: <2022-05-21 Sat 14:52>
 
 ****** NEXT Dark Force Rising
-****** NEXT2 The Last Command
+****** NEXT The Last Command
 ***** LATER [#A] Dark Empire trilogy :Luke:Solo:Leia:
 
  All three comic series detailed the resurrection of Emperor Palpatine in clone bodies.
@@ -867,8 +867,8 @@ CLOSED: [2022-05-26 Thu 13:43]
 
 没意思
 
-******* NEXT2 vol.4 The Catastrophe Con (#20-25)
-******* NEXT2 Vol.5 Worst Among Equals (A2, #26-31)
+******* NEXT vol.4 The Catastrophe Con (#20-25)
+******* NEXT Vol.5 Worst Among Equals (A2, #26-31)
 ******* vol. 6 Unspeakable Rebel Superweapon (#32-36)
 ******* vol.7 A Rogue's End (#37-40)
 ****** DONE Lando (2015) :hanzify:
@@ -889,7 +889,7 @@ takes place between the events of /Star Wars: Episode V The Empire Strikes Bac
 Between the events of /Star Wars: Episode V The Empire Strikes Back/ and /Star Wars: Episode VI Return of the Jedi/
 
 ****** Doctor Aphra v2 (2020- )
-****** NEXT2 Bounty Hunters (2020- )
+****** NEXT Bounty Hunters (2020- )
 
 The series features the bounty hunters /Beilert Valance/, /Boba Fett/ and /Bossk/, and takes place between the events of /Star Wars: Episode V The Empire Strikes Back/ and /Star Wars: Episode VI
 Return of the Jedi/
@@ -917,7 +917,7 @@ focusing on the character Beilert Valance during his time as a bounty hunter.
 
 Beilert Valance first appeared in Solo: A Star Wars Story Adaptation 1
 
-***** NEXT2 Age of Rebellion
+***** Age of Rebellion
 **** Star Wars Rebels
 
 link: https://www.starwars.com/news/a-guide-to-star-wars-rebels-books-and-comics

@@ -20,7 +20,10 @@ https://bladerunner.fandom.com/wiki/Do_Androids_Dream_of_Electric_Sheep%3F_(comi
 
 download: https://www.zipcomic.com/do-androids-dream-of-electric-sheep
 
-**** NA Dust to Dust :Boom:
+**** BLOCK Dust to Dust :Boom:
+:PROPERTIES:
+:todo:     download
+:END:
 
 prequel to /Do Androids Dream of Electric Sheep/
 
@@ -39,7 +42,10 @@ December 16, 2020 – February 9, 2022
 download: https://comics.codes/blade-runner-2029/
 
 **** TBR /Blade Runner 2039/
-**** NA Blade Runner Origins :P2021:
+**** BLOCK Blade Runner Origins :P2021:
+:PROPERTIES:
+:todo:     download
+:END:
 
 https://bladerunner.fandom.com/wiki/Blade_Runner_Origins
 

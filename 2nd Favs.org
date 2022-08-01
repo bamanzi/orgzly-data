@@ -129,7 +129,11 @@ https://dc.fandom.com/wiki/Saint_of_Killers_(Preacher)
 CLOSED: [2022-02-24 Thu 13:27]
 
 ***** DONE Preacher #27-33
-***** NA Cassidy: Blood & Whiskey
+***** BLOCK Cassidy: Blood & Whiskey
+:PROPERTIES:
+:todo:     download
+:END:
+
 **** DONE vol.6 War in the Sun
 CLOSED: [2022-03-20 Sun 10:45]
 
