@@ -259,7 +259,9 @@ CLOSED: [2022-07-16 Sat 22:31] SCHEDULED: <2022-07-20 Wed>
 **** DONE 1x10 Mudd's Passion (6.5) :Mudd:
 CLOSED: [2022-07-24 Sun 17:04] SCHEDULED: <2022-07-21 Thu>
 
-**** 1x11 The Terratin Incident (6.6)
+**** DONE 1x11 The Terratin Incident (6.6)
+CLOSED: [2022-07-26 Tue 23:18]
+
 **** [#D] 1x12 The Time Trap (7.0)
 **** 1x13 The Ambergris Element (6.4)
 **** [#D] 1x14 The Slaver Weapon (7.2)
@@ -529,8 +531,6 @@ CLOSED: [2022-07-10 Sun 21:01] SCHEDULED: <2022-07-10 Sun>
 与 Picard 在 Stargazer 上的最后经历有关
 
 **** LATER [#D] 1x10 Hide and Q                   (7.0) :Q:
-SCHEDULED: <2022-07-31 Sun>
-
 **** CANCEL [#E] 1x11 Haven                        (6.3)
 **** DONE [#D] 1x12 The Big Goodbye              (7.4) :Holodeck:
 CLOSED: [2022-07-02 Sat 19:23]
@@ -548,7 +548,9 @@ CLOSED: [2022-07-12 Tue 21:10] SCHEDULED: <2022-07-14 Thu>
 **** DONE [#D] 1x19 Coming of Age (7.2)
 CLOSED: [2022-07-23 Sat 16:20]
 
-**** [#D] 1x20 Heart of Glory (7.3)
+**** DONE [#D] 1x20 Heart of Glory (7.3) :Klingons:
+CLOSED: [2022-07-26 Tue 08:03]
+
 **** [#D] 1x21 The Arsenal of Freedom (7.2)
 **** [#D] 1x22 Symbiosis (7.0)
 **** [#D] 1x23 Skin of Evil (7.0)
@@ -880,8 +882,8 @@ CLOSED: <2022-07-16 Sat 16:47> SCHEDULED: <2022-07-23 Sat>
 **** DONE [#B] 7x5. Gambit, Part II      (8.0)
 CLOSED: [2022-07-17 Sun 14:46] SCHEDULED: <2022-07-23 Sat>
 
-**** TODO [#C] 7x6. Phantasms            (7.7)
-SCHEDULED: <2022-07-30 Sat>
+**** DONE [#C] 7x6. Phantasms            (7.7)
+CLOSED: [2022-07-28 Thu 23:49] SCHEDULED: <2022-07-30 Sat>
 
 **** CANCEL [#E] 7x7. Dark Page            (6.5)
 **** [#C] 7x8. Attached             (7.5)
@@ -970,7 +972,7 @@ CLOSED: [2022-07-15 Fri 13:18] SCHEDULED: <2022-07-17 Sun>
 
 除了最后一集，其它几集都跟镜像宇宙其实没什么关系。标题翻译为“未知领域”其实不对，Terra Incognita 原义更像是“潜行于地球”这类
 
-***** NEXT2 Mirror War :P2022:
+***** DOING Mirror War :P2022:
 SCHEDULED: <2022-07-31 Sun>
 
 **** DONE Deviations :alternate_universe:
@@ -1408,15 +1410,15 @@ CLOSED: [2022-07-13 Wed 08:08] SCHEDULED: <2022-07-16 Sat>
 **** DONE [#B] 7x6. Treachery, Faith and the Great River (8.4)
 CLOSED: [2022-07-19 Tue 08:04] SCHEDULED: <2022-07-21 Thu>
 
-**** TODO [#C] 7x7. Once More Unto the Breach            (7.7)
-SCHEDULED: <2022-07-30 Sat>
+**** DONE [#C] 7x7. Once More Unto the Breach            (7.7) :Klingons:
+CLOSED: [2022-07-27 Wed 20:20] SCHEDULED: <2022-07-30 Sat>
 
 **** [#A] 7x8. The Siege of AR-558                  (8.7)
-**** CANCEL [#E] 7x9. Covenant                             (6.9)
+**** [#E] 7x9. Covenant                             (6.9)
 **** [#B] 7x10. It's Only a Paper Moon              (8.2)
 **** CANCEL [#E] 7x11. Prodigal Daughter                   (6.5)
 **** CANCEL [#E] 7x12. The Emperor's New Cloak             (6.5)
-**** CANCEL [#E] 7x13. Field of Fire                       (6.8)
+**** [#E] 7x13. Field of Fire                       (6.8)
 **** [#D] 7x14. Chimera                             (7.3)
 **** [#C] 7x15. Badda-Bing, Badda-Bang              (7.8)
 **** [#B] 7x16. Inter Arma Enim Silent Leges        (8.4)
@@ -1498,7 +1500,8 @@ CLOSED: [2021-01-18 Mon 22:11]
 *** Prophecy and Change
 *** Tales of the Dominion War
 **** DONE "What Dreams May Come," by Michael Jan Friedman :Picard:
-**** BLOCK "Night of the Vulture," by Greg Cox
+**** DONE "Night of the Vulture," by Greg Cox
+CLOSED: [2022-07-26 Tue 13:46]
 
 - TOS episode: "Day of the Dove" (3x07)
 - DS9 episode: "Favor the Bold" (6x05)
@@ -1634,10 +1637,19 @@ CLOSED: [2022-07-20 Wed 13:06]
 CLOSED: [2022-07-22 Fri 20:14]
 
 **** CANCEL [#E] 2x09. Tattoo				 (6.3)
-**** [#D] 2x10. Cold Fire			 (7.3)
-**** [#D] 2x11. Maneuvers			 (7.3)
-**** [#D] 2x12. Resistance			 (7.2)
-**** [#C] 2x13. Prototype			 (7.6)
+**** BLOCK [#D] 2x10. Cold Fire			 (7.3)
+
+与 1x01 Caretaker 紧密相关
+
+**** DONE [#D] 2x11. Maneuvers			 (7.3)
+CLOSED: [2022-07-25 Mon 21:36]
+
+**** DONE [#D] 2x12. Resistance			 (7.2)
+CLOSED: [2022-07-28 Thu 08:06]
+
+**** DONE [#C] 2x13. Prototype			 (7.6)
+CLOSED: [2022-07-30 Sat 20:07]
+
 **** [#D] 2x14. Alliances			 (7.3)
 **** CANCEL [#E] 2x15. Threshold			 (5.4)
 **** [#B] 2x16. Meld					 (8.0)
@@ -1680,7 +1692,7 @@ CLOSED: [2022-07-22 Fri 20:14]
 **** DONE [#A] 3x26. Scorpion			   (8.9) :Borg:
 CLOSED: <2022-05-24 Tue 20:12> SCHEDULED: <2022-05-27 Fri>
 
-*** DOING VOY S4 :Y2374:
+*** VOY S4 :Y2374:
 **** DONE [#A] 4x01 Scorpion: Part II (8.8) :Borg:
 CLOSED: <2022-05-24 Tue 21:35> SCHEDULED: <2022-05-27 Fri>
 
@@ -1719,8 +1731,8 @@ CLOSED: [2022-07-14 Thu 21:08] SCHEDULED: <2022-07-16 Sat>
 **** DONE [#E] 4x12 Mortal Coil			   (6.9)
 CLOSED: [2022-07-20 Wed 21:01] SCHEDULED: <2022-07-21 Thu>
 
-**** TODO [#C] 4x13 Waking Moments			   (7.7)
-SCHEDULED: <2022-07-30 Sat>
+**** DONE [#C] 4x13 Waking Moments			   (7.7)
+CLOSED: [2022-07-29 Fri 20:17] SCHEDULED: <2022-07-30 Sat>
 
 **** [#A] 4x14 Message in a Bottle	   (8.7)
 **** [#C] 4x15 Hunters				   (7.9)
@@ -2052,8 +2064,8 @@ CLOSED: [2022-07-16 Sat 14:49] SCHEDULED: <2022-07-16 Sat>
 **** DONE 1x05 Spock Amok
 CLOSED: [2022-07-23 Sat 09:30] SCHEDULED: <2022-07-23 Sat>
 
-**** TODO 1x06 Lift Us Where Suffering Cannot Reach
-SCHEDULED: <2022-07-30 Sat>
+**** DONE 1x06 Lift Us Where Suffering Cannot Reach
+CLOSED: [2022-07-31 Sun 20:34] SCHEDULED: <2022-07-30 Sat>
 
 ** comics :📚:
 *** Early Voyages (Marvel)
@@ -2088,7 +2100,6 @@ CLOSED: <2022-07-20 Wed 01:04> SCHEDULED: <2022-07-31 Sun>
 SCHEDULED: <2022-07-31 Sun>
 
 *** Star Trek: Crew :Una:P2009:
-SCHEDULED: <2022-07-31 Sun>
 
 The five-issue miniseries from John Byrne charts the early career of Number One.
 
@@ -2112,7 +2123,9 @@ CLOSED: [2022-07-07 Thu 22:46]
 **** 1x03 The Brightest Star :DSC:
 **** 2x01 Q&A :Spock:Una:Pike:
 **** 2x02 The Trouble with Edward :Tribbles:
-**** 2x03 Ask Not :Pike:Spock:
+**** DONE 2x03 Ask Not :Pike:Spock:Una:
+CLOSED: [2022-07-29 Fri 21:39]
+
 **** DONE 2x06 Children of Mars :PIC:Y2385:
 CLOSED: [2022-06-05 Sun 12:34]
 
@@ -2144,8 +2157,8 @@ CLOSED: [2022-07-14 Thu 21:45] SCHEDULED: <2022-07-16 Sat>
 **** DONE 1x09 Crisis Point
 CLOSED: [2022-07-22 Fri 19:07] SCHEDULED: <2022-07-23 Sat>
 
-**** TODO 1x10 No Small Parts
-SCHEDULED: <2022-07-30 Sat>
+**** DONE 1x10 No Small Parts
+CLOSED: [2022-07-29 Fri 21:16] SCHEDULED: <2022-07-30 Sat>
 
 *** Prodigy (2021)
 ** comics :📚:
@@ -2570,8 +2583,8 @@ CLOSED: [2022-07-15 Fri 08:19] SCHEDULED: <2022-07-16 Sat>
 **** DONE 3x04 Gently Falling Rain
 CLOSED: [2022-07-21 Thu 23:13] SCHEDULED: <2022-07-23 Sat>
 
-**** TODO 3x05 A Tale of Two Topas
-SCHEDULED: <2022-07-30 Sat>
+**** DONE 3x05 A Tale of Two Topas
+CLOSED: [2022-07-31 Sun 21:48] SCHEDULED: <2022-07-30 Sat>
 
 ** comics :📚:
 *** Orville S1.5
