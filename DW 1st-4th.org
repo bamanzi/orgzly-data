@@ -883,8 +883,8 @@ CLOSED: [2020-08-07 Fri 18:26] SCHEDULED: <2022-07-09 Sat>
 
 There's a secret locked up in UNIT's Vault 75-73/Whitehall. Dr Elizabeth Shaw is the only one left who knows what that secret is. Returning to UNIT for the first time in decades, she slowly unravels the past. The vault contains the remains of a spaceship that crashed in the Pennines in the seventies. For the young Liz Shaw, the priority is to ensure the thing's safe. However, the Doctor is more concerned about the alien pilot and the chance this ship offers for escape. Can he resist the temptation, or will the Third Doctor turn on his friends?
 
-**** DONE [#C] CC1.3 The Blue Tooth (7.5) :scripted:UNIT:cybermen:DW2022_07_doctor:
-CLOSED: [2020-07-29 Wed 23:03] SCHEDULED: <2022-07-09 Sat>
+**** HALF [#C] CC1.3 The Blue Tooth (7.5) :scripted:UNIT:cybermen:DW2022_07_doctor:
+SCHEDULED: <2022-07-09 Sat>
 
 "I suppose that was one of the Doctor's most endearing qualities: the ability to make the bizarre and the terrifying seem utterly normal."
 
@@ -985,7 +985,7 @@ To escape his Earth exile, the Doctor is prepared to make any bargain, come 
 **** CANCEL [#E] 10.03 Decline of the Ancient Mariner †4.2 :Sarah:
 CLOSED: [2020-06-25 Thu 21:52]
 
-**** START [#A] ST11.3 The Threshold :Master_nemesis:P2022_02:DW2022_07_doctor:
+**** HALF [#A] ST11.3 The Threshold :Master_nemesis:P2022_02:DW2022_07_doctor:
 SCHEDULED: <2022-07-16 Sat>
 
 ** BBC short stories (audible) :BBC:📄:🎧:
@@ -1281,7 +1281,7 @@ CLOSED: [2020-07-15 Wed 19:13]
 *** BF The Lost Stories
 **** [#A] LS 2.07 - The Foe from the Future  8.9 :Leela:
 **** [#C] LS 2.08 - The Valley of Death 7.7 :Leela:
-**** TODO [#B] LS6.1 - Return of the Cybermen :Cybermen:DW2022_08_doctor:
+**** START [#B] LS6.1 - Return of the Cybermen :Cybermen:plot_yes:DW2022_08_doctor:
 SCHEDULED: <2022-08-17 Wed>
 :PROPERTIES:
 :rating:   8.1
@@ -1291,10 +1291,12 @@ SCHEDULED: <2022-08-17 Wed>
 
 对比改编版，本故事基调更为黑暗和恐怖，更会让人联想到幽闭恐惧症。
 
-**** [#A] LS6.2 - The Doomsday Contract
+**** READY [#A] LS6.2 - The Doomsday Contract :bilibili:
 :PROPERTIES:
 :rating:   8.9
 :END:
+
+【【神秘博士广播剧熟肉】The Lost Stories 602 The Doomsday Contract (Part 1&2) 末日合同-哔哩哔哩】 https://b23.tv/Ddqe3C1
 
 **** TBR LS7.1 Doctor Who and the Ark :P2023_03:
 **** TBR LS7.2 Daleks! Genesis of Terror :P2023_03:

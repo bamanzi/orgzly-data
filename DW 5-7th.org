@@ -176,7 +176,7 @@ CLOSED: [2021-03-22 Mon 23:20]
 **** The Judgement of Isskar
 **** The Destroyer of Delights
 **** The Chaos Pool
-**** [#C] 127. Castle of Fear                                         :Nyssa:
+**** [#C] 127. Castle of Fear :Nyssa:
 **** 2DONE [#B] 128. The Eternal Summer :plot_yes:Nyssa:❤:
 CLOSED: [2021-06-17 Thu 23:01]
 :PROPERTIES:
@@ -192,7 +192,7 @@ CLOSED: <2021-08-01 Sun 00:10>
 
 **** The Whispering Forest
 **** The Cradle of the Snake
-**** 📂142. The Demons of Red Lodge and Other Stories           :Nyssa:short:
+**** 📂142. The Demons of Red Lodge and Other Stories :Nyssa:short:
 ***** The Demons of Red Lodge
 ***** The Entropy Composition
 ***** Doing Time
@@ -450,8 +450,8 @@ CLOSED: [2021-12-12 Sun 17:32]
 *** TODO special: Real Time :Cybermen:Evelyn:DW2022_11_extra:
 ** audio :🎧:
 *** main range 01-50 :scripted:
-**** HALF [#A] 6. The Marian Conspiracy (8.6) :Evelyn:plot_yes:DW2022_08_doctor:
-SCHEDULED: <2022-08-03 Wed>
+**** 3QTR [#A] 6. The Marian Conspiracy (8.6) :Evelyn:plot_yes:DW2022_08_doctor:
+CLOSED: [2022-08-03 Wed 21:45] SCHEDULED: <2022-08-03 Wed>
 
 **** [#B] 9. The Spectre of Lanyon Moor (8.0) :Evelyn:Brigadier:plot_no:
 **** DONE 11. The Apocalypse Element :Evelyn:Romana_2:Daleks:

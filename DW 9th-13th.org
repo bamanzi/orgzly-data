@@ -277,8 +277,8 @@ SCHEDULED: <2022-01-16 Sun>
 
 【【神秘博士广播剧熟肉】The 10th Doctor Adventures 301 No Place-哔哩哔哩】 https://b23.tv/ID4AEtu
 
-***** START [#C] 10DA 3.2 - One Mile Down :bilibili:DW2022_08_doctor:
-SCHEDULED: <2022-08-10 Wed>
+***** DONE [#C] 10DA 3.2 - One Mile Down :bilibili:DW2022_08_doctor:
+CLOSED: [2022-08-11 Thu 21:18] SCHEDULED: <2022-08-10 Wed>
 :PROPERTIES:
 :rating:   7.6
 :END:

@@ -254,7 +254,7 @@ It was set between series 1 and series 2 of the Eighth Doctor Adventures a
 
 ***** [#B] 1.4 Island of the Fendahl
 :PROPERTIES:
-:rating:   8.1
+:rating:   8.0
 :END:
 
 **** 8DA series 2 :scripted:
@@ -422,8 +422,8 @@ CLOSED: [2022-06-29 Wed 13:41] DEADLINE: <2022-06-24 Fri 07:26> SCHEDULED: <2022
 :rating:   7.5
 :END:
 
-***** TODO [#E] 2.3 - The Gift :DW2022_08_doctor:
-SCHEDULED: <2022-08-03 Wed>
+***** DONE [#E] 2.3 - The Gift :DW2022_08_doctor:
+CLOSED: [2022-08-08 Mon 20:15] SCHEDULED: <2022-08-03 Wed>
 :PROPERTIES:
 :rating:   6.8
 :END:
@@ -623,10 +623,14 @@ SCHEDULED: <2022-08-24 Wed>
 :rating:   7.8
 :END:
 
-**** STS37 - Tuesday
-**** [#A] CC4.12 Solitaire (9.2) :ToyMaker:P2010:
+**** [#A] CC4.12 Solitaire (9.2) :ToyMaker:P2010:plot_yes:
 :PROPERTIES:
 :rating:   9.2
+:END:
+
+**** [#B] STS37 - Tuesday :Harry:
+:PROPERTIES:
+:rating:   8.3
 :END:
 
 ** short stories
@@ -854,6 +858,10 @@ The N-Forms receive an activation call, setting this after Desperate Measures
 
 【【广播剧汉化】徒劳的挣扎 The War Master 战争法师 703 Boundaries-哔哩哔哩】 https://b23.tv/KX01zpP
 
+***** 7.4 The Last Line :10th_Dr:bilibili:
+
+【【广播剧汉化】注定的未来 The War Master 战争法师 704 The Last Line-哔哩哔哩】 https://b23.tv/t0szyKn
+
 **** DONE [#A] WM1.4 The Heavenly Paradigm :D2021_09_extra:
 CLOSED: [2020-12-24 Thu 15:51] SCHEDULED: <2021-09-28 Tue>
 :PROPERTIES:
@@ -1018,7 +1026,7 @@ CLOSED: [2022-07-15 Fri 21:16] SCHEDULED: <2022-06-25 Sat>
 :END:
 
 **** TODO [#D] 1.2 - Lion Hearts :DW2022_08_extra:
-SCHEDULED: <2022-08-13 Sat>
+SCHEDULED: <2022-08-17 Wed>
 
 **** [#B] 1.3 - The Shadow Squad
 :PROPERTIES:
