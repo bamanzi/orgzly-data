@@ -217,7 +217,7 @@
  - <second to last play position> (00:04:53)
  - <last play position> (00:12:59)
 
-**** DONE 1DA 2.1 - The Invention of Death (128kbps) :1st_Dr:Susan:Ian:Babraba:
+**** DONE 1DA 2.1 - The Invention of Death (128kbps) :1st_Dr:Susan:Ian:Barbara:
 
  - <second to last play position> (00:57:22)
  - <last play position> (01:01:06)
@@ -1034,12 +1034,14 @@
 *** TODO DAV1.2 - Purity
 *** TODO MAR8.1. Emancipation
 *** TODO NA1. Love and War
-* DW 2022-01
+* DW 2022
+
+
+** DW 2022-01
 
 | 41 | MR086 The Reaping       | 6th | Peri, Cybermen |
 | 42 | MR201 We are the Daleks | 7th | Mel            |
 
-** DW 2022-01
 *** MA01 - Red Snow :2nd_Dr:
 *** HALF [#B] CC4.2 The Glorious Revolution :Jamie:2nd_Dr:
 
@@ -1082,11 +1084,10 @@
  - <last play position> (00:48:26)
 
 *** 3QTR [#B] GFY2.2 - Spirit :Romana_2:Leela:
-* DW 2022-02
-
-| 043 | MR044 Creatures of Beauty | 5th | Nyssa |
 
 ** DW 2022-02-doctors
+| 043 | MR044 Creatures of Beauty | 5th | Nyssa |
+
 *** [#B] CC8.10 The War to End All Wars :Steven:Dodo:
 *** 2DONE [#C] 3DA4.2 - The Tyrants of Logic :3rd_Dr:Jo:Cybermen:
 
@@ -1118,12 +1119,11 @@
 *** 2DONE [#C] Cybermen 1.3 Conversion :Cybermen:
 *** HALF [#D] Cybermen 1.4 Telos :Cybermen:
 *** HALF [#D] Jenny 1.1 Stolen Goods
-* DW 2022-03
+** DW 2022-03-doctors
 
 | 044 | MR087 | BF087 The Gathering | 5th |     |
 | 045 | MR149 | BF149 Robophobia    | 7th | Liv |
 
-** DW 2022-03-doctors
 *** HALF [#A] 1DA3.2 Tick-Tock World :Ian:Susan:Ian:Barbara:
 
 - part2 (00:24:32)
@@ -1168,11 +1168,10 @@
 *** HALF [#A] BS6.5 The Crystal of Cantus :Cybermen:
 *** HALF [#B] Gallifrey 2.5 Imperiatirx :Romana_2:Leela:
 *** [#A] Missy 2.1 The Lumiat
-* DW 2022-04
+** DW 2022-04-doctors
 
 | 046 | MR027 The One Doctor | 6th | Mel |
 
-** DW 2022-04-doctors
 *** DONE EA2.1 The Yes Man :2nd_Dr:
 *** HALF [#C] 4DA8.3 The Enchantress of Numbers :4th:Ann:
 *** DONE [#A] BF027 The One Doctor :6th_Dr:Mel:
@@ -1187,12 +1186,11 @@
 *** HALF [#E] UNIT5.1 The Dalek Transaction :Kate:Osgood:
 *** DONE [#C] UNIT5.2 Invocation
 *** DONE The Robots 1.1 The Robots of Life :Liv:Kaldor_Robots:
-* DW 2022-05
+** DW 2022-05-doctor
 
 | 047 | MR089 No Man's Land        | 7th | Ace, Hex               |
 | 048 | MR258 Warzone / Conversion | 5th | Tegan, Nyssa, Cybermen |
 
-** DW 2022-05-doctor
 *** 2DONE [#C] CC1.1 - Frostfire :1st_Dr:Vicki:
 
 - <second to last play position> (00:00:00)
@@ -1264,11 +1262,10 @@
 
 - <last play position> (00:00:00)
 
-* DW 2022-06
+** DW 2022-06-doctor
 
 | 049 | MR240 Hour of the Cybermen | 6th | UNIT |
 
-** DW 2022-06-doctor
 *** 3QTR [#D] LS4.2 - The Queen Of Time :2nd_Dr:Jamie:Zoe:
 - <second to last play position> (00:27:45)
 - part (00:27:50)
@@ -1305,54 +1302,101 @@
 *** 3QTR [#E] Jenny2.2. Altered Status :Jenny:
 *** 3QTR [#C] Rory1.1 Gladiator :Rory:
 *** HALF [#D] KC1 - Occam's Razor :Kaldor_Robots:
-* DW 2022-07
 ** DW 2022-07-doctor
 
 | 050 | MR038 The Church and the Crown | 5th  | Peri, Erimem |
 
-*** HALF [#C] EA1.4 An Ordinary Life           :1st_Dr:Steven:Sara_Kingdom:
+*** 2DONE [#C] EA1.4 An Ordinary Life        :1st_Dr:Steven:Sara_Kingdom:
 *** START [#A] ST11.3 The Threshold                   :Master_nemesis:3rd_Dr:
-*** 2DONE [#C] MR038 The Church and the Crown           :5th_Dr:Peri:Erimem:
+*** 2DONE [#C] MR038 The Church and the Crown            :5th_Dr:Peri:Erimem:
 *** 2DONE [#D] 7DA1.1 The Trial of a Time Machine          :7th_Dr:Roz:Chris:
 *** 2DONE [#B] 9DA 4.2 Way of the Burryma :9th_Dr:Cybermen:Brigadier:Sam_Bishop:
 *** START [#B] 9DA4.3 The Forth Generation :9th_Dr:Cybermen:Brigadier:Sam_Bishop:
-*** HALF [#D] 11DC1.1 The Calendar Man                     :11th_Dr:Amy:
+*** HALF [#D] 11DC1.1 The Calendar Man                          :11th_Dr:Amy:
 *** 13th: Redacted #3/#4
 ** DW 2022-07-spinoffs
 *** HALF [#E] TW1 1.3 Uprising                                 :Yvonne:Ianto:
 *** 3QTR [#A] TW22 Goodbye Picardilly                           :Norton:Andy:
 *** HALF [#D] CM1.1 Threshold
-*** START [#B] Gallifrey 3.1 Fractures                       :Romana_2:Leela:
-*** HALF [#C] Rose 1.3 Ghost Machines                                  :Rose:
+*** 3QTR [#B] Gallifrey 3.1 Fractures                   :Romana_2:Leela:
+*** 3QTR [#C] Rose 1.3 Ghost Machines                              :Rose:
 *** HALF [#B] BS1.1 Oh No It Isn't                                    :Benny:
 *** 3QTR [#A] Robots 1.3 Love Me Not                      :Liv:Kaldor_Robots:
 *** 3QTR [#C] Rory1.2 The Unwilling Assassin                           :Rory:
-*** HALF [#B] Master! 1.1. Faustian :Master:
-*** 2DONE [#D] DoRS6.2. The Web of Time                           :River:
+*** 3QTR [#B] Master! 1.1. Faustian                              :Master:
+*** 2DONE [#D] DoRS6.2. The Web of Time                               :River:
 ** DW 2022-07-pending
 *** HALF [#C] CC1.3 The Blue Tooth(Liz, 3rd)                   :Liz:Cybermen:
 *** 3QTR [#E] UNIT6.1 Game Theory                    :Sam_Bishop:Osgood:UNIT:
 
 * DW 2022-08
 ** DW 2022-08-doctor
-*** [#B] CC12.4 - The Tactics of Defeat :2nd_Dr:Zoe:Ruth:UNIT:
-*** [#B] LS6.1 Return of the Cybermen :4th_Dr:Sarah:Harry:
-*** [#A] MR006. The Marian Conspiracy :6th_Dr:Evelyn:
-*** [#E/#E] 8DDC 2.3 / 2.4 :8th_Dr:Liv:Helen:
-*** [#C] 8DA 2.7 - Sisters of the Flame                   :8th_Dr:Lucie:Karn:
-*** [#C] 10DA 3.2 One Mile Down :10th_Dr:Donna:
-*** [#C] 12DC1.2 War Wounds :12th_Dr:Danny:
+*** HALF [#C] CC6.8 The Selachian Gambit                 :Polly:2nd_Dr:Jamie:
+*** START [#B] LS6.1 Return of the Cybermen              :4th_Dr:Sarah:Harry:
+*** 2DONE [#A] MR006. The Marian Conspiracy                   :6th_Dr:Evelyn:
+*** DONE [#E] 8DDC 2.3 The Gift                        :8th_Dr:Liv:Helen:
+*** [#E] 8DDC 2.4 The Sonomancer                           :8th_Dr:Liv:Helen:
+*** 2DONE [#C] 10DA 3.2 One Mile Down                :10th_Dr:Donna:bilibili:
+*** [#C] 12DC1.2 War Wounds                                   :12th_Dr:Danny:
 *** [#D] WDB 1.2 Lion Hearts                                     :War_Doctor:
 ** DW 2022-08-spinoffs
-*** [#C] TW6.5 Flight 405                                :Jack:Yvonne:Norton:
-*** [#A] TW6.6 Hostile Environment
+*** 3QTR [#C] TW6.5 Flight 405                       :Jack:Yvonne:Norton:
+*** START [#C] The Sins of Captain John #1 - The Restored
 *** [#C] CM1.2 Artificial Intelligence
 *** [#E] UNIT 6.2 Telepresence
-*** [#B] Gallifrey 3.2 Warfare :Romana_2:Leela:
-*** [#A] BS5.1 - The Grel Escape :Benny:
-*** KC #2 Death's Head :Kaldor_Robots:
+*** 3QTR [#B] Gallifrey 3.2 Warfare                     :Romana_2:Leela:
+*** 2DONE [#A] BS5.1 - The Grel Escape                                :Benny:
+*** KC #2 Death's Head                                        :Kaldor_Robots:
 *** [#D] Rose 1.4 The Last Party on Earth
 *** [#A] Rory 1.3 I, Rorius
-*** [#D] Missy 2.2 Brimstone and Terror :Missy:Master:
+*** START [#D] Missy 2.2 Brimstone and Terror                  :Missy:Master:
 ** DW 2022-08-pending
-*** [#C] CY1.3 Living History :Churchill:
+*** [#C] 8DA 2.7 - Sisters of the Flame                   :8th_Dr:Lucie:Karn:
+*** [#A] TW6.6 Hostile Environment
+
+*** [#C] CY1.3 Living History                                     :Churchill:
+* DW 2022-09
+** DW 2022-09-doctor
+*** [#C] CC3.7 The Transit of Venus                      :Ian:Barbara:1st_Dr:
+*** [#C] 3DA2.2 The Hidden Realm                                     :3rd_Dr:
+*** [#D] 5DA40.1 Secrets of Telos         :5th_Dr:Nyssa:Tegan:Adric:Cybermen:
+*** [#A] NA01 Damaged Goods                                :7th_Dr:Benny:Ace:
+*** [#C] 9DA 4.1 Fond Farewell                                       :9th_Dr:
+*** [#D] 11DC1.3 - The Light Keepers                                :11th_Dr:
+** DW 2022-09-spinoffs
+*** [#A] TW6.6 Hostile Environment
+*** [#C] The Sins of Captain John #2 - Escape from Nebazz
+*** [#C] UNIT 6.3 Code Silver                                      :Cybermen:
+*** [#C] CM 1.3 The Pelage Project
+*** [#D] PG2.1 - Dining with Death
+*** [#B] Donna 1.1
+*** [#E] River Song 6.4 The Talents of Greel                           :Jago:
+*** [#B] Master 1.2 Prey
+*** [#D] Cyberman 2.1
+*** [#C] Gallifrey 3.3
+** DW 2022-09-pending
+*** [#C] BSNA 5.1 Pride of the Lampian +/ [#B] BS5.3 The Relics of Jegg-Sau+
+*** [#B] TW61 War Chest                                                :Tosh:
+
+* DW 2022-10
+** DW 2022-10-doctor
+*** Beyond War Games 1.1 The Final Beginning
+*** 4DA 11.1 Blood of the Time Lords (Master early) +/ 7.1 The Sons of Kaldor (Leela) / [#C] 4DA 4.2 The Darkness of Glass (Leela) / 4DA 8.7/8.8 The Perfect Prisoners (Ann)+
+*** 6DLA #3 Stage Fright (Jago & Litefoot)
+*** MR103 The Girl Who Neven Was (8th, Charley, Cybermen)
+*** 10th Dalek Universe 2.1 - 2.3
+*** 12th: 12DC1.4 Field Trip (Osgood) +/ fan-made: Last Day Before Dawn #bilibili+
+*** WDB 1.3
+** DW 2022-10-spinoffs
+*** TW6.7 / 6.8
+*** CM 1.4 / UNIT 6.4 Master of Worlds (war master)
+*** PG +/ J&L+
+*** Donna 1.2
+*** BSNA 5.2
+*** Cyberman 2.2
+*** Gallifrey 3.4
+** DW 2022-10-pending
+*** TW43 The Three Monkeys (Owen, Andy) / TW47 Drive (Tosh) /
+*** Missy 2.3
+
+
