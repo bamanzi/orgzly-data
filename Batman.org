@@ -243,7 +243,7 @@ CLOSED: <2022-02-09 Wed 22:48>
 **** DONE [#B] Battle for the Cowl (2009.05-07) 披风争夺战 :P2009:
 CLOSED: [2022-02-13 Sun 19:37]
 
-**** LATER Batman Reborn (2009.08-12) :P2009:
+**** 2DONE Batman Reborn (2009.08-12) :P2009:
 SCHEDULED: <2022-08-13 Sat>
 
 ***** DONE Batgirl: Batgirl Rising (v3 #1-3)
@@ -254,53 +254,113 @@ CLOSED: [2022-02-20 Sun 09:22]
 
 Batman: Streets of Gotham #1-4
 
-***** READY Batman: Long Shadows (#687-691)
+***** DONE Batman: Long Shadows (#687-691)
+CLOSED: [2022-08-07 Sun 09:53]
+
 ***** DONE [#B] Batman and Robin: Batman Reborn (BnR #1-3)
 CLOSED: [2022-02-20 Sun 09:22]
 
-***** READY Batwoman: Elegy (DC #854-857)
-***** READY Gotham City Sirens: Union (GCS #1-4)
+***** DONE Batwoman: Elegy (DC #854-857)
+CLOSED: [2022-08-03 Wed 13:12]
+
++ Batwoman: Go (DC #858-860)
+
+***** DONE Gotham City Sirens: Union (GCS #1-4)↗
+CLOSED: [2022-08-07 Sun 18:06]
+
 ***** Outsiders: The Deep (v4 #19-20)
-***** Red Robin: The Grail (#1-4)
-**** LATER Batman and Robin vol.1 #1-16 (2009-2011) :P2009:
-SCHEDULED: <2022-08-13 Sat>
+***** DONE Red Robin: The Grail (#1-4)
+CLOSED: [2022-08-06 Sat 15:35]
 
-（莫里森史诗第5部分）随着布鲁斯·韦恩被推定死亡，迪克·格雷森再次接过了披风，这次达米安·韦恩作为他的罗宾。
-
-**** [#B] Time and Batman :P2010:
+**** NOW [#C] Time and the Batman (#700-703) :P2010:
 
 （莫里森的史诗第4部分）从蝙蝠侠的角度探讨最终危机事件。
 
-**** Return of Bruce Wayne :P2010:
+**** DOING Batman and Robin vol.1 #1-16 (2009-2011) :P2009:
+
+（莫里森史诗第5部分）随着布鲁斯·韦恩被推定死亡，迪克·格雷森再次接过了披风，这次达米安·韦恩作为他的罗宾。
+
+***** DONE 1-3 Batman Reborn
+CLOSED: <2022-08-01 Mon 13:10>
+
+***** DONE 4-6 Revenge of the Red Hood
+CLOSED: <2022-08-02 Tue 22:39>
+
+***** DONE 7-9 Blackest Knight
+CLOSED: <2022-08-05 Fri 10:49>
+
+***** TODO 10-12 Batman vs. Robin
+SCHEDULED: <2022-08-24 Wed>
+
+***** TODO 13-15 Batman and Robin Must Die
+SCHEDULED: <2022-08-24 Wed>
+
+***** TODO 16. Black Mass :P2011:
+SCHEDULED: <2022-08-31 Wed>
+
+2011-Jan
+
+***** TODO 17-19. The Sum of Her :P2011:
+SCHEDULED: <2022-08-31 Wed>
+
+written by Paul Cornell
+
+**** TODO [#B] The Black Mirror :🛒:Snyder:Grayson:P2010:
+SCHEDULED: <2022-09-04 Sun>
+
+ 作为蝙蝠侠的迪克·格雷森不得不与小詹姆斯·戈登抗争，后者作为连环杀手归来，同时也是对哥谭市和迪克·格雷森本人的黑暗面的反映。
+
+2010.01 - 10
+
+**** TODO Return of Bruce Wayne :P2010:
+SCHEDULED: <2022-08-24 Wed>
 
 蝙蝠侠：布鲁斯·韦恩归来
 （莫里森史诗第6部分）蝙蝠侠被送到了数千年前，他必须回到现在。
+2010 May-Dec
 
-**** [#B] Batman Incorporated Vol 1
+**** TODO [#B] Batman Incorporated Vol 1 :P2011:
+SCHEDULED: <2022-08-28 Sun>
 
 ·蝙蝠侠群英会 V1＃1-8
 （莫里森史诗第7部分）布鲁斯·韦恩已经归来，并决定通过他的部队在全球范围对抗犯罪
 
-**** [#C] The Black Mirror :🛒:Snyder:Grayson:P2010:
-
- 作为蝙蝠侠的迪克·格雷森不得不与小詹姆斯·戈登抗争，后者作为连环杀手归来，同时也是对哥谭市和迪克·格雷森本人的黑暗面的反映。
+2011 Jan-Oct
 
 **** misc
-***** [#C] Gotham City Sirens (2009-2010)
+***** DOING [#C] Gotham City Sirens (2009-2010) #1-11
 
  猫女决定与毒藤女及哈莉奎因合作，希望她能控制住她们的邪恶倾向。
 
 推荐 ＃1-11
 
-***** [#C] Streets of Gotham #1-11
+****** DONE 1-7. Union
+CLOSED: <2022-08-07 Sun 18:06>
+
+****** DONE 8-13. Songs of the Sirens
+CLOSED: [2022-08-13 Sat 11:49] SCHEDULED: <2022-08-12 Fri>
+
+怪不得推荐的都是 #1-11，这 #12-13 还真是不怎么样（至少，蝙蝠侠系的漫画一般都没有附魔、天使什么的），表面上 #11 最后写“未完待续”，但 #12-13 其实是另外一个故事，只用了两三页交代 #11 的后续
+
+***** DOING [#C] Streets of Gotham #1-11
 
  Paul Dini的有一个聚焦哥谭市黑帮的系列。这是他的侦探漫画连载的精神续作。
 
 共26期，推荐前＃1-11 期
 
-***** [#C] Batgirl vol.3 #1-24
+****** DONE 1-4. Hush Money
+CLOSED: [2022-08-10 Wed 22:00]
 
- 随着布鲁斯的离开，卡茜决定放弃蝙蝠女郎的衣钵，而史蒂芬妮·布朗决定将其接过。她意识到学习过程会十分艰难，但芭芭拉·戈登会提供帮助。
+- Detective Comics #852 -- Faces of Evil, Last Rites
+- Batman #685 -- Faces of Evil, Last Rites
+- Batman: Streets of Gotham #1 -- Batman: Reborn
+- Batman: Streets of Gotham #2 -- Batman: Reborn
+- Batman: Streets of Gotham #3 -- Batman: Reborn
+- Batman: Streets of Gotham #4 -- Batman: Reborn
+
+
+****** HALF 5-13. Leviathan
+SCHEDULED: <2022-08-18 Thu>
 
 **** singles
 ***** DC #821-845
@@ -373,11 +433,11 @@ CLOSED: <2021-06-12 Sat 17:34>
 ***** 2DONE Anarky (#35-40)
 CLOSED: <2021-06-20 Sun 17:34>
 
-**** 蝙蝠侠和罗宾 V2＃1-8 为杀而生
+**** TODO 蝙蝠侠和罗宾 V2＃1-8 为杀而生
 
 布鲁斯必须学会成为他儿子兼罗宾：达米安的父亲和搭档。
 
-**** [#B] 蝙蝠侠群英会V2 ＃0-13
+**** TODO [#B] 蝙蝠侠群英会V2 ＃0-13
 
 （莫里森史诗第8部分）格兰特·莫里森的蝙蝠史诗的结局终于来临，塔莉亚·阿尔·古尔决定收回她的儿子，不论死活。
 
@@ -386,7 +446,7 @@ CLOSED: <2021-06-20 Sun 17:34>
 Batman Incorporated: Demon Star
 
 ***** [#B] Gotham's Most Wanted (Batman Incorporated #7-13)
-**** #18 “安魂曲”
+**** DONE #18 “安魂曲”
 
 完全沉默的一期，讲述了布鲁斯·韦恩哀悼他儿子的死亡。
 
@@ -401,7 +461,7 @@ Batman Incorporated: Demon Star
 - Batgirl #18
 - Red Hood and the Outlaws #18
 
-**** 罗宾：蝙蝠侠之子 ＃1-6
+**** TODO 罗宾：蝙蝠侠之子 ＃1-6
 
 前往天启星并返回之后，达米安被父亲复活了。现在他必须继续救赎他在训练期间犯下的罪行。
 
@@ -508,48 +568,6 @@ Batman Confidential #1-6
 
 - Dark Nights: Metal #1-6
 
-*** Bat family
-**** DONE [#B] A Death in the Family (Batman #426-429) :Jason:P1988:
-**** DONE [#B] Batman: A Lonely Place of Dying :Jason:Tim:P1989:
-
-随着罗宾死去，蝙蝠侠变得心烦意乱，鲁莽。蒂姆·德雷克试图帮助他，并最终在悲剧后继承杰森的衣钵。
-
-- Batman #440 -- Part One: Suspects
-- New Titans #60 -- Part Two: Roots
-- Batman #441 Part Three: Parallel Lines
-- New Titans #61 -- Part Four: Going Home
-- Batman #442 -- Part Five: Rebirth
-
-***** Batman #424 (The Diplomat's Son) :Jason:
-
-我们第一次看到了杰森的黑暗面
-
-**** DONE Batman/Huntress: Cry for Blood (3 issues) :Huntress:P2000:origin:
-
-这个故事展示了蝙蝠侠和女猎手之间的紧张关系，并揭示了她的起源。
-
-**** DONE [#B] Robin: Year One (4 issues) :hanzify:Grayson:Two_Face:origin:
-
-迪克的第一次冒险以及他与双面人的对抗
-
-**** DONE [#B] Batgirl: Year One (9 issues) :hanzify:Barbara:origin:
-**** DONE [#B] Nightwing: Year One (Nightwing v2 #101-106) :P2005:Grayson:origin:
-
-迪克·格雷森终于准备好单飞，在蝙蝠侠的阴影之外为自己扬名。当然随着迪克的离去，又出现了一个新的罗宾。
-
-**** DONE Under the Red Hood :P2005:
-**** Batwomen: Elegy (DC #854-857) :P2009:
-
-凯特·凯恩是新的蝙蝠女侠，她在探索她的过去并踏入她的新角色时，必须面对超自然的威胁。
-
-**** 猫女：塞琳娜的大目标
-
-  猫女必须完成她生命中最大的抢劫，并在此过程中遇到了一些老朋友。
-
-**** 猫女V3 ＃1-32
-
-  Ed Brubaker和Darwyn Cooke的传奇连载，这些故事让赛琳娜从小偷变成了东区的罗宾汉
-
 *** pending
 **** 阿克汉姆疯人院：严肃地球上的严肃的屋宅
 
@@ -567,6 +585,111 @@ Batman Confidential #1-6
 
 这个令人难以置信的系列讲述了GCPD的重大犯罪部，他们试图在一个由腐败，怪胎和蒙面义警统治的城市中工作。
 
+** comics (batfamily) :📚:
+*** DONE [#B] Batman: A Lonely Place of Dying :Jason:Tim:P1989:
+
+随着罗宾死去，蝙蝠侠变得心烦意乱，鲁莽。蒂姆·德雷克试图帮助他，并最终在悲剧后继承杰森的衣钵。
+
+- Batman #440 -- Part One: Suspects
+- New Titans #60 -- Part Two: Roots
+- Batman #441 Part Three: Parallel Lines
+- New Titans #61 -- Part Four: Going Home
+- Batman #442 -- Part Five: Rebirth
+
+**** Batman #424 (The Diplomat's Son) :Jason:
+
+我们第一次看到了杰森的黑暗面
+
+*** Catwoman
+**** DONE Batman: Year One ↗
+**** DONE Catwoman: Her Sister's Keeper
+**** DONE Catwoman: Year One
+**** DONE Catwoman: When in Rome
+**** DONE Catwoman: Selina's Big Score 猫女：塞琳娜的大目标
+
+  猫女必须完成她生命中最大的抢劫，并在此过程中遇到了一些老朋友。
+
+**** [#B] Catwoman V3 (2002-2010)＃1-32
+
+  Ed Brubaker和Darwyn Cooke的传奇连载，这些故事让赛琳娜从小偷变成了东区的罗宾汉
+
+***** 1-4. Anodyne
+***** 6-9. Disguises
+***** 12-16. Relentless
+***** 17-19. No Easy Way Down
+***** 20-24. Wild Ride
+***** 25-32. (singles)
+***** 33-37. Batman: War Games
+**** DONE Batman: Heart of Hush ↗
+*** Dick Greyson
+**** DONE [#B] Robin: Year One (4 issues) :hanzify:Grayson:Two_Face:origin:
+
+迪克的第一次冒险以及他与双面人的对抗
+
+**** DONE [#B] Nightwing: Year One (Nightwing v2 #101-106) :P2005:Grayson:origin:
+
+迪克·格雷森终于准备好单飞，在蝙蝠侠的阴影之外为自己扬名。当然随着迪克的离去，又出现了一个新的罗宾。
+
+*** Jason Todd
+**** DONE [#B] A Death in the Family (Batman #426-429) ↗ :Jason:P1988:
+**** DONE Under the Red Hood :P2005:
+*** Tim Drake
+**** Red Robin
+*** Barbara Gorden
+**** DONE [#B] Batgirl: Year One (9 issues) :hanzify:Barbara:origin:
+**** Batman: The Killing Joke
+**** Oracle
+***** (1996) Black Canary／Oracle - Birds of Prey
+***** The Last Batgirl Story (Batgirl special 1998)
+***** (2002) Birds of Prey：Batgirl／Catwoman／Oracle
+***** Oracle: Year One: Born of Hope (Batman Chronicles Vol 1 #5)
+***** Birds of Prey vol.1
+***** Birds of Prey vol.2
+**** Batgirl vol.4
+***** DONE 1-6
+CLOSED: <2021-05-18 Tue 22:10>
+
+***** DONE 7-13, 0
+CLOSED: <2021-05-22 Sat 22:10>
+
+***** DONE 14-19
+CLOSED: <2021-05-28 Fri 22:12>
+
+***** DONE 19-26. Wanted
+CLOSED: <2021-05-05 Wed 22:13>
+
+***** DONE 27-34
+CLOSED: <2021-06-18 Fri 22:14>
+
+#27-34, 其中 #28-31 比较垃圾，而 #32-34 结束了 Knightfall 故事线（前面主要是在#10-13讲述
+
+*** Damian Wayne
+*** Batwoman
+**** Batwomen: Elegy (DC #854-857) :P2009:
+
+凯特·凯恩是新的蝙蝠女侠，她在探索她的过去并踏入她的新角色时，必须面对超自然的威胁。
+
+*** GCPD
+*** Batgirl
+**** DOING [#C] Batgirl vol.3 #1-24
+
+ 随着布鲁斯的离开，卡茜决定放弃蝙蝠女郎的衣钵，而史蒂芬妮·布朗决定将其接过。她意识到学习过程会十分艰难，但芭芭拉·戈登会提供帮助。
+
+***** DONE 1-7. Batgirl Rising
+CLOSED: [2022-08-09 Tue 13:42] SCHEDULED: <2022-08-10 Wed>
+
+***** DONE 9-14. The Flood
+CLOSED: [2022-08-14 Sun 07:54] SCHEDULED: <2022-08-14 Sun>
+
+***** TODO 15-24. The Lesson
+SCHEDULED: <2022-08-21 Sun>
+
+*** misc
+**** DONE Batman/Huntress: Cry for Blood (3 issues) :Huntress:P2000:origin:
+
+这个故事展示了蝙蝠侠和女猎手之间的紧张关系，并揭示了她的起源。
+
+** comics (villains) :📚:
 ** movie
 *** DCEU
 *** Nolan verse
@@ -591,8 +714,8 @@ partially based on
 - the /Batman: The Court of Owls/ arc, written by Scott Snyder and illustrated by Greg Capullo and Jonathan Glapion, 
 - and the /Batman and Robin: Born to Kill/ arc, written by Peter Tomasi and illustrated by Patrick Gleason and Mick Gray. 
 
-**** LATER Batman: Bad Blood
-SCHEDULED: <2022-08-13 Sat>
+**** DONE Batman: Bad Blood
+CLOSED: [2022-08-04 Thu 22:07] SCHEDULED: <2022-08-13 Sat>
 
 The story is inspired by the /Batman Reborn/ arc, whilst also including elements from /Batwoman: Go/. 
 
@@ -603,22 +726,46 @@ The story is inspired by the /Batman Reborn/ arc, whilst also including elements
 **** DONE Batman: Under the Red Hood
 **** DONE Batman: Year One :P2011:
 **** DONE Batman: The Dark Knight Returns :P2012:
-** tv
+** tv :📺:
 *** DONE Gotham S1
 *** DONE Gotham S2
 *** DONE Gotham S3
-*** Gotham S4
+*** DOING Gotham S4
 **** DONE 4x01
 CLOSED: [2022-08-01 Mon 08:09]
 
-**** 4x02
-**** 4x03
-**** 4x04
-*** Pennyworth S1
+**** DONE 4x02
+CLOSED: [2022-08-05 Fri 08:14]
+
+**** DONE 4x03
+CLOSED: [2022-08-06 Sat 17:51]
+
+**** DONE 4x04
+CLOSED: [2022-08-09 Tue 22:02] SCHEDULED: <2022-08-10 Wed>
+
+**** DONE 4x05
+CLOSED: [2022-08-12 Fri 22:48] SCHEDULED: <2022-08-12 Fri>
+
+**** TODO 4x06
+SCHEDULED: <2022-08-18 Thu>
+
+**** TODO 4x07
+SCHEDULED: <2022-08-21 Sun>
+
+*** DOING Pennyworth S1
 **** DONE 1x01
 **** DONE 1x02
 **** DONE 1x03
-** DCAU
+**** DONE 1x04
+CLOSED: [2022-08-05 Fri 19:22]
+
+**** DONE 1x05
+CLOSED: [2022-08-11 Thu 22:30] SCHEDULED: <2022-08-13 Sat>
+
+**** TODO 1x06
+SCHEDULED: <2022-08-21 Sun>
+
+** DCAU :dcau:
 *** Batman Adventures
 **** movies
 ***** Batman: Mask of the Phantasm
@@ -626,7 +773,7 @@ CLOSED: [2022-08-01 Mon 08:09]
 ***** Batman: Mystery of the Batwoman
 ***** Batman and Harley Quinn
 ***** Justice League vs. the Fatal Five
-*** Batman Beyond
+*** Batman Beyond :beyond:
 **** comics
 ***** DONE Batman Beyond vol1 (1999)
 ***** Batman Beyond vol2 (1999-2001)
@@ -641,7 +788,12 @@ CLOSED: [2022-08-01 Mon 08:09]
 
 8 issues
 
-***** Batman Beyond (Digital)(2012-2013)
+***** Batman Beyond Unlimited (2012-2013)
+****** Batman Beyond (Digital)(2012-2013)
+****** Justice League Beyond
+****** Superman Beyond
+***** Batman Beyond 2.0
+****** Justice League Beyond 2.0
 ***** CANCEL [#E] 7. The New 52 - Futures End (2014-2015)
 
 据说非常垃圾
@@ -659,7 +811,27 @@ CLOSED: [2022-08-01 Mon 08:09]
 ****** Batman Beyond: Neo Year (2022-)
 **** movies
 ***** Batman Beyond: Return of the Joker
-* Superman
+**** tv :📺:
+***** DOING S1
+****** DONE 1x01-02 Rebirth
+CLOSED: <2021-05-05 Wed 21:41>
+
+****** DONE 1x03 Black Out
+CLOSED: [2022-08-08 Mon 22:06] SCHEDULED: <2022-08-11 Thu>
+
+****** DONE 1x04 Golem
+CLOSED: [2022-08-10 Wed 20:53] SCHEDULED: <2022-08-14 Sun>
+
+****** DONE 1x05 Meltdown :Freeze:
+CLOSED: [2022-08-14 Sun 17:28]
+
+****** TODO 1x06
+SCHEDULED: <2022-08-18 Thu>
+
+****** TODO 1x07
+SCHEDULED: <2022-08-21 Sun>
+
+* Superman :Superman:
 ** DONE All-star Superman
 ** Kingdom Come
 *** Kingdom Come (4 issues) :P1996:
@@ -687,4 +859,41 @@ to the re-imagined Earth-22 reality.
 - JSA Kingdom Come special: The Kingdom #1
 
 https://dc.fandom.com/wiki/Thy_Kingdom_Come
+
+** DOING tv: Superman and Lois :📺:
+*** DONE 1x01
+CLOSED: [2022-08-07 Sun 20:34]
+
+*** DONE 1x02
+CLOSED: [2022-08-10 Wed 21:41] SCHEDULED: <2022-08-11 Thu>
+
+*** DONE 1x03
+CLOSED: [2022-08-14 Sun 16:52] SCHEDULED: <2022-08-14 Sun>
+
+*** TODO 1x04
+SCHEDULED: <2022-08-18 Thu>
+
+*** TODO 1x05
+SCHEDULED: <2022-08-21 Sun>
+
+* Green Arrow
+** comics
+** tv
+* misc
+** tv: Harley Quinn :Harley:📺:
+
+13 eps
+
+*** DOING S1 (13 eps)
+**** DONE 1x01
+CLOSED: [2022-08-09 Tue 21:22] SCHEDULED: <2022-08-11 Thu>
+
+**** DONE 1x02
+CLOSED: [2022-08-14 Sun 17:40] SCHEDULED: <2022-08-14 Sun>
+
+**** TODO 1x03
+SCHEDULED: <2022-08-18 Thu>
+
+**** TODO 1x04
+SCHEDULED: <2022-08-21 Sun>
 
