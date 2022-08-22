@@ -289,8 +289,10 @@ CLOSED: <2022-08-02 Tue 22:39>
 ***** DONE 7-9 Blackest Knight
 CLOSED: <2022-08-05 Fri 10:49>
 
-***** TODO 10-12 Batman vs. Robin
-SCHEDULED: <2022-08-24 Wed>
+***** NEXT 10-12 Batman vs. Robin
+SCHEDULED: <2022-08-27 Sat>
+
+crossover of /Return of Bruce Wayne/
 
 ***** TODO 13-15 Batman and Robin Must Die
 SCHEDULED: <2022-08-24 Wed>
@@ -312,12 +314,21 @@ SCHEDULED: <2022-09-04 Sun>
 
 2010.01 - 10
 
-**** TODO Return of Bruce Wayne :P2010:
+**** Return of Bruce Wayne :P2010:
 SCHEDULED: <2022-08-24 Wed>
 
 蝙蝠侠：布鲁斯·韦恩归来
 （莫里森史诗第6部分）蝙蝠侠被送到了数千年前，他必须回到现在。
 2010 May-Dec
+
+***** DONE Batman: The Return of Bruce Wayne (6 issues)
+CLOSED: [2022-08-21 Sun 08:51] SCHEDULED: <2022-08-21 Sun>
+
+***** NOW Time Masters: Vanishing Point (6 issues)
+SCHEDULED: <2022-08-27 Sat>
+
+***** NEXT Bruce Wayne: The Road Home
+SCHEDULED: <2022-08-27 Sat>
 
 **** TODO [#B] Batman Incorporated Vol 1 :P2011:
 SCHEDULED: <2022-08-28 Sun>
@@ -332,7 +343,7 @@ SCHEDULED: <2022-08-28 Sun>
 
  猫女决定与毒藤女及哈莉奎因合作，希望她能控制住她们的邪恶倾向。
 
-推荐 ＃1-11
+推荐 #1-11 (除#3和#8外，其它几期都由 Paul Dini 编写）
 
 ****** DONE 1-7. Union
 CLOSED: <2022-08-07 Sun 18:06>
@@ -340,7 +351,15 @@ CLOSED: <2022-08-07 Sun 18:06>
 ****** DONE 8-13. Songs of the Sirens
 CLOSED: [2022-08-13 Sat 11:49] SCHEDULED: <2022-08-12 Fri>
 
-怪不得推荐的都是 #1-11，这 #12-13 还真是不怎么样（至少，蝙蝠侠系的漫画一般都没有附魔、天使什么的），表面上 #11 最后写“未完待续”，但 #12-13 其实是另外一个故事，只用了两三页交代 #11 的后续
+怪不得推荐的都是 #1-11，这 #12-13 还真是不怎么样（至少，蝙蝠侠系的漫画一般都没有附魔、天使什么的）
+
+表面上 #11 最后写“未完待续”，但 #12-13 其实是另外一个故事，只用了两三页交代 #11 的后续
+
+****** DONE 14-19. Strange Fruit
+CLOSED: [2022-08-16 Tue 20:13] SCHEDULED: <2022-08-19 Fri>
+
+****** TODO 20-26. Division
+SCHEDULED: <2022-08-21 Sun>
 
 ***** DOING [#C] Streets of Gotham #1-11
 
@@ -348,7 +367,7 @@ CLOSED: [2022-08-13 Sat 11:49] SCHEDULED: <2022-08-12 Fri>
 
 共26期，推荐前＃1-11 期
 
-****** DONE 1-4. Hush Money
+****** DONE 1-4. Hush Money :Hush:
 CLOSED: [2022-08-10 Wed 22:00]
 
 - Detective Comics #852 -- Faces of Evil, Last Rites
@@ -359,8 +378,15 @@ CLOSED: [2022-08-10 Wed 22:00]
 - Batman: Streets of Gotham #4 -- Batman: Reborn
 
 
-****** HALF 5-13. Leviathan
-SCHEDULED: <2022-08-18 Thu>
+****** DONE 5-13. Leviathan
+CLOSED: [2022-08-16 Tue 19:17] SCHEDULED: <2022-08-18 Thu>
+
+#7, #10-11 讲述一个小孩因曾受稻草人注射毒液而能变身为大力士，与达米安联合对付虐杀小孩的  Zsasz  。外号 Abuse ，前面在 #1-2 短暂出场过（其外号被翻译为“暴行”）
+
+#12-13 不怎么样
+
+****** TODO 14-21. House of Hush
+SCHEDULED: <2022-08-24 Wed>
 
 **** singles
 ***** DC #821-845
@@ -682,7 +708,7 @@ CLOSED: [2022-08-09 Tue 13:42] SCHEDULED: <2022-08-10 Wed>
 CLOSED: [2022-08-14 Sun 07:54] SCHEDULED: <2022-08-14 Sun>
 
 ***** TODO 15-24. The Lesson
-SCHEDULED: <2022-08-21 Sun>
+SCHEDULED: <2022-08-24 Wed>
 
 *** misc
 **** DONE Batman/Huntress: Cry for Blood (3 issues) :Huntress:P2000:origin:
@@ -746,12 +772,14 @@ CLOSED: [2022-08-09 Tue 22:02] SCHEDULED: <2022-08-10 Wed>
 **** DONE 4x05
 CLOSED: [2022-08-12 Fri 22:48] SCHEDULED: <2022-08-12 Fri>
 
-**** TODO 4x06
-SCHEDULED: <2022-08-18 Thu>
+**** DONE 4x06
+CLOSED: [2022-08-17 Wed 19:14] SCHEDULED: <2022-08-18 Thu>
 
-**** TODO 4x07
-SCHEDULED: <2022-08-21 Sun>
+**** DONE 4x07
+CLOSED: [2022-08-21 Sun 22:36] SCHEDULED: <2022-08-21 Sun>
 
+**** 4x08
+**** 4x09
 *** DOING Pennyworth S1
 **** DONE 1x01
 **** DONE 1x02
@@ -762,9 +790,12 @@ CLOSED: [2022-08-05 Fri 19:22]
 **** DONE 1x05
 CLOSED: [2022-08-11 Thu 22:30] SCHEDULED: <2022-08-13 Sat>
 
-**** TODO 1x06
-SCHEDULED: <2022-08-21 Sun>
+**** DONE 1x06
+CLOSED: [2022-08-21 Sun 11:42] SCHEDULED: <2022-08-21 Sun>
 
+**** 1x07
+**** 1x08
+**** 1x09
 ** DCAU :dcau:
 *** Batman Adventures
 **** movies
@@ -825,8 +856,8 @@ CLOSED: [2022-08-10 Wed 20:53] SCHEDULED: <2022-08-14 Sun>
 ****** DONE 1x05 Meltdown :Freeze:
 CLOSED: [2022-08-14 Sun 17:28]
 
-****** TODO 1x06
-SCHEDULED: <2022-08-18 Thu>
+****** DONE 1x06
+CLOSED: [2022-08-21 Sun 10:09] SCHEDULED: <2022-08-18 Thu>
 
 ****** TODO 1x07
 SCHEDULED: <2022-08-21 Sun>
@@ -870,8 +901,8 @@ CLOSED: [2022-08-10 Wed 21:41] SCHEDULED: <2022-08-11 Thu>
 *** DONE 1x03
 CLOSED: [2022-08-14 Sun 16:52] SCHEDULED: <2022-08-14 Sun>
 
-*** TODO 1x04
-SCHEDULED: <2022-08-18 Thu>
+*** DONE 1x04
+CLOSED: [2022-08-19 Fri 23:27] SCHEDULED: <2022-08-18 Thu>
 
 *** TODO 1x05
 SCHEDULED: <2022-08-21 Sun>
@@ -891,8 +922,8 @@ CLOSED: [2022-08-09 Tue 21:22] SCHEDULED: <2022-08-11 Thu>
 **** DONE 1x02
 CLOSED: [2022-08-14 Sun 17:40] SCHEDULED: <2022-08-14 Sun>
 
-**** TODO 1x03
-SCHEDULED: <2022-08-18 Thu>
+**** DONE 1x03
+CLOSED: [2022-08-20 Sat 14:57] SCHEDULED: <2022-08-18 Thu>
 
 **** TODO 1x04
 SCHEDULED: <2022-08-21 Sun>
