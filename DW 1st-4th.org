@@ -629,7 +629,6 @@ SCHEDULED: <2021-10-03 Sun>
 :END:
 
 ***** TODO [#B] CC12.4 - The Tactics of Defeat :Ruth:Zoe:UNIT:
-SCHEDULED: <2022-08-20 Sat>
 :PROPERTIES:
 :rating:   8.1
 :END:
@@ -1076,7 +1075,7 @@ CLOSED: <2020-08-03 Mon 18:24>
 sequel: Torchwood #25 Night of the Fendahl
 
 **** TODO [#C] 15x04 - The Sun Makers †7.8) :DW2022_08_extra:
-SCHEDULED: <2022-08-31 Wed>
+SCHEDULED: <2022-09-01 Thu>
 
 **** CANCEL [#E] 15x05 - Underworld †6.2)
 **** DONE [#C] 15x06 - The Invasion of Time †7.7)
@@ -1094,6 +1093,9 @@ CLOSED: [2021-06-01 Tue 21:03]
 CLOSED: [2021-09-26 Sun 08:19]
 
 *** S18
+**** TODO [#C] 18x05 Warriors' Gate (7.6)
+SCHEDULED: <2022-08-31 Wed>
+
 **** HALF [#C] 18x06 - The Keeper of Traken (7.9) :Nyssa:Master_decayed:
 **** TODO [#C] 18x07 - Logopolis (7.9) :Nyssa:Tegan:Master_tremas:
 ** comics :📚:
@@ -1281,15 +1283,17 @@ CLOSED: [2020-07-15 Wed 19:13]
 *** BF The Lost Stories
 **** [#A] LS 2.07 - The Foe from the Future  8.9 :Leela:
 **** [#C] LS 2.08 - The Valley of Death 7.7 :Leela:
-**** START [#B] LS6.1 - Return of the Cybermen :Cybermen:plot_yes:DW2022_08_doctor:
-SCHEDULED: <2022-08-17 Wed>
+**** HALF [#B] LS6.1 - Return of the Cybermen :Cybermen:plot_yes:DW2022_08_doctor:bilibili:
+SCHEDULED: <2022-08-25 Thu>
 :PROPERTIES:
-:rating:   8.1
+:rating:   8.0
 :END:
 
-《赛博人回归》（Return of the Cybermen）是赛博人亲爹之一的Gerry Davis当年写给《神秘博士》老版第12季（1974）的剧本，之后由当时的剧本编辑（职能类似总编剧）Robert Holmes大幅度改编，最终拍成了《赛博人的复仇》（1205）。如今，这个剧本被大完结制作（Big Finish Production）委托编剧John Dorney改编成广播剧。
+《赛博人回归》（Return of the Cybermen）是赛博人亲爹之一的Gerry Davis当年写给《神秘博士》老版第12季（1974）的剧本，之后由当时的剧本编辑（职能类似总编剧）Robert Holmes大幅度改编，最终拍成了《赛博人的复仇》（1205）。
 
-对比改编版，本故事基调更为黑暗和恐怖，更会让人联想到幽闭恐惧症。
+如今，这个剧本被大完结制作（Big Finish Production）委托编剧John Dorney改编成广播剧。对比改编版，本故事基调更为黑暗和恐怖，更会让人联想到幽闭恐惧症。
+
+【【神秘博士广播剧熟肉】The Lost Stories 601 Return of the Cybermen (Part 1&2) 赛博人的回归-哔哩哔哩】 https://b23.tv/TscHIKq
 
 **** READY [#A] LS6.2 - The Doomsday Contract :bilibili:
 :PROPERTIES:

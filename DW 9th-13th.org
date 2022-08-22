@@ -310,7 +310,6 @@ CLOSED: [2021-06-18 Fri 10:25]
 【【David Tennant】BigFinish广播剧The Tenth Doctor and River Song-Precious Annihilation-哔哩哔哩】 https://b23.tv/ACUaNVw
 
 **** TODO [#B] 10D&RS 3. Ghosts :bilibili:DW2022_12_doctor:
-SCHEDULED: <2022-08-20 Sat>
 :PROPERTIES:
 :rating:   8.3
 :END:
@@ -540,6 +539,7 @@ SCHEDULED: <2022-01-31 Mon>
 **** HALF [#D] 11DC2.4 A Tragical History (?7.4) :D2022_03_doctor:week1:
 SCHEDULED: <2022-03-30 Wed>
 
+*** TBR 11DC vol.3 Geronimo! :P2022_10:
 *** short trips
 **** 3QTR ST10.5 Regeneration Impossible :D2021_08_extra:12th_Dr:
 **** READY [#B] ST11.1 Rearguard :P2022_02:
@@ -656,7 +656,7 @@ DEADLINE: <2022-06-23 Thu 22:40> SCHEDULED: <2022-06-19 Sun>
 :END:
 
 **** TODO [#C] 1.2 War Wounds :Danny_Pink:DW2022_08_doctor:
-SCHEDULED: <2022-08-24 Wed>
+SCHEDULED: <2022-08-28 Sun>
 :PROPERTIES:
 :rating:   7.5
 :END:
