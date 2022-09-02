@@ -45,7 +45,8 @@ CLOSED: [2022-05-19 Thu 08:51] SCHEDULED: <2022-05-07 Sat>
 【【广播剧翻译】大都会电影里出现了赛博人？九任冒险集 303 Monsters in Metropolis-哔哩哔哩】 https://b23.tv/ayLbFDQ
 
 **** S1.4 Old Friends :P2021_11:
-***** LATER [#C] 4.1 Fond Farewell :bilibili:DW2022_09_doctor:
+***** TODO [#C] 4.1 Fond Farewell :bilibili:DW2022_09_doctor:
+SCHEDULED: <2022-09-15 Thu>
 :PROPERTIES:
 :rating:   7.6
 :END:
@@ -514,6 +515,7 @@ SCHEDULED: <2022-07-23 Sat>
 
 **** [#E] 1.2 - The Top of the Tree
 **** TODO [#D] 1.3 - The Light Keepers :Dorium:plot_yes:DW2022_09_doctor:
+SCHEDULED: <2022-09-05 Mon>
 :PROPERTIES:
 :rating:   7.1
 :END:
@@ -548,6 +550,7 @@ SCHEDULED: <2022-03-30 Wed>
 :END:
 
 *** LATER [#C] The Churchill Years 1.3 Living History :P2016:DW2022_09_maybe:plot_yes:
+SCHEDULED: <2022-09-30 Fri>
 :PROPERTIES:
 :rating:   7.9
 :END:
@@ -655,8 +658,8 @@ DEADLINE: <2022-06-23 Thu 22:40> SCHEDULED: <2022-06-19 Sun>
 :rating:   7.3
 :END:
 
-**** TODO [#C] 1.2 War Wounds :Danny_Pink:DW2022_08_doctor:
-SCHEDULED: <2022-08-28 Sun>
+**** START [#C] 1.2 War Wounds :Danny_Pink:DW2022_08_doctor:
+SCHEDULED: <2022-08-30 Tue>
 :PROPERTIES:
 :rating:   7.5
 :END:
@@ -743,7 +746,7 @@ https://www.youtube.com/watch?v=pTBh7pEzUCw&t=913s
 :rating:   3.81
 :END:
 
-* 13rd Doctor :13th_Dr:
+* 13th Doctor :13th_Dr:
 ** tv :📺:
 *** TV S11
 *** DONE Resolution :daleks:

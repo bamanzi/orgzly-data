@@ -374,7 +374,9 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 ***** [#A] 59. Sonny (8.9) :Rhys:
 ***** CANCEL [#E] 60. Infidel Places+ (6.7) :Queen:
 **** series 8 (61-72)
-***** [#B] 61. War Chest :Tosh:
+***** TODO [#B] 61. War Chest :Tosh:DW2022_09_spinoffs:
+      SCHEDULED: <2022-09-20 Tue>
+
 ***** 62. Dead Plates :Bilis_Manger:
 *** specials
 **** 2DONE [#B] special 1: The Torchwood Archive :P2016:The_Commitee:plot_yes:
@@ -396,7 +398,7 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 The Church of the Outsiders believe that mankind is about to evolve, to reach out into the stars. Owen Harper believes that Torchwood has to do whatever it takes to stop them
 
 **** The Sins of Captain John :P2020:
-***** START [#C] 1 - The Restored :DW2022_08_spinoffs:plot_none:
+***** HALF [#C] 1 - The Restored :DW2022_08_spinoffs:plot_none:
       SCHEDULED: <2022-08-25 Thu>
       :PROPERTIES:
       :rating:   7.9
@@ -520,12 +522,18 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
       :rating:   8.5
       :END:
 
-***** HALF [#C] 6.5 Flight 405 (7.8) :Norton:P2019:DW2022_08_spinoffs:
-      SCHEDULED: <2022-08-06 Sat>
+***** 2DONE [#C] 6.5 Flight 405 (7.8) :Norton:P2019:DW2022_08_spinoffs:
+      CLOSED: [2022-08-23 Tue 08:55] SCHEDULED: <2022-08-06 Sat>
 
 ***** TODO [#A] 6.6 Hostile Environment (9.0) :DW2022_09_spinoffs:
-***** [#A] 6.7 Another Man's Shoes (8.8) :Norton:P2019:DW2022_09_spinoffs:
-***** [#A] 6.8 Eye of the Storm (8.8) :Norton:P2019:DW2022_09_spinoffs:
+      SCHEDULED: <2022-09-10 Sat>
+
+***** [#A] 6.7 Another Man's Shoes (8.8) :Norton:P2019:DW2022_10_spinoffs:
+      SCHEDULED: <2022-09-30 Fri>
+
+***** [#A] 6.8 Eye of the Storm (8.8) :Norton:P2019:DW2022_11_spinoffs:
+      SCHEDULED: <2022-09-30 Fri>
+
 ***** [#B] 6.9 A Mother's Son (8.2)
 ***** [#B] 6.10 ScrapeJane (8.2)
 ***** [#A] 6.11 Day Zero (8.7)
@@ -809,11 +817,13 @@ Roberts Master
      :rating:   6.5
      :END:
 
-**** START [#C] 6.4 The Talents of Greel        (7.8) :Jago:DW2022_09_spinoffs:
-     SCHEDULED: <2022-09-07 Wed>
+**** START [#C] 6.4 The Talents of Greel        (7.8) :Jago:DW2022_09_maybe:
+     SCHEDULED: <2022-09-30 Fri>
 
 *** DoRS 7 :P2020:
-**** [#C] 7.1 Colony of Strangers         (7.7) :DW2022_09_spinoffs:
+**** TODO [#C] 7.1 Colony of Strangers         (7.7) :DW2022_10_spinoffs:
+     SCHEDULED: <2022-09-30 Fri>
+
 **** [#D] 7.2 Abbey of Heretics           (7.2)
 **** [#A] 7.3 Barrister to the Stars      (8.9)
 **** [#D] 7.4 Carnival of Angels          (7.0)
@@ -911,8 +921,8 @@ Roberts Master
     DEADLINE: <2022-06-23 Thu 20:40> SCHEDULED: <2022-06-26 Sun>
 
 ** J&L series 7 :P2014:
-*** TODO [#B] 7.1 The Monstrous Menagerie           (8.1) :DW2022_08_spinoffs:
-    SCHEDULED: <2022-08-28 Sun>
+*** HALF [#B] 7.1 The Monstrous Menagerie           (8.1) :DW2022_08_spinoffs:
+    SCHEDULED: <2022-08-30 Tue>
 
 *** [#D] 7.2 The Night of 1000 Stars           (7.2)
 *** [#A] 7.3 Murder at Moorsey Manor           (8.7)
@@ -1017,7 +1027,9 @@ Roberts Master
 *** 3QTR [#B] 3.2 - Warfare (8.3) :DW2022_08_spinoffs:
     CLOSED: [2022-08-12 Fri 21:10] SCHEDULED: <2022-08-13 Sat>
 
-*** [#C] 3.3 - Appropriation (7.9) :DW2022_09_spinoffs:
+*** TODO [#C] 3.3 - Appropriation (7.9) :DW2022_09_spinoffs:
+    SCHEDULED: <2022-09-10 Sat>
+
 *** [#A] 3.4 - Mindbomb (8.9)
 *** [#B] 3.5 - Panacea (8.1)
 ** series 4 :P2011:
@@ -1109,7 +1121,7 @@ Roberts Master
 **** novel: The Big Hunt
 **** anthology: A Life Worth Living
 **** anthology: A Life in Pieces
-**** 3QTR [#A] 5.1 The Grel Escape :DW2022_08_spinoffs:plot_dwg:
+**** 2DONE [#A] 5.1 The Grel Escape :DW2022_08_spinoffs:plot_dwg:
      CLOSED: [2022-08-03 Wed 19:48] SCHEDULED: <2022-08-06 Sat>
      :PROPERTIES:
      :rating:   8.5
@@ -1118,7 +1130,8 @@ Roberts Master
 http://drwhoguide.com/bs_a13.htm
 
 **** [#E] +5.2 The Bone of Contention+
-**** READY [#B] 5.3 The Relics of Jegg-Sau :DW2022_09_spinoffs:
+**** READY [#B] 5.3 The Relics of Jegg-Sau
+     SCHEDULED: <2022-09-30 Fri>
      :PROPERTIES:
      :rating:   8.1
      :END:
@@ -1169,12 +1182,14 @@ http://drwhoguide.com/bs_a13.htm
 *** Series 11
 ** Bernice Summerfield (boxset)
 *** Boxset 1: Epoch :P2011:Atlantis:
-**** [#B] 1.1 The Kraken's Lament :Jack_McSpringheel:DW2022_09_spinoffs:
+**** [#B] 1.1 The Kraken's Lament :Jack_McSpringheel:
+     SCHEDULED: <2022-09-30 Fri>
      :PROPERTIES:
      :rating:   7.9
      :END:
 
-**** [#B] 1.2 The Temple of Questions :Ruth_Leonidas:DW2022_09_spinoffs:
+**** [#B] 1.2 The Temple of Questions :Ruth_Leonidas:
+     SCHEDULED: <2022-09-30 Fri>
      :PROPERTIES:
      :rating:   8.0
      :END:
@@ -1308,6 +1323,7 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
 
 *** vol.5 Buried Memories :Doctor_unbound:P2019:
 **** TODO [#C] 5.1 Pride of the Lampian :DW2022_09_extra:
+     SCHEDULED: <2022-09-05 Mon>
      :PROPERTIES:
      :rating:   7.9
      :END:
@@ -1384,10 +1400,10 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
 
 【【神秘博士广播剧】Missy 201 The Lumiat-哔哩哔哩】 https://b23.tv/aeYuDl6
 
-*** HALF [#D] 2.2 - Brimstone and Terror :plot_no:DW2022_08_spinoffs:
+*** HALF [#E] +2.2 - Brimstone and Terror+ :plot_no:DW2022_08_spinoffs:
     SCHEDULED: <2022-08-13 Sat>
     :PROPERTIES:
-    :rating:   7.0
+    :rating:   6.8
     :END:
 
 *** [#D] 2.3 - Treason and Plot
@@ -1420,11 +1436,13 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
      :END:
 
 **** TODO [#D] 1.2 Prey :DW2022_09_spinoffs:
+     SCHEDULED: <2022-09-10 Sat>
      :PROPERTIES:
      :rating:   7.4
      :END:
 
-**** TODO [#A] 1.3. Vengeance :DW2022_09_spinoffs:
+**** TODO [#A] 1.3. Vengeance :DW2022_09_maybe:
+     SCHEDULED: <2022-09-30 Fri>
      :PROPERTIES:
      :rating:   8.6
      :END:
@@ -1864,10 +1882,12 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
 *** 3QTR [#E] 6.1 - Game Theory  (6.8) :plot_no:DW2022_07_spinoffs:
     CLOSED: [2022-07-21 Thu 09:16] SCHEDULED: <2022-07-30 Sat>
 
-*** [#E] 6.2 - Telepresence   (7.0) :plot_no:DW2022_08_extra:
+*** [#D] 6.2 - Telepresence   (7.0) :plot_no:DW2022_08_extra:
     SCHEDULED: <2022-09-01 Thu>
 
-*** [#C] 6.3 - Code Silver      (7.8) :Cybermen:
+*** TODO [#C] 6.3 - Code Silver      (7.8) :Cybermen:DW2022_09_spinoffs:
+    SCHEDULED: <2022-09-10 Sat>
+
 *** [#B] 6.4 - Master of Worlds                 (8.4) :Cybermen:Master_War:
 ** UNIT 7: Revisitations :P2018:
 *** [#C] 7.1/7.2 - Hosts of the Wirrn           (7.6)
@@ -1891,8 +1911,8 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
 
 Synopsis:  http://www.drwhoguide.com/kaldor01.htm
 
-*** TODO 2. Death's Head :DW2022_08_spinoffs:
-    SCHEDULED: <2022-08-28 Sun>
+*** START 2. Death's Head :DW2022_08_spinoffs:plot_dwg:
+    SCHEDULED: <2022-08-30 Tue>
 
 *** 3. Hidden Persuaders
 ** The Robots (Big Finish, 2019-)
@@ -1916,7 +1936,8 @@ Synopsis:  http://www.drwhoguide.com/kaldor01.htm
      :END:
 
 *** The Robots vol.2 :P2020_07:
-**** [#B] 2.1 - The Robots of War :DW2022_09_spinoffs:
+**** TODO [#B] 2.1 - The Robots of War :DW2022_09_spinoffs:
+     SCHEDULED: <2022-09-20 Tue>
      :PROPERTIES:
      :rating:   8.0
      :END:
@@ -1963,7 +1984,7 @@ Synopsis:  http://www.drwhoguide.com/kaldor01.htm
      :rating:   8.4
      :END:
 
-* The Paternoster Gang
+* The Paternoster Gang :PG:
 ** audio :🎧:
 *** PG: Heritage 1 :P2019:
 **** [#D] (Eight of March #3) Inside Every Warrior (7.2) :D2021_08_extra:
@@ -1975,7 +1996,9 @@ Synopsis:  http://www.drwhoguide.com/kaldor01.htm
      SCHEDULED: <2021-12-31 Fri>
 
 *** PG: Heritage 2 :P2019:
-**** [#D] 2.1 - Dining with Death         (7.0) :DW2022_09_spinoffs:
+**** TODO [#D] 2.1 - Dining with Death         (7.0) :DW2022_09_spinoffs:
+     SCHEDULED: <2022-09-20 Tue>
+
 **** [#C] 2.2 - The Screaming Ceiling     (7.6)
 **** [#C] 2.3 - Spring-Heeled Jack        (7.7)
 *** PG: Heritage 3 :P2020:
@@ -1994,8 +2017,10 @@ Synopsis:  http://www.drwhoguide.com/kaldor01.htm
 *** HALF [#C] 1.2 - Artificial Intelligence      (7.5) :DW2022_08_spinoffs:
     SCHEDULED: <2022-08-25 Thu>
 
-*** [#C] 1.3 - The Pelage Project           (7.7) :DW2022_09_spinoffs:
-*** [#B] 1.4 - State of Emergency           (8.3) :DW2022_10_spinoffs:
+*** [#C] 1.3 - The Pelage Project           (7.7) :DW2022_10_spinoffs:
+    SCHEDULED: <2022-09-30 Fri>
+
+*** [#B] 1.4 - State of Emergency           (8.3) :DW2022_11_spinoffs:
 ** CM series 2 :P2013:
 *** [#B] 2.1 - Manhunt                      (8.1)
 *** [#B] 2.2 - The Fifth Citadel            (8.3)
@@ -2083,7 +2108,8 @@ Synopsis:  http://www.drwhoguide.com/kaldor01.htm
 *** series 1 :P2016:
 **** [#E] 1.1 - The Oncoming Storm          (6.9)
 **** [#D] 1.2 - Hounded                     (7.2)
-**** TODO [#C] 1.3 - Living History              (7.9) :11th_Dr:plot_yes:DW2022_09_spinoffs:
+**** TODO [#C] 1.3 - Living History              (7.9) :11th_Dr:plot_yes:DW2022_09_maybe:
+     SCHEDULED: <2022-09-30 Fri>
 
 4 out of 20 (20.0%) raters say this story requires a previous story.
 
@@ -2105,7 +2131,9 @@ Synopsis:  http://www.drwhoguide.com/kaldor01.htm
 *** [#D] 1.4 The Cats of New Cairo (7.2)
 ** Lady Christina :Christina:
 *** series 1 :P2018:plot_yes:
-**** TODO [#C] 1.1 - It Takes a Thief (7.8) :DW2022_09_spinoffs:
+**** TODO [#C] 1.1 - It Takes a Thief (7.8) :DW2022_10_spinoffs:
+     SCHEDULED: <2022-09-30 Fri>
+
 **** [#D] 1.2 - Skin Deep (7.2)
 **** [#D] 1.3 - Portrait of a Lady (7.0)
 **** TODO [#C] 1.4 - Death on the Mile (7.6)
@@ -2145,7 +2173,7 @@ Synopsis:  http://www.drwhoguide.com/kaldor01.htm
 *** TBR RTDC vol.2 Other Worlds :P2022_10:
 *** TBR RTDC vol.3 Trapped :P2023_09:
 ** Donna Nobel - Kidnapped :Donna:P2020:
-*** TODO [#B] 1. Out of this World (8.1) :bilibili:DW2022_09_spinoffs:
+*** TODO [#B] 1. Out of this World (8.1) :bilibili:DW2022_10_spinoffs:
     SCHEDULED: <2022-09-30 Fri>
 
 【【神秘博士广播剧熟肉】Kidnapped! 101 Out of this World 世界之外-哔哩哔哩】 https://b23.tv/By95ZJG
@@ -2178,6 +2206,8 @@ Synopsis:  http://www.drwhoguide.com/kaldor01.htm
      SCHEDULED: <2022-07-30 Sat>
 
 **** TODO [#A] 1.3 - I, Rorius              (8.7) :DW2022_09_spinoffs:
+     SCHEDULED: <2022-09-20 Tue>
+
 *** vol.2 :P2022_03:
 **** 2.1 The Once and Future Nurse
 **** 2.2 The Glowing Warrior

@@ -428,8 +428,8 @@ CLOSED: [2022-08-08 Mon 20:15] SCHEDULED: <2022-08-03 Wed>
 :rating:   6.8
 :END:
 
-***** TODO [#E] 2.4 - The Sonomancer :DW2022_08_doctor:
-SCHEDULED: <2022-08-25 Thu>
+***** TODO [#D] 2.4 - The Sonomancer :DW2022_08_doctor:
+SCHEDULED: <2022-08-30 Tue>
 :PROPERTIES:
 :rating:   6.9
 :END:
@@ -1028,7 +1028,7 @@ CLOSED: [2022-07-15 Fri 21:16] SCHEDULED: <2022-06-25 Sat>
 :rating:   8.4
 :END:
 
-**** START [#D] 1.2 - Lion Hearts :DW2022_08_extra:
+**** HALF [#D] 1.2 - Lion Hearts :plot_cast:DW2022_08_extra:
 SCHEDULED: <2022-08-25 Thu>
 :PROPERTIES:
 :rating:   7.0

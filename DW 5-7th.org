@@ -121,8 +121,8 @@ CLOSED: [2022-03-27 Sun 12:08] SCHEDULED: <2022-03-30 Wed>
 :END:
 
 **** 📂91. Circular Time :plot_yes:Nyssa:short:
-***** 91a. Spring
-***** 91b. Summer
+***** [#E] 91a. Spring
+***** [#C] 91b. Summer
 ***** [#A] 91c.Autumn
 :PROPERTIES:
 :rating:   8.6
@@ -390,7 +390,9 @@ SCHEDULED: <2022-05-14 Sat>
 ***** The Moonrakers
 ***** The People Made of Smoke
 **** Forty
-***** 1.1 Secrets of Telos :Nyssa:Tegan:Cybermen:P2022_01:DW2022_09_doctor:
+***** 1.1 Secrets of Telos :Nyssa:Tegan:Cybermen:P2022_01:DW2022_09_maybe:
+SCHEDULED: <2022-09-30 Fri>
+
 ***** 1.2 God of War :Nyssa:Tegan:Adric:ice_warriors:P2022_01:
 ***** TBR 2.1 The Auton Infinity :P2022_09:
 **** Conflict of Interests :P2023_04:
@@ -402,7 +404,8 @@ SCHEDULED: <2022-05-14 Sat>
 :END:
 
 **** Classic Doctors, New Monsters :short:
-***** [#B] 1.1 Fallen Angles :DW2022_09_doctor:
+***** TODO [#B] 1.1 Fallen Angles :DW2022_09_doctor:
+SCHEDULED: <2022-09-05 Mon>
 :PROPERTIES:
 :rating:   8.1
 :END:
@@ -532,7 +535,6 @@ CLOSED: [2021-03-22 Mon 20:39]
 
 *** main range 101-150 :scripted:
 **** [#B] 105. The Condemned (8.4) :Charley:plot_no:DW2022_10_doctor:
-SCHEDULED: <2022-08-28 Sun>
 
 Six and Charley meet, and an enjoyable, weird adventure results.
 
@@ -862,6 +864,8 @@ CLOSED: [2021-06-24 Thu 12:31]
 
 ***** [#A] 74. Live 34 (8.5) :P2005:Ace:Hex:plot_no:
 ***** TODO [#B] 79. Night Thoughts :Ace:Hex:DW2022_09_doctor:
+SCHEDULED: <2022-09-05 Mon>
+
 ***** [#C] 82. The Settling :plot_no:
 :PROPERTIES:
 :rating:   7.7
