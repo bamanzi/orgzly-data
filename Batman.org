@@ -290,15 +290,15 @@ CLOSED: <2022-08-02 Tue 22:39>
 CLOSED: <2022-08-05 Fri 10:49>
 
 ***** NEXT 10-12 Batman vs. Robin
-SCHEDULED: <2022-08-27 Sat>
+SCHEDULED: <2022-08-31 Wed>
 
 crossover of /Return of Bruce Wayne/
 
 ***** TODO 13-15 Batman and Robin Must Die
-SCHEDULED: <2022-08-24 Wed>
+SCHEDULED: <2022-09-04 Sun>
 
 ***** TODO 16. Black Mass :P2011:
-SCHEDULED: <2022-08-31 Wed>
+SCHEDULED: <2022-09-04 Sun>
 
 2011-Jan
 
@@ -324,14 +324,13 @@ SCHEDULED: <2022-08-24 Wed>
 ***** DONE Batman: The Return of Bruce Wayne (6 issues)
 CLOSED: [2022-08-21 Sun 08:51] SCHEDULED: <2022-08-21 Sun>
 
-***** NOW Time Masters: Vanishing Point (6 issues)
-SCHEDULED: <2022-08-27 Sat>
+***** CANCEL Time Masters: Vanishing Point (6 issues)
+CLOSED: [2022-08-24 Wed 13:43]
 
-***** NEXT Bruce Wayne: The Road Home
-SCHEDULED: <2022-08-27 Sat>
+***** DONE Bruce Wayne: The Road Home
+CLOSED: [2022-08-27 Sat 23:19] SCHEDULED: <2022-08-28 Sun>
 
 **** TODO [#B] Batman Incorporated Vol 1 :P2011:
-SCHEDULED: <2022-08-28 Sun>
 
 ·蝙蝠侠群英会 V1＃1-8
 （莫里森史诗第7部分）布鲁斯·韦恩已经归来，并决定通过他的部队在全球范围对抗犯罪
@@ -359,7 +358,7 @@ CLOSED: [2022-08-13 Sat 11:49] SCHEDULED: <2022-08-12 Fri>
 CLOSED: [2022-08-16 Tue 20:13] SCHEDULED: <2022-08-19 Fri>
 
 ****** TODO 20-26. Division
-SCHEDULED: <2022-08-21 Sun>
+SCHEDULED: <2022-08-31 Wed>
 
 ***** DOING [#C] Streets of Gotham #1-11
 
@@ -386,7 +385,7 @@ CLOSED: [2022-08-16 Tue 19:17] SCHEDULED: <2022-08-18 Thu>
 #12-13 不怎么样
 
 ****** TODO 14-21. House of Hush
-SCHEDULED: <2022-08-24 Wed>
+SCHEDULED: <2022-08-31 Wed>
 
 **** singles
 ***** DC #821-845
@@ -696,6 +695,7 @@ CLOSED: <2021-06-18 Fri 22:14>
 凯特·凯恩是新的蝙蝠女侠，她在探索她的过去并踏入她的新角色时，必须面对超自然的威胁。
 
 *** GCPD
+**** Gotham Central
 *** Batgirl
 **** DOING [#C] Batgirl vol.3 #1-24
 
@@ -778,8 +778,18 @@ CLOSED: [2022-08-17 Wed 19:14] SCHEDULED: <2022-08-18 Thu>
 **** DONE 4x07
 CLOSED: [2022-08-21 Sun 22:36] SCHEDULED: <2022-08-21 Sun>
 
-**** 4x08
-**** 4x09
+**** DONE 4x08
+CLOSED: [2022-08-26 Fri 20:15]
+
+**** DONE 4x09
+CLOSED: [2022-08-27 Sat 22:13]
+
+**** NOW 4x10
+SCHEDULED: <2022-08-31 Wed>
+
+**** NEXT 4x11
+SCHEDULED: <2022-09-04 Sun>
+
 *** DOING Pennyworth S1
 **** DONE 1x01
 **** DONE 1x02
@@ -793,8 +803,12 @@ CLOSED: [2022-08-11 Thu 22:30] SCHEDULED: <2022-08-13 Sat>
 **** DONE 1x06
 CLOSED: [2022-08-21 Sun 11:42] SCHEDULED: <2022-08-21 Sun>
 
-**** 1x07
-**** 1x08
+**** DONE 1x07
+CLOSED: [2022-08-26 Fri 23:02]
+
+**** NOW 1x08
+SCHEDULED: <2022-09-03 Sat>
+
 **** 1x09
 ** DCAU :dcau:
 *** Batman Adventures
@@ -904,8 +918,14 @@ CLOSED: [2022-08-14 Sun 16:52] SCHEDULED: <2022-08-14 Sun>
 *** DONE 1x04
 CLOSED: [2022-08-19 Fri 23:27] SCHEDULED: <2022-08-18 Thu>
 
-*** TODO 1x05
-SCHEDULED: <2022-08-21 Sun>
+*** DONE 1x05
+CLOSED: [2022-08-27 Sat 07:55] SCHEDULED: <2022-08-21 Sun>
+
+*** NOW 1x06
+SCHEDULED: <2022-08-31 Wed>
+
+*** NEXT 1x07
+SCHEDULED: <2022-09-03 Sat>
 
 * Green Arrow
 ** comics
@@ -925,6 +945,6 @@ CLOSED: [2022-08-14 Sun 17:40] SCHEDULED: <2022-08-14 Sun>
 **** DONE 1x03
 CLOSED: [2022-08-20 Sat 14:57] SCHEDULED: <2022-08-18 Thu>
 
-**** TODO 1x04
-SCHEDULED: <2022-08-21 Sun>
+**** DONE 1x04
+CLOSED: [2022-08-23 Tue 21:05] SCHEDULED: <2022-08-21 Sun>
 
