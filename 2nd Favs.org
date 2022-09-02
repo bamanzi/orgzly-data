@@ -33,10 +33,10 @@ CLOSED: <2022-02-05 Sat 17:17>
 **** DONE 卷五：一场游戏一场梦 (A Game of You, #32-37)
 CLOSED: [2022-03-17 Thu 07:27]
 
-**** TPB.6 Fables and Reflections
-**** TPB.7 Brief Lives
-**** TPB.8 Worlds' End
-**** TPB.9 The Kindly Ones
+**** TPB.6 Fables and Reflections (#29-31, #38-40, #50)
+**** TPB.7 Brief Lives (#41-49)
+**** TPB.8 Worlds' End (#51-56)
+**** TPB.9 The Kindly Ones (#57-69)
 **** TPB.10 The Wake
 *** Sandman Universe (2018- ) :📚:
 

@@ -16,6 +16,10 @@ CLOSED: <2021-07-23 Fri 23:49>
 ***** 1x03 The Naval Treaty
 ***** 1x04 The Solitary Cyclist
 ***** 1x05 The Crooked Man
+**** The Return of SH
+***** DONE 4x06 The Hound of the Baskervilles
+CLOSED: [2022-08-26 Fri 22:02]
+
 *** 俄版福尔摩斯 (1979-1986)
 *** Elementary
 **** DONE S1

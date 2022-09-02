@@ -194,8 +194,8 @@ CLOSED: [2022-07-12 Tue 23:06] SCHEDULED: <2022-07-08 Fri>
 :rating:   6.7
 :END:
 
-**** NOW [#D] 3x13 Elaan of Troyius
-SCHEDULED: <2022-07-23 Sat>
+**** DONE [#D] 3x13 Elaan of Troyius
+CLOSED: [2022-08-02 Tue 20:39] SCHEDULED: <2022-07-23 Sat>
 :PROPERTIES:
 :rating:   7.3
 :END:
@@ -1904,8 +1904,8 @@ CLOSED: <2022-07-15 Fri 19:16> SCHEDULED: <2022-07-14 Thu>
 **** 2DONE 55-58 Legacy of Spock :Spock:
 **** 59-60 final
 *** 2DONE Star Trek: Boldly Go
-**** TODO IDIC #13-18 :alternate_universe:hanzify:
-SCHEDULED: <2022-07-24 Sun>
+**** DONE IDIC #13-18 :alternate_universe:hanzify:
+CLOSED: [2022-08-02 Tue 06:20] SCHEDULED: <2022-07-24 Sun>
 
 *** KTL movie line
 **** DONE Star Trek: Countdown
