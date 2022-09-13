@@ -288,7 +288,7 @@ It was set between series 1 and series 2 of the Eighth Doctor Adventures a
 :rating:   7.9
 :END:
 
-***** TODO [#C] 2.7 - Sisters of the Flame :Morbius:Karn:DW2022_08_extra:
+***** TODO [#C] 2.7 - Sisters of the Flame :Morbius:Karn:
 SCHEDULED: <2022-09-01 Thu>
 :PROPERTIES:
 :rating:   7.8
@@ -428,8 +428,8 @@ CLOSED: [2022-08-08 Mon 20:15] SCHEDULED: <2022-08-03 Wed>
 :rating:   6.8
 :END:
 
-***** TODO [#D] 2.4 - The Sonomancer :DW2022_08_doctor:
-SCHEDULED: <2022-08-30 Tue>
+***** [#E] 2.4 - The Sonomancer :DW2022_08_doctor:
+SCHEDULED: <2022-09-04 Sun>
 :PROPERTIES:
 :rating:   6.9
 :END:
@@ -596,6 +596,8 @@ SCHEDULED: <2022-08-30 Tue>
 
 **** Stranded vol.3
 **** Stranded vol.4
+*** 8DA (2022- )
+**** TBR What Lies Inside :P2022_11:
 *** 8D Time War
 *** misc :short:
 **** [#C] ST2.8 - Letting Go
@@ -1034,7 +1036,8 @@ SCHEDULED: <2022-08-25 Thu>
 :rating:   7.0
 :END:
 
-**** [#B] 1.3 - The Shadow Squad
+**** TODO [#B] 1.3 - The Shadow Squad :DW2022_10_doctor:
+SCHEDULED: <2022-10-29 Sat>
 :PROPERTIES:
 :rating:   8.4
 :END:

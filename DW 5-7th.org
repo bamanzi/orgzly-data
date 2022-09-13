@@ -404,8 +404,8 @@ SCHEDULED: <2022-09-30 Fri>
 :END:
 
 **** Classic Doctors, New Monsters :short:
-***** TODO [#B] 1.1 Fallen Angles :DW2022_09_doctor:
-SCHEDULED: <2022-09-05 Mon>
+***** HALF [#B] 1.1 Fallen Angles :DW2022_09_doctor:
+SCHEDULED: <2022-09-08 Thu>
 :PROPERTIES:
 :rating:   8.1
 :END:
@@ -534,7 +534,7 @@ CLOSED: [2021-03-22 Mon 20:39]
 :END:
 
 *** main range 101-150 :scripted:
-**** [#B] 105. The Condemned (8.4) :Charley:plot_no:DW2022_10_doctor:
+**** [#B] 105. The Condemned (8.4) :Charley:plot_no:DW2022_10_maybe:
 
 Six and Charley meet, and an enjoyable, weird adventure results.
 
@@ -663,7 +663,8 @@ SCHEDULED: <2022-02-17 Thu>
 
 【【广播剧翻译】照日光变成人的反向狼人 六任:最后的冒险 102 红房子-哔哩哔哩】 https://b23.tv/RLKffOm
 
-***** [#B] Stage Fright :Jago:Litefoot:bilibili:
+***** TODO [#B] Stage Fright :Jago:Litefoot:bilibili:DW2022_10_doctor:
+SCHEDULED: <2022-10-15 Sat>
 :PROPERTIES:
 :rating:   8.3
 :END:
@@ -703,7 +704,7 @@ Volume One
 ***** 2. The Murder of Oliver Akkron
 ***** 3. Elevation
 **** Water Worlds :P2022_05:Mel:
-**** TBR Purity Undreamed :P2022_08:
+**** Purity Undreamed :P2022_08:
 *** The Lost Stories
 **** The Lost Stories s1 :Peri:
 ***** [#E] LS1.1 The Nightmare Fair :scripted:
@@ -863,8 +864,11 @@ CLOSED: <2021-09-23 Thu 21:27> SCHEDULED: <2021-09-04 Sat>
 CLOSED: [2021-06-24 Thu 12:31]
 
 ***** [#A] 74. Live 34 (8.5) :P2005:Ace:Hex:plot_no:
-***** TODO [#B] 79. Night Thoughts :Ace:Hex:DW2022_09_doctor:
-SCHEDULED: <2022-09-05 Mon>
+***** HALF [#B] 79. Night Thoughts :Ace:Hex:DW2022_09_doctor:
+SCHEDULED: <2022-09-15 Thu>
+:PROPERTIES:
+:rating:   8.1
+:END:
 
 ***** [#C] 82. The Settling :plot_no:
 :PROPERTIES:
@@ -1058,6 +1062,7 @@ CLOSED: [2021-03-23 Tue 13:04]
 **** 7DA Silver and Ice :P2022_06:
 ***** Bad Day in Tinseltown :Cybermen:Mel:
 ***** The Ribos Inheritance :Mel:
+**** TBR 7DA Sullivan and Cross - AWOL :P2022_11:
 *** misc
 **** BLOCK [#D] NA1 Love and War :Ace:Benny:3CD:
 
