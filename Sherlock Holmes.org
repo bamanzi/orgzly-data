@@ -7,15 +7,23 @@
 ** tv
 *** Jeremy Brett 版 (1984-1994)
 **** The Adventures of SH
-***** DONE 1x01 A Scandal in Bohemia
+***** DONE 1x01 A Scandal in Bohemia 波希米亚丑闻
 CLOSED: [2021-07-31 Sat 23:49]
 
-***** DONE 1x02 The Dancing Men
+***** DONE 1x02 The Dancing Men 跳舞的人
 CLOSED: <2021-07-23 Fri 23:49>
 
-***** 1x03 The Naval Treaty
-***** 1x04 The Solitary Cyclist
-***** 1x05 The Crooked Man
+***** 1x03 The Naval Treaty 海军协约
+***** 1x04 The Solitary Cyclist 孤身骑车人
+***** 1x05 The Crooked Man 驼背人
+***** 1x06. The Speckled Band 斑点带子
+***** 1x07. The Blue Carbuncle 蓝宝石案
+***** 8. The Copper Beeches 铜山毛榉案
+***** 9. The Greek Interpreter 希腊译员
+***** 10. The Norwood Builder 诺伍德的建筑师
+***** 11. The Resident Patient 住院病人
+***** 12. The Red-Headed League 红发会
+***** 13. The Final Problem 最后一案
 **** The Return of SH
 ***** DONE 4x06 The Hound of the Baskervilles
 CLOSED: [2022-08-26 Fri 22:02]
@@ -25,6 +33,13 @@ CLOSED: [2022-08-26 Fri 22:02]
 **** DONE S1
 **** DONE S2
 **** DONE S3
+***** DONE 3x24
+CLOSED: <2022-09-10 Sat 16:55>
+
+**** S4
+***** DONE 4x01
+CLOSED: [2022-09-11 Sun 17:02]
+
 *** Sherlock 神探夏洛克
 * Agatha Christie 阿加莎·克里斯蒂
 ** tv

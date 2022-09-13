@@ -276,9 +276,11 @@ CLOSED: [2022-08-06 Sat 15:35]
 
 （莫里森的史诗第4部分）从蝙蝠侠的角度探讨最终危机事件。
 
-**** DOING Batman and Robin vol.1 #1-16 (2009-2011) :P2009:
+**** DONE Batman and Robin vol.1 (2009-2011) :P2009:
 
 （莫里森史诗第5部分）随着布鲁斯·韦恩被推定死亡，迪克·格雷森再次接过了披风，这次达米安·韦恩作为他的罗宾。
+
+推荐 #1-16
 
 ***** DONE 1-3 Batman Reborn
 CLOSED: <2022-08-01 Mon 13:10>
@@ -289,32 +291,35 @@ CLOSED: <2022-08-02 Tue 22:39>
 ***** DONE 7-9 Blackest Knight
 CLOSED: <2022-08-05 Fri 10:49>
 
-***** NEXT 10-12 Batman vs. Robin
-SCHEDULED: <2022-08-31 Wed>
+***** DONE 10-12 Batman vs. Robin
+CLOSED: [2022-08-28 Sun 22:54] SCHEDULED: <2022-08-31 Wed>
 
 crossover of /Return of Bruce Wayne/
 
-***** TODO 13-15 Batman and Robin Must Die
-SCHEDULED: <2022-09-04 Sun>
+***** DONE 13-15 Batman and Robin Must Die
+CLOSED: [2022-08-29 Mon 14:41] SCHEDULED: <2022-09-04 Sun>
 
-***** TODO 16. Black Mass :P2011:
-SCHEDULED: <2022-09-04 Sun>
+***** DONE 16. Black Mass :P2011:
+CLOSED: [2022-08-29 Mon 14:41] SCHEDULED: <2022-09-04 Sun>
 
 2011-Jan
 
-***** TODO 17-19. The Sum of Her :P2011:
-SCHEDULED: <2022-08-31 Wed>
+***** DONE 17-19. The Sum of Her :P2011:
 
 written by Paul Cornell
 
-**** TODO [#B] The Black Mirror :🛒:Snyder:Grayson:P2010:
+***** DONE 20-22. Dark Knight vs. White Knight, Tree of Blood
+***** DONE 23-26. The Streets Run Red
+CLOSED: [2022-09-11 Sun 07:46]
+
+**** NOW [#B] The Black Mirror :🛒:Snyder:Grayson:P2010:
 SCHEDULED: <2022-09-04 Sun>
 
  作为蝙蝠侠的迪克·格雷森不得不与小詹姆斯·戈登抗争，后者作为连环杀手归来，同时也是对哥谭市和迪克·格雷森本人的黑暗面的反映。
 
 2010.01 - 10
 
-**** Return of Bruce Wayne :P2010:
+**** DONE Return of Bruce Wayne :P2010:
 SCHEDULED: <2022-08-24 Wed>
 
 蝙蝠侠：布鲁斯·韦恩归来
@@ -324,13 +329,18 @@ SCHEDULED: <2022-08-24 Wed>
 ***** DONE Batman: The Return of Bruce Wayne (6 issues)
 CLOSED: [2022-08-21 Sun 08:51] SCHEDULED: <2022-08-21 Sun>
 
+应该先看 Batman & Robin v1 #10-12
+
 ***** CANCEL Time Masters: Vanishing Point (6 issues)
 CLOSED: [2022-08-24 Wed 13:43]
 
 ***** DONE Bruce Wayne: The Road Home
 CLOSED: [2022-08-27 Sat 23:19] SCHEDULED: <2022-08-28 Sun>
 
-**** TODO [#B] Batman Incorporated Vol 1 :P2011:
+/Batman: The Return #1/ 这一期应该在 /Batman and Robin v1 #13-16/ 之后看（在合订本中也是收录在一起的）
+
+**** DONE [#B] Batman Incorporated Vol 1 :P2011:
+CLOSED: [2022-09-07 Wed 18:38]
 
 ·蝙蝠侠群英会 V1＃1-8
 （莫里森史诗第7部分）布鲁斯·韦恩已经归来，并决定通过他的部队在全球范围对抗犯罪
@@ -338,7 +348,7 @@ CLOSED: [2022-08-27 Sat 23:19] SCHEDULED: <2022-08-28 Sun>
 2011 Jan-Oct
 
 **** misc
-***** DOING [#C] Gotham City Sirens (2009-2010) #1-11
+***** DONE [#C] Gotham City Sirens (2009-2010)
 
  猫女决定与毒藤女及哈莉奎因合作，希望她能控制住她们的邪恶倾向。
 
@@ -357,10 +367,10 @@ CLOSED: [2022-08-13 Sat 11:49] SCHEDULED: <2022-08-12 Fri>
 ****** DONE 14-19. Strange Fruit
 CLOSED: [2022-08-16 Tue 20:13] SCHEDULED: <2022-08-19 Fri>
 
-****** TODO 20-26. Division
-SCHEDULED: <2022-08-31 Wed>
+****** DONE 20-26. Division
+CLOSED: [2022-08-31 Wed 08:25] SCHEDULED: <2022-08-31 Wed>
 
-***** DOING [#C] Streets of Gotham #1-11
+***** DONE [#C] Streets of Gotham (2009-2011)
 
  Paul Dini的有一个聚焦哥谭市黑帮的系列。这是他的侦探漫画连载的精神续作。
 
@@ -384,23 +394,42 @@ CLOSED: [2022-08-16 Tue 19:17] SCHEDULED: <2022-08-18 Thu>
 
 #12-13 不怎么样
 
-****** TODO 14-21. House of Hush
-SCHEDULED: <2022-08-31 Wed>
+****** DONE 14-21. House of Hush :Hush:
+CLOSED: [2022-09-03 Sat 15:34] SCHEDULED: <2022-08-31 Wed>
 
+虽然也是 Paul Dini 写的，但故事过于复杂了
+
+***** NOW Nightwing v2 #140-153
+****** DONE Nightwing: Freefall (#140-146)
+CLOSED: [2022-09-12 Mon 20:03]
+
+****** Nightwing: The Great Leap (#147-153)
+***** DONE Red Hood: The Lost Days
+CLOSED: [2022-09-10 Sat 23:23]
+
+***** HALF Red Robin #1-16
+****** DONE Red Robin #1-8
+CLOSED: [2022-09-12 Mon 20:26]
+
+****** Red Robin: Collision (#9-12)
+****** Red Robin: The Hit List (#13-17)
+****** Red Robin: 7 Days of Death (#18-26)
 **** singles
 ***** DC #821-845
 
 保罗·迪尼（Paul Dini）在这个系列中的表现出色，虽然有时因其他刊物中发生的重大事件而被蒙上阴影，却完美地讲述了蝙蝠侠历史上的小故事。
 
 ****** DONE DC #821-826 Detective
-****** LATER DC #827-834 Batman - Death and the City
-****** DC #841-845 Batman - Private Casebook (2008)
+****** LATER DC #827-834 Death and the City
+****** DC #841-845 Private Casebook (2008)
 ***** Batman Confidential #49
 
 《从未完成的工作》
 
 蝙蝠侠调查谋杀案现场的典型夜晚。
 
+***** Joker's Asylum (2008)
+***** Joker's Asylum II (2010)
 *** 2011-2016 (new52)
 **** Batman v2 (52 issues) :Snyder:
 ***** 2DONE [#B] Court of the Owls saga (#1-11)
@@ -707,7 +736,7 @@ CLOSED: [2022-08-09 Tue 13:42] SCHEDULED: <2022-08-10 Wed>
 ***** DONE 9-14. The Flood
 CLOSED: [2022-08-14 Sun 07:54] SCHEDULED: <2022-08-14 Sun>
 
-***** TODO 15-24. The Lesson
+***** DOING 15-24. The Lesson
 SCHEDULED: <2022-08-24 Wed>
 
 *** misc
@@ -784,12 +813,20 @@ CLOSED: [2022-08-26 Fri 20:15]
 **** DONE 4x09
 CLOSED: [2022-08-27 Sat 22:13]
 
-**** NOW 4x10
-SCHEDULED: <2022-08-31 Wed>
+**** DONE 4x10
+CLOSED: [2022-08-31 Wed 20:05] SCHEDULED: <2022-08-31 Wed>
 
-**** NEXT 4x11
-SCHEDULED: <2022-09-04 Sun>
+**** DONE 4x11
+CLOSED: [2022-09-03 Sat 16:44] SCHEDULED: <2022-09-04 Sun>
 
+**** DONE 4x12
+CLOSED: [2022-09-04 Sun 21:24]
+
+**** DONE 4x13
+CLOSED: [2022-09-11 Sun 14:46]
+
+**** NOW 4x14
+**** NEXT 4x15
 *** DOING Pennyworth S1
 **** DONE 1x01
 **** DONE 1x02
@@ -806,10 +843,13 @@ CLOSED: [2022-08-21 Sun 11:42] SCHEDULED: <2022-08-21 Sun>
 **** DONE 1x07
 CLOSED: [2022-08-26 Fri 23:02]
 
-**** NOW 1x08
-SCHEDULED: <2022-09-03 Sat>
+**** DONE 1x08
+CLOSED: [2022-09-03 Sat 12:20] SCHEDULED: <2022-09-03 Sat>
 
-**** 1x09
+**** DONE 1x09
+CLOSED: [2022-09-09 Fri 20:06] SCHEDULED: <2022-09-10 Sat>
+
+**** NOW 1x10
 ** DCAU :dcau:
 *** Batman Adventures
 **** movies
@@ -877,13 +917,14 @@ CLOSED: [2022-08-21 Sun 10:09] SCHEDULED: <2022-08-18 Thu>
 SCHEDULED: <2022-08-21 Sun>
 
 * Superman :Superman:
-** DONE All-star Superman
-** Kingdom Come
-*** Kingdom Come (4 issues) :P1996:
+** comics :📚:
+*** DONE All-star Superman
+*** Kingdom Come
+**** Kingdom Come (4 issues) :P1996:
 
 https://dc.fandom.com/wiki/Kingdom_Come_Vol_1
 
-*** The Kingdom :P1999:
+**** The Kingdom :P1999:
 
 The Kingdom was a two-issue limited series, which also included five
 one-shot specials. The series was a sequel to the popular Elseworlds
@@ -891,7 +932,7 @@ title Kingdom Come. It is the basis for Earth-22 continuity.
 
 https://dc.fandom.com/wiki/The_Kingdom_Vol_1
 
-*** JSA3: Thy Kingdom Come (2007-2009)
+**** JSA3: Thy Kingdom Come (2007-2009)
 
 In 2007-08, the storyline "Thy Kingdom Come" was introduced in the
 pages of Justice Society of America (Volume 3). Although hailed as an
@@ -905,28 +946,39 @@ to the re-imagined Earth-22 reality.
 
 https://dc.fandom.com/wiki/Thy_Kingdom_Come
 
-** DOING tv: Superman and Lois :📺:
-*** DONE 1x01
+** tv :📺:
+*** DOING Superman and Lois (15 eps)
+**** DONE 1x01
 CLOSED: [2022-08-07 Sun 20:34]
 
-*** DONE 1x02
+**** DONE 1x02
 CLOSED: [2022-08-10 Wed 21:41] SCHEDULED: <2022-08-11 Thu>
 
-*** DONE 1x03
+**** DONE 1x03
 CLOSED: [2022-08-14 Sun 16:52] SCHEDULED: <2022-08-14 Sun>
 
-*** DONE 1x04
+**** DONE 1x04
 CLOSED: [2022-08-19 Fri 23:27] SCHEDULED: <2022-08-18 Thu>
 
-*** DONE 1x05
+**** DONE 1x05
 CLOSED: [2022-08-27 Sat 07:55] SCHEDULED: <2022-08-21 Sun>
 
-*** NOW 1x06
-SCHEDULED: <2022-08-31 Wed>
+**** DONE 1x06
+CLOSED: [2022-08-28 Sun 18:07] SCHEDULED: <2022-08-31 Wed>
 
-*** NEXT 1x07
-SCHEDULED: <2022-09-03 Sat>
+**** DONE 1x07
+CLOSED: [2022-09-02 Fri 08:05] SCHEDULED: <2022-09-03 Sat>
 
+**** DONE 1x08
+CLOSED: [2022-09-07 Wed 08:02] SCHEDULED: <2022-09-04 Sun>
+
+**** DONE 1x09
+CLOSED: [2022-09-10 Sat 11:59] SCHEDULED: <2022-09-11 Sun>
+
+**** NOW 1x10
+SCHEDULED: <2022-09-15 Thu>
+
+**** NEXT 1x11
 * Green Arrow
 ** comics
 ** tv
@@ -948,3 +1000,17 @@ CLOSED: [2022-08-20 Sat 14:57] SCHEDULED: <2022-08-18 Thu>
 **** DONE 1x04
 CLOSED: [2022-08-23 Tue 21:05] SCHEDULED: <2022-08-21 Sun>
 
+**** DONE 1x05
+CLOSED: [2022-08-31 Wed 19:10]
+
+**** DONE 1x06
+CLOSED: [2022-09-03 Sat 19:50]
+
+**** DONE 1x07
+CLOSED: [2022-09-08 Thu 23:04]
+
+**** DONE 1x08
+CLOSED: [2022-09-12 Mon 15:49]
+
+**** NOW 1x09
+**** NEXT 1x10
