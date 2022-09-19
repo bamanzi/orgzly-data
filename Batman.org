@@ -273,6 +273,7 @@ CLOSED: [2022-08-07 Sun 18:06]
 CLOSED: [2022-08-06 Sat 15:35]
 
 **** NOW [#C] Time and the Batman (#700-703) :P2010:
+SCHEDULED: <2022-09-18 Sun>
 
 （莫里森的史诗第4部分）从蝙蝠侠的角度探讨最终危机事件。
 
@@ -312,8 +313,7 @@ written by Paul Cornell
 ***** DONE 23-26. The Streets Run Red
 CLOSED: [2022-09-11 Sun 07:46]
 
-**** NOW [#B] The Black Mirror :🛒:Snyder:Grayson:P2010:
-SCHEDULED: <2022-09-04 Sun>
+**** TODO [#B] The Black Mirror :🛒:Snyder:Grayson:P2010:
 
  作为蝙蝠侠的迪克·格雷森不得不与小詹姆斯·戈登抗争，后者作为连环杀手归来，同时也是对哥谭市和迪克·格雷森本人的黑暗面的反映。
 
@@ -399,21 +399,31 @@ CLOSED: [2022-09-03 Sat 15:34] SCHEDULED: <2022-08-31 Wed>
 
 虽然也是 Paul Dini 写的，但故事过于复杂了
 
-***** NOW Nightwing v2 #140-153
+***** DONE Nightwing v2 #140-153
+SCHEDULED: <2022-09-18 Sun>
+
 ****** DONE Nightwing: Freefall (#140-146)
 CLOSED: [2022-09-12 Mon 20:03]
 
-****** Nightwing: The Great Leap (#147-153)
+****** DONE Nightwing: The Great Leap (#147-153)
+CLOSED: <2022-09-17 Sat 17:41>
+
 ***** DONE Red Hood: The Lost Days
 CLOSED: [2022-09-10 Sat 23:23]
 
 ***** HALF Red Robin #1-16
+SCHEDULED: <2022-09-30 Fri>
+
 ****** DONE Red Robin #1-8
 CLOSED: [2022-09-12 Mon 20:26]
 
-****** Red Robin: Collision (#9-12)
-****** Red Robin: The Hit List (#13-17)
-****** Red Robin: 7 Days of Death (#18-26)
+****** DONE Red Robin: Collision (#9-12)
+CLOSED: [2022-09-18 Sun 18:03]
+
++ Batgirl vol 3 008
+
+****** NOW Red Robin: The Hit List (#13-17)
+****** NEXT Red Robin: 7 Days of Death (#18-26)
 **** singles
 ***** DC #821-845
 
@@ -487,19 +497,18 @@ CLOSED: <2021-06-12 Sat 17:34>
 ***** 2DONE Anarky (#35-40)
 CLOSED: <2021-06-20 Sun 17:34>
 
-**** TODO 蝙蝠侠和罗宾 V2＃1-8 为杀而生
-
-布鲁斯必须学会成为他儿子兼罗宾：达米安的父亲和搭档。
-
-**** TODO [#B] 蝙蝠侠群英会V2 ＃0-13
+**** DONE [#B] 蝙蝠侠群英会V2 ＃0-13
 
 （莫里森史诗第8部分）格兰特·莫里森的蝙蝠史诗的结局终于来临，塔莉亚·阿尔·古尔决定收回她的儿子，不论死活。
 
-***** [#B] Demon Star	(Batman Incorporated #0-6)
+***** DONE [#B] Demon Star	(Batman Incorporated #0-6)
+CLOSED: <2022-09-13 Tue 22:45>
 
 Batman Incorporated: Demon Star
 
-***** [#B] Gotham's Most Wanted (Batman Incorporated #7-13)
+***** DONE [#B] Gotham's Most Wanted (Batman Incorporated #7-13)
+CLOSED: [2022-09-14 Wed 22:39]
+
 **** DONE #18 “安魂曲”
 
 完全沉默的一期，讲述了布鲁斯·韦恩哀悼他儿子的死亡。
@@ -515,7 +524,11 @@ Batman Incorporated: Demon Star
 - Batgirl #18
 - Red Hood and the Outlaws #18
 
-**** TODO 罗宾：蝙蝠侠之子 ＃1-6
+**** NEXT2 蝙蝠侠和罗宾 V2＃1-8 为杀而生
+
+布鲁斯必须学会成为他儿子兼罗宾：达米安的父亲和搭档。
+
+**** NEXT2 罗宾：蝙蝠侠之子 ＃1-6
 
 前往天启星并返回之后，达米安被父亲复活了。现在他必须继续救赎他在训练期间犯下的罪行。
 
@@ -526,6 +539,7 @@ Batman Incorporated: Demon Star
 ****** Death of the Family (#14-19)
 ****** [#B] Wanted (#19-26)
 ****** [#C] Deadline (#27-34)
+***** NEXT2 Nightwing v3
 ***** 2DONE 格雷森 ＃1-20
 CLOSED: <2021-05-23 Sun 17:27>
 
@@ -726,7 +740,7 @@ CLOSED: <2021-06-18 Fri 22:14>
 *** GCPD
 **** Gotham Central
 *** Batgirl
-**** DOING [#C] Batgirl vol.3 #1-24
+**** [#C] Batgirl vol.3 #1-24 :batgirl:
 
  随着布鲁斯的离开，卡茜决定放弃蝙蝠女郎的衣钵，而史蒂芬妮·布朗决定将其接过。她意识到学习过程会十分艰难，但芭芭拉·戈登会提供帮助。
 
@@ -737,7 +751,7 @@ CLOSED: [2022-08-09 Tue 13:42] SCHEDULED: <2022-08-10 Wed>
 CLOSED: [2022-08-14 Sun 07:54] SCHEDULED: <2022-08-14 Sun>
 
 ***** DOING 15-24. The Lesson
-SCHEDULED: <2022-08-24 Wed>
+SCHEDULED: <2022-09-25 Sun>
 
 *** misc
 **** DONE Batman/Huntress: Cry for Blood (3 issues) :Huntress:P2000:origin:
@@ -785,7 +799,7 @@ The story is inspired by the /Batman Reborn/ arc, whilst also including elements
 *** DONE Gotham S1
 *** DONE Gotham S2
 *** DONE Gotham S3
-*** DOING Gotham S4
+*** DOING Gotham S4 (22 eps)
 **** DONE 4x01
 CLOSED: [2022-08-01 Mon 08:09]
 
@@ -816,7 +830,7 @@ CLOSED: [2022-08-27 Sat 22:13]
 **** DONE 4x10
 CLOSED: [2022-08-31 Wed 20:05] SCHEDULED: <2022-08-31 Wed>
 
-**** DONE 4x11
+**** DONE 4x11 A Dark Knight: Queen Takes Knight
 CLOSED: [2022-09-03 Sat 16:44] SCHEDULED: <2022-09-04 Sun>
 
 **** DONE 4x12
@@ -825,9 +839,24 @@ CLOSED: [2022-09-04 Sun 21:24]
 **** DONE 4x13
 CLOSED: [2022-09-11 Sun 14:46]
 
-**** NOW 4x14
-**** NEXT 4x15
-*** DOING Pennyworth S1
+**** DONE 4x14
+CLOSED: [2022-09-15 Thu 20:12]
+
+**** DONE 4x15
+CLOSED: [2022-09-18 Sun 19:57]
+
+Final appearance of Falcone Crime Family 
+
+**** NOW 4x16
+**** NEXT 4x17
+**** 4x18
+**** LATER 4x19 A Dark Knight: To Our Deaths and Beyond
+
+Ra's al Ghul 复活
+
+*** DONE Pennyworth S1
+CLOSED: [2022-09-16 Fri 20:31]
+
 **** DONE 1x01
 **** DONE 1x02
 **** DONE 1x03
@@ -849,7 +878,9 @@ CLOSED: [2022-09-03 Sat 12:20] SCHEDULED: <2022-09-03 Sat>
 **** DONE 1x09
 CLOSED: [2022-09-09 Fri 20:06] SCHEDULED: <2022-09-10 Sat>
 
-**** NOW 1x10
+**** DONE 1x10
+CLOSED: [2022-09-16 Fri 20:31]
+
 ** DCAU :dcau:
 *** Batman Adventures
 **** movies
@@ -975,10 +1006,14 @@ CLOSED: [2022-09-07 Wed 08:02] SCHEDULED: <2022-09-04 Sun>
 **** DONE 1x09
 CLOSED: [2022-09-10 Sat 11:59] SCHEDULED: <2022-09-11 Sun>
 
-**** NOW 1x10
-SCHEDULED: <2022-09-15 Thu>
+**** DONE 1x10
+CLOSED: [2022-09-15 Thu 08:09] SCHEDULED: <2022-09-15 Thu>
 
-**** NEXT 1x11
+**** DONE 1x11
+CLOSED: [2022-09-18 Sun 14:06]
+
+**** NOW 1x12
+**** NEXT 1x13
 * Green Arrow
 ** comics
 ** tv
@@ -1012,5 +1047,8 @@ CLOSED: [2022-09-08 Thu 23:04]
 **** DONE 1x08
 CLOSED: [2022-09-12 Mon 15:49]
 
-**** NOW 1x09
-**** NEXT 1x10
+**** DONE 1x09
+CLOSED: [2022-09-16 Fri 19:36]
+
+**** NOW 1x10
+**** NEXT 1x11
