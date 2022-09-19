@@ -210,7 +210,7 @@ CLOSED: [2021-03-22 Mon 23:16]
 :END:
 
 *** main range 151-200 :scripted:
-**** BLOCK [#B] 159. The Emerald Tiger (8.2) :plot_yes:
+**** BLOCK [#B] 159. The Emerald Tiger (8.2) :plot_yes:DW2022_11_doctor:
 **** [#D] 160. The 160. Jupiter Conjunction (7.3)
 **** BLOCK [#B] 161. The Butcher of Brisbane (8.0) :plot_yes:
 :PROPERTIES:
@@ -865,7 +865,7 @@ CLOSED: [2021-06-24 Thu 12:31]
 
 ***** [#A] 74. Live 34 (8.5) :P2005:Ace:Hex:plot_no:
 ***** HALF [#B] 79. Night Thoughts :Ace:Hex:DW2022_09_doctor:
-SCHEDULED: <2022-09-15 Thu>
+SCHEDULED: <2022-09-18 Sun>
 :PROPERTIES:
 :rating:   8.1
 :END:

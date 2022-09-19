@@ -424,7 +424,10 @@ SCHEDULED: <2022-04-29 Fri>
 :rating:   7.5
 :END:
 
-*** TBR Tenth Doctor Classic Companions :P2022_09:
+*** Tenth Doctor Classic Companions :P2022_09:
+**** 1. Splinters :Leela:
+**** 2. The Stuntman :Nyssa:
+**** 3. Quantum of Axos :Ace:
 *** 10DC
 **** [#D] 1.1 - the Taste of Death :Rose:
 :PROPERTIES:

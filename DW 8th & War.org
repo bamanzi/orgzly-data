@@ -770,7 +770,7 @@ CLOSED: [2021-01-06 Wed 09:03]
 【【自制字幕】神秘博士BF特辑宋江八叔历险记-哔哩哔哩】https://b23.tv/vLRN31
 
 **** TODO The War Master series 5: Hearts of Darkness
-***** [#B] 5.1 - The Edge of Redemption
+***** [#B] 5.1 - The Edge of Redemption :DW2022_11_spinoffs:
 :PROPERTIES:
 :rating:   8.1
 :END:
@@ -1063,6 +1063,7 @@ CLOSED: <2020-12-17 Thu 19:57>
 **** [#C] 3.1 - The Keeper of Light
 **** [#D] 3.2 - Temmosus
 **** [#B] 3.3 - Rewind
+*** TBR vol.4 He Who Fights Monsters :P2022_12:
 *** Ambush (comic)
 ** The War Doctor
 *** 11DY2 (comics)

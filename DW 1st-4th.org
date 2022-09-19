@@ -94,7 +94,7 @@ CLOSED: [2021-11-01 Mon 22:54] SCHEDULED: <2021-11-01 Mon>
 :rating:   7.6
 :END:
 
-***** TODO [#C] EA7.2 The Secrets of Det-Sen :plot_simple:DW2022_09_maybe:
+***** TODO [#C] EA7.2 The Secrets of Det-Sen :Steven:Dodo:plot_simple:DW2022_09_maybe:
 SCHEDULED: <2022-09-30 Fri>
 :PROPERTIES:
 :rating:   7.8
@@ -228,11 +228,13 @@ Old Steven 3/3
 :END:
 
 **** Ian/Barbara
-***** TODO [#B] CC3.7 - The Transit of Venus :Ian:Barbara:plot_no:DW2022_09_doctor:
+***** TODO [#B] CC3.7 - The Transit of Venus :Ian:Barbara:plot_dwg:DW2022_09_doctor:
 SCHEDULED: <2022-09-21 Wed>
 :PROPERTIES:
 :rating:   8.3
 :END:
+
+http://drwhoguide.com/chronicles15.htm
 
 ***** 2DONE [#B] CC6.2 The Rocket Man :Ian:D2021_06:
 CLOSED: [2021-06-26 Sat 09:13]
@@ -256,7 +258,7 @@ CLOSED: [2021-06-26 Sat 09:13]
 :END:
 
 **** Polly
-***** [#B] 11.4 - The Plague of Dreams :Polly:Ben:scripted:
+***** [#B] 11.4 - The Plague of Dreams :Polly:Ben:scripted:DW2022_11_doctor:
 :PROPERTIES:
 :rating:   8.0
 :END:
@@ -866,6 +868,7 @@ block原因：太长（3小时）
 **** CANCEL [#E] Peepshow (The Diary of River Song #6.3) †6.6
 CLOSED: [2020-06-25 Thu 21:48]
 
+**** CDNM3.1 The House that Hoxx Built :DW2022_11_doctor:
 ** BF shorts :BigFinish:audiobook:🎧:🗣:
 *** CC (Liz) :Liz:
 **** DONE [#A] CC7.4 - The Last Post :P2012:no_doctor:

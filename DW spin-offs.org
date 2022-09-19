@@ -139,7 +139,7 @@ https://b23.tv/Lv2q44
 half scripted https://www.pillowfort.social/posts/563376
 
 ***** START [#A] 21. We Always Get Out Alive [#S] :Gwen:Rhys:DW2022_09_maybe:
-      SCHEDULED: <2022-09-17 Sat>
+      SCHEDULED: <2022-09-24 Sat>
       :PROPERTIES:
       :rating:   9.2
       :END:
@@ -284,8 +284,7 @@ Sebastian Vaughan is the brightest, newest recruit to Torchwood. He's come fro
       :rating:   7.9
       :END:
 
-***** [#A] 43. The Three Monkeys :Owen:Andy:
-      SCHEDULED: <2021-12-08 Wed>
+***** [#A] 43. The Three Monkeys :Owen:Andy:DW2022_11_spinoffs:
       :PROPERTIES:
       :rating:   8.8
       :END:
@@ -358,7 +357,7 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
       :rating:   7.6
       :END:
 
-***** [#A] 54. Curios (9.1) :Bilis_Manger:
+***** [#A] 54. Curios (8.9) :Bilis_Manger:DW2022_11_spinoffs:
       :PROPERTIES:
       :rating:   8.9
       :END:
@@ -528,8 +527,8 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
 ***** 2DONE [#C] 6.5 Flight 405 (7.8) :Norton:P2019:DW2022_08_spinoffs:
       CLOSED: [2022-08-23 Tue 08:55] SCHEDULED: <2022-08-06 Sat>
 
-***** TODO [#A] 6.6 Hostile Environment (9.0) :Tyler:DW2022_09_spinoffs:
-      SCHEDULED: <2022-09-15 Thu>
+***** HALF [#A] 6.6 Hostile Environment (9.0) :Tyler:DW2022_09_spinoffs:
+      SCHEDULED: <2022-09-11 Sun>
 
 ***** TODO [#A] 6.7 Another Man's Shoes (8.8) :Norton:P2019:DW2022_10_spinoffs:
       SCHEDULED: <2022-10-29 Sat>
@@ -1030,17 +1029,19 @@ Roberts Master
 *** 3QTR [#B] 3.2 - Warfare (8.3) :DW2022_08_spinoffs:
     CLOSED: [2022-08-12 Fri 21:10] SCHEDULED: <2022-08-13 Sat>
 
-*** TODO [#C] 3.3 - Appropriation (7.9) :DW2022_09_spinoffs:
-    SCHEDULED: <2022-09-15 Thu>
+*** TODO [#C] 3.3 - Appropriation (7.9) :DW2022_09_maybe:
+    SCHEDULED: <2022-09-30 Fri>
 
-*** [#A] 3.4 - Mindbomb (8.9) :DW2022_09_spinoffs:
-    SCHEDULED: <2022-09-23 Fri>
+*** [#A] 3.4 - Mindbomb (8.9) :DW2022_10_spinoffs:
+    SCHEDULED: <2022-10-08 Sat>
 
 *** [#B] 3.5 - Panacea (8.1)
 ** series 4 :P2011:
-*** [#B] 4.1 - Reborn       (8.0)
-*** [#A] 4.2 - Disassembled (9.1)
-*** [#B] 4.3 - Annihilation (8.0)
+*** HALF [#B] 4.1 - Reborn       (8.0) :DW2022_09_spinoffs:
+    SCHEDULED: <2022-09-18 Sun>
+
+*** [#A] 4.2 - Disassembled (9.1) :DW2022_10_spinoffs:
+*** [#B] 4.3 - Annihilation (8.0) :DW2022_11_spinoffs:
 *** [#C] 4.4 - Forever      (7.9)
 ** series 5 :P2013:
 *** [#E] 5.1 - Emancipation (6.9)
@@ -1328,7 +1329,7 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
 
 *** vol.5 Buried Memories :Doctor_unbound:P2019:
 **** HALF [#C] 5.1 Pride of the Lampian (7.9) :DW2022_09_extra:
-     SCHEDULED: <2022-09-08 Thu>
+     SCHEDULED: <2022-09-10 Sat>
      :PROPERTIES:
      :rating:   7.9
      :END:
@@ -1852,8 +1853,8 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
 *** [#C] 2.3 The Battle of the Tower (7.5)
 *** [#D] 2.4 Ice Station Alpha (7.3)
 ** UNIT 3: Silenced :P2016:
-*** HALF [#B] 3.1 House of Silents (8.2)
-*** START [#B] 3.2 Square One (8.4)
+*** HALF [#B] 3.1 House of Silents (8.2) :DW2022_11_spinoffs:
+*** START [#B] 3.2 Square One (8.4) :DW2022_11_spinoffs:
 *** [#A] 3.3 Silent Majority (8.5)
 *** [#C] 3.4 In Memory Alone (7.5)
 ** UNIT 4: Assembled :Silurians:P2017:
@@ -1894,11 +1895,11 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
     :rating:   7.0
     :END:
 
-*** TODO [#C] 6.3 - Code Silver      (7.8) :Cybermen:DW2022_09_spinoffs:
-    SCHEDULED: <2022-09-15 Thu>
+*** TODO [#C] 6.3 - Code Silver      (7.8) :Cybermen:plot_yes:DW2022_09_spinoffs:
+    SCHEDULED: <2022-09-21 Wed>
 
 *** TODO [#B] 6.4 - Master of Worlds                 (8.4) :Cybermen:Master_War:DW2022_09_spinoffs:
-    SCHEDULED: <2022-09-29 Thu>
+    SCHEDULED: <2022-09-24 Sat>
 
 ** UNIT 7: Revisitations :P2018:
 *** [#C] 7.1/7.2 - Hosts of the Wirrn           (7.6)
@@ -1925,7 +1926,7 @@ Synopsis:  http://www.drwhoguide.com/kaldor01.htm
 *** HALF [#B] 2. Death's Head :DW2022_08_spinoffs:plot_dwg:
     SCHEDULED: <2022-09-04 Sun>
 
-*** 3. Hidden Persuaders
+*** 3. Hidden Persuaders :DW2022_10_spinoffs:
 ** The Robots (Big Finish, 2019-)
 *** The Robots vol.1 :P2019_12:
 **** 3QTR [#D] 1.1 - The Robots of Life :D2022_04_spinoffs:
@@ -1947,8 +1948,8 @@ Synopsis:  http://www.drwhoguide.com/kaldor01.htm
      :END:
 
 *** The Robots vol.2 :P2020_07:
-**** TODO [#B] 2.1 - The Robots of War :DW2022_09_maybe:
-     SCHEDULED: <2022-09-30 Fri>
+**** TODO [#B] 2.1 - The Robots of War :plot_yes:DW2022_09_spinoffs:
+     SCHEDULED: <2022-09-24 Sat>
      :PROPERTIES:
      :rating:   8.0
      :END:
@@ -2008,9 +2009,9 @@ Synopsis:  http://www.drwhoguide.com/kaldor01.htm
 
 *** PG: Heritage 2 :P2019:
 **** TODO [#D] 2.1 - Dining with Death         (7.0) :DW2022_09_spinoffs:
-     SCHEDULED: <2022-09-28 Wed>
+     SCHEDULED: <2022-09-29 Thu>
 
-**** [#C] 2.2 - The Screaming Ceiling     (7.6)
+**** [#C] 2.2 - The Screaming Ceiling     (7.6) :DW2022_11_spinoffs:
 **** [#C] 2.3 - Spring-Heeled Jack        (7.7)
 *** PG: Heritage 3 :P2020:
 **** [#C] 3.1 - Family Matters            (7.5)
@@ -2195,7 +2196,7 @@ Synopsis:  http://www.drwhoguide.com/kaldor01.htm
 
 【【神秘博士广播剧熟肉】Kidnapped! 101 Out of this World 世界之外-哔哩哔哩】 https://b23.tv/By95ZJG
 
-*** [#C] 2. Spinvasion (7.8) :bilibili:
+*** [#C] 2. Spinvasion (7.8) :DW2022_11_spinoffs:bilibili:
 
 【【神秘博士广播剧熟肉】Kidnapped! 102 Spinvasion 虚假宣传-哔哩哔哩】 https://b23.tv/bUsymNF
 
@@ -2222,8 +2223,8 @@ Synopsis:  http://www.drwhoguide.com/kaldor01.htm
 **** 3QTR [#C] 1.2 - The Unwilling Assassin (7.7) :DW2022_07_spinoffs:
      SCHEDULED: <2022-07-30 Sat>
 
-**** TODO [#A] 1.3 - I, Rorius              (8.7) :DW2022_09_spinoffs:
-     SCHEDULED: <2022-09-08 Thu>
+**** HALF [#A] 1.3 - I, Rorius              (8.7) :DW2022_09_spinoffs:
+     SCHEDULED: <2022-09-18 Sun>
 
 *** vol.2 :P2022_03:
 **** 2.1 The Once and Future Nurse
