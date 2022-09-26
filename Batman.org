@@ -411,8 +411,8 @@ CLOSED: <2022-09-17 Sat 17:41>
 ***** DONE Red Hood: The Lost Days
 CLOSED: [2022-09-10 Sat 23:23]
 
-***** HALF Red Robin #1-16
-SCHEDULED: <2022-09-30 Fri>
+***** Red Robin #1-16
+SCHEDULED: <2022-09-25 Sun>
 
 ****** DONE Red Robin #1-8
 CLOSED: [2022-09-12 Mon 20:26]
@@ -422,8 +422,21 @@ CLOSED: [2022-09-18 Sun 18:03]
 
 + Batgirl vol 3 008
 
-****** NOW Red Robin: The Hit List (#13-17)
-****** NEXT Red Robin: 7 Days of Death (#18-26)
+****** DONE Red Robin: The Hit List (#13-17)
+CLOSED: [2022-09-23 Fri 13:14] SCHEDULED: <2022-09-25 Sun>
+
+****** NOW Red Robin: The Rabbithole (#18-21)
+SCHEDULED: <2022-09-25 Sun>
+
+****** NOW Red Robin: 7 Days of Death (#22-26)
+SCHEDULED: <2022-09-28 Wed>
+
+***** NEXT Life after Death (#692-697) :Grayson:
+SCHEDULED: <2022-09-30 Fri>
+
+***** NEXT Judgment on Gotham (crossover)
+SCHEDULED: <2022-09-30 Fri>
+
 **** singles
 ***** DC #821-845
 
@@ -431,6 +444,8 @@ CLOSED: [2022-09-18 Sun 18:03]
 
 ****** DONE DC #821-826 Detective
 ****** LATER DC #827-834 Death and the City
+SCHEDULED: <2022-09-30 Fri>
+
 ****** DC #841-845 Private Casebook (2008)
 ***** Batman Confidential #49
 
@@ -524,11 +539,11 @@ CLOSED: [2022-09-14 Wed 22:39]
 - Batgirl #18
 - Red Hood and the Outlaws #18
 
-**** NEXT2 蝙蝠侠和罗宾 V2＃1-8 为杀而生
+**** LATER 蝙蝠侠和罗宾 V2＃1-8 为杀而生
 
 布鲁斯必须学会成为他儿子兼罗宾：达米安的父亲和搭档。
 
-**** NEXT2 罗宾：蝙蝠侠之子 ＃1-6
+**** LATER 罗宾：蝙蝠侠之子 ＃1-6
 
 前往天启星并返回之后，达米安被父亲复活了。现在他必须继续救赎他在训练期间犯下的罪行。
 
@@ -539,7 +554,7 @@ CLOSED: [2022-09-14 Wed 22:39]
 ****** Death of the Family (#14-19)
 ****** [#B] Wanted (#19-26)
 ****** [#C] Deadline (#27-34)
-***** NEXT2 Nightwing v3
+***** LATER Nightwing v3
 ***** 2DONE 格雷森 ＃1-20
 CLOSED: <2021-05-23 Sun 17:27>
 
@@ -758,7 +773,15 @@ SCHEDULED: <2022-09-25 Sun>
 
 这个故事展示了蝙蝠侠和女猎手之间的紧张关系，并揭示了她的起源。
 
+**** TODO The Cat and the Bat (BC #17-21) :P2009:Barbara_Gordon:Catwoman:
+
+The story details the first meeting between Batgirl and Catwoman.
+
 ** comics (villains) :📚:
+*** Penguin
+**** DONE Pain and Prejudice :P2011:
+CLOSED: [2022-09-25 Sun 15:27] SCHEDULED: <2022-09-25 Sun>
+
 ** movie
 *** DCEU
 *** Nolan verse
@@ -777,7 +800,7 @@ The DC Animated Movie Universe is a shared universe consisting of a number of mo
 
 **** [#B] Justice League: War
 **** DONE Son of Batman
-**** NEXT Batman vs. Robin
+**** LATER Batman vs. Robin
 
 partially based on 
 - the /Batman: The Court of Owls/ arc, written by Scott Snyder and illustrated by Greg Capullo and Jonathan Glapion, 
@@ -847,9 +870,15 @@ CLOSED: [2022-09-18 Sun 19:57]
 
 Final appearance of Falcone Crime Family 
 
-**** NOW 4x16
-**** NEXT 4x17
-**** 4x18
+**** DONE 4x16
+CLOSED: [2022-09-24 Sat 19:09] SCHEDULED: <2022-09-24 Sat>
+
+**** NOW 4x17
+SCHEDULED: <2022-09-28 Wed>
+
+**** NEXT 4x18
+SCHEDULED: <2022-10-05 Wed>
+
 **** LATER 4x19 A Dark Knight: To Our Deaths and Beyond
 
 Ra's al Ghul 复活
@@ -881,6 +910,48 @@ CLOSED: [2022-09-09 Fri 20:06] SCHEDULED: <2022-09-10 Sat>
 **** DONE 1x10
 CLOSED: [2022-09-16 Fri 20:31]
 
+*** Harley Quinn (animated) :Harley:
+
+13 eps
+
+**** DOING S1 (13 eps)
+***** DONE 1x01
+CLOSED: [2022-08-09 Tue 21:22] SCHEDULED: <2022-08-11 Thu>
+
+***** DONE 1x02
+CLOSED: [2022-08-14 Sun 17:40] SCHEDULED: <2022-08-14 Sun>
+
+***** DONE 1x03
+CLOSED: [2022-08-20 Sat 14:57] SCHEDULED: <2022-08-18 Thu>
+
+***** DONE 1x04
+CLOSED: [2022-08-23 Tue 21:05] SCHEDULED: <2022-08-21 Sun>
+
+***** DONE 1x05
+CLOSED: [2022-08-31 Wed 19:10]
+
+***** DONE 1x06
+CLOSED: [2022-09-03 Sat 19:50]
+
+***** DONE 1x07
+CLOSED: [2022-09-08 Thu 23:04]
+
+***** DONE 1x08
+CLOSED: [2022-09-12 Mon 15:49]
+
+***** DONE 1x09
+CLOSED: [2022-09-16 Fri 19:36]
+
+***** DONE 1x10
+CLOSED: [2022-09-21 Wed 18:38]
+
+***** DONE 1x11
+CLOSED: [2022-09-25 Sun 15:55] SCHEDULED: <2022-09-28 Wed>
+
+***** NOW 1x12
+SCHEDULED: <2022-10-04 Tue>
+
+***** NEXT 1x13
 ** DCAU :dcau:
 *** Batman Adventures
 **** movies
@@ -1012,43 +1083,17 @@ CLOSED: [2022-09-15 Thu 08:09] SCHEDULED: <2022-09-15 Thu>
 **** DONE 1x11
 CLOSED: [2022-09-18 Sun 14:06]
 
-**** NOW 1x12
-**** NEXT 1x13
+**** DONE 1x12
+CLOSED: [2022-09-20 Tue 23:38]
+
+**** NOW 1x13
+SCHEDULED: <2022-09-28 Wed>
+
+**** NEXT 1x14
+SCHEDULED: <2022-10-05 Wed>
+
+**** NEXT2 1x15
 * Green Arrow
 ** comics
 ** tv
 * misc
-** tv: Harley Quinn :Harley:📺:
-
-13 eps
-
-*** DOING S1 (13 eps)
-**** DONE 1x01
-CLOSED: [2022-08-09 Tue 21:22] SCHEDULED: <2022-08-11 Thu>
-
-**** DONE 1x02
-CLOSED: [2022-08-14 Sun 17:40] SCHEDULED: <2022-08-14 Sun>
-
-**** DONE 1x03
-CLOSED: [2022-08-20 Sat 14:57] SCHEDULED: <2022-08-18 Thu>
-
-**** DONE 1x04
-CLOSED: [2022-08-23 Tue 21:05] SCHEDULED: <2022-08-21 Sun>
-
-**** DONE 1x05
-CLOSED: [2022-08-31 Wed 19:10]
-
-**** DONE 1x06
-CLOSED: [2022-09-03 Sat 19:50]
-
-**** DONE 1x07
-CLOSED: [2022-09-08 Thu 23:04]
-
-**** DONE 1x08
-CLOSED: [2022-09-12 Mon 15:49]
-
-**** DONE 1x09
-CLOSED: [2022-09-16 Fri 19:36]
-
-**** NOW 1x10
-**** NEXT 1x11

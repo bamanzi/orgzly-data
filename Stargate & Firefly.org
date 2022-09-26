@@ -44,9 +44,12 @@ CLOSED: [2021-08-15 Sun 22:10]
 **** Return to Earth That Was (#25-36) :ongoing:
 **** Brand New 'Verse #1-6
 * Stargate
+** TODO Stargate movie :P1994:
+SCHEDULED: <2022-10-06 Thu>
+
 ** SG-1 :sg1:
-*** 2DONE SG1 S1
-*** SG1 S2
+*** 2DONE SG-1 S1
+*** SG-1 S2
 **** DONE 2x01 The Serpent's Lair
 **** DONE 2x02 In the Line of Duty
 **** DONE 2x03 Prisoners
@@ -86,7 +89,15 @@ CLOSED: [2021-10-16 Sat 10:45] SCHEDULED: <2021-09-30 Thu>
 **** DONE 2x21 1969
 CLOSED: [2021-10-22 Fri 20:20] SCHEDULED: <2021-09-30 Thu>
 
-**** 2x22 Out of Mind
+**** DONE 2x22 Out of Mind
+CLOSED: [2022-09-23 Fri 20:39]
+
+*** SG-1 S3
+**** DONE [#B] 3x01 Into the Fire
+CLOSED: [2022-09-24 Sat 18:47]
+
+**** [#D] 3x02 Seth
+**** [#B] 3x03 Fair Game
 ** Stargate Atlantis (SGA) :sga:
 *** DONE tv
 *** comics
@@ -375,11 +386,11 @@ It’s a dangerous time for the last remaining humans. Captured by the Cylons on
 观看顺序：https://www.douban.com/doulist/133200925/
 
 *** skywalker saga
-**** NEXT Star Wars: Episode I The Phantom Menace
+**** LATER Star Wars: Episode I The Phantom Menace
 
 32BBY
 
-**** NEXT Star Wars: Episode II Attack of the Clones
+**** LATER Star Wars: Episode II Attack of the Clones
 
 22BBY
 
@@ -414,7 +425,7 @@ CLOSED: [2022-05-29 Sun 13:32]
 
 0 BBY, days before A New Hope, with a prologue set in 13 BBY
 
-**** NEXT Solo
+**** LATER Solo
 
 10 BBY, with a prologue set in 13 BBY
 
@@ -467,7 +478,7 @@ CLOSED: <2022-05-31 Tue 21:45>
 ****** DONE 2x03
 CLOSED: <2022-06-03 Fri 22:15>
 
-****** NOW 2x04
+****** LATER 2x04
 SCHEDULED: <2022-06-05 Sun>
 
 ***** season 3 :P2023:
@@ -693,7 +704,7 @@ CLOSED: [2022-05-28 Sat 12:59] SCHEDULED: <2022-05-29 Sun>
 
 4ABY
 
-***** NEXT [#B] X-Wing: Rogue Squadron (1995) :hanzify:
+***** LATER [#B] X-Wing: Rogue Squadron (1995) :hanzify:
 
 4-5 ABY
 
@@ -705,8 +716,8 @@ CLOSED: [2022-05-28 Sat 12:59] SCHEDULED: <2022-05-29 Sun>
 ****** DONE Heir to the Empire
 CLOSED: <2022-05-21 Sat 14:52>
 
-****** NEXT Dark Force Rising
-****** NEXT The Last Command
+****** LATER Dark Force Rising
+****** LATER The Last Command
 ***** LATER [#A] Dark Empire trilogy :Luke:Solo:Leia:
 
  All three comic series detailed the resurrection of Emperor Palpatine in clone bodies.
@@ -754,24 +765,24 @@ It ran for 83 issues, spanning from before The Phantom Menace to after Reveng
 *** Marvel (2015- ) :canon:
 **** 正传三部曲相关
 ***** before movie 4
-****** NEXT Solo: A Star Wars Story Adaptation
+****** LATER Solo: A Star Wars Story Adaptation
 SCHEDULED: <2022-05-14 Sat>
 
 13BBY-10BBY
 
-****** NEXT Han Solo - Imperial Cadet :P2018:
+****** LATER Han Solo - Imperial Cadet :P2018:
 SCHEDULED: <2022-05-14 Sat>
 
 Between 13 BBY and 10 BBY
 
-****** NEXT Lando - Double or Nothing :P2018:
+****** LATER Lando - Double or Nothing :P2018:
 SCHEDULED: <2022-05-14 Sat>
 
 10BBY
 
 It told a story that focused on the characters Lando Calrissian and L3-37 just prior to Solo: A Star Wars Story
 
-****** NEXT Vader - Dark Visions :P2019:hanzify:
+****** LATER Vader - Dark Visions :P2019:hanzify:
 SCHEDULED: <2022-06-03 Fri>
 
 Between 2 BBY and 0 BBY
@@ -822,10 +833,10 @@ CLOSED: [2022-05-03 Tue 16:25] SCHEDULED: <2022-05-10 Tue>
 ******* DONE Vol.6 Out Among the Stars (#33-37,A3)
 CLOSED: [2022-06-03 Fri 07:09] SCHEDULED: <2022-06-01 Wed>
 
-******* NEXT Vol.7 The Ashes of Jedha (#38-43)
+******* LATER Vol.7 The Ashes of Jedha (#38-43)
 SCHEDULED: <2022-06-04 Sat>
 
-******* NEXT vol.8 Mutiny at Mon Cala (#44-49,A4)
+******* LATER vol.8 Mutiny at Mon Cala (#44-49,A4)
 SCHEDULED: <2022-06-05 Sun>
 
 ******* vol.9 Hope Dies (#50-55)
@@ -867,8 +878,8 @@ CLOSED: [2022-05-26 Thu 13:43]
 
 没意思
 
-******* NEXT vol.4 The Catastrophe Con (#20-25)
-******* NEXT Vol.5 Worst Among Equals (A2, #26-31)
+******* LATER vol.4 The Catastrophe Con (#20-25)
+******* LATER Vol.5 Worst Among Equals (A2, #26-31)
 ******* vol. 6 Unspeakable Rebel Superweapon (#32-36)
 ******* vol.7 A Rogue's End (#37-40)
 ****** DONE Lando (2015) :hanzify:
@@ -889,7 +900,7 @@ takes place between the events of /Star Wars: Episode V The Empire Strikes Bac
 Between the events of /Star Wars: Episode V The Empire Strikes Back/ and /Star Wars: Episode VI Return of the Jedi/
 
 ****** Doctor Aphra v2 (2020- )
-****** NEXT Bounty Hunters (2020- )
+****** LATER Bounty Hunters (2020- )
 
 The series features the bounty hunters /Beilert Valance/, /Boba Fett/ and /Bossk/, and takes place between the events of /Star Wars: Episode V The Empire Strikes Back/ and /Star Wars: Episode VI
 Return of the Jedi/
@@ -1016,7 +1027,7 @@ CLOSED: <2022-05-21 Sat 11:48>
 **** DONE Dark Force Rising 黑潮汹涌
 CLOSED: [2022-06-09 Thu 13:55] SCHEDULED: <2022-06-10 Fri>
 
-**** NEXT The Last Command
+**** LATER The Last Command
 ** for children
 *** Disney–Lucasfilm Press
 

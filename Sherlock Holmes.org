@@ -13,11 +13,21 @@ CLOSED: [2021-07-31 Sat 23:49]
 ***** DONE 1x02 The Dancing Men 跳舞的人
 CLOSED: <2021-07-23 Fri 23:49>
 
-***** 1x03 The Naval Treaty 海军协约
-***** 1x04 The Solitary Cyclist 孤身骑车人
-***** 1x05 The Crooked Man 驼背人
-***** 1x06. The Speckled Band 斑点带子
-***** 1x07. The Blue Carbuncle 蓝宝石案
+***** NOW 1x03 The Naval Treaty 海军协约
+SCHEDULED: <2022-09-25 Sun>
+
+***** DONE 1x04 The Solitary Cyclist 孤身骑车人
+CLOSED: [2022-09-25 Sun 22:54] SCHEDULED: <2022-10-01 Sat>
+
+***** TODO 1x05 The Crooked Man 驼背人
+SCHEDULED: <2022-10-08 Sat>
+
+***** TODO 1x06. The Speckled Band 斑点带子
+SCHEDULED: <2022-10-22 Sat>
+
+***** TODO 1x07. The Blue Carbuncle 蓝宝石案
+SCHEDULED: <2022-10-31 Mon>
+
 ***** 8. The Copper Beeches 铜山毛榉案
 ***** 9. The Greek Interpreter 希腊译员
 ***** 10. The Norwood Builder 诺伍德的建筑师
@@ -40,8 +50,20 @@ CLOSED: <2022-09-10 Sat 16:55>
 ***** DONE 4x01
 CLOSED: [2022-09-11 Sun 17:02]
 
+***** DONE 4x02
+CLOSED: [2022-09-17 Sat 16:43]
+
+***** DONE 4x03
+CLOSED: [2022-09-20 Tue 08:02]
+
+***** NOW 4x04
+SCHEDULED: <2022-09-25 Sun>
+
+***** NOW 4x05
+SCHEDULED: <2022-09-25 Sun>
+
 *** Sherlock 神探夏洛克
-* Agatha Christie 阿加莎·克里斯蒂
+* Agatha Christie 阿加莎·克里斯蒂 :阿婆:
 ** tv
 *** 大侦探波罗 Agatha Christie's Poirot
 
@@ -49,10 +71,23 @@ https://agathachristie.fandom.com/wiki/Agatha_Christie%27s_Poirot
 
 **** series 1 (10 episodes) :P1989:
 ***** DONE 1x01 The Adventure of the Clapham Cook
-***** 1x02 Murder in the Mews
-***** 1x03 The Adventure of Johnnie Waverly
-***** 1x04 Four and Twenty Blackbirds
-***** 1x05 The Third Floor Flat
+***** DONE 1x02 Murder in the Mews
+CLOSED: [2022-09-26 Mon 08:14] SCHEDULED: <2022-09-25 Sun>
+
+***** NOW 1x03 The Adventure of Johnnie Waverly
+SCHEDULED: <2022-09-30 Fri>
+
+***** NEXT 1x04 Four and Twenty Blackbirds
+SCHEDULED: <2022-10-07 Fri>
+
+***** NEXT 1x05 The Third Floor Flat
+SCHEDULED: <2022-10-07 Fri>
+
+***** 1x06 Triangle at Rhodes
+***** 1x07 Problem at Sea
+***** 1x08 The Incredible Theft
+***** 1x09 The King of Clubs
+***** 1x10 The Dream
 **** series 13 :P2013:
 *** 玛普尔小姐 Agatha Christie's Marple
 
@@ -60,9 +95,13 @@ https://agathachristie.fandom.com/wiki/Agatha_Christie's_Marple
 
 **** Season 1 :P2004:
 ***** DONE 1x01 The Body in the Library 藏书室女尸之谜
-***** 1x02 The Murder At The Vicarage
-***** 1x03 4.50 From Paddington
-***** 1x04 A Murder Is Announced
+***** DONE 1x02 The Murder At The Vicarage
+CLOSED: [2022-09-21 Wed 22:49]
+
+***** NOW 1x03 4.50 From Paddington
+SCHEDULED: <2022-09-30 Fri>
+
+***** NEXT 1x04 A Murder Is Announced
 **** Season 6 :P2013:
 *** 汤米夫妇探案集 Agatha Christie's Partners in Crime
 
@@ -72,7 +111,7 @@ https://agathachristie.fandom.com/wiki/Agatha_Christie%27s_Partners_in_Crime
 **** DONE ep1 Affair of the Pink Pearl
 CLOSED: [2021-07-25 Sun 17:42]
 
-**** ep2 The House of Lurking Death
+**** NOW ep2 The House of Lurking Death
 **** ep3 The Sunningdale Mystery
 **** ep4 The Clergyman's Daughter
 *** 短篇集 The.Agatha.Christie.Hour
