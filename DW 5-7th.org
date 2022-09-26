@@ -50,7 +50,7 @@ CLOSED: [2021-03-22 Mon 23:19]
 **** 2DONE 015. The Mutant Phase :Daleks:
 CLOSED: [2021-10-23 Sat 20:14]
 
-**** NEXT [#C] 020. Loups-Garoux :Turlough:D2021_13:underrated:
+**** LATER [#C] 020. Loups-Garoux :Turlough:D2021_13:underrated:
 :PROPERTIES:
 :rating:   7.8
 :END:
@@ -390,7 +390,7 @@ SCHEDULED: <2022-05-14 Sat>
 ***** The Moonrakers
 ***** The People Made of Smoke
 **** Forty
-***** 1.1 Secrets of Telos :Nyssa:Tegan:Cybermen:P2022_01:DW2022_09_maybe:
+***** 1.1 Secrets of Telos :Nyssa:Tegan:Cybermen:P2022_01:DW2022_11_maybe:
 SCHEDULED: <2022-09-30 Fri>
 
 ***** 1.2 God of War :Nyssa:Tegan:Adric:ice_warriors:P2022_01:
@@ -404,8 +404,8 @@ SCHEDULED: <2022-09-30 Fri>
 :END:
 
 **** Classic Doctors, New Monsters :short:
-***** HALF [#B] 1.1 Fallen Angles :DW2022_09_doctor:
-SCHEDULED: <2022-09-08 Thu>
+***** 3QTR [#B] 1.1 Fallen Angles :scripted:DW2022_09_doctor:
+CLOSED: [2022-09-23 Fri 08:27] SCHEDULED: <2022-09-08 Thu>
 :PROPERTIES:
 :rating:   8.1
 :END:
@@ -507,7 +507,7 @@ CLOSED: [2021-07-23 Fri 12:43]
 :rating:   7.5
 :END:
 
-**** NEXT [#A] 57. Arrangements for War (8.5) :Evelyn:plot_no:
+**** LATER [#A] 57. Arrangements for War (8.5) :Evelyn:plot_no:
 **** [#D] 60. Medicinal Purposes
 :PROPERTIES:
 :rating:   7.1
@@ -932,7 +932,7 @@ CLOSED: <2021-07-09 Fri 14:15>
 ***** DONE [#A] 162. Protect and Survive (8.7) :P2012:Ace:Hex:plot_yes:WW3:Old_Ones:
 CLOSED: [2021-03-22 Mon 20:20]
 
-***** NEXT [#C] MR163. Black and White :Ace:Hex:Sally:Lysandra:plot_yes:D2021_13:
+***** LATER [#C] MR163. Black and White :Ace:Hex:Sally:Lysandra:plot_yes:D2021_13:
 :PROPERTIES:
 :rating:   7.7
 :END:

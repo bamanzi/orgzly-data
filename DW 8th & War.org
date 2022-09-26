@@ -428,19 +428,19 @@ CLOSED: [2022-08-08 Mon 20:15] SCHEDULED: <2022-08-03 Wed>
 :rating:   6.8
 :END:
 
-***** [#E] 2.4 - The Sonomancer :DW2022_08_doctor:
+***** START [#E] 2.4 - The Sonomancer :DW2022_08_doctor:
 SCHEDULED: <2022-09-04 Sun>
 :PROPERTIES:
 :rating:   6.9
 :END:
 
 **** DC vol.3
-***** [#A] 3.1 - Absent Friends
+***** TODO [#A] 3.1 - Absent Friends :DW2022_12_doctor:
 :PROPERTIES:
 :rating:   9.2
 :END:
 
-***** [#C] 3.2 - The Eighth Piece
+***** TODO [#C] 3.2 - The Eighth Piece :DW2022_12_doctor:
 :PROPERTIES:
 :rating:   7.7
 :END:
@@ -986,7 +986,7 @@ CLOSED: [2020-12-09 Wed 19:04]
 :rating:   7.2
 :END:
 
-**** NEXT [#A] 3.4 The War Valeyard :bilibili:
+**** LATER [#A] 3.4 The War Valeyard :bilibili:
 :PROPERTIES:
 :rating:   8.9
 :END:

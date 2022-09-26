@@ -94,7 +94,7 @@ CLOSED: [2021-11-01 Mon 22:54] SCHEDULED: <2021-11-01 Mon>
 :rating:   7.6
 :END:
 
-***** TODO [#C] EA7.2 The Secrets of Det-Sen :Steven:Dodo:plot_simple:DW2022_09_maybe:
+***** TODO [#C] EA7.2 The Secrets of Det-Sen :Steven:Dodo:plot_simple:DW2022_11_maybe:
 SCHEDULED: <2022-09-30 Fri>
 :PROPERTIES:
 :rating:   7.8
@@ -228,8 +228,8 @@ Old Steven 3/3
 :END:
 
 **** Ian/Barbara
-***** TODO [#B] CC3.7 - The Transit of Venus :Ian:Barbara:plot_dwg:DW2022_09_doctor:
-SCHEDULED: <2022-09-21 Wed>
+***** START [#B] CC3.7 - The Transit of Venus :Ian:Barbara:plot_yes_dwg:DW2022_09_doctor:
+SCHEDULED: <2022-09-26 Mon>
 :PROPERTIES:
 :rating:   8.3
 :END:
@@ -782,7 +782,7 @@ CLOSED: [2021-07-27 Tue 23:10]
 :rating:   7.9
 :END:
 
-**** TODO [#C] 2.2 The Hidden Realm :Jo:plot_yes:DW2022_09_doctor:
+**** HALF [#C] 2.2 The Hidden Realm :Jo:plot_yes:DW2022_09_doctor:
 SCHEDULED: <2022-09-21 Wed>
 :PROPERTIES:
 :rating:   7.5
@@ -960,7 +960,7 @@ SCHEDULED: <2022-03-30 Wed>
 :rating:   7.5
 :END:
 
-**** TODO [#C] CC7.12 - Council of War :Benton:Brigadier:DW2022_09_maybe:
+**** TODO [#C] CC7.12 - Council of War :Benton:Brigadier:
 SCHEDULED: <2022-09-30 Fri>
 :PROPERTIES:
 :rating:   7.7
