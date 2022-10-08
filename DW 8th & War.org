@@ -1,6 +1,6 @@
 * 8th Doctor :8th_Dr:
-** audio-dramas :🎧:
-*** main range :scripted:
+** audio :🎧:
+*** main range :scripted:2CD:
 **** part1 :Charley:
 ***** DONE [#C] 016 - Storm Warning
 CLOSED: [2020-08-11 Tue 08:46]
@@ -50,7 +50,7 @@ CLOSED: [2020-11-26 Thu 08:27]
 :rating:   8.5
 :END:
 
-***** BLOCK [#D] 50. Zegreus :5th_Dr:6th_Dr:7th_Dr:Romana_2:Charley:
+***** BLOCK [#D] 50. Zegreus :5th_Dr:6th_Dr:7th_Dr:3CD:Romana_2:Charley:
 :PROPERTIES:
 :rating:   7.3
 :END:
@@ -151,7 +151,7 @@ CLOSED: [2021-03-22 Mon 22:48]
 :rating:   6.2
 :END:
 
-***** READY [#B] 103. The Girl Who Never Was :P2007:Charley:Cybermen:plot_yes:
+***** HALF [#B] 103. The Girl Who Never Was :P2007:Charley:Cybermen:plot_yes:DW2022_10_doctor:
 :PROPERTIES:
 :rating:   8.4
 :END:
@@ -164,7 +164,7 @@ CLOSED: [2021-03-22 Mon 22:48]
 ***** [#D] Living Legend (7.4)
 **** part4
 ***** 123. The Company of Friends
-****** 2DONE [#B] 4. Mary's Story :plot_yes:Mary:
+****** 2DONE [#B] 4. Mary's Story :plot_yes:Mary:½CD:
 CLOSED: [2021-03-22 Mon 22:31]
 :PROPERTIES:
 :rating:   8.4
@@ -237,7 +237,7 @@ CLOSED: <2021-01-01 Fri 07:40>
 :rating:   7.1
 :END:
 
-***** 2DONE [#B] 1.7/1.8 Human Resources :cybermen:D2022_04_doctor:
+***** 2DONE [#B] 1.7/1.8 Human Resources :cybermen:2CD:D2022_04_doctor:
 SCHEDULED: <2022-04-29 Fri>
 :PROPERTIES:
 :rating:   8.5
@@ -317,7 +317,7 @@ SCHEDULED: <2022-09-01 Thu>
 ***** [#C] 4.2  Situation Vacant    (7.6) :Tamsin:
 ***** CANCEL +4.3  Nevermore+ (6.6) :Tamsin:
 ***** DONE [#B] 4.4 The Book of Kells (8.1) :Tamsin:Monk:Lucie:
-***** 2DONE [#C] 4.5 Deimos :ice_warriors:
+***** 2DONE [#C] 4.5 Deimos :ice_warriors:2CD:
 CLOSED: [2021-06-17 Thu 23:27]
 :PROPERTIES:
 :rating:   7.8
@@ -331,7 +331,7 @@ CLOSED: [2021-06-17 Thu 23:27]
 
 ***** [#C] 4.7  Relative Dimensions (7.6) :Susan:Alex:Lucie:
 ***** [#D] 4.8  Prisoner of the Sun (7.3) :Susan:Alex:Lucie:
-***** 2DONE [#A] 4x09 Lucie Miller (8.9)
+***** 2DONE [#A] 4x09 Lucie Miller (8.9) :2CD:
 CLOSED: <2021-10-17 Sun 10:44>
 
 ***** 2DONE [#A] 4x10 To the Death (9.1) :Daleks:Monk:Lucie:Tamsin:Susan:Alex:
@@ -986,7 +986,7 @@ CLOSED: [2020-12-09 Wed 19:04]
 :rating:   7.2
 :END:
 
-**** LATER [#A] 3.4 The War Valeyard :bilibili:
+**** READY [#A] 3.4 The War Valeyard :Valeyard:bilibili:
 :PROPERTIES:
 :rating:   8.9
 :END:
@@ -1023,7 +1023,7 @@ CLOSED: [2020-09-23 Wed 12:53]
 *** DONE The Night of the Doctor
 CLOSED: [2020-09-23 Wed 14:01]
 
-*** vol.1 Forged in Fire :P2021_06:War_Doctor:
+*** vol.1 Forged in Fire :P2021_06:War_Doctor:🎧:
 **** 2DONE [#B] 1.1 - Light the Flame :D2022_06_doctor:
 CLOSED: [2022-07-15 Fri 21:16] SCHEDULED: <2022-06-25 Sat>
 :PROPERTIES:
@@ -1036,8 +1036,8 @@ SCHEDULED: <2022-08-25 Thu>
 :rating:   7.0
 :END:
 
-**** TODO [#B] 1.3 - The Shadow Squad :DW2022_10_doctor:
-SCHEDULED: <2022-10-29 Sat>
+**** TODO [#B] 1.3 - The Shadow Squad :plot_no:DW2022_10_doctor:
+SCHEDULED: <2022-10-16 Sun>
 :PROPERTIES:
 :rating:   8.4
 :END:
@@ -1057,8 +1057,20 @@ CLOSED: <2020-12-17 Thu 19:57>
 **** 4.4 Homecoming
 *** vol.2 Warbringer :P2021_12:
 **** [#D] 2.1 - Consequences
+:PROPERTIES:
+:rating:   6.8
+:END:
+
 **** [#D] 2.2 - Destroyer
+:PROPERTIES:
+:rating:   7.2
+:END:
+
 **** [#D] 2.3 - Saviour
+:PROPERTIES:
+:rating:   7.3
+:END:
+
 *** vol.3 Battlegrounds :P2022_05:
 **** [#C] 3.1 - The Keeper of Light
 **** [#D] 3.2 - Temmosus

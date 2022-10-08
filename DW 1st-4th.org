@@ -60,7 +60,7 @@ Episode 4 missing (but animated in 2013).
 ** audio :🎧:
 *** EA
 **** EA S1
-***** TODO [#C] EA1.1 Domain of the Voord :Susan:Ian:Barbara:Voord:plot_yes:DW2022_11_doctor:
+***** TODO [#C] EA1.1 Domain of the Voord :Susan:Ian:Barbara:Voord:plot_yes:DW2022_11_maybe:
 
 应该先看老版剧集 1x05 The Keys of Marinus
 
@@ -94,8 +94,7 @@ CLOSED: [2021-11-01 Mon 22:54] SCHEDULED: <2021-11-01 Mon>
 :rating:   7.6
 :END:
 
-***** TODO [#C] EA7.2 The Secrets of Det-Sen :Steven:Dodo:plot_simple:DW2022_11_maybe:
-SCHEDULED: <2022-09-30 Fri>
+***** [#C] EA7.2 The Secrets of Det-Sen :Steven:Dodo:plot_simple:DW2022_11_doctor:
 :PROPERTIES:
 :rating:   7.8
 :END:
@@ -258,7 +257,7 @@ CLOSED: [2021-06-26 Sat 09:13]
 :END:
 
 **** Polly
-***** [#B] 11.4 - The Plague of Dreams :Polly:Ben:scripted:DW2022_11_doctor:
+***** [#B] 11.4 - The Plague of Dreams :Polly:Ben:scripted:DW2022_11_maybe:
 :PROPERTIES:
 :rating:   8.0
 :END:
@@ -540,9 +539,11 @@ SCHEDULED: <2021-12-15 Wed>
 CLOSED: <2021-04-30 Fri 22:59>
 
 *** Beyond War Games :P2022_07:
-**** The Final Beginning :Daleks:
-**** TODO Wrath of the Ice Warriors :Brigadier:ice_warriors:DW2022_10_doctor:
-SCHEDULED: <2022-10-15 Sat>
+**** TODO [#B] The Final Beginning :Daleks:DW2022_10_doctor:
+SCHEDULED: <2022-10-11 Tue>
+
+**** TODO [#C] Wrath of the Ice Warriors :Brigadier:ice_warriors:DW2022_12_doctor:
+SCHEDULED: <2022-10-30 Sun>
 
 *** Companion Chronicles :🗣:
 **** #The_Company :Zoe:
@@ -960,8 +961,7 @@ SCHEDULED: <2022-03-30 Wed>
 :rating:   7.5
 :END:
 
-**** TODO [#C] CC7.12 - Council of War :Benton:Brigadier:
-SCHEDULED: <2022-09-30 Fri>
+**** TODO [#C] CC7.12 - Council of War :Benton:Brigadier:DW2022_11_maybe:
 :PROPERTIES:
 :rating:   7.7
 :END:
@@ -1084,7 +1084,7 @@ CLOSED: <2020-08-03 Mon 18:24>
 sequel: Torchwood #25 Night of the Fendahl
 
 **** TODO [#C] 15x04 - The Sun Makers †7.8) :DW2022_09_extra:
-SCHEDULED: <2022-09-30 Fri>
+SCHEDULED: <2022-10-01 Sat>
 
 **** CANCEL [#E] 15x05 - Underworld †6.2)
 **** DONE [#C] 15x06 - The Invasion of Time †7.7)
@@ -1267,8 +1267,11 @@ SCHEDULED: <2022-04-23 Sat>
 
 ***** [#D] 8.4 - The False Guardian (7.1)
 ***** [#D] 8.6 - Fever Island (7.2)
-***** [#B] 8.7/8.8 - The Perfect Prisoners (8.2/8.3)
+***** [#B] 8.7/8.8 - The Perfect Prisoners (8.2/8.3) :DW2022_12_doctor:
 **** 4DA series 9 :P2020:
+
+Romana II
+
 ***** [#C] 9.1 - Purgatory 12 (7.6) :Romana_2:Adric:
 ***** [#B] 9.2 - Chase the Night (8.3) :Romana_2:Adric:
 :PROPERTIES:
@@ -1284,15 +1287,17 @@ CLOSED: [2020-07-15 Wed 19:13]
 ***** [#C] 10.1 The World Traders
 ***** [#C] 10.2 The Day of the Comet
 ***** [#C] 10.3 [[https://tardis.fandom.com/wiki/The_Tribulations_of_Tahdeus_Nook_(audio_story)][The Tribulations of Tahdeus Nook]]
-***** [#E] 10.4 [[https://tardis.fandom.com/wiki/The_Primeval_Design_(audio_story)][The Primeval Design]]
+***** [#E] 10.4 The Primeval Design
 **** 4DA series 11 :P2022:
-***** TODO [#A] 11.1 Blood of the Time Lords :Master_early:DW2022_10_doctor:
-SCHEDULED: <2022-10-15 Sat>
+***** TODO [#A] 11.1 Blood of the Time Lords :Master_early:2CD:DW2022_10_maybe:
+SCHEDULED: <2022-10-30 Sun>
 
-***** [#B] 11.2 The Ravencliff Witch :Margaret:
-***** [#B] 11.3 The Dreams of Avaice :The_Nine:
+***** TODO [#B] 11.2 The Ravencliff Witch :Margaret:2CD:DW2022_10_doctor:
+SCHEDULED: <2022-10-11 Tue>
+
+***** [#C] 11.3 The Dreams of Avaice :The_Nine:
 ***** [#D] 11.4 Shellshock
-***** [#D] 11.5 Peake Season
+***** [#C] 11.5 Peake Season
 **** TBR 4DA series 12 :Leela:Margaret:P2023:
 *** BF The Lost Stories
 **** [#A] LS 2.07 - The Foe from the Future  8.9 :Leela:

@@ -68,14 +68,14 @@ SCHEDULED: <2022-07-23 Sat>
 :END:
 
 **** S2.1 Back to Earth :P2022_05:
-***** READY [#B] 2.1 Station to Station :bilibili:
+***** READY [#B] 5.1 Station to Station :bilibili:DW2022_11_doctor:
 
 【【神秘博士广播剧熟肉】Back to Earth 101 Station to Station 车站之间-哔哩哔哩】 https://b23.tv/ueI1ubC
 
-***** CANCEL [#F] 2.2 The False Dimitry
+***** CANCEL [#F] 5.2 The False Dimitry
 CLOSED: [2022-07-02 Sat 23:47]
 
-***** READY [#B] 2.3 Auld Lang Syne :bilibili:
+***** READY [#B] 5.3 Auld Lang Syne :bilibili:
 
 【【神秘博士广播剧熟肉】Back to Earth 503 Auld Lang Syne 逝去已久的时光-哔哩哔哩】 https://b23.tv/1NrKKIN
 
@@ -319,7 +319,7 @@ CLOSED: [2021-06-18 Fri 10:25]
 【【David Tennant】BigFinish广播剧The Tenth Doctor and River Song-Precious Annihilation-哔哩哔哩】 https://b23.tv/ACUaNVw
 
 **** TODO [#B] 10D&RS 3. Ghosts :bilibili:DW2022_10_doctor:
-SCHEDULED: <2022-10-15 Sat>
+SCHEDULED: <2022-10-22 Sat>
 :PROPERTIES:
 :rating:   8.3
 :END:
@@ -380,14 +380,15 @@ CLOSED: [2022-06-18 Sat 10:57] SCHEDULED: <2022-06-25 Sat>
 
 【【神秘博士广播剧熟肉】Dalek Universe 103 The House of Kingdom 家族-哔哩哔哩】 https://b23.tv/bQCgXoT
 
-**** READY [#D] DU2.1 - Cycle of Destruction :bilibili:
+**** READY [#D] DU2.1 - Cycle of Destruction :bilibili:DW2022_10_maybe:
+SCHEDULED: <2022-10-30 Sun>
 :PROPERTIES:
 :rating:   7.2
 :END:
 
 【【神秘博士广播剧熟肉】Dalek Universe 201 Cycle of Destruction-哔哩哔哩】 https://b23.tv/YGpWAbr
 
-**** READY [#A] DU2.2 - The Trojan Dalek :bilibili:
+**** READY [#A] DU2.2 - The Trojan Dalek :bilibili:DW2022_12_doctor:
 :PROPERTIES:
 :rating:   8.6
 :END:
@@ -526,8 +527,8 @@ SCHEDULED: <2022-07-23 Sat>
 :END:
 
 **** [#E] 1.2 - The Top of the Tree
-**** TODO [#D] 1.3 - The Light Keepers :Dorium:plot_yes:DW2022_09_doctor:
-SCHEDULED: <2022-09-29 Thu>
+**** START [#D] 1.3 - The Light Keepers :Dorium:plot_yes:DW2022_09_doctor:
+SCHEDULED: <2022-09-30 Fri>
 :PROPERTIES:
 :rating:   7.1
 :END:
@@ -556,13 +557,12 @@ SCHEDULED: <2022-03-30 Wed>
 *** TBR 11DC vol.3 Geronimo! :P2022_10:
 *** short trips
 **** 3QTR ST10.5 Regeneration Impossible :D2021_08_extra:12th_Dr:
-**** READY [#B] ST11.1 Rearguard :P2022_02:
+**** READY [#B] ST11.1 Rearguard :P2022_02:DW2022_11_doctor:
 :PROPERTIES:
 :rating:   8.4?
 :END:
 
-*** LATER [#C] The Churchill Years 1.3 Living History :P2016:plot_yes:
-SCHEDULED: <2022-09-30 Fri>
+*** [#C] The Churchill Years 1.3 Living History ↗ :P2016:plot_yes:
 :PROPERTIES:
 :rating:   7.9
 :END:
@@ -681,8 +681,8 @@ SCHEDULED: <2022-08-30 Tue>
 :rating:   7.1
 :END:
 
-**** TODO [#C] 1.4 Field Trip :Osgood:DW2022_10_doctor:
-SCHEDULED: <2022-10-15 Sat>
+**** TODO [#C] 1.4 Field Trip :plot_no:Osgood:DW2022_10_doctor:
+SCHEDULED: <2022-10-22 Sat>
 :PROPERTIES:
 :rating:   7.6
 :END:
