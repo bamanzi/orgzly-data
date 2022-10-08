@@ -19,8 +19,8 @@ SCHEDULED: <2022-09-25 Sun>
 ***** DONE 1x04 The Solitary Cyclist 孤身骑车人
 CLOSED: [2022-09-25 Sun 22:54] SCHEDULED: <2022-10-01 Sat>
 
-***** TODO 1x05 The Crooked Man 驼背人
-SCHEDULED: <2022-10-08 Sat>
+***** DONE 1x05 The Crooked Man 驼背人
+CLOSED: [2022-09-30 Fri 22:12] SCHEDULED: <2022-10-08 Sat>
 
 ***** TODO 1x06. The Speckled Band 斑点带子
 SCHEDULED: <2022-10-22 Sat>
@@ -43,12 +43,42 @@ CLOSED: [2022-08-26 Fri 22:02]
 **** DONE S1
 **** DONE S2
 **** DONE S3
-***** DONE 3x24
-CLOSED: <2022-09-10 Sat 16:55>
+***** DONE [#B] 3x08 End of Watch
+:PROPERTIES:
+:rating:   8.2
+:END:
+
+***** DONE [#B] 3x11 The Illustrious Client
+:PROPERTIES:
+:rating:   8.4
+:END:
+
+***** DONE [#A] *3x12 The One That Got Away*
+:PROPERTIES:
+:rating:   9.0
+:END:
+
+***** DONE [#B] 3x14 The Female of the Species
+:PROPERTIES:
+:rating:   8.1
+:END:
+
+***** DONE [#B] 3x16 For All You Know
+:PROPERTIES:
+:rating:   8.1
+:END:
+
+***** DONE [#B] 3x24 A Controlled Descent
+:PROPERTIES:
+:rating:   8.2
+:END:
 
 **** S4
 ***** DONE 4x01
 CLOSED: [2022-09-11 Sun 17:02]
+:PROPERTIES:
+:rating:   8.0
+:END:
 
 ***** DONE 4x02
 CLOSED: [2022-09-17 Sat 16:43]
@@ -56,11 +86,44 @@ CLOSED: [2022-09-17 Sat 16:43]
 ***** DONE 4x03
 CLOSED: [2022-09-20 Tue 08:02]
 
-***** NOW 4x04
-SCHEDULED: <2022-09-25 Sun>
+***** DONE 4x04
+CLOSED: [2022-09-29 Thu 08:02] SCHEDULED: <2022-09-25 Sun>
 
-***** NOW 4x05
-SCHEDULED: <2022-09-25 Sun>
+***** DONE 4x05 The Games Underfoot :benben:
+CLOSED: <2022-10-02 Sun 09:51> SCHEDULED: <2022-09-25 Sun>
+
+古老的游戏，当年开发项目被终止
+
+***** DONE 4x06 The Cost of Doing Business
+CLOSED: <2022-10-07 Fri 09:55>
+:PROPERTIES:
+:rating:   8.0
+:END:
+
+***** [#A] *4x07 Miss Taken*
+:PROPERTIES:
+:rating:   8.9
+:END:
+
+***** [#B] 4x12 A View with a Room
+:PROPERTIES:
+:rating:   8.3
+:END:
+
+***** 4x13 A Study in Charlotte
+:PROPERTIES:
+:rating:   8.0
+:END:
+
+***** [#B] 4x23 The Invisible Hand
+:PROPERTIES:
+:rating:   8.3
+:END:
+
+***** [#B] 4x24 A Difference in Kind
+:PROPERTIES:
+:rating:   8.2
+:END:
 
 *** Sherlock 神探夏洛克
 * Agatha Christie 阿加莎·克里斯蒂 :阿婆:
@@ -77,7 +140,7 @@ CLOSED: [2022-09-26 Mon 08:14] SCHEDULED: <2022-09-25 Sun>
 ***** NOW 1x03 The Adventure of Johnnie Waverly
 SCHEDULED: <2022-09-30 Fri>
 
-***** NEXT 1x04 Four and Twenty Blackbirds
+***** NOW 1x04 Four and Twenty Blackbirds
 SCHEDULED: <2022-10-07 Fri>
 
 ***** NEXT 1x05 The Third Floor Flat
@@ -98,10 +161,12 @@ https://agathachristie.fandom.com/wiki/Agatha_Christie's_Marple
 ***** DONE 1x02 The Murder At The Vicarage
 CLOSED: [2022-09-21 Wed 22:49]
 
-***** NOW 1x03 4.50 From Paddington
-SCHEDULED: <2022-09-30 Fri>
+***** NEXT 1x03 4.50 From Paddington
+SCHEDULED: <2022-10-07 Fri>
 
-***** NEXT 1x04 A Murder Is Announced
+***** NEXT2 1x04 A Murder Is Announced
+SCHEDULED: <2022-10-20 Thu>
+
 **** Season 6 :P2013:
 *** 汤米夫妇探案集 Agatha Christie's Partners in Crime
 
@@ -111,9 +176,13 @@ https://agathachristie.fandom.com/wiki/Agatha_Christie%27s_Partners_in_Crime
 **** DONE ep1 Affair of the Pink Pearl
 CLOSED: [2021-07-25 Sun 17:42]
 
-**** NOW ep2 The House of Lurking Death
+**** DONE ep2 The House of Lurking Death
+CLOSED: [2022-09-30 Fri 08:08]
+
 **** ep3 The Sunningdale Mystery
 **** ep4 The Clergyman's Daughter
+**** ep5 Finessing the King
+**** ep6 The Ambassador's Boots
 *** 短篇集 The.Agatha.Christie.Hour
 * 狄公案
 ** tv

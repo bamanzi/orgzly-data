@@ -97,7 +97,15 @@ CLOSED: [2022-09-23 Fri 20:39]
 CLOSED: [2022-09-24 Sat 18:47]
 
 **** [#D] 3x02 Seth
-**** [#B] 3x03 Fair Game
+**** DONE [#B] 3x03 Fair Game
+CLOSED: [2022-09-27 Tue 07:41]
+
+**** DONE 3x04 Legacy
+CLOSED: [2022-10-01 Sat 21:13]
+
+**** DONE 3x05 Learning Curve
+CLOSED: <2022-10-07 Fri 10:50>
+
 ** Stargate Atlantis (SGA) :sga:
 *** DONE tv
 *** comics
@@ -159,7 +167,7 @@ https://www.999meiju.tv/vod/xingjizhimenyuzhoudierji/
 ** DONE S1
 ** DONE S2
 ** DONE S3
-** S4
+** DONE S4
 *** DONE 4x01
 CLOSED: [2021-09-01 Wed 19:35]
 
