@@ -4,7 +4,7 @@
 *** 四签名
 *** 冒险录
 ** audio
-** tv
+** tv :📺:
 *** Jeremy Brett 版 (1984-1994)
 **** The Adventures of SH
 ***** DONE 1x01 A Scandal in Bohemia 波希米亚丑闻
@@ -100,11 +100,20 @@ CLOSED: <2022-10-07 Fri 09:55>
 :rating:   8.0
 :END:
 
-***** [#A] *4x07 Miss Taken*
+***** DONE [#A] *4x07 Miss Taken*
+CLOSED: [2022-10-09 Sun 20:16]
 :PROPERTIES:
 :rating:   8.9
 :END:
 
+***** DONE 4x08
+CLOSED: [2022-10-11 Tue 21:20]
+
+***** DONE 4x09
+CLOSED: [2022-10-17 Mon 08:05]
+
+***** 4x10
+***** 4x11
 ***** [#B] 4x12 A View with a Room
 :PROPERTIES:
 :rating:   8.3

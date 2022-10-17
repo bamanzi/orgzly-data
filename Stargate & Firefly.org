@@ -47,7 +47,7 @@ CLOSED: [2021-08-15 Sun 22:10]
 ** TODO Stargate movie :P1994:
 SCHEDULED: <2022-10-06 Thu>
 
-** SG-1 :sg1:
+** SG-1 :sg1:📺:
 *** 2DONE SG-1 S1
 *** SG-1 S2
 **** DONE 2x01 The Serpent's Lair
@@ -103,8 +103,20 @@ CLOSED: [2022-09-27 Tue 07:41]
 **** DONE 3x04 Legacy
 CLOSED: [2022-10-01 Sat 21:13]
 
-**** DONE 3x05 Learning Curve
+**** DONE 3x05 Learning Curve :benben:
 CLOSED: <2022-10-07 Fri 10:50>
+
+**** DONE [#A] 3x06 Point of View
+CLOSED: <2022-10-10 Mon 23:24>
+:PROPERTIES:
+:rating:   8.6
+:END:
+
+**** DONE 3x07
+CLOSED: [2022-10-13 Thu 20:09]
+
+**** DONE 3x09
+CLOSED: [2022-10-14 Fri 21:18]
 
 ** Stargate Atlantis (SGA) :sga:
 *** DONE tv
@@ -197,6 +209,10 @@ CLOSED: <2021-09-21 Tue 16:16>
 
 *** DONE 4x10
 CLOSED: [2021-09-21 Tue 17:02]
+
+** S5
+*** DONE 5x01
+CLOSED: [2022-10-14 Fri 08:10]
 
 * Battlestar Galactica :bsg:
 ** tv :📺:
