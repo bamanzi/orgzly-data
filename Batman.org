@@ -1,4 +1,4 @@
-#+TODO: TODO NEXT BLOCK | 2DONE DONE CANCEL
+#+TODO: TODO BLOCK READY NOW NEXT NEXT2 DOING LATER | 2DONE DONE CANCEL
 
 * Batman :🦇:
 ** comics :📚:
@@ -768,7 +768,7 @@ CLOSED: [2022-08-09 Tue 13:42] SCHEDULED: <2022-08-10 Wed>
 ***** DONE 9-14. The Flood
 CLOSED: [2022-08-14 Sun 07:54] SCHEDULED: <2022-08-14 Sun>
 
-***** DOING 15-24. The Lesson
+***** HALF 15-24. The Lesson
 SCHEDULED: <2022-09-25 Sun>
 
 *** misc
@@ -1028,37 +1028,105 @@ SCHEDULED: <2022-08-21 Sun>
 
 * Superman :Superman:
 ** comics :📚:
+https://www.reddit.com/r/DCcomics/wiki/recommended/superman/
+
 *** starting points
 **** DONE Birthright 天赋使命 :P2003:
 CLOSED: [2022-10-02 Sun 18:08] SCHEDULED: <2022-10-07 Fri>
 
-**** BLOCK Superman: Secret Identity 秘密身份 :P2004:
-**** NOW Up, Up, and Away 一飞冲天 :P2006:
+**** NOW _Up, Up, and Away_ 一飞冲天                                  :P2006:
 SCHEDULED: <2022-10-07 Fri>
 
-**** BLOCK Superman: Secret Origin 秘密起源 :P2009:
-**** BLOCK Superman: Earth One 一号地球 :P2010:
+**** READY [#C] Superman: Secret Origin 秘密起源 :P2009:🛒:
+**** READY _Superman: Earth One_ 一号地球 :P2010:🛒:
 
 a new modern version of the Superman story taking place in a
 
 **** Superman v4 :P2016:
+***** NOW Vol. 1_ Son of Superman
+***** Vol. 2_ Trials of the Super Son
+***** Vol. 3_ Multiplicity
 **** Superman Smashes the Klan 超人恶斗3K党 :P2019:
 *** greatest hits
-**** BLOCK Superman: For All Seasons 四季 :P1998:
-**** Superman: Red Son :P2003:
-**** DONE All-star Superman :P2005:Grant_Morrison:
-**** Superman: Kryptonite :P2006:
+**** READY Superman: For All Seasons 四季 :P1998:🛒:
+**** DONE All-star Superman :P2005:Grant_Morrison:🛒:
+**** BLOCK Superman: Kryptonite                                       :P2006:
+
+SUPERMAN CONFIDENTIAL #1-5 and #11.
+
 **** Superman, by Kurt Busiek :P2006:
+
+#654-675, 712, Annual #13
+
 **** Action Comics, by Geoff Johns :P2006:
-**** Superman: Action Comics, by Grant Morrison :P2011:
-**** Superman: Up in the Sky :P2018:
-**** Action Comics, by Phillip Kennedy Johnson :P2021:
-*** Kingdom Come
-**** Kingdom Come (4 issues) :P1996:
+
+#844–846, 850–851, 855–873
+https://dc.fandom.com/wiki/Superman:_Last_Son_of_Krypton_(Collected)?so=search
+
+***** Last Son
+
+#844-846, #851, annual #11
+
+***** 缺AC #855–857,865
+***** misc #858-864
+***** Brainiac
+
+#866-870, 
+Superman: New Krypton Special #1 pages 1-9
+
+***** misc #871-873
+**** DOING _Superman: Action Comics, by Grant Morrison_ :P2011:Grant_Morrison:
+
+Action Comics (2011-2016) #1-18
+
+***** NOW vol.1 Superman and the Men of Steel
+**** Superman: Up in the Sky 云天之上 :P2018:
+**** LATER Action Comics, by Phillip Kennedy Johnson :P2021:
+*** further reading
+**** BLOCK The Death of Superman (1992-1993) :P1992:crossover:
+
+https://dc.fandom.com/wiki/Death_of_Superman
+
+***** The Death of Superman
+
+Superman: The Man of Steel #18-19, Justice League America #69, Superman #74-75, Adventures of Superman #497, and Action Comics #68
+
+***** Funeral for a Friend
+***** Reign of the Supermen
+***** Return of Superman
+**** Superman/Batman v1, by Jeph Loeb                                 :P2006:
+**** Superman Unchained                                               :P2013:
+by Scott Snyder and Jim Lee (2013-2015)
+**** Superman: Action Comics by Grek Pak and Aaron Kuder (2014-2016)
+new52 vol.5-9
+**** Superman: American Alien, by Max Landis                          :P2016:
+**** The Man of Steel v2                                              :P2018:
+by Brian Michael Bendis
+**** Superman v5, by Brian Michael Bendis :P2019:
+**** Action Comics, by Brian Michael Bendis #1001-1021 (2018-2020)
+**** Man and Superman                                                 :P2019:
+by Marv Wolfman and Claudio Castellini
+**** LATER Superman: Man of Tomorrow                                  :P2020:
+by Robert Venditti and Paul Pelletier
+**** LATER Superman: Red and Blue                                     :P2021:
+**** LATER Batman/Superman: The Archive of Worlds                     :P2021:
+by Gene Luen Yang and Ivan Reis v2 vol.3, #16-21,
+
+*** Superfamily
+**** Lois Lane: Enemy of the People
+**** Super Sons
+**** Superboy by Karl Kesel
+**** Supergirl
+**** Superman's Pal, Jimmy Olsen: Who Killed Jimmy Olsen?
+**** Superman: Son of Kal-El
+
+*** elseworlds
+**** Kingdom Come
+***** Kingdom Come (4 issues) :P1996:
 
 https://dc.fandom.com/wiki/Kingdom_Come_Vol_1
 
-**** The Kingdom :P1999:
+***** The Kingdom :P1999:
 
 The Kingdom was a two-issue limited series, which also included five
 one-shot specials. The series was a sequel to the popular Elseworlds
@@ -1066,7 +1134,7 @@ title Kingdom Come. It is the basis for Earth-22 continuity.
 
 https://dc.fandom.com/wiki/The_Kingdom_Vol_1
 
-**** JSA3: Thy Kingdom Come (2007-2009)
+***** JSA3: Thy Kingdom Come (2007-2009)
 
 In 2007-08, the storyline "Thy Kingdom Come" was introduced in the
 pages of Justice Society of America (Volume 3). Although hailed as an
@@ -1079,6 +1147,19 @@ to the re-imagined Earth-22 reality.
 - JSA Kingdom Come special: The Kingdom #1
 
 https://dc.fandom.com/wiki/Thy_Kingdom_Come
+
+**** READY Superman: Secret Identity 秘密身份 :P2004:🛒:
+**** Superman: Red Son :P2003:
+*** singles
+**** Superman: Whatever Happened to the Man of Tomorrow?, by Alan Moore and Curt Swan
+
+**** What's So Funny About Truth, Justice, and the American Way?, by Joe Kelly, Doug Mahnke, and Lee Bermejo
+**** Our Town by Peter J. Tomasi and Patrick Gleason
+**** Of Thee I Sing by Garth Ennis and John McCrea
+**** For the Man Who Has Everything... by Alan Moore and Dave Gibbons
+**** On Our Special Day by Kurt Busiek and Carlos Pacheco
+**** The Boy Who Stole Superman's Cape by Grant Morrison and Ben Oliver
+**** Jimmy Olsen's Big Week by Nick Spencer and R.B Silva
 
 ** tv :📺:
 *** DONE Superman and Lois (15 eps)
