@@ -163,7 +163,7 @@ CLOSED: [2021-03-22 Mon 22:48]
 
 ***** [#D] Living Legend (7.4)
 **** part4
-***** 123. The Company of Friends
+***** 123. The Company of Friends                                     :short:
 ****** 2DONE [#B] 4. Mary's Story :plot_yes:Mary:½CD:
 CLOSED: [2021-03-22 Mon 22:31]
 :PROPERTIES:
@@ -600,6 +600,10 @@ SCHEDULED: <2022-09-04 Sun>
 **** TBR What Lies Inside :P2022_11:
 *** 8D Time War
 *** misc :short:
+**** TODO [#A] CC4.12 Solitaire (9.2)       :ToyMaker:P2010:plot_yes:Charley:
+:PROPERTIES:
+:rating:   9.2
+:END:
 **** [#C] ST2.8 - Letting Go
 :PROPERTIES:
 :rating:   7.9
@@ -623,11 +627,6 @@ SCHEDULED: <2022-09-04 Sun>
 **** DONE [#C] ST7.10 - All Hands on Deck
 :PROPERTIES:
 :rating:   7.8
-:END:
-
-**** [#A] CC4.12 Solitaire (9.2) :ToyMaker:P2010:plot_yes:
-:PROPERTIES:
-:rating:   9.2
 :END:
 
 **** [#B] STS37 - Tuesday :Harry:

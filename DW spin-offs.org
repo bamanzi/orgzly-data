@@ -528,10 +528,10 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
 ***** 2DONE [#A] 6.6 Hostile Environment (9.0) :Tyler:DW2022_09_spinoffs:
       CLOSED: [2022-09-26 Mon 19:42] SCHEDULED: <2022-09-11 Sun>
 
-***** TODO [#A] 6.7 Another Man's Shoes (8.8) :Norton:P2019:DW2022_10_spinoffs:
-      SCHEDULED: <2022-10-11 Tue>
+***** START [#A] 6.7 Another Man's Shoes (8.8) :Norton:P2019:DW2022_10_spinoffs:
+      SCHEDULED: <2022-10-29 Sat>
 
-***** TODO [#A] 6.8 Eye of the Storm (8.8) :Norton:P2019:DW2022_10_spinoffs:
+***** START [#A] 6.8 Eye of the Storm (8.8) :Norton:P2019:DW2022_10_spinoffs:
       SCHEDULED: <2022-10-29 Sat>
 
 ***** [#B] 6.9 A Mother's Son (8.2) :DW2022_12_spinoffs:
@@ -817,7 +817,7 @@ Roberts Master
      :rating:   6.5
      :END:
 
-**** START [#C] 6.4 The Talents of Greel        (7.8) :Jago:DW2022_10_maybe:
+**** START [#C] 6.4 The Talents of Greel        (7.8) :Jago:plot_yes:DW2022_10_maybe:
      SCHEDULED: <2022-10-30 Sun>
 
 *** DoRS 7 :P2020:
@@ -923,7 +923,7 @@ Roberts Master
     CLOSED: [2022-09-02 Fri 19:14] SCHEDULED: <2022-09-04 Sun>
 
 *** TODO [#D] 7.2 The Night of 1000 Stars           (7.2) :plot_no:DW2022_10_maybe:
-    SCHEDULED: <2022-10-30 Sun>
+    SCHEDULED: <2022-10-31 Mon>
 
 *** [#A] 7.3 Murder at Moorsey Manor           (8.7) :DW2022_12_spinoffs:
 *** [#C] 7.4 The Wax Princess                  (7.5)
@@ -1034,8 +1034,8 @@ Roberts Master
 *** HALF [#B] 4.1 - Reborn       (8.0) :DW2022_09_spinoffs:
     SCHEDULED: <2022-09-18 Sun>
 
-*** TODO [#A] 4.2 - Disassembled (9.1) :plot_yes:DW2022_10_spinoffs:
-    SCHEDULED: <2022-10-16 Sun>
+*** HALF [#A] 4.2 - Disassembled (9.1) :plot_yes:DW2022_10_spinoffs:
+    SCHEDULED: <2022-10-15 Sat>
 
 *** [#B] 4.3 - Annihilation (8.0) :DW2022_11_spinoffs:
 *** [#C] 4.4 - Forever      (7.9) :DW2022_12_spinoffs:
@@ -1052,7 +1052,7 @@ Roberts Master
 * Bernice Summerfield :Benny:
 ** Bernice Summerfield
 *** Series 1 :P1999:
-**** HALF [#C] 1.1 Oh No It Isn't :plot_yes:DW2022_07_spinoffs:
+**** HALF [#C] 1.1 Oh No It Isn't :plot_yes:2CD:DW2022_07_spinoffs:
      SCHEDULED: <2022-07-06 Wed>
      :PROPERTIES:
      :rating:   7.9
@@ -1063,13 +1063,13 @@ Roberts Master
      :rating:   6.2
      :END:
 
-**** [#D] 1.3 Walking to Babylon
+**** [#D] 1.3 Walking to Babylon :2CD:
 **** CANCEL 1.4 Birthright
      :PROPERTIES:
      :rating:   6.7
      :END:
 
-**** [#A] 1.5 Just War
+**** [#A] 1.5 Just War :2CD:
      :PROPERTIES:
      :rating:   9.2
      :END:
@@ -1443,7 +1443,7 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
      :END:
 
 **** HALF [#D] 1.2 Prey :Vienna:plot_yes:DW2022_10_spinoffs:
-     SCHEDULED: <2022-10-07 Fri>
+     SCHEDULED: <2022-10-15 Sat>
      :PROPERTIES:
      :rating:   7.4
      :END:
@@ -1930,7 +1930,9 @@ Synopsis:  http://www.drwhoguide.com/kaldor01.htm
     SCHEDULED: <2022-09-04 Sun>
 
 *** TODO KC3. Hidden Persuaders :DW2022_10_spinoffs:
-    SCHEDULED: <2022-10-22 Sat>
+    SCHEDULED: <2022-10-29 Sat>
+
+http://www.drwhoguide.com/kaldor03.htm
 
 *** KC4. Taren Capel :DW2022_12_spinoffs:
 *** KC5. Checkmate
@@ -2040,8 +2042,8 @@ Synopsis:  http://www.drwhoguide.com/kaldor01.htm
     :rating:   7.5
     :END:
 
-*** TODO [#C] 1.3 - The Pelage Project           (7.7) :DW2022_10_spinoffs:
-    SCHEDULED: <2022-10-29 Sat>
+*** START [#C] 1.3 - The Pelage Project           (7.7) :DW2022_10_spinoffs:
+    SCHEDULED: <2022-10-15 Sat>
 
 *** [#B] 1.4 - State of Emergency           (8.3) :DW2022_12_spinoffs:
 ** CM series 2 :P2013:
@@ -2197,8 +2199,11 @@ Synopsis:  http://www.drwhoguide.com/kaldor01.htm
 *** TBR RTDC vol.2 Other Worlds :P2022_10:
 *** TBR RTDC vol.3 Trapped :P2023_09:
 ** Donna Nobel - Kidnapped :Donna:P2020:
-*** TODO [#B] 1. Out of this World (8.1) :plot_no:bilibili:DW2022_10_spinoffs:
-    SCHEDULED: <2022-10-16 Sun>
+
+From Donna's perspective, the anthology is set after /Forest of the Dead/.
+
+*** DONE [#B] 1. Out of this World (8.1) :plot_no:bilibili:DW2022_10_spinoffs:
+    CLOSED: [2022-10-15 Sat 22:10] SCHEDULED: <2022-10-15 Sat>
 
 【【神秘博士广播剧熟肉】Kidnapped! 101 Out of this World 世界之外-哔哩哔哩】 https://b23.tv/By95ZJG
 

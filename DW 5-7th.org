@@ -34,7 +34,7 @@ CLOSED: <2021-10-05 Tue 20:27>
 **** [#C] Planet of Fire (7.5)
 **** [#C] The Caves of Androzani (8.7)
 ** audio :🎧:
-*** main range 001-050 :scripted:
+*** main range 001-050 :scripted:2CD:
 **** The Sirens of Time
 **** Phantasmagoria
 **** [#F] 4. The Land of the Dead
@@ -89,7 +89,7 @@ SCHEDULED: <2022-02-24 Thu>
 
 **** [#C] 047. Omega
 **** Zagreus
-*** main range 051-100 :scripted:
+*** main range 051-100 :scripted:2CD:
 **** CANCEL [#F] 056. The Axis of Insanity :Erimem:
 CLOSED: [2021-03-22 Mon 23:22]
 :PROPERTIES:
@@ -154,7 +154,7 @@ CLOSED: <2021-05-29 Sat 08:11>
 :END:
 
 **** The 100 Days of the Doctor
-*** main range 101-150 :scripted:
+*** main range 101-150 :scripted:2CD:
 **** START 102. The Mind's Eye / Mission of the Viyrans :Viyrans:Peri:D2021_04:
 **** [#C] 104. The Bride of Peladon :Peri:Erimem:
 **** 3QTR [#C] 107. The Haunting of Thomas Brewster :D2021_12_doctor:week4:
@@ -211,7 +211,7 @@ CLOSED: [2021-03-22 Mon 23:16]
 :rating:   6.7
 :END:
 
-*** main range 151-200 :scripted:
+*** main range 151-200 :scripted:2CD:
 **** BLOCK [#B] 159. The Emerald Tiger (8.2) :plot_yes:DW2022_11_doctor:
 **** [#D] 160. The 160. Jupiter Conjunction (7.3)
 **** BLOCK [#B] 161. The Butcher of Brisbane (8.0) :plot_yes:
@@ -257,7 +257,7 @@ CLOSED: [2021-02-27 Sat 18:02]
 **** HALF [#B] MR200. The Secret History (8.2) :5th_Dr:plot_yes:Steven:Vicki:Monk:D2021_09_extra:
 SCHEDULED: <2021-09-15 Wed>
 
-*** main range 201-250 :scripted:
+*** main range 201-250 :scripted:2CD:
 **** [#C] 208. The Waters of Amsterdam (7.9)
 **** DONE [#A] 209. Aquitaine (8.8) :Tegan:Nyssa:P2016:plot_yes:
 CLOSED: <2021-03-12 Fri 19:58>
@@ -394,16 +394,16 @@ SCHEDULED: <2022-05-14 Sat>
 **** Forty
 ***** 1.1 Secrets of Telos :Nyssa:Tegan:Cybermen:2CD:P2022_01:DW2022_11_maybe:
 ***** 1.2 God of War :Nyssa:Tegan:Adric:ice_warriors:1CD:P2022_01:
-***** TBR 2.1 The Auton Infinity :3CD:P2022_09:
-**** Conflict of Interests :P2023_04:
+***** 2.1 The Auton Infinity :3CD:P2022_09:
+**** TBR Conflict of Interests                                     :P2023_04:
 *** misc
 **** The Lost Stories
-***** [#B] 3.1 - The Elite
+***** [#B] 3.1 - The Elite :2CD:
 :PROPERTIES:
 :rating:   8.3
 :END:
 
-**** Classic Doctors, New Monsters :short:
+**** Classic Doctors, New Monsters :1CD:
 ***** 3QTR [#B] 1.1 Fallen Angles :scripted:DW2022_09_doctor:
 CLOSED: [2022-09-23 Fri 08:27] SCHEDULED: <2022-09-08 Thu>
 :PROPERTIES:
@@ -421,10 +421,10 @@ CLOSED: [2022-01-14 Fri 15:10]
 ***** A Requiem for the Doctor
 ***** My Dinner with Andrew
 ***** The Furies
-**** VI. Return to the Web Planet :short:
-**** X. The Five Companions :short:
-**** CC4.05 - Ringpullworld :short:
-**** ST7.11. The Ingenious Gentleman Adric of Alzarius :short:
+**** VI. Return to the Web Planet :1CD:
+**** X. The Five Companions :1CD:
+**** CC4.05 - Ringpullworld :1CD:
+**** ST7.11. The Ingenious Gentleman Adric of Alzarius :1CD:
 * 6th Doctor :6th_Dr:
 ** tv :📺:
 *** Season 21
@@ -452,7 +452,7 @@ CLOSED: [2021-12-12 Sun 17:32]
 **** Time and the Rani
 *** TODO special: Real Time :Cybermen:Evelyn:DW2022_11_extra:
 ** audio :🎧:
-*** main range 01-50 :scripted:
+*** main range 01-50 :scripted:2CD:
 **** 3QTR [#A] 6. The Marian Conspiracy (8.6) :Evelyn:plot_yes:DW2022_08_doctor:
 CLOSED: [2022-08-03 Wed 21:45] SCHEDULED: <2022-08-03 Wed>
 
@@ -501,7 +501,7 @@ CLOSED: [2021-07-23 Fri 12:43]
 *:END:
 *
 
-*** main range 51-100 :scripted:
+*** main range 51-100 :scripted:2CD:
 **** [#C] 51. The Wormery :Iris:
 :PROPERTIES:
 :rating:   7.5
@@ -536,7 +536,7 @@ CLOSED: [2021-03-22 Mon 20:39]
 :rating:   7.8
 :END:
 
-*** main range 101-150 :scripted:
+*** main range 101-150 :scripted:2CD:
 **** TODO [#B] 105. The Condemned (8.4) :Charley:plot_no:DW2022_10_maybe:
 SCHEDULED: <2022-10-30 Sun>
 
@@ -597,7 +597,7 @@ SCHEDULED: <2022-08-30 Tue>
 ***** [#E] 150b. Paradoxicide
 ***** [#D] 150c. A Most Excellent Match :short:
 ***** [#B] 150d. Question Marks (8.3) :plot_no:short:
-*** main range 151-200 :scripted:
+*** main range 151-200 :scripted:2CD:
 **** 2DONE [#B] 156. The Curse of Davros (8.0) :plot_no:2buy:
 CLOSED: <2021-12-23 Thu 08:53>
 
@@ -625,7 +625,7 @@ CLOSED: [2021-10-18 Mon 20:15]
 :rating:   7.1
 :END:
 
-*** main range 201- :scripted:
+*** main range 201- :scripted:2CD:
 **** [#C] 204. Criss-Cross :Peri:Rani:
 **** [#C] 212. Vampire of the Mind :Master:
 :PROPERTIES:
@@ -777,12 +777,12 @@ Volume One
 
 **** [#D] Mind of the Hodiac :Mel:P2022_03:
 *** misc
-**** Jago and Litefoot: Series 4 :short:
+**** Jago and Litefoot: Series 4
 ***** 2DONE Jago in Love
 ***** 2DONE Beautiful Things
 ***** 2DONE The Lonely Clock
 ***** 2DONE The Hourglass Killers
-**** Classic Doctors, New Monsters :short:
+**** Classic Doctors, New Monsters
 ***** [#B] 1.2 Judoon in Chains
 :PROPERTIES:
 :rating:   8.3
@@ -796,7 +796,7 @@ Volume One
 **** The Diary of River Song: Series 2
 ***** World Enough and Time
 ***** The Eye of the Storm
-**** ST4.6 - To Cut a Blade of Grass :short:
+**** ST4.6 - To Cut a Blade of Grass
 * 7th Doctor :7th_Dr:
 ** tv :📺:
 *** S24
@@ -817,7 +817,7 @@ CLOSED: [2021-11-01 Mon 19:54]
 **** [#B] S26E03 Fenric的诅咒 - The Curse of Fenric (8.2)
 **** [#C] S26E04 幸存 - Survival (7.7)
 ** audio :🎧:
-*** main range :scripted:
+*** main range :scripted:2CD:
 **** top
 
 |   | 12. The Fires of Vulcan        | 8.4 | 7th | 2000 | Mel                                          | Steve Lyons                          |
@@ -1007,7 +1007,7 @@ SCHEDULED: <2021-12-04 Sat>
 
 【【神秘博士广播剧汉化】The Two Masters 两个法师-哔哩哔哩】https://b23.tv/FjTGsz 
 
-***** [#C] 226b. World Apart :plot_no:short:
+***** [#C] 226b. World Apart :plot_no:1CD:
 :PROPERTIES:
 :rating:   7.7
 :END:
@@ -1053,7 +1053,7 @@ CLOSED: <2022-07-06 Wed 20:52> SCHEDULED: <2022-07-06 Wed>
 :rating:   7.4
 :END:
 
-***** CANCEL [#F] 7DA 1.2 - Vanguard :short:
+***** CANCEL [#F] 7DA 1.2 - Vanguard
 CLOSED: [2021-03-23 Tue 13:04]
 :PROPERTIES:
 :rating:   6.1
@@ -1064,51 +1064,54 @@ CLOSED: [2021-03-23 Tue 13:04]
 :rating:   8.2
 :END:
 
-***** [#A] 7DA 1.4 - The Dread of Night :short:
+***** [#A] 7DA 1.4 - The Dread of Night
 :PROPERTIES:
 :rating:   8.5
 :END:
 
-**** 7DA Silver and Ice :P2022_06:
-***** Bad Day in Tinseltown :Cybermen:Mel:
+**** 7DA Silver and Ice :P2022_06:1CD:
+***** CANCEL [#F] Bad Day in Tinseltown :Cybermen:Mel:
+CLOSED: [2022-10-08 Sat 09:05]
+
 ***** The Ribos Inheritance :Mel:
 **** TBR 7DA Sullivan and Cross - AWOL :P2022_11:
-*** misc
-**** BLOCK [#D] NA1 Love and War :Ace:Benny:3CD:
+*** novel adaptations                                                   :2CD:
+**** BLOCK [#D] NA1 Love and War                              :Ace:Benny:3CD:
 
 block 原因：太长（3小时多）
 
-**** CANCEL [#E] NA2 The Highest Science :Benny:
-**** [#A] NA6 Damaged Goods :Roz:Chris:plot_no:bilibili:
-:PROPERTIES:
-:rating:   9.0
-:END:
+**** CANCEL [#E] NA2 The Highest Science                              :Benny:
+**** [#A] NA6 Damaged Goods                      :Roz:Chris:plot_no:bilibili:
+     :PROPERTIES:
+     :rating:   9.0
+     :END:
 
 【【神秘博士广播剧翻译】RTD早期作品 Damaged Goods-哔哩哔哩】 https://b23.tv/5a9c2Hb
 
-**** [#C] NA7 Theatre of War :Ace:Benny:Brax:
-**** [#A] NA8. All Consuming Fire :Ace:Benny:Holmes:
-:PROPERTIES:
-:rating:   8.4
-:END:
+**** [#C] NA7 Theatre of War                                 :Ace:Benny:Brax:
+**** [#A] NA8. All Consuming Fire                          :Ace:Benny:Holmes:
+     :PROPERTIES:
+     :rating:   8.4
+     :END:
 
-**** [#B] NA9. Nightshade :Ace:
-:PROPERTIES:
-:rating:   8.1
-:END:
+**** [#B] NA9. Nightshade                                               :Ace:
+     :PROPERTIES:
+     :rating:   8.1
+     :END:
 
-**** [#C] NA10 Original Sin :Benny:Roz:Chris:
-**** [#A] NA11. Cold Fusion :Roz:Chris:5th_Dr:
-:PROPERTIES:
-:rating:   8.7
-:END:
+**** [#C] NA10 Original Sin                                 :Benny:Roz:Chris:
+**** [#A] NA11. Cold Fusion                                :Roz:Chris:5th_Dr:
+     :PROPERTIES:
+     :rating:   8.7
+     :END:
 
-**** CANCEL [#E] CDNM1.3 Harvest of Sycorax :short:
-:PROPERTIES:
-:rating:   6.9
-:END:
+*** misc
+**** CANCEL [#E] CDNM1.3 Harvest of Sycorax
+      :PROPERTIES:
+      :rating:   6.9
+      :END:
 
-**** ST6.13 - Forever Fallen :short:
+**** ST6.13 - Forever Fallen
 ** comics
 *** A Cold Day in Hell! (DWM 130-148)
 
