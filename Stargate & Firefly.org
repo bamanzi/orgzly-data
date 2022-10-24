@@ -118,6 +118,12 @@ CLOSED: [2022-10-13 Thu 20:09]
 **** DONE 3x09
 CLOSED: [2022-10-14 Fri 21:18]
 
+**** DONE 3x10
+CLOSED: [2022-10-18 Tue 13:06]
+
+**** DONE 3x11
+CLOSED: [2022-10-22 Sat 19:10]
+
 ** Stargate Atlantis (SGA) :sga:
 *** DONE tv
 *** comics
@@ -213,6 +219,12 @@ CLOSED: [2021-09-21 Tue 17:02]
 ** S5
 *** DONE 5x01
 CLOSED: [2022-10-14 Fri 08:10]
+
+*** DONE 5x02
+CLOSED: [2022-10-19 Wed 20:32]
+
+*** DONE 5x03
+CLOSED: [2022-10-21 Fri 21:48]
 
 * Battlestar Galactica :bsg:
 ** tv :📺:

@@ -25,8 +25,8 @@ CLOSED: [2022-09-30 Fri 22:12] SCHEDULED: <2022-10-08 Sat>
 ***** TODO 1x06. The Speckled Band 斑点带子
 SCHEDULED: <2022-10-22 Sat>
 
-***** TODO 1x07. The Blue Carbuncle 蓝宝石案
-SCHEDULED: <2022-10-31 Mon>
+***** DONE 1x07. The Blue Carbuncle 蓝宝石案
+CLOSED: <2022-10-20 Thu 22:19> SCHEDULED: <2022-10-14 Fri>
 
 ***** 8. The Copper Beeches 铜山毛榉案
 ***** 9. The Greek Interpreter 希腊译员
@@ -112,8 +112,12 @@ CLOSED: [2022-10-11 Tue 21:20]
 ***** DONE 4x09
 CLOSED: [2022-10-17 Mon 08:05]
 
-***** 4x10
-***** 4x11
+***** DONE 4x10
+CLOSED: [2022-10-20 Thu 08:11]
+
+***** DONE 4x11
+CLOSED: [2022-10-24 Mon 08:18]
+
 ***** [#B] 4x12 A View with a Room
 :PROPERTIES:
 :rating:   8.3
@@ -147,13 +151,13 @@ https://agathachristie.fandom.com/wiki/Agatha_Christie%27s_Poirot
 CLOSED: [2022-09-26 Mon 08:14] SCHEDULED: <2022-09-25 Sun>
 
 ***** NOW 1x03 The Adventure of Johnnie Waverly
-SCHEDULED: <2022-09-30 Fri>
+SCHEDULED: <2022-10-22 Sat>
 
 ***** NOW 1x04 Four and Twenty Blackbirds
-SCHEDULED: <2022-10-07 Fri>
+SCHEDULED: <2022-10-22 Sat>
 
 ***** NEXT 1x05 The Third Floor Flat
-SCHEDULED: <2022-10-07 Fri>
+SCHEDULED: <2022-10-29 Sat>
 
 ***** 1x06 Triangle at Rhodes
 ***** 1x07 Problem at Sea
@@ -171,10 +175,10 @@ https://agathachristie.fandom.com/wiki/Agatha_Christie's_Marple
 CLOSED: [2022-09-21 Wed 22:49]
 
 ***** NEXT 1x03 4.50 From Paddington
-SCHEDULED: <2022-10-07 Fri>
+SCHEDULED: <2022-10-22 Sat>
 
 ***** NEXT2 1x04 A Murder Is Announced
-SCHEDULED: <2022-10-20 Thu>
+SCHEDULED: <2022-10-29 Sat>
 
 **** Season 6 :P2013:
 *** 汤米夫妇探案集 Agatha Christie's Partners in Crime
