@@ -12,7 +12,7 @@
 **** [#C] The Visitation (7.6)
 **** [#D] Black Orchid (7.2)
 **** [#A] Earthshock (8.5) :Cybermen:DW2022_10_extra:
-SCHEDULED: <2022-10-31 Mon>
+SCHEDULED: <2022-11-02 Wed>
 
 **** CANCEL [#F] Time-Flight (6.0)
 *** Season 20
@@ -213,6 +213,8 @@ CLOSED: [2021-03-22 Mon 23:16]
 
 *** main range 151-200 :scripted:2CD:
 **** BLOCK [#B] 159. The Emerald Tiger (8.2) :plot_yes:DW2022_11_doctor:
+SCHEDULED: <2022-11-05 Sat>
+
 **** [#D] 160. The 160. Jupiter Conjunction (7.3)
 **** BLOCK [#B] 161. The Butcher of Brisbane (8.0) :plot_yes:
 :PROPERTIES:
@@ -392,10 +394,10 @@ SCHEDULED: <2022-05-14 Sat>
 ***** The Moonrakers
 ***** The People Made of Smoke
 **** Forty
-***** 1.1 Secrets of Telos :Nyssa:Tegan:Cybermen:2CD:P2022_01:DW2022_11_maybe:
+***** [#D] 1.1 Secrets of Telos :Nyssa:Tegan:Cybermen:2CD:P2022_01:DW2022_11_maybe:
 ***** 1.2 God of War :Nyssa:Tegan:Adric:ice_warriors:1CD:P2022_01:
 ***** 2.1 The Auton Infinity :3CD:P2022_09:
-**** TBR Conflict of Interests                                     :P2023_04:
+**** TBR Conflict of Interests :P2023_04:
 *** misc
 **** The Lost Stories
 ***** [#B] 3.1 - The Elite :2CD:
@@ -451,6 +453,8 @@ CLOSED: [2021-12-12 Sun 17:32]
 *** Season 24
 **** Time and the Rani
 *** TODO special: Real Time :Cybermen:Evelyn:DW2022_11_extra:
+SCHEDULED: <2022-11-30 Wed>
+
 ** audio :🎧:
 *** main range 01-50 :scripted:2CD:
 **** 3QTR [#A] 6. The Marian Conspiracy (8.6) :Evelyn:plot_yes:DW2022_08_doctor:
@@ -537,7 +541,7 @@ CLOSED: [2021-03-22 Mon 20:39]
 :END:
 
 *** main range 101-150 :scripted:2CD:
-**** TODO [#B] 105. The Condemned (8.4) :Charley:plot_no:DW2022_10_maybe:
+**** TODO [#B] 105. The Condemned (8.4) :Charley:plot_no:DW2022_12_maybe:
 SCHEDULED: <2022-10-30 Sun>
 
 Six and Charley meet, and an enjoyable, weird adventure results.
@@ -601,7 +605,7 @@ SCHEDULED: <2022-08-30 Tue>
 **** 2DONE [#B] 156. The Curse of Davros (8.0) :plot_no:2buy:
 CLOSED: <2021-12-23 Thu 08:53>
 
-**** [#C] 157. The Fourth Wall :Flip:DW2022_12_doctor:
+**** [#C] 157. The Fourth Wall :Flip:DW2022_12_maybe:
 **** [#E] 182. Antidote to Oblivion
 **** [#E] 183. The Brood of Erys
 **** [#D] 184. Scavenger
@@ -657,7 +661,7 @@ CLOSED: [2022-06-29 Wed 16:22] SCHEDULED: <2022-06-19 Sun>
 
 【【神秘博士广播剧】Bonus Release 012 The Trial of Valeyard 黑暗博士的审判-哔哩哔哩】 https://b23.tv/BP98ck4
 
-**** The Sixth Doctor: The Last Adventure :1CD:
+**** The Sixth Doctor: The Last Adventure :1CD:scripted:
 ***** 2DONE The End of the Line :Master:Valeyard:D2021_12_master:bilibili:week1:
 CLOSED: [2021-12-03 Fri 23:22] SCHEDULED: <2021-12-05 Sun>
 
@@ -671,8 +675,8 @@ SCHEDULED: <2022-02-17 Thu>
 
 【【广播剧翻译】照日光变成人的反向狼人 六任:最后的冒险 102 红房子-哔哩哔哩】 https://b23.tv/RLKffOm
 
-***** TODO [#B] Stage Fright :Jago:Litefoot:plot_yes:bilibili:DW2022_10_doctor:
-SCHEDULED: <2022-10-11 Tue>
+***** HALF [#B] Stage Fright :Jago:Litefoot:plot_yes:bilibili:DW2022_10_doctor:
+SCHEDULED: <2022-11-01 Tue>
 :PROPERTIES:
 :rating:   8.3
 :END:
@@ -1059,7 +1063,8 @@ CLOSED: [2021-03-23 Tue 13:04]
 :rating:   6.1
 :END:
 
-***** [#B] 7DA 1.3 - The Jabari Countdown :short:DW2022_11_doctor:
+***** TODO [#B] 7DA 1.3 - The Jabari Countdown :short:DW2022_11_doctor:
+SCHEDULED: <2022-11-07 Mon>
 :PROPERTIES:
 :rating:   8.2
 :END:
@@ -1075,42 +1080,43 @@ CLOSED: [2022-10-08 Sat 09:05]
 
 ***** The Ribos Inheritance :Mel:
 **** TBR 7DA Sullivan and Cross - AWOL :P2022_11:
-*** novel adaptations                                                   :2CD:
-**** BLOCK [#D] NA1 Love and War                              :Ace:Benny:3CD:
+*** novel adaptations :2CD:
+**** BLOCK [#D] NA1 Love and War :Ace:Benny:3CD:
 
 block 原因：太长（3小时多）
 
-**** CANCEL [#E] NA2 The Highest Science                              :Benny:
-**** [#A] NA6 Damaged Goods                      :Roz:Chris:plot_no:bilibili:
-     :PROPERTIES:
-     :rating:   9.0
-     :END:
+**** CANCEL [#E] NA2 The Highest Science :Benny:
+**** READY [#A] NA6 Damaged Goods :Roz:Chris:plot_no:2CD:bilibili:
+:PROPERTIES:
+:rating:   9.0
+:END:
 
 【【神秘博士广播剧翻译】RTD早期作品 Damaged Goods-哔哩哔哩】 https://b23.tv/5a9c2Hb
 
-**** [#C] NA7 Theatre of War                                 :Ace:Benny:Brax:
-**** [#A] NA8. All Consuming Fire                          :Ace:Benny:Holmes:
-     :PROPERTIES:
-     :rating:   8.4
-     :END:
+**** [#C] NA7 Theatre of War :Ace:Benny:Brax:
+**** [#A] NA8. All Consuming Fire :Ace:Benny:Holmes:
+:PROPERTIES:
+:rating:   8.4
+:END:
 
-**** [#B] NA9. Nightshade                                               :Ace:
-     :PROPERTIES:
-     :rating:   8.1
-     :END:
+**** [#B] NA9. Nightshade :Ace:
+:PROPERTIES:
+:rating:   8.1
+:END:
 
-**** [#C] NA10 Original Sin                                 :Benny:Roz:Chris:
-**** [#A] NA11. Cold Fusion                                :Roz:Chris:5th_Dr:
-     :PROPERTIES:
-     :rating:   8.7
-     :END:
+**** TODO [#C] NA10 Original Sin :Benny:Roz:Chris:2CD:
+**** [#A] NA11. Cold Fusion :Roz:Chris:5th_Dr:
+:PROPERTIES:
+:rating:   8.7
+:END:
 
 *** misc
 **** CANCEL [#E] CDNM1.3 Harvest of Sycorax
-      :PROPERTIES:
-      :rating:   6.9
-      :END:
+:PROPERTIES:
+:rating:   6.9
+:END:
 
+**** [#A] CDNM3.3 Together in Eclectic Dreams :8th_Dr:
 **** ST6.13 - Forever Fallen
 ** comics
 *** A Cold Day in Hell! (DWM 130-148)

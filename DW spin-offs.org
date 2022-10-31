@@ -323,7 +323,8 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
       :rating:   8.8
       :END:
 
-***** [#D] 47. Drive :Tosh:DW2022_11_maybe:
+***** TODO [#D] 47. Drive :Tosh:DW2022_11_maybe:
+      SCHEDULED: <2022-11-16 Wed>
       :PROPERTIES:
       :rating:   7.3
       :END:
@@ -357,7 +358,8 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
       :rating:   7.6
       :END:
 
-***** [#A] 54. Curios (8.9) :Bilis_Manger:DW2022_11_spinoffs:
+***** TODO [#A] 54. Curios (8.9) :Bilis_Manger:DW2022_11_spinoffs:
+      SCHEDULED: <2022-11-16 Wed>
       :PROPERTIES:
       :rating:   8.9
       :END:
@@ -528,11 +530,11 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
 ***** 2DONE [#A] 6.6 Hostile Environment (9.0) :Tyler:DW2022_09_spinoffs:
       CLOSED: [2022-09-26 Mon 19:42] SCHEDULED: <2022-09-11 Sun>
 
-***** START [#A] 6.7 Another Man's Shoes (8.8) :Norton:P2019:DW2022_10_spinoffs:
-      SCHEDULED: <2022-10-29 Sat>
+***** 3QTR [#A] 6.7 Another Man's Shoes (8.8) :Norton:P2019:DW2022_10_spinoffs:
+      CLOSED: [2022-10-27 Thu 21:38] SCHEDULED: <2022-10-29 Sat>
 
-***** START [#A] 6.8 Eye of the Storm (8.8) :Norton:P2019:DW2022_10_spinoffs:
-      SCHEDULED: <2022-10-29 Sat>
+***** HALF [#A] 6.8 Eye of the Storm (8.8) :Norton:P2019:DW2022_10_spinoffs:
+      SCHEDULED: <2022-11-01 Tue>
 
 ***** [#B] 6.9 A Mother's Son (8.2) :DW2022_12_spinoffs:
 ***** [#B] 6.10 ScrapeJane (8.2) :DW2022_12_spinoffs:
@@ -817,12 +819,12 @@ Roberts Master
      :rating:   6.5
      :END:
 
-**** START [#C] 6.4 The Talents of Greel        (7.8) :Jago:plot_yes:DW2022_10_maybe:
-     SCHEDULED: <2022-10-30 Sun>
+**** START [#C] 6.4 The Talents of Greel        (7.8) :Jago:plot_yes:DW2022_12_maybe:
+     SCHEDULED: <2022-10-31 Mon>
 
 *** DoRS 7 :P2020:
-**** TODO [#C] 7.1 Colony of Strangers         (7.7)
-**** [#D] 7.2 Abbey of Heretics           (7.2) :DW2022_12_spinoffs:
+**** TODO [#C] 7.1 Colony of Strangers         (7.7) :DW2022_12_spinoffs:
+**** [#D] 7.2 Abbey of Heretics           (7.2)
 **** [#A] 7.3 Barrister to the Stars      (8.9)
 **** [#D] 7.4 Carnival of Angels          (7.0)
 *** DoRS 8 :P2021:
@@ -922,10 +924,10 @@ Roberts Master
 *** 3QTR [#B] 7.1 The Monstrous Menagerie           (8.1) :DW2022_08_spinoffs:
     CLOSED: [2022-09-02 Fri 19:14] SCHEDULED: <2022-09-04 Sun>
 
-*** TODO [#D] 7.2 The Night of 1000 Stars           (7.2) :plot_no:DW2022_10_maybe:
+*** TODO [#D] 7.2 The Night of 1000 Stars           (7.2) :plot_no:DW2022_12_spinoffs:
     SCHEDULED: <2022-10-31 Mon>
 
-*** [#A] 7.3 Murder at Moorsey Manor           (8.7) :DW2022_12_spinoffs:
+*** [#A] 7.3 Murder at Moorsey Manor           (8.7)
 *** [#C] 7.4 The Wax Princess                  (7.5)
 ** J&L series 8 :P2014:
 *** [#A] 8.1 - Encore of the Scorchies         (8.9)
@@ -1034,10 +1036,12 @@ Roberts Master
 *** HALF [#B] 4.1 - Reborn       (8.0) :DW2022_09_spinoffs:
     SCHEDULED: <2022-09-18 Sun>
 
-*** HALF [#A] 4.2 - Disassembled (9.1) :plot_yes:DW2022_10_spinoffs:
-    SCHEDULED: <2022-10-15 Sat>
+*** 3QTR [#A] 4.2 - Disassembled (9.1) :plot_yes:DW2022_10_spinoffs:
+    CLOSED: [2022-10-30 Sun 19:57] SCHEDULED: <2022-10-15 Sat>
 
-*** [#B] 4.3 - Annihilation (8.0) :DW2022_11_spinoffs:
+*** TODO [#B] 4.3 - Annihilation (8.0) :DW2022_11_spinoffs:
+    SCHEDULED: <2022-11-26 Sat>
+
 *** [#C] 4.4 - Forever      (7.9) :DW2022_12_spinoffs:
 ** series 5 :P2013:
 *** [#E] 5.1 - Emancipation (6.9)
@@ -1335,12 +1339,13 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
      :rating:   7.9
      :END:
 
-**** [#B] 5.2 Clear History
+**** [#B] 5.2 Clear History :DW2022_11_doctor:
+     SCHEDULED: <2022-11-13 Sun>
      :PROPERTIES:
      :rating:   8.1
      :END:
 
-**** [#B] 5.3 Dead and Breakfast :DW2022_11_doctor:
+**** TODO [#B] 5.3 Dead and Breakfast
      :PROPERTIES:
      :rating:   8.2
      :END:
@@ -1413,7 +1418,7 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
     :rating:   6.8
     :END:
 
-*** [#D] 2.3 - Treason and Plot :DW2022_12_spinoffs:
+*** [#D] 2.3 - Treason and Plot :DW2022_12_maybe:
     :PROPERTIES:
     :rating:   7.2
     :END:
@@ -1448,8 +1453,8 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
      :rating:   7.4
      :END:
 
-**** TODO [#A] 1.3. Vengeance :DW2022_10_spinoffs:
-     SCHEDULED: <2022-10-29 Sat>
+**** START [#A] 1.3. Vengeance :DW2022_10_spinoffs:
+     SCHEDULED: <2022-11-01 Tue>
      :PROPERTIES:
      :rating:   8.6
      :END:
@@ -1854,7 +1859,11 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
 *** [#D] 2.4 Ice Station Alpha (7.3)
 ** UNIT 3: Silenced :P2016:
 *** HALF [#B] 3.1 House of Silents (8.2) :DW2022_11_spinoffs:
+    SCHEDULED: <2022-11-18 Fri>
+
 *** START [#B] 3.2 Square One (8.4) :DW2022_11_spinoffs:
+    SCHEDULED: <2022-11-18 Fri>
+
 *** [#A] 3.3 Silent Majority (8.5)
 *** [#C] 3.4 In Memory Alone (7.5)
 ** UNIT 4: Assembled :Silurians:P2017:
@@ -1929,8 +1938,8 @@ Synopsis:  http://www.drwhoguide.com/kaldor01.htm
 *** HALF [#B] KC2. Death's Head :DW2022_08_spinoffs:
     SCHEDULED: <2022-09-04 Sun>
 
-*** TODO KC3. Hidden Persuaders :DW2022_10_spinoffs:
-    SCHEDULED: <2022-10-29 Sat>
+*** HALF KC3. Hidden Persuaders :DW2022_10_spinoffs:
+    SCHEDULED: <2022-11-01 Tue>
 
 http://www.drwhoguide.com/kaldor03.htm
 
@@ -1964,7 +1973,8 @@ http://www.drwhoguide.com/kaldor03.htm
      :rating:   8.0
      :END:
 
-**** [#B] 2.2 - Toos and Poul :DW2022_11_spinoffs:_spinoffs:
+**** TODO [#B] 2.2 - Toos and Poul :DW2022_11_spinoffs:_spinoffs:
+     SCHEDULED: <2022-11-28 Mon>
      :PROPERTIES:
      :rating:   8.0
      :END:
@@ -2021,7 +2031,9 @@ http://www.drwhoguide.com/kaldor03.htm
 **** START [#D] 2.1 - Dining with Death         (7.0) :DW2022_09_spinoffs:
      SCHEDULED: <2022-09-30 Fri>
 
-**** [#C] 2.2 - The Screaming Ceiling     (7.6) :DW2022_11_spinoffs:
+**** TODO [#C] 2.2 - The Screaming Ceiling     (7.6) :DW2022_11_spinoffs:
+     SCHEDULED: <2022-11-20 Sun>
+
 **** [#C] 2.3 - Spring-Heeled Jack        (7.7)
 *** PG: Heritage 3 :P2020:
 **** [#C] 3.1 - Family Matters            (7.5)
@@ -2043,7 +2055,7 @@ http://www.drwhoguide.com/kaldor03.htm
     :END:
 
 *** START [#C] 1.3 - The Pelage Project           (7.7) :DW2022_10_spinoffs:
-    SCHEDULED: <2022-10-15 Sat>
+    SCHEDULED: <2022-10-29 Sat>
 
 *** [#B] 1.4 - State of Emergency           (8.3) :DW2022_12_spinoffs:
 ** CM series 2 :P2013:
@@ -2207,7 +2219,8 @@ From Donna's perspective, the anthology is set after /Forest of the Dead/.
 
 【【神秘博士广播剧熟肉】Kidnapped! 101 Out of this World 世界之外-哔哩哔哩】 https://b23.tv/By95ZJG
 
-*** [#C] 2. Spinvasion (7.8) :DW2022_11_spinoffs:bilibili:
+*** TODO [#C] 2. Spinvasion (7.8) :DW2022_11_spinoffs:bilibili:
+    SCHEDULED: <2022-11-22 Tue>
 
 【【神秘博士广播剧熟肉】Kidnapped! 102 Spinvasion 虚假宣传-哔哩哔哩】 https://b23.tv/bUsymNF
 

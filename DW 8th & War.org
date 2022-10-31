@@ -152,6 +152,7 @@ CLOSED: [2021-03-22 Mon 22:48]
 :END:
 
 ***** HALF [#B] 103. The Girl Who Never Was :P2007:Charley:Cybermen:plot_yes:DW2022_10_doctor:
+SCHEDULED: <2022-10-16 Sun>
 :PROPERTIES:
 :rating:   8.4
 :END:
@@ -163,7 +164,7 @@ CLOSED: [2021-03-22 Mon 22:48]
 
 ***** [#D] Living Legend (7.4)
 **** part4
-***** 123. The Company of Friends                                     :short:
+***** 123. The Company of Friends :short:
 ****** 2DONE [#B] 4. Mary's Story :plot_yes:Mary:½CD:
 CLOSED: [2021-03-22 Mon 22:31]
 :PROPERTIES:
@@ -600,10 +601,11 @@ SCHEDULED: <2022-09-04 Sun>
 **** TBR What Lies Inside :P2022_11:
 *** 8D Time War
 *** misc :short:
-**** TODO [#A] CC4.12 Solitaire (9.2)       :ToyMaker:P2010:plot_yes:Charley:
+**** TODO [#A] CC4.12 Solitaire (9.2) :ToyMaker:P2010:plot_yes:Charley:
 :PROPERTIES:
 :rating:   9.2
 :END:
+
 **** [#C] ST2.8 - Letting Go
 :PROPERTIES:
 :rating:   7.9
@@ -634,6 +636,7 @@ SCHEDULED: <2022-09-04 Sun>
 :rating:   8.3
 :END:
 
+**** [#B] CDNM3.4 If I Should Die Before I Wake
 ** short stories
 *** Model Train Set :🎧:short:
 
@@ -733,25 +736,25 @@ CLOSED: [2020-09-23 Wed 12:53]
 CLOSED: <2020-11-07 Sat 10:33>
 
 **** The War Master series 3: Rage of the Time Lords :Master_war:scripted:
-***** DONE [#C] The Survivor (The War Master #3.1)
+***** DONE [#C] WM3.1 The Survivor
 CLOSED: <2020-12-30 Wed 07:42>
 :PROPERTIES:
 :rating:   7.5
 :END:
 
-***** DONE [#E] The Coney Island Chameleon (The War Master #3.2)
+***** DONE [#E] WM3.2 The Coney Island Chameleon
 CLOSED: <2020-11-12 Thu 13:14>
 :PROPERTIES:
 :rating:   6.9
 :END:
 
-***** DONE [#B] The Missing Link (The War Master #3.3) :8th_Dr:
+***** DONE [#B] WM3.3 The Missing Link :8th_Dr:
 CLOSED: <2021-01-05 Tue 01:03>
 :PROPERTIES:
 :rating:   8.2
 :END:
 
-***** DONE [#B] Darkness and Light (The War Master #3.4) :8th_Dr:
+***** DONE [#B] WM3.4 Darkness and Light :8th_Dr:
 CLOSED: [2021-01-06 Wed 09:03]
 :PROPERTIES:
 :rating:   8.5
@@ -768,23 +771,24 @@ CLOSED: [2021-01-06 Wed 09:03]
 
 【【自制字幕】神秘博士BF特辑宋江八叔历险记-哔哩哔哩】https://b23.tv/vLRN31
 
-**** TODO The War Master series 5: Hearts of Darkness
-***** [#B] 5.1 - The Edge of Redemption :DW2022_11_spinoffs:
+**** TODO The War Master series 5: Hearts of Darkness :Master_War:
+***** TODO [#B] 5.1 - The Edge of Redemption :plot_yes:DW2022_11_spinoffs:
+SCHEDULED: <2022-11-24 Thu>
 :PROPERTIES:
 :rating:   8.1
 :END:
 
-***** [#C] 5.2 - The Scaramancer
+***** [#C] 5.2 - The Scaramancer :DW2022_12_spinoffs:
 :PROPERTIES:
 :rating:   7.9
 :END:
 
-***** [#A] 5.3 - The Castle of Kurnos 5
+***** [#A] 5.3 - The Castle of Kurnos 5 :plot_yes:8th_Dr:
 :PROPERTIES:
 :rating:   8.6
 :END:
 
-***** [#A] 5.4 - The Cognition Shift
+***** [#A] 5.4 - The Cognition Shift :plot_yes:8th_Dr:
 :PROPERTIES:
 :rating:   8.9
 :END:
@@ -849,7 +853,7 @@ The N-Forms receive an activation call, setting this after Desperate Measures
 ***** 6.2 - A Quiet Night In
 ***** 6.3 - The Orphan
 ***** 6.4 - Unfinished Business
-**** The War Master series 7
+**** READY The War Master series 7: Self-Defence
 ***** 7.1 The Forest Penitence :bilibili:
 
 【【广播剧汉化】恶魔的低语 The War Master 战争法师 701 The Forest Penitence-哔哩哔哩】 https://b23.tv/fdIB3vT
@@ -1035,8 +1039,8 @@ SCHEDULED: <2022-08-25 Thu>
 :rating:   7.0
 :END:
 
-**** TODO [#B] 1.3 - The Shadow Squad :plot_no:DW2022_10_doctor:
-SCHEDULED: <2022-10-16 Sun>
+**** 3QTR [#B] 1.3 - The Shadow Squad :plot_no:DW2022_10_doctor:
+CLOSED: <2022-10-27 Thu 09:14> SCHEDULED: <2022-10-16 Sun>
 :PROPERTIES:
 :rating:   8.4
 :END:

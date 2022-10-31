@@ -69,6 +69,7 @@ SCHEDULED: <2022-07-23 Sat>
 
 **** S2.1 Back to Earth :P2022_05:
 ***** READY [#B] 5.1 Station to Station :bilibili:DW2022_11_doctor:
+SCHEDULED: <2022-11-09 Wed>
 
 【【神秘博士广播剧熟肉】Back to Earth 101 Station to Station 车站之间-哔哩哔哩】 https://b23.tv/ueI1ubC
 
@@ -318,8 +319,8 @@ CLOSED: [2021-06-18 Fri 10:25]
 
 【【David Tennant】BigFinish广播剧The Tenth Doctor and River Song-Precious Annihilation-哔哩哔哩】 https://b23.tv/ACUaNVw
 
-**** TODO [#B] 10D&RS 3. Ghosts :bilibili:DW2022_10_doctor:
-SCHEDULED: <2022-10-22 Sat>
+**** 3QTR [#B] 10D&RS 3. Ghosts :bilibili:DW2022_10_doctor:
+CLOSED: [2022-10-19 Wed 19:24] SCHEDULED: <2022-10-16 Sun>
 :PROPERTIES:
 :rating:   8.3
 :END:
@@ -380,15 +381,15 @@ CLOSED: [2022-06-18 Sat 10:57] SCHEDULED: <2022-06-25 Sat>
 
 【【神秘博士广播剧熟肉】Dalek Universe 103 The House of Kingdom 家族-哔哩哔哩】 https://b23.tv/bQCgXoT
 
-**** READY [#D] DU2.1 - Cycle of Destruction :bilibili:DW2022_10_maybe:
-SCHEDULED: <2022-10-30 Sun>
+**** READY [#D] DU2.1 - Cycle of Destruction :bilibili:DW2022_12_doctor:
+SCHEDULED: <2022-10-31 Mon>
 :PROPERTIES:
 :rating:   7.2
 :END:
 
 【【神秘博士广播剧熟肉】Dalek Universe 201 Cycle of Destruction-哔哩哔哩】 https://b23.tv/YGpWAbr
 
-**** READY [#A] DU2.2 - The Trojan Dalek :bilibili:DW2022_12_doctor:
+**** READY [#A] DU2.2 - The Trojan Dalek :bilibili:DW2022_12_maybe:
 :PROPERTIES:
 :rating:   8.6
 :END:
@@ -554,10 +555,14 @@ SCHEDULED: <2022-01-31 Mon>
 **** HALF [#D] 11DC2.4 A Tragical History (?7.4) :D2022_03_doctor:week1:
 SCHEDULED: <2022-03-30 Wed>
 
-*** TBR 11DC vol.3 Geronimo! :P2022_10:
+*** 11DC vol.3 Geronimo! :P2022_10:
+**** 3.1 The Inheritance
+**** 3.2. The House of Masks
+**** 3.3 The End
 *** short trips
 **** 3QTR ST10.5 Regeneration Impossible :D2021_08_extra:12th_Dr:
 **** READY [#B] ST11.1 Rearguard :P2022_02:DW2022_11_doctor:
+SCHEDULED: <2022-11-11 Fri>
 :PROPERTIES:
 :rating:   8.4?
 :END:
@@ -681,8 +686,8 @@ SCHEDULED: <2022-08-30 Tue>
 :rating:   7.1
 :END:
 
-**** TODO [#C] 1.4 Field Trip :plot_no:Osgood:DW2022_10_doctor:
-SCHEDULED: <2022-10-22 Sat>
+**** START [#C] 1.4 Field Trip :plot_no:Osgood:DW2022_10_doctor:
+SCHEDULED: <2022-10-29 Sat>
 :PROPERTIES:
 :rating:   7.6
 :END:

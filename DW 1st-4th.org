@@ -58,9 +58,9 @@ Episode 1-3 missing.
 Episode 4 missing (but animated in 2013).
 
 ** audio :🎧:
-*** EA                                                                  :2CD:
+*** EA :2CD:
 **** EA S1
-***** TODO [#C] EA1.1 Domain of the Voord :Susan:Ian:Barbara:Voord:plot_yes:DW2022_11_maybe:
+***** [#C] EA1.1 Domain of the Voord :Susan:Ian:Barbara:Voord:plot_yes:DW2022_11_maybe:
 
 应该先看老版剧集 1x05 The Keys of Marinus
 
@@ -83,7 +83,9 @@ CLOSED: [2022-07-31 Sun 08:14] SCHEDULED: <2022-07-16 Sat>
 SCHEDULED: <2021-09-22 Wed>
 
 **** EA S5
-***** READY [#A] EA5.1 The Dalek Occupation of Winter (9.0) :Steven:Vicki:daleks:plot_yes:
+***** READY [#A] EA5.1 The Dalek Occupation of Winter (9.0) :Steven:Vicki:daleks:plot_yes:DW2022_11_doctor:
+SCHEDULED: <2022-11-01 Tue>
+
 ***** [#B] EA5.2 An Ideal World (8.2) :plot_no:
 ***** [#D] EA5.3 Entanglement (7.3) :plot_no:
 ***** [#A] EA5.4 The Crash of the UK-201 (8.8) :plot_no:
@@ -94,12 +96,12 @@ CLOSED: [2021-11-01 Mon 22:54] SCHEDULED: <2021-11-01 Mon>
 :rating:   7.6
 :END:
 
-***** [#C] EA7.2 The Secrets of Det-Sen :Steven:Dodo:plot_simple:DW2022_11_doctor:
+***** [#C] EA7.2 The Secrets of Det-Sen :Steven:Dodo:plot_simple:DW2022_11_maybe:
 :PROPERTIES:
 :rating:   7.8
 :END:
 
-*** 1DA vol.1-5                                       :Susan:Ian:Barbara:2CD:
+*** 1DA vol.1-5 :Susan:Ian:Barbara:2CD:
 **** HALF [#C] 1.1 The Destination Wars :Master_early:D2021_08_dr:
 :PROPERTIES:
 :rating:   7.8
@@ -140,7 +142,7 @@ SCHEDULED: <2022-03-12 Sat>
 :rating:   9.0?
 :END:
 
-*** 1DA vol.6 Outlaws                                                   :2CD:
+*** 1DA vol.6 Outlaws :2CD:
 **** 6.1 The Outlaws :Dodo:Monk:P2022_04:
 **** 6.2 The Miniaturist :Dodo:P2022_04:
 *** CC :🗣:
@@ -257,7 +259,7 @@ CLOSED: [2021-06-26 Sat 09:13]
 :END:
 
 **** Polly
-***** [#B] 11.4 - The Plague of Dreams :Polly:Ben:scripted:DW2022_11_maybe:
+***** [#B] CC11.4 - The Plague of Dreams :Polly:Ben:scripted:DW2022_11_maybe:
 :PROPERTIES:
 :rating:   8.0
 :END:
@@ -271,7 +273,7 @@ CLOSED: [2021-06-26 Sat 09:13]
 **** 📂CC11. First Doctor - Volume Two :scripted:
 **** 📂CC13. First Doctor - Volume Three
 *** Lost Stories
-**** BLOCK [#A] 2.1a - Farewell Great Macedon :scripted:3CD:
+**** BLOCK [#A] LS2.1a - Farewell Great Macedon :scripted:3CD:
 :PROPERTIES:
 :rating:   9.2
 :END:
@@ -365,7 +367,7 @@ Episode 2,4,5,6 missing (but all episodes animated in 2020)
 -  字幕文件下载: [[https://secure.assrt.net/xml/sub/624/624128.xml]]
 
 **** [#C] +The Abominable Snowmen+ (7.5) :great_intelligence:missing:DW2022_10_extra:
-SCHEDULED: <2022-10-31 Mon>
+SCHEDULED: <2022-11-02 Wed>
 
 (总6集, 仅第2集幸存, 未做中文字幕)
 
@@ -498,7 +500,7 @@ UNIT 和 准将第一次正式出场
 - 完整版本: http://www.doctorwho-devious.com/
 
 ** audio :🎧:
-*** EA                                                                  :2CD:
+*** EA :2CD:
 **** EA S2
 ***** 3QTR [#C] 2.1 The Yes Men :Jamie:Polly:Ben:plot_yes:D2022_04_doctor:
 CLOSED: [2022-04-27 Wed 21:33] SCHEDULED: <2022-04-29 Fri>
@@ -539,10 +541,10 @@ SCHEDULED: <2021-12-15 Wed>
 CLOSED: <2021-04-30 Fri 22:59>
 
 *** Beyond War Games :P2022_07:
-**** TODO [#B] The Final Beginning              :Daleks:DW2022_10_doctor:1CD:
-SCHEDULED: <2022-10-11 Tue>
+**** HALF [#B] The Final Beginning :Daleks:plot_yes:DW2022_10_doctor:1CD:
+SCHEDULED: <2022-10-22 Sat>
 
-**** TODO [#C] Wrath of the Ice Warriors :Brigadier:ice_warriors:DW2022_12_doctor:2CD:
+**** TODO [#C] Wrath of the Ice Warriors :Brigadier:ice_warriors:2CD:
 SCHEDULED: <2022-10-30 Sun>
 
 *** Companion Chronicles :🗣:
@@ -766,7 +768,7 @@ CLOSED: [2020-06-30 Tue 14:01]
 *** TVAction/TVComic
 **** Marvel DWCC reprint
 ** BF audio-drama :🎧:BigFinish:
-*** 3DA                                                             :3DA:2CD:
+*** 3DA :3DA:2CD:
 **** READY [#D] 1.1 - Prisoners of the Lake :Jo:UNIT:plot_yes:
 :PROPERTIES:
 :rating:   7.2
@@ -852,6 +854,7 @@ SCHEDULED: <2022-05-28 Sat>
 
 block原因：太长（3CD）
 
+**** 10. Kaleidoscope :Sarah:Harry:Brigadier:P2022_10:3CD:
 *** misc
 **** DONE [#A] The Sacrifice of Jo Grant (The Legacy of Time #3) :Jo:P2019:
 CLOSED: [2020-08-07 Fri 18:25]
@@ -869,7 +872,9 @@ block原因：太长（3小时）
 **** CANCEL [#E] Peepshow (The Diary of River Song #6.3) †6.6
 CLOSED: [2020-06-25 Thu 21:48]
 
-**** CDNM3.1 The House that Hoxx Built :DW2022_11_doctor:
+**** TODO [#D] CDNM3.1 The House that Hoxx Built :DW2022_11_doctor:
+SCHEDULED: <2022-11-03 Thu>
+
 ** BF shorts :BigFinish:audiobook:🎧:🗣:
 *** CC (Liz) :Liz:
 **** DONE [#A] CC7.4 - The Last Post :P2012:no_doctor:
@@ -961,7 +966,7 @@ SCHEDULED: <2022-03-30 Wed>
 :rating:   7.5
 :END:
 
-**** TODO [#C] CC7.12 - Council of War :Benton:Brigadier:DW2022_11_maybe:
+**** [#C] CC7.12 - Council of War :Benton:Brigadier:DW2022_11_maybe:
 :PROPERTIES:
 :rating:   7.7
 :END:
@@ -1104,9 +1109,6 @@ CLOSED: [2021-09-26 Sun 08:19]
 *** S18
 **** DONE [#C] 18x05 Warriors' Gate :DW2022_08_extra:
 CLOSED: [2022-08-23 Tue 20:03] SCHEDULED: <2022-08-31 Wed>
-:PROPERTIES:
-:rating q: 7.6
-:END:
 
 **** HALF [#C] 18x06 - The Keeper of Traken (7.9) :Nyssa:Master_decayed:
 **** TODO [#C] 18x07 - Logopolis (7.9) :Nyssa:Tegan:Master_tremas:
@@ -1208,10 +1210,12 @@ CLOSED: [2020-07-30 Thu 06:50]
 **** 4DA series 4 :Leela:P2015:
 ***** CANCEL [#E] 4.1 +The Exxilons+ (6.5)
 ***** READY [#C] 4.2 The Darkness of Glass (7.5) :plot_yes:
+SCHEDULED: <2022-10-22 Sat>
+
 ***** 2DONE [#B] 4.3 Requiem for the Rocket Men  (8.4) :Master_decayed:D2021_07_dr:
 CLOSED: [2021-07-27 Tue 23:11]
 
-***** [#D] 4.4 Death Match (7.3)
+***** START [#D] 4.4 Death Match (7.3)
 :PROPERTIES:
 :rating:   7.3
 :END:
@@ -1267,8 +1271,8 @@ SCHEDULED: <2022-04-23 Sat>
 
 ***** [#D] 8.4 - The False Guardian (7.1)
 ***** [#D] 8.6 - Fever Island (7.2)
-***** [#B] 8.7/8.8 - The Perfect Prisoners (8.2/8.3)   :DW2022_12_doctor:2CD:
-**** 4DA series 9                                                 :P2020:2CD:
+***** [#B] 8.7/8.8 - The Perfect Prisoners (8.2/8.3) :DW2022_12_doctor:2CD:
+**** 4DA series 9 :P2020:2CD:
 
 Romana II
 
@@ -1280,24 +1284,22 @@ Romana II
 
 ***** [#D] 9.3 - The Planet of Witches (7.1) :Romana_2:Adric:
 ***** [#B] 9.4 - The Quest of the Engineer (8.0) :Romana_2:Adric:
-***** DONE [#A] 9SP1 Shadow of the Sun (8.6)                      :Leela:1CD:
+***** DONE [#A] 9SP1 Shadow of the Sun (8.6) :Leela:1CD:
 CLOSED: [2020-07-15 Wed 19:13]
 
-**** 4DA series 10                                          :Leela:P2021:2CD:
+**** 4DA series 10 :Leela:P2021:2CD:
 ***** [#C] 10.1 The World Traders
 ***** [#C] 10.2 The Day of the Comet
 ***** [#C] 10.3 The Tribulations of Tahdeus Nook
 ***** [#E] 10.4 The Primeval Design
-**** 4DA series 11                                                :P2022:2CD:
-***** TODO [#A] 11.1 Blood of the Time Lords   :Master_early:DW2022_10_maybe:
-SCHEDULED: <2022-10-30 Sun>
+**** 4DA series 11 :P2022:2CD:
+***** TODO [#A] 11.1 Blood of the Time Lords :Master_early:
+SCHEDULED: <2022-10-31 Mon>
 
-***** TODO [#B] 11.2 The Ravencliff Witch :Margaret:DW2022_10_doctor:
-SCHEDULED: <2022-10-11 Tue>
-
+***** TODO [#B] 11.2 The Ravencliff Witch :Margaret:
 ***** [#C] 11.3 The Dreams of Avaice :The_Nine:
 ***** [#D] 11.4 Shellshock
-***** [#C] 11.5 Peake Season                                            :1CD:
+***** [#C] 11.5 Peake Season :1CD:
 **** TBR 4DA series 12 :Leela:Margaret:P2023:
 *** BF The Lost Stories
 **** [#A] LS 2.07 - The Foe from the Future  8.9 :Leela:
@@ -1322,11 +1324,13 @@ CLOSED: [2022-09-03 Sat 17:41] SCHEDULED: <2022-09-04 Sun>
 
 【【神秘博士广播剧熟肉】The Lost Stories 602 The Doomsday Contract (Part 1&2) 末日合同-哔哩哔哩】 https://b23.tv/Ddqe3C1
 
+【【神秘博士广播剧熟肉】The Lost Stories 602 The Doomsday Contract (Part 3&4) 末日合同-哔哩哔哩】 https://b23.tv/yvSsm4b
+
 **** TBR LS7.1 Doctor Who and the Ark :P2023_03:
 **** TBR LS7.2 Daleks! Genesis of Terror :P2023_03:
 *** BF misc :BigFinish:
-**** HALF [#C] CA1.1 The Iron Legion (Comics Adaptation #1) (7.9)       :2CD:
-**** HALF [#A] CA1.2 The Star Beast (Comics Adaptation #2) 9.0    :P2019:2CD:
+**** HALF [#C] CA1.1 The Iron Legion (Comics Adaptation #1) (7.9) :2CD:
+**** HALF [#A] CA1.2 The Star Beast (Comics Adaptation #2) 9.0 :P2019:2CD:
 :PROPERTIES:
 :category: audio-drama
 :END:
@@ -1341,6 +1345,7 @@ mp3val fix
 
 【【广播剧翻译】四任对抗Vashta Nerada 老博士新怪物 201 Night of Vashta Nerada-哔哩哔哩】 https://b23.tv/YCrcZhV
 
+**** [#D] CDNM3.2 The Tivolian Who Knew Too Much :Leela:
 **** [#B] Collision Course (The Legacy of Time #6) :Leela:Romana2:
 :PROPERTIES:
 :rating:   8.3
@@ -1350,15 +1355,16 @@ mp3val fix
 
 thetimescales 上32/33认为需要先听前面的故事
 
-**** [#A] Someone I Once Knew (The Diary of River Song #4.4)          :River:
+**** [#A] Someone I Once Knew (The Diary of River Song #4.4) :River:
 :PROPERTIES:
 :rating:   8.5
 :END:
 
 15 out of 16 (93.8%) raters say this story requires a previous story.
 
-**** [#B] NA03 - The Romance of Crime (8.0) :🎧:                        :2CD:
-**** [#B] NA05 - The Well-Mannered War (8.1) :🎧:                       :2CD:
+**** [#B] NA03 - The Romance of Crime (8.0) :🎧: :2CD:
+**** [#B] NA04 The English Way of Death :Romana2:2CD:
+**** [#B] NA05 - The Well-Mannered War (8.1) :🎧: :2CD:
 *** BF shorts :🎧:🗣:
 **** Companion Chronicles
 ***** [#C] CC2.4 - The Catalyst †7.9
@@ -1376,11 +1382,14 @@ CLOSED: [2020-07-05 Sun 23:49]
 CLOSED: [2020-06-25 Thu 21:56]
 
 *** BBC 4DA :scripted:🎧:Yates:DA:BBC:
-**** [#C] 2.1. The Relics of Time
+**** START [#C] 2.1. The Relics of Time :plot_yes:DW2022_10_doctor:
+SCHEDULED: <2022-10-29 Sat>
 :PROPERTIES:
 :rating:   7.8
 :END:
 
+**** [#D] 2.2 The Demon of Paris
+**** [#D] 2.3. A Shard of Ice
 **** [#B] 3.4 The Hexford Invasion
 :PROPERTIES:
 :rating:   8.4
@@ -1396,7 +1405,7 @@ CLOSED: [2020-06-25 Thu 21:56]
 ***** DONE The Roots of Evil (12 Doctors, 12 Stories #4) (微信读书) :📔:Leela:
 CLOSED: [2020-08-08 Sat 14:26]
 
-***** Sarah Jane and the Temple of Eyes (The Day She Saved the Doctor #1) :Sarah:P2018l:
+***** Sarah Jane and the Temple of Eyes (The Day She Saved the Doctor #1) :Sarah:P2018:
 ***** Tales of Terror #4 - Toil and Trouble
 ***** Twelve Angels Weeping 11 - Ice Warriors - Red Planet
 ***** Twelve Doctors of Christmas #4  - Three Wise Man
