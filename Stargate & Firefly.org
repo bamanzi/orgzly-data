@@ -216,7 +216,7 @@ CLOSED: <2021-09-21 Tue 16:16>
 *** DONE 4x10
 CLOSED: [2021-09-21 Tue 17:02]
 
-** S5
+** DONE S5
 *** DONE 5x01
 CLOSED: [2022-10-14 Fri 08:10]
 
@@ -225,6 +225,27 @@ CLOSED: [2022-10-19 Wed 20:32]
 
 *** DONE 5x03
 CLOSED: [2022-10-21 Fri 21:48]
+
+*** DONE 5x04
+CLOSED: <2022-10-26 Wed 19:11>
+
+*** DONE 5x05
+CLOSED: [2022-10-26 Wed 19:53]
+
+*** DONE 5x06
+CLOSED: <2022-10-28 Fri 08:20>
+
+*** DONE 5x07
+CLOSED: <2022-10-28 Fri 09:09>
+
+*** DONE 5x08
+CLOSED: [2022-10-29 Sat 08:08]
+
+*** DONE 5x09
+CLOSED: [2022-10-29 Sat 23:40]
+
+*** DONE 5x10
+CLOSED: [2022-10-30 Sun 23:20]
 
 * Battlestar Galactica :bsg:
 ** tv :📺:

@@ -118,7 +118,8 @@ CLOSED: [2022-10-20 Thu 08:11]
 ***** DONE 4x11
 CLOSED: [2022-10-24 Mon 08:18]
 
-***** [#B] 4x12 A View with a Room
+***** DONE [#B] 4x12 A View with a Room
+CLOSED: [2022-10-31 Mon 08:07]
 :PROPERTIES:
 :rating:   8.3
 :END:
