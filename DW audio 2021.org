@@ -1308,9 +1308,9 @@
 
 | 050 | MR038 The Church and the Crown | 5th  | Peri, Erimem |
 
-*** 2DONE [#C] EA1.4 An Ordinary Life        :1st_Dr:Steven:Sara_Kingdom:2CD:
+*** 2DONE [#C] EA1.4 An Ordinary Life :1st_Dr:Steven:Sara_Kingdom:2CD:
 *** START [#A] ST11.3 The Threshold :Master_nemesis:3rd_Dr:
-*** 2DONE [#C] MR038 The Church and the Crown        :5th_Dr:Peri:Erimem:2CD:
+*** 2DONE [#C] MR038 The Church and the Crown :5th_Dr:Peri:Erimem:2CD:
 *** 2DONE [#D] 7DA1.1 The Trial of a Time Machine :7th_Dr:Roz:Chris:
 *** 2DONE [#B] 9DA 4.2 Way of the Burryma :9th_Dr:Cybermen:Brigadier:Sam_Bishop:
 *** START [#B] 9DA4.3 The Forth Generation :9th_Dr:Cybermen:Brigadier:Sam_Bishop:
@@ -1334,7 +1334,7 @@
 ** DW 2022-08-doctor
 *** 3QTR [#C] CC6.8 The Selachian Gambit :Polly:2nd_Dr:Jamie:
 *** 2DONE [#B] LS6.1 Return of the Cybermen :4th_Dr:Sarah:Harry:bilibili:2CD:
-*** 2DONE [#A] MR006. The Marian Conspiracy               :6th_Dr:Evelyn:2CD:
+*** 2DONE [#A] MR006. The Marian Conspiracy :6th_Dr:Evelyn:2CD:
 *** DONE [#E] 8DDC 2.3 The Gift :8th_Dr:Liv:Helen:
 *** START [#E] 8DDC 2.4 The Sonomancer :8th_Dr:Liv:Helen:
 *** 2DONE [#C] 10DA 3.2 One Mile Down :10th_Dr:Donna:bilibili:
@@ -1353,9 +1353,9 @@
 * DW 2022-09
 ** DW 2022-09-doctor
 *** HALF [#C] CC3.7 The Transit of Venus :Ian:Barbara:1st_Dr:
-*** 3QTR [#C] 3DA2.2 The Hidden Realm                            :3rd_Dr:2CD:
+*** 3QTR [#C] 3DA2.2 The Hidden Realm :3rd_Dr:2CD:
 *** 3QTR [#B] CDNM 1.1 Fallen Angles :5th_Dr:
-*** 2DONE [#B] MR079 Night Thoughts                      :7th_Dr:Ace:Hex:2CD:
+*** 2DONE [#B] MR079 Night Thoughts :7th_Dr:Ace:Hex:2CD:
 *** 3QTR [#C] 9DA 4.1 Fond Farewell :9th_Dr:
 *** START [#D] 11DC1.3 - The Light Keepers :11th_Dr:
 *** 3QTR [#C] BSNA 5.1 Pride of the Lampian :Unbound:Benny:
@@ -1370,29 +1370,45 @@
 *** 3QTR [#C] Gallifrey 4.1 Reborn
 * DW 2022-10
 ** DW 2022-10-doctor
-*** TODO The Final Beginning :2nd_Dr:Daleks:
-*** START [#C] 4DCC The Relics of Time                               :4th_Dr:
-*** [#B] 6DLA #3 Stage Fright :6th_Dr:Jago:Litefoot:
-*** 3QTR [#B] MR103 The Girl Who Neven Was      :8th_Dr:Charley:Cyberman:
-*** HALF [#B] 10D&RS #3 Ghosts                                :10th_Dr:River:
-*** [#C] 12DC1.4 Field Trip :12th_Dr:Osgood:
-*** HALF [#B] WDB 1.3 The Shadow Squad                           :War_Doctor:
+*** 3QTR The Final Beginning                              :2nd_Dr:Daleks:
+*** HALF [#C] 4DCC The Relics of Time                                :4th_Dr:
+*** START [#B] 6DLA #3 Stage Fright :6th_Dr:Jago:Litefoot:
+*** 3QTR [#B] MR103 The Girl Who Neven Was :8th_Dr:Charley:Cyberman:
+*** 3QTR [#B] 10D&RS #3 Ghosts :10th_Dr:River:
+*** START [#C] 12DC1.4 Field Trip                            :12th_Dr:Osgood:
+*** 3QTR [#B] WDB 1.3 The Shadow Squad                           :War_Doctor:
 ** DW 2022-10-spinoffs
-*** START [#A] TW6.7 Another Man's Shoes                          :Torchwood:
-*** START [#A] TW6.8 Eye of the Storm                             :Torchwood:
+*** 3QTR [#A] TW6.7 Another Man's Shoes                           :Torchwood:
+*** HALF [#A] TW6.8 Eye of the Storm :Torchwood:
 *** START [#C] CM1.3 The Pelage Project
-*** DONE [#B] Donna 1.1 Out of this World                             :Donna:
-*** KC #3 Hidden Persuaders                                          :Kaldor:
-*** HALF [#B] Master! 1.2 Prey                                  :Master_bald:
-*** [#A] Master! 1.3. Vengeance                                 :Master_bald:
-*** HALF [#A] Gallifrey 4.2 Disassembled
-** DW 2022-10-pending
-*** [#C] 2DA22.2 Wrath of the Ice Warriors :2nd_Dr:Brigadier:ice_warriors:2CD:
-*** [#D] J&L7.2 The Night of 1000 Stars                       :Jago:Litefoot:
-*** TODO [#E] River6.4 The Talents of Greel                      :Jago:River:
-*** [#C] River7.1 Colony of Strangers                                 :River:
-
-
+*** DONE [#B] Donna 1.1 Out of this World :Donna:
+*** START KC #3 Hidden Persuaders :Kaldor:
+*** HALF [#B] Master! 1.2 Prey :Master_bald:
+*** HALF [#A] Master! 1.3. Vengeance :Master_bald:
+*** 3QTR [#A] Gallifrey 4.2 Disassembled
+* DW 2022-11
+** DW 2022-11-doctor
+*** [#A] EA5.1  The Dalek Occupation of Winter :1st_Dr:Steven:Vicki:
+*** CDNM 3.1 The House that Hoxx Built  :3rd_Dr:Sarah:
+*** MR159 The Emerald Tiger :5th_Dr:Nyssa:Tegan:Turlough:
+*** 7DA1.3 The Jabari Countdown :7th_Dr:Roz:Chris:
+*** 9DA5.1 Station to Station                                        :9th_Dr:
+*** ST11.1 Rearguard (11th)                                :11th_Dr:Sontaran:
+*** BSNA 5.2                                                          :Benny:
+** DW 2022-11-spinoffs
+*** TW54. Curios                                               :Bilis_Manger:
+*** TW47 Drive                                                         :Tosh:
+*** UNIT 3.1 House of Silents                                       :Silence:
+*** UNIT 3.2 Square One
+*** PG2.2 The Screaming Ceiling
+*** Donna 1.2 Spinvasion                                              :Donna:
+*** WM5.1 The Edge of Redemption                                 :Master_war:
+*** Robots 2.2 Toos and Poul                                            :Liv:
+*** Gallifrey 4.3 Annihilation
 * pending
 *** [#D] 5DA40.1 Secrets of Telos :5th_Dr:Nyssa:Tegan:Adric:Cybermen:
 *** [#A] NA01 Damaged Goods :7th_Dr:Benny:Ace:
+*** [#C] 2DA22.2 Wrath of the Ice Warriors :2nd_Dr:Brigadier:ice_warriors:2CD:
+*** [#D] J&L7.2 The Night of 1000 Stars :Jago:Litefoot:
+*** TODO [#E] River6.4 The Talents of Greel :Jago:River:
+*** [#C] River7.1 Colony of Strangers :River:
