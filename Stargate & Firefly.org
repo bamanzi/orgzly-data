@@ -41,11 +41,16 @@ CLOSED: [2021-08-15 Sun 22:10]
 
 *** GN: Watch How I Soar
 *** 2021
-**** Return to Earth That Was (#25-36) :ongoing:
+**** DONE Return to Earth That Was (#25-30) :ongoing:
+CLOSED: [2022-11-03 Thu 18:43]
+
+**** DONE Return to Earth That Was (#31-36) :ongoing:
+CLOSED: [2022-11-05 Sat 07:36]
+
 **** Brand New 'Verse #1-6
 * Stargate
-** TODO Stargate movie :P1994:
-SCHEDULED: <2022-10-06 Thu>
+** DONE Stargate movie :P1994:
+CLOSED: [2022-11-05 Sat 12:09] SCHEDULED: <2022-10-06 Thu>
 
 ** SG-1 :sg1:📺:
 *** 2DONE SG-1 S1
@@ -123,6 +128,15 @@ CLOSED: [2022-10-18 Tue 13:06]
 
 **** DONE 3x11
 CLOSED: [2022-10-22 Sat 19:10]
+
+**** DONE 3x12-13
+CLOSED: [2022-11-02 Wed 23:24]
+
+**** DONE 3x14
+CLOSED: [2022-11-06 Sun 21:01]
+
+**** DONE 3x15
+CLOSED: [2022-11-07 Mon 08:07]
 
 ** Stargate Atlantis (SGA) :sga:
 *** DONE tv

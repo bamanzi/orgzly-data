@@ -1068,7 +1068,9 @@ SUPERMAN CONFIDENTIAL #1-5 and #11.
 
 #654-675, 712, Annual #13
 
-***** Camelot Falls (#654-658)
+***** DONE Camelot Falls (#654-658)
+CLOSED: [2022-11-01 Tue 13:54]
+
 ***** The Third Kryptonian (#668-670)
 **** /Action Comics/, by Geoff Johns :P2006:Geoff_Johns:
 
@@ -1125,6 +1127,14 @@ Superman/Batman v1 #1-6
 ***** The Supergirl from Krypton :P2004:
 
 Superman/Batman v1 #8-13
+
+***** Absolute Power
+
+Superman/Batman v1 #14-18
+
+***** Vengeance
+
+Superman/Batman v1 #20-25
 
 **** Superman Unchained :P2013:
 
@@ -1341,11 +1351,11 @@ CLOSED: <2022-10-22 Sat 15:29>
 CLOSED: <2022-10-22 Sat 16:20>
 
 *** crossover 2: Legends of Yesterday 昨日军团
-**** NOW The Flash 2x08
-SCHEDULED: <2022-10-31 Mon>
+**** DONE The Flash 2x08
+CLOSED: <2022-11-04 Fri 20:15> SCHEDULED: <2022-10-31 Mon>
 
-**** NOW Arrow 4x08
-SCHEDULED: <2022-10-31 Mon>
+**** DONE Arrow 4x08
+CLOSED: [2022-11-04 Fri 21:06] SCHEDULED: <2022-10-31 Mon>
 
 **** NOW Supergirl 1x18
 SCHEDULED: <2022-10-31 Mon>

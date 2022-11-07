@@ -124,7 +124,8 @@ CLOSED: [2022-10-31 Mon 08:07]
 :rating:   8.3
 :END:
 
-***** 4x13 A Study in Charlotte
+***** DONE 4x13 A Study in Charlotte
+CLOSED: [2022-11-05 Sat 21:37]
 :PROPERTIES:
 :rating:   8.0
 :END:
@@ -151,8 +152,8 @@ https://agathachristie.fandom.com/wiki/Agatha_Christie%27s_Poirot
 ***** DONE 1x02 Murder in the Mews
 CLOSED: [2022-09-26 Mon 08:14] SCHEDULED: <2022-09-25 Sun>
 
-***** NOW 1x03 The Adventure of Johnnie Waverly
-SCHEDULED: <2022-10-22 Sat>
+***** DONE 1x03 The Adventure of Johnnie Waverly :benben:
+CLOSED: [2022-11-03 Thu 08:06] SCHEDULED: <2022-10-22 Sat>
 
 ***** NOW 1x04 Four and Twenty Blackbirds
 SCHEDULED: <2022-10-22 Sat>
