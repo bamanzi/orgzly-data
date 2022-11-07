@@ -41,7 +41,7 @@ CLOSED: [2020-09-24 Thu 08:32]
 ***** 2DONE [#B] 030 - Seasons of Fear (8.4).
 CLOSED: [2020-11-26 Thu 08:26]
 
-***** [#D] 031 - Embrace the Darkness (7.2) :plot_no:
+***** TODO [#D] 031 - Embrace the Darkness (7.2) :plot_no:
 ***** CANCEL [#E] +032 - The Time of the Daleks+ (6.3)
 CLOSED: [2020-11-26 Thu 08:27]
 
@@ -151,8 +151,8 @@ CLOSED: [2021-03-22 Mon 22:48]
 :rating:   6.2
 :END:
 
-***** HALF [#B] 103. The Girl Who Never Was :P2007:Charley:Cybermen:plot_yes:DW2022_10_doctor:
-SCHEDULED: <2022-10-16 Sun>
+***** 3QTR [#B] 103. The Girl Who Never Was :P2007:Charley:Cybermen:plot_yes:DW2022_10_doctor:
+CLOSED: [2022-11-03 Thu 16:31] SCHEDULED: <2022-10-16 Sun>
 :PROPERTIES:
 :rating:   8.4
 :END:
@@ -177,7 +177,7 @@ CLOSED: <2021-03-20 Sat 21:30>
 :rating:   8.6
 :END:
 
-***** [#D] 154 - The Witch from the Well
+***** TODO [#D] 154 - The Witch from the Well
 :PROPERTIES:
 :rating:   7.2
 :END:
@@ -596,6 +596,19 @@ SCHEDULED: <2022-09-04 Sun>
 【【神秘博士广播剧汉化】“博士”到底是谁 Stranded 204 The Long Way Round-哔哩哔哩】 https://b23.tv/SGbYhvK
 
 **** Stranded vol.3
+***** READY [#B] 3.1 - Patience :bilibili:
+
+【【广播剧汉化】老八秘制小课堂开讲啦 Stranded 301 Patience-哔哩哔哩】 https://b23.tv/p0BnRuG
+
+***** READY [#C] 3.2 - Twisted Folklore :bilibili:
+
+【【广播剧汉化】被扭曲的童谣 Stranded 302 Twisted Folklore-哔哩哔哩】 https://b23.tv/UnkdV67
+
+***** [#A] 3.3 - Snow
+***** READY [#A] 3.4 - What Just Happened? :bilibili:
+
+【【广播剧汉化】似曾相识的选择 Stranded 304 What Just Happened-哔哩哔哩】 https://b23.tv/VoZ3pUM
+
 **** Stranded vol.4
 *** 8DA (2022- )
 **** TBR What Lies Inside :P2022_11:
@@ -636,14 +649,17 @@ SCHEDULED: <2022-09-04 Sun>
 :rating:   8.3
 :END:
 
-**** [#B] CDNM3.4 If I Should Die Before I Wake
+**** [#B] CDNM3.4 If I Should Die Before I Wake :plot_yes:
 ** short stories
 *** Model Train Set :🎧:short:
 
 http://blog.sina.cn/dpool/blog/s/blog_6c7775810101a2hb.html?type=2
 
 ** novels
-*** Alien Bodies
+*** [#A] Alien Bodies
+:PROPERTIES:
+:goodreads: 4.2
+:END:
 
 http://blog.sina.cn/dpool/blog/s/blog_6c777581010185u0.html?type=2
 
@@ -772,7 +788,7 @@ CLOSED: [2021-01-06 Wed 09:03]
 【【自制字幕】神秘博士BF特辑宋江八叔历险记-哔哩哔哩】https://b23.tv/vLRN31
 
 **** TODO The War Master series 5: Hearts of Darkness :Master_War:
-***** TODO [#B] 5.1 - The Edge of Redemption :plot_yes:DW2022_11_spinoffs:
+***** HALF [#B] 5.1 - The Edge of Redemption :plot_yes:DW2022_11_spinoffs:
 SCHEDULED: <2022-11-24 Thu>
 :PROPERTIES:
 :rating:   8.1
@@ -1039,8 +1055,8 @@ SCHEDULED: <2022-08-25 Thu>
 :rating:   7.0
 :END:
 
-**** 3QTR [#B] 1.3 - The Shadow Squad :plot_no:DW2022_10_doctor:
-CLOSED: <2022-10-27 Thu 09:14> SCHEDULED: <2022-10-16 Sun>
+**** HALF [#B] 1.3 - The Shadow Squad :plot_no:DW2022_10_doctor:
+SCHEDULED: <2022-10-16 Sun>
 :PROPERTIES:
 :rating:   8.4
 :END:

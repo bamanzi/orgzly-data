@@ -390,12 +390,16 @@ SCHEDULED: <2022-05-14 Sat>
 ***** Psychodrome
 ***** Iterations of I
 **** Wicked Sisters :1CD:
-***** The Garden of Storms
-***** The Moonrakers
-***** The People Made of Smoke
+***** [#C] The Garden of Storms
+***** [#B] The Moonrakers
+***** CANCEL [#E] The People Made of Smoke
+**** The Lost Resort and Other Stories :Nyssa:Tegan:Marc:P2021_09:
+***** [#A] The Lost Resort :2CD:
+***** CANCEL [#E] The Perils of Nellie Bly
+***** [#C] Nightmare of the Daleks :1CD:
 **** Forty
 ***** [#D] 1.1 Secrets of Telos :Nyssa:Tegan:Cybermen:2CD:P2022_01:DW2022_11_maybe:
-***** 1.2 God of War :Nyssa:Tegan:Adric:ice_warriors:1CD:P2022_01:
+***** [#D] 1.2 God of War :Nyssa:Tegan:Adric:ice_warriors:1CD:P2022_01:
 ***** 2.1 The Auton Infinity :3CD:P2022_09:
 **** TBR Conflict of Interests :P2023_04:
 *** misc
@@ -657,7 +661,7 @@ CLOSED: [2022-06-29 Wed 16:22] SCHEDULED: <2022-06-19 Sun>
 :END:
 
 ***** VII - Return of the Krotons :1CD:
-***** XII - Trial of the Valeyard. :Valeyard:1CD:bilibili:
+***** READY XII - Trial of the Valeyard. :Valeyard:1CD:bilibili:
 
 【【神秘博士广播剧】Bonus Release 012 The Trial of Valeyard 黑暗博士的审判-哔哩哔哩】 https://b23.tv/BP98ck4
 
@@ -712,9 +716,9 @@ Volume One
 :END:
 
 **** The Eleven :P2021_09:The_Eleven:Constance:1CD:
-***** 1. One for All
-***** 2. The Murder of Oliver Akkron
-***** 3. Elevation
+***** [#D] 1. One for All
+***** [#B] 2. The Murder of Oliver Akkron
+***** [#B] 3. Elevation
 **** Water Worlds :P2022_05:Mel:
 **** Purity Undreamed :P2022_08:
 *** The Lost Stories
@@ -787,7 +791,7 @@ Volume One
 ***** 2DONE The Lonely Clock
 ***** 2DONE The Hourglass Killers
 **** Classic Doctors, New Monsters
-***** [#B] 1.2 Judoon in Chains
+***** TODO [#B] 1.2 Judoon in Chains
 :PROPERTIES:
 :rating:   8.3
 :END:
@@ -797,6 +801,7 @@ Volume One
 :rating:   7.4
 :END:
 
+***** 3.3 Together in Eclectic Dreams :plot_yes:
 **** The Diary of River Song: Series 2
 ***** World Enough and Time
 ***** The Eye of the Storm

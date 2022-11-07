@@ -323,7 +323,7 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
       :rating:   8.8
       :END:
 
-***** TODO [#D] 47. Drive :Tosh:DW2022_11_maybe:
+***** HALF [#D] 47. Drive :Tosh:DW2022_11_maybe:
       SCHEDULED: <2022-11-16 Wed>
       :PROPERTIES:
       :rating:   7.3
@@ -377,9 +377,9 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 ***** CANCEL [#E] 60. Infidel Places+ (6.7) :Queen:
 **** series 8 (61-72)
 ***** TODO [#C] 61. War Chest :Tosh:
-***** 62. Dead Plates :Bilis_Manger:
-***** 63. Restricted Items Archive Entries 031–049
-***** 64. Suckers :Tosh:
+***** [#D] 62. Dead Plates :Bilis_Manger:
+***** [#A] 63. Restricted Items Archive Entries 031–049 :Ianto:
+***** [#C] 64. Suckers :Tosh:
 *** specials
 **** 2DONE [#B] special 1: The Torchwood Archive :P2016:The_Commitee:2CD:plot_yes:
      CLOSED: [2020-11-19 Thu 18:33]
@@ -533,8 +533,8 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
 ***** 3QTR [#A] 6.7 Another Man's Shoes (8.8) :Norton:P2019:DW2022_10_spinoffs:
       CLOSED: [2022-10-27 Thu 21:38] SCHEDULED: <2022-10-29 Sat>
 
-***** HALF [#A] 6.8 Eye of the Storm (8.8) :Norton:P2019:DW2022_10_spinoffs:
-      SCHEDULED: <2022-11-01 Tue>
+***** 3QTR [#A] 6.8 Eye of the Storm (8.8) :Norton:P2019:DW2022_10_spinoffs:
+      CLOSED: [2022-11-01 Tue 08:25] SCHEDULED: <2022-11-01 Tue>
 
 ***** [#B] 6.9 A Mother's Son (8.2) :DW2022_12_spinoffs:
 ***** [#B] 6.10 ScrapeJane (8.2) :DW2022_12_spinoffs:
@@ -1339,7 +1339,7 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
      :rating:   7.9
      :END:
 
-**** [#B] 5.2 Clear History :DW2022_11_doctor:
+**** TODO [#B] 5.2 Clear History :DW2022_11_doctor:
      SCHEDULED: <2022-11-13 Sun>
      :PROPERTIES:
      :rating:   8.1
@@ -1453,7 +1453,7 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
      :rating:   7.4
      :END:
 
-**** START [#A] 1.3. Vengeance :DW2022_10_spinoffs:
+**** HALF [#A] 1.3. Vengeance :DW2022_10_spinoffs:
      SCHEDULED: <2022-11-01 Tue>
      :PROPERTIES:
      :rating:   8.6
@@ -1862,7 +1862,7 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
     SCHEDULED: <2022-11-18 Fri>
 
 *** START [#B] 3.2 Square One (8.4) :DW2022_11_spinoffs:
-    SCHEDULED: <2022-11-18 Fri>
+    SCHEDULED: <2022-11-19 Sat>
 
 *** [#A] 3.3 Silent Majority (8.5)
 *** [#C] 3.4 In Memory Alone (7.5)
@@ -1938,7 +1938,7 @@ Synopsis:  http://www.drwhoguide.com/kaldor01.htm
 *** HALF [#B] KC2. Death's Head :DW2022_08_spinoffs:
     SCHEDULED: <2022-09-04 Sun>
 
-*** HALF KC3. Hidden Persuaders :DW2022_10_spinoffs:
+*** HALF [#B] KC3. Hidden Persuaders :DW2022_10_spinoffs:
     SCHEDULED: <2022-11-01 Tue>
 
 http://www.drwhoguide.com/kaldor03.htm
@@ -2054,7 +2054,7 @@ http://www.drwhoguide.com/kaldor03.htm
     :rating:   7.5
     :END:
 
-*** START [#C] 1.3 - The Pelage Project           (7.7) :DW2022_10_spinoffs:
+*** HALF [#C] 1.3 - The Pelage Project           (7.7) :DW2022_10_spinoffs:
     SCHEDULED: <2022-10-29 Sat>
 
 *** [#B] 1.4 - State of Emergency           (8.3) :DW2022_12_spinoffs:

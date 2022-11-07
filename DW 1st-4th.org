@@ -60,7 +60,7 @@ Episode 4 missing (but animated in 2013).
 ** audio :🎧:
 *** EA :2CD:
 **** EA S1
-***** [#C] EA1.1 Domain of the Voord :Susan:Ian:Barbara:Voord:plot_yes:DW2022_11_maybe:
+***** [#C] EA1.1 Domain of the Voord :Susan:Ian:Barbara:Voord:plot_yes:DW2023_03_maybe:
 
 应该先看老版剧集 1x05 The Keys of Marinus
 
@@ -78,13 +78,13 @@ Episode 4 missing (but animated in 2013).
 CLOSED: [2022-07-31 Sun 08:14] SCHEDULED: <2022-07-16 Sat>
 
 **** EA S3
-***** [#B] EA 3.3 The Ravelli Conspiracy (8.0) :plot_no:
+***** [#B] EA 3.3 The Ravelli Conspiracy (8.0) :Vicki:Steven:plot_no:
 ***** HALF [#B] EA3.4 The Sontarans (8.0) :D2021_09_dr:Sara_Kingdom:Steven:plot_yes:
 SCHEDULED: <2021-09-22 Wed>
 
-**** EA S5
-***** READY [#A] EA5.1 The Dalek Occupation of Winter (9.0) :Steven:Vicki:daleks:plot_yes:DW2022_11_doctor:
-SCHEDULED: <2022-11-01 Tue>
+**** EA S5 :P2018:
+***** DONE [#A] EA5.1 The Dalek Occupation of Winter (9.0) :Steven:Vicki:daleks:plot_yes:DW2022_11_doctor:
+CLOSED: [2022-11-04 Fri 13:26] SCHEDULED: <2022-11-01 Tue>
 
 ***** [#B] EA5.2 An Ideal World (8.2) :plot_no:
 ***** [#D] EA5.3 Entanglement (7.3) :plot_no:
@@ -96,7 +96,7 @@ CLOSED: [2021-11-01 Mon 22:54] SCHEDULED: <2021-11-01 Mon>
 :rating:   7.6
 :END:
 
-***** [#C] EA7.2 The Secrets of Det-Sen :Steven:Dodo:plot_simple:DW2022_11_maybe:
+***** [#C] EA7.2 The Secrets of Det-Sen :Steven:Dodo:plot_simple:DW2022_03_maybe:
 :PROPERTIES:
 :rating:   7.8
 :END:
@@ -259,7 +259,7 @@ CLOSED: [2021-06-26 Sat 09:13]
 :END:
 
 **** Polly
-***** [#B] CC11.4 - The Plague of Dreams :Polly:Ben:scripted:DW2022_11_maybe:
+***** [#B] CC11.4 - The Plague of Dreams :Polly:Ben:scripted:DW2023_01_maybe:
 :PROPERTIES:
 :rating:   8.0
 :END:
@@ -541,8 +541,8 @@ SCHEDULED: <2021-12-15 Wed>
 CLOSED: <2021-04-30 Fri 22:59>
 
 *** Beyond War Games :P2022_07:
-**** HALF [#B] The Final Beginning :Daleks:plot_yes:DW2022_10_doctor:1CD:
-SCHEDULED: <2022-10-22 Sat>
+**** 3QTR [#B] The Final Beginning :Daleks:plot_yes:DW2022_10_doctor:1CD:
+CLOSED: <2022-10-30 Sun 19:49> SCHEDULED: <2022-10-22 Sat>
 
 **** TODO [#C] Wrath of the Ice Warriors :Brigadier:ice_warriors:2CD:
 SCHEDULED: <2022-10-30 Sun>
@@ -872,7 +872,7 @@ block原因：太长（3小时）
 **** CANCEL [#E] Peepshow (The Diary of River Song #6.3) †6.6
 CLOSED: [2020-06-25 Thu 21:48]
 
-**** TODO [#D] CDNM3.1 The House that Hoxx Built :DW2022_11_doctor:
+**** TODO [#D] CDNM3.1 The House that Hoxx Built :plot_yes:DW2022_11_doctor:
 SCHEDULED: <2022-11-03 Thu>
 
 ** BF shorts :BigFinish:audiobook:🎧:🗣:
@@ -966,7 +966,7 @@ SCHEDULED: <2022-03-30 Wed>
 :rating:   7.5
 :END:
 
-**** [#C] CC7.12 - Council of War :Benton:Brigadier:DW2022_11_maybe:
+**** [#C] CC7.12 - Council of War :Benton:Brigadier:DW2023_03_maybe:
 :PROPERTIES:
 :rating:   7.7
 :END:
@@ -1345,7 +1345,7 @@ mp3val fix
 
 【【广播剧翻译】四任对抗Vashta Nerada 老博士新怪物 201 Night of Vashta Nerada-哔哩哔哩】 https://b23.tv/YCrcZhV
 
-**** [#D] CDNM3.2 The Tivolian Who Knew Too Much :Leela:
+**** [#D] CDNM3.2 The Tivolian Who Knew Too Much :Leela:plot_yes:
 **** [#B] Collision Course (The Legacy of Time #6) :Leela:Romana2:
 :PROPERTIES:
 :rating:   8.3
