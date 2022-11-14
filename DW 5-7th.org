@@ -213,7 +213,7 @@ CLOSED: [2021-03-22 Mon 23:16]
 
 *** main range 151-200 :scripted:2CD:
 **** BLOCK [#B] 159. The Emerald Tiger (8.2) :plot_yes:DW2022_11_doctor:
-SCHEDULED: <2022-11-05 Sat>
+SCHEDULED: <2022-11-20 Sun>
 
 **** [#D] 160. The 160. Jupiter Conjunction (7.3)
 **** BLOCK [#B] 161. The Butcher of Brisbane (8.0) :plot_yes:
@@ -679,8 +679,8 @@ SCHEDULED: <2022-02-17 Thu>
 
 【【广播剧翻译】照日光变成人的反向狼人 六任:最后的冒险 102 红房子-哔哩哔哩】 https://b23.tv/RLKffOm
 
-***** HALF [#B] Stage Fright :Jago:Litefoot:plot_yes:bilibili:DW2022_10_doctor:
-SCHEDULED: <2022-11-01 Tue>
+***** 3QTR [#B] Stage Fright :Jago:Litefoot:plot_yes:bilibili:DW2022_10_doctor:
+CLOSED: [2022-11-12 Sat 20:08] SCHEDULED: <2022-11-01 Tue>
 :PROPERTIES:
 :rating:   8.3
 :END:
@@ -1068,8 +1068,8 @@ CLOSED: [2021-03-23 Tue 13:04]
 :rating:   6.1
 :END:
 
-***** TODO [#B] 7DA 1.3 - The Jabari Countdown :short:DW2022_11_doctor:
-SCHEDULED: <2022-11-07 Mon>
+***** HALF [#B] 7DA 1.3 - The Jabari Countdown :short:DW2022_11_doctor:
+SCHEDULED: <2022-11-13 Sun>
 :PROPERTIES:
 :rating:   8.2
 :END:

@@ -69,7 +69,7 @@ SCHEDULED: <2022-07-23 Sat>
 
 **** S2.1 Back to Earth :P2022_05:
 ***** READY [#B] 5.1 Station to Station :bilibili:DW2022_11_doctor:
-SCHEDULED: <2022-11-09 Wed>
+SCHEDULED: <2022-11-20 Sun>
 
 【【神秘博士广播剧熟肉】Back to Earth 101 Station to Station 车站之间-哔哩哔哩】 https://b23.tv/ueI1ubC
 
@@ -562,7 +562,7 @@ SCHEDULED: <2022-03-30 Wed>
 *** short trips
 **** 3QTR ST10.5 Regeneration Impossible :D2021_08_extra:12th_Dr:
 **** 2DONE [#A] ST11.1 Rearguard :Sontarans:P2022_02:DW2022_11_doctor:
-CLOSED: [2022-11-02 Wed 20:33] SCHEDULED: <2022-11-11 Fri>
+CLOSED: [2022-11-02 Wed 20:33] SCHEDULED: <2022-11-06 Sun>
 :PROPERTIES:
 :rating:   8.5
 :END:

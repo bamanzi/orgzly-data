@@ -323,8 +323,8 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
       :rating:   8.8
       :END:
 
-***** HALF [#D] 47. Drive :Tosh:DW2022_11_maybe:
-      SCHEDULED: <2022-11-16 Wed>
+***** 3QTR [#D] 47. Drive :Tosh:DW2022_11_maybe:
+      CLOSED: [2022-11-14 Mon 09:35] SCHEDULED: <2022-11-09 Wed>
       :PROPERTIES:
       :rating:   7.3
       :END:
@@ -359,7 +359,7 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
       :END:
 
 ***** TODO [#A] 54. Curios (8.9) :Bilis_Manger:DW2022_11_spinoffs:
-      SCHEDULED: <2022-11-16 Wed>
+      SCHEDULED: <2022-11-23 Wed>
       :PROPERTIES:
       :rating:   8.9
       :END:
@@ -1039,8 +1039,8 @@ Roberts Master
 *** 3QTR [#A] 4.2 - Disassembled (9.1) :plot_yes:DW2022_10_spinoffs:
     CLOSED: [2022-10-30 Sun 19:57] SCHEDULED: <2022-10-15 Sat>
 
-*** TODO [#B] 4.3 - Annihilation (8.0) :DW2022_11_spinoffs:
-    SCHEDULED: <2022-11-26 Sat>
+*** HALF [#B] 4.3 - Annihilation (8.0) :DW2022_11_spinoffs:
+    SCHEDULED: <2022-11-16 Wed>
 
 *** [#C] 4.4 - Forever      (7.9) :DW2022_12_spinoffs:
 ** series 5 :P2013:
@@ -1340,7 +1340,7 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
      :END:
 
 **** TODO [#B] 5.2 Clear History :DW2022_11_doctor:
-     SCHEDULED: <2022-11-13 Sun>
+     SCHEDULED: <2022-11-20 Sun>
      :PROPERTIES:
      :rating:   8.1
      :END:
@@ -1858,11 +1858,11 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
 *** [#C] 2.3 The Battle of the Tower (7.5)
 *** [#D] 2.4 Ice Station Alpha (7.3)
 ** UNIT 3: Silenced :P2016:
-*** HALF [#B] 3.1 House of Silents (8.2) :DW2022_11_spinoffs:
-    SCHEDULED: <2022-11-18 Fri>
+*** DONE [#B] 3.1 House of Silents (8.2) :DW2022_11_spinoffs:
+    CLOSED: [2022-11-10 Thu 09:05] SCHEDULED: <2022-11-09 Wed>
 
 *** START [#B] 3.2 Square One (8.4) :DW2022_11_spinoffs:
-    SCHEDULED: <2022-11-19 Sat>
+    SCHEDULED: <2022-11-23 Wed>
 
 *** [#A] 3.3 Silent Majority (8.5)
 *** [#C] 3.4 In Memory Alone (7.5)
@@ -1974,7 +1974,7 @@ http://www.drwhoguide.com/kaldor03.htm
      :END:
 
 **** TODO [#B] 2.2 - Toos and Poul :DW2022_11_spinoffs:_spinoffs:
-     SCHEDULED: <2022-11-28 Mon>
+     SCHEDULED: <2022-11-23 Wed>
      :PROPERTIES:
      :rating:   8.0
      :END:
@@ -2031,8 +2031,8 @@ http://www.drwhoguide.com/kaldor03.htm
 **** START [#D] 2.1 - Dining with Death         (7.0) :DW2022_09_spinoffs:
      SCHEDULED: <2022-09-30 Fri>
 
-**** TODO [#C] 2.2 - The Screaming Ceiling     (7.6) :DW2022_11_spinoffs:
-     SCHEDULED: <2022-11-20 Sun>
+**** HALF [#C] 2.2 - The Screaming Ceiling     (7.6) :DW2022_11_spinoffs:
+     SCHEDULED: <2022-11-16 Wed>
 
 **** [#C] 2.3 - Spring-Heeled Jack        (7.7)
 *** PG: Heritage 3 :P2020:
@@ -2220,7 +2220,7 @@ From Donna's perspective, the anthology is set after /Forest of the Dead/.
 【【神秘博士广播剧熟肉】Kidnapped! 101 Out of this World 世界之外-哔哩哔哩】 https://b23.tv/By95ZJG
 
 *** TODO [#C] 2. Spinvasion (7.8) :DW2022_11_spinoffs:bilibili:
-    SCHEDULED: <2022-11-22 Tue>
+    SCHEDULED: <2022-11-16 Wed>
 
 【【神秘博士广播剧熟肉】Kidnapped! 102 Spinvasion 虚假宣传-哔哩哔哩】 https://b23.tv/bUsymNF
 
