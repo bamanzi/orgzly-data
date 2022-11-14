@@ -130,6 +130,17 @@ CLOSED: [2022-11-05 Sat 21:37]
 :rating:   8.0
 :END:
 
+***** DONE 4x14
+CLOSED: [2022-11-11 Fri 08:47]
+
+***** DONE 4x15
+CLOSED: [2022-11-12 Sat 11:42]
+
+***** DONE 4x16 Hounded :benben:
+CLOSED: [2022-11-12 Sat 15:35]
+
+巴斯克维尔
+
 ***** [#B] 4x23 The Invisible Hand
 :PROPERTIES:
 :rating:   8.3

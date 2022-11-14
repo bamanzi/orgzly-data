@@ -47,7 +47,9 @@ CLOSED: [2022-11-03 Thu 18:43]
 **** DONE Return to Earth That Was (#31-36) :ongoing:
 CLOSED: [2022-11-05 Sat 07:36]
 
-**** Brand New 'Verse #1-6
+**** DONE Brand New 'Verse #1-6
+CLOSED: [2022-11-11 Fri 19:22]
+
 * Stargate
 ** DONE Stargate movie :P1994:
 CLOSED: [2022-11-05 Sat 12:09] SCHEDULED: <2022-10-06 Thu>
@@ -137,6 +139,21 @@ CLOSED: [2022-11-06 Sun 21:01]
 
 **** DONE 3x15
 CLOSED: [2022-11-07 Mon 08:07]
+
+**** DONE 3x16
+CLOSED: [2022-11-09 Wed 20:34]
+
+**** DONE 3x17
+CLOSED: [2022-11-11 Fri 20:44]
+
+**** DONE [#A] 3x18 Shades Of Grey
+CLOSED: [2022-11-12 Sat 10:50]
+:PROPERTIES:
+:rating:   8.6
+:END:
+
+**** DONE 3x19
+CLOSED: [2022-11-14 Mon 08:01]
 
 ** Stargate Atlantis (SGA) :sga:
 *** DONE tv
@@ -229,6 +246,13 @@ CLOSED: <2021-09-21 Tue 16:16>
 
 *** DONE 4x10
 CLOSED: [2021-09-21 Tue 17:02]
+
+** DONE comics: season 4.5 #1-4 :P2021:
+CLOSED: [2022-11-08 Tue 19:07]
+
+A new limited series event set between Season 4 and Season 5 of Amazon’s hit series /The Expanse/ from Corinna Bechko (Green Lantern: Earth One) and Alejandro Aragon (Resonant)!
+
+Chrisjen Avasarala, the former longtime Secretary-General of the United Nations, has found herself relegated to Luna after losing the latest elections… and she doesn’t plan on going down without a fight. So when Bobbie Draper — a former Martian marine — brings her intel on an intergalactic black market weapons ring, Avasarala sees a chance to reclaim her former political position of power through a clandestine operation. But as Draper digs deeper into this secret cabal, she soon realizes the threat they pose is far larger — and closer to home — than either of them ever imagined…
 
 ** DONE S5
 *** DONE 5x01
