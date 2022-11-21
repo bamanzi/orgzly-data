@@ -438,3 +438,20 @@ CLOSED: [2022-04-14 Thu 19:04]
 *** 13x23
 ** S14
 ** S15
+* Life on Mars
+** Life on Mars (uk)
+*** DONE Life on Mars s1
+CLOSED: <2022-11-20 Sun 08:19>
+
+** Ashes to ashes
+*** Ashes to Ashes s1
+**** DONE 1x01
+CLOSED: [2022-11-20 Sun 21:10]
+
+** 火星生活（韩版）
+*** DONE 1x01
+CLOSED: <2022-11-13 Sun 15:38>
+
+*** DONE 1x02
+CLOSED: <2022-11-13 Sun 16:23>
+

@@ -1374,7 +1374,9 @@ https://arrow.fandom.com/wiki/Invasion!_(The_Flash)
 **** DONE Arrow 5x08
 CLOSED: [2022-11-12 Sat 17:13]
 
-**** Legends of Tomorrow 明日传奇2x07
+**** DONE Legends of Tomorrow 明日传奇2x07
+CLOSED: [2022-11-19 Sat 15:32]
+
 **** The Flash 3x17
 
 https://dc.fandom.com/wiki/The_Flash_(2014_TV_Series)_Episode:_Duet

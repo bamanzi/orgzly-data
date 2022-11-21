@@ -141,6 +141,17 @@ CLOSED: [2022-11-12 Sat 15:35]
 
 巴斯克维尔
 
+***** DONE 4x17
+CLOSED: [2022-11-16 Wed 13:00]
+
+超级英雄
+
+***** DONE 4x18
+CLOSED: [2022-11-19 Sat 14:46]
+
+***** DONE 4x19
+CLOSED: [2022-11-20 Sun 10:09]
+
 ***** [#B] 4x23 The Invisible Hand
 :PROPERTIES:
 :rating:   8.3

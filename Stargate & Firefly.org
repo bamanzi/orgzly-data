@@ -155,6 +155,15 @@ CLOSED: [2022-11-12 Sat 10:50]
 **** DONE 3x19
 CLOSED: [2022-11-14 Mon 08:01]
 
+**** DONE 3x20
+CLOSED: [2022-11-21 Mon 08:01]
+
+Ascension
+
+**** 3x21
+**** 3x22 Nemesis
+*** SG-1 S4
+**** 4x01 Small Victories
 ** Stargate Atlantis (SGA) :sga:
 *** DONE tv
 *** comics
