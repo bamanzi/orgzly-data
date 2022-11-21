@@ -611,7 +611,7 @@ SCHEDULED: <2022-09-04 Sun>
 
 **** Stranded vol.4
 *** 8DA (2022- )
-**** TBR What Lies Inside :P2022_11:
+**** What Lies Inside :P2022_11:
 *** 8D Time War
 *** misc :short:
 **** TODO [#A] CC4.12 Solitaire (9.2) :ToyMaker:P2010:plot_yes:Charley:
@@ -707,7 +707,7 @@ Vayles is sent to meet the Fourth Doctor and to instruct him to destroy the Dale
 
 Narvin�from the future (AUDIO: Desperate Measures) attempts to prevent the War.
 
-*** The War Master series 2: The Master of Callous :Master_war:scripted:🎧:
+*** _The War Master series 2: The Master of Callous_ :Master_war:scripted:🎧:
 **** DONE Call for the Dead
 CLOSED: <2020-10-08 Thu 10:49>
 
@@ -751,7 +751,7 @@ CLOSED: [2020-09-23 Wed 12:53]
 **** DONE GTW1.2 Soldier Obscura (Gallifrey: Time War #1.2)
 CLOSED: <2020-11-07 Sat 10:33>
 
-**** The War Master series 3: Rage of the Time Lords :Master_war:scripted:
+**** _The War Master series 3: Rage of the Time Lords_  :Master_war:scripted:
 ***** DONE [#C] WM3.1 The Survivor
 CLOSED: <2020-12-30 Wed 07:42>
 :PROPERTIES:
@@ -787,7 +787,7 @@ CLOSED: [2021-01-06 Wed 09:03]
 
 【【自制字幕】神秘博士BF特辑宋江八叔历险记-哔哩哔哩】https://b23.tv/vLRN31
 
-**** TODO The War Master series 5: Hearts of Darkness :Master_War:
+**** TODO _The War Master series 5: Hearts of Darkness_          :Master_War:
 ***** 2DONE [#B] 5.1 - The Edge of Redemption :plot_yes:DW2022_11_spinoffs:
 CLOSED: [2022-11-07 Mon 20:49] SCHEDULED: <2022-11-09 Wed>
 :PROPERTIES:
@@ -810,7 +810,7 @@ CLOSED: [2022-11-07 Mon 20:49] SCHEDULED: <2022-11-09 Wed>
 :END:
 
 **** Master of Worlds (UNIT new #6.4) :Master_war:
-**** The War Master series 4: Anti-Genesis :Master_war:scripted:
+**** _The War Master series 4: Anti-Genesis_            :Master_war:scripted:
 ***** DONE [#B] 4.1 From the Flames :has_plot:D2021_10_master:
 CLOSED: <2021-01-16 Sat 22:52>
 :PROPERTIES:
@@ -864,12 +864,12 @@ CLOSED: [2020-11-09 Mon 18:14]
 The N-Forms receive an activation call, setting this after Desperate Measures
 
 **** A Heart on Both Sides (Short Trips #7.9)
-**** TODO The War Master series 6: Killing Time
+**** TODO _The War Master series 6: Killing Time_
 ***** 6.1 - The Sincerest Form of Flattery
 ***** 6.2 - A Quiet Night In
 ***** 6.3 - The Orphan
 ***** 6.4 - Unfinished Business
-**** READY The War Master series 7: Self-Defence
+**** READY _The War Master series 7: Self-Defence_
 ***** 7.1 The Forest Penitence :bilibili:
 
 【【广播剧汉化】恶魔的低语 The War Master 战争法师 701 The Forest Penitence-哔哩哔哩】 https://b23.tv/fdIB3vT
@@ -1042,7 +1042,7 @@ CLOSED: [2020-09-23 Wed 12:53]
 *** DONE The Night of the Doctor
 CLOSED: [2020-09-23 Wed 14:01]
 
-*** vol.1 Forged in Fire :P2021_06:War_Doctor:🎧:
+*** _vol.1 Forged in Fire_ :P2021_06:War_Doctor:🎧:
 **** 2DONE [#B] 1.1 - Light the Flame :D2022_06_doctor:
 CLOSED: [2022-07-15 Fri 21:16] SCHEDULED: <2022-06-25 Sat>
 :PROPERTIES:
@@ -1066,7 +1066,7 @@ CLOSED: [2022-11-12 Sat 19:31] SCHEDULED: <2022-10-16 Sun>
 The young looking War Doctor makes a decision. In one outcome, he ends up a Dalek spy.
 
 *** DONE The Clockwise War (comic) :War_Doctor:12th_Dr:
-*** Gallifrey: Time War vol.4
+*** _Gallifrey: Time War vol.4_
 **** DONE GTW3.4 Unity
 CLOSED: <2020-12-17 Thu 19:57>
 
@@ -1074,7 +1074,7 @@ CLOSED: <2020-12-17 Thu 19:57>
 **** 4.2 Dissolution
 **** 4.3 Beyond
 **** 4.4 Homecoming
-*** vol.2 Warbringer :P2021_12:
+*** _vol.2 Warbringer_                                             :P2021_12:
 **** [#D] 2.1 - Consequences
 :PROPERTIES:
 :rating:   6.8
@@ -1090,11 +1090,11 @@ CLOSED: <2020-12-17 Thu 19:57>
 :rating:   7.3
 :END:
 
-*** vol.3 Battlegrounds :P2022_05:
+*** _vol.3 Battlegrounds_                                          :P2022_05:
 **** [#C] 3.1 - The Keeper of Light
 **** [#D] 3.2 - Temmosus
 **** [#B] 3.3 - Rewind
-*** TBR vol.4 He Who Fights Monsters :P2022_12:
+*** TBR _vol.4 He Who Fights Monsters_                             :P2022_12:
 *** Ambush (comic)
 ** The War Doctor
 *** 11DY2 (comics)

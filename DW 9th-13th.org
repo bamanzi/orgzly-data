@@ -68,8 +68,8 @@ SCHEDULED: <2022-07-23 Sat>
 :END:
 
 **** S2.1 Back to Earth :P2022_05:
-***** READY [#B] 5.1 Station to Station :bilibili:DW2022_11_doctor:
-SCHEDULED: <2022-11-20 Sun>
+***** TODO [#B] 5.1 Station to Station :bilibili:DW2022_11_doctor:
+SCHEDULED: <2022-11-27 Sun>
 
 【【神秘博士广播剧熟肉】Back to Earth 101 Station to Station 车站之间-哔哩哔哩】 https://b23.tv/ueI1ubC
 
@@ -114,7 +114,9 @@ CLOSED: [2022-07-02 Sat 23:47]
 **** START 0.3 - What I Did on My Christmas Holidays by Sally Sparrow :short:D2022_03_doctor:week4:🗣:
 SCHEDULED: <2022-03-19 Sat>
 
-**** 0.4 - The Beast of Babylon
+**** TODO 0.4 - The Beast of Babylon :DW2023_01_doctor:
+SCHEDULED: <2022-11-27 Sun>
+
 **** 3QTR 0.5 Exhausted Supplies :12th_Dr:D2021_12_doctor:week2:bilibili:
 CLOSED: [2021-12-14 Tue 20:07] DEADLINE: <2021-12-08 Wed 20:05> SCHEDULED: <2021-12-10 Fri>
 
@@ -127,7 +129,7 @@ https://ninthdoctoradventures.wordpress.com/episodes/
 
 In the aftermath of the Time War, the Doctor has no time to mourn. But how can he even begin to take ahold of the situation if he cannot face his own reflection? The human race is in danger of dying. Forever. 
 
-**** #2. Legacy of the Slitheen
+**** TODO #2. Legacy of the Slitheen
 ** novels :📔:
 *** TODO2 [#B] The Stealers of Dreams 盗梦贼 :Kindle己购:
 :PROPERTIES:
@@ -430,6 +432,7 @@ SCHEDULED: <2022-04-29 Fri>
 :rating:   7.5
 :END:
 
+**** Out of Time #3 Wink :6th_Dr:Weeping_Angels:
 *** Tenth Doctor Classic Companions :P2022_09:
 **** 1. Splinters :Leela:
 **** 2. The Stuntman :Nyssa:
@@ -489,7 +492,7 @@ CLOSED: <2021-10-16 Sat 10:18>
 :todo:     buy
 :END:
 
-*** READY [#B] The Story of Martha 玛莎的故事 :Kindle己购:己购:DW2022_Q4:
+*** HALF [#B] The Story of Martha 玛莎的故事 :Kindle己购:己购:DW2022_Q4:
 :PROPERTIES:
 :rating:   3.89
 :END:

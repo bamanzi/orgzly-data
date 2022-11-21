@@ -358,8 +358,8 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
       :rating:   7.6
       :END:
 
-***** TODO [#A] 54. Curios (8.9) :Bilis_Manger:DW2022_11_spinoffs:
-      SCHEDULED: <2022-11-23 Wed>
+***** TODO [#A] 54. Curios (8.9) :Bilis_Manger:DW2022_12_spinoffs:
+      SCHEDULED: <2022-12-17 Sat>
       :PROPERTIES:
       :rating:   8.9
       :END:
@@ -536,7 +536,9 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
 ***** 3QTR [#A] 6.8 Eye of the Storm (8.8) :Norton:P2019:DW2022_10_spinoffs:
       CLOSED: [2022-11-01 Tue 08:25] SCHEDULED: <2022-11-01 Tue>
 
-***** [#B] 6.9 A Mother's Son (8.2) :DW2022_12_spinoffs:
+***** 3QTR [#B] 6.9 A Mother's Son (8.2) :DW2022_11_spinoffs:
+      CLOSED: [2022-11-21 Mon 09:16] SCHEDULED: <2022-11-27 Sun>
+
 ***** [#B] 6.10 ScrapeJane (8.2) :DW2022_12_spinoffs:
 ***** [#A] 6.11 Day Zero (8.7)
 ***** [#B] 6.12 Thoughts and Prayers (8.2)
@@ -1039,8 +1041,8 @@ Roberts Master
 *** 3QTR [#A] 4.2 - Disassembled (9.1) :plot_yes:DW2022_10_spinoffs:
     CLOSED: [2022-10-30 Sun 19:57] SCHEDULED: <2022-10-15 Sat>
 
-*** HALF [#B] 4.3 - Annihilation (8.0) :DW2022_11_spinoffs:
-    SCHEDULED: <2022-11-16 Wed>
+*** 3QTR [#B] 4.3 - Annihilation (8.0) :DW2022_11_spinoffs:
+    CLOSED: [2022-11-18 Fri 08:56] SCHEDULED: <2022-11-20 Sun>
 
 *** [#C] 4.4 - Forever      (7.9) :DW2022_12_spinoffs:
 ** series 5 :P2013:
@@ -1339,8 +1341,7 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
      :rating:   7.9
      :END:
 
-**** TODO [#B] 5.2 Clear History :DW2022_11_doctor:
-     SCHEDULED: <2022-11-20 Sun>
+**** TODO [#B] 5.2 Clear History
      :PROPERTIES:
      :rating:   8.1
      :END:
@@ -1376,7 +1377,10 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
      :rating:   8.7
      :END:
 
-*** TBR vol.7 Blood & Steel :P2022_09:Cybermen:Doctor_unbound:
+*** vol.7 Blood & Steel :P2022_09:Cybermen:Doctor_unbound:
+**** START [#A] 7.1 Willkommen :DW2022_11_doctor:
+     SCHEDULED: <2022-11-23 Wed>
+
 * Missy / Master!
 ** Missy series 1 :🎧:Master_missy:
 *** START [#C] 1.1 A Spoonful of Mayhem :D2021_07_extra:
@@ -1423,7 +1427,7 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
     :rating:   7.2
     :END:
 
-*** [#B] 2.4 - Too Many Masters
+*** [#C] 2.4 - Too Many Masters :Monk:
     :PROPERTIES:
     :rating:   8.2
     :END:
@@ -1459,7 +1463,7 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
      :rating:   8.6
      :END:
 
-*** TBR Master! vol.2 Nemesis Express :P2022_10:
+*** Master! vol.2 Nemesis Express :P2022_10:
 ** TBR Call Me Master :Master_spy:
 * #Daleks :daleks:
 ** #Davros :Davros:
@@ -1671,18 +1675,18 @@ https://www.youtube.com/watch?v=zO1CxiQ2Dmk
     :rating:   8.4
     :END:
 
-*** [#D] MR087 The Gathering :5th_Dr:
+*** 2DONE [#D] MR087 The Gathering :5th_Dr:
     :PROPERTIES:
     :rating:   7.0
     :END:
 
-*** 2DONE [#A] MR153 The Silver Turk :8th_Dr:Mary:
+*** 3QTR [#A] MR153 The Silver Turk :8th_Dr:Mary:
     CLOSED: [2021-04-09 Fri 06:38]
     :PROPERTIES:
     :rating:   8.6
     :END:
 
-*** COMIC: The Good Soldier :7th_Dr:D2022_Q4:
+*** DONE COMIC: The Good Soldier :7th_Dr:D2022_Q4:
 
 DWM 175-178
 
@@ -1703,8 +1707,10 @@ DWM 175-178
     :END:
 
 ** CyberFaction
-*** TODO The Wheel in Space :📺:2nd_Dr:
-*** The Invasion :📺:2nd_Dr:
+*** TODO The Wheel in Space :📺:2nd_Dr:DW2022_12_extra:
+    SCHEDULED: <2022-12-17 Sat>
+
+*** DONE The Invasion :📺:2nd_Dr:
 *** Death in Heaven :📺:12th_Dr:
 *** audio
 **** DONE [#E] MR017 Sword of Orion :8th_Dr:
@@ -1761,7 +1767,7 @@ https://tardis.fandom.com/wiki/Conversion_(Cyberman_audio_story)
       :rating:   7.7
       :END:
 
-**** [#B] MR103 The Girl Who Never Was :8th_Dr:Charley:
+**** 2DONE [#B] MR103 The Girl Who Never Was :8th_Dr:Charley:
      :PROPERTIES:
      :rating:   8.4
      :END:
@@ -1781,23 +1787,29 @@ https://tardis.fandom.com/wiki/Conversion_(Cyberman_audio_story)
      :rating:   7.1
      :END:
 
-**** START [#C] 3DA 4.2 The Tyrants of Logic :3rd_Dr:
+**** 2DONE [#C] 3DA 4.2 The Tyrants of Logic :3rd_Dr:
      :PROPERTIES:
      :rating:   7.5
      :END:
 
-**** HALF [#A] 8DA 1.7/1.8 Human Resources :8th_Dr:
+**** DONE [#A] 8DA 1.7/1.8 Human Resources :8th_Dr:
      :PROPERTIES:
      :rating:   8.5
      :END:
 
 rating 8.7/8.3
 
-*** COMIC: Supremacy of the Cybermen :D2022_Q4:
+*** TODO COMIC: Supremacy of the Cybermen :D2022_12_extra:
 ** CyberNeomorph
-*** 19x06 Earthshock :D2022_Q4:📺:
-*** 22x Attack of the Cybermen
-*** 25xx Silver Nemesis
+*** DONE 19x06 Earthshock :📺:DW2022_11_extra:
+    CLOSED: [2022-11-19 Sat 18:31]
+
+*** TODO 22x01 Attack of the Cybermen :DW2022_12_extra:
+    SCHEDULED: <2022-12-31 Sat>
+
+*** TODO 25x03 Silver Nemesis :DW2022_11_extra:
+    SCHEDULED: <2022-11-30 Wed>
+
 *** DONE [#C] MR078 The Reaping :6th_Dr:
     CLOSED: [2022-07-20 Wed 15:55]
     :PROPERTIES:
@@ -1809,7 +1821,7 @@ rating 8.7/8.3
     :rating:   7.9
     :END:
 
-*** [#C] MR258b Conversion :5th_Dr:
+*** DONE [#C] MR258b Conversion :5th_Dr:
     :PROPERTIES:
     :rating:   7.5
     :END:
@@ -1862,7 +1874,7 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
     CLOSED: [2022-11-10 Thu 09:05] SCHEDULED: <2022-11-09 Wed>
 
 *** START [#B] 3.2 Square One (8.4) :DW2022_11_spinoffs:
-    SCHEDULED: <2022-11-23 Wed>
+    SCHEDULED: <2022-11-27 Sun>
 
 *** [#A] 3.3 Silent Majority (8.5)
 *** [#C] 3.4 In Memory Alone (7.5)
@@ -1923,11 +1935,17 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
 
 ***+TBLFM: $1='(cond ((>= $3 8.5) "[#A]") ((>= $3 8.0) "[#B]") ((>= $3 7.5) "[#C]") ((>= $2 7.0) "[#D]") (t "[#E]"));N
 
-** Nemesis 1: Between Two Worlds :P2021:
-*** 1.1 The Enemy Beyond
-*** 1.2 Fire and Ice
-*** 1.3 Eleven's Eleven
-** Nemesis 2: Agents of the Vulpreen :P2022:
+** Nemesis 1: Between Two Worlds :P2021_11:
+*** [#B] 1.1 The Enemy Beyond
+*** [#C] 1.2 Fire and Ice
+*** [#C] 1.3 Eleven's Eleven
+*** [#B] 1.4 The Curator's Gambit
+** Nemesis 2: Agents of the Vulpreen :P2022_03:
+*** [#B] 2.1 The Man From Gallifrey
+*** [#C] 2.2 Power of the Dominators
+*** [#C] 2.3 The War Factory
+*** [#C] 2.4 Ten Minutes in Hell
+** Nemesis 3: Objective: Earth :P2022_11:
 * Kaldor City / The Robots :🎧:Kaldor:
 ** Kaldor City :plot_yes_dwg:
 *** HALF [#B] KC1. Occam's Razor :D2022_06_spinoffs:
@@ -1973,8 +1991,8 @@ http://www.drwhoguide.com/kaldor03.htm
      :rating:   8.0
      :END:
 
-**** TODO [#B] 2.2 - Toos and Poul :DW2022_11_spinoffs:_spinoffs:
-     SCHEDULED: <2022-11-23 Wed>
+**** HALF [#B] 2.2 - Toos and Poul :DW2022_11_spinoffs:_spinoffs:
+     SCHEDULED: <2022-11-20 Sun>
      :PROPERTIES:
      :rating:   8.0
      :END:
@@ -2016,6 +2034,10 @@ http://www.drwhoguide.com/kaldor03.htm
      :rating:   8.4
      :END:
 
+*** The Robots vol.5 :P2022_05:
+**** 5.1 The Enhancement
+**** 5.2 Machines Like Us
+**** 5.3 Kaldor Nights
 * The Paternoster Gang :PG:
 ** audio :🎧:
 *** PG: Heritage 1 :P2019:
@@ -2031,8 +2053,8 @@ http://www.drwhoguide.com/kaldor03.htm
 **** START [#D] 2.1 - Dining with Death         (7.0) :DW2022_09_spinoffs:
      SCHEDULED: <2022-09-30 Fri>
 
-**** HALF [#C] 2.2 - The Screaming Ceiling     (7.6) :DW2022_11_spinoffs:
-     SCHEDULED: <2022-11-16 Wed>
+**** 3QTR [#C] 2.2 - The Screaming Ceiling     (7.6) :DW2022_11_spinoffs:
+     CLOSED: [2022-11-20 Sun 19:43] SCHEDULED: <2022-11-20 Sun>
 
 **** [#C] 2.3 - Spring-Heeled Jack        (7.7)
 *** PG: Heritage 3 :P2020:
@@ -2088,8 +2110,8 @@ http://www.drwhoguide.com/kaldor03.htm
 *** [#E] TNCM 2.4 - Time of the Intelligence (6.5)
 ** The New Counter-Measures: Series 3
 *** [#C] 3.1. The Hollow King (7.5) :P2019:
-*** [#D] 3.2. The Dalek Gambit (7.3) :2020:
-*** [#D] 3.3. The Movellan Manoeuvre (7.4) :2020:
+*** [#D] 3.2. The Movellan Manoeuvre (7.4) :P2020:
+*** [#D] 3.3. The Dalek Gambit (7.3) :2020:
 * Faction Paradox
 ** audio
 *** The Faction Paradox Protocols (BBV 2001-2004)
@@ -2208,7 +2230,7 @@ http://www.drwhoguide.com/kaldor03.htm
      :rating:   7.3
      :END:
 
-*** TBR RTDC vol.2 Other Worlds :P2022_10:
+*** RTDC vol.2 Other Worlds :P2022_10:
 *** TBR RTDC vol.3 Trapped :P2023_09:
 ** Donna Nobel - Kidnapped :Donna:P2020:
 
@@ -2219,8 +2241,8 @@ From Donna's perspective, the anthology is set after /Forest of the Dead/.
 
 【【神秘博士广播剧熟肉】Kidnapped! 101 Out of this World 世界之外-哔哩哔哩】 https://b23.tv/By95ZJG
 
-*** TODO [#C] 2. Spinvasion (7.8) :DW2022_11_spinoffs:bilibili:
-    SCHEDULED: <2022-11-16 Wed>
+*** START [#C] 2. Spinvasion (7.8) :DW2022_11_spinoffs:bilibili:
+    SCHEDULED: <2022-11-23 Wed>
 
 【【神秘博士广播剧熟肉】Kidnapped! 102 Spinvasion 虚假宣传-哔哩哔哩】 https://b23.tv/bUsymNF
 

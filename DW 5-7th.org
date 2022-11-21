@@ -11,8 +11,8 @@
 **** [#D] Kinda (7.4)
 **** [#C] The Visitation (7.6)
 **** [#D] Black Orchid (7.2)
-**** [#A] Earthshock (8.5) :Cybermen:DW2022_10_extra:
-SCHEDULED: <2022-11-02 Wed>
+**** DONE [#A] Earthshock (8.5) :Cybermen:DW2022_10_extra:
+CLOSED: [2022-11-19 Sat 18:32] SCHEDULED: <2022-11-02 Wed>
 
 **** CANCEL [#F] Time-Flight (6.0)
 *** Season 20
@@ -212,8 +212,8 @@ CLOSED: [2021-03-22 Mon 23:16]
 :END:
 
 *** main range 151-200 :scripted:2CD:
-**** BLOCK [#B] 159. The Emerald Tiger (8.2) :plot_yes:DW2022_11_doctor:
-SCHEDULED: <2022-11-20 Sun>
+**** BLOCK [#B] 159. The Emerald Tiger (8.2) :plot_yes:DW2022_03_doctor:
+SCHEDULED: <2022-11-30 Wed>
 
 **** [#D] 160. The 160. Jupiter Conjunction (7.3)
 **** BLOCK [#B] 161. The Butcher of Brisbane (8.0) :plot_yes:
@@ -389,16 +389,18 @@ SCHEDULED: <2022-05-14 Sat>
 **** The Fifth Doctor Box Set :2CD:
 ***** Psychodrome
 ***** Iterations of I
-**** Wicked Sisters :1CD:
+**** Wicked Sisters :1CD:P2020:
 ***** [#C] The Garden of Storms
 ***** [#B] The Moonrakers
 ***** CANCEL [#E] The People Made of Smoke
-**** The Lost Resort and Other Stories :Nyssa:Tegan:Marc:P2021_09:
+**** The Lost Resort and Other Stories :Nyssa:Tegan:Marc:plot_yes:P2021_09:
 ***** [#A] The Lost Resort :2CD:
 ***** CANCEL [#E] The Perils of Nellie Bly
 ***** [#C] Nightmare of the Daleks :1CD:
 **** Forty
-***** [#D] 1.1 Secrets of Telos :Nyssa:Tegan:Cybermen:2CD:P2022_01:DW2022_11_maybe:
+***** HALF [#D] 1.1 Secrets of Telos :Nyssa:Tegan:Cybermen:2CD:P2022_01:DW2022_11_maybe:
+SCHEDULED: <2022-11-16 Wed>
+
 ***** [#D] 1.2 God of War :Nyssa:Tegan:Adric:ice_warriors:1CD:P2022_01:
 ***** 2.1 The Auton Infinity :3CD:P2022_09:
 **** TBR Conflict of Interests :P2023_04:
@@ -410,7 +412,7 @@ SCHEDULED: <2022-05-14 Sat>
 :END:
 
 **** Classic Doctors, New Monsters :1CD:
-***** 3QTR [#B] 1.1 Fallen Angles :scripted:DW2022_09_doctor:
+***** 3QTR [#B] 1.1 Fallen Angles :Weeping_Angels:scripted:DW2022_09_doctor:
 CLOSED: [2022-09-23 Fri 08:27] SCHEDULED: <2022-09-08 Thu>
 :PROPERTIES:
 :rating:   8.1
@@ -1069,7 +1071,7 @@ CLOSED: [2021-03-23 Tue 13:04]
 :END:
 
 ***** HALF [#B] 7DA 1.3 - The Jabari Countdown :short:DW2022_11_doctor:
-SCHEDULED: <2022-11-13 Sun>
+SCHEDULED: <2022-11-16 Wed>
 :PROPERTIES:
 :rating:   8.2
 :END:
@@ -1084,7 +1086,7 @@ SCHEDULED: <2022-11-13 Sun>
 CLOSED: [2022-10-08 Sat 09:05]
 
 ***** The Ribos Inheritance :Mel:
-**** TBR 7DA Sullivan and Cross - AWOL :P2022_11:
+**** 7DA Sullivan and Cross - AWOL :P2022_11:
 *** novel adaptations :2CD:
 **** BLOCK [#D] NA1 Love and War :Ace:Benny:3CD:
 
@@ -1132,9 +1134,13 @@ DWMGN #11
 
 DWMGN #15
 
+**** DONE 55. Nemesis of the Daleks :Daak:
 *** The Good Soldier (DWM 163-179)
 
 DWMGN #20
+
+**** DONE 65. The Good Soldier :Cybermen:
+CLOSED: [2022-11-15 Tue 13:04]
 
 *** Evening's Empire (DWM 183-192)
 
@@ -1146,11 +1152,11 @@ DWMGN #24
 
 **** Pureblood :Benny:
 **** Flashback :Benny:DWMS:P1992:
-**** Emperor of the Daleks :Davros:Benny:
+**** DONE Emperor of the Daleks :Davros:Benny:
 **** Final Genesis :Benny:
 **** Time and Time Again :Benny:
 **** Cuckoo :Benny:
-**** Up Above the Gods :Davros:6th_Dr:
+**** DONE Up Above the Gods :Davros:6th_Dr:
 *** DWM misc
 **** Seaside Rendezvous :Ace:DWMS:P1991:
 **** Younger and Wiser :DWMS:P1994:
