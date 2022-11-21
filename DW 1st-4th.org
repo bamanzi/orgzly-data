@@ -288,29 +288,15 @@ https://www.bilibili.com/read/cv16029955
 *** Season 4 :1967:
 **** DONE 04x03 The Power of the Daleks :daleks:animated:srt_full:missing:P2016:P1966:
 
-第二任博士的第一次出场
-
--  [x] 动画完整版字幕
-
-   -  微博介绍: [[https://m.weibo.cn/1910110560/4243333884486439]]
-   -  字幕文件下载: [[https://secure.assrt.net/xml/sub/622/622123.xml]]
-
--  [x] 粉丝剪辑版
-
-   -  粉丝版剪辑说明以及视频下载: [[https://whoflix.wordpress.com/2017/02/18/the-power-of-the-daleks-2/]]
-   -  微博介绍: [[https://m.weibo.cn/1910110560/4322905540222728]]
-   -  字幕文件下载: [[https://secure.assrt.net/xml/sub/623/623454.xml]]
 
 **** +04x04 The Highlanders+ :missing:D2021_13:
 
-4集视频全遗失, 未做中文字幕
 
 
 小说翻译： http://tieba.baidu.com/p/6573080784?share=9105&fr=share&see_lz=0&share_from=post&sfc=copy&client_type=2&client_version=11.9.8.0&st=1629813078&unique=2870A12337A54D67F67CE44D0875042B 
 
 **** +04x05 The Underwater Menace+ :missing:
 
-(总4集, 第1、4集遗失, 未做中文字幕)
 
 **** DONE 04x06 The Moonbase :Cybermen:fan_edit:animated:P2014:P1966:
 
@@ -318,58 +304,23 @@ Episode 1, 3 missing (but animated in 2014)
 
 赛博人第二次出场
 
-粉丝剪辑版
-
--  粉丝版剪辑说明以及视频下载: [[https://whoflix.wordpress.com/2016/04/22/the-moonbase/]]
--  微博介绍: [[https://m.weibo.cn/1910110560/4329181477133369]]
--  字幕文件下载: [[https://secure.assrt.net/xml/sub/623/623564.xml]]
 
 **** DONE 04x07 The Macra Terror :animated:srt_full:2019:
 
-2019动画版完整字幕
-
--  part 1 & 2
-
-   -  微博介绍: [[https://m.weibo.cn/1910110560/4359447025777169]]
-   -  字幕文件下载: [[https://secure.assrt.net/xml/sub/624/624458.xml]]
-
--  part 3 & 4
-
-   -  微博介绍: [[https://m.weibo.cn/1910110560/4361424392909314]]
-   -  字幕文件下载: [[https://secure.assrt.net/xml/sub/624/624521.xml]]
 
 **** DONE 04x08 The Faceless Ones :animated:srt_full:
 
 Episode 2,4,5,6 missing (but all episodes animated in 2020)
 
-2020动画版完整字幕(英文/双语，SRT/ASS)
-
-   -  微博介绍: https://m.weibo.cn/1910110560/4607023331413359
-   -  字幕文件下载: https://assrt.net/xml/sub/642/642446.xml
-
-另：做字幕之前没有去查，结果发现其实2020年11月鹅组和小鱼儿行者都已经做
-过这个故事了 :-(，想直接要熟肉的可以访问此链接: http://t.cn/A6tIQQk4
 
 **** DONE 04x09 The Evil of the Daleks :daleks:srt_full:missing:Victoria:
 
-原视频7小集仅幸存第2小集。完整字幕，基于 LooseCannon修复版本（“PPT版本”）
-
--  微博介绍: [[https://m.weibo.cn/1910110560/4327056802736592]]
--  字幕文件下载: [[https://secure.assrt.net/xml/sub/623/623426.xml]]
 
 *** Season 5 :1968:
 **** DONE 05x01 The Tomb of the Cybermen :Cybermen:fan_edit:
-
-粉丝剪辑版
-
--  粉丝版剪辑说明以及视频下载: [[http://wp.me/p1mHFo-5z]]
--  微博介绍: [[https://m.weibo.cn/1910110560/4348385387213052]]
--  字幕文件下载: [[https://secure.assrt.net/xml/sub/624/624128.xml]]
-
 **** [#C] +The Abominable Snowmen+ (7.5) :great_intelligence:missing:DW2022_10_extra:
 SCHEDULED: <2022-11-02 Wed>
 
-(总6集, 仅第2集幸存, 未做中文字幕)
 
 Great Intelligence (大智慧/超级智能）和 Yeti (雪怪）的首次出场
 
@@ -377,32 +328,13 @@ Great Intelligence (大智慧/超级智能）和 Yeti (雪怪）的首次出场
 
 寒冰勇士首次出场。不过真正的敌人其实是”电脑“(或者说把一切留给电脑来决定的这种心态）
 
-完整版本字幕 （共6小集，第2、3小集针对动画重制版）
-
--  微博介绍: [[https://m.weibo.cn/1910110560/4310940322849636]]
--  字幕文件下载: [[https://secure.assrt.net/xml/sub/623/623231.xml]]
 
 **** DONE 05x04 The Enemy of the World :fan_edit:
-
-号称最像"007“的神秘博士
-
-粉丝剪辑版
-
--  粉丝版剪辑说明以及视频下载: [[https://whoflix.wordpress.com/2014/11/28/the-enemy-of-the-world/]]
--  微博介绍: [[https://m.weibo.cn/1910110560/4373747244878930]]
--  字幕文件下载: [[https://secure.assrt.net/xml/sub/624/624874.xml]]
-
 **** DONE 05x05 The Web of Fear :great_intelligence:fan_edit:
 
 Great Intelligence (大智慧/超级智能）和 Yeti (雪怪）的第二次出场。
 
 UNIT 和 准将的第一次出场。不过那时候 UNIT 是此集之后才成立， Lethbridge-Stewart 也是之后才升任准将
-
-粉丝剪辑版（原视频6小集，第3小集遗失，剧情影响不大) 
-
--  粉丝版剪辑说明以及视频下载: [[http://wp.me/p1mHFo-1e1]]
--  微博介绍: [[https://m.weibo.cn/1910110560/4334522072393901]]
--  字幕文件下载: [[https://secure.assrt.net/xml/sub/623/623663.xml]]
 
 **** DONE 05x06 Fury from the Deep (TODO) :Victoria:animated:missing:2020:
 CLOSED: <2021-03-25 Thu 07:29>
@@ -418,47 +350,22 @@ CLOSED: <2021-03-25 Thu 07:29>
 *** Season 6 :1969:Zoe:
 **** DONE 06x01 The Dominators :fan_edit:
 
-粉丝剪辑版
-
--  粉丝版剪辑说明以及视频下载: [[http://wp.me/p1mHFo-6Y]]
--  微博介绍: [[https://m.weibo.cn/1910110560/4380482903268827]]
--  字幕文件下载: [[https://secure.assrt.net/xml/sub/625/625001.xml]]
 
 **** DONE 06x02 The Mind Robber :fan_edit:
 
-粉丝剪辑版
-
--  粉丝版剪辑说明以及视频下载: [[http://wp.me/p1mHFo-rj]]
--  微博介绍: [[https://m.weibo.cn/1910110560/4353356472354914]]
--  字幕文件下载: [[https://secure.assrt.net/xml/sub/624/624278.xml]]
 
 **** DONE 06x03 The Invasion (of the Cybermen) :Cybermen:fan_edit:
 
 UNIT 和 准将第一次正式出场
 
-粉丝剪辑版
-
--  粉丝版剪辑说明以及视频下载: [[http://wp.me/p1mHFo-lH]]
--  微博介绍: [[https://m.weibo.cn/1910110560/4386407394841925]]
--  字幕文件下载: [[https://secure.assrt.net/xml/sub/625/625209.xml]]
 
 **** DONE 06x04 The Krotons :fan_edit:
 
-粉丝剪辑版
-
--  粉丝版剪辑说明以及视频下载: [[http://wp.me/p1mHFo-xw]]
--  微博介绍: [[https://m.weibo.cn/1910110560/4391907947480683]]
--  字幕文件下载: [[https://secure.assrt.net/xml/sub/625/625391.xml]]
 
 **** DONE 06x05 The Seeds of Death :ice_warriors:fan_edit:
 
 寒冰勇士第二次出场, 试图入侵地球
 
-粉丝剪辑版
-
--  粉丝版剪辑说明以及视频下载: [[http://wp.me/p1mHFo-m8]]
--  微博介绍: [[https://m.weibo.cn/1910110560/4343154256340286]]
--  字幕文件下载: [[https://secure.assrt.net/xml/sub/623/623945.xml]]
 
 **** +06x06 The Space Pirates+ :missing:
 
@@ -873,7 +780,7 @@ block原因：太长（3小时）
 CLOSED: [2020-06-25 Thu 21:48]
 
 **** START [#D] CDNM3.1 The House that Hoxx Built :plot_yes:DW2022_11_doctor:
-SCHEDULED: <2022-11-13 Sun>
+SCHEDULED: <2022-11-23 Wed>
 
 ** BF shorts :BigFinish:audiobook:🎧:🗣:
 *** CC (Liz) :Liz:
@@ -1230,8 +1137,7 @@ CLOSED: [2020-08-20 Thu 13:56]
 
 **** 4DA series 5 :Romana_2:P2016:
 ***** [#D] 5.2 - The Labyrinth of Buda Castle (7.1)
-***** [#C] 5.3 - The Paradox Planet (7.6)
-***** [#C] 5.4 - Legacy of Death (7.6)
+***** [#C] 5.3 - The Paradox Planet (7.6) / 5.4 - Legacy of Death (7.6)
 ***** 2DONE [#A] 5.6 The Trouble with Drax (8.7) :D2021_06:
 CLOSED: <2021-07-01 Thu 16:39>
 
@@ -1241,12 +1147,10 @@ CLOSED: <2021-07-01 Thu 16:39>
 ***** [#D] 6.5 - The Haunting of Malkin Place (7.4)
 ***** [#D] 6.8 - The Skin of the Sleek (7.2)
 **** 4DA series 7 :Leela:P2018:
-***** TODO [#C] 7.1 The Sons of Kaldor (7.7) :Kaldor:Robots:
-SCHEDULED: <2022-08-30 Tue>
-
+***** TODO [#C] 7.1 The Sons of Kaldor (7.7) :Kaldor:Robots:DW2022_12_doctor:
 ***** [#C] 7.2 The Crowmarsh Experiment (7.6)
 ***** [#C] 7.6 The Bad Penny (7.5)
-***** TODO [#C] 7.7/7.8 - Kill the Doctor! / The Age of Sutekh (7.8/7.0) :Sutekh:2CD:
+***** TODO [#C] 7.7/7.8 - Kill the Doctor! / The Age of Sutekh (7.8/7.0) :Sutekh:2CD:DW2023_02_doctor:
 **** 4DA series 8 :P2019:Ann:
 ***** plot
 
@@ -1382,7 +1286,7 @@ CLOSED: [2020-07-05 Sun 23:49]
 CLOSED: [2020-06-25 Thu 21:56]
 
 *** BBC 4DA :scripted:🎧:Yates:DA:BBC:
-**** START [#C] 2.1. The Relics of Time :plot_yes:DW2022_10_doctor:
+**** HALF [#C] 2.1. The Relics of Time :plot_yes:DW2022_10_doctor:
 SCHEDULED: <2022-10-29 Sat>
 :PROPERTIES:
 :rating:   7.8
