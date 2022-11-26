@@ -358,8 +358,8 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
       :rating:   7.6
       :END:
 
-***** TODO [#A] 54. Curios (8.9) :Bilis_Manger:DW2022_12_spinoffs:
-      SCHEDULED: <2022-12-17 Sat>
+***** [#A] 54. Curios (8.9) :Bilis_Manger:DW2022_12_spinoffs:
+      SCHEDULED: <2022-12-24 Sat>
       :PROPERTIES:
       :rating:   8.9
       :END:
@@ -540,6 +540,8 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
       CLOSED: [2022-11-21 Mon 09:16] SCHEDULED: <2022-11-27 Sun>
 
 ***** [#B] 6.10 ScrapeJane (8.2) :DW2022_12_spinoffs:
+      SCHEDULED: <2022-12-24 Sat>
+
 ***** [#A] 6.11 Day Zero (8.7)
 ***** [#B] 6.12 Thoughts and Prayers (8.2)
 *** The Lives of Captain Jack :🎧:Jack:1CD:
@@ -821,11 +823,13 @@ Roberts Master
      :rating:   6.5
      :END:
 
-**** START [#C] 6.4 The Talents of Greel        (7.8) :Jago:plot_yes:DW2022_12_maybe:
-     SCHEDULED: <2022-10-31 Mon>
+**** START [#C] 6.4 The Talents of Greel        (7.8) :Jago:plot_yes:DW2022_12_spinoffs:
+     SCHEDULED: <2022-12-24 Sat>
 
 *** DoRS 7 :P2020:
-**** TODO [#C] 7.1 Colony of Strangers         (7.7) :DW2022_12_spinoffs:
+**** LATER [#C] 7.1 Colony of Strangers         (7.7) :DW2022_12_spinoffs:
+     SCHEDULED: <2022-12-31 Sat>
+
 **** [#D] 7.2 Abbey of Heretics           (7.2)
 **** [#A] 7.3 Barrister to the Stars      (8.9)
 **** [#D] 7.4 Carnival of Angels          (7.0)
@@ -834,7 +838,7 @@ Roberts Master
 **** [#C] 8.2 A Brave New World (7.6)
 **** [#C] 8.3 A Forever Home (7.5)
 **** HALF [#E] 8.4 Queen of the Mechonoids     (6.5) :Anya:Mark_7:
-*** DoRS 9 :P2021:
+*** DoRS 9 :P2021_10:
 **** 3QTR [#B] 9.1 The Blood Woods :Liz:Brigadier:D2022_01_spinoffs:
      CLOSED: [2022-01-14 Fri 08:37] SCHEDULED: <2022-01-26 Wed>
      :PROPERTIES:
@@ -859,6 +863,7 @@ Roberts Master
      :rating:   8.1
      :END:
 
+*** DoRS 10 :P2022_08:
 *** misc
 **** DONE R&J (The Lives of Captain Jack #3.3) :Jack:
      CLOSED: <2020-09-14 Mon 21:12>
@@ -926,8 +931,8 @@ Roberts Master
 *** 3QTR [#B] 7.1 The Monstrous Menagerie           (8.1) :DW2022_08_spinoffs:
     CLOSED: [2022-09-02 Fri 19:14] SCHEDULED: <2022-09-04 Sun>
 
-*** TODO [#D] 7.2 The Night of 1000 Stars           (7.2) :plot_no:DW2022_12_spinoffs:
-    SCHEDULED: <2022-10-31 Mon>
+*** LATER [#D] 7.2 The Night of 1000 Stars           (7.2) :plot_no:DW2022_12_spinoffs:
+    SCHEDULED: <2022-12-30 Fri>
 
 *** [#A] 7.3 Murder at Moorsey Manor           (8.7)
 *** [#C] 7.4 The Wax Princess                  (7.5)
@@ -1045,6 +1050,8 @@ Roberts Master
     CLOSED: [2022-11-18 Fri 08:56] SCHEDULED: <2022-11-20 Sun>
 
 *** [#C] 4.4 - Forever      (7.9) :DW2022_12_spinoffs:
+    SCHEDULED: <2022-12-24 Sat>
+
 ** series 5 :P2013:
 *** [#E] 5.1 - Emancipation (6.9)
 *** [#E] 5.2 - Evolution (6.5)
@@ -1378,7 +1385,7 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
      :END:
 
 *** vol.7 Blood & Steel :P2022_09:Cybermen:Doctor_unbound:
-**** START [#A] 7.1 Willkommen :DW2022_11_doctor:
+**** HALF [#A] 7.1 Willkommen :DW2022_11_doctor:
      SCHEDULED: <2022-11-23 Wed>
 
 * Missy / Master!
@@ -1422,7 +1429,7 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
     :rating:   6.8
     :END:
 
-*** [#D] 2.3 - Treason and Plot :DW2022_12_maybe:
+*** [#D] 2.3 - Treason and Plot :DW2023_03_maybe:
     :PROPERTIES:
     :rating:   7.2
     :END:
@@ -1457,11 +1464,13 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
      :rating:   7.4
      :END:
 
-**** HALF [#A] 1.3. Vengeance :DW2022_10_spinoffs:
+**** HALF [#A] 1.3. Vengeance :DW2022_10_spinoffs:bilibili:
      SCHEDULED: <2022-11-01 Tue>
      :PROPERTIES:
      :rating:   8.6
      :END:
+
+【【神秘博士广播剧】MASTER! 103 复仇-哔哩哔哩】 https://b23.tv/rYJARj9
 
 *** Master! vol.2 Nemesis Express :P2022_10:
 ** TBR Call Me Master :Master_spy:
@@ -1680,8 +1689,8 @@ https://www.youtube.com/watch?v=zO1CxiQ2Dmk
     :rating:   7.0
     :END:
 
-*** 3QTR [#A] MR153 The Silver Turk :8th_Dr:Mary:
-    CLOSED: [2021-04-09 Fri 06:38]
+*** HALF [#A] MR153 The Silver Turk :8th_Dr:Mary:DW2022_12_doctor:
+    SCHEDULED: <2022-12-10 Sat>
     :PROPERTIES:
     :rating:   8.6
     :END:
@@ -1873,7 +1882,7 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
 *** DONE [#B] 3.1 House of Silents (8.2) :DW2022_11_spinoffs:
     CLOSED: [2022-11-10 Thu 09:05] SCHEDULED: <2022-11-09 Wed>
 
-*** START [#B] 3.2 Square One (8.4) :DW2022_11_spinoffs:
+*** HALF [#B] 3.2 Square One (8.4) :DW2022_11_spinoffs:
     SCHEDULED: <2022-11-27 Sun>
 
 *** [#A] 3.3 Silent Majority (8.5)
@@ -1961,7 +1970,9 @@ Synopsis:  http://www.drwhoguide.com/kaldor01.htm
 
 http://www.drwhoguide.com/kaldor03.htm
 
-*** KC4. Taren Capel :DW2022_12_spinoffs:
+*** LATER KC4. Taren Capel :DW2022_12_spinoffs:
+    SCHEDULED: <2022-12-30 Fri>
+
 *** KC5. Checkmate
 *** KC6. Storm Mine
 ** The Robots (Big Finish, 2019-)
@@ -2080,6 +2091,8 @@ http://www.drwhoguide.com/kaldor03.htm
     SCHEDULED: <2022-10-29 Sat>
 
 *** [#B] 1.4 - State of Emergency           (8.3) :DW2022_12_spinoffs:
+    SCHEDULED: <2022-12-24 Sat>
+
 ** CM series 2 :P2013:
 *** [#B] 2.1 - Manhunt                      (8.1)
 *** [#B] 2.2 - The Fifth Citadel            (8.3)
@@ -2246,11 +2259,13 @@ From Donna's perspective, the anthology is set after /Forest of the Dead/.
 
 【【神秘博士广播剧熟肉】Kidnapped! 102 Spinvasion 虚假宣传-哔哩哔哩】 https://b23.tv/bUsymNF
 
-*** [#E] +3. The Sorcerer of Albion+ (6.9) :bilibili:
+*** [#E] +3. The Sorcerer of Albion+ (6.9) :bilibili:DW2022_12_spinoffs:
+    SCHEDULED: <2022-12-24 Sat>
 
 【【神秘博士广播剧熟肉】Kidnapped! 103 The Sorcerer of Albion 英格兰的巫师-哔哩哔哩】 https://b23.tv/N0bX4mv
 
-*** [#C] 4. The Chiswick Cuckoos (7.9) :10th_Dr:bilibili:
+*** [#C] 4. The Chiswick Cuckoos (7.9) :10th_Dr:bilibili:DW2022_12_spinoffs:
+    SCHEDULED: <2022-12-24 Sat>
 
 【【神秘博士广播剧熟肉】Kidnapped! 104 The Chiswick Cuckoos 奇斯威克的布谷鸟-哔哩哔哩】 https://b23.tv/tSBFEZL
 

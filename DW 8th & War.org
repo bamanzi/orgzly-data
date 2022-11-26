@@ -436,12 +436,12 @@ SCHEDULED: <2022-09-04 Sun>
 :END:
 
 **** DC vol.3
-***** TODO [#A] 3.1 - Absent Friends :DW2022_12_doctor:
+***** TODO [#A] 3.1 - Absent Friends :DW2023_02_doctor:
 :PROPERTIES:
 :rating:   9.2
 :END:
 
-***** TODO [#C] 3.2 - The Eighth Piece :DW2022_12_doctor:
+***** TODO [#C] 3.2 - The Eighth Piece :DW2023_02_doctor:
 :PROPERTIES:
 :rating:   7.7
 :END:
@@ -751,7 +751,7 @@ CLOSED: [2020-09-23 Wed 12:53]
 **** DONE GTW1.2 Soldier Obscura (Gallifrey: Time War #1.2)
 CLOSED: <2020-11-07 Sat 10:33>
 
-**** _The War Master series 3: Rage of the Time Lords_  :Master_war:scripted:
+**** _The War Master series 3: Rage of the Time Lords_ :Master_war:scripted:
 ***** DONE [#C] WM3.1 The Survivor
 CLOSED: <2020-12-30 Wed 07:42>
 :PROPERTIES:
@@ -787,7 +787,7 @@ CLOSED: [2021-01-06 Wed 09:03]
 
 【【自制字幕】神秘博士BF特辑宋江八叔历险记-哔哩哔哩】https://b23.tv/vLRN31
 
-**** TODO _The War Master series 5: Hearts of Darkness_          :Master_War:
+**** TODO _The War Master series 5: Hearts of Darkness_ :Master_War:
 ***** 2DONE [#B] 5.1 - The Edge of Redemption :plot_yes:DW2022_11_spinoffs:
 CLOSED: [2022-11-07 Mon 20:49] SCHEDULED: <2022-11-09 Wed>
 :PROPERTIES:
@@ -795,6 +795,7 @@ CLOSED: [2022-11-07 Mon 20:49] SCHEDULED: <2022-11-09 Wed>
 :END:
 
 ***** [#C] 5.2 - The Scaramancer :DW2022_12_spinoffs:
+SCHEDULED: <2022-12-24 Sat>
 :PROPERTIES:
 :rating:   7.9
 :END:
@@ -810,7 +811,7 @@ CLOSED: [2022-11-07 Mon 20:49] SCHEDULED: <2022-11-09 Wed>
 :END:
 
 **** Master of Worlds (UNIT new #6.4) :Master_war:
-**** _The War Master series 4: Anti-Genesis_            :Master_war:scripted:
+**** _The War Master series 4: Anti-Genesis_ :Master_war:scripted:
 ***** DONE [#B] 4.1 From the Flames :has_plot:D2021_10_master:
 CLOSED: <2021-01-16 Sat 22:52>
 :PROPERTIES:
@@ -1034,6 +1035,10 @@ CLOSED: <2021-11-26 Fri 09:50> DEADLINE: <2021-11-26 Fri 21:54> SCHEDULED: <2021
 :rating:   9.2
 :END:
 
+*** TBR 8D Time War vol.4 Cass :P2023_01:
+**** 5.1 Meanwhile, Elsewhere
+**** 5.2 Vespertine
+**** 5.3 Previously, Next Time
 *** 8D in Time War misc
 **** DONE The Rulers of the Universe (DoRS #1.4)
 CLOSED: [2020-09-23 Wed 12:53]
@@ -1074,7 +1079,7 @@ CLOSED: <2020-12-17 Thu 19:57>
 **** 4.2 Dissolution
 **** 4.3 Beyond
 **** 4.4 Homecoming
-*** _vol.2 Warbringer_                                             :P2021_12:
+*** _vol.2 Warbringer_ :P2021_12:
 **** [#D] 2.1 - Consequences
 :PROPERTIES:
 :rating:   6.8
@@ -1090,11 +1095,11 @@ CLOSED: <2020-12-17 Thu 19:57>
 :rating:   7.3
 :END:
 
-*** _vol.3 Battlegrounds_                                          :P2022_05:
+*** _vol.3 Battlegrounds_ :P2022_05:
 **** [#C] 3.1 - The Keeper of Light
 **** [#D] 3.2 - Temmosus
 **** [#B] 3.3 - Rewind
-*** TBR _vol.4 He Who Fights Monsters_                             :P2022_12:
+*** TBR _vol.4 He Who Fights Monsters_ :P2022_12:
 *** Ambush (comic)
 ** The War Doctor
 *** 11DY2 (comics)

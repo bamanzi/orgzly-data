@@ -547,8 +547,8 @@ CLOSED: [2021-03-22 Mon 20:39]
 :END:
 
 *** main range 101-150 :scripted:2CD:
-**** TODO [#B] 105. The Condemned (8.4) :Charley:plot_no:DW2022_12_maybe:
-SCHEDULED: <2022-10-30 Sun>
+**** TODO [#B] 105. The Condemned (8.4) :Charley:plot_no:DW2023_02_maybe:
+SCHEDULED: <2022-12-31 Sat>
 
 Six and Charley meet, and an enjoyable, weird adventure results.
 
@@ -584,8 +584,8 @@ CLOSED: <2021-04-18 Sun 08:14>
 
 **** [#B] 126. Blue Forgotten Planet (8.1) :Charley:Mila:plot_no:D2021_13:
 **** [#C] 134. The Wreck of the Titan (7.6)
-**** [#B] 135. Legend of the Cybermen (8.4) :Cybermen:Jamie:Zoe:plot_yes:
-SCHEDULED: <2022-08-30 Tue>
+**** TODO [#A] 135. Legend of the Cybermen (8.5) :Cybermen:Jamie:Zoe:plot_yes:DW2022_12_doctor:
+SCHEDULED: <2022-12-10 Sat>
 
 **** [#D] 143. The Crimes of Thomas Brewster :Evelyn:
 :PROPERTIES:
@@ -611,7 +611,7 @@ SCHEDULED: <2022-08-30 Tue>
 **** 2DONE [#B] 156. The Curse of Davros (8.0) :plot_no:2buy:
 CLOSED: <2021-12-23 Thu 08:53>
 
-**** [#C] 157. The Fourth Wall :Flip:DW2022_12_maybe:
+**** [#C] 157. The Fourth Wall :Flip:DW2023_02_maybe:
 **** [#E] 182. Antidote to Oblivion
 **** [#E] 183. The Brood of Erys
 **** [#D] 184. Scavenger

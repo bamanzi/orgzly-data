@@ -68,7 +68,7 @@ SCHEDULED: <2022-07-23 Sat>
 :END:
 
 **** S2.1 Back to Earth :P2022_05:
-***** TODO [#B] 5.1 Station to Station :bilibili:DW2022_11_doctor:
+***** TODO [#B] 5.1 Station to Station :bilibili:DW2023_01_doctor:
 SCHEDULED: <2022-11-27 Sun>
 
 【【神秘博士广播剧熟肉】Back to Earth 101 Station to Station 车站之间-哔哩哔哩】 https://b23.tv/ueI1ubC
@@ -89,6 +89,13 @@ CLOSED: [2022-07-02 Sat 23:47]
 
 【【神秘博士广播剧熟肉】Into the Stars 603 Break the Ice 破冰-哔哩哔哩】 https://b23.tv/FgizL7a
 
+*** 9DC
+**** HALF [#C] 1.4 Retail Therapy :Jackie:DW2022_11_doctor:
+SCHEDULED: <2022-11-29 Tue>
+:PROPERTIES:
+:rating:   7.8
+:END:
+
 *** ST (audiobooks)
 **** [#C] DotD#9. Night of the Whisper :plot_yes:
 :PROPERTIES:
@@ -105,7 +112,7 @@ CLOSED: [2022-07-02 Sat 23:47]
 :rating:   7.8
 :END:
 
-**** [#C] ST11.X The Lichyrwick Abomination :P2021:scripted:
+**** [#C] ST11.X The Lichyrwick Abomination :P2021:scripted:plot_yes:
 :PROPERTIES:
 :rating:   7.6
 :END:
@@ -269,7 +276,8 @@ CLOSED: <2021-05-29 Sat 23:26>
 
 【【神秘博士广播剧 | 自制动画 | 中文字幕】Infamy of the Zaross(上) | 十任博士和Rose的冒险-哔哩哔哩】 https://b23.tv/HnN1VZh
 
-***** [#D] 10DA 2.2 - The Sword of the Chevalier
+***** TODO [#D] 10DA 2.2 - The Sword of the Chevalier :DW2022_12_doctor:
+SCHEDULED: <2022-12-10 Sat>
 :PROPERTIES:
 :rating:   7.1
 :END:
@@ -383,7 +391,7 @@ CLOSED: [2022-06-18 Sat 10:57] SCHEDULED: <2022-06-25 Sat>
 
 【【神秘博士广播剧熟肉】Dalek Universe 103 The House of Kingdom 家族-哔哩哔哩】 https://b23.tv/bQCgXoT
 
-**** READY [#D] DU2.1 - Cycle of Destruction :bilibili:DW2022_12_doctor:
+**** READY [#D] DU2.1 - Cycle of Destruction :bilibili:DW2023_01_doctor:
 SCHEDULED: <2022-10-31 Mon>
 :PROPERTIES:
 :rating:   7.2
@@ -391,7 +399,7 @@ SCHEDULED: <2022-10-31 Mon>
 
 【【神秘博士广播剧熟肉】Dalek Universe 201 Cycle of Destruction-哔哩哔哩】 https://b23.tv/YGpWAbr
 
-**** READY [#A] DU2.2 - The Trojan Dalek :bilibili:DW2022_12_maybe:
+**** READY [#A] DU2.2 - The Trojan Dalek :bilibili:DW2023_04_doctor:
 :PROPERTIES:
 :rating:   8.6
 :END:
@@ -473,6 +481,10 @@ SCHEDULED: <2022-04-29 Fri>
 **** READY DWAM: Empire of the Sun :bilibili:
 
 【【神秘博士】饭制有声剧《恒星帝国》Empire of the Sun - Doctor Who Audio Drama-哔哩哔哩】 https://b23.tv/3RNR3Rm
+
+**** Century House :Donna:
+
+https://anthonytremaine.bandcamp.com/album/doctor-who-the-lost-stories-century-house-original-soundtrack 
 
 ** novels :📔:
 *** DONE [#A] Prisoner of the Daleks 戴立克之囚 :已购:
@@ -732,8 +744,9 @@ SCHEDULED: <2022-04-30 Sat>
 :rating:   7.2
 :END:
 
-*** fan-made
-**** READY The Last Days Before Dawn :bilibili:
+*** fan-made :fan_made:
+**** READY The Last Days Before Dawn :bilibili:DW2022_12_doctor:
+SCHEDULED: <2022-12-10 Sat>
 
 【【神秘博士/饭制有声剧】十二任博士《破晓前日》 Doctor Who: The Last Days Before Dawn-哔哩哔哩】 https://b23.tv/Jl55pLI
 

@@ -580,6 +580,9 @@ SCHEDULED: <2022-01-30 Sun>
 
 https://m.vk.com/wall-205306392_45
 
+**** TODO MA04. The Patient Menace :DW2022_12_doctor:
+SCHEDULED: <2022-12-10 Sat>
+
 *** short trips
 **** [#D] 2.2 - The Way Forwards
 :PROPERTIES:
@@ -1148,6 +1151,8 @@ CLOSED: <2021-07-01 Thu 16:39>
 ***** [#D] 6.8 - The Skin of the Sleek (7.2)
 **** 4DA series 7 :Leela:P2018:
 ***** TODO [#C] 7.1 The Sons of Kaldor (7.7) :Kaldor:Robots:DW2022_12_doctor:
+SCHEDULED: <2022-12-10 Sat>
+
 ***** [#C] 7.2 The Crowmarsh Experiment (7.6)
 ***** [#C] 7.6 The Bad Penny (7.5)
 ***** TODO [#C] 7.7/7.8 - Kill the Doctor! / The Age of Sutekh (7.8/7.0) :Sutekh:2CD:DW2023_02_doctor:
@@ -1175,7 +1180,7 @@ SCHEDULED: <2022-04-23 Sat>
 
 ***** [#D] 8.4 - The False Guardian (7.1)
 ***** [#D] 8.6 - Fever Island (7.2)
-***** [#B] 8.7/8.8 - The Perfect Prisoners (8.2/8.3) :DW2022_12_doctor:2CD:
+***** [#B] 8.7/8.8 - The Perfect Prisoners (8.2/8.3) :DW2023_02_doctor:2CD:
 **** 4DA series 9 :P2020:2CD:
 
 Romana II
@@ -1285,7 +1290,7 @@ CLOSED: [2020-07-05 Sun 23:49]
 ***** CANCEL [#E] ST9.8 #HarrySullivan †6.8
 CLOSED: [2020-06-25 Thu 21:56]
 
-*** BBC 4DA :scripted:🎧:Yates:DA:BBC:
+*** BBC 4DA :scripted:🎧:DA:BBC:
 **** HALF [#C] 2.1. The Relics of Time :plot_yes:DW2022_10_doctor:
 SCHEDULED: <2022-10-29 Sat>
 :PROPERTIES:
