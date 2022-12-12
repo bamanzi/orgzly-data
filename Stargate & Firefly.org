@@ -160,10 +160,71 @@ CLOSED: [2022-11-21 Mon 08:01]
 
 Ascension
 
-**** 3x21
-**** 3x22 Nemesis
+**** DONE 3x21
+CLOSED: [2022-11-24 Thu 22:13]
+
+**** DONE 3x22 Nemesis
+CLOSED: [2022-12-05 Mon 22:09]
+
 *** SG-1 S4
-**** 4x01 Small Victories
+**** DONE 4x01 Small Victories
+CLOSED: <2022-12-06 Tue 23:06>
+
+*** audio
+
+https://www.bigfinish.com/hubs/v/stargate
+
+https://stargate.fandom.com/wiki/Big_Finish_Productions
+
+download: https://audiobookbay.fi/audio-books/big-finish-productions-stargate-sg1-atlantis-complete-collection-2007-2012-2022-big-finish/
+
+**** TODO [#C] 1.1 Gift of the Gods
+:PROPERTIES:
+:rating:   7.6
+:END:
+
+This audiobook is set during season 3 of Stargate SG-1, before Fair Game.
+
+**** [#A] 1.2 Shell Game
+:PROPERTIES:
+:rating:   9.1
+:END:
+
+This story takes place during season ten, after The Pegasus Project.
+
+**** [#F] 1.3 Savarna
+:PROPERTIES:
+:reading:  6.2
+:END:
+
+**** [#C] 2.1 First Prime :Tealc:
+:PROPERTIES:
+:rating:   7.8
+:END:
+
+This story is set during the fourth season of Stargate SG-1
+
+**** [#A] 2.2 Pathogen
+:PROPERTIES:
+:rating:   9.0
+:END:
+
+This story is around season 7 of Stargate SG-1, some time between /Fragile Balance/ and /Heroes, Part 1/
+
+**** [#A] 2.3 Lines of Communication
+:PROPERTIES:
+:rating:   9.3
+:END:
+
+It is supposedly set in one of the last two seasons of Stargate SG-1
+
+**** TODO [#C] 3.1.1 Half Life
+
+the best placement of this entire series appears to be sometime after season 10
+
+**** [#B] 3.1.2 An Eye for an Eye
+**** [#B] 3.1.3 Infiltration
+**** 3.2.1 Excision
 ** Stargate Atlantis (SGA) :sga:
 *** DONE tv
 *** comics
@@ -171,6 +232,12 @@ Ascension
 **** Gateways :P2017:
 **** Hearts & Minds :P2017:
 **** Singularity :P2018:
+*** audio
+**** [#B] 2.4 - The Kindness of Strangers
+:PROPERTIES:
+:rating:   8.4
+:END:
+
 ** Stargate Universe (SGU) :sgu:
 *** SGU S1 (20 episodes) :P2009:
 **** DONE ep1x01-02

@@ -152,12 +152,23 @@ CLOSED: [2022-11-19 Sat 14:46]
 ***** DONE 4x19
 CLOSED: [2022-11-20 Sun 10:09]
 
-***** [#B] 4x23 The Invisible Hand
+***** DONE 4x20
+CLOSED: [2022-11-23 Wed 13:01]
+
+***** DONE 4x21
+CLOSED: [2022-11-27 Sun 14:43]
+
+***** DONE 4x22
+CLOSED: [2022-12-08 Thu 23:23]
+
+***** DONE [#B] 4x23 The Invisible Hand
+CLOSED: <2022-12-10 Sat 16:51>
 :PROPERTIES:
 :rating:   8.3
 :END:
 
-***** [#B] 4x24 A Difference in Kind
+***** DONE [#B] 4x24 A Difference in Kind
+CLOSED: [2022-12-10 Sat 17:38]
 :PROPERTIES:
 :rating:   8.2
 :END:
