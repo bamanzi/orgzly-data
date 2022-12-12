@@ -69,7 +69,6 @@ SCHEDULED: <2022-07-23 Sat>
 
 **** S2.1 Back to Earth :P2022_05:
 ***** TODO [#B] 5.1 Station to Station :bilibili:DW2023_01_doctor:
-SCHEDULED: <2022-11-27 Sun>
 
 【【神秘博士广播剧熟肉】Back to Earth 101 Station to Station 车站之间-哔哩哔哩】 https://b23.tv/ueI1ubC
 
@@ -88,6 +87,11 @@ CLOSED: [2022-07-02 Sat 23:47]
 ***** 6.3 Break the Ice :bilibili:
 
 【【神秘博士广播剧熟肉】Into the Stars 603 Break the Ice 破冰-哔哩哔哩】 https://b23.tv/FgizL7a
+
+**** S2.3 Hidden Depth
+***** 7.3 Flatpack :bilibili:
+
+【【神秘博士广播剧熟肉】Hidden Depths 703 Flatpack 平板家居-哔哩哔哩】 https://b23.tv/ElXr5Mq
 
 *** 9DC
 **** HALF [#C] 1.4 Retail Therapy :Jackie:DW2022_11_doctor:
@@ -121,9 +125,7 @@ SCHEDULED: <2022-11-29 Tue>
 **** START 0.3 - What I Did on My Christmas Holidays by Sally Sparrow :short:D2022_03_doctor:week4:🗣:
 SCHEDULED: <2022-03-19 Sat>
 
-**** TODO 0.4 - The Beast of Babylon :DW2023_01_doctor:
-SCHEDULED: <2022-11-27 Sun>
-
+**** TODO 0.4 - The Beast of Babylon :DW2023_07_doctor:
 **** 3QTR 0.5 Exhausted Supplies :12th_Dr:D2021_12_doctor:week2:bilibili:
 CLOSED: [2021-12-14 Tue 20:07] DEADLINE: <2021-12-08 Wed 20:05> SCHEDULED: <2021-12-10 Fri>
 
@@ -171,6 +173,11 @@ https://link.zhihu.com/?target=http%3A//id24601.lofter.com/post/1cce6a8f_1c757b0
 *** S02
 **** DONE 2x01 New Earth
 CLOSED: [2022-05-08 Sun 16:38]
+
+*** S04
+*** specials
+**** DONE 199. The Next Doctor :Cybermen:P2008:
+CLOSED: [2022-12-11 Sun 22:27]
 
 ** comics
 *** IDW
@@ -277,7 +284,7 @@ CLOSED: <2021-05-29 Sat 23:26>
 【【神秘博士广播剧 | 自制动画 | 中文字幕】Infamy of the Zaross(上) | 十任博士和Rose的冒险-哔哩哔哩】 https://b23.tv/HnN1VZh
 
 ***** TODO [#D] 10DA 2.2 - The Sword of the Chevalier :DW2022_12_doctor:
-SCHEDULED: <2022-12-10 Sat>
+SCHEDULED: <2022-12-18 Sun>
 :PROPERTIES:
 :rating:   7.1
 :END:
@@ -391,7 +398,7 @@ CLOSED: [2022-06-18 Sat 10:57] SCHEDULED: <2022-06-25 Sat>
 
 【【神秘博士广播剧熟肉】Dalek Universe 103 The House of Kingdom 家族-哔哩哔哩】 https://b23.tv/bQCgXoT
 
-**** READY [#D] DU2.1 - Cycle of Destruction :bilibili:DW2023_01_doctor:
+**** READY [#D] DU2.1 - Cycle of Destruction :bilibili:DW2023_02_doctor:
 SCHEDULED: <2022-10-31 Mon>
 :PROPERTIES:
 :rating:   7.2
@@ -504,7 +511,8 @@ CLOSED: <2021-10-16 Sat 10:18>
 :todo:     buy
 :END:
 
-*** HALF [#B] The Story of Martha 玛莎的故事 :Kindle己购:己购:DW2022_Q4:
+*** DONE [#B] The Story of Martha 玛莎的故事 :Kindle己购:己购:DW2022_Q4:
+CLOSED: [2022-12-10 Sat 21:48]
 :PROPERTIES:
 :rating:   3.89
 :END:
@@ -534,6 +542,13 @@ CLOSED: [2022-07-04 Mon 08:12]
 
 *** S6
 **** DONE 6x07 A Good Man Goes to War :River:
+*** S7
+**** DONE 7x12 Nightmare in Silver :Cybermen:
+CLOSED: [2022-12-04 Sun 00:05]
+
+*** DONE The Time of the Doctor
+CLOSED: [2022-12-04 Sun 13:12]
+
 ** audio :🎧:
 *** 11DC vol.1 :🗣:
 **** HALF [#D] 1.1 - The Calendar Man :DW2022_07_doctor:
@@ -574,6 +589,7 @@ SCHEDULED: <2022-03-30 Wed>
 **** 3.1 The Inheritance
 **** 3.2. The House of Masks
 **** 3.3 The End
+*** TBR 11DC vol.4 All of Time and Space :P2023_02:
 *** short trips
 **** 3QTR ST10.5 Regeneration Impossible :D2021_08_extra:12th_Dr:
 **** 2DONE [#A] ST11.1 Rearguard :Sontarans:P2022_02:DW2022_11_doctor:
@@ -582,6 +598,7 @@ CLOSED: [2022-11-02 Wed 20:33] SCHEDULED: <2022-11-06 Sun>
 :rating:   8.5
 :END:
 
+**** TBR ST12.X The World Tree :P2022_12:
 *** [#C] The Churchill Years 1.3 Living History ↗ :P2016:plot_yes:
 :PROPERTIES:
 :rating:   7.9
@@ -675,6 +692,10 @@ CLOSED: [2020-08-16 Sun 17:00]
 
 * 12th Doctor :12th_Dr:
 ** tv :📺:
+*** S8
+**** DONE 8x08 Mummy on the Orient Express
+CLOSED: [2022-11-30 Wed 23:34]
+
 *** S10
 **** DONE 10x11 World Enough and Time :cybermen:
 CLOSED: <2021-09-23 Thu 11:39>
@@ -725,11 +746,13 @@ SCHEDULED: <2022-04-30 Sat>
 
 *** Short Trips
 **** [#B] 9.2 - The Astrea Conspiracy
+SCHEDULED: <2022-12-21 Wed>
 :PROPERTIES:
 :rating:   8.0
 :END:
 
-**** [#C] 9.9 - Dead Media
+**** [#C] 9.9 - Dead Media :DW2022_12_doctor:
+SCHEDULED: <2022-12-25 Sun>
 :PROPERTIES:
 :rating:   7.7
 :END:
@@ -744,9 +767,14 @@ SCHEDULED: <2022-04-30 Sat>
 :rating:   7.2
 :END:
 
+*** [#C] The Nightmare Realm (BBC)
+:PROPERTIES:
+:rating:   7.8
+:END:
+
 *** fan-made :fan_made:
-**** READY The Last Days Before Dawn :bilibili:DW2022_12_doctor:
-SCHEDULED: <2022-12-10 Sat>
+**** TODO The Last Days Before Dawn :bilibili:DW2022_12_maybe:
+SCHEDULED: <2023-01-01 Sun>
 
 【【神秘博士/饭制有声剧】十二任博士《破晓前日》 Doctor Who: The Last Days Before Dawn-哔哩哔哩】 https://b23.tv/Jl55pLI
 

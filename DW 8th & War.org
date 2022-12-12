@@ -612,7 +612,15 @@ SCHEDULED: <2022-09-04 Sun>
 **** Stranded vol.4
 *** 8DA (2022- )
 **** What Lies Inside :P2022_11:
-*** 8D Time War
+***** Paradox of the Daleks :bilibili:
+
+【【广播剧汉化】 旋涡中的莫比乌斯环 Paradox of the Daleks 上-哔哩哔哩】 https://b23.tv/6iEGooT
+
+【【广播剧汉化】 无头无尾的衔尾蛇 Paradox of the Daleks 下-哔哩哔哩】 https://b23.tv/4BN1Xdz
+
+***** The Dalby Spook
+**** Connections :P2022_12:
+*** 8D Time War ↗
 *** misc :short:
 **** TODO [#A] CC4.12 Solitaire (9.2) :ToyMaker:P2010:plot_yes:Charley:
 :PROPERTIES:
@@ -776,26 +784,15 @@ CLOSED: [2021-01-06 Wed 09:03]
 :rating:   8.5
 :END:
 
-**** [#C] Concealed Weapon (Diary Of River Song 5.4)
-:PROPERTIES:
-:rating:   7.6
-:END:
-
-1 out of 25 (4.0%) raters say this story requires a previous story.
-
-**** Lies in Ruins (The Legacy of Time) :8th_Dr:bilibili:Benny:
-
-【【自制字幕】神秘博士BF特辑宋江八叔历险记-哔哩哔哩】https://b23.tv/vLRN31
-
-**** TODO _The War Master series 5: Hearts of Darkness_ :Master_War:
+**** _The War Master series 5: Hearts of Darkness_ :Master_War:
 ***** 2DONE [#B] 5.1 - The Edge of Redemption :plot_yes:DW2022_11_spinoffs:
 CLOSED: [2022-11-07 Mon 20:49] SCHEDULED: <2022-11-09 Wed>
 :PROPERTIES:
 :rating:   8.1
 :END:
 
-***** [#C] 5.2 - The Scaramancer :DW2022_12_spinoffs:
-SCHEDULED: <2022-12-24 Sat>
+***** HALF [#C] 5.2 - The Scaramancer :DW2022_12_spinoffs:
+SCHEDULED: <2022-12-04 Sun>
 :PROPERTIES:
 :rating:   7.9
 :END:
@@ -810,7 +807,6 @@ SCHEDULED: <2022-12-24 Sat>
 :rating:   8.9
 :END:
 
-**** Master of Worlds (UNIT new #6.4) :Master_war:
 **** _The War Master series 4: Anti-Genesis_ :Master_war:scripted:
 ***** DONE [#B] 4.1 From the Flames :has_plot:D2021_10_master:
 CLOSED: <2021-01-16 Sat 22:52>
@@ -830,6 +826,19 @@ CLOSED: <2021-11-16 Tue 14:35> SCHEDULED: <2021-11-13 Sat>
 :rating:   4.3
 :END:
 
+**** misc
+***** [#C] Concealed Weapon (Diary Of River Song 5.4)
+:PROPERTIES:
+:rating:   7.6
+:END:
+
+1 out of 25 (4.0%) raters say this story requires a previous story.
+
+***** Lies in Ruins (The Legacy of Time) :8th_Dr:bilibili:Benny:
+
+【【自制字幕】神秘博士BF特辑宋江八叔历险记-哔哩哔哩】https://b23.tv/vLRN31
+
+***** Master of Worlds (UNIT new #6.4) :Master_war:
 *** Timeline made after Anti-Genesis cascade
 **** 3QTR [#A] WM4.4 He Who Wins :Master_unbound:D2021_11_master:
 CLOSED: [2021-11-16 Tue 19:56] SCHEDULED: <2021-11-13 Sat>
@@ -864,13 +873,13 @@ CLOSED: [2020-11-09 Mon 18:14]
 
 The N-Forms receive an activation call, setting this after Desperate Measures
 
-**** A Heart on Both Sides (Short Trips #7.9)
-**** TODO _The War Master series 6: Killing Time_
+**** HALF A Heart on Both Sides (Short Trips #7.9)
+**** _The War Master series 6: Killing Time_
 ***** 6.1 - The Sincerest Form of Flattery
 ***** 6.2 - A Quiet Night In
 ***** 6.3 - The Orphan
 ***** 6.4 - Unfinished Business
-**** READY _The War Master series 7: Self-Defence_
+**** _The War Master series 7: Self-Defence_
 ***** 7.1 The Forest Penitence :bilibili:
 
 【【广播剧汉化】恶魔的低语 The War Master 战争法师 701 The Forest Penitence-哔哩哔哩】 https://b23.tv/fdIB3vT
@@ -1080,7 +1089,7 @@ CLOSED: <2020-12-17 Thu 19:57>
 **** 4.3 Beyond
 **** 4.4 Homecoming
 *** _vol.2 Warbringer_ :P2021_12:
-**** [#D] 2.1 - Consequences
+**** [#D] 2.1 - Consequences :DW2023_01_doctor:
 :PROPERTIES:
 :rating:   6.8
 :END:

@@ -147,12 +147,12 @@ SCHEDULED: <2022-03-12 Sat>
 **** 6.2 The Miniaturist :Dodo:P2022_04:
 *** CC :🗣:
 **** Sara Kingdom trilogy
-***** TODO [#A] CC3.5 - Home Truths :D2021_13:Sara_Kingdom:
+***** TODO [#A] CC3.5 - Home Truths :DW2023_01:Sara_Kingdom:
 :PROPERTIES:
 :rating:   9.1
 :END:
 
-***** TODO [#B] CC4.1 The Drowned World :Sara_Kingdom:D2021_13:
+***** TODO [#B] CC4.1 The Drowned World :Sara_Kingdom:
 :PROPERTIES:
 :rating:   8.1
 :END:
@@ -287,47 +287,33 @@ https://www.bilibili.com/read/cv16029955
 ** tv :📺:
 *** Season 4 :1967:
 **** DONE 04x03 The Power of the Daleks :daleks:animated:srt_full:missing:P2016:P1966:
-
-
-**** +04x04 The Highlanders+ :missing:D2021_13:
-
-
+**** +04x04 The Highlanders+ :missing:DW2022_13:
 
 小说翻译： http://tieba.baidu.com/p/6573080784?share=9105&fr=share&see_lz=0&share_from=post&sfc=copy&client_type=2&client_version=11.9.8.0&st=1629813078&unique=2870A12337A54D67F67CE44D0875042B 
 
 **** +04x05 The Underwater Menace+ :missing:
-
-
 **** DONE 04x06 The Moonbase :Cybermen:fan_edit:animated:P2014:P1966:
 
 Episode 1, 3 missing (but animated in 2014)
 
 赛博人第二次出场
 
-
 **** DONE 04x07 The Macra Terror :animated:srt_full:2019:
-
-
 **** DONE 04x08 The Faceless Ones :animated:srt_full:
 
 Episode 2,4,5,6 missing (but all episodes animated in 2020)
 
-
 **** DONE 04x09 The Evil of the Daleks :daleks:srt_full:missing:Victoria:
-
-
 *** Season 5 :1968:
 **** DONE 05x01 The Tomb of the Cybermen :Cybermen:fan_edit:
 **** [#C] +The Abominable Snowmen+ (7.5) :great_intelligence:missing:DW2022_10_extra:
 SCHEDULED: <2022-11-02 Wed>
-
 
 Great Intelligence (大智慧/超级智能）和 Yeti (雪怪）的首次出场
 
 **** DONE 05x03 The Ice Warriros :ice_warriors:srt_full:
 
 寒冰勇士首次出场。不过真正的敌人其实是”电脑“(或者说把一切留给电脑来决定的这种心态）
-
 
 **** DONE 05x04 The Enemy of the World :fan_edit:
 **** DONE 05x05 The Web of Fear :great_intelligence:fan_edit:
@@ -349,23 +335,15 @@ CLOSED: <2021-03-25 Thu 07:29>
 
 *** Season 6 :1969:Zoe:
 **** DONE 06x01 The Dominators :fan_edit:
-
-
 **** DONE 06x02 The Mind Robber :fan_edit:
-
-
 **** DONE 06x03 The Invasion (of the Cybermen) :Cybermen:fan_edit:
 
 UNIT 和 准将第一次正式出场
 
-
 **** DONE 06x04 The Krotons :fan_edit:
-
-
 **** DONE 06x05 The Seeds of Death :ice_warriors:fan_edit:
 
 寒冰勇士第二次出场, 试图入侵地球
-
 
 **** +06x06 The Space Pirates+ :missing:
 
@@ -580,9 +558,14 @@ SCHEDULED: <2022-01-30 Sun>
 
 https://m.vk.com/wall-205306392_45
 
-**** TODO MA04. The Patient Menace :DW2022_12_doctor:
-SCHEDULED: <2022-12-10 Sat>
+**** MA02. Freedom of the Daleks
+**** MA03. Her House
+**** HALF MA04. The Patient Menace :DW2022_12_doctor:
+SCHEDULED: <2022-12-05 Mon>
 
+mp3val -f 
+
+**** MA05. The Enemy of the Universe
 *** short trips
 **** [#D] 2.2 - The Way Forwards
 :PROPERTIES:
@@ -679,7 +662,7 @@ CLOSED: [2020-06-30 Tue 14:01]
 **** Marvel DWCC reprint
 ** BF audio-drama :🎧:BigFinish:
 *** 3DA :3DA:2CD:
-**** READY [#D] 1.1 - Prisoners of the Lake :Jo:UNIT:plot_yes:
+**** READY [#D] 1.1 - Prisoners of the Lake :Jo:UNIT:plot_yes:DW2023_01_doctor:
 :PROPERTIES:
 :rating:   7.2
 :END:
@@ -1150,8 +1133,8 @@ CLOSED: <2021-07-01 Thu 16:39>
 ***** [#D] 6.5 - The Haunting of Malkin Place (7.4)
 ***** [#D] 6.8 - The Skin of the Sleek (7.2)
 **** 4DA series 7 :Leela:P2018:
-***** TODO [#C] 7.1 The Sons of Kaldor (7.7) :Kaldor:Robots:DW2022_12_doctor:
-SCHEDULED: <2022-12-10 Sat>
+***** HALF [#C] 7.1 The Sons of Kaldor (7.7) :Kaldor:Robots:DW2022_12_doctor:
+SCHEDULED: <2022-12-05 Mon>
 
 ***** [#C] 7.2 The Crowmarsh Experiment (7.6)
 ***** [#C] 7.6 The Bad Penny (7.5)
