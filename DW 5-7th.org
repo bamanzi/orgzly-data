@@ -364,7 +364,8 @@ SCHEDULED: <2022-05-14 Sat>
 ***** The Bridge Master
 ***** What Lurks Down Under
 ***** The Dancing Plague
-**** [#C] 267a. Thin Time :underrated:P2020:short:11th_Dr:DW2023_01_doctor:
+**** TODO [#C] 267a. Thin Time :underrated:P2020:short:11th_Dr:DW2023_01_doctor:
+SCHEDULED: <2023-01-07 Sat>
 :PROPERTIES:
 :rating:   7.8
 :END:
@@ -439,7 +440,9 @@ CLOSED: [2022-01-14 Fri 15:10]
 **** The Caves of Androzani
 **** CANCEL [#F] The Twin Dilemma (5.4)
 *** Season 22
-**** [#F] Attack of the Cybermen (6.9)
+**** DONE [#F] Attack of the Cybermen (6.9)
+CLOSED: [2022-12-15 Thu 08:21]
+
 **** [#C] Vengeance on Varos (7.7)
 **** [#D] The Mark of the Rani (6.9)
 **** [#C] The Two Doctors (7.5)
@@ -534,11 +537,13 @@ CLOSED: <2021-06-09 Wed 08:10>
 :goodreads: 3.6
 :END:
 
-**** TODO [#C] 90. Year of the Pig :Peri:DW2022_12_doctor:
+**** TODO [#C] 90. Year of the Pig :Peri:plot_yes_dwg:DW2022_12_doctor:
 SCHEDULED: <2022-12-18 Sun>
 :PROPERTIES:
 :rating:   7.7
 :END:
+
+http://www.drwhoguide.com/who_bf90.htm
 
 **** 2DONE [#A] 94b. Urgent Calls (8.8) :plot_yes:Viyrans:short:
 CLOSED: [2021-03-22 Mon 20:39]
@@ -591,7 +596,6 @@ CLOSED: <2021-04-18 Sun 08:14>
 **** [#B] 126. Blue Forgotten Planet (8.1) :Charley:Mila:plot_no:D2022_13:
 **** [#C] 134. The Wreck of the Titan (7.6) :Jamie:
 **** LATER [#A] 135. Legend of the Cybermen (8.5) :Cybermen:Jamie:Zoe:plot_yes:
-
 **** [#D] 143. The Crimes of Thomas Brewster :Evelyn:
 :PROPERTIES:
 :rating:   7.4
@@ -808,7 +812,10 @@ Volume One
 :rating:   7.4
 :END:
 
-***** 3.3 Together in Eclectic Dreams :plot_yes:
+***** READY 3.3 Together in Eclectic Dreams :plot_yes:bilibili:
+
+【【神秘博士广播剧熟肉】The Stuff of Nightmares 303 Together in Eclectic Dreams 共做一梦-哔哩哔哩】 https://b23.tv/e3EmGiB
+
 **** The Diary of River Song: Series 2
 ***** World Enough and Time
 ***** The Eye of the Storm
@@ -864,7 +871,9 @@ CLOSED: [2022-12-01 Thu 23:49]
 :rating:   7.0
 :END:
 
-***** [#B] 12. The Fires of Vulcan (8.4) :2000:Mel:
+***** TODO [#B] 12. The Fires of Vulcan (8.4) :P2000:Mel:DW2023_01_doctor:
+SCHEDULED: <2023-01-21 Sat>
+
 ***** HALF [#D] MR021. Dust Breeding :Master_decayed:D2021_10_master:
 SCHEDULED: <2021-11-07 Sun>
 :PROPERTIES:
@@ -1077,7 +1086,7 @@ CLOSED: [2021-03-23 Tue 13:04]
 :rating:   6.1
 :END:
 
-***** 3QTR [#B] 7DA 1.3 - The Jabari Countdown   :short:DW2022_11_doctor:
+***** 3QTR [#B] 7DA 1.3 - The Jabari Countdown :short:DW2022_11_doctor:
 SCHEDULED: <2022-11-16 Wed>
 :PROPERTIES:
 :rating:   8.2

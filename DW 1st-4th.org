@@ -142,12 +142,14 @@ SCHEDULED: <2022-03-12 Sat>
 :rating:   9.0?
 :END:
 
-*** 1DA vol.6 Outlaws :2CD:
-**** 6.1 The Outlaws :Dodo:Monk:P2022_04:
-**** 6.2 The Miniaturist :Dodo:P2022_04:
+*** 2022. The Outlaws :2CD:P2022_04:
+**** 22.1 The Outlaws :Dodo:Monk:P2022_04:
+**** 22.2 The Miniaturist :Dodo:P2022_04:
+*** TBR 2023. The Demon Song :P2023_02:
 *** CC :🗣:
 **** Sara Kingdom trilogy
 ***** TODO [#A] CC3.5 - Home Truths :DW2023_01:Sara_Kingdom:
+SCHEDULED: <2023-01-07 Sat>
 :PROPERTIES:
 :rating:   9.1
 :END:
@@ -259,7 +261,8 @@ CLOSED: [2021-06-26 Sat 09:13]
 :END:
 
 **** Polly
-***** [#B] CC11.4 - The Plague of Dreams :Polly:Ben:scripted:DW2023_01_maybe:
+***** LATER [#B] CC11.4 - The Plague of Dreams :Polly:Ben:scripted:DW2023_01_maybe:
+SCHEDULED: <2023-01-31 Tue>
 :PROPERTIES:
 :rating:   8.0
 :END:
@@ -560,8 +563,8 @@ https://m.vk.com/wall-205306392_45
 
 **** MA02. Freedom of the Daleks
 **** MA03. Her House
-**** HALF MA04. The Patient Menace :DW2022_12_doctor:
-SCHEDULED: <2022-12-05 Mon>
+**** HALF MA04. The Patient Menace :Cybermen:DW2022_12_doctor:
+SCHEDULED: <2022-12-14 Wed>
 
 mp3val -f 
 
@@ -662,7 +665,8 @@ CLOSED: [2020-06-30 Tue 14:01]
 **** Marvel DWCC reprint
 ** BF audio-drama :🎧:BigFinish:
 *** 3DA :3DA:2CD:
-**** READY [#D] 1.1 - Prisoners of the Lake :Jo:UNIT:plot_yes:DW2023_01_doctor:
+**** TODO [#D] 1.1 - Prisoners of the Lake :Jo:UNIT:plot_yes:DW2023_01_doctor:
+SCHEDULED: <2023-01-07 Sat>
 :PROPERTIES:
 :rating:   7.2
 :END:
@@ -738,7 +742,7 @@ SCHEDULED: <2022-05-28 Sat>
 :END:
 
 **** READY [#C] 8.1 Conspiracy in Space :Jo:draconians:plot_yes:
-**** [#B] 8.2 The Devil's Hoofprints :P2021:Sarah:
+**** READY [#B] 8.2 The Devil's Hoofprints :P2021:Sarah:plot_yes:
 :PROPERTIES:
 :rating:   8.1
 :END:
@@ -747,7 +751,7 @@ SCHEDULED: <2022-05-28 Sat>
 
 block原因：太长（3CD）
 
-**** 10. Kaleidoscope :Sarah:Harry:Brigadier:P2022_10:3CD:
+**** BLOCK 10. Kaleidoscope :Sarah:Harry:Brigadier:P2022_10:3CD:
 *** misc
 **** DONE [#A] The Sacrifice of Jo Grant (The Legacy of Time #3) :Jo:P2019:
 CLOSED: [2020-08-07 Fri 18:25]
@@ -1133,8 +1137,8 @@ CLOSED: <2021-07-01 Thu 16:39>
 ***** [#D] 6.5 - The Haunting of Malkin Place (7.4)
 ***** [#D] 6.8 - The Skin of the Sleek (7.2)
 **** 4DA series 7 :Leela:P2018:
-***** HALF [#C] 7.1 The Sons of Kaldor (7.7) :Kaldor:Robots:DW2022_12_doctor:
-SCHEDULED: <2022-12-05 Mon>
+***** 3QTR [#C] 7.1 The Sons of Kaldor (7.7) :Kaldor:Robots:DW2022_12_doctor:
+CLOSED: [2022-12-13 Tue 08:58] SCHEDULED: <2022-12-13 Tue>
 
 ***** [#C] 7.2 The Crowmarsh Experiment (7.6)
 ***** [#C] 7.6 The Bad Penny (7.5)

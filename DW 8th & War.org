@@ -784,20 +784,21 @@ CLOSED: [2021-01-06 Wed 09:03]
 :rating:   8.5
 :END:
 
-**** _The War Master series 5: Hearts of Darkness_ :Master_War:
+**** _The War Master series 5: Hearts of Darkness_ :Master_War:🎧:
 ***** 2DONE [#B] 5.1 - The Edge of Redemption :plot_yes:DW2022_11_spinoffs:
 CLOSED: [2022-11-07 Mon 20:49] SCHEDULED: <2022-11-09 Wed>
 :PROPERTIES:
 :rating:   8.1
 :END:
 
-***** HALF [#C] 5.2 - The Scaramancer :DW2022_12_spinoffs:
-SCHEDULED: <2022-12-04 Sun>
+***** 3QTR [#C] 5.2 - The Scaramancer :plot_no:DW2022_12_spinoffs:
+CLOSED: [2022-12-14 Wed 20:30] SCHEDULED: <2022-12-08 Thu>
 :PROPERTIES:
 :rating:   7.9
 :END:
 
-***** [#A] 5.3 - The Castle of Kurnos 5 :plot_yes:8th_Dr:
+***** [#A] 5.3 - The Castle of Kurnos 5 :plot_yes:8th_Dr:DW2023_01_spinoffs:
+SCHEDULED: <2023-01-28 Sat>
 :PROPERTIES:
 :rating:   8.6
 :END:
@@ -1089,7 +1090,7 @@ CLOSED: <2020-12-17 Thu 19:57>
 **** 4.3 Beyond
 **** 4.4 Homecoming
 *** _vol.2 Warbringer_ :P2021_12:
-**** [#D] 2.1 - Consequences :DW2023_01_doctor:
+**** [#D] 2.1 - Consequences :DW2023_03_doctor:
 :PROPERTIES:
 :rating:   6.8
 :END:
@@ -1108,7 +1109,7 @@ CLOSED: <2020-12-17 Thu 19:57>
 **** [#C] 3.1 - The Keeper of Light
 **** [#D] 3.2 - Temmosus
 **** [#B] 3.3 - Rewind
-*** TBR _vol.4 He Who Fights Monsters_ :P2022_12:
+*** _vol.4 He Who Fights Monsters_ :P2022_12:
 *** Ambush (comic)
 ** The War Doctor
 *** 11DY2 (comics)

@@ -69,6 +69,7 @@ SCHEDULED: <2022-07-23 Sat>
 
 **** S2.1 Back to Earth :P2022_05:
 ***** TODO [#B] 5.1 Station to Station :bilibili:DW2023_01_doctor:
+SCHEDULED: <2023-01-21 Sat>
 
 【【神秘博士广播剧熟肉】Back to Earth 101 Station to Station 车站之间-哔哩哔哩】 https://b23.tv/ueI1ubC
 
@@ -283,8 +284,8 @@ CLOSED: <2021-05-29 Sat 23:26>
 
 【【神秘博士广播剧 | 自制动画 | 中文字幕】Infamy of the Zaross(上) | 十任博士和Rose的冒险-哔哩哔哩】 https://b23.tv/HnN1VZh
 
-***** TODO [#D] 10DA 2.2 - The Sword of the Chevalier :DW2022_12_doctor:
-SCHEDULED: <2022-12-18 Sun>
+***** HALF [#D] 10DA 2.2 - The Sword of the Chevalier :DW2022_12_doctor:
+SCHEDULED: <2022-12-15 Thu 21:53>
 :PROPERTIES:
 :rating:   7.1
 :END:
@@ -399,7 +400,7 @@ CLOSED: [2022-06-18 Sat 10:57] SCHEDULED: <2022-06-25 Sat>
 【【神秘博士广播剧熟肉】Dalek Universe 103 The House of Kingdom 家族-哔哩哔哩】 https://b23.tv/bQCgXoT
 
 **** READY [#D] DU2.1 - Cycle of Destruction :bilibili:DW2023_02_doctor:
-SCHEDULED: <2022-10-31 Mon>
+SCHEDULED: <2023-02-15 Wed>
 :PROPERTIES:
 :rating:   7.2
 :END:
@@ -491,7 +492,9 @@ SCHEDULED: <2022-04-29 Fri>
 
 **** Century House :Donna:
 
-https://anthonytremaine.bandcamp.com/album/doctor-who-the-lost-stories-century-house-original-soundtrack 
+https://www.youtube.com/watch?v=L8p0fF0Rv6g
+
+ Donna decides to swap time travel for a quiet night in with her family but as they tune into the Most Haunted Live special, who do they see? The Doctor joining forces with Yvette Fielding and her team while they investigate the mysterious and derelict; Century House. Their mission: discover the famous resident ghost, The Red Widow. Hauntings and supernatural events cause the team to be trapped within the haunted house, as they soon discover that there is more than meets the eye to this place. Will they survive the night? 
 
 ** novels :📔:
 *** DONE [#A] Prisoner of the Daleks 戴立克之囚 :已购:
@@ -541,6 +544,12 @@ CLOSED: [2022-12-10 Sat 21:48]
 CLOSED: [2022-07-04 Mon 08:12]
 
 *** S6
+**** DONE 6x01 The Impossible Astronaut (214a) :Silents:
+CLOSED: <2022-12-16 Fri 22:50>
+
+**** DONE 6x02 Day of the Moon (214b) :Silents:
+CLOSED: <2022-12-17 Sat 23:20>
+
 **** DONE 6x07 A Good Man Goes to War :River:
 *** S7
 **** DONE 7x12 Nightmare in Silver :Cybermen:
@@ -751,8 +760,8 @@ SCHEDULED: <2022-12-21 Wed>
 :rating:   8.0
 :END:
 
-**** [#C] 9.9 - Dead Media :DW2022_12_doctor:
-SCHEDULED: <2022-12-25 Sun>
+**** [#C] 9.9 - Dead Media :DW2022_12_maybe:
+SCHEDULED: <2023-01-01 Sun>
 :PROPERTIES:
 :rating:   7.7
 :END:
@@ -773,8 +782,8 @@ SCHEDULED: <2022-12-25 Sun>
 :END:
 
 *** fan-made :fan_made:
-**** TODO The Last Days Before Dawn :bilibili:DW2022_12_maybe:
-SCHEDULED: <2023-01-01 Sun>
+**** HALF The Last Days Before Dawn :bilibili:DW2022_12_maybe:
+SCHEDULED: <2022-12-13 Tue>
 
 【【神秘博士/饭制有声剧】十二任博士《破晓前日》 Doctor Who: The Last Days Before Dawn-哔哩哔哩】 https://b23.tv/Jl55pLI
 
