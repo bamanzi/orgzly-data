@@ -1,6 +1,8 @@
 * PKD
 ** Blade Runner
-*** 小说：仿生人梦见电绵羊了吗(Do Androids Dream of Electric Sheep)
+*** DONE 小说：仿生人梦见电绵羊了吗(Do Androids Dream of Electric Sheep)
+CLOSED: [2022-12-20 Tue 23:10]
+
 *** movies
 **** Blade Runner :🎦:P1982:
 **** 2022: Black Out (黑暗浩劫/大断电)

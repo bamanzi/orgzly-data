@@ -282,11 +282,28 @@ CLOSED: <2021-09-29 Wed 21:10>
 **** DONE 1x15 Lost
 CLOSED: <2021-10-13 Wed 23:45>
 
-**** 1x16 Sabotage
+**** DONE 1x16 Sabotage
+CLOSED: [2022-12-13 Tue 20:25]
+
+**** DONE 1x17
+CLOSED: [2022-12-16 Fri 19:06]
+
+**** DONE 1x18
+CLOSED: [2022-12-20 Tue 07:56]
+
+**** DONE 1x19
+CLOSED: <2022-12-22 Thu 06:25>
+
+**** DONE 1x20
+CLOSED: <2022-12-22 Thu 07:10>
+
 *** SGU S2 (20 episodes) :P2010:
 
 人人影视（1024x576双语字幕）
-https://www.999meiju.tv/vod/xingjizhimenyuzhoudierji/
+https://www.meijumi.net/7277.html
+
+**** DONE 2x01
+CLOSED: [2022-12-24 Sat 19:59]
 
 * The Expanse :expense:
 ** DONE S1
