@@ -1,58 +1,60 @@
 * 1st Doctor :1st_Dr:
 ** tv :📺:
 *** Season 1 :1963:
-**** DONE An Unearthly Child
-**** DONE The Daleks :Daleks:
-**** DONE The Edge of Destruction
-**** +Marco Polo+ :missing:
+**** DONE [#D] An Unearthly Child
+**** DONE [#C] The Daleks :Daleks:
+**** DONE [#D] The Edge of Destruction
+**** [#D] /Marco Polo/ :missing:
 
 小说翻译： https://link.zhihu.com/?target=http%3A//tieba.baidu.com/p/2575205906 
 
-**** DONE The Keys of Marinus :Voord:D2022_06_extra:
+**** DONE [#D] The Keys of Marinus :Voord:D2022_06_extra:
 CLOSED: [2022-06-15 Wed 22:25] SCHEDULED: <2022-06-15 Wed>
 
-**** The Aztecs
-**** The Sensorites
-**** DONE The Reign of Terror :part_missing:animated:P2013:
+**** [#C] The Aztecs
+**** [#E] The Sensorites
+**** DONE [#E] The Reign of Terror :part_missing:animated:P2013:
 
 Episode 4,5 missing (but animated in 2013).
 
 *** Season 2 :1964:
-**** DONE Planet of Giants
-**** DONE The Dalek Invasion of Earth :daleks:
-**** The Rescue :Vicki:
-**** DONE The Romans
-**** DONE [#E] The Web Planet
-**** +The Crusade+ :missing:
+**** DONE [#E] Planet of Giants
+**** DONE [#B] The Dalek Invasion of Earth :daleks:
+**** [#D] The Rescue :Vicki:
+**** DONE [#C] The Romans
+**** DONE [#F] The Web Planet
+**** [#D] /The Crusade/ :missing:
 
 Episode 2, 4 missing.
 
-**** The Space Museum
-**** DONE The Chase :Steven:daleks:Mechanoids:
+**** [#D] The Space Museum
+**** DONE [#D] The Chase :Steven:daleks:Mechanoids:
 CLOSED: [2021-06-21 Mon 06:13]
 
-**** DONE The Time Meddler :Monk:
+**** DONE [#C] The Time Meddler :Monk:
 *** Season 3 :1965:
-**** +Galaxy 4+ :missing:
+**** [#E] /Galaxy 4/ :missing:
 
 Episode 2, 4 missing.
 
-**** DONE Mission to the Unknown :animated:missing:srt_full:
-**** +The Myth Makers+ :missing:
-**** DONE The Daleks' Master Plan :daleks:missing:
-**** +The Massacre+ :missing:
-**** DONE 3x06 The Ark :Steven:Dodo:
+**** DONE [#D] Mission to the Unknown :animated:missing:srt_full:
+**** [#C] /The Myth Makers/ :missing:
+**** DONE [#B] The Daleks' Master Plan :daleks:missing:
+**** [#C] /The Massacre/ :missing:
+**** DONE [#D] 3x06 The Ark :Steven:Dodo:
 CLOSED: [2021-06-30 Wed 22:12]
 
-**** +The Celestial Toymaker+ :missing:
+**** [#E] /The Celestial Toymaker/ :missing:
 
 Episode 1-3 missing.
 
-**** The Gunfighters
-**** +The Savages+ :missing:
-**** The War Machines
+**** [#E] The Gunfighters
+**** [#D] /The Savages/ :missing:
+**** [#C] The War Machines :DW2022_12_extra:
+SCHEDULED: <2022-12-31 Sat>
+
 *** Season 4
-**** +The Smugglers+ :missing:
+**** [#E] /The Smugglers/ :missing:
 **** DONE The Tenth Planet :Cybermen:part_missing:animated:P2013:
 
 Episode 4 missing (but animated in 2013).
@@ -628,7 +630,9 @@ CLOSED: [2020-07-15 Wed 19:13]
 *** season 9
 **** DONE 9x01 - Day of the Daleks (7.9)
 **** DONE 9x02 - The Curse of Peladon (7.6)
-**** [#C] 9x03 The Sea Devil (7.7) :DW2022_07_extra:
+**** [#C] 9x03 The Sea Devil (7.7) :DW2022_12_extra:
+SCHEDULED: <2022-12-31 Sat>
+
 **** 9x04 - The Mutants (7.0)
 **** DONE 9x05 - The Time Monster †6.9)
 CLOSED: [2020-07-20 Mon 20:15]
@@ -1197,6 +1201,15 @@ SCHEDULED: <2022-10-31 Mon>
 ***** [#D] 11.4 Shellshock
 ***** [#C] 11.5 Peake Season :1CD:
 **** TBR 4DA series 12 :Leela:Margaret:P2023:
+*** BF PHP :Leela:
+
+Philip Hinchcliffe Presents
+
+**** [#B] 1.1 Ghosts of Gralstead
+**** [#C] 1.2 - The Devil's Armada
+**** [#D] 2. The Genesis Chamber
+**** [#D] 3. The Helm of Awe
+**** [#D] 4. The God of Phantoms
 *** BF The Lost Stories
 **** [#A] LS 2.07 - The Foe from the Future  8.9 :Leela:
 **** [#C] LS 2.08 - The Valley of Death 7.7 :Leela:

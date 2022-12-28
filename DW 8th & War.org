@@ -657,7 +657,7 @@ SCHEDULED: <2022-09-04 Sun>
 :rating:   8.3
 :END:
 
-**** [#B] CDNM3.4 If I Should Die Before I Wake :plot_yes:
+**** READY [#B] CDNM3.4 If I Should Die Before I Wake :plot_yes:
 ** short stories
 *** Model Train Set :🎧:short:
 

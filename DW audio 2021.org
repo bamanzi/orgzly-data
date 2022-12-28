@@ -1417,16 +1417,16 @@
 *** HALF [#B] Robots 2.2 Toos and Poul                                  :Liv:
 *** 3QTR [#B] Gallifrey 4.3 Annihilation
 * DW 2022-12
-| 055 | MR090 Year of the Pig | 5th | Peri |
+| 055 | MR133 City of Spires | 6th | Jamie |
 
 ** DW 2022-12-doctor
 *** 3QTR MA04 The Patient Menace                        :fan_made:2nd_Dr:
 *** 3QTR [#C] 4DA 7.1 Sons of Kaldor               :4th_Dr:Kaldor_Robots:
-*** [#C] MR090. Year of the Pig                                 :6th_Dr:Peri:
+*** HALF [#D] MR133 City of Spires                             :6th_Dr:Jamie:
 *** 2DONE [#A] MR153 The Silver Turk                        :8th_Dr:Cybermen:
 *** HALF [#D] 10DA 2.2 - The Sword of the Chevalier            :10th_Dr:Rose:
 *** HALF The Last Days Before Dawn                  :12th_Dr:Ashidr:fan_made:
-*** [#A] BSNA 7.2 Wulf                                        :Unbound:Benny:
+*** 3QTR [#A] BSNA 7.2 Wulf                                   :Unbound:Benny:
 ** DW 2022-12-spinoffs
 *** HALF [#B] TW6.10 ScrapeJane  
 *** 3QTR [#A] TW54. Curios                                 :Bilis_Manger:
@@ -1434,7 +1434,7 @@
 
 *** [#D] J&L7.2 The Night of 1000 Stars                       :Jago:Litefoot:
 
-*** [#E] Donna1.3 The Sorcerer of Albion                        :Donna:
+*** DONE [#E] Donna1.3 The Sorcerer of Albion                         :Donna:
 *** 3QTR [#C] WM5.2 Scaramancer                           :Master_war:8th_Dr:
 *** HALF [#C] Gallifrey 4.4 Forever
 * DW2023-01

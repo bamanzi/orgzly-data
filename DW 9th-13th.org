@@ -705,6 +705,12 @@ CLOSED: [2020-08-16 Sun 17:00]
 **** DONE 8x08 Mummy on the Orient Express
 CLOSED: [2022-11-30 Wed 23:34]
 
+**** DONE 8x11 Dark Water :Cybermen:Missy:
+CLOSED: [2022-12-25 Sun 20:42]
+
+**** DONE 8x12 Death in Heaven :Cybermen:
+CLOSED: [2022-12-26 Mon 19:56]
+
 *** S10
 **** DONE 10x11 World Enough and Time :cybermen:
 CLOSED: <2021-09-23 Thu 11:39>

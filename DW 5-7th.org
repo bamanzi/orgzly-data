@@ -527,6 +527,7 @@ CLOSED: [2021-07-23 Fri 12:43]
 :END:
 
 **** 065. The Juggernauts :Davros:
+**** 73. Thicker than Water :Mel:
 **** HALF [#C] 078. The Reaping :Peri:Cybermen:D2022_01_cybermen:
 SCHEDULED: <2022-01-14 Fri>
 
@@ -537,11 +538,12 @@ CLOSED: <2021-06-09 Wed 08:10>
 :goodreads: 3.6
 :END:
 
-**** TODO [#C] 90. Year of the Pig :Peri:plot_yes_dwg:DW2022_12_doctor:
-SCHEDULED: <2022-12-18 Sun>
+**** BLOCK [#C] 90. Year of the Pig :Peri:plot_yes_dwg:
 :PROPERTIES:
 :rating:   7.7
 :END:
+
+block 原因：比较晦涩难懂
 
 http://www.drwhoguide.com/who_bf90.htm
 
@@ -594,6 +596,9 @@ CLOSED: <2021-04-18 Sun 08:14>
 :END:
 
 **** [#B] 126. Blue Forgotten Planet (8.1) :Charley:Mila:plot_no:D2022_13:
+**** HALF [#D] 133. City of Spires :Jamie:DW2022_12_doctor:
+SCHEDULED: <2022-12-24 Sat 22:41>
+
 **** [#C] 134. The Wreck of the Titan (7.6) :Jamie:
 **** LATER [#A] 135. Legend of the Cybermen (8.5) :Cybermen:Jamie:Zoe:plot_yes:
 **** [#D] 143. The Crimes of Thomas Brewster :Evelyn:

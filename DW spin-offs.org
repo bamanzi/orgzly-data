@@ -835,8 +835,8 @@ Roberts Master
      SCHEDULED: <2022-12-31 Sat>
 
 *** DoRS 7 :P2020:
-**** START [#C] 7.1 Colony of Strangers         (7.7) :DW2022_12_spinoffs:
-     SCHEDULED: <2022-12-24 Sat>
+**** 3QTR [#C] 7.1 Colony of Strangers         (7.7) :DW2022_12_spinoffs:
+     CLOSED: [2022-12-27 Tue 07:02] SCHEDULED: <2022-12-24 Sat>
 
 **** [#D] 7.2 Abbey of Heretics           (7.2)
 **** [#A] 7.3 Barrister to the Stars      (8.9)
@@ -940,7 +940,7 @@ Roberts Master
     CLOSED: [2022-09-02 Fri 19:14] SCHEDULED: <2022-09-04 Sun>
 
 *** [#D] 7.2 The Night of 1000 Stars           (7.2) :plot_no:DW2022_12_spinoffs:
-    SCHEDULED: <2022-12-24 Sat>
+    SCHEDULED: <2022-12-28 Wed>
 
 *** [#A] 7.3 Murder at Moorsey Manor           (8.7)
 *** [#C] 7.4 The Wax Princess                  (7.5)
@@ -1396,13 +1396,13 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
 **** HALF [#A] 7.1 Willkommen :DW2022_11_doctor:
      SCHEDULED: <2022-11-23 Wed>
 
-**** TODO [#B] 7.2 Wulf :DW2022_12_doctor:
-     SCHEDULED: <2022-12-25 Sun>
+**** 3QTR [#A] 7.2 Wulf :DW2022_12_doctor:
+     CLOSED: [2022-12-25 Sun 22:28] SCHEDULED: <2022-12-28 Wed>
 
 **** TODO 7.3 Ubermensch :DW2023_01_doctor:
      SCHEDULED: <2023-01-21 Sat>
 
-**** 7.4 Auf Wiedersehen
+**** 7.4 Auf Wiedersehen :DW2023_02_doctor:
 * Missy / Master!
 ** Missy series 1 :🎧:Master_missy:
 *** START [#C] 1.1 A Spoonful of Mayhem :D2021_07_extra:
@@ -1734,7 +1734,7 @@ DWM 175-178
     :END:
 
 ** CyberFaction
-*** TODO The Wheel in Space :📺:2nd_Dr:DW2022_12_extra:
+*** HALF The Wheel in Space :📺:2nd_Dr:DW2022_12_extra:
     SCHEDULED: <2022-12-30 Fri>
 
 *** DONE The Invasion :📺:2nd_Dr:
@@ -2286,8 +2286,8 @@ From Donna's perspective, the anthology is set after /Forest of the Dead/.
 
 【【神秘博士广播剧熟肉】Kidnapped! 102 Spinvasion 虚假宣传-哔哩哔哩】 https://b23.tv/bUsymNF
 
-*** [#E] +3. The Sorcerer of Albion+ (6.9) :bilibili:DW2022_12_spinoffs:
-    SCHEDULED: <2022-12-24 Sat>
+*** DONE [#E] +3. The Sorcerer of Albion+ (6.9) :bilibili:DW2022_12_spinoffs:
+    CLOSED: [2022-12-25 Sun 15:47] SCHEDULED: <2022-12-24 Sat>
 
 【【神秘博士广播剧熟肉】Kidnapped! 103 The Sorcerer of Albion 英格兰的巫师-哔哩哔哩】 https://b23.tv/N0bX4mv
 
@@ -2394,8 +2394,14 @@ From Donna's perspective, the anthology is set after /Forest of the Dead/.
 *** CDNM vol.3 The Stuff of Nightmares :P2022_07:
 **** 3.1 The House That Hoxx Built :3rd_Dr:Sarah:
 **** 3.2 The Tivolian Who Knew Too Much :4th_Dr:Leela:
-**** 3.3 Together In Eclectic Dreams :6th_Dr:
-**** 3.4 If I Should Die Before I Wake :8th_Dr:Charley:
+**** READY 3.3 Together In Eclectic Dreams :6th_Dr:bilibili:
+
+【【神秘博士广播剧熟肉】The Stuff of Nightmares 303 Together in Eclectic Dreams 共做一梦-哔哩哔哩】 https://b23.tv/GpP2NHZ
+
+**** READY 3.4 If I Should Die Before I Wake :8th_Dr:Charley:bilibili:
+
+【【神秘博士广播剧熟肉】The Stuff of Nightmares 304 If I Should Die Before I Wake 若我在沉睡中死去-哔哩哔哩】 https://b23.tv/TJmTSCZ
+
 *** TBR CDNM vol.4 Broken Memories :P2023_10:
 ** The Eighth of March
 *** vol.1 The Eighth of March :P2021_03:
