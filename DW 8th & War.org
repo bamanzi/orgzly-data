@@ -441,17 +441,17 @@ SCHEDULED: <2022-09-04 Sun>
 :rating:   9.2
 :END:
 
-***** TODO [#C] 3.2 - The Eighth Piece :DW2023_02_doctor:
+***** TODO [#C] 3.2 - The Eighth Piece               :River:DW2023_02_doctor:
 :PROPERTIES:
 :rating:   7.7
 :END:
 
-***** [#C] 3.3 - The Doomsday Chronometer
+***** [#C] 3.3 - The Doomsday Chronometer                             :River:
 :PROPERTIES:
 :rating:   7.9
 :END:
 
-***** [#A] 3.4 - The Crucible of Souls
+***** [#A] 3.4 - The Crucible of Souls                                :River:
 :PROPERTIES:
 :rating:   8.
 :END:
@@ -797,13 +797,13 @@ CLOSED: [2022-12-14 Wed 20:30] SCHEDULED: <2022-12-08 Thu>
 :rating:   7.9
 :END:
 
-***** [#A] 5.3 - The Castle of Kurnos 5 :plot_yes:8th_Dr:DW2023_01_spinoffs:
+***** START [#A] 5.3 - The Castle of Kurnos 5 :plot_yes:8th_Dr:DW2023_01_spinoffs:
 SCHEDULED: <2023-01-28 Sat>
 :PROPERTIES:
 :rating:   8.6
 :END:
 
-***** [#A] 5.4 - The Cognition Shift :plot_yes:8th_Dr:
+***** [#A] 5.4 - The Cognition Shift     :plot_yes:8th_Dr:DW2023_02_spinoffs:
 :PROPERTIES:
 :rating:   8.9
 :END:

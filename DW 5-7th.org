@@ -175,7 +175,7 @@ CLOSED: [2021-03-22 Mon 23:20]
 :rating:   6.1
 :END:
 
-**** The Judgement of Isskar
+**** [#E] 117. The Judgement of Isskar
 **** The Destroyer of Delights
 **** The Chaos Pool
 **** [#C] 127. Castle of Fear :Nyssa:
@@ -364,7 +364,7 @@ SCHEDULED: <2022-05-14 Sat>
 ***** The Bridge Master
 ***** What Lurks Down Under
 ***** The Dancing Plague
-**** TODO [#C] 267a. Thin Time :underrated:P2020:short:11th_Dr:DW2023_01_doctor:
+**** HALF [#C] 267a. Thin Time :underrated:P2020:short:11th_Dr:DW2023_01_doctor:
 SCHEDULED: <2023-01-07 Sat>
 :PROPERTIES:
 :rating:   7.8
@@ -434,6 +434,10 @@ CLOSED: [2022-01-14 Fri 15:10]
 **** X. The Five Companions :1CD:
 **** CC4.05 - Ringpullworld :1CD:
 **** ST7.11. The Ingenious Gentleman Adric of Alzarius :1CD:
+** short stories
+*** DONE Tip of the Tongue (12 Doctors 12 Stories #5) :Nyssa:
+CLOSED: [2022-12-28 Wed 21:19]
+
 * 6th Doctor :6th_Dr:
 ** tv :📺:
 *** Season 21
@@ -508,11 +512,6 @@ CLOSED: [2021-07-23 Fri 12:43]
 :PROPERTIES:
 :rating:   9.0
 :END:
-
-*:PROPERTIES:
-*:rating:   9.0
-*:END:
-*
 
 *** main range 51-100 :scripted:2CD:
 **** [#C] 51. The Wormery :Iris:
@@ -711,7 +710,7 @@ CLOSED: [2022-11-12 Sat 20:08] SCHEDULED: <2022-11-01 Tue>
 
 Volume One
 
-***** [#C] The Headless Ones
+***** [#C] The Headless Ones                               :DW2023_02_doctor:
 :PROPERTIES:
 :rating:   7.5
 :END:
@@ -876,8 +875,10 @@ CLOSED: [2022-12-01 Thu 23:49]
 :rating:   7.0
 :END:
 
-***** TODO [#B] 12. The Fires of Vulcan (8.4) :P2000:Mel:DW2023_01_doctor:
+***** TODO [#B] 12. The Fires of Vulcan (8.4) :P2000:Mel:plot_yes_dwg:DW2023_01_doctor:
 SCHEDULED: <2023-01-21 Sat>
+
+http://www.drwhoguide.com/who_bf12.htm
 
 ***** HALF [#D] MR021. Dust Breeding :Master_decayed:D2021_10_master:
 SCHEDULED: <2021-11-07 Sun>

@@ -285,7 +285,7 @@ CLOSED: <2021-05-29 Sat 23:26>
 【【神秘博士广播剧 | 自制动画 | 中文字幕】Infamy of the Zaross(上) | 十任博士和Rose的冒险-哔哩哔哩】 https://b23.tv/HnN1VZh
 
 ***** HALF [#D] 10DA 2.2 - The Sword of the Chevalier :DW2022_12_doctor:
-SCHEDULED: <2022-12-15 Thu 21:53>
+SCHEDULED: <2022-12-28 Wed 08:53>
 :PROPERTIES:
 :rating:   7.1
 :END:
@@ -607,7 +607,7 @@ CLOSED: [2022-11-02 Wed 20:33] SCHEDULED: <2022-11-06 Sun>
 :rating:   8.5
 :END:
 
-**** TBR ST12.X The World Tree :P2022_12:
+**** ST12.X The World Tree :P2022_12:
 *** [#C] The Churchill Years 1.3 Living History ↗ :P2016:plot_yes:
 :PROPERTIES:
 :rating:   7.9
@@ -766,8 +766,7 @@ SCHEDULED: <2022-12-21 Wed>
 :rating:   8.0
 :END:
 
-**** [#C] 9.9 - Dead Media :DW2022_12_maybe:
-SCHEDULED: <2023-01-01 Sun>
+**** [#C] 9.9 - Dead Media
 :PROPERTIES:
 :rating:   7.7
 :END:

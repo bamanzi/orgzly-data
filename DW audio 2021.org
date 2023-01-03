@@ -202,8 +202,8 @@
 
 - <last play position> (00:00:00)
 
-*** HALF TW36. Dissected
-*** HALF TW39. Dinner and a Show
+*** HALF TW36. Dissected                                        :Gwen:Martha:
+*** HALF TW39. Dinner and a Show                                 :Ianto:Tosh:
 ** DW 2021-07
 
 | 18 | BF178. 1963_ Fanfare for the Common Men | 5th | Nyssa             |
@@ -848,7 +848,7 @@
  - <last play position> (00:00:00)
  - <second to last play position> (00:00:00)
 
-**** HALF TW55. The Great Sontaran War
+**** HALF TW55. The Great Sontaran War :Ianto:
 
  - Untitled (00:14:09)
  - <second to last play position> (00:17:08)
@@ -1379,109 +1379,106 @@
 
 | 053 | MR103 The Girl Who Never Was | 8th | Charley, Cybermen |
 
-*** 3QTR [#B] The Final Beginning                             :2nd_Dr:Daleks:
-*** HALF [#C] 4DCC The Relics of Time                                :4th_Dr:
-*** DONE [#B] 6DLA #3 Stage Fright                     :6th_Dr:Jago:Litefoot:
-*** 3QTR [#B] MR103 The Girl Who Never Was          :8th_Dr:Charley:Cyberman:
-*** 3QTR [#B] 10D&RS #3 Ghosts                                :10th_Dr:River:
-*** START [#C] 12DC1.4 Field Trip                            :12th_Dr:Osgood:
-*** 2DONE [#B] WDB 1.3 The Shadow Squad                          :War_Doctor:
+*** 3QTR [#B] The Final Beginning :2nd_Dr:Daleks:
+*** HALF [#C] 4DCC The Relics of Time :4th_Dr:
+*** DONE [#B] 6DLA #3 Stage Fright :6th_Dr:Jago:Litefoot:
+*** 3QTR [#B] MR103 The Girl Who Never Was :8th_Dr:Charley:Cyberman:
+*** 3QTR [#B] 10D&RS #3 Ghosts :10th_Dr:River:
+*** START [#C] 12DC1.4 Field Trip :12th_Dr:Osgood:
+*** 2DONE [#B] WDB 1.3 The Shadow Squad :War_Doctor:
 ** DW 2022-10-spinoffs
-*** 2DONE [#A] TW6.7 Another Man's Shoes                      :Torchwood:
-*** 3QTR [#A] TW6.8 Eye of the Storm                          :Torchwood:
+*** 2DONE [#A] TW6.7 Another Man's Shoes :Torchwood:
+*** 3QTR [#A] TW6.8 Eye of the Storm :Torchwood:
 *** START [#C] CM1.3 The Pelage Project
-*** DONE [#B] Donna 1.1 Out of this World                             :Donna:
-*** START _KC #3 Hidden Persuaders_                                  :Kaldor:
-*** HALF [#B] _Master! 1.2 Prey_                                :Master_bald:
-*** HALF [#A] _Master! 1.3 Vengeance_                           :Master_bald:
+*** DONE [#B] Donna 1.1 Out of this World :Donna:
+*** START _KC #3 Hidden Persuaders_ :Kaldor:
+*** HALF [#B] _Master! 1.2 Prey_ :Master_bald:
+*** HALF [#A] _Master! 1.3 Vengeance_ :Master_bald:
 *** 3QTR [#A] Gallifrey 4.2 Disassembled
 * DW 2022-11
 ** DW 2022-11-doctor
+
 | 054 | MR159 The Emerald Tiger | 5th | Nyssa, Tegan, Turlough  |
 
-*** DONE [#A] EA5.1  The Dalek Occupation of Winter     :1st_Dr:Steven:Vicki:
-*** START [#D] CDNM 3.1 The House that Hoxx Built              :3rd_Dr:Sarah:
+*** DONE [#A] EA5.1  The Dalek Occupation of Winter :1st_Dr:Steven:Vicki:
+*** START [#D] CDNM 3.1 The House that Hoxx Built :3rd_Dr:Sarah:
 *** 3QTR [#D] 5DA40.1 Secrets of Telos :5th_Dr:Nyssa:Tegan:Adric:Cybermen:
-*** 3QTR [#B] 7DA1.3 The Jabari Countdown              :7th_Dr:Roz:Chris:
-*** HALF [#C] 9DC1.4 Retail Therapy                           :9th_Dr:Jackie:
-*** 2DONE [#A] ST11.1 Rearguard (11th)                     :11th_Dr:Sontaran:
-*** HALF BSNA7.1. Willkommen                      :Unbound_Dr:Benny:Cybermen:
+*** 3QTR [#B] 7DA1.3 The Jabari Countdown :7th_Dr:Roz:Chris:
+*** HALF [#C] 9DC1.4 Retail Therapy :9th_Dr:Jackie:
+*** 2DONE [#A] ST11.1 Rearguard (11th) :11th_Dr:Sontaran:
+*** HALF BSNA7.1. Willkommen :Unbound_Dr:Benny:Cybermen:
 ** DW 2022-11-spinoffs
 *** 3QTR [#B] TW5.9 A Mother's Son
-*** 3QTR [#D] TW47 Drive                                               :Tosh:
-*** 3QTR [#B] UNIT 3.1 House of Silents                             :Silents:
+*** 3QTR [#D] TW47 Drive :Tosh:
+*** 3QTR [#B] UNIT 3.1 House of Silents :Silents:
 *** [#B] UNIT 3.2 Square One
 *** 3QTR [#D] PG2.2 The Screaming Ceiling
-*** HALF [#C] Donna 1.2 Spinvasion                                    :Donna:
-*** 2DONE [#B] WM5.1 The Edge of Redemption                      :Master_war:
-*** HALF [#B] Robots 2.2 Toos and Poul                                  :Liv:
+*** HALF [#C] Donna 1.2 Spinvasion :Donna:
+*** 2DONE [#B] WM5.1 The Edge of Redemption :Master_war:
+*** HALF [#B] Robots 2.2 Toos and Poul :Liv:
 *** 3QTR [#B] Gallifrey 4.3 Annihilation
 * DW 2022-12
+
 | 055 | MR133 City of Spires | 6th | Jamie |
 
 ** DW 2022-12-doctor
-*** 3QTR MA04 The Patient Menace                        :fan_made:2nd_Dr:
-*** 3QTR [#C] 4DA 7.1 Sons of Kaldor               :4th_Dr:Kaldor_Robots:
-*** HALF [#D] MR133 City of Spires                             :6th_Dr:Jamie:
-*** 2DONE [#A] MR153 The Silver Turk                        :8th_Dr:Cybermen:
-*** HALF [#D] 10DA 2.2 - The Sword of the Chevalier            :10th_Dr:Rose:
-*** HALF The Last Days Before Dawn                  :12th_Dr:Ashidr:fan_made:
-*** 3QTR [#A] BSNA 7.2 Wulf                                   :Unbound:Benny:
+*** 3QTR MA04 The Patient Menace :fan_made:2nd_Dr:
+*** 3QTR [#C] 4DA 7.1 Sons of Kaldor :4th_Dr:Kaldor_Robots:
+*** HALF [#D] MR133 City of Spires :6th_Dr:Jamie:
+*** 2DONE [#A] MR153 The Silver Turk :8th_Dr:Cybermen:
+*** HALF [#D] 10DA 2.2 - The Sword of the Chevalier :10th_Dr:Rose:
+*** HALF The Last Days Before Dawn :12th_Dr:Ashidr:fan_made:
+*** 3QTR [#A] BSNA 7.2 Wulf :Unbound:Benny:
 ** DW 2022-12-spinoffs
-*** HALF [#B] TW6.10 ScrapeJane  
-*** 3QTR [#A] TW54. Curios                                 :Bilis_Manger:
-*** HALF [#C] River7.1 Colony of Strangers                            :River:
-
-*** [#D] J&L7.2 The Night of 1000 Stars                       :Jago:Litefoot:
-
-*** DONE [#E] Donna1.3 The Sorcerer of Albion                         :Donna:
-*** 3QTR [#C] WM5.2 Scaramancer                           :Master_war:8th_Dr:
+*** HALF [#B] TW6.10 ScrapeJane
+*** 3QTR [#A] TW54. Curios :Bilis_Manger:
+*** HALF [#C] River7.1 Colony of Strangers :River:
+*** [#D] J&L7.2 The Night of 1000 Stars :Jago:Litefoot:
+*** DONE [#E] Donna1.3 The Sorcerer of Albion :Donna:
+*** 3QTR [#C] WM5.2 Scaramancer :Master_war:8th_Dr:
 *** HALF [#C] Gallifrey 4.4 Forever
 * DW2023-01
 ** dw2023-01-doctor
-*** [#A] CC3.5 Home Truths                                      :1st_Dr:Sara:
-*** [#D] 3DA 1.1 - Prisoners of the Lake                          :3rd_Dr:Jo:
-*** [#C] MR267a Thin Time                                    :5th_Dr:11th_Dr:
-*** [#B] MR012. The Fires of Vulcan                              :7th_Dr:Mel:
-*** 9DA5.1 Station to Station                               :9th_Dr:bilibili:
-*** [#B] BSNA 7.3 Übermensch                                  :Unbound:Benny:
+*** [#A] CC3.5 Home Truths :1st_Dr:Sara:
+*** [#D] 3DA 1.1 - Prisoners of the Lake :3rd_Dr:Jo:
+*** [#C] MR267a Thin Time :5th_Dr:11th_Dr:
+*** [#B] MR012. The Fires of Vulcan :7th_Dr:Mel:
+*** 9DA5.1 Station to Station :9th_Dr:bilibili:
+*** [#B] BSNA 7.3 Übermensch :Unbound:Benny:
 ** dw2023-01-spinoffs
-*** [#A] TW6.11 Day Zero  
-*** [#C] TW42 Ex Machina                                               :Ianto:
-*** [#A] UNIT3.3 Silent Majority                               :UNIT:Silents:
+*** [#A] TW6.11 Day Zero
+*** [#C] TW42 Ex Machina :Ianto:
+*** [#A] UNIT3.3 Silent Majority :UNIT:Silents:
 *** [#C] PG2.3 Spring-Heeled Jack
-*** [#A] WM5.3 - The Castle of Kurnos 5                          :Master_war:
-*** [#C] Donna 1.4 The Chiswick Cuckoos                       :Donna:10th_Dr:
+*** [#A] WM5.3 - The Castle of Kurnos 5 :Master_war:
+*** [#C] Donna 1.4 The Chiswick Cuckoos :Donna:10th_Dr:
 *** [#C] Robots2.3 Do No Harm
 * DW2023-02
 ** dw2023-02-doctor
-*** [#C] EA4.1 The Night Witches                            :Jamie:Polly:Ben:
-*** [#C] 4DA 4.2 The Darkness of Glass                         :4th_Dr:Leela:
-*** [#C] 6DnP #1 The Headless Ones 1cd    
-*** [#A] 8DDC3.1 - Absent Friends                          :8th_Dr:Liv:Helen:
-*** [#C] 8DDC3.2 - The Eighth Piece                        :8th_Dr:Liv:Helen:
-*** [#D] DU2.1 Cycle of Destruction #bilibili           :10th_Dr:Anya:Mark_7:
-*** [#B] BSNA 7.4 Auf Wiedersehen 再见                         :Unbound:Benny:
+*** [#C] EA4.1 The Night Witches :Jamie:Polly:Ben:
+*** [#C] 4DA 4.2 The Darkness of Glass :4th_Dr:Leela:
+*** [#C] 6DnP #1 The Headless Ones 1cd
+*** [#A] 8DDC3.1 - Absent Friends :8th_Dr:Liv:Helen:
+*** [#C] 8DDC3.2 - The Eighth Piece :8th_Dr:Liv:Helen:
+*** [#D] DU2.1 Cycle of Destruction #bilibili :10th_Dr:Anya:Mark_7:
+*** [#B] BSNA 7.4 Auf Wiedersehen 再见 :Unbound:Benny:
 ** dw2023-02-spinoffs
-*** [#A] TW6.11 Day Zero 
-*** [#A] TW43 The Three Monkeys                                   :Owen:Andy:
+*** [#A] TW6.11 Day Zero
+*** [#A] TW43 The Three Monkeys :Owen:Andy:
 *** [#C] UNIT3.4 In Memory Alone / +[#B] CM 1.4 State of Emergency+
-*** [#A] J&L7.3 Murder at Moorsey Manor                                :Jago:
-*** [#A] WM5.4 - The Cognition Shift                             :Master_war:
-*** [#D] River7.2 Abbey of Heretics                                   :River:
-*** [#E] Gallifrey 5.1 - Emancipation 
-
-
+*** [#A] J&L7.3 Murder at Moorsey Manor :Jago:
+*** [#A] WM5.4 - The Cognition Shift :Master_war:
+*** [#D] River7.2 Abbey of Heretics :River:
+*** [#E] Gallifrey 5.1 - Emancipation
 * pending
 ** doctor
-*** [#B] MR159 The Emerald Tiger                               :5th_Dr:Nyssa:
-*** [#A] NA01 Damaged Goods                                :7th_Dr:Benny:Ace:
+*** [#B] MR159 The Emerald Tiger :5th_Dr:Nyssa:
+*** [#A] NA01 Damaged Goods :7th_Dr:Benny:Ace:
 *** [#C] 2DA22.2 Wrath of the Ice Warriors :2nd_Dr:Brigadier:ice_warriors:2CD:
-*** [#C] 194. The Rani Elite                               :6th_Dr:Peri:Rani:
-*** [#D] WDB 2.1 Consequences                                        :War_Dr:
-*** [#C] ST9.9 Dead Media                                           :12th_Dr:
-
+*** [#C] 194. The Rani Elite :6th_Dr:Peri:Rani:
+*** [#D] WDB 2.1 Consequences :War_Dr:
+*** [#C] ST9.9 Dead Media :12th_Dr:
 ** spinoffs
 *** [#B] CM 1.4 State of Emergency
-*** KC #4 taren Capel                                         :Kaldor_Robots:
-*** [#C] River 6.4 The Talents of Grel                                :River:
+*** KC #4 taren Capel :Kaldor_Robots:
+*** [#C] River 6.4 The Talents of Grel :River:

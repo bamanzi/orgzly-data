@@ -51,7 +51,7 @@ Episode 1-3 missing.
 **** [#E] The Gunfighters
 **** [#D] /The Savages/ :missing:
 **** [#C] The War Machines :DW2022_12_extra:
-SCHEDULED: <2022-12-31 Sat>
+SCHEDULED: <2023-01-07 Sat>
 
 *** Season 4
 **** [#E] /The Smugglers/ :missing:
@@ -150,11 +150,13 @@ SCHEDULED: <2022-03-12 Sat>
 *** TBR 2023. The Demon Song :P2023_02:
 *** CC :🗣:
 **** Sara Kingdom trilogy
-***** TODO [#A] CC3.5 - Home Truths :DW2023_01:Sara_Kingdom:
+***** START [#A] CC3.5 - Home Truths :plot_yes_dwg:DW2023_01_doctor:Sara_Kingdom:
 SCHEDULED: <2023-01-07 Sat>
 :PROPERTIES:
 :rating:   9.1
 :END:
+
+http://www.drwhoguide.com/chronicles13.htm
 
 ***** TODO [#B] CC4.1 The Drowned World :Sara_Kingdom:
 :PROPERTIES:
@@ -262,7 +264,7 @@ CLOSED: [2021-06-26 Sat 09:13]
 :rating:   8.0
 :END:
 
-**** Polly
+**** Polly/Ben
 ***** LATER [#B] CC11.4 - The Plague of Dreams :Polly:Ben:scripted:DW2023_01_maybe:
 SCHEDULED: <2023-01-31 Tue>
 :PROPERTIES:
@@ -276,6 +278,10 @@ SCHEDULED: <2023-01-31 Tue>
 
 **** 📂CC9. First Doctor - Volume One
 **** 📂CC11. First Doctor - Volume Two :scripted:
+***** [#D] 11.1 Fields of Terror                               :Steven:Vicki:
+***** [#A] 11.2 Across the Darkened City                :Steven:Vicki:Daleks:
+***** [#D] 11.3 The Bonfires of the Vanties                       :Polly:Ben:
+***** [#B] 11.4 The Plague of Dreams                              :Polly:Ben:
 **** 📂CC13. First Doctor - Volume Three
 *** Lost Stories
 **** BLOCK [#A] LS2.1a - Farewell Great Macedon :scripted:3CD:
@@ -292,7 +298,7 @@ https://www.bilibili.com/read/cv16029955
 ** tv :📺:
 *** Season 4 :1967:
 **** DONE 04x03 The Power of the Daleks :daleks:animated:srt_full:missing:P2016:P1966:
-**** +04x04 The Highlanders+ :missing:DW2022_13:
+**** /04x04 The Highlanders/ :missing:DW2022_13:
 
 小说翻译： http://tieba.baidu.com/p/6573080784?share=9105&fr=share&see_lz=0&share_from=post&sfc=copy&client_type=2&client_version=11.9.8.0&st=1629813078&unique=2870A12337A54D67F67CE44D0875042B 
 
@@ -311,7 +317,7 @@ Episode 2,4,5,6 missing (but all episodes animated in 2020)
 **** DONE 04x09 The Evil of the Daleks :daleks:srt_full:missing:Victoria:
 *** Season 5 :1968:
 **** DONE 05x01 The Tomb of the Cybermen :Cybermen:fan_edit:
-**** [#C] +The Abominable Snowmen+ (7.5) :great_intelligence:missing:DW2022_10_extra:
+**** [#C] /The Abominable Snowmen/ (7.5) :great_intelligence:missing:DW2022_10_extra:
 SCHEDULED: <2022-11-02 Wed>
 
 Great Intelligence (大智慧/超级智能）和 Yeti (雪怪）的首次出场
@@ -334,7 +340,8 @@ CLOSED: <2021-03-25 Thu 07:29>
 
 2020年BBC制作发行了动画重制版本
 
-**** +05x07 The Wheel in Space+ :Cybermen:missing:Zoe:
+**** DONE /05x07 The Wheel in Space/ :Cybermen:missing:Zoe:
+CLOSED: [2023-01-02 Mon 09:01]
 
 (总6集, 仅幸存3、6，未做中文字幕)
 
@@ -404,7 +411,7 @@ CLOSED: [2021-06-19 Sat 11:50]
 
 ***** CANCEL [#E] 2.4 The Isos Network :Jamie:Zoe:Cybermen:plot_yes:
 **** EA S4
-***** READY [#C] 4.1 The Night Witches :Jamie:Polly:Ben:plot_yes:
+***** READY [#C] 4.1 The Night Witches :Jamie:Polly:Ben:plot_yes:DW2023_02_doctor:
 :PROPERTIES:
 :rating:   7.6
 :END:
@@ -630,8 +637,8 @@ CLOSED: [2020-07-15 Wed 19:13]
 *** season 9
 **** DONE 9x01 - Day of the Daleks (7.9)
 **** DONE 9x02 - The Curse of Peladon (7.6)
-**** [#C] 9x03 The Sea Devil (7.7) :DW2022_12_extra:
-SCHEDULED: <2022-12-31 Sat>
+**** DONE [#C] 9x03 The Sea Devil (7.7) :Master_nemesis:DW2022_12_extra:
+CLOSED: [2023-01-01 Sun 16:07] SCHEDULED: <2022-12-31 Sat>
 
 **** 9x04 - The Mutants (7.0)
 **** DONE 9x05 - The Time Monster †6.9)
@@ -1110,13 +1117,13 @@ CLOSED: [2020-07-30 Thu 06:50]
 
 **** 4DA series 4 :Leela:P2015:
 ***** CANCEL [#E] 4.1 +The Exxilons+ (6.5)
-***** READY [#C] 4.2 The Darkness of Glass (7.5) :plot_yes:
+***** READY [#C] 4.2 The Darkness of Glass (7.5)  :plot_yes:DW2023_02_doctor:
 SCHEDULED: <2022-10-22 Sat>
 
 ***** 2DONE [#B] 4.3 Requiem for the Rocket Men  (8.4) :Master_decayed:D2021_07_dr:
 CLOSED: [2021-07-27 Tue 23:11]
 
-***** START [#D] 4.4 Death Match (7.3)
+***** START [#D] 4.4 Death Match (7.3) :Master_decayed:
 :PROPERTIES:
 :rating:   7.3
 :END:
