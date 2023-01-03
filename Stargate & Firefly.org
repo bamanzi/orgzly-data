@@ -305,6 +305,9 @@ https://www.meijumi.net/7277.html
 **** DONE 2x01
 CLOSED: [2022-12-24 Sat 19:59]
 
+**** DONE 2x02
+CLOSED: [2022-12-28 Wed 19:09]
+
 * The Expanse :expense:
 ** DONE S1
 ** DONE S2

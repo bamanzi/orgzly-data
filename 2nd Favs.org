@@ -110,6 +110,10 @@ CLOSED: [2022-04-02 Sat 20:14]
 ***** DONE 1x13
 CLOSED: [2022-04-04 Mon 19:41]
 
+**** Lucifer S2
+***** DONE 2x01
+CLOSED: [2023-01-01 Sun 20:35]
+
 ** Preacher
 *** comics :📚:
 **** DONE book 1 (1-12)
@@ -388,11 +392,21 @@ Ultimate Spider-Man #129–133, Annual #3
 **** Ultimate Comics Spider-Man (Miles Morales)
 ** Marvel MCU
 * Supernatural :📺:spn:
+** S2
+*** DONE 2x15 :Gabriel:
+CLOSED: [2022-12-31 Sat 18:03]
+
+** S3
+*** DONE 3x11 :Gabriel:
+CLOSED: [2022-12-31 Sat 21:06]
+
+** S5
+*** DONE 5x08
+CLOSED: [2023-01-02 Mon 21:10]
+
 ** DONE S11
 ** DONE S12
 ** SPN S13
-DEADLINE: <2022-02-28 Mon> SCHEDULED: <2022-02-28 Mon>
-
 *** DONE 13x01, 02
 CLOSED: [2022-02-02 Wed 14:29]
 
@@ -437,7 +451,13 @@ CLOSED: [2022-04-14 Thu 19:04]
 
 *** 13x23
 ** S14
+
+20 episodes
+
 ** S15
+
+20 episodes
+
 * Life on Mars
 ** Life on Mars (uk)
 *** DONE Life on Mars s1

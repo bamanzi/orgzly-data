@@ -4,7 +4,9 @@
 CLOSED: [2022-12-20 Tue 23:10]
 
 *** movies
-**** Blade Runner :🎦:P1982:
+**** DONE Blade Runner :🎦:P1982:
+CLOSED: [2023-01-02 Mon 16:05]
+
 **** 2022: Black Out (黑暗浩劫/大断电)
 **** 2036: Nexus Dawn
 **** 2048: Nowherr to Run
@@ -37,13 +39,22 @@ download:
 - https://comics.codes/blade-runner-2019/
 - https://www.zipcomic.com/blade-runner-2019
 
+***** DONE book one #1-4
+CLOSED: [2023-01-01 Sun 20:41]
+
+***** DONE #5-8
+CLOSED: [2023-01-02 Mon 17:59]
+
 **** READY Blade Runner 2029 :P2020:
 
 December 16, 2020 – February 9, 2022
 
 download: https://comics.codes/blade-runner-2029/
 
-**** TBR /Blade Runner 2039/
+**** TBR /Blade Runner 2039/ :P2023:
+
+https://comics.codes/blade-runner-2039/
+
 **** BLOCK Blade Runner Origins :P2021:
 :PROPERTIES:
 :todo:     download
