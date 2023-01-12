@@ -34,6 +34,9 @@ CLOSED: <2021-10-05 Tue 20:27>
 **** [#C] Planet of Fire (7.5)
 **** [#C] The Caves of Androzani (8.7)
 ** audio :🎧:
+
+https://tardis.fandom.com/wiki/Fifth_Doctor_audio_stories
+
 *** main range 001-050 :scripted:2CD:
 **** The Sirens of Time
 **** Phantasmagoria
@@ -364,8 +367,8 @@ SCHEDULED: <2022-05-14 Sat>
 ***** The Bridge Master
 ***** What Lurks Down Under
 ***** The Dancing Plague
-**** HALF [#C] 267a. Thin Time :underrated:P2020:short:11th_Dr:DW2023_01_doctor:
-SCHEDULED: <2023-01-07 Sat>
+**** HALF [#C] 267a. Thin Time :underrated:P2020:1CD:11th_Dr:DW2023_01_doctor:
+SCHEDULED: <2023-01-06 Fri 08:38>
 :PROPERTIES:
 :rating:   7.8
 :END:
@@ -435,8 +438,15 @@ CLOSED: [2022-01-14 Fri 15:10]
 **** CC4.05 - Ringpullworld :1CD:
 **** ST7.11. The Ingenious Gentleman Adric of Alzarius :1CD:
 ** short stories
-*** DONE Tip of the Tongue (12 Doctors 12 Stories #5) :Nyssa:
+*** DONE Tip of the Tongue 舌尖 :Nyssa:
 CLOSED: [2022-12-28 Wed 21:19]
+
+/12 Doctors 12 Stories/ #5
+
+*** DONE Flashpoint :Liz:
+CLOSED: <2023-01-11 Wed 07:02>
+
+part of /Short Trips: Monsters/
 
 * 6th Doctor :6th_Dr:
 ** tv :📺:
@@ -469,6 +479,9 @@ CLOSED: [2021-12-12 Sun 17:32]
 SCHEDULED: <2022-11-30 Wed>
 
 ** audio :🎧:
+
+https://tardis.fandom.com/wiki/Sixth_Doctor_audio_stories
+
 *** main range 01-50 :scripted:2CD:
 **** 3QTR [#A] 6. The Marian Conspiracy (8.6) :Evelyn:plot_yes:DW2022_08_doctor:
 CLOSED: [2022-08-03 Wed 21:45] SCHEDULED: <2022-08-03 Wed>
@@ -560,7 +573,7 @@ CLOSED: [2021-03-22 Mon 20:39]
 
 *** main range 101-150 :scripted:2CD:
 **** TODO [#B] 105. The Condemned (8.4) :Charley:plot_no:DW2023_02_maybe:
-SCHEDULED: <2022-12-31 Sat>
+SCHEDULED: <2023-02-28 Tue>
 
 Six and Charley meet, and an enjoyable, weird adventure results.
 
@@ -681,7 +694,7 @@ CLOSED: [2022-06-29 Wed 16:22] SCHEDULED: <2022-06-19 Sun>
 【【神秘博士广播剧】Bonus Release 012 The Trial of Valeyard 黑暗博士的审判-哔哩哔哩】 https://b23.tv/BP98ck4
 
 **** The Sixth Doctor: The Last Adventure :1CD:scripted:
-***** 2DONE The End of the Line :Master:Valeyard:D2021_12_master:bilibili:week1:
+***** 2DONE The End of the Line :Constance:Master:Valeyard:D2021_12_master:bilibili:week1:
 CLOSED: [2021-12-03 Fri 23:22] SCHEDULED: <2021-12-05 Sun>
 
 【【广播剧翻译】六任：最后的冒险 01 The end of the line-哔哩哔哩】 https://b23.tv/r4FWpnN
@@ -710,7 +723,7 @@ CLOSED: [2022-11-12 Sat 20:08] SCHEDULED: <2022-11-01 Tue>
 
 Volume One
 
-***** [#C] The Headless Ones                               :DW2023_02_doctor:
+***** [#C] The Headless Ones :DW2023_02_doctor:
 :PROPERTIES:
 :rating:   7.5
 :END:
@@ -816,19 +829,19 @@ Volume One
 :rating:   7.4
 :END:
 
-***** READY 3.3 Together in Eclectic Dreams :plot_yes:bilibili:
+***** READY [#A] 3.3 Together in Eclectic Dreams :plot_yes:bilibili:
 
 【【神秘博士广播剧熟肉】The Stuff of Nightmares 303 Together in Eclectic Dreams 共做一梦-哔哩哔哩】 https://b23.tv/e3EmGiB
 
 **** The Diary of River Song: Series 2
-***** World Enough and Time
-***** The Eye of the Storm
+***** 2.3 World Enough and Time
+***** 2.4 The Eye of the Storm
 **** ST4.6 - To Cut a Blade of Grass
 * 7th Doctor :7th_Dr:
 ** tv :📺:
 *** S24
 **** CANCEL [#F] 24x01 - Time and the Rani (5.1)
-**** TODO [#F] 24x02 - Paradise Towers (6.1) :DW2022_12_extra:
+**** TODO [#F] 24x02 - Paradise Towers (6.1) :DW2023_02_extra:
 **** CANCEL [#F] 24x03 - Delta and the Bannermen (6.0)
 **** CANCEL [#F] 24x04 - Dragonfire (6.3)
 *** S25
@@ -846,6 +859,9 @@ CLOSED: [2022-12-01 Thu 23:49]
 **** [#B] S26E03 Fenric的诅咒 - The Curse of Fenric (8.2)
 **** [#C] S26E04 幸存 - Survival (7.7)
 ** audio :🎧:
+
+https://tardis.fandom.com/wiki/Seventh_Doctor_audio_stories
+
 *** main range :scripted:2CD:
 **** top
 
@@ -875,8 +891,8 @@ CLOSED: [2022-12-01 Thu 23:49]
 :rating:   7.0
 :END:
 
-***** TODO [#B] 12. The Fires of Vulcan (8.4) :P2000:Mel:plot_yes_dwg:DW2023_01_doctor:
-SCHEDULED: <2023-01-21 Sat>
+***** HALF [#B] 12. The Fires of Vulcan (8.2) :P2000:Mel:plot_yes_dwg:DW2023_01_doctor:
+SCHEDULED: <2023-01-09 Mon 21:19>
 
 http://www.drwhoguide.com/who_bf12.htm
 
@@ -904,7 +920,10 @@ CLOSED: <2021-09-23 Thu 21:27> SCHEDULED: <2021-09-04 Sat>
 ***** DONE [#B] 58. The Harvest (8.4) :P2004:Ace:Hex:Cybermen:plot_yes:D2021_06:
 CLOSED: [2021-06-24 Thu 12:31]
 
-***** [#A] 74. Live 34 (8.5) :P2005:Ace:Hex:plot_no:
+***** READY [#A] 74. Live 34 (8.5) :P2005:Ace:Hex:plot_no:bilibili:
+
+【【神秘博士广播剧熟肉】MR 074 LIVE 34-哔哩哔哩】 https://b23.tv/5OQlzQA
+
 ***** 3QTR [#B] 79. Night Thoughts :Ace:Hex:plot_yes_dwg:DW2022_09_doctor:
 CLOSED: [2022-09-27 Tue 19:48] SCHEDULED: <2022-09-18 Sun>
 :PROPERTIES:
@@ -1109,6 +1128,8 @@ CLOSED: [2022-10-08 Sat 09:05]
 
 ***** The Ribos Inheritance :Mel:
 **** 7DA Sullivan and Cross - AWOL :P2022_11:
+***** 22B.1 London Orbital :Harry:Naomi:
+***** 22B.2 Scream of the Daleks :Harry:Naomi:Daleks:
 *** novel adaptations :2CD:
 **** BLOCK [#D] NA1 Love and War :Ace:Benny:3CD:
 
@@ -1145,7 +1166,7 @@ block 原因：太长（3小时多）
 :rating:   6.9
 :END:
 
-**** [#A] CDNM3.3 Together in Eclectic Dreams :8th_Dr:
+**** River2.1 The Unknown
 **** ST6.13 - Forever Fallen
 ** comics
 *** A Cold Day in Hell! (DWM 130-148)
@@ -1203,4 +1224,9 @@ SCHEDULED: <2021-12-03 Fri>
 :PROPERTIES:
 :rating:   4.13
 :END:
+
+** short stories
+*** How You Get There :Benny:
+
+part of /Short Trips: A Day in the Life/
 

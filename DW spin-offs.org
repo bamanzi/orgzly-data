@@ -279,13 +279,13 @@ Sebastian Vaughan is the brightest, newest recruit to Torchwood. He's come fro
       :rating:   8.1
       :END:
 
-***** [#C] 42 Ex Machina :Ianto:DW2023_01_spinoffs:
-      SCHEDULED: <2023-01-14 Sat>
+***** DONE [#C] 42 Ex Machina :Ianto:DW2023_01_spinoffs:
+      CLOSED: [2023-01-12 Thu 08:21] SCHEDULED: <2023-01-03 Tue 21:12>
       :PROPERTIES:
       :rating:   7.9
       :END:
 
-***** [#A] 43. The Three Monkeys                  :Owen:Andy:DW2023_02_maybe:
+***** [#A] 43. The Three Monkeys :Owen:Andy:DW2023_02_maybe:
       :PROPERTIES:
       :rating:   8.8
       :END:
@@ -324,7 +324,7 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
       :rating:   8.8
       :END:
 
-***** 3QTR [#D] 47. Drive                           :Tosh:DW2022_11_spinoffs:
+***** 3QTR [#D] 47. Drive :Tosh:DW2022_11_spinoffs:
       CLOSED: [2022-11-14 Mon 09:35] SCHEDULED: <2022-11-09 Wed>
       :PROPERTIES:
       :rating:   7.3
@@ -342,7 +342,7 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
       :rating:   8.7
       :END:
 
-***** BLOCK 50. Absent Friends (missing)
+***** BLOCK /50. Absent Friends/ (missing)
 ***** [#A] 50X. The Black Knight (8.6) :Norton:
 ***** LATER [#A] 51. The Five People You Kill in Middlebrough (8.5) :Yvonne:plot_yes:
       :PROPERTIES:
@@ -412,7 +412,7 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
       :rating:   7.9
       :END:
 
-***** [#D] 2 - Escape from Nebazz                        :DW2023_02_spinoffs:
+***** [#D] 2 - Escape from Nebazz :DW2023_02_spinoffs:
       :PROPERTIES:
       :rating:   7.4
       :END:
@@ -549,9 +549,9 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
       SCHEDULED: <2022-12-16 Fri 09:59>
 
 ***** [#A] 6.11 Day Zero (8.7) :DW2023_01_spinoffs:
-      SCHEDULED: <2023-01-14 Sat>
+      SCHEDULED: <2023-01-25 Wed>
 
-***** [#B] 6.12 Thoughts and Prayers (8.2)               :DW2023_02_spinoffs:
+***** [#B] 6.12 Thoughts and Prayers (8.2) :DW2023_02_spinoffs:
 *** The Lives of Captain Jack :🎧:Jack:1CD:
 **** vol.1 :P2017:
 ***** HALF [#D] The Year After I Died
@@ -663,7 +663,7 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
 ***** 4.3 Less Majesty
 *** BBC audio dramas :🎧:scripted:
 **** [#D] 1. Lost Souls :Martha:
-**** [#B] 2. Asylum                                         :Jack:Gwen:Ianto:
+**** [#B] 2. Asylum :Jack:Gwen:Ianto:
 **** DONE [#B] 3. Golden Age
 
 Torchwood India
@@ -836,12 +836,14 @@ Roberts Master
 **** HALF [#C] 7.1 Colony of Strangers         (7.7) :DW2022_12_spinoffs:
      SCHEDULED: <2022-12-24 Sat>
 
-**** [#D] 7.2 Abbey of Heretics           (7.2)
+**** [#D] 7.2 Abbey of Heretics           (7.2) :DW2023_01_spinoffs:
+     SCHEDULED: <2023-01-25 Wed>
+
 **** [#A] 7.3 Barrister to the Stars      (8.9)
 **** [#D] 7.4 Carnival of Angels          (7.0)
 *** DoRS 8 :P2021:
 **** [#D] 8.1 Slight Glimpses of Tomorrow (7.1)
-**** [#C] 8.2 A Brave New World (7.6)
+**** [#C] 8.2 A Brave New World (7.6) :10th_Dr:
 **** [#C] 8.3 A Forever Home (7.5)
 **** HALF [#E] 8.4 Queen of the Mechonoids     (6.5) :Anya:Mark_7:
 *** DoRS 9 :P2021_10:
@@ -870,6 +872,10 @@ Roberts Master
      :END:
 
 *** DoRS 10 :P2022_08:
+**** 10.1 The Two Rivers
+**** 10.2 Beauty on the Inside
+**** 10.3 Black Friday
+**** 10.4 Firewall
 *** misc
 **** DONE R&J (The Lives of Captain Jack #3.3) :Jack:
      CLOSED: <2020-09-14 Mon 21:12>
@@ -937,10 +943,12 @@ Roberts Master
 *** 3QTR [#B] 7.1 The Monstrous Menagerie           (8.1) :DW2022_08_spinoffs:
     CLOSED: [2022-09-02 Fri 19:14] SCHEDULED: <2022-09-04 Sun>
 
-*** START [#D] 7.2 The Night of 1000 Stars           (7.2) :plot_no:DW2022_12_spinoffs:
+*** START [#D] 7.2 The Night of 1000 Stars           (7.2) :plot_no:DW2023_03_spinoffs:
     SCHEDULED: <2022-12-28 Wed>
 
-*** [#A] 7.3 Murder at Moorsey Manor           (8.7)     :DW2023_02_spinoffs:
+*** HALF [#A] 7.3 Murder at Moorsey Manor           (8.7) :DW2023_01_spinoffs:
+    SCHEDULED: <2023-01-09 Mon 21:33>
+
 *** [#C] 7.4 The Wax Princess                  (7.5)
 ** J&L series 8 :P2014:
 *** [#A] 8.1 - Encore of the Scorchies         (8.9)
@@ -1059,7 +1067,7 @@ Roberts Master
     SCHEDULED: <2022-12-28 Wed 08:50>
 
 ** series 5 :P2013:
-*** [#E] 5.1 - Emancipation (6.9)                        :DW2023_02_spinoffs:
+*** [#E] 5.1 - Emancipation (6.9) :DW2023_02_spinoffs:
 *** [#E] 5.2 - Evolution (6.5)
 *** [#D] 5.3 - Arbitration (7.2)
 ** series 6 :P2013:
@@ -1391,16 +1399,16 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
      :END:
 
 *** vol.7 Blood & Steel :P2022_09:Cybermen:Doctor_unbound:
-**** HALF [#A] 7.1 Willkommen :DW2022_11_doctor:
+**** HALF [#A] 7.1 Willkommen 欢迎 :DW2022_11_doctor:
      SCHEDULED: <2022-11-23 Wed>
 
 **** 3QTR [#A] 7.2 Wulf :DW2022_12_doctor:
      CLOSED: [2022-12-25 Sun 22:28] SCHEDULED: <2022-12-28 Wed>
 
-**** TODO 7.3 Ubermensch :DW2023_01_doctor:
-     SCHEDULED: <2023-01-21 Sat>
+**** TODO 7.3 Ubermensch 超人 :DW2023_01_maybe:
+     SCHEDULED: <2023-01-31 Tue>
 
-**** 7.4 Auf Wiedersehen :DW2023_02_doctor:
+**** 7.4 Auf Wiedersehen 再见 :DW2023_02_doctor:
 * Missy / Master!
 ** Missy series 1 :🎧:Master_missy:
 *** START [#C] 1.1 A Spoonful of Mayhem :D2021_07_extra:
@@ -1496,7 +1504,7 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
 ** #Davros :Davros:
 *** tv :📺:
 **** 12x03 Genesis of the Daleks :4th_Dr:Sarah:
-**** DONE 17x01 Destiny of the Daleks :4th_Dr:Romana2:
+**** DONE 17x01 Destiny of the Daleks :4th_Dr:Romana_2:
      CLOSED: [2021-09-26 Sun 08:19]
 
 **** DONE 21x04 Resurrection of the Daleks :5th_Dr:
@@ -1905,7 +1913,7 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
 *** HALF [#B] 3.2 Square One (8.4) :DW2022_12_spinoffs:plot_yes:
     SCHEDULED: <2022-12-12 Mon>
 
-*** START [#A] 3.3 Silent Majority (8.5) :DW2023_01_spinoffs:
+*** START [#A] 3.3 Silent Majority (8.5) :plot_yes:DW2023_01_spinoffs:
     SCHEDULED: <2023-01-15 Sun>
 
 *** [#C] 3.4 In Memory Alone (7.5) :DW2023_02_spinoffs:
@@ -2090,7 +2098,7 @@ http://www.drwhoguide.com/kaldor03.htm
 **** 3QTR [#C] 2.2 - The Screaming Ceiling     (7.6) :DW2022_11_spinoffs:
      CLOSED: [2022-11-20 Sun 19:43] SCHEDULED: <2022-11-20 Sun>
 
-**** [#C] 2.3 - Spring-Heeled Jack        (7.7)
+**** [#C] 2.3 - Spring-Heeled Jack        (7.7) :DW2023_02_spinoffs:
 *** PG: Heritage 3 :P2020:
 **** [#C] 3.1 - Family Matters            (7.5)
 **** [#D] 3.2 - Whatever Remains          (7.2)
@@ -2290,8 +2298,8 @@ From Donna's perspective, the anthology is set after /Forest of the Dead/.
 
 【【神秘博士广播剧熟肉】Kidnapped! 103 The Sorcerer of Albion 英格兰的巫师-哔哩哔哩】 https://b23.tv/N0bX4mv
 
-*** [#C] 4. The Chiswick Cuckoos (7.9) :10th_Dr:bilibili:DW2023_01_spinoffs:
-    SCHEDULED: <2023-01-14 Sat>
+*** START [#C] 4. The Chiswick Cuckoos (7.9) :10th_Dr:bilibili:DW2023_01_spinoffs:
+    SCHEDULED: <2023-01-15 Sun>
 
 【【神秘博士广播剧熟肉】Kidnapped! 104 The Chiswick Cuckoos 奇斯威克的布谷鸟-哔哩哔哩】 https://b23.tv/tSBFEZL
 

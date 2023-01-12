@@ -441,17 +441,17 @@ SCHEDULED: <2022-09-04 Sun>
 :rating:   9.2
 :END:
 
-***** TODO [#C] 3.2 - The Eighth Piece               :River:DW2023_02_doctor:
+***** TODO [#C] 3.2 - The Eighth Piece :River:DW2023_02_doctor:
 :PROPERTIES:
 :rating:   7.7
 :END:
 
-***** [#C] 3.3 - The Doomsday Chronometer                             :River:
+***** [#C] 3.3 - The Doomsday Chronometer :River:
 :PROPERTIES:
 :rating:   7.9
 :END:
 
-***** [#A] 3.4 - The Crucible of Souls                                :River:
+***** [#A] 3.4 - The Crucible of Souls :River:
 :PROPERTIES:
 :rating:   8.
 :END:
@@ -555,7 +555,7 @@ SCHEDULED: <2022-09-04 Sun>
 :rating:   8.9
 :END:
 
-***** [#A] 4.3/4.4 Day of the Master :War_Master:Missy:
+***** [#A] 4.3/4.4 Day of the Master :War_Master:Missy:Master_decayed:Master_roberts:
 :PROPERTIES:
 :rating:   9.3/9.6
 :END:
@@ -797,13 +797,13 @@ CLOSED: [2022-12-14 Wed 20:30] SCHEDULED: <2022-12-08 Thu>
 :rating:   7.9
 :END:
 
-***** START [#A] 5.3 - The Castle of Kurnos 5 :plot_yes:8th_Dr:DW2023_01_spinoffs:
-SCHEDULED: <2023-01-28 Sat>
+***** 3QTR [#A] 5.3 - The Castle of Kurnos 5 :plot_yes:8th_Dr:DW2023_01_spinoffs:
+CLOSED: [2023-01-05 Thu 08:38] SCHEDULED: <2023-01-05 Thu 08:38>
 :PROPERTIES:
 :rating:   8.6
 :END:
 
-***** [#A] 5.4 - The Cognition Shift     :plot_yes:8th_Dr:DW2023_02_spinoffs:
+***** [#A] 5.4 - The Cognition Shift :plot_yes:8th_Dr:DW2023_02_spinoffs:
 :PROPERTIES:
 :rating:   8.9
 :END:
@@ -1090,7 +1090,8 @@ CLOSED: <2020-12-17 Thu 19:57>
 **** 4.3 Beyond
 **** 4.4 Homecoming
 *** _vol.2 Warbringer_ :P2021_12:
-**** [#D] 2.1 - Consequences :DW2023_03_doctor:
+**** START [#E] 2.1 - Consequences :DW2023_01_doctor:
+SCHEDULED: <2023-01-20 Fri>
 :PROPERTIES:
 :rating:   6.8
 :END:
@@ -1107,7 +1108,7 @@ CLOSED: <2020-12-17 Thu 19:57>
 
 *** _vol.3 Battlegrounds_ :P2022_05:
 **** [#C] 3.1 - The Keeper of Light
-**** [#D] 3.2 - Temmosus
+**** [#E] 3.2 - Temmosus
 **** [#B] 3.3 - Rewind
 *** _vol.4 He Who Fights Monsters_ :P2022_12:
 *** Ambush (comic)
