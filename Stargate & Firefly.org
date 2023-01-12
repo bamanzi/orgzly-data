@@ -291,6 +291,8 @@ CLOSED: [2022-12-16 Fri 19:06]
 **** DONE 1x18
 CLOSED: [2022-12-20 Tue 07:56]
 
+1x18 - 2x01 四集为一个连续的故事
+
 **** DONE 1x19
 CLOSED: <2022-12-22 Thu 06:25>
 
@@ -307,6 +309,9 @@ CLOSED: [2022-12-24 Sat 19:59]
 
 **** DONE 2x02
 CLOSED: [2022-12-28 Wed 19:09]
+
+**** DONE 2x03
+CLOSED: [2023-01-06 Fri 07:27]
 
 * The Expanse :expense:
 ** DONE S1
