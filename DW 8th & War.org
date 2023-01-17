@@ -673,6 +673,44 @@ http://blog.sina.cn/dpool/blog/s/blog_6c777581010185u0.html?type=2
 
 ** comics
 *** DWM
+**** Endgame
+***** DONE Endgame (DWM244-247) :Izzy:Max:ToyMaker:
+***** DONE The Keep (DWM248-249) :Izzy:
+***** DONE A Life of Matter and Death (DWM250) :Izzy:
+***** DONE Fire and Brimstone (DWM251-255) :Izzy:Daleks:
+***** DONE By Hook or By Crook (DWM256) :Izzy:
+***** DONE Tooth and Claw (DWM257-260) :Izzy:Fey:
+***** DONE The Final Chapter (DWM262-265) :Izzy:Fey:Shayde:Rassilon:
+***** DONE Wormwood (DWM266-271) :Izzy:Fey:Shayde:
+**** The Glorious Dead
+***** Happy Deathday (DWM272) :Izzy:
+***** The Fallen (DWM273-276) :Izzy:Grace:Master:
+***** Unnatural Born Killers (DWM277) :Kroton:Sontarans:no_doctor:
+***** The Road to Hell (DWM278-282) :Izzy:
+***** TV Action! (DWM283) :Izzy:
+***** The Company of Thieves (DWM284-286) :Izzy:Kroton:
+***** The Glorious Dead (DWM287-296) :Izzy:Kroton:Master:
+***** The Autonomy Bug (DWM297-299) :Izzy:
+***** Ship of Fools (DWM23-24)                             :Kroton:no_doctor:
+***** Throwback: The Soul of a Cybermen           :Kroton:Cybermen:no_doctor:
+**** Oblivion
+***** Ophidius (DWM300-303) :Izzy:Destrii:
+***** Beautiful Freak (DWM304) :Izzy:
+***** The Way of All Flesh (DWM306) :Izzy:
+***** Character Assassin (DWM311)                          :Master:no_doctor:
+***** Children of the Revolution (DWM312-317) :Izzy:Daleks:
+***** Me and My Shadow (DWM318) :Feyde:
+***** Uroboros (DWM319-322) :Feyde:Destrii:
+***** Oblivion (DWM323-328) :Izzy:Feyde:Destrii:
+**** The Flood
+***** Where Nobody Knows Your Name (DWM329)                       :Frobisher:
+***** Doctor Who and the Nightmare Game (DWM330-332)
+***** The Power of Thoueris! (DWM333)
+***** The Curious Tale of Spring-Heeled Jack (DWM334-336)
+***** The Land of Happy Endings (DWM337) :John_and_Gillian:
+***** Bad Blood (DWM338-342) :Destrii:
+***** Sins of the Fathers (DWM343-345) :Destrii:
+***** The Flood (DWM346-353) :Destrii:Cybermen:
 *** Titan
 ** DONE movie: Doctor Who (1996)
 CLOSED: [2022-08-15 Mon 21:26]

@@ -448,6 +448,20 @@ CLOSED: <2023-01-11 Wed 07:02>
 
 part of /Short Trips: Monsters/
 
+** comics
+*** DWMGN: The Tides of Time (DWM61-87)
+**** DONE The Tides of Time (DWM61-67)                 :Shayde:
+**** DONE Stars Fell on Stockbridge (DWM68-69) :Max:
+**** DONE The Stockbridge Horror (DWM70-75)       :Shayde:
+**** DONE Lunar Lagoon (DWM76-77)                           :Gus:
+**** DONE 4-Dimensional Vistas (DWM78-83)           :Gus:the_Monk:Ice_Warriors:
+**** DONE The Moderator (DWM84,86-87)                      :Gus:
+
+*** DWM misc
+**** The Lunar Strangers (DWM215-217)                        :Tegan:Turlough:
+**** DONE The Curse of the Scarab (DWM228-230)                         :Peri:
+**** Blood Invocation (DWY1995)
+
 * 6th Doctor :6th_Dr:
 ** tv :📺:
 *** Season 21
@@ -837,6 +851,32 @@ Volume One
 ***** 2.3 World Enough and Time
 ***** 2.4 The Eye of the Storm
 **** ST4.6 - To Cut a Blade of Grass
+** comics
+*** DWMGN: Voyager (DWM88-107)
+**** DONE The Shape Shifter (DWM88-89)     :Frobisher:      
+**** DONE Voyager (DWM90-94)               :Frobisher:      
+**** DONE Polly the Glot (DWM95-97)        :Frobisher:      
+**** DONE Once Upon a Time Lord (DWM98-99) :Frobisher:      
+**** DONE War-Game (DWM100-101)              :Frobisher:    
+**** DONE Funhouse (DWM102-103)              :Frobisher:    
+**** DONE Kane's Story (DWM104)          :Peri:Frobisher: 
+**** DONE Abel's Story (DWM105)          :Peri:Frobisher: 
+**** DONE The Warrior's Story (DWM106)   :Peri:Frobisher: 
+**** DONE Frobisher's Story (DWM107)     :Peri:Frobisher: 
+
+*** DWMGN: The World Shapers (DWM108-129)
+**** DONE Exodus (DWM108)               :Peri:Frobisher:
+**** DONE Revelation! (DWM109)          :Peri:Frobisher:Cybermen:
+**** DONE Genesis! (DWM110)             :Peri:Frobisher:Cybermen:
+**** DONE Nature of the Beast! (DWM111-113) :Peri:Frobisher:
+**** DONE Time Bomb (DWM114-116)            :Frobisher:
+**** DONE Salad Daze (DWM117)           :Peri:Frobisher:
+**** DONE Changes (DWM118-119)              :Peri:Frobisher:
+**** DONE Profits of Doom! (DWM120-122)     :Peri:Frobisher:
+**** DONE The Gift (DWM123-126)             :Peri:Frobisher:
+**** DONE The World Shapers (DWM127-129)    :Peri:Frobisher:Jamie:Voord:Cybermen:
+
+*** The Age of Chaos                                              :Frobisher:
 * 7th Doctor :7th_Dr:
 ** tv :📺:
 *** S24
@@ -1169,39 +1209,213 @@ block 原因：太长（3小时多）
 **** River2.1 The Unknown
 **** ST6.13 - Forever Fallen
 ** comics
-*** A Cold Day in Hell! (DWM 130-148)
+*** DWMGN: A Cold Day in Hell! (DWM 130-150)
 
 DWMGN #11
 
-*** Nemesis of the Daleks (DWM 152-162)
+**** DONE (DWM130-133) A Cold Day in Hell!          :ice_warriors:Frobisher:
+CLOSED: <2023-01-14 Sat 22:23>
+**** (DWM134) Redemption!                                              :Olla:
+**** (DWM135) The Crossroads of Time
+**** (DWM136-138) Claws of the Klathi!  
+**** (DWM139) Culture Shock!        
+**** (DWM140) Keepsake              
+**** (DWM141-142) Planet of the Dead    
+**** (DWM143-144) Echoes of the Mogor!  
+**** (DWM145-146) Time and Tide         
+**** (DWM147) Follow That TARDIS!                                  :The_Monk:
+**** (DWM148-150) Invaders from Gantac! 
 
+*** DWMGN: Nemesis of the Daleks (DWM 152-162)
 DWMGN #15
+**** DONE Nemesis of the Daleks (DWM152-155)            :Abslom_Daak:Daleks:
+**** Stairway to Heaven (DWM156)
+**** (TIDH1-12) 
+**** DONE Hunger from the Ends of Time! (DWM157-158)
+**** Train-Flight (DWM159-161)                                        :Sarah:
+**** Doctor Conkerer! (DWM162)
+**** DONE Asblom Daak...Dalek Killer           :no_doctor:Abslom_Daak:Daleks:
+**** DONE Star Tigers (DWM27-)                 :no_doctor:Abslom_Daak:Daleks:
+DWM27-30, 44-46
 
-**** DONE 55. Nemesis of the Daleks :Daak:
-*** The Good Soldier (DWM 163-179)
-
+*** DWMGN: The Good Soldier (DWM164-179) 
 DWMGN #20
+**** (DWM164-166) Fellow Travellers                                       :Ace: 
+**** (DWM167) Darkness, Falling             :no_doctor:Brig:Mandragora_Helix:
+**** (DWM168) Distractions                             :Ace:Mandragora_Helix:
+**** (DWM169-172) The Mark of Mandragora          :Ace:Brig:Mandragora_Helix:
+**** (DWM173) Party Animals                                               :Ace:
+**** (DWM174) The Chameleon Factor                                        :Ace:          
+**** DONE (DWM175-178) The Good Soldier                        :Ace:Cybermen: 
+**** (DWM179) A Glitch in Time                                            :Ace:          
+**** (DWMS1991) Seaside Rendezvous                                        :Ace:          
 
-**** DONE 65. The Good Soldier :Cybermen:
-CLOSED: [2022-11-15 Tue 13:04]
-
-*** Evening's Empire (DWM 183-192)
-
+*** DWMGN: Evening's Empire (DWM180-192)
 DWMGN #22
+**** Evening's Empire (DWM180) :Ace:
+**** The Grief (DWM185-187) :Ace:
+**** Ravens (DWM188-190)                               
+**** Memorial (DWM191) :Ace:
+**** Cat Litter (DWM192) :Ace:
+**** Conflict of Interests (DWM183)                     :Sontarans:no_doctor:
 
-*** Emperor of the Daleks (DWM 193-211)
-
+*** DWMGN: Emperor of the Daleks (DWM192-227)
 DWMGN #24
+**** DONE Pureblood (DWM193-196)                      :Benny:Sontarans:Rutan:
+**** Flashback (DWMS1992)                                             :Benny:
+**** DONE Emperor of the Daleks! (DWM197-202) :6th_Dr:Benny:Peri:Abslom_Daak:Daleks:
+**** Final Genesis (DWM203-206)                                   :Ace:Benny:
+**** Time & Time Again (DWM207)  :Susan:Jamie:Zoe:Adric:Frobisher:Ace:Benny:
+**** Cuckoo (DWM208-210)                                          :Ace:Benny:
+**** Uninvited Guest (DWM211)                                      :Eternals:
+**** DONE Up Above the Gods (DWM227)                          :6th_Dr:Davros:
 
-**** Pureblood :Benny:
-**** Flashback :Benny:DWMS:P1992:
-**** DONE Emperor of the Daleks :Davros:Benny:
-**** Final Genesis :Benny:
-**** Time and Time Again :Benny:
-**** Cuckoo :Benny:
-**** DONE Up Above the Gods :Davros:6th_Dr:
+ |-------------+---------------------------------------------+----------------------+--------------------------------+------------------------------+------------------------------+---|
+ |     212-214 | [[http://tardis.wikia.com/wiki/Victims_%28comic_story%29][Victims]]                                     | 4th                  | Romana II                      |                              |                              |   |
+ |     215-217 | [[http://tardis.wikia.com/wiki/The_Lunar_Strangers_%28comic_story%29][The Lunar Strangers]]                         | 5th                  | Tegan, Turlough                |                              |                              |   |
+ |     218-220 | [[http://tardis.wikia.com/wiki/Food_for_Thought_%28comic_story%29][Food for Thought]]                            | 1st                  | Ben, Polly                     | Land of the Blind            |                              |   |
+ |     221-223 | [[http://tardis.wikia.com/wiki/Change_of_Mind_%28comic_story%29][Change of Mind]]                              | 3rd                  | Liz, the Brigadier             |                              |                              |   |
+ |     224-226 | [[http://tardis.wikia.com/wiki/Land_of_the_Blind_%28comic_story%29][Land of the Blind]]                           | 2nd                  | Jamie, Zoe                     |                              |                              |   |
+ |-------------+---------------------------------------------+----------------------+--------------------------------+------------------------------+------------------------------+---|
+ |     228-230 | [[http://tardis.wikia.com/wiki/The_Curse_of_the_Scarab_%28comic_story%29][The Curse of the Scarab]]                     | 5th                  | Peri                           |                              |                              |   |
+ |     231-233 | [[http://tardis.wikia.com/wiki/Operation_Proteus_%28comic_story%29][Operation Proteus]]                           | 1st                  | Susan                          |                              |                              |   |
+ |         234 | [[http://tardis.wikia.com/wiki/Target_Practice_%28comic_story%29][Target Practice]]                             | 3rd                  | Jo, the Brigadier, Benton      | Ground Zero                  |                              |   |
+ |     235-237 | [[http://tardis.wikia.com/wiki/Black_Destiny_%28comic_story%29][Black Destiny]]                               | 4th                  | Sarah Jane, Harry              |                              |                              |   |
+ |     238-242 | [[http://tardis.wikia.com/wiki/Ground_Zero_%28comic_story%29][Ground Zero]]                                 | 7th                  | Susan, Sarah Jane, Peri, Ace   |                              |                              |   |
+ |         243 | [[http://tardis.wikia.com/wiki/Doctor_Who_and_the_Fangs_of_Time_%28comic_story%29][Doctor Who and the Fangs of Time]]            | 4th                  |                                |                              |                              |   |
+ |-------------+---------------------------------------------+----------------------+--------------------------------+------------------------------+------------------------------+---|
+ |     244-247 | [[http://tardis.wikia.com/wiki/Endgame_%28comic_story%29][Endgame]]                                     | 8th                  | Izzy, Max, The Celestial Toymaker |                              |                              |   |
+ |     248-249 | [[http://tardis.wikia.com/wiki/The_Keep_%28comic_story%29][The Keep]]                                    | 8th                  | Izzy                           |                              |                              |   |
+ |         250 | [[http://tardis.wikia.com/wiki/A_Life_of_Matter_and_Death_%28comic_story%29][A Life of Matter and Death]]                  | 8th                  | Izzy                           |                              |                              |   |
+ |     251-255 | [[http://tardis.wikia.com/wiki/Fire_and_Brimstone_%28comic_story%29][Fire and Brimstone]]                          | 8th                  | Izzy, Daleks                   | [[http://tardis.wikia.com/wiki/Endgame_(graphic_novel)][Endgame]]                      |                              |   |
+ |         256 | [[http://tardis.wikia.com/wiki/By_Hook_or_By_Crook_%28comic_story%29][By Hook or By Crook]]                         | 8th                  | Izzy                           |                              |                              |   |
+ |     257-260 | [[http://tardis.wikia.com/wiki/Tooth_and_Claw_%28comic_story%29][Tooth and Claw]]                              | 8th                  | Izzy, Fey                      |                              |                              |   |
+ |     262-265 | [[http://tardis.wikia.com/wiki/The_Final_Chapter_%28comic_story%29][The Final Chapter]]                           | 8th                  | Izzy, Fey, Shayde, Rassilon    |                              |                              |   |
+ |     266-271 | [[http://tardis.wikia.com/wiki/Wormwood_%28comic_story%29][Wormwood]]                                    | 8th                  | Izzy, Fey, Shayde              |                              |                              |   |
+ |-------------+---------------------------------------------+----------------------+--------------------------------+------------------------------+------------------------------+---|
+ |         272 | [[http://tardis.wikia.com/wiki/Happy_Deathday_%28comic_story%29][Happy Deathday]]                              | 1st, 2nd, 3rd, 4th, 5th, 6th, 7th, 8th | Izzy                           |                              |                              |   |
+ |     273-276 | [[http://tardis.wikia.com/wiki/The_Fallen_%28comic_story%29][The Fallen]]                                  | 8th                  | Izzy, Grace, the Master        |                              |                              |   |
+ |         277 | [[http://tardis.wikia.com/wiki/Unnatural_Born_Killers_%28comic_story%29][Unnatural Born Killers]]                      | -                    | Kroton, Sontarans              |                              |                              |   |
+ |     278-282 | [[http://tardis.wikia.com/wiki/The_Road_to_Hell_%28comic_story%29][The Road to Hell]]                            | 8th                  | Izzy                           | [[http://tardis.wikia.com/wiki/The_Glorious_Dead_(graphic_novel)][The Glorious Dead]]            |                              |   |
+ |         283 | [[http://tardis.wikia.com/wiki/TV_Action!_%28comic_story%29][TV Action!]]                                  | 8th                  | Izzy                           |                              |                              |   |
+ |     284-286 | [[http://tardis.wikia.com/wiki/The_Company_of_Thieves_%28comic_story%29][The Company of Thieves]]                      | 8th                  | Izzy, Kroton                   |                              |                              |   |
+ |     287-296 | [[http://tardis.wikia.com/wiki/The_Glorious_Dead_%28comic_story%29][The Glorious Dead]]                           | 8th                  | Izzy, Kroton, the Master       |                              |                              |   |
+ |     297-299 | [[http://tardis.wikia.com/wiki/The_Autonomy_Bug_%28comic_story%29][The Autonomy Bug]]                            | 8th                  | Izzy                           |                              |                              |   |
+ |-------------+---------------------------------------------+----------------------+--------------------------------+------------------------------+------------------------------+---|
+ |             |                                             |                      |                                | ################## Apr 2001  | DWM coloured comic starts ## |   |
+ |-------------+---------------------------------------------+----------------------+--------------------------------+------------------------------+------------------------------+---|
+ |     300-303 | [[http://tardis.wikia.com/wiki/Ophidius_%28comic_story%29][Ophidius]]                                    | 8th                  | Izzy, Destrii                  | Oblivion                     |                              |   |
+ |         304 | [[http://tardis.wikia.com/wiki/Beautiful_Freak_%28comic_story%29][Beautiful Freak]]                             | 8th                  | Izzy                           |                              |                              |   |
+ |         305 | [[http://tardis.wikia.com/wiki/The_Last_Word_%28comic_story%29][The Last Word]]                               | 7th                  | Ace, Benny                     | /                            |                              |   |
+ | 306,308-310 | [[http://tardis.wikia.com/wiki/The_Way_of_All_Flesh_%28comic_story%29][The Way of All Flesh]]                        | 8th                  | Izzy                           | [[http://tardis.wikia.com/wiki/Oblivion_(graphic_novel)][Oblivion]]                     |                              |   |
+ |         307 | [[http://tardis.wikia.com/wiki/Flower_Power_%28comic_story%29][Flower Power]] (TV Comic reprint)             | 2nd                  | John and Gillian, Cybermen     | /                            |                              |   |
+ |         311 | [[http://tardis.wikia.com/wiki/Character_Assassin_%28comic_story%29][Character Assassin]]                          | -                    | The Master                     |                              |                              |   |
+ |     312-317 | [[http://tardis.wikia.com/wiki/Children_of_the_Revolution_%28comic_story%29][Children of the Revolution]]                  | 8th                  | Izzy, Daleks                   |                              |                              |   |
+ |         318 | [[http://tardis.wikia.com/wiki/Me_and_My_Shadow_%28comic_story%29][Me and My Shadow]]                            | -                    | Feyde                          | Oblivion                     |                              |   |
+ |     319-322 | [[http://tardis.wikia.com/wiki/Uroboros_%28comic_story%29][Uroboros]]                                    | 8th                  | Feyde, Destrii                 |                              |                              |   |
+ |     323-328 | [[http://tardis.wikia.com/wiki/Oblivion_%28comic_story%29][Oblivion]]                                    | 8th                  | Izzy, Feyde, Destrii           |                              |                              |   |
+ |-------------+---------------------------------------------+----------------------+--------------------------------+------------------------------+------------------------------+---|
+ |         329 | [[http://tardis.wikia.com/wiki/Where_Nobody_Knows_Your_Name_%28comic_story%29][Where Nobody Knows Your Name]]                | 8th                  | Frobisher                      |                              |                              |   |
+ |     330-332 | [[http://tardis.wikia.com/wiki/Doctor_Who_and_the_Nightmare_Game_%28comic_story%29][Doctor Who and the Nightmare Game]]           | 8th                  |                                |                              |                              |   |
+ |         333 | [[http://tardis.wikia.com/wiki/The_Power_of_Thoueris!_%28comic_story%29][The Power of Thoueris!]]                      | 8th                  |                                |                              |                              |   |
+ |     334-336 | [[http://tardis.wikia.com/wiki/The_Curious_Tale_of_Spring-Heeled_Jack_%28comic_story%29][The Curious Tale of Spring-Heeled Jack]]      | 8th                  |                                | [[http://tardis.wikia.com/wiki/The_Flood_(graphic_novel)][The Flood]]                    |                              |   |
+ |         337 | [[http://tardis.wikia.com/wiki/The_Land_of_Happy_Endings_%28comic_story%29][The Land of Happy Endings]]                   | 8th                  | John and Gillian               |                              |                              |   |
+ |     338-342 | [[http://tardis.wikia.com/wiki/Bad_Blood_%28comic_story%29][Bad Blood]]                                   | 8th                  | Destrii                        |                              |                              |   |
+ |     343-345 | [[http://tardis.wikia.com/wiki/Sins_of_the_Fathers_%28comic_story%29][Sins of the Fathers]]                         | 8th                  | Destrii                        |                              |                              |   |
+ |     346-353 | [[http://tardis.wikia.com/wiki/The_Flood_%28comic_story%29][The Flood]]                                   | 8th                  | Destrii, Cybermen              |                              |                              |   |
+ |-------------+---------------------------------------------+----------------------+--------------------------------+------------------------------+------------------------------+---|
+ |     355-357 | [[http://tardis.wikia.com/wiki/The_Love_Invasion_%28comic_story%29][The Love Invasion]]                           | 9th                  | Rose                           |                              |                              |   |
+ |         358 | [[http://tardis.wikia.com/wiki/Art_Attack_%28comic_story%29][Art Attack]]                                  | 9th                  | Rose                           | [[http://tardis.wikia.com/wiki/The_Cruel_Sea_(graphic_novel)][The Cruel Sea]]                |                              |   |
+ |     359-362 | [[http://tardis.wikia.com/wiki/The_Cruel_Sea_%28comic_story%29][The Cruel Sea]]                               | 9th                  | Rose                           |                              |                              |   |
+ |     363-364 | [[http://tardis.wikia.com/wiki/A_Groatsworth_of_Wit_%28comic_story%29][A Groatsworth of Wit]]                        | 9th                  | Rose                           |                              |                              |   |
+ |-------------+---------------------------------------------+----------------------+--------------------------------+------------------------------+------------------------------+---|
+ |     365-367 | [[http://tardis.wikia.com/wiki/The_Betrothal_of_Sontar_%28comic_story%29][The Betrothal of Sontar]]                     | 10th                 | Rose, Sontarans                |                              |                              |   |
+ |         368 | [[http://tardis.wikia.com/wiki/The_Lodger_%28comic_story%29][The Lodger]]                                  | 10th                 | Rose, Mickey, Jackie           |                              |                              |   |
+ |     369-371 | [[http://tardis.wikia.com/wiki/F.A.Q._%28comic_story%29][F.A.Q.]]                                      | 10th                 | Rose                           |                              |                              |   |
+ |     372-374 | [[http://tardis.wikia.com/wiki/The_Futurists_%28comic_story%29][The Futurists]]                               | 10th                 | Rose                           | [[http://tardis.wikia.com/wiki/The_Betrothal_of_Sontar_(graphic_novel)][The Betrothal of Sontar]]      |                              |   |
+ |     375-376 | [[http://tardis.wikia.com/wiki/Interstellar_Overdrive_%28comic_story%29][Interstellar Overdrive]]                      | 10th                 | Rose                           |                              |                              |   |
+ |         377 | [[http://tardis.wikia.com/wiki/The_Green-Eyed_Monster_%28comic_story%29][The Green-Eyed Monster]]                      | 10th                 | Rose, Mickey, Jackie           |                              |                              |   |
+ |     378-380 | [[http://tardis.wikia.com/wiki/The_Warkeeper%27s_Crown_%28comic_story%29][The Warkeeper's Crown]]                       | 10th                 | The Brigadier                  |                              |                              |   |
+ |-------------+---------------------------------------------+----------------------+--------------------------------+------------------------------+------------------------------+---|
+ |     381-384 | [[http://tardis.wikia.com/wiki/The_Woman_Who_Sold_the_World_%28comic_story%29][The Woman Who Sold the World]]                | 10th                 | Martha                         |                              |                              |   |
+ |         385 | [[http://tardis.wikia.com/wiki/Bus_Stop!_%28comic_story%29][Bus Stop!]]                                   | 10th                 | Martha                         |                              |                              |   |
+ |     386-389 | [[http://tardis.wikia.com/wiki/The_First_%28comic_story%29][The First]]                                   | 10th                 | Martha                         | [[http://tardis.wikia.com/wiki/The_Widow's_Curse_(graphic_novel)][The Widow's Curse]]            |                              |   |
+ |         390 | [[http://tardis.wikia.com/wiki/Death_to_the_Doctor!_%28comic_story%29][Death to the Doctor!]]                        | 10th                 | Martha                         |                              |                              |   |
+ |     391-393 | [[http://tardis.wikia.com/wiki/Universal_Monsters_%28comic_story%29][Universal Monsters]]                          | 10th                 | Martha                         |                              |                              |   |
+ |         394 | [[http://tardis.wikia.com/wiki/Hotel_Historia_%28comic_story%29][Hotel Historia]]                              | 10th                 | Majenta                        | (The Crimson Hand)           |                              |   |
+ |     395-398 | [[http://tardis.wikia.com/wiki/The_Widow%27s_Curse_%28comic_story%29][The Widow's Curse]]                           | 10th                 | Donna, Sycorax                 | The Widow's Curse            |                              |   |
+ |         399 | [[http://tardis.wikia.com/wiki/The_Time_of_My_Life_%28comic_story%29][The Time of My Life]]                         | 10th                 | Donna                          |                              |                              |   |
+ |-------------+---------------------------------------------+----------------------+--------------------------------+------------------------------+------------------------------+---|
+ |     400-402 | [[http://tardis.wikia.com/wiki/Thinktwice_%28comic_story%29][Thinktwice]]                                  | 10th                 | Majenta                        |                              |                              |   |
+ |     403-405 | [[http://tardis.wikia.com/wiki/The_Stockbridge_Child_%28comic_story%29][The Stockbridge Child]]                       | 10th                 | Majenta, Max                   |                              |                              |   |
+ |     406-407 | [[http://tardis.wikia.com/wiki/Mortal_Beloved_%28comic_story%29][Mortal Beloved]]                              | 10th                 | Majenta                        |                              |                              |   |
+ |     408-411 | [[http://tardis.wikia.com/wiki/The_Age_of_Ice_%28comic_story%29][The Age of Ice]]                              | 10th                 | Majenta                        | [[http://tardis.wikia.com/wiki/The_Crimson_Hand_(graphic_novel)][The Crimson Hand]]             |                              |   |
+ |         412 | [[http://tardis.wikia.com/wiki/The_Deep_Hereafter_%28comic_story%29][The Deep Hereafter]]                          | 10th                 | Majenta                        |                              |                              |   |
+ |         413 | [[http://tardis.wikia.com/wiki/Onomatopoeia_%28comic_story%29][Onomatopoeia]]                                | 10th                 | Majenta                        |                              |                              |   |
+ |     414-415 | [[http://tardis.wikia.com/wiki/Ghosts_of_the_Northern_Line_%28comic_story%29][Ghosts of the Northern Line]]                 | 10th                 | Majenta                        |                              |                              |   |
+ |     416-420 | [[http://tardis.wikia.com/wiki/The_Crimson_Hand_%28comic_story%29][The Crimson Hand]]                            | 10th                 | Majenta                        |                              |                              |   |
+ |-------------+---------------------------------------------+----------------------+--------------------------------+------------------------------+------------------------------+---|
+ |     421-423 | [[http://tardis.wikia.com/wiki/Supernature_%28comic_story%29][Supernature]]                                 | 11th                 | Amy                            |                              |                              |   |
+ |         424 | [[http://tardis.wikia.com/wiki/Planet_Bollywood_%28comic_story%29][Planet Bollywood]]                            | 11th                 | Amy                            |                              |                              |   |
+ |     425-428 | [[http://tardis.wikia.com/wiki/The_Golden_Ones_%28comic_story%29][The Golden Ones]]                             | 11th                 | Amy, Axos                      |                              |                              |   |
+ |         429 | [[http://tardis.wikia.com/wiki/The_Professor,_the_Queen_and_the_Bookshop_%28comic_story%29][The Professor, the Queen and the Bookshop]]   | 11th                 | Amy                            |                              |                              |   |
+ |     430-431 | [[http://tardis.wikia.com/wiki/The_Screams_of_Death_%28comic_story%29][The Screams of Death]]                        | 11th                 | Amy                            | [[http://tardis.wikia.com/wiki/The_Child_of_Time_(graphic_novel)][The Child of Time]]            |                              |   |
+ |         432 | [[http://tardis.wikia.com/wiki/Do_Not_Go_Gentle_Into_That_Good_Night_%28comic_story%29][Do Not Go Gentle Into That Good Night]]       | 11th                 | Amy                            |                              |                              |   |
+ |     433-434 | [[http://tardis.wikia.com/wiki/Forever_Dreaming_%28comic_story%29][Forever Dreaming]]                            | 11th                 | Amy                            |                              |                              |   |
+ |     435-437 | [[http://tardis.wikia.com/wiki/Apotheosis_%28comic_story%29][Apotheosis]]                                  | 11th                 | Amy                            |                              |                              |   |
+ |     438-441 | [[http://tardis.wikia.com/wiki/The_Child_of_Time_%28comic_story%29][The Child of Time]]                           | 11th                 | Amy                            |                              |                              |   |
+ |-------------+---------------------------------------------+----------------------+--------------------------------+------------------------------+------------------------------+---|
+ |     442-445 | [[http://tardis.wikia.com/wiki/The_Chains_of_Olympus_%28comic_story%29][The Chains of Olympus]]                       | 11th                 | Amy, Rory                      |                              |                              |   |
+ |     446-447 | [[http://tardis.wikia.com/wiki/Sticks_&_Stones_%28comic_story%29][Sticks & Stones]]                             | 11th                 | Amy, Rory                      | [[http://tardis.wikia.com/wiki/The_Chains_of_Olympus_(graphic_novel)][The Chains of Olympus]]        |                              |   |
+ |     448-450 | [[http://tardis.wikia.com/wiki/The_Cornucopia_Caper_%28comic_story%29][The Cornucopia Caper]]                        | 11th                 | Amy, Rory                      |                              |                              |   |
+ |-------------+---------------------------------------------+----------------------+--------------------------------+------------------------------+------------------------------+---|
+ |     451-454 | [[http://tardis.wikia.com/wiki/The_Broken_Man_%28comic_story%29][The Broken Man]]                              | 11th                 | Amy, Rory                      |                              |                              |   |
+ |         455 | [[http://tardis.wikia.com/wiki/Imaginary_Enemies_%28comic_story%29][Imaginary Enemies]]                           | -                    | Amy, Rory, Mels                | [[http://tardis.wikia.com/wiki/Hunters_of_the_Burning_Stone_(graphic_novel)][Hunters of the Burning Stone]] |                              |   |
+ |     456-461 | [[http://tardis.wikia.com/wiki/Hunters_of_the_Burning_Stone_%28comic_story%29][Hunters of the Burning Stone]]                | 11th                 | Ian, Barbara                   |                              |                              |   |
+ |-------------+---------------------------------------------+----------------------+--------------------------------+------------------------------+------------------------------+---|
+ |     462-464 | [[http://tardis.wikia.com/wiki/A_Wing_and_a_Prayer_%28comic_story%29][A Wing and a Prayer]]                         | 11th                 | Clara                          |                              |                              |   |
+ |     465-466 | [[http://tardis.wikia.com/wiki/Welcome_to_Tickle_Town_%28comic_story%29][Welcome to Tickle Town]]                      | 11th                 | Clara                          |                              |                              |   |
+ |         467 | [[http://tardis.wikia.com/wiki/John_Smith_and_the_Common_Men_%28comic_story%29][John Smith and the Common Men]]               | 11th                 | Clara                          | [[http://tardis.wikia.com/wiki/The_Blood_of_Azrael_(graphic_novel)][The Blood of Azrael]]          |                              |   |
+ |     468-469 | [[http://tardis.wikia.com/wiki/Pay_the_Piper_%28comic_story%29][Pay the Piper]]                               | 11th                 | Clara                          |                              |                              |   |
+ |     470-474 | [[http://tardis.wikia.com/wiki/The_Blood_of_Azrael_%28comic_story%29][The Blood of Azrael]]                         | 11th                 | Clara                          |                              |                              |   |
+ |-------------+---------------------------------------------+----------------------+--------------------------------+------------------------------+------------------------------+---|
+ |     475-476 | [[http://tardis.wikia.com/wiki/The_Crystal_Throne_%28comic_story%29][The Crystal Throne]]                          | -                    | Vastra, Jenny, Strax           |                              |                              |   |
+ |     477-480 | [[http://tardis.wikia.com/wiki/The_Eye_of_Torment_%28comic_story%29][The Eye of Torment]]                          | 12th                 | Clara                          | [[http://tardis.wikia.com/wiki/The_Eye_of_Torment_(graphic_novel)][The Eye of Torment]]           |                              |   |
+ |     481-483 | [[http://tardis.wikia.com/wiki/The_Instruments_of_War_%28comic_story%29][The Instruments of War]]                      | 12th                 | Clara, Sontarans               |                              |                              |   |
+ |         484 | [[http://tardis.wikia.com/wiki/Space_Invaders!_%28comic_story%29][Space Invaders!]]                             | 12th                 | Clara                          | (The Highgate Horror)        |                              |   |
+ |     485-488 | [[http://tardis.wikia.com/wiki/Blood_and_Ice_%28comic_story%29][Blood and Ice]]                               | 12th                 | Clara                          | The Eye of Torment           |                              |   |
+ |-------------+---------------------------------------------+----------------------+--------------------------------+------------------------------+------------------------------+---|
+ |     489-491 | [[http://tardis.wikia.com/wiki/Spirits_of_the_Jungle_%28comic_story%29][Spirits of the Jungle]]                       | 12th                 | Clara                          |                              |                              |   |
+ |     492-493 | [[http://tardis.wikia.com/wiki/The_Highgate_Horror_%28comic_story%29][The Highgate Horror]]                         | 12th                 | Clara, Jess                    |                              |                              |   |
+ |     494-495 | [[http://tardis.wikia.com/wiki/The_Dragon_Lord_%28comic_story%29][The Dragon Lord]]                             | 12th                 | Clara                          | [[http://tardis.wikia.com/wiki/The_Highgate_Horror_(graphic_novel)][The Highgate Horror]]          |                              |   |
+ |         496 | [[http://tardis.wikia.com/wiki/Theatre_of_the_Mind_%28comic_story%29][Theatre of the Mind]]                         | 12th                 | Clara                          |                              |                              |   |
+ |     497-499 | [[http://tardis.wikia.com/wiki/Witch_Hunt_%28comic_story%29][Witch Hunt]]                                  | 12th                 | Clara                          |                              |                              |   |
+ |-------------+---------------------------------------------+----------------------+--------------------------------+------------------------------+------------------------------+---|
+ |         500 | [[http://tardis.wikia.com/wiki/The_Stockbridge_Showdown_%28comic_story%29][The Stockbridge Showdown]]                    | 12th                 | Max, Sharon, Frobisher, Izzy, Destrii, Majenta |                              |                              |   |
+ |     501-503 | [[http://tardis.wikia.com/wiki/The_Pestilent_Heart_%28comic_story%29][The Pestilent Heart]]                         | 12th                 | Jess                           |                              |                              |   |
+ |         504 | [[http://tardis.wikia.com/wiki/Moving_In_%28comic_story%29][Moving In]]                                   | 12th                 | Jess                           |                              |                              |   |
+ |     505-506 | [[http://tardis.wikia.com/wiki/Bloodsport_%28comic_story%29][Bloodsport]]                                  | 12th                 | Jess                           | [[http://tardis.wikia.com/wiki/Doorway_to_Hell_(graphic_novel)][Doorway to Hell]]              |                              |   |
+ |         507 | [[http://tardis.wikia.com/wiki/Be_Forgot_%28comic_story%29][Be Forgot]]                                   | 12th                 | Jess                           |                              |                              |   |
+ |     508-511 | [[http://tardis.wikia.com/wiki/Doorway_to_Hell_%28comic_story%29][Doorway to Hell]]                             | 12th                 | Jess, the Master               |                              |                              |   |
+ |-------------+---------------------------------------------+----------------------+--------------------------------+------------------------------+------------------------------+---|
+ |     512-514 | [[http://tardis.wikia.com/wiki/The_Soul_Garden_%28comic_story%29][The Soul Garden]]                             | 12th                 | Bill                           | The Phantom Piper            |                              |   |
+ |     515-517 | [[http://tardis.wikia.com/wiki/The_Parliament_of_Fear_%28comic_story%29][The Parliament of Fear]]                      | 12th                 | Bill                           |                              |                              |   |
+ |         518 | [[http://tardis.wikia.com/wiki/Matildus_%28comic_story%29][Matildus]]                                    | 12th                 | Bill                           |                              |                              |   |
+ |     519-523 | [[http://tardis.wikia.com/wiki/The_Phantom_Piper_%28comic_story%29][The Phantom Piper]]                           | 12th                 | Bill                           | The Phantom Piper            |                              |   |
+ |     524-530 | [[http://tardis.wikia.com/wiki/The_Clockwise_War_%28comic_story%29][The Clockwise War]]                           | 12th                 | Bill                           | The Clockwise War            |                              |   |
+ |-------------+---------------------------------------------+----------------------+--------------------------------+------------------------------+------------------------------+---|
+ |     531-534 | [[https://tardis.fandom.com/wiki/The_Warmonger_(comic_story)][Warmonger]]                                   | 13th                 | Graham, Yaz, Ryan              | Mistress of Chaos                             |                              |   |
+ |     535-539 | [[https://tardis.fandom.com/wiki/Herald_of_Madness_(comic_story)][Herald of Madness]]                           | 13th                 | Graham, Yaz, Ryan              |                              |                              |   |
+ |     540-542 | [[https://tardis.fandom.com/wiki/The_Power_of_the_Mobox_(comic_story)][The Power of the Mobox]]                      | 13th                 | Graham, Yaz, Ryan              |                              |                              |   |
+ |     543-548 | [[https://tardis.fandom.com/wiki/Mistress_of_Chaos_(comic_story)][Mistree of Chaos]]                            | 13th                 | Graham, Yaz, Ryan              | [[https://tardis.fandom.com/wiki/Mistress_of_Chaos_(graphic_novel)][Mistress of Chaos]]            |                              |   |
+ |     549-552 | [[https://tardis.fandom.com/wiki/The_Piggybackers_(comic_story)][The Pinggybackers]]                           | 13th                 | Graham, Yaz, Ryan              | --                           |                              |   |
+ |     559-562 | The White Dragon                            | 13th                 | Graham, Yaz, Ryan              | --                           |                              |   |
+ |-------------+---------------------------------------------+----------------------+--------------------------------+------------------------------+------------------------------+---|
+ |     556-558 | Monstrous Beauty                            | 9th                  | Rose                           | --                           |                              |   |
+
 *** DWM misc
-**** Seaside Rendezvous :Ace:DWMS:P1991:
+**** Under Pressure :P1992:
+**** Metamorphosis  :P1993:
 **** Younger and Wiser :DWMS:P1994:
 **** Plastic Millenium :Mel:DWMS:P1994:
 **** Ground Zero :Ace:Threshold:P1996:

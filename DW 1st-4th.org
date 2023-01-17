@@ -309,6 +309,12 @@ SCHEDULED: <2023-01-31 Tue>
 
 https://www.bilibili.com/read/cv16029955
 
+** comics
+*** DWM
+**** Food for Thought (DWM218-220)  :Ben:Polly:
+**** Operation Proteus (DWM231-233) :Susan:
+**** Are You Listening? (DWMS1994)  :Vicki:Steven:
+
 * 2nd Doctor :2nd_Dr:
 ** tv :📺:
 *** Season 4 :1967:
@@ -411,6 +417,11 @@ UNIT 和 准将第一次正式出场
 - BBC版本(iCelery 熟肉): https://www.bilibili.com/video/av1780624/
 - 完整版本: http://www.doctorwho-devious.com/
 
+** comics
+*** DWM
+**** Land of the Blind (DWM224-226) :Jamie:Zoe:
+**** Flower Power (DWM307) (TV Comic reprint) :Cybermen:
+**** Bringer of Darkness (DWMS 1993) :Jamie:Victoria:Daleks:
 ** audio :🎧:
 *** EA :2CD:
 **** EA S2
@@ -681,12 +692,12 @@ CLOSED: [2020-06-18 Thu 12:51]
 *** DONE [#B] Titan Comics: The Heralds of Destruction :Titan:
 CLOSED: [2020-07-13 Mon 20:29]
 
-*** DONE DWM comics 3D :DWM:
+*** DONE DWM comics :DWM:
 CLOSED: [2020-06-30 Tue 14:01]
 
-**** DWMS1991 Winter - The Man in the Ion Mask
-**** DWM221-223 - Change of Mind
-**** DWM234 - Target Practice
+**** The Man in the Ion Mask (DWMS1991 Winter)
+**** Change of Mind (DWM221-223)
+**** Target Practice (DWM234)
 *** TVAction/TVComic
 **** Marvel DWCC reprint
 ** audio :🎧:
@@ -1042,15 +1053,41 @@ CLOSED: [2022-08-23 Tue 20:03] SCHEDULED: <2022-08-31 Wed>
 *** DONE Titan Comics: Gaze of the Medusa :Sarah:Titan:
 CLOSED: [2020-06-21 Sun 14:57]
 
-*** DONE DWM comics 4D
-CLOSED: [2020-08-10 Mon 20:14]
+*** DONE DWMGN: The Iron Legion
+**** DONE The Iron Legion (DWM1-8)
+**** DONE City of the Damned (DWM9-16)
+**** DONE Star Beast (DWM19-26)                                   :K9:Sharon:
+     CLOSED: [2020-08-10 Mon 20:19]
 
-**** DONE The Star Beast (重看) / The Star Beast 2
-CLOSED: [2020-08-10 Mon 20:19]
+**** DONE Dogs of Doom (DWM27-34)                          :K9:Sharon:Daleks:
+**** DONE Time Witch (DWM35-38)                                   :K9:Sharon:
+*** DONE DWMGN: Dragon's Claw
+**** DONE Dragon's Claw (DWM39-45)                       :K9:Sharon:Sontaran:
+**** DONE The Collector (DWM46)                                   :K9:Sharon:
+**** DONE Dreamers of Death (DWM47-48)                            :K9:Sharon:
+**** DONE The Life Bringer! (DWM49-50)                                   :K9:
+**** DONE War of the Words (DWM51)                                       :K9:
+**** DONE Spider-God (DWM52)
+**** DONE The Deal (DWM53)
+**** DONE End of the Line (DWM54-55)
+**** DONE Doctor Who and the Free-Fall Warriors (DWM56-57)
+**** DONE Junkyard Demon (DWM58-59)                                :Cybermen:
+**** DONE The Neutron Knights (DWM60)
+*** DWM misc
+**** Victims (DWM212-214)                                          :Romana_2:
+**** Black Destiny (DWM235-237)                                 :Sarah:Harry:
+**** The Fangs of Time (DWM243)
+**** DONE The Seventh Segment (DWM special 1995)                :Romana_1:K9:
+**** Rest and Re-Creation  (DWY1994)                           :Leela:Zygons:
+**** The Naked Flame       (DWY1995)                                  :Sarah:
+**** DONE Star Beast II         (DWY1996)                              :Beep:
+     CLOSED: [2020-08-10 Mon 20:14]
 
-**** 遗留 The Fangs of Time
-*** CANCEL Doctor Who Annuals (1976-1982) 看不下去
+**** Junk-Yard Demon II    (DWY1996)                               :Cybermen:
+*** CANCEL Doctor Who Annuals (1976-1982)
 CLOSED: [2020-08-03 Mon 23:17]
+
+ 看不下去
 
 *** TVComic
 **** Marvel DWCC reprint

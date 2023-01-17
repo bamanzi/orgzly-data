@@ -169,7 +169,25 @@ https://link.zhihu.com/?target=http%3A//id24601.lofter.com/post/1cce6a8f_1c71baa
 
 https://link.zhihu.com/?target=http%3A//id24601.lofter.com/post/1cce6a8f_1c757b093 （3-5）
 
-* 10th :10th_Dr:
+** comics
+*** DWM
+**** DWMGN: The Cruel Sea
+***** The Love Invasion (DWM355-357) :Rose:
+***** Art Attack (DWM358) :Rose:
+***** The Cruel Sea (DWM359-362) :Rose:
+***** A Groatsworth of Wit (DWM363-364) :Rose:
+**** Monstrous Beauty (DWM556-558) :Rose:
+*** Titan
+**** Weapons of Past Destruction
+**** 9D0
+***** Doctormania (#1-3)
+***** The Transformed (#4-5)
+***** Official Secrets (#6-8)
+***** Slaver's Song (#9-10)
+***** Sin-Eaters (#11-12)
+***** Secret Agent Man (#13)
+***** The Bidding War (#14-15)
+* 10th Doctor :10th_Dr:
 ** tv :📺:
 *** S02
 **** DONE 2x01 New Earth
@@ -180,14 +198,14 @@ CLOSED: [2022-05-08 Sun 16:38]
 **** DONE 199. The Next Doctor :Cybermen:P2008:
 CLOSED: [2022-12-11 Sun 22:27]
 
-** comics
+** comics :📚:
 *** IDW
 **** 10D vol.1
 ***** TODO Agent Provocateur
 ***** DONE The Forgotten
 CLOSED: [2020-08-16 Sun 13:54]
 
-**** 10D vol.2 :📚:🛒:
+**** 10D vol.2 :🛒:
 :PROPERTIES:
 :Bought:   Yes
 :END:
@@ -250,6 +268,42 @@ CLOSED: [2020-08-16 Sun 16:23]
 ***** 05 Revolving Doors
 ***** 06-08,10 Vortex Butterflies
 ***** 11-14 The Good Companion
+*** DWM
+**** DWMGN: The Betrothal of Sontar
+
+http://tardis.wikia.com/wiki/The_Betrothal_of_Sontar_(graphic_novel)
+
+***** The Betrothal of Sontar (DWM365-367) :Rose:Sontarans:
+***** The Lodger (DWM368) :Rose:Mickey:Jackie:
+***** F.A.Q. (DWM369-371) :Rose:
+***** The Futurists (DWM372-374) :Rose:
+***** Interstellar Overdrive (DWM375-376) :Rose:
+***** The Green-Eyed Monster (DWM377) :Rose:Mickey:Jackie:
+***** The Warkeeper's Crown (DWM378-380)   :The Brigadier:
+**** DWMGN: The Widow's Curse
+
+http://tardis.wikia.com/wiki/The_Widow's_Curse_(graphic_novel)
+
+***** The Woman Who Sold the World (DWM381-384) :Martha:
+***** Bus Stop! (DWM385) :Martha:
+***** The First (DWM386-389) :Martha:
+***** Death to the Doctor! (DWM390) :Martha:
+***** Universal Monsters (DWM391-393) :Martha:
+***** The Widow's Curse (DWM395-398) :Donna:Sycorax:
+***** The Time of My Life (DWM399) :Donna:
+**** DWMGN: The Crimson Hand
+
+http://tardis.wikia.com/wiki/The_Crimson_Hand_(graphic_novel)
+
+***** Hotel Historia (DWM394) :Majenta:
+***** Thinktwice (DWM400-402) :Majenta:
+***** The Stockbridge Child (DWM403-405) :Majenta:Max:
+***** Mortal Beloved (DWM406-407) :Majenta:
+***** The Age of Ice (DWM408-411) :Majenta:
+***** The Deep Hereafter (DWM412) :Majenta:
+***** Onomatopoeia (DWM413) :Majenta:
+***** Ghosts of the Northern Line (DWM414-415) :Majenta:
+***** The Crimson Hand (DWM416-420) :Majenta:
 ** audio :🎧:
 *** 10DA
 **** 10DA vol.1 :P2016:Donna:
@@ -535,7 +589,7 @@ CLOSED: [2022-12-10 Sat 21:48]
 :rating:   3.84
 :END:
 
-* 11th :11th_Dr:
+* 11th Doctor :11th_Dr:
 ** tv :📺:
 *** S5
 **** DONE 5x07 The Hungry Earth /08 Cold Blood :Silurians:
@@ -676,6 +730,43 @@ CLOSED: [2020-08-16 Sun 17:00]
 CLOSED: [2020-08-16 Sun 17:00]
 
 **** 11DY3
+*** DWM
+**** DWMGN: The Child of Time
+
+ http://tardis.wikia.com/wiki/The_Child_of_Time_(graphic_novel)
+
+***** Supernature (DWM421-423) :Amy:
+***** Planet Bollywood (DWM424) :Amy:
+***** The Golden Ones (DWM425-428) :Amy:Axos:
+***** The Professor, the Queen and the Bookshop (DWM429) :Amy:
+***** The Screams of Death (DWM430-431) :Amy:
+***** Do Not Go Gentle Into That Good Night (DWM432) :Amy:
+***** Forever Dreaming (DWM433-434) :Amy:
+***** Apotheosis (DWM435-437) :Amy:
+***** The Child of Time (DWM438-441) :Amy:
+**** DWMGN: The Chains of Olympus
+
+ http://tardis.wikia.com/wiki/The_Chains_of_Olympus_(graphic_novel)
+
+***** The Chains of Olympus (DWM442-445) :Amy:Rory:
+***** Sticks & Stones (DWM446-447) :Amy:Rory:
+***** The Cornucopia Caper (DWM448-450) :Amy:Rory:
+**** DWMGN: Hunters of Buring Stone
+
+  http://tardis.wikia.com/wiki/Hunters_of_the_Burning_Stone_(graphic_novel)
+
+***** The Broken Man (DWM451-454) :Amy:Rory:
+***** Imaginary Enemies (DWM455) :Amy:Rory:Mels:
+***** Hunters of the Burning Stone (DWM456-461) :Ian:Barbara:
+**** DWMGN: The Blood of Azrael
+
+  http://tardis.wikia.com/wiki/The_Blood_of_Azrael_(graphic_novel)
+
+***** A Wing and a Prayer (DWM462-464) :Clara:
+***** Welcome to Tickle Town (DWM465-466) :Clara:
+***** John Smith and the Common Men (DWM467) :Clara:
+***** Pay the Piper (DWM468-469) :Clara:
+***** The Blood of Azrael (DWM470-474) :Clara:
 ** novels :📔:
 *** DONE [#A] 天使之触 Touched by Angles :已购:Kindle己购:
 :PROPERTIES:
@@ -814,6 +905,56 @@ https://www.youtube.com/watch?v=pTBh7pEzUCw&t=913s
 
 英文简介：Salem, Massachusetts, 1693. The innocent blood of young women has been spilled, in the name of The Lord. The Witch Trials have begun. Listening to the voices from the Heavens, Parson Richards sees it in his very nature to smite the wicked and protect the villagers of Salem. He shall do all that he deems necessary to those accused of Witchcraft. However, when a oddly-dressed Scotsman enters the premises, can he manage to persuade Parson Richards to spare the most recently accused "Witch"; Ashildr? Not standing to see innocent lives being lost, The Doctor decides to do all he can to put an end to the Salem Witch Trials once and for all...
 
+** comics
+*** DWM
+**** DWMGN: The Eye of Torment
+
+http://tardis.wikia.com/wiki/The_Eye_of_Torment_(graphic_novel)
+
+DWMGN 021 - The Eye of Torment (12th vol1 - DWM 475-488)
+
+***** The Eye of Torment (DWM477-480) :Clara:
+***** The Instruments of War (DWM481-483) :Clara:Sontarans:
+***** Blood and Ice (DWM485-488) :Clara:
+***** The Crystal Throne (DWM475-476) :no_doctor:Paternoster_Gang:
+**** DWMGN: The Highgate Horror
+
+http://tardis.wikia.com/wiki/The_Highgate_Horror_(graphic_novel)
+
+DWMGN 023 - The Highgate Horror (12th vol2 - DWM 484-500)
+
+***** Space Invaders! (DWM484) :Clara:
+***** Spirits of the Jungle (DWM489-491) :Clara:
+***** The Highgate Horror (DWM492-493) :Clara:Jess:
+***** The Dragon Lord (DWM494-495) :Clara:
+***** Theatre of the Mind (DWM496) :Clara:
+***** Witch Hunt (DWM497-499) :Clara:
+**** DWMGN: Doorway to Hell
+
+http://tardis.wikia.com/wiki/Doorway_to_Hell_(graphic_novel)
+
+DWMGN 025 - Doorway to Hell (12th vol3 - DWM 501-511)
+
+***** The Stockbridge Showdown (DWM500) :Max:Sharon:Frobisher:Izzy:Destrii:Majenta:
+***** The Pestilent Heart (DWM501-503) :Jess:
+***** Moving In (DWM504) :Jess:
+***** Bloodsport (DWM505-506) :Jess:
+***** Be Forgot (DWM507) :Jess:
+***** Doorway to Hell (DWM508-511)          :Jess:the Master:
+**** DWMGN: The Phantom Piper
+
+DWMGN 027 - The Phantom Piper (12th vol4 - DWM512-523)
+
+***** The Soul Garden (DWM512-514) :Bill:
+***** The Parliament of Fear (DWM515-517) :Bill:
+***** Matildus (DWM518) :Bill:
+***** The Phantom Piper (DWM519-523) :Bill:
+**** DWM misc
+***** The Clockwise War (DWM524-530) :Bill:
+*** Titan
+**** 12DY1
+**** 12DY2
+**** 12DY3
 ** novels :📔:
 *** HALF [#B] Deep Time 四维深渊 (3.91) :已购:
 :PROPERTIES:
@@ -926,23 +1067,26 @@ CLOSED: [2020-08-02 Sun 16:17]
 
 **** TODO 13DY2 1-4 A Little Help from My Friends :10th_Dr:
 **** DWC20 #1-4 Alternating Current
-*** DWM Comics :📚:DWM:
-**** DONE The Warmonger (531-534)
+*** DWM
+**** DWMGN: Mistress of Chaos
+***** DONE The Warmonger (531-534) :Graham:Yaz:Ryan:
 CLOSED: [2020-06-20 Sat 12:15]
 
-**** DONE DWM535-539 Herald of Madness (535-539) :13D:
+***** DONE erald of Madness (535-539) :Graham:Yaz:Ryan:
 CLOSED: [2020-07-11 Sat 21:36]
 
-**** DONE The Power of the Mobox (540-542)
+***** DONE The Power of the Mobox (540-542) :Graham:Yaz:Ryan:
 CLOSED: [2020-06-23 Tue 14:47]
 
-**** DONE Mistress of Chaos (DWM543-548)
-CLOSED: [2020-07-12 Sun 11:56]
-
-**** TODO The Piggybackers (DWM549-552)
-**** The White Dragon (DWM559-562)
-**** The Forest Bride  (DWM570-571)
-**** It's Behind You! (DWM572)
+***** DONE Mistress of Chaos (DWM543-548)
+***** TODO The Piggybackers (DWM549-552) :Graham:Yaz:Ryan:
+**** DWMGN: (pending)
+***** The White Dragon (DWM559-562) :Graham:Yaz:Ryan:
+***** The Forest Bride (DWM570-571) :Yaz:
+***** It's Behind You (DWM572) :Yaz:Dan:
+***** Hydra's Gate (DWM574-577) :Yaz:Dan:
+***** Fear of the Future (DWM579) :Yaz:Dan:
+***** The Everlasting Summer (DWM580-583) :Yaz:Dan:
 ** novels :📔:
 *** DONE [#B] 小说：美好博士 †3.97 :己购:Graham:Yaz:
 CLOSED: [2020-07-05 Sun 17:11]
