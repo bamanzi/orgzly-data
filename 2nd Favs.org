@@ -392,6 +392,31 @@ Ultimate Spider-Man #129–133, Annual #3
 **** Ultimate Comics Spider-Man (Miles Morales)
 ** Marvel MCU
 * Supernatural :📺:spn:
+** comics
+*** Origins  :P2007:
+
+(May 2007-December 2007)
+
+John Winchester discovers his dead wife, and takes his children, Sam and Dean, with him in a quest to find what murdered his wife.
+
+*** Rising Son  :P2008:
+
+ (April 2008-August 2008)
+
+Set a few years after /Supernatural: Origins/, the story picks up with an 11-year-old Dean and a 7-year-old Sam traveling with their father, John.
+
+*** Beginning's End :P2010:
+
+(January 2010-June 2010)
+
+Picking up several years after the Supernatural: Rising Son, the Winchesters find themselves working a case in New York City. The comics sets up the events that led to Sam leaving his family to attend Stanford. It is written by Andrew Dabb and Daniel Loflin.
+
+*** The Dogs of Edinburgh :P2012:
+
+ (December 2011-May 2012)
+
+On an academic break while at Stanford, Sam Winchester visits the United Kingdom on what is meant to be a sleepy trip... but on his first day he meets the alluring 'Emma of the Isles,' and his visit gets a thousand percent less boring!
+
 ** S2
 *** DONE 2x15 :Gabriel:
 CLOSED: [2022-12-31 Sat 18:03]
@@ -406,6 +431,10 @@ CLOSED: [2023-01-02 Mon 21:10]
 
 *** DONE 5x19 :Gabriel:
 CLOSED: [2023-01-07 Sat 15:56]
+
+** S9
+*** DONE 9x18
+CLOSED: [2023-01-14 Sat 14:44]
 
 ** DONE S11
 ** DONE S12

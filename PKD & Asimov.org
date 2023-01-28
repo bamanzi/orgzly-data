@@ -86,6 +86,9 @@ https://bladerunner.fandom.com/wiki/Blade_Runner:_Black_Lotus
 **** DONE S3
 **** DONE S4
 ** Total Recall
+*** DONE Total Recall (1990)
+CLOSED: [2023-01-22 Sun 22:12]
+
 *** DONE Total Recall (2012)
 CLOSED: [2023-01-08 Sun 12:19]
 
@@ -98,7 +101,7 @@ CLOSED: [2023-01-08 Sun 12:19]
 :goodreads: 3.91
 :END:
 
-**** TODO [#A] 仿生人会梦见电子羊吗 :🛒:
+**** DONE [#A] 仿生人会梦见电子羊吗 :🛒:
 :PROPERTIES:
 :goodreads: 4.08
 :END:
@@ -130,12 +133,12 @@ CLOSED: [2023-01-08 Sun 12:19]
 
 英国科幻协会奖（BSFA）获奖
 
-**** [#B] 幻觉 Time Out of Joint
+**** TODO [#B] 幻觉 Time Out of Joint
 :PROPERTIES:
 :goodreads: 3.86
 :END:
 
-**** [#B] ³主教的轮回 The Transmigration of Timothy Archer
+**** TODO [#B] ³主教的轮回 The Transmigration of Timothy Archer
 :PROPERTIES:
 :goodreads: 3.88
 :END:
@@ -144,7 +147,7 @@ CLOSED: [2023-01-08 Sun 12:19]
 
 《主教的轮回》是三部曲的最后一部（其他两部为《瓦利斯》和《神的入侵》）。小说讲述一位温文尔雅的主教蒂莫西·阿彻的故事。儿子与情妇的自杀痛苦的折磨着他，最终使他踏上了探索基督真实身份的奇异旅途。作品从学术的高度对宗教信仰的种种迷思进行了痛苦的探索，感人至深。
 
-**** [#C] 阿尔法卫星上的家族Clans of the Alphane Moon
+**** TODO [#C] 阿尔法卫星上的家族Clans of the Alphane Moon
 :PROPERTIES:
 :goodreads: 3.74
 :END:
@@ -166,6 +169,7 @@ CLOSED: [2023-01-08 Sun 12:19]
 
 *** 四川科学技术出版社
 **** 中短篇集1：记忆裂痕 (8.8) :🛒:
+***** 8. 骷髅/头骨 The Skull
 **** 中短篇集2：命运规划局 (9.2) :🛒:
 **** 中短篇集3：预见未来 (8.7) :🛒:
 **** 中短篇集4：少数派报告 (8.9) :🛒:
@@ -222,7 +226,7 @@ CLOSED: [2022-03-06 Sun 11:46]
 :goodreads: 3.78
 :END:
 
-**** [#C] 天空之眼 Eye in the Sky
+**** [#C] 天空之眼 Eye in the Sky :P2022:
 :PROPERTIES:
 :goodreads: 3.74
 :END:
@@ -232,7 +236,7 @@ CLOSED: [2022-03-06 Sun 11:46]
 :goodreads: 3.76
 :END:
 
-**** [#D] 血钱博士 Dr. Bloodmoney :🛒:
+**** START [#D] 血钱博士 Dr. Bloodmoney :🛒:
 :PROPERTIES:
 :goodreads: 3.68
 :END:
@@ -244,9 +248,28 @@ CLOSED: [2022-03-06 Sun 11:46]
 :goodreads: 3.65
 :END:
 
-**** [#D] 太阳系大乐透 Solar Lottery
+**** [#E] 太阳系大乐透 Solar Lottery
 :PROPERTIES:
 :goodreads: 3.49
+:END:
+
+**** [#E] 逆世界时钟 Counter-clock World :P2023:
+:PROPERTIES:
+:goodreads: 3.55
+:END:
+
+*** START [#C] 骷髅/头骨 The Skull
+:PROPERTIES:
+:goodreads: 3.70
+:END:
+
+中篇 译言古登堡计划 
+
+微信读书里有
+
+*** [#B] Radio Free Albemuth
+:PROPERTIES:
+:goodreads: 3.81
 :END:
 
 * Asimov
@@ -274,7 +297,7 @@ CLOSED: <2022-01-14 Fri 20:07>
 ***** DONE 商业王侯
 CLOSED: [2022-01-24 Mon 20:07]
 
-**** [#A] 2. 基地与帝国 :P1952:
+**** DONE [#A] 2. 基地与帝国 :P1952:
 :PROPERTIES:
 :goodreads: 4.21
 :douban:   9.0
@@ -320,11 +343,13 @@ CLOSED: [2022-01-05 Wed 00:05]
 **** DONE I, Robot :P1950:
 CLOSED: [2022-03-05 Sat 23:24]
 
-**** TODO The Caves of Steel 钢窟 :P1958:
+**** DONE The Caves of Steel 钢窟 :P1958:
+CLOSED: [2023-01-21 Sat 22:50]
+
 **** The Naked Sun 裸阳 :P1958:
 **** The Robots of Dawn :P1983:
 **** Robots and Empire :P1985:
-*** 帝国系列
+*** Galactic Empire 银河帝国系列
 **** TODO 13. 繁星若尘 The Stars, Like Dust :P1951:
 **** 14. 星空暗流 The Currents of Space :P1952:
 **** 15. 苍穹一粟 Pebble in the Sky :P1950:
@@ -381,12 +406,36 @@ CLOSED: [2022-02-26 Sat 20:03]
 
 * #Robots
 ** Westworld
-*** Westworld S2
+*** DONE Westworld S2
 **** DONE 2x01
 CLOSED: <2023-01-07 Sat 21:13>
 
 **** DONE 2x02
 CLOSED: [2023-01-11 Wed 18:51]
+
+**** DONE 2x03
+CLOSED: [2023-01-16 Mon 08:17]
+
+**** DONE 2x04
+CLOSED: [2023-01-17 Tue 20:42]
+
+**** DONE 2x05
+CLOSED: [2023-01-18 Wed 08:35]
+
+**** DONE 2x06
+CLOSED: [2023-01-19 Thu 21:50]
+
+**** DONE 2x07
+CLOSED: [2023-01-20 Fri 18:41]
+
+**** DONE 2x08
+CLOSED: [2023-01-23 Mon 19:48]
+
+**** DONE 2x09
+CLOSED: [2023-01-26 Thu 18:04]
+
+**** DONE 2x10
+CLOSED: <2023-01-27 Fri 20:13>
 
 ** Terminator
 *** movie
@@ -400,10 +449,9 @@ CLOSED: [2023-01-11 Wed 18:51]
 **** The Sarah Cornor Chronicles S1 :P2008:
 **** The Sarah Cornor Chronicles S2 :P2008:
 *** comics
+**** Dark Horse Comics
 
 https://terminator.fandom.com/wiki/Dark_Horse_Comics?so=search
-
-**** Dark Horse Comics
 
 - omnibus #1 :: https://terminator.fandom.com/wiki/The_Terminator_Omnibus_Volume_1
 - omnibus #2 :: https://terminator.fandom.com/wiki/The_Terminator_Omnibus_Volume_2
@@ -416,14 +464,22 @@ https://terminator.fandom.com/wiki/Dark_Horse_Comics?so=search
 ****** Endgame
 ****** Hunters and Killers
 ***** The Terminator (1999)
-****** Death Valley
-****** The Dark Years
+****** TODO Death Valley :P1998:
+
+4 issues
+
+****** The Dark Years :P1999:Sarah_Connor:
 
 (Sequel to Death Valley)
+4 issues
 
-***** READY The Terminator: 2029 to 1984
-****** The Terminator: 2029 :P2010:
-****** The Terminator: 1984 :P2012:
+***** DONE The Terminator: 2029 to 1984
+****** DONE The Terminator: 2029 :P2010:Kyle_Reese:
+CLOSED: [2023-01-12 Thu 22:15]
+
+****** DONE The Terminator: 1984 :P2012:Sarah_Connor:Kyle_Reese:
+CLOSED: [2023-01-13 Fri 12:36]
+
 ***** Salvation: The Final Battle :P2014:
 
 12 issues
@@ -432,3 +488,20 @@ https://terminator.fandom.com/wiki/Dark_Horse_Comics?so=search
 ***** READY Resistance - Zero Day Exploit :P2019:
 ***** crossovers
 ****** Transformers vs Terminator: Enemy of My Enemy :P2014:crossover:
+**** NOW Comics
+***** on-going (1988-1990)
+
+17 issues
+
+***** Terminator: The Burning Earth :P1990:
+***** Terminator: All My Futures Past :P1990:
+**** Dynamite Entertainment
+
+T2 Saga is a comic series comprised of Terminator: Infinity and Terminator: Revolution, totally 10 issues published by Dynamite Entertainment.
+
+Though titled "T2" (Terminator 2), the story itself is a continuation to the film Terminator 3: Rise of the Machines with some minor continuity differences.
+
+
+
+***** Terminator: Infinity :P2007:
+***** Terminator: Revolution :P2009:
