@@ -449,19 +449,18 @@ CLOSED: <2023-01-11 Wed 07:02>
 part of /Short Trips: Monsters/
 
 ** comics
+*** On the Planet Isopterus  (DW annual 1983) :P1983:
 *** DWMGN: The Tides of Time (DWM61-87)
-**** DONE The Tides of Time (DWM61-67)                 :Shayde:
+**** DONE The Tides of Time (DWM61-67) :Shayde:
 **** DONE Stars Fell on Stockbridge (DWM68-69) :Max:
-**** DONE The Stockbridge Horror (DWM70-75)       :Shayde:
-**** DONE Lunar Lagoon (DWM76-77)                           :Gus:
-**** DONE 4-Dimensional Vistas (DWM78-83)           :Gus:the_Monk:Ice_Warriors:
-**** DONE The Moderator (DWM84,86-87)                      :Gus:
-
+**** DONE The Stockbridge Horror (DWM70-75) :Shayde:
+**** DONE Lunar Lagoon (DWM76-77) :Gus:
+**** DONE 4-Dimensional Vistas (DWM78-83) :Gus:the_Monk:Ice_Warriors:
+**** DONE The Moderator (DWM84,86-87) :Gus:
 *** DWM misc
-**** The Lunar Strangers (DWM215-217)                        :Tegan:Turlough:
-**** DONE The Curse of the Scarab (DWM228-230)                         :Peri:
+**** The Lunar Strangers (DWM215-217) :Tegan:Turlough:
+**** DONE The Curse of the Scarab (DWM228-230) :Peri:
 **** Blood Invocation (DWY1995)
-
 * 6th Doctor :6th_Dr:
 ** tv :📺:
 *** Season 21
@@ -587,7 +586,7 @@ CLOSED: [2021-03-22 Mon 20:39]
 
 *** main range 101-150 :scripted:2CD:
 **** TODO [#B] 105. The Condemned (8.4) :Charley:plot_no:DW2023_02_maybe:
-SCHEDULED: <2023-02-28 Tue>
+SCHEDULED: <2023-03-01 Wed>
 
 Six and Charley meet, and an enjoyable, weird adventure results.
 
@@ -652,6 +651,8 @@ SCHEDULED: <2022-12-24 Sat 22:41>
 CLOSED: <2021-12-23 Thu 08:53>
 
 **** [#C] 157. The Fourth Wall :Flip:DW2023_02_maybe:
+SCHEDULED: <2023-03-01 Wed>
+
 **** [#E] 182. Antidote to Oblivion
 **** [#E] 183. The Brood of Erys
 **** [#D] 184. Scavenger
@@ -707,13 +708,13 @@ CLOSED: [2022-06-29 Wed 16:22] SCHEDULED: <2022-06-19 Sun>
 
 【【神秘博士广播剧】Bonus Release 012 The Trial of Valeyard 黑暗博士的审判-哔哩哔哩】 https://b23.tv/BP98ck4
 
-**** The Sixth Doctor: The Last Adventure :1CD:scripted:
-***** 2DONE The End of the Line :Constance:Master:Valeyard:D2021_12_master:bilibili:week1:
+**** The Sixth Doctor: The Last Adventure :1CD:scripted:plot_yes:
+***** 2DONE The End of the Line :Constance:Master:Valeyard:D2021_12_master:bilibili:
 CLOSED: [2021-12-03 Fri 23:22] SCHEDULED: <2021-12-05 Sun>
 
 【【广播剧翻译】六任：最后的冒险 01 The end of the line-哔哩哔哩】 https://b23.tv/r4FWpnN
 
-***** HALF [#D] The Red House :Charley:plot_yes:bilibili:D2022_02_doctor:
+***** HALF [#D] The Red House :Charley:bilibili:D2022_02_doctor:
 SCHEDULED: <2022-02-17 Thu>
 :PROPERTIES:
 :rating:   7.0
@@ -721,7 +722,7 @@ SCHEDULED: <2022-02-17 Thu>
 
 【【广播剧翻译】照日光变成人的反向狼人 六任:最后的冒险 102 红房子-哔哩哔哩】 https://b23.tv/RLKffOm
 
-***** 3QTR [#B] Stage Fright :Jago:Litefoot:plot_yes:bilibili:DW2022_10_doctor:
+***** 3QTR [#B] Stage Fright :Flip:Jago:Litefoot:bilibili:DW2022_10_doctor:
 CLOSED: [2022-11-12 Sat 20:08] SCHEDULED: <2022-11-01 Tue>
 :PROPERTIES:
 :rating:   8.3
@@ -729,15 +730,16 @@ CLOSED: [2022-11-12 Sat 20:08] SCHEDULED: <2022-11-01 Tue>
 
 【【广播剧翻译】博士的重生场景重演？六任：最后的冒险 103 Stage Fright-哔哩哔哩】 https://b23.tv/NnRPoV3
 
-***** The Brink of Death :bilibili:
+***** The Brink of Death :Mel:bilibili:
 
 【【广播剧翻译】在重生29年后补的重生集 六任：最后的冒险  104 The Brink of Death-哔哩哔哩】 https://b23.tv/4Ozoj0K
 
-**** The Sixth Doctor and Peri :1CD:
+**** The Sixth Doctor and Peri :Peri:1CD:plot_yes:
 
 Volume One
 
 ***** [#C] The Headless Ones :DW2023_02_doctor:
+SCHEDULED: <2023-02-06 Mon>
 :PROPERTIES:
 :rating:   7.5
 :END:
@@ -853,30 +855,31 @@ Volume One
 **** ST4.6 - To Cut a Blade of Grass
 ** comics
 *** DWMGN: Voyager (DWM88-107)
-**** DONE The Shape Shifter (DWM88-89)     :Frobisher:      
-**** DONE Voyager (DWM90-94)               :Frobisher:      
-**** DONE Polly the Glot (DWM95-97)        :Frobisher:      
-**** DONE Once Upon a Time Lord (DWM98-99) :Frobisher:      
-**** DONE War-Game (DWM100-101)              :Frobisher:    
-**** DONE Funhouse (DWM102-103)              :Frobisher:    
-**** DONE Kane's Story (DWM104)          :Peri:Frobisher: 
-**** DONE Abel's Story (DWM105)          :Peri:Frobisher: 
-**** DONE The Warrior's Story (DWM106)   :Peri:Frobisher: 
-**** DONE Frobisher's Story (DWM107)     :Peri:Frobisher: 
-
+**** DONE The Shape Shifter (DWM88-89) :Frobisher:
+**** DONE Voyager (DWM90-94) :Frobisher:
+**** DONE Polly the Glot (DWM95-97) :Frobisher:
+**** DONE Once Upon a Time Lord (DWM98-99) :Frobisher:
+**** DONE War-Game (DWM100-101) :Frobisher:
+**** DONE Funhouse (DWM102-103) :Frobisher:
+**** DONE Kane's Story (DWM104) :Peri:Frobisher:
+**** DONE Abel's Story (DWM105) :Peri:Frobisher:
+**** DONE The Warrior's Story (DWM106) :Peri:Frobisher:
+**** DONE Frobisher's Story (DWM107) :Peri:Frobisher:
 *** DWMGN: The World Shapers (DWM108-129)
-**** DONE Exodus (DWM108)               :Peri:Frobisher:
-**** DONE Revelation! (DWM109)          :Peri:Frobisher:Cybermen:
-**** DONE Genesis! (DWM110)             :Peri:Frobisher:Cybermen:
+**** DONE Exodus (DWM108) :Peri:Frobisher:
+**** DONE Revelation! (DWM109) :Peri:Frobisher:Cybermen:
+**** DONE Genesis! (DWM110) :Peri:Frobisher:Cybermen:
 **** DONE Nature of the Beast! (DWM111-113) :Peri:Frobisher:
-**** DONE Time Bomb (DWM114-116)            :Frobisher:
-**** DONE Salad Daze (DWM117)           :Peri:Frobisher:
-**** DONE Changes (DWM118-119)              :Peri:Frobisher:
-**** DONE Profits of Doom! (DWM120-122)     :Peri:Frobisher:
-**** DONE The Gift (DWM123-126)             :Peri:Frobisher:
-**** DONE The World Shapers (DWM127-129)    :Peri:Frobisher:Jamie:Voord:Cybermen:
-
-*** The Age of Chaos                                              :Frobisher:
+**** DONE Time Bomb (DWM114-116) :Frobisher:
+**** DONE Salad Daze (DWM117) :Peri:Frobisher:
+**** DONE Changes (DWM118-119) :Peri:Frobisher:Grant_Morrison:
+**** DONE Profits of Doom! (DWM120-122) :Peri:Frobisher:
+**** DONE The Gift (DWM123-126) :Peri:Frobisher:
+**** DONE The World Shapers (DWM127-129) :Peri:Frobisher:Jamie:Voord:Cybermen:Grant_Morrison:
+*** Marvel :Marvel:
+**** Abslom Daak — Dalek Killer
+**** Voyager :P1989:
+**** The Age of Chaos :Frobisher:
 * 7th Doctor :7th_Dr:
 ** tv :📺:
 *** S24
@@ -1166,10 +1169,10 @@ SCHEDULED: <2022-11-16 Wed>
 ***** CANCEL [#F] Bad Day in Tinseltown :Cybermen:Mel:
 CLOSED: [2022-10-08 Sat 09:05]
 
-***** The Ribos Inheritance :Mel:
-**** 7DA Sullivan and Cross - AWOL :P2022_11:
-***** 22B.1 London Orbital :Harry:Naomi:
-***** 22B.2 Scream of the Daleks :Harry:Naomi:Daleks:
+***** [#C] The Ribos Inheritance :Mel:
+**** 7DA Sullivan and Cross - AWOL :Harry:Naomi:P2022_11:
+***** [#E] 22B.1 London Orbital
+***** [#E] 22B.2 Scream of the Daleks :Daleks:
 *** novel adaptations :2CD:
 **** BLOCK [#D] NA1 Love and War :Ace:Benny:3CD:
 
@@ -1209,66 +1212,82 @@ block 原因：太长（3小时多）
 **** River2.1 The Unknown
 **** ST6.13 - Forever Fallen
 ** comics
-*** DWMGN: A Cold Day in Hell! (DWM 130-150)
+*** DWM
+**** DWMGN: A Cold Day in Hell! (DWM 130-150)
 
 DWMGN #11
 
-**** DONE (DWM130-133) A Cold Day in Hell!          :ice_warriors:Frobisher:
+***** DONE (DWM130-133) A Cold Day in Hell! :ice_warriors:Frobisher:
 CLOSED: <2023-01-14 Sat 22:23>
-**** (DWM134) Redemption!                                              :Olla:
-**** (DWM135) The Crossroads of Time
-**** (DWM136-138) Claws of the Klathi!  
-**** (DWM139) Culture Shock!        
-**** (DWM140) Keepsake              
-**** (DWM141-142) Planet of the Dead    
-**** (DWM143-144) Echoes of the Mogor!  
-**** (DWM145-146) Time and Tide         
-**** (DWM147) Follow That TARDIS!                                  :The_Monk:
-**** (DWM148-150) Invaders from Gantac! 
 
-*** DWMGN: Nemesis of the Daleks (DWM 152-162)
+***** DONE (DWM134) Redemption! :Olla:
+CLOSED: <2023-01-16 Mon 14:34>
+
+***** DONE (DWM135) The Crossroads of Time :Deaths_Head:
+CLOSED: <2023-01-18 Wed 14:34>
+
+***** (DWM136-138) Claws of the Klathi!
+***** LATER (DWM139) Culture Shock! :Grant_Morrison:
+***** DONE (DWM140) Keepsake
+CLOSED: [2023-01-26 Thu 16:49]
+
+***** DONE (DWM141-142) Planet of the Dead
+CLOSED: [2023-01-26 Thu 16:49]
+
+***** (DWM143-144) Echoes of the Mogor!
+***** (DWM145-146) Time and Tide
+***** (DWM147) Follow That TARDIS! :The_Monk:
+***** (DWM148-150) Invaders from Gantac!
+**** DWMGN: Nemesis of the Daleks (DWM 152-162)
+
 DWMGN #15
-**** DONE Nemesis of the Daleks (DWM152-155)            :Abslom_Daak:Daleks:
-**** Stairway to Heaven (DWM156)
-**** (TIDH1-12) 
-**** DONE Hunger from the Ends of Time! (DWM157-158)
-**** Train-Flight (DWM159-161)                                        :Sarah:
-**** Doctor Conkerer! (DWM162)
-**** DONE Asblom Daak...Dalek Killer           :no_doctor:Abslom_Daak:Daleks:
-**** DONE Star Tigers (DWM27-)                 :no_doctor:Abslom_Daak:Daleks:
+
+***** DONE Nemesis of the Daleks (DWM152-155) :Abslom_Daak:Daleks:
+***** Stairway to Heaven (DWM156)
+***** (The Incredible Hulk Presents 1-12)
+***** DONE Hunger from the Ends of Time! (DWM157-158)
+***** DONE Train-Flight (DWM159-161) :Sarah:
+***** Doctor Conkerer! (DWM162)
+***** DONE Asblom Daak...Dalek Killer :no_doctor:Abslom_Daak:Daleks:
+***** DONE Star Tigers (DWM27-) :no_doctor:Abslom_Daak:Daleks:
+
 DWM27-30, 44-46
 
-*** DWMGN: The Good Soldier (DWM164-179) 
+**** DWMGN: The Good Soldier (DWM164-179)
+
 DWMGN #20
-**** (DWM164-166) Fellow Travellers                                       :Ace: 
-**** (DWM167) Darkness, Falling             :no_doctor:Brig:Mandragora_Helix:
-**** (DWM168) Distractions                             :Ace:Mandragora_Helix:
-**** (DWM169-172) The Mark of Mandragora          :Ace:Brig:Mandragora_Helix:
-**** (DWM173) Party Animals                                               :Ace:
-**** (DWM174) The Chameleon Factor                                        :Ace:          
-**** DONE (DWM175-178) The Good Soldier                        :Ace:Cybermen: 
-**** (DWM179) A Glitch in Time                                            :Ace:          
-**** (DWMS1991) Seaside Rendezvous                                        :Ace:          
 
-*** DWMGN: Evening's Empire (DWM180-192)
+***** (DWM164-166) Fellow Travellers :Ace:
+***** (DWM167) Darkness, Falling :no_doctor:Brig:Mandragora_Helix:
+***** (DWM168) Distractions :Ace:Mandragora_Helix:
+***** (DWM169-172) The Mark of Mandragora :Ace:Brig:Mandragora_Helix:
+***** (DWM173) Party Animals :Ace:
+***** (DWM174) The Chameleon Factor :Ace:
+***** DONE (DWM175-178) The Good Soldier :Ace:Cybermen:
+***** (DWM179) A Glitch in Time :Ace:
+***** (DWMS1991) Seaside Rendezvous :Ace:
+**** DWMGN: Evening's Empire (DWM180-192)
+
 DWMGN #22
-**** Evening's Empire (DWM180) :Ace:
-**** The Grief (DWM185-187) :Ace:
-**** Ravens (DWM188-190)                               
-**** Memorial (DWM191) :Ace:
-**** Cat Litter (DWM192) :Ace:
-**** Conflict of Interests (DWM183)                     :Sontarans:no_doctor:
 
-*** DWMGN: Emperor of the Daleks (DWM192-227)
+***** Evening's Empire (DWM180) :Ace:
+***** The Grief (DWM185-187) :Ace:
+***** Ravens (DWM188-190)
+***** Memorial (DWM191) :Ace:
+***** Cat Litter (DWM192) :Ace:
+***** Conflict of Interests (DWM183) :Sontarans:no_doctor:
+**** DWMGN: Emperor of the Daleks (DWM192-227)
+
 DWMGN #24
-**** DONE Pureblood (DWM193-196)                      :Benny:Sontarans:Rutan:
-**** Flashback (DWMS1992)                                             :Benny:
-**** DONE Emperor of the Daleks! (DWM197-202) :6th_Dr:Benny:Peri:Abslom_Daak:Daleks:
-**** Final Genesis (DWM203-206)                                   :Ace:Benny:
-**** Time & Time Again (DWM207)  :Susan:Jamie:Zoe:Adric:Frobisher:Ace:Benny:
-**** Cuckoo (DWM208-210)                                          :Ace:Benny:
-**** Uninvited Guest (DWM211)                                      :Eternals:
-**** DONE Up Above the Gods (DWM227)                          :6th_Dr:Davros:
+
+***** DONE Pureblood (DWM193-196) :Benny:Sontarans:Rutan:
+***** Flashback (DWMS1992) :Benny:
+***** DONE Emperor of the Daleks! (DWM197-202) :6th_Dr:Benny:Peri:Abslom_Daak:Daleks:
+***** Final Genesis (DWM203-206) :Ace:Benny:
+***** Time & Time Again (DWM207) :Susan:Jamie:Zoe:Adric:Frobisher:Ace:Benny:
+***** Cuckoo (DWM208-210) :Ace:Benny:
+***** Uninvited Guest (DWM211) :Eternals:
+***** DONE Up Above the Gods (DWM227) :6th_Dr:Davros:
 
  |-------------+---------------------------------------------+----------------------+--------------------------------+------------------------------+------------------------------+---|
  |     212-214 | [[http://tardis.wikia.com/wiki/Victims_%28comic_story%29][Victims]]                                     | 4th                  | Romana II                      |                              |                              |   |
@@ -1413,13 +1432,13 @@ DWMGN #24
  |-------------+---------------------------------------------+----------------------+--------------------------------+------------------------------+------------------------------+---|
  |     556-558 | Monstrous Beauty                            | 9th                  | Rose                           | --                           |                              |   |
 
-*** DWM misc
-**** Under Pressure :P1992:
-**** Metamorphosis  :P1993:
-**** Younger and Wiser :DWMS:P1994:
-**** Plastic Millenium :Mel:DWMS:P1994:
-**** Ground Zero :Ace:Threshold:P1996:
-**** The Last Word :Benny:P2001:
+**** DWM misc
+***** Under Pressure :P1992:
+***** Metamorphosis :P1993:
+***** Younger and Wiser :DWMS:P1994:
+***** Plastic Millenium :Mel:DWMS:P1994:
+***** Ground Zero :Ace:Threshold:P1996:
+***** The Last Word :Benny:P2001:
 *** Operation Volcano (Titan Comics)
 ** novels
 *** OVERDUE [#A] /Human Nature/ :📔:Benny:D2021_12:

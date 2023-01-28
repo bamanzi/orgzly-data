@@ -68,8 +68,8 @@ SCHEDULED: <2022-07-23 Sat>
 :END:
 
 **** S2.1 Back to Earth :P2022_05:
-***** HALF [#B] 5.1 Station to Station :bilibili:DW2023_01_doctor:
-SCHEDULED: <2023-01-10 Tue 08:39>
+***** 2DONE [#B] 5.1 Station to Station :bilibili:DW2023_01_doctor:
+CLOSED: [2023-01-23 Mon 08:22] SCHEDULED: <2023-01-10 Tue 08:39>
 
 【【神秘博士广播剧熟肉】Back to Earth 101 Station to Station 车站之间-哔哩哔哩】 https://b23.tv/ueI1ubC
 
@@ -94,6 +94,10 @@ CLOSED: [2022-07-02 Sat 23:47]
 
 【【神秘博士广播剧熟肉】Hidden Depths 703 Flatpack 平板家居-哔哩哔哩】 https://b23.tv/ElXr5Mq
 
+**** S2.4 Shades of Fear
+***** 8.1 The Colour of Terror
+***** 8.2 The Blooming Menace
+***** 8.3 Red Darkness :Vashta_Nerada:
 *** 9DC
 **** HALF [#C] 1.4 Retail Therapy :Jackie:DW2022_11_doctor:
 SCHEDULED: <2022-11-29 Tue>
@@ -246,7 +250,7 @@ CLOSED: [2020-08-16 Sun 16:23]
 CLOSED: [2020-08-16 Sun 16:23]
 
 **** 10DY2
-***** DONE 01-02 The Singer Not the Song
+***** DONE 01-02 The Singer Not the Song :Gabby:Anubis:
 CLOSED: [2020-08-16 Sun 16:23]
 
 ***** DONE 03 Cindy, Cleo and the Magic Sketchbook :Jack:
@@ -258,9 +262,15 @@ CLOSED: [2020-08-16 Sun 16:23]
 ***** DONE 06-07 Arena of Fear
 CLOSED: [2020-08-16 Sun 16:23]
 
-***** 08-09 The Wishing Well Witch
-***** 10 The Infinite Corridor
-***** 11-12 The Jazz Monster
+***** DONE 08-09 The Wishing Well Witch
+CLOSED: [2023-01-16 Mon 23:09]
+
+***** DONE 10 The Infinite Corridor
+CLOSED: [2023-01-16 Mon 23:30]
+
+***** DONE 11-12 The Jazz Monster
+CLOSED: [2023-01-17 Tue 13:43]
+
 ***** 13-17 Old Girl
 **** 10DY3
 ***** 01-02 Breakfast at Tyranny's
@@ -454,7 +464,7 @@ CLOSED: [2022-06-18 Sat 10:57] SCHEDULED: <2022-06-25 Sat>
 【【神秘博士广播剧熟肉】Dalek Universe 103 The House of Kingdom 家族-哔哩哔哩】 https://b23.tv/bQCgXoT
 
 **** READY [#D] DU2.1 - Cycle of Destruction :bilibili:DW2023_02_doctor:
-SCHEDULED: <2023-02-15 Wed>
+SCHEDULED: <2023-02-10 Fri>
 :PROPERTIES:
 :rating:   7.2
 :END:
@@ -591,13 +601,14 @@ CLOSED: [2022-12-10 Sat 21:48]
 
 * 11th Doctor :11th_Dr:
 ** tv :📺:
-*** S5
+*** S5 (203-212)
 **** DONE 5x07 The Hungry Earth /08 Cold Blood :Silurians:
 **** DONE 5x12 Pandorica Opens
 **** DONE 5x13 The Big Bang :DW2022_07_extra:
 CLOSED: [2022-07-04 Mon 08:12]
 
-*** S6
+*** 213. A Christmas Carol :P2010_12:
+*** S6 (214-224)
 **** DONE 6x01 The Impossible Astronaut (214a) :Silents:
 CLOSED: <2022-12-16 Fri 22:50>
 
@@ -605,11 +616,15 @@ CLOSED: <2022-12-16 Fri 22:50>
 CLOSED: <2022-12-17 Sat 23:20>
 
 **** DONE 6x07 A Good Man Goes to War :River:
-*** S7
+*** 225. The Doctor, the Widow and the Wardrobe :P2011_12:
+*** S7 (226-230,232-239)
 **** DONE 7x12 Nightmare in Silver :Cybermen:
 CLOSED: [2022-12-04 Sun 00:05]
 
-*** DONE The Time of the Doctor
+**** 7x13 The Name of the Doctor :great_intelligence:
+*** 231. The Snowmen :great_intelligence:
+*** 240. The Day of the Doctor
+*** DONE 241. The Time of the Doctor
 CLOSED: [2022-12-04 Sun 13:12]
 
 ** audio :🎧:
@@ -666,6 +681,9 @@ SCHEDULED: <2022-03-30 Wed>
 **** 3.2. The House of Masks :plot_yes:
 **** 3.3 The End
 *** TBR 11DC vol.4 All of Time and Space :P2023_02:
+**** 4.1 All of Time and Space
+**** 4.2 The Yearn
+**** 4.3 Curiosity Shop
 *** short trips
 **** 3QTR ST10.5 Regeneration Impossible :D2021_08_extra:12th_Dr:
 **** 2DONE [#A] ST11.1 Rearguard :Sontarans:P2022_02:DW2022_11_doctor:
@@ -805,7 +823,7 @@ CLOSED: [2020-08-16 Sun 17:00]
 
 * 12th Doctor :12th_Dr:
 ** tv :📺:
-*** S8
+*** S8 (242-252)
 **** DONE 8x08 Mummy on the Orient Express
 CLOSED: [2022-11-30 Wed 23:34]
 
@@ -815,13 +833,18 @@ CLOSED: [2022-12-25 Sun 20:42]
 **** DONE 8x12 Death in Heaven :Cybermen:
 CLOSED: [2022-12-26 Mon 19:56]
 
-*** S10
+*** 253. Last Christmas :P2014_12:
+*** S9 (254-262)
+*** 263. The Husbands of River Song :P2015_12:
+*** 264. The Return of Doctor Mysterio :P2016_12:
+*** S10 (265-275) :P2017:
 **** DONE 10x11 World Enough and Time :cybermen:
 CLOSED: <2021-09-23 Thu 11:39>
 
 **** DONE 10x12 The Doctor Falls :Cybermen:
 CLOSED: [2021-09-24 Fri 08:10]
 
+*** 276. Twice Upon a Time :P2017_12:
 ** audio :🎧:
 *** 12DC vol.1 :P2020:🗣:
 **** HALF [#D] 1.1 The Charge of the Night Brigade :Mary_Seacole:D2022_06_doctor:
@@ -952,9 +975,28 @@ DWMGN 027 - The Phantom Piper (12th vol4 - DWM512-523)
 **** DWM misc
 ***** The Clockwise War (DWM524-530) :Bill:
 *** Titan
-**** 12DY1
+**** 12DY1 :Clara:
+***** Terrorformer (12D 1-2)
+***** The Swords of Kali (12D 3-5)
+***** The Fractures (12D 6-8)
+***** Gangland (12D 9-10)
+***** Unearthly Things (12D 11)
+***** The Hyperion Empire (12D 12-15)
+***** Relative Dimensions (12D 16)
 **** 12DY2
+***** Clara Oswald and the School of Death (12DY2 1-4) :Clara:
+***** The Fourth Wall (12DY2 5) :Clara:
+***** The Twist (12DY2 6-8)
+***** Playing House (12DY2 9-10)
+***** Terror of the Cabinet Noir (12DY2 11-13)
+***** Invasion of the Mindmorphs (12DY2 14-15)
 **** 12DY3
+***** Beneath the Waves (12DY3 1-4)
+***** The Boy With the Displaced Smile (12DY3 2)
+***** The Wolves of Winter (12DY3 5-7) :Bill:
+***** The Lost Dimension: The Twelfth Doctor (12DY3 8)↗ :Bill:Nardole:
+***** The Great Shopping Bill (12DY3 9) :Bill:Nardole:
+***** A Confusion of Angels (12DY3 10-13) :Bill:Nardole:
 ** novels :📔:
 *** HALF [#B] Deep Time 四维深渊 (3.91) :已购:
 :PROPERTIES:
@@ -979,11 +1021,11 @@ DWMGN 027 - The Phantom Piper (12th vol4 - DWM512-523)
 * 13th Doctor :13th_Dr:
 ** tv :📺:
 *** TV S11
-*** DONE Resolution :daleks:
+*** DONE 287. Resolution :daleks:
 CLOSED: [2021-01-30 Sat 09:15]
 
-*** TV S12 :📺:
-**** DONE [#C] 12x1-2 †6.6/6.5)
+*** TV S12 (288-295) :📺:
+**** DONE [#C] 12x1-2 Spyfall (6.6/6.5)
 CLOSED: [2020-06-17 Wed 19:48]
 
 **** DONE [#E] 12x3 Orphan 55  4.1
@@ -1006,10 +1048,10 @@ CLOSED: <2020-07-16 Thu 17:56-21:56>
 
 **** 12x09 Ascension of the Cybermen
 **** 12x10 The Timeless Children
-*** DONE Revolution of the Daleks (2021/01/01) :daleks:
+*** DONE 296. Revolution of the Daleks :daleks:P2021:
 CLOSED: <2021-01-09 Sat 16:24>
 
-*** TV S13
+*** TV S13 (297a-f)
 **** DONE 13x01
 CLOSED: <2021-11-27 Sat 19:35>
 
@@ -1028,9 +1070,11 @@ CLOSED: <2021-12-10 Fri 20:53>
 **** DONE 13x06
 CLOSED: [2021-12-12 Sun 14:53]
 
-*** DONE Legend of the Sea Devil
+*** 298. Eve of the Daleks
+*** DONE 299. Legend of the Sea Devil
 CLOSED: <2023-01-06 Fri 22:20>
 
+*** 300. The Power of the Doctor
 ** audio
 *** Redacted :P2022_04:BBC:scripted:
 **** HALF [#C] Redacted 01: SOS :D2022_05_doctor:bilibili:

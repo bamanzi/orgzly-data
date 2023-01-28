@@ -1,6 +1,24 @@
 * Torchwood :torchwood:
 ** tv :📺:
 ** comics
+*** Torchwood Magazine
+**** The Selkie
+**** Broken
+**** Fated to Pretend
+**** The Man Who Dreamed of Stars
+**** Shrouded
+**** Stakes on a Plane
+**** Somebody Else's Problem: A Gwen Cooper Story
+**** Photo Finish
+**** Hell House
+**** Overture
+*** Titan :P2016:
+
+... its story followed on from the novel /Exodus Code/ and was in continuity with the Big Finish /Torchwood/ audio series.
+
+**** World Without End
+**** Station Zero
+**** The Culling
 ** audio
 *** BF monthly :🎧:1CD:
 **** series 1 (1-6) :P2015:scripted:
@@ -65,7 +83,7 @@ Mr Pugh doesn't believe the world needs Torchwood. Gwen sets out to prove him w
       :rating:   8.4
       :END:
 
-***** DONE [#B] TW09 Ghost Mission :Andy:Norton:The_Commitee:D2021_08_extra:plot_no:
+***** DONE [#B] 09 Ghost Mission :Andy:Norton:The_Commitee:D2021_08_extra:plot_no:
       CLOSED: [2021-08-08 Sun 10:52]
       :PROPERTIES:
       :rating:   8.3
@@ -77,12 +95,13 @@ Mr Pugh doesn't believe the world needs Torchwood. Gwen sets out to prove him w
       :rating:   8.9
       :END:
 
-***** TODO [#A] 11 Broken [#S] :Jack:Ianto:scripted:
+***** READY [#A] 11 Broken [#S] :Jack:Ianto:scripted:bilibili:
       :PROPERTIES:
       :rating:   9.2
       :END:
 
-B站有字幕 https://b23.tv/AvT0wB
+B站有字幕 
+https://b23.tv/AvT0wB
 https://b23.tv/Lv2q44
 
 ***** 2DONE [#A] 12. Made You Look :Gwen:
@@ -123,6 +142,8 @@ https://b23.tv/Lv2q44
       :rating:   7.1
       :END:
 
+LeDuc was a member of Torchwood in the early 1940s.
+
 **** series 4 (19-24) :P2018:
 ***** DONE [#C] 19. The Death of Captain Jack :John:
       CLOSED: <2018-08-25 Sat 21:00>
@@ -144,7 +165,7 @@ half scripted https://www.pillowfort.social/posts/563376
       :rating:   9.2
       :END:
 
-***** 3QTR [#A] TW22. Goodbye Piccadilly :Andy:Norton:plot_yes:DW2022_07_spinoffs:
+***** 3QTR [#A] 22. Goodbye Piccadilly :Andy:Norton:plot_yes:DW2022_07_spinoffs:
       SCHEDULED: <2022-07-06 Wed>
       :PROPERTIES:
       :rating:   8.6
@@ -286,6 +307,7 @@ Sebastian Vaughan is the brightest, newest recruit to Torchwood. He's come fro
       :END:
 
 ***** [#A] 43. The Three Monkeys :Owen:Andy:DW2023_02_maybe:
+      SCHEDULED: <2023-03-01 Wed>
       :PROPERTIES:
       :rating:   8.8
       :END:
@@ -377,15 +399,19 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 ***** [#A] 59. Sonny (8.9) :Rhys:
 ***** CANCEL [#E] 60. Infidel Places+ (6.7) :Queen:
 **** series 8 (61-72)
-***** TODO [#C] 61. War Chest :Tosh:
+***** TODO [#C] 61. War Chest :Tosh:P2022_05:
 ***** [#D] 62. Dead Plates :Bilis_Manger:
 ***** [#A] 63. Restricted Items Archive Entries 031–049 :Ianto:
-***** [#C] 64. Suckers :Tosh:
-***** 65X A Postcard from Mr Colchester :Colchester:
-***** 65. Death in Venice :Colchester:Ace:
-***** 66. Torchwood: SUV :Ianto:Tosh:
-***** 67. The Lincolnshire Poacher :Ianto:
+***** [#B] 64. Suckers :Tosh:
+***** [#B] 65X A Postcard from Mr Colchester :Colchester:
+***** [#D] 65. Death in Venice :Colchester:Ace:
+***** CANCEL [#E] 66. Torchwood: SUV :Ianto:Tosh:
+***** [#B] 67. The Lincolnshire Poacher :Ianto:
 ***** 68. The Empire Man :Queen:
+***** 69. Double part1 :Autons:P2023_01:
+***** 70. Double part2 :Autons:
+***** 71. The Last Love Song of Suzie Costello :Suzie:
+***** 72. The Thirst Trap :Andy:
 *** specials
 **** 2DONE [#B] special 1: The Torchwood Archive :P2016:The_Commitee:2CD:plot_yes:
      CLOSED: [2020-11-19 Thu 18:33]
@@ -413,6 +439,7 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
       :END:
 
 ***** [#D] 2 - Escape from Nebazz :DW2023_02_spinoffs:
+      SCHEDULED: <2023-02-18 Sat>
       :PROPERTIES:
       :rating:   7.4
       :END:
@@ -428,11 +455,14 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
       :END:
 
 **** Torchwood Soho: Parasite :P2020:plot_yes:Norton:
+
+https://tardis.fandom.com/wiki/Parasite_(audio_story)
+
 ***** [#B] 1. The Man From Room 13 (8.0)
 ***** [#B] 2. Meet Mr Lyme (8.2)
 ***** [#A] 3. The Mould (8.7)
 ***** [#A] 4. The Spread (8.7)
-***** [#B] 5. The Dead Hand (9.4)
+***** [#A] 5. The Dead Hand (9.4)
 ***** [#A] 6. The Liberty of Norton Folgate (8.7)
 **** Torchwood Soho: Ashenden :Norton:P2021:plot_yes:
 ***** [#C] 1. Pimlico                          (7.8)
@@ -548,10 +578,12 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
 ***** HALF [#B] 6.10 ScrapeJane (8.2) :DW2022_12_spinoffs:
       SCHEDULED: <2022-12-16 Fri 09:59>
 
-***** [#A] 6.11 Day Zero (8.7) :DW2023_01_spinoffs:
-      SCHEDULED: <2023-01-25 Wed>
+***** 3QTR [#A] 6.11 Day Zero (8.7) :DW2023_01_spinoffs:
+      CLOSED: [2023-01-28 Sat 08:42] SCHEDULED: <2023-01-31 Tue>
 
 ***** [#B] 6.12 Thoughts and Prayers (8.2) :DW2023_02_spinoffs:
+      SCHEDULED: <2023-02-16 Thu>
+
 *** The Lives of Captain Jack :🎧:Jack:1CD:
 **** vol.1 :P2017:
 ***** HALF [#D] The Year After I Died
@@ -668,13 +700,13 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
 
 Torchwood India
 
-**** [#C] 4. The Dead Line :bilibili:
+**** READY [#C] 4. The Dead Line :bilibili:
 
 【John Barrowman字幕组-火炬木广播剧中字-无人来电-哔哩哔哩】 https://b23.tv/Cxi034N
 
 **** [#C] The Devil and Miss Carew
 **** CANCEL [#E] Submission
-**** [#B] The House of the Dead :bilibili:
+**** READY [#B] The House of the Dead :bilibili:
 
 【John Barrowman 字幕组-火炬木广播剧中字-亡者之屋-哔哩哔哩】 https://b23.tv/uQcs9jt
 
@@ -836,8 +868,8 @@ Roberts Master
 **** HALF [#C] 7.1 Colony of Strangers         (7.7) :DW2022_12_spinoffs:
      SCHEDULED: <2022-12-24 Sat>
 
-**** [#D] 7.2 Abbey of Heretics           (7.2) :DW2023_01_spinoffs:
-     SCHEDULED: <2023-01-25 Wed>
+**** HALF [#D] 7.2 Abbey of Heretics           (7.2) :DW2023_01_spinoffs:
+     SCHEDULED: <2023-01-31 Tue>
 
 **** [#A] 7.3 Barrister to the Stars      (8.9)
 **** [#D] 7.4 Carnival of Angels          (7.0)
@@ -1068,6 +1100,8 @@ Roberts Master
 
 ** series 5 :P2013:
 *** [#E] 5.1 - Emancipation (6.9) :DW2023_02_spinoffs:
+    SCHEDULED: <2023-02-26 Sun>
+
 *** [#E] 5.2 - Evolution (6.5)
 *** [#D] 5.3 - Arbitration (7.2)
 ** series 6 :P2013:
@@ -1405,11 +1439,13 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
 **** 3QTR [#A] 7.2 Wulf :DW2022_12_doctor:
      CLOSED: [2022-12-25 Sun 22:28] SCHEDULED: <2022-12-28 Wed>
 
-**** TODO 7.3 Ubermensch 超人 :DW2023_01_maybe:
-     SCHEDULED: <2023-01-31 Tue>
+**** TODO 7.3 Ubermensch 超人 :DW2023_02_spinoffs:
+     SCHEDULED: <2023-02-12 Sun>
 
-**** 7.4 Auf Wiedersehen 再见 :DW2023_02_doctor:
-* Missy / Master!
+**** 7.4 Auf Wiedersehen 再见 :DW2023_03_doctor:
+     SCHEDULED: <2023-03-12 Sun>
+
+* #Master
 ** Missy series 1 :🎧:Master_missy:
 *** START [#C] 1.1 A Spoonful of Mayhem :D2021_07_extra:
     :PROPERTIES:
@@ -1914,9 +1950,11 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
     SCHEDULED: <2022-12-12 Mon>
 
 *** START [#A] 3.3 Silent Majority (8.5) :plot_yes:DW2023_01_spinoffs:
-    SCHEDULED: <2023-01-15 Sun>
+    SCHEDULED: <2023-01-31 Tue>
 
 *** [#C] 3.4 In Memory Alone (7.5) :DW2023_02_spinoffs:
+    SCHEDULED: <2023-02-20 Mon>
+
 ** UNIT 4: Assembled :Silurians:P2017:
 *** [#C] 4.1 - Call to Arms (7.7)
 *** [#D] 4.3 - Retrieval    (7.2)
@@ -1974,7 +2012,7 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
 
 ***+TBLFM: $1='(cond ((>= $3 8.5) "[#A]") ((>= $3 8.0) "[#B]") ((>= $3 7.5) "[#C]") ((>= $2 7.0) "[#D]") (t "[#E]"));N
 
-** Nemesis 1: Between Two Worlds :P2021_11:
+** Nemesis 1: Between Two Worlds :plot_yes:P2021_11:
 *** [#B] 1.1 The Enemy Beyond
 *** [#C] 1.2 Fire and Ice
 *** [#C] 1.3 Eleven's Eleven
@@ -2099,6 +2137,8 @@ http://www.drwhoguide.com/kaldor03.htm
      CLOSED: [2022-11-20 Sun 19:43] SCHEDULED: <2022-11-20 Sun>
 
 **** [#C] 2.3 - Spring-Heeled Jack        (7.7) :DW2023_02_spinoffs:
+     SCHEDULED: <2023-02-22 Wed>
+
 *** PG: Heritage 3 :P2020:
 **** [#C] 3.1 - Family Matters            (7.5)
 **** [#D] 3.2 - Whatever Remains          (7.2)
@@ -2151,7 +2191,7 @@ http://www.drwhoguide.com/kaldor03.htm
 *** [#D] TNCM 2.1 - The Splintered Man (7.0)
 *** [#E] TNCM 2.2 - The Ship of the Sleepwalkers (6.7)
 *** [#C] TNCM 2.3 - My Enemy's Enemy (7.5)
-*** [#E] TNCM 2.4 - Time of the Intelligence (6.5)
+*** [#E] TNCM 2.4 - Time of the Intelligence (6.5) :great_intelligence:
 ** The New Counter-Measures: Series 3
 *** [#C] 3.1. The Hollow King (7.5) :P2019:
 *** [#D] 3.2. The Movellan Manoeuvre (7.4) :P2020:
@@ -2172,6 +2212,24 @@ http://www.drwhoguide.com/kaldor03.htm
 **** 4	Words from Nine Divinities :P2008:
 **** 5	Ozymandias :P2009:
 **** 6	The Judgment of Sutekh :P2009:
+* P.R.O.B.E
+** video :📺:Liz:
+*** DONE The Zero Imperative 
+    CLOSED: [2020-06-19 Fri 20:00]
+
+*** DONE The Devil of Winterborne
+    CLOSED: [2020-07-12 Sun 12:00]
+
+**** DONE PROBE02 - The Devil of Winterborne 制作英文字幕
+     CLOSED: <2020-07-11 Sat 12:01>
+
+*** DONE Unnatural Selection
+    CLOSED: <2020-08-09 Sun 16:31>
+
+*** Ghosts of Winterborne
+*** DONE When to Die :P2015:
+    CLOSED: <2020-08-15 Sat 16:31>
+
 * misc spin-offs (classic)
 ** Sarah Jane Smith
 *** [#E] 1.1 Comeback (6.8)
@@ -2233,11 +2291,13 @@ http://www.drwhoguide.com/kaldor03.htm
 *** [#D] 1.3 The Skies of New Earth (7.1)
 *** [#D] 1.4 The Cats of New Cairo (7.2)
 ** Lady Christina :Christina:
-*** series 1 :P2018:plot_yes:
-**** TODO [#C] 1.1 - It Takes a Thief (7.8)
+*** series 1 :P2018:plot_yes:Sam_Bishop:
+**** TODO [#C] 1.1 - It Takes a Thief (7.8) :DW2023_02_spinoffs:
+     SCHEDULED: <2023-02-28 Tue>
+
 **** [#D] 1.2 - Skin Deep (7.2)
-**** [#D] 1.3 - Portrait of a Lady (7.0)
-**** [#C] 1.4 - Death on the Mile (7.6)
+**** [#D] 1.3 - Portrait of a Lady (7.0) :Sontarans:
+**** [#C] 1.4 - Death on the Mile (7.7)
 *** series 2 :P2021:
 **** [#D] 2.1 - The Wreck (7.2?)
 **** [#D] 2.2 - Walkabout (7.0?)
@@ -2265,14 +2325,18 @@ http://www.drwhoguide.com/kaldor03.htm
 **** 3QTR [#C] 1.2 - The Flood               (7.6) :D2022_06_spinoffs:
      CLOSED: <2022-06-23 Thu 19:09> SCHEDULED: <2022-06-25 Sat>
 
-**** 3QTR [#C] 1.3 - Ghost Machines   (7.5) :DW2022_07_spinoffs:
+**** 3QTR [#C] 1.3 - Ghost Machines   (7.5) :DW2022_07_spinoffs:bilibili:
      CLOSED: [2022-07-15 Fri 05:40] SCHEDULED: <2022-07-10 Sun>
 
-**** HALF [#D] 1.4 - The Last Party on Earth :DW2022_08_spinoffs:
+【【神秘博士广播剧熟肉】The Dimension Cannon 103 Ghost Machines 幽灵机器-哔哩哔哩】 https://b23.tv/iSSh5YP
+
+**** HALF [#D] 1.4 - The Last Party on Earth :DW2022_08_spinoffs:bilibili:
      SCHEDULED: <2022-08-21 Sun>
      :PROPERTIES:
      :rating:   7.3
      :END:
+
+【【神秘博士广播剧熟肉】The Dimension Cannon 104 The Last Party on Earth 地球最后的狂欢-哔哩哔哩】 https://b23.tv/FHge6fG
 
 *** RTDC vol.2 Other Worlds :P2022_10:
 **** 2.1 Saltwater
@@ -2298,8 +2362,8 @@ From Donna's perspective, the anthology is set after /Forest of the Dead/.
 
 【【神秘博士广播剧熟肉】Kidnapped! 103 The Sorcerer of Albion 英格兰的巫师-哔哩哔哩】 https://b23.tv/N0bX4mv
 
-*** START [#C] 4. The Chiswick Cuckoos (7.9) :10th_Dr:bilibili:DW2023_01_spinoffs:
-    SCHEDULED: <2023-01-15 Sun>
+*** 2DONE [#C] 4. The Chiswick Cuckoos (7.9) :10th_Dr:bilibili:DW2023_01_spinoffs:
+    CLOSED: [2023-01-15 Sun 10:46] SCHEDULED: <2023-01-15 Sun>
 
 【【神秘博士广播剧熟肉】Kidnapped! 104 The Chiswick Cuckoos 奇斯威克的布谷鸟-哔哩哔哩】 https://b23.tv/tSBFEZL
 
@@ -2410,6 +2474,11 @@ From Donna's perspective, the anthology is set after /Forest of the Dead/.
 【【神秘博士广播剧熟肉】The Stuff of Nightmares 304 If I Should Die Before I Wake 若我在沉睡中死去-哔哩哔哩】 https://b23.tv/TJmTSCZ
 
 *** TBR CDNM vol.4 Broken Memories :P2023_10:
+** Time Lord Victorious
+
+
+https://disk.yandex.ru/d/n_i2CRgIJW0xOw
+
 ** The Eighth of March
 *** vol.1 The Eighth of March :P2021_03:
 *** vol.2 Protectors of Time :P2022_03:

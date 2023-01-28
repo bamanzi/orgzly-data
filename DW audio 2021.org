@@ -1440,26 +1440,26 @@
 * DW2023-01
 ** dw2023-01-doctor
 *** HALF [#A] CC3.5 Home Truths                         :1st_Dr:Sara_Kingdom:
-*** [#C] 7.1 The Unzal Incursion                            :3rd_Dr:Liz:Brig:
-*** HALF [#C] MR267a Thin Time                               :5th_Dr:11th_Dr:
-*** HALF [#B] MR012. The Fires of Vulcan                         :7th_Dr:Mel:
-*** START 9DA5.1 Station to Station                         :9th_Dr:bilibili:
-*** [#D] WDB 2.1 Consequences :War_Dr:
+*** 3QTR [#C] 7.1 The Unzal Incursion                       :3rd_Dr:Liz:Brig:
+*** 3QTR [#C] MR267a Thin Time                               :5th_Dr:11th_Dr:
+*** 3QTR [#B] MR012. The Fires of Vulcan                         :7th_Dr:Mel:
+*** 2DONE 9DA5.1 Station to Station                         :9th_Dr:bilibili:
+*** HALF [#D] WDB 2.1 Consequences                                   :War_Dr:
 
 ** dw2023-01-spinoffs
-*** [#A] TW6.11 Day Zero
+*** 3QTR [#A] TW6.11 Day Zero
 *** DONE [#C] TW42 Ex Machina                                         :Ianto:
-*** [#A] UNIT3.3 Silent Majority :UNIT:Silents:
+*** START [#A] UNIT3.3 Silent Majority                         :UNIT:Silents:
 *** HALF [#A] J&L7.3 Murder at Moorsey Manor                  :Jago:Litefoot:
 *** 3QTR [#A] WM5.3 - The Castle of Kurnos 5              :Master_war:8th_Dr:
-*** [#C] Donna 1.4 The Chiswick Cuckoos :Donna:10th_Dr:
-*** HALF [#C] Robots2.3 Do No Harm
+*** 2DONE [#C] Donna 1.4 The Chiswick Cuckoos                 :Donna:10th_Dr:
+*** 3QTR [#C] Robots2.3 Do No Harm                                      :Liv:
 *** START [#D] River7.2 Abbey of Heretics                             :River:
 
 * DW2023-02
 ** dw2023-02-doctor
 *** [#C] EA4.1 The Night Witches :Jamie:Polly:Ben:
-*** [#C] 4DA 4.2 The Darkness of Glass :4th_Dr:Leela:
+*** [#B] 4DA11.2. The Ravencliff Witch                               :4th_Dr:
 *** [#C] 6DnP #1 The Headless Ones 1cd
 *** [#A] 8DDC3.1 - Absent Friends :8th_Dr:Liv:Helen:
 *** [#C] 8DDC3.2 - The Eighth Piece :8th_Dr:Liv:Helen:
@@ -1468,17 +1468,19 @@
 
 ** dw2023-02-spinoffs
 *** [#B] TW6.12 Thoughts and Prayers
+*** [#D] John #2 Escape from Nebazz
 *** [#A] TW43 The Three Monkeys :Owen:Andy:
 *** [#C] UNIT3.4 In Memory Alone / +[#B] CM 1.4 State of Emergency+
 *** [#C] PG2.3 Spring-Heeled Jack
 
 *** [#A] WM5.4 - The Cognition Shift                      :Master_war:8th_Dr:
-*** [#E] Gallifrey 5.1 - Emancipation
+*** [#E] Gallifrey 5.1 - Emancipation                        :Romana_2:Leela:
 *** [#C] Lady Christina 1.1 It Takes a Thief
 * pending
 ** doctor
 *** [#C] 2DA22.2 Wrath of the Ice Warriors :2nd_Dr:Brigadier:ice_warriors:2CD:
 *** [#D] 3DA 1.1 - Prisoners of the Lake :3rd_Dr:Jo:
+*** [#C] 4DA 4.2 The Darkness of Glass                         :4th_Dr:Leela:
 *** [#B] MR159 The Emerald Tiger :5th_Dr:Nyssa:
 *** [#C] MR194. The Rani Elite                             :6th_Dr:Peri:Rani:
 *** [#A] NA01 Damaged Goods :7th_Dr:Benny:Ace:
