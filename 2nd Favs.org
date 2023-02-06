@@ -111,8 +111,17 @@ CLOSED: [2022-04-02 Sat 20:14]
 CLOSED: [2022-04-04 Mon 19:41]
 
 **** Lucifer S2
+
+18 episodes
+
 ***** DONE 2x01
 CLOSED: [2023-01-01 Sun 20:35]
+
+***** DONE 2x02
+CLOSED: [2023-02-03 Fri 18:56]
+
+***** DONE 2x03
+CLOSED: [2023-02-04 Sat 20:47]
 
 ** Preacher
 *** comics :📚:

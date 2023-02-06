@@ -2599,6 +2599,12 @@ CLOSED: [2021-03-26 Fri 23:49]
 
 **** Degressions 偏航 :P2021:
 **** Artifact 人造品 :P2021:
+** novels
+*** Sympathy for the Devil
+
+翻译：
+- 前两章  https://m.weibo.cn/6420838648/4837290571210950
+
 * footnotes
 
 #+TBLFM: $2='(cond ((> $4 8.5) "[#A]") ((>= $4 8.0) "[#B]") ((>= $4 7.5) "[#C]") ((>= $4 7.0) "[#D]") (t "[#E]"));N
