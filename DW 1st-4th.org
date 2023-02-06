@@ -145,9 +145,9 @@ SCHEDULED: <2022-03-12 Sat>
 :END:
 
 *** 1DA (2022-)
-**** 2022. The Outlaws :2CD:P2022_04:
-***** 22.1 The Outlaws :Dodo:Monk:P2022_04:
-***** 22.2 The Miniaturist :Dodo:P2022_04:
+**** 2022. The Outlaws :Dodo:P2022_04:plot_yes:
+***** [#D] 22.1 The Outlaws :Dodo:Monk:P2022_04:DW2023_03_doctor:
+***** [#C] 22.2 The Miniaturist :Dodo:P2022_04:1CD:
 **** TBR 2023. The Demon Song :Dodo:P2023_02:
 ***** 23.1 The Demon Song
 ***** 23.2 The Incherton Incident
@@ -274,7 +274,6 @@ CLOSED: [2021-06-26 Sat 09:13]
 
 **** Polly/Ben
 ***** LATER [#B] CC11.4 - The Plague of Dreams :Polly:Ben:scripted:
-SCHEDULED: <2023-01-31 Tue>
 :PROPERTIES:
 :rating:   8.0
 :END:
@@ -287,7 +286,7 @@ SCHEDULED: <2023-01-31 Tue>
 **** 📂CC9. First Doctor - Volume One
 **** 📂CC11. First Doctor - Volume Two :scripted:
 ***** [#D] 11.1 Fields of Terror :Steven:Vicki:
-***** [#A] 11.2 Across the Darkened City :Steven:Vicki:Daleks:
+***** READY [#A] 11.2 Across the Darkened City :Steven:Vicki:Daleks:
 ***** [#D] 11.3 The Bonfires of the Vanties :Polly:Ben:
 ***** [#B] 11.4 The Plague of Dreams :Polly:Ben:
 **** 📂CC13. First Doctor - Volume Three
@@ -438,8 +437,8 @@ CLOSED: [2021-06-19 Sat 11:50]
 
 ***** CANCEL [#E] 2.4 The Isos Network :Jamie:Zoe:Cybermen:plot_yes:
 **** EA S4
-***** READY [#C] 4.1 The Night Witches :Jamie:Polly:Ben:plot_yes:DW2023_02_doctor:
-SCHEDULED: <2023-02-02 Thu>
+***** READY [#C] 4.1 The Night Witches :Jamie:Polly:Ben:plot_yes:
+SCHEDULED: <2023-03-01 Wed>
 :PROPERTIES:
 :rating:   7.6
 :END:
@@ -525,7 +524,8 @@ CLOSED: [2022-08-24 Wed 09:37] SCHEDULED: <2022-08-10 Wed>
 :END:
 
 **** 📂CC10 - The Second Doctor: Volume One :scripted:
-***** READY [#C] CC10.1 - The Mouthless Dead :Jamie:Polly:Ben:plot_yes:
+***** START [#C] CC10.1 - The Mouthless Dead :Jamie:Polly:Ben:plot_yes:DW2023_02_doctor:
+SCHEDULED: <2023-02-04 Sat>
 :PROPERTIES:
 :rating:   7.7
 :END:
@@ -705,7 +705,6 @@ CLOSED: [2020-06-30 Tue 14:01]
 ** audio :🎧:
 *** 3DA :BigFinish:3DA:2CD:
 **** TODO [#D] 1.1 - Prisoners of the Lake :Jo:UNIT:P2015:plot_yes:
-SCHEDULED: <2023-01-31 Tue>
 :PROPERTIES:
 :rating:   7.2
 :END:
@@ -935,7 +934,7 @@ As the decade in English history which attracts the greatest quantity of alien i
 
 To escape his Earth exile, the Doctor is prepared to make any bargain, come to any arrangement, or to do any deal with any devil – even if in this case the Devil wears a monk's robes. But when past misdeeds start catching up with both the Doctor and the Monk, who can Liz Shaw trust when time is running out and death is rapidly approaching?
 
-***** READY [#C] ST7.X Landbound †7.6 :scripted:no_companion:bilibili:
+***** READY [#C] ST7.X Landbound †7.6 :scripted:no_companion:bilibili:DW2023_03_doctor:
 
 【【神秘博士】短途旅行：以陆为牢 | Short Trips: Landbound-哔哩哔哩】 https://b23.tv/hbxNYVJ
 
@@ -1063,34 +1062,34 @@ CLOSED: [2020-06-21 Sun 14:57]
 *** DONE DWMGN: The Iron Legion
 **** DONE The Iron Legion (DWM1-8)
 **** DONE City of the Damned (DWM9-16)
-**** DONE Star Beast (DWM19-26)                                   :K9:Sharon:
-     CLOSED: [2020-08-10 Mon 20:19]
+**** DONE Star Beast (DWM19-26) :K9:Sharon:
+CLOSED: [2020-08-10 Mon 20:19]
 
-**** DONE Dogs of Doom (DWM27-34)                          :K9:Sharon:Daleks:
-**** DONE Time Witch (DWM35-38)                                   :K9:Sharon:
+**** DONE Dogs of Doom (DWM27-34) :K9:Sharon:Daleks:
+**** DONE Time Witch (DWM35-38) :K9:Sharon:
 *** DONE DWMGN: Dragon's Claw
-**** DONE Dragon's Claw (DWM39-45)                       :K9:Sharon:Sontaran:
-**** DONE The Collector (DWM46)                                   :K9:Sharon:
-**** DONE Dreamers of Death (DWM47-48)                            :K9:Sharon:
-**** DONE The Life Bringer! (DWM49-50)                                   :K9:
-**** DONE War of the Words (DWM51)                                       :K9:
+**** DONE Dragon's Claw (DWM39-45) :K9:Sharon:Sontaran:
+**** DONE The Collector (DWM46) :K9:Sharon:
+**** DONE Dreamers of Death (DWM47-48) :K9:Sharon:
+**** DONE The Life Bringer! (DWM49-50) :K9:
+**** DONE War of the Words (DWM51) :K9:
 **** DONE Spider-God (DWM52)
 **** DONE The Deal (DWM53)
 **** DONE End of the Line (DWM54-55)
 **** DONE Doctor Who and the Free-Fall Warriors (DWM56-57)
-**** DONE Junkyard Demon (DWM58-59)                                :Cybermen:
+**** DONE Junkyard Demon (DWM58-59) :Cybermen:
 **** DONE The Neutron Knights (DWM60)
 *** DWM misc
-**** Victims (DWM212-214)                                          :Romana_2:
-**** Black Destiny (DWM235-237)                                 :Sarah:Harry:
+**** Victims (DWM212-214) :Romana_2:
+**** Black Destiny (DWM235-237) :Sarah:Harry:
 **** The Fangs of Time (DWM243)
-**** DONE The Seventh Segment (DWM special 1995)                :Romana_1:K9:
-**** Rest and Re-Creation  (DWY1994)                           :Leela:Zygons:
-**** The Naked Flame       (DWY1995)                                  :Sarah:
-**** DONE Star Beast II         (DWY1996)                              :Beep:
-     CLOSED: [2020-08-10 Mon 20:14]
+**** DONE The Seventh Segment (DWM special 1995) :Romana_1:K9:
+**** Rest and Re-Creation  (DWY1994) :Leela:Zygons:
+**** The Naked Flame       (DWY1995) :Sarah:
+**** DONE Star Beast II         (DWY1996) :Beep:
+CLOSED: [2020-08-10 Mon 20:14]
 
-**** Junk-Yard Demon II    (DWY1996)                               :Cybermen:
+**** Junk-Yard Demon II    (DWY1996) :Cybermen:
 *** CANCEL Doctor Who Annuals (1976-1982)
 CLOSED: [2020-08-03 Mon 23:17]
 
@@ -1199,16 +1198,23 @@ SCHEDULED: <2022-06-16 Thu>
 CLOSED: [2020-08-20 Thu 13:56]
 
 **** 4DA series 5 :Romana_2:P2016:
+***** [#D] 5.1 - Wave of Destruction (7.1)
 ***** [#D] 5.2 - The Labyrinth of Buda Castle (7.1)
 ***** [#C] 5.3 - The Paradox Planet (7.6) / 5.4 - Legacy of Death (7.6)
 ***** 2DONE [#A] 5.6 The Trouble with Drax (8.7) :D2021_06:
 CLOSED: <2021-07-01 Thu 16:39>
 
-***** [#D] 5.7 - The Pursuit of History (7.1)
+***** [#D] 5.7 - The Pursuit of History (7.3)
+***** [#D] 5.8 - Casualties of Time (7.1)
 **** 4DA series 6 :Romana_2:P2017:
-***** [#D] 6.2 - The Eternal Battle (7.3)
+***** CANCEL [#E] 6.1 The Beast of Kravenos :Jago:Litefoot:plot_yes:
+***** READY [#D] 6.2 - The Eternal Battle (7.3) :Sontarans:plot_yes:
+***** CANCEL [#E] 6.3 The Silent Scream :plot_yes:
+***** CANCEL [#E] 6.4 Dethras :plot_yes:
 ***** [#D] 6.5 - The Haunting of Malkin Place (7.4)
-***** [#D] 6.8 - The Skin of the Sleek (7.2)
+***** [#D] 6.6 - Subterranea (7.1)
+***** [#D] 6.8 - The Skin of the Sleek (7.4)
+***** [#D] 6.9 - The Thief Who Stole Time (7.2)
 **** 4DA series 7 :Leela:P2018:
 ***** 3QTR [#C] 7.1 The Sons of Kaldor (7.7) :Kaldor:Robots:DW2022_12_doctor:
 CLOSED: [2022-12-13 Tue 08:58] SCHEDULED: <2022-12-13 Tue>
@@ -1263,8 +1269,8 @@ CLOSED: [2020-07-15 Wed 19:13]
 ***** [#E] 10.4 The Primeval Design
 **** 4DA series 11 :P2022:2CD:
 ***** TODO [#A] 11.1 Blood of the Time Lords :Master_early:plot_yes:
-***** TODO [#B] 11.2 The Ravencliff Witch :Margaret:plot_yes:DW2023_02_doctor:
-SCHEDULED: <2023-02-04 Sat>
+***** HALF [#B] 11.2 The Ravencliff Witch :Margaret:plot_yes:DW2023_02_doctor:
+SCHEDULED: <2023-02-06 Mon 08:42>
 
 ***** [#C] 11.3 The Dreams of Avaice :The_Nine:
 ***** [#D] 11.4 Shellshock
@@ -1275,14 +1281,14 @@ SCHEDULED: <2023-02-04 Sat>
 
 Philip Hinchcliffe Presents
 
-**** [#B] 1.1 Ghosts of Gralstead
+**** [#B] 1.1 The Ghosts of Gralstead :plot_no:
 **** [#C] 1.2 - The Devil's Armada
 **** [#D] 2. The Genesis Chamber
 **** [#D] 3. The Helm of Awe
 **** [#D] 4. The God of Phantoms
 *** BF The Lost Stories
-**** [#A] LS 2.07 - The Foe from the Future  8.9 :Leela:
-**** [#C] LS 2.08 - The Valley of Death 7.7 :Leela:
+**** BLOCK [#A] LS 2.07 - The Foe from the Future  (8.9) :Leela:plot_yes:3CD:
+**** [#C] LS 2.08 - The Valley of Death 7.7 :Leela:2CD:plot_no:
 **** 2DONE [#B] LS6.1 - Return of the Cybermen :Cybermen:plot_half:DW2022_08_doctor:bilibili:
 CLOSED: [2022-09-03 Sat 17:41] SCHEDULED: <2022-09-04 Sun>
 :PROPERTIES:
@@ -1296,7 +1302,7 @@ CLOSED: [2022-09-03 Sat 17:41] SCHEDULED: <2022-09-04 Sun>
 【【神秘博士广播剧熟肉】The Lost Stories 601 Return of the Cybermen (Part 1&2) 赛博人的回归-哔哩哔哩】 https://b23.tv/TscHIKq
 【【神秘博士广播剧熟肉】The Lost Stories 601 Return of the Cybermen (Part 3&4) 赛博人的回归-哔哩哔哩】 https://b23.tv/fnaPGbZ
 
-**** READY [#A] LS6.2 - The Doomsday Contract :Romana_2:bilibili:
+**** READY [#A] LS6.2 - The Doomsday Contract :Romana_2:P2021:bilibili:2CD:
 :PROPERTIES:
 :rating:   8.9
 :END:
@@ -1341,10 +1347,10 @@ thetimescales 上32/33认为需要先听前面的故事
 
 15 out of 16 (93.8%) raters say this story requires a previous story.
 
-**** READY [#B] NA03 - The Romance of Crime (8.0) :🎧: :2CD:scripted:
+**** READY [#B] NA03 - The Romance of Crime (8.0) :Romana_2:2CD:scripted:
 **** READY [#B] NA04 The English Way of Death :Romana_2:2CD:scripted:
-**** [#B] NA05 - The Well-Mannered War (8.1) :🎧: :2CD:
-*** BF shorts :🎧:🗣:
+**** [#B] NA05 - The Well-Mannered War (8.1) :Romana_2:2CD:
+*** BF shorts :🗣:
 **** Companion Chronicles
 ***** [#C] CC2.4 - The Catalyst †7.9
 ***** CANCEL [#D] CC3.4 - Empathy Games †7.0
@@ -1375,7 +1381,7 @@ CLOSED: [2020-06-25 Thu 21:56]
 :rating:   7.9
 :END:
 
-*** BBC 4DA :scripted:🎧:DA:BBC:
+*** BBC 4DA :scripted:DA:BBC:
 **** HALF [#C] 2.1. The Relics of Time :plot_yes:DW2022_10_doctor:
 SCHEDULED: <2022-10-29 Sat>
 :PROPERTIES:

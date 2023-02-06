@@ -53,7 +53,7 @@ SCHEDULED: <2022-09-21 Wed>
 
 【【广播剧翻译】死者复活参加自己的葬礼？九任冒险集：老朋友 401 Fond Farewell-哔哩哔哩】 https://b23.tv/TSaPh4d
 
-***** 3QTR [#B] 4.2 Way of the Burryman :Cybermen:UNIT:Brigadier:plot_no:bilibili:DW2022_07_doctor:
+***** 3QTR [#B] 4.2 Way of the Burryman :Cybermen:UNIT:Brigadier:plot_yes:bilibili:DW2022_07_doctor:
 CLOSED: [2022-07-03 Sun 17:05] SCHEDULED: <2022-07-06 Wed>
 :PROPERTIES:
 :rating:   8.2
@@ -61,7 +61,7 @@ CLOSED: [2022-07-03 Sun 17:05] SCHEDULED: <2022-07-06 Wed>
 
 【【广播剧翻译】九叔与老年准将 九任冒险集：老朋友 402 Way of the Burryman-哔哩哔哩】 https://b23.tv/HfJuOyt
 
-***** START [#B] 4.3 The Forth Generation :Cybermen:DW2022_07_doctor:
+***** START [#B] 4.3 The Forth Generation :Cybermen:plot_yes:DW2022_07_doctor:
 SCHEDULED: <2022-07-23 Sat>
 :PROPERTIES:
 :rating:   8.2
@@ -76,25 +76,28 @@ CLOSED: [2023-01-23 Mon 08:22] SCHEDULED: <2023-01-10 Tue 08:39>
 ***** CANCEL [#F] 5.2 The False Dimitry
 CLOSED: [2022-07-02 Sat 23:47]
 
-***** READY [#B] 5.3 Auld Lang Syne :bilibili:
+***** READY [#B] 5.3 Auld Lang Syne :bilibili:DW2023_03_doctor:
 
 【【神秘博士广播剧熟肉】Back to Earth 503 Auld Lang Syne 逝去已久的时光-哔哩哔哩】 https://b23.tv/1NrKKIN
 
 **** S2.2 Into the Stars :P2022_08:
-***** 6.1 Salvation Nine :bilibili:
+***** [#A] 6.1 Salvation Nine :Sontarans:bilibili:
 
 【【神秘博士广播剧熟肉】Into the Stars 601 Salvation Nine 救赎九号-哔哩哔哩】 https://b23.tv/ORzh7WU
 
-***** 6.3 Break the Ice :bilibili:
+***** CANCEL [#F] 6.2 Last of the Zetacene
+***** [#A] 6.3 Break the Ice :bilibili:
 
 【【神秘博士广播剧熟肉】Into the Stars 603 Break the Ice 破冰-哔哩哔哩】 https://b23.tv/FgizL7a
 
-**** S2.3 Hidden Depth
-***** 7.3 Flatpack :bilibili:
+**** S2.3 Hidden Depth :P2022_11:
+***** [#E] 7.1 The Seas of Titan
+***** [#D] 7.2 Lay Down Your Arms
+***** [#A] 7.3 Flatpack :Liv:Tania:bilibili:
 
 【【神秘博士广播剧熟肉】Hidden Depths 703 Flatpack 平板家居-哔哩哔哩】 https://b23.tv/ElXr5Mq
 
-**** S2.4 Shades of Fear
+**** TBR S2.4 Shades of Fear :P2023_02:
 ***** 8.1 The Colour of Terror
 ***** 8.2 The Blooming Menace
 ***** 8.3 Red Darkness :Vashta_Nerada:
@@ -464,7 +467,7 @@ CLOSED: [2022-06-18 Sat 10:57] SCHEDULED: <2022-06-25 Sat>
 【【神秘博士广播剧熟肉】Dalek Universe 103 The House of Kingdom 家族-哔哩哔哩】 https://b23.tv/bQCgXoT
 
 **** READY [#D] DU2.1 - Cycle of Destruction :bilibili:DW2023_02_doctor:
-SCHEDULED: <2023-02-10 Fri>
+SCHEDULED: <2023-02-18 Sat>
 :PROPERTIES:
 :rating:   7.2
 :END:

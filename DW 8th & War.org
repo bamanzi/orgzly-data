@@ -437,13 +437,13 @@ SCHEDULED: <2022-09-04 Sun>
 
 **** DC vol.3
 ***** TODO [#A] 3.1 - Absent Friends :DW2023_02_doctor:
-SCHEDULED: <2023-02-08 Wed>
+SCHEDULED: <2023-02-11 Sat>
 :PROPERTIES:
 :rating:   9.2
 :END:
 
-***** TODO [#C] 3.2 - The Eighth Piece :River:DW2023_02_doctor:
-SCHEDULED: <2023-02-08 Wed>
+***** TODO [#C] 3.2 - The Eighth Piece :River:
+SCHEDULED: <2023-03-01 Wed>
 :PROPERTIES:
 :rating:   7.7
 :END:
@@ -614,14 +614,17 @@ SCHEDULED: <2023-02-08 Wed>
 **** Stranded vol.4
 *** 8DA (2022- )
 **** What Lies Inside :P2022_11:
-***** Paradox of the Daleks :bilibili:
+***** Paradox of the Daleks :2CD:bilibili:
 
 【【广播剧汉化】 旋涡中的莫比乌斯环 Paradox of the Daleks 上-哔哩哔哩】 https://b23.tv/6iEGooT
 
 【【广播剧汉化】 无头无尾的衔尾蛇 Paradox of the Daleks 下-哔哩哔哩】 https://b23.tv/4BN1Xdz
 
-***** The Dalby Spook
-**** Connections :P2022_12:
+***** The Dalby Spook :1CD:
+**** Connections :P2022_12:1CD:
+***** Here Lies Drax
+***** The Love Vampires
+***** Albie's Angels
 *** 8D Time War ↗
 *** misc :short:
 **** TODO [#A] CC4.12 Solitaire (9.2) :ToyMaker:P2010:plot_yes:Charley:
@@ -629,17 +632,17 @@ SCHEDULED: <2023-02-08 Wed>
 :rating:   9.2
 :END:
 
-**** [#C] ST2.8 - Letting Go
+**** [#B] ST2.8 - Letting Go :Charley:
 :PROPERTIES:
-:rating:   7.9
+:rating:   8.0
 :END:
 
-**** [#C] ST5.8 - Foreshadowing
+**** [#C] ST5.8 - Foreshadowing :Charley:
 :PROPERTIES:
 :rating:   7.7
 :END:
 
-**** [#C] ST6.11 - The Man Who Wasn't There
+**** [#C] ST6.11 - The Man Who Wasn't There :Charley:
 :PROPERTIES:
 :rating:   7.8
 :END:
@@ -659,7 +662,8 @@ SCHEDULED: <2023-02-08 Wed>
 :rating:   8.3
 :END:
 
-**** READY [#B] CDNM3.4 If I Should Die Before I Wake :plot_yes:
+**** READY [#B] CDNM3.4 If I Should Die Before I Wake :Charley:plot_yes:
+**** ST12.1 Salvage :Bliss:P2023_02:
 ** short stories
 *** Model Train Set :🎧:short:
 
@@ -845,7 +849,7 @@ CLOSED: [2023-01-05 Thu 08:38] SCHEDULED: <2023-01-05 Thu 08:38>
 :END:
 
 ***** [#A] 5.4 - The Cognition Shift :plot_yes:8th_Dr:DW2023_02_spinoffs:
-SCHEDULED: <2023-02-24 Fri>
+SCHEDULED: <2023-02-26 Sun>
 :PROPERTIES:
 :rating:   8.9
 :END:

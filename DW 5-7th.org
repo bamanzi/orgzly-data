@@ -112,7 +112,7 @@ CLOSED: [2021-06-15 Tue 08:16]
 :rating:   6.4
 :END:
 
-**** [#C] 071. The Council of Nicaea :Peri:Erimem:
+**** [#C] 071. The Council of Nicaea :Peri:Erimem:DW2023_03_doctor:
 **** Singularity
 **** [#A] MR081. The Kingmaker :Peri:Erimem:4D:plot_no:
 :PROPERTIES:
@@ -390,9 +390,9 @@ SCHEDULED: <2023-01-06 Fri 08:38>
 ***** Effect and Cause
 **** The Blazing Hour
 *** 5DA
-**** The Fifth Doctor Box Set :2CD:
-***** Psychodrome
-***** Iterations of I
+**** The Fifth Doctor Box Set :2CD:Nyssa:Tegan:Adric:
+***** [#A] Psychodrome
+***** [#A] Iterations of I
 **** Wicked Sisters :1CD:P2020:
 ***** [#C] The Garden of Storms
 ***** [#B] The Moonrakers
@@ -406,7 +406,7 @@ SCHEDULED: <2023-01-06 Fri 08:38>
 CLOSED: [2022-11-27 Sun 23:36] SCHEDULED: <2022-11-16 Wed>
 
 ***** [#D] 1.2 God of War :Nyssa:Tegan:Adric:ice_warriors:1CD:P2022_01:
-***** 2.1 The Auton Infinity :3CD:P2022_09:
+***** 2.1 The Auton Infinity :Tegan:Turlough:Brigadier:3CD:P2022_09:
 **** TBR Conflict of Interests :P2023_04:
 *** misc
 **** The Lost Stories
@@ -433,9 +433,9 @@ CLOSED: [2022-01-14 Fri 15:10]
 ***** A Requiem for the Doctor
 ***** My Dinner with Andrew
 ***** The Furies
-**** VI. Return to the Web Planet :1CD:
+**** [#E] VI. Return to the Web Planet :1CD:
 **** X. The Five Companions :1CD:
-**** CC4.05 - Ringpullworld :1CD:
+**** [#B] CC4.05 - Ringpullworld :1CD:
 **** ST7.11. The Ingenious Gentleman Adric of Alzarius :1CD:
 ** short stories
 *** DONE Tip of the Tongue 舌尖 :Nyssa:
@@ -585,10 +585,12 @@ CLOSED: [2021-03-22 Mon 20:39]
 :END:
 
 *** main range 101-150 :scripted:2CD:
-**** TODO [#B] 105. The Condemned (8.4) :Charley:plot_no:DW2023_02_maybe:
-SCHEDULED: <2023-03-01 Wed>
+**** 3QTR [#B] 105. The Condemned (8.4) :Charley:plot_yes_dwg:DW2023_02_doctor:
+CLOSED: <2023-01-31 Tue 08:52> SCHEDULED: <2023-02-04 Sat>
 
 Six and Charley meet, and an enjoyable, weird adventure results.
+
+http://www.drwhoguide.com/who_bf105.htm
 
 **** CANCEL [#E] 108. Assassin in the Limelight
 :PROPERTIES:
@@ -650,8 +652,13 @@ SCHEDULED: <2022-12-24 Sat 22:41>
 **** 2DONE [#B] 156. The Curse of Davros (8.0) :plot_no:2buy:
 CLOSED: <2021-12-23 Thu 08:53>
 
-**** [#C] 157. The Fourth Wall :Flip:DW2023_02_maybe:
+**** [#C] 157. The Fourth Wall :Flip:
 SCHEDULED: <2023-03-01 Wed>
+
+**** [#C] 169. The Wrong Doctors :Mel:
+:PROPERTIES:
+:rating:   7.9
+:END:
 
 **** [#E] 182. Antidote to Oblivion
 **** [#E] 183. The Brood of Erys
@@ -738,8 +745,8 @@ CLOSED: [2022-11-12 Sat 20:08] SCHEDULED: <2022-11-01 Tue>
 
 Volume One
 
-***** [#C] The Headless Ones :DW2023_02_doctor:
-SCHEDULED: <2023-02-06 Mon>
+***** [#C] The Headless Ones :DW2023_04_maybe:
+SCHEDULED: <2023-03-01 Wed>
 :PROPERTIES:
 :rating:   7.5
 :END:
@@ -763,7 +770,10 @@ SCHEDULED: <2023-02-06 Mon>
 ***** [#D] 1. One for All
 ***** [#B] 2. The Murder of Oliver Akkron
 ***** [#B] 3. Elevation
-**** Water Worlds :P2022_05:Mel:
+**** Water Worlds :P2022_05:Mel:Hebe:1CD:
+***** [#D] 1.1 The Rotting Deep
+***** [#B] 1.2 - The Tides of the Moon
+***** [#E] 1.3 - Maelstrom
 **** Purity Undreamed :P2022_08:
 *** The Lost Stories
 **** The Lost Stories s1 :Peri:
@@ -1102,7 +1112,7 @@ SCHEDULED: <2021-12-04 Sat>
 
 【【神秘博士广播剧汉化】The Two Masters 两个法师-哔哩哔哩】https://b23.tv/FjTGsz 
 
-***** [#C] 226b. World Apart :plot_no:1CD:
+***** [#C] 226b. World Apart :plot_no:1CD:DW2023_03_doctor:
 :PROPERTIES:
 :rating:   7.7
 :END:
@@ -1226,7 +1236,9 @@ CLOSED: <2023-01-16 Mon 14:34>
 ***** DONE (DWM135) The Crossroads of Time :Deaths_Head:
 CLOSED: <2023-01-18 Wed 14:34>
 
-***** (DWM136-138) Claws of the Klathi!
+***** DONE (DWM136-138) Claws of the Klathi!
+CLOSED: [2023-02-01 Wed 20:01]
+
 ***** LATER (DWM139) Culture Shock! :Grant_Morrison:
 ***** DONE (DWM140) Keepsake
 CLOSED: [2023-01-26 Thu 16:49]
@@ -1234,10 +1246,18 @@ CLOSED: [2023-01-26 Thu 16:49]
 ***** DONE (DWM141-142) Planet of the Dead
 CLOSED: [2023-01-26 Thu 16:49]
 
-***** (DWM143-144) Echoes of the Mogor!
-***** (DWM145-146) Time and Tide
-***** (DWM147) Follow That TARDIS! :The_Monk:
-***** (DWM148-150) Invaders from Gantac!
+***** DONE (DWM143-144) Echoes of the Mogor!
+CLOSED: [2023-01-30 Mon 13:52]
+
+***** DONE (DWM145-146) Time and Tide
+CLOSED: [2023-01-31 Tue 13:52]
+
+***** DONE (DWM147) Follow That TARDIS! :The_Monk:
+CLOSED: <2023-01-31 Tue 22:01>
+
+***** DONE (DWM148-150) Invaders from Gantac!
+CLOSED: [2023-02-03 Fri 13:08]
+
 **** DWMGN: Nemesis of the Daleks (DWM 152-162)
 
 DWMGN #15
