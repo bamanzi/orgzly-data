@@ -2,43 +2,52 @@
 
 * DW 2020
 *** MR 8D :8th_Dr:
-**** DONE [#C] 016 - Storm Warning
+
+| 01 | MR016. Storn Warning          | 8th | Charley |
+|  2 | MR017. Sword of Orion         | 8th | Charley |
+|  3 | MR018. The Stones of Venice   | 8th | Charley |
+|  4 | MR019. Minuet in Hell         | 8th | Charley |
+|  5 | MR028. Invaders from Mars     | 8th | Charley |
+|  6 | MR029. The Chimes of Midnight | 8th | Charley |
+|  7 | MR030. Season of Fear         | 8th | Charley |
+
+**** DONE [#C] BF016 - Storm Warning
      CLOSED: [2020-08-11 Tue 08:46]
      :PROPERTIES:
      :rating:   7.7
      :END:
 
-**** DONE [#E] 017 - Sword Of Orion :cybermen:
+**** DONE [#E] BF017 - Sword Of Orion :cybermen:
      CLOSED: [2020-08-18 Tue 08:19]
      :PROPERTIES:
      :rating:   6.9
      :END:
 
-**** DONE [#D] 018 - The Stones of Venice
+**** DONE [#D] BF018 - The Stones of Venice
      CLOSED: [2020-09-23 Wed 13:56]
      :PROPERTIES:
      :rating:   7.0
      :END:
 
-**** DONE [#F] 019 - Minuet in Hell :Brigadier:
+**** DONE [#F] BF019 - Minuet in Hell :Brigadier:
      CLOSED: <2020-08-24 Mon 16:30>
      :PROPERTIES:
      :rating:   5.8
      :END:
 
-**** DONE [#E] 028 - Invaders from Mars
+**** DONE [#E] BF028 - Invaders from Mars
      CLOSED: <2020-09-19 Sat 13:56>
      :PROPERTIES:
      :rating:   6.8
      :END:
 
-**** DONE [#A] 029 - The Chimes Of Midnight (9.4)
+**** DONE [#A] BF029 - The Chimes Of Midnight (9.4)
      CLOSED: [2020-09-24 Thu 08:32]
      :PROPERTIES:
      :rating:   9.4
      :END:
 
-**** 2DONE [#B] 030 - Seasons of Fear (8.4).
+**** 2DONE [#B] BF030 - Seasons of Fear (8.4).
      CLOSED: [2020-11-26 Thu 08:26]
 
 *** Dark Eyes vol.1 :Molly:8th_Dr:
@@ -55,6 +64,9 @@
      CLOSED: [2020-09-27 Sun 18:36]
 
 *** Last Great Time War
+
+| 08 | MR011. The Apocalypse Element | 6th | Charley |
+
 **** MR11 The Apocalypse Element :6th_Dr:Charley:
 **** Gallifrey Time War vol.1-3
 **** The War Master vol.1-3
@@ -63,13 +75,13 @@
 * DW 2021
 ** DW 2021-03
 
-| 01 | BF209. Aquitaine           | 5th | Nyssa, Tegan   |
-| 02 | BF034. Spare Parts         | 5th | Nyssa          |
-| 03 | BF153. The Silver Turk     | 8th | Mary, Cybermen |
-| 04 | BF162. Protect and Survive | 7th | Ace, Hex       |
-| 05 | BF025. Colditz             | 7th | Ace, Klein     |
-| 06 | BF040. Jubilee             | 6th | Evelyn, Daleks |
-| 07 | BF230. Time in Office      | 5th | Tegan, Leela   |
+| 09 | MR209. Aquitaine           | 5th | Nyssa, Tegan   |
+| 10 | MR034. Spare Parts         | 5th | Nyssa          |
+| 11 | MR153. The Silver Turk     | 8th | Mary, Cybermen |
+| 12 | MR162. Protect and Survive | 7th | Ace, Hex       |
+| 13 | MR025. Colditz             | 7th | Ace, Klein     |
+| 14 | MR040. Jubilee             | 6th | Evelyn, Daleks |
+| 15 | MR230. Time in Office      | 5th | Tegan, Leela   |
 
 *** DONE BF025 - Colditz :7th_Dr:Klein:
     :PROPERTIES:
@@ -84,11 +96,11 @@
 *** DONE BF230 - Time in Office :5th_Dr:Tegan:Leela:
 ** DW 2021-04
 
-| 08 | BF124 - Patient Zero            | 6th | Charley, Daleks |
-| 09 | BF130 - A Thousand Tiny Wings   | 7th | Klein           |
-| 10 | BF024 - The Eye of the Scorpion | 5th | Peri, Erim      |
-|    | BF094b - Urgent Calls           | 6th | Viyrans         |
-|    | BF102b - Mission of the Viyrans | 5th | Viyrans         |
+| 16 | MR124 - Patient Zero            | 6th | Charley, Daleks |
+| 17 | MR130 - A Thousand Tiny Wings   | 7th | Klein           |
+| 18 | MR024 - The Eye of the Scorpion | 5th | Peri, Erim      |
+| 19 | MR094b - Urgent Calls           | 6th | Viyrans         |
+|    | MR102b - Mission of the Viyrans | 5th | Viyrans         |
 
 *** DONE 4DA2.1 - The Auntie Matter :4th_Dr:Romana_1:
 *** DONE 8DA4.4 - The Book of Kells :8th_Dr:Tamsin:
@@ -102,9 +114,9 @@
 *** 3QTR TW38. Iceberg :Owen:
 ** DW 2021-05
 
-| 11 | BF099 - Son of the Dragon (5D)                 | 5th | Peri, Erim |
-| 13 | BF014 - The Holy Terror (6D)                   | 6th | Fob        |
-| 12 | BF131 - Klein's story／Survival of the Fittest | 7th | Klein      |
+| 20 | MR099 - Son of the Dragon (5D)                  | 5th | Peri, Erim |
+| 21 | MR014 - The Holy Terror (6D)                    | 6th | Fob        |
+| 22 | MR131 - Klein's story / Survival of the Fittest | 7th | Klein      |
 
 *** DONE 10DA 1.3 - Death and the Queen :10th_Dr:Donna:
 *** HALF 3DA4.1 - The Rise of the New Humans :3rd_Dr:Jo:
@@ -118,10 +130,10 @@
 *** HALF TW30 - The Hope :Owen:Andy:
 ** DW 2021-06
 
-| 14 | BF088 - Memory Lane        | 8th | Charley, C'rizz |   |
-| 15 | BF128 - The Eternal Summer | 5th | Nyssa           |   |
-| 16 | BF084 - The Nowhere Place  | 6th | Evelyn          |   |
-| 17 | BF058 - The Harvest        | 7th | Ace, Hex        |   |
+| 23 | MR088 - Memory Lane        | 8th | Charley, C'rizz |   |
+| 24 | MR128 - The Eternal Summer | 5th | Nyssa           |   |
+| 25 | MR084 - The Nowhere Place  | 6th | Evelyn          |   |
+| 26 | MR058 - The Harvest        | 7th | Ace, Hex        |   |
 
 *** HALF 10D&RS 1. Expiry Dating :10th_Dr:River:
 *** DONE 4DA5.6 - The Trouble with Drax :4th_Dr:Romana_2:
@@ -206,10 +218,10 @@
 *** HALF TW39. Dinner and a Show :Ianto:Tosh:
 ** DW 2021-07
 
-| 18 | BF178. 1963_ Fanfare for the Common Men | 5th | Nyssa             |
-| 19 | BF054 - The Natural History of Fear     | 8th | Charley, C'rizz   |
-| 20 | BF152 - House of Blue Fire              | 7th | Sally, Old ones   |
-| 22 | BF023 - Project Twilight (6D)           | 6th | Evelyn, The Forge |
+| 27 | MR178. 1963: Fanfare for the Common Men | 5th | Nyssa             |
+| 28 | MR054. The Natural History of Fear      | 8th | Charley, C'rizz   |
+| 29 | MR152. House of Blue Fire               | 7th | Sally, Old ones   |
+| 30 | MR023. Project Twilight                 | 6th | Evelyn, The Forge |
 
 *** DW 2021-07
 **** HALF 10DA 1.1 - Technophobia :10th_Dr:Donna:
@@ -329,9 +341,10 @@
 **** DONE WM1.1 - Beneath the Viscoid :Master:
 ** DW 2021-08
 
-| 21 | BF136. Cobwebs            | 5th      | Nyssa, Tegan |
-| 23 | BF045. Project Lazarus    | 6th, 7th | The Forge    |
-| 24 | BF207a. You are the Doctor | 7th      |              |
+| 31 | MR136. Cobwebs             | 5th      | Nyssa, Tegan |
+| 32 | MR045. Project Lazarus     | 6th, 7th | The Forge    |
+| 33 | MR207a. You are the Doctor | 7th      |              |
+|    | MR207b. Come Die with Me   | 7th      | Ace          |
 
 *** DW 2021-08
 **** HALF 10DA 2.1 Infamy of the Zaross :10th_Dr:Rose:
@@ -466,10 +479,11 @@
 
 ** DW 2021-09
 
-| 26 | BF192. The Widow's Assassin      | 6th | Peri                |
-| 27 | BF200. The Secret History        | 5th | Steven, Vicki, Monk |
-| 28 | BF049. Master                    | 7th | Master              |
-| 29 | BF132. The Architects of History | 8th | Klein               |
+| 34 | MR200. The Secret History        | 5th | Steven, Vicki, Monk    |
+| 35 | MR192. The Widow's Assassin      | 6th | Peri                   |
+| 36 | MR049. Master                    | 7th | Master                 |
+| 37 | MR132. The Architects of History | 8th | Klein                  |
+| 38 | MR072. Terror Firm               | 8th | Charley, Crizz, Davros |
 
 *** DW 2021-09
 **** START 10DA 3.1 No Place :10th_Dr:Donna:
@@ -555,7 +569,7 @@
  - <second to last play position> (00:38:21)
 
 *** DW 2021-09-master
-**** DONE BF049 - Master :Master:
+**** DONE BF049 - Master :Master:7th_Dr:
 
  - part2 (00:31:30)
  - part3 (00:57:45)
@@ -591,10 +605,10 @@
 
 ** DW 2021-10
 
-| 30 | BF015 The Mutant Phase | 6th | Charley, daleks |
-| 31 | BF048 Davros           | 6th | Davros          |
-| 32 | BF193 Masters of Earth | 6th | daleks          |
-| 33 | BF021 Dust Breeding    | 7th | Peri, Master         |
+| 39 | MR015 The Mutant Phase | 6th | Charley, daleks |
+| 40 | MR048 Davros           | 6th | Davros          |
+| 41 | MR193 Masters of Earth | 6th | daleks          |
+| 42 | MR021 Dust Breeding    | 7th | Peri, Master    |
 
 *** DW 2021-10-daleks
 **** DONE 8DA4x09 Lucie Miller :8th_Dr:Lucy:Susan:Alex:Daleks:
@@ -730,9 +744,9 @@
 **** DONE WM4.2. The Master's Dalek Plan :Master_war:Daleks:
 ** DW 2021-11
 
-| 34 | BF065 The Juggernatus      | 7th | Mel, Davros |
-| 35 | BF211 And You Will Obey Me | 5th | Master |
-| 36 | BF212 Vampire of the Mind  | 6th | Master |
+| 43 | MR065 The Juggernatus      | 7th | Mel, Davros |
+| 44 | MR211 And You Will Obey Me | 5th | Master      |
+| 45 | MR212 Vampire of the Mind  | 6th | Master      |
 
 *** DW 2021-11-daleks
 **** DONE CC5.1 - The Guardian of the Solar System :1st_Dr:Sara_Kingdom:
@@ -904,10 +918,10 @@
 
 ** DW 2021-12
 
-| 37 | BF077 Other Lives                     | 8th | Charley, C'rizz |
-| 38 | BF107 The Haunting of Thomas Brewster | 5th | Nyssa, Brewster |
-| 39 | BF156 The Curse of Davros             | 6th | Davros, Flip    |
-| 40 | BF213 The Two Masters                 | 7th | Master          |
+| 46 | MR077 Other Lives                     | 8th | Charley, C'rizz |
+| 47 | MR107 The Haunting of Thomas Brewster | 5th | Nyssa, Brewster |
+| 48 | MR156 The Curse of Davros             | 6th | Davros, Flip    |
+| 49 | MR213 The Two Masters                 | 7th | Master          |
 
 *** DW 2021-12
 **** HALF 4DA3.3 - The Crooked Man :4th_Dr:Leela:
@@ -1026,19 +1040,11 @@
  - <second to last play position> (00:02:16)
 
 **** TODO Missy 1.4. The Belly of the Beast :Master:Missy:
-** DW 2021-13
-*** TODO BF013 - The Shadow of the Scourge
-*** TODO BF027 - The One Doctor
-*** TODO CC5.7 - Peri and the Piscon Paradox (5D&6D)
-*** TODO DAV1.1 - Innocence
-*** TODO DAV1.2 - Purity
-*** TODO MAR8.1. Emancipation
-*** TODO NA1. Love and War
 * DW 2022
 ** DW 2022-01
 
-| 41 | MR086 The Reaping       | 6th | Peri, Cybermen |
-| 42 | MR201 We are the Daleks | 7th | Mel            |
+| 50 | MR086 The Reaping       | 6th | Peri, Cybermen |
+| 51 | MR201 We are the Daleks | 7th | Mel            |
 
 *** MA01 - Red Snow :2nd_Dr:
 *** HALF [#B] CC4.2 The Glorious Revolution :Jamie:2nd_Dr:
@@ -1084,7 +1090,7 @@
 *** 3QTR [#B] GFY2.2 - Spirit :Romana_2:Leela:
 ** DW 2022-02-doctors
 
-| 043 | MR044 Creatures of Beauty | 5th | Nyssa |
+| 052 | MR044 Creatures of Beauty | 5th | Nyssa |
 
 *** [#B] CC8.10 The War to End All Wars :Steven:Dodo:
 *** 2DONE [#C] 3DA4.2 - The Tyrants of Logic :3rd_Dr:Jo:Cybermen:
@@ -1119,8 +1125,8 @@
 *** HALF [#D] Jenny 1.1 Stolen Goods
 ** DW 2022-03-doctors
 
-| 044 | MR087 | BF087 The Gathering | 5th |     |
-| 045 | MR149 | BF149 Robophobia    | 7th | Liv |
+| 053 | MR087 The Gathering | 5th |     |
+| 054 | MR149 Robophobia    | 7th | Liv |
 
 *** HALF [#A] 1DA3.2 Tick-Tock World :Ian:Susan:Ian:Barbara:
 
@@ -1168,7 +1174,7 @@
 *** [#A] Missy 2.1 The Lumiat
 ** DW 2022-04-doctors
 
-| 046 | MR027 The One Doctor | 6th | Mel |
+| 055 | MR027 The One Doctor | 6th | Mel |
 
 *** DONE EA2.1 The Yes Man :2nd_Dr:
 *** HALF [#C] 4DA8.3 The Enchantress of Numbers :4th:Ann:
@@ -1186,8 +1192,8 @@
 *** DONE The Robots 1.1 The Robots of Life :Liv:Kaldor_Robots:
 ** DW 2022-05-doctor
 
-| 047 | MR089 No Man's Land        | 7th | Ace, Hex               |
-| 048 | MR258 Warzone / Conversion | 5th | Tegan, Nyssa, Cybermen |
+| 056 | MR089 No Man's Land        | 7th | Ace, Hex               |
+| 057 | MR258 Warzone / Conversion | 5th | Tegan, Nyssa, Cybermen |
 
 *** 2DONE [#C] CC1.1 - Frostfire :1st_Dr:Vicki:
 
@@ -1262,7 +1268,7 @@
 
 ** DW 2022-06-doctor
 
-| 049 | MR240 Hour of the Cybermen | 6th | UNIT |
+| 058 | MR240 Hour of the Cybermen | 6th | UNIT |
 
 *** 3QTR [#D] LS4.2 - The Queen Of Time :2nd_Dr:Jamie:Zoe:
 
@@ -1306,7 +1312,7 @@
 * DW 2022-07
 ** DW 2022-07-doctor
 
-| 050 | MR038 The Church and the Crown | 5th  | Peri, Erimem |
+| 059 | MR038 The Church and the Crown | 5th  | Peri, Erimem |
 
 *** 2DONE [#C] EA1.4 An Ordinary Life :1st_Dr:Steven:Sara_Kingdom:2CD:
 *** START [#A] ST11.3 The Threshold :Master_nemesis:3rd_Dr:
@@ -1333,7 +1339,7 @@
 * DW 2022-08
 ** DW 2022-08-doctor
 
-| 051   | MR006 The Marian Conspiracy | 6th  | Evelyn |
+| 060 | MR006 The Marian Conspiracy | 6th | Evelyn |
 
 *** 3QTR [#C] CC6.8 The Selachian Gambit :Polly:2nd_Dr:Jamie:
 *** 2DONE [#B] LS6.1 Return of the Cybermen :4th_Dr:Sarah:Harry:bilibili:2CD:
@@ -1356,7 +1362,7 @@
 * DW 2022-09
 ** DW 2022-09-doctor
 
-| 052 | MR079 Night Thoughts | 7th | Ace, Hex |
+| 061 | MR079 Night Thoughts | 7th | Ace, Hex |
 
 *** HALF [#C] CC3.7 The Transit of Venus :Ian:Barbara:1st_Dr:
 *** 3QTR [#C] 3DA2.2 The Hidden Realm :3rd_Dr:Jo:
@@ -1377,7 +1383,7 @@
 * DW 2022-10
 ** DW 2022-10-doctor
 
-| 053 | MR103 The Girl Who Never Was | 8th | Charley, Cybermen |
+| 062 | MR103 The Girl Who Never Was | 8th | Charley, Cybermen |
 
 *** 3QTR [#B] The Final Beginning :2nd_Dr:Daleks:
 *** HALF [#C] 4DCC The Relics of Time :4th_Dr:
@@ -1397,9 +1403,6 @@
 *** 3QTR [#A] Gallifrey 4.2 Disassembled
 * DW 2022-11
 ** DW 2022-11-doctor
-
-| 054 | MR159 The Emerald Tiger | 5th | Nyssa, Tegan, Turlough  |
-
 *** DONE [#A] EA5.1  The Dalek Occupation of Winter :1st_Dr:Steven:Vicki:
 *** START [#D] CDNM 3.1 The House that Hoxx Built :3rd_Dr:Sarah:
 *** 3QTR [#D] 5DA40.1 Secrets of Telos :5th_Dr:Nyssa:Tegan:Adric:Cybermen:
@@ -1419,7 +1422,7 @@
 *** 3QTR [#B] Gallifrey 4.3 Annihilation
 * DW 2022-12
 
-| 055 | MR133 City of Spires | 6th | Jamie |
+| 063 | MR133 City of Spires | 6th | Jamie |
 
 ** DW 2022-12-doctor
 *** 3QTR MA04 The Patient Menace :fan_made:2nd_Dr:
@@ -1439,55 +1442,80 @@
 *** HALF [#C] Gallifrey 4.4 Forever
 * DW2023-01
 ** dw2023-01-doctor
-*** HALF [#A] CC3.5 Home Truths                         :1st_Dr:Sara_Kingdom:
-*** 3QTR [#C] 7.1 The Unzal Incursion                       :3rd_Dr:Liz:Brig:
-*** 3QTR [#C] MR267a Thin Time                               :5th_Dr:11th_Dr:
-*** 3QTR [#B] MR012. The Fires of Vulcan                         :7th_Dr:Mel:
-*** 2DONE 9DA5.1 Station to Station                         :9th_Dr:bilibili:
-*** HALF [#D] WDB 2.1 Consequences                                   :War_Dr:
 
+| 064 | MR267a. Thin Time          | 6th | 11th |
+| 065 | MR012. The Fires of Vulcan | 7th | Mel  |
+
+*** HALF [#A] CC3.5 Home Truths :1st_Dr:Sara_Kingdom:
+*** 3QTR [#C] 7DA7.1 The Unzal Incursion :3rd_Dr:Liz:Brig:
+*** 3QTR [#C] MR267a Thin Time :5th_Dr:11th_Dr:
+*** 3QTR [#B] MR012. The Fires of Vulcan :7th_Dr:Mel:
+*** 2DONE 9DA5.1 Station to Station :9th_Dr:bilibili:
+*** HALF [#D] WDB 2.1 Consequences :War_Dr:
 ** dw2023-01-spinoffs
 *** 3QTR [#A] TW6.11 Day Zero
-*** DONE [#C] TW42 Ex Machina                                         :Ianto:
-*** START [#A] UNIT3.3 Silent Majority                         :UNIT:Silents:
-*** HALF [#A] J&L7.3 Murder at Moorsey Manor                  :Jago:Litefoot:
-*** 3QTR [#A] WM5.3 - The Castle of Kurnos 5              :Master_war:8th_Dr:
-*** 2DONE [#C] Donna 1.4 The Chiswick Cuckoos                 :Donna:10th_Dr:
-*** 3QTR [#C] Robots2.3 Do No Harm                                      :Liv:
-*** START [#D] River7.2 Abbey of Heretics                             :River:
-
+*** DONE [#C] TW42 Ex Machina :Ianto:
+*** START [#A] UNIT3.3 Silent Majority :UNIT:Silents:
+*** HALF [#A] J&L7.3 Murder at Moorsey Manor :Jago:Litefoot:
+*** 3QTR [#A] WM5.3 The Castle of Kurnos 5 :Master_war:8th_Dr:
+*** 2DONE [#C] Donna 1.4 The Chiswick Cuckoos :Donna:10th_Dr:
+*** 3QTR [#C] Robots2.3 Do No Harm :Liv:
+*** START [#D] River7.2 Abbey of Heretics :River:
 * DW2023-02
 ** dw2023-02-doctor
-*** [#C] EA4.1 The Night Witches :Jamie:Polly:Ben:
-*** [#B] 4DA11.2. The Ravencliff Witch                               :4th_Dr:
-*** [#C] 6DnP #1 The Headless Ones 1cd
-*** [#A] 8DDC3.1 - Absent Friends :8th_Dr:Liv:Helen:
-*** [#C] 8DDC3.2 - The Eighth Piece :8th_Dr:Liv:Helen:
+
+*** [#C] CC10.1 The Mouthless Dead                   :2nd_Dr:Jamie:Polly:Ben:
+*** [#B] 4DA11.2. The Ravencliff Witch :4th_Dr:
+*** [#B] MR105 The Condemned                                 :6th_Dr:Charley:
+*** [#A] 8DDC3.1 Absent Friends :8th_Dr:Liv:Helen:
 *** [#D] DU2.1 Cycle of Destruction #bilibili :10th_Dr:Anya:Mark_7:
 *** [#B] BSNA 7.3 Übermensch :Unbound:Benny:
-
 ** dw2023-02-spinoffs
 *** [#B] TW6.12 Thoughts and Prayers
-*** [#D] John #2 Escape from Nebazz
-*** [#A] TW43 The Three Monkeys :Owen:Andy:
-*** [#C] UNIT3.4 In Memory Alone / +[#B] CM 1.4 State of Emergency+
+*** [#A] TW44. Rhys and Ianto's Excellent Barbeque               :Rhys:Ianto:
+*** [#C] UNIT3.4 In Memory Alone
 *** [#C] PG2.3 Spring-Heeled Jack
+*** [#A] WM5.4 The Cognition Shift :Master_war:8th_Dr:
+*** [#E] Gallifrey 5.1 Emancipation :Romana_2:Leela:
+*** [#C] Lady Christina 1.1 - It Takes a Thief                   :Sam_Bishop:
 
-*** [#A] WM5.4 - The Cognition Shift                      :Master_war:8th_Dr:
-*** [#E] Gallifrey 5.1 - Emancipation                        :Romana_2:Leela:
-*** [#C] Lady Christina 1.1 It Takes a Thief
+* DW2023-03
+** dw2023-03-doctr
+*** [#D] 1DA22.1 The Outlaws                               :1st_Dr:Dodo:Monk:
+*** ST7.x Landbound #bilibili                                        :3rd_Dr:
+*** [#C] MR071 The Council of Nicaea                     :5th_Dr:Peri:Erimem:
+*** [#C] MR226b World Apart                                  :7th_Dr:Ace:Hex:
+*** [#B] 9DA5.3 Auld lang Syne                                       :9th_Dr:
+*** BSNA 7.4 Auf Wiedersehen 再见                             :Unbound:Benny:
+
+** dw2023-03-spinoff
+*** [#B] TW Soho: Parasite #1-3                                      :Norton:
+*** [#D] John #2 Escape from Nebazz                               :John:Jack:
+*** [#B] CM 1.4 State of Emergency
+*** [#D] J&L 7.2 The Night of 1000 Stars                      :Jago:Litefoot:
+*** [#D] Missy 2.3 - Treason and Plot                                 :Missy:
+*** /[#D] River 7.2 Abbey of Heretics/
+*** [#E] Gallifrey 5.2 - Evolution
+*** [#D] Lady 1.2 - Skin Deep
+
 * pending
 ** doctor
+*** CANCEL [#C] EA4.1 The Night Witches :2nd_Dr:Jamie:Polly:Ben:
+
 *** [#C] 2DA22.2 Wrath of the Ice Warriors :2nd_Dr:Brigadier:ice_warriors:2CD:
-*** [#D] 3DA 1.1 - Prisoners of the Lake :3rd_Dr:Jo:
-*** [#C] 4DA 4.2 The Darkness of Glass                         :4th_Dr:Leela:
+*** [#D] 3DA 1.1 Prisoners of the Lake :3rd_Dr:Jo:
+*** [#C] 4DA 4.2 The Darkness of Glass :4th_Dr:Leela:
 *** [#B] MR159 The Emerald Tiger :5th_Dr:Nyssa:
-*** [#C] MR194. The Rani Elite                             :6th_Dr:Peri:Rani:
+*** [#C] MR194. The Rani Elite :6th_Dr:Peri:Rani:
+*** CANCEL [#C] 6DnP #1 The Headless Ones 1cd :6th_Dr:Peri:
+
 *** [#A] NA01 Damaged Goods :7th_Dr:Benny:Ace:
+*** CANCEL [#C] 8DDC3.2 The Eighth Piece :8th_Dr:Liv:Helen:River:
+
 *** [#C] ST9.9 Dead Media :12th_Dr:
 *** [#B] BSNA 7.4 Auf Wiedersehen 再见 :Unbound:Benny:
-
 ** spinoffs
+***  [#A] TW43 The Three Monkeys (Owen, Andy)
 *** [#B] CM 1.4 State of Emergency
 *** KC #4 taren Capel :Kaldor_Robots:
 *** [#C] River 6.4 The Talents of Grel :River:
