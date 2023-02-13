@@ -123,11 +123,6 @@ CLOSED: [2023-01-08 Sun 12:19]
 ***** 少数派报告 :anthology:
 ***** 高城堡里的人
 ***** KR-3 之谜 (流吧，我的眼泪)
-***** [#B] 幻觉（时间脱节） Time Out of Joint :P1959:
-:PROPERTIES:
-:goodreads: 3.86
-:END:
-
 ***** [#C] 阿尔法卫星上的家族Clans of the Alphane Moon :P1964:
 :PROPERTIES:
 :goodreads: 3.74
@@ -151,6 +146,12 @@ CLOSED: [2023-01-08 Sun 12:19]
 星云奖提名
 
 《主教的轮回》是三部曲的最后一部（其他两部为《瓦利斯》和《神的入侵》）。小说讲述一位温文尔雅的主教蒂莫西·阿彻的故事。儿子与情妇的自杀痛苦的折磨着他，最终使他踏上了探索基督真实身份的奇异旅途。作品从学术的高度对宗教信仰的种种迷思进行了痛苦的探索，感人至深。
+
+**** DONE [#B] 幻觉（时间脱节） Time Out of Joint :P1959:🛒:
+CLOSED: [2023-02-12 Sun 19:44]
+:PROPERTIES:
+:goodreads: 3.86
+:END:
 
 **** [#D] 一个废物艺术家的自白 Confessions of a Crap Artist
 :PROPERTIES:
@@ -286,7 +287,8 @@ CLOSED: [2022-03-06 Sun 11:46]
 :goodreads: 3.88
 :END:
 
-*** DONE [#C] 骷髅/头骨 The Skull
+*** misc
+**** DONE [#C] 骷髅/头骨 The Skull
 :PROPERTIES:
 :goodreads: 3.70
 :END:
@@ -295,7 +297,7 @@ CLOSED: [2022-03-06 Sun 11:46]
 
 微信读书里有
 
-*** [#B] Radio Free Albemuth
+**** [#B] Radio Free Albemuth
 :PROPERTIES:
 :goodreads: 3.81
 :END:
