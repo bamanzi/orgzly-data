@@ -582,7 +582,7 @@ https://tardis.fandom.com/wiki/Parasite_(audio_story)
       CLOSED: [2023-01-28 Sat 08:42] SCHEDULED: <2023-01-31 Tue>
 
 ***** [#B] 6.12 Thoughts and Prayers (8.2) :DW2023_02_spinoffs:
-      SCHEDULED: <2023-02-12 Sun>
+      SCHEDULED: <2023-02-19 Sun>
 
 *** The Lives of Captain Jack :🎧:Jack:1CD:
 **** vol.1 :P2017:
@@ -668,15 +668,15 @@ https://tardis.fandom.com/wiki/Parasite_(audio_story)
       :rating:   7.7
       :END:
 
-***** [#B] 2.3 - 9 to 5
+***** [#A] 2.3 - 9 to 5
       :PROPERTIES:
-      :rating:   8.2
+      :rating:   8.6
       :END:
 
 **** TW1 vol.3: Latter Days :P2019:
-***** [#C] 3.1 - Retirement Plan
+***** [#B] 3.1 - Retirement Plan
       :PROPERTIES:
-      :rating:   7.9
+      :rating:   8.3
       :END:
 
 ***** [#D] 3.2 - Locker 15
@@ -690,9 +690,9 @@ https://tardis.fandom.com/wiki/Parasite_(audio_story)
       :END:
 
 **** TW1 vol.4: Nightmares :P2022_04:
-***** 4.1 My Guest Tonight
-***** 4.2 Lola
-***** 4.3 Less Majesty
+***** [#A] 4.1 My Guest Tonight
+***** [#C] 4.2 Lola
+***** [#A] 4.3 Less Majesty
 *** BBC audio dramas :🎧:scripted:
 **** [#D] 1. Lost Souls :Martha:
 **** [#B] 2. Asylum :Jack:Gwen:Ianto:
@@ -904,10 +904,11 @@ Roberts Master
      :END:
 
 *** DoRS 10 :P2022_08:
-**** 10.1 The Two Rivers
-**** 10.2 Beauty on the Inside
-**** 10.3 Black Friday
-**** 10.4 Firewall
+**** [#C] 10.1 The Two Rivers
+**** [#F] 10.2 Beauty on the Inside
+**** [#E] 10.3 Black Friday
+**** [#E] 10.4 Firewall
+*** DoRS 11 - Friend of the Family :P2023_01:
 *** misc
 **** DONE R&J (The Lives of Captain Jack #3.3) :Jack:
      CLOSED: <2020-09-14 Mon 21:12>
@@ -1135,13 +1136,11 @@ Roberts Master
      :rating:   9.2
      :END:
 
-
 纳粹占领了英国领土，英国公民被驱逐到欧洲集中营。那些不与德国人合作的人被枪杀。
 
 这不是一个平行宇宙：它是根西岛，1941年，Bernice 被困在这里。杰森无处可寻，她必须独自经历可怕的情况。
 
 某处出了点问题。纳粹正在制造一种秘密武器，将对战争的结果产生决定性影响，Benny 必须让历史回到正确的轨道......
-
 
 **** CANCEL [#F] 1.6 Dragon's Wrath
      :PROPERTIES:
@@ -1216,7 +1215,7 @@ Braxiatel的收藏被第五轴占据，由伯尼斯过去的人物领导。
 http://drwhoguide.com/bs_a13.htm
 
 **** [#E] +5.2 The Bone of Contention+
-**** READY [#B] 5.3 The Relics of Jegg-Sau
+**** READY [#B] 5.3 The Relics of Jegg-Sau :plot_yes_dwg:
      :PROPERTIES:
      :rating:   8.1
      :END:
@@ -1929,9 +1928,9 @@ rating 8.7/8.3
 Brave New World was a subseries of the UNIT audio series produced by Big Finish Productions. Beginning in 2022, it focused on the exploits of UNIT under the command of /Winifred Bambera/ (TV: Battlefield) along with her new team: /Sergeant Jean-Paul Savarin/ and /Dr Louise Rix/.
 
 *** Seabird One :P2022_07:
-**** 1.1 Rogue State
-**** 1.2 Time Flies
-**** 1.3 Dark Side of the Moon
+**** [#C] 1.1 Rogue State
+**** [#D] 1.2 Time Flies
+**** [#B] 1.3 Dark Side of the Moon
 * UNIT: The New Series :UNIT:🎧:
 ** UNIT 1: Extinction :Nestene:P2015:plot_yes:
 *** [#C] 1.1 Vanguard (7.5)
@@ -1970,7 +1969,7 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
     SCHEDULED: <2023-01-29 Sun 08:42>
 
 *** [#C] 3.4 In Memory Alone (7.5) :plot_yes:DW2023_02_spinoffs:
-    SCHEDULED: <2023-02-12 Sun>
+    SCHEDULED: <2023-02-26 Sun>
 
 ** UNIT 4: Assembled :Silurians:P2017:
 *** [#C] 4.1 - Call to Arms (7.7)
@@ -2132,9 +2131,9 @@ http://www.drwhoguide.com/kaldor03.htm
      :END:
 
 *** The Robots vol.5 :P2022_05:
-**** 5.1 The Enhancement
-**** 5.2 Machines Like Us
-**** 5.3 Kaldor Nights
+**** [#D] 5.1 The Enhancement
+**** [#B] 5.2 Machines Like Us
+**** [#B] 5.3 Kaldor Nights
 * The Paternoster Gang :PG:
 ** audio :🎧:
 *** PG: Heritage 1 :P2019:
@@ -2307,8 +2306,8 @@ http://www.drwhoguide.com/kaldor03.htm
 *** [#D] 1.4 The Cats of New Cairo (7.2)
 ** Lady Christina :Christina:
 *** series 1 :P2018:plot_yes:Sam_Bishop:
-**** START [#C] 1.1 - It Takes a Thief (7.8) :plot_yes:DW2023_02_spinoffs:
-     SCHEDULED: <2023-02-05 Sun>
+**** 3QTR [#C] 1.1 - It Takes a Thief (7.8) :plot_yes:DW2023_02_spinoffs:
+     CLOSED: [2023-02-09 Thu 19:29] SCHEDULED: <2023-02-09 Thu 08:51>
 
 **** [#D] 1.2 - Skin Deep (7.2) :DW2023_03_spinoffs:
 **** [#D] 1.3 - Portrait of a Lady (7.0) :Sontarans:
@@ -2354,7 +2353,10 @@ http://www.drwhoguide.com/kaldor03.htm
 【【神秘博士广播剧熟肉】The Dimension Cannon 104 The Last Party on Earth 地球最后的狂欢-哔哩哔哩】 https://b23.tv/FHge6fG
 
 *** RTDC vol.2 Other Worlds :P2022_10:
-**** 2.1 Saltwater
+**** READY 2.1 Saltwater
+
+【【神秘博士广播剧熟肉】The Dimension Cannon 201 Saltwater 盐水-哔哩哔哩】 https://b23.tv/M44oyPQ
+
 **** 2.2 Now is the New Dark
 **** 2.3 The Rogue Planet
 *** TBR RTDC vol.3 Trapped :P2023_09:
@@ -2401,9 +2403,9 @@ From Donna's perspective, the anthology is set after /Forest of the Dead/.
      CLOSED: [2022-09-27 Tue 21:06] SCHEDULED: <2022-09-18 Sun>
 
 *** vol.2 :P2022_03:
-**** 2.1 The Once and Future Nurse
-**** 2.2 The Glowing Warrior
-**** 2.3 The Last King of Camelot
+**** [#C] 2.1 The Once and Future Nurse
+**** [#B] 2.2 The Glowing Warrior
+**** [#B] 2.3 The Last King of Camelot
 * special
 ** multi-doctor story
 *** IX. The Four Doctors :P2010:
@@ -2478,19 +2480,18 @@ From Donna's perspective, the anthology is set after /Forest of the Dead/.
 **** [#D] 2.3 The Carrionite Curse :6th_Dr:
 **** [#C] 2.4 Day of the Vashta Nerada :8th_Dr:time_war:
 *** CDNM vol.3 The Stuff of Nightmares :P2022_07:
-**** 3.1 The House That Hoxx Built :3rd_Dr:Sarah:
-**** 3.2 The Tivolian Who Knew Too Much :4th_Dr:Leela:
-**** READY 3.3 Together In Eclectic Dreams :6th_Dr:bilibili:
+**** [#D] 3.1 The House That Hoxx Built :3rd_Dr:Sarah:
+**** [#C] 3.2 The Tivolian Who Knew Too Much :4th_Dr:Leela:
+**** READY [#A] 3.3 Together In Eclectic Dreams :6th_Dr:bilibili:
 
 【【神秘博士广播剧熟肉】The Stuff of Nightmares 303 Together in Eclectic Dreams 共做一梦-哔哩哔哩】 https://b23.tv/GpP2NHZ
 
-**** READY 3.4 If I Should Die Before I Wake :8th_Dr:Charley:bilibili:
+**** READY [#A] 3.4 If I Should Die Before I Wake :8th_Dr:Charley:bilibili:
 
 【【神秘博士广播剧熟肉】The Stuff of Nightmares 304 If I Should Die Before I Wake 若我在沉睡中死去-哔哩哔哩】 https://b23.tv/TJmTSCZ
 
 *** TBR CDNM vol.4 Broken Memories :P2023_10:
 ** Time Lord Victorious
-
 
 https://disk.yandex.ru/d/n_i2CRgIJW0xOw
 
@@ -2498,10 +2499,10 @@ https://disk.yandex.ru/d/n_i2CRgIJW0xOw
 *** vol.1 The Eighth of March :P2021_03:
 *** vol.2 Protectors of Time :P2022_03:
 ** Peladon :P2022_01:
-*** 1. The Ordeal of Peladon :10th_Dr:
-*** 2. The Poison of Peladon :River:
-*** 3. The Death of Peladon :6th_Dr:Mel:
-*** 4. The Truth of Peladon :8th_Dr:
+*** [#B] 1. The Ordeal of Peladon :10th_Dr:
+*** [#D] 2. The Poison of Peladon :River:
+*** [#E] 3. The Death of Peladon :6th_Dr:Mel:
+*** [#A] 4. The Truth of Peladon :8th_Dr:
 * #Dark Times
 
 https://tardis.fandom.com/wiki/Dark_Times_-_list_of_appearances

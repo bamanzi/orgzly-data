@@ -1,3 +1,6 @@
+#+TODO: TODO NEXT READY BLOCK TBR START HALF 3QTR | 2DONE DONE CANCEL
+#+PRIORITIES: A F C
+
 * 1st Doctor :1st_Dr:
 ** tv :📺:
 *** Season 1 :1963:
@@ -145,7 +148,7 @@ SCHEDULED: <2022-03-12 Sat>
 :END:
 
 *** 1DA (2022-)
-**** 2022. The Outlaws :Dodo:P2022_04:plot_yes:
+**** 📂2022. The Outlaws :Dodo:P2022_04:plot_yes:
 ***** [#D] 22.1 The Outlaws :Dodo:Monk:P2022_04:DW2023_03_doctor:
 ***** [#C] 22.2 The Miniaturist :Dodo:P2022_04:1CD:
 **** TBR 2023. The Demon Song :Dodo:P2023_02:
@@ -305,6 +308,8 @@ CLOSED: [2021-06-26 Sat 09:13]
 
 /Short Trips: Companions/ #13
 
+*** BBC
+**** Men of War   :Steven:Sara_Kingdom:Mark_7:WW1:P2018:1CD
 ** novels
 *** An Unearthly Child
 
@@ -464,11 +469,12 @@ SCHEDULED: <2021-12-15 Wed>
 ***** DONE [#A] 6.2 Daughter of the Gods (9.2) :Jamie:Zoe:Steven:Katarina:Daleks:P2019:D2021_04:
 CLOSED: <2021-04-30 Fri 22:59>
 
-*** Beyond War Games :P2022_07:
-**** 3QTR [#B] The Final Beginning :Daleks:plot_yes:DW2022_10_doctor:1CD:
+*** 2DA
+**** 📂Beyond War Games :P2022_07:
+***** 3QTR [#B] 22.1 The Final Beginning :Daleks:plot_yes:DW2022_10_doctor:1CD:
 CLOSED: <2022-10-30 Sun 19:49> SCHEDULED: <2022-10-22 Sat>
 
-**** TODO [#C] Wrath of the Ice Warriors :Brigadier:ice_warriors:2CD:
+***** TODO [#C] 22.2 Wrath of the Ice Warriors :Brigadier:ice_warriors:2CD:
 SCHEDULED: <2022-10-30 Sun>
 
 *** Companion Chronicles :🗣:
@@ -524,8 +530,8 @@ CLOSED: [2022-08-24 Wed 09:37] SCHEDULED: <2022-08-10 Wed>
 :END:
 
 **** 📂CC10 - The Second Doctor: Volume One :scripted:
-***** START [#C] CC10.1 - The Mouthless Dead :Jamie:Polly:Ben:plot_yes:DW2023_02_doctor:
-SCHEDULED: <2023-02-04 Sat>
+***** HALF [#C] CC10.1 - The Mouthless Dead :Jamie:Polly:Ben:plot_yes:DW2023_02_doctor:
+SCHEDULED: <2023-02-07 Tue 21:50>
 :PROPERTIES:
 :rating:   7.7
 :END:
@@ -588,24 +594,6 @@ SCHEDULED: <2022-06-05 Sun>
 :PROPERTIES:
 :thetimescales: 7.9
 :END:
-
-*** The Missing Adventures (fan-made)
-
-https://chriswalkerthomson.com/dwthemissingadventures/
-
-**** START MA1. Red Snow :ice_warriors:D2022_01_extra:
-SCHEDULED: <2022-01-30 Sun>
-
-https://m.vk.com/wall-205306392_45
-
-**** MA02. Freedom of the Daleks
-**** MA03. Her House
-**** HALF MA04. The Patient Menace :Cybermen:DW2022_12_doctor:
-SCHEDULED: <2022-12-14 Wed>
-
-mp3val -f 
-
-**** MA05. The Enemy of the Universe
 *** short trips
 **** [#D] 2.2 - The Way Forwards
 :PROPERTIES:
@@ -646,7 +634,32 @@ mp3val -f
 :PROPERTIES:
 :rating:   7.2
 :END:
+*** BBC
+**** [#B] The Elysian Blade (BBC) :P2019:Jamie:Victoria:1CD:
+**** [#A] The Resurrection Plant (BBC) :P2022_08:Jamie:Zoe:1CD:
+**** Doctor Who Audio Annual :scripted:
+***** 1.2 The King of Golden Death :Polly:
+***** 2.2 The Sour Note :Polly:
+***** 3.2 Follow the Phantoms :Jamie:
+***** 4.2 Mastermind of Space
+***** 5.2 Only A Matter of Time :Polly:
+*** The Missing Adventures (fan-made)
 
+https://chriswalkerthomson.com/dwthemissingadventures/
+
+**** START MA1. Red Snow :ice_warriors:D2022_01_extra:
+SCHEDULED: <2022-01-30 Sun>
+
+https://m.vk.com/wall-205306392_45
+
+**** MA02. Freedom of the Daleks
+**** MA03. Her House
+**** HALF MA04. The Patient Menace :Cybermen:DW2022_12_doctor:
+SCHEDULED: <2022-12-14 Wed>
+
+mp3val -f 
+
+**** MA05. The Enemy of the Universe
 * 3rd Doctor :3rd_Dr:
 ** tv :📺:
 *** season 7 :Liz:UNIT:
@@ -897,24 +910,24 @@ SCHEDULED: <2022-03-30 Wed>
 ***** [#D] CC6.0b - The Mists of Time (7.4)
 ***** [#D] CC6.4 - The Many Deaths of Jo Grant (7.2)
 **** CC
-***** START [#C] CC2.3 - Old Soldiers :Brigadier:plot_yes_dwg:
+***** START [#C] CC2.3 - Old Soldiers :Brigadier:plot_yes_dwg:DW2023_03_maybe:
 :PROPERTIES:
 :rating:   7.5
 :END:
 
 http://www.drwhoguide.com/chronicles07.htm
 
-***** [#C] CC3.10 - The Magician's Oath
-:PROPERTIES:
-:rating:   7.5
-:END:
-
 ***** [#C] CC4.3 - The Prisoner of Peladon :Peladon:
 :PROPERTIES:
 :rating:   7.6
 :END:
 
-***** [#C] CC7.12 - Council of War :Benton:Brigadier:DW2023_03_maybe:
+***** [#C] CC3.10 - The Magician's Oath :Yates:
+:PROPERTIES:
+:rating:   7.5
+:END:
+
+***** [#C] CC7.12 - Council of War :Benton:Brigadier:
 :PROPERTIES:
 :rating:   7.7
 :END:
@@ -944,8 +957,9 @@ CLOSED: [2020-06-25 Thu 21:52]
 ***** HALF [#A] ST11.3 The Threshold :Master_nemesis:P2022_02:DW2022_07_doctor:
 SCHEDULED: <2022-07-16 Sat>
 
-*** BBC short stories (audible) :BBC:📄:🎧:
-**** New
+*** BBC :BBC:📄:🎧:
+**** Horrors of War     :Jo:Annie:WW1:P2018:1CD:
+**** new short stories
 ***** DONE The Spear of Destiny (/12 Doctors, 12 Stories/ #3) :🎧:
 CLOSED: [2020-06-18 Thu 14:24]
 
@@ -955,10 +969,11 @@ CLOSED: [2020-06-18 Thu 14:24]
 ***** Freedom :Brigadier:Jo:
 ***** Degrees of Truth :Brigadier:
 **** DW audio annual
-***** 1.05 - Dark Intruders
-***** 1.06 - Conundrum
-***** 2.04 - Scorched Earth
+***** 1.3 - Dark Intruders
+***** 2.3 - Scorched Earth
 ***** 3.3 - The House That Jack Built
+***** 4.3 The Time Thief
+***** 5.3 War in the Abyss
 ** novels :📔:novel:
 *** TODO [#B] Harvest of Time (3.90) :UNIT:Jo:Master:
 
@@ -1144,7 +1159,7 @@ CLOSED: [2022-01-18 Tue 15:32] SCHEDULED: <2022-01-30 Sun>
 :END:
 
 ***** READY [#C] 2.5 - Phantoms of the Deep (7.5)
-***** [#D] 2.6 - The Dalek Contract (7.0)
+***** [#D] 2.6 - The Dalek Contract / 2.7 The Final Phase (7.0)
 **** 4DA series 3 :Leela:P2014:scripted:
 ***** 2DONE [#C] 3.1 - The King of Sontar (7.7) :Sontarans:D2021_09_dr:
 CLOSED: [2020-08-27 Thu 12:44] SCHEDULED: <2021-09-11 Sat>
@@ -1267,25 +1282,30 @@ CLOSED: [2020-07-15 Wed 19:13]
 ***** [#C] 10.2 The Day of the Comet
 ***** [#C] 10.3 The Tribulations of Tahdeus Nook
 ***** [#E] 10.4 The Primeval Design
-**** 4DA series 11 :P2022:2CD:
+**** 📂4DA series 11 :P2022:2CD:
 ***** TODO [#A] 11.1 Blood of the Time Lords :Master_early:plot_yes:
-***** HALF [#B] 11.2 The Ravencliff Witch :Margaret:plot_yes:DW2023_02_doctor:
-SCHEDULED: <2023-02-06 Mon 08:42>
+***** 3QTR [#B] 11.2 The Ravencliff Witch :Margaret:plot_yes:DW2023_02_doctor:
+CLOSED: <2023-02-10 Fri 14:02> SCHEDULED: <2023-02-06 Mon 08:42>
 
 ***** [#C] 11.3 The Dreams of Avaice :The_Nine:
 ***** [#D] 11.4 Shellshock
 ***** [#C] 11.5 Peake Season :1CD:
 **** TBR 4DA series 12 :Leela:Margaret:P2023:
-***** 12.1 Ice Heist :Ice_Warriors:
+***** 12.1 Ice Heist :Ice_Warriors:P2023_03:
+***** 12.2 Antillia the Lost :P2023_03:
+***** 12.3 The Wizard of Time :P2023_06:
+***** 12.4 The Friendly Invasion :P2023_06:
+***** 12.5 Stone Cold :Weeping_Angels:P2023_06:
+***** 12.6 The Ghost of Margaret :P2023_06:
 *** BF PHP :Leela:
 
 Philip Hinchcliffe Presents
 
-**** [#B] 1.1 The Ghosts of Gralstead :plot_no:
-**** [#C] 1.2 - The Devil's Armada
-**** [#D] 2. The Genesis Chamber
-**** [#D] 3. The Helm of Awe
-**** [#D] 4. The God of Phantoms
+**** [#B] 1.1 The Ghosts of Gralstead :plot_no:3CD:
+**** [#C] 1.2 - The Devil's Armada :2CD:
+**** [#D] 2. The Genesis Chamber :3CD:
+**** [#D] 3. The Helm of Awe :3CD:
+**** [#D] 4. The God of Phantoms :3CD:
 *** BF The Lost Stories
 **** BLOCK [#A] LS 2.07 - The Foe from the Future  (8.9) :Leela:plot_yes:3CD:
 **** [#C] LS 2.08 - The Valley of Death 7.7 :Leela:2CD:plot_no:
@@ -1330,7 +1350,7 @@ mp3val fix
 
 【【广播剧翻译】四任对抗Vashta Nerada 老博士新怪物 201 Night of Vashta Nerada-哔哩哔哩】 https://b23.tv/YCrcZhV
 
-**** [#D] CDNM3.2 The Tivolian Who Knew Too Much :Leela:plot_yes:
+**** [#D] CDNM3.2 The Tivolian Who Knew Too Much :Leela:plot_yes:1CD:
 **** [#B] Collision Course (The Legacy of Time #6) :Leela:Romana_2:
 :PROPERTIES:
 :rating:   8.3
@@ -1352,7 +1372,7 @@ thetimescales 上32/33认为需要先听前面的故事
 **** [#B] NA05 - The Well-Mannered War (8.1) :Romana_2:2CD:
 *** BF shorts :🗣:
 **** Companion Chronicles
-***** [#C] CC2.4 - The Catalyst †7.9
+***** [#C] CC2.4 - The Catalyst †7.9 :Leela:
 ***** CANCEL [#D] CC3.4 - Empathy Games †7.0
 CLOSED: [2020-07-05 Sun 23:49]
 
@@ -1362,8 +1382,8 @@ CLOSED: [2020-07-05 Sun 23:49]
 
 **** BF Short Trips :audiobook:
 ***** TODO [#A] ST6.9 - A Full Life (9.0) :Adric:Romana_2:
-***** TODO [#B] ST8.4 - Erasure (8.2) :Adric:
-***** [#C] 4.4 The Old Rogue
+***** TODO [#B] ST8.4 - Erasure (8.2) :Narvin:Adric:
+***** [#C] 4.4 The Old Rogue :Romana_2:2nd_Dr:Jamie:
 :PROPERTIES:
 :rating:   7.9
 :END:
@@ -1376,7 +1396,12 @@ CLOSED: [2020-06-25 Thu 21:56]
 :rating:   7.9
 :END:
 
-***** [#B] STR3.4 The Warren Legacy :Romana_1:
+***** [#B] STR3.4 The Warren Legacy :Romana_1:P2015:
+:PROPERTIES:
+:rating:   7.9
+:END:
+
+***** [#C] SST16. The Doctor's First XI :Romana_1:P2014:
 :PROPERTIES:
 :rating:   7.9
 :END:
@@ -1403,8 +1428,10 @@ SCHEDULED: <2022-10-29 Sat>
 :rating:   8.1
 :END:
 
-*** BBC short stories :📄:
-**** New
+*** BBC :📄:
+**** The Thing From the Sea  :Wibbsey:P2018:1CD:
+**** The Winged Coven    :Wibbsey:Yates:P2019:1CD:
+**** new short stories
 ***** DONE The Roots of Evil (12 Doctors, 12 Stories #4) (微信读书) :📔:Leela:
 CLOSED: [2020-08-08 Sat 14:26]
 
