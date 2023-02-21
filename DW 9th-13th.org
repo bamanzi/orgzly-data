@@ -769,9 +769,15 @@ CLOSED: [2023-02-12 Sun 20:33]
 ***** DONE 5. Time of the Ood
 CLOSED: [2023-02-12 Sun 20:55]
 
-***** 6-7. The Memory Feast
-***** 8. Fooled
-***** 9,11 Strange Loops
+***** DONE 6-7. The Memory Feast
+CLOSED: [2023-02-13 Mon 14:40]
+
+***** DONE 8. Fooled
+CLOSED: [2023-02-14 Tue 12:53]
+
+***** DONE 9,11 Strange Loops
+CLOSED: [2023-02-20 Mon 13:48]
+
 ***** 12-13. Hungry Thirsty Roots
 *** DWM
 **** DWMGN: The Child of Time

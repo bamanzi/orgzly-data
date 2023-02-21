@@ -129,6 +129,15 @@ CLOSED: [2023-02-08 Wed 19:55]
 ***** DONE 2x05
 CLOSED: [2023-02-08 Wed 20:45]
 
+***** DONE 2x06
+CLOSED: <2023-02-13 Mon 08:27>
+
+***** DONE 2x07
+CLOSED: [2023-02-15 Wed 20:54]
+
+***** DONE 2x08
+CLOSED: <2023-02-18 Sat 16:14>
+
 ** Preacher
 *** comics :📚:
 **** DONE book 1 (1-12)
@@ -178,6 +187,9 @@ CLOSED: [2022-01-19 Wed 22:03]
 CLOSED: [2022-01-21 Fri 23:07]
 
 **** S2 :P2017:
+
+13 episodes
+
 ***** DONE 2x01, 02
 CLOSED: [2022-01-27 Thu 19:05]
 
@@ -189,6 +201,15 @@ CLOSED: [2023-02-10 Fri 21:39]
 
 ***** DONE 2x05
 CLOSED: [2023-02-11 Sat 22:49]
+
+***** DONE 2x06
+CLOSED: [2023-02-16 Thu 08:10]
+
+***** DONE 2x07
+CLOSED: [2023-02-17 Fri 19:42]
+
+***** DONE 2x08
+CLOSED: [2023-02-17 Fri 20:28]
 
 ** V for Vendetta ...
 ** Fables :hanzify:
