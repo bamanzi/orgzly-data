@@ -1358,7 +1358,7 @@
 *** 2DONE [#A] BS5.1 - The Grel Escape :Benny:
 *** HALF KC #2 Death's Head :Kaldor_Robots:
 *** HALF [#D] Rose 1.4 The Last Party on Earth
-*** HALF [#D] Missy 2.2 Brimstone and Terror :Missy:Master:bilibili:
+*** HALF [#E] Missy 2.2 Brimstone and Terror :Missy:Master:bilibili:
 * DW 2022-09
 ** DW 2022-09-doctor
 
@@ -1436,10 +1436,9 @@
 *** HALF [#B] TW6.10 ScrapeJane
 *** 3QTR [#A] TW54. Curios :Bilis_Manger:
 *** HALF [#C] River7.1 Colony of Strangers :River:
-*** [#D] J&L7.2 The Night of 1000 Stars :Jago:Litefoot:
 *** DONE [#E] Donna1.3 The Sorcerer of Albion :Donna:
-*** 3QTR [#C] WM5.2 Scaramancer :Master_war:8th_Dr:
-*** HALF [#C] Gallifrey 4.4 Forever
+*** 2DONE [#C] WM5.2 Scaramancer :Master_war:8th_Dr:
+*** 3QTR [#C] Gallifrey 4.4 Forever
 * DW2023-01
 ** dw2023-01-doctor
 

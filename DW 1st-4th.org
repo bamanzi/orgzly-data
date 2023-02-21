@@ -65,7 +65,7 @@ Episode 4 missing (but animated in 2013).
 ** audio :🎧:
 *** EA :2CD:
 **** EA S1
-***** [#C] EA1.1 Domain of the Voord :Susan:Ian:Barbara:Voord:plot_yes:DW2023_03_maybe:
+***** [#C] EA1.1 Domain of the Voord :Susan:Ian:Barbara:Voord:plot_yes:DW2023_07_maybe:
 
 应该先看老版剧集 1x05 The Keys of Marinus
 
@@ -83,6 +83,12 @@ Episode 4 missing (but animated in 2013).
 CLOSED: [2022-07-31 Sun 08:14] SCHEDULED: <2022-07-16 Sat>
 
 **** EA S3
+***** CANCEL [#F] 3.1 The Age of Endurance
+***** CANCEL [#E] 3.2 The Fifth Traveller
+:PROPERTIES:
+:rating:   6.8
+:END:
+
 ***** [#B] EA 3.3 The Ravelli Conspiracy (8.0) :Vicki:Steven:plot_no:
 ***** HALF [#B] EA3.4 The Sontarans (8.0) :D2021_09_dr:Sara_Kingdom:Steven:plot_yes:
 SCHEDULED: <2021-09-22 Wed>
@@ -150,10 +156,12 @@ SCHEDULED: <2022-03-12 Sat>
 *** 1DA (2022-)
 **** 📂2022. The Outlaws :Dodo:P2022_04:plot_yes:
 ***** [#D] 22.1 The Outlaws :Dodo:Monk:P2022_04:DW2023_03_doctor:
+SCHEDULED: <2023-03-05 Sun>
+
 ***** [#C] 22.2 The Miniaturist :Dodo:P2022_04:1CD:
-**** TBR 2023. The Demon Song :Dodo:P2023_02:
-***** 23.1 The Demon Song
-***** 23.2 The Incherton Incident
+**** 📂2023. The Demon Song :Dodo:P2023_02:
+***** 23.1 The Demon Song :1CD:
+***** 23.2 The Incherton Incident :2CD:
 *** CC :🗣:
 **** Sara Kingdom trilogy :Sara_Kingdom:
 ***** HALF [#A] CC3.5 - Home Truths :plot_yes_dwg:DW2023_01_doctor:
@@ -911,6 +919,7 @@ SCHEDULED: <2022-03-30 Wed>
 ***** [#D] CC6.4 - The Many Deaths of Jo Grant (7.2)
 **** CC
 ***** START [#C] CC2.3 - Old Soldiers :Brigadier:plot_yes_dwg:DW2023_03_maybe:
+SCHEDULED: <2023-03-05 Sun>
 :PROPERTIES:
 :rating:   7.5
 :END:
@@ -947,7 +956,8 @@ As the decade in English history which attracts the greatest quantity of alien i
 
 To escape his Earth exile, the Doctor is prepared to make any bargain, come to any arrangement, or to do any deal with any devil – even if in this case the Devil wears a monk's robes. But when past misdeeds start catching up with both the Doctor and the Monk, who can Liz Shaw trust when time is running out and death is rapidly approaching?
 
-***** READY [#C] ST7.X Landbound †7.6 :scripted:no_companion:bilibili:DW2023_03_doctor:
+***** READY [#C] ST7.X Landbound †7.6 :scripted:no_companion:bilibili:DW2023_03_maybe:
+SCHEDULED: <2023-04-01 Sat>
 
 【【神秘博士】短途旅行：以陆为牢 | Short Trips: Landbound-哔哩哔哩】 https://b23.tv/hbxNYVJ
 
@@ -957,8 +967,13 @@ CLOSED: [2020-06-25 Thu 21:52]
 ***** HALF [#A] ST11.3 The Threshold :Master_nemesis:P2022_02:DW2022_07_doctor:
 SCHEDULED: <2022-07-16 Sat>
 
+***** [#D] STR6. The Switching :Jo:Benton:Master_nemesis:scripted:
+:PROPERTIES:
+:rating:   7.3
+:END:
+
 *** BBC :BBC:📄:🎧:
-**** Horrors of War     :Jo:Annie:WW1:P2018:1CD:
+**** Horrors of War :Jo:Annie:WW1:P2018:1CD:
 **** new short stories
 ***** DONE The Spear of Destiny (/12 Doctors, 12 Stories/ #3) :🎧:
 CLOSED: [2020-06-18 Thu 14:24]
@@ -1158,7 +1173,7 @@ CLOSED: [2022-01-18 Tue 15:32] SCHEDULED: <2022-01-30 Sun>
 :rating:   8.1
 :END:
 
-***** READY [#C] 2.5 - Phantoms of the Deep (7.5)
+***** [#C] 2.5 - Phantoms of the Deep (7.5)
 ***** [#D] 2.6 - The Dalek Contract / 2.7 The Final Phase (7.0)
 **** 4DA series 3 :Leela:P2014:scripted:
 ***** 2DONE [#C] 3.1 - The King of Sontar (7.7) :Sontarans:D2021_09_dr:
@@ -1429,8 +1444,8 @@ SCHEDULED: <2022-10-29 Sat>
 :END:
 
 *** BBC :📄:
-**** The Thing From the Sea  :Wibbsey:P2018:1CD:
-**** The Winged Coven    :Wibbsey:Yates:P2019:1CD:
+**** [#C] The Thing From the Sea :Wibbsey:P2018:1CD:
+**** CANCEL [#F] The Winged Coven :Wibbsey:Yates:P2019:1CD:
 **** new short stories
 ***** DONE The Roots of Evil (12 Doctors, 12 Stories #4) (微信读书) :📔:Leela:
 CLOSED: [2020-08-08 Sat 14:26]

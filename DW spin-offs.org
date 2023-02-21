@@ -306,8 +306,8 @@ Sebastian Vaughan is the brightest, newest recruit to Torchwood. He's come fro
       :rating:   7.9
       :END:
 
-***** [#A] 43. The Three Monkeys :Owen:Andy:
-      SCHEDULED: <2023-03-01 Wed>
+***** [#A] 43. The Three Monkeys :Owen:Andy:DW2023_03_spinoffs:
+      SCHEDULED: <2023-03-19 Sun>
       :PROPERTIES:
       :rating:   8.8
       :END:
@@ -316,8 +316,8 @@ Andy Davidson's been ordered to watch over a local businessman. Everything's alw
 
 Owen joins him on the stakeout. He knows something – the businessman's attracted Torchwood's attention, and tonight, the two of them are going to take him down. But will luck be on their side?
 
-***** HALF [#A] 44. Rhys and Ianto's Excellent Barbeque [#S] :Rhys:Ianto:DW2023_02_spinoffs:
-      SCHEDULED: <2023-02-03 Fri>
+***** 3QTR [#A] 44. Rhys and Ianto's Excellent Barbeque [#S] :Rhys:Ianto:DW2023_02_spinoffs:
+      CLOSED: [2023-02-19 Sun 21:27] SCHEDULED: <2023-02-03 Fri>
       :PROPERTIES:
       :rating:   9.4
       :END:
@@ -439,7 +439,7 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
       :rating:   7.9
       :END:
 
-***** [#D] 2 - Escape from Nebazz :DW2023_03_spinoffs:
+***** [#D] 2 - Escape from Nebazz :DW2023_04_spinoffs:
       :PROPERTIES:
       :rating:   7.4
       :END:
@@ -459,8 +459,14 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
 https://tardis.fandom.com/wiki/Parasite_(audio_story)
 
 ***** [#B] 1. The Man From Room 13 (8.0) :DW2023_03_spinoffs:
+      SCHEDULED: <2023-03-05 Sun>
+
 ***** [#B] 2. Meet Mr Lyme (8.2)
+      SCHEDULED: <2023-03-05 Sun>
+
 ***** [#A] 3. The Mould (8.7)
+      SCHEDULED: <2023-03-05 Sun>
+
 ***** [#A] 4. The Spread (8.7)
 ***** [#A] 5. The Dead Hand (9.4)
 ***** [#A] 6. The Liberty of Norton Folgate (8.7)
@@ -581,8 +587,8 @@ https://tardis.fandom.com/wiki/Parasite_(audio_story)
 ***** 3QTR [#A] 6.11 Day Zero (8.7) :DW2023_01_spinoffs:
       CLOSED: [2023-01-28 Sat 08:42] SCHEDULED: <2023-01-31 Tue>
 
-***** [#B] 6.12 Thoughts and Prayers (8.2) :DW2023_02_spinoffs:
-      SCHEDULED: <2023-02-19 Sun>
+***** HALF [#B] 6.12 Thoughts and Prayers (8.2) :Yvonne:Orr:God:DW2023_02_spinoffs:
+      SCHEDULED: <2023-02-20 Mon 21:42>
 
 *** The Lives of Captain Jack :🎧:Jack:1CD:
 **** vol.1 :P2017:
@@ -976,13 +982,13 @@ Roberts Master
 *** 3QTR [#B] 7.1 The Monstrous Menagerie           (8.1) :DW2022_08_spinoffs:
     CLOSED: [2022-09-02 Fri 19:14] SCHEDULED: <2022-09-04 Sun>
 
-*** START [#D] 7.2 The Night of 1000 Stars           (7.2) :plot_no:DW2023_03_spinoffs:
-    SCHEDULED: <2022-12-28 Wed>
-
+*** START [#D] 7.2 The Night of 1000 Stars           (7.2) :Leela:plot_no:DW2023_05_spinoffs:
 *** HALF [#A] 7.3 Murder at Moorsey Manor           (8.7) :DW2023_01_spinoffs:
     SCHEDULED: <2023-01-09 Mon 21:33>
 
-*** [#C] 7.4 The Wax Princess                  (7.5)
+*** [#C] 7.4 The Wax Princess                  (7.5) :DW2023_03_spinoffs:
+    SCHEDULED: <2023-03-12 Sun>
+
 ** J&L series 8 :P2014:
 *** [#A] 8.1 - Encore of the Scorchies         (8.9)
 *** [#D] 8.2 - The Backwards Men               (7.3)
@@ -1086,25 +1092,27 @@ Roberts Master
 *** TODO [#C] 3.3 - Appropriation (7.9)
 *** TODO [#A] 3.4 - Mindbomb (8.9)
 *** [#B] 3.5 - Panacea (8.1)
-** series 4 :P2011:
+** series 4 :P2011:plot_yes:
 *** HALF [#B] 4.1 - Reborn       (8.0) :DW2022_09_spinoffs:
     SCHEDULED: <2022-09-18 Sun>
 
-*** 3QTR [#A] 4.2 - Disassembled (9.1) :plot_yes:DW2022_10_spinoffs:
+*** 3QTR [#A] 4.2 - Disassembled (9.1) :DW2022_10_spinoffs:
     CLOSED: [2022-10-30 Sun 19:57] SCHEDULED: <2022-10-15 Sat>
 
 *** 3QTR [#B] 4.3 - Annihilation (8.0) :DW2022_11_spinoffs:
     CLOSED: [2022-11-18 Fri 08:56] SCHEDULED: <2022-11-20 Sun>
 
-*** HALF [#C] 4.4 - Forever      (7.9) :DW2022_12_spinoffs:
-    SCHEDULED: <2022-12-28 Wed 08:50>
+*** 3QTR [#C] 4.4 - Forever      (7.9) :DW2022_12_spinoffs:
+    CLOSED: [2023-02-14 Tue 23:04] SCHEDULED: <2022-12-28 Wed 08:50>
 
-** series 5 :P2013:
-*** [#E] 5.1 - Emancipation (6.9) :DW2023_02_spinoffs:
-    SCHEDULED: <2023-02-19 Sun>
+** series 5 :P2013:plot_yes:
+*** HALF [#E] 5.1 - Emancipation (6.9) :DW2023_02_spinoffs:
+    SCHEDULED: <2023-02-15 Wed 08:48>
 
 *** [#E] 5.2 - Evolution (6.5) :DW2023_03_spinoffs:
-*** [#D] 5.3 - Arbitration (7.2)
+    SCHEDULED: <2023-03-26 Sun>
+
+*** [#D] 5.3 - Arbitration (7.2) :Daleks:DW2023_04_spinoffs:
 ** series 6 :P2013:
 *** [#C] 6.1 - Extermination (7.8)
 *** [#B] 6.2 - Renaissance (8.1)
@@ -1155,13 +1163,13 @@ Roberts Master
      :rating:   7.0
      :END:
 
-*** Series 3 :P2002:
+*** Series 3 :P2002:plot_yes_dwg:
 **** [#D] 3.1 - The Greatest Shop in the Galaxy
      :PROPERTIES:
      :rating:   7.3
      :END:
 
-**** [#C] 3.2 - The Green Eyed Monster :plot_yes_dwg:
+**** [#C] 3.2 - The Green Eyed Monster
      :PROPERTIES:
      :rating:   7.5
      :END:
@@ -1173,7 +1181,7 @@ http://drwhoguide.com/bs_a06.htm
      :rating:   7.4
      :END:
 
-**** [#C] 3.4 - The Mirror Effect :plot_yes_dwg:
+**** [#C] 3.4 - The Mirror Effect
      :PROPERTIES:
      :rating:   7.7
      :END:
@@ -1202,11 +1210,11 @@ Braxiatel的收藏被第五轴占据，由伯尼斯过去的人物领导。
 
 我们的英雄将获得自由或死亡
 
-*** Series 5 :P2004:
+*** Series 5 :P2004:plot_yes_dwg:
 **** novel: The Big Hunt
 **** anthology: A Life Worth Living
 **** anthology: A Life in Pieces
-**** 2DONE [#A] 5.1 The Grel Escape :DW2022_08_spinoffs:plot_yes_dwg:
+**** 2DONE [#A] 5.1 The Grel Escape :DW2022_08_spinoffs:
      CLOSED: [2022-08-03 Wed 19:48] SCHEDULED: <2022-08-06 Sat>
      :PROPERTIES:
      :rating:   8.5
@@ -1226,12 +1234,15 @@ http://drwhoguide.com/bs_a13.htm
      :END:
 
 **** special: Sliver Lining :Cybermen:
-*** Series 6 :P2006:
+
+http://drwhoguide.com/bs_dwm5.htm
+
+*** Series 6 :P2006:plot_yes_dwg:
 **** novel: The Tree of Life
 **** anthology: Paralel Lives
 **** anthology: Something Changed
 **** [#F] +6.1 The Heat's Desire+
-**** [#C] 6.2 The Kingdom of the Blind :plot_yes_dwg:
+**** [#C] 6.2 The Kingdom of the Blind
      :PROPERTIES:
      :rating:   7.7
      :END:
@@ -1244,7 +1255,7 @@ http://drwhoguide.com/bs_a18.htm
      :END:
 
 **** [#F] +6.4 The Goddes Quandary+
-**** HALF [#A] BS6.5 The Crystal of Cantus :Cybermen:D2022_03_spinoffs:plot_yes_dwg:
+**** HALF [#A] BS6.5 The Crystal of Cantus :Cybermen:D2022_03_spinoffs:
      SCHEDULED: <2022-03-19 Sat>
      :PROPERTIES:
      :rating:   8.7
@@ -1267,7 +1278,7 @@ http://drwhoguide.com/bs_a18.htm
 *** Series 10
 *** Series 11
 ** Bernice Summerfield (boxset)
-*** Boxset 1: Epoch :P2011:Atlantis:
+*** Boxset 1: Epoch :P2011:Atlantis:plot_yes:
 **** [#B] 1.1 The Kraken's Lament :Jack_McSpringheel:
      :PROPERTIES:
      :rating:   7.9
@@ -1288,7 +1299,7 @@ http://drwhoguide.com/bs_a18.htm
      :rating:   8.3
      :END:
 
-*** Boxset 2: Road Trip :P2012:
+*** Boxset 2: Road Trip :P2012:plot_yes:
 **** [#C] 2.1 Brand Management :Ruth:
      :PROPERTIES:
      :rating:   7.7
@@ -1305,7 +1316,7 @@ http://drwhoguide.com/bs_a18.htm
      :END:
 
 **** novel: The Weather on Versimmon :Ruth:
-*** Boxset 3: Legion :P2012:
+*** Boxset 3: Legion :P2012:plot_yes:
 **** [#C] 3.1 - Vesuvius Falling
      :PROPERTIES:
      :rating:   7.8
@@ -1455,11 +1466,11 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
 **** 3QTR [#A] 7.2 Wulf :DW2022_12_doctor:
      CLOSED: [2022-12-25 Sun 22:28] SCHEDULED: <2022-12-28 Wed>
 
-**** TODO 7.3 Ubermensch 超人 :DW2023_02_spinoffs:
-     SCHEDULED: <2023-02-18 Sat>
+**** HALF 7.3 Ubermensch 超人 :DW2023_02_spinoffs:
+     SCHEDULED: <2023-02-16 Thu 21:07>
 
 **** 7.4 Auf Wiedersehen 再见 :DW2023_03_doctor:
-     SCHEDULED: <2023-03-12 Sun>
+     SCHEDULED: <2023-03-19 Sun>
 
 * #Master
 ** Missy series 1 :🎧:Master_missy:
@@ -1488,7 +1499,7 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
     :END:
 
 ** Missy series 2 :🎧:Master_missy:
-*** HALF [#A] 2.1 - The Lumiat :D2022_05_spinoffs:plot_yes:bilibili:DW2022_08_extra:
+*** HALF [#A] 2.1 - The Lumiat :D2022_05_spinoffs:plot_yes:bilibili:
     SCHEDULED: <2022-05-21 Sat>
     :PROPERTIES:
     :rating:   8.8
@@ -1503,6 +1514,7 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
     :END:
 
 *** [#D] 2.3 - Treason and Plot :DW2023_03_spinoffs:
+    SCHEDULED: <2023-03-19 Sun>
     :PROPERTIES:
     :rating:   7.2
     :END:
@@ -1521,6 +1533,8 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
 【【神秘博士广播剧】Masterful 混乱之主 01-哔哩哔哩】 https://b23.tv/WSXHwtR
 
 【【神秘博士广播剧】Masterful 混乱之主 02-哔哩哔哩】 https://b23.tv/zhK524Y
+
+【【神秘博士广播剧】Masterful 混乱之主 03-哔哩哔哩】 https://b23.tv/cXQO9PZ
 
 ** Master! :Master_roberts:🎧:
 *** HALF [#C] Vienna #0 The Memory Box :D2021_12_extra:week2:
@@ -1551,6 +1565,9 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
 【【神秘博士广播剧】MASTER! 103 复仇-哔哩哔哩】 https://b23.tv/rYJARj9
 
 *** Master! vol.2 Nemesis Express :P2022_10:
+**** [#F] 2.1 - Nemesis Express
+**** [#E] 2.2 - Capture the Chronovore!
+**** [#F] 2.3 - Passion
 ** TBR Call Me Master :Master_spy:
 * #Daleks :daleks:
 ** #Davros :Davros:
@@ -2055,7 +2072,7 @@ Synopsis:  http://www.drwhoguide.com/kaldor01.htm
 http://www.drwhoguide.com/kaldor03.htm
 
 *** LATER KC4. Taren Capel :DW2023_03_maybe:
-    SCHEDULED: <2023-03-30 Thu>
+    SCHEDULED: <2023-04-01 Sat>
 
 *** KC5. Checkmate
 *** KC6. Storm Mine
@@ -2153,7 +2170,7 @@ http://www.drwhoguide.com/kaldor03.htm
      CLOSED: [2022-11-20 Sun 19:43] SCHEDULED: <2022-11-20 Sun>
 
 **** START [#C] 2.3 - Spring-Heeled Jack        (7.7) :DW2023_02_spinoffs:
-     SCHEDULED: <2023-02-05 Sun>
+     SCHEDULED: <2023-02-26 Sun>
 
 *** PG: Heritage 3 :P2020:
 **** [#C] 3.1 - Family Matters            (7.5)
@@ -2163,6 +2180,7 @@ http://www.drwhoguide.com/kaldor03.htm
 **** [#A] 4.1 - Merry Christmas, Mr Jago  (9.0)
 **** [#E] +4.2 - The Ghost Writers+         (6.4)
 **** [#D] 4.3 - Rulers of Earth           (7.4)
+*** TBR PG: Trespassers 1 :P2023_10:
 * Counter-Measures :CM:🎧:
 ** CM series 1 :P2012:plot_yes:
 *** HALF [#D] 1.1 - Threshold (7.3) :plot_yes:DW2022_07_spinoffs:
@@ -2178,6 +2196,8 @@ http://www.drwhoguide.com/kaldor03.htm
     SCHEDULED: <2022-10-29 Sat>
 
 *** [#B] 1.4 - State of Emergency           (8.3) :DW2023_03_spinoffs:
+    SCHEDULED: <2023-03-12 Sun>
+
 ** CM series 2 :P2013:
 *** [#B] 2.1 - Manhunt                      (8.1)
 *** [#B] 2.2 - The Fifth Citadel            (8.3)
@@ -2310,6 +2330,8 @@ http://www.drwhoguide.com/kaldor03.htm
      CLOSED: [2023-02-09 Thu 19:29] SCHEDULED: <2023-02-09 Thu 08:51>
 
 **** [#D] 1.2 - Skin Deep (7.2) :DW2023_03_spinoffs:
+     SCHEDULED: <2023-03-26 Sun>
+
 **** [#D] 1.3 - Portrait of a Lady (7.0) :Sontarans:
 **** [#C] 1.4 - Death on the Mile (7.7)
 *** series 2 :P2021:
@@ -2333,18 +2355,18 @@ http://www.drwhoguide.com/kaldor03.htm
 **** [#D] 2.4 - Her Own Wrost Enemy (7.0)
 ** Rose Tyler - The Dimension Cannon :Rose:
 *** RTDC vol.1 :P2019:
-**** 3QTR [#B] 1.1 - The Endless Night       (8.3) :D2022_06_spinoffs:
+**** 3QTR [#A] 1.1 - The Endless Night       (8.3) :D2022_06_spinoffs:
      CLOSED: <2022-06-11 Sat 22:40> SCHEDULED: <2022-06-04 Sat>
 
 **** 3QTR [#C] 1.2 - The Flood               (7.6) :D2022_06_spinoffs:
      CLOSED: <2022-06-23 Thu 19:09> SCHEDULED: <2022-06-25 Sat>
 
-**** 3QTR [#C] 1.3 - Ghost Machines   (7.5) :DW2022_07_spinoffs:bilibili:
+**** 3QTR [#D] 1.3 - Ghost Machines   (7.5) :DW2022_07_spinoffs:bilibili:
      CLOSED: [2022-07-15 Fri 05:40] SCHEDULED: <2022-07-10 Sun>
 
 【【神秘博士广播剧熟肉】The Dimension Cannon 103 Ghost Machines 幽灵机器-哔哩哔哩】 https://b23.tv/iSSh5YP
 
-**** HALF [#D] 1.4 - The Last Party on Earth :DW2022_08_spinoffs:bilibili:
+**** HALF [#C] 1.4 - The Last Party on Earth :DW2022_08_spinoffs:bilibili:
      SCHEDULED: <2022-08-21 Sun>
      :PROPERTIES:
      :rating:   7.3
@@ -2353,12 +2375,15 @@ http://www.drwhoguide.com/kaldor03.htm
 【【神秘博士广播剧熟肉】The Dimension Cannon 104 The Last Party on Earth 地球最后的狂欢-哔哩哔哩】 https://b23.tv/FHge6fG
 
 *** RTDC vol.2 Other Worlds :P2022_10:
-**** READY 2.1 Saltwater
+**** READY [#C] 2.1 Saltwater
 
 【【神秘博士广播剧熟肉】The Dimension Cannon 201 Saltwater 盐水-哔哩哔哩】 https://b23.tv/M44oyPQ
 
-**** 2.2 Now is the New Dark
-**** 2.3 The Rogue Planet
+**** READY [#C] 2.2 Now is the New Dark :bilibili:
+
+【【神秘博士广播剧熟肉】The Dimension Cannon 202 Now is the New Dark 新黑暗-哔哩哔哩】 https://b23.tv/DsxHEzn
+
+**** [#A] 2.3 The Rogue Planet
 *** TBR RTDC vol.3 Trapped :P2023_09:
 ** Donna Nobel - Kidnapped :Donna:P2020:
 

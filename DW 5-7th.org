@@ -84,7 +84,7 @@ CLOSED: [2021-03-22 Mon 23:17]
 :rating:   4.5
 :END:
 
-**** HALF [#B] 44. Creatures of Beauty :plot_no:D2022_02_doctor:
+**** HALF [#B] 44. Creatures of Beauty :Nyssa:plot_no:D2022_02_doctor:
 SCHEDULED: <2022-02-24 Thu>
 :PROPERTIES:
 :rating:   8.2
@@ -113,6 +113,8 @@ CLOSED: [2021-06-15 Tue 08:16]
 :END:
 
 **** [#C] 071. The Council of Nicaea :Peri:Erimem:DW2023_03_doctor:
+SCHEDULED: <2023-03-05 Sun>
+
 **** Singularity
 **** [#A] MR081. The Kingmaker :Peri:Erimem:4D:plot_no:
 :PROPERTIES:
@@ -234,7 +236,7 @@ SCHEDULED: <2022-11-30 Wed>
 CLOSED: [2021-02-27 Sat 18:02]
 
 **** [#C] 173. The Lady of Mercia (7.7)
-**** READY [#B] 174. Prisoners of Fate (8.2) :plot_yes:D2022_13:Nyssa:Tegan:
+**** [#B] 174. Prisoners of Fate (8.2) :plot_yes:D2022_13:Nyssa:Tegan:
 
 应该先听 MR136 Cobwebs
 
@@ -436,9 +438,15 @@ CLOSED: [2022-01-14 Fri 15:10]
 **** [#E] VI. Return to the Web Planet :1CD:
 **** X. The Five Companions :1CD:
 **** [#B] CC4.05 - Ringpullworld :1CD:
+*** audiobook
+**** [#D] DotD #5 Smoke and Mirrors :Adric:Nyssa:Tegan:1CD:plot_yes:
 **** [#C] ST6.9 Gardens of the Dead :Tegan:Nyssa:Turlough:
-**** [#B] ST7.11. The Ingenious Gentleman Adric of Alzarius :1CD:
+**** [#B] ST7.11. The Ingenious Gentleman Adric of Alzarius :Adric:Nyssa:Tegan:1CD:
 **** [#D] ST9.10 The Second Oldest Question :Nyssa:
+**** [#B] I, Kamelion :Turlough:Kamelion:P2022:
+
+Interludes #1
+
 ** short stories
 *** DONE Tip of the Tongue 舌尖 :Nyssa:
 CLOSED: [2022-12-28 Wed 21:19]
@@ -577,7 +585,7 @@ http://www.drwhoguide.com/who_bf90.htm
 **** 2DONE [#A] 94b. Urgent Calls (8.8) :plot_yes:Viyrans:short:
 CLOSED: [2021-03-22 Mon 20:39]
 
-**** [#B] 100b. My Own Private Wolfgang (8.0) :plot_no:bilibili:
+**** READY [#B] 100b. My Own Private Wolfgang (8.0) :plot_no:bilibili:
 
 【【DW广播剧翻译】MR 100b - 独属于我的沃尔夫冈-哔哩哔哩】 https://b23.tv/iDORqth
 
@@ -739,7 +747,7 @@ CLOSED: [2022-11-12 Sat 20:08] SCHEDULED: <2022-11-01 Tue>
 
 【【广播剧翻译】博士的重生场景重演？六任：最后的冒险 103 Stage Fright-哔哩哔哩】 https://b23.tv/NnRPoV3
 
-***** The Brink of Death :Mel:bilibili:
+***** READY The Brink of Death :Mel:bilibili:
 
 【【广播剧翻译】在重生29年后补的重生集 六任：最后的冒险  104 The Brink of Death-哔哩哔哩】 https://b23.tv/4Ozoj0K
 
@@ -864,8 +872,9 @@ SCHEDULED: <2023-03-01 Wed>
 **** The Diary of River Song: Series 2
 ***** 2.3 World Enough and Time
 ***** 2.4 The Eye of the Storm
-**** ST4.6 - To Cut a Blade of Grass
+**** [#B] ST4.6 - To Cut a Blade of Grass :plot_no:
 *** BBC
+**** [#C] DotD #6 Trouble in Paradise :Peri:plot_no:1CD:
 **** [#C] Fortunes of War :WW1:P2018:1CD:
 **** [#C] The Flight of the Sun God :Peri:P2019:1CD:
 ** comics
@@ -1049,6 +1058,7 @@ CLOSED: <2021-07-09 Fri 14:15>
 :rating:   7.7
 :END:
 
+***** [#B] 159. Project: Destiny :Ace:Hex:The_Forge:Lysandra:
 ***** DONE [#A] 162. Protect and Survive (8.7) :P2012:Ace:Hex:plot_yes:WW3:Old_Ones:
 CLOSED: [2021-03-22 Mon 20:20]
 
@@ -1084,7 +1094,7 @@ CLOSED: [2021-03-22 Mon 20:20]
 :END:
 
 **** MR201-
-***** HALF [#C] 201. We Are the Daleks :plot_no:D2022_01_doctor:
+***** HALF [#C] 201. We Are the Daleks :Mel:plot_no:D2022_01_doctor:
 SCHEDULED: <2022-01-30 Sun>
 :PROPERTIES:
 :rating:   7.6
@@ -1118,6 +1128,7 @@ SCHEDULED: <2021-12-04 Sat>
 【【神秘博士广播剧汉化】The Two Masters 两个法师-哔哩哔哩】https://b23.tv/FjTGsz 
 
 ***** [#C] 226b. World Apart :plot_no:1CD:DW2023_03_doctor:
+SCHEDULED: <2023-03-05 Sun>
 :PROPERTIES:
 :rating:   7.7
 :END:
@@ -1225,7 +1236,7 @@ block 原因：太长（3小时多）
 :END:
 
 **** River2.1 The Unknown
-**** ST6.13 - Forever Fallen
+**** READY [#B] ST6.X - Forever Fallen :Ace:plot_yes:
 ** comics
 *** DWM
 **** DWMGN: A Cold Day in Hell! (DWM 130-150)
