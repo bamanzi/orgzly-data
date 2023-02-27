@@ -436,7 +436,7 @@ SCHEDULED: <2022-09-04 Sun>
 :END:
 
 **** DC vol.3
-***** 3QTR [#A] 3.1 - Absent Friends :DW2023_02_doctor:
+***** 3QTR [#A] 3.1 - Absent Friends [#S] :DW2023_02_doctor:
 CLOSED: [2023-02-08 Wed 08:38] SCHEDULED: <2023-02-11 Sat>
 :PROPERTIES:
 :rating:   9.2
@@ -505,14 +505,14 @@ SCHEDULED: <2023-03-01 Wed>
 :rating:   7.2
 :END:
 
-***** [#B] 2.2 - Better Watch Out :bilibili:
+***** READY [#B] 2.2 - Better Watch Out :bilibili:
 :PROPERTIES:
 :rating:   8.2
 :END:
 
 【【神秘博士广播剧汉化】恶魔降临之日 Ravenous 202 Better Watch Out-哔哩哔哩】 https://b23.tv/vpmqJSH
 
-***** [#B] 2.3 - Fairytale of Salzburg :bilibili:
+***** READY [#B] 2.3 - Fairytale of Salzburg :bilibili:
 :PROPERTIES:
 :rating:   8.3
 :END:
@@ -921,7 +921,7 @@ CLOSED: [2020-11-09 Mon 18:14]
 
 **** Damaged Goods
 
-The N-Forms receive an activation call, setting this after Desperate Measures
+The N-Forms receive an activation call, setting this after /Desperate Measures/
 
 **** HALF A Heart on Both Sides (Short Trips #7.9)
 **** _The War Master series 6: Killing Time_ :P2021:
@@ -1108,7 +1108,7 @@ CLOSED: [2020-09-23 Wed 12:53]
 *** DONE The Night of the Doctor
 CLOSED: [2020-09-23 Wed 14:01]
 
-*** _vol.1 Forged in Fire_ :P2021_06:War_Doctor:🎧:
+*** _📂vol.1 Forged in Fire_ :P2021_06:War_Doctor:🎧:
 **** 2DONE [#B] 1.1 - Light the Flame :D2022_06_doctor:
 CLOSED: [2022-07-15 Fri 21:16] SCHEDULED: <2022-06-25 Sat>
 :PROPERTIES:
@@ -1140,7 +1140,7 @@ CLOSED: <2020-12-17 Thu 19:57>
 **** 4.2 Dissolution
 **** 4.3 Beyond
 **** 4.4 Homecoming
-*** _vol.2 Warbringer_ :P2021_12:
+*** _📂vol.2 Warbringer_ :P2021_12:
 **** START [#E] 2.1 - Consequences :DW2023_01_doctor:
 SCHEDULED: <2023-01-31 Tue>
 :PROPERTIES:
@@ -1157,11 +1157,11 @@ SCHEDULED: <2023-01-31 Tue>
 :rating:   7.3
 :END:
 
-*** _vol.3 Battlegrounds_ :P2022_05:
+*** _📂vol.3 Battlegrounds_ :P2022_05:
 **** [#C] 3.1 - The Keeper of Light
 **** [#E] 3.2 - Temmosus
 **** [#B] 3.3 - Rewind
-*** 📂_vol.4 He Who Fights Monsters_ :P2022_12:
+*** _📂vol.4 He Who Fights Monsters_ :P2022_12:
 *** Ambush (comic)
 ** The War Doctor
 *** 11DY2 (comics)

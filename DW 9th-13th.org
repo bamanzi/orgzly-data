@@ -77,7 +77,7 @@ CLOSED: [2023-01-23 Mon 08:22] SCHEDULED: <2023-01-10 Tue 08:39>
 CLOSED: [2022-07-02 Sat 23:47]
 
 ***** READY [#B] 5.3 Auld Lang Syne :bilibili:DW2023_03_doctor:
-SCHEDULED: <2023-03-19 Sun>
+SCHEDULED: <2023-03-11 Sat>
 
 【【神秘博士广播剧熟肉】Back to Earth 503 Auld Lang Syne 逝去已久的时光-哔哩哔哩】 https://b23.tv/1NrKKIN
 
@@ -98,7 +98,7 @@ SCHEDULED: <2023-03-19 Sun>
 
 【【神秘博士广播剧熟肉】Hidden Depths 703 Flatpack 平板家居-哔哩哔哩】 https://b23.tv/ElXr5Mq
 
-**** TBR S2.4 Shades of Fear :P2023_02:
+**** S2.4 Shades of Fear :P2023_02:
 ***** 8.1 The Colour of Terror
 ***** 8.2 The Blooming Menace
 ***** 8.3 Red Darkness :Vashta_Nerada:
@@ -125,7 +125,7 @@ SCHEDULED: <2022-11-29 Tue>
 :rating:   7.8
 :END:
 
-**** [#C] ST11.X The Lichyrwick Abomination :P2021:scripted:plot_yes:
+**** READY [#C] ST11.X The Lichyrwick Abomination :P2021:scripted:plot_yes:
 :PROPERTIES:
 :rating:   7.6
 :END:
@@ -391,16 +391,16 @@ CLOSED: [2022-08-11 Thu 21:18] SCHEDULED: <2022-08-10 Wed>
 
 【【神秘博士广播剧熟肉】The 10th Doctor Adventures 303 The Creeping Death-哔哩哔哩】 https://b23.tv/ZYY4jz7
 
-*** 10D and RS :P2020:
+**** 10D and RS :P2020:
 
 哔哩哔哩有熟肉
 
-**** 2DONE [#B] 10D&RS 1.1 Expiry Dating :D2021_06:bilibili:
+***** 2DONE [#B] 10D&RS 1.1 Expiry Dating :D2021_06:bilibili:
 CLOSED: <2021-07-09 Fri 23:11>
 
 【【David Tennant】Big Finish广播剧The Tenth Doctor and River Song - Expiry Dating双语字幕-哔哩哔哩】 https://b23.tv/pEl4yPK
 
-**** CANCEL [#E] 10D&RS 2. Precious Annihilation :bilibili:
+***** CANCEL [#E] 10D&RS 2. Precious Annihilation :bilibili:
 CLOSED: [2021-06-18 Fri 10:25]
 :PROPERTIES:
 :rating:   6.5
@@ -408,7 +408,7 @@ CLOSED: [2021-06-18 Fri 10:25]
 
 【【David Tennant】BigFinish广播剧The Tenth Doctor and River Song-Precious Annihilation-哔哩哔哩】 https://b23.tv/ACUaNVw
 
-**** 3QTR [#B] 10D&RS 3. Ghosts :bilibili:DW2022_10_doctor:
+***** 3QTR [#B] 10D&RS 3. Ghosts :bilibili:DW2022_10_doctor:
 CLOSED: [2022-10-19 Wed 19:24] SCHEDULED: <2022-10-16 Sun>
 :PROPERTIES:
 :rating:   8.3
@@ -416,8 +416,21 @@ CLOSED: [2022-10-19 Wed 19:24] SCHEDULED: <2022-10-16 Sun>
 
 【【David Tennant】Big Finish广播剧熟肉the Tenth Doctor and River Song - Ghosts-哔哩哔哩】https://b23.tv/84jHoJ
 
-*** Dalek Universe :P2021:Anya:Mark_7:
-**** _intro
+**** Out of Time
+***** HALF [#C] Out of Time 1 :P2020:bilibili:4th_Dr:
+:PROPERTIES:
+:rating:   7.8
+:END:
+
+***** HALF [#C] Out of Time 2 - The Gates of Hell :P2021:Cybermen:5th_Dr:D2022_04_doctor:
+SCHEDULED: <2022-04-29 Fri>
+:PROPERTIES:
+:rating:   7.5
+:END:
+
+***** Out of Time #3 Wink :6th_Dr:Weeping_Angels:
+**** Dalek Universe :P2021:Anya:Mark_7:
+***** _intro
 
 前两季基本就是The Dalek's Master Plan的续作
 
@@ -439,14 +452,14 @@ CLOSED: [2022-10-19 Wed 19:24] SCHEDULED: <2022-10-16 Sun>
 
 要理清情节顺序的话大概是这么个顺序
 
-**** READY The Dalek Protocol :4th_Dr:Leela:K9_1:plot_no:bilibili:
+***** READY The Dalek Protocol :4th_Dr:Leela:K9_1:plot_no:bilibili:
 SCHEDULED: <2021-11-08 Mon>
 
 【【神秘博士广播剧熟肉】Dalek Universe - The Dalek Protocol (Part 1&2)-哔哩哔哩】 https://b23.tv/FWNLkZc
 
 【【神秘博士广播剧熟肉】Dalek Universe - The Dalek Protocol (Part 3&4)-哔哩哔哩】 https://b23.tv/MruDd4V
 
-**** DONE [#B] DU 1.1 - Buying Time :plot_no:D2021_11_daleks:bilibili:
+***** DONE [#B] DU 1.1 - Buying Time :plot_no:D2021_11_daleks:bilibili:
 CLOSED: <2022-05-21 Sat 19:23> SCHEDULED: <2021-11-06 Sat>
 :PROPERTIES:
 :rating:   8.4
@@ -454,7 +467,7 @@ CLOSED: <2022-05-21 Sat 19:23> SCHEDULED: <2021-11-06 Sat>
 
 【【神秘博士广播剧汉化】听后感：？？？Dalek Universe 101 Buying Time-哔哩哔哩】 https://b23.tv/bPVKCTF
 
-**** 2DONE [#A] DU 1.2 - The Wrong Woman :D2022_06_extra:week2:bilibili:
+***** 2DONE [#A] DU 1.2 - The Wrong Woman :D2022_06_extra:week2:bilibili:
 CLOSED: <2022-05-28 Sat 20:33> SCHEDULED: <2022-06-05 Sun>
 :PROPERTIES:
 :rating:   8.8
@@ -462,7 +475,7 @@ CLOSED: <2022-05-28 Sat 20:33> SCHEDULED: <2022-06-05 Sun>
 
 【【神秘博士广播剧汉化】听后感：！！！ Dalek Universe 102 The Wrong Woman-哔哩哔哩】 https://b23.tv/a6fUWqp
 
-**** DONE [#C] DU 1.3 - The House of Kingdom :D2022_06_doctor:bilibili:Varga:
+***** DONE [#C] DU 1.3 - The House of Kingdom :D2022_06_doctor:bilibili:Varga:
 CLOSED: [2022-06-18 Sat 10:57] SCHEDULED: <2022-06-25 Sat>
 :PROPERTIES:
 :rating:   7.9
@@ -470,7 +483,7 @@ CLOSED: [2022-06-18 Sat 10:57] SCHEDULED: <2022-06-25 Sat>
 
 【【神秘博士广播剧熟肉】Dalek Universe 103 The House of Kingdom 家族-哔哩哔哩】 https://b23.tv/bQCgXoT
 
-**** HALF [#D] DU2.1 - Cycle of Destruction :bilibili:DW2023_02_doctor:
+***** HALF [#D] DU2.1 - Cycle of Destruction :bilibili:DW2023_02_doctor:
 SCHEDULED: <2023-02-21 Tue 08:51>
 :PROPERTIES:
 :rating:   7.2
@@ -478,52 +491,39 @@ SCHEDULED: <2023-02-21 Tue 08:51>
 
 【【神秘博士广播剧熟肉】Dalek Universe 201 Cycle of Destruction-哔哩哔哩】 https://b23.tv/YGpWAbr
 
-**** READY [#A] DU2.2 - The Trojan Dalek :bilibili:DW2023_04_doctor:
+***** READY [#A] DU2.2 - The Trojan Dalek :bilibili:DW2023_04_doctor:
 :PROPERTIES:
 :rating:   8.6
 :END:
 
 【【神秘博士广播剧熟肉】Dalek Universe 202 The Trojan Dalek-哔哩哔哩】 https://b23.tv/ke8FadW
 
-**** READY [#A] DU2.3 - The Lost :bilibili:
+***** READY [#A] DU2.3 - The Lost :bilibili:
 :PROPERTIES:
 :rating:   8.6
 :END:
 
 【【神秘博士广播剧熟肉】Dalek Universe 203 The Lost 迷失-哔哩哔哩】 https://b23.tv/HGdsWE3
 
-**** [#E] DU3.1 - The First Son
+***** [#E] DU3.1 - The First Son
 :PROPERTIES:
 :rating:   6.9
 :END:
 
-**** [#C] DU3.2 - The Dalek Defense
+***** [#C] DU3.2 - The Dalek Defense
 :PROPERTIES:
 :rating:   7.9
 :END:
 
-**** [#B] DU3.3 - The Triumph of Davros
+***** [#B] DU3.3 - The Triumph of Davros
 :PROPERTIES:
 :rating:   8.3
 :END:
 
-*** Out of Time
-**** HALF [#C] Out of Time 1 :P2020:bilibili:4th_Dr:
-:PROPERTIES:
-:rating:   7.8
-:END:
-
-**** HALF [#C] Out of Time 2 - The Gates of Hell :P2021:Cybermen:5th_Dr:D2022_04_doctor:
-SCHEDULED: <2022-04-29 Fri>
-:PROPERTIES:
-:rating:   7.5
-:END:
-
-**** Out of Time #3 Wink :6th_Dr:Weeping_Angels:
-*** 📂Tenth Doctor Classic Companions :P2022_09:
-**** [#B] 1. Splinters :Leela:
-**** [#E] 2. The Stuntman :Nyssa:
-**** [#D] 3. Quantum of Axos :Ace:
+**** 📂Tenth Doctor Classic Companions :P2022_09:
+***** [#B] 1. Splinters :Leela:
+***** [#E] 2. The Stuntman :Nyssa:
+***** [#D] 3. Quantum of Axos :Ace:
 *** 10DC
 **** [#D] 1.1 - the Taste of Death :Rose:
 :PROPERTIES:
@@ -535,7 +535,7 @@ SCHEDULED: <2022-04-29 Fri>
 :rating:   7.0
 :END:
 
-**** TODO [#C] 1.3 - Wild Pastures
+**** TODO [#C] 1.3 - Wild Pastures :Sylvia:
 :PROPERTIES:
 :rating:   7.5
 :END:
@@ -546,6 +546,7 @@ SCHEDULED: <2022-04-29 Fri>
 :END:
 
 *** CC & ST
+**** [#D] DotD #10 Death's Deal :Donna:
 **** [#C] ST8.6 The Siege of Big Ben
 :PROPERTIES:
 :rating:   7.9
@@ -555,8 +556,16 @@ SCHEDULED: <2022-04-29 Fri>
 
 (alt 10D + alt Jackie)
 
-**** READY [#D] ST10.X Free Speech :scripted:
+**** READY [#D] ST10.X Free Speech :scripted:bilibili:
+
+【【神秘博士】短途旅行：言谈无阻 | Short Trips: Free Speech-哔哩哔哩】 https://b23.tv/Ix7q1RY
+
 **** [#B] ST11.5 Fear of Flying
+*** BBC
+**** READY [#A] NSA audio #7: Dead Air :1CD:bilibili:
+
+【【神秘博士广播剧熟肉】New Series Adventures Audio 7 Dead Air 寂静无声-哔哩哔哩】 https://b23.tv/KSGTaTK
+
 *** fan-made
 **** READY DWAM: Empire of the Sun :bilibili:
 
@@ -685,10 +694,10 @@ SCHEDULED: <2022-03-30 Wed>
 :END:
 
 *** 11DC vol.3 Geronimo! :Valarie:P2022_10:
-**** 3.1 The Inheritance :plot_yes:
-**** 3.2. The House of Masks :plot_yes:
+**** READY 3.1 The Inheritance :plot_yes:
+**** READY 3.2. The House of Masks :plot_yes:
 **** 3.3 The End
-*** TBR 11DC vol.4 All of Time and Space :Valarie:P2023_02:
+*** 11DC vol.4 All of Time and Space :Valarie:P2023_02:
 **** 4.1 All of Time and Space
 **** 4.2 The Yearn
 **** 4.3 Curiosity Shop
@@ -702,7 +711,7 @@ CLOSED: [2022-11-02 Wed 20:33] SCHEDULED: <2022-11-06 Sun>
 
 **** [#A] ST12.X The World Tree :P2022_12:
 *** misc
-**** [#C] The Churchill Years 1.3 Living History ↗ :P2016:plot_yes:
+**** READY [#C] The Churchill Years 1.3 Living History ↗ :P2016:plot_yes:
 :PROPERTIES:
 :rating:   7.9
 :END:
@@ -715,6 +724,7 @@ CLOSED: [2022-11-02 Wed 20:33] SCHEDULED: <2022-11-06 Sun>
 https://m.youtube.com/watch?v=7wrZUFIgiNE
 
 **** Paradis Lost (BBC) :Clara:1CD:P2020:
+**** [#B] NSA audio #15 The Art of Death :Amy:Rory:
 ** comics
 *** IDW
 **** Omnibus vol.1
@@ -756,7 +766,9 @@ CLOSED: [2020-08-16 Sun 17:00]
 **** DONE 11DY2 :War_Doctor:
 CLOSED: [2020-08-16 Sun 17:00]
 
-**** 11DY3
+**** DONE 11DY3
+CLOSED: [2023-02-22 Wed 13:49]
+
 ***** DONE 1. Remembrance
 CLOSED: <2023-02-11 Sat 11:33>
 
@@ -778,7 +790,9 @@ CLOSED: [2023-02-14 Tue 12:53]
 ***** DONE 9,11 Strange Loops
 CLOSED: [2023-02-20 Mon 13:48]
 
-***** 12-13. Hungry Thirsty Roots
+***** DONE 12-13. Hungry Thirsty Roots
+CLOSED: [2023-02-22 Wed 13:49]
+
 *** DWM
 **** DWMGN: The Child of Time
 

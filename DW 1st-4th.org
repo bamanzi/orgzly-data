@@ -65,11 +65,11 @@ Episode 4 missing (but animated in 2013).
 ** audio :🎧:
 *** EA :2CD:
 **** EA S1
-***** [#C] EA1.1 Domain of the Voord :Susan:Ian:Barbara:Voord:plot_yes:DW2023_07_maybe:
+***** READY [#C] EA1.1 Domain of the Voord :Susan:Ian:Barbara:Voord:plot_yes:DW2023_07_maybe:
 
 应该先看老版剧集 1x05 The Keys of Marinus
 
-***** [#D] EA1.2 The Doctor's Tale :Steven:Vicki:plot_yes:
+***** READY [#D] EA1.2 The Doctor's Tale :Steven:Vicki:plot_yes:
 :PROPERTIES:
 :rating:   7.1
 :END:
@@ -155,10 +155,10 @@ SCHEDULED: <2022-03-12 Sat>
 
 *** 1DA (2022-)
 **** 📂2022. The Outlaws :Dodo:P2022_04:plot_yes:
-***** [#D] 22.1 The Outlaws :Dodo:Monk:P2022_04:DW2023_03_doctor:
-SCHEDULED: <2023-03-05 Sun>
+***** READY [#D] 22.1 The Outlaws :Dodo:Monk:P2022_04:DW2023_03_doctor:
+SCHEDULED: <2023-03-04 Sat>
 
-***** [#C] 22.2 The Miniaturist :Dodo:P2022_04:1CD:
+***** READY [#C] 22.2 The Miniaturist :Dodo:P2022_04:1CD:
 **** 📂2023. The Demon Song :Dodo:P2023_02:
 ***** 23.1 The Demon Song :1CD:
 ***** 23.2 The Incherton Incident :2CD:
@@ -307,6 +307,7 @@ CLOSED: [2021-06-26 Sat 09:13]
 :rating:   9.2
 :END:
 
+**** READY [#C] LS2.1b The Fragile Yellow Arc of Fragrance :1CD:plot_yes:
 *** short trips
 **** [#B] ST1.1 Rise and Fall
 **** [#C] ST2.1 - 1963 :Ian:Barbara:Vicki:
@@ -521,7 +522,7 @@ CLOSED: <2021-07-30 Fri 16:14>
 
 与 Highlanders 相关
 
-**** [#C] 5.9 - The Forbidden Time :Polly:plot_yes:
+**** READY [#C] 5.9 - The Forbidden Time :Polly:plot_yes:
 :PROPERTIES:
 :rating:   7.5
 :END:
@@ -602,6 +603,7 @@ SCHEDULED: <2022-06-05 Sun>
 :PROPERTIES:
 :thetimescales: 7.9
 :END:
+
 *** short trips
 **** [#D] 2.2 - The Way Forwards
 :PROPERTIES:
@@ -642,6 +644,7 @@ SCHEDULED: <2022-06-05 Sun>
 :PROPERTIES:
 :rating:   7.2
 :END:
+
 *** BBC
 **** [#B] The Elysian Blade (BBC) :P2019:Jamie:Victoria:1CD:
 **** [#A] The Resurrection Plant (BBC) :P2022_08:Jamie:Zoe:1CD:
@@ -660,14 +663,22 @@ SCHEDULED: <2022-01-30 Sun>
 
 https://m.vk.com/wall-205306392_45
 
-**** MA02. Freedom of the Daleks
+**** [#C] MA02. Freedom of the Daleks
+
+https://m.vk.com/wall-205306392_46
+
 **** MA03. Her House
-**** HALF MA04. The Patient Menace :Cybermen:DW2022_12_doctor:
+**** HALF [#B] MA04. The Patient Menace :Cybermen:DW2022_12_doctor:
 SCHEDULED: <2022-12-14 Wed>
 
 mp3val -f 
 
-**** MA05. The Enemy of the Universe
+https://m.vk.com/wall-205306392_48
+
+**** [#B] MA05. The Enemy of the Universe
+
+https://m.vk.com/wall-205306392_49
+
 * 3rd Doctor :3rd_Dr:
 ** tv :📺:
 *** season 7 :Liz:UNIT:
@@ -725,12 +736,12 @@ CLOSED: [2020-06-30 Tue 14:01]
 **** Marvel DWCC reprint
 ** audio :🎧:
 *** 3DA :BigFinish:3DA:2CD:
-**** TODO [#D] 1.1 - Prisoners of the Lake :Jo:UNIT:P2015:plot_yes:
+**** READY [#D] 1.1 - Prisoners of the Lake :Jo:UNIT:P2015:plot_yes:
 :PROPERTIES:
 :rating:   7.2
 :END:
 
-**** [#C] 1.2 - The Havoc of Empires :Jo:P2015:plot_no:
+**** [#C] 1.2 - The Havoc of Empires :Jo:Yates:P2015:plot_yes:
 :PROPERTIES:
 :rating:   7.6
 :END:
@@ -757,10 +768,10 @@ SCHEDULED: <2022-09-21 Wed>
 :rating:   7.6
 :END:
 
-**** 2DONE [#B] 3DA 4.1 - The Rise of the New Humans (8.0) :Jo:Monk:P2018:D2021_05:plot_no:
+**** 2DONE [#B] 4.1 - The Rise of the New Humans (8.0) :Jo:Monk:P2018:D2021_05:plot_no:
 CLOSED: <2021-05-27 Thu 23:20>
 
-**** 3QTR [#C] 3DA 4.2 - The Tyrants of Logic :Jo:P2018:cybermen:plot_yes:D2022_02_doctor:
+**** 3QTR [#C] 4.2 - The Tyrants of Logic :Jo:P2018:cybermen:plot_yes:D2022_02_doctor:
 CLOSED: [2022-02-12 Sat 15:45] SCHEDULED: <2022-02-13 Sun>
 :PROPERTIES:
 :rating:   7.5
@@ -779,12 +790,12 @@ Inferno
 :rating:   7.4
 :END:
 
-**** [#B] 6.1. Poison of the Daleks (8.0) :Jo:UNIT:P2020:plot_no:
+**** [#B] 6.1 Poison of the Daleks (8.0) :Jo:UNIT:P2020:plot_no:
 :PROPERTIES:
 :rating:   8.0
 :END:
 
-**** READY [#D] 6.2. Operation: Hellfire :Jo:Churchill:P2020:plot_yes:
+**** READY [#D] 6.2 Operation: Hellfire :Jo:Churchill:P2020:plot_yes:
 :PROPERTIES:
 :rating:   7.4
 :END:
@@ -813,7 +824,7 @@ SCHEDULED: <2022-05-28 Sat>
 block原因：太长（3CD）
 
 **** BLOCK 22B. Kaleidoscope :Sarah:Harry:Brigadier:P2022_10:3CD:
-**** TBR 23A. The Return of Jo Jones :Jo:P2023_02:
+**** 23A. The Return of Jo Jones :Jo:P2023_02:1CD:
 ***** 23A.1 Supernature
 ***** 23A.2 The Conservitors
 ***** 23A.3 The Iron Shore
@@ -824,7 +835,7 @@ CLOSED: [2020-08-07 Fri 18:25]
 :rating:   9.0
 :END:
 
-**** BLOCK [#C] LS4.4 The Mega :3CD:
+**** BLOCK [#C] LS4.4 The Mega :Jo:Brigadier:Yates:Benton:3CD:
 :PROPERTIES:
 :rating:   7.6
 :END:
@@ -919,7 +930,7 @@ SCHEDULED: <2022-03-30 Wed>
 ***** [#D] CC6.4 - The Many Deaths of Jo Grant (7.2)
 **** CC
 ***** START [#C] CC2.3 - Old Soldiers :Brigadier:plot_yes_dwg:DW2023_03_maybe:
-SCHEDULED: <2023-03-05 Sun>
+SCHEDULED: <2023-03-11 Sat>
 :PROPERTIES:
 :rating:   7.5
 :END:
@@ -1129,7 +1140,7 @@ CLOSED: [2020-08-03 Mon 23:17]
 **** Marvel DWCC reprint
 ** audio :🎧:
 *** BF 4DA :4DA:BigFinish:
-**** 4DA series 1 :Leela:scripted:P2012:
+**** 4DA series 1 :Leela:scripted:P2012:1CD:
 ***** CANCEL [#E] 1.1 Destination - Nerva †6.5
 CLOSED: [2020-06-28 Sun 13:30]
 
@@ -1160,7 +1171,7 @@ This time, Marshal Grinmal and his belligerent cohorts are ready for them. This 
 
 With the Doctor a prisoner on the Kraals' radiation-blasted home planet of Oseidon, only his companion Leela can save the day — alongside a most unlikely ally.
 
-**** 4DA series 2 :Romana_1:P2013:scripted:
+**** 4DA series 2 :Romana_1:P2013:scripted:1CD:
 ***** DONE [#B] 2.1 The Auntie Matter
 CLOSED: <2021-05-27 Thu 21:05>
 :PROPERTIES:
@@ -1175,7 +1186,7 @@ CLOSED: [2022-01-18 Tue 15:32] SCHEDULED: <2022-01-30 Sun>
 
 ***** [#C] 2.5 - Phantoms of the Deep (7.5)
 ***** [#D] 2.6 - The Dalek Contract / 2.7 The Final Phase (7.0)
-**** 4DA series 3 :Leela:P2014:scripted:
+**** 4DA series 3 :Leela:P2014:scripted:1CD:
 ***** 2DONE [#C] 3.1 - The King of Sontar (7.7) :Sontarans:D2021_09_dr:
 CLOSED: [2020-08-27 Thu 12:44] SCHEDULED: <2021-09-11 Sat>
 
@@ -1206,7 +1217,7 @@ CLOSED: [2020-07-30 Thu 06:48]
 ***** CANCEL [#D] 3.8 - Zygon Hunt (7.0)
 CLOSED: [2020-07-30 Thu 06:50]
 
-**** 4DA series 4 :Leela:P2015:
+**** 4DA series 4 :Leela:P2015:1CD:
 ***** CANCEL [#E] 4.1 +The Exxilons+ (6.5)
 ***** READY [#C] 4.2 The Darkness of Glass (7.5) :plot_yes:
 SCHEDULED: <2023-02-04 Sat>
@@ -1223,11 +1234,11 @@ CLOSED: [2021-07-27 Tue 23:11]
 SCHEDULED: <2022-06-16 Thu>
 
 ***** [#D] 4.6 The Cloisters of Terror (7.4)
-***** [#D] 4.7 The Fate of Krelos (7.2) :plot_yes:
+***** READY [#D] 4.7 The Fate of Krelos (7.2) :plot_yes:
 ***** CANCEL [#F] 4.8 Return to Telos (5.8)
 CLOSED: [2020-08-20 Thu 13:56]
 
-**** 4DA series 5 :Romana_2:P2016:
+**** 4DA series 5 :Romana_2:P2016:1CD:
 ***** [#D] 5.1 - Wave of Destruction (7.1)
 ***** [#D] 5.2 - The Labyrinth of Buda Castle (7.1)
 ***** [#C] 5.3 - The Paradox Planet (7.6) / 5.4 - Legacy of Death (7.6)
@@ -1236,7 +1247,7 @@ CLOSED: <2021-07-01 Thu 16:39>
 
 ***** [#D] 5.7 - The Pursuit of History (7.3)
 ***** [#D] 5.8 - Casualties of Time (7.1)
-**** 4DA series 6 :Romana_2:P2017:
+**** 4DA series 6 :Romana_2:P2017:1CD:
 ***** CANCEL [#E] 6.1 The Beast of Kravenos :Jago:Litefoot:plot_yes:
 ***** READY [#D] 6.2 - The Eternal Battle (7.3) :Sontarans:plot_yes:
 ***** CANCEL [#E] 6.3 The Silent Scream :plot_yes:
@@ -1245,14 +1256,14 @@ CLOSED: <2021-07-01 Thu 16:39>
 ***** [#D] 6.6 - Subterranea (7.1)
 ***** [#D] 6.8 - The Skin of the Sleek (7.4)
 ***** [#D] 6.9 - The Thief Who Stole Time (7.2)
-**** 4DA series 7 :Leela:P2018:
+**** 4DA series 7 :Leela:P2018:1CD:
 ***** 3QTR [#C] 7.1 The Sons of Kaldor (7.7) :Kaldor:Robots:DW2022_12_doctor:
 CLOSED: [2022-12-13 Tue 08:58] SCHEDULED: <2022-12-13 Tue>
 
 ***** [#C] 7.2 The Crowmarsh Experiment (7.6)
 ***** [#C] 7.6 The Bad Penny (7.5)
 ***** TODO [#C] 7.7/7.8 - Kill the Doctor! / The Age of Sutekh (7.8/7.0) :Sutekh:2CD:
-**** 4DA series 8 :P2019:Ann:
+**** 4DA series 8 :P2019:Ann:1CD:
 ***** plot
 
 一只晗玥吹泡泡 20:36:05
@@ -1298,7 +1309,7 @@ CLOSED: [2020-07-15 Wed 19:13]
 ***** [#C] 10.3 The Tribulations of Tahdeus Nook
 ***** [#E] 10.4 The Primeval Design
 **** 📂4DA series 11 :P2022:2CD:
-***** TODO [#A] 11.1 Blood of the Time Lords :Master_early:plot_yes:
+***** READY [#A] 11.1 Blood of the Time Lords :Master_early:plot_yes:
 ***** 3QTR [#B] 11.2 The Ravencliff Witch :Margaret:plot_yes:DW2023_02_doctor:
 CLOSED: <2023-02-10 Fri 14:02> SCHEDULED: <2023-02-06 Mon 08:42>
 
@@ -1365,7 +1376,7 @@ mp3val fix
 
 【【广播剧翻译】四任对抗Vashta Nerada 老博士新怪物 201 Night of Vashta Nerada-哔哩哔哩】 https://b23.tv/YCrcZhV
 
-**** [#D] CDNM3.2 The Tivolian Who Knew Too Much :Leela:plot_yes:1CD:
+**** READY [#D] CDNM3.2 The Tivolian Who Knew Too Much :Leela:plot_yes:1CD:
 **** [#B] Collision Course (The Legacy of Time #6) :Leela:Romana_2:
 :PROPERTIES:
 :rating:   8.3
@@ -1504,7 +1515,7 @@ CLOSED: <2018-07-13 Fri 08:03>
 【【中英熟肉】藏在大衣里的脆皮马w（I am the Master广播剧预告)-哔哩哔哩】https://b23.tv/IGxQAU
 
 ** audio
-*** TODO [#C] CC6.1 Tales From the Vault :Ruth:UNIT:Jo:Romana_1:plot_yes:
+*** LATER [#C] CC6.1 Tales From the Vault :Ruth:UNIT:Jo:Romana_1:plot_yes:
 SCHEDULED: <2022-08-06 Sat>
 :PROPERTIES:
 :rating:   7.5

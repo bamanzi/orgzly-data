@@ -1309,7 +1309,6 @@
 *** 3QTR [#E] Jenny2.2. Altered Status :Jenny:
 *** 3QTR [#C] Rory1.1 Gladiator :Rory:
 *** HALF [#D] KC1 - Occam's Razor :Kaldor_Robots:
-* DW 2022-07
 ** DW 2022-07-doctor
 
 | 059 | MR038 The Church and the Crown | 5th  | Peri, Erimem |
@@ -1336,7 +1335,6 @@
 ** DW 2022-07-extra
 *** HALF [#C] CC1.3 The Blue Tooth(Liz, 3rd) :Liz:Cybermen:
 *** 3QTR [#E] UNIT6.1 Game Theory :Sam_Bishop:Osgood:UNIT:
-* DW 2022-08
 ** DW 2022-08-doctor
 
 | 060 | MR006 The Marian Conspiracy | 6th | Evelyn |
@@ -1359,7 +1357,6 @@
 *** HALF KC #2 Death's Head :Kaldor_Robots:
 *** HALF [#D] Rose 1.4 The Last Party on Earth
 *** HALF [#E] Missy 2.2 Brimstone and Terror :Missy:Master:bilibili:
-* DW 2022-09
 ** DW 2022-09-doctor
 
 | 061 | MR079 Night Thoughts | 7th | Ace, Hex |
@@ -1380,7 +1377,6 @@
 *** DONE [#A] Rory 1.3 I, Rorius :Rory:
 *** 2DONE [#B] Robots 2.1 - The Robots of War
 *** 3QTR [#C] Gallifrey 4.1 Reborn
-* DW 2022-10
 ** DW 2022-10-doctor
 
 | 062 | MR103 The Girl Who Never Was | 8th | Charley, Cybermen |
@@ -1401,7 +1397,6 @@
 *** HALF [#B] _Master! 1.2 Prey_ :Master_bald:
 *** HALF [#A] _Master! 1.3 Vengeance_ :Master_bald:
 *** 3QTR [#A] Gallifrey 4.2 Disassembled
-* DW 2022-11
 ** DW 2022-11-doctor
 *** DONE [#A] EA5.1  The Dalek Occupation of Winter :1st_Dr:Steven:Vicki:
 *** START [#D] CDNM 3.1 The House that Hoxx Built :3rd_Dr:Sarah:
@@ -1420,11 +1415,9 @@
 *** 2DONE [#B] WM5.1 The Edge of Redemption :Master_war:
 *** HALF [#B] Robots 2.2 Toos and Poul :Liv:
 *** 3QTR [#B] Gallifrey 4.3 Annihilation
-* DW 2022-12
-
+** DW 2022-12-doctor
 | 063 | MR133 City of Spires | 6th | Jamie |
 
-** DW 2022-12-doctor
 *** 3QTR MA04 The Patient Menace :fan_made:2nd_Dr:
 *** 3QTR [#C] 4DA 7.1 Sons of Kaldor :4th_Dr:Kaldor_Robots:
 *** HALF [#D] MR133 City of Spires :6th_Dr:Jamie:
@@ -1446,9 +1439,9 @@
 | 065 | MR012. The Fires of Vulcan | 7th | Mel  |
 
 *** HALF [#A] CC3.5 Home Truths :1st_Dr:Sara_Kingdom:
-*** 3QTR [#C] 7DA7.1 The Unzal Incursion :3rd_Dr:Liz:Brig:
+*** 3QTR [#C] 7DA7.1 The Unzal Incursion :3rd_Dr:Liz:Brigadier:2CD:
 *** 3QTR [#C] MR267a Thin Time :5th_Dr:11th_Dr:
-*** 3QTR [#B] MR012. The Fires of Vulcan :7th_Dr:Mel:
+*** 3QTR [#B] MR012. The Fires of Vulcan :7th_Dr:Mel:2CD:
 *** 2DONE 9DA5.1 Station to Station :9th_Dr:bilibili:
 *** HALF [#D] WDB 2.1 Consequences :War_Dr:
 ** dw2023-01-spinoffs
@@ -1462,59 +1455,74 @@
 *** START [#D] River7.2 Abbey of Heretics :River:
 * DW2023-02
 ** dw2023-02-doctor
-
-*** [#C] CC10.1 The Mouthless Dead                   :2nd_Dr:Jamie:Polly:Ben:
-*** [#B] 4DA11.2. The Ravencliff Witch :4th_Dr:
-*** [#B] MR105 The Condemned                                 :6th_Dr:Charley:
-*** [#A] 8DDC3.1 Absent Friends :8th_Dr:Liv:Helen:
-*** [#D] DU2.1 Cycle of Destruction #bilibili :10th_Dr:Anya:Mark_7:
-*** [#B] BSNA 7.3 Übermensch :Unbound:Benny:
+*** HALF [#C] CC10.1 The Mouthless Dead :2nd_Dr:Jamie:Polly:Ben:
+*** 3QTR [#B] 4DA11.2. The Ravencliff Witch :4th_Dr:Margaret:2CD:
+*** 3QTR [#B] MR105 The Condemned :6th_Dr:Charley:2CD:
+*** 3QTR [#A] 8DDC3.1 Absent Friends :8th_Dr:Liv:Helen:
+*** HALF [#D] DU2.1 Cycle of Destruction #bilibili :10th_Dr:Anya:Mark_7:
+*** HALF [#B] BSNA 7.3 Übermensch :Unbound:Benny:
 ** dw2023-02-spinoffs
-*** [#B] TW6.12 Thoughts and Prayers
-*** [#A] TW44. Rhys and Ianto's Excellent Barbeque               :Rhys:Ianto:
-*** [#C] UNIT3.4 In Memory Alone
-*** [#C] PG2.3 Spring-Heeled Jack
-*** [#A] WM5.4 The Cognition Shift :Master_war:8th_Dr:
-*** [#E] Gallifrey 5.1 Emancipation :Romana_2:Leela:
-*** [#C] Lady Christina 1.1 - It Takes a Thief                   :Sam_Bishop:
-
+*** HALF [#B] TW6.12 Thoughts and Prayers
+*** 3QTR [#A] TW44. Rhys and Ianto's Excellent Barbeque      :Rhys:Ianto:
+*** START [#C] UNIT3.4 In Memory Alone
+*** START [#C] PG2.3 Spring-Heeled Jack
+*** 3QTR [#A] WM5.4 The Cognition Shift :Master_war:8th_Dr:
+*** 3QTR [#E] Gallifrey 5.1 Emancipation :Romana_2:Leela:
+*** 3QTR [#C] Lady Christina 1.1 - It Takes a Thief :Sam_Bishop:
 * DW2023-03
 ** dw2023-03-doctr
-*** [#D] 1DA22.1 The Outlaws                               :1st_Dr:Dodo:Monk:
-*** ST7.x Landbound #bilibili                                        :3rd_Dr:
-*** [#C] MR071 The Council of Nicaea                     :5th_Dr:Peri:Erimem:
-*** [#C] MR226b World Apart                                  :7th_Dr:Ace:Hex:
-*** [#B] 9DA5.3 Auld lang Syne                                       :9th_Dr:
-*** BSNA 7.4 Auf Wiedersehen 再见                             :Unbound:Benny:
-
+*** [#D] 1DA22.1 The Outlaws :1st_Dr:Dodo:Monk:2CD:
+*** [#C] CC2.3 Old Soldiers :3rd_Dr:Brigadier:
+*** [#C] MR071 The Council of Nicaea :5th_Dr:Peri:Erimem:2CD:
+*** [#C] DoRS2.1 The Unknown :7th_Dr:River:
+*** [#B] 9DA5.3 Auld lang Syne :9th_Dr:
+*** BSNA 7.4 Auf Wiedersehen 再见 :Unbound:Benny:
 ** dw2023-03-spinoff
-*** [#B] TW Soho: Parasite #1-3                                      :Norton:
-*** [#D] John #2 Escape from Nebazz                               :John:Jack:
-*** [#B] CM 1.4 State of Emergency
-*** [#D] J&L 7.2 The Night of 1000 Stars                      :Jago:Litefoot:
-*** [#D] Missy 2.3 - Treason and Plot                                 :Missy:
-*** /[#D] River 7.2 Abbey of Heretics/
-*** [#E] Gallifrey 5.2 - Evolution
-*** [#D] Lady 1.2 - Skin Deep
+*** [#B] TW Soho #1: Parasite (p1-p3)                       :Norton:Andy:3CD:
+*** [#D] John #2 Escape from Nebazz :John:Jack:
 
+*** [#B] CM 1.4 State of Emergency
+*** [#D] J&L 7.2 The Night of 1000 Stars :Jago:Litefoot:
+*** [#D] Missy 2.3 Treason and Plot :Missy:
+*** ? [#D] River 7.2 Abbey of Heretics/
+*** [#E] Gallifrey 5.2 Evolution
+*** [#D] Lady 1.2 Skin Deep
+* DW2023-04
+** dw2023-04-doctor
+*** [#B] Wrath of the Ice Warriors :2nd_Dr:2CD:
+*** [#A] STR3.4 The Warren Legacy :4th_Dr:Romana_1:
+*** [#B] 6DLA #4 The Brink of Death                              :6th_Dr:Mel:
+*** [#C] 8DDC 3.2 The Eighth Piece / 3.3 The Doomsday Chronometer :8th_Dr:Liv:Helen:River:
+*** [#A] DU2.2 - The Trojan Dalek #bilibili :10th_Dr:Anya:Mark_7:
+*** [#D] WDB 2.2 - Destroyer :War_Doctor:
+** dw2023-04-spinoffs
+*** [#B] TW Soho: Parasite (p4-p6)                          :Norton:Andy:3CD:
+
+*** [#A] TW51 The Five People You Kill in Middlebrough               :Yvonne:
+*** [#B] UNIT 1.1 Vanguard
+*** ?benny
+*** [#B] Missy 2.4 Too Many Masters :Missy:Monk:
+*** [#C] PG 3.1 Family Matters
+*** [#D] Gallifrey 5.3 Arbiration :Romana_2:Leela:Narvin:
+*** [#D] Lady 1.3 - Portrait of a Lady
 * pending
 ** doctor
-*** CANCEL [#C] EA4.1 The Night Witches :2nd_Dr:Jamie:Polly:Ben:
-
-*** [#C] 2DA22.2 Wrath of the Ice Warriors :2nd_Dr:Brigadier:ice_warriors:2CD:
+*** [#C] EA4.1 The Night Witches :2nd_Dr:Jamie:Polly:Ben:
+*** ST7.x Landbound #bilibili :3rd_Dr:
 *** [#D] 3DA 1.1 Prisoners of the Lake :3rd_Dr:Jo:
 *** [#C] 4DA 4.2 The Darkness of Glass :4th_Dr:Leela:
 *** [#B] MR159 The Emerald Tiger :5th_Dr:Nyssa:
+*** [#D] 22A.1 The Rotting Deep                             :6th_Dr:Mel:Hebe:
+
 *** [#C] MR194. The Rani Elite :6th_Dr:Peri:Rani:
-*** CANCEL [#C] 6DnP #1 The Headless Ones 1cd :6th_Dr:Peri:
-
+*** [#C] 6DnP #1 The Headless Ones 1cd :6th_Dr:Peri:
 *** [#A] NA01 Damaged Goods :7th_Dr:Benny:Ace:
-*** CANCEL [#C] 8DDC3.2 The Eighth Piece :8th_Dr:Liv:Helen:River:
-
 *** [#C] ST9.9 Dead Media :12th_Dr:
-*** [#B] BSNA 7.4 Auf Wiedersehen 再见 :Unbound:Benny:
 ** spinoffs
-***  [#A] TW43 The Three Monkeys (Owen, Andy)
-*** [#B] CM 1.4 State of Emergency
+*** [#A] TW43 The Three Monkeys :Owen:Andy:
+
+*** [#C] TW61. War Chest :Tosh:
+
 *** KC #4 taren Capel :Kaldor_Robots:
 *** [#C] River 6.4 The Talents of Grel :River:
+*** [#D] J&L7.2 The Night of 1000 Stars :Jago:Litefoot:
