@@ -358,6 +358,14 @@ CLOSED: [2022-01-05 Wed 00:05]
 :douban:   9.0
 :END:
 
+***** DONE pt1: Eto Demerzel
+CLOSED: <2023-02-19 Sun 08:17>
+
+***** DONE pt2: Cleon I
+CLOSED: <2023-02-26 Sun 21:41>
+
+***** START pt3: Dors Venabili
+***** pt4: Wanda Seldon
 **** [#A] 6.基地边缘 :P1982:
 :PROPERTIES:
 :goodreads: 4.15

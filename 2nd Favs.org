@@ -138,6 +138,12 @@ CLOSED: [2023-02-15 Wed 20:54]
 ***** DONE 2x08
 CLOSED: <2023-02-18 Sat 16:14>
 
+***** DONE 2x09
+CLOSED: [2023-02-23 Thu 20:03]
+
+***** DONE 2x10
+CLOSED: [2023-02-24 Fri 07:45]
+
 ** Preacher
 *** comics :📚:
 **** DONE book 1 (1-12)
@@ -210,6 +216,12 @@ CLOSED: [2023-02-17 Fri 19:42]
 
 ***** DONE 2x08
 CLOSED: [2023-02-17 Fri 20:28]
+
+***** DONE 2x09
+CLOSED: [2023-02-26 Sun 19:36]
+
+***** DONE 2x10
+CLOSED: [2023-02-26 Sun 20:27]
 
 ** V for Vendetta ...
 ** Fables :hanzify:
@@ -523,6 +535,12 @@ CLOSED: [2022-04-11 Mon 08:08]
 CLOSED: [2022-04-13 Wed 08:14]
 
 *** LATER 13x17-18,20-22 :Gabriel:
+**** DONE 13x17
+CLOSED: [2023-02-25 Sat 08:32]
+
+**** DONE 13x18
+CLOSED: [2023-02-25 Sat 21:16]
+
 *** DONE 13x19
 CLOSED: [2022-04-14 Thu 19:04]
 
