@@ -144,6 +144,18 @@ CLOSED: [2023-02-23 Thu 20:03]
 ***** DONE 2x10
 CLOSED: [2023-02-24 Fri 07:45]
 
+***** DONE 2x11
+CLOSED: <2023-03-01 Wed 08:34>
+
+***** DONE 2x12
+CLOSED: [2023-03-01 Wed 22:10]
+
+***** DONE 2x13
+CLOSED: [2023-03-04 Sat 10:15]
+
+***** DONE 2x14
+CLOSED: [2023-03-04 Sat 19:02]
+
 ** Preacher
 *** comics :📚:
 **** DONE book 1 (1-12)
@@ -178,7 +190,7 @@ CLOSED: [2022-03-14 Mon 22:34]
 CLOSED: [2022-03-20 Sun 10:45]
 
 **** vol.7 Salvation (41-50)
-*** tv
+*** tv :📺:
 **** S1 :P2016:
 ***** DONE 1x01, 02, 03
 CLOSED: [2022-01-11 Tue 08:22]

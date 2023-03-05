@@ -339,7 +339,7 @@ CLOSED: [2022-01-03 Mon 08:41]
 ***** DONE 骡
 CLOSED: [2023-01-11 Wed 13:17]
 
-**** [#A] 3. 第二基地 :P1953:
+**** LATER [#A] 3. 第二基地 :P1953:
 :PROPERTIES:
 :goodreads: 4.25
 :douban:   9.2
@@ -364,8 +364,10 @@ CLOSED: <2023-02-19 Sun 08:17>
 ***** DONE pt2: Cleon I
 CLOSED: <2023-02-26 Sun 21:41>
 
-***** START pt3: Dors Venabili
-***** pt4: Wanda Seldon
+***** DONE pt3: Dors Venabili
+CLOSED: [2023-03-03 Fri 09:22]
+
+***** LATER pt4: Wanda Seldon
 **** [#A] 6.基地边缘 :P1982:
 :PROPERTIES:
 :goodreads: 4.15
@@ -384,7 +386,7 @@ CLOSED: [2022-03-05 Sat 23:24]
 **** DONE The Caves of Steel 钢窟 :P1958:
 CLOSED: [2023-01-21 Sat 22:50]
 
-**** The Naked Sun 裸阳 :P1958:
+**** LATER The Naked Sun 裸阳 :P1958:
 **** The Robots of Dawn :P1983:
 **** Robots and Empire :P1985:
 *** Galactic Empire 银河帝国系列
