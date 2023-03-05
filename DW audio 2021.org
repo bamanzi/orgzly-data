@@ -1496,8 +1496,7 @@
 *** [#A] DU2.2 - The Trojan Dalek #bilibili :10th_Dr:Anya:Mark_7:
 *** [#D] WDB 2.2 - Destroyer :War_Doctor:
 ** dw2023-04-spinoffs
-*** [#B] TW Soho: Parasite (p4-p6)                          :Norton:Andy:3CD:
-
+*** [#B] TW Soho: Parasite (p4-p6)                          :Norton:Andy:
 *** [#A] TW51 The Five People You Kill in Middlebrough               :Yvonne:
 *** [#B] UNIT 1.1 Vanguard
 *** ?benny
@@ -1505,15 +1504,30 @@
 *** [#C] PG 3.1 Family Matters
 *** [#D] Gallifrey 5.3 Arbiration :Romana_2:Leela:Narvin:
 *** [#D] Lady 1.3 - Portrait of a Lady
+* DW2023-05
+** dw2023-05-doctor
+*** [#C] LS2.1b The Fragile Yellow Arc of Fragrance    :1st_Dr:Susan:Ian:Barbara:
+*** [#D] 3DA1.1 Prisoners of the Lake                :3rd_Dr:Jo:plot_yes:2cd:
+*** [#B] CC4.05 - Ringpullworld                             :5th_Dr:Turlough:
+*** ? [#D] MR013 The Shadow of the Scourge             :7th_Dr:Benny:Ace:2cd:
+*** [#A] 9DA 6.1 Salvation Nine                                      :9th_Dr:
+*** [#A] 11DC 3.1 The Ineritance                                    :11th_Dr:
+** dw2023-05-spinoffs
+*** [#B] TW BBC #2 Asylum
+*** [#C] TW61 War Chest                                                :Tosh:
+*** [#C] UNIT 1.2 Earthfall
+*** [#D] J&L7.2 The Night of 1000 Stars                 :Jago:Litefoot:Leela:
+*** [#A] WM6.1 The Sincerest Form of Flattery                    :Master_war:
+*** [#B] BSBOX1.2 The Temple of Questions                             :Benny:
+*** [#C] Lady 1.4 - Death on the Mile
 * pending
 ** doctor
 *** [#C] EA4.1 The Night Witches :2nd_Dr:Jamie:Polly:Ben:
-*** ST7.x Landbound #bilibili :3rd_Dr:
+*** [#C] ST7.x Landbound #bilibili                                   :3rd_Dr:
 *** [#D] 3DA 1.1 Prisoners of the Lake :3rd_Dr:Jo:
 *** [#C] 4DA 4.2 The Darkness of Glass :4th_Dr:Leela:
 *** [#B] MR159 The Emerald Tiger :5th_Dr:Nyssa:
 *** [#D] 22A.1 The Rotting Deep                             :6th_Dr:Mel:Hebe:
-
 *** [#C] MR194. The Rani Elite :6th_Dr:Peri:Rani:
 *** [#C] 6DnP #1 The Headless Ones 1cd :6th_Dr:Peri:
 *** [#A] NA01 Damaged Goods :7th_Dr:Benny:Ace:
@@ -1521,8 +1535,6 @@
 ** spinoffs
 *** [#A] TW43 The Three Monkeys :Owen:Andy:
 
-*** [#C] TW61. War Chest :Tosh:
-
 *** KC #4 taren Capel :Kaldor_Robots:
-*** [#C] River 6.4 The Talents of Grel :River:
-*** [#D] J&L7.2 The Night of 1000 Stars :Jago:Litefoot:
+*** [#C] River 6.4 The Talents of Grel                           :River:Jago:
+

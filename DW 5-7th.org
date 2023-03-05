@@ -788,7 +788,7 @@ SCHEDULED: <2023-03-01 Wed>
 **** 📂Purity Undreamed :P2022_08:
 *** The Lost Stories
 **** The Lost Stories s1 :Peri:
-***** [#E] LS1.1 The Nightmare Fair :scripted:
+***** [#E] LS1.1 The Nightmare Fair :scripted:ToyMaker:
 :PROPERTIES:
 :rating:   6.8
 :END:
@@ -964,7 +964,7 @@ SCHEDULED: <2023-01-09 Mon 21:19>
 
 http://www.drwhoguide.com/who_bf12.htm
 
-***** 13. The Shadow of the Scourge :Ace:Benny:
+***** [#D] 13. The Shadow of the Scourge :Ace:Benny:
 ***** HALF [#D] 021. Dust Breeding :Master_decayed:D2021_10_master:
 SCHEDULED: <2021-11-07 Sun>
 :PROPERTIES:

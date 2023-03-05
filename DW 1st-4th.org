@@ -69,7 +69,7 @@ Episode 4 missing (but animated in 2013).
 
 应该先看老版剧集 1x05 The Keys of Marinus
 
-***** READY [#D] EA1.2 The Doctor's Tale :Steven:Vicki:plot_yes:
+***** READY [#D] EA1.2 The Doctor's Tale :Ian:Barbara:Vicki:plot_yes:
 :PROPERTIES:
 :rating:   7.1
 :END:
@@ -929,7 +929,7 @@ SCHEDULED: <2022-03-30 Wed>
 ***** [#D] CC6.0b - The Mists of Time (7.4)
 ***** [#D] CC6.4 - The Many Deaths of Jo Grant (7.2)
 **** CC
-***** START [#C] CC2.3 - Old Soldiers :Brigadier:plot_yes_dwg:DW2023_03_maybe:
+***** [#C] CC2.3 - Old Soldiers :Brigadier:plot_yes_dwg:DW2023_03_doctor:
 SCHEDULED: <2023-03-11 Sat>
 :PROPERTIES:
 :rating:   7.5
@@ -984,7 +984,7 @@ SCHEDULED: <2022-07-16 Sat>
 :END:
 
 *** BBC :BBC:📄:🎧:
-**** Horrors of War :Jo:Annie:WW1:P2018:1CD:
+**** [#C] Horrors of War :Jo:Annie:WW1:P2018:1CD:
 **** new short stories
 ***** DONE The Spear of Destiny (/12 Doctors, 12 Stories/ #3) :🎧:
 CLOSED: [2020-06-18 Thu 14:24]
@@ -1317,8 +1317,8 @@ CLOSED: <2023-02-10 Fri 14:02> SCHEDULED: <2023-02-06 Mon 08:42>
 ***** [#D] 11.4 Shellshock
 ***** [#C] 11.5 Peake Season :1CD:
 **** TBR 4DA series 12 :Leela:Margaret:P2023:
-***** 12.1 Ice Heist :Ice_Warriors:P2023_03:
-***** 12.2 Antillia the Lost :P2023_03:
+***** 12.1 Ice Heist :Ice_Warriors:P2023_03:2CD:
+***** 12.2 Antillia the Lost :P2023_03:2CD:
 ***** 12.3 The Wizard of Time :P2023_06:
 ***** 12.4 The Friendly Invasion :P2023_06:
 ***** 12.5 Stone Cold :Weeping_Angels:P2023_06:
