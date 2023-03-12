@@ -212,7 +212,7 @@ CLOSED: [2022-09-21 Wed 22:49]
 ***** NEXT 1x03 4.50 From Paddington
 SCHEDULED: <2022-10-22 Sat>
 
-***** NEXT2 1x04 A Murder Is Announced
+***** NEXT 1x04 A Murder Is Announced
 SCHEDULED: <2022-10-29 Sat>
 
 **** Season 6 :P2013:

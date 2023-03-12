@@ -1332,7 +1332,7 @@ CLOSED: [2022-10-01 Sat 22:05] SCHEDULED: <2022-10-05 Wed>
 CLOSED: [2022-10-02 Sun 20:58]
 
 ** movies
-*** NA The Death of Superman :DCAMU:P2018:
+*** BLOCK The Death of Superman :DCAMU:P2018:
 SCHEDULED: <2022-10-04 Tue>
 
 https://m.80sgod.com/movie/23048

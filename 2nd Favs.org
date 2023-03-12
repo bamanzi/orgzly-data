@@ -156,6 +156,8 @@ CLOSED: [2023-03-04 Sat 10:15]
 ***** DONE 2x14
 CLOSED: [2023-03-04 Sat 19:02]
 
+***** 2x15
+***** 2x16
 ** Preacher
 *** comics :📚:
 **** DONE book 1 (1-12)
@@ -204,7 +206,7 @@ CLOSED: [2022-01-19 Wed 22:03]
 ***** DONE 1x08, 09, 10
 CLOSED: [2022-01-21 Fri 23:07]
 
-**** S2 :P2017:
+**** DONE S2 :P2017:
 
 13 episodes
 
@@ -234,6 +236,15 @@ CLOSED: [2023-02-26 Sun 19:36]
 
 ***** DONE 2x10
 CLOSED: [2023-02-26 Sun 20:27]
+
+***** DONE 2x11
+CLOSED: <2023-03-10 Fri 20:15>
+
+***** DONE 2x12
+CLOSED: [2023-03-10 Fri 21:08]
+
+***** DONE 2x13
+CLOSED: [2023-03-12 Sun 18:45] SCHEDULED: <2023-03-12 Sun>
 
 ** V for Vendetta ...
 ** Fables :hanzify:
@@ -553,10 +564,21 @@ CLOSED: [2023-02-25 Sat 08:32]
 **** DONE 13x18
 CLOSED: [2023-02-25 Sat 21:16]
 
+**** DONE 13x20
+CLOSED: [2023-03-10 Fri 22:41] SCHEDULED: <2023-03-12 Sun>
+
+**** 13x21
+SCHEDULED: <2023-03-12 Sun>
+
+**** 13x22
+SCHEDULED: <2023-03-18 Sat>
+
 *** DONE 13x19
 CLOSED: [2022-04-14 Thu 19:04]
 
 *** 13x23
+SCHEDULED: <2023-03-18 Sat>
+
 ** S14
 
 20 episodes
