@@ -155,7 +155,7 @@ SCHEDULED: <2022-03-12 Sat>
 
 *** 1DA (2022-)
 **** 📂2022. The Outlaws :Dodo:P2022_04:plot_yes:
-***** READY [#D] 22.1 The Outlaws :Dodo:Monk:P2022_04:DW2023_03_doctor:
+***** HALF [#D] 22.1 The Outlaws :Dodo:Monk:P2022_04:DW2023_03_doctor:
 SCHEDULED: <2023-03-04 Sat>
 
 ***** READY [#C] 22.2 The Miniaturist :Dodo:P2022_04:1CD:
@@ -585,7 +585,7 @@ SCHEDULED: <2021-10-03 Sun>
 **** 📂CC14 - The Second Doctor: Volume Three :Jamie:P2022_04:
 ***** [#A] 14.1 The Death of the Daleks :Daleks:
 ***** [#C] 14.2 The Phantom Piper
-***** [#A] 14.3 The Prints of Denmark :Zoe:
+***** [#A] 14.3 The Prints of Denmark :Zoe:Monk:
 ***** [#D] 14.4 The Deepest Tragedian :Zoe:
 *** misc
 **** HALF [#D] LS4.2 - The Queen of Time :Jamie:Zoe:plot_yes:D2022_06_doctor:2CD:
@@ -599,7 +599,7 @@ SCHEDULED: <2022-06-05 Sun>
 :rating:   8.2
 :END:
 
-**** [#C] DotD#2 - Shadow of Death
+**** [#B] DotD#2 - Shadow of Death :Jamie:Zoe:
 :PROPERTIES:
 :thetimescales: 7.9
 :END:
@@ -1422,7 +1422,7 @@ CLOSED: [2020-06-25 Thu 21:56]
 :rating:   7.9
 :END:
 
-***** [#B] STR3.4 The Warren Legacy :Romana_1:P2015:
+***** [#B] STR3.4 The Warren Legacy :Romana_1:P2015:DW2023_04_doctor:
 :PROPERTIES:
 :rating:   7.9
 :END:

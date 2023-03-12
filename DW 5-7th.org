@@ -871,8 +871,10 @@ SCHEDULED: <2023-03-01 Wed>
 【【神秘博士广播剧熟肉】The Stuff of Nightmares 303 Together in Eclectic Dreams 共做一梦-哔哩哔哩】 https://b23.tv/e3EmGiB
 
 **** The Diary of River Song: Series 2
-***** 2.3 World Enough and Time
-***** 2.4 The Eye of the Storm
+***** 2.3 World Enough and Time :DW2023_04_doctor:
+SCHEDULED: <2023-03-25 Sat>
+
+***** 2.4 The Eye of the Storm :DW2023_04_doctor:
 **** [#B] ST4.6 - To Cut a Blade of Grass :Peri:plot_no:
 **** [#C] DotD #6 Trouble in Paradise :Peri:plot_no:1CD:
 *** BBC
@@ -1239,7 +1241,7 @@ block 原因：太长（3小时多）
 :rating:   6.9
 :END:
 
-**** START [#C] River2.1 The Unknown :DW2023_03_doctor:
+**** HALF [#C] River2.1 The Unknown :plot_yes:DW2023_03_doctor:
 SCHEDULED: <2023-03-04 Sat>
 
 **** READY [#B] ST6.X - Forever Fallen :Ace:plot_yes:

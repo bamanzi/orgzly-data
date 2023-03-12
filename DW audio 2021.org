@@ -1462,10 +1462,10 @@
 *** HALF [#D] DU2.1 Cycle of Destruction #bilibili :10th_Dr:Anya:Mark_7:
 *** HALF [#B] BSNA 7.3 Übermensch :Unbound:Benny:
 ** dw2023-02-spinoffs
-*** HALF [#B] TW6.12 Thoughts and Prayers
-*** 3QTR [#A] TW44. Rhys and Ianto's Excellent Barbeque      :Rhys:Ianto:
-*** START [#C] UNIT3.4 In Memory Alone
-*** START [#C] PG2.3 Spring-Heeled Jack
+*** 3QTR [#B] TW6.12 Thoughts and Prayers
+*** 3QTR [#A] TW44. Rhys and Ianto's Excellent Barbeque :Rhys:Ianto:
+*** HALF [#C] UNIT3.4 In Memory Alone
+*** HALF [#C] PG2.3 Spring-Heeled Jack
 *** 3QTR [#A] WM5.4 The Cognition Shift :Master_war:8th_Dr:
 *** 3QTR [#E] Gallifrey 5.1 Emancipation :Romana_2:Leela:
 *** 3QTR [#C] Lady Christina 1.1 - It Takes a Thief :Sam_Bishop:

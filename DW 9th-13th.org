@@ -76,7 +76,7 @@ CLOSED: [2023-01-23 Mon 08:22] SCHEDULED: <2023-01-10 Tue 08:39>
 ***** CANCEL [#F] 5.2 The False Dimitry
 CLOSED: [2022-07-02 Sat 23:47]
 
-***** READY [#B] 5.3 Auld Lang Syne :bilibili:DW2023_03_doctor:
+***** HALF [#B] 5.3 Auld Lang Syne :bilibili:DW2023_03_doctor:
 SCHEDULED: <2023-03-11 Sat>
 
 【【神秘博士广播剧熟肉】Back to Earth 503 Auld Lang Syne 逝去已久的时光-哔哩哔哩】 https://b23.tv/1NrKKIN
@@ -99,7 +99,10 @@ SCHEDULED: <2023-03-11 Sat>
 【【神秘博士广播剧熟肉】Hidden Depths 703 Flatpack 平板家居-哔哩哔哩】 https://b23.tv/ElXr5Mq
 
 **** S2.4 Shades of Fear :P2023_02:
-***** 8.1 The Colour of Terror
+***** READY 8.1 The Colour of Terror :bilibili:
+
+【【神秘博士广播剧熟肉】Shades of Fear 801 The Colour of Terror 恐怖之色-哔哩哔哩】 https://b23.tv/upXcyWs
+
 ***** 8.2 The Blooming Menace
 ***** 8.3 Red Darkness :Vashta_Nerada:
 *** 9DC
