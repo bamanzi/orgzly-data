@@ -645,6 +645,10 @@ SCHEDULED: <2022-06-05 Sun>
 :rating:   7.2
 :END:
 
+*** TV Soundtracks
+**** LTV4.4 The Abominable Snowmen :Jamie:Victoria:DW2023_04_doctor:
+SCHEDULED: <2023-04-01 Sat>
+
 *** BBC
 **** [#B] The Elysian Blade (BBC) :P2019:Jamie:Victoria:1CD:
 **** [#A] The Resurrection Plant (BBC) :P2022_08:Jamie:Zoe:1CD:
@@ -929,14 +933,6 @@ SCHEDULED: <2022-03-30 Wed>
 ***** [#D] CC6.0b - The Mists of Time (7.4)
 ***** [#D] CC6.4 - The Many Deaths of Jo Grant (7.2)
 **** CC
-***** [#C] CC2.3 - Old Soldiers :Brigadier:plot_yes_dwg:DW2023_03_doctor:
-SCHEDULED: <2023-03-11 Sat>
-:PROPERTIES:
-:rating:   7.5
-:END:
-
-http://www.drwhoguide.com/chronicles07.htm
-
 ***** [#C] CC4.3 - The Prisoner of Peladon :Peladon:
 :PROPERTIES:
 :rating:   7.6
@@ -945,11 +941,6 @@ http://www.drwhoguide.com/chronicles07.htm
 ***** [#C] CC3.10 - The Magician's Oath :Yates:
 :PROPERTIES:
 :rating:   7.5
-:END:
-
-***** [#C] CC7.12 - Council of War :Benton:Brigadier:
-:PROPERTIES:
-:rating:   7.7
 :END:
 
 **** Short Trips
@@ -967,8 +958,11 @@ As the decade in English history which attracts the greatest quantity of alien i
 
 To escape his Earth exile, the Doctor is prepared to make any bargain, come to any arrangement, or to do any deal with any devil – even if in this case the Devil wears a monk's robes. But when past misdeeds start catching up with both the Doctor and the Monk, who can Liz Shaw trust when time is running out and death is rapidly approaching?
 
-***** READY [#C] ST7.X Landbound †7.6 :scripted:no_companion:bilibili:DW2023_03_maybe:
-SCHEDULED: <2023-04-01 Sat>
+***** HALF [#C] ST7.X Landbound :scripted:no_companion:bilibili:DW2023_03_doctor:
+SCHEDULED: <2023-03-18 Sat>
+:PROPERTIES:
+:rating:   7.6
+:END:
 
 【【神秘博士】短途旅行：以陆为牢 | Short Trips: Landbound-哔哩哔哩】 https://b23.tv/hbxNYVJ
 
@@ -1423,6 +1417,7 @@ CLOSED: [2020-06-25 Thu 21:56]
 :END:
 
 ***** [#B] STR3.4 The Warren Legacy :Romana_1:P2015:DW2023_04_doctor:
+SCHEDULED: <2023-04-04 Tue>
 :PROPERTIES:
 :rating:   7.9
 :END:
@@ -1515,22 +1510,25 @@ CLOSED: <2018-07-13 Fri 08:03>
 【【中英熟肉】藏在大衣里的脆皮马w（I am the Master广播剧预告)-哔哩哔哩】https://b23.tv/IGxQAU
 
 ** audio
-*** LATER [#C] CC6.1 Tales From the Vault :Ruth:UNIT:Jo:Romana_1:plot_yes:
-SCHEDULED: <2022-08-06 Sat>
+*** [#C] CC2.3 - Old Soldiers :Brigadier:plot_yes_dwg:
 :PROPERTIES:
 :rating:   7.5
 :END:
 
-*** CANCEL Night of the Fendahl (Torchwood #25) :audio-drama:
-CLOSED: [2020-08-18 Tue 16:31]
+http://www.drwhoguide.com/chronicles07.htm
 
-sequel to 15x03 The Image of Fandahl
+*** [#C] CC7.12 - Council of War :Benton:Brigadier:
+:PROPERTIES:
+:rating:   7.7
+:END:
 
-*** DONE [#B] The Green Life (Torchwood #26) †8.1 :BOSS:🎧:Jo:Jack:BigFinish:
-CLOSED: [2020-07-02 Thu 07:24]
+*** TODO [#C] CC6.1 Tales From the Vault :Ruth:UNIT:Jo:Romana_1:the_Vault:plot_yes:DW2023_04_spinoffs:
+SCHEDULED: <2023-04-26 Wed>
+:PROPERTIES:
+:rating:   7.5
+:END:
 
-算是 10x05 - The Green Death 的续集
-
+*** CC8.1 Mastermind :Master_decayed:UNIT:Vault:
 ** novels
 *** [#A] Who Killed Kennedy (4.1) :novel:
 *** DONE [#B] 敌人的脸孔 The Face of the Enemy (PDA top #5) †3. 83 :📔:UNIT:Master:
