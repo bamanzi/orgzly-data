@@ -110,7 +110,7 @@ CLOSED: [2022-04-02 Sat 20:14]
 ***** DONE 1x13
 CLOSED: [2022-04-04 Mon 19:41]
 
-**** Lucifer S2
+**** Lucifer S2 (18 ep)
 
 18 episodes
 
@@ -156,8 +156,20 @@ CLOSED: [2023-03-04 Sat 10:15]
 ***** DONE 2x14
 CLOSED: [2023-03-04 Sat 19:02]
 
-***** 2x15
-***** 2x16
+***** DONE 2x15
+CLOSED: [2023-03-17 Fri 19:52] SCHEDULED: <2023-03-18 Sat>
+
+***** DONE 2x16
+CLOSED: [2023-03-17 Fri 20:36] SCHEDULED: <2023-03-18 Sat>
+
+***** 2x17
+SCHEDULED: <2023-03-22 Wed>
+
+***** 2x18
+SCHEDULED: <2023-03-22 Wed>
+
+**** Lucifer S3 (26 eps)
+**** Lucifer S4 (10 eps)
 ** Preacher
 *** comics :📚:
 **** DONE book 1 (1-12)
@@ -518,7 +530,7 @@ CLOSED: [2023-01-14 Sat 14:44]
 
 ** DONE S11
 ** DONE S12
-** SPN S13
+** DONE SPN S13
 *** DONE 13x01, 02
 CLOSED: [2022-02-02 Wed 14:29]
 
@@ -557,27 +569,26 @@ CLOSED: [2022-04-11 Mon 08:08]
 *** DONE 13x16 Scoobynatural
 CLOSED: [2022-04-13 Wed 08:14]
 
-*** LATER 13x17-18,20-22 :Gabriel:
-**** DONE 13x17
+*** DONE 13x17
 CLOSED: [2023-02-25 Sat 08:32]
 
-**** DONE 13x18
+*** DONE 13x18
 CLOSED: [2023-02-25 Sat 21:16]
-
-**** DONE 13x20
-CLOSED: [2023-03-10 Fri 22:41] SCHEDULED: <2023-03-12 Sun>
-
-**** 13x21
-SCHEDULED: <2023-03-12 Sun>
-
-**** 13x22
-SCHEDULED: <2023-03-18 Sat>
 
 *** DONE 13x19
 CLOSED: [2022-04-14 Thu 19:04]
 
-*** 13x23
-SCHEDULED: <2023-03-18 Sat>
+*** DONE 13x20
+CLOSED: [2023-03-10 Fri 22:41] SCHEDULED: <2023-03-12 Sun>
+
+*** DONE 13x21
+CLOSED: [2023-03-16 Thu 18:48] SCHEDULED: <2023-03-12 Sun>
+
+*** DONE 13x22
+CLOSED: [2023-03-16 Thu 19:29] SCHEDULED: <2023-03-18 Sat>
+
+*** DONE 13x23
+CLOSED: [2023-03-20 Mon 07:57] SCHEDULED: <2023-03-18 Sat>
 
 ** S14
 
@@ -586,30 +597,4 @@ SCHEDULED: <2023-03-18 Sat>
 ** S15
 
 20 episodes
-
-* Life on Mars
-** Life on Mars (uk)
-*** DONE Life on Mars s1
-CLOSED: <2022-11-20 Sun 08:19>
-
-** Ashes to ashes
-*** Ashes to Ashes s1
-**** DONE 1x01
-CLOSED: [2022-11-20 Sun 21:10]
-
-**** DONE 1x02
-CLOSED: [2022-11-21 Mon 21:46]
-
-**** DONE 1x03
-CLOSED: [2022-11-26 Sat 20:15]
-
-**** DONE 1x04
-CLOSED: [2022-12-05 Mon 23:59]
-
-** 火星生活（韩版）
-*** DONE 1x01
-CLOSED: <2022-11-13 Sun 15:38>
-
-*** DONE 1x02
-CLOSED: <2022-11-13 Sun 16:23>
 

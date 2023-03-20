@@ -73,7 +73,7 @@ CLOSED: [2022-08-26 Fri 22:02]
 :rating:   8.2
 :END:
 
-**** S4
+**** DONE S4 :P2015:
 ***** DONE 4x01
 CLOSED: [2022-09-11 Sun 17:02]
 :PROPERTIES:
@@ -173,6 +173,7 @@ CLOSED: [2022-12-10 Sat 17:38]
 :rating:   8.2
 :END:
 
+**** S7 :P2019:
 *** Sherlock 神探夏洛克
 * Agatha Christie 阿加莎·克里斯蒂 :阿婆:
 ** tv
