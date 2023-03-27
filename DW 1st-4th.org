@@ -207,8 +207,10 @@ CLOSED: [2022-05-27 Fri 11:35] SCHEDULED: <2022-05-28 Sat>
 :rating:   8.0
 :END:
 
-**** Steven
-***** [#A] CC5.12 The Cold Equations :Steven:
+**** Steven :Steven:
+***** [#C] CC2.1 - Mother Russia
+***** [#C] CC5.8 - The Perpetual Bond
+***** [#A] CC5.12 - The Cold Equations
 :PROPERTIES:
 :rating:   8.5
 :END:
@@ -218,7 +220,7 @@ CLOSED: [2022-05-27 Fri 11:35] SCHEDULED: <2022-05-28 Sat>
 :rating:   8.4
 :END:
 
-***** HALF [#B] CC7.5 - Return of the Rocket Men :Steven:D2021_06:
+***** HALF [#B] CC7.5 - Return of the Rocket Men :D2021_06:
 :PROPERTIES:
 :rating:   8.2
 :END:
@@ -243,12 +245,12 @@ Old Steven 2/3
 
 Old Steven 3/3
 
-***** [#A] 11.2 - Across the Darkened City :Steven:scripted:
+***** [#A] 11.2 - Across the Darkened City :scripted:
 :PROPERTIES:
 :rating:   8.5
 :END:
 
-***** [#B] 13.3 - The Vardan Invasion of Mirth :Steven:
+***** [#B] 13.3 - The Vardan Invasion of Mirth
 :PROPERTIES:
 :rating:   8.0
 :END:
@@ -294,13 +296,17 @@ CLOSED: [2021-06-26 Sat 09:13]
 :rating:   7.4
 :END:
 
-**** 📂CC9. First Doctor - Volume One
-**** 📂CC11. First Doctor - Volume Two :scripted:
+**** 📂CC9. First Doctor - Volume One :P2015:
+**** 📂CC11. First Doctor - Volume Two :P2017:scripted:
 ***** [#D] 11.1 Fields of Terror :Steven:Vicki:
 ***** READY [#A] 11.2 Across the Darkened City :Steven:Vicki:Daleks:
 ***** [#D] 11.3 The Bonfires of the Vanties :Polly:Ben:
 ***** [#B] 11.4 The Plague of Dreams :Polly:Ben:
-**** 📂CC13. First Doctor - Volume Three
+**** 📂CC13. First Doctor - Volume Three :P2019:
+***** [#F] 13.1 - E is For...
+***** [#E] 13.2 - Daybreak
+***** [#C] 13.3 - The Vardan Invasion of Mirth :Steven:Vardans:
+***** 13.4 - The Crumbling Magician :Ben:Polly:
 *** Lost Stories
 **** BLOCK [#A] LS2.1a - Farewell Great Macedon :scripted:3CD:
 :PROPERTIES:
@@ -823,15 +829,15 @@ SCHEDULED: <2022-05-28 Sat>
 :END:
 
 *** 3DA (2022- )
-**** BLOCK 22A. The Annihilators :P2022_02:Liz:2nd_Dr:Jamie:Brigadier:3CD:
+**** BLOCK [#A] 22A. The Annihilators :P2022_02:Liz:2nd_Dr:Jamie:Brigadier:3CD:
 
 block原因：太长（3CD）
 
-**** BLOCK 22B. Kaleidoscope :Sarah:Harry:Brigadier:P2022_10:3CD:
-**** 23A. The Return of Jo Jones :Jo:P2023_02:1CD:
-***** 23A.1 Supernature
-***** 23A.2 The Conservitors
-***** 23A.3 The Iron Shore
+**** CANCEL [#E] 22B. Kaleidoscope :Sarah:Harry:Brigadier:P2022_10:3CD:
+**** 23A. The Return of Jo Jones :Jo:P2023_02:1CD:P2023_02:
+***** [#D] 23A.1 Supernature
+***** [#D] 23A.2 The Conservitors
+***** [#C] 23A.3 The Iron Shore
 *** BF misc
 **** DONE [#A] The Sacrifice of Jo Grant (The Legacy of Time #3) :Jo:P2019:
 CLOSED: [2020-08-07 Fri 18:25]
@@ -1504,11 +1510,6 @@ CLOSED: <2018-07-13 Fri 08:03>
 
 **** Twilight of the Silurians
 ** short stories
-*** [#A] ST7.6 - How to Win Planets and Influence People †9.2 :Monk:Sarah:Harry:
-*** TODO [#A] ST8.10 - I Am The Master †9.0 :Master:bilibili:
-
-【【中英熟肉】藏在大衣里的脆皮马w（I am the Master广播剧预告)-哔哩哔哩】https://b23.tv/IGxQAU
-
 ** audio
 *** [#C] CC2.3 - Old Soldiers :Brigadier:plot_yes_dwg:
 :PROPERTIES:
@@ -1522,13 +1523,18 @@ http://www.drwhoguide.com/chronicles07.htm
 :rating:   7.7
 :END:
 
-*** TODO [#C] CC6.1 Tales From the Vault :Ruth:UNIT:Jo:Romana_1:the_Vault:plot_yes:DW2023_04_spinoffs:
-SCHEDULED: <2023-04-26 Wed>
+*** TODO [#C] CC6.1 Tales From the Vault :Ruth:UNIT:Jo:Romana_1:Zoe:Steven:1st_Dr:2nd_Dr:3rd_Dr:4th_Dr:the_Vault:plot_yes:DW2023_04_spinoffs:
+SCHEDULED: <2023-04-09 Sun>
 :PROPERTIES:
 :rating:   7.5
 :END:
 
 *** CC8.1 Mastermind :Master_decayed:UNIT:Vault:
+*** [#A] ST7.6 - How to Win Planets and Influence People †9.2 :Monk:Sarah:Harry:
+*** TODO [#A] ST8.10 - I Am The Master †9.0 :Master:bilibili:
+
+【【中英熟肉】藏在大衣里的脆皮马w（I am the Master广播剧预告)-哔哩哔哩】https://b23.tv/IGxQAU
+
 ** novels
 *** [#A] Who Killed Kennedy (4.1) :novel:
 *** DONE [#B] 敌人的脸孔 The Face of the Enemy (PDA top #5) †3. 83 :📔:UNIT:Master:

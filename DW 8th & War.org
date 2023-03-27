@@ -465,7 +465,7 @@ SCHEDULED: <2023-04-04 Tue>
 :rating:   8.4
 :END:
 
-***** [#C] 4.2 - Songs of Love
+***** [#C] 4.2 - Songs of Love :River:
 :PROPERTIES:
 :rating:   7.9
 :END:
@@ -925,12 +925,12 @@ CLOSED: [2020-11-09 Mon 18:14]
 The N-Forms receive an activation call, setting this after /Desperate Measures/
 
 **** HALF A Heart on Both Sides (Short Trips #7.9)
-**** _The War Master series 6: Killing Time_ :P2021:
+**** _The War Master series 6: Killing Time_ :Master_war:P2021:
 ***** [#A] 6.1 - The Sincerest Form of Flattery
 ***** [#A] 6.2 - A Quiet Night In
 ***** [#A] 6.3 - The Orphan
 ***** [#A] 6.4 - Unfinished Business
-**** _The War Master series 7: Self-Defence_
+**** _The War Master series 7: Self-Defence_ :Master_war:
 ***** [#B] 7.1 The Forest Penitence :bilibili:
 
 【【广播剧汉化】恶魔的低语 The War Master 战争法师 701 The Forest Penitence-哔哩哔哩】 https://b23.tv/fdIB3vT
@@ -1164,6 +1164,7 @@ SCHEDULED: <2023-04-17 Mon>
 **** [#E] 3.2 - Temmosus
 **** [#B] 3.3 - Rewind
 *** _📂vol.4 He Who Fights Monsters_ :P2022_12:
+*** TBR vol.5 Comrades-in-Arms :P2023_05:
 *** Ambush (comic)
 ** The War Doctor
 *** 11DY2 (comics)

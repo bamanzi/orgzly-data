@@ -210,7 +210,7 @@
 - <last play position> (01:25:31)
 - appendix (01:55:10)
 
-*** START ST6.7 - The Blame Game :Monk:
+*** START [#B] ST6.7 - The Blame Game :Monk:
 
 - <last play position> (00:00:00)
 
@@ -243,7 +243,7 @@
  - <last play position> (01:38:20)
  - music (01:52:09)
 
-**** START 4DA4.3 - Requiem for the Rocket Men :4th_Dr:Leela:Master:
+**** HALF 4DA4.3 - Requiem for the Rocket Men :4th_Dr:Leela:Master:
 
  - <second to last play position> (00:00:00)
  - <last play position> (00:00:17)
@@ -352,12 +352,12 @@
  - <second to last play position> (00:24:31)
  - <last play position> (00:27:37)
 
-**** START 1DA 1.01 - The Destination Wars :1st_Dr:Susan:Ian:Barbaba:Master
+**** START 1DA 1.01 - The Destination Wars :1st_Dr:Susan:Ian:Barbaba:Master:
 
  - <second to last play position> (00:52:13)
  - <last play position> (01:17:58)
 
-**** START 4DA 3.6 - Destroy the Infinite :4th_Dr:Leela:Eminence:
+**** HALF 4DA 3.6 - Destroy the Infinite :4th_Dr:Leela:Eminence:
 
  - <last play position> (00:00:00)
  - part2 (00:23:50)
@@ -368,7 +368,7 @@
  - <second to last play position> (00:35:32)
  - <last play position> (00:36:29)
 
-**** START 8DA4.1 - Death in Blackpool :8th_Dr:Lucy:Zygon:
+**** DONE 8DA4.1 - Death in Blackpool :8th_Dr:Lucy:Zygon:
 
  - <second to last play position> (00:00:00)
  - <last play position> (00:01:30)
@@ -405,7 +405,7 @@
  - p3 (01:03:09)
 
 **** DONE ST10.05 Regeneration Impossible :11th_Dr:12th_Dr:
-**** START CC7.04 - The Last Post :Liz:3rd_Dr:
+**** HALF CC7.04 - The Last Post :Liz:3rd_Dr:
 
  - <last play position> (00:00:00)
  - <second to last play position> (00:00:00)
@@ -424,13 +424,13 @@
  - <second to last play position> (00:05:03)
  - <last play position> (00:57:10)
 
-**** START JACK3.2. Mighty and Despair :Jack:
+**** 2DONE JACK3.2. Mighty and Despair :Jack:
 
  - <last play position> (00:00:00)
  - <second to last play position> (00:00:00)
  - p (00:49:33)
 
-**** START TW09 Ghost Mission
+**** HALF TW09 Ghost Mission
 
  - <last play position> (00:00:00)
  - <second to last play position> (00:41:52)
@@ -486,7 +486,7 @@
 | 38 | MR072. Terror Firm               | 8th | Charley, Crizz, Davros |
 
 *** DW 2021-09
-**** START 10DA 3.1 No Place :10th_Dr:Donna:
+**** HALF 10DA 3.1 No Place :10th_Dr:Donna:
 
  - <second to last play position> (00:00:00)
  - <last play position> (00:00:00)
@@ -530,24 +530,18 @@
  - <second to last play position> (01:03:43)
  - <last play position> (01:03:52)
 
-**** START BF192 - The Widow's Assassin, Part 2 :6th_Dr:Peri:
+**** DONE BF192 - The Widow's Assassin, Part 2 :6th_Dr:Peri:
 
  - <second to last play position> (00:00:00)
  - <last play position> (00:00:03)
 
-**** START BF200 - The Secret History :5th_Dr:Vicki:Steven:Monk:
+**** 3QTR BF200 - The Secret History :5th_Dr:Vicki:Steven:Monk:
 
  - <second to last play position> (00:00:01)
  - part2 (00:29:50)
  - <last play position> (00:31:54)
  - part3 (00:58:07)
  - part4 (01:27:59)
-
-**** START EA3.4 - The Sontarans :1st_Dr:Steven:Sara_Kingdom:
-
- - part3 (01:00:32)
- - <second to last play position> (01:00:32)
- - <last play position> (01:51:21)
 
 *** DW 2021-09extra
 **** START CC11.2. Dumb Waiter :2nd_Dr:Leela:Jamie:
@@ -587,7 +581,7 @@
  - <second to last play position> (00:01:35)
  - <last play position> (00:12:08)
 
-**** START Missy 1.3. The Broken Clock :Master:Missy:
+**** 3QTR Missy 1.3. The Broken Clock :Master:Missy:
 
  - <last play position> (00:00:00)
 
@@ -645,7 +639,7 @@
  - <last play position> (01:43:40)
  - Untitled (01:55:08)
 
-**** START BF193 - Masters of Earth Part 1 (6D) :6th_Dr:Peri:Daleks:
+**** DONE BF193 - Masters of Earth Part 1 (6D) :6th_Dr:Peri:Daleks:
 
  - <last play position> (00:00:00)
  - <second to last play position> (00:00:00)
@@ -771,13 +765,13 @@
  - <last play position> (00:36:45)
  - clapsed (00:39:10)
 
-**** START DoRS8.4. Queen of the Mechonoids :River:Anya:Mark_7:
+**** HALF DoRS8.4. Queen of the Mechonoids :River:Anya:Mark_7:
 
  - <last play position> (00:00:00)
  - <second to last play position> (00:26:09)
  - annam (00:26:10)
 
-**** START EA3.4 - The Sontarans (1st) :1st_Dr:Steven:Sontarans:
+**** HALF EA3.4 - The Sontarans (1st) :1st_Dr:Steven:Sontarans:
 
  - <second to last play position> (00:31:05)
  - part2 (00:31:10)
@@ -827,7 +821,7 @@
  - <last play position> (00:49:44)
  - end (00:51:05)
 
-**** START 3DA4.2 - The Tyrants of Logic :3rd_Dr:Jo:Cybermen:
+**** HALF 3DA4.2 - The Tyrants of Logic :3rd_Dr:Jo:Cybermen:
 
  - <last play position> (00:00:00)
  - part2 (00:31:15)
@@ -857,7 +851,7 @@
  - <second to last play position> (00:04:50)
  - <last play position> (00:08:24)
 
-**** START TW5.11 - Escape Room
+**** HALF TW5.11 - Escape Room
 
  - <last play position> (00:00:00)
  - <second to last play position> (00:00:00)
@@ -904,7 +898,7 @@
  - <second to last play position> (00:00:00)
  - Untitled (00:42:04)
 
-**** START WM4.3. Shockwave :Master_war:
+**** 3QTR WM4.3. Shockwave :Master_war:
 
  - <second to last play position> (00:00:00)
  - <last play position> (00:27:25)
@@ -999,7 +993,7 @@
  - <second to last play position> (00:11:44)
  - <last play position> (01:05:45)
 
-**** START Vienna #0 The Memory Box
+**** HALF Vienna #0 The Memory Box
 
  - <last play position> (00:21:31)
  - <second to last play position> (00:21:37)
@@ -1034,7 +1028,7 @@
  - part3 (01:06:34)
  - part4 (01:34:45)
 
-**** START Master! #2. Prey :Master:
+**** 3QTR Master! #2. Prey :Master:
 
  - <last play position> (00:02:13)
  - <second to last play position> (00:02:16)
@@ -1314,7 +1308,7 @@
 | 059 | MR038 The Church and the Crown | 5th  | Peri, Erimem |
 
 *** 2DONE [#C] EA1.4 An Ordinary Life :1st_Dr:Steven:Sara_Kingdom:2CD:
-*** START [#A] ST11.3 The Threshold :Master_nemesis:3rd_Dr:
+*** HALF [#A] ST11.3 The Threshold :Master_nemesis:3rd_Dr:
 *** 2DONE [#C] MR038 The Church and the Crown :5th_Dr:Peri:Erimem:2CD:
 *** 2DONE [#D] 7DA1.1 The Trial of a Time Machine :7th_Dr:Roz:Chris:
 *** 2DONE [#B] 9DA 4.2 Way of the Burryma :9th_Dr:Cybermen:Brigadier:Sam_Bishop:
@@ -1343,7 +1337,7 @@
 *** 2DONE [#B] LS6.1 Return of the Cybermen :4th_Dr:Sarah:Harry:bilibili:2CD:
 *** 2DONE [#A] MR006. The Marian Conspiracy :6th_Dr:Evelyn:2CD:
 *** DONE [#E] 8DDC 2.3 The Gift :8th_Dr:Liv:Helen:
-*** START [#E] 8DDC 2.4 The Sonomancer :8th_Dr:Liv:Helen:
+*** HALF [#E] 8DDC 2.4 The Sonomancer :8th_Dr:Liv:Helen:
 *** 2DONE [#C] 10DA 3.2 One Mile Down :10th_Dr:Donna:bilibili:
 *** HALF [#C] 12DC1.2 War Wounds :12th_Dr:Danny:
 *** 3QTR [#D] WDB 1.2 Lion Hearts :War_Doctor:
@@ -1370,7 +1364,7 @@
 *** 3QTR [#C] BSNA 5.1 Pride of the Lampian :Unbound:Benny:
 ** DW 2022-09-spinoffs
 *** 2DONE [#A] TW6.6 Hostile Environment :Norton:
-*** START [#A] TW21 We Always Get Out Alive :Rhys:Gwen:
+*** HALF [#A] TW21 We Always Get Out Alive :Rhys:Gwen:
 *** HALF [#C] UNIT 6.3 Code Silver :Cybermen:
 *** HALF [#B] UNIT 6.4 Master of Worlds :Cybermen:Master_War:
 *** HALF [#D] PG2.1 - Dining with Death
@@ -1399,12 +1393,12 @@
 *** 3QTR [#A] Gallifrey 4.2 Disassembled
 ** DW 2022-11-doctor
 *** DONE [#A] EA5.1  The Dalek Occupation of Winter :1st_Dr:Steven:Vicki:
-*** START [#D] CDNM 3.1 The House that Hoxx Built :3rd_Dr:Sarah:
+*** HALF [#D] CDNM 3.1 The House that Hoxx Built :3rd_Dr:Sarah:
 *** 3QTR [#D] 5DA40.1 Secrets of Telos :5th_Dr:Nyssa:Tegan:Adric:Cybermen:
 *** 3QTR [#B] 7DA1.3 The Jabari Countdown :7th_Dr:Roz:Chris:
 *** HALF [#C] 9DC1.4 Retail Therapy :9th_Dr:Jackie:
 *** 2DONE [#A] ST11.1 Rearguard (11th) :11th_Dr:Sontaran:
-*** HALF BSNA7.1. Willkommen :Unbound_Dr:Benny:Cybermen:
+*** 2DONE BSNA7.1. Willkommen :Unbound_Dr:Benny:Cybermen:
 ** DW 2022-11-spinoffs
 *** 3QTR [#B] TW5.9 A Mother's Son
 *** 3QTR [#D] TW47 Drive :Tosh:
@@ -1447,12 +1441,12 @@
 ** dw2023-01-spinoffs
 *** 3QTR [#A] TW6.11 Day Zero
 *** DONE [#C] TW42 Ex Machina :Ianto:
-*** START [#A] UNIT3.3 Silent Majority :UNIT:Silents:
+*** HALF [#A] UNIT3.3 Silent Majority :UNIT:Silents:
 *** HALF [#A] J&L7.3 Murder at Moorsey Manor :Jago:Litefoot:
 *** 3QTR [#A] WM5.3 The Castle of Kurnos 5 :Master_war:8th_Dr:
 *** 2DONE [#C] Donna 1.4 The Chiswick Cuckoos :Donna:10th_Dr:
 *** 3QTR [#C] Robots2.3 Do No Harm :Liv:
-*** START [#D] River7.2 Abbey of Heretics :River:
+*** HALF [#D] River7.2 Abbey of Heretics :River:
 * DW2023-02
 ** dw2023-02-doctor
 *** HALF [#C] CC10.1 The Mouthless Dead :2nd_Dr:Jamie:Polly:Ben:
@@ -1470,51 +1464,52 @@
 *** 3QTR [#E] Gallifrey 5.1 Emancipation :Romana_2:Leela:
 *** 3QTR [#C] Lady Christina 1.1 - It Takes a Thief :Sam_Bishop:
 * DW2023-03
-** dw2023-03-doctr
+** dw2023-03-doctor
 *** 3QTR [#D] 1DA22.1 The Outlaws :1st_Dr:Dodo:Monk:2CD:
 *** TODO [#C] ST7.X Landbound :3rd_Dr:
 *** HALF [#C] MR071 The Council of Nicaea :5th_Dr:Peri:Erimem:2CD:
 *** TODO [#D] CC7.3 Project: Nirvana :7th_Dr:Sally:
-*** HALF [#B] 9DA5.3 Auld lang Syne :9th_Dr:
+*** HALF [#B] 9DA5.3 Auld Lang Syne :9th_Dr:
 *** BSNA 7.4 Auf Wiedersehen 再见 :Unbound:Benny:
 ** dw2023-03-spinoff
-*** HALF [#B] TW Soho #1: Parasite (p1-p3) :Norton:Andy:3CD:
-*** HALF [#D] John #2 Escape from Nebazz :John:Jack:
+*** 3QTR [#B] TW Soho #1: Parasite (p1-p2) :Norton:
+*** 3QTR [#D] John #2 Escape from Nebazz :John:Jack:
 *** HALF [#B] CM 1.4 State of Emergency
 *** HALF [#D] J&L7.4 The Wax Princess :Jago:Litefoot:
-*** [#D] Missy 2.3 Treason and Plot :Missy:
 *** HALF [#E] Gallifrey 5.2 Evolution
 *** [#D] Lady 1.2 Skin Deep
 * DW2023-04
 ** dw2023-04-doctor
-*** [#B] LTV4.4 The Abominable Snowmen :2nd_Dr:Jamie:Victoria:2CD:
+*** [#B] LTV4.4 The Abominable Snowmen            :2nd_Dr:Jamie:Victoria:2CD:
 *** [#A] STR3.4 The Warren Legacy :4th_Dr:Romana_1:
 *** [#B] 6DLA #4 The Brink of Death :6th_Dr:Mel:
 *** [#C] 8DDC 3.2 The Eighth Piece / 3.3 The Doomsday Chronometer :8th_Dr:Liv:Helen:River:
 *** [#A] DU2.2 - The Trojan Dalek #bilibili :10th_Dr:Anya:Mark_7:
 *** [#D] WDB 2.2 - Destroyer :War_Doctor:
 ** dw2023-04-spinoffs
-*** [#B] TW Soho: Parasite (p4-p6) :Norton:Andy:
-*** [#A] TW51 The Five People You Kill in Middlebrough :Yvonne:
-*** [#C] CC6.1 Tales from the Vault :Ruth:the_Vault:
-*** [#A] ST8.10 I Am The Master :Master_decayed:
-*** [#D] Mar8 1.3 Inside Every Warrior :TPG:
+*** [#A] TW Soho: Parasite (p3-p4) :Norton:Andy:
+*** TODO [#C] TW61 War Chest :Tosh:
+*** TODO [#C] CC6.1 Tales from the Vault :Ruth:the_Vault:
+*** TODO [#A] ST8.10 I Am The Master :Master_decayed:
+
+*** TODO [#D] Mar8 1.3 Inside Every Warrior :TPG:
 *** [#D] Gallifrey 5.3 Arbiration :Romana_2:Leela:Narvin:
 *** [#D] Lady 1.3 - Portrait of a Lady
 * DW2023-05
 ** dw2023-05-doctor
 *** [#C] LS2.1b The Fragile Yellow Arc of Fragrance :1st_Dr:Susan:Ian:Barbara:
-*** [#D] 3DA1.1 Prisoners of the Lake :3rd_Dr:Jo:plot_yes:2cd:
+*** TODO [#D] 3DA1.1 Prisoners of the Lake           :3rd_Dr:Jo:plot_yes:2cd:
 *** [#B] CC4.05 - Ringpullworld :5th_Dr:Turlough:
-*** UNIT: Dominion p1-2 :7th_Dr:Klein:UNIT:Master_bald:Ace:2cd:
+*** TODO [#A] UNIT: Dominion p1-2 :7th_Dr:Klein:UNIT:Master_bald:Ace:2cd:
 *** [#A] 9DA 6.1 Salvation Nine :9th_Dr:
-*** [#A] 11DC 3.1 The Ineritance :11th_Dr:
+*** [#A] 11DC 3.1 The Inheritance :11th_Dr:
 ** dw2023-05-spinoffs
-*** [#B] TW BBC #2 Asylum
-*** [#C] TW61 War Chest :Tosh:
+*** [#A] TW Soho: Parasite (p5-p6) :Norton:Andy:
+*** TODO [#C] TW56. The Red List :Ace:Colchester:
 *** [#C] UNIT 1.2 Earthfall
 *** [#D] J&L7.2 The Night of 1000 Stars :Jago:Litefoot:Leela:
-*** [#A] WM6.1 The Sincerest Form of Flattery :Master_war:
+*** TODO [#D] Missy 2.3 Treason and Plot                              :Missy:
+
 *** [#B] BSBOX1.2 The Temple of Questions :Benny:
 *** [#C] Lady 1.4 - Death on the Mile
 * pending
@@ -1531,5 +1526,8 @@
 *** [#C] DoRS2.1 The Unknown :7th_Dr:River:
 ** spinoffs
 *** [#A] TW43 The Three Monkeys :Owen:Andy:
+*** TODO [#B] TW BBC #2 Asylum
+*** TODO [#A] TW51 The Five People You Kill in Middlebrough :Yvonne:
 *** KC #4 taren Capel :Kaldor_Robots:
 *** [#C] River 6.4 The Talents of Grel :River:Jago:
+*** [#A] WM6.1 The Sincerest Form of Flattery :Master_war:

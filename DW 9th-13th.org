@@ -76,25 +76,25 @@ CLOSED: [2023-01-23 Mon 08:22] SCHEDULED: <2023-01-10 Tue 08:39>
 ***** CANCEL [#F] 5.2 The False Dimitry
 CLOSED: [2022-07-02 Sat 23:47]
 
-***** HALF [#B] 5.3 Auld Lang Syne :bilibili:DW2023_03_doctor:
-SCHEDULED: <2023-03-11 Sat>
+***** 2DONE [#B] 5.3 Auld Lang Syne :bilibili:DW2023_03_doctor:
+CLOSED: [2023-03-21 Tue 08:07] SCHEDULED: <2023-03-11 Sat>
 
 【【神秘博士广播剧熟肉】Back to Earth 503 Auld Lang Syne 逝去已久的时光-哔哩哔哩】 https://b23.tv/1NrKKIN
 
 **** 📂S2.2 Into the Stars :P2022_08:
-***** [#A] 6.1 Salvation Nine :Sontarans:bilibili:
+***** READY [#A] 6.1 Salvation Nine :Sontarans:bilibili:DW2023_05_doctor:
 
 【【神秘博士广播剧熟肉】Into the Stars 601 Salvation Nine 救赎九号-哔哩哔哩】 https://b23.tv/ORzh7WU
 
 ***** CANCEL [#F] 6.2 Last of the Zetacene
-***** [#A] 6.3 Break the Ice :bilibili:
+***** READY [#A] 6.3 Break the Ice :bilibili:
 
 【【神秘博士广播剧熟肉】Into the Stars 603 Break the Ice 破冰-哔哩哔哩】 https://b23.tv/FgizL7a
 
 **** S2.3 Hidden Depth :P2022_11:
 ***** [#E] 7.1 The Seas of Titan
 ***** [#D] 7.2 Lay Down Your Arms
-***** [#A] 7.3 Flatpack :Liv:Tania:bilibili:
+***** READY [#A] 7.3 Flatpack :Liv:Tania:bilibili:
 
 【【神秘博士广播剧熟肉】Hidden Depths 703 Flatpack 平板家居-哔哩哔哩】 https://b23.tv/ElXr5Mq
 
@@ -104,7 +104,11 @@ SCHEDULED: <2023-03-11 Sat>
 【【神秘博士广播剧熟肉】Shades of Fear 801 The Colour of Terror 恐怖之色-哔哩哔哩】 https://b23.tv/upXcyWs
 
 ***** 8.2 The Blooming Menace
-***** 8.3 Red Darkness :Vashta_Nerada:
+***** READY 8.3 Red Darkness :Vashta_Nerada:bilibili:
+
+【【神秘博士广播剧熟肉】Shades of Fear 803 Red Darkness 赤红黑暗-哔哩哔哩】 https://b23.tv/RPnCOqH
+
+**** TBR S3.1 Pioneers :P2023_05:
 *** 9DC
 **** HALF [#C] 1.4 Retail Therapy :Jackie:DW2022_11_doctor:
 SCHEDULED: <2022-11-29 Tue>
@@ -698,7 +702,7 @@ SCHEDULED: <2022-03-30 Wed>
 :END:
 
 *** 11DC vol.3 Geronimo! :Valarie:P2022_10:
-**** READY 3.1 The Inheritance :plot_yes:
+**** READY 3.1 The Inheritance :plot_yes:DW2023_05_doctor:
 **** READY 3.2. The House of Masks :plot_yes:
 **** 3.3 The End
 *** 11DC vol.4 All of Time and Space :Valarie:P2023_02:
@@ -920,7 +924,7 @@ SCHEDULED: <2022-10-29 Sat>
 :END:
 
 *** 12DC vol.2 :P2021:
-**** HALF [#B] 12DC2.1. Flight to Calandra (?8.2) :D2021_11_doctor:
+**** HALF [#D] 12DC2.1. Flight to Calandra :D2021_11_doctor:
 SCHEDULED: <2021-11-20 Sat>
 
 **** 3QTR [#E] 2.2 Split Second :D2022_02_doctor:

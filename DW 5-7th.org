@@ -55,7 +55,7 @@ CLOSED: [2021-03-22 Mon 23:19]
 **** 2DONE 015. The Mutant Phase :Daleks:
 CLOSED: [2021-10-23 Sat 20:14]
 
-**** LATER [#C] 020. Loups-Garoux :Turlough:D2022_13:underrated:
+**** LATER [#C] 020. Loups-Garoux :Turlough:underrated:
 :PROPERTIES:
 :rating:   7.8
 :END:
@@ -160,7 +160,7 @@ CLOSED: <2021-05-29 Sat 08:11>
 
 **** The 100 Days of the Doctor
 *** main range 101-150 :scripted:2CD:
-**** START 102. The Mind's Eye / Mission of the Viyrans :Viyrans:Peri:D2021_04:
+**** START [#E] 102. The Mind's Eye / Mission of the Viyrans :Viyrans:Peri:D2021_04:
 **** [#C] 104. The Bride of Peladon :Peri:Erimem:
 **** 3QTR [#C] 107. The Haunting of Thomas Brewster :D2021_12_doctor:week4:
 CLOSED: [2021-12-28 Tue 14:32] SCHEDULED: <2021-12-26 Sun>
@@ -236,7 +236,7 @@ SCHEDULED: <2022-11-30 Wed>
 CLOSED: [2021-02-27 Sat 18:02]
 
 **** [#C] 173. The Lady of Mercia (7.7)
-**** [#B] 174. Prisoners of Fate (8.2) :plot_yes:D2022_13:Nyssa:Tegan:
+**** [#B] 174. Prisoners of Fate (8.2) :plot_yes:Nyssa:Tegan:
 
 应该先听 MR136 Cobwebs
 
@@ -324,7 +324,7 @@ CLOSED: [2021-04-13 Tue 17:47]
 :rating:   7.4
 :END:
 
-**** [#A] MR235. Ghost Walk (8.5) :plot_yes:D2022_13:
+**** [#A] MR235. Ghost Walk (8.5) :plot_yes:
 :PROPERTIES:
 :rating:   8.5
 :END:
@@ -633,7 +633,7 @@ CLOSED: <2021-04-18 Sun 08:14>
 :rating:   7.0
 :END:
 
-**** [#B] 126. Blue Forgotten Planet (8.1) :Charley:Mila:plot_no:D2022_13:
+**** [#B] 126. Blue Forgotten Planet (8.1) :Charley:Mila:plot_no:
 **** HALF [#D] 133. City of Spires :Jamie:DW2022_12_doctor:
 SCHEDULED: <2022-12-24 Sat 22:41>
 
@@ -787,6 +787,7 @@ SCHEDULED: <2023-04-30 Sun>
 ***** [#B] 1.2 - The Tides of the Moon
 ***** [#E] 1.3 - Maelstrom
 **** 📂Purity Undreamed :P2022_08:
+**** TBR 23A. Purity Unleashed :P2023_05:
 *** The Lost Stories
 **** The Lost Stories s1 :Peri:
 ***** [#E] LS1.1 The Nightmare Fair :scripted:ToyMaker:
@@ -872,8 +873,8 @@ SCHEDULED: <2023-04-30 Sun>
 【【神秘博士广播剧熟肉】The Stuff of Nightmares 303 Together in Eclectic Dreams 共做一梦-哔哩哔哩】 https://b23.tv/e3EmGiB
 
 **** The Diary of River Song: Series 2
-***** [#B] 2.3 World Enough and Time  :6th_Dr:
-***** [#C] 2.4 The Eye of the Storm :7th_Dr:6th_Dr:
+***** [#B] 2.3 World Enough and Time
+***** [#C] 2.4 The Eye of the Storm :7th_Dr:
 **** [#B] ST4.6 - To Cut a Blade of Grass :Peri:plot_no:
 **** [#C] DotD #6 Trouble in Paradise :Peri:plot_no:1CD:
 *** BBC
@@ -1061,11 +1062,11 @@ CLOSED: <2021-07-09 Fri 14:15>
 :rating:   7.7
 :END:
 
-***** [#B] 159. Project: Destiny :Ace:Hex:The_Forge:Lysandra:
+***** [#B] 159. Project: Destiny :Ace:Hex:The_Forge:Lysandra:P2010:
 ***** DONE [#A] 162. Protect and Survive (8.7) :P2012:Ace:Hex:plot_yes:WW3:Old_Ones:
 CLOSED: [2021-03-22 Mon 20:20]
 
-***** LATER [#C] MR163. Black and White :Ace:Hex:Sally:Lysandra:plot_yes:D2022_13:
+***** LATER [#C] MR163. Black and White :Ace:Hex:Sally:Lysandra:plot_yes:
 :PROPERTIES:
 :rating:   7.7
 :END:
@@ -1086,7 +1087,7 @@ CLOSED: [2021-03-22 Mon 20:20]
 :rating:   6.8
 :END:
 
-***** [#C] 180. The Assassination Games
+***** [#C] 180. 1963: The Assassination Games :Ace:CM:Allison:Gilmore:
 :PROPERTIES:
 :rating:   7.9
 :END:
@@ -1170,6 +1171,8 @@ SCHEDULED: <2023-04-01 Sat>
 :rating:   8.1
 :END:
 
+***** UNIT - Dominion p1-2 :DW2023_05_doctor:
+***** UNIT - Dominion p3-4 :DW2023_06_doctor:
 **** 📂7DA New Adventures :P2018:Roz:Chris:1CD:
 ***** 3QTR [#D] 7DA 1.1 - The Trial of a Time Machine :DW2022_07_doctor:
 CLOSED: <2022-07-06 Wed 20:52> SCHEDULED: <2022-07-06 Wed>
@@ -1203,7 +1206,7 @@ CLOSED: [2022-10-08 Sat 09:05]
 ***** [#E] 22B.1 London Orbital
 ***** [#E] 22B.2 Scream of the Daleks :Daleks:
 *** novel adaptations :2CD:
-**** BLOCK [#D] NA1 Love and War :Ace:Benny:3CD:
+**** BLOCK [#D] NA1 Love and War :Ace:Benny:3CD:scripted:
 
 block 原因：太长（3小时多）
 
@@ -1234,7 +1237,7 @@ block 原因：太长（3小时多）
 
 *** misc
 **** CC4.6 BS and the Criminal Code :Benny:
-**** HALF CC7.3 Project: Nirvana :Sally:Lysandra:DW2023_03_doctor:
+**** HALF [#D] CC7.3 Project: Nirvana :Sally:Lysandra:P2012:plot_cast:DW2023_03_doctor:
 SCHEDULED: <2023-03-25 Sat>
 
 **** CANCEL [#E] CDNM1.3 Harvest of Sycorax
