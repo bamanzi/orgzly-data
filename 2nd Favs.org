@@ -110,7 +110,7 @@ CLOSED: [2022-04-02 Sat 20:14]
 ***** DONE 1x13
 CLOSED: [2022-04-04 Mon 19:41]
 
-**** Lucifer S2 (18 ep)
+**** DONE Lucifer S2 (18 ep)
 
 18 episodes
 
@@ -162,11 +162,11 @@ CLOSED: [2023-03-17 Fri 19:52] SCHEDULED: <2023-03-18 Sat>
 ***** DONE 2x16
 CLOSED: [2023-03-17 Fri 20:36] SCHEDULED: <2023-03-18 Sat>
 
-***** 2x17
-SCHEDULED: <2023-03-22 Wed>
+***** DONE 2x17
+CLOSED: [2023-03-25 Sat 19:03] SCHEDULED: <2023-03-29 Wed>
 
-***** 2x18
-SCHEDULED: <2023-03-22 Wed>
+***** DONE 2x18
+CLOSED: [2023-03-25 Sat 20:59] SCHEDULED: <2023-03-29 Wed>
 
 **** Lucifer S3 (26 eps)
 **** Lucifer S4 (10 eps)
@@ -593,6 +593,9 @@ CLOSED: [2023-03-20 Mon 07:57] SCHEDULED: <2023-03-18 Sat>
 ** S14
 
 20 episodes
+
+*** DONE 14x01
+CLOSED: [2023-03-20 Mon 20:15]
 
 ** S15
 
