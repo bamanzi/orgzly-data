@@ -701,10 +701,10 @@ SCHEDULED: <2022-03-30 Wed>
 :rating:   7.3
 :END:
 
-*** 11DC vol.3 Geronimo! :Valarie:P2022_10:
-**** READY 3.1 The Inheritance :plot_yes:DW2023_05_doctor:
-**** READY 3.2. The House of Masks :plot_yes:
-**** 3.3 The End
+*** 11DC vol.3 Geronimo! :Valarie:P2022_10:plot_yes:
+**** READY 3.1 The Inheritance :DW2023_05_doctor:
+**** READY 3.2. The House of Masks
+**** READY 3.3 The End
 *** 11DC vol.4 All of Time and Space :Valarie:P2023_02:
 **** 4.1 All of Time and Space
 **** 4.2 The Yearn

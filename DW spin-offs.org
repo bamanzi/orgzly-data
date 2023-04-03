@@ -1367,12 +1367,6 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
 
 *** vol.2 The Triumph of Sutekh :7th_Dr:P2015:
 *** vol.3 The Unbound Universe :unbound_universe:Doctor_unbound:P2016:
-**** 2DONE DWUN2: Sympathy from the Devil :D2021_06:Master_unbound:
-     CLOSED: [2021-06-17 Thu 23:09]
-
-**** 2DONE DWUN8 - Masters of War :Davros:D2021_07_extra:D2021_12_extra:week1:
-     CLOSED: [2021-07-27 Tue 23:10] SCHEDULED: <2021-12-03 Fri>
-
 **** 3QTR [#B] BSNA3.1 - The Library In The Body :D2021_08_extra:plot_no:D2021_12_extra:week2:
      CLOSED: <2021-12-12 Sun 20:42> SCHEDULED: <2021-12-11 Sat>
      :PROPERTIES:
@@ -2466,6 +2460,18 @@ From Donna's perspective, the anthology is set after /Forest of the Dead/.
 *** IX. The Four Doctors :P2010:
 *** The Light at the End :P2013:
 ** Doctor Who Unbound :P2003:
+*** [#C] 1. Auld Mortality
+*** 2DONE [#B] DWUN2: Sympathy from the Devil :D2021_06:Master_unbound:
+    CLOSED: [2021-06-17 Thu 23:09]
+
+*** [#C] 3. Full Fathom Five
+*** [#D] 4. He Jests at Scars...
+*** [#A] 5. Deadline
+*** CANCEL [#F] 6. Exile
+*** [#D] 7. A Storm of Angels
+*** 2DONE [#B] DWUN8 - Masters of War :Davros:D2021_07_extra:D2021_12_extra:week1:
+    CLOSED: [2021-07-27 Tue 23:10] SCHEDULED: <2021-12-03 Fri>
+
 ** Novel Adaptations
 *** [#C] 1. Love and War :7th_Dr:P2012:
     :PROPERTIES:
@@ -2565,12 +2571,19 @@ https://disk.yandex.ru/d/n_i2CRgIJW0xOw
 *** vol.1 The Eighth of March :P2019:
 **** START [#D] 1.1 Emancipation :River:Leela:
 **** CANCEL [#F] 1.2 The Big Blue Book :Benny:Ace:7th_Dr:
-**** TODO [#D] 1.3 Inside Every Warrior :Vastra:Jenny:Strax:TPG:DW2023_04_spinoffs:
-     SCHEDULED: <2023-04-30 Sun>
+**** HALF [#D] 1.3 Inside Every Warrior :Vastra:Jenny:Strax:TPG:DW2023_04_spinoffs:
+     SCHEDULED: <2023-04-16 Sun>
 
 **** [#B] 1.4 Narcisus :UNIT_new:
 *** vol.2 Protectors of Time :P2022_03:
 *** vol.3 :P2023_03:
+** Unbound: Doctor of War
+*** [#B] 1.1 - Dust Devil
+*** [#C] 1.2 - Aftershocks
+*** [#D] 1.3 - The Difference Office
+*** [#D] 2.1 Who Am I?
+*** [#E] 2.2 Time Killers
+*** [#B] 2.3 The Key To Key To Time
 ** Peladon :P2022_01:
 *** [#B] 1. The Ordeal of Peladon :10th_Dr:
 *** [#D] 2. The Poison of Peladon :River:

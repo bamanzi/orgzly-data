@@ -155,8 +155,8 @@ SCHEDULED: <2022-03-12 Sat>
 
 *** 1DA (2022-)
 **** 📂2022. The Outlaws :Dodo:P2022_04:plot_yes:
-***** HALF [#D] 22.1 The Outlaws :Dodo:Monk:P2022_04:DW2023_03_doctor:
-SCHEDULED: <2023-03-04 Sat>
+***** 3QTR [#D] 22.1 The Outlaws :Dodo:Monk:P2022_04:DW2023_03_doctor:
+CLOSED: [2023-03-29 Wed 08:54] SCHEDULED: <2023-03-04 Sat>
 
 ***** READY [#C] 22.2 The Miniaturist :Dodo:P2022_04:1CD:
 **** 📂2023. The Demon Song :Dodo:P2023_02:
@@ -516,10 +516,12 @@ CLOSED: <2021-07-30 Fri 16:14>
 :rating:   8.4
 :END:
 
-**** [#C] CC3.9 - Resistance :Polly:
+**** READY [#C] CC3.9 - Resistance :Polly:
 :PROPERTIES:
 :rating:   7.7
 :END:
+
+中文解说 【广播剧 - Resistance 抵抗 (剧情解说)-哔哩哔哩】 https://b23.tv/eL2dEEG
 
 **** HALF [#B] CC4.2 - The Glorious Revolution :Jamie:D2022_01_doctor:plot_no:
 :PROPERTIES:
@@ -1434,23 +1436,26 @@ SCHEDULED: <2023-04-04 Tue>
 :END:
 
 *** BBC 4DA :scripted:DA:BBC:
-**** HALF [#C] 2.1. The Relics of Time :plot_yes:DW2022_10_doctor:
+**** Hornets' Nest
+**** Demon Quest
+***** HALF [#C] 2.1. The Relics of Time :plot_yes:DW2022_10_doctor:
 SCHEDULED: <2022-10-29 Sat>
 :PROPERTIES:
 :rating:   7.8
 :END:
 
-**** [#D] 2.2 The Demon of Paris
-**** [#D] 2.3. A Shard of Ice
-**** [#C] 3.1. Tsar Wars
-**** [#C] 3.2. The Broken Crown
-**** [#C] 3.3. Aladdin Time
-**** [#B] 3.4 The Hexford Invasion
+***** [#D] 2.2 The Demon of Paris
+***** [#D] 2.3. A Shard of Ice
+**** Serpent Crest
+***** [#C] 3.1. Tsar Wars
+***** [#C] 3.2. The Broken Crown
+***** [#C] 3.3. Aladdin Time
+***** [#B] 3.4 The Hexford Invasion
 :PROPERTIES:
 :rating:   8.4
 :END:
 
-**** [#B] 3.5 Survivors in Space
+***** [#B] 3.5 Survivors in Space
 :PROPERTIES:
 :rating:   8.1
 :END:

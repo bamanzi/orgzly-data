@@ -1141,7 +1141,7 @@ CLOSED: <2020-12-17 Thu 19:57>
 **** 4.2 Dissolution
 **** 4.3 Beyond
 **** 4.4 Homecoming
-*** _📂vol.2 Warbringer_ :P2021_12:
+*** _📂vol.2 Warbringer_ :War_Doctor:P2021_12:
 **** START [#E] 2.1 - Consequences :DW2023_01_doctor:
 SCHEDULED: <2023-01-31 Tue>
 :PROPERTIES:
@@ -1159,7 +1159,7 @@ SCHEDULED: <2023-04-17 Mon>
 :rating:   7.3
 :END:
 
-*** _📂vol.3 Battlegrounds_ :P2022_05:
+*** _📂vol.3 Battlegrounds_ :War_Doctor:P2022_05:
 **** [#C] 3.1 - The Keeper of Light
 **** [#E] 3.2 - Temmosus
 **** [#B] 3.3 - Rewind
