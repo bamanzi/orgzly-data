@@ -366,7 +366,7 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 
 ***** BLOCK /50. Absent Friends/ (missing)
 ***** [#A] 50X. The Black Knight (8.6) :Norton:
-***** [#A] 51. The Five People You Kill in Middlebrough (8.5) :Yvonne:plot_yes:DW2023_04_maybe:
+***** [#A] 51. The Five People You Kill in Middlebrough :Yvonne:plot_yes:DW2023_04_maybe:
       SCHEDULED: <2023-05-01 Mon>
       :PROPERTIES:
       :rating:   8.5
@@ -400,7 +400,7 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 ***** [#A] 59. Sonny (8.9) :Rhys:
 ***** CANCEL [#E] 60. Infidel Places+ (6.7) :Queen:
 **** series 8 (61-72)
-***** TODO [#C] 61. War Chest :Tosh:P2022_05:DW2023_04_spinoffs:
+***** HALF [#C] 61. War Chest :Tosh:P2022_05:DW2023_04_spinoffs:
       SCHEDULED: <2023-04-09 Sun>
 
 ***** [#D] 62. Dead Plates :Bilis_Manger:
@@ -464,10 +464,12 @@ https://tardis.fandom.com/wiki/Parasite_(audio_story)
 ***** 3QTR [#B] Parasite #1-2 :DW2023_03_spinoffs:
       CLOSED: [2023-03-24 Fri 08:26] SCHEDULED: <2023-03-05 Sun>
 
-***** [#A] Parasite #3-4 :DW2023_04_spinoffs:
-      SCHEDULED: <2023-04-30 Sun>
+***** HALF [#A] Parasite #3-4 :DW2023_04_spinoffs:
+      SCHEDULED: <2023-04-09 Sun>
 
-***** [#A] Parasite #5-6 :DW2023_05_spinoffs:
+***** HALF [#A] Parasite #5-6 :DW2023_04_spinoffs:
+      SCHEDULED: <2023-04-23 Sun>
+
 **** Torchwood Soho: Ashenden :Norton:P2021:plot_yes:
 ***** [#C] 1. Pimlico                          (7.8)
 ***** [#B] 2. O Little Town Of Ashenden        (8.1)
@@ -986,7 +988,7 @@ Roberts Master
 *** 3QTR [#B] 7.1 The Monstrous Menagerie           (8.1) :DW2022_08_spinoffs:
     CLOSED: [2022-09-02 Fri 19:14] SCHEDULED: <2022-09-04 Sun>
 
-*** START [#D] 7.2 The Night of 1000 Stars           (7.2) :Leela:plot_no:DW2023_05_spinoffs:
+*** START [#D] 7.2 The Night of 1000 Stars           (7.2) :Leela:plot_no:DW2023_06_spinoffs:
 *** HALF [#A] 7.3 Murder at Moorsey Manor           (8.7) :DW2023_01_spinoffs:
     SCHEDULED: <2023-01-09 Mon 21:33>
 
@@ -1110,14 +1112,23 @@ Roberts Master
     CLOSED: [2023-02-14 Tue 23:04] SCHEDULED: <2022-12-28 Wed 08:50>
 
 ** series 5 :P2013:plot_yes:
-*** HALF [#E] 5.1 - Emancipation (6.9) :DW2023_02_spinoffs:
+*** HALF [#E] 5.1 - Emancipation :DW2023_02_spinoffs:
     SCHEDULED: <2023-02-15 Wed 08:48>
+    :PROPERTIES:
+    :rating:   6.9
+    :END:
 
-*** HALF [#E] 5.2 - Evolution (6.5) :DW2023_03_spinoffs:
+*** HALF [#E] 5.2 - Evolution :DW2023_03_spinoffs:
     SCHEDULED: <2023-03-05 Sun>
+    :PROPERTIES:
+    :rating:   6.5
+    :END:
 
-*** [#D] 5.3 - Arbitration (7.2) :Daleks:DW2023_04_spinoffs:
-    SCHEDULED: <2023-04-16 Sun>
+*** [#D] 5.3 - Arbitration :Daleks:DW2023_04_spinoffs:
+    SCHEDULED: <2023-04-30 Sun>
+    :PROPERTIES:
+    :rating:   7.2
+    :END:
 
 ** series 6 :P2013:
 *** [#C] 6.1 - Extermination (7.8)
@@ -1290,7 +1301,7 @@ http://drwhoguide.com/bs_a18.htm
      :rating:   7.9
      :END:
 
-**** [#B] 1.2 The Temple of Questions :Ruth_Leonidas:
+**** [#B] 1.2 The Temple of Questions :Ruth_Leonidas:DW2023_05_spinoffs:
      :PROPERTIES:
      :rating:   8.0
      :END:
@@ -1513,13 +1524,13 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
     :rating:   6.8
     :END:
 
-*** [#D] 2.3 - Treason and Plot :plot_cast:DW2023_05_spinoffs:
-    SCHEDULED: <2023-05-28 Sun>
+*** HALF [#D] 2.3 - Treason and Plot :plot_cast:DW2023_04_spinoffs:
+    SCHEDULED: <2023-04-16 Sun>
     :PROPERTIES:
     :rating:   7.2
     :END:
 
-*** [#B] 2.4 - Too Many Masters :Monk:DW2023_04_maybe:
+*** [#B] 2.4 - Too Many Masters :Monk:
     SCHEDULED: <2023-05-01 Mon>
     :PROPERTIES:
     :rating:   8.2
@@ -1538,8 +1549,8 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
 
 【【神秘博士广播剧】Masterful 混乱之主 03-哔哩哔哩】 https://b23.tv/cXQO9PZ
 
-*** TODO [#A] ST8.10 I Am The Master :DW2023_04_spinoffs:
-    SCHEDULED: <2023-04-30 Sun>
+*** TODO [#A] ST8.10 I Am The Master :DW2023_05_spinoffs:Master:
+    SCHEDULED: <2023-05-28 Sun>
 
 *** The Switching
 *** Terror of the Master :audiobook:
@@ -1942,12 +1953,12 @@ rating 8.7/8.3
 
 * UNIT :UNIT:
 ** UNIT
-*** [#E] 0. The Coup (6.6)
+*** [#E] 0. The Coup (6.6) :P2004:
 *** [#E] 1.1 Time Heals (6.5)
 *** [#D] 1.2 Snake Head (7.4)
 *** [#C] 1.3 The Longest Night (7.9)
-*** [#C] 1.4 The Wasting
-*** [#B] special: Dominion :7th_Dr:Klein:Ace:Master_bald:
+*** [#C] 1.4 The Wasting :P2005:Brig:
+*** [#B] special: Dominion :7th_Dr:Klein:Ace:Master_bald:P2012:
 ** UNIT: Brave New World
 
 Brave New World was a subseries of the UNIT audio series produced by Big Finish Productions. Beginning in 2022, it focused on the exploits of UNIT under the command of /Winifred Bambera/ (TV: Battlefield) along with her new team: /Sergeant Jean-Paul Savarin/ and /Dr Louise Rix/.
@@ -1956,9 +1967,13 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
 **** [#C] 1.1 Rogue State
 **** [#D] 1.2 Time Flies
 **** [#B] 1.3 Dark Side of the Moon
+*** Visitants :P2022_12:
+**** 2.1 The Frequency
+**** 2.2 Haunt
+**** 2.3 The Last Line of Defence
 * UNIT: The New Series :UNIT_new:🎧:
 ** UNIT 1: Extinction :Nestene:P2015:plot_yes:
-*** [#C] 1.1 Vanguard (7.5) :DW2023_05_spinoffs:
+*** [#C] 1.1 Vanguard (7.5) :DW2023_06_spinoffs:
     :PROPERTIES:
     :rating:   7.5
     :END:
@@ -2181,8 +2196,11 @@ http://www.drwhoguide.com/kaldor03.htm
      SCHEDULED: <2023-02-21 Tue 08:33>
 
 *** PG: Heritage 3 :P2020:
-**** [#C] 3.1 - Family Matters            (7.5) :DW2023_04_maybe:
-     SCHEDULED: <2023-04-30 Sun>
+**** [#C] 3.1 - Family Matters
+     SCHEDULED: <2023-05-01 Mon>
+     :PROPERTIES:
+     :rating:   7.5
+     :END:
 
 **** [#D] 3.2 - Whatever Remains          (7.2)
 **** [#B] 3.3 - Truth and Bone            (8.3)
@@ -2348,11 +2366,14 @@ http://www.drwhoguide.com/kaldor03.htm
 **** 3QTR [#C] 1.1 - It Takes a Thief (7.8) :plot_yes:DW2023_02_spinoffs:
      CLOSED: [2023-02-09 Thu 19:29] SCHEDULED: <2023-02-09 Thu 08:51>
 
-**** [#D] 1.2 - Skin Deep (7.2) :DW2023_03_spinoffs:
+**** HALF [#D] 1.2 - Skin Deep (7.2) :Sylvia:DW2023_03_spinoffs:
      SCHEDULED: <2023-03-26 Sun>
 
-**** [#D] 1.3 - Portrait of a Lady (7.0) :Sontarans:DW2023_04_spinoffs:
-     SCHEDULED: <2023-04-30 Sun>
+**** [#D] 1.3 - Portrait of a Lady :Sontarans:DW2023_04_spinoffs:
+     SCHEDULED: <2023-04-23 Sun>
+     :PROPERTIES:
+     :rating:   7.2
+     :END:
 
 **** [#C] 1.4 - Death on the Mile (7.7) :DW2023_05_spinoffs:
 *** series 2 :P2021:
@@ -2529,23 +2550,23 @@ From Donna's perspective, the anthology is set after /Forest of the Dead/.
     :END:
 
 ** The Worlds of Doctor Who :P2014:
-*** [#C] Mind Games :Jago:Litefoot:Ellie:Quick:
-*** [#D] The Reesinger Process :Gilmore:Rachel:Allison:Toby:
+*** [#C] Mind Games :Jago:Litefoot:Ellie:Quick:DW2023_05_spinoffs:
+*** [#D] The Reesinger Process :Gilmore:Rachel:Allison:Toby:DW2023_05_spinoffs:
 *** [#B] The Screaming Skull :Ruth:Charlie_Sato:Yates:Jago:Litefoot:
 *** [#D] Second Sight :6th_Dr:Romana_2:Leela:Yates:
 ** Classic Doctors, New Monsters
 *** CDNM vol.1 :P2016:
-**** [#B] 1.1 Fallen Angels :5th_Dr:
+**** DONE [#B] 1.1 Fallen Angels :5th_Dr:
 **** [#B] 1.2 Judoon in Chains :6th_Dr:
 **** CANCEL [#E] 1.3 Harvest of the Sycorax :7th_Dr:
-**** [#C] 1.4 The Sontaran Ordeal :8th_Dr:time_war:
+**** DONE [#C] 1.4 The Sontaran Ordeal :8th_Dr:time_war:
 *** CDNM vol.2 :P2017:
-**** [#C] 2.1 Night of the Vashta Nerada :4th_Dr:
-**** [#F] 2.2 Empire of the Racnoss :5th_Dr:
+**** DONE [#C] 2.1 Night of the Vashta Nerada :4th_Dr:
+**** CANCEL [#F] 2.2 Empire of the Racnoss :5th_Dr:
 **** [#D] 2.3 The Carrionite Curse :6th_Dr:
-**** [#C] 2.4 Day of the Vashta Nerada :8th_Dr:time_war:
+**** DONE [#C] 2.4 Day of the Vashta Nerada :8th_Dr:time_war:
 *** CDNM vol.3 The Stuff of Nightmares :P2022_07:
-**** [#D] 3.1 The House That Hoxx Built :3rd_Dr:Sarah:
+**** HALF [#D] 3.1 The House That Hoxx Built :3rd_Dr:Sarah:
 **** [#C] 3.2 The Tivolian Who Knew Too Much :4th_Dr:Leela:
 **** READY [#A] 3.3 Together In Eclectic Dreams :6th_Dr:bilibili:
 

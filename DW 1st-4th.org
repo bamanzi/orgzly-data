@@ -313,7 +313,7 @@ CLOSED: [2021-06-26 Sat 09:13]
 :rating:   9.2
 :END:
 
-**** READY [#C] LS2.1b The Fragile Yellow Arc of Fragrance :1CD:plot_yes:
+**** READY [#C] LS2.1b The Fragile Yellow Arc of Fragrance :1CD:plot_yes:DW2023_05_doctor:
 *** short trips
 **** [#B] ST1.1 Rise and Fall
 **** [#C] ST2.1 - 1963 :Ian:Barbara:Vicki:
@@ -398,7 +398,10 @@ UNIT 和 准将第一次正式出场
 
 寒冰勇士第二次出场, 试图入侵地球
 
-**** +06x06 The Space Pirates+ :missing:
+**** [#F] +06x06 The Space Pirates+ :missing:
+:PROPERTIES:
+:rating:   5.5
+:END:
 
 (6集中仅有第2集幸存，未做字幕)
 
@@ -452,9 +455,7 @@ CLOSED: [2022-04-27 Wed 21:33] SCHEDULED: <2022-04-29 Fri>
 :END:
 
 ***** READY [#D] 2.2 The Forsaken :Jamie:Polly:Ben:plot_yes:
-***** 2DONE [#B] 2.3 The Black Hole (8.1) :Jamie:Victoria:D2021_06:Monk:
-CLOSED: [2021-06-19 Sat 11:50]
-
+***** HALF [#B] 2.3 The Black Hole (8.1) :Jamie:Victoria:D2021_06:Monk:
 ***** CANCEL [#E] 2.4 The Isos Network :Jamie:Zoe:Cybermen:plot_yes:
 **** EA S4
 ***** READY [#C] 4.1 The Night Witches :Jamie:Polly:Ben:plot_yes:
@@ -654,8 +655,8 @@ SCHEDULED: <2022-06-05 Sun>
 :END:
 
 *** TV Soundtracks
-**** LTV4.4 The Abominable Snowmen :Jamie:Victoria:DW2023_04_doctor:
-SCHEDULED: <2023-04-01 Sat>
+**** HALF LTV4.4 The Abominable Snowmen :Jamie:Victoria:DW2023_04_doctor:
+SCHEDULED: <2023-04-08 Sat>
 
 *** BBC
 **** [#B] The Elysian Blade (BBC) :P2019:Jamie:Victoria:1CD:
@@ -884,9 +885,7 @@ There's a secret locked up in UNIT's Vault 75-73/Whitehall. Dr Elizabeth Shaw�
 ***** HALF [#C] CC1.3 The Blue Tooth (7.5) :scripted:UNIT:cybermen:DW2022_07_doctor:
 SCHEDULED: <2022-07-09 Sat>
 
-"I suppose that was one of the Doctor's most endearing qualities: the ability to make the bizarre and the terrifying seem utterly normal."
-
-When Liz Shaw's friend Jean goes missing, the Doctor and U.N.I.T. are drawn to the scene to investigate. Soon Liz discovers a potential alien invasion that will have far-reaching affects on her life... and the Doctor is unexpectedly re-united with an old enemy...
+【广播剧 - The Blue Tooth 蓝色牙齿 (剧情解说)-哔哩哔哩】 https://b23.tv/SDbN8U7
 
 ***** 2DONE [#D] CC6.9 Binary (7.3)
 CLOSED: [2020-08-07 Fri 18:26]
@@ -1049,7 +1048,7 @@ CLOSED: [2020-07-16 Thu 19:10]
 
 **** DONE [#A] 13x03 - Pyramids of Mars †8.6) :Sutekh:
 **** [#C] 13x04 - The Android Invasion †7.6)
-**** DONE 13x05 - The Brain of Morbius †8.4)
+**** DONE [#B] 13x05 - The Brain of Morbius †8.4)
 **** DONE [#A] 13x06 - The Seeds of Doom †8.7)
 *** S14
 **** DONE [#C] 14x01 - The Masque of Mandragora †7.8)
@@ -1425,7 +1424,7 @@ CLOSED: [2020-06-25 Thu 21:56]
 :END:
 
 ***** [#B] STR3.4 The Warren Legacy :Romana_1:P2015:DW2023_04_doctor:
-SCHEDULED: <2023-04-04 Tue>
+SCHEDULED: <2023-04-22 Sat>
 :PROPERTIES:
 :rating:   7.9
 :END:
@@ -1528,7 +1527,7 @@ http://www.drwhoguide.com/chronicles07.htm
 :rating:   7.7
 :END:
 
-*** TODO [#C] CC6.1 Tales From the Vault :Ruth:UNIT:Jo:Romana_1:Zoe:Steven:1st_Dr:2nd_Dr:3rd_Dr:4th_Dr:the_Vault:plot_yes:DW2023_04_spinoffs:
+*** HALF [#C] CC6.1 Tales From the Vault :Ruth:UNIT:Jo:Romana_1:Zoe:Steven:1st_Dr:2nd_Dr:3rd_Dr:4th_Dr:the_Vault:plot_yes:DW2023_04_spinoffs:
 SCHEDULED: <2023-04-09 Sun>
 :PROPERTIES:
 :rating:   7.5
