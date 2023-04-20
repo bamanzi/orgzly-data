@@ -426,7 +426,7 @@ Topps 漫画#22也是“鬼压床”这个主题
 CLOSED: [2020-11-13 Fri 19:34]
 
 * Fringe :fringe:
-** DONE Fringe S1 (20 ep) :📺:
+** DONE Fringe S1 (20 ep) :📺:P2008:
 SCHEDULED: <2022-03-31 Thu>
 
 *** DONE 1x01, 02
@@ -435,7 +435,7 @@ CLOSED: [2022-02-19 Sat 20:28]
 *** DONE 1x03
 CLOSED: <2022-02-25 Fri 23:25>
 
-*** DONE 1x04 :Observer:
+*** DONE 1x04 The Arrival :Observer:
 CLOSED: [2022-02-27 Sun 20:48]
 
 *** DONE 1x05,06
@@ -477,7 +477,7 @@ CLOSED: [2022-04-27 Wed 00:30]
 *** DONE 1x20
 CLOSED: [2022-04-29 Fri 20:23]
 
-** Fringe S2
+** Fringe S2 :📺:P2009:
 *** DONE 2x01
 CLOSED: [2023-03-25 Sat 07:21]
 
@@ -490,10 +490,28 @@ CLOSED: [2023-04-03 Mon 08:13]
 *** DONE 2x04
 CLOSED: [2023-04-08 Sat 22:39]
 
-*** 2x05
+*** DONE 2x05
+CLOSED: [2023-04-10 Mon 19:48]
+
+*** DONE 2x06
+CLOSED: [2023-04-13 Thu 08:08]
+
+*** DONE 2x07
+CLOSED: [2023-04-15 Sat 19:41]
+
+*** DONE 2x08 August :Observer:
+CLOSED: [2023-04-16 Sun 16:22]
+
 ** comics :📚:
 *** DONE Fringe (vol.1)
 CLOSED: [2022-03-29 Tue 23:27]
 
 *** Tales from the Fringe (2010-2011)
 *** Beyond the Fringe (2011-2012)
+* Taken
+** DONE 1x01
+CLOSED: [2023-04-18 Tue 08:08]
+
+** DONE 1x02
+CLOSED: [2023-04-19 Wed 20:35]
+

@@ -33,7 +33,9 @@ CLOSED: <2022-02-05 Sat 17:17>
 **** DONE 卷五：一场游戏一场梦 (A Game of You, #32-37)
 CLOSED: [2022-03-17 Thu 07:27]
 
-**** TPB.6 Fables and Reflections (#29-31, #38-40, #50)
+**** DONE TPB.6 Fables and Reflections (#29-31, #38-40, #50)
+CLOSED: [2023-04-13 Thu 13:08]
+
 **** TPB.7 Brief Lives (#41-49)
 **** TPB.8 Worlds' End (#51-56)
 **** TPB.9 The Kindly Ones (#57-69)
@@ -51,6 +53,9 @@ CLOSED: [2022-02-03 Thu 11:32]
 **** TODO The Dreaming v2 (2018-2020, 20 issues) :hanzify:
 
 幻梦境 （前期期有东尔汉化）
+
+***** DONE #1-6 :hanzify:
+CLOSED: [2023-04-18 Tue 23:17]
 
 **** Lucifer v3 (2018-2020, 24 issues) :hanzify:
 
@@ -605,6 +610,15 @@ CLOSED: [2023-04-07 Fri 20:12]
 
 *** DONE 14x04
 CLOSED: [2023-04-07 Fri 20:55]
+
+*** DONE 14x05
+CLOSED: <2023-04-13 Thu 19:53>
+
+*** DONE 14x06
+CLOSED: [2023-04-13 Thu 21:24]
+
+*** DONE 14x07
+CLOSED: [2023-04-18 Tue 19:24]
 
 ** S15
 
