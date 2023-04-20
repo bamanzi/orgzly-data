@@ -448,8 +448,8 @@ CLOSED: <2023-04-09 Sun 21:10> SCHEDULED: <2023-04-08 Sat>
 :rating:   7.7
 :END:
 
-***** [#C] 3.3 - The Doomsday Chronometer :River:DW2023_04_doctor:
-SCHEDULED: <2023-04-15 Sat>
+***** TODO [#C] 3.3 - The Doomsday Chronometer :River:DW2023_04_doctor:
+DEADLINE: <2023-04-23 Sun> SCHEDULED: <2023-04-15 Sat>
 :PROPERTIES:
 :rating:   7.9
 :END:
@@ -754,6 +754,8 @@ The Daleks attack Gallifrey, and imprison Romana for twenty years.
 **** AUDIO: Arbitration (Gallifrey #5.3)
 
 The Daleks infiltrate the Axis, and attack Gallifrey.
+
+仅最后两分钟才与 Daleks 有关
 
 **** AUDIO: Renaissance (Gallifrey #6.2)
 **** AUDIO: Ascension (Gallifrey #6.3)
@@ -1148,8 +1150,8 @@ SCHEDULED: <2023-01-31 Tue>
 :rating:   6.8
 :END:
 
-**** [#D] 2.2 - Destroyer :DW2023_04_doctor:
-SCHEDULED: <2023-04-22 Sat>
+**** START [#D] 2.2 - Destroyer :DW2023_04_doctor:
+DEADLINE: <2023-04-22 Sat>
 :PROPERTIES:
 :rating:   7.2
 :END:

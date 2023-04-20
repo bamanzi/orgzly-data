@@ -499,7 +499,7 @@ SCHEDULED: <2023-02-21 Tue 08:51>
 【【神秘博士广播剧熟肉】Dalek Universe 201 Cycle of Destruction-哔哩哔哩】 https://b23.tv/YGpWAbr
 
 ***** READY [#A] DU2.2 - The Trojan Dalek :bilibili:DW2023_04_doctor:
-SCHEDULED: <2023-04-29 Sat>
+DEADLINE: <2023-04-29 Sat>
 :PROPERTIES:
 :rating:   8.6
 :END:

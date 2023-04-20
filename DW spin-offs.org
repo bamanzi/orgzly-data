@@ -366,7 +366,7 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 
 ***** BLOCK /50. Absent Friends/ (missing)
 ***** [#A] 50X. The Black Knight (8.6) :Norton:
-***** [#A] 51. The Five People You Kill in Middlebrough :Yvonne:plot_yes:DW2023_04_maybe:
+***** [#A] 51. The Five People You Kill in Middlebrough :Yvonne:plot_yes:DW2023_09_spinoffs:
       SCHEDULED: <2023-05-01 Mon>
       :PROPERTIES:
       :rating:   8.5
@@ -401,7 +401,7 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 ***** CANCEL [#E] 60. Infidel Places+ (6.7) :Queen:
 **** series 8 (61-72)
 ***** HALF [#C] 61. War Chest :Tosh:P2022_05:DW2023_04_spinoffs:
-      SCHEDULED: <2023-04-09 Sun>
+      DEADLINE: <2023-04-23 Sun> SCHEDULED: <2023-04-19 Wed 08:42>
 
 ***** [#D] 62. Dead Plates :Bilis_Manger:
 ***** [#A] 63. Restricted Items Archive Entries 031–049 :Ianto:
@@ -464,11 +464,11 @@ https://tardis.fandom.com/wiki/Parasite_(audio_story)
 ***** 3QTR [#B] Parasite #1-2 :DW2023_03_spinoffs:
       CLOSED: [2023-03-24 Fri 08:26] SCHEDULED: <2023-03-05 Sun>
 
-***** HALF [#A] Parasite #3-4 :DW2023_04_spinoffs:
-      SCHEDULED: <2023-04-09 Sun>
+***** 2DONE [#A] Parasite #3-4 :DW2023_04_spinoffs:
+      CLOSED: [2023-04-11 Tue 08:29] SCHEDULED: <2023-04-09 Sun>
 
 ***** HALF [#A] Parasite #5-6 :DW2023_04_spinoffs:
-      SCHEDULED: <2023-04-23 Sun>
+      DEADLINE: <2023-04-23 Sun>
 
 **** Torchwood Soho: Ashenden :Norton:P2021:plot_yes:
 ***** [#C] 1. Pimlico                          (7.8)
@@ -1124,8 +1124,8 @@ Roberts Master
     :rating:   6.5
     :END:
 
-*** [#D] 5.3 - Arbitration :Daleks:DW2023_04_spinoffs:
-    SCHEDULED: <2023-04-30 Sun>
+*** HALF [#D] 5.3 - Arbitration :Daleks:DW2023_04_spinoffs:
+    DEADLINE: <2023-04-23 Sun> SCHEDULED: <2023-04-17 Mon 09:51>
     :PROPERTIES:
     :rating:   7.2
     :END:
@@ -2362,22 +2362,22 @@ http://www.drwhoguide.com/kaldor03.htm
 *** [#D] 1.3 The Skies of New Earth (7.1)
 *** [#D] 1.4 The Cats of New Cairo (7.2)
 ** Lady Christina :Christina:
-*** series 1 :P2018:plot_yes:Sam_Bishop:
+*** series 1 :P2018:plot_yes:
 **** 3QTR [#C] 1.1 - It Takes a Thief (7.8) :plot_yes:DW2023_02_spinoffs:
      CLOSED: [2023-02-09 Thu 19:29] SCHEDULED: <2023-02-09 Thu 08:51>
 
 **** HALF [#D] 1.2 - Skin Deep (7.2) :Sylvia:DW2023_03_spinoffs:
      SCHEDULED: <2023-03-26 Sun>
 
-**** [#D] 1.3 - Portrait of a Lady :Sontarans:DW2023_04_spinoffs:
-     SCHEDULED: <2023-04-23 Sun>
+**** START [#D] 1.3 - Portrait of a Lady :Sam_Bishop:Sontarans:DW2023_04_spinoffs:
+     DEADLINE: <2023-04-30 Sun>
      :PROPERTIES:
      :rating:   7.2
      :END:
 
 **** [#C] 1.4 - Death on the Mile (7.7) :DW2023_05_spinoffs:
 *** series 2 :P2021:
-**** [#D] 2.1 - The Wreck (7.2?)
+**** [#D] 2.1 - The Wreck (7.2)
 **** [#D] 2.2 - Walkabout (7.0?)
 **** [#D] 2.3 - Long Shot (7.0?)
 ** Jenny - the Doctor's Daughter

@@ -1482,38 +1482,39 @@
 * DW2023-04
 ** dw2023-04-doctor
 *** HALF [#B] LTV4.4 The Abominable Snowmen :2nd_Dr:Jamie:Victoria:2CD:
-*** [#A] STR3.4 The Warren Legacy :4th_Dr:Romana_1:
-*** HALF [#B] 6DLA #4 The Brink of Death :6th_Dr:Mel:Valeyard:
+*** HALF [#A] STR3.4 The Warren Legacy                      :4th_Dr:Romana_1:
+*** 3QTR [#B] 6DLA #4 The Brink of Death            :6th_Dr:Mel:Valeyard:
 *** 3QTR [#C] 8DDC 3.2 The Eighth Piece :8th_Dr:Liv:Helen:River:
 *** [#C] 8DDC 3.3 The Doomsday Chronometer :8th_Dr:Liv:Helen:River:
 *** [#A] DU2.2 - The Trojan Dalek #bilibili :10th_Dr:Anya:Mark_7:
-*** [#D] WDB 2.2 - Destroyer :War_Doctor:
+*** HALF [#D] WDB 2.2 - Destroyer                                :War_Doctor:
 ** dw2023-04-spinoffs
 *** HALF [#A] TW Soho: Parasite (p4-p6) :Norton:Andy:
 *** HALF [#C] TW61 War Chest :Tosh:
-*** HALF [#C] CC6.1 Tales from the Vault :Ruth:the_Vault:
-*** [#D] Mar8 1.3 Inside Every Warrior :TPG:
+*** 3QTR [#C] CC6.1 Tales from the Vault                     :Ruth:the_Vault:
+*** HALF [#D] Mar8 1.3 Inside Every Warrior                             :TPG:
 *** HALF [#D] Missy 2.3 Treason and Plot :Missy:
-*** [#D] Gallifrey 5.3 Arbiration :Romana_2:Leela:Narvin:
+*** HALF [#D] Gallifrey 5.3 Arbiration                :Romana_2:Leela:Narvin:
 *** [#D] Lady 1.3 - Portrait of a Lady
 * DW2023-05
 ** dw2023-05-doctor
 *** [#C] LS2.1b The Fragile Yellow Arc of Fragrance :1st_Dr:Susan:Ian:Barbara:
 *** TODO [#B] 3DA8.1. Conspiracy in Space :3rd_Dr:Jo:plot_yes:2cd:
-*** TODO [#D] +3DA1.1 Prisoners of the Lake+
 *** [#B] 5DWS1.1. The Garden of Storms :5th_Dr:Leela:Zara:Abby:
 *** TODO [#A] UNIT: Dominion p1-2 :7th_Dr:Klein:UNIT:Master_bald:Ace:2cd:
 *** 9DFM0.4 - The Beast of Babylon :9th_Dr:
 *** [#A] 11DC 3.1 The Inheritance :11th_Dr:
 ** dw2023-05-spinoffs
-*** TODO [#A] TW Soho: Parasite (p5-p6) :Norton:Andy:
-*** TODO [#B] TW BBC #2 Asylum
 *** TODO [#C] TW56. The Red List :Ace:Colchester:
+*** TODO [#B] TW BBC #2 Asylum
 *** WoDW1 - Mind Games :Jago:Litefoot:
 *** WoDW2 - The Reesinger Process :CM:
 *** TODO [#A] ST8.10 I Am The Master :Master_decayed:
 *** [#B] BSBOX1.2 The Temple of Questions :Benny:
 *** [#C] Lady 1.4 Death on the Mile
+** pending
+*** TODO [#D] 3DA1.1 Prisoners of the Lake                    :3rd_Dr:Jo:2cd:
+
 * pending
 ** doctor
 *** [#C] EA4.1 The Night Witches :2nd_Dr:Jamie:Polly:Ben:
@@ -1522,14 +1523,12 @@
 *** [#B] MR159 The Emerald Tiger :5th_Dr:Nyssa:
 *** [#D] 22A.1 The Rotting Deep :6th_Dr:Mel:Hebe:
 *** [#C] MR194. The Rani Elite :6th_Dr:Peri:Rani:
-*** [#C] 6DnP #1 The Headless Ones 1cd :6th_Dr:Peri:
+*** [#C] 6DnP #1 The Headless Ones :6th_Dr:Peri:1cd:
 *** [#A] NA01 Damaged Goods :7th_Dr:Benny:Ace:
 *** [#C] ST9.9 Dead Media :12th_Dr:
 *** [#C] DoRS2.1 The Unknown :7th_Dr:River:
 ** spinoffs
 *** [#A] TW43 The Three Monkeys :Owen:Andy:
-*** TODO [#B] TW BBC #2 Asylum
 *** TODO [#A] TW51 The Five People You Kill in Middlebrough :Yvonne:
 *** KC #4 taren Capel :Kaldor_Robots:
 *** [#C] River 6.4 The Talents of Grel :River:Jago:
-*** [#A] WM6.1 The Sincerest Form of Flattery :Master_war:
