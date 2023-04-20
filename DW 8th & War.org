@@ -810,7 +810,7 @@ CLOSED: [2020-09-23 Wed 12:53]
 **** DONE GTW1.2 Soldier Obscura (Gallifrey: Time War #1.2)
 CLOSED: <2020-11-07 Sat 10:33>
 
-**** _The War Master series 3: Rage of the Time Lords_ :Master_war:scripted:
+**** _📂The War Master series 3: Rage of the Time Lords_ :Master_war:scripted:
 ***** DONE [#C] WM3.1 The Survivor
 CLOSED: <2020-12-30 Wed 07:42>
 :PROPERTIES:
@@ -835,7 +835,7 @@ CLOSED: [2021-01-06 Wed 09:03]
 :rating:   8.5
 :END:
 
-**** _The War Master series 5: Hearts of Darkness_ :Master_War:🎧:
+**** _📂The War Master series 5: Hearts of Darkness_ :Master_War:🎧:
 ***** 2DONE [#B] 5.1 - The Edge of Redemption :plot_yes:DW2022_11_spinoffs:
 CLOSED: [2022-11-07 Mon 20:49] SCHEDULED: <2022-11-09 Wed>
 :PROPERTIES:
@@ -860,7 +860,12 @@ CLOSED: [2023-02-19 Sun 16:18] SCHEDULED: <2023-02-17 Fri 08:20>
 :rating:   8.9
 :END:
 
-**** _The War Master series 4: Anti-Genesis_ :Master_war:scripted:
+**** _📂The War Master series 8: Escape from Reality_ :P2022_12:Master_war:
+***** 8.1 The Wrath of Medusa
+***** 8.2 The Shadow Master
+***** 8.3 The Adventure of the Deceased Doctor :Holmes:
+***** 8.4 The Master of Dorian Gray
+**** _📂The War Master series 4: Anti-Genesis_ :Master_war:scripted:
 ***** DONE [#B] 4.1 From the Flames :has_plot:D2021_10_master:
 CLOSED: <2021-01-16 Sat 22:52>
 :PROPERTIES:
@@ -927,12 +932,12 @@ CLOSED: [2020-11-09 Mon 18:14]
 The N-Forms receive an activation call, setting this after /Desperate Measures/
 
 **** HALF A Heart on Both Sides (Short Trips #7.9)
-**** _The War Master series 6: Killing Time_ :Master_war:P2021:
+**** _📂The War Master series 6: Killing Time_ :Master_war:P2021:
 ***** [#A] 6.1 - The Sincerest Form of Flattery
 ***** [#A] 6.2 - A Quiet Night In
 ***** [#A] 6.3 - The Orphan
 ***** [#A] 6.4 - Unfinished Business
-**** _The War Master series 7: Self-Defence_ :Master_war:
+**** _📂The War Master series 7: Self-Defence_ :Master_war:
 ***** [#B] 7.1 The Forest Penitence :bilibili:
 
 【【广播剧汉化】恶魔的低语 The War Master 战争法师 701 The Forest Penitence-哔哩哔哩】 https://b23.tv/fdIB3vT
@@ -960,7 +965,7 @@ CLOSED: <2019-10-29 Tue 13:59>
 
 **** PROSE: The Stranger :War_Doctor:
 ** Rassilon's Return
-*** 8D Time War vol.1 :Bliss:P2017:scripted:
+*** 📂8D Time War vol.1 :Bliss:P2017:scripted:
 **** DONE [#B] The Starship of Theseus
 CLOSED: <2019-09-23 Mon 12:53>
 :PROPERTIES:
@@ -985,7 +990,7 @@ CLOSED: [2020-09-23 Wed 12:53]
 :rating:   7.9
 :END:
 
-*** Gallifrey: Time War vol.2 :P2019:
+*** 📂Gallifrey: Time War vol.2 :P2019:
 **** DONE Havoc
 CLOSED: [2020-11-12 Thu 07:48]
 
@@ -998,7 +1003,7 @@ CLOSED: [2020-11-12 Thu 07:48]
 **** DONE Assassins
 CLOSED: [2020-11-12 Thu 07:48]
 
-*** Gallifrey: Time War vol.3 :P2020:
+*** 📂Gallifrey: Time War vol.3 :P2020:
 **** DONE Hostiles
 CLOSED: [2020-12-17 Thu 19:53]
 
@@ -1008,7 +1013,7 @@ CLOSED: [2020-12-17 Thu 19:53]
 **** DONE Mother Tongue
 CLOSED: [2020-12-17 Thu 19:53]
 
-*** Susan's War :Susan:
+*** 📂Susan's War :Susan:
 **** Dalek Combat Training Manual (novel)
 **** DONE All Hands on Deck (Short Trips #7.10) :8th_Dr:bilibili:
 CLOSED: [2020-09-23 Wed 12:53]
@@ -1029,7 +1034,7 @@ CLOSED: [2020-09-23 Wed 12:53]
 【【神秘博士广播剧汉化】Susan's War 苏珊的战争 103 Assets of War-哔哩哔哩】https://b23.tv/rjUz2u
 
 **** 4. The Shoreditch Intervention
-*** 8D Time War vol.2 :Bliss:P2018:scripted:
+*** 📂8D Time War vol.2 :Bliss:P2018:scripted:
 **** 2DONE [#C] 2.1 The Lords of Terror
 CLOSED: [2020-12-09 Wed 19:04]
 :PROPERTIES:
@@ -1052,7 +1057,7 @@ CLOSED: [2020-12-09 Wed 19:04]
 :rating:   7.2
 :END:
 
-*** 8D Time War vol.3 :Bliss:P2019:scripted:
+*** 📂8D Time War vol.3 :Bliss:P2019:scripted:
 **** START [#E] 3.1 State of Bliss
 :PROPERTIES:
 :rating:   6.8
@@ -1075,7 +1080,7 @@ CLOSED: [2020-12-09 Wed 19:04]
 
 【【广播剧翻译】Valeyard复活参战？时间大战 304 The War Valeyard-哔哩哔哩】 https://b23.tv/klLTjmK
 
-*** 8D Time War vol.4 :Bliss:P2020:scripted:
+*** 📂8D Time War vol.4 :Bliss:P2020:scripted:
 **** 3QTR [#A] 4.1/4.2 The Palindrome :D2021_10_davros:Davros:
 CLOSED: [2021-10-25 Mon 08:47]
 :PROPERTIES:
@@ -1097,7 +1102,7 @@ CLOSED: <2021-11-26 Fri 09:50> DEADLINE: <2021-11-26 Fri 21:54> SCHEDULED: <2021
 :rating:   9.2
 :END:
 
-*** 8D Time War vol.5 Cass :Cass:P2023_01:plot_yes:
+*** 📂8D Time War vol.5 Cass :Cass:P2023_01:plot_yes:
 **** 5.1 Meanwhile, Elsewhere
 **** 5.2 Vespertine
 **** 5.3 Previously, Next Time :2CD:
@@ -1135,7 +1140,7 @@ CLOSED: [2022-11-12 Sat 19:31] SCHEDULED: <2022-10-16 Sun>
 The young looking War Doctor makes a decision. In one outcome, he ends up a Dalek spy.
 
 *** DONE The Clockwise War (comic) :War_Doctor:12th_Dr:
-*** _Gallifrey: Time War vol.4_
+*** _📂Gallifrey: Time War vol.4_
 **** DONE GTW3.4 Unity
 CLOSED: <2020-12-17 Thu 19:57>
 
@@ -1170,7 +1175,7 @@ DEADLINE: <2023-04-22 Sat>
 *** Ambush (comic)
 ** The War Doctor
 *** 11DY2 (comics)
-*** The War Doctor vol.1 :scripted:
+*** 📂The War Doctor vol.1 :scripted:
 **** [#B] 1.1 - The Innocent
 **** [#C] 1.2 - The Thousand Worlds
 **** [#B] 1.3 - The Heart of the Battle

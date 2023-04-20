@@ -93,7 +93,7 @@ CLOSED: [2022-07-31 Sun 08:14] SCHEDULED: <2022-07-16 Sat>
 ***** HALF [#B] EA3.4 The Sontarans (8.0) :D2021_09_dr:Sara_Kingdom:Steven:plot_yes:
 SCHEDULED: <2021-09-22 Wed>
 
-**** EA S5 :P2018:
+**** EA S5 :P2018:Vicki:Steven:
 ***** DONE [#A] EA5.1 The Dalek Occupation of Winter (9.0) :Steven:Vicki:daleks:plot_yes:DW2022_11_doctor:
 CLOSED: [2022-11-04 Fri 13:26] SCHEDULED: <2022-11-01 Tue>
 
@@ -836,6 +836,8 @@ SCHEDULED: <2022-05-28 Sat>
 
 block原因：太长（3CD）
 
+/The Annihilators/ was the first 7 part story made by Big Finish
+
 **** CANCEL [#E] 22B. Kaleidoscope :Sarah:Harry:Brigadier:P2022_10:3CD:
 **** 23A. The Return of Jo Jones :Jo:P2023_02:1CD:P2023_02:
 ***** [#D] 23A.1 Supernature
@@ -951,7 +953,7 @@ SCHEDULED: <2022-03-30 Wed>
 :END:
 
 **** Short Trips
-***** [#A] STS 39 Still Life :P2019:
+***** [#A] STS 39 Still Life :Jo:P2019:
 :PROPERTIES:
 :rating:   9.3
 :END:

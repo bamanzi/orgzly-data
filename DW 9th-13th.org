@@ -109,8 +109,18 @@ CLOSED: [2023-03-21 Tue 08:07] SCHEDULED: <2023-03-11 Sat>
 【【神秘博士广播剧熟肉】Shades of Fear 803 Red Darkness 赤红黑暗-哔哩哔哩】 https://b23.tv/RPnCOqH
 
 **** TBR S3.1 Pioneers :P2023_05:
-*** 9DC
-**** HALF [#C] 1.4 Retail Therapy :Jackie:DW2022_11_doctor:
+*** 9DC :P2017:
+**** [#D] 1.1 The Bleeding Heart
+:PROPERTIES:
+:rating:   7.0
+:END:
+
+**** [#D] 1.3. The Other Side :Rose:Adam:
+:PROPERTIES:
+:rating:   7.2
+:END:
+
+**** HALF [#C] 1.4 Retail Therapy :Rose:Jackie:DW2022_11_doctor:
 SCHEDULED: <2022-11-29 Tue>
 :PROPERTIES:
 :rating:   7.8
@@ -570,6 +580,7 @@ DEADLINE: <2023-04-29 Sat>
 
 **** [#B] ST11.5 Fear of Flying
 *** BBC
+**** [#C] NSA #2 The Forever Trap
 **** READY [#A] NSA audio #7: Dead Air :1CD:bilibili:
 
 【【神秘博士广播剧熟肉】New Series Adventures Audio 7 Dead Air 寂静无声-哔哩哔哩】 https://b23.tv/KSGTaTK
@@ -702,9 +713,9 @@ SCHEDULED: <2022-03-30 Wed>
 :END:
 
 *** 11DC vol.3 Geronimo! :Valarie:P2022_10:plot_yes:
-**** READY 3.1 The Inheritance :DW2023_05_doctor:
-**** READY 3.2. The House of Masks
-**** READY 3.3 The End
+**** READY [#A] 3.1 The Inheritance :DW2023_05_doctor:
+**** READY [#A] 3.2 The House of Masks
+**** READY [#A] 3.3 The End
 *** 11DC vol.4 All of Time and Space :Valarie:P2023_02:
 **** 4.1 All of Time and Space
 **** 4.2 The Yearn
@@ -724,6 +735,7 @@ CLOSED: [2022-11-02 Wed 20:33] SCHEDULED: <2022-11-06 Sun>
 :rating:   7.9
 :END:
 
+**** [#D] DotD11. The Time Machine
 **** Timerift :11th_Dr:12th_Dr:fan_made:
 
 【【神秘博士】时间裂缝｜粉丝重制博士有声故事 'TIMERIFT' -  A DOCTOR WHO Audio Adventure-哔哩哔哩】 https://b23.tv/bsdJT2U
@@ -731,8 +743,8 @@ CLOSED: [2022-11-02 Wed 20:33] SCHEDULED: <2022-11-06 Sun>
 
 https://m.youtube.com/watch?v=7wrZUFIgiNE
 
-**** Paradis Lost (BBC) :Clara:1CD:P2020:
-**** [#B] NSA audio #15 The Art of Death :Amy:Rory:
+**** [#E] Paradis Lost (BBC) :Clara:1CD:P2020:
+**** [#B] NSA audio #15 The Art of Death :BBC:Amy:Rory:
 ** comics
 *** IDW
 **** Omnibus vol.1
