@@ -502,6 +502,15 @@ CLOSED: [2023-04-15 Sat 19:41]
 *** DONE 2x08 August :Observer:
 CLOSED: [2023-04-16 Sun 16:22]
 
+*** DONE 2x09
+CLOSED: [2023-04-22 Sat 11:48]
+
+*** DONE 2x10
+CLOSED: [2023-04-23 Sun 23:17]
+
+*** DONE 2x11
+CLOSED: [2023-04-25 Tue 09:00]
+
 ** comics :📚:
 *** DONE Fringe (vol.1)
 CLOSED: [2022-03-29 Tue 23:27]
@@ -514,4 +523,10 @@ CLOSED: [2023-04-18 Tue 08:08]
 
 ** DONE 1x02
 CLOSED: [2023-04-19 Wed 20:35]
+
+** DONE 1x03
+CLOSED: [2023-04-21 Fri 19:54]
+
+** DONE 1x04
+CLOSED: [2023-04-27 Thu 20:05]
 
