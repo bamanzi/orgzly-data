@@ -397,6 +397,8 @@ SCHEDULED: <2023-01-06 Fri 08:38>
 ***** [#A] Iterations of I
 **** Wicked Sisters :1CD:P2020:Zara:Abby:Leela:
 ***** [#C] The Garden of Storms :DW2023_05_doctor:
+SCHEDULED: <2023-05-21 Sun>
+
 ***** [#B] The Moonrakers
 ***** CANCEL [#E] The People Made of Smoke
 **** 📂21. The Lost Resort and Other Stories :Nyssa:Tegan:Marc:plot_yes:P2021_09:
@@ -701,7 +703,7 @@ CLOSED: [2021-10-18 Mon 20:15]
 :END:
 
 *** main range 201- :scripted:2CD:
-**** [#C] 204. Criss-Cross :Peri:Rani:
+**** [#C] 204. Criss-Cross :Constance:
 **** [#C] 212. Vampire of the Mind :Master:
 :PROPERTIES:
 :rating:   7.6
@@ -1174,13 +1176,15 @@ SCHEDULED: <2021-12-04 Sat>
 ***** 275B. Flight of the Blackstar
 *** 7DA
 **** V. Return of the Daleks :Susan_Mendes:Kalendorf:P2006:
-**** [#B] UNIT - Dominion :Klein:P2012:4CD:
+**** [#B] UNIT - Dominion :Klein:Master_bald:P2012:4CD:
 :PROPERTIES:
 :rating:   8.1
 :END:
 
-***** UNIT - Dominion p1-2 :DW2023_05_doctor:
-***** UNIT - Dominion p3-4 :DW2023_06_doctor:
+***** START UNIT - Dominion p1-2 :DW2023_05_doctor:
+SCHEDULED: <2023-05-13 Sat>
+
+***** UNIT - Dominion p3-4 :DW2023_07_doctor:
 **** 📂7DA New Adventures :P2018:Roz:Chris:1CD:
 ***** 3QTR [#D] 7DA 1.1 - The Trial of a Time Machine :DW2022_07_doctor:
 CLOSED: <2022-07-06 Wed 20:52> SCHEDULED: <2022-07-06 Wed>
@@ -1253,6 +1257,10 @@ SCHEDULED: <2023-03-25 Sat>
 :rating:   6.9
 :END:
 
+**** [#D] LS2.3 - Thin Ice :Raine:
+**** [#E] LS2.4 - Crime of the Century :Raine:
+**** [#D] LS2.5 Animal :Raine:
+**** [#D] LS2.6 Earth Aid :Raine:
 **** HALF [#C] River2.1 The Unknown :plot_yes:
 **** READY [#B] ST6.X - Forever Fallen :Ace:plot_yes:
 ** comics

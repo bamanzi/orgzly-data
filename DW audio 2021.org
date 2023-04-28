@@ -1450,6 +1450,9 @@
 *** HALF [#D] River7.2 Abbey of Heretics :River:
 * DW2023-02
 ** dw2023-02-doctor
+
+| 066 | MR105. The Condemned | 6th | Charley |
+
 *** HALF [#C] CC10.1 The Mouthless Dead :2nd_Dr:Jamie:Polly:Ben:
 *** 3QTR [#B] 4DA11.2. The Ravencliff Witch :4th_Dr:Margaret:2CD:
 *** 3QTR [#B] MR105 The Condemned :6th_Dr:Charley:2CD:
@@ -1466,6 +1469,9 @@
 *** 3QTR [#C] Lady Christina 1.1 - It Takes a Thief :Sam_Bishop:
 * DW2023-03
 ** dw2023-03-doctor
+
+| 067 | MR071. The Council of Nicaea | 5th | Peri, Erimem |
+
 *** 3QTR [#D] 1DA22.1 The Outlaws :1st_Dr:Dodo:Monk:2CD:
 *** TODO [#C] ST7.X Landbound :3rd_Dr:
 *** HALF [#C] MR071 The Council of Nicaea :5th_Dr:Peri:Erimem:2CD:
@@ -1482,53 +1488,57 @@
 * DW2023-04
 ** dw2023-04-doctor
 *** HALF [#B] LTV4.4 The Abominable Snowmen :2nd_Dr:Jamie:Victoria:2CD:
-*** HALF [#A] STR3.4 The Warren Legacy                      :4th_Dr:Romana_1:
-*** 3QTR [#B] 6DLA #4 The Brink of Death            :6th_Dr:Mel:Valeyard:
+*** HALF [#A] STR3.4 The Warren Legacy :4th_Dr:Romana_1:
+*** 3QTR [#B] 6DLA #4 The Brink of Death :6th_Dr:Mel:Valeyard:
 *** 3QTR [#C] 8DDC 3.2 The Eighth Piece :8th_Dr:Liv:Helen:River:
 *** [#C] 8DDC 3.3 The Doomsday Chronometer :8th_Dr:Liv:Helen:River:
 *** [#A] DU2.2 - The Trojan Dalek #bilibili :10th_Dr:Anya:Mark_7:
-*** HALF [#D] WDB 2.2 - Destroyer                                :War_Doctor:
+*** HALF [#D] WDB 2.2 - Destroyer :War_Doctor:
 ** dw2023-04-spinoffs
 *** HALF [#A] TW Soho: Parasite (p4-p6) :Norton:Andy:
 *** HALF [#C] TW61 War Chest :Tosh:
-*** 3QTR [#C] CC6.1 Tales from the Vault                     :Ruth:the_Vault:
-*** HALF [#D] Mar8 1.3 Inside Every Warrior                             :TPG:
+*** 3QTR [#C] CC6.1 Tales from the Vault :Ruth:the_Vault:
+*** HALF [#D] Mar8 1.3 Inside Every Warrior :TPG:
 *** HALF [#D] Missy 2.3 Treason and Plot :Missy:
-*** HALF [#D] Gallifrey 5.3 Arbiration                :Romana_2:Leela:Narvin:
+*** HALF [#D] Gallifrey 5.3 Arbiration :Romana_2:Leela:Narvin:
 *** [#D] Lady 1.3 - Portrait of a Lady
 * DW2023-05
 ** dw2023-05-doctor
 *** [#C] LS2.1b The Fragile Yellow Arc of Fragrance :1st_Dr:Susan:Ian:Barbara:
-*** TODO [#B] 3DA8.1. Conspiracy in Space :3rd_Dr:Jo:plot_yes:2cd:
+*** [#B] 3DA8.1. Conspiracy in Space :3rd_Dr:Jo:plot_yes:2cd:
 *** [#B] 5DWS1.1. The Garden of Storms :5th_Dr:Leela:Zara:Abby:
-*** TODO [#A] UNIT: Dominion p1-2 :7th_Dr:Klein:UNIT:Master_bald:Ace:2cd:
-*** 9DFM0.4 - The Beast of Babylon :9th_Dr:
+*** [#B] UNIT: Dominion p1-2 :7th_Dr:Klein:UNIT:Master_bald:Ace:2cd:
+*** [#D] 9DC1.3. The Other Side :9th_Dr:
 *** [#A] 11DC 3.1 The Inheritance :11th_Dr:
 ** dw2023-05-spinoffs
-*** TODO [#C] TW56. The Red List :Ace:Colchester:
-*** TODO [#B] TW BBC #2 Asylum
-*** WoDW1 - Mind Games :Jago:Litefoot:
-*** WoDW2 - The Reesinger Process :CM:
-*** TODO [#A] ST8.10 I Am The Master :Master_decayed:
+*** [#C] TW56. The Red List :Ace:Colchester:
+*** [#B] TW BBC #2 Asylum
+*** [#C] WoDW1 - Mind Games :Jago:Litefoot:
 *** [#B] BSBOX1.2 The Temple of Questions :Benny:
 *** [#C] Lady 1.4 Death on the Mile
+*** TODO [#B] Susan1.1 Sphere of Influence :time_war:
+*** [#C] CY1.3 Living History :Churchill:
 ** pending
-*** TODO [#D] 3DA1.1 Prisoners of the Lake                    :3rd_Dr:Jo:2cd:
-
+*** TODO [#D] 3DA1.1 Prisoners of the Lake :3rd_Dr:Jo:2cd:
+*** 9DFM0.4 - The Beast of Babylon
 * pending
 ** doctor
 *** [#C] EA4.1 The Night Witches :2nd_Dr:Jamie:Polly:Ben:
-*** [#D] 3DA 1.1 Prisoners of the Lake :3rd_Dr:Jo:
 *** [#C] 4DA 4.2 The Darkness of Glass :4th_Dr:Leela:
+*** [#C] 4DA 7.7/7.8 Kill the Doctor! / The Age of Sutekh :4th_Dr:Leela:Sutekh:
 *** [#B] MR159 The Emerald Tiger :5th_Dr:Nyssa:
 *** [#D] 22A.1 The Rotting Deep :6th_Dr:Mel:Hebe:
-*** [#C] MR194. The Rani Elite :6th_Dr:Peri:Rani:
 *** [#C] 6DnP #1 The Headless Ones :6th_Dr:Peri:1cd:
+*** [#C] MR194. The Rani Elite :6th_Dr:Peri:The_Rani:
 *** [#A] NA01 Damaged Goods :7th_Dr:Benny:Ace:
-*** [#C] ST9.9 Dead Media :12th_Dr:
 *** [#C] DoRS2.1 The Unknown :7th_Dr:River:
+*** [#A] 9DA 6.1 Salvation Nine :9th_Dr:
+*** [#C] ST9.9 Dead Media :12th_Dr:
 ** spinoffs
 *** [#A] TW43 The Three Monkeys :Owen:Andy:
 *** TODO [#A] TW51 The Five People You Kill in Middlebrough :Yvonne:
 *** KC #4 taren Capel :Kaldor_Robots:
 *** [#C] River 6.4 The Talents of Grel :River:Jago:
+*** TODO [#B] UNIT 1.1 Vanguard
+*** [#A] WM6.1 The Sincerest Form of Flattery :Master_war:
+*** [#D] J&L7.2 The Night of 1000 Stars :Jago:Litefoot:Leela:

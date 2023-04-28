@@ -448,13 +448,13 @@ CLOSED: <2023-04-09 Sun 21:10> SCHEDULED: <2023-04-08 Sat>
 :rating:   7.7
 :END:
 
-***** TODO [#C] 3.3 - The Doomsday Chronometer :River:DW2023_04_doctor:
-DEADLINE: <2023-04-23 Sun> SCHEDULED: <2023-04-15 Sat>
+***** HALF [#C] 3.3 - The Doomsday Chronometer :River:DW2023_04_doctor:
+DEADLINE: <2023-04-23 Sun> SCHEDULED: <2023-04-24 Mon 08:29>
 :PROPERTIES:
 :rating:   7.9
 :END:
 
-***** [#A] 3.4 - The Crucible of Souls :River:
+***** [#A] 3.4 - The Crucible of Souls :River:DW2023_06_doctor:
 :PROPERTIES:
 :rating:   8.
 :END:
@@ -1021,19 +1021,20 @@ CLOSED: [2020-09-23 Wed 12:53]
 【【翻译】Big Finish神秘博士八叔Time War短篇有声书 - 严阵以待 第一部分-哔哩哔哩】https://b23.tv/zhgkAz 
 
 **** Prequel
-**** READY 1. Sphere of Influence :bilibili:
+**** READY [#B] 1. Sphere of Influence :bilibili:P2020_04:DW2023_05_spinoffs:
+SCHEDULED: <2023-05-21 Sun>
 
 【【神秘博士广播剧汉化】Susan's War 苏珊的战争 101 Sphere of Influence-哔哩哔哩】 https://b23.tv/qIYe1v0
 
-**** READY 2. The Uncertain Shore :bilibili:
+**** READY [#C] 2. The Uncertain Shore :bilibili:P2020_04:
 
 【【神秘博士广播剧汉化】Susan's War 苏珊的战争 102 The Uncertain Shore-哔哩哔哩】https://b23.tv/WenJUb
 
-**** READY 3. Assets of War :bilibili:
+**** READY [#C] 3. Assets of War :bilibili:P2020_04:
 
 【【神秘博士广播剧汉化】Susan's War 苏珊的战争 103 Assets of War-哔哩哔哩】https://b23.tv/rjUz2u
 
-**** 4. The Shoreditch Intervention
+**** [#A] 4. The Shoreditch Intervention :P2020_04:
 *** 📂8D Time War vol.2 :Bliss:P2018:scripted:
 **** 2DONE [#C] 2.1 The Lords of Terror
 CLOSED: [2020-12-09 Wed 19:04]
@@ -1155,13 +1156,14 @@ SCHEDULED: <2023-01-31 Tue>
 :rating:   6.8
 :END:
 
-**** START [#D] 2.2 - Destroyer :DW2023_04_doctor:
+**** HALF [#D] 2.2 - Destroyer :DW2023_04_doctor:
 DEADLINE: <2023-04-22 Sat>
 :PROPERTIES:
 :rating:   7.2
 :END:
 
 **** [#D] 2.3 - Saviour :DW2023_05_doctor:
+SCHEDULED: <2023-05-21 Sun>
 :PROPERTIES:
 :rating:   7.3
 :END:

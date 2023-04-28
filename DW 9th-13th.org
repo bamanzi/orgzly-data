@@ -115,7 +115,8 @@ CLOSED: [2023-03-21 Tue 08:07] SCHEDULED: <2023-03-11 Sat>
 :rating:   7.0
 :END:
 
-**** [#D] 1.3. The Other Side :Rose:Adam:
+**** [#D] 1.3. The Other Side :Rose:Adam:DW2023_05_doctor:
+SCHEDULED: <2023-05-06 Sat>
 :PROPERTIES:
 :rating:   7.2
 :END:
@@ -151,7 +152,9 @@ SCHEDULED: <2022-11-29 Tue>
 **** START 0.3 - What I Did on My Christmas Holidays by Sally Sparrow :short:D2022_03_doctor:week4:🗣:
 SCHEDULED: <2022-03-19 Sat>
 
-**** TODO 0.4 - The Beast of Babylon :DW2023_05_doctor:
+**** TODO 0.4 - The Beast of Babylon :DW2023_05_maybe:
+SCHEDULED: <2023-06-01 Thu>
+
 **** 3QTR 0.5 Exhausted Supplies :12th_Dr:D2021_12_doctor:week2:bilibili:
 CLOSED: [2021-12-14 Tue 20:07] DEADLINE: <2021-12-08 Wed 20:05> SCHEDULED: <2021-12-10 Fri>
 
@@ -508,15 +511,15 @@ SCHEDULED: <2023-02-21 Tue 08:51>
 
 【【神秘博士广播剧熟肉】Dalek Universe 201 Cycle of Destruction-哔哩哔哩】 https://b23.tv/YGpWAbr
 
-***** READY [#A] DU2.2 - The Trojan Dalek :bilibili:DW2023_04_doctor:
-DEADLINE: <2023-04-29 Sat>
+***** HALF [#A] DU2.2 - The Trojan Dalek :bilibili:DW2023_04_doctor:
+DEADLINE: <2023-04-29 Sat> SCHEDULED: <2023-04-23 Sun 21:42>
 :PROPERTIES:
 :rating:   8.6
 :END:
 
 【【神秘博士广播剧熟肉】Dalek Universe 202 The Trojan Dalek-哔哩哔哩】 https://b23.tv/ke8FadW
 
-***** READY [#A] DU2.3 - The Lost :bilibili:
+***** READY [#A] DU2.3 - The Lost :bilibili:DW2023_06_doctor:
 :PROPERTIES:
 :rating:   8.6
 :END:
@@ -671,9 +674,9 @@ SCHEDULED: <2022-07-23 Sat>
 :rating:   7.3
 :END:
 
-**** [#E] 1.2 - The Top of the Tree
+**** [#D] 1.2 - The Top of the Tree
 :PROPERTIES:
-:rating:   6.9
+:rating:   7.0
 :END:
 
 **** START [#D] 1.3 - The Light Keepers :Dorium:plot_yes:DW2022_09_doctor:
@@ -714,6 +717,8 @@ SCHEDULED: <2022-03-30 Wed>
 
 *** 11DC vol.3 Geronimo! :Valarie:P2022_10:plot_yes:
 **** READY [#A] 3.1 The Inheritance :DW2023_05_doctor:
+SCHEDULED: <2023-05-21 Sun>
+
 **** READY [#A] 3.2 The House of Masks
 **** READY [#A] 3.3 The End
 *** 11DC vol.4 All of Time and Space :Valarie:P2023_02:

@@ -372,7 +372,7 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
       :rating:   8.5
       :END:
 
-***** READY [#A] 52. Madam I'm (8.8) :Norton:Adam:plot_yes:
+***** READY [#A] 52. Madam I'm (8.8) :Norton:Adam:Lizbeth:plot_yes:
       :PROPERTIES:
       :rating:   8.8
       :END:
@@ -395,6 +395,8 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
       :END:
 
 ***** [#C] 56. The Red List (7.8) :Ace:Colchester:DW2023_05_spinoffs:
+      SCHEDULED: <2023-05-21 Sun>
+
 ***** [#A] 57. The Grey Mare (8.5) :Ianto:
 ***** [#B] 58. Cadoc Point (8.4) :Andy:
 ***** [#A] 59. Sonny (8.9) :Rhys:
@@ -422,12 +424,12 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
      :rating:   8.3
      :END:
 
-**** START [#B] special 2: Outbreak :P2016:3CD:plot_yes:
+**** [#B] special 2: Outbreak :P2016:3CD:plot_yes:
      :PROPERTIES:
      :rating:   8.3
      :END:
 
-**** START [#A] special 3: Believe :P2018:3CD:
+**** [#A] special 3: Believe :P2018:3CD:
      :PROPERTIES:
      :rating:   8.7
      :END:
@@ -447,7 +449,7 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
       :rating:   7.4
       :END:
 
-***** [#A] 3 - Peach Blossom Heights
+***** [#A] 3 - Peach Blossom Heights :DW2023_06_spinoffs:
       :PROPERTIES:
       :rating:   9.2
       :END:
@@ -457,27 +459,56 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
       :rating:   7.5
       :END:
 
-**** [#A] Torchwood Soho: Parasite :3CD:P2020:plot_yes:Norton:Andy:
+**** [#A] Torchwood Soho: Parasite :3CD:P2020:plot_yes:Norton:Andy:Lizbeth:
 
 https://tardis.fandom.com/wiki/Parasite_(audio_story)
 
-***** 3QTR [#B] Parasite #1-2 :DW2023_03_spinoffs:
+***** 3QTR [#B] 1.1 The Man From Room 13 :DW2023_03_spinoffs:
       CLOSED: [2023-03-24 Fri 08:26] SCHEDULED: <2023-03-05 Sun>
 
-***** 2DONE [#A] Parasite #3-4 :DW2023_04_spinoffs:
+***** 3QTR [#B] 1.1 Meet Mr Lyme :DW2023_03_spinoffs:
+      CLOSED: [2023-03-24 Fri 08:26] SCHEDULED: <2023-03-05 Sun>
+
+***** 2DONE [#A] 1.3 The Mould :DW2023_03_spinoffs:
       CLOSED: [2023-04-11 Tue 08:29] SCHEDULED: <2023-04-09 Sun>
 
-***** HALF [#A] Parasite #5-6 :DW2023_04_spinoffs:
-      DEADLINE: <2023-04-23 Sun>
+***** 2DONE [#A] 1.4 The Spread :DW2023_04_spinoffs:
+      CLOSED: [2023-04-11 Tue 08:29] SCHEDULED: <2023-04-09 Sun>
 
-**** Torchwood Soho: Ashenden :Norton:P2021:plot_yes:
-***** [#C] 1. Pimlico                          (7.8)
-***** [#B] 2. O Little Town Of Ashenden        (8.1)
-***** [#A] 3. The National Health              (8.6)
-***** [#A] 4. Rivers of Blood                  (9.0)
-***** [#B] 5. Now is the Time for All Good Men (8.2)
-***** [#A] 6. The Hour of the Hollow Man       (8.9)
-**** Torchwood Soho #3 The Unbegotten :P2022_10:
+***** DONE [#A] 1.5 The Dead Hand [#S] :DW2023_04_spinoffs:
+      CLOSED: [2023-04-21 Fri 09:00] DEADLINE: <2023-04-23 Sun>
+
+***** 3QTR [#A] 1.6 The Liberty of Norton Folgate :DW2023_04_spinoffs:
+      CLOSED: [2023-04-21 Fri 13:57]
+
+**** Torchwood Soho: Ashenden :Norton:Andy:Lizbeth:P2021:plot_yes:
+***** [#C] 2.1. Pimlico
+      :PROPERTIES:
+      :rating:   7.8
+      :END:
+
+***** [#B] 2.2. O Little Town Of Ashenden
+      :PROPERTIES:
+      :rating:   8.1
+      :END:
+
+***** [#A] 2.3. The National Health
+      :PROPERTIES:
+      :rating:   8.6
+      :END:
+
+***** [#A] 2.4. Rivers of Blood                  (9.0)
+***** [#B] 2.5. Now is the Time for All Good Men
+      :PROPERTIES:
+      :rating:   8.2
+      :END:
+
+***** [#A] 2.6. The Hour of the Hollow Man
+      :PROPERTIES:
+      :rating:   8.9
+      :END:
+
+**** Torchwood Soho #3 The Unbegotten :Norton:Andy:Lizbeth:P2022_10:
 *** tv continuation :🎧:1CD:
 **** Aliens Among Us
 ***** 2DONE [#B] 5.01 Changes Everything
@@ -1026,11 +1057,12 @@ Roberts Master
 *** [#C] 13.2 - Chapel of Night (7.7)
 *** [#B] 13.3 - How The Other Half Lives (8.0)
 *** [#D] 13.4 - Too Much Reality (7.4)
+** J&L Forever
+*** [#B] Jago & Litefoot Forever (8.3) :P2018:Queen:6th_Dr:
+*** [#C] ST 7.3/7.4 The Jago & Litefoot Revival (7.8) :P2017:10th_Dr:11th_Dr:
 ** J&L misc
-*** [#C] (WoDW) Mind Games (7.5) :P2014:
-*** [#B] 6DLA: Stage Fright (8.4) :P2015:
-*** [#B] Jago & Litefoot Forever (8.3) :P2018:
-*** [#C] ST 7.3/7.4 The Jago & Litefoot Revival (7.8) :P2018:
+*** [#C] (WoDW) Mind Games (7.5) ↗ :P2014:
+*** DONE [#B] 6DLA: Stage Fright (8.4) :P2015:
 *** [#A] Benjamin & Baxter (documentary)                     (8.8)
 * Gallifrey :🎧:Gallifrey:
 ** series 1 :plot_simple:P2004:
@@ -1302,11 +1334,12 @@ http://drwhoguide.com/bs_a18.htm
      :END:
 
 **** [#B] 1.2 The Temple of Questions :Ruth_Leonidas:DW2023_05_spinoffs:
+     SCHEDULED: <2023-05-07 Sun>
      :PROPERTIES:
      :rating:   8.0
      :END:
 
-**** [#C] 1.3 Private Enemy No. 1 :Ruth_Leonidas:
+**** [#C] 1.3 Private Enemy No. 1 :Ruth_Leonidas:DW2023_06_spinoffs:
      :PROPERTIES:
      :rating:   7.8
      :END:
@@ -1549,8 +1582,8 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
 
 【【神秘博士广播剧】Masterful 混乱之主 03-哔哩哔哩】 https://b23.tv/cXQO9PZ
 
-*** TODO [#A] ST8.10 I Am The Master :DW2023_05_spinoffs:Master:
-    SCHEDULED: <2023-05-28 Sun>
+*** TODO [#A] ST8.10 I Am The Master :DW2023_05_maybe:Master:
+    SCHEDULED: <2023-05-14 Sun>
 
 *** The Switching
 *** Terror of the Master :audiobook:
@@ -2094,9 +2127,7 @@ Synopsis:  http://www.drwhoguide.com/kaldor01.htm
 
 http://www.drwhoguide.com/kaldor03.htm
 
-*** LATER KC4. Taren Capel :DW2023_03_maybe:
-    SCHEDULED: <2023-04-01 Sat>
-
+*** LATER KC4. Taren Capel :DW2023_06_spinoffs:
 *** KC5. Checkmate
 *** KC6. Storm Mine
 ** The Robots (Big Finish, 2019-)
@@ -2340,8 +2371,8 @@ http://www.drwhoguide.com/kaldor03.htm
 *** series 1 :P2016:
 **** CANCEL [#E] 1.1 - The Oncoming Storm          (6.9)
 **** [#D] 1.2 - Hounded                     (7.2)
-**** TODO [#C] 1.3 - Living History              (7.9) :11th_Dr:plot_yes:
-     SCHEDULED: <2022-09-30 Fri>
+**** TODO [#C] 1.3 - Living History              (7.9) :11th_Dr:plot_yes:DW2023_05_spinoffs:
+     SCHEDULED: <2023-05-14 Sun>
 
 4 out of 20 (20.0%) raters say this story requires a previous story.
 
@@ -2369,13 +2400,15 @@ http://www.drwhoguide.com/kaldor03.htm
 **** HALF [#D] 1.2 - Skin Deep (7.2) :Sylvia:DW2023_03_spinoffs:
      SCHEDULED: <2023-03-26 Sun>
 
-**** START [#D] 1.3 - Portrait of a Lady :Sam_Bishop:Sontarans:DW2023_04_spinoffs:
-     DEADLINE: <2023-04-30 Sun>
+**** HALF [#D] 1.3 - Portrait of a Lady :Sam_Bishop:Sontarans:DW2023_04_spinoffs:
+     DEADLINE: <2023-04-30 Sun> SCHEDULED: <2023-04-26 Wed 21:47>
      :PROPERTIES:
      :rating:   7.2
      :END:
 
 **** [#C] 1.4 - Death on the Mile (7.7) :DW2023_05_spinoffs:
+     SCHEDULED: <2023-05-21 Sun>
+
 *** series 2 :P2021:
 **** [#D] 2.1 - The Wreck (7.2)
 **** [#D] 2.2 - Walkabout (7.0?)
@@ -2550,8 +2583,14 @@ From Donna's perspective, the anthology is set after /Forest of the Dead/.
     :END:
 
 ** The Worlds of Doctor Who :P2014:
-*** [#C] Mind Games :Jago:Litefoot:Ellie:Quick:DW2023_05_spinoffs:
-*** [#D] The Reesinger Process :Gilmore:Rachel:Allison:Toby:DW2023_05_spinoffs:
+*** START [#C] Mind Games :Jago:Litefoot:Ellie:Quick:DW2023_05_spinoffs:
+    SCHEDULED: <2023-05-07 Sun>
+
+*** [#D] The Reesinger Process :Gilmore:Rachel:Allison:Toby:DW2023_06_spinoffs:
+    :PROPERTIES:
+    :rating:   7.2
+    :END:
+
 *** [#B] The Screaming Skull :Ruth:Charlie_Sato:Yates:Jago:Litefoot:
 *** [#D] Second Sight :6th_Dr:Romana_2:Leela:Yates:
 ** Classic Doctors, New Monsters
@@ -2592,11 +2631,17 @@ https://disk.yandex.ru/d/n_i2CRgIJW0xOw
 *** vol.1 The Eighth of March :P2019:
 **** START [#D] 1.1 Emancipation :River:Leela:
 **** CANCEL [#F] 1.2 The Big Blue Book :Benny:Ace:7th_Dr:
-**** HALF [#D] 1.3 Inside Every Warrior :Vastra:Jenny:Strax:TPG:DW2023_04_spinoffs:
-     SCHEDULED: <2023-04-16 Sun>
+**** 3QTR [#D] 1.3 Inside Every Warrior :Vastra:Jenny:Strax:TPG:DW2023_04_spinoffs:
+     CLOSED: [2023-04-26 Wed 08:34] SCHEDULED: <2023-04-16 Sun>
+     :PROPERTIES:
+     :rating:   7.2
+     :END:
 
 **** [#B] 1.4 Narcisus :UNIT_new:
 *** vol.2 Protectors of Time :P2022_03:
+**** [#D] 2.1 Stolen Futures :Romana_2:K9:Biroc:
+**** [#E] 2.2 Prism :Christina:Jenny:
+**** [#C] 2.3 The Turn of the Tides :Jo:Rani:
 *** vol.3 :P2023_03:
 ** Unbound: Doctor of War
 *** [#B] 1.1 - Dust Devil

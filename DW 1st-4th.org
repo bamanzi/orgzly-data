@@ -314,6 +314,8 @@ CLOSED: [2021-06-26 Sat 09:13]
 :END:
 
 **** READY [#C] LS2.1b The Fragile Yellow Arc of Fragrance :1CD:plot_yes:DW2023_05_doctor:
+SCHEDULED: <2023-05-06 Sat>
+
 *** short trips
 **** [#B] ST1.1 Rise and Fall
 **** [#C] ST2.1 - 1963 :Ian:Barbara:Vicki:
@@ -507,7 +509,7 @@ CLOSED: <2021-07-30 Fri 16:14>
 :rating:   7.7
 :END:
 
-***** [#D] CC7.02 - The Uncertainty Principle
+***** [#D] CC7.02 - The Uncertainty Principle :DW2023_06_doctor:
 :PROPERTIES:
 :rating:   7.0
 :END:
@@ -1004,13 +1006,16 @@ CLOSED: [2020-06-18 Thu 14:24]
 ***** 4.3 The Time Thief
 ***** 5.3 War in the Abyss
 ** novels :📔:novel:
-*** TODO [#B] Harvest of Time (3.90) :UNIT:Jo:Master:
+*** READY [#B] Harvest of Time (3.90) :UNIT:Jo:Master:hanzify:
 
 After billions of years of imprisonment, the vicious Sild have broken out of confinement. From a ruined world at the end of time, they make preparations to conquer the past, with the ultimate goal of rewriting history. But to achieve their aims they will need to enslave an intellect greater than their own...
 
 On Earth, UNIT is called in to investigate a mysterious incident on a North Sea drilling platform. The Doctor believes something is afoot, and no sooner has the investigation begun when something even stranger takes hold: The Brigadier is starting to forget about UNIT's highest-profile prisoner. And he is not alone in his amnesia.
 
 As the Sild invasion begins, the Doctor faces a terrible dilemma. To save the universe, he must save his arch-nemesis... The Master
+
+
+翻译：https://b23.tv/N5x8uoR
 
 **** Harvest of Time (audiobook) :audiobook:🎧:
 
