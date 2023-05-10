@@ -116,7 +116,7 @@ CLOSED: [2023-03-21 Tue 08:07] SCHEDULED: <2023-03-11 Sat>
 :END:
 
 **** [#D] 1.3. The Other Side :Rose:Adam:DW2023_05_doctor:
-SCHEDULED: <2023-05-06 Sat>
+SCHEDULED: <2023-05-27 Sat>
 :PROPERTIES:
 :rating:   7.2
 :END:
@@ -716,8 +716,12 @@ SCHEDULED: <2022-03-30 Wed>
 :END:
 
 *** 11DC vol.3 Geronimo! :Valarie:P2022_10:plot_yes:
-**** READY [#A] 3.1 The Inheritance :DW2023_05_doctor:
-SCHEDULED: <2023-05-21 Sun>
+**** Prequel to Geronimo! :Clara:
+
+https://tardis.fandom.com/wiki/Prequel_to_Geronimo!_(audio_story) 
+
+**** [#A] 3.1 The Inheritance :DW2023_05_doctor:
+SCHEDULED: <2023-05-13 Sat>
 
 **** READY [#A] 3.2 The House of Masks
 **** READY [#A] 3.3 The End

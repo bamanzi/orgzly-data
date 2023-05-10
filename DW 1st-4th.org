@@ -301,7 +301,9 @@ CLOSED: [2021-06-26 Sat 09:13]
 ***** [#D] 11.1 Fields of Terror :Steven:Vicki:
 ***** READY [#A] 11.2 Across the Darkened City :Steven:Vicki:Daleks:
 ***** [#D] 11.3 The Bonfires of the Vanties :Polly:Ben:
-***** [#B] 11.4 The Plague of Dreams :Polly:Ben:
+***** START [#B] 11.4 The Plague of Dreams :Polly:Ben:DW2023_05_doctor:
+SCHEDULED: <2023-05-13 Sat>
+
 **** 📂CC13. First Doctor - Volume Three :P2019:
 ***** [#F] 13.1 - E is For...
 ***** [#E] 13.2 - Daybreak
@@ -313,9 +315,7 @@ CLOSED: [2021-06-26 Sat 09:13]
 :rating:   9.2
 :END:
 
-**** READY [#C] LS2.1b The Fragile Yellow Arc of Fragrance :1CD:plot_yes:DW2023_05_doctor:
-SCHEDULED: <2023-05-06 Sat>
-
+**** HALF [#C] LS2.1b The Fragile Yellow Arc of Fragrance :1CD:plot_yes:DW2023_09_doctor:
 *** short trips
 **** [#B] ST1.1 Rise and Fall
 **** [#C] ST2.1 - 1963 :Ian:Barbara:Vicki:
@@ -657,8 +657,8 @@ SCHEDULED: <2022-06-05 Sun>
 :END:
 
 *** TV Soundtracks
-**** HALF LTV4.4 The Abominable Snowmen :Jamie:Victoria:DW2023_04_doctor:
-SCHEDULED: <2023-04-08 Sat>
+**** 3QTR LTV4.4 The Abominable Snowmen :Jamie:Victoria:DW2023_04_doctor:
+CLOSED: [2023-04-28 Fri 16:11] SCHEDULED: <2023-04-08 Sat>
 
 *** BBC
 **** [#B] The Elysian Blade (BBC) :P2019:Jamie:Victoria:1CD:
@@ -827,7 +827,9 @@ SCHEDULED: <2022-05-28 Sat>
 :rating:   8.7
 :END:
 
-**** READY [#C] 8.1 Conspiracy in Space :Jo:draconians:plot_yes:
+**** [#D] 8.1 Conspiracy in Space :Jo:draconians:plot_yes:DW2023_05_doctor:
+SCHEDULED: <2023-05-20 Sat>
+
 **** READY [#B] 8.2 The Devil's Hoofprints :P2021:Sarah:plot_yes:
 :PROPERTIES:
 :rating:   8.1
