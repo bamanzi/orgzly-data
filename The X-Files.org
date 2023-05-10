@@ -346,6 +346,9 @@ CLOSED: [2020-11-03 Tue 22:15]
 
 book review: https://is.gd/TyY4hb (coldbananas.com)
 
+**** DONE The Beast of Little Hill
+CLOSED: [2023-05-01 Mon 07:12]
+
 **** DONE [#C] Oversight :Skinner:
 CLOSED: <2020-10-30 Fri 23:12>
 
@@ -511,6 +514,15 @@ CLOSED: [2023-04-23 Sun 23:17]
 *** DONE 2x11
 CLOSED: [2023-04-25 Tue 09:00]
 
+*** DONE 2x12
+CLOSED: [2023-05-06 Sat 08:07]
+
+*** DONE 2x13
+CLOSED: [2023-05-07 Sun 00:14]
+
+*** DONE 2x14
+CLOSED: [2023-05-07 Sun 17:31]
+
 ** comics :📚:
 *** DONE Fringe (vol.1)
 CLOSED: [2022-03-29 Tue 23:27]
@@ -529,4 +541,10 @@ CLOSED: [2023-04-21 Fri 19:54]
 
 ** DONE 1x04
 CLOSED: [2023-04-27 Thu 20:05]
+
+** DONE 1x05
+CLOSED: [2023-04-29 Sat 09:06]
+
+** DONE 1x06
+CLOSED: [2023-05-04 Thu 20:26]
 
