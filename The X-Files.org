@@ -334,8 +334,13 @@ CLOSED: [2020-11-03 Tue 10:06]
 ****** DONE Origins - Dog Days of Summer (2018)
 CLOSED: [2020-11-03 Tue 22:15]
 
-***** OVERDUE JFK Disclosure (2017)
-***** Case Files (2018)
+***** DONE JFK Disclosure (2017)
+CLOSED: <2023-05-12 Fri 13:20>
+
+***** DONE Case Files: Florida Man (2018)
+CLOSED: [2023-05-16 Tue 13:20]
+
+***** Case Files: Hoot Goes There (2018)
 **** crossover
 ***** OVERDUE Conspiracy (2014)
 ** audio :🎧:
@@ -414,14 +419,29 @@ DEADLINE: <2022-03-31 Thu> SCHEDULED: <2022-03-31 Thu>
 
 Topps 漫画#22也是“鬼压床”这个主题
 
-*** [#B] Ground Zero & Ruins
+*** [#F] #1. Goblins
 :PROPERTIES:
-:rating:   3.80
+:goodreads: 3.32
 :END:
 
-*** [#E] Antibodies
+*** [#E] #3. Ground Zero
 :PROPERTIES:
-:rating:   3.56
+:goodreads: 3.48
+:END:
+
+*** [#E] #4. Ruins
+:PROPERTIES:
+:goodreads: 3.58
+:END:
+
+*** [#E] #5. Antibodies
+:PROPERTIES:
+:rating:   3.60
+:END:
+
+*** [#D] #7. Skin
+:PROPERTIES:
+:goodreads: 3.68
 :END:
 
 * The Lone Gunmen (12 eps)
@@ -477,7 +497,7 @@ CLOSED: [2022-04-24 Sun 07:56]
 *** DONE 1x19
 CLOSED: [2022-04-27 Wed 00:30]
 
-*** DONE 1x20
+*** DONE 1x20 :alternate_universe:
 CLOSED: [2022-04-29 Fri 20:23]
 
 ** Fringe S2 :📺:P2009:
@@ -523,6 +543,24 @@ CLOSED: [2023-05-07 Sun 00:14]
 *** DONE 2x14
 CLOSED: [2023-05-07 Sun 17:31]
 
+*** DONE 2x15 Jacksonville :alternate_universe:
+CLOSED: [2023-05-14 Sun 13:36]
+
+*** DONE 2x16 Peter :alternate_universe:
+CLOSED: [2023-05-16 Tue 08:20]
+
+*** DONE 2x17
+CLOSED: [2023-05-16 Tue 18:50]
+
+*** DONE 2x18
+CLOSED: <2023-05-20 Sat 17:15>
+
+*** DONE 2x19 :alternate_universe:
+CLOSED: [2023-05-17 Wed 22:53]
+
+*** DONE 2x20
+CLOSED: <2023-05-21 Sun 10:36>
+
 ** comics :📚:
 *** DONE Fringe (vol.1)
 CLOSED: [2022-03-29 Tue 23:27]
@@ -547,4 +585,10 @@ CLOSED: [2023-04-29 Sat 09:06]
 
 ** DONE 1x06
 CLOSED: [2023-05-04 Thu 20:26]
+
+** DONE 1x07
+CLOSED: [2023-05-18 Thu 23:14]
+
+** DONE 1x08
+CLOSED: [2023-05-19 Fri 19:59]
 
