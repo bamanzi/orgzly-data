@@ -448,7 +448,7 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
       :rating:   7.4
       :END:
 
-***** [#A] 3 - Peach Blossom Heights :DW2023_06_spinoffs:
+***** [#A] 3 - Peach Blossom Heights :Jack:DW2023_06_spinoffs:
       :PROPERTIES:
       :rating:   9.2
       :END:
@@ -705,7 +705,7 @@ https://tardis.fandom.com/wiki/Parasite_(audio_story)
 
 超级电脑 WOTAN 最早出现于老版3x10 The War Machines 
 
-***** [#C] 2.2 - Blind Summit
+***** [#C] 2.2 - Blind Summit :DW2023_06_spinoffs:
       :PROPERTIES:
       :rating:   7.7
       :END:
@@ -1020,7 +1020,7 @@ Roberts Master
 *** 3QTR [#B] 7.1 The Monstrous Menagerie           (8.1) :DW2022_08_spinoffs:
     CLOSED: [2022-09-02 Fri 19:14] SCHEDULED: <2022-09-04 Sun>
 
-*** START [#D] 7.2 The Night of 1000 Stars           (7.2) :Leela:plot_no:DW2023_06_spinoffs:
+*** START [#D] 7.2 The Night of 1000 Stars           (7.2) :Leela:plot_no:
 *** HALF [#A] 7.3 Murder at Moorsey Manor           (8.7) :DW2023_01_spinoffs:
     SCHEDULED: <2023-01-09 Mon 21:33>
 
@@ -1323,28 +1323,36 @@ http://drwhoguide.com/bs_a18.htm
 **** [#A] 8.4 The End of The World (8.8)
 **** [#B] 8.5 The Final Amendment (8.2)
 **** [#A] 8.6 The Wake (8.9)
-*** Series 9 :P2008:
-**** 9.3 The Adventure of the Diogenes Damsel
+*** Series 9 :P2008:plot_yes_dwg:
+**** [#D] 9.1 - Beyond the Sea
+**** [#D] 9.2 - The Adolescence of Time
+**** [#A] 9.3 The Adventure of the Diogenes Damsel
+**** [#C] 9.4 - The Diet of Worms
 *** Series 10 :P2009:
+**** [#A] 10.1 - Glory Days
+**** [#C] 10.2 - Absence
+**** [#C] 10.3 - Venus Mantrap
+**** [#D] 10.4 - Secret Origins
 *** Series 11 :P2010:
-**** HALF [#A] 11.3 - Year Zero :DW2023_05_maybe:
-     SCHEDULED: <2023-05-21 Sun>
+**** [#B] 11.1 - Resurrecting the Past
+**** [#A] 11.2 - Escaping the Future
+**** 3QTR [#A] 11.3 - Year Zero :DW2023_05_spinoffs:
+     CLOSED: <2023-05-12 Fri 08:16> SCHEDULED: <2023-05-14 Sun>
 
-**** [#C] 11.4 - Dead Man's Switch
+**** [#C] 11.4 - Dead Man's Switch :DW2023_06_spinoffs:
 ** Bernice Summerfield (boxset)
 *** Boxset 1: Epoch :P2011:Atlantis:plot_yes:
-**** [#B] 1.1 The Kraken's Lament :Jack_McSpringheel:DW2023_05_spinoffs:
-     SCHEDULED: <2023-06-01 Thu>
+**** [#B] 1.1 The Kraken's Lament :Jack_McSpringheel:
      :PROPERTIES:
      :rating:   7.9
      :END:
 
-**** [#B] 1.2 The Temple of Questions :Ruth_Leonidas:DW2023_06_spinoffs:
+**** [#B] 1.2 The Temple of Questions :Ruth_Leonidas:
      :PROPERTIES:
      :rating:   8.0
      :END:
 
-**** [#C] 1.3 Private Enemy No. 1 :Ruth_Leonidas:DW2023_06_spinoffs:
+**** [#C] 1.3 Private Enemy No. 1 :Ruth_Leonidas:
      :PROPERTIES:
      :rating:   7.8
      :END:
@@ -1588,7 +1596,7 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
 
 *** TODO [#A] ST8.10 - I Am The Master †9.0 :Master:bilibili:DW2023_06_spinoffs:
 
-【【中英熟肉】藏在大衣里的脆皮马w（I am the Master广播剧预告)-哔哩哔哩】https://b23.tv/IGxQAU
+【【神秘博士广播剧汉化】法师独白，关爱脆皮，人人有责 Short Trips: I am the Master-哔哩哔哩】 https://b23.tv/71Jon0F
 
 *** The Switching
 *** Terror of the Master :audiobook:
@@ -2340,7 +2348,7 @@ http://www.drwhoguide.com/kaldor03.htm
 ** Sarah Jane Smith
 *** [#E] 1.1 Comeback (6.8)
 *** [#E] +1.2 The Tao Connection+ (6.2)
-*** [#B] 1.3 Test of Nerve (8.1)
+*** [#B] 1.3 Test of Nerve (8.1) :DW2023_06_spinoffs:
 *** [#E] +1.4 Ghost Town+ (6.4)
 *** [#D] 1.5 Mirror, Signal, Manoeuvre (7.1)
 *** [#C] 2.1 Buried Secrets (7.5)
@@ -2373,10 +2381,11 @@ http://www.drwhoguide.com/kaldor03.htm
 * misc spin-offs (nuwho) :🎧:
 ** The Churchil Years
 *** series 1 :P2016:
-**** CANCEL [#E] 1.1 - The Oncoming Storm          (6.9)
-**** [#D] 1.2 - Hounded                     (7.2)
-**** TODO [#C] 1.3 - Living History              (7.9) :11th_Dr:plot_yes:DW2023_05_spinoffs:
+**** HALF [#E] 1.1 - The Oncoming Storm          (6.9) :9th_Dr:DW2023_05_spinoffs:
      SCHEDULED: <2023-05-28 Sun>
+
+**** [#D] 1.2 - Hounded   (7.2) :DW2023_06_spinoffs:
+**** TODO [#C] 1.3 - Living History              (7.9) :Daleks:11th_Dr:plot_yes:DW2023_06_spinoffs:
 
 4 out of 20 (20.0%) raters say this story requires a previous story.
 
@@ -2410,7 +2419,7 @@ http://www.drwhoguide.com/kaldor03.htm
      :rating:   7.2
      :END:
 
-**** [#C] 1.4 - Death on the Mile (7.7) :DW2023_05_spinoffs:
+**** HALF [#C] 1.4 - Death on the Mile (7.7) :DW2023_05_spinoffs:
      SCHEDULED: <2023-05-21 Sun>
 
 *** series 2 :P2021:

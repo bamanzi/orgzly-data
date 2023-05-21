@@ -396,7 +396,7 @@ SCHEDULED: <2023-01-06 Fri 08:38>
 ***** [#A] Psychodrome
 ***** [#A] Iterations of I
 **** Wicked Sisters :1CD:P2020:Leela:Zara:Abby:
-***** START [#C] The Garden of Storms :DW2023_05_doctor:
+***** HALF [#C] The Garden of Storms :DW2023_05_doctor:
 SCHEDULED: <2023-05-20 Sat>
 
 ***** [#B] The Moonrakers :Sontarans:
@@ -518,7 +518,7 @@ https://tardis.fandom.com/wiki/Sixth_Doctor_audio_stories
 **** 3QTR [#A] 6. The Marian Conspiracy (8.6) :Evelyn:plot_yes:DW2022_08_doctor:
 CLOSED: [2022-08-03 Wed 21:45] SCHEDULED: <2022-08-03 Wed>
 
-**** [#B] 9. The Spectre of Lanyon Moor (8.0) :Evelyn:Brigadier:plot_no:
+**** [#B] 9. The Spectre of Lanyon Moor (8.0) :Evelyn:Brigadier:plot_no:DW2023_06_doctor:
 **** DONE 11. The Apocalypse Element :Evelyn:Romana_2:Daleks:
 **** DONE [#A] 14. The Holy Terror (9.1) :Frobisher:plot_yes:D2021_05:
 CLOSED: <2021-05-29 Sat 23:21>
@@ -765,8 +765,7 @@ CLOSED: [2023-04-11 Tue 21:15] SCHEDULED: <2023-04-15 Sat>
 
 Volume One
 
-***** [#C] The Headless Ones
-SCHEDULED: <2023-05-01 Mon>
+***** [#C] The Headless Ones :DW2023_06_maybe:
 :PROPERTIES:
 :rating:   7.5
 :END:
@@ -1181,10 +1180,14 @@ SCHEDULED: <2021-12-04 Sat>
 :rating:   8.1
 :END:
 
-***** HALF [#B] UNIT - Dominion p1-2 :DW2023_05_doctor:
-DEADLINE: <2023-05-13 Sat> SCHEDULED: <2023-05-07 Sun 20:07>
+***** 3QTR [#B] UNIT - Dominion p1 :DW2023_05_doctor:
+CLOSED: <2023-05-16 Tue 08:46> SCHEDULED: <2023-05-13 Sat 20:07>
 
-***** [#B] UNIT - Dominion p3-4 :DW2023_07_doctor:
+***** HALF [#B] UNIT - Dominion p2 :DW2023_05_doctor:
+SCHEDULED: <2023-05-20 Sat 20:07>
+
+***** [#B] UNIT - Dominion p3 :DW2023_07_doctor:
+***** [#B] UNIT - Dominion p4 :DW2023_07_doctor:
 **** 📂7DA New Adventures :P2018:Roz:Chris:1CD:
 ***** 3QTR [#D] 7DA 1.1 - The Trial of a Time Machine :DW2022_07_doctor:
 CLOSED: <2022-07-06 Wed 20:52> SCHEDULED: <2022-07-06 Wed>

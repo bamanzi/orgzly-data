@@ -1021,12 +1021,12 @@ CLOSED: [2020-09-23 Wed 12:53]
 【【翻译】Big Finish神秘博士八叔Time War短篇有声书 - 严阵以待 第一部分-哔哩哔哩】https://b23.tv/zhgkAz 
 
 **** Prequel
-**** READY [#B] 1. Sphere of Influence :bilibili:P2020_04:DW2023_05_spinoffs:
+**** START [#B] 1. Sphere of Influence :Ian:bilibili:P2020_04:DW2023_05_spinoffs:
 SCHEDULED: <2023-05-21 Sun>
 
 【【神秘博士广播剧汉化】Susan's War 苏珊的战争 101 Sphere of Influence-哔哩哔哩】 https://b23.tv/qIYe1v0
 
-**** READY [#C] 2. The Uncertain Shore :bilibili:P2020_04:
+**** READY [#C] 2. The Uncertain Shore :bilibili:P2020_04:DW2023_06_spinoffs:
 
 【【神秘博士广播剧汉化】Susan's War 苏珊的战争 102 The Uncertain Shore-哔哩哔哩】https://b23.tv/WenJUb
 

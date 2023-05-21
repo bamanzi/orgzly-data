@@ -1504,12 +1504,12 @@
 *** HALF [#D] Lady 1.3 - Portrait of a Lady
 * DW2023-05
 ** dw2023-05-doctor
-*** START [#B] CC11.4 - The Plague of Dreams :Polly:Ben:
+*** HALF [#B] CC11.4 - The Plague of Dreams :Polly:Ben:
 *** [#D] 3DA8.1 - Conspiracy in Space :3rd_Dr:Jo:plot_yes:2cd:
 *** START [#B] 5DWS1.1 - The Garden of Storms :5th_Dr:Leela:Zara:Abby:
 *** HALF [#B] UNIT: Dominion p1-2 :7th_Dr:Klein:UNIT:Master_bald:Ace:2cd:
-*** START [#D] 9DC1.3 - The Other Side :9th_Dr:
-*** [#A] 11DC3.1 - The Inheritance :11th_Dr:
+*** HALF [#D] 9DC1.3 - The Other Side :9th_Dr:
+*** HALF [#A] 11DC3.1 - The Inheritance :11th_Dr:
 ** dw2023-05-spinoffs
 *** [#C] TW56. The Red List :Ace:Colchester:
 *** 3QTR [#B] TW BBC #2 Asylum :Jack:Gwen:Ianto:Andy:
@@ -1517,7 +1517,7 @@
 *** HALF [#A] BS11.3 - Year Zero :Benny:
 *** [#C] Lady1.4 - Death on the Mile
 *** TODO [#B] Susan1.1 - Sphere of Influence :time_war:
-*** TODO [#C] CY1.3 - Living History :Churchill:
+*** TODO [#C] CY1.1 - The Oncoming Storm :Churchill:
 ** pending
 *** TODO [#D] 3DA1.1 - Prisoners of the Lake :3rd_Dr:Jo:2cd:
 *** TODO 9DFM0.4 - The Beast of Babylon
