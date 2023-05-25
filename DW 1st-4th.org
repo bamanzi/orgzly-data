@@ -326,7 +326,7 @@ SCHEDULED: <2023-05-27 Sat>
 /Short Trips: Companions/ #13
 
 *** BBC
-**** Men of War   :Steven:Sara_Kingdom:Mark_7:WW1:P2018:1CD
+**** [#E] Men of War :Steven:Sara_Kingdom:WW1:P2018:1CD:
 ** novels
 *** An Unearthly Child
 
@@ -631,22 +631,22 @@ SCHEDULED: <2022-06-05 Sun>
 :rating:   7.0
 :END:
 
-**** TODO [#C] 7.8 - The British Invasion
+**** [#C] 7.8 - The British Invasion :Zoe:Jamie:
 :PROPERTIES:
 :rating:   7.5
 :END:
 
-**** TODO [#B] 8.X - The Last Day At Work :Jamie:
+**** [#B] 8.X - The Last Day At Work :Jamie:
 :PROPERTIES:
 :rating:   8.1
 :END:
 
-**** TODO [#C] 10.2 - Deleted Scenes
+**** [#C] 10.2 - Deleted Scenes
 :PROPERTIES:
 :rating:   7.8
 :END:
 
-**** TODO [#B] STS#3. Lepidoptery for Beginners
+**** [#B] STS#3. Lepidoptery for Beginners
 :PROPERTIES:
 :rating:   8.3
 :END:
@@ -767,10 +767,10 @@ CLOSED: [2021-07-27 Tue 23:10]
 :rating:   7.9
 :END:
 
-**** HALF [#C] 2.2 The Hidden Realm :Jo:P2016:plot_yes:DW2022_09_doctor:
+**** HALF [#D] 2.2 The Hidden Realm :Jo:P2016:plot_yes:DW2022_09_doctor:
 SCHEDULED: <2022-09-21 Wed>
 :PROPERTIES:
-:rating:   7.5
+:rating:   7.3
 :END:
 
 **** [#C] 3.1 The Conquest of Far :Jo:P2017:plot_no:
@@ -802,7 +802,7 @@ Inferno
 
 **** [#D] 5.2 The Scream of Ghosts :Jo:P2019:plot_no:
 :PROPERTIES:
-:rating:   7.4
+:rating:   7.3
 :END:
 
 **** [#B] 6.1 Poison of the Daleks (8.0) :Jo:UNIT:P2020:plot_no:
@@ -810,9 +810,9 @@ Inferno
 :rating:   8.0
 :END:
 
-**** READY [#D] 6.2 Operation: Hellfire :Jo:Churchill:P2020:plot_yes:
+**** CANCEL [#D] 6.2 Operation: Hellfire :Jo:Churchill:P2020:plot_yes:
 :PROPERTIES:
-:rating:   7.4
+:rating:   7.1
 :END:
 
 **** HALF [#C] 7.1 The Unzal Incursion :P2021:Liz:Brigadier:DW2023_01_doctor:
@@ -827,8 +827,11 @@ SCHEDULED: <2022-05-28 Sat>
 :rating:   8.7
 :END:
 
-**** START [#D] 8.1 Conspiracy in Space :Jo:draconians:plot_yes:DW2023_05_doctor:
+**** CANCEL [#D] 8.1 Conspiracy in Space :Jo:draconians:plot_yes:DW2023_05_doctor:
 SCHEDULED: <2023-05-27 Sat>
+:PROPERTIES:
+:rating:   7.1
+:END:
 
 **** READY [#B] 8.2 The Devil's Hoofprints :P2021:Sarah:plot_yes:
 :PROPERTIES:
@@ -1523,7 +1526,7 @@ CLOSED: <2018-07-13 Fri 08:03>
 
 **** Twilight of the Silurians
 ** short stories
-** audio
+** audio :🎧:
 *** [#C] CC2.3 - Old Soldiers :Brigadier:plot_yes_dwg:
 :PROPERTIES:
 :rating:   7.5
@@ -1544,10 +1547,6 @@ CLOSED: <2023-04-18 Tue 08:56> SCHEDULED: <2023-04-09 Sun>
 
 *** CC8.1 Mastermind :Master_decayed:UNIT:Vault:
 *** [#A] ST7.6 - How to Win Planets and Influence People †9.2 :Monk:Sarah:Harry:
-*** TODO [#A] ST8.10 - I Am The Master †9.0 :Master:bilibili:
-
-【【中英熟肉】藏在大衣里的脆皮马w（I am the Master广播剧预告)-哔哩哔哩】https://b23.tv/IGxQAU
-
 ** novels
 *** [#A] Who Killed Kennedy (4.1) :novel:
 *** DONE [#B] 敌人的脸孔 The Face of the Enemy (PDA top #5) †3. 83 :📔:UNIT:Master:

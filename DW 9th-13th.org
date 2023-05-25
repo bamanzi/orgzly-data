@@ -67,7 +67,7 @@ SCHEDULED: <2022-07-23 Sat>
 :rating:   8.2
 :END:
 
-**** 📂S2.1 Back to Earth :P2022_05:
+**** S2.1 Back to Earth :P2022_05:
 ***** 2DONE [#B] 5.1 Station to Station :bilibili:DW2023_01_doctor:
 CLOSED: [2023-01-23 Mon 08:22] SCHEDULED: <2023-01-10 Tue 08:39>
 
@@ -517,8 +517,8 @@ SCHEDULED: <2023-02-21 Tue 08:51>
 
 【【神秘博士广播剧熟肉】Dalek Universe 201 Cycle of Destruction-哔哩哔哩】 https://b23.tv/YGpWAbr
 
-***** HALF [#A] DU2.2 - The Trojan Dalek :bilibili:DW2023_04_doctor:
-DEADLINE: <2023-04-29 Sat> SCHEDULED: <2023-04-23 Sun 21:42>
+***** 3QTR [#A] DU2.2 - The Trojan Dalek :bilibili:DW2023_04_doctor:
+CLOSED: [2023-05-11 Thu 21:12] DEADLINE: <2023-04-29 Sat> SCHEDULED: <2023-04-23 Sun 21:42>
 :PROPERTIES:
 :rating:   8.6
 :END:
@@ -760,6 +760,7 @@ https://m.youtube.com/watch?v=7wrZUFIgiNE
 
 **** [#E] Paradis Lost (BBC) :Clara:1CD:P2020:
 **** [#B] NSA audio #15 The Art of Death :BBC:Amy:Rory:
+**** [#B] Let it Snow (Tales of Trenzalore #1) :Ice_Warriors:
 ** comics
 *** IDW
 **** Omnibus vol.1

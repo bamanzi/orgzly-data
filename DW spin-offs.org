@@ -401,7 +401,7 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 ***** [#A] 59. Sonny (8.9) :Rhys:
 ***** CANCEL [#E] 60. Infidel Places+ (6.7) :Queen:
 **** series 8 (61-72)
-***** HALF [#C] 61. War Chest :Tosh:P2022_05:DW2023_04_spinoffs:
+***** HALF [#C] TW61. War Chest :Tosh:P2022_05:DW2023_04_spinoffs:
       DEADLINE: <2023-04-23 Sun> SCHEDULED: <2023-04-19 Wed 08:42>
 
 ***** [#D] 62. Dead Plates :Bilis_Manger:
@@ -435,7 +435,7 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 
 The Church of the Outsiders believe that mankind is about to evolve, to reach out into the stars. Owen Harper believes that Torchwood has to do whatever it takes to stop them
 
-**** The Sins of Captain John :P2020:
+**** The Sins of Captain John :P2020:Captain_John:
 ***** HALF [#C] 1 - The Restored (7.9) :DW2022_08_spinoffs:plot_none:
       SCHEDULED: <2022-09-04 Sun>
       :PROPERTIES:
@@ -471,13 +471,13 @@ https://tardis.fandom.com/wiki/Parasite_(audio_story)
 ***** 2DONE [#A] 1.3 The Mould :DW2023_03_spinoffs:
       CLOSED: [2023-04-11 Tue 08:29] SCHEDULED: <2023-04-09 Sun>
 
-***** 2DONE [#A] 1.4 The Spread :DW2023_04_spinoffs:
+***** 2DONE [#A] TWS1.4 The Spread :DW2023_04_spinoffs:
       CLOSED: [2023-04-11 Tue 08:29] SCHEDULED: <2023-04-09 Sun>
 
-***** DONE [#A] 1.5 The Dead Hand [#S] :DW2023_04_spinoffs:
+***** DONE [#A] TWS1.5 The Dead Hand [#S] :DW2023_04_spinoffs:
       CLOSED: [2023-04-21 Fri 09:00] DEADLINE: <2023-04-23 Sun>
 
-***** 3QTR [#A] 1.6 The Liberty of Norton Folgate :DW2023_04_spinoffs:
+***** 3QTR [#A] TWS1.6 The Liberty of Norton Folgate :DW2023_04_spinoffs:
       CLOSED: [2023-04-21 Fri 13:57]
 
 **** Torchwood Soho: Ashenden :Norton:Andy:Lizbeth:P2021:plot_yes:
@@ -509,7 +509,7 @@ https://tardis.fandom.com/wiki/Parasite_(audio_story)
 
 **** Torchwood Soho #3 The Unbegotten :Norton:Andy:Lizbeth:P2022_10:
 *** tv continuation :🎧:1CD:
-**** Aliens Among Us
+**** S5. Aliens Among Us
 ***** 2DONE [#B] 5.01 Changes Everything
       CLOSED: [2021-01-31 Sun 18:37]
       :PROPERTIES:
@@ -572,7 +572,7 @@ https://tardis.fandom.com/wiki/Parasite_(audio_story)
       :rating:   7.6
       :END:
 
-**** God Among Us :plot_yes:
+**** S6. God Among Us :plot_yes:
 ***** 3QTR [#A] TW6.1 - Future Pain (9.0) :P2018:D2022_03_spinoffs:week1:
       CLOSED: [2022-03-18 Fri 07:07] SCHEDULED: <2022-03-30 Wed>
       :PROPERTIES:
@@ -621,7 +621,7 @@ https://tardis.fandom.com/wiki/Parasite_(audio_story)
 ***** 3QTR [#B] 6.12 Thoughts and Prayers (8.2) :Yvonne:Orr:God:P2019:DW2023_02_spinoffs:
       CLOSED: [2023-02-27 Mon 08:33] SCHEDULED: <2023-02-20 Mon 21:42>
 
-**** TBR Among Us :P2023:
+**** S7. Among Us :P2023:
 ***** 7.1 Aliens Next Door :Orr:
 ***** 7.2 Colin Alone :Colchester:
 ***** 7.3 Misty Eyes :Gwen:Rhys:
@@ -778,7 +778,7 @@ Torchwood India
 **** DONE [#E] 1.1 The Boundless Sea (6.6) :bilibili:
      CLOSED: <2020-09-12 Sat 21:11>
 
-【The Diary of River Song Series 01-哔哩哔哩】https://b23.tv/CGrGlH
+【【神秘博士广播剧】The Diary of River Song 101 The Boundless Sea 无垠之海-哔哩哔哩】 https://b23.tv/j9Mtlpe
 
 **** DONE [#C] 1.2 I Went to a Marvellous Party (7.2) :bilibili:
      CLOSED: <2020-09-15 Tue 21:11>
@@ -1157,7 +1157,7 @@ Roberts Master
     :rating:   6.5
     :END:
 
-*** HALF [#D] 5.3 - Arbitration :Daleks:DW2023_04_spinoffs:
+*** HALF [#D] GALL5.3 - Arbitration :Daleks:DW2023_04_spinoffs:
     DEADLINE: <2023-04-23 Sun> SCHEDULED: <2023-04-17 Mon 09:51>
     :PROPERTIES:
     :rating:   7.2
@@ -1424,6 +1424,11 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
 
 *** vol.2 The Triumph of Sutekh :7th_Dr:P2015:
 *** vol.3 The Unbound Universe :unbound_universe:Doctor_unbound:P2016:
+**** READY Unbound #2: Sympathy for the Devil :bilibili:Master_unbound:
+
+【【神秘博士广播剧熟肉】Unbound: Sympathy for the Devil 怜悯恶魔-哔哩哔哩】 https://b23.tv/d9yBioC
+
+**** Unbound #8: Masters of War
 **** 3QTR [#B] BSNA3.1 - The Library In The Body :D2021_08_extra:plot_no:D2021_12_extra:week2:
      CLOSED: <2021-12-12 Sun 20:42> SCHEDULED: <2021-12-11 Sat>
      :PROPERTIES:
@@ -1543,11 +1548,13 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
 
 【「重製版熟肉神秘博士廣播劇」Missy 102 Divorced, Beheaded, Regenerated-哔哩哔哩】 https://b23.tv/imPAE6N
 
-*** 3QTR [#A] MISSY1.3 - The Broken Clock :D2021_10_extra:plot_no:overdue:
+*** 3QTR [#A] MISSY1.3 - The Broken Clock :D2021_10_extra:plot_no:bilibili:
     CLOSED: [2021-11-27 Sat 08:52] DEADLINE: <2021-11-30 Tue> SCHEDULED: <2021-11-13 Sat>
     :PROPERTIES:
     :rating:   8.6
     :END:
+
+【【神秘博士广播剧】Missy 103 The broken clock 破碎时钟-哔哩哔哩】 https://b23.tv/R2cqU0o
 
 *** [#E] +Missy1.4 - The Belly of the Beast+ :D2021_11_master:
     SCHEDULED: <2021-11-20 Sat>
@@ -1570,7 +1577,7 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
     :rating:   6.8
     :END:
 
-*** HALF [#D] 2.3 - Treason and Plot :plot_cast:DW2023_04_spinoffs:
+*** HALF [#D] Missy2.3 - Treason and Plot :plot_cast:DW2023_04_spinoffs:
     SCHEDULED: <2023-04-16 Sun>
     :PROPERTIES:
     :rating:   7.2
@@ -1586,7 +1593,7 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
 *** [#E] 3.2 War Seed
 *** [#D] 3.3 Two Monks, One Mistress
 ** Masterful
-*** Masterful :bilibili:
+*** READY Masterful :bilibili:
 
 【【神秘博士广播剧】Masterful 混乱之主 01-哔哩哔哩】 https://b23.tv/WSXHwtR
 
@@ -2140,7 +2147,7 @@ Synopsis:  http://www.drwhoguide.com/kaldor01.htm
 
 http://www.drwhoguide.com/kaldor03.htm
 
-*** LATER KC4. Taren Capel :DW2023_06_spinoffs:
+*** LATER KC4. Taren Capel :DW2023_06_maybe:
 *** KC5. Checkmate
 *** KC6. Storm Mine
 ** The Robots (Big Finish, 2019-)
@@ -2533,7 +2540,20 @@ From Donna's perspective, the anthology is set after /Forest of the Dead/.
 
 *** [#C] 3. Full Fathom Five
 *** [#D] 4. He Jests at Scars...
-*** [#A] 5. Deadline
+*** READY [#A] 5. Deadline :bilibili:
+
+【【神秘博士广播剧翻译】Unbound:Deadline 假如世界上没有博士-哔哩哔哩】 https://b23.tv/tK7WtHA
+
+
+自从马丁 班尼斯特第一次遇到博士已经过去了四十年了。那时的他们很不一样。Martin年轻，才华横溢，还是时代评选的十大最有前途作家的第七名。博士神秘，脾气坏，还有点东方味。
+这场邂逅摧毁了他们的人生。
+
+可怜的马丁，生涯尽毁，被人遗忘。他离异的妻子们在错误的顺序死去，衣柜旁还有一滩可能是外星人脚印的绿色污渍，或者是霉菌。
+
+马丁的人生很快会遭受意外的改变，即兴诗歌阅读会，大象远征，强制的虫子眼怪物。还有获得爱的最后机会，在一切无法挽回前。
+
+是时候让博士回到马丁的生活了，并且让他吃点苦头，永远地。
+
 *** CANCEL [#F] 6. Exile
 *** [#D] 7. A Storm of Angels
 *** 2DONE [#B] DWUN8 - Masters of War :Davros:D2021_07_extra:D2021_12_extra:week1:
@@ -2644,7 +2664,7 @@ https://disk.yandex.ru/d/n_i2CRgIJW0xOw
 *** vol.1 The Eighth of March :P2019:
 **** START [#D] 1.1 Emancipation :River:Leela:
 **** CANCEL [#F] 1.2 The Big Blue Book :Benny:Ace:7th_Dr:
-**** 3QTR [#D] 1.3 Inside Every Warrior :Vastra:Jenny:Strax:TPG:DW2023_04_spinoffs:
+**** 3QTR [#D] EoM1.3 Inside Every Warrior :Vastra:Jenny:Strax:TPG:DW2023_04_spinoffs:
      CLOSED: [2023-04-26 Wed 08:34] SCHEDULED: <2023-04-16 Sun>
      :PROPERTIES:
      :rating:   7.2
@@ -2668,6 +2688,8 @@ https://disk.yandex.ru/d/n_i2CRgIJW0xOw
 *** [#D] 2. The Poison of Peladon :River:
 *** CANCEL [#E] 3. The Death of Peladon :6th_Dr:Mel:
 *** [#A] 4. The Truth of Peladon :8th_Dr:
+** Once and Future :P2023_06:
+*** Past Lives
 * #Dark Times
 
 https://tardis.fandom.com/wiki/Dark_Times_-_list_of_appearances

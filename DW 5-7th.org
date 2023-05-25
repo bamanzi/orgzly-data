@@ -180,9 +180,13 @@ CLOSED: [2021-03-22 Mon 23:20]
 :rating:   6.1
 :END:
 
-**** [#E] 117. The Judgement of Isskar
-**** The Destroyer of Delights
-**** The Chaos Pool
+**** [#E] 117. The Judgement of Isskar :Zara:Abby:Ice_Warriors:
+**** [#D] 118. The Destroyer of Delights :Zara:Abby:
+:PROPERTIES:
+:rating:   7.0
+:END:
+
+**** [#F] 119. The Chaos Pool :Zara:Abby:
 **** [#C] 127. Castle of Fear :Nyssa:
 **** 2DONE [#B] 128. The Eternal Summer :plot_yes:Nyssa:❤:
 CLOSED: [2021-06-17 Thu 23:01]
@@ -411,9 +415,9 @@ CLOSED: [2022-11-27 Sun 23:36] SCHEDULED: <2022-11-16 Wed>
 
 ***** [#D] 1.2 God of War :Nyssa:Tegan:Adric:ice_warriors:1CD:P2022_01:
 ***** [#A] 2. The Auton Infinity :Tegan:Turlough:Brigadier:3CD:P2022_09:
-**** 📂22A. Conflict of Interests :P2023_04:
-***** Friendly Fire
-***** The Edge of the War
+**** 📂22A. Conflict of Interests :Nyssa:Tegan:P2023_04:
+***** Friendly Fire :1CD:
+***** The Edge of the War :1CD:
 *** misc
 **** The Lost Stories
 ***** [#B] 3.1 - The Elite :Nyssa:Tegan:Daleks:2CD:
@@ -756,7 +760,7 @@ CLOSED: [2022-11-12 Sat 20:08] SCHEDULED: <2022-11-01 Tue>
 
 【【广播剧翻译】博士的重生场景重演？六任：最后的冒险 103 Stage Fright-哔哩哔哩】 https://b23.tv/NnRPoV3
 
-***** 3QTR [#B] The Brink of Death :Mel:bilibili:DW2023_04_doctor:
+***** 3QTR [#B] 6DLA1.4 The Brink of Death :Mel:bilibili:DW2023_04_doctor:
 CLOSED: [2023-04-11 Tue 21:15] SCHEDULED: <2023-04-15 Sat>
 
 【【广播剧翻译】在重生29年后补的重生集 六任：最后的冒险  104 The Brink of Death-哔哩哔哩】 https://b23.tv/4Ozoj0K
@@ -797,7 +801,10 @@ Volume One
 ***** 2.1 The Mindless Ones
 ***** 2.2 Reverse Engineering
 ***** 2.3 Chronomancer
-**** TBR 23A. Purity Unleashed :P2023_05:
+**** 📂23A. Purity Unleashed :P2023_05:Mel:
+***** 1. Broadway Belongs to Me!
+***** 2. Purification
+***** 3. Time-Burst
 *** The Lost Stories
 **** The Lost Stories s1 :Peri:
 ***** [#E] LS1.1 The Nightmare Fair :scripted:ToyMaker:
