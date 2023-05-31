@@ -1,4 +1,5 @@
 #+PRIORITIES: A F D
+#+TODO: TODO NEXT READY BLOCK TBR START HALF 3QTR | 2DONE DONE CANCEL
 
 * DW 2020
 *** MR 8D :8th_Dr:
@@ -1504,19 +1505,19 @@
 *** HALF [#D] Lady 1.3 - Portrait of a Lady
 * DW2023-05
 ** dw2023-05-doctor
-*** HALF [#B] CC11.4 - The Plague of Dreams :Polly:Ben:
+*** 3QTR [#B] CC11.4 - The Plague of Dreams                       :Polly:Ben:
 *** [#C] 3DA1.2 - The Havoc of Empires :3rd_Dr:Jo:Yates:plot_yes:2cd:
-*** START [#B] 5DWS1.1 - The Garden of Storms :5th_Dr:Leela:Zara:Abby:
+*** HALF [#B] 5DWS1.1 - The Garden of Storms    :5th_Dr:Leela:Zara:Abby:
 *** HALF [#B] UNIT: Dominion p1-2 :7th_Dr:Klein:UNIT:Master_bald:Ace:2cd:
-*** HALF [#D] 9DC1.3 - The Other Side :9th_Dr:
+*** 3QTR [#D] 9DC1.3 - The Other Side                                :9th_Dr:
 *** HALF [#A] 11DC3.1 - The Inheritance :11th_Dr:
 ** dw2023-05-spinoffs
-*** [#C] TW56. The Red List :Ace:Colchester:
+*** HALF [#C] TW56. The Red List                             :Ace:Colchester:
 *** 3QTR [#B] TW BBC #2 Asylum :Jack:Gwen:Ianto:Andy:
 *** 3QTR [#C] WoDW1 - Mind Games :Jago:Litefoot:
 *** 3QTR [#A] BS11.3 - Year Zero :Benny:
 *** HALF [#C] Lady1.4 - Death on the Mile
-*** HALF [#B] Susan1.1 - Sphere of Influence :time_war:
+*** HALF [#B] Susan1.1 - Sphere of Influence             :Susan:Ian:Time_War:
 *** HALF [#C] CY1.1 - The Oncoming Storm :Churchill:
 * DW2023-06
 ** dw2023-06-doctor
@@ -1528,14 +1529,29 @@
 *** TODO [#C] MR009 The Spectre of Lanyon Moor :6th_Dr:Evelyn:2CD:
 *** [#A] 8DDC3.4 The Crucible of Souls :8th_Dr:Liv:Helen:River:The_Nine:
 *** [#A] 10DDU 2.3 The Lost :10th_Dr:Anya:Mark_7:
-*** [#D] WDB2.3 Saviour :War_Doctor:
+*** [#D] WDB2.3 Saviour                                 :War_Doctor:Time_War:
 ** dw2023-06-spinoffs
-*** [#C] TW1 2.2 Blind Summit :Yvonne:Ianto:
-*** [#A] John #3 Peach Blossom Heights :John:Jack:
+*** [#D] TWO 2.1 The Law Machine                               :Yvonne:Ianto:
+*** [#A] John #3 Peach Blossom Heights :Captain_John:Jack:
 *** [#D] WoDW2 The Reesinger Process :CM:
-*** TODO [#A] ST8.10 I Am The Master :Master_decayed:
+*** 2DONE [#A] ST8.10 I Am The Master                    :Master_decayed:
 *** TODO [#C] BS11.4 - Dead Man's Switch :Benny:
-*** [#D] Robots3.1 The Mystery of Sector 13 :Liv:
-*** [#B] SJS1.3 Test of Nerve :Sarah:
+*** TODO [#D] SJS1.1 Comeback                                         :Sarah:
+*** TODO [#D] CY1.2 Hounded                               :Churchill:10th_Dr:
 ** pending
-*** TODO 6DnP #1 The Headless Ones :6th_Dr:Peri:
+* DW2023-07
+** dw2023-07-doctor
+*** [#C] EA1.3 The Bounty of Ceres :1st_Dr:Vicki:Steven:2CD:
+*** [#C] CC4.3 The Prisoner of Peladon :3rd_Dr:Peladon:
+*** [#B] MR159 The Emerald Tiger :5th_Dr:Nyssa:2CD:
+*** [#B] UNIT: Dominion p3-p4 :7th_Dr:Klein:UNIT:Master_bald:2CD:
+*** [#A] 9DA 6.1 Salvation Nine :9th_Dr:
+*** [#A] 11DC 3.2 The House of Masks :11th_Dr:
+** dw2023-07-spinoffs
+*** [#C] TWO 2.2 Blind Summit                                 :Yvonne:Ianto:
+*** [#C] TW29 Serenity                                           :Jack:Ianto:
+*** [#B] WoDW3 - The Screaming Skull                          :Jago:Litefoot:
+*** TODO [#B] BSBOX1.1 - The Kraken's Lament                          :Benny:
+*** Susan1.2 The Uncertain Shore                             :Susan:Time_War:
+*** TODO CY1.3 - Living History                           :Churchill:11th_Dr:
+*** [#C] Gallifrey 6.1 - Extermination                       :Romana_2:Leela:
