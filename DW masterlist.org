@@ -1,6 +1,6 @@
 #+TITLE: Doctor Who - Masterlist
 
-* TV / videos
+* TV / videos :📺:
 ** Classic TV Stories (Including Extras):
 *** Streaming
 
@@ -250,7 +250,7 @@ BTM 720p
 
 字幕组（zimuzu, 400M)  http://www.waijutt.com/detail/4473/ （『百度云』部分）
 
-* audios
+* audios :🎧:
 ** Big Finish:
 
 - Big Finish Listening Guide: https://pastebin.com/KUvM0Wqb
@@ -274,36 +274,115 @@ magnet: magnet:?xt=urn:btih:dec12348c4172aa406252de852db4981269554fb&dn=Big%20Fi
  - https://mega.nz/#F!4KRFSAqR!7MzSm64OX_JpoFMONeLLiA
  - alt: https://mega.nz/#F!UosSEARb!rEVR42OvTkgyax3c1J9iDQ 
 
+***** 01-50
+
+- 01-10 :: https://disk.yandex.ru/d/sDK3EiTxTaSIrQ
+- 11-20 :: https://disk.yandex.ru/d/cbh5ZnZs2E0C9Q
+- 21-30 :: https://disk.yandex.ru/d/AxDLO0Wh18RtWQ
+- 31-35 :: https://disk.yandex.ru/d/t_SNPiogHf3C6g
+- 36-40 :: https://disk.yandex.ru/d/KcfnNe-hOhvEDA
+- 41-45 :: https://disk.yandex.ru/d/1KsJmsvtYEgA5w
+- 46-50 :: https://disk.yandex.ru/d/uE3F2y9vFKhfVg
+
+***** 51-100
+
+- 51-55 :: https://disk.yandex.ru/d/eDNlQJsHmyeVdg
+- 56-60 :: https://disk.yandex.ru/d/XaFDeU1lOfe8ww
+- 61-65 :: https://disk.yandex.ru/d/C1UmZByL6dTtng
+- 66-70 :: https://disk.yandex.ru/d/6_ER2xBkZEDRHw
+- 71-75 :: https://disk.yandex.ru/d/s_zNqvqB48ZKHw
+- 76-80 :: https://disk.yandex.ru/d/JlwqRAEI9hvI-A
+- 81-85 :: https://disk.yandex.ru/d/Q2FKm8Z-Y5-Nrw
+- 86-90 :: https://disk.yandex.ru/d/O3-6h6Tpi-Lyiw
+- 91-95 :: https://disk.yandex.ru/d/_gG8rfGjdIYPog
+- 96-100 :: https://disk.yandex.ru/d/89tw0ROTL2BRyQ
+
+***** 101-150
+
+
+since May 27
+
+**** 1DA
+
+The Firstst Doctor Adventures: https://mega.nz/#F!BuZjxSjA!YePujjODEMc0_kzATIBi0w
+
+S1-5: https://disk.yandex.ru/d/dtANLQVnlzDb1g
+
+**** The Early Adventures (1D & 2D)
+
+ https://mega.nz/#F!l2o3kRIS!ZU7f1_DTMUXQe3rA8D6ySg
+
+Ранние приключения
+
+- S1: https://disk.yandex.ru/d/PtZOYB6CwUEmog
+- S2: https://disk.yandex.ru/d/Ix6BUxcR5BRf-w
+- S4: https://disk.yandex.ru/d/j4WoVfR7YqaX1Q
+
+**** 3DA
+
+- S1-4 https://mega.nz/#F!V3p3RYqT!boaPloeVKVhfqoeChGVr0g
+- S7 https://mega.nz/folder/2zoSwI4I#Az8hwOB8yd9yQ4_Nw8bxgA
+- S8 https://mega.nz/folder/w04QzSRK#ZhoZC_lMtQQHw1MrdoDC6w
+- Annihilators https://mega.nz/file/yvZDQKbS#dc0c_tZGAhdoJPlYEH0sAIQW2YeadZzm23fdOye1s0A
+- Kaleidoscope https://mega.nz/file/Bw4BWIjI#vMJTI6DoqAEKtQGZe28vkgb32b8Rze1Ia0WQpJ2c8HI
+
+
+Приключений Третьего Доктора
+
+- S1 https://disk.yandex.ru/d/ksm2MvGmFbmTrQ
+- S2 https://disk.yandex.ru/d/4yqoJK7NcA0A4w
+- S3 https://disk.yandex.ru/d/uJuypWDRLMtoKA
+- S4 https://disk.yandex.ru/d/T9CfJuyLnWRcYw
+- S5 https://disk.yandex.ru/d/fllrQQpSNOdpXA
+- S7 https://disk.yandex.ru/d/YtTO2u_9KBiOsQ
+- Annihilators https://disk.yandex.ru/d/91AndeiqfR32Eg
+- Kaleidoscope https://disk.yandex.ru/d/NQvph2SBSQCPnw
+
+**** 4DA + PHP
+
+The 4th Doctor Adventures/Phillip Hinchcliffe Presents: https://mega.nz/#F!1iZmWQqS!ZWco1uOgc-wkP3XuuZUGKA (S1-S7)
+
+- S7 https://mega.nz/folder/YyZhQSqD#-McnEC_Eg-ujUo02rnF5dA
+- S8?
+- S9 special https://mega.nz/file/JtsRSR5Y#yc_uCWHkbnIH_d3FpdrwXeE-yd3dmaKHjX5otjnT-Y0
+- 
+
+Приключений Четвёртого Доктора
+
+- S1 https://disk.yandex.ru/d/8eJ64WOKGJSuFg
+- S2 https://disk.yandex.ru/d/7r3c6jgLsg08uA
+- S3 https://disk.yandex.ru/d/1BuFbGY6RS9IRg
+- S4 https://disk.yandex.ru/d/00QI9sdYIx8hIA
+- S7 https://disk.yandex.ru/d/om7lgP463RmTYz + https://disk.yandex.ru/d/VXD2a5f-3WLH5d
+- S8 https://disk.yandex.ru/d/XVOi82RsXQmu6Q + ?
+- S9 https://disk.yandex.ru/d/FZFs08RHQosHZw + https://disk.yandex.ru/d/xQOhc5Hspu5K6g + https://disk.yandex.ru/d/eEUIZ7PHK1OtEA
+- S9 https://disk.yandex.ru/d/djitqgk-tJ9Zpg
+- S10 https://disk.yandex.ru/d/OhdtUjpJIxw7Xw +  https://disk.yandex.ru/d/X07n5lzTKsku5A
+- S11 https://disk.yandex.ru/d/b00a4nZxmbsq4g
+
 **** 8DA + boxsets
 
 https://mega.nz/#F!DSxB0SZQ!pxqKGYOndbwmzjM5PUoNiQ
 
 https://disk.yandex.ru/d/wvIFTkwIBUEYcw
 
-**** 4DA + PHP
-
-The 4th Doctor Adventures/Phillip Hinchcliffe Presents: https://mega.nz/#F!1iZmWQqS!ZWco1uOgc-wkP3XuuZUGKA
-
-**** 3DA
-
-https://mega.nz/#F!V3p3RYqT!boaPloeVKVhfqoeChGVr0g
-
-**** 1DA
-
-The Firstst Doctor Adventures: https://mega.nz/#F!BuZjxSjA!YePujjODEMc0_kzATIBi0w
-
-**** The Early Adventures (1D & 2D)
-
- https://mega.nz/#F!l2o3kRIS!ZU7f1_DTMUXQe3rA8D6ySg
-
 **** The Companion Chronicles (1-4th Doctor)
 
 : https://mega.nz/#F!g3hGjTLC!B3hvl82hWl2UKbrVcZwwYw
 
+Хроники спутников
+
+- 5.1-5.6 :: https://disk.yandex.ru/d/ZZF9CjeaZalzoQ
+- 5.7-5.12 :: https://disk.yandex.ru/d/aYTykW9o6aBQQw
+
+
+
 *** classic misc
 **** Bonus Releases
 
-: https://mega.nz/#F!RyQE2SSQ!wUYvVCwQHNp7Sexo4kj5KA
+- https://mega.nz/#F!RyQE2SSQ!wUYvVCwQHNp7Sexo4kj5KA
+
+- 1-6 https://disk.yandex.ru/d/GK24PCIrKYn3vw
 
 **** Special Releases
 
@@ -313,9 +392,22 @@ The Firstst Doctor Adventures: https://mega.nz/#F!BuZjxSjA!YePujjODEMc0_kzATIBi0
 
 : https://mega.nz/#F!l3oAGYiL!mCCm8U-XDhRzYAl1V51w7Q
 
+Потерянные истории
+
+- S1 :: https://disk.yandex.ru/d/uKdqFM-hVTiGiA
+- S2 :: https://disk.yandex.ru/d/XtyJflqm_5lbaw
+- S3 :: https://disk.yandex.ru/d/QGUkF9Zx2HWyBw
+
+
+
 **** Novel Adaptations
 
 : https://mega.nz/#F!F7YlGShZ!WjTgIFRUtJkkugMhocWZYw
+
+Адаптации новелл
+
+- 1-6 :: https://disk.yandex.ru/d/GK24PCIrKYn3vw
+- 7-11 :: https://disk.yandex.ru/d/cikf7rouTe3Nog
 
 **** Stage Plays
 
@@ -329,6 +421,10 @@ The Firstst Doctor Adventures: https://mega.nz/#F!BuZjxSjA!YePujjODEMc0_kzATIBi0
 
 : https://mega.nz/#F!oQQUzJCS!-N4H89xMqCaZfysjNzX5Dg
 
+
+- vol.1-4 :: https://disk.yandex.ru/d/AqjNMzoPmpKSmA
+- vol.5 :: https://disk.yandex.ru/d/m03dtP7clV0WKw
+
 *** new series
 
  https://mega.nz/#F!A7w1kbbY!AtDL11OkwOCklwDy9TTvGg
@@ -340,6 +436,36 @@ The Firstst Doctor Adventures: https://mega.nz/#F!BuZjxSjA!YePujjODEMc0_kzATIBi0
   - The War Doctor
   - The War Master
 - Classic Doctors, New Monsters
+
+**** 10DA
+
+- 10DA :: https://disk.yandex.ru/d/C-Xm6HVvoCdtJA
+- The Tenth Doctor and River Song :: https://disk.yandex.ru/d/AHvgX7eNkKPxYg
+- The Tenth Doctor and Classic Companion :: https://disk.yandex.ru/d/KuoTB8zoGst81g
+
+**** The Missy Chronicles
+
+
+
+
+https://disk.yandex.ru/d/ACgvc02eIyKsww
+
+**** The War Master
+
+Военный Мастер
+
+
+- S1-4 :: https://disk.yandex.ru/d/XYukh3zncGgh0g
+
+**** The War Doctor
+
+
+
+https://disk.yandex.ru/d/9VdmlMBK70i8WA
+
+**** The Dalek Universe
+
+https://disk.yandex.ru/d/aw2B5eHBldsSFQ
 
 *** spin-offs (classic era)
 
@@ -354,6 +480,47 @@ https://mega.nz/#F!VKZQCDBK!HVF3dZfQp9G2rwFlRKHGbw
   - I, Davros
   - Jago & Litefoot
 
+**** Bernice Summerfield
+***** BS
+
+Бернис Саммерфилд
+
+
+- S1-4 :: https://disk.yandex.ru/d/fMkh10QDj8sI-Q
+- S5 :: https://disk.yandex.ru/d/5gUwqy2eIVb-3g
+- S6 :: https://disk.yandex.ru/d/hVGLxJmTM_3HyQ
+- S7 :: https://disk.yandex.ru/d/VVKpi8YGIsdWRw
+
+**** Gallifrey
+
+Галлифрей
+
+- S1-4 :: https://disk.yandex.ru/d/a1JFWS9KKvwseA
+- S5 :: https://disk.yandex.ru/d/CBZ-V0teV4y4Mw
+- S6 :: https://disk.yandex.ru/d/5FxjWuYKe_S9Aw
+- S7-8 :: https://disk.yandex.ru/d/yfwsHFZTKATGRQ
+
+**** Jago & Litefoot
+
+Джейго и Лайтфут
+
+- S3-S4 :: https://disk.yandex.ru/d/yNZ2_0_tZv6N6A
+
+**** The Robots
+***** Vol.1
+
+https://disk.yandex.ru/d/922b6OgK6bUyig
+
+***** vol.2
+
+https://disk.yandex.ru/d/lxXQRuTQwUOJRg
+
+**** UNIT Brave New World
+
+
+
+https://disk.yandex.ru/d/HQAWmmw6WMy-zw
+
 *** spin-offs (new series)
 
 https://mega.nz/#F!A7w1kbbY!AtDL11OkwOCklwDy9TTvGg
@@ -363,6 +530,123 @@ https://mega.nz/#F!A7w1kbbY!AtDL11OkwOCklwDy9TTvGg
   - Jenny - The Doctor's Daughter
   - The Thurchill Year
   - The Diary of Rive Song
+
+**** Rose Tylor: Dimension Cannon
+
+
+
+https://disk.yandex.ru/d/4V-DJhyEf8S8nQ
+
+**** The Diary of River Song
+
+Дневник Ривер Сонг
+
+- S1-5 https://disk.yandex.ru/d/OilzX_SwU35EdQ
+- S6-10 https://disk.yandex.ru/d/swL9f5w57SGTmQ
+
+**** UNIT: The New Series
+
+
+ЮНИТ
+
+- S1 :: https://disk.yandex.ru/d/plenZLSWd05i6g
+- S2 :: https://disk.yandex.ru/d/rPZNrPqiC5Eopg
+- S3-4 :: https://disk.yandex.ru/d/umgMUBYSprEJdg
+
+ЮНИТ: Вражда
+
+- Nemesis S3 :: https://disk.yandex.ru/d/Z0NLeghwFh-H5Q
+
+**** The Paternoster Gang
+
+- S1-4: https://disk.yandex.ru/d/Z9XnDde7WrUYPg
+
+
+**** Jenny: The Doctor's Daughter
+
+
+
+https://disk.yandex.ru/d/xX8CAqMyp3WIjA
+
+**** The Lone Centurion
+
+Одинокий центурион
+
+https://disk.yandex.ru/d/FlccujfMlf5_vQ
+
+*** Torchwood
+**** monthly
+***** MR001-024
+
+https://mega.nz/#F!A7w1kbbY!AtDL11OkwOCklwDy9TTvGg
+
+***** disk.yandex.ru
+
+ежемесячной линейки Торчвуда
+
+- 001-010 ::  https://disk.yandex.ru/d/9vgSY9FGNYB-_w
+- 011-020 :: https://disk.yandex.ru/d/CTy7NcZTp4Ax7A
+- 021-030 ::  https://disk.yandex.ru/d/cEulJRd5tuRWyQ
+- 031-035 :: https://disk.yandex.ru/d/TWbPqwcbNb5irw
+- 036-040 :: https://disk.yandex.ru/d/Me0GW-2-s7qb8Q
+- 041-045 :: https://disk.yandex.ru/d/DPlIv5OoIX0zYg
+
+**** Story Continues
+***** S5 Aliens Among Us
+
+
+
+https://mega.nz/#F!A7w1kbbY!AtDL11OkwOCklwDy9TTvGg
+
+https://disk.yandex.ru/d/Mjdp3-TxXEA8Jg
+
+***** S6 God Among Us
+
+Бог среди нас
+
+
+https://disk.yandex.ru/d/qYIiPyzt6huseQ
+
+***** S7 Among Us
+****** Among Us 1
+
+https://disk.yandex.ru/d/vrCEJXDL-PALkw
+
+
+
+**** Torchwood One
+
+https://disk.yandex.ru/d/kAgSa_KsH-YVpg
+
+***** S1 Before the Fall
+
+https://mega.nz/#F!A7w1kbbY!AtDL11OkwOCklwDy9TTvGg
+
+***** S2 Machines
+
+https://mega.nz/folder/NjIEkIBZ#dP03ZwE85ILBj6G8MdT_xw
+
+https://mega.nz/#F!A7w1kbbY!AtDL11OkwOCklwDy9TTvGg
+
+***** S3 Latter Days
+
+
+
+https://disk.yandex.ru/d/0K0bnMnm2DArJw
+
+***** S4 Nightmares
+
+https://mega.nz/folder/umhCiApR#I8bJIr_DfEI6gGeFWG-jwg
+
+https://disk.yandex.ru/d/nmOXFM3GSxaw6A
+
+**** specials
+***** The Sins of Captain John
+
+Грехи капитана Джона
+
+
+https://disk.yandex.ru/d/ZwjEHmREbFQXtw
 
 *** misc
 
@@ -375,6 +659,18 @@ https://mega.nz/#F!A7w1kbbY!AtDL11OkwOCklwDy9TTvGg
 **** Destiny of the Doctor
 
 https://mega.nz/#F!x6QFBTKL!MAD40r2RSaHF_o33chUFlw
+
+**** Time Lord Victorious
+
+https://disk.yandex.ru/d/n_i2CRgIJW0xOw
+
+**** The Eighth of March
+
+
+
+- vol.1 :: https://disk.yandex.ru/d/R_EbYleiOiQDqg
+- vol.2 :: https://disk.yandex.ru/d/Do-QdYWbn7VbvA 
+- vol.3 :: https://disk.yandex.ru/d/dtGgye1bxWNpRA
 
 ** BBC / AudioGo
 *** Full Cast BBC Plays
@@ -532,7 +828,7 @@ https://mega.nz/#F!VH5DjBwB!6qffo-fvH0xrn1PZWMkRwQ
 
 - Death Comes to Time Illustratated Preview: https://mega.nz/#F!MdgWVbAa!d7R_e7DMLSbW9oJJj6L1KA
 
-* books
+* books :📔:
 ** E-Books
 
 https://mega.nz/#F!NZJSnI4R!irDizKKFEfEcyNICKsPEAg
@@ -554,7 +850,7 @@ https://mega.nz/#F!m8tDWITC!aFMMM1cj7Y1whfDU6DO0Ig
 
 https://mega.nz/#F!UMhwQDKD!nXnpMVAn8o7KYReVwn9VMQ
 
-* comics
+* comics :📚:
 
 https://mega.nz/#F!FR5QAJjZ!I9cdazGlalJ3eNmw3bV8Kw
 
