@@ -306,7 +306,7 @@ Sebastian Vaughan is the brightest, newest recruit to Torchwood. He's come fro
       :rating:   7.9
       :END:
 
-***** [#A] 43. The Three Monkeys :Owen:Andy:DW2023_06_spinoffs:
+***** [#A] TW43. The Three Monkeys :Owen:Andy:DW2023_08_spinoffs:
       :PROPERTIES:
       :rating:   8.8
       :END:
@@ -393,7 +393,7 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
       :rating:   8.6
       :END:
 
-***** [#C] 56. The Red List (7.8) :Ace:Colchester:DW2023_05_spinoffs:
+***** HALF [#C] TW56. The Red List (7.8) :Ace:Colchester:DW2023_05_spinoffs:
       SCHEDULED: <2023-05-28 Sun>
 
 ***** [#A] 57. The Grey Mare (8.5) :Ianto:
@@ -448,7 +448,8 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
       :rating:   7.4
       :END:
 
-***** [#A] 3 - Peach Blossom Heights :Jack:DW2023_06_spinoffs:
+***** [#A] John1.3 - Peach Blossom Heights :Jack:DW2023_06_spinoffs:
+      SCHEDULED: <2023-06-11 Sun>
       :PROPERTIES:
       :rating:   9.2
       :END:
@@ -701,11 +702,12 @@ https://tardis.fandom.com/wiki/Parasite_(audio_story)
       SCHEDULED: <2022-07-16 Sat>
 
 **** TW1 vol.2: Machines :P2018:
-***** BLOCK [#E] 2.1 - The Law Machines
+***** BLOCK [#E] TWO2.1 - The Law Machines :DW2023_06_spinoffs:
+      SCHEDULED: <2023-06-25 Sun>
 
 超级电脑 WOTAN 最早出现于老版3x10 The War Machines 
 
-***** [#C] 2.2 - Blind Summit :DW2023_06_spinoffs:
+***** [#C] TWO2.2 - Blind Summit :DW2023_07_spinoffs:
       :PROPERTIES:
       :rating:   7.7
       :END:
@@ -737,7 +739,7 @@ https://tardis.fandom.com/wiki/Parasite_(audio_story)
 ***** [#A] 4.3 Less Majesty
 *** BBC audio dramas :🎧:scripted:
 **** [#D] 1. Lost Souls :Martha:
-**** 3QTR [#B] 2. Asylum :Jack:Gwen:Ianto:Andy:DW2023_05_spinoffs:
+**** 3QTR [#B] TWB2. Asylum :Jack:Gwen:Ianto:Andy:DW2023_05_spinoffs:
      CLOSED: [2023-05-08 Mon 20:28] SCHEDULED: <2023-05-07 Sun>
 
 **** DONE [#B] 3. Golden Age
@@ -1336,10 +1338,12 @@ http://drwhoguide.com/bs_a18.htm
 *** Series 11 :P2010:
 **** [#B] 11.1 - Resurrecting the Past
 **** [#A] 11.2 - Escaping the Future
-**** 3QTR [#A] 11.3 - Year Zero :DW2023_05_spinoffs:
+**** 3QTR [#A] BS11.3 - Year Zero :DW2023_05_spinoffs:
      CLOSED: <2023-05-12 Fri 08:16> SCHEDULED: <2023-05-14 Sun>
 
-**** [#C] 11.4 - Dead Man's Switch :DW2023_06_spinoffs:
+**** [#C] BS11.4 - Dead Man's Switch :DW2023_06_spinoffs:
+     SCHEDULED: <2023-06-18 Sun>
+
 ** Bernice Summerfield (boxset)
 *** Boxset 1: Epoch :P2011:Atlantis:plot_yes:
 **** [#B] 1.1 The Kraken's Lament :Jack_McSpringheel:
@@ -1601,12 +1605,16 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
 
 【【神秘博士广播剧】Masterful 混乱之主 03-哔哩哔哩】 https://b23.tv/cXQO9PZ
 
-*** TODO [#A] ST8.10 - I Am The Master †9.0 :Master:bilibili:DW2023_06_spinoffs:
+*** 2DONE [#A] ST8.10 - I Am The Master †9.0 :Master:bilibili:DW2023_06_spinoffs:
+    CLOSED: [2023-05-23 Tue 22:12]
 
 【【神秘博士广播剧汉化】法师独白，关爱脆皮，人人有责 Short Trips: I am the Master-哔哩哔哩】 https://b23.tv/71Jon0F
 
 *** The Switching
-*** Terror of the Master :audiobook:
+*** READY Terror of the Master :audiobook:bilibili:
+
+- 上： 【【有声书汉化】准将的困扰 Terror of the Master 上-哔哩哔哩】 https://b23.tv/7SioMBV
+
 ** [#B] CC8.1 Mastermind :Master_decayed:Ruth:the_Vault:UNIT:
 ** Master! :Master_roberts:🎧:
 *** HALF [#C] Vienna #0 The Memory Box :D2021_12_extra:week2:
@@ -2026,7 +2034,7 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
 **** 2.3 The Last Line of Defence
 * UNIT: The New Series :UNIT_new:🎧:
 ** UNIT 1: Extinction :Nestene:P2015:plot_yes:
-*** [#C] 1.1 Vanguard (7.5) :DW2023_06_spinoffs:
+*** [#C] UNIT1.1 - Vanguard (7.5) :DW2023_08_spinoffs:
     :PROPERTIES:
     :rating:   7.5
     :END:
@@ -2353,9 +2361,9 @@ http://www.drwhoguide.com/kaldor03.htm
 
 * misc spin-offs (classic)
 ** Sarah Jane Smith
-*** [#E] 1.1 Comeback (6.8)
+*** [#E] SJS1.1 - Comeback (6.8) :DW2023_06_spinoffs:
 *** [#E] +1.2 The Tao Connection+ (6.2)
-*** [#B] 1.3 Test of Nerve (8.1) :DW2023_06_spinoffs:
+*** [#B] 1.3 Test of Nerve (8.1)
 *** [#E] +1.4 Ghost Town+ (6.4)
 *** [#D] 1.5 Mirror, Signal, Manoeuvre (7.1)
 *** [#C] 2.1 Buried Secrets (7.5)
@@ -2388,11 +2396,13 @@ http://www.drwhoguide.com/kaldor03.htm
 * misc spin-offs (nuwho) :🎧:
 ** The Churchil Years
 *** series 1 :P2016:
-**** HALF [#E] 1.1 - The Oncoming Storm          (6.9) :9th_Dr:DW2023_05_spinoffs:
+**** HALF [#E] CY1.1 - The Oncoming Storm          (6.9) :9th_Dr:DW2023_05_spinoffs:
      SCHEDULED: <2023-05-28 Sun>
 
-**** [#D] 1.2 - Hounded   (7.2) :DW2023_06_spinoffs:
-**** TODO [#C] 1.3 - Living History              (7.9) :Daleks:11th_Dr:plot_yes:DW2023_06_spinoffs:
+**** [#D] CY1.2 - Hounded   (7.2) :DW2023_06_spinoffs:
+     SCHEDULED: <2023-06-18 Sun>
+
+**** TODO [#C] CY1.3 - Living History              (7.9) :Daleks:11th_Dr:plot_yes:DW2023_07_spinoffs:
 
 4 out of 20 (20.0%) raters say this story requires a previous story.
 
@@ -2420,13 +2430,13 @@ http://www.drwhoguide.com/kaldor03.htm
 **** HALF [#D] 1.2 - Skin Deep (7.2) :Sylvia:DW2023_03_spinoffs:
      SCHEDULED: <2023-03-26 Sun>
 
-**** HALF [#D] 1.3 - Portrait of a Lady :Sam_Bishop:Sontarans:DW2023_04_spinoffs:
+**** HALF [#D] Lady1.3 - Portrait of a Lady :Sam_Bishop:Sontarans:DW2023_04_spinoffs:
      DEADLINE: <2023-04-30 Sun> SCHEDULED: <2023-04-26 Wed 21:47>
      :PROPERTIES:
      :rating:   7.2
      :END:
 
-**** HALF [#C] 1.4 - Death on the Mile (7.7) :DW2023_05_spinoffs:
+**** HALF [#C] Lady1.4 - Death on the Mile (7.7) :DW2023_05_spinoffs:
      SCHEDULED: <2023-05-21 Sun>
 
 *** series 2 :P2021:
@@ -2616,10 +2626,11 @@ From Donna's perspective, the anthology is set after /Forest of the Dead/.
     :END:
 
 ** The Worlds of Doctor Who :P2014:
-*** 3QTR [#C] Mind Games :Jago:Litefoot:Ellie:Quick:DW2023_05_spinoffs:
+*** 3QTR [#C] WoDW#1. Mind Games :Jago:Litefoot:Ellie:Quick:DW2023_05_spinoffs:
     CLOSED: [2023-05-09 Tue 21:52] SCHEDULED: <2023-05-07 Sun>
 
-*** [#D] The Reesinger Process :Gilmore:Rachel:Allison:Toby:DW2023_06_spinoffs:
+*** [#D] WoDW#2 The Reesinger Process :Gilmore:Rachel:Allison:Toby:DW2023_06_spinoffs:
+    SCHEDULED: <2023-06-11 Sun>
     :PROPERTIES:
     :rating:   7.2
     :END:

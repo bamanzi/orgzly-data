@@ -1,4 +1,9 @@
 * 8th Doctor :8th_Dr:
+** video
+*** DONE movie: Doctor Who (1996)
+CLOSED: [2022-08-15 Mon 21:26]
+
+*** DONE The Night of the Doctor :Cass:
 ** audio :🎧:
 *** main range :scripted:2CD:
 **** part1 :Charley:
@@ -446,19 +451,20 @@ CLOSED: [2023-02-08 Wed 08:38] SCHEDULED: <2023-02-11 Sat>
 :rating:   9.2
 :END:
 
-***** 3QTR [#C] 3.2 - The Eighth Piece :River:DW2023_04_doctor:
+***** 3QTR [#C] 8DDC3.2 - The Eighth Piece :River:DW2023_04_doctor:
 CLOSED: <2023-04-09 Sun 21:10> SCHEDULED: <2023-04-08 Sat>
 :PROPERTIES:
 :rating:   7.7
 :END:
 
-***** HALF [#C] 3.3 - The Doomsday Chronometer :River:DW2023_04_doctor:
+***** HALF [#C] 8DDC3.3 - The Doomsday Chronometer :River:DW2023_04_doctor:
 DEADLINE: <2023-04-23 Sun> SCHEDULED: <2023-04-24 Mon 08:29>
 :PROPERTIES:
 :rating:   7.9
 :END:
 
-***** [#A] 3.4 - The Crucible of Souls :River:DW2023_06_doctor:
+***** [#A] 8DDC3.4 - The Crucible of Souls :River:DW2023_06_doctor:
+SCHEDULED: <2023-06-10 Sat>
 :PROPERTIES:
 :rating:   8.
 :END:
@@ -616,7 +622,11 @@ DEADLINE: <2023-04-23 Sun> SCHEDULED: <2023-04-24 Mon 08:29>
 
 【【广播剧汉化】似曾相识的选择 Stranded 304 What Just Happened-哔哩哔哩】 https://b23.tv/VoZ3pUM
 
-**** Stranded vol.4
+**** Stranded vol.4 :P2022_04:
+***** 4.1 Crossed Lines
+***** 4.2 Get Andy
+***** 4.3 The Keys of Baker Street
+***** 4.4 Best Year Ever
 *** 8DA (2022- )
 **** 📂What Lies Inside :P2022_11:
 ***** Paradox of the Daleks :2CD:bilibili:
@@ -727,9 +737,6 @@ http://blog.sina.cn/dpool/blog/s/blog_6c777581010185u0.html?type=2
 ***** Sins of the Fathers (DWM343-345) :Destrii:
 ***** The Flood (DWM346-353) :Destrii:Cybermen:
 *** DONE Titan: A Matter of Life and Death (#1-5) :P2016:Josie:
-** DONE movie: Doctor Who (1996)
-CLOSED: [2022-08-15 Mon 21:26]
-
 * Last Great Time War timeline :time_war:
 
 https://tardis.fandom.com/wiki/Theory:Timeline_-_Last_Great_Time_War
@@ -1038,12 +1045,13 @@ CLOSED: [2020-09-23 Wed 12:53]
 【【翻译】Big Finish神秘博士八叔Time War短篇有声书 - 严阵以待 第一部分-哔哩哔哩】https://b23.tv/zhgkAz 
 
 **** Prequel
-**** START [#B] 1. Sphere of Influence :Ian:bilibili:P2020_04:DW2023_05_spinoffs:
+**** HALF [#B] Susan1.1 Sphere of Influence :Ian:bilibili:P2020_04:DW2023_05_spinoffs:
 SCHEDULED: <2023-05-21 Sun>
 
 【【神秘博士广播剧汉化】Susan's War 苏珊的战争 101 Sphere of Influence-哔哩哔哩】 https://b23.tv/qIYe1v0
 
-**** READY [#C] 2. The Uncertain Shore :bilibili:P2020_04:DW2023_06_spinoffs:
+**** READY [#C] Susan1.2 - The Uncertain Shore :bilibili:P2020_04:DW2023_07_spinoffs:
+SCHEDULED: <2023-06-30 Fri>
 
 【【神秘博士广播剧汉化】Susan's War 苏珊的战争 102 The Uncertain Shore-哔哩哔哩】https://b23.tv/WenJUb
 
@@ -1164,28 +1172,21 @@ CLOSED: [2022-11-12 Sat 19:31] SCHEDULED: <2022-10-16 Sun>
 The young looking War Doctor makes a decision. In one outcome, he ends up a Dalek spy.
 
 *** DONE The Clockwise War (comic) :War_Doctor:12th_Dr:
-*** _📂Gallifrey: Time War vol.4_
-**** DONE GTW3.4 Unity
-CLOSED: <2020-12-17 Thu 19:57>
-
-**** 4.1 Deception
-**** 4.2 Dissolution
-**** 4.3 Beyond
-**** 4.4 Homecoming
-*** _📂vol.2 Warbringer_ :War_Doctor:P2021_12:
+*** _📂WDB vol.2 Warbringer_ :War_Doctor:P2021_12:🎧:
 **** START [#E] 2.1 - Consequences :DW2023_01_doctor:
 SCHEDULED: <2023-01-31 Tue>
 :PROPERTIES:
 :rating:   6.8
 :END:
 
-**** HALF [#D] 2.2 - Destroyer :DW2023_04_doctor:
+**** HALF [#D] WDB2.2 - Destroyer :DW2023_04_doctor:
 DEADLINE: <2023-04-22 Sat>
 :PROPERTIES:
 :rating:   7.2
 :END:
 
-**** [#D] 2.3 - Saviour :DW2023_06_doctor:
+**** [#D] WDB2.3 - Saviour :DW2023_06_doctor:
+SCHEDULED: <2023-06-17 Sat>
 :PROPERTIES:
 :rating:   7.3
 :END:

@@ -751,12 +751,13 @@ CLOSED: [2020-06-30 Tue 14:01]
 **** Marvel DWCC reprint
 ** audio :🎧:
 *** 3DA :BigFinish:3DA:2CD:
-**** READY [#D] 1.1 - Prisoners of the Lake :Jo:UNIT:P2015:plot_yes:
+**** CANCEL [#D] 1.1 - Prisoners of the Lake :Jo:UNIT:P2015:plot_yes:
 :PROPERTIES:
-:rating:   7.2
+:rating:   7.0
 :END:
 
-**** [#C] 1.2 - The Havoc of Empires :Jo:Yates:P2015:plot_yes:
+**** [#C] 3DA1.2 - The Havoc of Empires :Jo:Yates:P2015:plot_yes:DW2023_05_doctor:
+SCHEDULED: <2023-05-28 Sun>
 :PROPERTIES:
 :rating:   7.6
 :END:
@@ -1306,7 +1307,8 @@ SCHEDULED: <2022-04-23 Sat>
 Romana II
 
 ***** [#C] 9.1 - Purgatory 12 (7.6) :Romana_2:Adric:
-***** [#B] 9.2 - Chase the Night (8.3) :Romana_2:Adric:DW2023_06_doctor:
+***** [#B] 4DA9.2 - Chase the Night (8.3) :Romana_2:Adric:DW2023_06_doctor:
+SCHEDULED: <2023-06-17 Sat>
 :PROPERTIES:
 :rating:   8.3
 :END:
