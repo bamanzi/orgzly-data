@@ -1026,7 +1026,7 @@ Roberts Master
 *** HALF [#A] 7.3 Murder at Moorsey Manor           (8.7) :DW2023_01_spinoffs:
     SCHEDULED: <2023-01-09 Mon 21:33>
 
-*** HALF [#C] 7.4 The Wax Princess                  (7.5) :plot_cast:DW2023_03_spinoffs:
+*** HALF [#C] 7.4 The Wax Princess                  (7.5) :Jack_the_Ripper:plot_cast:DW2023_03_spinoffs:
     SCHEDULED: <2023-03-12 Sun>
 
 ** J&L series 8 :P2014:
