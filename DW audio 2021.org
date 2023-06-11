@@ -1505,39 +1505,39 @@
 *** HALF [#D] Lady 1.3 - Portrait of a Lady
 * DW2023-05
 ** dw2023-05-doctor
-*** 3QTR [#B] CC11.4 - The Plague of Dreams                       :Polly:Ben:
+*** 3QTR [#B] CC11.4 - The Plague of Dreams :Polly:Ben:
 *** [#C] 3DA1.2 - The Havoc of Empires :3rd_Dr:Jo:Yates:plot_yes:2cd:
-*** HALF [#B] 5DWS1.1 - The Garden of Storms    :5th_Dr:Leela:Zara:Abby:
+*** HALF [#B] 5DWS1.1 - The Garden of Storms :5th_Dr:Leela:Zara:Abby:
 *** HALF [#B] UNIT: Dominion p1-2 :7th_Dr:Klein:UNIT:Master_bald:Ace:2cd:
-*** 3QTR [#D] 9DC1.3 - The Other Side                                :9th_Dr:
+*** 3QTR [#D] 9DC1.3 - The Other Side :9th_Dr:
 *** HALF [#A] 11DC3.1 - The Inheritance :11th_Dr:
 ** dw2023-05-spinoffs
-*** HALF [#C] TW56. The Red List                             :Ace:Colchester:
+*** HALF [#C] TW56. The Red List :Ace:Colchester:
 *** 3QTR [#B] TW BBC #2 Asylum :Jack:Gwen:Ianto:Andy:
 *** 3QTR [#C] WoDW1 - Mind Games :Jago:Litefoot:
 *** 3QTR [#A] BS11.3 - Year Zero :Benny:
 *** HALF [#C] Lady1.4 - Death on the Mile
-*** HALF [#B] Susan1.1 - Sphere of Influence             :Susan:Ian:Time_War:
+*** HALF [#B] Susan1.1 - Sphere of Influence :Susan:Ian:Time_War:
 *** HALF [#C] CY1.1 - The Oncoming Storm :Churchill:
 * DW2023-06
 ** dw2023-06-doctor
 
 | 068 | MR009. The Spectre of Lanyon Moor | 6th | Evelyn |
 
-*** [#D] CC7.2 The Uncertainty Principle :2nd_Dr:Zoe:
-*** TODO [#B] 4DA9.2 Chase the Night (8.3) :Romana_2:Adric:
-*** TODO [#C] MR009 The Spectre of Lanyon Moor :6th_Dr:Evelyn:2CD:
+*** START [#D] CC7.2 The Uncertainty Principle :2nd_Dr:Zoe:
+*** HALF [#B] 4DA9.2 Chase the Night (8.3) :Romana_2:Adric:
+*** [#C] MR009 The Spectre of Lanyon Moor :6th_Dr:Evelyn:2CD:
 *** [#A] 8DDC3.4 The Crucible of Souls :8th_Dr:Liv:Helen:River:The_Nine:
 *** [#A] 10DDU 2.3 The Lost :10th_Dr:Anya:Mark_7:
-*** [#D] WDB2.3 Saviour                                 :War_Doctor:Time_War:
+*** [#D] WDB2.3 Saviour :War_Doctor:Time_War:
 ** dw2023-06-spinoffs
-*** [#D] TWO 2.1 The Law Machine                               :Yvonne:Ianto:
-*** [#A] John #3 Peach Blossom Heights :Captain_John:Jack:
-*** [#D] WoDW2 The Reesinger Process :CM:
-*** 2DONE [#A] ST8.10 I Am The Master                    :Master_decayed:
+*** [#D] TWO3.1 - Retirement Plan :Yvonne:Ianto:
+*** HALF [#A] John #3 Peach Blossom Heights :Captain_John:Jack:
+*** HALF [#D] WoDW2 The Reesinger Process :CM:
+*** 2DONE [#A] ST8.10 I Am The Master :Master_decayed:
 *** TODO [#C] BS11.4 - Dead Man's Switch :Benny:
-*** TODO [#D] SJS1.1 Comeback                                         :Sarah:
-*** TODO [#D] CY1.2 Hounded                               :Churchill:10th_Dr:
+*** TODO [#D] SJS1.1 Comeback :Sarah:
+*** TODO [#D] CY1.2 Hounded :Churchill:10th_Dr:
 ** pending
 * DW2023-07
 ** dw2023-07-doctor

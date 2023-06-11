@@ -448,7 +448,7 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
       :rating:   7.4
       :END:
 
-***** [#A] John1.3 - Peach Blossom Heights :Jack:DW2023_06_spinoffs:
+***** HALF [#A] John1.3 - Peach Blossom Heights :Jack:DW2023_06_spinoffs:
       SCHEDULED: <2023-06-11 Sun>
       :PROPERTIES:
       :rating:   9.2
@@ -702,12 +702,11 @@ https://tardis.fandom.com/wiki/Parasite_(audio_story)
       SCHEDULED: <2022-07-16 Sat>
 
 **** TW1 vol.2: Machines :P2018:
-***** BLOCK [#E] TWO2.1 - The Law Machines :DW2023_06_spinoffs:
-      SCHEDULED: <2023-06-25 Sun>
+***** BLOCK [#E] 2.1 - The Law Machines
 
 超级电脑 WOTAN 最早出现于老版3x10 The War Machines 
 
-***** [#C] TWO2.2 - Blind Summit :DW2023_07_spinoffs:
+***** [#C] 2.2 - Blind Summit
       :PROPERTIES:
       :rating:   7.7
       :END:
@@ -718,12 +717,13 @@ https://tardis.fandom.com/wiki/Parasite_(audio_story)
       :END:
 
 **** TW1 vol.3: Latter Days :P2019:
-***** [#B] 3.1 - Retirement Plan
+***** TODO [#B] TWO3.1 - Retirement Plan :DW2023_06_spinoffs:
+      SCHEDULED: <2023-06-25 Sun>
       :PROPERTIES:
       :rating:   8.3
       :END:
 
-***** [#D] 3.2 - Locker 15
+***** [#D] 3.2 - Locker 15 :DW2023_07_spinoffs:
       :PROPERTIES:
       :rating:   7.1
       :END:
@@ -2626,17 +2626,17 @@ From Donna's perspective, the anthology is set after /Forest of the Dead/.
     :END:
 
 ** The Worlds of Doctor Who :P2014:
-*** 3QTR [#C] WoDW#1. Mind Games :Jago:Litefoot:Ellie:Quick:DW2023_05_spinoffs:
+*** 3QTR [#C] WoDW#1 - Mind Games :Jago:Litefoot:Ellie:Quick:DW2023_05_spinoffs:
     CLOSED: [2023-05-09 Tue 21:52] SCHEDULED: <2023-05-07 Sun>
 
-*** [#D] WoDW#2 The Reesinger Process :Gilmore:Rachel:Allison:Toby:DW2023_06_spinoffs:
+*** HALF [#D] WoDW#2 - The Reesinger Process :Gilmore:Rachel:Allison:Toby:plot_cast:DW2023_06_spinoffs:
     SCHEDULED: <2023-06-11 Sun>
     :PROPERTIES:
     :rating:   7.2
     :END:
 
-*** [#B] The Screaming Skull :Ruth:Charlie_Sato:Yates:Jago:Litefoot:
-*** [#D] Second Sight :6th_Dr:Romana_2:Leela:Yates:
+*** [#B] WoDW#3 - The Screaming Skull :Ruth:Charlie_Sato:Yates:Jago:Litefoot:
+*** [#D] WoDW#4 - Second Sight :6th_Dr:Romana_2:Leela:Yates:
 ** Classic Doctors, New Monsters
 *** CDNM vol.1 :P2016:
 **** DONE [#B] 1.1 Fallen Angels :5th_Dr:

@@ -158,9 +158,7 @@ SCHEDULED: <2022-11-29 Tue>
 **** START 0.3 - What I Did on My Christmas Holidays by Sally Sparrow :short:D2022_03_doctor:week4:🗣:
 SCHEDULED: <2022-03-19 Sat>
 
-**** TODO 0.4 - The Beast of Babylon :DW2023_05_maybe:
-SCHEDULED: <2023-06-01 Thu>
-
+**** TODO 0.4 - The Beast of Babylon
 **** 3QTR 0.5 Exhausted Supplies :12th_Dr:D2021_12_doctor:week2:bilibili:
 CLOSED: [2021-12-14 Tue 20:07] DEADLINE: <2021-12-08 Wed 20:05> SCHEDULED: <2021-12-10 Fri>
 
@@ -727,8 +725,8 @@ SCHEDULED: <2022-03-30 Wed>
 
 https://tardis.fandom.com/wiki/Prequel_to_Geronimo!_(audio_story) 
 
-**** HALF [#A] 11DC3.1 The Inheritance :DW2023_05_doctor:
-SCHEDULED: <2023-05-20 Sat>
+**** 3QTR [#A] 11DC3.1 The Inheritance :DW2023_05_doctor:
+CLOSED: <2023-06-04 Sun 20:22> SCHEDULED: <2023-05-20 Sat>
 
 **** READY [#A] 3.2 The House of Masks
 **** READY [#A] 3.3 The End

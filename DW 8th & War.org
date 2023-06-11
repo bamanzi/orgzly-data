@@ -1179,14 +1179,14 @@ SCHEDULED: <2023-01-31 Tue>
 :rating:   6.8
 :END:
 
-**** HALF [#D] WDB2.2 - Destroyer :DW2023_04_doctor:
+**** HALF [#E] WDB2.2 - Destroyer :DW2023_04_doctor:
 DEADLINE: <2023-04-22 Sat>
 :PROPERTIES:
-:rating:   7.2
+:rating:   6.9
 :END:
 
 **** [#D] WDB2.3 - Saviour :DW2023_06_doctor:
-SCHEDULED: <2023-06-17 Sat>
+SCHEDULED: <2023-06-10 Sat>
 :PROPERTIES:
 :rating:   7.3
 :END:

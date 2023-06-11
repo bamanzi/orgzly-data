@@ -301,8 +301,8 @@ CLOSED: [2021-06-26 Sat 09:13]
 ***** [#D] 11.1 Fields of Terror :Steven:Vicki:
 ***** READY [#A] 11.2 Across the Darkened City :Steven:Vicki:Daleks:
 ***** [#D] 11.3 The Bonfires of the Vanties :Polly:Ben:
-***** HALF [#B] CC11.4 The Plague of Dreams :Polly:Ben:DW2023_05_doctor:
-SCHEDULED: <2023-05-27 Sat>
+***** 3QTR [#B] CC11.4 The Plague of Dreams :Polly:Ben:DW2023_05_doctor:
+CLOSED: <2023-05-30 Tue 21:34> SCHEDULED: <2023-05-27 Sat>
 
 **** 📂CC13. First Doctor - Volume Three :P2019:
 ***** [#F] 13.1 - E is For...
@@ -1307,8 +1307,8 @@ SCHEDULED: <2022-04-23 Sat>
 Romana II
 
 ***** [#C] 9.1 - Purgatory 12 (7.6) :Romana_2:Adric:
-***** [#B] 4DA9.2 - Chase the Night (8.3) :Romana_2:Adric:DW2023_06_doctor:
-SCHEDULED: <2023-06-17 Sat>
+***** 3QTR [#B] 4DA9.2 - Chase the Night (8.3) :Romana_2:Adric:K9_2:DW2023_06_doctor:
+CLOSED: [2023-06-07 Wed 08:19] SCHEDULED: <2023-06-10 Sat>
 :PROPERTIES:
 :rating:   8.3
 :END:
