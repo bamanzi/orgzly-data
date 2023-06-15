@@ -1212,7 +1212,10 @@ CLOSED: <2020-12-17 Thu 19:57>
 **** 4.1 The Mission
 **** 4.2 The Abyss
 **** 4.3 The Horror
-*** TBR 📂WDB vol.5 Comrades-in-Arms :P2023_05:🎧:
+*** 📂WDB vol.5 Comrades-in-Arms :P2023_05:🎧:
+**** 5.1 A Mother's Love
+**** 5.2 Berserker
+**** 5.3 Memnos
 *** Ambush (comic)
 ** The War Doctor
 *** 11DY2 (comics)

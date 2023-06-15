@@ -275,12 +275,12 @@ CLOSED: [2021-06-26 Sat 09:13]
 :rating:   7.7
 :END:
 
-***** [#C] 7.7 The Flames of Cadiz :Ian:Susan:
+***** [#C] 7.7 The Flames of Cadiz :Ian:Susan:plot_yes:
 :PROPERTIES:
 :rating:   7.8
 :END:
 
-***** [#B] 7.10 - The Library of Alexandria
+***** [#B] 7.10 - The Library of Alexandria :plot_yes:
 :PROPERTIES:
 :rating:   8.0
 :END:
@@ -495,6 +495,7 @@ CLOSED: <2022-10-30 Sun 19:49> SCHEDULED: <2022-10-22 Sat>
 ***** TODO [#C] 22.2 Wrath of the Ice Warriors :Brigadier:ice_warriors:2CD:
 SCHEDULED: <2022-10-30 Sun>
 
+**** TBR James Robert McCrimmon :P2023_07:
 *** Companion Chronicles :🗣:
 **** #The_Company :Zoe:
 ***** 2DONE [#D] CC5.02 - Echoes of Grey :Zoe:D2021_07_dr:
@@ -510,14 +511,18 @@ CLOSED: <2021-07-30 Fri 16:14>
 :END:
 
 ***** [#D] CC7.02 - The Uncertainty Principle :DW2023_06_doctor:
+SCHEDULED: <2023-06-24 Sat>
 :PROPERTIES:
 :rating:   7.0
 :END:
 
-***** [#B] CC8.12 - Second Chances :The_Company:plot_no:
+***** [#B] CC8.12 - Second Chances :The_Company:plot_cast:
 :PROPERTIES:
 :rating:   8.4
 :END:
+
+
+https://tardis.fandom.com/wiki/Zoe_Heriot#Life_after_the_Doctor
 
 **** READY [#C] CC3.9 - Resistance :Polly:
 :PROPERTIES:
@@ -566,7 +571,7 @@ SCHEDULED: <2023-02-07 Tue 21:50>
 :rating:   6.6
 :END:
 
-***** [#D] 10.4. The Edge :plot_no:
+***** [#D] 10.4. The Edge :Jamie:plot_no:
 :PROPERTIES:
 :rating:   7.4
 :END:
@@ -598,6 +603,10 @@ SCHEDULED: <2021-10-03 Sun>
 ***** [#C] 14.2 The Phantom Piper
 ***** [#A] 14.3 The Prints of Denmark :Zoe:Monk:
 ***** [#D] 14.4 The Deepest Tragedian :Zoe:
+:PROPERTIES:
+:rating:   7.0
+:END:
+
 *** misc
 **** HALF [#D] LS4.2 - The Queen of Time :Jamie:Zoe:plot_yes:D2022_06_doctor:2CD:
 SCHEDULED: <2022-06-05 Sun>
@@ -1372,8 +1381,8 @@ CLOSED: [2022-09-03 Sat 17:41] SCHEDULED: <2022-09-04 Sun>
 
 【【神秘博士广播剧熟肉】The Lost Stories 602 The Doomsday Contract (Part 3&4) 末日合同-哔哩哔哩】 https://b23.tv/yvSsm4b
 
-**** TBR LS7.1 Doctor Who and the Ark :Sarah:Harry:P2023_03:
-**** TBR LS7.2 Daleks! Genesis of Terror :Sarah:Harry:P2023_03:
+**** LS7.1 The Ark :Sarah:Harry:P2023_06:
+**** LS7.2 Daleks! Genesis of Terror :Sarah:Harry:P2023_05:
 *** BF misc :BigFinish:
 **** HALF [#C] CA1.1 The Iron Legion (Comics Adaptation #1) (7.9) :2CD:
 **** HALF [#A] CA1.2 The Star Beast (Comics Adaptation #2) 9.0 :P2019:2CD:
