@@ -448,8 +448,8 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
       :rating:   7.4
       :END:
 
-***** HALF [#A] John1.3 - Peach Blossom Heights :Jack:DW2023_06_spinoffs:
-      SCHEDULED: <2023-06-11 Sun>
+***** 3QTR [#A] John1.3 - Peach Blossom Heights :Jack:DW2023_06_spinoffs:
+      CLOSED: [2023-06-15 Thu 23:32] SCHEDULED: <2023-06-11 Sun>
       :PROPERTIES:
       :rating:   9.2
       :END:
@@ -717,7 +717,7 @@ https://tardis.fandom.com/wiki/Parasite_(audio_story)
       :END:
 
 **** TW1 vol.3: Latter Days :P2019:
-***** TODO [#B] TWO3.1 - Retirement Plan :DW2023_06_spinoffs:
+***** START [#B] TWO3.1 - Retirement Plan :DW2023_06_spinoffs:
       SCHEDULED: <2023-06-25 Sun>
       :PROPERTIES:
       :rating:   8.3
@@ -917,7 +917,7 @@ Roberts Master
 **** HALF [#D] 7.2 Abbey of Heretics           (7.2) :DW2023_01_spinoffs:
      SCHEDULED: <2023-01-31 Tue>
 
-**** [#A] 7.3 Barrister to the Stars      (8.9)
+**** [#A] 7.3 Barrister to the Stars      (8.9) :DW2023_07_spinoffs:
 **** [#D] 7.4 Carnival of Angels          (7.0)
 *** DoRS 8 :P2021:
 **** [#D] 8.1 Slight Glimpses of Tomorrow (7.1)
@@ -1338,11 +1338,11 @@ http://drwhoguide.com/bs_a18.htm
 *** Series 11 :P2010:
 **** [#B] 11.1 - Resurrecting the Past
 **** [#A] 11.2 - Escaping the Future
-**** 3QTR [#A] BS11.3 - Year Zero :DW2023_05_spinoffs:
+**** 3QTR [#A] BS11.3 - Year Zero :plot_yes:DW2023_05_spinoffs:
      CLOSED: <2023-05-12 Fri 08:16> SCHEDULED: <2023-05-14 Sun>
 
-**** [#C] BS11.4 - Dead Man's Switch :DW2023_06_spinoffs:
-     SCHEDULED: <2023-06-18 Sun>
+**** 3QTR [#C] BS11.4 - Dead Man's Switch :plot_yes:DW2023_06_spinoffs:
+     CLOSED: [2023-06-20 Tue 08:08] SCHEDULED: <2023-06-18 Sun>
 
 ** Bernice Summerfield (boxset)
 *** Boxset 1: Epoch :P2011:Atlantis:plot_yes:
@@ -2156,7 +2156,7 @@ Synopsis:  http://www.drwhoguide.com/kaldor01.htm
 
 http://www.drwhoguide.com/kaldor03.htm
 
-*** LATER KC4. Taren Capel :DW2023_06_maybe:
+*** KC4. Taren Capel
 *** KC5. Checkmate
 *** KC6. Storm Mine
 ** The Robots (Big Finish, 2019-)
@@ -2363,6 +2363,8 @@ http://www.drwhoguide.com/kaldor03.htm
 * misc spin-offs (classic)
 ** Sarah Jane Smith
 *** [#E] SJS1.1 - Comeback (6.8) :DW2023_06_spinoffs:
+    SCHEDULED: <2023-06-25 Sun>
+
 *** [#E] +1.2 The Tao Connection+ (6.2)
 *** [#B] 1.3 Test of Nerve (8.1)
 *** [#E] +1.4 Ghost Town+ (6.4)
@@ -2400,8 +2402,8 @@ http://www.drwhoguide.com/kaldor03.htm
 **** HALF [#E] CY1.1 - The Oncoming Storm          (6.9) :9th_Dr:DW2023_05_spinoffs:
      SCHEDULED: <2023-05-28 Sun>
 
-**** [#D] CY1.2 - Hounded   (7.2) :DW2023_06_spinoffs:
-     SCHEDULED: <2023-06-18 Sun>
+**** HALF [#D] CY1.2 - Hounded   (7.2) :DW2023_06_spinoffs:
+     DEADLINE: <2023-06-28 Wed> SCHEDULED: <2023-06-18 Sun>
 
 **** TODO [#C] CY1.3 - Living History              (7.9) :Daleks:11th_Dr:plot_yes:DW2023_07_spinoffs:
 
@@ -2630,8 +2632,8 @@ From Donna's perspective, the anthology is set after /Forest of the Dead/.
 *** 3QTR [#C] WoDW#1 - Mind Games :Jago:Litefoot:Ellie:Quick:DW2023_05_spinoffs:
     CLOSED: [2023-05-09 Tue 21:52] SCHEDULED: <2023-05-07 Sun>
 
-*** HALF [#D] WoDW#2 - The Reesinger Process :Gilmore:Rachel:Allison:Toby:plot_cast:DW2023_06_spinoffs:
-    SCHEDULED: <2023-06-11 Sun>
+*** 3QTR [#D] WoDW#2 - The Reesinger Process :Gilmore:Rachel:Allison:Toby:plot_cast:DW2023_06_spinoffs:
+    CLOSED: [2023-06-15 Thu 21:16] SCHEDULED: <2023-06-11 Sun>
     :PROPERTIES:
     :rating:   7.2
     :END:

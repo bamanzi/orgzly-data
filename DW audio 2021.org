@@ -1493,7 +1493,7 @@
 *** 3QTR [#B] 6DLA #4 The Brink of Death :6th_Dr:Mel:Valeyard:
 *** 3QTR [#C] 8DDC 3.2 The Eighth Piece :8th_Dr:Liv:Helen:River:
 *** HALF [#C] 8DDC 3.3 The Doomsday Chronometer :8th_Dr:Liv:Helen:River:
-*** HALF [#A] DU2.2 The Trojan Dalek #bilibili :10th_Dr:Anya:Mark_7:bilibili:
+*** HALF [#A] DU2.2 The Trojan Dalek :10th_Dr:Anya:Mark_7:bilibili:
 *** HALF [#D] WDB 2.2 Destroyer :War_Doctor:
 ** dw2023-04-spinoffs
 *** 2DONE [#A] TW Soho: Parasite (p4-p6) :Norton:Andy:
@@ -1526,22 +1526,19 @@
 | 068 | MR009. The Spectre of Lanyon Moor | 6th | Evelyn |
 
 *** START [#D] CC7.2 The Uncertainty Principle :2nd_Dr:Zoe:
-*** HALF [#B] 4DA9.2 Chase the Night (8.3) :Romana_2:Adric:
-*** [#C] MR009 The Spectre of Lanyon Moor :6th_Dr:Evelyn:2CD:
-*** [#A] 8DDC3.4 The Crucible of Souls :8th_Dr:Liv:Helen:River:The_Nine:
-*** [#A] 10DDU 2.3 The Lost :10th_Dr:Anya:Mark_7:bilibili:
-*** [#D] WDB2.3 Saviour :War_Doctor:Time_War:
+*** 3QTR [#B] 4DA9.2 Chase the Night (8.3)               :Romana_2:Adric:
+*** HALF [#C] MR009 The Spectre of Lanyon Moor            :6th_Dr:Evelyn:2CD:
+*** HALF [#A] 8DDC3.4 The Crucible of Souls :8th_Dr:Liv:Helen:River:The_Nine:
+*** START [#A] 10DDU 2.3 The Lost              :10th_Dr:Anya:Mark_7:bilibili:
+*** 3QTR [#D] WDB2.3 Saviour                        :War_Doctor:Time_War:
 ** dw2023-06-spinoffs
-*** [#B] TWO3.1 Retirement Plan                                :Yvonne:Ianto:
-*** HALF [#A] John #3 Peach Blossom Heights :Captain_John:Jack:
-*** HALF [#D] WoDW2 The Reesinger Process :CM:
+*** START [#B] TWO3.1 Retirement Plan                          :Yvonne:Ianto:
+*** 3QTR [#A] John #3 Peach Blossom Heights               :Captain_John:Jack:
+*** 3QTR [#D] WoDW2 The Reesinger Process                            :CM:
 *** 2DONE [#A] ST8.10 I Am The Master :Master_decayed:bilibili:
-*** [#C] BS11.4 Dead Man's Switch :Benny:
-*** [#D] SJS1.1 Comeback :Sarah:
-*** [#D] CY1.2 Hounded :Churchill:10th_Dr:
-** pending
-*** TODO 6DnP #1 The Headless Ones :6th_Dr:Peri:
-*** [#D] Robots3.1 The Mystery of Sector 13 :Liv:
+*** 3QTR [#C] BS11.4 Dead Man's Switch                           :Benny:
+*** [#D] SJS1.1 Comeback                                              :Sarah:
+*** HALF [#D] CY1.2 Hounded                               :Churchill:10th_Dr:
 
 * DW2023-07
 ** dw2023-07-doctor
@@ -1554,7 +1551,7 @@
 ** dw2023-07-spinoffs
 *** [#D] TWO3.2 Locker 15                                      :Yvonne:Ianto:
 *** [#C] TW29 Serenity                                           :Jack:Ianto:
-*** [#B] WoDW3 The Screaming Skull                     :Jago:Litefoot:UNIT:
+*** [#B] WoDW3 The Screaming Skull                                :Ruth:UNIT:
 *** TODO [#A] DoRS7.3 Barrister to the Stars                          :River:
 *** Susan1.2 The Uncertain Shore                    :Susan:Time_War:bilibili:
 *** TODO [#B] SJS1.3 Test of Nerve
@@ -1564,7 +1561,7 @@
 ** dw2023-08-doctor
 *** [#B] Wrath of the Ice Warriors :2nd_Dr:Brigadier:
 *** [#C] 4DA 4.2 The Darkness of Glass :4th_Dr:Leela:
-*** TODO [#D] 22A.1 The Rotting Deep :6th_Dr:Mel:Hebe:
+*** TODO [#C] 6DnP #1 The Headless Ones                         :6th_Dr:Peri:
 *** [#D] BF061 Faith Stealer                                 :8th_Dr:Charley:
 *** [#C] 10DA 3.3 The Creeping Death :10th_Dr:Donna:
 *** [#C] ST9.9 Dead Media :12th_Dr:
@@ -1573,6 +1570,10 @@
 *** [#A] TW52 Madam, I'm :Norton:Lizbeth:Adam:
 *** [#B] CM2.1 - Manhunt 
 *** [#C] PG 3.1 Family Matters :TPG:
-*** [#A] WM8.1 The Wrath of Medusa                               :Master_war:
+*** TODO [#A] WM8.1 The Wrath of Medusa                               :Master_war:
 *** TODO [#B] BSBOX1.1 - The Kraken's Lament                          :Benny:
-*** TODO CY1.3 - Living History                           :Churchill:11th_Dr:
+*** TODO [#C] CY1.3 - Living History                      :Churchill:11th_Dr:
+** pending
+*** TODO [#D] WoDW#4 Second Sight :6th_Dr:Romana_2:Leela:Yates:
+*** TODO [#B] Gallifrey 6.2 - Renaissance :Romana_2:Leela:
+

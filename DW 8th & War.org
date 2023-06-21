@@ -463,8 +463,8 @@ DEADLINE: <2023-04-23 Sun> SCHEDULED: <2023-04-24 Mon 08:29>
 :rating:   7.9
 :END:
 
-***** [#A] 8DDC3.4 - The Crucible of Souls :River:DW2023_06_doctor:
-SCHEDULED: <2023-06-10 Sat>
+***** HALF [#A] 8DDC3.4 - The Crucible of Souls :River:DW2023_06_doctor:
+DEADLINE: <2023-06-28 Wed> SCHEDULED: <2023-06-20 Tue 21:33>
 :PROPERTIES:
 :rating:   8.
 :END:
@@ -1185,8 +1185,8 @@ DEADLINE: <2023-04-22 Sat>
 :rating:   6.9
 :END:
 
-**** [#D] WDB2.3 - Saviour :DW2023_06_doctor:
-SCHEDULED: <2023-06-10 Sat>
+**** 3QTR [#D] WDB2.3 - Saviour :DW2023_06_doctor:
+CLOSED: [2023-06-15 Thu 08:36] SCHEDULED: <2023-06-10 Sat>
 :PROPERTIES:
 :rating:   7.3
 :END:

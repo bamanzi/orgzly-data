@@ -773,7 +773,7 @@ CLOSED: [2023-04-11 Tue 21:15] SCHEDULED: <2023-04-15 Sat>
 
 Volume One
 
-***** [#C] The Headless Ones :DW2023_06_maybe:
+***** [#C] 6DnP1.1 - The Headless Ones :DW2023_08_doctor:
 :PROPERTIES:
 :rating:   7.5
 :END:
