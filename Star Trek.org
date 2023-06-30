@@ -73,7 +73,7 @@ CLOSED: [2022-05-17 Tue 13:08]
 **** DONE [#D] 2x14 Wolf in the Fold (7.4) :Jack_the_Ripper:ST2023_06:
 CLOSED: <2023-06-02 Fri 22:34> SCHEDULED: <2023-06-03 Sat>
 
-**** DONE [#A] 2x15 The Trouble with Tribbles (8.9)
+**** DONE [#A] 2x15 The Trouble with Tribbles (8.9) :Koloth:
 :PROPERTIES:
 :rating:   8.9
 :END:
@@ -81,7 +81,7 @@ CLOSED: <2023-06-02 Fri 22:34> SCHEDULED: <2023-06-03 Sat>
 **** DONE [#D] 2x16. The Gamesters of Triskelion (7.1)
 **** DONE 2x17 A Piece of the Action :Prime_Directive:
 **** TODO [#C] 2x18. The Immunity Syndrome       (7.7) :ST2023_06:
-SCHEDULED: <2023-06-24 Sat>
+SCHEDULED: <2023-07-07 Fri>
 
 #+TBLFM: $2='(cond ((> $4 8.5) "[#A]") ((>= $4 8.0) "[#B]") ((>= $4 7.5) "[#C]") ((>= $4 7.0) "[#D]") (t "[#E]"));N
 #+TBLFM: $1='(cond ((< $4 7.0) "CANCEL") (t ""));N
@@ -158,7 +158,7 @@ CLOSED: [2021-04-03 Sat 10:28]
 :rating:   7.4
 :END:
 
-**** DONE [#B] 3x07 Day of the Dove
+**** DONE [#B] 3x07 Day of the Dove :Klingons:Kang:
 CLOSED: [2021-03-13 Sat 16:03]
 :PROPERTIES:
 :rating:   8.0
@@ -212,19 +212,19 @@ CLOSED: [2022-06-20 Mon 00:19]
 **** DONE [#D] 3x15. Let That Be Your Last Battlefield (7.3) :ST2023_06:
 CLOSED: [2023-06-07 Wed 22:07] SCHEDULED: <2023-06-11 Sun>
 
-**** [#E] 3x16. The Mark of Gideon                (6.7) :ST2023_06:
-SCHEDULED: <2023-06-23 Fri>
+**** TODO [#E] 3x16. The Mark of Gideon                (6.7) :ST2023_06:
+SCHEDULED: <2023-07-02 Sun>
 
-**** [#E] 3x17. That Which Survives               (6.7) :ST2023_06:
-SCHEDULED: <2023-06-30 Fri>
-
+**** TODO [#E] 3x17. That Which Survives               (6.7)
 **** CANCEL [#E] 3x18. The Lights of Zetar               (6.3)
 **** DONE [#C] 3x19. Requiem for Methuselah            (7.6)
 CLOSED: [2022-06-12 Sun 23:15]
 
 **** CANCEL [#E] 3x20. The Way to Eden                   (5.6)
 **** [#D] 3x21. The Cloud Minders                 (7.2)
-**** [#E] 3x22. The Savage Curtain                (6.9)
+**** TODO [#E] 3x22. The Savage Curtain                (6.9) :Kahless:ST2023_06:
+SCHEDULED: <2023-06-30 Fri>
+
 **** [#B] 3x23. All Our Yesterdays (8.4)
 **** [#D] 3x24. Turnabout Intruder                (7.0)
 
@@ -248,7 +248,7 @@ CLOSED: [2021-04-02 Fri 21:49]
 **** DONE 1x04 The Lorelei Signal (6.5)
 CLOSED: [2021-04-03 Sat 14:40]
 
-**** DONE [#D] 1x05 More Tribbles, More Troubles (7.1) :Tribbles:
+**** DONE [#D] 1x05 More Tribbles, More Troubles (7.1) :Tribbles:Koloth:
 CLOSED: [2021-04-03 Sat 16:17]
 
 **** DONE 1x06 The Survivor (6.8)
@@ -311,8 +311,8 @@ CLOSED: [2022-07-03 Sun 15:08]
 **** DONE [#C] 6. Come Not Between the Dragons (7.9)
 CLOSED: [2022-07-15 Fri 19:34] SCHEDULED: <2022-07-16 Sat>
 
-**** [#D] 7. Embracing the Winds  (7.4) :ST2023_06:
-SCHEDULED: <2023-06-25 Sun>
+**** DONE [#D] 7. Embracing the Winds 变革之风  (7.4) :ST2023_06:
+CLOSED: [2023-06-21 Wed 19:17] SCHEDULED: <2023-06-24 Sat>
 
 **** [#B] 8. Still Treads the Shadow  (8.1)
 **** [#A] 9. What Ships Are For  (8.6)
@@ -332,7 +332,8 @@ SCHEDULED: <2023-06-25 Sun>
 *** Marvel (1980-1981)
 *** DC Comics (1984-1996) :dc:
 **** TOS vol.1 (1984-1988)
-***** 01-04 The Wolmhold Connection :BoST:Klingons:⭐️:
+***** DONE 01-04 The Wormhole Connection :BoST:Klingons:⭐️:ST2023_06:
+CLOSED: [2023-06-28 Wed 21:25] SCHEDULED: <2023-06-27 Tue>
 
 IDW Best of Star Trek vol.7
 
@@ -346,7 +347,7 @@ CLOSED: [2023-06-19 Mon 06:28] SCHEDULED: <2023-06-18 Sun>
 Kirk 团队与进取号的起源故事
 
 ***** TODO 22-23 Redjac is Back :Jack_the_Ripper:ST2023_06:
-SCHEDULED: <2023-06-17 Sat>
+SCHEDULED: <2023-07-01 Sat>
 
 **** TOS vol.2 (1988-1996)
 ***** 07-12 Best of Captain Kirk :⭐️:BoST:
@@ -505,7 +506,7 @@ SCHEDULED: <2023-06-10 Sat>
 CLOSED: [2021-01-12 Tue 19:43]
 
 ****** TODO DC TOS vol.1 #31-32 Maggie's world / Judgement day :dc_tos_vol1:ST2023_06:
-SCHEDULED: <2023-06-24 Sat>
+SCHEDULED: <2023-07-01 Sat>
 
 ***** [#B] STCvol.5 Who Killed Captain Kirk (DC TOS vol.1 48-55) :dc_tos_vol1:
 ***** [#B] Debt of Honor :DC:P1992:
@@ -600,12 +601,18 @@ CLOSED: [2022-07-23 Sat 16:20]
 **** DONE [#D] 1x20 Heart of Glory (7.3) :Klingons:
 CLOSED: [2022-07-26 Tue 08:03]
 
-**** [#D] 1x21 The Arsenal of Freedom (7.2)
-SCHEDULED: <2023-06-11 Sun>
+**** DONE [#D] 1x21 The Arsenal of Freedom (7.2) :ST2023_06:
+CLOSED: [2023-06-21 Wed 20:06] SCHEDULED: <2023-06-11 Sun>
 
-**** [#D] 1x22 Symbiosis (7.0)
-**** [#D] 1x23 Skin of Evil (7.0)
-**** [#E] 1x24 We'll Always Have Paris (6.7)
+**** DONE [#D] 1x22 Symbiosis (7.0) :Prime_Directive:ST2023_06:
+CLOSED: [2023-06-26 Mon 22:33] SCHEDULED: <2023-06-28 Wed>
+
+**** TODO [#D] 1x23 Skin of Evil (7.0) :ST2023_06:
+SCHEDULED: <2023-06-29 Thu>
+
+**** TODO [#E] 1x24 We'll Always Have Paris (6.7) :ST2023_06:
+SCHEDULED: <2023-07-12 Wed>
+
 **** DONE [#B] 1x25 Conspiracy (8.2) :ST2023_06:
 CLOSED: [2023-06-19 Mon 20:21] SCHEDULED: <2023-06-16 Fri>
 
@@ -616,7 +623,7 @@ CLOSED: [2022-06-01 Wed 08:14] SCHEDULED: <2022-06-02 Thu>
 
 *** TNG S2 :Y2365:
 **** CANCEL [#E] 2x01. The Child              (5.9)
-**** [#D] 2x02. Where Silence Has Lease (7.2)
+**** [#D] 2x02. Where Silence Has Lease (7.2) :ST2023_12:
 **** DONE [#B] 2x03. Elementary, Dear Data  (8.2)
 **** CANCEL [#E] 2x04. The Outrageous Okona   (6.3)
 **** CANCEL [#E] 2x05. Loud as a Whisper      (6.6)
@@ -628,10 +635,10 @@ CLOSED: [2022-07-01 Fri 06:21]
 **** DONE [#A] 2x09. The Measure of a Man   (9.1)
 **** CANCEL [#E] 2x10. The Dauphin            (6.3)
 **** DONE [#C] 2x11. Contagion              (7.7)
-**** [#E] 2x12. The Royale             (6.7)
+**** [#E] 2x12. The Royale             (6.7) :ST2023_12:
 **** DONE [#C] 2x13. Time Squared           (7.6)
 **** CANCEL [#E] 2x14. The Icarus Factor      (6.4)
-**** [#E] 2x15. Pen Pals               (6.9)
+**** [#E] 2x15. Pen Pals               (6.9) :ST2023_12:
 **** DONE [#A] 2x16. Q Who                  (9.0) :Q:Borg:ST2023_06:
 SCHEDULED: <2023-06-04 Sun>
 
@@ -661,7 +668,7 @@ SCHEDULED: <2023-06-09 Fri>
 
 **** [#E] 3x14. A Matter of Perspective  (6.9)
 **** DONE [#A] 3x15. Yesterday's Enterprise   (9.2) :Guinan:ST2023_06:
-SCHEDULED: <2023-06-09 Fri>
+SCHEDULED: <2023-06-11 Sun>
 
 **** DONE [#A] 3x16. The Offspring            (8.6) :Data:
 CLOSED: [2022-05-25 Wed 08:06]
@@ -728,7 +735,7 @@ CLOSED: <2022-06-10 Fri 23:58> SCHEDULED: <2022-06-10 Fri>
 **** CANCEL [#E] 5x10. New Ground              (6.6)
 **** CANCEL [#E] 5x11. Hero Worship            (6.7)
 **** CANCEL [#E] 5x12. Violations              (6.4)
-**** [#E] 5x13. The Masterpiece Society (6.8)
+**** [#E] 5x13. The Masterpiece Society (6.8) :genetically_engineered:
 **** DONE [#B] 5x14. Conundrum               (8.3)
 **** DONE [#C] 5x15. Power Play              (7.5)
 **** [#D] 5x16. Ethics                  (7.4)
@@ -745,8 +752,8 @@ CLOSED: <2022-06-10 Fri 23:58> SCHEDULED: <2022-06-10 Fri>
 :rating:   9.4
 :END:
 
-**** TODO [#A] 5x26 - Time's Arrow (8.5) :Data:Guinan:ST2023_06:
-SCHEDULED: <2023-06-22 Thu>
+**** DONE [#A] 5x26 - Time's Arrow (8.5) :Data:Guinan:ST2023_06:
+CLOSED: [2023-06-23 Fri 17:24] SCHEDULED: <2023-06-22 Thu>
 :PROPERTIES:
 :rating:   8.5
 :END:
@@ -754,8 +761,8 @@ SCHEDULED: <2023-06-22 Thu>
 An engineering team finds evidence of an alien presence on Earth in 19th century San Francisco: Data's severed head, buried five hundred years ago. 
 
 *** TNG S6 :Y2369:
-**** TODO [#B] 6x01 - Time's Arrow - Part II :Guinan:ST2023_06:
-SCHEDULED: <2023-06-22 Thu>
+**** DONE [#B] 6x01 - Time's Arrow - Part II :Guinan:ST2023_06:
+CLOSED: [2023-06-23 Fri 18:33] SCHEDULED: <2023-06-22 Thu>
 :PROPERTIES:
 :rating:   8.3
 :END:
@@ -849,7 +856,7 @@ CLOSED: [2021-02-19 Fri 19:42]
 :END:
 
 **** TODO [#A] 6x15 Tapestry :Picard:Q:alternate_universe:ST2023_06:
-SCHEDULED: <2023-06-29 Thu>
+SCHEDULED: <2023-07-01 Sat>
 :PROPERTIES:
 :rating:   9.0
 :END:
@@ -1014,11 +1021,11 @@ IDW best of star trek vol.2
 **** Star Trek The Movie - First Contact :movie_adaptation:
 **** Second Contact (crossover with X-Men) :crossover:
 **** Star Trek TNG - Riker - The Enemy of My Enemy :Riker:
-**** Operation Assimilation
+**** DONE Operation Assimilation :P1997:Romulans:Borg:Borg_Queen:
 *** WildStorm (1999-2001)
 **** DONE [#B] The Gorn Crisis :2001:TNG:best:
-**** Perchance to Dream :ST2023_06:
-SCHEDULED: <2023-06-10 Sat>
+**** TODO Perchance to Dream :ST2023_06:
+SCHEDULED: <2023-07-02 Sun>
 
 **** DONE Embrace the Wolf :Jack_the_Ripper:ST2023_06:
 CLOSED: [2023-06-05 Mon 06:18] SCHEDULED: <2023-06-04 Sun>
@@ -1026,8 +1033,10 @@ CLOSED: [2023-06-05 Mon 06:18] SCHEDULED: <2023-06-04 Sun>
 **** The Killing Shadows
 *** IDW :IDW:
 **** [TPB] TNG omnibus
-***** HALF The Space Between :Y2364-2370:ST2023_06:
-SCHEDULED: <2023-06-24 Sat>
+***** DONE The Space Between :Y2364-2370:ST2023_06:
+CLOSED: [2023-06-26 Mon 18:43] SCHEDULED: <2023-06-25 Sun>
+
+前五期是五个毫不相干的小故事，但都有些没讲清楚的地方。第五期末尾和第六期表明前面那些故事幕后都有一个阴谋集团的影子（似乎是Section 31），但仍然讲的莫名其妙
 
 ***** Intelligence Gathering :Y2368:
 ***** DONE [#C] The Last Generation :alternate_universe:
@@ -1172,7 +1181,9 @@ M5 首次是在 TOS 剧集 The Ultimate Computer 出现
 ** DS9 tv (1993-1998) :📺:tv:
 *** DS9 S1 (Jan. - Jun. 1993) :Y2369:
 **** DONE [#C] 1x01. Emissary (7.6)
-**** [#D] 1x03. Past Prologue (7.1)
+**** DONE [#D] 1x03. Past Prologue (7.1) :ST2023_06:
+CLOSED: [2023-06-25 Sun 18:54] SCHEDULED: <2023-06-25 Sun>
+
 **** CANCEL [#E] 1x04. A Man Alone (6.9)
 **** [#D] 1x05. Babel (7.0)
 **** DONE [#C] 1x06. Captive Pursuit (7.7)
@@ -1209,7 +1220,7 @@ M5 首次是在 TOS 剧集 The Ultimate Computer 出现
 **** [#D] 2x16. Shadowplay (7.4)
 **** CANCEL [#E] 2x17. Playing God (6.5)
 **** [#D] 2x18. Profit and Loss (7.3)
-**** DONE [#B] 2x19. Blood Oath (8.0)
+**** DONE [#B] 2x19. Blood Oath (8.0) :Jadzia:Klingons:Kang:Curzon:Koloth:
 **** DONE [#C] 2x20. The Maquis: Part I (7.9)
 **** DONE [#B] 2x21. The Maquis: Part II (8.0)
 **** DONE [#B] 2x22. The Wire (8.3)
@@ -1269,14 +1280,14 @@ M5 首次是在 TOS 剧集 The Ultimate Computer 出现
 **** DONE [#B] 4x22. To the Death (8.2)
 **** DONE [#C] 4x23. The Quickening (7.7)
 **** DONE [#C] 4x24. Body Parts (7.6)
-**** DONE [#B] 4x25. Broken Link (8.3)
+**** DONE [#B] 4x25. Broken Link (8.3) :Changelings:
 *** DS9 S5 (Sep.96 - Jun.97) :Y2373:
 **** DONE [#B] 5x01. Apocalypse Rising (8.3)
 **** DONE [#B] 5x02. The Ship (8.1)
 **** DONE [#C] 5x03. Looking for par'Mach in All the Wrong Places (7.7) :Klingons:
 **** DONE [#C] 5x04. ...Nor the Battle to the Strong (7.7)
 **** [#D] 5x05. The Assignment (7.3)
-**** DONE [#A] 5x06. Trials and Tribble-ations (9.4)
+**** DONE [#A] 5x06. Trials and Tribble-ations (9.4) :Koloth:
 **** CANCEL [#E] 5x07. Let He Who Is Without Sin... (5.6)
 **** DONE [#C] 5x08. Things Past (7.6)
 **** DONE [#C] 5x09. The Ascent (7.6)
@@ -1286,7 +1297,7 @@ M5 首次是在 TOS 剧集 The Ultimate Computer 出现
 **** DONE [#B] 5x13. For the Uniform (8.0)
 **** DONE [#A] 5x14. In Purgatory's Shadow (8.9)
 **** DONE [#A] 5x15. By Inferno's Light (8.9)
-**** DONE [#C] 5x16. Doctor Bashir, I Presume (7.9)
+**** DONE [#C] 5x16. Doctor Bashir, I Presume (7.9) :genetically_engineered:
 **** CANCEL [#E] 5x17. A Simple Investigation (6.7)
 **** [#D] 5x18. Business as Usual (7.4) :Ferengi:
 **** [#D] 5x19. Ties of Blood and Water (7.3)
@@ -1295,24 +1306,24 @@ M5 首次是在 TOS 剧集 The Ultimate Computer 出现
 **** DONE [#B] 5x22. Children of Time (8.1) :alternate_universe:
 **** DONE [#C] 5x23. Blaze of Glory (7.7)
 **** DONE [#C] 5x24. Empok Nor (7.9)
-**** DONE [#C] 5x25. In the Cards (7.9)
-**** DONE [#A] 5x26. Call to Arms (9.0)
+**** DONE [#C] 5x25. In the Cards (7.9) :dominion_invasion:
+**** DONE [#A] 5x26. Call to Arms (9.0) :dominion_invasion:
 CLOSED: [2021-01-28 Thu 08:26]
 
 *** DS9 S6 (Sep.97 - Jun.98) :Y2374:
-**** DONE [#A] 6x01 A Time to Stand
+**** DONE [#A] 6x01 A Time to Stand :dominion_invasion:
 CLOSED: [2021-01-28 Thu 23:11]
 :PROPERTIES:
 :rating:   8.6
 :END:
 
-**** DONE [#A] 6x02 Rocks and Shoals
+**** DONE [#A] 6x02 Rocks and Shoals :dominion_invasion:
 
 :PROPERTIES:
 :rating:   8.6
 :END:
 
-**** DONE [#D] 6x03 Sons and Daughters :Worf:
+**** DONE [#D] 6x03 Sons and Daughters :Worf:dominion_invasion:
 CLOSED: <2021-01-31 Sun 17:00>
 :PROPERTIES:
 :ratings:  7.1
@@ -1322,7 +1333,7 @@ Worf 在队伍中发现了自己的儿子 Alexander，当初 Alex 说不愿成�
 
 Dukat 的女儿 Ziyal 从贝久回到了 DS9, 她现在对艺术创作有了兴趣，也体现出不错的造诣。Kira 为她感到高兴，不过因为厌恶 Dukat 而不得不离 Ziyal 远点
 
-**** DONE [#B] 6x04 Behind the Lines
+**** DONE [#B] 6x04 Behind the Lines :dominion_invasion:
 CLOSED: [2021-02-02 Tue 18:31]
 :PROPERTIES:
 :rating:   8.0
@@ -1334,13 +1345,13 @@ Dukat 的副官 Damar 想到了如何解除虫洞外面的雷阵，Quark 把他�
 
 另外，Dax 升任了挑战好的舰长。Sisko 虽然有更大的岗位责任，不过还是心系挑战号，并且有点小失落 
 
-**** DONE [#A] 6x05 Favor the Bold
+**** DONE [#A] 6x05 Favor the Bold :dominion_invasion:
 CLOSED: [2021-02-06 Sat 15:41]
 :PROPERTIES:
 :rating:   8.6
 :END:
 
-**** DONE [#A] 6x06 Sacrifice of Angels
+**** DONE [#A] 6x06 Sacrifice of Angels :dominion_invasion:
 CLOSED: [2021-02-06 Sat 15:41]
 :PROPERTIES:
 :rating:   9.0
@@ -1504,7 +1515,7 @@ CLOSED: [2023-06-02 Fri 16:50] SCHEDULED: <2023-06-03 Sat>
 **** DONE [#E] 7x9. Covenant                             (6.9) :ST2023_06:
 CLOSED: [2023-06-05 Mon 08:06] SCHEDULED: <2023-06-07 Wed>
 
-**** DONE [#B] 7x10. It's Only a Paper Moon              (8.2) :ST2023_06:
+**** DONE [#B] 7x10. It's Only a Paper Moon              (8.2) :hologram:ST2023_06:
 CLOSED: [2023-06-08 Thu 18:56] SCHEDULED: <2023-06-07 Wed>
 
 **** DONE [#E] 7x11. Prodigal Daughter                   (6.5) :ST2023_06:
@@ -1516,11 +1527,11 @@ CLOSED: [2023-06-15 Thu 18:52] SCHEDULED: <2023-06-14 Wed>
 **** DONE [#E] 7x13. Field of Fire                       (6.8) :Ezri_Dax:Trill:ST2023_06:
 CLOSED: [2023-06-20 Tue 18:51] SCHEDULED: <2023-06-21 Wed>
 
-**** TODO [#D] 7x14. Chimera                             (7.3) :ST2023_06:
-SCHEDULED: <2023-06-21 Wed>
+**** DONE [#D] 7x14. Chimera                             (7.3) :Changelings:ST2023_06:
+CLOSED: [2023-06-27 Tue 08:11] SCHEDULED: <2023-06-24 Sat>
 
-**** TODO [#C] 7x15. Badda-Bing, Badda-Bang              (7.8) :ST2023_06:
-SCHEDULED: <2023-06-30 Fri>
+**** DONE [#C] 7x15. Badda-Bing, Badda-Bang              (7.8) :hologram:ST2023_06:
+CLOSED: <2023-06-28 Wed 19:28> SCHEDULED: <2023-06-28 Wed>
 
 **** TODO [#B] 7x16. Inter Arma Enim Silent Leges        (8.4) :ST2023_06:
 SCHEDULED: <2023-06-30 Fri>
@@ -1556,11 +1567,25 @@ CLOSED: [2021-02-04 Thu 14:39]
 ***** #10 Descendants
 ***** #11 A Short Fuse
 ***** #12 Baby on Board
+***** DONE #31 Remembrance :Klingons:P1995:
+CLOSED: [2023-06-29 Thu 13:21]
+
+sequel to /Blood Oath/
+
 **** miniseries
 ***** LATER 9a. Hearts and Minds (Jun. 1994)
-***** Lightstorm
 ***** The Maquis Soldier of Peace
-***** Terok Nor
+**** single
+***** DONE Lightstorm :ST2023_06:
+CLOSED: [2023-06-26 Mon 12:48] SCHEDULED: <2023-06-25 Sun>
+
+克林贡姐妹 Lursa 和 B'Etor 出自 TNG 4x26/5x01 Redemption 以及 DS9 1x03 Past Prologue
+
+故事比较一般
+
+***** DONE Terok Nor :P1995:ST2023_06:
+CLOSED: [2023-06-24 Sat 08:48]
+
 ***** Blood and Honor
 ***** Special
 ***** Rules of Diplomacy
@@ -1576,8 +1601,12 @@ CLOSED: <2021-01-26 Tue 13:23>
 ***** DONE 03-04 The Cancer Within
 CLOSED: <2021-03-06 Sat 20:23>
 
-***** LATER 05 The Shadow Group
-***** LATER 06-07 Risk
+***** TODO 05 The Shadow Group :ST2023_06:
+SCHEDULED: <2023-06-30 Fri>
+
+***** TODO 06-07 Risk :ST2023_06:
+SCHEDULED: <2023-06-30 Fri>
+
 ***** 08-09 Public Enemies, Private Lives
 ***** 10 Lwaxana Troi and the Wedding of Doom
 ***** 11 Four Funerals and a Wedding
@@ -1589,10 +1618,12 @@ CLOSED: <2021-03-06 Sat 20:23>
 19 issues
 
 *** WildStorm (1999-2001) :Wildstorm:
-**** CANCEL N-Vector :DS9:2000:
+**** CANCEL N-Vector :DS9:P2000:
 CLOSED: [2021-02-20 Sat 13:13]
 
-**** LATER Divided We Fall :TNG:DS9:2001:crossover:
+丑哭了
+
+**** LATER Divided We Fall :TNG:DS9:P2001:crossover:
 *** IDW :IDW:
 **** 2DONE Fool's Gold :2010:
 **** DONE Too Long a Sacrifice (2020) :hanzify:
@@ -1768,7 +1799,9 @@ CLOSED: [2022-07-30 Sat 20:07]
 **** [#C] 2x26. Basics: Part I		(7.9)
 *** VOY S3 :Y2373:
 **** [#B] 3x01. Basics: Part II       (8.0)
-**** [#C] 3x02. Flashback			   (7.9)
+**** [#C] 3x02. Flashback			   (7.9) :Sulu:Kang:ST2023_06:
+SCHEDULED: <2023-07-02 Sun>
+
 **** [#E] 3x03. The Chute			   (6.9)
 **** [#D] 3x04. The Swarm			   (7.3)
 **** [#E] 3x05. False Profits		   (6.8)
@@ -1936,15 +1969,18 @@ CLOSED: [2022-07-29 Fri 20:17] SCHEDULED: <2022-07-30 Sat>
 **** Star Trek Voyager - Splashdown (1998)
 *** WildStorm (1999-2001)
 **** False Colors :Y2376:
-**** Elite Force
-**** LATER Voyager: Avalon Rising 阿瓦隆号崛起 :Wildstorm:Y2376:hanzify:
+**** Elite Force :Y2376:
+**** Voyager: Avalon Rising 阿瓦隆号崛起 :Wildstorm:Y2376:hanzify:
 **** Planet Killer
-*** IDW
-**** DONE Voyager: Mirrors and Smoke (镜像迷雾) :mirror_universe:IDW:Y2374:
+
+encountering the planet killer from TOS: "The Doomsday Machine".
+
+*** IDW :idw:
+**** DONE Voyager: Mirrors and Smoke (镜像迷雾) :mirror_universe:Y2374:
 CLOSED: [2023-06-17 Sat 12:07] SCHEDULED: <2023-06-17 Sat>
 
-**** TODO Voyager - Seven's Reckoning :Y2374:2020:IDW:hanzify:ST2023_06:
-SCHEDULED: <2023-06-30 Fri>
+**** DONE Voyager - Seven's Reckoning :Prime_Directive:Y2374:2020:hanzify:ST2023_06:
+CLOSED: [2023-06-27 Tue 13:14] SCHEDULED: <2023-06-30 Fri>
 
 ** short stories
 *** Strange New Worlds VI
@@ -2033,21 +2069,23 @@ CLOSED: [2022-07-24 Sun 10:45]
 * DSC - Discovery :DSC:
 ** Discovery (2017- ) :📺:
 *** 📂DSC S1
-*** 📂DSC S2 :2019:
-**** 2x08 If Memory Serves :Talosians:
-**** 2x09 Project Daedalus
-**** DONE 2x10 The Red Angel
-**** DONE 2x11 Perpetual Infinity
-**** DONE 2x12 Through the Valley of Shadows
+*** 📂DSC S2 :2019:Pike:
+**** 2x01 Brother :Spock:
+**** 2x07 Light and Shadows :Spock:
+**** 2x08 If Memory Serves :Talosians:Spock:
+**** 2x09 Project Daedalus :Spock:
+**** DONE 2x10 The Red Angel :Spock:
+**** DONE 2x11 Perpetual Infinity :Spock:
+**** DONE 2x12 Through the Valley of Shadows :Spock:
 CLOSED: [2021-03-13 Sat 18:33]
 
-**** DONE 2x13 Such Sweet Sorrow
+**** DONE 2x13 Such Sweet Sorrow :Spock:
 CLOSED: [2021-03-13 Sat 19:47]
 :PROPERTIES:
 :rating:   7.2
 :END:
 
-**** DONE 2x14 Such Sweet Sorrow, Part 2
+**** DONE 2x14 Such Sweet Sorrow, Part 2 :Spock:
 CLOSED: [2021-03-13 Sat 22:56]
 
 *** 📂DSC S3 :2020:
@@ -2078,7 +2116,7 @@ CLOSED: [2021-03-21 Sun 21:40]
 **** DONE [#E] 3x06 Scavengers
 CLOSED: [2022-06-02 Thu 20:36] SCHEDULED: <2022-06-18 Sat>
 
-**** DONE [#E] 3x07 Unification III
+**** DONE [#E] 3x07 Unification III :Spock:
 CLOSED: [2022-06-12 Sun 13:02] SCHEDULED: <2022-06-14 Tue>
 
 **** DONE [#F] 3x08 The Sanctuary
@@ -2102,11 +2140,28 @@ CLOSED: [2022-07-02 Sat 17:02]
 **** DONE [#E] 3x13 That Hope Is You, Part 2
 CLOSED: [2022-07-02 Sat 18:08]
 
-*** Discovery S4
-**** 4x01 Kobayashi Maru 小林丸号
-**** 4x02 Anomaly
-**** 4x03 Choose to Live
-**** 4x04 All Is Possible
+*** Discovery S4 :ST2023_06:
+**** DONE 4x01 Kobayashi Maru 小林丸号
+CLOSED: [2023-06-23 Fri 21:04]
+
+**** DONE 4x02 Anomaly
+CLOSED: [2023-06-24 Sat 20:32] SCHEDULED: <2023-06-24 Sat>
+
+**** DONE 4x03 Choose to Live
+CLOSED: [2023-06-29 Thu 18:58] SCHEDULED: <2023-07-02 Sun>
+
+**** TODO 4x04 All Is Possible
+SCHEDULED: <2023-07-02 Sun>
+
+**** TODO 4x05 The Examples
+SCHEDULED: <2023-07-08 Sat>
+
+**** TODO 4x06 Stormy Weather
+SCHEDULED: <2023-07-08 Sat>
+
+**** TODO 4x07 ...But to Connect
+SCHEDULED: <2023-07-15 Sat>
+
 ** comics :IDW:📚:
 *** 2DONE Discovery: The Light of Kahless (卡勒斯之光) :hanzify:Kahless:Klingons:
 *** 2DONE Discovery: Succession (继位) :mirror_universe:hanzify:
@@ -2222,14 +2277,14 @@ CLOSED: [2023-06-17 Sat 17:14] SCHEDULED: <2023-06-18 Sun>
 :imdb:     6.1
 :END:
 
-**** TODO [#B] 1x09 All Those Who Wander :ST2023_06:
-SCHEDULED: <2023-06-25 Sun>
+**** DONE [#B] 1x09 All Those Who Wander 那些漂泊之人 :Gorn:ST2023_06:
+CLOSED: [2023-06-26 Mon 20:23] SCHEDULED: <2023-06-24 Sat>
 :PROPERTIES:
 :imdb:     8.1
 :END:
 
 **** TODO [#A] 1x10 A Quality of Mercy :ST2023_06:
-SCHEDULED: <2023-06-30 Fri>
+SCHEDULED: <2023-07-01 Sat>
 :PROPERTIES:
 :imdb:     9.1
 :END:
@@ -2309,6 +2364,9 @@ CLOSED: [2021-01-21 Thu 19:34]
 *** 6. IDW :idw:
 **** _mix
 ***** Alien Spotlight 聚焦外星人 :hanzify:
+****** DONE Klingons: Four Thousand Throats... :Kang:Klingons:ST2023_06:
+CLOSED: <2023-06-29 Thu 01:25> SCHEDULED: <2023-06-27 Tue>
+
 ***** DONE waypoint 转折点 :hanzify:waypoint:
 ****** Waypoint #03
 ******* DONE Mother's Walk :DS9:
@@ -2333,7 +2391,7 @@ CLOSED: [2021-01-13 Wed 12:45]
 ****** Captain's Log: Jellico
 ***** DONE [#C] The Q Conflict :hanzify:
 
-《Q的纠缠(The Q Conflict)》，Q神带着23和24世纪大联欢。
+《Q的纷争(The Q Conflict)》，Q神带着23和24世纪大联欢。
 
 ***** DONE Flesh and Stone (血肉与晶石) :hanzify:
 
