@@ -82,7 +82,8 @@ CLOSED: [2023-03-21 Tue 08:07] SCHEDULED: <2023-03-11 Sat>
 【【神秘博士广播剧熟肉】Back to Earth 503 Auld Lang Syne 逝去已久的时光-哔哩哔哩】 https://b23.tv/1NrKKIN
 
 **** S2.2 Into the Stars :P2022_08:
-***** READY [#A] 6.1 Salvation Nine :Sontarans:bilibili:DW2023_07_doctor:
+***** READY [#A] 9DA6.1 Salvation Nine :Sontarans:bilibili:DW2023_07_doctor:
+SCHEDULED: <2023-07-15 Sat>
 
 【【神秘博士广播剧熟肉】Into the Stars 601 Salvation Nine 救赎九号-哔哩哔哩】 https://b23.tv/ORzh7WU
 
@@ -527,11 +528,8 @@ CLOSED: [2023-05-11 Thu 21:12] DEADLINE: <2023-04-29 Sat> SCHEDULED: <2023-04-23
 
 【【神秘博士广播剧熟肉】Dalek Universe 202 The Trojan Dalek-哔哩哔哩】 https://b23.tv/ke8FadW
 
-***** READY [#A] DU2.3 - The Lost :bilibili:DW2023_06_doctor:
-SCHEDULED: <2023-06-24 Sat>
-:PROPERTIES:
-:rating:   8.6
-:END:
+***** HALF [#A] DU2.3 - The Lost :bilibili:DW2023_06_doctor:
+SCHEDULED: <2023-06-23 Fri 19:51>
 
 【【神秘博士广播剧熟肉】Dalek Universe 203 The Lost 迷失-哔哩哔哩】 https://b23.tv/HGdsWE3
 
@@ -732,8 +730,10 @@ https://tardis.fandom.com/wiki/Prequel_to_Geronimo!_(audio_story)
 **** 3QTR [#A] 11DC3.1 The Inheritance :DW2023_05_doctor:
 CLOSED: <2023-06-04 Sun 20:22> SCHEDULED: <2023-05-20 Sat>
 
-**** READY [#A] 3.2 The House of Masks
-**** READY [#A] 3.3 The End
+**** TODO [#A] 11DC3.2 The House of Masks :DW2023_07_doctor:
+SCHEDULED: <2023-07-29 Sat>
+
+**** [#A] 3.3 The End
 *** 11DC vol.4 All of Time and Space :Valarie:P2023_02:
 **** 4.1 All of Time and Space
 **** 4.2 The Yearn

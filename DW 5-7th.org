@@ -221,8 +221,8 @@ CLOSED: [2021-03-22 Mon 23:16]
 :END:
 
 *** main range 151-200 :scripted:2CD:
-**** BLOCK [#B] 159. The Emerald Tiger (8.2) :plot_yes:
-SCHEDULED: <2022-11-30 Wed>
+**** HALF [#B] MR159. The Emerald Tiger (8.2) :plot_yes:DW2023_07_doctor:
+SCHEDULED: <2023-07-08 Sat>
 
 **** [#D] 160. The 160. Jupiter Conjunction (7.3)
 **** BLOCK [#B] 161. The Butcher of Brisbane (8.0) :plot_yes:
@@ -522,8 +522,8 @@ https://tardis.fandom.com/wiki/Sixth_Doctor_audio_stories
 **** 3QTR [#A] 6. The Marian Conspiracy (8.6) :Evelyn:plot_yes:DW2022_08_doctor:
 CLOSED: [2022-08-03 Wed 21:45] SCHEDULED: <2022-08-03 Wed>
 
-**** HALF [#B] MR009 - The Spectre of Lanyon Moor (8.0) :Evelyn:Brigadier:plot_yes_dwg:DW2023_06_doctor:
-SCHEDULED: <2023-06-14 Wed 08:34>
+**** 3QTR [#B] MR009 - The Spectre of Lanyon Moor (8.0) :Evelyn:Brigadier:plot_yes_dwg:DW2023_06_doctor:
+CLOSED: [2023-06-26 Mon 08:24] DEADLINE: <2023-06-28 Wed> SCHEDULED: <2023-06-14 Wed 08:34>
 
 http://drwhoguide.com/who_bf09.htm
 
@@ -773,7 +773,7 @@ CLOSED: [2023-04-11 Tue 21:15] SCHEDULED: <2023-04-15 Sat>
 
 Volume One
 
-***** [#C] 6DnP1.1 - The Headless Ones :DW2023_08_doctor:
+***** [#C] 6DnP1.1 - The Headless Ones
 :PROPERTIES:
 :rating:   7.5
 :END:
@@ -1198,8 +1198,8 @@ CLOSED: <2023-05-16 Tue 08:46> SCHEDULED: <2023-05-13 Sat 20:07>
 ***** HALF [#B] UNIT - Dominion p2 :DW2023_05_doctor:
 SCHEDULED: <2023-05-20 Sat 20:07>
 
-***** [#B] UNIT - Dominion p3 :DW2023_07_doctor:
-***** [#B] UNIT - Dominion p4 :DW2023_07_doctor:
+***** START [#B] UNIT - Dominion p3
+***** TODO [#B] UNIT - Dominion p4
 **** 📂7DA New Adventures :P2018:Roz:Chris:1CD:
 ***** 3QTR [#D] 7DA 1.1 - The Trial of a Time Machine :DW2022_07_doctor:
 CLOSED: <2022-07-06 Wed 20:52> SCHEDULED: <2022-07-06 Wed>

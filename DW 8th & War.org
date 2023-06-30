@@ -91,7 +91,7 @@ CLOSED: [2021-03-22 Mon 22:38]
 :rating:   6.0
 :END:
 
-***** TODO [#D] 61. Faith Stealer
+***** TODO [#D] 61. Faith Stealer :DW2023_08_doctor:
 :PROPERTIES:
 :rating:   7.4
 :END:
@@ -464,7 +464,7 @@ DEADLINE: <2023-04-23 Sun> SCHEDULED: <2023-04-24 Mon 08:29>
 :END:
 
 ***** HALF [#A] 8DDC3.4 - The Crucible of Souls :River:DW2023_06_doctor:
-DEADLINE: <2023-06-28 Wed> SCHEDULED: <2023-06-20 Tue 21:33>
+SCHEDULED: <2023-06-20 Tue 21:33>
 :PROPERTIES:
 :rating:   8.
 :END:
@@ -876,7 +876,8 @@ CLOSED: [2023-02-19 Sun 16:18] SCHEDULED: <2023-02-17 Fri 08:20>
 :END:
 
 **** _📂The War Master series 8: Escape from Reality_ :P2022_12:Master_war:🎧:
-***** READY 8.1 The Wrath of Medusa :bilibili:
+***** READY [#A] 8.1 The Wrath of Medusa :bilibili:DW2023_07_spinoffs:
+SCHEDULED: <2023-07-23 Sun>
 
 【【广播剧汉化】奥林匹斯超市开张啦 The War Master 战争法师 801 The Wrath of Medusa-哔哩哔哩】 https://b23.tv/nf4Yhuu
 
@@ -957,7 +958,7 @@ The N-Forms receive an activation call, setting this after /Desperate Measures/
 
 **** HALF A Heart on Both Sides (Short Trips #7.9) :🎧:
 **** _📂The War Master series 6: Killing Time_ :Master_war:P2021:🎧:
-***** [#A] 6.1 - The Sincerest Form of Flattery
+***** [#A] 6.1 - The Sincerest Form of Flattery :DW2023_08_spinoffs:
 ***** [#A] 6.2 - A Quiet Night In
 ***** [#A] 6.3 - The Orphan
 ***** [#A] 6.4 - Unfinished Business
@@ -1050,8 +1051,8 @@ SCHEDULED: <2023-05-21 Sun>
 
 【【神秘博士广播剧汉化】Susan's War 苏珊的战争 101 Sphere of Influence-哔哩哔哩】 https://b23.tv/qIYe1v0
 
-**** READY [#C] Susan1.2 - The Uncertain Shore :bilibili:P2020_04:DW2023_07_spinoffs:
-SCHEDULED: <2023-06-30 Fri>
+**** READY [#C] Susan1.2 - The Uncertain Shore :bilibili:P2020_04:DW2023_08_spinoffs:
+SCHEDULED: <2023-07-23 Sun>
 
 【【神秘博士广播剧汉化】Susan's War 苏珊的战争 102 The Uncertain Shore-哔哩哔哩】https://b23.tv/WenJUb
 

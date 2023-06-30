@@ -65,7 +65,7 @@ Episode 4 missing (but animated in 2013).
 ** audio :🎧:
 *** EA :2CD:
 **** EA S1
-***** READY [#C] EA1.1 Domain of the Voord :Susan:Ian:Barbara:Voord:plot_yes:DW2023_07_maybe:
+***** READY [#C] EA1.1 Domain of the Voord :Susan:Ian:Barbara:Voord:plot_yes:
 
 应该先看老版剧集 1x05 The Keys of Marinus
 
@@ -74,7 +74,8 @@ Episode 4 missing (but animated in 2013).
 :rating:   7.1
 :END:
 
-***** [#C] EA1.3 The Bounty of Ceres :Vicki:Steven:plot_no:
+***** TODO [#C] EA1.3 The Bounty of Ceres :Vicki:Steven:plot_no:DW2023_07_doctor:
+SCHEDULED: <2023-07-15 Sat>
 :PROPERTIES:
 :rating:   7.7
 :END:
@@ -474,9 +475,7 @@ CLOSED: <2021-04-30 Fri 22:59>
 ***** 3QTR [#B] 22.1 The Final Beginning :Daleks:plot_yes:DW2022_10_doctor:1CD:
 CLOSED: <2022-10-30 Sun 19:49> SCHEDULED: <2022-10-22 Sat>
 
-***** TODO [#C] 22.2 Wrath of the Ice Warriors :Brigadier:ice_warriors:2CD:
-SCHEDULED: <2022-10-30 Sun>
-
+***** TODO [#C] 22.2 Wrath of the Ice Warriors :Brigadier:ice_warriors:2CD:DW2023_08_doctor:
 **** TBR James Robert McCrimmon :P2023_07:
 *** Companion Chronicles :🗣:
 **** #The_Company :Zoe:
@@ -492,7 +491,7 @@ CLOSED: <2021-07-30 Fri 16:14>
 :rating:   7.7
 :END:
 
-***** [#D] CC7.02 - The Uncertainty Principle :DW2023_06_doctor:
+***** START [#D] CC7.02 - The Uncertainty Principle :DW2023_06_doctor:
 SCHEDULED: <2023-06-24 Sat>
 :PROPERTIES:
 :rating:   7.0
@@ -838,10 +837,11 @@ block原因：太长（3CD）
 /The Annihilators/ was the first 7 part story made by Big Finish
 
 **** CANCEL [#E] 22B. Kaleidoscope :Sarah:Harry:Brigadier:P2022_10:3CD:
-**** 23A. The Return of Jo Jones :Jo:P2023_02:1CD:P2023_02:
+**** 2023A. The Return of Jo Jones :Jo:P2023_02:1CD:P2023_02:
 ***** [#D] 23A.1 Supernature
 ***** [#D] 23A.2 The Conservitors
 ***** [#C] 23A.3 The Iron Shore
+**** TBR 2023B :P2023_10:
 *** BF misc
 **** DONE [#A] The Sacrifice of Jo Grant (The Legacy of Time #3) :Jo:P2019:
 CLOSED: [2020-08-07 Fri 18:25]
@@ -941,7 +941,8 @@ SCHEDULED: <2022-03-30 Wed>
 ***** [#D] CC6.0b - The Mists of Time (7.4)
 ***** [#D] CC6.4 - The Many Deaths of Jo Grant (7.2)
 **** CC
-***** [#C] CC4.3 - The Prisoner of Peladon :Peladon:
+***** START [#C] CC4.3 - The Prisoner of Peladon :Peladon:DW2023_07_doctor:
+SCHEDULED: <2023-07-08 Sat>
 :PROPERTIES:
 :rating:   7.6
 :END:
