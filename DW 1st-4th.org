@@ -202,11 +202,6 @@ CLOSED: [2022-05-27 Fri 11:35] SCHEDULED: <2022-05-28 Sat>
 :rating:   8.1
 :END:
 
-***** [#B] 9.2 - The Unwinding World :Vicki:Ian:Barbara:
-:PROPERTIES:
-:rating:   8.0
-:END:
-
 **** Steven :Steven:
 ***** [#C] CC2.1 - Mother Russia
 ***** [#C] CC5.8 - The Perpetual Bond
@@ -226,7 +221,7 @@ CLOSED: [2022-05-27 Fri 11:35] SCHEDULED: <2022-05-28 Sat>
 :END:
 
 ***** Old Steven trilogy
-****** START [#B] 8.10 The War to End All Wars :Steven:D2022_02_doctor:
+****** START [#B] 8.10 The War to End All Wars :D2022_02_doctor:
 SCHEDULED: <2022-02-24 Thu>
 :PROPERTIES:
 :rating:   8.0
@@ -234,27 +229,8 @@ SCHEDULED: <2022-02-24 Thu>
 
 Old Steven 1/3
 
-****** 9.3 The Founding Fathers :Steven:
-
-Old Steven 2/3
-
-****** [#A] 9.4 - The Locked Room :Steven:
-:PROPERTIES:
-:rating:   8.5
-:END:
-
-Old Steven 3/3
-
-***** [#A] 11.2 - Across the Darkened City :scripted:
-:PROPERTIES:
-:rating:   8.5
-:END:
-
-***** [#B] 13.3 - The Vardan Invasion of Mirth
-:PROPERTIES:
-:rating:   8.0
-:END:
-
+****** 9.3 ↗
+****** 9.4 ↗
 **** Ian/Barbara
 ***** START [#B] CC3.7 - The Transit of Venus :Ian:Barbara:plot_yes_dwg:DW2022_09_doctor:
 SCHEDULED: <2022-09-26 Mon>
@@ -285,18 +261,24 @@ CLOSED: [2021-06-26 Sat 09:13]
 :rating:   8.0
 :END:
 
-**** Polly/Ben
-***** LATER [#B] CC11.4 - The Plague of Dreams :Polly:Ben:scripted:
+**** 📂CC9. First Doctor - Volume One :P2015:
+***** [#D] 9.1 - The Sleeping Blood :Barbaba:Ian:Vicki:
+***** [#B] 9.2 - The Unwinding World :Vicki:Ian:Barbara:
 :PROPERTIES:
 :rating:   8.0
 :END:
 
-***** [#D] 13.4 - The Crumbling Magician :Polly:
+***** [#D] 9.3 The Founding Fathers :Steven:
+
+Old Steven 2/3
+
+***** [#A] 9.4 - The Locked Room :Steven:
 :PROPERTIES:
-:rating:   7.4
+:rating:   8.5
 :END:
 
-**** 📂CC9. First Doctor - Volume One :P2015:
+Old Steven 3/3
+
 **** 📂CC11. First Doctor - Volume Two :P2017:scripted:
 ***** [#D] 11.1 Fields of Terror :Steven:Vicki:
 ***** READY [#A] 11.2 Across the Darkened City :Steven:Vicki:Daleks:
@@ -308,7 +290,7 @@ CLOSED: <2023-05-30 Tue 21:34> SCHEDULED: <2023-05-27 Sat>
 ***** [#F] 13.1 - E is For...
 ***** [#E] 13.2 - Daybreak
 ***** [#C] 13.3 - The Vardan Invasion of Mirth :Steven:Vardans:
-***** 13.4 - The Crumbling Magician :Ben:Polly:
+***** [#D] 13.4 - The Crumbling Magician :Ben:Polly:
 *** Lost Stories
 **** BLOCK [#A] LS2.1a - Farewell Great Macedon :scripted:3CD:
 :PROPERTIES:
@@ -1340,13 +1322,13 @@ CLOSED: <2023-02-10 Fri 14:02> SCHEDULED: <2023-02-06 Mon 08:42>
 ***** [#C] 11.3 The Dreams of Avaice :The_Nine:
 ***** [#D] 11.4 Shellshock
 ***** [#C] 11.5 Peake Season :1CD:
-**** TBR 4DA series 12 :Leela:Margaret:P2023:
+**** 4DA series 12 :Leela:Margaret:P2023:
 ***** 12.1 Ice Heist :Ice_Warriors:P2023_03:2CD:
 ***** 12.2 Antillia the Lost :P2023_03:2CD:
-***** 12.3 The Wizard of Time :P2023_06:
-***** 12.4 The Friendly Invasion :P2023_06:
-***** 12.5 Stone Cold :Weeping_Angels:P2023_06:
-***** 12.6 The Ghost of Margaret :P2023_06:
+***** 12.3 The Wizard of Time :P2023_06:1CD:
+***** 12.4 The Friendly Invasion :P2023_06:1CD:
+***** 12.5 Stone Cold :Weeping_Angels:P2023_06:2CD:
+***** 12.6 The Ghost of Margaret :P2023_06:1CD:
 *** BF PHP :Leela:
 
 Philip Hinchcliffe Presents

@@ -452,7 +452,11 @@ SCHEDULED: <2022-04-29 Fri>
 :rating:   7.5
 :END:
 
-***** Out of Time #3 Wink :6th_Dr:Weeping_Angels:
+***** [#B] Out of Time #3 Wink :6th_Dr:Weeping_Angels:P2022_06:
+:PROPERTIES:
+:rating:   8.0
+:END:
+
 **** Dalek Universe :P2021:Anya:Mark_7:
 ***** _intro
 
