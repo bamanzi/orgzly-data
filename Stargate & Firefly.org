@@ -400,7 +400,7 @@ https://m.douban.com/note/731811864
 *** DONE [#A] TV mini (2003)
 CLOSED: [2021-07-18 Sun 15:42]
 
-*** S1 (13 episodes) :P2004:
+*** 📂BSG S1 (13 episodes) :P2004:
 **** DONE 1x01 33
 CLOSED: [2021-07-21 Wed 08:20]
 
@@ -440,7 +440,7 @@ CLOSED: <2021-10-19 Tue 20:21>
 **** DONE 1x13 Kobol's Last Gleaming, Part II
 CLOSED: <2021-10-19 Tue 10:48>
 
-*** DOING 📂BSG S2 (20 episodes) :P2005:
+*** 📂BSG S2 (20 episodes) :P2005:
 DEADLINE: <2022-05-31 Tue>
 
 2005-07-15 — 2006-04-10
@@ -495,12 +495,18 @@ CLOSED: [2022-05-25 Wed 21:10] SCHEDULED: <2022-05-27 Fri>
 **** DONE 2x16
 CLOSED: [2022-05-28 Sat 08:23] SCHEDULED: <2022-05-28 Sat>
 
-**** DONE 2x17
+**** DONE 2x17 The Captain's Hand
 CLOSED: [2022-06-03 Fri 15:49] SCHEDULED: <2022-06-03 Fri>
 
-**** 2x18
-**** 2x19
-**** 2x20
+**** DONE 2x18 Downloaded
+CLOSED: [2023-07-05 Wed 20:32] SCHEDULED: <2023-07-09 Sun>
+
+**** DONE 2x19 Lay Down Your Burdens, Part I
+CLOSED: <2023-07-06 Thu 08:11> SCHEDULED: <2023-07-09 Sun>
+
+**** DONE 2x20 Lay Down Your Burdens, Part II
+CLOSED: [2023-07-07 Fri 20:46] SCHEDULED: <2023-07-09 Sun>
+
 *** DONE The Plan
 CLOSED: [2022-06-05 Sun 22:44] SCHEDULED: <2022-06-05 Sun>
 
@@ -513,12 +519,21 @@ Set during the events from the Miniseries to Season 2's /"Lay Down Your Burden
 在看完第三季之前不要看最后10分钟
 
 **** Razer: Flashback
-*** The Resistance (10集短篇)
+*** DONE The Resistance (10集短篇)
+CLOSED: [2023-07-08 Sat 20:10] SCHEDULED: <2023-07-16 Sun>
 
 这部网络剧的作用是连接第二季和第三季，有 1 到 10 的合集版，十分推荐
 
-*** S3 (20 eps)
-*** S4 (20 eps)
+*** 📂BSG S3 (20 eps) :P2006:
+**** DONE 3x01 Occupation
+CLOSED: [2023-07-10 Mon 08:02] SCHEDULED: <2023-07-16 Sun>
+
+**** TODO 3x02 Precipice
+SCHEDULED: <2023-07-16 Sun>
+
+**** 3x03 Exodus, Part I
+**** 3x04 Exodus, Part II
+*** 📂BSG S4 (20 eps) :P2008:
 *** The Face of the Enemy (10集短篇)
 *** Caprica (前传，18集)
 *** Blood & Chrome

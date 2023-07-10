@@ -430,7 +430,7 @@ SCHEDULED: <2022-09-25 Sun>
 ****** TODO Red Robin: 7 Days of Death (#22-26)
 SCHEDULED: <2022-09-28 Wed>
 
-***** NOW [#D] Life after Death (#692-697) :Grayson:
+***** NEXT [#D] Life after Death (#692-697) :Grayson:
 SCHEDULED: <2022-09-30 Fri>
 
 不怎么样，似乎野心挺大，但人物太多，冲突太乱
@@ -819,7 +819,7 @@ The story is inspired by the /Batman Reborn/ arc, whilst also including elements
 - Nightwing / Batman (Dick Grayson) (First appearance as Batman)
 - Robin (Damian Wayne)
 
-**** NOW Batman: Hush
+**** NEXT Batman: Hush
 *** other animated (non-DCAMU)
 **** DONE Batman: Under the Red Hood
 **** DONE Batman: Year One :P2011:
@@ -1052,7 +1052,7 @@ CLOSED: [2022-10-25 Tue 12:54]
 a new modern version of the Superman story taking place in a
 
 **** Superman v4 :P2016:
-***** NOW Vol.1 Son of Superman
+***** NEXT Vol.1 Son of Superman
 ***** Vol.2 Trials of the Super Son
 ***** Vol.3 Multiplicity
 ***** Vol.4 Black Dawn
@@ -1067,7 +1067,7 @@ a new modern version of the Superman story taking place in a
 
 SUPERMAN CONFIDENTIAL #1-5 and #11.
 
-**** NOW _/Superman/, by Kurt Busiek_ :P2006:
+**** NEXT _/Superman/, by Kurt Busiek_ :P2006:
 
 #654-675, 712, Annual #13
 
@@ -1123,11 +1123,11 @@ Superman: The Man of Steel #18-19, Justice League America #69, Superman #74-75, 
 
 Superman/Batman v1 #1-26
 
-***** NOW Public Enemies :P2003:
+***** NEXT Public Enemies :P2003:
 
 Superman/Batman v1 #1-6
 
-***** NOW The Supergirl from Krypton :P2004:
+***** NEXT The Supergirl from Krypton :P2004:
 
 Superman/Batman v1 #8-13
 

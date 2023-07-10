@@ -80,8 +80,7 @@ CLOSED: <2023-06-02 Fri 22:34> SCHEDULED: <2023-06-03 Sat>
 
 **** DONE [#D] 2x16. The Gamesters of Triskelion (7.1)
 **** DONE 2x17 A Piece of the Action :Prime_Directive:
-**** TODO [#C] 2x18. The Immunity Syndrome       (7.7) :ST2023_06:
-SCHEDULED: <2023-07-07 Fri>
+**** TODO [#C] 2x18. The Immunity Syndrome       (7.7) :ST2023_12:
 
 #+TBLFM: $2='(cond ((> $4 8.5) "[#A]") ((>= $4 8.0) "[#B]") ((>= $4 7.5) "[#C]") ((>= $4 7.0) "[#D]") (t "[#E]"));N
 #+TBLFM: $1='(cond ((< $4 7.0) "CANCEL") (t ""));N
@@ -127,7 +126,7 @@ CLOSED: [2021-02-20 Sat 19:31]
 :rating:   5.7
 :END:
 
-**** DONE [#B] 3x02 The Enterprise Incident (8.5) :Romulans:
+**** DONE [#B] 3x02 The Enterprise Incident (8.5) :Romulans:Section_31:
 CLOSED: [2021-03-06 Sat 10:03]
 :PROPERTIES:
 :rating:   8.5
@@ -212,9 +211,7 @@ CLOSED: [2022-06-20 Mon 00:19]
 **** DONE [#D] 3x15. Let That Be Your Last Battlefield (7.3) :ST2023_06:
 CLOSED: [2023-06-07 Wed 22:07] SCHEDULED: <2023-06-11 Sun>
 
-**** TODO [#E] 3x16. The Mark of Gideon                (6.7) :ST2023_06:
-SCHEDULED: <2023-07-02 Sun>
-
+**** TODO [#E] 3x16. The Mark of Gideon                (6.7)
 **** TODO [#E] 3x17. That Which Survives               (6.7)
 **** CANCEL [#E] 3x18. The Lights of Zetar               (6.3)
 **** DONE [#C] 3x19. Requiem for Methuselah            (7.6)
@@ -399,7 +396,7 @@ CLOSED: [2021-02-14 Sun 16:09]
 
 一艘星舰出了事故，进取号只找到了一些残骸。他们去附近一个星球寻找幸存者，却被一个机器人捕获了，然后发现这个机器人以原来那些人为原材料来克隆出新的婴儿
 
-***** LATER Year Four - The Enterprise Experiment :tv_continuation:Romulans:
+***** LATER Year Four - The Enterprise Experiment :tv_continuation:Romulans:Section_31:
 
 a sequel to "The Enterprise Incident"
 
@@ -548,6 +545,8 @@ CLOSED: [2023-06-12 Mon 13:16]
 **** "Ancient History" by Robert J. Mendenhall
 **** "Bum Radish: Five Spins on a Turquoise Reindeer" by TG Theodore
 **** "A Piece of the Pie" by G. Wood
+*** Strange New Worlds IX
+**** LATER A Bad Day for Koloth :Koloth:Kang:Tribbles:
 * TNG - The Next Generation :TNG:
 ** tv (1987-1993) :tv:📺:
 *** _download
@@ -607,11 +606,13 @@ CLOSED: [2023-06-21 Wed 20:06] SCHEDULED: <2023-06-11 Sun>
 **** DONE [#D] 1x22 Symbiosis (7.0) :Prime_Directive:ST2023_06:
 CLOSED: [2023-06-26 Mon 22:33] SCHEDULED: <2023-06-28 Wed>
 
-**** TODO [#D] 1x23 Skin of Evil (7.0) :ST2023_06:
-SCHEDULED: <2023-06-29 Thu>
+**** DONE [#D] 1x23 Skin of Evil (7.0) :ST2023_06:
+CLOSED: [2023-06-30 Fri 20:48] SCHEDULED: <2023-06-29 Thu>
 
-**** TODO [#E] 1x24 We'll Always Have Paris (6.7) :ST2023_06:
-SCHEDULED: <2023-07-12 Wed>
+同时也是 Lt. Yar 之死
+
+**** DONE [#E] 1x24 We'll Always Have Paris (6.7) :ST2023_06:Picard:
+CLOSED: [2023-07-03 Mon 20:59] SCHEDULED: <2023-07-08 Sat>
 
 **** DONE [#B] 1x25 Conspiracy (8.2) :ST2023_06:
 CLOSED: [2023-06-19 Mon 20:21] SCHEDULED: <2023-06-16 Fri>
@@ -988,7 +989,7 @@ CLOSED: [2022-07-28 Thu 23:49] SCHEDULED: <2022-07-30 Sat>
 
 Borg Queen 首次出现
 
-*** DONE [#E] 09. Insurrection 起义 :Y2375:P1998:
+*** DONE [#E] 09. Insurrection 起义 :Y2375:P1998:Section_31:
 CLOSED: [2021-03-18 Thu 13:08]
 :PROPERTIES:
 :rating:   6.4
@@ -1003,14 +1004,21 @@ CLOSED: [2022-05-23 Mon 20:25]
 ** comics :📚:
 *** DC Comics (1988-1996)
 **** TNG vol.1 (1988)
+***** 3. Q Factor / 4. Q's Day / Q Affects! :Q:
 **** TNG vol.2 (1989-1996)
-***** LATER 33-35. The Way of the Warrior / Devil's Brew / The Dogs of War :Q:
-SCHEDULED: <2023-06-18 Sun>
-
 ***** DONE The Gift (1990 annual) :Q:hanzify:
 CLOSED: [2023-06-15 Thu 08:02] SCHEDULED: <2023-06-18 Sun>
 
-***** DONE The Broken Moon (1992 annual)
+***** DONE 33-35. The Way of the Warrior / Devil's Brew / The Dogs of War :Q:Klingons:P1992:ST2023_06:
+CLOSED: [2023-07-02 Sun 15:07] SCHEDULED: <2023-06-18 Sun>
+
+Q 把全舰人员（除了 Data, Worf 和 Guinan）都变成了克林贡人，大家都变成了爆脾气
+
+而且画师画得很好，虽然都变成了克林贡人，但基本都还能认出来原来是谁
+
+不过35期里面，从Riker开始挑战Picard开始，故事发展有点镜像宇宙的风格，不太像克林贡人的行事风格
+
+***** DONE 38a. The Broken Moon (1992 annual)
 CLOSED: [2023-06-15 Thu 06:35] SCHEDULED: <2023-06-18 Sun>
 
 ***** DONE [#B] 47-50 The Worst of Both Worlds :⭐️:Borg:P1993:BoST:best:
@@ -1431,7 +1439,7 @@ CLOSED: [2021-03-17 Wed 18:56]
 
 Kira uses the Orb of Time to travel into the past after Dukat claims that her mother was once his lover during the Occupation.
 
-**** DONE [#B] 6x18 Inquisition :sec31:
+**** DONE [#B] 6x18 Inquisition :Section_31:
 CLOSED: [2021-03-20 Sat 19:56]
 :PROPERTIES:
 :rating:   8.3
@@ -1533,8 +1541,8 @@ CLOSED: [2023-06-27 Tue 08:11] SCHEDULED: <2023-06-24 Sat>
 **** DONE [#C] 7x15. Badda-Bing, Badda-Bang              (7.8) :hologram:ST2023_06:
 CLOSED: <2023-06-28 Wed 19:28> SCHEDULED: <2023-06-28 Wed>
 
-**** TODO [#B] 7x16. Inter Arma Enim Silent Leges        (8.4) :ST2023_06:
-SCHEDULED: <2023-06-30 Fri>
+**** DONE [#B] 7x16. Inter Arma Enim Silent Leges        (8.4) :Section_31:ST2023_06:
+CLOSED: [2023-06-30 Fri 20:09] SCHEDULED: <2023-06-30 Fri>
 
 **** TODO [#C] 7x17. Penumbra                            (7.6)
 **** [#C] 7x18. 'Til Death Do Us Part               (7.7)
@@ -1542,7 +1550,7 @@ SCHEDULED: <2023-06-30 Fri>
 **** [#B] 7x20. The Changing Face of Evil           (8.5)
 **** [#B] 7x21. When It Rains...                    (8.2)
 **** [#A] 7x22. Tacking Into the Wind               (8.7)
-**** [#C] 7x23. Extreme Measures                    (7.7)
+**** [#C] 7x23. Extreme Measures                    (7.7) :Section_31:
 **** [#B] 7x24. The Dogs of War                     (8.3)
 **** [#A] 7x25. What You Leave Behind               (8.7)
 ** comics :📚:
@@ -1601,11 +1609,11 @@ CLOSED: <2021-01-26 Tue 13:23>
 ***** DONE 03-04 The Cancer Within
 CLOSED: <2021-03-06 Sat 20:23>
 
-***** TODO 05 The Shadow Group :ST2023_06:
-SCHEDULED: <2023-06-30 Fri>
+***** DONE 05 The Shadow Group :ST2023_06:
+CLOSED: [2023-07-02 Sun 15:49] SCHEDULED: <2023-06-30 Fri>
 
 ***** TODO 06-07 Risk :ST2023_06:
-SCHEDULED: <2023-06-30 Fri>
+SCHEDULED: <2023-07-06 Thu>
 
 ***** 08-09 Public Enemies, Private Lives
 ***** 10 Lwaxana Troi and the Wedding of Doom
@@ -1799,8 +1807,10 @@ CLOSED: [2022-07-30 Sat 20:07]
 **** [#C] 2x26. Basics: Part I		(7.9)
 *** VOY S3 :Y2373:
 **** [#B] 3x01. Basics: Part II       (8.0)
-**** [#C] 3x02. Flashback			   (7.9) :Sulu:Kang:ST2023_06:
-SCHEDULED: <2023-07-02 Sun>
+**** DONE [#C] 3x02. Flashback			   (7.9) :Sulu:Kang:Excelsior:ST2023_06:
+CLOSED: [2023-07-01 Sat 16:54] SCHEDULED: <2023-07-02 Sun>
+
+闪回发生在 电影六 The Undiscovered Country 期间的精进号上（克林贡的卫星 Praxis 爆炸，失去大部能源来源，于是与星联启动和平谈判。克林贡谈判代表遭到阴谋份子暗杀，Kirk 和 Spock 被嫁祸。时任精进号舰长的 Sulu 要去救老朋友…）
 
 **** [#E] 3x03. The Chute			   (6.9)
 **** [#D] 3x04. The Swarm			   (7.3)
@@ -1966,7 +1976,14 @@ CLOSED: [2022-07-29 Fri 20:17] SCHEDULED: <2022-07-30 Sat>
 ** comics :📚:
 *** Marvel Paramount
 **** Star Trek Voyager (1996-98)
-**** Star Trek Voyager - Splashdown (1998)
+***** DONE 1. The Storm / 2. Under Ion Skies / 3. Repercussions :Y2372:ST2023_06:
+CLOSED: [2023-07-02 Sun 21:56]
+
+***** TODO 4-5. Homeostasis :ST2023_06:
+SCHEDULED: <2023-07-06 Thu>
+
+***** 9. Dead zone :Y2374:
+**** Star Trek Voyager - Splashdown (1998) :Y2374:
 *** WildStorm (1999-2001)
 **** False Colors :Y2376:
 **** Elite Force :Y2376:
@@ -2069,7 +2086,7 @@ CLOSED: [2022-07-24 Sun 10:45]
 * DSC - Discovery :DSC:
 ** Discovery (2017- ) :📺:
 *** 📂DSC S1
-*** 📂DSC S2 :2019:Pike:
+*** 📂DSC S2 :2019:Pike:Section_31:
 **** 2x01 Brother :Spock:
 **** 2x07 Light and Shadows :Spock:
 **** 2x08 If Memory Serves :Talosians:Spock:
@@ -2283,11 +2300,13 @@ CLOSED: [2023-06-26 Mon 20:23] SCHEDULED: <2023-06-24 Sat>
 :imdb:     8.1
 :END:
 
-**** TODO [#A] 1x10 A Quality of Mercy :ST2023_06:
-SCHEDULED: <2023-07-01 Sat>
+**** DONE [#A] 1x10 A Quality of Mercy :Kirk:ST2023_06:
+CLOSED: [2023-07-01 Sat 12:02] SCHEDULED: <2023-07-01 Sat>
 :PROPERTIES:
 :imdb:     9.1
 :END:
+
+an alternate timeline of TOS episode: /Balance of Terror/
 
 ** comics :📚:
 *** Early Voyages (Marvel)
@@ -2362,6 +2381,22 @@ CLOSED: [2021-01-21 Thu 19:34]
 **** New Frontier: Double Time :NF:
 **** Special :hanzify:mix:
 *** 6. IDW :idw:
+**** Star Trek (IDW 2022) :Y2378:
+
+https://memory-beta.fandom.com/wiki/Star_Trek_(IDW_2022)
+
+the second ongoing series from IDW to simply bear the name "Star Trek" (IDW's first Star Trek series was centered around the TOS cast of the Kelvin timeline)
+
+It consists of a crossover of characters from across the galaxy, exploring the late 2370s.
+
+- Benjamin Sisko
+- Data
+- T'lir
+- Sato
+- Beverly Crusher
+
+https://intl.startrek.com/news/new-era-star-trek-comics
+
 **** _mix
 ***** Alien Spotlight 聚焦外星人 :hanzify:
 ****** DONE Klingons: Four Thousand Throats... :Kang:Klingons:ST2023_06:

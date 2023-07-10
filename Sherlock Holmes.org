@@ -26,7 +26,7 @@ CLOSED: [2021-07-31 Sat 23:49]
 ***** DONE 1x02 The Dancing Men 跳舞的人
 CLOSED: <2021-07-23 Fri 23:49>
 
-***** NOW 1x03 The Naval Treaty 海军协约
+***** NEXT 1x03 The Naval Treaty 海军协约
 SCHEDULED: <2022-09-25 Sun>
 
 ***** DONE 1x04 The Solitary Cyclist 孤身骑车人
@@ -202,7 +202,7 @@ CLOSED: [2022-09-26 Mon 08:14] SCHEDULED: <2022-09-25 Sun>
 ***** DONE 1x03 The Adventure of Johnnie Waverly :benben:
 CLOSED: [2022-11-03 Thu 08:06] SCHEDULED: <2022-10-22 Sat>
 
-***** NOW 1x04 Four and Twenty Blackbirds
+***** NEXT 1x04 Four and Twenty Blackbirds
 SCHEDULED: <2022-10-22 Sat>
 
 ***** NEXT 1x05 The Third Floor Flat
