@@ -582,15 +582,16 @@ It’s a dangerous time for the last remaining humans. Captured by the Cylons on
 观看顺序：https://www.douban.com/doulist/133200925/
 
 *** skywalker saga
-**** LATER Star Wars: Episode I The Phantom Menace
+**** NOW Star Wars: Episode I The Phantom Menace :P1999:
+SCHEDULED: <2023-07-09 Sun>
 
 32BBY
 
-**** LATER Star Wars: Episode II Attack of the Clones
+**** NEXT Star Wars: Episode II Attack of the Clones :P2002:
 
 22BBY
 
-**** Star Wars: Episode III Revenge of the Sith
+**** Star Wars: Episode III Revenge of the Sith :P2005:
 
 19BBY
 
@@ -605,7 +606,7 @@ CLOSED: [2022-04-04 Mon 16:50]
 
 4ABY
 
-**** Star Wars: Episode VII The Force Awakens
+**** Star Wars: Episode VII The Force Awakens :P2015:
 
 34ABY
 
@@ -625,16 +626,17 @@ CLOSED: [2022-05-29 Sun 13:32]
 
 10 BBY, with a prologue set in 13 BBY
 
-**** TBR A Droid Story 机器人故事 :P2022:
-**** TBR Rogue Squadron :P2023:
+**** TBR A Droid Story 机器人故事 :P2025:
+**** TBR Rogue Squadron 侠盗中队 :P2028:
 *** movies (legends)
 **** Holiday Special :P1978:
 **** Caravan of Courage :P1984:
 **** Ewoks The Battle for Endor :P1985:
 ** tv :📺:
 *** tv (canon, live-action)
-**** The Mandalorian (2019- )
-DEADLINE: <2022-05-31 Tue>
+**** The Mandalorian 曼达洛人 (2019- )
+
+9 ABY
 
 ***** DONE 📂Mandalorian season 1 (8 eps) :P2019:
 
@@ -674,21 +676,65 @@ CLOSED: <2022-05-31 Tue 21:45>
 ****** DONE 2x03
 CLOSED: <2022-06-03 Fri 22:15>
 
-****** LATER 2x04
-SCHEDULED: <2022-06-05 Sun>
+****** DONE 2x04
+CLOSED: <2023-07-06 Thu 18:44> SCHEDULED: <2023-07-05 Wed>
 
-***** season 3 :P2023:
-**** The Book of Boba Fett
-***** season 1 (7 eps) :P2021:
+****** NOW 2x05
+SCHEDULED: <2023-07-09 Sun>
+
+****** NEXT 2x06
+SCHEDULED: <2023-07-16 Sun>
+
+****** NEXT 2x07
+SCHEDULED: <2023-07-16 Sun>
+
+****** 2x08
+SCHEDULED: <2023-07-23 Sun>
+
+***** season 3 (8 eps) :P2023_03:
+**** The Book of Boba Fett 波巴费特之书
+***** DOING [#C] 📂season 1 (7 eps) :P2021:
 
 c.9 ABY
 
-**** Obi-Wan Kenobi
-***** season 1 (6 eps) :P2022:
-**** Andor
-***** season 1 (12 eps)
+****** DONE 1x01
+CLOSED: [2023-07-08 Sat 19:29] SCHEDULED: <2023-07-09 Sun>
+
+****** NEXT 1x02
+SCHEDULED: <2023-07-16 Sun>
+
+****** NEXT 1x03
+SCHEDULED: <2023-07-16 Sun>
+
+****** 1x04
+SCHEDULED: <2023-07-23 Sun>
+
+****** 1x05
+SCHEDULED: <2023-07-23 Sun>
+
+**** Ahsoka 阿索卡 :P2023_08:
+
+9 ABY
+
+https://starwars.fandom.com/wiki/Ahsoka_(television_series)?so=search
+
+Set after the fall of the Empire, /Ahsoka/ follows the former Jedi knight Ahsoka Tano as she investigates an emerging threat to a vulnerable galaxy.[9]
+
+**** Obi-Wan Kenobi 欧比旺
+
+9 BBY
+
+https://starwars.fandom.com/wiki/Obi-Wan_Kenobi_(television_series)?so=search
+
+***** [#D] season 1 (6 eps) :P2022:
+**** Andor 安多
+
+5 BBY - 0 BBY
+
+https://starwars.fandom.com/wiki/Andor_(television_series)?so=search
+
+***** season 1 (12 eps) :P2022_09:
 ***** season 2
-**** Ahsoka
 **** The Acolyte
 **** Lando
 **** Rangers of the New Republic
@@ -696,6 +742,8 @@ c.9 ABY
 **** The Clone Wars (2008-2014)
 
 7 seasons
+
+22 BBY - 19 BBY
 
 ***** season 1 (22 eps) :P2008:
 ***** season 2 (22 eps) :P2009:
@@ -706,9 +754,13 @@ c.9 ABY
 ***** season 7 (12 eps) :P2020:
 **** Rebels (2014-2018) 义军崛起
 
+5 BBY - 0 BBY
+
 set during the time frame between the films /Star Wars: Episode III Revenge of the Sith/ and /Star Wars: Episode IV A New Hope/.
 
 It premiered worldwide as a one-hour television movie, Star Wars Rebels: Spark of Rebellion, on Disney Channel on October 3, 2014; 
+
+https://starwars.fandom.com/wiki/Star_Wars_Rebels?so=search
 
 ***** shorts (4 eps) :P2014:
 ***** DONE 📂Rebels season 1 (15 eps) :P2014:rebels:
@@ -764,6 +816,9 @@ CLOSED: [2022-06-18 Sat 00:12] SCHEDULED: <2022-06-07 Tue>
 ***** season 3 (22 eps) :P2016:
 ***** season 4 (16 eps) :P2017:
 **** Forces of Destiny (2017-2018)
+
+TIMELINE: Across the prequel trilogy, original trilogy, and sequel trilogy[1]
+
 ***** season 1 (18 eps) :P2017:
 ***** season 2 (18 eps) :P2018:
 **** Resistance (2018-2020) 抵抗组织
@@ -774,9 +829,14 @@ CLOSED: [2022-06-18 Sat 00:12] SCHEDULED: <2022-06-07 Tue>
 ***** season 1 (21 eps)
 ***** season 2 (19 eps)
 **** Galaxy of Adventures (2018-2020)
+
+32 BBY–35 ABY
+
 ***** season 1 (36 eps) :P2018:
 ***** season 2 (18 eps) :P2019:
 **** The Bad Batch (2021- ) 残次品/异等小队
+
+Timeline: 19 BBY
 
 讲述了“残次品”的精英和实验性克隆人在克隆人战争刚结束时，在迅速变化的银河系中寻找自己的方向。“残次品”成员是一支独特的克隆人队伍，他们在基因上与克隆人军队中的兄弟不同，每个人都拥有一种独特的特殊技能，使他们成为特殊的士兵和可怕的船员。
 
@@ -824,36 +884,90 @@ https://starwars.fandom.com/wiki/Dark_Horse_Comics
 
 1000BBY
 
-**** 1-3 前传三部曲
-***** Jedi: The Dark Side (2011)
+**** 1. 幽灵的威胁
+***** DONE epic collection: Rise of the Sith vol.1
+CLOSED: <2023-07-08 Sat 23:50>
+
+58 BBY-33 BBY
+
+- *Jedi—The Dark Side 1-5*
+- *Qui-Gon and Obi-Wan: The Aurorient Express 1-2*
+- *Qui-Gon and Obi-Wan: Last Stand on Ord Mantell 1-3*
+- *Jedi Council: Acts of War 1-4*
+- Star Wars: Republic: Vow of Justice - backup stories from Star Wars (1998) 4-6
+- Star Wars Tales
+  - Star Wars Tales 13
+    - "Stones" — Star Wars Tales 13
+    - "Survivors" — Star Wars Tales 13
+    - "Children of the Force" — Star Wars Tales 13
+    - "The Secret of Tet-Ami" — Star Wars Tales 13
+  - "Yaddle's Tale: The One Below" — Star Wars Tales 5
+  - "Mythology" — Star Wars Tales 14
+  - "Life, Death, and the Living Force" — Star Wars Tales 1
+  - "Nameless" — Star Wars Tales 10
+  - "Marked" — Star Wars Tales 24
+  - "Deal with a Demon" — Star Wars Tales 3
+  - "Jedi Chef" — Star Wars Tales 7
+  - "Hate Leads to Lollipops" — Star Wars Tales 9
+
+****** DONE [#C] Jedi: The Dark Side (2011)
+CLOSED: <2023-07-03 Mon>
 
 53BBY
 
-***** [#A] Purge (2005) :hanzify:
-***** Qui-Gon and Obi-wan (2000)
-***** Jedi (2003-2004) (5 issues) :hanzify:
-***** Dark Times (2006-2013)
+****** DONE [#C] Qui-Gon and Obi-wan: The Aurorient Express :P2002:
+CLOSED: <2023-07-05 Wed>
 
-19BBY
+****** DONE [#B] Qui-Gon and Obi-wan: Last Stand on Ord Mantell :P2000:
+CLOSED: [2023-07-06 Thu 22:26]
 
-***** Blood Ties: A Tale of Jango and Boba Fett (2010)
+***** TODO epic collection: Rise of the Sith vol.2
 
-22BBY & 2BBY
+33 BBY
 
-***** Darth Vader and the Cry of Shadows
+- Prelude to Rebellion — Star Wars (1998) #1-6 (Star Wars: Republic)
+- Darth Maul (2000) #1-4
+- Star Wars: Episode I — The Phantom Menace
+  - Episode I — The Phantom Menace #1-4
+  - Episode I: Anakin Skywalker
+  - Episode I: Queen Amidala
+  - Episode I: Qui-Gon Jinn
+  - Episode I: The Phantom Menace ½
+  - Episode I: Obi-Wan Kenobi
+- Star Wars Tales
+  - "A Summer's Dream" — Star Wars Tales 5
+  - "The Death of Captain Tarpals" — Star Wars Tales 3
+  - "George R. Binks" — Star Wars Tales 20
+  - "Urchins" — Star Wars Tales 14
+  - "Force Fiction" — Star Wars Tales 7
 
-17BBY
+***** epic collection: The Menace Revealed Vol. 1
 
-***** [#B] Darth Vader and the Ghost Prison (2012) :hanzify:
-***** Darth Vader and the Lost Command (2011) :hanzify:
+32 BBY
 
-19BBY
+- Jango Fett: Open Seasons #1-4
+- Outlander -- Star Wars: Republic (1998) #7-12
+- Emissaries to Malastare -- Star Wars: Republic (1998) #13-18
+- Nomad (Star Wars Tales #21-24)
 
-***** Darth Vader and the Ninth Assassin :hanzify:
+***** epic collection: The Menace Revealed Vol. 2
 
-19BBY
+32 BBY - 31 BBY
 
-***** Obsession
+- Star Wars: Republic (1998) #19-35
+  - #19-22 Twilight
+  - #23-27 Infinity's End
+  - #28-31 The Hunt for Aurra Sing
+  - #32-35 Darkness
+- Star Wars Tales #13
+- Aurra's Song (Annual 2000)
+
+**** 2. 克隆人进攻
+***** epic collection: The Clone Wars vol.1
+****** Jedi (2003-2004) (5 issues) :hanzify:
+***** epic collection: The Clone Wars vol.2
+***** epic collection: The Clone Wars vol.3
+****** Obsession
 
 19BBY
 
@@ -861,8 +975,44 @@ https://starwars.fandom.com/wiki/Dark_Horse_Comics
 
 20BBY
 
+***** epic collection: The Clone Wars vol.4
+****** Darth Vader and the Cry of Shadows
+
+17BBY
+
+****** Darth Maul — Son of Dathomir :hanzify:canon:
+**** 3. 西斯的复仇
+***** epic collection: The Empire Vol. 1
+****** [#A] Purge (2005) :hanzify:
+
+19 BBY
+
+****** Darth Vader and the Lost Command (2011) :hanzify:
+
+19BBY
+
+****** Dark Times (2006-2013)
+
+19BBY
+
+***** epic collection: The Empire Vol. 2
+****** Dark Times (2006-2013)
+
+19BBY
+
+***** epic collection: The Empire Vol. 3
+****** [#B] Darth Vader and the Ghost Prison (2012) :hanzify:
+****** Darth Vader and the Ninth Assassin :hanzify:
+
+19BBY
+
+***** misc
+****** Blood Ties: A Tale of Jango and Boba Fett (2010)
+
+22BBY & 2BBY
+
 **** 4-6 正传三部曲
-***** Empire (2002)
+***** Empire (2002) :hanzify:
 ***** Rebellion (2006)
 ***** Star Wars (2013)
 ***** DONE Boba Fett: Enemy of the Empire (1999)
@@ -959,6 +1109,54 @@ It ran for 83 issues, spanning from before The Phantom Menace to after Reveng
 ***** Agents of the Empire: Iron Eclipse (2011)
 ***** Agents of the Empire: Hard Targets (2012)
 *** Marvel (2015- ) :canon:
+**** 前传三部曲相关
+***** before movie 1
+****** DONE [#B] Darth Maul :hanzify:
+CLOSED: [2023-07-08 Sat 09:03] SCHEDULED: <2023-07-09 Sun>
+
+c. 32 BBY
+
+***** between movie 1-2
+****** Jedi of the Republic – Mace Windu :hanzify:
+****** Obi-Wan and Anakin
+
+29 BBY
+
+***** between movie 3 & 4
+****** Jedi Fallen Order - Dark Temple
+
+a prequel to the Respawn Entertainment video game /Star Wars Jedi: Fallen Order/. 
+
+****** Darth Vader v2: Dark Lord of the Sith (2017-2018)
+
+19 BBY-12 BBY
+
+Beginning during the events of /Star Wars: Episode III Revenge of the Sith/ directly after Darth Vader discovers that his wife, Padmé Amidala, has died, the series chronicles Vader going on various missions across the galaxy, all the while hunting the few surviving Jedi alongside his band of dark side apprentices known as the /Inquisitorius/. 
+
+***** Age of Republic
+**** Star Wars Rebels
+
+link: https://www.starwars.com/news/a-guide-to-star-wars-rebels-books-and-comics
+
+***** Kanan: The Last Padawan
+
+32BBY
+
+It takes place during /Order 66/
+
+***** Kanan: Firt Blodd
+
+22BBY
+
+It depicts Kanan's first foray into the Clone Wars
+
+***** Thrawn :P2018:
+
+/Star Wars: Thrawn/ is a canon comic book miniseries adapting the novel of the same name (2017开始的新三部曲，与原三部曲不是一回事）. It was written by Jody Houser, illustrated by Luke Ross, and published by Marvel Comics on February 14, 2018, running until July 11, 2018. 
+
+The limited comic series takes place between /Star Wars: Episode III Revenge of the Sith/ and /Star Wars: Episode IV A New Hope/,
+and follows the life of /Mitth'raw'nuruodo/, Thrawn as he rises through the ranks of the Galactic Empire and makes many friends---and foes---alike.
+
 **** 正传三部曲相关
 ***** before movie 4
 ****** LATER Solo: A Star Wars Story Adaptation
@@ -1125,56 +1323,6 @@ focusing on the character Beilert Valance during his time as a bounty hunter.
 Beilert Valance first appeared in Solo: A Star Wars Story Adaptation 1
 
 ***** Age of Rebellion
-**** Star Wars Rebels
-
-link: https://www.starwars.com/news/a-guide-to-star-wars-rebels-books-and-comics
-
-***** Kanan: The Last Padawan
-
-32BBY
-
-It takes place during /Order 66/
-
-***** Kanan: Firt Blodd
-
-22BBY
-
-It depicts Kanan's first foray into the Clone Wars
-
-***** Thrawn :P2018:
-
-/Star Wars: Thrawn/ is a canon comic book miniseries adapting the novel of the same name (2017开始的新三部曲，与原三部曲不是一回事）. It was written by Jody Houser, illustrated by Luke Ross, and published by Marvel Comics on February 14, 2018, running until July 11, 2018. 
-
-The limited comic series takes place between /Star Wars: Episode III Revenge of the Sith/ and /Star Wars: Episode IV A New Hope/,
-and follows the life of /Mitth'raw'nuruodo/, Thrawn as he rises through the ranks of the Galactic Empire and makes many friends---and foes---alike.
-
-**** 前传三部曲相关
-***** before movie 1
-****** Darth Maul
-
-c. 32 BBY
-
-****** The High Republic
-
-c.232 BBY
-
-***** between movie 1-2
-****** Obi-Wan and Anakin
-
-29 BBY
-
-***** between movie 3 & 4
-****** Jedi Fallen Order - Dark Temple
-
-a prequel to the Respawn Entertainment video game /Star Wars Jedi: Fallen Order/. 
-
-****** Darth Vader v2: Dark Lord of the Sith (2017-2018)
-
-19 BBY-12 BBY
-
-Beginning during the events of /Star Wars: Episode III Revenge of the Sith/ directly after Darth Vader discovers that his wife, Padmé Amidala, has died, the series chronicles Vader going on various missions across the galaxy, all the while hunting the few surviving Jedi alongside his band of dark side apprentices known as the /Inquisitorius/. 
-
-***** Age of Republic
 **** 后传三部曲相关
 ***** before movie 7
 ****** on-going: Poe Dameron (2016-2018)
@@ -1201,6 +1349,11 @@ Poe Dameron was portrayed by actor Oscar Isaac in Star Wars: Episode VII The
 The story is set prior to the events of /Star Wars: Episode IX The Rise of Skywalker/. 
 
 ***** Age of Resistance
+**** 其它
+***** The High Republic
+
+c.232 BBY
+
 *** IDW
 ** novels :📔:
 *** Darth Bane trilogy
