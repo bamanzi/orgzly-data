@@ -384,16 +384,16 @@ SCHEDULED: <2023-01-06 Fri 08:38>
 :rating:   6.8
 :END:
 
-**** Shadow of the Daleks 1
-***** Aimed at the Body
-***** Lightspeed
-***** The Bookshop at the End of the World
-***** Interlude
-**** Shadow of the Daleks 2
-***** Echo Chamber
-***** Towards Zero
-***** Castle Hydra
-***** Effect and Cause
+**** 269. Shadow of the Daleks 1
+***** [#C] 269a. Aimed at the Body
+***** [#E] 269b. Lightspeed
+***** [#E] 269c. The Bookshop at the End of the World
+***** [#B] 269d. Interlude
+**** 270. Shadow of the Daleks 2
+***** [#B] 270a. Echo Chamber
+***** [#D] 270b. Towards Zero
+***** [#E] 270c. Castle Hydra
+***** [#D] 270d. Effect and Cause
 **** The Blazing Hour
 *** 5DA
 **** The Fifth Doctor Box Set :2CD:Nyssa:Tegan:Adric:
@@ -1094,7 +1094,7 @@ CLOSED: [2021-03-22 Mon 20:20]
 :END:
 
 ***** [#B] MR164. Gods and Monsters (8.4) :P2012:Ace:Hex:Sally:Lysandra:Fenric:the_Forge:plot_no:
-***** [#E] 175. Persuasion
+***** [#E] 175. Persuasion :Klein:
 :PROPERTIES:
 :rating:   6.8
 :END:

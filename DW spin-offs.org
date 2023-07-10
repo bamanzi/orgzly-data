@@ -2039,9 +2039,9 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
 **** [#D] 1.2 Time Flies
 **** [#B] 1.3 Dark Side of the Moon
 *** Visitants :P2022_12:
-**** 2.1 The Frequency
-**** 2.2 Haunt
-**** 2.3 The Last Line of Defence
+**** [#D] 2.1 The Frequency
+**** [#E] 2.2 Haunt
+**** [#E] 2.3 The Last Line of Defence
 * UNIT: The New Series :UNIT_new:🎧:
 ** UNIT 1: Extinction :Nestene:P2015:plot_yes:
 *** [#C] UNIT1.1 - Vanguard (7.5)
