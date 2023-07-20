@@ -528,11 +528,24 @@ CLOSED: [2023-07-08 Sat 20:10] SCHEDULED: <2023-07-16 Sun>
 **** DONE 3x01 Occupation
 CLOSED: [2023-07-10 Mon 08:02] SCHEDULED: <2023-07-16 Sun>
 
-**** TODO 3x02 Precipice
-SCHEDULED: <2023-07-16 Sun>
+**** DONE 3x02 Precipice
+CLOSED: <2023-07-12 Wed 07:53> SCHEDULED: <2023-07-16 Sun>
 
-**** 3x03 Exodus, Part I
-**** 3x04 Exodus, Part II
+**** DONE 3x03 Exodus, Part I
+CLOSED: <2023-07-12 Wed 18:21>
+
+**** DONE 3x04 Exodus, Part II
+CLOSED: [2023-07-12 Wed 19:23]
+
+**** DONE 3x05 Collaborators
+CLOSED: <2023-07-17 Mon 08:06>
+
+**** DONE 3x06 Torn
+CLOSED: [2023-07-18 Tue 20:15]
+
+**** DONE 3x07 A Measure of Salvation
+CLOSED: [2023-07-19 Wed 18:47]
+
 *** 📂BSG S4 (20 eps) :P2008:
 *** The Face of the Enemy (10集短篇)
 *** Caprica (前传，18集)
@@ -598,11 +611,11 @@ It’s a dangerous time for the last remaining humans. Captured by the Cylons on
 
 *** skywalker saga
 **** NOW Star Wars: Episode I The Phantom Menace :P1999:
-SCHEDULED: <2023-07-09 Sun>
+SCHEDULED: <2023-07-16 Sun>
 
 32BBY
 
-**** NEXT Star Wars: Episode II Attack of the Clones :P2002:
+**** HALF Star Wars: Episode II Attack of the Clones :P2002:
 
 22BBY
 
@@ -682,29 +695,29 @@ CLOSED: [2022-05-14 Sat 17:30]
 CLOSED: <2022-05-28 Sat 21:47>
 
 ***** DOING 📂Mandalorian season 2 (8 eps) :P2020:
-****** DONE 2x01
+****** DONE 2x01 The Marshal
 CLOSED: [2022-05-29 Sun 21:14]
 
-****** DONE 2x02
+****** DONE 2x02 The Passenger
 CLOSED: <2022-05-31 Tue 21:45>
 
-****** DONE 2x03
+****** DONE 2x03 The Heiress
 CLOSED: <2022-06-03 Fri 22:15>
 
-****** DONE 2x04
+****** DONE 2x04 The Siege
 CLOSED: <2023-07-06 Thu 18:44> SCHEDULED: <2023-07-05 Wed>
 
-****** NOW 2x05
-SCHEDULED: <2023-07-09 Sun>
+****** DONE 2x05 The Jedi :Ahsoka:Thrawn:
+CLOSED: [2023-07-11 Tue 20:19] SCHEDULED: <2023-07-09 Sun>
 
-****** NEXT 2x06
-SCHEDULED: <2023-07-16 Sun>
+****** DONE 2x06 The Tragedy
+CLOSED: [2023-07-16 Sun 11:32] SCHEDULED: <2023-07-16 Sun>
 
-****** NEXT 2x07
-SCHEDULED: <2023-07-16 Sun>
+****** DONE 2x07 The Believer
+CLOSED: [2023-07-18 Tue 22:33] SCHEDULED: <2023-07-23 Sun>
 
-****** 2x08
-SCHEDULED: <2023-07-23 Sun>
+****** 2x08 The Rescue
+SCHEDULED: <2023-07-30 Sun>
 
 ***** season 3 (8 eps) :P2023_03:
 **** The Book of Boba Fett 波巴费特之书
@@ -715,19 +728,21 @@ c.9 ABY
 ****** DONE 1x01
 CLOSED: [2023-07-08 Sat 19:29] SCHEDULED: <2023-07-09 Sun>
 
-****** NEXT 1x02
-SCHEDULED: <2023-07-16 Sun>
+****** DONE 1x02
+CLOSED: [2023-07-13 Thu 15:51] SCHEDULED: <2023-07-16 Sun>
 
-****** NEXT 1x03
-SCHEDULED: <2023-07-16 Sun>
+****** DONE 1x03
+CLOSED: [2023-07-16 Sun 13:59] SCHEDULED: <2023-07-16 Sun>
 
-****** 1x04
+****** NOW 1x04
 SCHEDULED: <2023-07-23 Sun>
 
 ****** 1x05
 SCHEDULED: <2023-07-23 Sun>
 
-**** Ahsoka 阿索卡 :P2023_08:
+****** 1x06
+****** 1x07
+**** Ahsoka 阿索卡 :Ahsoka:P2023_08:
 
 9 ABY
 
@@ -828,6 +843,15 @@ CLOSED: [2022-06-05 Sun 16:21] SCHEDULED: <2022-06-06 Mon>
 CLOSED: [2022-06-18 Sat 00:12] SCHEDULED: <2022-06-07 Tue>
 
 ***** season 2 (22 eps) :P2015:
+****** DONE 2x01-02 The Siege of Lothal :Ahsoka:Lando:Vader:
+CLOSED: <2023-07-18 Tue 21:52>
+
+****** DONE 2x03
+CLOSED: [2023-07-19 Wed 22:29]
+
+****** DONE 2x04
+CLOSED: [2023-07-19 Wed 22:51]
+
 ***** season 3 (22 eps) :P2016:
 ***** season 4 (16 eps) :P2017:
 **** Forces of Destiny (2017-2018)
@@ -936,7 +960,8 @@ CLOSED: <2023-07-05 Wed>
 ****** DONE [#B] Qui-Gon and Obi-wan: Last Stand on Ord Mantell :P2000:
 CLOSED: [2023-07-06 Thu 22:26]
 
-***** TODO epic collection: Rise of the Sith vol.2
+***** DONE epic collection: Rise of the Sith vol.2
+CLOSED: [2023-07-14 Fri 13:20]
 
 33 BBY
 
@@ -956,7 +981,15 @@ CLOSED: [2023-07-06 Thu 22:26]
   - "Urchins" — Star Wars Tales 14
   - "Force Fiction" — Star Wars Tales 7
 
-***** epic collection: The Menace Revealed Vol. 1
+****** DONE [#C] Prelude to Rebellion — Star Wars (1998) #1-6
+:PROPERTIES:
+:amazon:   4.0
+:END:
+
+****** DONE Star Wars: Episode I — The Phantom Menace
+CLOSED: [2023-07-13 Thu 08:38]
+
+***** START epic collection: The Menace Revealed Vol. 1
 
 32 BBY
 
@@ -964,6 +997,22 @@ CLOSED: [2023-07-06 Thu 22:26]
 - Outlander -- Star Wars: Republic (1998) #7-12
 - Emissaries to Malastare -- Star Wars: Republic (1998) #13-18
 - Nomad (Star Wars Tales #21-24)
+
+****** DONE [#B] Jango Fett: Open Seasons :hanzify:
+CLOSED: [2023-07-16 Sun 08:12]
+
+58 BBY - 32 BBY
+
+****** DONE [#B] Outlander -- Star Wars: Republic (1998) #7-12 :hanzify:
+CLOSED: [2023-07-16 Sun 10:43]
+:PROPERTIES:
+:amazon:   4.4
+:END:
+
+****** [#C] Emissaries to Malastare -- Star Wars: Republic (1998) #13-18
+:PROPERTIES:
+:amazon:   4.1
+:END:
 
 ***** epic collection: The Menace Revealed Vol. 2
 
@@ -977,10 +1026,28 @@ CLOSED: [2023-07-06 Thu 22:26]
 - Star Wars Tales #13
 - Aurra's Song (Annual 2000)
 
+***** epic collection: The Menace Revealed Vol. 3 :P2023:
 **** 2. 克隆人进攻
+***** TBR epic collection: The Menace Revealed Vol. 4 :P2024_01:
+
+- The Bounty Hunters: Aurra Sing
+- Starfighter: Crossbones #1-3
+- Free Comic Book Day 2002
+- Republic #46-48
+- Star Wars: Episode II — Attack of the Clones #1-4
+- Full of Surprises
+- Most Precious Weapon
+- Practice Makes Perfect
+- Machines of War
+- "Poison Moon"—Dark Horse Extra 44–47
+- material from Star Wars Tales 2, 7, 14, 18, 20, & 24
+
+
+****** Star Wars: Episode II — Attack of the Clones
 ***** epic collection: The Clone Wars vol.1
 ****** Jedi (2003-2004) (5 issues) :hanzify:
 ***** epic collection: The Clone Wars vol.2
+****** [#B] The Battle of Jabiim (Star Wars: Republic #55-58)
 ***** epic collection: The Clone Wars vol.3
 ****** Obsession
 
@@ -991,6 +1058,7 @@ CLOSED: [2023-07-06 Thu 22:26]
 20BBY
 
 ***** epic collection: The Clone Wars vol.4
+****** Star Wars: Episode III — Revenge of the Sith
 ****** Darth Vader and the Cry of Shadows
 
 17BBY
@@ -1132,12 +1200,13 @@ CLOSED: [2023-07-08 Sat 09:03] SCHEDULED: <2023-07-09 Sun>
 c. 32 BBY
 
 ***** between movie 1-2
-****** Jedi of the Republic – Mace Windu :hanzify:
-****** Obi-Wan and Anakin
+****** TODO Obi-Wan and Anakin
+SCHEDULED: <2023-07-31 Mon>
 
 29 BBY
 
 ***** between movie 3 & 4
+****** Jedi of the Republic – Mace Windu :hanzify:
 ****** Jedi Fallen Order - Dark Temple
 
 a prequel to the Respawn Entertainment video game /Star Wars Jedi: Fallen Order/. 
@@ -1382,7 +1451,7 @@ c.232 BBY
 
 The novel is set in 14 BBY, five years after the events of /Star Wars: Episode III Revenge of the Sith/, and it focuses on /Wilhuff Tarkin/ and how he became a /Grand Moff/.
 
-*** Thrawn trilogy :legends:
+*** Thrawn trilogy :legends:Thrawn:
 **** DONE Thrawn 1: Heir to the Empire 帝国传承
 CLOSED: <2022-05-21 Sat 11:48>
 
