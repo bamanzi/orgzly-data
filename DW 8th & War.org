@@ -59,10 +59,13 @@ CLOSED: [2020-11-26 Thu 08:26]
 :rating:   8.5
 :END:
 
-***** BLOCK [#D] 50. Zegreus :5th_Dr:6th_Dr:7th_Dr:3CD:Romana_2:Charley:
+***** BLOCK [#D] 50. Zegreus :5th_Dr:6th_Dr:7th_Dr:3CD:Romana_2:Charley:bilibili:
 :PROPERTIES:
 :rating:   7.3
 :END:
+
+-【【DW广播剧/双语】MR 50a Zagreus 第一部 仙境-哔哩哔哩】 https://b23.tv/HgBPSgu
+- 【【神秘博士广播剧熟肉】MR 050b Zagreus - Heartland 腹地-哔哩哔哩】 https://b23.tv/Wdk0e1i
 
 ***** [#D] Living Legend (7.4) :P2003:
 **** part2 :Charley:

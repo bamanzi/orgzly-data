@@ -746,7 +746,11 @@ CLOSED: [2022-11-02 Wed 20:33] SCHEDULED: <2022-11-06 Sun>
 :rating:   8.5
 :END:
 
-**** [#A] ST12.X The World Tree :P2022_12:
+**** READY [#A] ST12.X The World Tree :P2022_12:bilibili:
+
+【【神秘博士】短途旅行：世界树 | Short Trips: The World Tree-哔哩哔哩】 https://b23.tv/kE5PXA3
+
+
 *** misc
 **** READY [#C] The Churchill Years 1.3 Living History ↗ :P2016:plot_yes:
 :PROPERTIES:
