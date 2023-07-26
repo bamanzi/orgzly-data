@@ -94,7 +94,7 @@ CLOSED: [2021-03-22 Mon 22:38]
 :rating:   6.0
 :END:
 
-***** TODO [#D] 61. Faith Stealer :DW2023_08_doctor:
+***** TODO [#D] MR61. Faith Stealer :DW2023_08_doctor:
 :PROPERTIES:
 :rating:   7.4
 :END:
@@ -961,7 +961,7 @@ The N-Forms receive an activation call, setting this after /Desperate Measures/
 
 **** HALF A Heart on Both Sides (Short Trips #7.9) :🎧:
 **** _📂The War Master series 6: Killing Time_ :Master_war:P2021:🎧:
-***** [#A] 6.1 - The Sincerest Form of Flattery :DW2023_08_spinoffs:
+***** [#A] WM6.1 - The Sincerest Form of Flattery :DW2023_08_spinoffs:
 ***** [#A] 6.2 - A Quiet Night In
 ***** [#A] 6.3 - The Orphan
 ***** [#A] 6.4 - Unfinished Business

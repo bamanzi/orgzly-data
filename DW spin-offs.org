@@ -121,8 +121,8 @@ https://b23.tv/Lv2q44
       :rating:   6.3
       :END:
 
-***** START [#B] TW15. Corpse Day :Andy:Owen:The_Commitee:DW2023_07_spinoffs:
-      SCHEDULED: <2023-07-09 Sun>
+***** HALF [#B] TW15. Corpse Day :Andy:Owen:The_Commitee:DW2023_07_spinoffs:
+      SCHEDULED: <2023-07-03 Mon 08:19>
       :PROPERTIES:
       :rating:   8.1
       :END:
@@ -455,7 +455,7 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
       :rating:   9.2
       :END:
 
-***** [#C] 4 - Darker Purposes :DW2023_08_spinoffs:
+***** [#C] John1.4 - Darker Purposes :DW2023_08_spinoffs:
       :PROPERTIES:
       :rating:   7.5
       :END:
@@ -728,13 +728,13 @@ https://tardis.fandom.com/wiki/Parasite_(audio_story)
       :rating:   8.3
       :END:
 
-***** TODO [#D] TWO3.2 - Locker 15 :DW2023_07_spinoffs:
-      SCHEDULED: <2023-07-23 Sun>
+***** HALF [#D] TWO3.2 - Locker 15 :DW2023_07_spinoffs:
+      SCHEDULED: <2023-07-20 Thu 19:52>
       :PROPERTIES:
       :rating:   7.1
       :END:
 
-***** [#A] 3.3 - The Rockery :DW2023_08_spinoffs:
+***** [#A] TWO3.3 - The Rockery :DW2023_08_spinoffs:
       :PROPERTIES:
       :rating:   8.6
       :END:
@@ -810,7 +810,7 @@ Torchwood India
 **** DONE [#B] 2.3 World Enough and Time (8.0) :6th_Dr:
      CLOSED: <2020-11-18 Wed 20:10>
 
-**** [#C] 2.4 The Eye of the Storm (7.7) :6th_Dr:7th_Dr:DW2023_08_doctor:
+**** [#C] River2.4 The Eye of the Storm (7.7) :6th_Dr:7th_Dr:DW2023_08_doctor:
 *** DoRS 3 :P2018:
 **** DONE [#A] 3.1 The Lady in the Lake (8.8)
      CLOSED: <2021-01-01 Fri 08:59>
@@ -1041,7 +1041,7 @@ Roberts Master
     SCHEDULED: <2023-03-12 Sun>
 
 ** J&L series 8 :P2014:
-*** [#A] 8.1 - Encore of the Scorchies         (8.9) :DW2023_08_spinoffs:
+*** [#A] J&L8.1 - Encore of the Scorchies         (8.9) :DW2023_08_spinoffs:
 *** [#D] 8.2 - The Backwards Men               (7.3)
 *** [#D] 8.3 - Jago & Litefoot & Patsy           (7.3)
 *** [#C] 8.4 - Higson & Quick                    (7.5)
@@ -1177,8 +1177,8 @@ Roberts Master
     :END:
 
 ** series 6 :P2013:
-*** TODO [#C] GAL6.1 - Extermination (7.8) :DW2023_07_spinoffs:
-    SCHEDULED: <2023-07-15 Sat>
+*** 3QTR [#C] GAL6.1 - Extermination (7.8) :DW2023_07_spinoffs:
+    CLOSED: [2023-07-26 Wed 09:08] SCHEDULED: <2023-07-16 Sun>
 
 *** [#B] 6.2 - Renaissance (8.1)
 *** [#B] 6.3 - Ascension (8.3)
@@ -1417,7 +1417,8 @@ http://drwhoguide.com/bs_a18.htm
 *** Boxset 5: Missing Persons :P2014:
 ** New Adventures of BS :🎧:
 *** Volume 1 :7th_Dr:P2014:
-**** [#B] 1.1 - The Revolution
+**** HALF [#B] 1.1 - The Revolution :DW2023_07_doctor:
+     SCHEDULED: <2023-07-20 Thu 08:34>
      :PROPERTIES:
      :rating:   8.0
      :END:
@@ -1624,7 +1625,7 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
 【【神秘博士广播剧汉化】法师独白，关爱脆皮，人人有责 Short Trips: I am the Master-哔哩哔哩】 https://b23.tv/71Jon0F
 
 *** The Switching
-*** READY Terror of the Master :audiobook:bilibili:
+*** Terror of the Master :audiobook:bilibili:
 
 - 上： 【【有声书汉化】准将的困扰 Terror of the Master 上-哔哩哔哩】 https://b23.tv/7SioMBV
 
@@ -2269,8 +2270,8 @@ http://www.drwhoguide.com/kaldor03.htm
      SCHEDULED: <2023-02-21 Tue 08:33>
 
 *** PG: Heritage 3 :P2020:
-**** START [#C] PG3.1 - Family Matters :DW2023_07_spinoffs:
-     SCHEDULED: <2023-07-09 Sun>
+**** 3QTR [#C] PG3.1 - Family Matters :DW2023_07_spinoffs:
+     CLOSED: <2023-07-11 Tue 08:12> SCHEDULED: <2023-07-09 Sun>
      :PROPERTIES:
      :rating:   7.5
      :END:
@@ -2309,7 +2310,7 @@ http://www.drwhoguide.com/kaldor03.htm
     :END:
 
 ** CM series 2 :P2013:
-*** [#B] 2.1 - Manhunt                      (8.1) :DW2023_08_spinoffs:
+*** [#B] CM2.1 - Manhunt                      (8.1) :DW2023_08_spinoffs:
 *** [#B] 2.2 - The Fifth Citadel            (8.3)
 *** [#C] 2.3 - Peshka                       (7.7)
 *** [#C] 2.4 - Sins of the Fathers          (7.9)
@@ -2380,9 +2381,7 @@ http://www.drwhoguide.com/kaldor03.htm
     SCHEDULED: <2023-06-25 Sun>
 
 *** [#E] +1.2 The Tao Connection+ (6.2)
-*** TODO [#B] SJS1.3 Test of Nerve (8.1) :DW2023_08_spinoffs:
-    SCHEDULED: <2023-07-15 Sat>
-
+*** TODO [#B] SJS1.3 Test of Nerve (8.1)
 *** [#E] +1.4 Ghost Town+ (6.4)
 *** [#D] 1.5 Mirror, Signal, Manoeuvre (7.1)
 *** [#C] 2.1 Buried Secrets (7.5)
@@ -2421,7 +2420,7 @@ http://www.drwhoguide.com/kaldor03.htm
 **** HALF [#D] CY1.2 - Hounded   (7.2) :DW2023_06_spinoffs:
      SCHEDULED: <2023-06-18 Sun>
 
-**** TODO [#C] CY1.3 - Living History              (7.9) :Daleks:11th_Dr:plot_yes:DW2023_08_maybe:
+**** TODO [#C] CY1.3 - Living History              (7.9) :Daleks:11th_Dr:plot_yes:DW2023_08_spinoffs:
 
 4 out of 20 (20.0%) raters say this story requires a previous story.
 
@@ -2654,8 +2653,8 @@ From Donna's perspective, the anthology is set after /Forest of the Dead/.
     :rating:   7.2
     :END:
 
-*** TODO [#B] WoDW#3 - The Screaming Skull :UNIT:Ruth:Charlie_Sato:Yates:DW2023_07_spinoffs:
-    SCHEDULED: <2023-07-15 Sat>
+*** HALF [#B] WoDW#3 - The Screaming Skull :UNIT:Ruth:Charlie_Sato:Yates:DW2023_07_spinoffs:
+    SCHEDULED: <2023-07-24 Mon 08:24>
 
 *** [#D] WoDW#4 - Second Sight :6th_Dr:Romana_2:Leela:Yates:
 ** Classic Doctors, New Monsters

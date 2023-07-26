@@ -221,8 +221,8 @@ CLOSED: [2021-03-22 Mon 23:16]
 :END:
 
 *** main range 151-200 :scripted:2CD:
-**** HALF [#B] MR159. The Emerald Tiger (8.2) :plot_yes:DW2023_07_doctor:
-SCHEDULED: <2023-07-08 Sat>
+**** 3QTR [#B] MR159. The Emerald Tiger (8.2) :plot_yes:DW2023_07_doctor:
+CLOSED: <2023-07-07 Fri 20:32> SCHEDULED: <2023-07-05 Wed>
 
 **** [#D] 160. The 160. Jupiter Conjunction (7.3)
 **** BLOCK [#B] 161. The Butcher of Brisbane (8.0) :plot_yes:
@@ -811,7 +811,7 @@ Volume One
 ***** 3. Time-Burst
 **** TBR 2023B :P2023_08:
 *** The Lost Stories
-**** The Lost Stories s1 :Peri:
+**** The Lost Stories s1 :Peri:2CD:
 ***** [#E] LS1.1 The Nightmare Fair :scripted:ToyMaker:
 :PROPERTIES:
 :rating:   6.8
@@ -1279,7 +1279,9 @@ SCHEDULED: <2023-03-25 Sat>
 **** [#E] LS2.4 - Crime of the Century :Raine:
 **** [#D] LS2.5 Animal :Raine:
 **** [#D] LS2.6 Earth Aid :Raine:
-**** HALF [#C] River2.1 The Unknown :plot_yes:
+**** DONE [#C] River2.1 The Unknown :plot_yes:DW2023_07_doctor:
+CLOSED: [2023-07-04 Tue 08:31] SCHEDULED: <2023-07-08 Sat>
+
 **** READY [#B] ST6.X - Forever Fallen :Ace:plot_yes:
 **** [#A] BBV 21 Punchline :plot_yes_dwg:
 

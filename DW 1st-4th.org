@@ -63,7 +63,7 @@ SCHEDULED: <2023-01-07 Sat>
 Episode 4 missing (but animated in 2013).
 
 ** audio :🎧:
-*** EA :2CD:
+*** EA :2CD:EA:
 **** EA S1
 ***** READY [#C] EA1.1 Domain of the Voord :Susan:Ian:Barbara:Voord:plot_yes:
 
@@ -74,8 +74,8 @@ Episode 4 missing (but animated in 2013).
 :rating:   7.1
 :END:
 
-***** TODO [#C] EA1.3 The Bounty of Ceres :Vicki:Steven:plot_no:DW2023_07_doctor:
-SCHEDULED: <2023-07-15 Sat>
+***** HALF [#C] EA1.3 The Bounty of Ceres :Vicki:Steven:plot_no:DW2023_07_doctor:
+SCHEDULED: <2023-07-22 Sat>
 :PROPERTIES:
 :rating:   7.7
 :END:
@@ -476,7 +476,7 @@ CLOSED: <2021-04-30 Fri 22:59>
 ***** 3QTR [#B] 22.1 The Final Beginning :Daleks:plot_yes:DW2022_10_doctor:1CD:
 CLOSED: <2022-10-30 Sun 19:49> SCHEDULED: <2022-10-22 Sat>
 
-***** TODO [#C] 22.2 Wrath of the Ice Warriors :Brigadier:ice_warriors:2CD:DW2023_08_doctor:
+***** TODO [#C] 2DA22.2 Wrath of the Ice Warriors :Brigadier:ice_warriors:2CD:DW2023_08_doctor:
 **** TBR James Robert McCrimmon :P2023_07:
 *** Companion Chronicles :🗣:
 **** #The_Company :Zoe:
@@ -942,7 +942,7 @@ SCHEDULED: <2022-03-30 Wed>
 ***** [#D] CC6.0b - The Mists of Time (7.4)
 ***** [#D] CC6.4 - The Many Deaths of Jo Grant (7.2)
 **** CC
-***** START [#C] CC4.3 - The Prisoner of Peladon :Peladon:DW2023_07_doctor:
+***** HALF [#C] CC4.3 - The Prisoner of Peladon :Peladon:DW2023_07_doctor:
 SCHEDULED: <2023-07-08 Sat>
 :PROPERTIES:
 :rating:   7.6
@@ -1226,7 +1226,7 @@ CLOSED: [2020-07-30 Thu 06:50]
 
 **** 4DA series 4 :Leela:P2015:1CD:
 ***** CANCEL [#E] 4.1 +The Exxilons+ (6.5)
-***** READY [#C] 4.2 The Darkness of Glass (7.5) :plot_yes:
+***** READY [#C] 4DA4.2 The Darkness of Glass (7.5) :plot_yes:DW2023_08_doctor:
 SCHEDULED: <2023-02-04 Sat>
 
 ***** 2DONE [#B] 4.3 Requiem for the Rocket Men  (8.4) :Master_decayed:D2021_07_dr:

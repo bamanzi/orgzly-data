@@ -82,8 +82,8 @@ CLOSED: [2023-03-21 Tue 08:07] SCHEDULED: <2023-03-11 Sat>
 【【神秘博士广播剧熟肉】Back to Earth 503 Auld Lang Syne 逝去已久的时光-哔哩哔哩】 https://b23.tv/1NrKKIN
 
 **** S2.2 Into the Stars :P2022_08:
-***** READY [#A] 9DA6.1 Salvation Nine :Sontarans:bilibili:DW2023_07_doctor:
-SCHEDULED: <2023-07-15 Sat>
+***** DONE [#A] 9DA6.1 Salvation Nine :Sontarans:bilibili:plot_yes:DW2023_07_doctor:
+CLOSED: [2023-07-23 Sun 12:02] SCHEDULED: <2023-07-21 Fri 13:17>
 
 【【神秘博士广播剧熟肉】Into the Stars 601 Salvation Nine 救赎九号-哔哩哔哩】 https://b23.tv/ORzh7WU
 
@@ -409,7 +409,7 @@ CLOSED: [2022-08-11 Thu 21:18] SCHEDULED: <2022-08-10 Wed>
 
 【【神秘博士广播剧熟肉】The 10th Doctor Adventures 302 One Mile Down-哔哩哔哩】 https://b23.tv/4UM8Y1U
 
-***** READY [#D] 10DA 3.3 - The Creeping Death :bilibili:
+***** READY [#D] 10DA 3.3 - The Creeping Death :bilibili:DW2023_08_doctor:
 :PROPERTIES:
 :rating:   7.2
 :END:
@@ -549,9 +549,18 @@ SCHEDULED: <2023-06-23 Fri 19:51>
 :END:
 
 **** 📂Tenth Doctor Classic Companions :P2022_09:
-***** [#B] 1. Splinters :Leela:
-***** [#E] 2. The Stuntman :Nyssa:
-***** [#D] 3. Quantum of Axos :Ace:
+***** READY [#B] 1. Splinters :Leela:bilibili:
+
+【【神秘博士广播剧熟肉】Tenth Doctor Classic Companions 101 Splinters 碎片-哔哩哔哩】 https://b23.tv/SDB2uFD
+
+***** READY [#E] 2. The Stuntman :Nyssa:bilibili:
+
+【【神秘博士广播剧熟肉】Tenth Doctor Classic Companions 102 The Stuntman 特技替身-哔哩哔哩】 https://b23.tv/hT2rOwk
+
+***** READY [#D] 3. Quantum of Axos :Ace:
+
+【【神秘博士广播剧熟肉】Tenth Doctor Classic Companions 103 Quantum of Axos 阿克索斯量子-哔哩哔哩】 https://b23.tv/M54MhC5
+
 *** 10DC
 **** [#D] 1.1 - the Taste of Death :Rose:
 :PROPERTIES:
@@ -981,7 +990,7 @@ SCHEDULED: <2022-12-21 Wed>
 :rating:   8.0
 :END:
 
-**** [#C] 9.9 - Dead Media
+**** [#C] ST9.9 - Dead Media :DW2023_08_doctor:
 :PROPERTIES:
 :rating:   7.7
 :END:

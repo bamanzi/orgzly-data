@@ -1540,68 +1540,53 @@
 *** HALF [#D] CY1.2 Hounded :Churchill:10th_Dr:
 * DW2023-07
 ** dw2023-07-doctor
-*** [#C] EA1.3 The Bounty of Ceres :1st_Dr:Vicki:Steven:2CD:
-*** START [#C] CC4.3 The Prisoner of Peladon :3rd_Dr:Peladon:
-*** [#B] MR159 The Emerald Tiger :5th_Dr:Nyssa:2CD:
-*** HALF [#C] River2.1 The Unknown :7th_Dr:River:DW2023_07_doctor:
-    SCHEDULED: <2023-07-08 Sat>
-
-*** TODO [#B] NABS1.1 - The Revolution :7th_Dr:Benny:DW2023_07_doctor:
-    SCHEDULED: <2023-07-29 Sat>
-
-*** [#A] 9DA 6.1 Salvation Nine :9th_Dr:bilibili:
+*** HALF [#C] EA1.3 The Bounty of Ceres :1st_Dr:Vicki:Steven:2CD:
+*** HALF [#C] CC4.3 The Prisoner of Peladon :3rd_Dr:Peladon:
+*** 3QTR [#B] MR159 The Emerald Tiger :5th_Dr:Nyssa:2CD:
+*** DONE [#C] River2.1 The Unknown :7th_Dr:River:
+*** HALF [#B] NABS1.1 - The Revolution :7th_Dr:Benny:
+*** DONE [#A] 9DA 6.1 Salvation Nine                        :9th_Dr:bilibili:
 *** [#A] 11DC 3.2 The House of Masks :11th_Dr:
 ** dw2023-07-spinoffs
-*** [#D] TWO3.2 Locker 15 :Yvonne:Ianto:
-*** START [#B] TW15 Corpse Day :Owen:Andy:
-*** [#B] WoDW3 The Screaming Skull :Ruth:UNIT:
-*** START [#C] PG 3.1 Family Matters :TPG:
-*** TODO [#A] WM8.1 The Wrath of Medusa :Master_war:bilibili:
-*** [#C] Gallifrey 6.1 - Extermination :Romana_2:Leela:
-** pending
-*** TODO [#A] DoRS7.3 Barrister to the Stars :River:
+*** HALF [#D] TWO3.2 Locker 15 :Yvonne:Ianto:
+*** HALF [#B] TW15 Corpse Day :Owen:Andy:
+*** HALF [#B] WoDW3 The Screaming Skull                           :Ruth:UNIT:
+*** 3QTR [#C] PG 3.1 Family Matters :TPG:
+*** START [#A] WM8.1 The Wrath of Medusa            :Master_war:bilibili:
+*** HALF [#C] Gallifrey 6.1 - Extermination :Romana_2:Leela:
 * DW2023-08
 ** dw2023-08-doctor
 *** [#B] Wrath of the Ice Warriors :2nd_Dr:Brigadier:
 *** [#C] 4DA 4.2 The Darkness of Glass :4th_Dr:Leela:
-*** TODO [#B] River2.3 World Enough and Time (8.0) :6th_Dr:
-*** TODO [#C] River2.4 The Eye of the Storm (7.7) :6th_Dr:7th_Dr:
+*** [#B] River2.3 World Enough and Time (8.0) :6th_Dr:DW2023_08_doctor:
+*** [#C] River2.4 The Eye of the Storm (7.7) :6th_Dr:7th_Dr:
 *** [#D] BF061 Faith Stealer :8th_Dr:Charley:
 *** [#C] 10DA 3.3 The Creeping Death :10th_Dr:Donna:
 *** [#C] ST9.9 Dead Media :12th_Dr:
 ** dw2023-08-spinoffs
 *** [#A] TWO3.3 The Rockery :Yvvone:Ianto:
 *** [#C] John#4 - Dark Purposes :Captain_John:Jack:
-*** TODO [#B] CM2.1 - Manhunt :ICMG:
-*** TODO [#A] J&L8.1 - Encore of the Scorchies
-*** [#A] WM6.1 The Sincerest Form of Flattery
-*** Susan1.2 The Uncertain Shore :Susan:Time_War:bilibili:
+*** [#B] CM2.1 - Manhunt :ICMG:
+*** [#A] J&L8.1 - Encore of the Scorchies
+*** [#A] WM6.1 The Sincerest Form of Flattery :Time_War:Master_war:
+*** [#C] Susan1.2 The Uncertain Shore :Susan:Time_War:bilibili:
 *** TODO [#C] CY1.3 - Living History :Churchill:11th_Dr:
 ** pending
-*** TODO [#D] WoDW#4 Second Sight :6th_Dr:Romana_2:Leela:Yates:
-*** TODO [#C] 6DnP #1 The Headless Ones :6th_Dr:Peri:
-*** TODO [#B] Gallifrey 6.2 - Renaissance :Romana_2:Leela:
 *** TODO [#B] SJS1.3 Test of Nerve
 * DW2023-09
 ** dw2023-09-doctor
-*** TODO [#B] CC7.10 - The Library of Alexandria (Ian, Barbara, Susan)
-*** TODO [#B] 3DA 8.2 The Devil's Hoofprints (Sarah) #plot_yes
-*** FIXME MR2xx Shadow of the Daleks 1.1/1.2 / [#B] CC4.05 - Ringpullworld (Turlough)
-*** TODO MR120 The Magic Mousetrap (Ace, Hex)
-*** [#A] 9DA 6.3 Break the Ice
-*** [#A] 11DC3.3 The End
+*** [#B] CC7.10 - The Library of Alexandria :1st_Dr:Ian:
+*** [#B] 3DA 8.2 The Devil's Hoofprints :3rd_Dr:Sarah:
+*** TODO [#D] MR269 Shadow of the Daleks 1.1/1.2 :5th_Dr:Daleks:
+*** [#A] MR120 The Magic Mousetrap :7th_Dr:Ace:Hex:
+*** [#A] 9DA6.3 Break the Ice :9th_Dr:
+*** [#A] 11DC3.3 The End :11th_Dr:
 ** dw2023-09-spinoffs
-*** [#A] TW52. Madam, I'm (Lizbeth, Norton, Adam)
-*** TODO [#D] TW62. Dead Plates (Bilis Manger)
-*** [#B] UNIT 1.1 Vanguard
-*** TODO [#D] J&L7.2 The Night of 1000 Stars (+Leela) / J&L [#D] 8.2 - The Backwards Men
+*** [#A] TW52. Madam, I'm :Lizbeth:Norton:Adam:
+*** [#D] TW62. Dead Plates :Bilis:
+*** [#B] UNIT 1.1 Vanguard :UNIT:
+*** TODO [#D] J&L8.2 - The Backwards Men
 *** [#A] WM6.2 - A Quiet Night In
-*** TODO [#B] Gallifrey 6.3  - Ascension
-*** TODO [#B] BSBOX1.1 - The Kraken's Lament :Benny:
-** pending
-*** [#B] LS2.1b The Fragile Yellow Arc of Fragrance (Susan, Ian, Barbara)
-*** 3DA6.1 Poison of the Daleks (Jo)
-*** TODO [#A] 3DA #9. The Annihilators 太长 (Liz, +2nd Dr, Jamie) 3CD ⅔ /
-*** TODO [#B] UNIT: Dominion p3 :7th_Dr:Klein:UNIT:Master_bald:1CD:
-*** TODO [#A] 7DNA 1.4 The Dread of Night 1cd (Roz, Chris)
-*** [#C] TW29 Serenity (Jack+Ianto)
+*** TODO [#B] Gallifrey 6.2 - Renaissance :Romana_2:Leela:
+*** [#B] BSBOX1.1 - The Kraken's Lament :Benny:
+
