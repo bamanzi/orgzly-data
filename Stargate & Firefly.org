@@ -546,6 +546,27 @@ CLOSED: [2023-07-18 Tue 20:15]
 **** DONE 3x07 A Measure of Salvation
 CLOSED: [2023-07-19 Wed 18:47]
 
+**** DONE 3x08
+CLOSED: [2023-07-20 Thu 22:19]
+
+**** DONE 2x09
+CLOSED: [2023-07-22 Sat 10:32]
+
+**** DONE 2x10
+CLOSED: [2023-07-22 Sat 11:15]
+
+**** DONE 2x11
+CLOSED: [2023-07-25 Tue 20:31]
+
+**** DONE 2x12
+CLOSED: [2023-07-25 Tue 22:25]
+
+**** DONE 2x13
+CLOSED: [2023-07-27 Thu 19:33]
+
+**** DONE 2x14
+CLOSED: <2023-07-30 Sun 18:42>
+
 *** 📂BSG S4 (20 eps) :P2008:
 *** The Face of the Enemy (10集短篇)
 *** Caprica (前传，18集)
@@ -586,8 +607,17 @@ The story is obviously set within the two-year span where humanoid Cylon infil
 
 *** Tales from the Fleet Omnibus
 **** Ghosts (4 issues)
+
+This 2008 four issue mini-series consists of new characters outside of the Battlestar Galactica "mainstream" who are part of the /Ghost Squadron/, a black-ops team struggling to survive after the wake of the /Fall of the Twelve Colonies/.
+
 **** Cylon War (4 issues)
+
+This four issue 2009 mini-series tells the tale of the /Cylon War/ decades before the /Fall of the Twelve Colonies/.
+
 **** The Final Five (4 issues)
+
+This four issue 2009 event ties directly into the events of the final episodes of the Re-imagined Series.
+
 *** Six :P2014:
 
 Between April and August 2014, Dynamite produced a 5-issue series on the origins of Six.
@@ -615,7 +645,8 @@ SCHEDULED: <2023-07-16 Sun>
 
 32BBY
 
-**** HALF Star Wars: Episode II Attack of the Clones :P2002:
+**** DONE Star Wars: Episode II Attack of the Clones :P2002:
+CLOSED: <2023-07-22 Sat 17:50>
 
 22BBY
 
@@ -644,7 +675,6 @@ CLOSED: [2022-04-04 Mon 16:50]
 
 **** Star Wars: Episode IX The Rise of Skywalker
 *** spin-offs
-**** The Clone Wars :P2008:
 **** DONE Rogue One 侠盗一号
 CLOSED: [2022-05-29 Sun 13:32]
 
@@ -682,7 +712,7 @@ CLOSED: [2022-04-23 Sat 16:39]
 ****** DONE 1x04 Sanctuary
 CLOSED: [2022-05-01 Sun 20:35]
 
-****** DONE 1x05 Gunslinger
+****** DONE 1x05 Gunslinger :Boba_Fett:
 CLOSED: [2022-05-05 Thu 21:23]
 
 ****** DONE 1x06 The Prisoner
@@ -694,7 +724,7 @@ CLOSED: [2022-05-14 Sat 17:30]
 ****** DONE 1x08 Redemption
 CLOSED: <2022-05-28 Sat 21:47>
 
-***** DOING 📂Mandalorian season 2 (8 eps) :P2020:
+***** DONE 📂Mandalorian season 2 (8 eps) :P2020:
 ****** DONE 2x01 The Marshal
 CLOSED: [2022-05-29 Sun 21:14]
 
@@ -710,17 +740,17 @@ CLOSED: <2023-07-06 Thu 18:44> SCHEDULED: <2023-07-05 Wed>
 ****** DONE 2x05 The Jedi :Ahsoka:Thrawn:
 CLOSED: [2023-07-11 Tue 20:19] SCHEDULED: <2023-07-09 Sun>
 
-****** DONE 2x06 The Tragedy
+****** DONE 2x06 The Tragedy :Boba_Fett:
 CLOSED: [2023-07-16 Sun 11:32] SCHEDULED: <2023-07-16 Sun>
 
-****** DONE 2x07 The Believer
+****** DONE 2x07 The Believer :Boba_Fett:
 CLOSED: [2023-07-18 Tue 22:33] SCHEDULED: <2023-07-23 Sun>
 
-****** 2x08 The Rescue
-SCHEDULED: <2023-07-30 Sun>
+****** DONE 2x08 The Rescue :Boba_Fett:
+CLOSED: [2023-07-25 Tue 18:48] SCHEDULED: <2023-07-30 Sun>
 
 ***** season 3 (8 eps) :P2023_03:
-**** The Book of Boba Fett 波巴费特之书
+**** The Book of Boba Fett 波巴费特之书 :Boba_Fett:
 ***** DOING [#C] 📂season 1 (7 eps) :P2021:
 
 c.9 ABY
@@ -734,11 +764,11 @@ CLOSED: [2023-07-13 Thu 15:51] SCHEDULED: <2023-07-16 Sun>
 ****** DONE 1x03
 CLOSED: [2023-07-16 Sun 13:59] SCHEDULED: <2023-07-16 Sun>
 
-****** NOW 1x04
-SCHEDULED: <2023-07-23 Sun>
+****** DONE 1x04
+CLOSED: [2023-07-20 Thu 20:42] SCHEDULED: <2023-07-23 Sun>
 
-****** 1x05
-SCHEDULED: <2023-07-23 Sun>
+****** DONE 1x05
+CLOSED: [2023-07-22 Sat 12:13] SCHEDULED: <2023-07-23 Sun>
 
 ****** 1x06
 ****** 1x07
@@ -775,7 +805,35 @@ https://starwars.fandom.com/wiki/Andor_(television_series)?so=search
 
 22 BBY - 19 BBY
 
+***** DONE The Clone Wars :P2008:Anakin:Ahsoka:
+CLOSED: [2023-07-22 Sat 22:31]
+
+22BBY
+
+The film chronologically takes place between the Season One episode /The Hidden Enemy/ (1x16) and Season Three episode /Clone Cadets/ (3x01)
+
 ***** season 1 (22 eps) :P2008:
+****** DONE 1x01 Ambush :Yoda:
+CLOSED: [2023-07-22 Sat 23:08]
+
+****** DONE 1x02/03/04  Malevolence :Anakin:Ahsoka:
+CLOSED: [2023-07-23 Sun 23:10]
+
+****** DONE 1x05
+CLOSED: <2023-07-25 Tue 22:53>
+
+****** DONE 1x06/07 :R2_D2:
+CLOSED: [2023-07-26 Wed 23:05]
+
+****** DONE 1x08 :3PO:Amidala:Jar_Jar:
+CLOSED: <2023-07-28 Fri 18:39>
+
+****** DONE 1x09
+CLOSED: [2023-07-28 Fri 19:06]
+
+****** DONE 1x10 Lair of Grievous :Grievous:
+CLOSED: [2023-07-29 Sat 08:50]
+
 ***** season 2 (22 eps) :P2009:
 ***** season 3 (22 eps) :P2010:
 ***** season 4 (22 eps) :P2011:
@@ -852,6 +910,21 @@ CLOSED: [2023-07-19 Wed 22:29]
 ****** DONE 2x04
 CLOSED: [2023-07-19 Wed 22:51]
 
+****** DONE 2x05
+CLOSED: <2023-07-21 Fri 22:22>
+
+****** DONE 2x06
+CLOSED: [2023-07-21 Fri 22:46]
+
+****** DONE 2x07
+CLOSED: [2023-07-20 Thu 23:05]
+
+****** DONE 2x08
+CLOSED: [2023-07-28 Fri 07:58]
+
+****** DONE 2x09
+CLOSED: [2023-07-28 Fri 08:19]
+
 ***** season 3 (22 eps) :P2016:
 ***** season 4 (16 eps) :P2017:
 **** Forces of Destiny (2017-2018)
@@ -879,9 +952,31 @@ Timeline: 19 BBY
 
 讲述了“残次品”的精英和实验性克隆人在克隆人战争刚结束时，在迅速变化的银河系中寻找自己的方向。“残次品”成员是一支独特的克隆人队伍，他们在基因上与克隆人军队中的兄弟不同，每个人都拥有一种独特的特殊技能，使他们成为特殊的士兵和可怕的船员。
 
-***** season 1 (16 eps) :P2021:
-**** Visions (2021, 9 eps) :P2021:
-**** Galaxy of Creatures
+***** The Bad Batch s1 :P2021:
+
+(16 eps)
+
+***** The Bad Batch s2 :P2023:
+
+(16 eps)
+
+**** Visions 幻境 (2021- )
+***** Visions S1 :P2021:
+
+9 eps
+
+***** Visions S2 :P2023:
+
+9 eps
+
+**** Galaxy of Creatures (2021- )
+
+34 ABY
+
+**** Tales of the Jedi (2022-)
+
+68 BBY - 5 BBY
+
 *** tv (legends)
 **** Droids :P1985:
 **** Eworks :P1985:
@@ -989,13 +1084,14 @@ CLOSED: [2023-07-14 Fri 13:20]
 ****** DONE Star Wars: Episode I — The Phantom Menace
 CLOSED: [2023-07-13 Thu 08:38]
 
-***** START epic collection: The Menace Revealed Vol. 1
+***** DONE epic collection: The Menace Revealed Vol. 1
+CLOSED: [2023-07-20 Thu 12:34]
 
 32 BBY
 
 - Jango Fett: Open Seasons #1-4
-- Outlander -- Star Wars: Republic (1998) #7-12
-- Emissaries to Malastare -- Star Wars: Republic (1998) #13-18
+- Outlander -- Star Wars (1998) #7-12
+- Emissaries to Malastare -- Star Wars (1998) #13-18
 - Nomad (Star Wars Tales #21-24)
 
 ****** DONE [#B] Jango Fett: Open Seasons :hanzify:
@@ -1003,22 +1099,26 @@ CLOSED: [2023-07-16 Sun 08:12]
 
 58 BBY - 32 BBY
 
-****** DONE [#B] Outlander -- Star Wars: Republic (1998) #7-12 :hanzify:
+****** DONE [#B] Outlander -- Star Wars (1998) #7-12 :hanzify:
 CLOSED: [2023-07-16 Sun 10:43]
 :PROPERTIES:
 :amazon:   4.4
 :END:
 
-****** [#C] Emissaries to Malastare -- Star Wars: Republic (1998) #13-18
+****** [#C] Emissaries to Malastare -- Star Wars (1998) #13-18
 :PROPERTIES:
 :amazon:   4.1
 :END:
 
-***** epic collection: The Menace Revealed Vol. 2
+***** DONE [#C] epic collection: The Menace Revealed Vol. 2
+CLOSED: [2023-07-25 Tue 23:43]
 
 32 BBY - 31 BBY
 
-- Star Wars: Republic (1998) #19-35
+
+https://starwars.fandom.com/wiki/Star_Wars_Legends_Epic_Collection:_The_Menace_Revealed_Vol._2
+
+- Star Wars (1998) #19-35
   - #19-22 Twilight
   - #23-27 Infinity's End
   - #28-31 The Hunt for Aurra Sing
@@ -1026,7 +1126,29 @@ CLOSED: [2023-07-16 Sun 10:43]
 - Star Wars Tales #13
 - Aurra's Song (Annual 2000)
 
+****** DONE [#C] Twilight (Star Wars (1998) #19-22)
+
+Quinlan Vos 失去了记忆，他要去找回来
+
+****** DONE [#C] Infinity's End (Star Wars (1998) #23-27) :hanzify:
+CLOSED: [2023-07-23 Sun 07:54]
+
+Dathomir 的女巫在挖掘一种传送门，绝地团派 Quinlan Vos 去阻止她们
+
+****** DONE [#C] The Hunt for Aurra Sing (Star Wars (1998) #28-31)
+CLOSED: [2023-07-23 Sun 15:16]
+
 ***** epic collection: The Menace Revealed Vol. 3 :P2023:
+
+
+- Star Wars: Republic (1998)
+  - #36-39 The Stark Hyperspace War
+  - #40-41 The Devaronian Version
+  - #42-45 Rite of Passage
+- Jedi Quest #1-4
+- Star Wars: Jango Fett
+- Star Wars: Zam Wesell
+
 **** 2. 克隆人进攻
 ***** TBR epic collection: The Menace Revealed Vol. 4 :P2024_01:
 
