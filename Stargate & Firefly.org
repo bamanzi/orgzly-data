@@ -549,23 +549,35 @@ CLOSED: [2023-07-19 Wed 18:47]
 **** DONE 3x08
 CLOSED: [2023-07-20 Thu 22:19]
 
-**** DONE 2x09
+**** DONE 3x09
 CLOSED: [2023-07-22 Sat 10:32]
 
-**** DONE 2x10
+**** DONE 3x10
 CLOSED: [2023-07-22 Sat 11:15]
 
-**** DONE 2x11
+**** DONE 3x11
 CLOSED: [2023-07-25 Tue 20:31]
 
-**** DONE 2x12
+**** DONE 3x12
 CLOSED: [2023-07-25 Tue 22:25]
 
-**** DONE 2x13
+**** DONE 3x13
 CLOSED: [2023-07-27 Thu 19:33]
 
-**** DONE 2x14
+**** DONE 3x14
 CLOSED: <2023-07-30 Sun 18:42>
+
+**** DONE 3x15 :Adama:
+CLOSED: [2023-08-02 Wed 15:08]
+
+**** DONE 3x16
+CLOSED: [2023-08-06 Sun 15:26]
+
+**** DONE 3x17 :Starbuck:
+CLOSED: [2023-08-06 Sun 16:13]
+
+**** DONE 3x18
+CLOSED: [2023-08-08 Tue 18:48]
 
 *** 📂BSG S4 (20 eps) :P2008:
 *** The Face of the Enemy (10集短篇)
@@ -645,12 +657,12 @@ SCHEDULED: <2023-07-16 Sun>
 
 32BBY
 
-**** DONE Star Wars: Episode II Attack of the Clones :P2002:
+**** DONE Star Wars: Episode II Attack of the Clones :P2002:22BBY:
 CLOSED: <2023-07-22 Sat 17:50>
 
 22BBY
 
-**** Star Wars: Episode III Revenge of the Sith :P2005:
+**** Star Wars: Episode III Revenge of the Sith :P2005:19BBY:
 
 19BBY
 
@@ -680,7 +692,7 @@ CLOSED: [2022-05-29 Sun 13:32]
 
 0 BBY, days before A New Hope, with a prologue set in 13 BBY
 
-**** LATER Solo
+**** LATER Solo :10BBY:
 
 10 BBY, with a prologue set in 13 BBY
 
@@ -692,7 +704,7 @@ CLOSED: [2022-05-29 Sun 13:32]
 **** Ewoks The Battle for Endor :P1985:
 ** tv :📺:
 *** tv (canon, live-action)
-**** The Mandalorian 曼达洛人 (2019- )
+**** The Mandalorian 曼达洛人 (2019- ) :9ABY:
 
 9 ABY
 
@@ -751,7 +763,7 @@ CLOSED: [2023-07-25 Tue 18:48] SCHEDULED: <2023-07-30 Sun>
 
 ***** season 3 (8 eps) :P2023_03:
 **** The Book of Boba Fett 波巴费特之书 :Boba_Fett:
-***** DOING [#C] 📂season 1 (7 eps) :P2021:
+***** DONE [#C] 📂season 1 (7 eps) :P2021:9ABY:
 
 c.9 ABY
 
@@ -770,11 +782,13 @@ CLOSED: [2023-07-20 Thu 20:42] SCHEDULED: <2023-07-23 Sun>
 ****** DONE 1x05
 CLOSED: [2023-07-22 Sat 12:13] SCHEDULED: <2023-07-23 Sun>
 
-****** 1x06
-****** 1x07
-**** Ahsoka 阿索卡 :Ahsoka:P2023_08:
+****** DONE 1x06 :Cad_Bane:
+CLOSED: [2023-08-02 Wed 08:11]
 
-9 ABY
+****** DONE 1x07 :Cad_Bane:
+CLOSED: [2023-08-04 Fri 16:05]
+
+**** Ahsoka 阿索卡 :Ahsoka:P2023_08:9ABY:
 
 https://starwars.fandom.com/wiki/Ahsoka_(television_series)?so=search
 
@@ -812,7 +826,7 @@ CLOSED: [2023-07-22 Sat 22:31]
 
 The film chronologically takes place between the Season One episode /The Hidden Enemy/ (1x16) and Season Three episode /Clone Cadets/ (3x01)
 
-***** season 1 (22 eps) :P2008:
+***** season 1 (22 eps) :P2008:22BBY:
 ****** DONE 1x01 Ambush :Yoda:
 CLOSED: [2023-07-22 Sat 23:08]
 
@@ -825,19 +839,46 @@ CLOSED: <2023-07-25 Tue 22:53>
 ****** DONE 1x06/07 :R2_D2:
 CLOSED: [2023-07-26 Wed 23:05]
 
-****** DONE 1x08 :3PO:Amidala:Jar_Jar:
-CLOSED: <2023-07-28 Fri 18:39>
-
-****** DONE 1x09
-CLOSED: [2023-07-28 Fri 19:06]
-
-****** DONE 1x10 Lair of Grievous :Grievous:
+****** DONE [#B] 1x08/09/10 Bombad Jedi / Cloak of Darkness / Lair of Grievous :Grievous:
 CLOSED: [2023-07-29 Sat 08:50]
 
-***** season 2 (22 eps) :P2009:
-***** season 3 (22 eps) :P2010:
-***** season 4 (22 eps) :P2011:
-***** season 5 (20 eps) :P2012:
+****** DONE 1x11/12 :Dooku:Jar_Jar:
+CLOSED: [2023-08-01 Tue 20:16]
+
+****** DONE 1x13/14
+CLOSED: [2023-08-05 Sat 06:44]
+
+****** DONE 1x15
+CLOSED: [2023-08-06 Sun 07:58]
+
+****** DONE 1x16
+CLOSED: [2023-08-06 Sun 08:20]
+
+****** DONE 1x17
+CLOSED: [2023-08-06 Sun 21:48]
+
+****** DONE 1x18
+CLOSED: [2023-08-07 Mon 20:12]
+
+****** DONE 1x19
+CLOSED: [2023-08-07 Mon 20:43]
+
+****** DONE [#B] 1x20 Innocents of Ryloth
+CLOSED: [2023-08-09 Wed 21:41]
+
+****** DONE 1x21
+CLOSED: <2023-08-10 Thu 07:47>
+
+****** DONE [#A] 1x22 Hostage Crisis :Cad_Bane:
+CLOSED: [2023-08-10 Thu 08:14]
+
+***** season 2 (22 eps) :P2009:22BBY:
+***** season 3 (22 eps) :P2010:21BBY:20BBY:
+
+22–21–20 BBY
+
+***** season 4 (22 eps) :P2011:20BBY:
+***** season 5 (20 eps) :P2012:19BBY:
 ***** season 6 (13 eps) :P2014:
 ***** season 7 (12 eps) :P2020:
 **** Rebels (2014-2018) 义军崛起
@@ -851,10 +892,8 @@ It premiered worldwide as a one-hour television movie, Star Wars Rebels: Spark o
 https://starwars.fandom.com/wiki/Star_Wars_Rebels?so=search
 
 ***** shorts (4 eps) :P2014:
-***** DONE 📂Rebels season 1 (15 eps) :P2014:rebels:
+***** DONE 📂Rebels season 1 (15 eps) :P2014:rebels:5BBY:
 DEADLINE: <2022-05-31 Tue>
-
-5BBY
 
 https://starwars.fandom.com/wiki/Star_Wars_Rebels_Season_One
 
@@ -900,7 +939,10 @@ CLOSED: [2022-06-05 Sun 16:21] SCHEDULED: <2022-06-06 Mon>
 ****** DONE 1x14 Fire Across the Galaxy
 CLOSED: [2022-06-18 Sat 00:12] SCHEDULED: <2022-06-07 Tue>
 
-***** season 2 (22 eps) :P2015:
+***** season 2 (22 eps) :P2015:4BBY:3BBY:
+
+4 BBY–3 BBY
+
 ****** DONE 2x01-02 The Siege of Lothal :Ahsoka:Lando:Vader:
 CLOSED: <2023-07-18 Tue 21:52>
 
@@ -925,7 +967,13 @@ CLOSED: [2023-07-28 Fri 07:58]
 ****** DONE 2x09
 CLOSED: [2023-07-28 Fri 08:19]
 
-***** season 3 (22 eps) :P2016:
+****** DONE 2x10 :Ahsoka:
+CLOSED: [2023-08-02 Wed 08:20]
+
+****** DONE 2x11
+CLOSED: [2023-08-03 Thu 16:00]
+
+***** season 3 (22 eps) :P2016:2BBY:
 ***** season 4 (16 eps) :P2017:
 **** Forces of Destiny (2017-2018)
 
@@ -946,9 +994,7 @@ TIMELINE: Across the prequel trilogy, original trilogy, and sequel trilogy[1]
 
 ***** season 1 (36 eps) :P2018:
 ***** season 2 (18 eps) :P2019:
-**** The Bad Batch (2021- ) 残次品/异等小队
-
-Timeline: 19 BBY
+**** The Bad Batch (2021- ) 残次品/异等小队 :19BBY:
 
 讲述了“残次品”的精英和实验性克隆人在克隆人战争刚结束时，在迅速变化的银河系中寻找自己的方向。“残次品”成员是一支独特的克隆人队伍，他们在基因上与克隆人军队中的兄弟不同，每个人都拥有一种独特的特殊技能，使他们成为特殊的士兵和可怕的船员。
 
@@ -1055,10 +1101,8 @@ CLOSED: <2023-07-05 Wed>
 ****** DONE [#B] Qui-Gon and Obi-wan: Last Stand on Ord Mantell :P2000:
 CLOSED: [2023-07-06 Thu 22:26]
 
-***** DONE epic collection: Rise of the Sith vol.2
+***** DONE epic collection: Rise of the Sith vol.2 :33BBY:
 CLOSED: [2023-07-14 Fri 13:20]
-
-33 BBY
 
 - Prelude to Rebellion — Star Wars (1998) #1-6 (Star Wars: Republic)
 - Darth Maul (2000) #1-4
@@ -1084,10 +1128,8 @@ CLOSED: [2023-07-14 Fri 13:20]
 ****** DONE Star Wars: Episode I — The Phantom Menace
 CLOSED: [2023-07-13 Thu 08:38]
 
-***** DONE epic collection: The Menace Revealed Vol. 1
+***** DONE epic collection: The Menace Revealed Vol. 1 :32BBY:
 CLOSED: [2023-07-20 Thu 12:34]
-
-32 BBY
 
 - Jango Fett: Open Seasons #1-4
 - Outlander -- Star Wars (1998) #7-12
@@ -1110,7 +1152,7 @@ CLOSED: [2023-07-16 Sun 10:43]
 :amazon:   4.1
 :END:
 
-***** DONE [#C] epic collection: The Menace Revealed Vol. 2
+***** DONE [#C] epic collection: The Menace Revealed Vol. 2 :31BBY:
 CLOSED: [2023-07-25 Tue 23:43]
 
 32 BBY - 31 BBY
@@ -1140,7 +1182,6 @@ CLOSED: [2023-07-23 Sun 15:16]
 
 ***** epic collection: The Menace Revealed Vol. 3 :P2023:
 
-
 - Star Wars: Republic (1998)
   - #36-39 The Stark Hyperspace War
   - #40-41 The Devaronian Version
@@ -1164,11 +1205,29 @@ CLOSED: [2023-07-23 Sun 15:16]
 - "Poison Moon"—Dark Horse Extra 44–47
 - material from Star Wars Tales 2, 7, 14, 18, 20, & 24
 
-
 ****** Star Wars: Episode II — Attack of the Clones
-***** epic collection: The Clone Wars vol.1
+***** epic collection: The Clone Wars vol.1 :22BBY:
+
+https://starwars.fandom.com/wiki/Star_Wars_Legends_Epic_Collection:_The_Clone_Wars_Vol._1
+
+- Republic #49-54
+- "Tides of Terror" — Star Wars Tales 14
+- Star Wars: Jedi
+  - Jedi: Mace Windu
+  - Jedi: Shaak Ti
+  - Jedi: Aayla Secura
+  - Jedi: Count Dooku
+  - Jedi: Yoda
+- "Rather Darkness Visible" — Star Wars Tales 19
+- The Artist of Naboo—Star Wars: Visionaries
+
+
+
 ****** Jedi (2003-2004) (5 issues) :hanzify:
-***** epic collection: The Clone Wars vol.2
+***** epic collection: The Clone Wars vol.2 :21BBY:
+
+22 BBY - 20 BBY
+
 ****** [#B] The Battle of Jabiim (Star Wars: Republic #55-58)
 ***** epic collection: The Clone Wars vol.3
 ****** Obsession
@@ -1567,13 +1626,13 @@ c.232 BBY
 
 1000BBY
 
-*** NEXT Tarkin 塔金 :canon:
+*** Tarkin 塔金 :canon:
 
 14BBY
 
 The novel is set in 14 BBY, five years after the events of /Star Wars: Episode III Revenge of the Sith/, and it focuses on /Wilhuff Tarkin/ and how he became a /Grand Moff/.
 
-*** Thrawn trilogy :legends:Thrawn:
+*** Thrawn trilogy :legends:Thrawn:9ABY:
 **** DONE Thrawn 1: Heir to the Empire 帝国传承
 CLOSED: <2022-05-21 Sat 11:48>
 
@@ -1582,7 +1641,7 @@ CLOSED: <2022-05-21 Sat 11:48>
 **** DONE Dark Force Rising 黑潮汹涌
 CLOSED: [2022-06-09 Thu 13:55] SCHEDULED: <2022-06-10 Fri>
 
-**** LATER The Last Command
+**** NOW The Last Command
 ** for children
 *** Disney–Lucasfilm Press
 
