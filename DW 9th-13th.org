@@ -110,12 +110,19 @@ CLOSED: [2023-07-23 Sun 12:02] SCHEDULED: <2023-07-21 Fri 13:17>
 【【神秘博士广播剧熟肉】Shades of Fear 803 Red Darkness 赤红黑暗-哔哩哔哩】 https://b23.tv/RPnCOqH
 
 **** S3.1 Pioneers :P2023_05:
-***** 9.1 The Green Gift
-***** 9.2 Northern Lights
-***** READY 9.3 The Beautiful Game :bilibili:
+***** 3.1.1 The Green Gift
+***** 3.1.2 Northern Lights
+***** READY 3.1.3 The Beautiful Game :bilibili:
 
 【【神秘博士广播剧熟肉】Pioneers 903 The Beautiful Game 美丽比赛-哔哩哔哩】 https://b23.tv/uzdEFYD
 
+**** S3.2 Travel in Hope :P2023_08:
+***** READY 3.2.1 Below There :bilibili:
+
+【【神秘博士广播剧熟肉】Travel in Hope 304 Below There 下面的人-哔哩哔哩】 https://b23.tv/56pYNb6
+
+***** 3.2.2 The Butler Did it
+***** 3.2.3 Run
 *** 9DC :P2017:
 **** [#D] 1.1 The Bleeding Heart
 :PROPERTIES:
@@ -135,7 +142,7 @@ SCHEDULED: <2022-11-29 Tue>
 :END:
 
 *** ST (audiobooks)
-**** READY [#C] DotD#9. Night of the Whisper :plot_yes:1CD:
+**** NEXT [#C] DotD#9. Night of the Whisper :plot_yes:1CD:
 :PROPERTIES:
 :thetimescales: 7.6
 :END:
@@ -150,7 +157,7 @@ SCHEDULED: <2022-11-29 Tue>
 :rating:   7.8
 :END:
 
-**** READY [#C] ST11.X The Lichyrwick Abomination :P2021:scripted:plot_yes:
+**** NEXT [#C] ST11.X The Lichyrwick Abomination :P2021:scripted:plot_yes:
 :PROPERTIES:
 :rating:   7.6
 :END:
@@ -557,7 +564,7 @@ SCHEDULED: <2023-06-23 Fri 19:51>
 
 【【神秘博士广播剧熟肉】Tenth Doctor Classic Companions 102 The Stuntman 特技替身-哔哩哔哩】 https://b23.tv/hT2rOwk
 
-***** READY [#D] 3. Quantum of Axos :Ace:
+***** READY [#D] 3. Quantum of Axos :Ace:bilibili:
 
 【【神秘博士广播剧熟肉】Tenth Doctor Classic Companions 103 Quantum of Axos 阿克索斯量子-哔哩哔哩】 https://b23.tv/M54MhC5
 
@@ -759,9 +766,8 @@ CLOSED: [2022-11-02 Wed 20:33] SCHEDULED: <2022-11-06 Sun>
 
 【【神秘博士】短途旅行：世界树 | Short Trips: The World Tree-哔哩哔哩】 https://b23.tv/kE5PXA3
 
-
 *** misc
-**** READY [#C] The Churchill Years 1.3 Living History ↗ :P2016:plot_yes:
+**** NEXT [#C] The Churchill Years 1.3 Living History ↗ :P2016:plot_yes:
 :PROPERTIES:
 :rating:   7.9
 :END:
@@ -991,11 +997,12 @@ SCHEDULED: <2022-12-21 Wed>
 :END:
 
 **** [#C] ST9.9 - Dead Media :DW2023_08_doctor:
+SCHEDULED: <2023-08-26 Sat>
 :PROPERTIES:
 :rating:   7.7
 :END:
 
-**** READY [#D] 9.X The Best-Laid Plans :scripted:
+**** NEXT [#D] 9.X The Best-Laid Plans :scripted:
 :PROPERTIES:
 :rating:   7.2
 :END:

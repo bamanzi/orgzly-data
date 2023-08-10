@@ -54,10 +54,12 @@ CLOSED: [2020-11-26 Thu 08:26]
 
 【【神秘博士广播剧熟肉】MR 032 The Time of the Daleks 戴立克之时-哔哩哔哩】 https://b23.tv/Wv6gLf7
 
-***** START [#B] 033 - Neverland (8.4) :plot_no:
+***** START [#B] 033 - Neverland (8.4) :plot_no:bilibili:
 :PROPERTIES:
 :rating:   8.5
 :END:
+
+【【神秘博士广播剧熟肉】MR 033 Neverland 永无乡-哔哩哔哩】 https://b23.tv/bjamVSy
 
 ***** BLOCK [#D] 50. Zegreus :5th_Dr:6th_Dr:7th_Dr:3CD:Romana_2:Charley:bilibili:
 :PROPERTIES:
@@ -66,15 +68,18 @@ CLOSED: [2020-11-26 Thu 08:26]
 
 -【【DW广播剧/双语】MR 50a Zagreus 第一部 仙境-哔哩哔哩】 https://b23.tv/HgBPSgu
 - 【【神秘博士广播剧熟肉】MR 050b Zagreus - Heartland 腹地-哔哩哔哩】 https://b23.tv/Wdk0e1i
+- 【【神秘博士广播剧熟肉】MR 050c Zagreus - Wasteland 荒野-哔哩哔哩】 https://b23.tv/pHm5uJP
 
 ***** [#D] Living Legend (7.4) :P2003:
 **** part2 :Charley:
-***** BLOCK [#A] 52. Scherzo :Charley:plot_yes:P2003:
+***** BLOCK [#A] 52. Scherzo :Charley:plot_yes:P2003:bilibili:
 :PROPERTIES:
 :rating:   8.6
 :END:
 
  Most of the build-up of this story is done in /Zagreus/, since /Neverland/, /Zagreus/ and /Scherzo/ are basically one big 8-hour story. So if you're listening to /Scherzo/ on its own, it's just completely serious and it's rather odd.
+
+【【神秘博士广播剧熟肉】MR 052 Scherzo 诙谐曲-哔哩哔哩】 https://b23.tv/jMH25le
 
 ***** CANCEL [#F] +053. The Creed of the Kromon+
 CLOSED: [2021-03-22 Mon 22:35]
@@ -394,7 +399,7 @@ CLOSED: <2021-10-28 Thu 14:30>
 
 *** Doom Coalition :Liv:Helen:plot_yes:scripted:
 **** DC vol.1
-***** 2DONE [#B] 1.1 The Eleven :D2022_01_doctor:
+***** 2DONE [#B] 1.1 The Eleven :D2022_01_doctor:bilibili:
 CLOSED: [2022-01-05 Wed 16:56] SCHEDULED: <2022-01-30 Sun>
 :PROPERTIES:
 :thetimescales: 8.4
@@ -402,7 +407,7 @@ CLOSED: [2022-01-05 Wed 16:56] SCHEDULED: <2022-01-30 Sun>
 
 【【神秘博士广播剧汉化】欢迎新反派十一光荣登场 Doom Coalition 101 The Eleven-哔哩哔哩】 https://b23.tv/oIkDWd7
 
-***** 2DONE [#A] 1.2 The Red Lady :Helen:D2022_01_doctor:
+***** 2DONE [#A] 1.2 The Red Lady :Helen:D2022_01_doctor:bilibili:
 CLOSED: <2022-01-19 Wed 20:06> SCHEDULED: <2022-01-30 Sun>
 :PROPERTIES:
 :thetimescales: 9.3
@@ -561,15 +566,19 @@ SCHEDULED: <2023-06-20 Tue 21:33>
 :END:
 
 **** Ravenous vol.4 :Helen:scripted:
-***** [#D] 4.1 - Whisper
+***** READY [#D] 4.1 - Whisper :bilibili:
 :PROPERTIES:
 :rating:   7.3
 :END:
 
-***** [#A] 4.2 - Planet of Dust
+【【神秘博士广播剧】Ravenous 401 Whisper 噤声-哔哩哔哩】 https://b23.tv/rbdjufW
+
+***** READY [#A] 4.2 - Planet of Dust :bilibili:
 :PROPERTIES:
 :rating:   8.9
 :END:
+
+【【神秘博士广播剧】Ravenous 402 Planet of Dust 尘土之星-哔哩哔哩】 https://b23.tv/3xZT5N3
 
 ***** [#A] 4.3/4.4 Day of the Master :War_Master:Missy:Master_decayed:Master_roberts:
 :PROPERTIES:
@@ -681,7 +690,7 @@ SCHEDULED: <2023-06-20 Tue 21:33>
 :rating:   8.3
 :END:
 
-**** READY [#B] CDNM3.4 If I Should Die Before I Wake :Charley:plot_yes:
+**** NEXT [#B] CDNM3.4 If I Should Die Before I Wake :Charley:plot_yes:
 *** BBC
 **** [#C] The Scent of Blood :James:P2019:1CD:
 **** [#A] The Code of Flesh :James:P2022_10:1CD:
@@ -920,7 +929,7 @@ CLOSED: <2021-11-16 Tue 14:35> SCHEDULED: <2021-11-13 Sat>
 
 1 out of 25 (4.0%) raters say this story requires a previous story.
 
-***** Lies in Ruins (The Legacy of Time) :8th_Dr:bilibili:Benny:🎧:
+***** READY Lies in Ruins (The Legacy of Time) :8th_Dr:bilibili:Benny:🎧:
 
 【【自制字幕】神秘博士BF特辑宋江八叔历险记-哔哩哔哩】https://b23.tv/vLRN31
 

@@ -65,11 +65,11 @@ Episode 4 missing (but animated in 2013).
 ** audio :🎧:
 *** EA :2CD:EA:
 **** EA S1
-***** READY [#C] EA1.1 Domain of the Voord :Susan:Ian:Barbara:Voord:plot_yes:
+***** NEXT [#C] EA1.1 Domain of the Voord :Susan:Ian:Barbara:Voord:plot_yes:
 
 应该先看老版剧集 1x05 The Keys of Marinus
 
-***** READY [#D] EA1.2 The Doctor's Tale :Ian:Barbara:Vicki:plot_yes:
+***** NEXT [#D] EA1.2 The Doctor's Tale :Ian:Barbara:Vicki:plot_yes:
 :PROPERTIES:
 :rating:   7.1
 :END:
@@ -139,7 +139,7 @@ SCHEDULED: <2022-03-12 Sat>
 :END:
 
 **** [#E] +4.1 Return to Skaro+ (6.6)
-**** READY [#B] 4.2 Last of the Romanovs :P2020:plot_yes:
+**** NEXT [#B] 4.2 Last of the Romanovs :P2020:plot_yes:
 :PROPERTIES:
 :rating:   8.1
 :END:
@@ -159,7 +159,7 @@ SCHEDULED: <2022-03-12 Sat>
 ***** 3QTR [#D] 22.1 The Outlaws :Dodo:Monk:P2022_04:DW2023_03_doctor:
 CLOSED: [2023-03-29 Wed 08:54] SCHEDULED: <2023-03-04 Sat>
 
-***** READY [#C] 22.2 The Miniaturist :Dodo:P2022_04:1CD:
+***** NEXT [#C] 22.2 The Miniaturist :Dodo:P2022_04:1CD:
 **** 📂2023. The Demon Song :Dodo:P2023_02:
 ***** 23.1 The Demon Song :1CD:
 ***** 23.2 The Incherton Incident :2CD:
@@ -283,7 +283,7 @@ Old Steven 3/3
 
 **** 📂CC11. First Doctor - Volume Two :P2017:scripted:
 ***** [#D] 11.1 Fields of Terror :Steven:Vicki:
-***** READY [#A] 11.2 Across the Darkened City :Steven:Vicki:Daleks:
+***** NEXT [#A] 11.2 Across the Darkened City :Steven:Vicki:Daleks:
 ***** [#D] 11.3 The Bonfires of the Vanties :Polly:Ben:
 ***** 3QTR [#B] CC11.4 The Plague of Dreams :Polly:Ben:DW2023_05_doctor:
 CLOSED: <2023-05-30 Tue 21:34> SCHEDULED: <2023-05-27 Sat>
@@ -440,17 +440,17 @@ CLOSED: [2022-04-27 Wed 21:33] SCHEDULED: <2022-04-29 Fri>
 :rating:   7.7
 :END:
 
-***** READY [#D] 2.2 The Forsaken :Jamie:Polly:Ben:plot_yes:
+***** NEXT [#D] 2.2 The Forsaken :Jamie:Polly:Ben:plot_yes:
 ***** HALF [#B] 2.3 The Black Hole (8.1) :Jamie:Victoria:D2021_06:Monk:
 ***** CANCEL [#E] 2.4 The Isos Network :Jamie:Zoe:Cybermen:plot_yes:
 **** EA S4
-***** READY [#C] 4.1 The Night Witches :Jamie:Polly:Ben:plot_yes:
+***** NEXT [#C] 4.1 The Night Witches :Jamie:Polly:Ben:plot_yes:
 SCHEDULED: <2023-03-01 Wed>
 :PROPERTIES:
 :rating:   7.6
 :END:
 
-***** READY [#C] 4.2 The Outliers :Jamie:Polly:Ben:plot_yes:
+***** NEXT [#C] 4.2 The Outliers :Jamie:Polly:Ben:plot_yes:
 :PROPERTIES:
 :rating:   7.7
 :END:
@@ -477,7 +477,12 @@ CLOSED: <2021-04-30 Fri 22:59>
 CLOSED: <2022-10-30 Sun 19:49> SCHEDULED: <2022-10-22 Sat>
 
 ***** TODO [#C] 2DA22.2 Wrath of the Ice Warriors :Brigadier:ice_warriors:2CD:DW2023_08_doctor:
-**** TBR James Robert McCrimmon :P2023_07:
+SCHEDULED: <2023-08-19 Sat>
+
+**** James Robert McCrimmon :P2023_07:1CD:
+***** 23.1 Jamie :plot_yes:
+***** 23.2 The Green Man
+***** 23.3 The Shroud
 *** Companion Chronicles :🗣:
 **** #The_Company :Zoe:
 ***** 2DONE [#D] CC5.02 - Echoes of Grey :Zoe:D2021_07_dr:
@@ -506,7 +511,7 @@ SCHEDULED: <2023-06-24 Sat>
 
 https://tardis.fandom.com/wiki/Zoe_Heriot#Life_after_the_Doctor
 
-**** READY [#C] CC3.9 - Resistance :Polly:
+**** NEXT [#C] CC3.9 - Resistance :Polly:
 :PROPERTIES:
 :rating:   7.7
 :END:
@@ -520,7 +525,7 @@ https://tardis.fandom.com/wiki/Zoe_Heriot#Life_after_the_Doctor
 
 与 Highlanders 相关
 
-**** READY [#C] 5.9 - The Forbidden Time :Polly:plot_yes:
+**** NEXT [#C] 5.9 - The Forbidden Time :Polly:plot_yes:
 :PROPERTIES:
 :rating:   7.5
 :END:
@@ -825,7 +830,7 @@ SCHEDULED: <2023-05-27 Sat>
 :rating:   7.1
 :END:
 
-**** READY [#B] 8.2 The Devil's Hoofprints :P2021:Sarah:plot_yes:
+**** NEXT [#B] 8.2 The Devil's Hoofprints :P2021:Sarah:plot_yes:
 :PROPERTIES:
 :rating:   8.1
 :END:
@@ -1241,7 +1246,7 @@ CLOSED: [2021-07-27 Tue 23:11]
 SCHEDULED: <2022-06-16 Thu>
 
 ***** [#D] 4.6 The Cloisters of Terror (7.4)
-***** READY [#D] 4.7 The Fate of Krelos (7.2) :plot_yes:
+***** NEXT [#D] 4.7 The Fate of Krelos (7.2) :plot_yes:
 ***** CANCEL [#F] 4.8 Return to Telos (5.8)
 CLOSED: [2020-08-20 Thu 13:56]
 
@@ -1256,7 +1261,7 @@ CLOSED: <2021-07-01 Thu 16:39>
 ***** [#D] 5.8 - Casualties of Time (7.1)
 **** 4DA series 6 :Romana_2:P2017:1CD:
 ***** CANCEL [#E] 6.1 The Beast of Kravenos :Jago:Litefoot:plot_yes:
-***** READY [#D] 6.2 - The Eternal Battle (7.3) :Sontarans:plot_yes:
+***** NEXT [#D] 6.2 - The Eternal Battle (7.3) :Sontarans:plot_yes:
 ***** CANCEL [#E] 6.3 The Silent Scream :plot_yes:
 ***** CANCEL [#E] 6.4 Dethras :plot_yes:
 ***** [#D] 6.5 - The Haunting of Malkin Place (7.4)
@@ -1317,7 +1322,7 @@ CLOSED: [2020-07-15 Wed 19:13]
 ***** [#C] 10.3 The Tribulations of Tahdeus Nook
 ***** [#E] 10.4 The Primeval Design
 **** 📂4DA series 11 :P2022:2CD:
-***** READY [#A] 11.1 Blood of the Time Lords :Master_early:plot_yes:
+***** NEXT [#A] 11.1 Blood of the Time Lords :Master_early:plot_yes:
 ***** 3QTR [#B] 11.2 The Ravencliff Witch :Margaret:plot_yes:DW2023_02_doctor:
 CLOSED: <2023-02-10 Fri 14:02> SCHEDULED: <2023-02-06 Mon 08:42>
 
@@ -1385,7 +1390,7 @@ mp3val fix
 
 【【广播剧翻译】四任对抗Vashta Nerada 老博士新怪物 201 Night of Vashta Nerada-哔哩哔哩】 https://b23.tv/YCrcZhV
 
-**** READY [#D] CDNM3.2 The Tivolian Who Knew Too Much :Leela:plot_yes:1CD:
+**** NEXT [#D] CDNM3.2 The Tivolian Who Knew Too Much :Leela:plot_yes:1CD:
 **** [#B] Collision Course (The Legacy of Time #6) :Leela:Romana_2:
 :PROPERTIES:
 :rating:   8.3
@@ -1402,8 +1407,8 @@ thetimescales 上32/33认为需要先听前面的故事
 
 15 out of 16 (93.8%) raters say this story requires a previous story.
 
-**** READY [#B] NA03 - The Romance of Crime (8.0) :Romana_2:2CD:scripted:
-**** READY [#B] NA04 The English Way of Death :Romana_2:2CD:scripted:
+**** NEXT [#B] NA03 - The Romance of Crime (8.0) :Romana_2:2CD:scripted:
+**** NEXT [#B] NA04 The English Way of Death :Romana_2:2CD:scripted:
 **** [#B] NA05 - The Well-Mannered War (8.1) :Romana_2:2CD:
 *** BF shorts :🗣:
 **** Companion Chronicles

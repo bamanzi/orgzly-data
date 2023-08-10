@@ -372,7 +372,7 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
       :rating:   8.5
       :END:
 
-***** READY [#A] 52. Madam I'm (8.8) :Norton:Adam:Lizbeth:plot_yes:
+***** NEXT [#A] 52. Madam I'm (8.8) :Norton:Adam:Lizbeth:plot_yes:
       :PROPERTIES:
       :rating:   8.8
       :END:
@@ -966,6 +966,7 @@ Roberts Master
 **** [#E] 10.3 Black Friday
 **** [#E] 10.4 Firewall
 *** DoRS 11 - Friend of the Family :P2023_01:
+*** TBR DoRS 12 - The Orphan Quartet :P2023_08:
 *** misc
 **** DONE R&J (The Lives of Captain Jack #3.3) :Jack:
      CLOSED: <2020-09-14 Mon 21:12>
@@ -1020,10 +1021,10 @@ Roberts Master
 *** HALF [#C] J&L6.1 - The Skeleton Quay (7.8) :D2022_05_spinoffs:
     SCHEDULED: <2022-05-07 Sat>
 
-*** TODO [#D] J&L6.2 - Return of the Repressed         (7.1) :D2022_05_spinoffs:
+*** [#D] J&L6.2 - Return of the Repressed         (7.1) :D2022_05_spinoffs:
     SCHEDULED: <2022-05-28 Sat>
 
-*** START [#D] 6.3 - Military Intelligence           (7.4) :D2022_06_spinoffs:
+*** [#D] 6.3 - Military Intelligence           (7.4) :D2022_06_spinoffs:
     SCHEDULED: <2022-06-16 Thu>
 
 *** HALF [#C] 6.4 - The Trial of George Litefoot    (7.8) :D2022_06_spinoffs:
@@ -1033,7 +1034,7 @@ Roberts Master
 *** 3QTR [#B] 7.1 The Monstrous Menagerie           (8.1) :DW2022_08_spinoffs:
     CLOSED: [2022-09-02 Fri 19:14] SCHEDULED: <2022-09-04 Sun>
 
-*** START [#D] 7.2 The Night of 1000 Stars           (7.2) :Leela:plot_no:
+*** [#D] 7.2 The Night of 1000 Stars           (7.2) :Leela:plot_no:
 *** HALF [#A] 7.3 Murder at Moorsey Manor           (8.7) :DW2023_01_spinoffs:
     SCHEDULED: <2023-01-09 Mon 21:33>
 
@@ -1075,7 +1076,7 @@ Roberts Master
 *** [#B] Jago & Litefoot Forever (8.3) :P2018:Queen:6th_Dr:
 *** [#C] ST 7.3/7.4 The Jago & Litefoot Revival (7.8) :P2017:10th_Dr:11th_Dr:
 ** J&L misc
-*** [#C] (WoDW) Mind Games (7.5) ↗ :P2014:
+*** 3QTR [#C] (WoDW) Mind Games (7.5) ↗ :P2014:
 *** DONE [#B] 6DLA: Stage Fright (8.4) :P2015:
 *** [#A] Benjamin & Baxter (documentary)                     (8.8)
 * Gallifrey :🎧:Gallifrey:
@@ -1185,7 +1186,7 @@ Roberts Master
 ** [#B] 7.0 - Intervention Earth     (8.1) :P2015:
 ** [#A] 8.0 - Enemy Lines (8.9) :P2016:
 * Bernice Summerfield :Benny:
-** Bernice Summerfield
+** Bernice Summerfield :🎧:
 *** Series 1 :P1999:
 **** HALF [#C] 1.1 Oh No It Isn't :plot_yes:2CD:DW2022_07_spinoffs:
      SCHEDULED: <2022-07-06 Wed>
@@ -1288,7 +1289,7 @@ Braxiatel的收藏被第五轴占据，由伯尼斯过去的人物领导。
 http://drwhoguide.com/bs_a13.htm
 
 **** [#E] +5.2 The Bone of Contention+
-**** READY [#B] 5.3 The Relics of Jegg-Sau :plot_yes_dwg:
+**** NEXT [#B] 5.3 The Relics of Jegg-Sau :plot_yes_dwg:
      :PROPERTIES:
      :rating:   8.1
      :END:
@@ -2707,6 +2708,8 @@ https://disk.yandex.ru/d/n_i2CRgIJW0xOw
 **** [#E] 2.2 Prism :Christina:Jenny:
 **** [#C] 2.3 The Turn of the Tides :Jo:Rani:
 *** vol.3 :P2023_03:
+**** [#C] 3.1 - A Ghost of Alchemy :4th_Dr:Leela:
+**** [#E] 3.2 - Fairies at the Bottom of the Garden :Missy:
 ** Unbound: Doctor of War
 *** [#B] 1.1 - Dust Devil
 *** [#C] 1.2 - Aftershocks

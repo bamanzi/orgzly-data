@@ -809,7 +809,7 @@ Volume One
 ***** 1. Broadway Belongs to Me!
 ***** 2. Purification
 ***** 3. Time-Burst
-**** TBR 2023B :P2023_08:
+**** TBR 📂2023B. Purity Unbound :P2023_08:Mel:Hebe:
 *** The Lost Stories
 **** The Lost Stories s1 :Peri:2CD:
 ***** [#E] LS1.1 The Nightmare Fair :scripted:ToyMaker:
@@ -1282,7 +1282,7 @@ SCHEDULED: <2023-03-25 Sat>
 **** DONE [#C] River2.1 The Unknown :plot_yes:DW2023_07_doctor:
 CLOSED: [2023-07-04 Tue 08:31] SCHEDULED: <2023-07-08 Sat>
 
-**** READY [#B] ST6.X - Forever Fallen :Ace:plot_yes:
+**** NEXT [#B] ST6.X - Forever Fallen :Ace:plot_yes:
 **** [#A] BBV 21 Punchline :plot_yes_dwg:
 
 http://drwhoguide.com/bbv21.htm
