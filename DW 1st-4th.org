@@ -472,11 +472,11 @@ SCHEDULED: <2021-12-15 Wed>
 CLOSED: <2021-04-30 Fri 22:59>
 
 *** 2DA
-**** 📂Beyond War Games :P2022_07:
+**** 📂Beyond War Games :P2022_07:plot_yes:
 ***** 3QTR [#B] 22.1 The Final Beginning :Daleks:plot_yes:DW2022_10_doctor:1CD:
 CLOSED: <2022-10-30 Sun 19:49> SCHEDULED: <2022-10-22 Sat>
 
-***** TODO [#C] 2DA22.2 Wrath of the Ice Warriors :Brigadier:ice_warriors:2CD:DW2023_08_doctor:
+***** HALF [#C] 2DA22.2 Wrath of the Ice Warriors :Brigadier:ice_warriors:2CD:DW2023_08_doctor:
 SCHEDULED: <2023-08-19 Sat>
 
 **** James Robert McCrimmon :P2023_07:1CD:

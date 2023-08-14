@@ -46,7 +46,8 @@ CLOSED: [2020-09-24 Thu 08:32]
 ***** 2DONE [#B] 030 - Seasons of Fear (8.4).
 CLOSED: [2020-11-26 Thu 08:26]
 
-***** READY [#D] 031 - Embrace the Darkness (7.2) :plot_no:bilibili:
+***** HALF [#D] 031 - Embrace the Darkness (7.2) :plot_no:bilibili:DW2023_08_doctor:
+SCHEDULED: <2023-08-12 Sat>
 
 【【神秘博士广播剧熟肉】MR 031 Embrace the Darkness 拥抱黑暗-哔哩哔哩】 https://b23.tv/jwHXAsd
 
@@ -100,6 +101,7 @@ CLOSED: [2021-03-22 Mon 22:38]
 :END:
 
 ***** TODO [#D] MR61. Faith Stealer :DW2023_08_doctor:
+SCHEDULED: <2023-09-01 Fri>
 :PROPERTIES:
 :rating:   7.4
 :END:
@@ -888,8 +890,8 @@ CLOSED: [2023-02-19 Sun 16:18] SCHEDULED: <2023-02-17 Fri 08:20>
 :END:
 
 **** _📂The War Master series 8: Escape from Reality_ :P2022_12:Master_war:🎧:
-***** READY [#A] 8.1 The Wrath of Medusa :bilibili:DW2023_07_spinoffs:
-SCHEDULED: <2023-07-23 Sun>
+***** DONE [#A] 8.1 The Wrath of Medusa :bilibili:DW2023_07_spinoffs:
+CLOSED: [2023-07-27 Thu 19:33] SCHEDULED: <2023-07-23 Sun>
 
 【【广播剧汉化】奥林匹斯超市开张啦 The War Master 战争法师 801 The Wrath of Medusa-哔哩哔哩】 https://b23.tv/nf4Yhuu
 
@@ -971,6 +973,8 @@ The N-Forms receive an activation call, setting this after /Desperate Measures/
 **** HALF A Heart on Both Sides (Short Trips #7.9) :🎧:
 **** _📂The War Master series 6: Killing Time_ :Master_war:P2021:🎧:
 ***** [#A] WM6.1 - The Sincerest Form of Flattery :DW2023_08_spinoffs:
+SCHEDULED: <2023-08-20 Sun>
+
 ***** [#A] 6.2 - A Quiet Night In
 ***** [#A] 6.3 - The Orphan
 ***** [#A] 6.4 - Unfinished Business
@@ -1064,7 +1068,7 @@ SCHEDULED: <2023-05-21 Sun>
 【【神秘博士广播剧汉化】Susan's War 苏珊的战争 101 Sphere of Influence-哔哩哔哩】 https://b23.tv/qIYe1v0
 
 **** READY [#C] Susan1.2 - The Uncertain Shore :bilibili:P2020_04:DW2023_08_spinoffs:
-SCHEDULED: <2023-07-23 Sun>
+SCHEDULED: <2023-08-27 Sun>
 
 【【神秘博士广播剧汉化】Susan's War 苏珊的战争 102 The Uncertain Shore-哔哩哔哩】https://b23.tv/WenJUb
 

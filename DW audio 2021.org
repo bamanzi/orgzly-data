@@ -1536,7 +1536,6 @@
 *** 3QTR [#D] WoDW2 The Reesinger Process :ICMG:
 *** 2DONE [#A] ST8.10 I Am The Master :Master_decayed:bilibili:
 *** 3QTR [#C] BS11.4 Dead Man's Switch :Benny:
-*** TODO [#D] SJS1.1 Comeback :Sarah:
 *** HALF [#D] CY1.2 Hounded :Churchill:10th_Dr:
 * DW2023-07
 ** dw2023-07-doctor
@@ -1544,35 +1543,37 @@
 *** HALF [#C] CC4.3 The Prisoner of Peladon :3rd_Dr:Peladon:
 *** 3QTR [#B] MR159 The Emerald Tiger :5th_Dr:Nyssa:2CD:
 *** DONE [#C] River2.1 The Unknown :7th_Dr:River:
-*** HALF [#B] NABS1.1 - The Revolution :7th_Dr:Benny:
-*** DONE [#A] 9DA 6.1 Salvation Nine                        :9th_Dr:bilibili:
+*** 3QTR [#B] NABS1.1 - The Revolution :7th_Dr:Benny:
+*** DONE [#A] 9DA 6.1 Salvation Nine :9th_Dr:bilibili:
 *** [#A] 11DC 3.2 The House of Masks :11th_Dr:
 ** dw2023-07-spinoffs
 *** HALF [#D] TWO3.2 Locker 15 :Yvonne:Ianto:
 *** HALF [#B] TW15 Corpse Day :Owen:Andy:
-*** HALF [#B] WoDW3 The Screaming Skull                           :Ruth:UNIT:
+*** HALF [#B] WoDW3 The Screaming Skull :Ruth:UNIT:
 *** 3QTR [#C] PG 3.1 Family Matters :TPG:
-*** START [#A] WM8.1 The Wrath of Medusa            :Master_war:bilibili:
-*** HALF [#C] Gallifrey 6.1 - Extermination :Romana_2:Leela:
+*** DONE [#A] WM8.1 The Wrath of Medusa :Master_war:bilibili:
+*** 3QTR [#C] Gallifrey 6.1 - Extermination :Romana_2:Leela:
 * DW2023-08
 ** dw2023-08-doctor
 *** [#B] Wrath of the Ice Warriors :2nd_Dr:Brigadier:
 *** [#C] 4DA 4.2 The Darkness of Glass :4th_Dr:Leela:
-*** [#B] River2.3 World Enough and Time (8.0) :6th_Dr:DW2023_08_doctor:
-*** [#C] River2.4 The Eye of the Storm (7.7) :6th_Dr:7th_Dr:
-*** [#D] BF061 Faith Stealer :8th_Dr:Charley:
-*** [#C] 10DA 3.3 The Creeping Death :10th_Dr:Donna:
+*** HALF [#B] River2.3 World Enough and Time (8.0) :6th_Dr:River:
+*** [#C] River2.4 The Eye of the Storm (7.7) :6th_Dr:7th_Dr:River:
+*** HALF [#D] MR031 Embrace the Darkness :8th_Dr:Charley:bilibili:
+*** [#C] 10DA 3.3 The Creeping Death :10th_Dr:Donna:bilibili:
 *** [#C] ST9.9 Dead Media :12th_Dr:
 ** dw2023-08-spinoffs
-*** [#A] TWO3.3 The Rockery :Yvvone:Ianto:
-*** [#C] John#4 - Dark Purposes :Captain_John:Jack:
-*** [#B] CM2.1 - Manhunt :ICMG:
-*** [#A] J&L8.1 - Encore of the Scorchies
+*** [#A] TW52. Madam, I'm :Lizbeth:Norton:Adam:
+*** HALF [#C] John#4 - Darker Purposes :Captain_John:Jack:
+*** HALF [#B] CM2.1 - Manhunt :ICMG:
+*** START [#A] J&L8.1 - Encore of the Scorchies
 *** [#A] WM6.1 The Sincerest Form of Flattery :Time_War:Master_war:
 *** [#C] Susan1.2 The Uncertain Shore :Susan:Time_War:bilibili:
-*** TODO [#C] CY1.3 - Living History :Churchill:11th_Dr:
+*** START [#D] SJS1.1 Comeback :Sarah:
 ** pending
-*** TODO [#B] SJS1.3 Test of Nerve
+*** FIXME [#C] CY1.3 - Living History :Churchill:11th_Dr:
+*** FIXME [#D] BF061 Faith Stealer :8th_Dr:Charley:
+*** FIXME [#B] SJS1.3 Test of Nerve :Sarah:
 * DW2023-09
 ** dw2023-09-doctor
 *** [#B] CC7.10 - The Library of Alexandria :1st_Dr:Ian:
@@ -1582,11 +1583,27 @@
 *** [#A] 9DA6.3 Break the Ice :9th_Dr:
 *** [#A] 11DC3.3 The End :11th_Dr:
 ** dw2023-09-spinoffs
-*** [#A] TW52. Madam, I'm :Lizbeth:Norton:Adam:
+*** [#A] TWO3.3 The Rockery :Yvvone:Ianto:
 *** [#D] TW62. Dead Plates :Bilis:
 *** [#B] UNIT 1.1 Vanguard :UNIT:
 *** TODO [#D] J&L8.2 - The Backwards Men
 *** [#A] WM6.2 - A Quiet Night In
 *** TODO [#B] Gallifrey 6.2 - Renaissance :Romana_2:Leela:
 *** [#B] BSBOX1.1 - The Kraken's Lament :Benny:
-
+* pending
+** odd
+*** [#B] LS2.1b The Fragile Yellow Arc of Fragrance (Susan, Ian, Barbara)
+*** 3DA6.1 Poison of the Daleks (Jo)
+*** [#A] 3DA #9. The Annihilators 太长 (Liz, +2nd Dr, Jamie) 3CD ⅔ /
+*** [#C] CC4.05 - Ringpullworld (Turlough)
+*** [#B] UNIT: Dominion p3 :7th_Dr:Klein:UNIT:Master_bald:1CD:
+*** [#A] 7DNA 1.4 The Dread of Night 1cd (Roz, Chris)
+** even
+*** [#D] WoDW#4 Second Sight :6th_Dr:Romana_2:Leela:Yates:
+*** [#C] 6DnP #1 The Headless Ones :6th_Dr:Peri:
+** spinoffs
+*** [#C] TW29 Serenity (Jack+Ianto)
+*** [#D] J&L7.2 The Night of 1000 Stars (+Leela)
+*** [#B] Gallifrey 6.3  - Ascension
+*** [#A] DoRS7.3 Barrister to the Stars :River:
+*** [#D] Robots 3.1 The Mystery of Sector 13

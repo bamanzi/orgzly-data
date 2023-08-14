@@ -372,7 +372,8 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
       :rating:   8.5
       :END:
 
-***** NEXT [#A] 52. Madam I'm (8.8) :Norton:Adam:Lizbeth:plot_yes:
+***** NEXT [#A] 52. Madam I'm (8.8) :Norton:Adam:Lizbeth:plot_yes:DW2023_08_spinoffs:
+      SCHEDULED: <2023-08-27 Sun>
       :PROPERTIES:
       :rating:   8.8
       :END:
@@ -455,7 +456,8 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
       :rating:   9.2
       :END:
 
-***** [#C] John1.4 - Darker Purposes :DW2023_08_spinoffs:
+***** 2DONE [#C] John1.4 - Darker Purposes :DW2023_08_spinoffs:
+      CLOSED: [2023-08-12 Sat 10:02] SCHEDULED: <2023-08-13 Sun>
       :PROPERTIES:
       :rating:   7.5
       :END:
@@ -734,7 +736,7 @@ https://tardis.fandom.com/wiki/Parasite_(audio_story)
       :rating:   7.1
       :END:
 
-***** [#A] TWO3.3 - The Rockery :DW2023_08_spinoffs:
+***** HALF [#A] TWO3.3 - The Rockery :DW2023_09_spinoffs:
       :PROPERTIES:
       :rating:   8.6
       :END:
@@ -807,10 +809,12 @@ Torchwood India
 **** DONE [#A] 2.2 - Five Twenty-Nine (9.0)
      CLOSED: <2020-11-17 Tue 07:59>
 
-**** DONE [#B] 2.3 World Enough and Time (8.0) :6th_Dr:
-     CLOSED: <2020-11-18 Wed 20:10>
+**** HALF [#B] 2.3 World Enough and Time (8.0) :6th_Dr:DW2023_08_doctor:
+     SCHEDULED: <2023-08-12 Sat>
 
 **** [#C] River2.4 The Eye of the Storm (7.7) :6th_Dr:7th_Dr:DW2023_08_doctor:
+     SCHEDULED: <2023-08-26 Sat>
+
 *** DoRS 3 :P2018:
 **** DONE [#A] 3.1 The Lady in the Lake (8.8)
      CLOSED: <2021-01-01 Fri 08:59>
@@ -1042,7 +1046,9 @@ Roberts Master
     SCHEDULED: <2023-03-12 Sun>
 
 ** J&L series 8 :P2014:
-*** [#A] J&L8.1 - Encore of the Scorchies         (8.9) :DW2023_08_spinoffs:
+*** START [#A] J&L8.1 - Encore of the Scorchies         (8.9) :DW2023_08_spinoffs:
+    SCHEDULED: <2023-08-13 Sun>
+
 *** [#D] 8.2 - The Backwards Men               (7.3)
 *** [#D] 8.3 - Jago & Litefoot & Patsy           (7.3)
 *** [#C] 8.4 - Higson & Quick                    (7.5)
@@ -1418,8 +1424,8 @@ http://drwhoguide.com/bs_a18.htm
 *** Boxset 5: Missing Persons :P2014:
 ** New Adventures of BS :🎧:
 *** Volume 1 :7th_Dr:P2014:
-**** HALF [#B] 1.1 - The Revolution :DW2023_07_doctor:
-     SCHEDULED: <2023-07-20 Thu 08:34>
+**** 3QTR [#B] BSNA1.1 - The Revolution :DW2023_07_doctor:
+     CLOSED: [2023-07-29 Sat 15:59] SCHEDULED: <2023-07-26 Wed 20:34>
      :PROPERTIES:
      :rating:   8.0
      :END:
@@ -2311,10 +2317,12 @@ http://www.drwhoguide.com/kaldor03.htm
     :END:
 
 ** CM series 2 :P2013:
-*** [#B] CM2.1 - Manhunt                      (8.1) :DW2023_08_spinoffs:
+*** HALF [#B] CM2.1 - Manhunt :DW2023_08_spinoffs:
+    SCHEDULED: <2023-08-20 Sun>
+
 *** [#B] 2.2 - The Fifth Citadel            (8.3)
-*** [#C] 2.3 - Peshka                       (7.7)
-*** [#C] 2.4 - Sins of the Fathers          (7.9)
+*** [#C] 2.3 - Peshka
+*** [#C] 2.4 - Sins of the Fathers
 ** CM series 3 :P2014:
 *** [#C] 3.1 - Changing of the Guard        (7.5)
 *** [#C] 3.2 - The Concrete Cage            (7.5)
@@ -2378,8 +2386,8 @@ http://www.drwhoguide.com/kaldor03.htm
 
 * misc spin-offs (classic)
 ** Sarah Jane Smith
-*** START [#E] SJS1.1 - Comeback (6.8) :DW2023_06_spinoffs:
-    SCHEDULED: <2023-06-25 Sun>
+*** START [#E] SJS1.1 - Comeback (6.8) :DW2023_08_spinoffs:
+    SCHEDULED: <2023-08-20 Sun>
 
 *** [#E] +1.2 The Tao Connection+ (6.2)
 *** TODO [#B] SJS1.3 Test of Nerve (8.1)
@@ -2422,6 +2430,7 @@ http://www.drwhoguide.com/kaldor03.htm
      SCHEDULED: <2023-06-18 Sun>
 
 **** TODO [#C] CY1.3 - Living History              (7.9) :Daleks:11th_Dr:plot_yes:DW2023_08_spinoffs:
+     SCHEDULED: <2023-08-31 Thu>
 
 4 out of 20 (20.0%) raters say this story requires a previous story.
 
@@ -2654,8 +2663,8 @@ From Donna's perspective, the anthology is set after /Forest of the Dead/.
     :rating:   7.2
     :END:
 
-*** HALF [#B] WoDW#3 - The Screaming Skull :UNIT:Ruth:Charlie_Sato:Yates:DW2023_07_spinoffs:
-    SCHEDULED: <2023-07-24 Mon 08:24>
+*** DONE [#B] WoDW#3 - The Screaming Skull :UNIT:Ruth:Charlie_Sato:Yates:DW2023_07_spinoffs:
+    CLOSED: [2023-07-29 Sat 08:01] SCHEDULED: <2023-07-24 Mon 08:24>
 
 *** [#D] WoDW#4 - Second Sight :6th_Dr:Romana_2:Leela:Yates:
 ** Classic Doctors, New Monsters
