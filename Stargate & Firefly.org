@@ -56,7 +56,7 @@ CLOSED: [2022-11-05 Sat 12:09] SCHEDULED: <2022-10-06 Thu>
 
 ** SG-1 :sg1:📺:
 *** 2DONE SG-1 S1
-*** SG-1 S2
+*** DONE SG-1 S2
 **** DONE 2x01 The Serpent's Lair
 **** DONE 2x02 In the Line of Duty
 **** DONE 2x03 Prisoners
@@ -99,7 +99,7 @@ CLOSED: [2021-10-22 Fri 20:20] SCHEDULED: <2021-09-30 Thu>
 **** DONE 2x22 Out of Mind
 CLOSED: [2022-09-23 Fri 20:39]
 
-*** SG-1 S3
+*** DONE SG-1 S3
 **** DONE [#B] 3x01 Into the Fire
 CLOSED: [2022-09-24 Sat 18:47]
 
@@ -239,7 +239,7 @@ the best placement of this entire series appears to be sometime after season 10
 :END:
 
 ** Stargate Universe (SGU) :sgu:
-*** SGU S1 (20 episodes) :P2009:
+*** DONE SGU S1 (20 episodes) :P2009:
 **** DONE ep1x01-02
 CLOSED: [2021-07-07 Wed 08:17]
 
@@ -524,7 +524,7 @@ CLOSED: [2023-07-08 Sat 20:10] SCHEDULED: <2023-07-16 Sun>
 
 这部网络剧的作用是连接第二季和第三季，有 1 到 10 的合集版，十分推荐
 
-*** 📂BSG S3 (20 eps) :P2006:
+*** DOING 📂BSG S3 (20 eps) :P2006:
 **** DONE 3x01 Occupation
 CLOSED: [2023-07-10 Mon 08:02] SCHEDULED: <2023-07-16 Sun>
 
@@ -819,27 +819,46 @@ https://starwars.fandom.com/wiki/Andor_(television_series)?so=search
 
 22 BBY - 19 BBY
 
-***** DONE The Clone Wars :P2008:Anakin:Ahsoka:
+https://attackofthefanboy.com/entertainment/best-star-wars-the-clone-wars-viewing-order/
+
+***** _0x
+****** DONE 2x16 Cat and Mouse
+CLOSED: [2023-08-14 Mon 19:48]
+
+It serves as a prequel to all the other episodes, and is chronologically followed by Season One's sixteenth episode, "The Hidden Enemy."
+
+****** DONE 1x16 The Hidden Enemy :Ventress:
+CLOSED: [2023-08-06 Sun 08:20]
+
+It serves as a prequel to The Clone Wars movie, and chronologically takes place between the Season Two episode "2x16 Cat and Mouse" and the film.
+
+****** DONE The Clone Wars（剧场版） :P2008:Anakin:Ahsoka:Ventress:
 CLOSED: [2023-07-22 Sat 22:31]
 
 22BBY
 
 The film chronologically takes place between the Season One episode /The Hidden Enemy/ (1x16) and Season Three episode /Clone Cadets/ (3x01)
 
-***** season 1 (22 eps) :P2008:22BBY:
-****** DONE 1x01 Ambush :Yoda:
+****** DONE [#A] 3x01 Clone Cadets
+CLOSED: [2023-08-14 Mon 20:11]
+
+****** DONE 3x03 Supply Lines
+CLOSED: [2023-08-14 Mon 22:56]
+
+***** DONE season 1 (22 eps) :P2008:22BBY:
+****** DONE 1x01 Ambush :Yoda:Ventress:
 CLOSED: [2023-07-22 Sat 23:08]
 
 ****** DONE 1x02/03/04  Malevolence :Anakin:Ahsoka:
 CLOSED: [2023-07-23 Sun 23:10]
 
-****** DONE 1x05
+****** DONE 1x05 Rookies
 CLOSED: <2023-07-25 Tue 22:53>
 
 ****** DONE 1x06/07 :R2_D2:
 CLOSED: [2023-07-26 Wed 23:05]
 
-****** DONE [#B] 1x08/09/10 Bombad Jedi / Cloak of Darkness / Lair of Grievous :Grievous:
+****** DONE [#B] 1x08/09/10 Bombad Jedi / Cloak of Darkness / Lair of Grievous :Grievous:Ventress:
 CLOSED: [2023-07-29 Sat 08:50]
 
 ****** DONE 1x11/12 :Dooku:Jar_Jar:
@@ -851,32 +870,42 @@ CLOSED: [2023-08-05 Sat 06:44]
 ****** DONE 1x15
 CLOSED: [2023-08-06 Sun 07:58]
 
-****** DONE 1x16
-CLOSED: [2023-08-06 Sun 08:20]
-
 ****** DONE 1x17
 CLOSED: [2023-08-06 Sun 21:48]
 
 ****** DONE 1x18
 CLOSED: [2023-08-07 Mon 20:12]
 
-****** DONE 1x19
-CLOSED: [2023-08-07 Mon 20:43]
-
-****** DONE [#B] 1x20 Innocents of Ryloth
+****** DONE [#B] 1x19/20/21 Innocents of Ryloth
 CLOSED: [2023-08-09 Wed 21:41]
 
-****** DONE 1x21
-CLOSED: <2023-08-10 Thu 07:47>
-
-****** DONE [#A] 1x22 Hostage Crisis :Cad_Bane:
-CLOSED: [2023-08-10 Thu 08:14]
-
 ***** season 2 (22 eps) :P2009:22BBY:
+****** DONE 2x01/02/03 :Cad_Bane:
+CLOSED: [2023-08-14 Mon 12:58]
+
+****** 2x17 Bounty Hunters
+****** 2x18/19
+****** 2x04
 ***** season 3 (22 eps) :P2010:21BBY:20BBY:
 
 22–21–20 BBY
 
+****** 3x05
+****** 3x06
+****** 3x07
+****** DONE 3x02 ARC Troopers :Grievous:Ventress:
+CLOSED: [2023-08-14 Mon 22:04]
+
+****** 3x04 Sphere of Influence
+****** 3x08
+****** DONE [#A] 1x22 Hostage Crisis :Cad_Bane:
+CLOSED: [2023-08-10 Thu 08:14]
+
+****** 3x09
+****** 3x10
+****** 3x11
+****** 2x15 Senate Murders
+****** 3x12
 ***** season 4 (22 eps) :P2011:20BBY:
 ***** season 5 (20 eps) :P2012:19BBY:
 ***** season 6 (13 eps) :P2014:
@@ -939,7 +968,7 @@ CLOSED: [2022-06-05 Sun 16:21] SCHEDULED: <2022-06-06 Mon>
 ****** DONE 1x14 Fire Across the Galaxy
 CLOSED: [2022-06-18 Sat 00:12] SCHEDULED: <2022-06-07 Tue>
 
-***** season 2 (22 eps) :P2015:4BBY:3BBY:
+***** DOING season 2 (22 eps) :P2015:4BBY:3BBY:
 
 4 BBY–3 BBY
 
@@ -972,6 +1001,24 @@ CLOSED: [2023-08-02 Wed 08:20]
 
 ****** DONE 2x11
 CLOSED: [2023-08-03 Thu 16:00]
+
+****** DONE 2x12 :Leia:
+CLOSED: [2023-08-12 Sat 13:02]
+
+****** DONE 2x13 :Mandalorian:
+CLOSED: [2023-08-13 Sun 08:16]
+
+****** DONE 2x14
+CLOSED: [2023-08-13 Sun 10:28]
+
+****** DONE 2x15
+CLOSED: [2023-08-13 Sun 11:38]
+
+****** DONE 2x16
+CLOSED: <2023-08-17 Thu 07:53>
+
+****** DONE 2x17
+CLOSED: [2023-08-17 Thu 08:20]
 
 ***** season 3 (22 eps) :P2016:2BBY:
 ***** season 4 (16 eps) :P2017:
@@ -1326,7 +1373,9 @@ CLOSED: [2022-05-28 Sat 12:59] SCHEDULED: <2022-05-29 Sun>
 ****** DONE Heir to the Empire
 CLOSED: <2022-05-21 Sat 14:52>
 
-****** LATER Dark Force Rising
+****** DONE Dark Force Rising
+CLOSED: <2023-08-05 Sat 19:38>
+
 ****** LATER The Last Command
 ***** LATER [#A] Dark Empire trilogy :Luke:Solo:Leia:
 
