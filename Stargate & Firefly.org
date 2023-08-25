@@ -579,6 +579,8 @@ CLOSED: [2023-08-06 Sun 16:13]
 **** DONE 3x18
 CLOSED: [2023-08-08 Tue 18:48]
 
+**** 3x19
+**** 3x20
 *** 📂BSG S4 (20 eps) :P2008:
 *** The Face of the Enemy (10集短篇)
 *** Caprica (前传，18集)
@@ -870,7 +872,7 @@ CLOSED: [2023-08-05 Sat 06:44]
 ****** DONE 1x15
 CLOSED: [2023-08-06 Sun 07:58]
 
-****** DONE 1x17
+****** DONE 1x17 Blue Shadow Virus :Padme:
 CLOSED: [2023-08-06 Sun 21:48]
 
 ****** DONE 1x18
@@ -879,13 +881,25 @@ CLOSED: [2023-08-07 Mon 20:12]
 ****** DONE [#B] 1x19/20/21 Innocents of Ryloth
 CLOSED: [2023-08-09 Wed 21:41]
 
-***** season 2 (22 eps) :P2009:22BBY:
+***** DOING season 2 (22 eps) :P2009:22BBY:
 ****** DONE 2x01/02/03 :Cad_Bane:
 CLOSED: [2023-08-14 Mon 12:58]
 
-****** 2x17 Bounty Hunters
-****** 2x18/19
-****** 2x04
+****** DONE 2x17 Bounty Hunters
+CLOSED: [2023-08-17 Thu 19:05]
+
+模仿《七武士》，纪念黑泽明
+
+****** DONE 2x18/19
+CLOSED: [2023-08-19 Sat 19:29]
+
+****** DONE 2x04 Senate Spy :Padme:
+CLOSED: <2023-08-24 Thu 23:23>
+
+****** DONE 2x05
+CLOSED: [2023-08-24 Thu 23:48]
+
+****** 2x09/10
 ***** season 3 (22 eps) :P2010:21BBY:20BBY:
 
 22–21–20 BBY
@@ -908,6 +922,7 @@ CLOSED: [2023-08-10 Thu 08:14]
 ****** 3x12
 ***** season 4 (22 eps) :P2011:20BBY:
 ***** season 5 (20 eps) :P2012:19BBY:
+***** 5x20 The Wrong Jedi :Ahsoka:
 ***** season 6 (13 eps) :P2014:
 ***** season 7 (12 eps) :P2020:
 **** Rebels (2014-2018) 义军崛起
@@ -1020,6 +1035,15 @@ CLOSED: <2023-08-17 Thu 07:53>
 ****** DONE 2x17
 CLOSED: [2023-08-17 Thu 08:20]
 
+****** DONE 2x18 Shroud of Darkness :Ahsoka:Yoda:Vader:
+CLOSED: [2023-08-18 Fri 20:43]
+
+****** DONE 2x19 :Droids:
+CLOSED: [2023-08-19 Sat 12:32]
+
+****** DONE 2x20
+CLOSED: [2023-08-19 Sat 13:12]
+
 ***** season 3 (22 eps) :P2016:2BBY:
 ***** season 4 (16 eps) :P2017:
 **** Forces of Destiny (2017-2018)
@@ -1066,10 +1090,18 @@ TIMELINE: Across the prequel trilogy, original trilogy, and sequel trilogy[1]
 
 34 ABY
 
-**** Tales of the Jedi (2022-)
+**** DOING Tales of the Jedi (2022-)
 
 68 BBY - 5 BBY
 
+***** DONE 1x01 Life and Death :Ahsoka:
+CLOSED: [2023-08-18 Fri 22:28]
+
+***** 1x02 Justice :Dooku:
+***** 1x03 Choices
+***** 1x04 The Sith Lord
+***** TODO 1x05 Practice Makes Perfect :Ahsoka:
+***** 1x06 Resolve
 *** tv (legends)
 **** Droids :P1985:
 **** Eworks :P1985:
