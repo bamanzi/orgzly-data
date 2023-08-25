@@ -367,12 +367,12 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 
 ***** BLOCK /50. Absent Friends/ (missing)
 ***** [#A] 50X. The Black Knight (8.6) :Norton:
-***** [#A] 51. The Five People You Kill in Middlebrough :Yvonne:plot_yes:DW2023_09_spinoffs:
+***** [#A] 51. The Five People You Kill in Middlebrough :Yvonne:plot_yes:
       :PROPERTIES:
       :rating:   8.5
       :END:
 
-***** NEXT [#A] 52. Madam I'm (8.8) :Norton:Adam:Lizbeth:plot_yes:DW2023_08_spinoffs:
+***** HALF [#A] 52. Madam I'm (8.8) :Norton:Adam:Lizbeth:plot_yes:DW2023_08_spinoffs:
       SCHEDULED: <2023-08-27 Sun>
       :PROPERTIES:
       :rating:   8.8
@@ -809,11 +809,11 @@ Torchwood India
 **** DONE [#A] 2.2 - Five Twenty-Nine (9.0)
      CLOSED: <2020-11-17 Tue 07:59>
 
-**** HALF [#B] 2.3 World Enough and Time (8.0) :6th_Dr:DW2023_08_doctor:
-     SCHEDULED: <2023-08-12 Sat>
+**** 3QTR [#B] 2.3 World Enough and Time (8.0) :6th_Dr:DW2023_08_doctor:
+     CLOSED: [2023-08-17 Thu 21:44] SCHEDULED: <2023-08-12 Sat>
 
-**** [#C] River2.4 The Eye of the Storm (7.7) :6th_Dr:7th_Dr:DW2023_08_doctor:
-     SCHEDULED: <2023-08-26 Sat>
+**** HALF [#C] River2.4 The Eye of the Storm (7.7) :6th_Dr:7th_Dr:DW2023_08_doctor:
+     SCHEDULED: <2023-08-31 Thu>
 
 *** DoRS 3 :P2018:
 **** DONE [#A] 3.1 The Lady in the Lake (8.8)
@@ -2317,7 +2317,7 @@ http://www.drwhoguide.com/kaldor03.htm
     :END:
 
 ** CM series 2 :P2013:
-*** HALF [#B] CM2.1 - Manhunt :DW2023_08_spinoffs:
+*** HALF [#B] CM2.1 - Manhunt :plot_cast:DW2023_08_spinoffs:
     SCHEDULED: <2023-08-20 Sun>
 
 *** [#B] 2.2 - The Fifth Citadel            (8.3)

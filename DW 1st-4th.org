@@ -476,8 +476,8 @@ CLOSED: <2021-04-30 Fri 22:59>
 ***** 3QTR [#B] 22.1 The Final Beginning :Daleks:plot_yes:DW2022_10_doctor:1CD:
 CLOSED: <2022-10-30 Sun 19:49> SCHEDULED: <2022-10-22 Sat>
 
-***** HALF [#C] 2DA22.2 Wrath of the Ice Warriors :Brigadier:ice_warriors:2CD:DW2023_08_doctor:
-SCHEDULED: <2023-08-19 Sat>
+***** 3QTR [#C] 2DA22.2 Wrath of the Ice Warriors :Brigadier:ice_warriors:2CD:DW2023_08_doctor:
+CLOSED: [2023-08-18 Fri 08:40] SCHEDULED: <2023-08-19 Sat>
 
 **** James Robert McCrimmon :P2023_07:1CD:
 ***** 23.1 Jamie :plot_yes:
@@ -1231,23 +1231,23 @@ CLOSED: [2020-07-30 Thu 06:50]
 
 **** 4DA series 4 :Leela:P2015:1CD:
 ***** CANCEL [#E] 4.1 +The Exxilons+ (6.5)
-***** READY [#C] 4DA4.2 The Darkness of Glass (7.5) :plot_yes:DW2023_08_doctor:
-SCHEDULED: <2023-02-04 Sat>
+***** HALF [#C] 4DA4.2 The Darkness of Glass :plot_yes:DW2023_08_doctor:
+SCHEDULED: <2023-08-19 Sat>
 
-***** 2DONE [#B] 4.3 Requiem for the Rocket Men  (8.4) :Master_decayed:D2021_07_dr:
+***** 2DONE [#B] 4.3 Requiem for the Rocket Men :Master_decayed:D2021_07_dr:
 CLOSED: [2021-07-27 Tue 23:11]
 
-***** START [#D] 4.4 Death Match (7.3) :Master_decayed:
+***** START [#D] 4.4 Death Match :Master_decayed:
 :PROPERTIES:
 :rating:   7.3
 :END:
 
-***** HALF [#C] 4.5 - Suburban Hell (7.7) :plot_yes:D2022_06_doctor:
+***** HALF [#C] 4.5 - Suburban Hell :plot_yes:D2022_06_doctor:
 SCHEDULED: <2022-06-16 Thu>
 
-***** [#D] 4.6 The Cloisters of Terror (7.4)
-***** NEXT [#D] 4.7 The Fate of Krelos (7.2) :plot_yes:
-***** CANCEL [#F] 4.8 Return to Telos (5.8)
+***** [#D] 4.6 The Cloisters of Terror
+***** NEXT [#D] 4.7 The Fate of Krelos :plot_yes:
+***** CANCEL [#F] 4.8 Return to Telos
 CLOSED: [2020-08-20 Thu 13:56]
 
 **** 4DA series 5 :Romana_2:P2016:1CD:

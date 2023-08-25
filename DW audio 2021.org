@@ -1555,25 +1555,21 @@
 *** 3QTR [#C] Gallifrey 6.1 - Extermination :Romana_2:Leela:
 * DW2023-08
 ** dw2023-08-doctor
-*** [#B] Wrath of the Ice Warriors :2nd_Dr:Brigadier:
-*** [#C] 4DA 4.2 The Darkness of Glass :4th_Dr:Leela:
-*** HALF [#B] River2.3 World Enough and Time (8.0) :6th_Dr:River:
+*** 3QTR [#B] Wrath of the Ice Warriors :2nd_Dr:Brigadier:
+*** HALF [#C] 4DA 4.2 The Darkness of Glass :4th_Dr:Leela:
+*** 3QTR [#B] River2.3 World Enough and Time (8.0) :6th_Dr:River:
 *** [#C] River2.4 The Eye of the Storm (7.7) :6th_Dr:7th_Dr:River:
-*** HALF [#D] MR031 Embrace the Darkness :8th_Dr:Charley:bilibili:
+*** 3QTR [#D] MR031 Embrace the Darkness :8th_Dr:Charley:bilibili:
 *** [#C] 10DA 3.3 The Creeping Death :10th_Dr:Donna:bilibili:
-*** [#C] ST9.9 Dead Media :12th_Dr:
+*** FIXME [#B] ST9.2 - The Astrea Conspiracy :12th_Dr:
 ** dw2023-08-spinoffs
 *** [#A] TW52. Madam, I'm :Lizbeth:Norton:Adam:
-*** HALF [#C] John#4 - Darker Purposes :Captain_John:Jack:
+*** DONE [#C] John#4 - Darker Purposes :Captain_John:Jack:
 *** HALF [#B] CM2.1 - Manhunt :ICMG:
 *** START [#A] J&L8.1 - Encore of the Scorchies
 *** [#A] WM6.1 The Sincerest Form of Flattery :Time_War:Master_war:
 *** [#C] Susan1.2 The Uncertain Shore :Susan:Time_War:bilibili:
 *** START [#D] SJS1.1 Comeback :Sarah:
-** pending
-*** FIXME [#C] CY1.3 - Living History :Churchill:11th_Dr:
-*** FIXME [#D] BF061 Faith Stealer :8th_Dr:Charley:
-*** FIXME [#B] SJS1.3 Test of Nerve :Sarah:
 * DW2023-09
 ** dw2023-09-doctor
 *** [#B] CC7.10 - The Library of Alexandria :1st_Dr:Ian:
