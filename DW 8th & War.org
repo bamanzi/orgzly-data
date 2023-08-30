@@ -581,10 +581,14 @@ SCHEDULED: <2023-06-20 Tue 21:33>
 
 【【神秘博士广播剧】Ravenous 402 Planet of Dust 尘土之星-哔哩哔哩】 https://b23.tv/3xZT5N3
 
-***** [#A] 4.3/4.4 Day of the Master :War_Master:Missy:Master_decayed:Master_roberts:
+***** READY [#A] 4.3/4.4 Day of the Master :War_Master:Missy:Master_decayed:Master_roberts:bilibili:
 :PROPERTIES:
 :rating:   9.3/9.6
 :END:
+
+【【神秘博士广播剧】Ravenous 403 Day of the Master 法师之日(上)-哔哩哔哩】 https://b23.tv/wZ8IlTS
+
+【【神秘博士广播剧】Ravenous 403 Day of the Master 法师之日(下)-哔哩哔哩】 https://b23.tv/fcWfPdy
 
 *** Stranded
 **** Stranded vol.1
@@ -655,10 +659,12 @@ SCHEDULED: <2023-06-20 Tue 21:33>
 ***** Albie's Angels
 *** 8D Time War ↗
 *** BF misc :short:
-**** TODO [#A] CC4.12 Solitaire (9.2) :ToyMaker:P2010:plot_yes:Charley:
+**** READY [#A] CC4.12 Solitaire (9.2) :ToyMaker:P2010:plot_yes:Charley:bilibili:
 :PROPERTIES:
 :rating:   9.2
 :END:
+
+【【神秘博士广播剧】Companion Chronicles 412 Solitaire 无知游戏-哔哩哔哩】 https://b23.tv/rq4Mqk7
 
 **** [#C] DotD #8. Enemy Aliens :Charley:plot_no:
 **** [#B] ST2.8 - Letting Go :Charley:
@@ -792,7 +798,7 @@ Vayles is sent to meet the Fourth Doctor and to instruct him to destroy the Dale
 
 Narvin�from the future (AUDIO: Desperate Measures) attempts to prevent the War.
 
-*** _The War Master series 2: The Master of Callous_ :Master_war:scripted:🎧:
+*** /📂The War Master series 2: The Master of Callous/ :Master_war:scripted:🎧:
 **** DONE Call for the Dead
 CLOSED: <2020-10-08 Thu 10:49>
 
@@ -836,7 +842,7 @@ CLOSED: [2020-09-23 Wed 12:53]
 **** DONE GTW1.2 Soldier Obscura (Gallifrey: Time War #1.2) :🎧:
 CLOSED: <2020-11-07 Sat 10:33>
 
-**** _📂The War Master series 3: Rage of the Time Lords_ :Master_war:scripted:🎧:
+**** /📂The War Master series 3: Rage of the Time Lords/ :Master_war:scripted:🎧:
 ***** DONE [#C] WM3.1 The Survivor
 CLOSED: <2020-12-30 Wed 07:42>
 :PROPERTIES:
@@ -863,7 +869,7 @@ CLOSED: [2021-01-06 Wed 09:03]
 
 【【神秘博士广播剧汉化】光与暗，善与恶，到底什么才是完美配比呢 The War Master 战争法师 304 Darkness and Light-哔哩哔哩】 https://b23.tv/BrsnX9D
 
-**** _📂The War Master series 5: Hearts of Darkness_ :Master_War:🎧:
+**** /📂The War Master series 5: Hearts of Darkness/ :Master_War:🎧:
 ***** 2DONE [#B] 5.1 - The Edge of Redemption :plot_yes:DW2022_11_spinoffs:
 CLOSED: [2022-11-07 Mon 20:49] SCHEDULED: <2022-11-09 Wed>
 :PROPERTIES:
@@ -888,8 +894,8 @@ CLOSED: [2023-02-19 Sun 16:18] SCHEDULED: <2023-02-17 Fri 08:20>
 :rating:   8.9
 :END:
 
-**** _📂The War Master series 8: Escape from Reality_ :P2022_12:Master_war:🎧:
-***** DONE [#A] 8.1 The Wrath of Medusa :bilibili:DW2023_07_spinoffs:
+**** /📂The War Master series 8: Escape from Reality/ :P2022_12:Master_war:🎧:
+***** DONE [#A] _8.1 The Wrath of Medusa_ :bilibili:DW2023_07_spinoffs:
 CLOSED: [2023-07-27 Thu 19:33] SCHEDULED: <2023-07-23 Sun>
 
 【【广播剧汉化】奥林匹斯超市开张啦 The War Master 战争法师 801 The Wrath of Medusa-哔哩哔哩】 https://b23.tv/nf4Yhuu
@@ -903,7 +909,7 @@ CLOSED: [2023-07-27 Thu 19:33] SCHEDULED: <2023-07-23 Sun>
 
 【【广播剧汉化】 你也有今天啊 The War Master 战争法师 804 The Master of Dorian Gray-哔哩哔哩】 https://b23.tv/UiQZnNN
 
-**** _📂The War Master series 4: Anti-Genesis_ :Master_war:scripted:🎧:
+**** /📂The War Master series 4: Anti-Genesis/ :Master_war:scripted:🎧:
 ***** DONE [#B] 4.1 From the Flames :has_plot:D2021_10_master:
 CLOSED: <2021-01-16 Sat 22:52>
 :PROPERTIES:
@@ -970,14 +976,14 @@ CLOSED: [2020-11-09 Mon 18:14]
 The N-Forms receive an activation call, setting this after /Desperate Measures/
 
 **** HALF A Heart on Both Sides (Short Trips #7.9) :🎧:
-**** _📂The War Master series 6: Killing Time_ :Master_war:P2021:🎧:
-***** [#A] WM6.1 - The Sincerest Form of Flattery :DW2023_08_spinoffs:
-SCHEDULED: <2023-08-20 Sun>
+**** /📂The War Master series 6: Killing Time/ :Master_war:P2021:🎧:
+***** START [#B] WM6.1 - The Sincerest Form of Flattery :DW2023_08_spinoffs:
+SCHEDULED: <2023-08-31 Thu>
 
-***** [#A] 6.2 - A Quiet Night In
-***** [#A] 6.3 - The Orphan
+***** TODO [#A] 6.2 - A Quiet Night In #S :Jo:DW2023_09_spinoffs:
+***** [#A] 6.3 - The Orphan :Nyssa:
 ***** [#A] 6.4 - Unfinished Business
-**** _📂The War Master series 7: Self-Defence_ :Master_war:🎧:
+**** /📂The War Master series 7: Self-Defence/ :Master_war:🎧:
 ***** [#B] 7.1 The Forest Penitence :bilibili:
 
 【【广播剧汉化】恶魔的低语 The War Master 战争法师 701 The Forest Penitence-哔哩哔哩】 https://b23.tv/fdIB3vT

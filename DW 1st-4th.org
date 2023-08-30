@@ -258,7 +258,7 @@ CLOSED: [2021-06-26 Sat 09:13]
 :rating:   7.8
 :END:
 
-***** [#B] 7.10 - The Library of Alexandria :plot_yes:
+***** TODO [#B] 7.10 - The Library of Alexandria :plot_yes:DW2023_09_doctor:
 :PROPERTIES:
 :rating:   8.0
 :END:
@@ -299,7 +299,7 @@ CLOSED: <2023-05-30 Tue 21:34> SCHEDULED: <2023-05-27 Sat>
 :rating:   9.2
 :END:
 
-**** HALF [#C] LS2.1b The Fragile Yellow Arc of Fragrance :1CD:plot_yes:DW2023_09_doctor:
+**** HALF [#C] LS2.1b The Fragile Yellow Arc of Fragrance :1CD:plot_yes:
 *** short trips
 **** [#B] ST1.1 Rise and Fall
 **** [#C] ST2.1 - 1963 :Ian:Barbara:Vicki:
@@ -440,17 +440,17 @@ CLOSED: [2022-04-27 Wed 21:33] SCHEDULED: <2022-04-29 Fri>
 :rating:   7.7
 :END:
 
-***** NEXT [#D] 2.2 The Forsaken :Jamie:Polly:Ben:plot_yes:
+***** [#D] 2.2 The Forsaken :Jamie:Polly:Ben:plot_yes:
 ***** HALF [#B] 2.3 The Black Hole (8.1) :Jamie:Victoria:D2021_06:Monk:
 ***** CANCEL [#E] 2.4 The Isos Network :Jamie:Zoe:Cybermen:plot_yes:
 **** EA S4
-***** NEXT [#C] 4.1 The Night Witches :Jamie:Polly:Ben:plot_yes:
+***** [#C] 4.1 The Night Witches :Jamie:Polly:Ben:plot_yes:
 SCHEDULED: <2023-03-01 Wed>
 :PROPERTIES:
 :rating:   7.6
 :END:
 
-***** NEXT [#C] 4.2 The Outliers :Jamie:Polly:Ben:plot_yes:
+***** [#C] 4.2 The Outliers :Jamie:Polly:Ben:plot_yes:
 :PROPERTIES:
 :rating:   7.7
 :END:
@@ -503,7 +503,7 @@ SCHEDULED: <2023-06-24 Sat>
 :rating:   7.0
 :END:
 
-***** [#B] CC8.12 - Second Chances :The_Company:plot_cast:
+***** NEXT [#B] CC8.12 - Second Chances :The_Company:plot_cast:
 :PROPERTIES:
 :rating:   8.4
 :END:
@@ -525,7 +525,7 @@ https://tardis.fandom.com/wiki/Zoe_Heriot#Life_after_the_Doctor
 
 与 Highlanders 相关
 
-**** NEXT [#C] 5.9 - The Forbidden Time :Polly:plot_yes:
+**** [#C] 5.9 - The Forbidden Time :Polly:plot_yes:
 :PROPERTIES:
 :rating:   7.5
 :END:
@@ -548,7 +548,7 @@ SCHEDULED: <2023-02-07 Tue 21:50>
 :rating:   7.7
 :END:
 
-***** [#D] 10.2 The Story of Extinction :Victoria:plot_no:
+***** NEXT [#D] 10.2 The Story of Extinction :Victoria:plot_no:
 :PROPERTIES:
 :rating:   7.2
 :END:
@@ -580,7 +580,7 @@ SCHEDULED: <2021-10-03 Sun>
 :rating:   7.3
 :END:
 
-***** TODO [#B] CC12.4 - The Tactics of Defeat :Ruth:Zoe:UNIT:
+***** NEXT [#B] CC12.4 - The Tactics of Defeat :Ruth:Zoe:UNIT:
 :PROPERTIES:
 :rating:   8.1
 :END:
@@ -588,7 +588,7 @@ SCHEDULED: <2021-10-03 Sun>
 **** 📂CC14 - The Second Doctor: Volume Three :P2022_04:
 ***** [#A] 14.1 The Death of the Daleks :Jamie:Daleks:
 ***** [#C] 14.2 The Phantom Piper :Jamie:
-***** [#A] 14.3 The Prints of Denmark :Zoe:Monk:
+***** NEXT [#A] 14.3 The Prints of Denmark :Zoe:Monk:
 ***** [#D] 14.4 The Deepest Tragedian :Zoe:
 :PROPERTIES:
 :rating:   7.0
@@ -637,12 +637,12 @@ SCHEDULED: <2022-06-05 Sun>
 :rating:   8.1
 :END:
 
-**** [#C] 10.2 - Deleted Scenes
+**** [#C] 10.2 - Deleted Scenes :Jamie:
 :PROPERTIES:
 :rating:   7.8
 :END:
 
-**** [#B] STS#3. Lepidoptery for Beginners
+**** [#B] STS#3. Lepidoptery for Beginners :Jamie:Zoe:
 :PROPERTIES:
 :rating:   8.3
 :END:
@@ -830,7 +830,7 @@ SCHEDULED: <2023-05-27 Sat>
 :rating:   7.1
 :END:
 
-**** NEXT [#B] 8.2 The Devil's Hoofprints :P2021:Sarah:plot_yes:
+**** TODO [#B] 8.2 The Devil's Hoofprints :P2021:Sarah:plot_yes:DW2023_09_doctor:
 :PROPERTIES:
 :rating:   8.1
 :END:

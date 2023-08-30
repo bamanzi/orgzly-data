@@ -406,7 +406,7 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 ***** HALF [#C] TW61. War Chest :Tosh:P2022_05:DW2023_04_spinoffs:
       DEADLINE: <2023-04-23 Sun> SCHEDULED: <2023-04-19 Wed 08:42>
 
-***** [#D] 62. Dead Plates :Bilis_Manger:
+***** TODO [#D] 62. Dead Plates :Bilis_Manger:DW2023_09_spinoffs:
 ***** [#A] 63. Restricted Items Archive Entries 031–049 :Ianto:
 ***** [#B] 64. Suckers :Tosh:
 ***** [#B] 65X A Postcard from Mr Colchester :Colchester:
@@ -970,7 +970,15 @@ Roberts Master
 **** [#E] 10.3 Black Friday
 **** [#E] 10.4 Firewall
 *** DoRS 11 - Friend of the Family :P2023_01:
-*** TBR DoRS 12 - The Orphan Quartet :P2023_08:
+**** part1. The Rules of the House
+**** part2. The Key to the Door
+**** part3. The Bird from the Nest
+**** part4. The Isle on the Shore
+*** DoRS 12 - The Orphan Quartet :P2023_08:
+**** 12.1 The Excise Men
+**** 12.2 Harvest of the Krotons
+**** 12.3 Dead Man Talking
+**** 12.4 The Wife of River Song
 *** misc
 **** DONE R&J (The Lives of Captain Jack #3.3) :Jack:
      CLOSED: <2020-09-14 Mon 21:12>
@@ -1049,7 +1057,7 @@ Roberts Master
 *** START [#A] J&L8.1 - Encore of the Scorchies         (8.9) :DW2023_08_spinoffs:
     SCHEDULED: <2023-08-13 Sun>
 
-*** [#D] 8.2 - The Backwards Men               (7.3)
+*** TODO [#D] 8.2 - The Backwards Men               (7.3) :DW2023_09_spinoffs:
 *** [#D] 8.3 - Jago & Litefoot & Patsy           (7.3)
 *** [#C] 8.4 - Higson & Quick                    (7.5)
 ** J&L series 9 :P2015:
@@ -1187,7 +1195,7 @@ Roberts Master
 *** 3QTR [#C] GAL6.1 - Extermination (7.8) :DW2023_07_spinoffs:
     CLOSED: [2023-07-26 Wed 09:08] SCHEDULED: <2023-07-16 Sun>
 
-*** [#B] 6.2 - Renaissance (8.1)
+*** TODO [#B] 6.2 - Renaissance (8.1) :DW2023_09_spinoffs:
 *** [#B] 6.3 - Ascension (8.3)
 ** [#B] 7.0 - Intervention Earth     (8.1) :P2015:
 ** [#A] 8.0 - Enemy Lines (8.9) :P2016:
@@ -1366,7 +1374,7 @@ http://drwhoguide.com/bs_a18.htm
 
 ** Bernice Summerfield (boxset)
 *** Boxset 1: Epoch :P2011:Atlantis:plot_yes:
-**** [#B] 1.1 The Kraken's Lament :Jack_McSpringheel:DW2023_09_spinoffs:
+**** TODO [#B] 1.1 The Kraken's Lament :Jack_McSpringheel:DW2023_09_spinoffs:
      :PROPERTIES:
      :rating:   7.9
      :END:
@@ -1626,7 +1634,7 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
 
 【【神秘博士广播剧】Masterful 混乱之主 03-哔哩哔哩】 https://b23.tv/cXQO9PZ
 
-*** 2DONE [#A] ST8.10 - I Am The Master †9.0 :Master:bilibili:DW2023_06_spinoffs:
+*** 2DONE [#A] _ST8.10 - I Am The Master_ ⭐ :Master:bilibili:DW2023_06_spinoffs:
     CLOSED: [2023-05-23 Tue 22:12] SCHEDULED: <2023-06-25 Sun>
 
 【【神秘博士广播剧汉化】法师独白，关爱脆皮，人人有责 Short Trips: I am the Master-哔哩哔哩】 https://b23.tv/71Jon0F
@@ -2055,7 +2063,7 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
 **** [#E] 2.3 The Last Line of Defence
 * UNIT: The New Series :UNIT_new:🎧:
 ** UNIT 1: Extinction :Nestene:P2015:plot_yes:
-*** [#C] UNIT1.1 - Vanguard (7.5)
+*** TODO [#C] UNIT1.1 - Vanguard (7.5) :DW2023_09_spinoffs:
     :PROPERTIES:
     :rating:   7.5
     :END:
