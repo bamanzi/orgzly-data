@@ -89,6 +89,7 @@ CLOSED: [2023-07-23 Sun 12:02] SCHEDULED: <2023-07-21 Fri 13:17>
 
 ***** CANCEL [#F] 6.2 Last of the Zetacene
 ***** READY [#A] _6.3 Break the Ice_ :bilibili:DW2023_09_spinoffs:
+SCHEDULED: <2023-09-23 Sat>
 
 【【神秘博士广播剧熟肉】Into the Stars 603 Break the Ice 破冰-哔哩哔哩】 https://b23.tv/FgizL7a
 
@@ -993,12 +994,22 @@ SCHEDULED: <2022-04-30 Sat>
 :rating:   7.0
 :END:
 
-*** Short Trips
-**** START [#B] 9.2 - The Astrea Conspiracy :DW2023_08_doctor:
-SCHEDULED: <2023-08-26 Sat>
+*** Short Trips :🗣:
+**** 3QTR [#B] 9.2 - The Astrea Conspiracy :DW2023_08_doctor:
+CLOSED: [2023-09-03 Sun 11:45] SCHEDULED: <2023-09-03 Sun>
 :PROPERTIES:
 :rating:   8.0
 :END:
+
+Aphra Behn以第一位通过写作谋生的女性而闻名。 在短暂的时间内，作为英格兰的间谍之后，贝恩以戏剧家，小说家，翻译家和诗人的身份生活。
+
+https://zhcn.eferrit.com/aphra-behn的传记/
+
+
+...许多伟大的女性小说家，如勃朗特姐妹、伊丽莎白·盖斯凯尔和伊丽莎白·巴雷特·勃朗宁，如果没有阿芙拉·贝恩的开拓，可能就不存在也不会流行。
+
+https://www.iiiff.com/article/404723
+
 
 **** [#C] ST9.9 - Dead Media
 :PROPERTIES:

@@ -372,8 +372,8 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
       :rating:   8.5
       :END:
 
-***** HALF [#A] 52. Madam I'm (8.8) :Norton:Adam:Lizbeth:plot_yes:DW2023_08_spinoffs:
-      SCHEDULED: <2023-08-27 Sun>
+***** 3QTR [#A] 52. Madam I'm (8.8) :Norton:Adam:Lizbeth:plot_yes:DW2023_08_spinoffs:
+      CLOSED: <2023-08-23 Wed 10:27> SCHEDULED: <2023-08-27 Sun>
       :PROPERTIES:
       :rating:   8.8
       :END:
@@ -736,7 +736,8 @@ https://tardis.fandom.com/wiki/Parasite_(audio_story)
       :rating:   7.1
       :END:
 
-***** HALF [#A] TWO3.3 - The Rockery :DW2023_09_spinoffs:
+***** 3QTR [#A] TWO3.3 - The Rockery :DW2023_09_spinoffs:
+      CLOSED: [2023-09-05 Tue 08:45] SCHEDULED: <2023-09-10 Sun>
       :PROPERTIES:
       :rating:   8.6
       :END:
@@ -814,6 +815,8 @@ Torchwood India
 
 **** HALF [#C] River2.4 The Eye of the Storm (7.7) :6th_Dr:7th_Dr:DW2023_08_doctor:
      SCHEDULED: <2023-08-31 Thu>
+
+故事太乱了
 
 *** DoRS 3 :P2018:
 **** DONE [#A] 3.1 The Lady in the Lake (8.8)
@@ -1374,7 +1377,8 @@ http://drwhoguide.com/bs_a18.htm
 
 ** Bernice Summerfield (boxset)
 *** Boxset 1: Epoch :P2011:Atlantis:plot_yes:
-**** TODO [#B] 1.1 The Kraken's Lament :Jack_McSpringheel:DW2023_09_spinoffs:
+**** HALF [#B] 1.1 The Kraken's Lament :Jack_McSpringheel:DW2023_09_spinoffs:
+     SCHEDULED: <2023-09-24 Sun>
      :PROPERTIES:
      :rating:   7.9
      :END:
@@ -2437,8 +2441,7 @@ http://www.drwhoguide.com/kaldor03.htm
 **** HALF [#D] CY1.2 - Hounded   (7.2) :DW2023_06_spinoffs:
      SCHEDULED: <2023-06-18 Sun>
 
-**** TODO [#C] CY1.3 - Living History              (7.9) :Daleks:11th_Dr:plot_yes:DW2023_08_spinoffs:
-     SCHEDULED: <2023-08-31 Thu>
+**** TODO [#C] CY1.3 - Living History              (7.9) :Daleks:11th_Dr:plot_yes:
 
 4 out of 20 (20.0%) raters say this story requires a previous story.
 

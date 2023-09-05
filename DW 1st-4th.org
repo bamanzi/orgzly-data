@@ -1231,8 +1231,8 @@ CLOSED: [2020-07-30 Thu 06:50]
 
 **** 4DA series 4 :Leela:P2015:1CD:
 ***** CANCEL [#E] 4.1 +The Exxilons+ (6.5)
-***** HALF [#C] 4DA4.2 The Darkness of Glass :plot_yes:DW2023_08_doctor:
-SCHEDULED: <2023-08-19 Sat>
+***** 2DONE [#C] 4DA4.2 The Darkness of Glass :plot_yes:DW2023_08_doctor:
+CLOSED: [2023-08-26 Sat 08:25] SCHEDULED: <2023-08-19 Sat>
 
 ***** 2DONE [#B] 4.3 Requiem for the Rocket Men :Master_decayed:D2021_07_dr:
 CLOSED: [2021-07-27 Tue 23:11]

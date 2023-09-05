@@ -1555,37 +1555,65 @@
 *** 3QTR [#C] Gallifrey 6.1 - Extermination :Romana_2:Leela:
 * DW2023-08
 ** dw2023-08-doctor
+
+| 070 | MR031. Embrace the Darkness | 8th | Charley |
+
 *** 3QTR [#B] Wrath of the Ice Warriors :2nd_Dr:Brigadier:
-*** HALF [#C] 4DA 4.2 The Darkness of Glass :4th_Dr:Leela:
+*** DONE [#C] 4DA 4.2 The Darkness of Glass :4th_Dr:Leela:
 *** 3QTR [#B] River2.3 World Enough and Time (8.0) :6th_Dr:River:
-*** [#C] River2.4 The Eye of the Storm (7.7) :6th_Dr:7th_Dr:River:
-*** 3QTR [#D] MR031 Embrace the Darkness :8th_Dr:Charley:bilibili:
-*** [#C] 10DA 3.3 The Creeping Death :10th_Dr:Donna:bilibili:
-*** FIXME [#B] ST9.2 - The Astrea Conspiracy :12th_Dr:
+*** HALF [#C] River2.4 The Eye of the Storm (7.7) :6th_Dr:7th_Dr:River:
+*** DONE [#D] MR031 Embrace the Darkness        :8th_Dr:Charley:bilibili:
+*** HALF [#C] 10DA 3.3 The Creeping Death :10th_Dr:Donna:bilibili:
+*** 3QTR [#B] ST9.2 - The Astrea Conspiracy                         :12th_Dr:
 ** dw2023-08-spinoffs
-*** [#A] TW52. Madam, I'm :Lizbeth:Norton:Adam:
+*** 3QTR [#A] TW52. Madam, I'm :Lizbeth:Norton:Adam:
 *** DONE [#C] John#4 - Darker Purposes :Captain_John:Jack:
 *** HALF [#B] CM2.1 - Manhunt :ICMG:
 *** START [#A] J&L8.1 - Encore of the Scorchies
-*** [#A] WM6.1 The Sincerest Form of Flattery :Time_War:Master_war:
+*** HALF [#B] WM6.1 The Sincerest Form of Flattery :Time_War:Master_war:
 *** [#C] Susan1.2 The Uncertain Shore :Susan:Time_War:bilibili:
-*** START [#D] SJS1.1 Comeback :Sarah:
+*** [#D] SJS1.1 Comeback                                             :Sarah:
 * DW2023-09
 ** dw2023-09-doctor
-*** [#B] CC7.10 - The Library of Alexandria :1st_Dr:Ian:
+*** [#B] CC7.10 - The Library of Alexandria                      :1st_Dr:Ian:
+
 *** [#B] 3DA 8.2 The Devil's Hoofprints :3rd_Dr:Sarah:
-*** TODO [#D] MR269 Shadow of the Daleks 1.1/1.2 :5th_Dr:Daleks:
-*** [#A] MR120 The Magic Mousetrap :7th_Dr:Ace:Hex:
+*** HALF [#D] MR269 Shadow of the Daleks 1.1/1.2          :5th_Dr:Daleks:
+*** FIXME [#C] MR082 The Settling :Ace:Hex:
 *** [#A] 9DA6.3 Break the Ice :9th_Dr:
 *** [#A] 11DC3.3 The End :11th_Dr:
 ** dw2023-09-spinoffs
-*** [#A] TWO3.3 The Rockery :Yvvone:Ianto:
+*** 3QTR [#A] TWO3.3 The Rockery                               :Yvvone:Ianto:
 *** [#D] TW62. Dead Plates :Bilis:
 *** [#B] UNIT 1.1 Vanguard :UNIT:
-*** TODO [#D] J&L8.2 - The Backwards Men
-*** [#A] WM6.2 - A Quiet Night In
-*** TODO [#B] Gallifrey 6.2 - Renaissance :Romana_2:Leela:
+*** [#D] J&L8.2 - The Backwards Men
+*** HALF [#A] WM6.2 - A Quiet Night In                                   :Jo:
+*** [#B] Gallifrey 6.2 - Renaissance :Romana_2:Leela:
 *** [#B] BSBOX1.1 - The Kraken's Lament :Benny:
+** pending
+*** [#C] LS2.1b The Fragile Yellow Arc of Fragrance :Ian:Susan:Barbara:½CD:plot_yes:
+
+*** [#A] MR120 The Magic Mousetrap :7th_Dr:Ace:Hex:
+* DW2023-10
+** dw2023-10-doctor
+*** MA05. The Enemy of the Universe :2nd_Dr:fan_made:
+*** [#A] 4DA 11.1 Blood of the Time Lords :4th_Dr:Master:
+*** [#C] MR194. The Rani Elite / [#B] LS1.3 Leviathan :6th_Dr:Peri:
+*** [#C] 8DA2.7 Sisters of the Flame (Morbius, Karn) / [#B] 8DA2.3 Brave New Town (Nestene) :8th_Dr:Lucie:
+*** [#D] ST10.X Free Speech #bilibili / [#D] 10DC 1.2 - Backtrack (Martha)  / #B ST8.8 - Flight into Hull! (alt 10D + alt Jackie) :10th_Dr:
+*** FIXME ?? 12/war/unbound?
+** dw2023-10-spinoffs
+*** [#B] TWS2 Outbreak 1/2 (Jack, Gwen, Ianto, Rhys, Andy, Norton)
+*** [#A] TW43. The Three Monkeys :Andy:Owen:
+*** [#C] UNIT 1.2 Earthfall / [#C] UNIT1.3 Bridgehead (7.9)
+*** [#D] PG3.2 - Whatever Remains
+*** [#A] DoRS7.3 Barrister to the Stars
+*** [#B] Gallifrey 6.3 - Ascension
+** pending
+*** FIXME Missy2.4 Too Many Masters / [#A] WM6.3 The Orphan :Master:
+*** [#D] Robots 3.1 The Mystery of Sector 13
+*** FIXME [#C] CY1.3 - Living History :Churchill:11th_Dr:
+*** FIXME [#B] SJS1.3 Test of Nerve :Sarah:
 * pending
 ** odd
 *** [#B] LS2.1b The Fragile Yellow Arc of Fragrance (Susan, Ian, Barbara)

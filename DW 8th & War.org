@@ -46,8 +46,8 @@ CLOSED: [2020-09-24 Thu 08:32]
 ***** 2DONE [#B] 030 - Seasons of Fear (8.4).
 CLOSED: [2020-11-26 Thu 08:26]
 
-***** HALF [#D] _031 - Embrace the Darkness_ :plot_no:bilibili:DW2023_08_doctor:
-SCHEDULED: <2023-08-12 Sat>
+***** DONE [#D] _031 - Embrace the Darkness_ :plot_no:bilibili:DW2023_08_doctor:
+CLOSED: [2023-09-02 Sat 23:13] SCHEDULED: <2023-08-12 Sat>
 
 【【神秘博士广播剧熟肉】MR 031 Embrace the Darkness 拥抱黑暗-哔哩哔哩】 https://b23.tv/jwHXAsd
 
@@ -977,10 +977,12 @@ The N-Forms receive an activation call, setting this after /Desperate Measures/
 
 **** HALF A Heart on Both Sides (Short Trips #7.9) :🎧:
 **** /📂The War Master series 6: Killing Time/ :Master_war:P2021:🎧:
-***** START [#B] WM6.1 - The Sincerest Form of Flattery :DW2023_08_spinoffs:
-SCHEDULED: <2023-08-31 Thu>
+***** HALF [#B] WM6.1 - The Sincerest Form of Flattery :DW2023_08_spinoffs:
+SCHEDULED: <2023-09-03 Sun>
 
-***** TODO [#A] 6.2 - A Quiet Night In #S :Jo:DW2023_09_spinoffs:
+***** HALF [#A] *6.2 - A Quiet Night In* #S :Jo:DW2023_09_spinoffs:
+SCHEDULED: <2023-09-17 Sun>
+
 ***** [#A] 6.3 - The Orphan :Nyssa:
 ***** [#A] 6.4 - Unfinished Business
 **** /📂The War Master series 7: Self-Defence/ :Master_war:🎧:
