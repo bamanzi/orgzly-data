@@ -1308,7 +1308,8 @@ CLOSED: [2023-07-23 Sun 15:16]
 - material from Star Wars Tales 2, 7, 14, 18, 20, & 24
 
 ****** Star Wars: Episode II — Attack of the Clones
-***** epic collection: The Clone Wars vol.1 :22BBY:
+***** DONE epic collection: The Clone Wars vol.1 :22BBY:
+CLOSED: [2023-09-03 Sun 14:02]
 
 https://starwars.fandom.com/wiki/Star_Wars_Legends_Epic_Collection:_The_Clone_Wars_Vol._1
 
@@ -1332,6 +1333,10 @@ CLOSED: [2023-08-29 Tue 14:02]
 ***** epic collection: The Clone Wars vol.2 :21BBY:
 
 22 BBY - 20 BBY
+
+- "Honor Bound"—Star Wars Tales 22
+- Republic #55-67
+- Darth Maul—Death Sentence #1-4
 
 ****** [#B] The Battle of Jabiim (Star Wars: Republic #55-58) :hanzify:
 ***** epic collection: The Clone Wars vol.3
@@ -1739,7 +1744,7 @@ c.232 BBY
 
 The novel is set in 14 BBY, five years after the events of /Star Wars: Episode III Revenge of the Sith/, and it focuses on /Wilhuff Tarkin/ and how he became a /Grand Moff/.
 
-*** Thrawn trilogy :legends:Thrawn:9ABY:
+*** DONE Thrawn trilogy :legends:Thrawn:9ABY:
 **** DONE Thrawn 1: Heir to the Empire 帝国传承
 CLOSED: <2022-05-21 Sat 11:48>
 
@@ -1748,7 +1753,9 @@ CLOSED: <2022-05-21 Sat 11:48>
 **** DONE Dark Force Rising 黑潮汹涌
 CLOSED: [2022-06-09 Thu 13:55] SCHEDULED: <2022-06-10 Fri>
 
-**** NOW The Last Command
+**** DONE The Last Command
+CLOSED: <2023-09-03 Sun 09:43>
+
 ** for children
 *** Disney–Lucasfilm Press
 

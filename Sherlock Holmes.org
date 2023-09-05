@@ -203,6 +203,15 @@ CLOSED: [2023-08-15 Tue 08:05]
 ***** DONE 5x03
 CLOSED: [2023-08-18 Fri 20:19]
 
+***** DONE 5x04 :benben:
+CLOSED: [2023-08-26 Sat 20:57]
+
+***** DONE 5x05
+CLOSED: [2023-08-29 Tue 08:10]
+
+***** DONE 5x06
+CLOSED: [2023-09-01 Fri 19:22]
+
 **** S7 :P2019:
 *** Sherlock 神探夏洛克
 * Agatha Christie 阿加莎·克里斯蒂 :阿婆:
@@ -222,8 +231,8 @@ CLOSED: [2022-11-03 Thu 08:06] SCHEDULED: <2022-10-22 Sat>
 ***** DONE 1x04 Four and Twenty Blackbirds
 CLOSED: [2023-08-22 Tue 23:39] SCHEDULED: <2022-10-22 Sat>
 
-***** NEXT 1x05 The Third Floor Flat
-SCHEDULED: <2022-10-29 Sat>
+***** DONE 1x05 The Third Floor Flat
+CLOSED: [2023-09-04 Mon 20:18] SCHEDULED: <2022-10-29 Sat>
 
 ***** 1x06 Triangle at Rhodes
 ***** 1x07 Problem at Sea
