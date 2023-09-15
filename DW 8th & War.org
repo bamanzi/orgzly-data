@@ -900,12 +900,12 @@ CLOSED: [2023-07-27 Thu 19:33] SCHEDULED: <2023-07-23 Sun>
 
 【【广播剧汉化】奥林匹斯超市开张啦 The War Master 战争法师 801 The Wrath of Medusa-哔哩哔哩】 https://b23.tv/nf4Yhuu
 
-***** 8.2 The Shadow Master
-***** READY 8.3 The Adventure of the Deceased Doctor :Holmes:bilibili:
+***** [#D] 8.2 The Shadow Master
+***** READY [#A] 8.3 The Adventure of the Deceased Doctor :Holmes:bilibili:
 
 【【广播剧汉化】福尔摩法历险记 The War Master 战争法师 803 The Adventure of the Deceased Doctor-哔哩哔哩】 https://b23.tv/MCzr4Ar
 
-***** READY 8.4 The Master of Dorian Gray :bilibili:
+***** READY [#C] 8.4 The Master of Dorian Gray :bilibili:
 
 【【广播剧汉化】 你也有今天啊 The War Master 战争法师 804 The Master of Dorian Gray-哔哩哔哩】 https://b23.tv/UiQZnNN
 
@@ -980,17 +980,17 @@ The N-Forms receive an activation call, setting this after /Desperate Measures/
 ***** HALF [#B] WM6.1 - The Sincerest Form of Flattery :DW2023_08_spinoffs:
 SCHEDULED: <2023-09-03 Sun>
 
-***** HALF [#A] *6.2 - A Quiet Night In* #S :Jo:DW2023_09_spinoffs:
-SCHEDULED: <2023-09-17 Sun>
+***** 3QTR [#A] *6.2 - A Quiet Night In* #S :Jo:DW2023_09_spinoffs:
+CLOSED: <2023-09-08 Fri 09:33> SCHEDULED: <2023-09-17 Sun>
 
 ***** [#A] 6.3 - The Orphan :Nyssa:
 ***** [#A] 6.4 - Unfinished Business
-**** /📂The War Master series 7: Self-Defence/ :Master_war:🎧:
+**** /📂The War Master series 7: Self-Defence/ :Master_war:🎧:P2022_06:
 ***** [#B] 7.1 The Forest Penitence :bilibili:
 
 【【广播剧汉化】恶魔的低语 The War Master 战争法师 701 The Forest Penitence-哔哩哔哩】 https://b23.tv/fdIB3vT
 
-***** [#C] 7.2 The Players :bilibili:
+***** [#D] 7.2 The Players :bilibili:
 
 【【广播剧汉化】蹩脚的自辩 The War Master 战争法师 702 The Players-哔哩哔哩】 https://b23.tv/X3fable
 
@@ -1002,6 +1002,14 @@ SCHEDULED: <2023-09-17 Sun>
 
 【【广播剧汉化】注定的未来 The War Master 战争法师 704 The Last Line-哔哩哔哩】 https://b23.tv/t0szyKn
 
+**** /📂The War Master series 9: Solitary Confinement/ :🎧:P2023_06:Master_war:
+***** READY 9.1 - The Walls of Absence :bilibili:
+
+【【广播剧汉化】燃烧的天空 The War Master 战争法师 901 The Walls of Absence-哔哩哔哩】 https://b23.tv/vQ364oL
+
+***** 9.2 - The Long Despair
+***** 9.3 - The Life and Loves of Mr Alexander Bennett
+***** 9.4 - The Kicker
 **** DONE [#A] WM1.4 The Heavenly Paradigm :🎧:D2021_09_extra:
 CLOSED: [2020-12-24 Thu 15:51] SCHEDULED: <2021-09-28 Tue>
 :PROPERTIES:
@@ -1099,12 +1107,12 @@ CLOSED: [2020-12-09 Wed 19:04]
 
 **** START [#D] 2.3 In the Garden of Death
 :PROPERTIES:
-:rating:   7.0
+:rating:   6.9
 :END:
 
 **** START [#D] 2.4 Jonah
 :PROPERTIES:
-:rating:   7.2
+:rating:   6.8
 :END:
 
 *** 📂8D Time War vol.3 :Bliss:P2019:scripted:🎧:
@@ -1115,17 +1123,17 @@ CLOSED: [2020-12-09 Wed 19:04]
 
 **** [#D] 3.2 The Famished Lands
 :PROPERTIES:
-:rating:   7.1
+:rating:   7.0
 :END:
 
 **** [#D] 3.3 Fugitive in Time
 :PROPERTIES:
-:rating:   7.2
+:rating:   7.1
 :END:
 
 **** READY [#A] 3.4 The War Valeyard :Valeyard:bilibili:
 :PROPERTIES:
-:rating:   8.9
+:rating:   9.0
 :END:
 
 【【广播剧翻译】Valeyard复活参战？时间大战 304 The War Valeyard-哔哩哔哩】 https://b23.tv/klLTjmK

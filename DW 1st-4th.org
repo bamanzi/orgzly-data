@@ -233,8 +233,8 @@ Old Steven 1/3
 
 ****** 9.3 ↗
 ****** 9.4 ↗
-**** Ian/Barbara
-***** START [#B] CC3.7 - The Transit of Venus :Ian:Barbara:plot_yes_dwg:DW2022_09_doctor:
+**** Ian/Barbara :Ian:
+***** START [#B] CC3.7 - The Transit of Venus :plot_yes_dwg:DW2022_09_doctor:
 SCHEDULED: <2022-09-26 Mon>
 :PROPERTIES:
 :rating:   8.3
@@ -242,7 +242,7 @@ SCHEDULED: <2022-09-26 Mon>
 
 http://drwhoguide.com/chronicles15.htm
 
-***** 2DONE [#B] CC6.2 The Rocket Man :Ian:D2021_06:
+***** 2DONE [#B] CC6.2 The Rocket Man :D2021_06:
 CLOSED: [2021-06-26 Sat 09:13]
 :PROPERTIES:
 :rating:   8.3
@@ -258,13 +258,14 @@ CLOSED: [2021-06-26 Sat 09:13]
 :rating:   7.8
 :END:
 
-***** TODO [#B] 7.10 - The Library of Alexandria :plot_yes:DW2023_09_doctor:
+***** 3QTR [#B] 7.10 - The Library of Alexandria :plot_yes:DW2023_09_maybe:
+CLOSED: [2023-09-13 Wed 09:05] SCHEDULED: <2023-09-16 Sat>
 :PROPERTIES:
 :rating:   8.0
 :END:
 
 **** 📂CC9. First Doctor - Volume One :P2015:
-***** [#D] 9.1 - The Sleeping Blood :Barbaba:Ian:Vicki:
+***** [#D] 9.1 - The Sleeping Blood :Barbara:Ian:Vicki:
 ***** [#B] 9.2 - The Unwinding World :Vicki:Ian:Barbara:
 :PROPERTIES:
 :rating:   8.0
@@ -611,15 +612,10 @@ SCHEDULED: <2022-06-05 Sun>
 :thetimescales: 7.9
 :END:
 
-*** short trips
+*** short trips :🗣:
 **** [#D] 2.2 - The Way Forwards
 :PROPERTIES:
 :rating:   7.1
-:END:
-
-**** [#D] 3.1 - Seven to One
-:PROPERTIES:
-:rating:   7.4
 :END:
 
 **** [#D] 6.6 - Lost and Found
@@ -847,7 +843,7 @@ block原因：太长（3CD）
 ***** [#D] 23A.1 Supernature
 ***** [#D] 23A.2 The Conservitors
 ***** [#C] 23A.3 The Iron Shore
-**** TBR 2023B :P2023_10:
+**** TBR 2023B Intelligence for War :P2023_10:Liz:
 *** BF misc
 **** DONE [#A] The Sacrifice of Jo Grant (The Legacy of Time #3) :Jo:P2019:
 CLOSED: [2020-08-07 Fri 18:25]
@@ -1508,6 +1504,147 @@ CLOSED: [2020-07-19 Sun 23:00]
 *** TODO [#C] The English Way Of Death (MA20) 3.87 :Romana_2:
 *** TODO [#A] The Well Mannered War (MA33) 4.00 :Romana_2:
 **** novel adaptation 04 - The English Way of Death †7.9) :🎧:
+* special
+** Doctor Who Unbound :P2003:
+*** [#C] 1. Auld Mortality
+*** 2DONE [#B] DWUN2: Sympathy from the Devil :D2021_06:Master_unbound:
+CLOSED: [2021-06-17 Thu 23:09]
+
+*** [#C] 3. Full Fathom Five
+*** [#D] 4. He Jests at Scars...
+*** READY [#A] 5. Deadline :bilibili:
+
+【【神秘博士广播剧翻译】Unbound:Deadline 假如世界上没有博士-哔哩哔哩】 https://b23.tv/tK7WtHA
+
+
+自从马丁 班尼斯特第一次遇到博士已经过去了四十年了。那时的他们很不一样。Martin年轻，才华横溢，还是时代评选的十大最有前途作家的第七名。博士神秘，脾气坏，还有点东方味。
+这场邂逅摧毁了他们的人生。
+
+可怜的马丁，生涯尽毁，被人遗忘。他离异的妻子们在错误的顺序死去，衣柜旁还有一滩可能是外星人脚印的绿色污渍，或者是霉菌。
+
+马丁的人生很快会遭受意外的改变，即兴诗歌阅读会，大象远征，强制的虫子眼怪物。还有获得爱的最后机会，在一切无法挽回前。
+
+是时候让博士回到马丁的生活了，并且让他吃点苦头，永远地。
+
+*** CANCEL [#F] 6. Exile
+*** [#D] 7. A Storm of Angels
+*** 2DONE [#B] DWUN8 - Masters of War :Davros:D2021_07_extra:D2021_12_extra:week1:
+CLOSED: [2021-07-27 Tue 23:10] SCHEDULED: <2021-12-03 Fri>
+
+** Novel Adaptations
+*** [#C] 1. Love and War :7th_Dr:P2012:
+:PROPERTIES:
+:rating:   7.5
+:END:
+
+*** CANCEL [#E] 2. The Highest Science :7th_Dr:P2014:
+:PROPERTIES:
+:rating:   6.8
+:END:
+
+*** [#C] 3. The Romance of Crime :4th_Dr:P2015:
+:PROPERTIES:
+:rating:   7.9
+:END:
+
+*** [#C] 4. The English Way of Death :4th_Dr:P2015:
+:PROPERTIES:
+:rating:   7.9
+:END:
+
+*** [#B] 5. The Well-Mannered War :4th_Dr:P2015:
+:PROPERTIES:
+:rating:   8.1
+:END:
+
+*** [#A] 6. Damaged Goods :7th_Dr:P2015:
+:PROPERTIES:
+:rating:   9.0
+:END:
+
+*** [#C] 7. Theatre of War :7th_Dr:P2015:
+:PROPERTIES:
+:rating:   7.6
+:END:
+
+*** [#B] 8. All-Consuming Fire :7th_Dr:P2015:
+:PROPERTIES:
+:rating:   8.4
+:END:
+
+*** [#B] 9. Nightshade :7th_Dr:P2016:
+:PROPERTIES:
+:rating:   8.2
+:END:
+
+*** [#C] 10. Original Sin :7th_Dr:P2016:
+:PROPERTIES:
+:rating:   7.8
+:END:
+
+*** [#A] 11. Cold Fusion :5th_Dr:7th_Dr:P2016:
+:PROPERTIES:
+:rating:   8.7
+:END:
+
+** Classic Doctors, New Monsters
+*** CDNM vol.1 :P2016:
+**** DONE [#B] 1.1 Fallen Angels :5th_Dr:
+**** [#B] 1.2 Judoon in Chains :6th_Dr:
+**** CANCEL [#E] 1.3 Harvest of the Sycorax :7th_Dr:
+**** DONE [#C] 1.4 The Sontaran Ordeal :8th_Dr:time_war:
+*** CDNM vol.2 :P2017:
+**** DONE [#C] 2.1 Night of the Vashta Nerada :4th_Dr:
+**** CANCEL [#F] 2.2 Empire of the Racnoss :5th_Dr:
+**** [#D] 2.3 The Carrionite Curse :6th_Dr:
+**** DONE [#C] 2.4 Day of the Vashta Nerada :8th_Dr:time_war:
+*** CDNM vol.3 The Stuff of Nightmares :P2022_07:
+**** HALF [#D] 3.1 The House That Hoxx Built :3rd_Dr:Sarah:
+**** [#C] 3.2 The Tivolian Who Knew Too Much :4th_Dr:Leela:
+**** READY [#A] 3.3 Together In Eclectic Dreams :6th_Dr:bilibili:
+
+【【神秘博士广播剧熟肉】The Stuff of Nightmares 303 Together in Eclectic Dreams 共做一梦-哔哩哔哩】 https://b23.tv/GpP2NHZ
+
+**** READY [#A] 3.4 If I Should Die Before I Wake :8th_Dr:Charley:bilibili:
+
+【【神秘博士广播剧熟肉】The Stuff of Nightmares 304 If I Should Die Before I Wake 若我在沉睡中死去-哔哩哔哩】 https://b23.tv/TJmTSCZ
+
+*** TBR CDNM vol.4 Broken Memories :P2023_10:
+** The Legacy of Time :P2019:
+*** HALF [#B] Lies in Ruins :8th_Dr:River:Benny:
+*** CANCEL [#E] The Split Infinitive :7th_Dr:Ace:CM:
+*** DONE [#A] The Sacrifice of Jo Grant :3rd_Dr:Jo:UNIT_new:Brig:
+*** [#D] Relative Time :5th_Dr:Jenny:the_Nine:
+*** [#C] The Avenues of Possibility :6th_Dr:Charley:
+*** [#B] Collision Course :4th_Dr:
+** Time Lord Victorious
+
+https://disk.yandex.ru/d/n_i2CRgIJW0xOw
+
+** Unbound: Doctor of War
+*** [#B] 1.1 - Dust Devil
+*** [#C] 1.2 - Aftershocks
+*** [#D] 1.3 - The Difference Office
+*** [#D] 2.1 Who Am I?
+*** [#E] 2.2 Time Killers
+*** [#B] 2.3 The Key To Key To Time
+** Peladon :P2022_01:
+*** [#B] 1. The Ordeal of Peladon :10th_Dr:
+*** [#D] 2. The Poison of Peladon :River:
+*** CANCEL [#E] 3. The Death of Peladon :6th_Dr:Mel:
+*** [#A] 4. The Truth of Peladon :8th_Dr:
+** Once and Future
+*** 1. Past Lives :P2023_06:4th_Dr:
+*** 2. The Artist at the End of Time :5th_Dr:
+*** 3. A Genius For War :6th_Dr:
+* multi-doctor story
+** IX. The Four Doctors :P2010:
+** [#D] ST3.1 - Seven to One :🗣:P2011:plot_yes:
+:PROPERTIES:
+:rating:   7.4
+:END:
+
+** The Light at the End :P2013:
 * no doctor :no_doctor:
 ** comics
 *** DWM backup :📚:

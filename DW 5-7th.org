@@ -422,6 +422,9 @@ CLOSED: [2022-11-27 Sun 23:36] SCHEDULED: <2022-11-16 Wed>
 **** 📂2023A. Conflicts of Interests :Nyssa:Tegan:P2023_04:
 ***** Friendly Fire :1CD:
 ***** The Edge of the War :1CD:
+**** 📂2023B. In the Night :Nyssa:Tegan:P2023_09:
+***** 1. Pursuit of the Nightjar :2CD:
+***** 2. Resistor :1CD:
 *** misc
 **** The Lost Stories
 ***** [#B] 3.1 - The Elite :Nyssa:Tegan:Daleks:2CD:
@@ -773,7 +776,7 @@ CLOSED: [2023-04-11 Tue 21:15] SCHEDULED: <2023-04-15 Sat>
 
 【【广播剧翻译】在重生29年后补的重生集 六任：最后的冒险  104 The Brink of Death-哔哩哔哩】 https://b23.tv/4Ozoj0K
 
-**** The Sixth Doctor and Peri :Peri:1CD:plot_yes:P2020:
+**** 📂The Sixth Doctor and Peri :Peri:1CD:plot_yes:P2020:
 
 Volume One
 
@@ -797,7 +800,7 @@ Volume One
 :rating:   9.0
 :END:
 
-**** 📂21. The Eleven :P2021_09:The_Eleven:Constance:1CD:
+**** 📂2021. The Eleven :P2021_09:The_Eleven:Constance:1CD:
 ***** [#D] 1. One for All
 ***** [#B] 2. The Murder of Oliver Akkron
 ***** [#B] 3. Elevation
@@ -806,14 +809,17 @@ Volume One
 ***** [#B] 1.2 - The Tides of the Moon
 ***** [#E] 1.3 - Maelstrom
 **** 📂2022B. Purity Undreamed :P2022_08:Mel:Hebe:
-***** 2.1 The Mindless Ones
-***** 2.2 Reverse Engineering
-***** 2.3 Chronomancer
+***** [#E] 2.1 The Mindless Ones
+***** [#F] 2.2 Reverse Engineering
+***** [#D] 2.3 Chronomancer
 **** 📂2023A. Purity Unleashed :P2023_05:Mel:
 ***** 1. Broadway Belongs to Me!
 ***** 2. Purification
 ***** 3. Time-Burst
-**** TBR 📂2023B. Purity Unbound :P2023_08:Mel:Hebe:
+**** 📂2023B. Purity Unbound :P2023_08:Mel:Hebe:
+***** 1. Girl in a Bottle
+***** 2. The Corruptions
+***** 3. The Wrong Side of History
 *** The Lost Stories
 **** The Lost Stories s1 :Peri:2CD:
 ***** [#E] LS1.1 The Nightmare Fair :scripted:ToyMaker:
