@@ -581,24 +581,24 @@ collected in: DC Universe Rebirth
 Announces Rebirth
 
 **** Batman v3
-***** [#C] 2016	I am Gotham
+***** DONE [#C] vol.1	I am Gotham :P2016:
+CLOSED: <2023-09-10 Sun 16:32>
 
 Batman #1-6	
 collected in Batman: I am Gotham
 
-***** [#B] 2016	I am Suicide
+***** DONE [#B] vol.2	I am Suicide :P2016:
+CLOSED: <2023-09-14 Thu 18:46>
 
-Batman #9-13	
+Batman #9-13: I am Suicide
+Batman #14-15: Rooftops
 
-collected in Batman: I am Suicide
-
-***** [#B] (2017) I am Bane
+***** [#B] vol.3 I am Bane :P2017:
 
 Batman #16-20	
-collected in Batman: I am Bane
 
 **** Detective Comics v1
-***** (2016)	Rise of the Batmen
+***** vol.1	Rise of the Batmen :P2016:
 
 Detective Comics #934-940
 
@@ -609,17 +609,28 @@ Batman: Detective Comics: Rise of the Batmen
 Detective Comics #943-947	
 collected in Batman: Detective Comics: The Victim Syndicate
 
+***** (2017) Batwoman Begins
+
+Detective Comics #948-949
+
 ***** (2017) League of Shadows
 
 Detective Comics #950-956	
 collected in Batman: League of Shadows
 
-**** (2016)	Night of the Monster Men
+**** crossover
+***** NOW (2016)	Night of the Monster Men
 
-- Batman #7-8
+- Batman v3 #7-8
 - Nightwing #5-6
 - Detective Comics #941-942
 - Batman: Night of the Monster Men	
+
+***** [#C] (2017) The Button
+
+- Batman v3 #21-22	
+- The Flash (Volume 5) #21-22
+collected in Batman / The Falsh: The Button
 
 **** singles
 ***** (2017) Rooftops
@@ -636,16 +647,6 @@ A Backup Story
 
 Detective Comics #950		
 A Backup Story
-
-**** (2017) Batwoman Begins
-
-Detective Comics #948-949
-
-**** [#C] (2017) The Button
-
-- Batman v2 #21-22	
-- The Flash (Volume 5) #21-22
-collected in Batman / The Falsh: The Button
 
 **** [#B] Batman: White Knight vol.1 (8 issues) :P2017:
 **** [#B] Rules of Engagement :P2017:
@@ -757,6 +758,7 @@ CLOSED: <2021-06-18 Fri 22:14>
 
 凯特·凯恩是新的蝙蝠女侠，她在探索她的过去并踏入她的新角色时，必须面对超自然的威胁。
 
+**** Batwoman v2 vol. 1-4 :P2011:
 *** GCPD
 **** Gotham Central
 *** Batgirl
@@ -889,6 +891,7 @@ CLOSED: [2022-10-02 Sun 11:16] SCHEDULED: <2022-10-05 Wed>
 
 Ra's al Ghul 复活
 
+*** Gotham S5 (12 eps)
 *** DONE Pennyworth S1
 CLOSED: [2022-09-16 Fri 20:31]
 
@@ -915,6 +918,10 @@ CLOSED: [2022-09-09 Fri 20:06] SCHEDULED: <2022-09-10 Sat>
 
 **** DONE 1x10
 CLOSED: [2022-09-16 Fri 20:31]
+
+*** Pennyworth S2
+
+10 eps
 
 *** Harley Quinn (animated) :Harley:
 
@@ -962,6 +969,7 @@ CLOSED: [2022-09-30 Fri 19:19] SCHEDULED: <2022-09-30 Fri>
 ***** DONE 1x13
 CLOSED: [2022-10-02 Sun 11:51]
 
+**** S2
 ** DCAU :dcau:
 *** Batman Adventures
 **** movies
@@ -1111,6 +1119,8 @@ Action Comics (2011-2016) #1-18
 **** BLOCK The Death of Superman (1992-1993) :P1992:crossover:
 
 https://dc.fandom.com/wiki/Death_of_Superman
+
+有实体中文版书 https://book.douban.com/subject/35045339/
 
 ***** The Death of Superman
 
@@ -1286,7 +1296,7 @@ Superman: New Krypton Special #1 pages 1-9
 **** The Final Days of Superman
 **** Revenge
 ** tv :📺:
-*** DONE Superman and Lois (15 eps)
+*** DONE Superman and Lois S1 (15 eps)
 CLOSED: [2022-10-02 Sun 20:58]
 
 **** DONE 1x01
@@ -1333,6 +1343,28 @@ CLOSED: [2022-10-01 Sat 22:05] SCHEDULED: <2022-10-05 Wed>
 
 **** DONE 1x15
 CLOSED: [2022-10-02 Sun 20:58]
+
+*** DOING Superman and Lois S2
+**** DONE 2x01
+CLOSED: [2023-09-05 Tue 19:04]
+
+**** DONE 2x02
+CLOSED: [2023-09-05 Tue 20:22]
+
+**** DONE 2x03
+CLOSED: <2023-09-06 Wed 21:47>
+
+**** DONE 2x04
+CLOSED: [2023-09-08 Fri 00:30]
+
+**** DONE 2x05
+CLOSED: [2023-09-08 Fri 23:55]
+
+**** DONE 2x06
+CLOSED: [2023-09-12 Tue 22:40]
+
+**** DONE 2x07
+CLOSED: [2023-09-13 Wed 22:54]
 
 ** movies
 *** BLOCK The Death of Superman :DCAMU:P2018:
