@@ -363,9 +363,7 @@ This story acts as a sequel to the novel /Sarek/ by A.C. Crispin, and as a p
 *** IDW
 **** New Visions :photonovel:
 ***** Strange New Worlds (Annual 2013) :tv_continuation:
-***** NEXT 01. The Mirror Cracked :mirror_universe:
-SCHEDULED: <2022-08-01 Mon>
-
+***** LATER 01. The Mirror Cracked :mirror_universe:
 ***** DONE Special: The Cage :tv_based:Pike:
 **** TPB: TOS omnibus
 ***** DONE Blood Will Tell :hanzify:⭐️:Klingons:
@@ -2167,14 +2165,14 @@ CLOSED: [2023-06-24 Sat 20:32] SCHEDULED: <2023-06-24 Sat>
 **** DONE 4x03 Choose to Live
 CLOSED: [2023-06-29 Thu 18:58] SCHEDULED: <2023-07-02 Sun>
 
-**** TODO 4x04 All Is Possible
-SCHEDULED: <2023-07-02 Sun>
+**** DONE 4x04 All Is Possible
+CLOSED: [2023-07-16 Sun 12:26] SCHEDULED: <2023-07-02 Sun>
 
 **** TODO 4x05 The Examples
-SCHEDULED: <2023-07-08 Sat>
+SCHEDULED: <2023-07-09 Sun>
 
 **** TODO 4x06 Stormy Weather
-SCHEDULED: <2023-07-08 Sat>
+SCHEDULED: <2023-07-09 Sun>
 
 **** TODO 4x07 ...But to Connect
 SCHEDULED: <2023-07-15 Sat>
@@ -2225,7 +2223,7 @@ CLOSED: <2022-06-04 Sat 17:14> SCHEDULED: <2022-06-03 Fri>
 ** audio
 *** No Man's Land :P2022:Seven_of_Nine:Raffi:
 * LD - Lower Decks :LD:animated:
-** 📂Lower Decks (2020)
+** DONE 📂Lower Decks S1 (2020)
 *** DONE 1x01 Second Contact
 CLOSED: <2021-01-12 Tue 19:10>
 
@@ -2260,7 +2258,7 @@ CLOSED: [2022-07-29 Fri 21:16] SCHEDULED: <2022-07-30 Sat>
 *** 2x01 Strange Energies
 * SNW - Strange New Worlds (2022- ) :SNW:Pike:
 ** tv :📺:
-*** SNW S1 :P2022:
+*** DONE SNW S1 :P2022:
 
 10 episodes
 
@@ -2307,6 +2305,16 @@ CLOSED: [2023-07-01 Sat 12:02] SCHEDULED: <2023-07-01 Sat>
 :END:
 
 an alternate timeline of TOS episode: /Balance of Terror/
+
+*** SNW S2 :P2023:
+
+
+
+新世界第二季整季：
+百度网盘：https://pan.baidu.com/s/1onWnu2wUZd5YZFDD0uDCWg?pwd=stcn 提取码：stcn
+阿里云盘：https://www.aliyundrive.com/s/VURkpFkpUu2
+夸克网盘：https://pan.quark.cn/s/afd047d935d3
+快速下载：https://stcn.link/s/snw2dl
 
 ** comics :📚:
 *** Early Voyages (Marvel)
@@ -2830,7 +2838,7 @@ CLOSED: [2021-03-26 Fri 23:23]
 
  The crew must contend with the disastrous fallout from Kelly's decision.
 
-*** 📂Orville S3
+*** DOING 📂Orville S3
 **** DONE 3x01 Electric Sheep
 CLOSED: [2022-06-20 Mon 23:48]
 

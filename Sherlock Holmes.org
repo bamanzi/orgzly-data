@@ -31,9 +31,7 @@ CLOSED: [2021-07-31 Sat 23:49]
 ***** DONE 1x02 The Dancing Men 跳舞的人
 CLOSED: <2021-07-23 Fri 23:49>
 
-***** NEXT 1x03 The Naval Treaty 海军协约
-SCHEDULED: <2022-09-25 Sun>
-
+***** DONE 1x03 The Naval Treaty 海军协约
 ***** DONE 1x04 The Solitary Cyclist 孤身骑车人
 CLOSED: [2022-09-25 Sun 22:54] SCHEDULED: <2022-10-01 Sat>
 
@@ -191,7 +189,7 @@ CLOSED: [2022-12-10 Sat 17:38]
 :rating:   8.2
 :END:
 
-**** S5 :P2016:
+**** DOING S5 :P2016:
 ***** DONE 5x01
 CLOSED: <2023-08-13 Sun 22:42>
 
@@ -221,15 +219,36 @@ CLOSED: [2023-09-11 Mon 22:13]
 ***** DONE 5x09
 CLOSED: [2023-09-11 Mon 23:00]
 
+***** DONE 5x10
+CLOSED: [2023-09-17 Sun 21:25] SCHEDULED: <2023-09-17 Sun>
+
+***** DONE 5x11
+CLOSED: [2023-09-20 Wed 23:11] SCHEDULED: <2023-09-21 Thu>
+
+***** DONE 5x12
+CLOSED: [2023-09-24 Sun 20:24] SCHEDULED: <2023-09-24 Sun>
+
+***** NOW 5x13
+SCHEDULED: <2023-09-28 Thu>
+
+***** NEXT 5x14
+SCHEDULED: <2023-09-30 Sat>
+
+***** NEXT 5x15
+SCHEDULED: <2023-10-06 Fri>
+
+**** S6
 **** S7 :P2019:
 *** Sherlock 神探夏洛克
 * Agatha Christie 阿加莎·克里斯蒂 :阿婆:
-** tv
-*** 大侦探波罗 Agatha Christie's Poirot
+** tv :📺:
+*** 大侦探波罗 Agatha Christie's Poirot :poirot:
 
 https://agathachristie.fandom.com/wiki/Agatha_Christie%27s_Poirot
 
-**** series 1 (10 episodes) :P1989:
+70 episodes in total
+
+**** DOING series 1 (10 episodes) :P1989:
 ***** DONE 1x01 The Adventure of the Clapham Cook
 ***** DONE 1x02 Murder in the Mews
 CLOSED: [2022-09-26 Mon 08:14] SCHEDULED: <2022-09-25 Sun>
@@ -246,26 +265,39 @@ CLOSED: [2023-09-04 Mon 20:18] SCHEDULED: <2022-10-29 Sat>
 ***** DONE 1x06 Triangle at Rhodes
 CLOSED: [2023-09-14 Thu 19:59]
 
-***** 1x07 Problem at Sea
-***** 1x08 The Incredible Theft
-***** 1x09 The King of Clubs
-***** 1x10 The Dream
+***** DONE 1x07 Problem at Sea
+CLOSED: [2023-09-18 Mon 20:16] SCHEDULED: <2023-09-17 Sun>
+
+***** DONE 1x08 The Incredible Theft
+CLOSED: [2023-09-28 Thu 20:03] SCHEDULED: <2023-09-24 Sun>
+
+***** NOW 1x09 The King of Clubs
+SCHEDULED: <2023-10-03 Tue>
+
+***** NEXT 1x10 The Dream
+SCHEDULED: <2023-10-06 Fri>
+
 **** series 13 :P2013:
 *** 玛普尔小姐 Agatha Christie's Marple
 
 https://agathachristie.fandom.com/wiki/Agatha_Christie's_Marple
 
-**** Season 1 :P2004:
+23 episodes
+
+**** DOING Season 1 :P2004:Marple:
 ***** DONE 1x01 The Body in the Library 藏书室女尸之谜
 ***** DONE 1x02 The Murder At The Vicarage
 CLOSED: [2022-09-21 Wed 22:49]
 
-***** NEXT 1x03 4.50 From Paddington
-SCHEDULED: <2022-10-22 Sat>
+***** DONE 1x03 4.50 From Paddington
+CLOSED: [2023-09-24 Sun 13:20] SCHEDULED: <2023-09-24 Sun>
 
-***** NEXT 1x04 A Murder Is Announced
-SCHEDULED: <2022-10-29 Sat>
+***** NOW 1x04 A Murder Is Announced
+SCHEDULED: <2023-09-30 Sat>
 
+**** season 2 :P2006:
+***** 2x01 Sleeping Murder
+***** 2x02 The Moving Finger
 **** Season 6 :P2013:
 *** 汤米夫妇探案集 Agatha Christie's Partners in Crime
 
@@ -278,7 +310,9 @@ CLOSED: [2021-07-25 Sun 17:42]
 **** DONE ep2 The House of Lurking Death
 CLOSED: [2022-09-30 Fri 08:08]
 
-**** ep3 The Sunningdale Mystery
+**** NOW ep3 The Sunningdale Mystery
+SCHEDULED: <2023-10-03 Tue>
+
 **** ep4 The Clergyman's Daughter
 **** ep5 Finessing the King
 **** ep6 The Ambassador's Boots

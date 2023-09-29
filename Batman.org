@@ -580,7 +580,7 @@ collected in: DC Universe Rebirth
 
 Announces Rebirth
 
-**** Batman v3
+**** DOING Batman v3
 ***** DONE [#C] vol.1	I am Gotham :P2016:
 CLOSED: <2023-09-10 Sun 16:32>
 
@@ -593,7 +593,8 @@ CLOSED: <2023-09-14 Thu 18:46>
 Batman #9-13: I am Suicide
 Batman #14-15: Rooftops
 
-***** [#B] vol.3 I am Bane :P2017:
+***** NOW [#B] vol.3 I am Bane :P2017:
+SCHEDULED: <2023-09-23 Sat>
 
 Batman #16-20	
 
@@ -620,6 +621,7 @@ collected in Batman: League of Shadows
 
 **** crossover
 ***** NOW (2016)	Night of the Monster Men
+SCHEDULED: <2023-09-23 Sat>
 
 - Batman v3 #7-8
 - Nightwing #5-6
@@ -821,7 +823,7 @@ The story is inspired by the /Batman Reborn/ arc, whilst also including elements
 - Nightwing / Batman (Dick Grayson) (First appearance as Batman)
 - Robin (Damian Wayne)
 
-**** NEXT Batman: Hush
+**** LATER Batman: Hush
 *** other animated (non-DCAMU)
 **** DONE Batman: Under the Red Hood
 **** DONE Batman: Year One :P2011:
@@ -969,7 +971,24 @@ CLOSED: [2022-09-30 Fri 19:19] SCHEDULED: <2022-09-30 Fri>
 ***** DONE 1x13
 CLOSED: [2022-10-02 Sun 11:51]
 
-**** S2
+**** DOING S2
+***** DONE 2x01
+CLOSED: [2023-09-16 Sat 20:00]
+
+***** DONE 2x02
+CLOSED: [2023-09-19 Tue 07:06] SCHEDULED: <2023-09-17 Sun>
+
+***** DONE 2x03
+CLOSED: [2023-09-24 Sun 22:54] SCHEDULED: <2023-09-24 Sun>
+
+***** NOW 2x04
+SCHEDULED: <2023-09-27 Wed>
+
+***** NOW 2x05
+SCHEDULED: <2023-09-29 Fri>
+
+***** NEXT 2x06
+***** NEXT 2x07
 ** DCAU :dcau:
 *** Batman Adventures
 **** movies
@@ -1059,8 +1078,8 @@ CLOSED: [2022-10-25 Tue 12:54]
 
 a new modern version of the Superman story taking place in a
 
-**** Superman v4 :P2016:
-***** NEXT Vol.1 Son of Superman
+**** NEXT Superman v4 :P2016:
+***** Vol.1 Son of Superman
 ***** Vol.2 Trials of the Super Son
 ***** Vol.3 Multiplicity
 ***** Vol.4 Black Dawn
@@ -1069,13 +1088,13 @@ a new modern version of the Superman story taking place in a
 ***** Vol.7 Bizarroverse
 **** Superman Smashes the Klan 超人恶斗3K党 :P2019:
 *** greatest hits
-**** READY Superman: For All Seasons 四季 :P1998:🛒:
+**** LATER Superman: For All Seasons 四季 :P1998:🛒:
 **** DONE All-star Superman :P2005:Grant_Morrison:🛒:
 **** BLOCK Superman: Kryptonite :P2006:
 
 SUPERMAN CONFIDENTIAL #1-5 and #11.
 
-**** NEXT _/Superman/, by Kurt Busiek_ :P2006:
+**** DOING _/Superman/, by Kurt Busiek_ :P2006:
 
 #654-675, 712, Annual #13
 
@@ -1113,7 +1132,14 @@ Action Comics (2011-2016) #1-18
 
 #13-18
 
-**** LATER Superman: Up in the Sky 云天之上 :P2018:
+**** NEXT Superman: Up in the Sky 云天之上 :P2018:hanzify:
+
+【关爱酥皮烤肉锅炉组】补档
+超人：云天之上01~06 ​
+
+https://m.weibo.cn/6135693122/4821361538896879
+
+
 **** LATER /Action Comics/, by Phillip Kennedy Johnson :P2021:
 *** further reading
 **** BLOCK The Death of Superman (1992-1993) :P1992:crossover:
@@ -1129,15 +1155,15 @@ Superman: The Man of Steel #18-19, Justice League America #69, Superman #74-75, 
 ***** Funeral for a Friend
 ***** Reign of the Supermen
 ***** Return of Superman
-**** DOING Superman/Batman, by Jeph Loeb :P2003:
+**** LATER Superman/Batman, by Jeph Loeb :P2003:
 
 Superman/Batman v1 #1-26
 
-***** NEXT Public Enemies :P2003:
+***** Public Enemies :P2003:
 
 Superman/Batman v1 #1-6
 
-***** NEXT The Supergirl from Krypton :P2004:
+***** The Supergirl from Krypton :P2004:
 
 Superman/Batman v1 #8-13
 
@@ -1365,6 +1391,30 @@ CLOSED: [2023-09-12 Tue 22:40]
 
 **** DONE 2x07
 CLOSED: [2023-09-13 Wed 22:54]
+
+**** DONE S&L 2x08
+CLOSED: [2023-09-15 Fri 20:19] SCHEDULED: <2023-09-24 Sun>
+
+**** DONE S&L 2x09
+CLOSED: [2023-09-17 Sun 23:18] SCHEDULED: <2023-09-20 Wed>
+
+**** DONE S&L 2x10
+CLOSED: [2023-09-19 Tue 09:03] SCHEDULED: <2023-09-20 Wed>
+
+**** DONE S&L 2x11
+CLOSED: [2023-09-23 Sat 01:01] SCHEDULED: <2023-09-21 Thu>
+
+**** DONE S&L 2x12
+CLOSED: [2023-09-24 Sun 22:31] SCHEDULED: <2023-09-24 Sun>
+
+**** DONE 2x13
+CLOSED: [2023-09-28 Thu 15:49] SCHEDULED: <2023-09-27 Wed>
+
+**** NOW 2x14
+SCHEDULED: <2023-09-30 Sat>
+
+**** NEXT 2x15
+SCHEDULED: <2023-10-06 Fri>
 
 ** movies
 *** BLOCK The Death of Superman :DCAMU:P2018:
