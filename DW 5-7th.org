@@ -385,11 +385,11 @@ SCHEDULED: <2023-01-06 Fri 08:38>
 :END:
 
 **** 269. Shadow of the Daleks 1 :½CD:
-***** HALF [#C] 269a. Aimed at the Body :DW2023_09_spinoffs:
-SCHEDULED: <2023-09-09 Sat>
+***** 3QTR [#C] 269a. Aimed at the Body :DW2023_09_spinoffs:
+CLOSED: <2023-09-12 Tue 09:13> SCHEDULED: <2023-09-09 Sat>
 
-***** [#E] 269b. Lightspeed :DW2023_09_spinoffs:
-SCHEDULED: <2023-09-09 Sat>
+***** HALF [#E] 269b. Lightspeed :DW2023_09_spinoffs:
+SCHEDULED: <2023-09-24 Sun>
 
 ***** [#E] 269c. The Bookshop at the End of the World
 ***** [#B] 269d. Interlude
@@ -832,7 +832,8 @@ Volume One
 :rating:   5.7
 :END:
 
-***** [#B] 1.3 - Leviathan :scripted:
+***** NEXT [#B] 1.3 - Leviathan :scripted:DW2023_10_doctor:
+SCHEDULED: <2023-10-21 Sat>
 :PROPERTIES:
 :rating:   8.1
 :END:
@@ -1035,8 +1036,8 @@ CLOSED: [2022-09-27 Tue 19:48] SCHEDULED: <2022-09-18 Sun>
 
 http://www.drwhoguide.com/who_bf79.htm
 
-***** TODO [#C] 82. The Settling :Ace:Hex:plot_no:DW2023_09_doctor:
-SCHEDULED: <2023-09-16 Sat>
+***** 3QTR [#C] 82. The Settling :Ace:Hex:plot_no:DW2023_09_doctor:
+CLOSED: <2023-09-16 Sat 13:03> SCHEDULED: <2023-09-16 Sat>
 :PROPERTIES:
 :rating:   7.7
 :END:

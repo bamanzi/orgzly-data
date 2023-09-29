@@ -682,7 +682,8 @@ mp3val -f
 
 https://m.vk.com/wall-205306392_48
 
-**** [#B] MA05. The Enemy of the Universe
+**** NOW [#B] MA05. The Enemy of the Universe :DW2023_10_doctor:
+SCHEDULED: <2023-10-07 Sat>
 
 https://m.vk.com/wall-205306392_49
 
@@ -826,7 +827,8 @@ SCHEDULED: <2023-05-27 Sat>
 :rating:   7.1
 :END:
 
-**** TODO [#B] 8.2 The Devil's Hoofprints :P2021:Sarah:plot_yes:DW2023_09_doctor:
+**** HALF [#B] 8.2 The Devil's Hoofprints :P2021:Sarah:Brigadier:plot_yes:DW2023_09_doctor:
+SCHEDULED: <2023-09-21 Thu>
 :PROPERTIES:
 :rating:   8.1
 :END:
@@ -1318,7 +1320,9 @@ CLOSED: [2020-07-15 Wed 19:13]
 ***** [#C] 10.3 The Tribulations of Tahdeus Nook
 ***** [#E] 10.4 The Primeval Design
 **** 📂4DA series 11 :P2022:2CD:
-***** NEXT [#A] 11.1 Blood of the Time Lords :Master_early:plot_yes:
+***** NOW [#A] 11.1 Blood of the Time Lords :Master_early:plot_yes:DW2023_10_doctor:
+SCHEDULED: <2023-10-14 Sat>
+
 ***** 3QTR [#B] 11.2 The Ravencliff Witch :Margaret:plot_yes:DW2023_02_doctor:
 CLOSED: <2023-02-10 Fri 14:02> SCHEDULED: <2023-02-06 Mon 08:42>
 

@@ -218,7 +218,8 @@ Bonded by an alien device, Margaret and Suzie find themselves on the run from To
       :rating:   6.3
       :END:
 
-***** [#C] 29 Serenity :Jack:Ianto:
+***** NOW [#C] 29 Serenity :Jack:Ianto:DW2023_10_spinoffs:
+      SCHEDULED: <2023-10-08 Sun>
       :PROPERTIES:
       :rating:   7.6
       :END:
@@ -307,7 +308,8 @@ Sebastian Vaughan is the brightest, newest recruit to Torchwood. He's come fro
       :rating:   7.9
       :END:
 
-***** [#A] TW43. The Three Monkeys :Owen:Andy:
+***** NEXT [#A] TW43. The Three Monkeys :Owen:Andy:DW2023_10_spinoffs:
+      SCHEDULED: <2023-10-22 Sun>
       :PROPERTIES:
       :rating:   8.8
       :END:
@@ -400,13 +402,15 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 
 ***** [#A] 57. The Grey Mare (8.5) :Ianto:
 ***** [#B] 58. Cadoc Point (8.4) :Andy:
-***** [#A] 59. Sonny (8.9) :Rhys:
+***** NEXT [#A] 59. Sonny (8.9) :Rhys:
 ***** CANCEL [#E] 60. Infidel Places+ (6.7) :Queen:
 **** series 8 (61-72)
 ***** HALF [#C] TW61. War Chest :Tosh:P2022_05:DW2023_04_spinoffs:
       DEADLINE: <2023-04-23 Sun> SCHEDULED: <2023-04-19 Wed 08:42>
 
-***** TODO [#D] 62. Dead Plates :Bilis_Manger:DW2023_09_spinoffs:
+***** HALF [#D] 62. Dead Plates :Bilis_Manger:DW2023_09_spinoffs:
+      SCHEDULED: <2023-09-24 Sun>
+
 ***** [#A] 63. Restricted Items Archive Entries 031–049 :Ianto:
 ***** [#B] 64. Suckers :Tosh:
 ***** [#B] 65X A Postcard from Mr Colchester :Colchester:
@@ -1062,7 +1066,12 @@ Roberts Master
 *** START [#A] J&L8.1 - Encore of the Scorchies         (8.9) :DW2023_08_spinoffs:
     SCHEDULED: <2023-08-13 Sun>
 
-*** TODO [#D] 8.2 - The Backwards Men               (7.3) :DW2023_09_spinoffs:
+*** START [#D] 8.2 - The Backwards Men :DW2023_09_spinoffs:
+    SCHEDULED: <2023-09-17 Sun>
+    :PROPERTIES:
+    :rating:   7.3
+    :END:
+
 *** [#D] 8.3 - Jago & Litefoot & Patsy           (7.3)
 *** [#C] 8.4 - Higson & Quick                    (7.5)
 ** J&L series 9 :P2015:
@@ -1197,13 +1206,20 @@ Roberts Master
     :END:
 
 ** series 6 :P2013:
-*** 3QTR [#C] GAL6.1 - Extermination (7.8) :DW2023_07_spinoffs:
+*** 3QTR [#C] GAL6.1 - Extermination :DW2023_07_spinoffs:
     CLOSED: [2023-07-26 Wed 09:08] SCHEDULED: <2023-07-16 Sun>
 
-*** TODO [#B] 6.2 - Renaissance (8.1) :DW2023_09_spinoffs:
-*** [#B] 6.3 - Ascension (8.3)
-** [#B] 7.0 - Intervention Earth     (8.1) :P2015:
-** [#A] 8.0 - Enemy Lines (8.9) :P2016:
+*** HALF [#B] 6.2 - Renaissance :Romana_3:DW2023_09_spinoffs:
+    SCHEDULED: <2023-09-24 Sun>
+    :PROPERTIES:
+    :rating:   8.1
+    :END:
+
+*** NOW [#B] 6.3 - Ascension :DW2023_10_spinoffs:
+    SCHEDULED: <2023-10-15 Sun>
+
+** [#B] 7.0 - Intervention Earth :P2015:
+** [#A] 8.0 - Enemy Lines :P2016:
 * Bernice Summerfield :Benny:
 ** Bernice Summerfield :🎧:
 *** Series 1 :P1999:
@@ -1377,15 +1393,16 @@ http://drwhoguide.com/bs_a18.htm
 **** 3QTR [#C] BS11.4 - Dead Man's Switch :plot_yes:DW2023_06_spinoffs:
      CLOSED: [2023-06-20 Tue 08:08] SCHEDULED: <2023-06-18 Sun>
 
-** Bernice Summerfield (boxset)
+** Bernice Summerfield (boxset) :🎧:
 *** Boxset 1: Epoch :P2011:Atlantis:plot_yes:
 **** HALF [#B] 1.1 The Kraken's Lament :Jack_McSpringheel:DW2023_09_spinoffs:
-     SCHEDULED: <2023-09-24 Sun>
+     SCHEDULED: <2023-09-21 Thu>
      :PROPERTIES:
      :rating:   7.9
      :END:
 
-**** [#B] 1.2 The Temple of Questions :Ruth_Leonidas:
+**** NOW [#B] 1.2 The Temple of Questions :Ruth_Leonidas:DW2023_10_spinoffs:
+     SCHEDULED: <2023-10-08 Sun>
      :PROPERTIES:
      :rating:   8.0
      :END:
@@ -2069,22 +2086,24 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
 **** [#E] 2.3 The Last Line of Defence
 * UNIT: The New Series :UNIT_new:🎧:
 ** UNIT 1: Extinction :Nestene:P2015:plot_yes:
-*** TODO [#C] UNIT1.1 - Vanguard (7.5) :DW2023_09_spinoffs:
+*** START [#C] UNIT1.1 - Vanguard :DW2023_09_spinoffs:
+    SCHEDULED: <2023-09-10 Sun>
     :PROPERTIES:
     :rating:   7.5
     :END:
 
-*** [#C] 1.2 Earthfall (7.8)
+*** NOW [#C] 1.2 Earthfall :DW2023_10_spinoffs:
+    SCHEDULED: <2023-10-15 Sun>
     :PROPERTIES:
     :rating:   7.8
     :END:
 
-*** [#C] 1.3 Bridgehead (7.9)
+*** [#C] 1.3 Bridgehead
     :PROPERTIES:
     :rating:   7.9
     :END:
 
-*** [#B] 1.4	 Armageddon (8.3)
+*** [#B] 1.4	 Armageddon
     :PROPERTIES:
     :rating:   8.3
     :END:
@@ -2297,8 +2316,10 @@ http://www.drwhoguide.com/kaldor03.htm
      :rating:   7.5
      :END:
 
-**** [#D] 3.2 - Whatever Remains          (7.2)
-**** [#B] 3.3 - Truth and Bone            (8.3)
+**** NEXT [#D] 3.2 - Whatever Remains :DW2023_10_spinoffs:
+     SCHEDULED: <2023-10-22 Sun>
+
+**** [#B] 3.3 - Truth and Bone
 *** PG: Heritage 4 :P2020:
 **** [#A] 4.1 - Merry Christmas, Mr Jago  (9.0)
 **** [#E] +4.2 - The Ghost Writers+         (6.4)

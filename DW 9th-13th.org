@@ -88,8 +88,8 @@ CLOSED: [2023-07-23 Sun 12:02] SCHEDULED: <2023-07-21 Fri 13:17>
 【【神秘博士广播剧熟肉】Into the Stars 601 Salvation Nine 救赎九号-哔哩哔哩】 https://b23.tv/ORzh7WU
 
 ***** CANCEL [#F] +6.2 Last of the Zetacene+
-***** READY [#B] _6.3 Break the Ice_ :bilibili:DW2023_09_spinoffs:
-SCHEDULED: <2023-09-23 Sat>
+***** HALF [#B] _6.3 Break the Ice_ :bilibili:DW2023_09_spinoffs:
+SCHEDULED: <2023-09-24 Sun>
 
 【【神秘博士广播剧熟肉】Into the Stars 603 Break the Ice 破冰-哔哩哔哩】 https://b23.tv/FgizL7a
 
@@ -755,12 +755,12 @@ CLOSED: <2023-06-04 Sun 20:22> SCHEDULED: <2023-05-20 Sat>
 SCHEDULED: <2023-07-28 Fri 08:02>
 
 **** HALF [#A] 3.3 The End :DW2023_09_spinoffs:
-SCHEDULED: <2023-09-09 Sat>
+SCHEDULED: <2023-09-17 Sun>
 
 *** 11DC vol.4 All of Time and Space :Valarie:P2023_02:
-**** 4.1 All of Time and Space
-**** 4.2 The Yearn
-**** 4.3 Curiosity Shop
+**** [#B] 4.1 All of Time and Space
+**** [#C] 4.2 The Yearn
+**** [#A] 4.3 Curiosity Shop
 *** short trips :🗣:
 **** 3QTR ST10.5 Regeneration Impossible :D2021_08_extra:12th_Dr:
 **** 2DONE [#A] ST11.1 Rearguard :Sontarans:P2022_02:DW2022_11_doctor:
