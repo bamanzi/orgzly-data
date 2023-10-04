@@ -769,7 +769,7 @@ https://www.youtube.com/watch?v=Ft-aZtM_qlo&t=533s
 
 【【神秘博士】时间之战故事解析（下）-哔哩哔哩】 https://b23.tv/TTKWgUM 
 
-** A Prelude to the War
+** 1. Catalysts
 *** TV: Genesis of the Daleks (12x04)
 *** TV: Resurrection of the Daleks (21x04)
 *** TV: Remembrance of the Daleks (25x01)
@@ -798,6 +798,7 @@ Vayles is sent to meet the Fourth Doctor and to instruct him to destroy the Dale
 
 Narvin�from the future (AUDIO: Desperate Measures) attempts to prevent the War.
 
+** 2. Tensions rising
 *** /📂The War Master series 2: The Master of Callous/ :Master_war:scripted:🎧:
 **** DONE Call for the Dead
 CLOSED: <2020-10-08 Thu 10:49>
@@ -811,57 +812,36 @@ CLOSED: [2020-12-26 Sat 09:41]
 **** DONE Sins of the Father
 CLOSED: [2020-12-27 Sun 08:30]
 
-** The First Segment of the War
-*** First timeline
-**** TODO MR269/270 Shadow of the Daleks :5th_Dr:🎧:
-**** DONE GTW1.1 Celestial Intervention :🎧:
+*** TODO MR269/270 Shadow of the Daleks :5th_Dr:🎧:
+** 3. War is declared
+*** DONE GTW1.1 Celestial Intervention :🎧:
 CLOSED: <2020-11-06 Fri 20:12>
 
-**** Father of the Daleks (short story)
-*** Timeline established after shifting at beginning
-**** 8D misc
-***** PROSE: Natural Regression (The Scientific Secrets of Doctor Who #9)
-***** DONE [#C] The Sontaran Ordeal (CDNM #1.4) :🎧:
-CLOSED: [2020-09-23 Wed 12:53]
-:PROPERTIES:
-:rating:   7.7
-:END:
-
-***** DONE [#C] Day of the Vashta Nerada (CDNM #2.4) :Vashta_Nerada:🎧:
-CLOSED: [2020-09-23 Wed 12:53]
-:PROPERTIES:
-:rating:   7.8
-:END:
-
-***** DONE PROSE: Museum Peace
-CLOSED: [2020-09-23 Wed 12:53]
-
-***** DONE COMIC: The Forgotten (8D part)
-CLOSED: [2020-09-23 Wed 12:53]
-
-**** DONE GTW1.2 Soldier Obscura (Gallifrey: Time War #1.2) :🎧:
+*** DONE GTW1.2 Soldier Obscura (Gallifrey: Time War #1.2) :🎧:
 CLOSED: <2020-11-07 Sat 10:33>
 
-**** /📂The War Master series 3: Rage of the Time Lords/ :Master_war:scripted:🎧:
-***** DONE [#C] WM3.1 The Survivor
+*** PROSE: Natural Regression (The Scientific Secrets of Doctor Who #9)
+*** Father of the Daleks (short story)
+*** /📂The War Master series 3: Rage of the Time Lords/ :Master_war:scripted:🎧:
+**** DONE [#C] WM3.1 The Survivor
 CLOSED: <2020-12-30 Wed 07:42>
 :PROPERTIES:
 :rating:   7.5
 :END:
 
-***** DONE [#E] WM3.2 The Coney Island Chameleon
+**** DONE [#E] WM3.2 The Coney Island Chameleon
 CLOSED: <2020-11-12 Thu 13:14>
 :PROPERTIES:
 :rating:   6.9
 :END:
 
-***** DONE [#B] WM3.3 The Missing Link :8th_Dr:
+**** DONE [#B] WM3.3 The Missing Link :8th_Dr:
 CLOSED: <2021-01-05 Tue 01:03>
 :PROPERTIES:
 :rating:   8.2
 :END:
 
-***** DONE [#B] WM3.4 Darkness and Light :8th_Dr:bilibili:
+**** DONE [#B] WM3.4 Darkness and Light :8th_Dr:bilibili:
 CLOSED: [2021-01-06 Wed 09:03]
 :PROPERTIES:
 :rating:   8.5
@@ -869,158 +849,149 @@ CLOSED: [2021-01-06 Wed 09:03]
 
 【【神秘博士广播剧汉化】光与暗，善与恶，到底什么才是完美配比呢 The War Master 战争法师 304 Darkness and Light-哔哩哔哩】 https://b23.tv/BrsnX9D
 
-**** /📂The War Master series 5: Hearts of Darkness/ :Master_War:🎧:
-***** 2DONE [#B] 5.1 - The Edge of Redemption :plot_yes:DW2022_11_spinoffs:
-CLOSED: [2022-11-07 Mon 20:49] SCHEDULED: <2022-11-09 Wed>
-:PROPERTIES:
-:rating:   8.1
-:END:
-
-***** 3QTR [#C] 5.2 - The Scaramancer :plot_no:DW2022_12_spinoffs:
-CLOSED: [2022-12-14 Wed 20:30] SCHEDULED: <2022-12-08 Thu>
-:PROPERTIES:
-:rating:   7.9
-:END:
-
-***** 3QTR [#A] 5.3 - The Castle of Kurnos 5 :plot_yes:8th_Dr:DW2023_01_spinoffs:
-CLOSED: [2023-01-05 Thu 08:38] SCHEDULED: <2023-01-05 Thu 08:38>
-:PROPERTIES:
-:rating:   8.6
-:END:
-
-***** 3QTR [#A] 5.4 - The Cognition Shift :plot_yes:8th_Dr:DW2023_02_spinoffs:
-CLOSED: [2023-02-19 Sun 16:18] SCHEDULED: <2023-02-17 Fri 08:20>
-:PROPERTIES:
-:rating:   8.9
-:END:
-
-**** /📂The War Master series 8: Escape from Reality/ :P2022_12:Master_war:🎧:
-***** DONE [#A] _8.1 The Wrath of Medusa_ :bilibili:DW2023_07_spinoffs:
-CLOSED: [2023-07-27 Thu 19:33] SCHEDULED: <2023-07-23 Sun>
-
-【【广播剧汉化】奥林匹斯超市开张啦 The War Master 战争法师 801 The Wrath of Medusa-哔哩哔哩】 https://b23.tv/nf4Yhuu
-
-***** [#D] 8.2 The Shadow Master
-***** READY [#A] 8.3 The Adventure of the Deceased Doctor :Holmes:bilibili:
-
-【【广播剧汉化】福尔摩法历险记 The War Master 战争法师 803 The Adventure of the Deceased Doctor-哔哩哔哩】 https://b23.tv/MCzr4Ar
-
-***** READY [#C] 8.4 The Master of Dorian Gray :bilibili:
-
-【【广播剧汉化】 你也有今天啊 The War Master 战争法师 804 The Master of Dorian Gray-哔哩哔哩】 https://b23.tv/UiQZnNN
-
-**** /📂The War Master series 4: Anti-Genesis/ :Master_war:scripted:🎧:
-***** DONE [#B] 4.1 From the Flames :has_plot:D2021_10_master:
-CLOSED: <2021-01-16 Sat 22:52>
-:PROPERTIES:
-:rating:   8.2
-:END:
-
-***** DONE [#A] 4.2 The Master's Dalek Plan :D2021_10_master:
-CLOSED: <2021-01-18 Mon 22:53>
-:PROPERTIES:
-:rating:   8.7
-:END:
-
-***** 2DONE [#A] 4.3 Shockwave :Master_unbound:D2021_11_master:
-CLOSED: <2021-11-16 Tue 14:35> SCHEDULED: <2021-11-13 Sat>
-:PROPERTIES:
-:rating:   4.3
-:END:
-
-**** misc
-***** [#C] Concealed Weapon (Diary Of River Song 5.4) :🎧:
+*** [#C] Concealed Weapon (Diary Of River Song 5.4) :🎧:River:Master_war:
 :PROPERTIES:
 :rating:   7.6
 :END:
 
 1 out of 25 (4.0%) raters say this story requires a previous story.
 
-***** READY Lies in Ruins (The Legacy of Time) :8th_Dr:bilibili:Benny:🎧:
+*** /📂The War Master series 8: Escape from Reality/ :P2022_12:Master_war:🎧:
+**** DONE [#A] _8.1 The Wrath of Medusa_ :bilibili:DW2023_07_spinoffs:
+CLOSED: [2023-07-27 Thu 19:33] SCHEDULED: <2023-07-23 Sun>
 
-【【自制字幕】神秘博士BF特辑宋江八叔历险记-哔哩哔哩】https://b23.tv/vLRN31
+【【广播剧汉化】奥林匹斯超市开张啦 The War Master 战争法师 801 The Wrath of Medusa-哔哩哔哩】 https://b23.tv/nf4Yhuu
 
-***** Master of Worlds (UNIT new #6.4) :Master_war:🎧:
-*** Timeline made after Anti-Genesis cascade
-**** 3QTR [#A] WM4.4 He Who Wins :🎧:Master_unbound:D2021_11_master:
+**** [#D] 8.2 The Shadow Master
+**** READY [#A] 8.3 The Adventure of the Deceased Doctor :Holmes:bilibili:
+
+【【广播剧汉化】福尔摩法历险记 The War Master 战争法师 803 The Adventure of the Deceased Doctor-哔哩哔哩】 https://b23.tv/MCzr4Ar
+
+**** READY [#C] 8.4 The Master of Dorian Gray :bilibili:
+
+【【广播剧汉化】 你也有今天啊 The War Master 战争法师 804 The Master of Dorian Gray-哔哩哔哩】 https://b23.tv/UiQZnNN
+
+*** Master of Worlds (UNIT new #6.4) :Master_war:🎧:
+*** /📂The War Master series 4: Anti-Genesis/ :Master_war:scripted:🎧:
+**** DONE [#B] 4.1 From the Flames :has_plot:D2021_10_master:
+CLOSED: <2021-01-16 Sat 22:52>
+:PROPERTIES:
+:rating:   8.2
+:END:
+
+**** DONE [#A] 4.2 The Master's Dalek Plan :D2021_10_master:
+CLOSED: <2021-01-18 Mon 22:53>
+:PROPERTIES:
+:rating:   8.7
+:END:
+
+**** 2DONE [#A] 4.3 Shockwave :Master_unbound:D2021_11_master:
+CLOSED: <2021-11-16 Tue 14:35> SCHEDULED: <2021-11-13 Sat>
+:PROPERTIES:
+:rating:   4.3
+:END:
+
+**** 3QTR [#A] 4.4 He Who Wins :🎧:Master_unbound:D2021_11_master:
 CLOSED: [2021-11-16 Tue 19:56] SCHEDULED: <2021-11-13 Sat>
 :PROPERTIES:
 :rating:   9.4
 :END:
 
-**** DONE [#B] WM1.1 Beneath the Viscoid :🎧:plot_yes:D2021_07_extra:
+*** DONE [#B] WM1.1 Beneath the Viscoid :Master_war:🎧:plot_yes:D2021_07_extra:
 CLOSED: [2020-12-18 Fri 12:30]
 :PROPERTIES:
 :rating:   8.1
 :END:
 
-**** DONE GTW1.3 The Devil You Know (Gallifrey: Time War #1.3) :Master_war:🎧:
+*** DONE GTW1.3 The Devil You Know (Gallifrey: Time War #1.3) :Master_war:🎧:
 CLOSED: <2020-11-09 Mon 10:30>
 
-**** 2DONE [#C] WM1.2 The Good Master :D2021_08_extra:🎧:
+*** 2DONE [#C] WM1.2 The Good Master :Master_war:D2021_08_extra:🎧:
 :PROPERTIES:
 :rating:   7.8
 :END:
 
-**** 2DONE [#A] WM1.3 The Sky Man :D2021_09_extra:🎧:
-CLOSED: [2021-09-24 Fri 18:50] SCHEDULED: <2021-09-04 Sat>
-:PROPERTIES:
-:rating:   9.2
-:END:
-
-**** DONE GTW1.4 Desperate Measures (Gallifrey: Time War #1.4) :Rassilon:🎧:
-CLOSED: [2020-11-09 Mon 18:14]
-
-**** Damaged Goods
+*** Damaged Goods
 
 The N-Forms receive an activation call, setting this after /Desperate Measures/
 
-**** HALF A Heart on Both Sides (Short Trips #7.9) :🎧:
-**** /📂The War Master series 6: Killing Time/ :Master_war:P2021:🎧:
-***** HALF [#B] WM6.1 - The Sincerest Form of Flattery :DW2023_08_spinoffs:
-SCHEDULED: <2023-09-03 Sun>
+*** PROSE: The Stranger :War_Doctor:
+** 4. Rassilon resurrected
+*** DONE GTW1.4 Desperate Measures (Gallifrey: Time War #1.4) :Rassilon:🎧:
+CLOSED: [2020-11-09 Mon 18:14]
 
-***** 3QTR [#A] *6.2 - A Quiet Night In* #S :Jo:DW2023_09_spinoffs:
-CLOSED: <2023-09-08 Fri 09:33> SCHEDULED: <2023-09-17 Sun>
-
-***** [#A] 6.3 - The Orphan :Nyssa:
-***** [#A] 6.4 - Unfinished Business
-**** /📂The War Master series 7: Self-Defence/ :Master_war:🎧:P2022_06:
-***** [#B] 7.1 The Forest Penitence :bilibili:
-
-【【广播剧汉化】恶魔的低语 The War Master 战争法师 701 The Forest Penitence-哔哩哔哩】 https://b23.tv/fdIB3vT
-
-***** [#D] 7.2 The Players :bilibili:
-
-【【广播剧汉化】蹩脚的自辩 The War Master 战争法师 702 The Players-哔哩哔哩】 https://b23.tv/X3fable
-
-***** [#B] 7.3 Boundaries :bilibili:
-
-【【广播剧汉化】徒劳的挣扎 The War Master 战争法师 703 Boundaries-哔哩哔哩】 https://b23.tv/KX01zpP
-
-***** [#A] 7.4 The Last Line :10th_Dr:bilibili:
-
-【【广播剧汉化】注定的未来 The War Master 战争法师 704 The Last Line-哔哩哔哩】 https://b23.tv/t0szyKn
-
-**** /📂The War Master series 9: Solitary Confinement/ :🎧:P2023_06:Master_war:
-***** READY 9.1 - The Walls of Absence :bilibili:
-
-【【广播剧汉化】燃烧的天空 The War Master 战争法师 901 The Walls of Absence-哔哩哔哩】 https://b23.tv/vQ364oL
-
-***** 9.2 - The Long Despair
-***** 9.3 - The Life and Loves of Mr Alexander Bennett
-***** 9.4 - The Kicker
-**** DONE [#A] WM1.4 The Heavenly Paradigm :🎧:D2021_09_extra:
-CLOSED: [2020-12-24 Thu 15:51] SCHEDULED: <2021-09-28 Tue>
+*** /📂The War Master series 5: Hearts of Darkness/ :Master_War:🎧:
+**** 2DONE [#B] 5.1 - The Edge of Redemption :plot_yes:DW2022_11_spinoffs:
+CLOSED: [2022-11-07 Mon 20:49] SCHEDULED: <2022-11-09 Wed>
 :PROPERTIES:
-:rating:   9.0
+:rating:   8.1
 :END:
 
-**** DONE PROSE: The Third Wise Man :War_Doctor:
-CLOSED: <2019-10-29 Tue 13:59>
+**** 3QTR [#C] 5.2 - The Scaramancer :plot_no:DW2022_12_spinoffs:
+CLOSED: [2022-12-14 Wed 20:30] SCHEDULED: <2022-12-08 Thu>
+:PROPERTIES:
+:rating:   7.9
+:END:
 
-**** PROSE: The Stranger :War_Doctor:
-** Rassilon's Return
+**** 3QTR [#A] 5.3 - The Castle of Kurnos 5 :plot_yes:8th_Dr:DW2023_01_spinoffs:
+CLOSED: [2023-01-05 Thu 08:38] SCHEDULED: <2023-01-05 Thu 08:38>
+:PROPERTIES:
+:rating:   8.6
+:END:
+
+**** 3QTR [#A] 5.4 - The Cognition Shift :plot_yes:8th_Dr:DW2023_02_spinoffs:
+CLOSED: [2023-02-19 Sun 16:18] SCHEDULED: <2023-02-17 Fri 08:20>
+:PROPERTIES:
+:rating:   8.9
+:END:
+
+*** 📂Gallifrey: Time War vol.2 :P2019:🎧:
+**** DONE Havoc
+CLOSED: [2020-11-12 Thu 07:48]
+
+**** DONE Partisans
+CLOSED: [2020-11-12 Thu 07:48]
+
+**** DONE Collateral
+CLOSED: [2020-11-12 Thu 07:48]
+
+**** DONE Assassins
+CLOSED: [2020-11-12 Thu 07:48]
+
+*** Dalek Combat Training Manual (novel)
+*** 📂Susan's War :Susan:🎧:
+**** DONE All Hands on Deck (Short Trips #7.10) :8th_Dr:bilibili:
+CLOSED: [2020-09-23 Wed 12:53]
+
+【【翻译】Big Finish神秘博士八叔Time War短篇有声书 - 严阵以待 第一部分-哔哩哔哩】https://b23.tv/zhgkAz 
+
+**** Prequel
+**** HALF [#B] Susan1.1 Sphere of Influence :Ian:bilibili:P2020_04:DW2023_05_spinoffs:
+SCHEDULED: <2023-05-21 Sun>
+
+【【神秘博士广播剧汉化】Susan's War 苏珊的战争 101 Sphere of Influence-哔哩哔哩】 https://b23.tv/qIYe1v0
+
+**** DONE [#C] _Susan1.2 - The Uncertain Shore_ :bilibili:P2020_04:DW2023_08_spinoffs:
+CLOSED: [2023-09-28 Thu 18:43] SCHEDULED: <2023-09-03 Sun>
+
+【【神秘博士广播剧汉化】Susan's War 苏珊的战争 102 The Uncertain Shore-哔哩哔哩】https://b23.tv/WenJUb
+
+**** NEXT [#C] 3. Assets of War :bilibili:P2020_04:
+
+【【神秘博士广播剧汉化】Susan's War 苏珊的战争 103 Assets of War-哔哩哔哩】https://b23.tv/rjUz2u
+
+**** [#A] 4. The Shoreditch Intervention :P2020_04:8th_Dr:
+*** 📂Gallifrey: Time War vol.3 :P2020:🎧:
+**** DONE Hostiles
+CLOSED: [2020-12-17 Thu 19:53]
+
+**** DONE Nevernor
+CLOSED: [2020-12-17 Thu 19:53]
+
+**** DONE Mother Tongue
+CLOSED: [2020-12-17 Thu 19:53]
+
+** 5. The Doctor avoids the conflict
 *** 📂8D Time War vol.1 :Bliss:P2017:scripted:🎧:
 **** DONE [#B] The Starship of Theseus
 CLOSED: <2019-09-23 Mon 12:53>
@@ -1046,52 +1017,6 @@ CLOSED: [2020-09-23 Wed 12:53]
 :rating:   7.9
 :END:
 
-*** 📂Gallifrey: Time War vol.2 :P2019:🎧:
-**** DONE Havoc
-CLOSED: [2020-11-12 Thu 07:48]
-
-**** DONE Partisans
-CLOSED: [2020-11-12 Thu 07:48]
-
-**** DONE Collateral
-CLOSED: [2020-11-12 Thu 07:48]
-
-**** DONE Assassins
-CLOSED: [2020-11-12 Thu 07:48]
-
-*** 📂Gallifrey: Time War vol.3 :P2020:🎧:
-**** DONE Hostiles
-CLOSED: [2020-12-17 Thu 19:53]
-
-**** DONE Nevernor
-CLOSED: [2020-12-17 Thu 19:53]
-
-**** DONE Mother Tongue
-CLOSED: [2020-12-17 Thu 19:53]
-
-*** 📂Susan's War :Susan:🎧:
-**** Dalek Combat Training Manual (novel)
-**** DONE All Hands on Deck (Short Trips #7.10) :8th_Dr:bilibili:
-CLOSED: [2020-09-23 Wed 12:53]
-
-【【翻译】Big Finish神秘博士八叔Time War短篇有声书 - 严阵以待 第一部分-哔哩哔哩】https://b23.tv/zhgkAz 
-
-**** Prequel
-**** HALF [#B] Susan1.1 Sphere of Influence :Ian:bilibili:P2020_04:DW2023_05_spinoffs:
-SCHEDULED: <2023-05-21 Sun>
-
-【【神秘博士广播剧汉化】Susan's War 苏珊的战争 101 Sphere of Influence-哔哩哔哩】 https://b23.tv/qIYe1v0
-
-**** READY [#C] Susan1.2 - The Uncertain Shore :bilibili:P2020_04:DW2023_08_spinoffs:
-SCHEDULED: <2023-08-27 Sun>
-
-【【神秘博士广播剧汉化】Susan's War 苏珊的战争 102 The Uncertain Shore-哔哩哔哩】https://b23.tv/WenJUb
-
-**** READY [#C] 3. Assets of War :bilibili:P2020_04:
-
-【【神秘博士广播剧汉化】Susan's War 苏珊的战争 103 Assets of War-哔哩哔哩】https://b23.tv/rjUz2u
-
-**** [#A] 4. The Shoreditch Intervention :P2020_04:8th_Dr:
 *** 📂8D Time War vol.2 :Bliss:P2018:scripted:🎧:
 **** 2DONE [#C] 2.1 The Lords of Terror
 CLOSED: [2020-12-09 Wed 19:04]
@@ -1131,7 +1056,9 @@ CLOSED: [2020-12-09 Wed 19:04]
 :rating:   7.1
 :END:
 
-**** READY [#A] 3.4 The War Valeyard :Valeyard:bilibili:
+*** [#B] ST12.1 Salvage :Bliss:P2023_02:🎧:
+** 6. Exploiting the Multiverse
+*** READY [#A] 3.4 The War Valeyard :Valeyard:bilibili:
 :PROPERTIES:
 :rating:   9.0
 :END:
@@ -1170,13 +1097,50 @@ CLOSED: <2021-11-26 Fri 09:50> DEADLINE: <2021-11-26 Fri 21:54> SCHEDULED: <2021
 【【广播剧汉化】 沉重的遗产 Cass 102 Vespertine-哔哩哔哩】 https://b23.tv/m3b5hyL
 
 **** 5.3 Previously, Next Time :2CD:
-*** 8D in Time War misc
+** 7. Universe on the brink
+*** 8D misc
+**** READY Lies in Ruins (The Legacy of Time) :8th_Dr:bilibili:Benny:🎧:
+
+【【自制字幕】神秘博士BF特辑宋江八叔历险记-哔哩哔哩】https://b23.tv/vLRN31
+
 **** DONE The Rulers of the Universe (DoRS #1.4) :🎧:
 CLOSED: [2020-09-23 Wed 12:53]
 
-**** ST11.4 Death Will Not Part Us :8th_Dr:War_Doctor:9th_Dr:time_war:🎧:
-**** ST12.1 Salvage :Bliss:P2023_02:🎧:
-** The War Doctor begins
+**** DONE [#C] The Sontaran Ordeal (CDNM #1.4) :🎧:
+CLOSED: [2020-09-23 Wed 12:53]
+:PROPERTIES:
+:rating:   7.7
+:END:
+
+**** DONE [#C] Day of the Vashta Nerada (CDNM #2.4) :Vashta_Nerada:🎧:
+CLOSED: [2020-09-23 Wed 12:53]
+:PROPERTIES:
+:rating:   7.8
+:END:
+
+**** HALF A Heart on Both Sides (Short Trips #7.9) :🎧:Nyssa:
+*** _📂Gallifrey: Time War vol.4_ :🎧:
+**** DONE GTW3.4 Unity
+CLOSED: <2020-12-17 Thu 19:57>
+
+**** 4.1 Deception
+**** 4.2 Dissolution
+**** 4.3 Beyond
+**** 4.4 Homecoming
+*** _📂Gallifrey: War Room vol.1_ :🎧:P2022_08:
+**** 1.1 The Last Days of Freme
+**** 1.2 The Passenger
+**** 1.3 Collateral Victim
+**** 1.4 The First Days of Phaidon
+*** _📂Gallifrey: War Room vol.2_ :P2023_09:
+**** 2.1 Collaborators
+**** 2.2 Remnants
+**** 2.3 Transference
+**** 2.4 Ambition's Debt
+*** DONE PROSE: The Third Wise Man :War_Doctor:
+CLOSED: <2019-10-29 Tue 13:59>
+
+** 8. A Warrior emerges
 *** DONE The Night of the Doctor
 CLOSED: [2020-09-23 Wed 14:01]
 
@@ -1227,30 +1191,31 @@ CLOSED: [2023-06-15 Thu 08:36] SCHEDULED: <2023-06-10 Sat>
 **** [#C] 3.1 - The Keeper of Light
 **** [#E] 3.2 - Temmosus
 **** [#B] 3.3 - Rewind
-*** _📂Gallifrey: Time War vol.4_ :🎧:
-**** DONE GTW3.4 Unity
-CLOSED: <2020-12-17 Thu 19:57>
-
-**** 4.1 Deception
-**** 4.2 Dissolution
-**** 4.3 Beyond
-**** 4.4 Homecoming
-*** _📂Gallifrey: War Room vol.1_ :🎧:P2022_08:
-**** 1.1 The Last Days of Freme
-**** 1.2 The Passenger
-**** 1.3 Collateral Victim
-**** 1.4 The First Days of Phaidon
 *** _📂WDB vol.4 He Who Fights Monsters_ :War_Doctor:P2022_12:🎧:
-**** 4.1 The Mission
-**** 4.2 The Abyss
-**** 4.3 The Horror
+**** [#B] 4.1 The Mission
+**** [#B] 4.2 The Abyss
+**** [#B] 4.3 The Horror
 *** 📂WDB vol.5 Comrades-in-Arms :P2023_05:🎧:
 **** 5.1 A Mother's Love
 **** 5.2 Berserker
 **** 5.3 Memnos
 *** Ambush (comic)
-** The War Doctor
+** 9. The Master flees
+*** 2DONE [#A] WM1.3 The Sky Man :D2021_09_extra:🎧:
+CLOSED: [2021-09-24 Fri 18:50] SCHEDULED: <2021-09-04 Sat>
+:PROPERTIES:
+:rating:   9.2
+:END:
+
+*** DONE [#A] WM1.4 The Heavenly Paradigm :🎧:D2021_09_extra:
+CLOSED: [2020-12-24 Thu 15:51] SCHEDULED: <2021-09-28 Tue>
+:PROPERTIES:
+:rating:   9.0
+:END:
+
+** 10. The Malignant threat
 *** 11DY2 (comics)
+** 11. The weary soldier  (War Doctor)
 *** 📂The War Doctor vol.1 :scripted:🎧:
 **** [#B] 1.1 - The Innocent
 **** [#C] 1.2 - The Thousand Worlds
@@ -1275,7 +1240,7 @@ SCHEDULED: <2023-10-21 Sat>
 :END:
 
 *** The Bidding War (comic) :War_Doctor:9th_Dr:
-** The Fall of Arcadia
+** 12. The Final Day
 *** DONE The Last Day
 *** Sky Jacks (comic)
 
@@ -1291,4 +1256,58 @@ Priyan tells Engin that Rassilon is initiating the Ultimate Sanction, placing it
 *** The Time of the Doctor
 
 The Siege of Trenzalore is viewed by some as the true final battle of the Time War. 
+
+** Currently Unplaced
+*** ST11.4 Death Will Not Part Us :8th_Dr:War_Doctor:9th_Dr:time_war:🎧:
+*** /📂The War Master series 6: Killing Time/ :Master_war:P2021:🎧:
+**** HALF [#B] WM6.1 - The Sincerest Form of Flattery :DW2023_08_spinoffs:
+SCHEDULED: <2023-09-03 Sun>
+
+**** 3QTR [#A] *6.2 - A Quiet Night In* #S :Jo:DW2023_09_spinoffs:
+CLOSED: <2023-09-08 Fri 09:33> SCHEDULED: <2023-09-17 Sun>
+
+**** NEXT [#A] 6.3 - The Orphan :Nyssa:
+**** [#A] 6.4 - Unfinished Business
+*** /📂The War Master series 7: Self-Defence/ :Master_war:🎧:P2022_06:
+**** READY [#B] 7.1 The Forest Penitence :bilibili:
+
+【【广播剧汉化】恶魔的低语 The War Master 战争法师 701 The Forest Penitence-哔哩哔哩】 https://b23.tv/fdIB3vT
+
+**** READY [#D] 7.2 The Players :bilibili:
+
+【【广播剧汉化】蹩脚的自辩 The War Master 战争法师 702 The Players-哔哩哔哩】 https://b23.tv/X3fable
+
+**** READY [#B] 7.3 Boundaries :bilibili:
+
+【【广播剧汉化】徒劳的挣扎 The War Master 战争法师 703 Boundaries-哔哩哔哩】 https://b23.tv/KX01zpP
+
+**** READY [#A] 7.4 The Last Line :10th_Dr:bilibili:
+
+【【广播剧汉化】注定的未来 The War Master 战争法师 704 The Last Line-哔哩哔哩】 https://b23.tv/t0szyKn
+
+*** /📂The War Master series 9: Solitary Confinement/ :🎧:P2023_06:Master_war:
+**** READY 9.1 - The Walls of Absence :bilibili:
+
+【【广播剧汉化】燃烧的天空 The War Master 战争法师 901 The Walls of Absence-哔哩哔哩】 https://b23.tv/vQ364oL
+
+**** READY 9.2 - The Long Despair :bilibili:
+
+【【广播剧汉化】漫长的绝望 The War Master 战争法师 902 The Long Despair-哔哩哔哩】 https://b23.tv/ZP1QcKr
+
+**** READY 9.3 - The Life and Loves of Mr Alexander Bennett :bilibili:
+
+
+【【广播剧汉化】法师的画饼日常 The War Master 战争法师 903 The Life and Loves of Mr Alexander-哔哩哔哩】 https://b23.tv/W4xMLa7
+
+**** READY 9.4 - The Kicker :bilibili:
+
+
+
+【【广播剧汉化】真假法师 The War Master 战争法师 904 The Kicker-哔哩哔哩】 https://b23.tv/J1ytO0Z
+
+*** DONE STR1.2 Museum Peace :🎧:
+CLOSED: [2020-09-23 Wed 12:53]
+
+*** DONE COMIC: The Forgotten (8D part)
+CLOSED: [2020-09-23 Wed 12:53]
 
