@@ -90,6 +90,9 @@ CLOSED: [2022-08-26 Fri 22:02]
 :END:
 
 **** DONE S4 :P2015:
+
+24 episodes
+
 ***** DONE 4x01
 CLOSED: [2022-09-11 Sun 17:02]
 :PROPERTIES:
@@ -190,6 +193,9 @@ CLOSED: [2022-12-10 Sat 17:38]
 :END:
 
 **** DOING S5 :P2016:
+
+24 episodes
+
 ***** DONE 5x01
 CLOSED: <2023-08-13 Sun 22:42>
 
@@ -228,17 +234,23 @@ CLOSED: [2023-09-20 Wed 23:11] SCHEDULED: <2023-09-21 Thu>
 ***** DONE 5x12
 CLOSED: [2023-09-24 Sun 20:24] SCHEDULED: <2023-09-24 Sun>
 
-***** NOW 5x13
-SCHEDULED: <2023-09-28 Thu>
+***** DONE 5x13 :benben:
+CLOSED: [2023-10-01 Sun 15:53] SCHEDULED: <2023-09-30 Sat>
 
-***** NEXT 5x14
-SCHEDULED: <2023-09-30 Sat>
+***** NOW 5x14
+SCHEDULED: <2023-10-08 Sun>
 
-***** NEXT 5x15
-SCHEDULED: <2023-10-06 Fri>
+***** NOW 5x15
+SCHEDULED: <2023-10-14 Sat>
 
-**** S6
+**** S6 :P2018:
+
+21 episodes
+
 **** S7 :P2019:
+
+13 episodes
+
 *** Sherlock 神探夏洛克
 * Agatha Christie 阿加莎·克里斯蒂 :阿婆:
 ** tv :📺:
@@ -271,14 +283,22 @@ CLOSED: [2023-09-18 Mon 20:16] SCHEDULED: <2023-09-17 Sun>
 ***** DONE 1x08 The Incredible Theft
 CLOSED: [2023-09-28 Thu 20:03] SCHEDULED: <2023-09-24 Sun>
 
-***** NOW 1x09 The King of Clubs
-SCHEDULED: <2023-10-03 Tue>
+***** DONE 1x09 The King of Clubs
+CLOSED: [2023-10-03 Tue 21:44] SCHEDULED: <2023-10-02 Mon>
 
-***** NEXT 1x10 The Dream
-SCHEDULED: <2023-10-06 Fri>
+***** NOW 1x10 The Dream
+SCHEDULED: <2023-10-09 Mon>
 
 **** series 13 :P2013:
-*** 玛普尔小姐 Agatha Christie's Marple
+*** Miss Marple (BBC)
+
+1984-1992
+
+3 seasons, 12 episodes
+
+https://agathachristie.fandom.com/wiki/Miss_Marple_(BBC_television_series)
+
+*** 玛普尔小姐 Agatha Christie's Marple (ITV)
 
 https://agathachristie.fandom.com/wiki/Agatha_Christie's_Marple
 
@@ -292,8 +312,8 @@ CLOSED: [2022-09-21 Wed 22:49]
 ***** DONE 1x03 4.50 From Paddington
 CLOSED: [2023-09-24 Sun 13:20] SCHEDULED: <2023-09-24 Sun>
 
-***** NOW 1x04 A Murder Is Announced
-SCHEDULED: <2023-09-30 Sat>
+***** 3QTR 1x04 A Murder Is Announced 谋杀启事
+CLOSED: <2023-10-04 Wed 20:55> SCHEDULED: <2023-10-04 Wed>
 
 **** season 2 :P2006:
 ***** 2x01 Sleeping Murder
@@ -311,7 +331,7 @@ CLOSED: [2021-07-25 Sun 17:42]
 CLOSED: [2022-09-30 Fri 08:08]
 
 **** NOW ep3 The Sunningdale Mystery
-SCHEDULED: <2023-10-03 Tue>
+SCHEDULED: <2023-10-21 Sat>
 
 **** ep4 The Clergyman's Daughter
 **** ep5 Finessing the King

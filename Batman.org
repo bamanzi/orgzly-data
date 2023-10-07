@@ -430,7 +430,7 @@ SCHEDULED: <2022-09-25 Sun>
 ****** TODO Red Robin: 7 Days of Death (#22-26)
 SCHEDULED: <2022-09-28 Wed>
 
-***** NEXT [#D] Life after Death (#692-697) :Grayson:
+***** TODO [#D] Life after Death (#692-697) :Grayson:
 SCHEDULED: <2022-09-30 Fri>
 
 不怎么样，似乎野心挺大，但人物太多，冲突太乱
@@ -832,7 +832,7 @@ The story is inspired by the /Batman Reborn/ arc, whilst also including elements
 *** DONE Gotham S1
 *** DONE Gotham S2
 *** DONE Gotham S3
-*** DOING Gotham S4 (22 eps)
+*** DONE Gotham S4 (22 eps)
 **** DONE 4x01
 CLOSED: [2022-08-01 Mon 08:09]
 
@@ -889,11 +889,33 @@ CLOSED: [2022-09-28 Wed 20:45] SCHEDULED: <2022-09-28 Wed>
 **** DONE 4x18
 CLOSED: [2022-10-02 Sun 11:16] SCHEDULED: <2022-10-05 Wed>
 
-**** LATER 4x19 A Dark Knight: To Our Deaths and Beyond
+**** DONE 4x19 A Dark Knight: To Our Deaths and Beyond
+CLOSED: [2023-10-01 Sun 19:48]
 
 Ra's al Ghul 复活
 
-*** Gotham S5 (12 eps)
+**** DONE 4x20
+CLOSED: [2023-10-02 Mon 22:25]
+
+**** DONE 4x21
+CLOSED: [2023-10-03 Tue 15:44] SCHEDULED: <2023-10-04 Wed>
+
+**** DONE 4x22
+CLOSED: [2023-10-06 Fri 22:22] SCHEDULED: <2023-10-06 Fri>
+
+*** DOING Gotham S5 (12 eps)
+**** NOW 5x01
+SCHEDULED: <2023-10-11 Wed>
+
+**** NOW 5x02
+SCHEDULED: <2023-10-11 Wed>
+
+**** NEXT 5x03
+SCHEDULED: <2023-10-14 Sat>
+
+**** NEXT 5x04
+SCHEDULED: <2023-10-14 Sat>
+
 *** DONE Pennyworth S1
 CLOSED: [2022-09-16 Fri 20:31]
 
@@ -925,6 +947,8 @@ CLOSED: [2022-09-16 Fri 20:31]
 
 10 eps
 
+**** 2x01
+**** 2x02
 *** Harley Quinn (animated) :Harley:
 
 13 eps
@@ -981,14 +1005,26 @@ CLOSED: [2023-09-19 Tue 07:06] SCHEDULED: <2023-09-17 Sun>
 ***** DONE 2x03
 CLOSED: [2023-09-24 Sun 22:54] SCHEDULED: <2023-09-24 Sun>
 
-***** NOW 2x04
-SCHEDULED: <2023-09-27 Wed>
+***** DONE 2x04
+CLOSED: [2023-10-01 Sun 16:04] SCHEDULED: <2023-09-27 Wed>
 
-***** NOW 2x05
-SCHEDULED: <2023-09-29 Fri>
+***** DONE 2x05 :Batman:Batgirl:Bane:
+CLOSED: [2023-10-03 Tue 10:29] SCHEDULED: <2023-09-29 Fri>
 
-***** NEXT 2x06
-***** NEXT 2x07
+***** DONE 2x06
+CLOSED: [2023-10-05 Thu 18:18] SCHEDULED: <2023-10-02 Mon>
+
+哈莉的起源故事
+
+***** NOW 2x07
+SCHEDULED: <2023-10-06 Fri>
+
+***** NOW 2x08
+SCHEDULED: <2023-10-08 Sun>
+
+***** NEXT 2x09
+SCHEDULED: <2023-10-10 Tue>
+
 ** DCAU :dcau:
 *** Batman Adventures
 **** movies
@@ -1132,7 +1168,8 @@ Action Comics (2011-2016) #1-18
 
 #13-18
 
-**** NEXT Superman: Up in the Sky 云天之上 :P2018:hanzify:
+**** NOW Superman: Up in the Sky 云天之上 :P2018:hanzify:
+SCHEDULED: <2023-10-14 Sat>
 
 【关爱酥皮烤肉锅炉组】补档
 超人：云天之上01~06 ​
@@ -1370,7 +1407,7 @@ CLOSED: [2022-10-01 Sat 22:05] SCHEDULED: <2022-10-05 Wed>
 **** DONE 1x15
 CLOSED: [2022-10-02 Sun 20:58]
 
-*** DOING Superman and Lois S2
+*** DONE Superman and Lois S2
 **** DONE 2x01
 CLOSED: [2023-09-05 Tue 19:04]
 
@@ -1410,11 +1447,11 @@ CLOSED: [2023-09-24 Sun 22:31] SCHEDULED: <2023-09-24 Sun>
 **** DONE 2x13
 CLOSED: [2023-09-28 Thu 15:49] SCHEDULED: <2023-09-27 Wed>
 
-**** NOW 2x14
-SCHEDULED: <2023-09-30 Sat>
+**** DONE 2x14
+CLOSED: [2023-10-03 Tue 12:51] SCHEDULED: <2023-10-04 Wed>
 
-**** NEXT 2x15
-SCHEDULED: <2023-10-06 Fri>
+**** DONE 2x15
+CLOSED: [2023-10-06 Fri 08:58] SCHEDULED: <2023-10-05 Thu 21:48>
 
 ** movies
 *** BLOCK The Death of Superman :DCAMU:P2018:
