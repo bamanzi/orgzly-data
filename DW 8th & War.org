@@ -5,8 +5,8 @@ CLOSED: [2022-08-15 Mon 21:26]
 
 *** DONE The Night of the Doctor :Cass:
 ** audio :🎧:
-*** main range :scripted:2CD:
-**** part1 :Charley:
+*** with Charley :Charley:
+**** MR part1 :scripted:2CD:
 ***** DONE [#C] 016 - Storm Warning
 CLOSED: [2020-08-11 Tue 08:46]
 :PROPERTIES:
@@ -72,7 +72,7 @@ CLOSED: [2023-09-02 Sat 23:13] SCHEDULED: <2023-08-12 Sat>
 - 【【神秘博士广播剧熟肉】MR 050c Zagreus - Wasteland 荒野-哔哩哔哩】 https://b23.tv/pHm5uJP
 
 ***** [#D] Living Legend (7.4) :P2003:
-**** part2 :Charley:
+**** MR part2 :scripted:2CD:
 ***** BLOCK [#A] 52. Scherzo :Charley:plot_yes:P2003:bilibili:
 :PROPERTIES:
 :rating:   8.6
@@ -125,7 +125,7 @@ CLOSED: [2021-04-13 Tue 09:11]
 :rating:   6.7
 :END:
 
-**** part3 :Charley:
+**** MR part3 :scripted:2CD:
 ***** 3QTR [#C] 72. Terror Firma :Davros:D2021_09_dr:
 CLOSED: <2021-09-25 Sat 21:28> SCHEDULED: <2021-09-11 Sat>
 :PROPERTIES:
@@ -181,54 +181,79 @@ CLOSED: [2022-11-03 Thu 16:31] SCHEDULED: <2022-10-16 Sun>
 :rating:   9.2
 :END:
 
-**** part4
-***** 123. The Company of Friends :short:
-****** 2DONE [#B] 4. Mary's Story :plot_yes:Mary:½CD:
-CLOSED: [2021-03-22 Mon 22:31]
-:PROPERTIES:
-:rating:   8.4
-:END:
-
-***** 2DONE [#A] 153 Silver Turk :Mary:Cybermen:plot_yes:
-CLOSED: <2021-03-20 Sat 21:30>
-:PROPERTIES:
-:rating:   8.6
-:END:
-
-***** TODO [#D] 154 - The Witch from the Well
-:PROPERTIES:
-:rating:   7.2
-:END:
-
-***** CANCEL [#E] +155 - Army of Death+
-CLOSED: [2021-06-04 Fri 07:34]
-:PROPERTIES:
-:rating:   6.8
-:END:
-
-*** 📂Charlotte Pollard: The Further Adventuress :P2022_01:
-**** [#E] CPFA 1.1 The Mummy Speaks!
+**** 📂Charlotte Pollard: The Further Adventuress :P2022_01:
+***** [#E] CPFA 1.1 The Mummy Speaks!
 :PROPERTIES:
 :rating:   6.9
 :END:
 
-**** [#D] CPFA 1.2 Eclipse
+***** [#D] CPFA 1.2 Eclipse
 :PROPERTIES:
 :rating:   7.0
 :END:
 
-**** [#D] CPFA 1.3 The Slaying of the Writhing Mass
+***** [#D] CPFA 1.3 The Slaying of the Writhing Mass
 :PROPERTIES:
 :rating:   7.0
 :END:
 
-**** TODO [#E] CPFA 1.4 Heart of Orion :Cybermen:
+***** TODO [#E] CPFA 1.4 Heart of Orion :Cybermen:
 SCHEDULED: <2022-08-31 Wed>
 :PROPERTIES:
 :rating:   6.8
 :END:
 
-*** 8DA :scripted:Lucie:8da:
+**** misc
+***** READY [#A] CC4.12 Solitaire (9.2) :ToyMaker:P2010:plot_yes:Charley:bilibili:
+:PROPERTIES:
+:rating:   9.2
+:END:
+
+【【神秘博士广播剧】Companion Chronicles 412 Solitaire 无知游戏-哔哩哔哩】 https://b23.tv/rq4Mqk7
+
+***** [#C] DotD #8. Enemy Aliens :Charley:plot_no:
+***** [#B] ST2.8 - Letting Go :Charley:
+:PROPERTIES:
+:rating:   8.0
+:END:
+
+***** [#C] ST5.8 - Foreshadowing :Charley:
+:PROPERTIES:
+:rating:   7.7
+:END:
+
+***** [#C] ST6.11 - The Man Who Wasn't There :Charley:
+:PROPERTIES:
+:rating:   7.8
+:END:
+
+***** [#B] CDNM3.4 If I Should Die Before I Wake :Charley:plot_yes:
+*** with Mary
+**** 123. The Company of Friends :short:
+***** 2DONE [#B] 4. Mary's Story :plot_yes:Mary:½CD:
+CLOSED: [2021-03-22 Mon 22:31]
+:PROPERTIES:
+:rating:   8.4
+:END:
+
+**** 2DONE [#A] 153 Silver Turk :Mary:Cybermen:plot_yes:
+CLOSED: <2021-03-20 Sat 21:30>
+:PROPERTIES:
+:rating:   8.6
+:END:
+
+**** TODO [#D] 154 - The Witch from the Well
+:PROPERTIES:
+:rating:   7.2
+:END:
+
+**** CANCEL [#E] +155 - Army of Death+
+CLOSED: [2021-06-04 Fri 07:34]
+:PROPERTIES:
+:rating:   6.8
+:END:
+
+*** with Lucie Miller :scripted:Lucie:8da:
 **** 8DA series 1 :scripted:
 ***** HALF [#C] 1.1/1.2 Blood of the Daleks
 :PROPERTIES:
@@ -357,6 +382,7 @@ CLOSED: <2021-10-17 Sun 10:44>
 CLOSED: [2021-10-17 Sun 15:11]
 
 **** misc
+***** [#D] SST14. Late Night Shopping
 ***** [#C] An Earthly Child (7.5) :Susan:Alex:
 *** Dark Eyes :scripted:
 **** Dark Eyes vol.1 :Molly:
@@ -398,9 +424,10 @@ SCHEDULED: <2021-09-24 Fri>
 ***** 2DONE 4.3 Master of the Daleks :Master_bald:D2021_10_master:
 CLOSED: <2021-10-28 Thu 14:30>
 
-*** Doom Coalition :Liv:Helen:plot_yes:scripted:
-**** DC vol.1
-***** 2DONE [#B] 1.1 The Eleven :D2022_01_doctor:bilibili:
+*** with Liv & Helen :Liv:Helen:
+**** Doom Coalition :plot_yes:scripted:
+***** DC vol.1
+****** 2DONE [#B] 1.1 The Eleven :D2022_01_doctor:bilibili:
 CLOSED: [2022-01-05 Wed 16:56] SCHEDULED: <2022-01-30 Sun>
 :PROPERTIES:
 :thetimescales: 8.4
@@ -408,7 +435,7 @@ CLOSED: [2022-01-05 Wed 16:56] SCHEDULED: <2022-01-30 Sun>
 
 【【神秘博士广播剧汉化】欢迎新反派十一光荣登场 Doom Coalition 101 The Eleven-哔哩哔哩】 https://b23.tv/oIkDWd7
 
-***** 2DONE [#A] 1.2 The Red Lady :Helen:D2022_01_doctor:bilibili:
+****** 2DONE [#A] 1.2 The Red Lady :Helen:D2022_01_doctor:bilibili:
 CLOSED: <2022-01-19 Wed 20:06> SCHEDULED: <2022-01-30 Sun>
 :PROPERTIES:
 :thetimescales: 9.3
@@ -416,172 +443,172 @@ CLOSED: <2022-01-19 Wed 20:06> SCHEDULED: <2022-01-30 Sun>
 
 【【神秘博士广播剧汉化】Helen小姐姐初登场，智斗神秘怪物红夫人 Doom Coalition 102 The Red Lady-哔哩哔哩】 https://b23.tv/kysZeqJ
 
-***** HALF [#E] 1.3 - The Galileo Trap :Helen:D2022_02_doctor:
+****** HALF [#E] 1.3 - The Galileo Trap :Helen:D2022_02_doctor:
 SCHEDULED: <2022-02-24 Thu>
 :PROPERTIES:
 :thetimescales: 6.8
 :END:
 
-***** TODO [#E] 1.4 - The Satanic Mill :Helen:D2022_02_doctor:
+****** TODO [#E] 1.4 - The Satanic Mill :Helen:D2022_02_doctor:
 SCHEDULED: <2022-02-28 Mon>
 :PROPERTIES:
 :thetimescales: 6.5
 :END:
 
-**** DC vol.2
-***** 3QTR [#D] 2.1 - Beachhead :Voord:D2022_06_doctor:
+***** DC vol.2
+****** 3QTR [#D] 2.1 - Beachhead :Voord:D2022_06_doctor:
 CLOSED: [2022-07-04 Mon 09:24] SCHEDULED: <2022-06-16 Thu>
 :PROPERTIES:
 :rating:   7.1
 :END:
 
-***** 3QTR [#C] 2.2 - Scenes from Her Life :D2022_06_doctor:
+****** 3QTR [#C] 2.2 - Scenes from Her Life :D2022_06_doctor:
 CLOSED: [2022-06-29 Wed 13:41] DEADLINE: <2022-06-24 Fri 07:26> SCHEDULED: <2022-06-25 Sat>
 :PROPERTIES:
 :rating:   7.5
 :END:
 
-***** DONE [#E] 2.3 - The Gift :DW2022_08_doctor:
+****** DONE [#E] 2.3 - The Gift :DW2022_08_doctor:
 CLOSED: [2022-08-08 Mon 20:15] SCHEDULED: <2022-08-03 Wed>
 :PROPERTIES:
 :rating:   6.8
 :END:
 
-***** START [#E] 2.4 - The Sonomancer :River:DW2022_08_doctor:
+****** START [#E] 2.4 - The Sonomancer :River:DW2022_08_doctor:
 SCHEDULED: <2022-09-04 Sun>
 :PROPERTIES:
 :rating:   6.9
 :END:
 
-**** DC vol.3
-***** 3QTR [#A] 3.1 - Absent Friends [#S] :DW2023_02_doctor:
+***** DC vol.3
+****** 3QTR [#A] 3.1 - Absent Friends [#S] :DW2023_02_doctor:
 CLOSED: [2023-02-08 Wed 08:38] SCHEDULED: <2023-02-11 Sat>
 :PROPERTIES:
 :rating:   9.2
 :END:
 
-***** 3QTR [#C] 8DDC3.2 - The Eighth Piece :River:DW2023_04_doctor:
+****** 3QTR [#C] 8DDC3.2 - The Eighth Piece :River:DW2023_04_doctor:
 CLOSED: <2023-04-09 Sun 21:10> SCHEDULED: <2023-04-08 Sat>
 :PROPERTIES:
 :rating:   7.7
 :END:
 
-***** HALF [#C] 8DDC3.3 - The Doomsday Chronometer :River:DW2023_04_doctor:
+****** HALF [#C] 8DDC3.3 - The Doomsday Chronometer :River:DW2023_04_doctor:
 DEADLINE: <2023-04-23 Sun> SCHEDULED: <2023-04-24 Mon 08:29>
 :PROPERTIES:
 :rating:   7.9
 :END:
 
-***** HALF [#A] 8DDC3.4 - The Crucible of Souls :River:DW2023_06_doctor:
+****** HALF [#A] 8DDC3.4 - The Crucible of Souls :River:DW2023_06_doctor:
 SCHEDULED: <2023-06-20 Tue 21:33>
 :PROPERTIES:
 :rating:   8.
 :END:
 
-**** DC vol.4
-***** [#B] 4.1 - Ship in a Bottle
+***** DC vol.4
+****** [#B] 4.1 - Ship in a Bottle
 :PROPERTIES:
 :rating:   8.4
 :END:
 
-***** [#C] 4.2 - Songs of Love :River:
+****** [#C] 4.2 - Songs of Love :River:
 :PROPERTIES:
 :rating:   7.9
 :END:
 
-***** [#B] 4.3 - The Side of the Angels
+****** [#B] 4.3 - The Side of the Angels
 :PROPERTIES:
 :rating:   8.3
 :END:
 
-***** [#B] 4.4 - Stop the Clock
+****** [#B] 4.4 - Stop the Clock
 :PROPERTIES:
 :rating:   8.1
 :END:
 
-*** Ravenous :Liv:
-**** Ravenous vol.1
-***** READY [#D] 1.1 Their Finest Hour :bilibili:
+**** Ravenous
+***** Ravenous vol.1
+****** READY [#D] 1.1 Their Finest Hour :bilibili:
 
 【【神秘博士广播剧汉化】博士与丘吉尔的再次相遇 Ravenous 101 Their Finest Hour-哔哩哔哩】 https://b23.tv/d59He2Z
 
-***** READY [#D] 1.2 How to Make a Killing in Time :bilibili:
+****** READY [#D] 1.2 How to Make a Killing in Time :bilibili:
 
 【【神秘博士广播剧汉化】如何在时间旅行中杀人 Ravenous 102 How to Make a Killing in Time Travel-哔哩哔哩】 https://b23.tv/Mk7EzIp
 
-***** [#D] 1.3 - World of Damnation :Helen:
+****** [#D] 1.3 - World of Damnation :Helen:
 :PROPERTIES:
 :rating:   7.1
 :END:
 
-***** CANCEL [#E] 1.4 - Sweet Salvation
+****** CANCEL [#E] 1.4 - Sweet Salvation
 :PROPERTIES:
 :rating:   6.8
 :END:
 
-**** Ravenous vol.2
-***** [#D] 2.1 - Escape from Kaldor
+***** Ravenous vol.2
+****** [#D] 2.1 - Escape from Kaldor
 :PROPERTIES:
 :rating:   7.2
 :END:
 
-***** READY [#B] 2.2 - Better Watch Out :bilibili:
+****** READY [#B] 2.2 - Better Watch Out :bilibili:
 :PROPERTIES:
 :rating:   8.2
 :END:
 
 【【神秘博士广播剧汉化】恶魔降临之日 Ravenous 202 Better Watch Out-哔哩哔哩】 https://b23.tv/vpmqJSH
 
-***** READY [#B] 2.3 - Fairytale of Salzburg :bilibili:
+****** READY [#B] 2.3 - Fairytale of Salzburg :bilibili:
 :PROPERTIES:
 :rating:   8.3
 :END:
 
 【【神秘博士广播剧汉化】童话成真 Ravenous 203 Fairytale of Salzburg-哔哩哔哩】 https://b23.tv/d8zLcw8
 
-***** [#C] 2.4 - Seizure
+****** [#C] 2.4 - Seizure
 :PROPERTIES:
 :rating:   7.1
 :END:
 
-**** Ravenous vol.3 :Helen:
-***** [#C] 3.1 - Deeptime Frontier
+***** Ravenous vol.3
+****** [#C] 3.1 - Deeptime Frontier
 
 :PROPERTIES:
 :rating:   7.6
 :END:
 
-***** [#A] 3.2 - Companion Piece
+****** [#A] 3.2 - Companion Piece
 :PROPERTIES:
 :rating:   8.9
 :END:
 
-***** CANCEL [#E] +3.3 - L.E.G.E.N.D+
+****** CANCEL [#E] +3.3 - L.E.G.E.N.D+
 :PROPERTIES:
 :rating:   6.4
 :END:
 
-***** [#C] 3.4 - The Odds Against
+****** [#C] 3.4 - The Odds Against
 :PROPERTIES:
 :rating:   7.9
 :END:
 
-**** Ravenous vol.4 :Helen:scripted:
-***** READY [#D] 4.1 - Whisper :bilibili:
+***** Ravenous vol.4 :scripted:
+****** READY [#D] 4.1 - Whisper :bilibili:
 :PROPERTIES:
 :rating:   7.3
 :END:
 
 【【神秘博士广播剧】Ravenous 401 Whisper 噤声-哔哩哔哩】 https://b23.tv/rbdjufW
 
-***** READY [#A] 4.2 - Planet of Dust :bilibili:
+****** READY [#A] 4.2 - Planet of Dust :bilibili:
 :PROPERTIES:
 :rating:   8.9
 :END:
 
 【【神秘博士广播剧】Ravenous 402 Planet of Dust 尘土之星-哔哩哔哩】 https://b23.tv/3xZT5N3
 
-***** READY [#A] 4.3/4.4 Day of the Master :War_Master:Missy:Master_decayed:Master_roberts:bilibili:
+****** READY [#A] 4.3/4.4 Day of the Master :Master_war:Missy:Master_decayed:Master_roberts:bilibili:
 :PROPERTIES:
 :rating:   9.3/9.6
 :END:
@@ -590,61 +617,60 @@ SCHEDULED: <2023-06-20 Tue 21:33>
 
 【【神秘博士广播剧】Ravenous 403 Day of the Master 法师之日(下)-哔哩哔哩】 https://b23.tv/fcWfPdy
 
-*** Stranded
-**** Stranded vol.1
-***** READY [#C] 1.1. Lost Property :bilibili:
+**** Stranded
+***** Stranded vol.1
+****** READY [#C] 1.1. Lost Property :bilibili:
 
 【【神秘博士广播剧汉化】Stranded 101 Lost Property-哔哩哔哩】 https://b23.tv/PVpk0P3
 
-***** READY [#A] 1.2. Wild Animals :bilibili:
+****** READY [#A] 1.2. Wild Animals :bilibili:
 
 【【神秘博士广播剧汉化】Stranded 102 Wild Animals-哔哩哔哩】 https://b23.tv/8ZlfnhS
 
-***** READY [#C] 1.3 Must-See TV :bilibili:
+****** READY [#C] 1.3 Must-See TV :bilibili:
 
 【【神秘博士广播剧汉化】贝克街遭遇神秘外星人监视 Stranded 103 Must-see TV-哔哩哔哩】 https://b23.tv/LxB2dhM
 
-***** READY [#C] 1.4 Divine Intervention :bilibili:
+****** READY [#C] 1.4 Divine Intervention :bilibili:
 
 【【神秘博士广播剧汉化】八任博士惨遭暗杀，到底是圣人还是暴君 Stranded 104 Divine Intervention-哔哩哔哩】 https://b23.tv/hp9RA9M
 
-**** Stranded vol.2
-***** READY [#D] 2.1 Dead Time :bilibili:
+***** Stranded vol.2
+****** READY [#D] 2.1 Dead Time :bilibili:
 
 【【神秘博士广播剧汉化】发生在在遥远未来的废土世界中的冒险 Stranded 201 Dead Time-哔哩哔哩】 https://b23.tv/j4y3Dku
 
-***** READY [#A] 2.2 UNIT Dating :bilibili:
+****** READY [#A] 2.2 UNIT Dating :bilibili:
 
 【【神秘博士广播剧汉化】UNIT时期诡异二三事  Stranded 202 UNIT Dating-哔哩哔哩】 https://b23.tv/smrjqOU
 
-***** READY [#C] 2.3 Baker Street Irregulars :bilibili:
+****** READY [#C] 2.3 Baker Street Irregulars :bilibili:
 
 【【神秘博士广播剧汉化】博士的007体验 Stranded 203 Baker Street Irregulars-哔哩哔哩】 https://b23.tv/9cZaGrx
 
-***** READY [#A] 2.4 The Long Way Round :bilibili:
+****** READY [#A] 2.4 The Long Way Round :bilibili:
 
 【【神秘博士广播剧汉化】“博士”到底是谁 Stranded 204 The Long Way Round-哔哩哔哩】 https://b23.tv/SGbYhvK
 
-**** Stranded vol.3
-***** READY [#B] 3.1 - Patience :bilibili:
+***** Stranded vol.3
+****** READY [#B] 3.1 - Patience :bilibili:
 
 【【广播剧汉化】老八秘制小课堂开讲啦 Stranded 301 Patience-哔哩哔哩】 https://b23.tv/p0BnRuG
 
-***** READY [#C] 3.2 - Twisted Folklore :bilibili:
+****** READY [#C] 3.2 - Twisted Folklore :bilibili:
 
 【【广播剧汉化】被扭曲的童谣 Stranded 302 Twisted Folklore-哔哩哔哩】 https://b23.tv/UnkdV67
 
-***** [#A] 3.3 - Snow
-***** READY [#A] 3.4 - What Just Happened? :bilibili:
+****** [#A] 3.3 - Snow
+****** READY [#A] 3.4 - What Just Happened? :bilibili:
 
 【【广播剧汉化】似曾相识的选择 Stranded 304 What Just Happened-哔哩哔哩】 https://b23.tv/VoZ3pUM
 
-**** Stranded vol.4 :P2022_04:
-***** 4.1 Crossed Lines
-***** 4.2 Get Andy
-***** 4.3 The Keys of Baker Street
-***** 4.4 Best Year Ever
-*** 8DA (2022- )
+***** Stranded vol.4 :P2022_04:
+****** 4.1 Crossed Lines
+****** 4.2 Get Andy
+****** 4.3 The Keys of Baker Street
+****** 4.4 Best Year Ever
 **** 📂What Lies Inside :P2022_11:
 ***** Paradox of the Daleks :2CD:bilibili:
 
@@ -657,50 +683,48 @@ SCHEDULED: <2023-06-20 Tue 21:33>
 ***** Here Lies Drax
 ***** The Love Vampires
 ***** Albie's Angels
+*** 8DA (2023- )
+**** TBR 📂Audacity :P2023_11:
 *** 8D Time War ↗
-*** BF misc :short:
-**** READY [#A] CC4.12 Solitaire (9.2) :ToyMaker:P2010:plot_yes:Charley:bilibili:
-:PROPERTIES:
-:rating:   9.2
-:END:
-
-【【神秘博士广播剧】Companion Chronicles 412 Solitaire 无知游戏-哔哩哔哩】 https://b23.tv/rq4Mqk7
-
-**** [#C] DotD #8. Enemy Aliens :Charley:plot_no:
-**** [#B] ST2.8 - Letting Go :Charley:
-:PROPERTIES:
-:rating:   8.0
-:END:
-
-**** [#C] ST5.8 - Foreshadowing :Charley:
+**** DONE SST01 Museum Peace
+**** DONE [#C] ST7.9 - A Heart on Both Sides :Nyssa:
 :PROPERTIES:
 :rating:   7.7
 :END:
 
-**** [#C] ST6.11 - The Man Who Wasn't There :Charley:
+**** DONE [#C] ST7.10 - All Hands on Deck :Susan:
 :PROPERTIES:
 :rating:   7.8
 :END:
 
-**** DONE [#C] ST7.9 - A Heart on Both Sides
+**** READY Lies in Ruins (The Legacy of Time) :8th_Dr:bilibili:Benny:🎧:
+
+【【自制字幕】神秘博士BF特辑宋江八叔历险记-哔哩哔哩】https://b23.tv/vLRN31
+
+**** DONE The Rulers of the Universe (DoRS #1.4) :🎧:
+CLOSED: [2020-09-23 Wed 12:53]
+
+**** DONE [#C] The Sontaran Ordeal (CDNM #1.4) :🎧:
+CLOSED: [2020-09-23 Wed 12:53]
 :PROPERTIES:
 :rating:   7.7
 :END:
 
-**** DONE [#C] ST7.10 - All Hands on Deck
+**** DONE [#C] Day of the Vashta Nerada (CDNM #2.4) :Vashta_Nerada:🎧:
+CLOSED: [2020-09-23 Wed 12:53]
 :PROPERTIES:
 :rating:   7.8
 :END:
 
+*** misc :1CD:
 **** [#B] STS37 - Tuesday :Harry:
 :PROPERTIES:
 :rating:   8.3
 :END:
 
-**** NEXT [#B] CDNM3.4 If I Should Die Before I Wake :Charley:plot_yes:
-*** BBC
-**** [#C] The Scent of Blood :James:P2019:1CD:
-**** [#A] The Code of Flesh :James:P2022_10:1CD:
+**** [#D] SST40. An Ocean of Sawdust :no_companion:
+**** [#C] The Scent of Blood :James:P2019:BBC:
+**** [#A] The Code of Flesh :James:P2022_10:BBC:
 ** short stories
 *** Model Train Set :🎧:short:
 
