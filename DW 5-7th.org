@@ -353,7 +353,7 @@ CLOSED: [2021-02-27 Sat 18:02]
 **** CANCEL [#E] 249 The Kamelion Empire (6.6)
 CLOSED: [2021-02-27 Sat 18:02]
 
-*** main range 251-
+*** main range 251- :scripted:
 **** Tartarus
 **** Interstitial / Feast of Fear :short:
 **** 2DONE [#B] 258a. Warzone :Tegan:Nyssa:Cybermen:D2022_05_doctor:
@@ -989,7 +989,7 @@ https://tardis.fandom.com/wiki/Seventh_Doctor_audio_stories
 :rating:   7.9
 :END:
 
-***** [#D] 7. The Genocide Machine :Ace:Daleks:Dalek_Empire:
+***** HALF [#D] 7. The Genocide Machine :Ace:Daleks:Dalek_Empire:
 :PROPERTIES:
 :rating:   7.0
 :END:
@@ -1065,12 +1065,16 @@ CLOSED: <2022-05-17 Tue 21:11> SCHEDULED: <2022-05-07 Sat>
 :rating:   7.4
 :END:
 
-****** [#A] 115d. The Word Lord (8.6) :P2008:Ace:Hex:Nobody_No_One:plot_no:
-***** BLOCK [#A] 120. The Magic Mousetrap (8.6) :2009:Ace:Hex:Celestial_Toymaker:plot_no:
+****** HALF [#A] 115d. The Word Lord (8.6) :P2008:Ace:Hex:Nobody_No_One:plot_no:
+***** BLOCK [#A] 120. The Magic Mousetrap :2009:Ace:Hex:Celestial_Toymaker:plot_no:
+:PROPERTIES:
+:rating:   8.6
+:END:
+
 ***** DONE [#A] 130. A Thousand Tiny Wings (8.8) :P2010:Klein:plot_no:
 CLOSED: <2021-05-13 Thu 08:13>
 
-***** DONE [#A] 131a. Klein's Story (8.6) :P2010:Klein:plot_yes:D2021_05:❤:short:
+***** DONE [#A] 131a. Klein's Story (8.6) :P2010:Klein:plot_yes:D2021_05:❤:short:½CD:
 CLOSED: <2021-05-26 Wed 08:10>
 
 ***** DONE [#C] 131b. Survival of the Fittest :plot_no:Klein:D2021_05:
@@ -1196,7 +1200,6 @@ SCHEDULED: <2021-12-04 Sat>
 :END:
 
 ***** 272. The Grey Man of the Mountain
-***** 275B. Flight of the Blackstar
 *** 7DA
 **** V. Return of the Daleks :Susan_Mendes:Kalendorf:P2006:
 **** [#B] UNIT - Dominion :Klein:Master_bald:P2012:4CD:
@@ -1231,16 +1234,16 @@ SCHEDULED: <2022-11-16 Wed>
 :rating:   8.2
 :END:
 
-***** [#A] 7DA 1.4 - The Dread of Night
+***** NEXT [#A] 7DA 1.4 - The Dread of Night
 :PROPERTIES:
 :rating:   8.5
 :END:
 
-**** 📂2022A Silver and Ice :P2022_06:1CD:
-***** CANCEL [#F] Bad Day in Tinseltown :Cybermen:Mel:
+**** 📂2022A Silver and Ice :P2022_06:
+***** CANCEL [#F] Bad Day in Tinseltown :Cybermen:Mel:1CD:
 CLOSED: [2022-10-08 Sat 09:05]
 
-***** [#C] The Ribos Inheritance :Mel:
+***** [#C] The Ribos Inheritance :Mel:2CD:
 **** 📂2022B Sullivan and Cross - AWOL :Harry:Naomi:P2022_11:
 ***** [#E] 22B.1 London Orbital
 ***** [#E] 22B.2 Scream of the Daleks :Daleks:
@@ -1294,7 +1297,7 @@ SCHEDULED: <2023-03-25 Sat>
 **** DONE [#C] River2.1 The Unknown :plot_yes:DW2023_07_doctor:
 CLOSED: [2023-07-04 Tue 08:31] SCHEDULED: <2023-07-08 Sat>
 
-**** NEXT [#B] ST6.X - Forever Fallen :Ace:plot_yes:
+**** [#B] ST6.X - Forever Fallen :Ace:plot_yes:
 **** [#A] BBV 21 Punchline :plot_yes_dwg:
 
 http://drwhoguide.com/bbv21.htm

@@ -19,8 +19,8 @@
 **** World Without End
 **** Station Zero
 **** The Culling
-** audio
-*** BF monthly :🎧:1CD:
+** audio :🎧:
+*** BF monthly :1CD:
 **** series 1 (1-6) :P2015:scripted:
 
 List of Torchwood Big Finish audio transcripts
@@ -906,13 +906,15 @@ With the Discordia on their tail, River and her friends run for their lives 
 
 Beevers Master
 
-**** 3QTR [#C] DoRS5.3 The Lifeboat and the Deathboat :Master_roberts:plot_yes:D2021_09_extra:plot_yes:
+**** 3QTR [#C] DoRS5.3 The Lifeboat and the Deathboat :Master_roberts:plot_yes:D2021_09_extra:plot_yes:bilibili:
      SCHEDULED: <2021-09-21 Tue>
      :PROPERTIES:
      :rating:   7.7
      :END:
 
 Roberts Master
+
+【【神秘博士广播剧】The Diary of River Song 503 The Lifeboat and The Deathboat 生死同舟-哔哩哔哩】 https://b23.tv/e4DTZDO
 
 **** 3QTR [#D] DoRS5.4 Concealed Weapon :Master_war:D2021_08_extra:
      :PROPERTIES:
@@ -1107,7 +1109,7 @@ Roberts Master
 *** 3QTR [#C] (WoDW) Mind Games (7.5) ↗ :P2014:
 *** DONE [#B] 6DLA: Stage Fright (8.4) :P2015:
 *** [#A] Benjamin & Baxter (documentary)                     (8.8)
-* Gallifrey :🎧:Gallifrey:
+* Gallifrey :🎧:Gallifrey:Romana_2:
 ** series 1 :plot_simple:P2004:
 *** HALF [#C] 1.1 Weapon of Choice :D2021_08_extra:
     :PROPERTIES:
@@ -1324,7 +1326,7 @@ Braxiatel的收藏被第五轴占据，由伯尼斯过去的人物领导。
 http://drwhoguide.com/bs_a13.htm
 
 **** [#E] +5.2 The Bone of Contention+
-**** NEXT [#B] 5.3 The Relics of Jegg-Sau :plot_yes_dwg:
+**** [#B] 5.3 The Relics of Jegg-Sau :plot_yes_dwg:
      :PROPERTIES:
      :rating:   8.1
      :END:
@@ -1417,23 +1419,23 @@ http://drwhoguide.com/bs_a18.htm
      :rating:   8.3
      :END:
 
-*** Boxset 2: Road Trip :P2012:plot_yes:
-**** [#C] 2.1 Brand Management :Ruth:
+*** Boxset 2: Road Trip :P2012:plot_yes:Ruth_Leonidas:
+**** [#C] 2.1 Brand Management
      :PROPERTIES:
      :rating:   7.7
      :END:
 
-**** [#C] 2.2 Bad Habits :Ruth:
+**** [#C] 2.2 Bad Habits
      :PROPERTIES:
      :rating:   7.9
      :END:
 
-**** [#C] 2.3 Paradise Frost :Ruth:Jack_McSpringheel:
+**** [#C] 2.3 Paradise Frost :Jack_McSpringheel:
      :PROPERTIES:
      :rating:   7.6
      :END:
 
-**** novel: The Weather on Versimmon :Ruth:
+**** novel: The Weather on Versimmon
 *** Boxset 3: Legion :P2012:plot_yes:
 **** [#C] 3.1 - Vesuvius Falling
      :PROPERTIES:
@@ -1667,7 +1669,7 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
 
 - 上： 【【有声书汉化】准将的困扰 Terror of the Master 上-哔哩哔哩】 https://b23.tv/7SioMBV
 
-** [#B] CC8.1 Mastermind :Master_decayed:Ruth:the_Vault:UNIT:
+** [#B] CC8.1 Mastermind :Master_decayed:Ruth_Matheson:the_Vault:UNIT:
 ** Master! :Master_roberts:🎧:
 *** HALF [#C] Vienna #0 The Memory Box :D2021_12_extra:week2:
     SCHEDULED: <2021-12-10 Fri>
@@ -2288,6 +2290,10 @@ http://www.drwhoguide.com/kaldor03.htm
 **** [#D] 5.1 The Enhancement
 **** [#B] 5.2 Machines Like Us
 **** [#B] 5.3 Kaldor Nights
+*** The Robots: vol.6 :P2023_05:
+**** 6.1 Force of Nature
+**** 6.2 Face to Face
+**** 6.3 The Final Hour
 * The Paternoster Gang :TPG:
 ** audio :🎧:
 *** PG: Heritage 1 :P2019:
@@ -2554,7 +2560,14 @@ http://www.drwhoguide.com/kaldor03.htm
 
 【【神秘博士广播剧熟肉】The Dimension Cannon 203 The Rogue Planet 流浪行星-哔哩哔哩】 https://b23.tv/T3YU8OJ
 
-*** TBR RTDC vol.3 Trapped :P2023_09:
+*** RTDC vol.3 Trapped :P2023_09:
+**** READY 3.1 Sink or Swim :bilibili:
+
+
+【【神秘博士广播剧熟肉】The Dimension Cannon 301 Sink or Swim 听任沉浮-哔哩哔哩】 https://b23.tv/JxOvW0I
+
+**** 3.2 The Lower Road
+**** 3.3 The Good Samaritan
 ** Donna Nobel - Kidnapped :Donna:P2020:
 
 From Donna's perspective, the anthology is set after /Forest of the Dead/.
@@ -2601,6 +2614,23 @@ From Donna's perspective, the anthology is set after /Forest of the Dead/.
 **** [#C] 2.1 The Once and Future Nurse
 **** [#B] 2.2 The Glowing Warrior
 **** [#B] 2.3 The Last King of Camelot
+** Redacted :BBC:
+*** Redacted :P2022_04:scripted:
+**** HALF [#C] Redacted 01: SOS :D2022_05_doctor:bilibili:
+     SCHEDULED: <2022-05-07 Sat>
+     :PROPERTIES:
+     :rating:   7.8
+     :END:
+
+【【会动的广播剧|双语字幕】十三的第一部广播剧《神秘博士：删改》第一集《求救信号》| Redacted-哔哩哔哩】 https://b23.tv/5ieRpAk
+
+**** HALF [#C] 02: Hysteria :D2022_05_doctor:bilibili:
+     SCHEDULED: <2022-05-31 Tue>
+
+**** [#C] 03: Lost
+**** [#B] 04. Angels
+**** [#D] 05. Interrogation
+*** Redacted S2 :P2023_09:
 * special
 ** The Worlds of Doctor Who :P2014:
 *** 3QTR [#C] WoDW#1 - Mind Games :Jago:Litefoot:Ellie:Quick:DW2023_05_spinoffs:
@@ -2612,7 +2642,7 @@ From Donna's perspective, the anthology is set after /Forest of the Dead/.
     :rating:   7.2
     :END:
 
-*** DONE [#B] WoDW#3 - The Screaming Skull :UNIT:Ruth:Charlie_Sato:Yates:DW2023_07_spinoffs:
+*** DONE [#B] WoDW#3 - The Screaming Skull :UNIT:Ruth_Matheson:Charlie_Sato:Yates:DW2023_07_spinoffs:
     CLOSED: [2023-07-29 Sat 08:01] SCHEDULED: <2023-07-24 Mon 08:24>
 
 *** [#D] WoDW#4 - Second Sight :6th_Dr:Romana_2:Leela:Yates:

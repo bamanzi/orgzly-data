@@ -9,7 +9,7 @@ CLOSED: [2022-06-30 Thu 08:12]
 **** S1.1 Ravagers :P2021_05:
 ***** START 1.1 Sphere of Freedom (7.2)
 ***** START 1.2 Cataclysm (7.0)
-***** START 1.3 Food Fight (7.1)
+***** START 1.3 Food Fight (6.8)
 **** S1.2 Respond to All Calls :P2021_05:
 ***** HALF [#C] 9DA 2.1 Girl, Deconstructed :D2021_08_dr:plot_yes:bilibili:
 
@@ -20,7 +20,7 @@ SCHEDULED: <2021-10-01 Fri>
 
 【【神秘博士广播剧翻译】如何打败无形且食人的声音？九任冒险集 202 Fright Motif-哔哩哔哩】 https://b23.tv/n9maru4
 
-***** HALF [#C] 9DA 2.3. Planet of the End :D2021_10_dr:plot_yes:bilibili:
+***** HALF [#B] 9DA 2.3. Planet of the End :D2021_10_dr:plot_yes:bilibili:
 SCHEDULED: <2021-11-04 Thu>
 
 【【广播剧翻译】墓地星球中针对博士的阴谋 九任冒险集 203 Planet of the End-哔哩哔哩】 https://b23.tv/uwJY0f7
@@ -76,7 +76,7 @@ CLOSED: [2023-01-23 Mon 08:22] SCHEDULED: <2023-01-10 Tue 08:39>
 ***** CANCEL [#F] 5.2 The False Dimitry
 CLOSED: [2022-07-02 Sat 23:47]
 
-***** 2DONE [#B] 5.3 Auld Lang Syne :bilibili:DW2023_03_doctor:
+***** 2DONE [#A] 5.3 Auld Lang Syne :bilibili:DW2023_03_doctor:
 CLOSED: [2023-03-21 Tue 08:07] SCHEDULED: <2023-03-11 Sat>
 
 【【神秘博士广播剧熟肉】Back to Earth 503 Auld Lang Syne 逝去已久的时光-哔哩哔哩】 https://b23.tv/1NrKKIN
@@ -161,7 +161,7 @@ SCHEDULED: <2022-11-29 Tue>
 :rating:   7.8
 :END:
 
-**** NEXT [#C] ST11.X The Lichyrwick Abomination :P2021:scripted:plot_yes:
+**** [#C] ST11.X The Lichyrwick Abomination :P2021:scripted:plot_yes:
 :PROPERTIES:
 :rating:   7.6
 :END:
@@ -574,29 +574,32 @@ SCHEDULED: <2023-06-23 Fri 19:51>
 【【神秘博士广播剧熟肉】Tenth Doctor Classic Companions 103 Quantum of Axos 阿克索斯量子-哔哩哔哩】 https://b23.tv/M54MhC5
 
 *** 10DC
-**** [#D] 1.1 - the Taste of Death :Rose:
+**** 10DC S1
+***** [#D] 1.1 - the Taste of Death :Rose:
 :PROPERTIES:
 :rating:   7.0
 :END:
 
-**** [#D] 1.2 - Backtrack :Martha:
+***** [#D] 1.2 - Backtrack :Martha:
 :PROPERTIES:
 :rating:   7.0
 :END:
 
-**** TODO [#C] 1.3 - Wild Pastures :Sylvia:
+***** TODO [#C] 1.3 - Wild Pastures :Sylvia:
 :PROPERTIES:
 :rating:   7.5
 :END:
 
-**** TODO [#B] 1.4 - Last Chance :Christina:
+***** TODO [#B] 1.4 - Last Chance :Christina:
 :PROPERTIES:
 :rating:   8.0
 :END:
 
+**** TBR 10DC S2: Defender of the Earth :P2023_11:
 *** CC & ST :🗣:
 **** [#D] DotD #10 Death's Deal :Donna:
-**** [#C] ST8.6 The Siege of Big Ben
+**** NOW [#C] ST8.6 The Siege of Big Ben :plot_yes:DW2023_10_maybe:
+SCHEDULED: <2023-10-31 Tue>
 :PROPERTIES:
 :rating:   7.9
 :END:
@@ -713,7 +716,7 @@ SCHEDULED: <2022-09-30 Fri>
 :rating:   7.1
 :END:
 
-**** HALF [#C] 1.4 - False Coronets :Jane_Austen:D2022_05_doctor:
+**** START [#C] 1.4 - False Coronets :Jane_Austen:D2022_05_doctor:
 SCHEDULED: <2022-05-21 Sat>
 :PROPERTIES:
 :rating:   7.8
@@ -774,7 +777,7 @@ CLOSED: [2022-11-02 Wed 20:33] SCHEDULED: <2022-11-06 Sun>
 【【神秘博士】短途旅行：世界树 | Short Trips: The World Tree-哔哩哔哩】 https://b23.tv/kE5PXA3
 
 *** misc :🗣:
-**** NEXT [#C] CY1.3 Living History ↗ :P2016:plot_yes:
+**** [#C] CY1.3 Living History ↗ :P2016:plot_yes:
 :PROPERTIES:
 :rating:   7.9
 :END:
@@ -1018,7 +1021,7 @@ https://www.iiiff.com/article/404723
 :rating:   7.7
 :END:
 
-**** NEXT [#D] 9.X The Best-Laid Plans :scripted:
+**** [#D] 9.X The Best-Laid Plans :scripted:
 :PROPERTIES:
 :rating:   7.2
 :END:
@@ -1034,7 +1037,7 @@ https://www.iiiff.com/article/404723
 :rating:   7.8
 :END:
 
-**** [#B] The Ice Kings :BBC:P2023_01:1CD:
+**** [#C] The Ice Kings :BBC:P2023_01:1CD:
 **** HALF The Last Days Before Dawn :fan_made:bilibili:DW2022_12_maybe:
 SCHEDULED: <2022-12-13 Tue>
 
@@ -1197,21 +1200,6 @@ CLOSED: <2023-01-06 Fri 22:20>
 
 *** 300. The Power of the Doctor
 ** audio
-*** 📂Redacted :P2022_04:BBC:scripted:
-**** HALF [#C] Redacted 01: SOS :D2022_05_doctor:bilibili:
-SCHEDULED: <2022-05-07 Sat>
-:PROPERTIES:
-:rating:   7.8
-:END:
-
-【【会动的广播剧|双语字幕】十三的第一部广播剧《神秘博士：删改》第一集《求救信号》| Redacted-哔哩哔哩】 https://b23.tv/5ieRpAk
-
-**** HALF [#C] 02: Hysteria :D2022_05_doctor:bilibili:
-SCHEDULED: <2022-05-31 Tue>
-
-**** [#C] 03: Lost
-**** [#B] 04. Angels
-**** [#D] 05. Interrogation
 ** comics
 *** Titan Comics :📚:Titan:
 **** DONE The Many Lives of Doctor Who

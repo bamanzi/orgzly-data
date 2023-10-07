@@ -65,11 +65,11 @@ Episode 4 missing (but animated in 2013).
 ** audio :🎧:
 *** EA :2CD:EA:
 **** EA S1
-***** NEXT [#C] EA1.1 Domain of the Voord :Susan:Ian:Barbara:Voord:plot_yes:
+***** [#C] EA1.1 Domain of the Voord :Susan:Ian:Barbara:Voord:plot_yes:
 
 应该先看老版剧集 1x05 The Keys of Marinus
 
-***** NEXT [#D] EA1.2 The Doctor's Tale :Ian:Barbara:Vicki:plot_yes:
+***** [#D] EA1.2 The Doctor's Tale :Ian:Barbara:Vicki:plot_yes:
 :PROPERTIES:
 :rating:   7.1
 :END:
@@ -139,7 +139,7 @@ SCHEDULED: <2022-03-12 Sat>
 :END:
 
 **** [#E] +4.1 Return to Skaro+ (6.6)
-**** NEXT [#B] 4.2 Last of the Romanovs :P2020:plot_yes:
+**** [#B] 4.2 Last of the Romanovs :P2020:plot_yes:
 :PROPERTIES:
 :rating:   8.1
 :END:
@@ -159,7 +159,7 @@ SCHEDULED: <2022-03-12 Sat>
 ***** 3QTR [#D] 22.1 The Outlaws :Dodo:Monk:P2022_04:DW2023_03_doctor:
 CLOSED: [2023-03-29 Wed 08:54] SCHEDULED: <2023-03-04 Sat>
 
-***** NEXT [#C] 22.2 The Miniaturist :Dodo:P2022_04:1CD:
+***** [#C] 22.2 The Miniaturist :Dodo:P2022_04:1CD:
 **** 📂2023. The Demon Song :Dodo:P2023_02:
 ***** 23.1 The Demon Song :1CD:
 ***** 23.2 The Incherton Incident :2CD:
@@ -300,7 +300,9 @@ CLOSED: <2023-05-30 Tue 21:34> SCHEDULED: <2023-05-27 Sat>
 :rating:   9.2
 :END:
 
-**** HALF [#C] LS2.1b The Fragile Yellow Arc of Fragrance :1CD:plot_yes:
+**** HALF [#C] LS2.1b The Fragile Yellow Arc of Fragrance :Ian:Susan:Barbara:½CD:plot_yes:
+SCHEDULED: <2023-09-30 Sat>
+
 *** short trips
 **** [#B] ST1.1 Rise and Fall
 **** [#C] ST2.1 - 1963 :Ian:Barbara:Vicki:
@@ -504,7 +506,7 @@ SCHEDULED: <2023-06-24 Sat>
 :rating:   7.0
 :END:
 
-***** NEXT [#B] CC8.12 - Second Chances :The_Company:plot_cast:
+***** [#B] CC8.12 - Second Chances :The_Company:plot_cast:
 :PROPERTIES:
 :rating:   8.4
 :END:
@@ -512,7 +514,7 @@ SCHEDULED: <2023-06-24 Sat>
 
 https://tardis.fandom.com/wiki/Zoe_Heriot#Life_after_the_Doctor
 
-**** NEXT [#C] CC3.9 - Resistance :Polly:
+**** [#C] CC3.9 - Resistance :Polly:
 :PROPERTIES:
 :rating:   7.7
 :END:
@@ -549,7 +551,7 @@ SCHEDULED: <2023-02-07 Tue 21:50>
 :rating:   7.7
 :END:
 
-***** NEXT [#D] 10.2 The Story of Extinction :Victoria:plot_no:
+***** [#D] 10.2 The Story of Extinction :Victoria:plot_no:
 :PROPERTIES:
 :rating:   7.2
 :END:
@@ -581,7 +583,7 @@ SCHEDULED: <2021-10-03 Sun>
 :rating:   7.3
 :END:
 
-***** NEXT [#B] CC12.4 - The Tactics of Defeat :Ruth:Zoe:UNIT:
+***** [#B] CC12.4 - The Tactics of Defeat :Ruth_Matheson:Zoe:UNIT:
 :PROPERTIES:
 :rating:   8.1
 :END:
@@ -589,7 +591,7 @@ SCHEDULED: <2021-10-03 Sun>
 **** 📂CC14 - The Second Doctor: Volume Three :P2022_04:
 ***** [#A] 14.1 The Death of the Daleks :Jamie:Daleks:
 ***** [#C] 14.2 The Phantom Piper :Jamie:
-***** NEXT [#A] 14.3 The Prints of Denmark :Zoe:Monk:
+***** [#A] 14.3 The Prints of Denmark :Zoe:Monk:
 ***** [#D] 14.4 The Deepest Tragedian :Zoe:
 :PROPERTIES:
 :rating:   7.0
@@ -842,7 +844,7 @@ block原因：太长（3CD）
 
 **** CANCEL [#E] 22B. Kaleidoscope :Sarah:Harry:Brigadier:P2022_10:3CD:
 **** 2023A. The Return of Jo Jones :Jo:P2023_02:1CD:P2023_02:
-***** [#D] 23A.1 Supernature
+***** NEXT [#D] 23A.1 Supernature
 ***** [#D] 23A.2 The Conservitors
 ***** [#C] 23A.3 The Iron Shore
 **** TBR 2023B Intelligence for War :P2023_10:Liz:
@@ -1244,7 +1246,7 @@ CLOSED: [2021-07-27 Tue 23:11]
 SCHEDULED: <2022-06-16 Thu>
 
 ***** [#D] 4.6 The Cloisters of Terror
-***** NEXT [#D] 4.7 The Fate of Krelos :plot_yes:
+***** [#D] 4.7 The Fate of Krelos :plot_yes:
 ***** CANCEL [#F] 4.8 Return to Telos
 CLOSED: [2020-08-20 Thu 13:56]
 
@@ -1259,7 +1261,7 @@ CLOSED: <2021-07-01 Thu 16:39>
 ***** [#D] 5.8 - Casualties of Time (7.1)
 **** 4DA series 6 :Romana_2:P2017:1CD:
 ***** CANCEL [#E] 6.1 The Beast of Kravenos :Jago:Litefoot:plot_yes:
-***** NEXT [#D] 6.2 - The Eternal Battle (7.3) :Sontarans:plot_yes:
+***** [#D] 6.2 - The Eternal Battle (7.3) :Sontarans:plot_yes:
 ***** CANCEL [#E] 6.3 The Silent Scream :plot_yes:
 ***** CANCEL [#E] 6.4 Dethras :plot_yes:
 ***** [#D] 6.5 - The Haunting of Malkin Place (7.4)
@@ -1390,7 +1392,7 @@ mp3val fix
 
 【【广播剧翻译】四任对抗Vashta Nerada 老博士新怪物 201 Night of Vashta Nerada-哔哩哔哩】 https://b23.tv/YCrcZhV
 
-**** NEXT [#D] CDNM3.2 The Tivolian Who Knew Too Much :Leela:plot_yes:1CD:
+**** [#D] CDNM3.2 The Tivolian Who Knew Too Much :Leela:plot_yes:1CD:
 **** [#B] Collision Course (The Legacy of Time #6) :Leela:Romana_2:
 :PROPERTIES:
 :rating:   8.3
@@ -1407,18 +1409,30 @@ thetimescales 上32/33认为需要先听前面的故事
 
 15 out of 16 (93.8%) raters say this story requires a previous story.
 
-**** NEXT [#B] NA03 - The Romance of Crime (8.0) :Romana_2:2CD:scripted:
-**** NEXT [#B] NA04 The English Way of Death :Romana_2:2CD:scripted:
+**** [#B] NA03 - The Romance of Crime (8.0) :Romana_2:2CD:scripted:
+**** [#B] NA04 The English Way of Death :Romana_2:2CD:scripted:
 **** [#B] NA05 - The Well-Mannered War (8.1) :Romana_2:2CD:
 *** BF shorts :🗣:
 **** Companion Chronicles
-***** [#C] CC2.4 - The Catalyst †7.9 :Leela:
-***** CANCEL [#D] CC3.4 - Empathy Games †7.0
-CLOSED: [2020-07-05 Sun 23:49]
+***** [#C] CC2.4 - The Catalyst :Leela:
+:PROPERTIES:
+:rating:   7.9
+:END:
 
-***** [#D] CC4.10 - The Time Vampire †7.2 :Leela:
-***** CANCEL [#E] CC7.6 - The Child †6.3
-CLOSED: [2020-07-05 Sun 23:49]
+***** CANCEL [#D] CC3.4 - Empathy Games †7.0
+:PROPERTIES:
+:rating 7.0: 
+:END:
+
+***** [#D] CC4.10 - The Time Vampire :Leela:
+:PROPERTIES:
+:rating:   7.2
+:END:
+
+***** CANCEL [#E] CC7.6 - The Child
+:PROPERTIES:
+:rating:   6.3
+:END:
 
 **** BF Short Trips :audiobook:
 ***** TODO [#A] ST6.9 - A Full Life (9.0) :Adric:Romana_2:
@@ -1626,21 +1640,38 @@ CLOSED: [2021-07-27 Tue 23:10] SCHEDULED: <2021-12-03 Fri>
 https://disk.yandex.ru/d/n_i2CRgIJW0xOw
 
 ** Unbound: Doctor of War
-*** [#B] 1.1 - Dust Devil
-*** [#C] 1.2 - Aftershocks
-*** [#D] 1.3 - The Difference Office
+*** READY [#B] 1.1 - Dust Devil :bilibili:
+
+【【神秘博士广播剧汉化】破碎的时间线 Unbound: Doctor of War 101 Dust Devil-哔哩哔哩】 https://b23.tv/Pt8IRk8
+
+*** READY [#C] 1.2 - Aftershocks :bilibili:
+
+【【神秘博士广播剧汉化】无限循环的时间线 Unbound: Doctor of War 102 Aftershock-哔哩哔哩】 https://b23.tv/xIIb3VQ
+
+*** READY [#D] 1.3 - The Difference Office :bilibili:
+
+【【广播剧汉化】注定毁灭的未来  Unbound: Doctor of War 103 The Difference Office-哔哩哔哩】 https://b23.tv/hmRyVtB
+
 *** [#D] 2.1 Who Am I?
 *** [#E] 2.2 Time Killers
 *** [#B] 2.3 The Key To Key To Time
 ** Peladon :P2022_01:
-*** [#B] 1. The Ordeal of Peladon :10th_Dr:
+*** [#B] 1. The Ordeal of Peladon
 *** [#D] 2. The Poison of Peladon :River:
 *** CANCEL [#E] 3. The Death of Peladon :6th_Dr:Mel:
 *** [#A] 4. The Truth of Peladon :8th_Dr:
 ** Once and Future
-*** 1. Past Lives :P2023_06:4th_Dr:
+*** READY 1. Past Lives :P2023_06:4th_Dr:bilibili:
+
+【博士的作战记录-哔哩哔哩】 https://b23.tv/zGOAtiq
+
 *** 2. The Artist at the End of Time :5th_Dr:
-*** 3. A Genius For War :6th_Dr:
+*** 3. A Genius For War :7th_Dr:Davros:
+*** 4. Two's Company :6th_Dr:Christina:
+*** READY 5. The Martian Invasion of Planetoid 50 :bilibili:10th_Dr:
+
+【【神秘博士六十周年纪念特辑】Once and Future 05 The Martian Invasion of Planetoid 50-哔哩哔哩】 https://b23.tv/qawlSXJ
+
 * multi-doctor story
 ** IX. The Four Doctors :P2010:
 ** [#D] ST3.1 - Seven to One :🗣:P2011:plot_yes:
