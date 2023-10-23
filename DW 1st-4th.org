@@ -670,11 +670,19 @@ https://chriswalkerthomson.com/dwthemissingadventures/
 **** START MA1. Red Snow :ice_warriors:D2022_01_extra:
 SCHEDULED: <2022-01-30 Sun>
 
-https://m.vk.com/wall-205306392_45
+After a TARDIS malfunction carries the Doctor away from Jamie and Victoria, he's stuck in 2013 London that has been buried under ice by an invading force of Ice Warriors. Why are they invading Earth? Why do they need the Doctor?
 
-**** [#C] MA02. Freedom of the Daleks
+https://goingthroughdoctorwho.blogspot.com/2017/04/red-snow-2014-review.html?m=1
 
-https://m.vk.com/wall-205306392_46
+**** 3QTR [#C] MA02. Freedom of the Daleks :DW2023_10_doctor:
+CLOSED: [2023-10-10 Tue 08:13] SCHEDULED: <2023-10-07 Sat>
+
+The Doctor has been captured by the Thals and the Human Factor Daleks to gain access to a human colony, who have inadvertently rescued and nursed the Dalek Emperor. As mutual hatred and distrust between the three sides start boiling over, it's up to him to prevent or at least contain a terrible war...
+
+
+https://goingthroughdoctorwho.blogspot.com/2017/07/freedom-of-daleks-2014-review.html?m=1
+
+https://thetimescales.com/Story/story.php?audioid=7519
 
 **** MA03. Her House
 **** HALF [#B] MA04. The Patient Menace :Cybermen:DW2022_12_doctor:
@@ -684,8 +692,7 @@ mp3val -f
 
 https://m.vk.com/wall-205306392_48
 
-**** NOW [#B] MA05. The Enemy of the Universe :DW2023_10_doctor:
-SCHEDULED: <2023-10-07 Sat>
+**** [#B] MA05. The Enemy of the Universe
 
 https://m.vk.com/wall-205306392_49
 
@@ -1322,8 +1329,8 @@ CLOSED: [2020-07-15 Wed 19:13]
 ***** [#C] 10.3 The Tribulations of Tahdeus Nook
 ***** [#E] 10.4 The Primeval Design
 **** 📂4DA series 11 :P2022:2CD:
-***** NOW [#A] 11.1 Blood of the Time Lords :Master_early:plot_yes:DW2023_10_doctor:
-SCHEDULED: <2023-10-14 Sat>
+***** 3QTR [#A] 11.1 Blood of the Time Lords :Master_early:plot_yes:DW2023_10_doctor:
+CLOSED: <2023-10-18 Wed 12:57> SCHEDULED: <2023-10-14 Sat>
 
 ***** 3QTR [#B] 11.2 The Ravencliff Witch :Margaret:plot_yes:DW2023_02_doctor:
 CLOSED: <2023-02-10 Fri 14:02> SCHEDULED: <2023-02-06 Mon 08:42>

@@ -218,7 +218,7 @@ Bonded by an alien device, Margaret and Suzie find themselves on the run from To
       :rating:   6.3
       :END:
 
-***** NOW [#C] 29 Serenity :Jack:Ianto:DW2023_10_spinoffs:
+***** HALF [#C] 29 Serenity :Jack:Ianto:DW2023_10_spinoffs:
       SCHEDULED: <2023-10-08 Sun>
       :PROPERTIES:
       :rating:   7.6
@@ -308,8 +308,8 @@ Sebastian Vaughan is the brightest, newest recruit to Torchwood. He's come fro
       :rating:   7.9
       :END:
 
-***** NEXT [#A] TW43. The Three Monkeys :Owen:Andy:DW2023_10_spinoffs:
-      SCHEDULED: <2023-10-22 Sun>
+***** NOW [#A] TW43. The Three Monkeys :Owen:Andy:DW2023_10_spinoffs:
+      SCHEDULED: <2023-10-31 Tue>
       :PROPERTIES:
       :rating:   8.8
       :END:
@@ -1218,7 +1218,7 @@ Roberts Master
     :END:
 
 *** NOW [#B] 6.3 - Ascension :DW2023_10_spinoffs:
-    SCHEDULED: <2023-10-15 Sun>
+    SCHEDULED: <2023-10-31 Tue>
 
 ** [#B] 7.0 - Intervention Earth :P2015:
 ** [#A] 8.0 - Enemy Lines :P2016:
@@ -1403,8 +1403,8 @@ http://drwhoguide.com/bs_a18.htm
      :rating:   7.9
      :END:
 
-**** NOW [#B] 1.2 The Temple of Questions :Ruth_Leonidas:DW2023_10_spinoffs:
-     SCHEDULED: <2023-10-08 Sun>
+**** 3QTR [#B] 1.2 The Temple of Questions :Ruth_Leonidas:DW2023_10_spinoffs:
+     CLOSED: [2023-10-20 Fri 00:20] SCHEDULED: <2023-10-08 Sun>
      :PROPERTIES:
      :rating:   8.0
      :END:
@@ -2095,7 +2095,7 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
     :END:
 
 *** NOW [#C] 1.2 Earthfall :DW2023_10_spinoffs:
-    SCHEDULED: <2023-10-15 Sun>
+    SCHEDULED: <2023-10-26 Thu>
     :PROPERTIES:
     :rating:   7.8
     :END:
@@ -2322,7 +2322,7 @@ http://www.drwhoguide.com/kaldor03.htm
      :rating:   7.5
      :END:
 
-**** NEXT [#D] 3.2 - Whatever Remains :DW2023_10_spinoffs:
+**** HALF [#D] 3.2 - Whatever Remains :DW2023_10_spinoffs:
      SCHEDULED: <2023-10-22 Sun>
 
 **** [#B] 3.3 - Truth and Bone

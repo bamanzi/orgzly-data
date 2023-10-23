@@ -598,7 +598,7 @@ SCHEDULED: <2023-06-23 Fri 19:51>
 **** TBR 10DC S2: Defender of the Earth :P2023_11:
 *** CC & ST :🗣:
 **** [#D] DotD #10 Death's Deal :Donna:
-**** NOW [#C] ST8.6 The Siege of Big Ben :plot_yes:DW2023_10_maybe:
+**** [#C] ST8.6 The Siege of Big Ben :plot_yes:
 SCHEDULED: <2023-10-31 Tue>
 :PROPERTIES:
 :rating:   7.9
@@ -608,7 +608,8 @@ SCHEDULED: <2023-10-31 Tue>
 
 (alt 10D + alt Jackie)
 
-**** READY [#D] ST10.X Free Speech :scripted:bilibili:
+**** DONE [#D] ST10.X Free Speech :scripted:bilibili:DW2023_10_doctor:
+CLOSED: [2023-10-07 Sat 19:46] SCHEDULED: <2023-10-14 Sat>
 
 【【神秘博士】短途旅行：言谈无阻 | Short Trips: Free Speech-哔哩哔哩】 https://b23.tv/Ix7q1RY
 

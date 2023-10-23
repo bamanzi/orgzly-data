@@ -1570,62 +1570,53 @@
 *** START [#A] J&L8.1 - Encore of the Scorchies
 *** HALF [#B] WM6.1 The Sincerest Form of Flattery :Time_War:Master_war:
 *** [#C] Susan1.2 The Uncertain Shore :Susan:Time_War:bilibili:
-*** [#D] SJS1.1 Comeback                                             :Sarah:
+*** [#D] SJS1.1 Comeback :Sarah:
 * DW2023-09
 ** dw2023-09-doctor
-*** [#B] CC7.10 - The Library of Alexandria                      :1st_Dr:Ian:
-
-*** [#B] 3DA 8.2 The Devil's Hoofprints :3rd_Dr:Sarah:
-*** HALF [#D] MR269 Shadow of the Daleks 1.1/1.2          :5th_Dr:Daleks:
-*** FIXME [#C] MR082 The Settling :Ace:Hex:
-*** [#A] 9DA6.3 Break the Ice :9th_Dr:
-*** [#A] 11DC3.3 The End :11th_Dr:
+*** 3QTR [#B] CC7.10 - The Library of Alexandria :1st_Dr:Ian:
+*** 3QTR [#B] 3DA 8.2 The Devil's Hoofprints :3rd_Dr:Sarah:
+*** HALF [#D] MR269 Shadow of the Daleks 1.1/1.2 :5th_Dr:Daleks:
+*** 3QTR [#C] MR082 The Settling :Ace:Hex:
+*** HALF [#A] 9DA6.3 Break the Ice :9th_Dr:
+*** HALF [#A] 11DC3.3 The End :11th_Dr:
 ** dw2023-09-spinoffs
-*** 3QTR [#A] TWO3.3 The Rockery                               :Yvvone:Ianto:
-*** [#D] TW62. Dead Plates :Bilis:
-*** [#B] UNIT 1.1 Vanguard :UNIT:
-*** [#D] J&L8.2 - The Backwards Men
-*** HALF [#A] WM6.2 - A Quiet Night In                                   :Jo:
-*** [#B] Gallifrey 6.2 - Renaissance :Romana_2:Leela:
-*** [#B] BSBOX1.1 - The Kraken's Lament :Benny:
-** pending
-*** [#C] LS2.1b The Fragile Yellow Arc of Fragrance :Ian:Susan:Barbara:½CD:plot_yes:
-
-*** [#A] MR120 The Magic Mousetrap :7th_Dr:Ace:Hex:
+*** 3QTR [#A] TWO3.3 The Rockery :Yvvone:Ianto:
+*** HALF [#D] TW62. Dead Plates :Bilis:
+*** HALF [#B] UNIT 1.1 Vanguard :UNIT:
+*** HALF [#D] J&L8.2 - The Backwards Men
+*** 3QTR [#A] WM6.2 - A Quiet Night In :Jo:
+*** HALF [#B] Gallifrey 6.2 - Renaissance :Romana_2:Leela:
+*** HALF [#B] BSBOX1.1 - The Kraken's Lament :Benny:
 * DW2023-10
 ** dw2023-10-doctor
-*** MA05. The Enemy of the Universe :2nd_Dr:fan_made:
-*** [#A] 4DA 11.1 Blood of the Time Lords :4th_Dr:Master:
-*** [#C] MR194. The Rani Elite / [#B] LS1.3 Leviathan :6th_Dr:Peri:
-*** [#C] 8DA2.7 Sisters of the Flame (Morbius, Karn) / [#B] 8DA2.3 Brave New Town (Nestene) :8th_Dr:Lucie:
-*** [#D] ST10.X Free Speech #bilibili / [#D] 10DC 1.2 - Backtrack (Martha)  / #B ST8.8 - Flight into Hull! (alt 10D + alt Jackie) :10th_Dr:
-*** FIXME ?? 12/war/unbound?
+*** 3QTR MA02. Freedom of the Daleks                    :2nd_Dr:fan_made:
+*** 3QTR [#A] 4DA 11.1 Blood of the Time Lords                :4th_Dr:Master:
+*** [#B] LS1.3 Leviathan :6th_Dr:Peri:
+*** HALF [#C] 8DA2.7 Sisters of the Flame / 2.8 Vengeance of Morbius :8th_Dr:Lucie:Morbius:Karn:
+*** DONE [#D] ST10.X Free Speech :10th_Dr:bilibili:
+*** [#C] WD2.1 Legion of the Lost :War_Doctor:
 ** dw2023-10-spinoffs
-*** [#B] TWS2 Outbreak 1/2 (Jack, Gwen, Ianto, Rhys, Andy, Norton)
+*** HALF [#B] TW29. Serenity                                :Jack:Ianto:
 *** [#A] TW43. The Three Monkeys :Andy:Owen:
-*** [#C] UNIT 1.2 Earthfall / [#C] UNIT1.3 Bridgehead (7.9)
-*** [#D] PG3.2 - Whatever Remains
-*** [#A] DoRS7.3 Barrister to the Stars
+*** [#C] UNIT 1.2 Earthfall
+*** HALF [#D] PG3.2 - Whatever Remains
+*** 3QTR [#B] BSBOX1.2 - The Temple of Questions                      :Benny:
 *** [#B] Gallifrey 6.3 - Ascension
 ** pending
-*** FIXME Missy2.4 Too Many Masters / [#A] WM6.3 The Orphan :Master:
-*** [#D] Robots 3.1 The Mystery of Sector 13
-*** FIXME [#C] CY1.3 - Living History :Churchill:11th_Dr:
-*** FIXME [#B] SJS1.3 Test of Nerve :Sarah:
-* pending
-** odd
-*** [#B] LS2.1b The Fragile Yellow Arc of Fragrance (Susan, Ian, Barbara)
-*** 3DA6.1 Poison of the Daleks (Jo)
-*** [#A] 3DA #9. The Annihilators 太长 (Liz, +2nd Dr, Jamie) 3CD ⅔ /
-*** [#C] CC4.05 - Ringpullworld (Turlough)
-*** [#B] UNIT: Dominion p3 :7th_Dr:Klein:UNIT:Master_bald:1CD:
-*** [#A] 7DNA 1.4 The Dread of Night 1cd (Roz, Chris)
-** even
-*** [#D] WoDW#4 Second Sight :6th_Dr:Romana_2:Leela:Yates:
-*** [#C] 6DnP #1 The Headless Ones :6th_Dr:Peri:
-** spinoffs
-*** [#C] TW29 Serenity (Jack+Ianto)
+*** FIXME [#C] ST8.6 The Siege of Big Ben :10th_Dr:plot_yes:Jackie:
+* DW2023-11
+** dw2023-11-doctor
+*** The War Machines :Dodo:Polly:Ben:
+*** FIXME [#C] CC3.10 - The Magician's Oath :Yates:
+*** [#A] MR081 The Kingmaker :5th_Dr:Peri:Erimem:
+*** [#A] 7DNA 1.4 The Dread of Night :7th_Dr:Roz:Chris:1CD:
+*** [#C] DotD#9. Night of the Whisper
+*** FIXME Let it Snow                                     :11th:Ice_Warriors:
+** dw2023-11-spinoffs
+*** [#B] TWS2 Outbreak ⅔ :3CD:
+*** [#A] TW59 Sonny :Rhys:
+*** [#B] CM2.2 - The Fifth Citadel
 *** [#D] J&L7.2 The Night of 1000 Stars (+Leela)
-*** [#B] Gallifrey 6.3  - Ascension
-*** [#A] DoRS7.3 Barrister to the Stars :River:
-*** [#D] Robots 3.1 The Mystery of Sector 13
+*** [#A] WM6.3 The Orphan :Nyssa:Master_war:
+*** [#C] Susan1.3. Assets of War
+*** [#A] DoRS7.3 Barrister to the Stars
