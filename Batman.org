@@ -904,8 +904,8 @@ CLOSED: [2023-10-03 Tue 15:44] SCHEDULED: <2023-10-04 Wed>
 CLOSED: [2023-10-06 Fri 22:22] SCHEDULED: <2023-10-06 Fri>
 
 *** DOING Gotham S5 (12 eps)
-**** NOW 5x01
-SCHEDULED: <2023-10-11 Wed>
+**** DONE 5x01
+CLOSED: [2023-10-09 Mon 16:46] SCHEDULED: <2023-10-11 Wed>
 
 **** NOW 5x02
 SCHEDULED: <2023-10-11 Wed>
@@ -1016,14 +1016,26 @@ CLOSED: [2023-10-05 Thu 18:18] SCHEDULED: <2023-10-02 Mon>
 
 哈莉的起源故事
 
-***** NOW 2x07
-SCHEDULED: <2023-10-06 Fri>
+***** DONE 2x07
+CLOSED: [2023-10-08 Sun 07:59] SCHEDULED: <2023-10-06 Fri>
 
-***** NOW 2x08
-SCHEDULED: <2023-10-08 Sun>
+***** DONE 2x08
+CLOSED: [2023-10-10 Tue 16:09] SCHEDULED: <2023-10-08 Sun>
 
-***** NEXT 2x09
-SCHEDULED: <2023-10-10 Tue>
+***** DONE 2x09
+CLOSED: [2023-10-10 Tue 19:40] SCHEDULED: <2023-10-12 Thu>
+
+***** DONE 2x10
+CLOSED: [2023-10-23 Mon 08:21] SCHEDULED: <2023-10-15 Sun>
+
+***** NOW 2x11
+SCHEDULED: <2023-10-25 Wed>
+
+***** NOW 2x12
+SCHEDULED: <2023-10-27 Fri>
+
+***** NOW 2x13
+SCHEDULED: <2023-10-29 Sun>
 
 ** DCAU :dcau:
 *** Batman Adventures
@@ -1472,7 +1484,7 @@ CLOSED: <2022-10-22 Sat 15:29>
 **** DONE Arrow 3x08
 CLOSED: <2022-10-22 Sat 16:20>
 
-*** crossover 2: Legends of Yesterday 昨日军团
+*** 2: Legends of Yesterday 昨日军团
 **** DONE The Flash 2x08
 CLOSED: <2022-11-04 Fri 20:15> SCHEDULED: <2022-10-31 Mon>
 
@@ -1502,4 +1514,17 @@ CLOSED: [2022-11-19 Sat 15:32]
 **** The Flash 3x17
 
 https://dc.fandom.com/wiki/The_Flash_(2014_TV_Series)_Episode:_Duet
+
+*** 4. Crisis on Earth-X
+**** DONE Supergirl 3x08
+CLOSED: [2023-10-10 Tue 17:56] SCHEDULED: <2023-10-12 Thu>
+
+**** DONE Arrow 6x08
+CLOSED: [2023-10-15 Sun 20:21] SCHEDULED: <2023-10-14 Sat>
+
+**** NOW The Flash 4x08
+SCHEDULED: <2023-10-23 Mon>
+
+**** NOW Legends of Tomorrow 明日传奇3x08
+SCHEDULED: <2023-10-26 Thu>
 

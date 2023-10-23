@@ -260,7 +260,7 @@ https://agathachristie.fandom.com/wiki/Agatha_Christie%27s_Poirot
 
 70 episodes in total
 
-**** DOING series 1 (10 episodes) :P1989:
+**** DONE series 1 (10 episodes) :P1989:
 ***** DONE 1x01 The Adventure of the Clapham Cook
 ***** DONE 1x02 Murder in the Mews
 CLOSED: [2022-09-26 Mon 08:14] SCHEDULED: <2022-09-25 Sun>
@@ -286,9 +286,10 @@ CLOSED: [2023-09-28 Thu 20:03] SCHEDULED: <2023-09-24 Sun>
 ***** DONE 1x09 The King of Clubs
 CLOSED: [2023-10-03 Tue 21:44] SCHEDULED: <2023-10-02 Mon>
 
-***** NOW 1x10 The Dream
-SCHEDULED: <2023-10-09 Mon>
+***** DONE 1x10 The Dream :benben:
+CLOSED: [2023-10-21 Sat 16:28] SCHEDULED: <2023-10-09 Mon>
 
+**** series 2
 **** series 13 :P2013:
 *** Miss Marple (BBC)
 
@@ -330,13 +331,17 @@ CLOSED: [2021-07-25 Sun 17:42]
 **** DONE ep2 The House of Lurking Death
 CLOSED: [2022-09-30 Fri 08:08]
 
-**** NOW ep3 The Sunningdale Mystery
-SCHEDULED: <2023-10-21 Sat>
+**** DONE ep3 The Sunningdale Mystery
+CLOSED: [2023-10-11 Wed 22:28] SCHEDULED: <2023-10-15 Sun>
 
-**** ep4 The Clergyman's Daughter
+**** NOW ep4 The Clergyman's Daughter
+SCHEDULED: <2023-10-29 Sun>
+
 **** ep5 Finessing the King
 **** ep6 The Ambassador's Boots
 *** 短篇集 The.Agatha.Christie.Hour
+** audio
+*** DOING 谋杀启事（广播剧）
 * 狄公案
 ** tv
 *** 1986电视剧 (14 集)
