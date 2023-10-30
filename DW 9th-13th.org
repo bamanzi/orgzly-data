@@ -146,7 +146,8 @@ SCHEDULED: <2022-11-29 Tue>
 :END:
 
 *** ST (audiobooks) :🗣:
-**** NEXT [#C] DotD#9. Night of the Whisper :plot_yes:1CD:
+**** NOW [#C] DotD#9. Night of the Whisper :plot_yes:1CD:DW2023_11_doctor:
+SCHEDULED: <2023-11-11 Sat>
 :PROPERTIES:
 :thetimescales: 7.6
 :END:
@@ -793,7 +794,9 @@ https://m.youtube.com/watch?v=7wrZUFIgiNE
 
 **** [#E] Paradis Lost (BBC) :Clara:1CD:P2020:
 **** [#B] NSA audio #15 The Art of Death :BBC:Amy:Rory:
-**** [#B] Let it Snow (Tales of Trenzalore #1) :Ice_Warriors:
+**** NEXT [#B] Let it Snow (Tales of Trenzalore #1) :Ice_Warriors:DW2023_11_doctor:
+SCHEDULED: <2023-11-25 Sat>
+
 ** comics
 *** IDW
 **** Omnibus vol.1

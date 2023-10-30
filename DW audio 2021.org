@@ -836,7 +836,7 @@
  - <last play position> (00:37:23)
 
 *** DW 2021-11-extra
-**** HALF GFY1.3 - The Inquiry :Romana_2:Leena:
+**** HALF GFY1.3 - The Inquiry :Romana_2:Leela:
 
  - <second to last play position> (00:10:24)
  - <last play position> (00:18:36)
@@ -1569,7 +1569,7 @@
 *** HALF [#B] CM2.1 - Manhunt :ICMG:
 *** START [#A] J&L8.1 - Encore of the Scorchies
 *** HALF [#B] WM6.1 The Sincerest Form of Flattery :Time_War:Master_war:
-*** [#C] Susan1.2 The Uncertain Shore :Susan:Time_War:bilibili:
+*** DONE [#C] Susan1.2 The Uncertain Shore :Susan:Time_War:bilibili:
 *** [#D] SJS1.1 Comeback :Sarah:
 * DW2023-09
 ** dw2023-09-doctor
@@ -1589,19 +1589,19 @@
 *** HALF [#B] BSBOX1.1 - The Kraken's Lament :Benny:
 * DW2023-10
 ** dw2023-10-doctor
-*** 3QTR MA02. Freedom of the Daleks                    :2nd_Dr:fan_made:
-*** 3QTR [#A] 4DA 11.1 Blood of the Time Lords                :4th_Dr:Master:
-*** [#B] LS1.3 Leviathan :6th_Dr:Peri:
+*** 3QTR MA02. Freedom of the Daleks :2nd_Dr:fan_made:
+*** 3QTR [#A] 4DA 11.1 Blood of the Time Lords :4th_Dr:Master:
+*** HALF [#B] LS1.3 Leviathan :6th_Dr:Peri:
 *** HALF [#C] 8DA2.7 Sisters of the Flame / 2.8 Vengeance of Morbius :8th_Dr:Lucie:Morbius:Karn:
 *** DONE [#D] ST10.X Free Speech :10th_Dr:bilibili:
-*** [#C] WD2.1 Legion of the Lost :War_Doctor:
+*** 3QTR [#C] WD2.1 Legion of the Lost :War_Doctor:
 ** dw2023-10-spinoffs
-*** HALF [#B] TW29. Serenity                                :Jack:Ianto:
-*** [#A] TW43. The Three Monkeys :Andy:Owen:
+*** DONE [#B] TW29. Serenity :Jack:Ianto:
+*** FIXME [#A] TW43. The Three Monkeys :Andy:Owen:
 *** [#C] UNIT 1.2 Earthfall
-*** HALF [#D] PG3.2 - Whatever Remains
-*** 3QTR [#B] BSBOX1.2 - The Temple of Questions                      :Benny:
-*** [#B] Gallifrey 6.3 - Ascension
+*** 3QTR [#D] PG3.2 - Whatever Remains
+*** 3QTR [#B] BSBOX1.2 - The Temple of Questions :Benny:
+*** [#B] SJS1.3 Test of Nerve :Sarah:
 ** pending
 *** FIXME [#C] ST8.6 The Siege of Big Ben :10th_Dr:plot_yes:Jackie:
 * DW2023-11

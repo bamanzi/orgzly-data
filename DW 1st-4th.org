@@ -314,6 +314,10 @@ SCHEDULED: <2023-09-30 Sat>
 
 *** BBC
 **** [#E] Men of War :Steven:Sara_Kingdom:WW1:P2018:1CD:
+*** TV Episodes audio soundtracks
+**** NOW The War Machines :DW2023_11_doctor:
+SCHEDULED: <2023-11-04 Sat>
+
 ** novels
 *** An Unearthly Child
 
@@ -960,7 +964,8 @@ SCHEDULED: <2023-07-08 Sat>
 :rating:   7.6
 :END:
 
-***** [#C] CC3.10 - The Magician's Oath :Yates:
+***** NOW [#C] CC3.10 - The Magician's Oath :Yates:DW2023_11_doctor:
+SCHEDULED: <2023-11-11 Sat>
 :PROPERTIES:
 :rating:   7.5
 :END:

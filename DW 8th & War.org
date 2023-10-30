@@ -1250,8 +1250,8 @@ CLOSED: [2020-12-24 Thu 15:51] SCHEDULED: <2021-09-28 Tue>
 **** [#C] 1.2 - The Thousand Worlds
 **** [#B] 1.3 - The Heart of the Battle
 *** 📂The War Doctor vol.2 :scripted:🎧:
-**** NOW [#C] 2.1 - Legion of the Lost :DW2023_10_doctor:
-SCHEDULED: <2023-10-31 Tue>
+**** 3QTR [#C] 2.1 - Legion of the Lost :DW2023_10_doctor:
+CLOSED: [2023-10-26 Thu 08:21] SCHEDULED: <2023-10-29 Sun>
 
 **** [#E] 2.2 - A Thing of Guile
 **** [#A] 2.3 - The Neverwhen
@@ -1295,7 +1295,7 @@ SCHEDULED: <2023-09-03 Sun>
 **** 3QTR [#A] *6.2 - A Quiet Night In* #S :Jo:DW2023_09_spinoffs:
 CLOSED: <2023-09-08 Fri 09:33> SCHEDULED: <2023-09-17 Sun>
 
-**** NEXT [#A] 6.3 - The Orphan :Nyssa:
+**** NEXT [#A] 6.3 - The Orphan :Nyssa:DW2023_11_spinoffs:
 **** [#A] 6.4 - Unfinished Business
 *** /📂The War Master series 7: Self-Defence/ :Master_war:🎧:P2022_06:
 **** READY [#B] 7.1 The Forest Penitence :bilibili:

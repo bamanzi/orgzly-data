@@ -218,8 +218,8 @@ Bonded by an alien device, Margaret and Suzie find themselves on the run from To
       :rating:   6.3
       :END:
 
-***** HALF [#C] 29 Serenity :Jack:Ianto:DW2023_10_spinoffs:
-      SCHEDULED: <2023-10-08 Sun>
+***** DONE [#C] 29 Serenity :Jack:Ianto:DW2023_10_spinoffs:
+      CLOSED: [2023-10-25 Wed 09:03] SCHEDULED: <2023-10-08 Sun>
       :PROPERTIES:
       :rating:   7.6
       :END:
@@ -402,7 +402,9 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 
 ***** [#A] 57. The Grey Mare (8.5) :Ianto:
 ***** [#B] 58. Cadoc Point (8.4) :Andy:
-***** NEXT [#A] 59. Sonny (8.9) :Rhys:
+***** NEXT [#A] 59. Sonny (8.9) :Rhys:DW2023_11_spinoffs:
+      SCHEDULED: <2023-11-12 Sun>
+
 ***** CANCEL [#E] 60. Infidel Places+ (6.7) :Queen:
 **** series 8 (61-72)
 ***** HALF [#C] TW61. War Chest :Tosh:P2022_05:DW2023_04_spinoffs:
@@ -429,7 +431,8 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
      :rating:   8.3
      :END:
 
-**** [#B] special 2: Outbreak :P2016:3CD:plot_yes:scripted:
+**** NEXT [#B] special 2: Outbreak :P2016:3CD:plot_yes:scripted:DW2023_11_spinoffs:
+     SCHEDULED: <2023-11-12 Sun>
      :PROPERTIES:
      :rating:   8.3
      :END:
@@ -935,16 +938,29 @@ Roberts Master
 
 **** START [#C] 6.4 The Talents of Greel        (7.8) :Jago:plot_yes:
 *** DoRS 7 :P2020:
-**** HALF [#C] 7.1 Colony of Strangers         (7.7) :DW2022_12_spinoffs:
+**** HALF [#C] 7.1 Colony of Strangers :DW2022_12_spinoffs:
      SCHEDULED: <2022-12-24 Sat>
+     :PROPERTIES:
+     :rating:   7.7
+     :END:
 
-**** HALF [#D] 7.2 Abbey of Heretics           (7.2) :DW2023_01_spinoffs:
+**** HALF [#D] 7.2 Abbey of Heretics :DW2023_01_spinoffs:
      SCHEDULED: <2023-01-31 Tue>
+     :PROPERTIES:
+     :rating:   7.2
+     :END:
 
-**** TODO [#A] River7.3 Barrister to the Stars      (8.9)
-     SCHEDULED: <2023-07-31 Mon>
+**** NOW [#A] 7.3 Barrister to the Stars :DW2023_11_spinoffs:
+     SCHEDULED: <2023-11-05 Sun>
+     :PROPERTIES:
+     :rating:   8.9
+     :END:
 
-**** [#D] 7.4 Carnival of Angels          (7.0)
+**** [#D] 7.4 Carnival of Angels
+     :PROPERTIES:
+     :rating:   7.0
+     :END:
+
 *** DoRS 8 :P2021:
 **** [#D] 8.1 Slight Glimpses of Tomorrow (7.1)
 **** [#C] 8.2 A Brave New World (7.6) :10th_Dr:
@@ -1057,7 +1073,9 @@ Roberts Master
 *** 3QTR [#B] 7.1 The Monstrous Menagerie           (8.1) :DW2022_08_spinoffs:
     CLOSED: [2022-09-02 Fri 19:14] SCHEDULED: <2022-09-04 Sun>
 
-*** [#D] 7.2 The Night of 1000 Stars           (7.2) :Leela:plot_no:
+*** NOW [#D] 7.2 The Night of 1000 Stars           (7.2) :Leela:plot_no:DW2023_11_spinoffs:
+    SCHEDULED: <2023-11-05 Sun>
+
 *** HALF [#A] 7.3 Murder at Moorsey Manor           (8.7) :DW2023_01_spinoffs:
     SCHEDULED: <2023-01-09 Mon 21:33>
 
@@ -1217,9 +1235,7 @@ Roberts Master
     :rating:   8.1
     :END:
 
-*** NOW [#B] 6.3 - Ascension :DW2023_10_spinoffs:
-    SCHEDULED: <2023-10-31 Tue>
-
+*** NOW [#B] 6.3 - Ascension :DW2023_12_spinoffs:
 ** [#B] 7.0 - Intervention Earth :P2015:
 ** [#A] 8.0 - Enemy Lines :P2016:
 * Bernice Summerfield :Benny:
@@ -2322,8 +2338,8 @@ http://www.drwhoguide.com/kaldor03.htm
      :rating:   7.5
      :END:
 
-**** HALF [#D] 3.2 - Whatever Remains :DW2023_10_spinoffs:
-     SCHEDULED: <2023-10-22 Sun>
+**** 3QTR [#D] 3.2 - Whatever Remains :DW2023_10_spinoffs:
+     CLOSED: [2023-10-25 Wed 07:22] SCHEDULED: <2023-10-22 Sun>
 
 **** [#B] 3.3 - Truth and Bone
 *** PG: Heritage 4 :P2020:
@@ -2361,7 +2377,7 @@ http://www.drwhoguide.com/kaldor03.htm
 *** HALF [#B] CM2.1 - Manhunt :plot_cast:DW2023_08_spinoffs:
     SCHEDULED: <2023-08-20 Sun>
 
-*** [#B] 2.2 - The Fifth Citadel            (8.3)
+*** NEXT [#B] 2.2 - The Fifth Citadel            (8.3) :DW2023_11_spinoffs:
 *** [#C] 2.3 - Peshka
 *** [#C] 2.4 - Sins of the Fathers
 ** CM series 3 :P2014:
@@ -2426,12 +2442,14 @@ http://www.drwhoguide.com/kaldor03.htm
     CLOSED: <2020-08-15 Sat 16:31>
 
 * misc spin-offs (classic)
-** Sarah Jane Smith
-*** START [#E] SJS1.1 - Comeback (6.8) :DW2023_08_spinoffs:
-    SCHEDULED: <2023-08-20 Sun>
+** Sarah Jane Smith :🎧:plot_yes_dwg:
+*** [#E] SJS1.1 - Comeback (6.8) :DW2023_08_spinoffs:
+    SCHEDULED: <2023-08-31 Thu>
 
 *** [#E] +1.2 The Tao Connection+ (6.2)
-*** TODO [#B] SJS1.3 Test of Nerve (8.1)
+*** NOW [#B] SJS1.3 Test of Nerve (8.1) :DW2023_10_spinoffs:
+    SCHEDULED: <2023-10-30 Mon>
+
 *** [#E] +1.4 Ghost Town+ (6.4)
 *** [#D] 1.5 Mirror, Signal, Manoeuvre (7.1)
 *** [#C] 2.1 Buried Secrets (7.5)
