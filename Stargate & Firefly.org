@@ -166,10 +166,17 @@ CLOSED: [2022-11-24 Thu 22:13]
 **** DONE 3x22 Nemesis
 CLOSED: [2022-12-05 Mon 22:09]
 
-*** SG-1 S4
-**** DONE 4x01 Small Victories
+*** DOING 📂SG-1 S4
+**** DONE [#A] 4x01 Small Victories
 CLOSED: <2022-12-06 Tue 23:06>
 
+**** DONE [#C] 4x02 The Other Side
+CLOSED: <2023-10-29 Sun 17:21>
+
+**** NOW [#B] 4x03 Upgrades
+**** [#D] 4x04 Crossroads
+**** [#B] Devide and Conquer
+**** [#A] Window of Opportunity
 *** audio
 
 https://www.bigfinish.com/hubs/v/stargate
@@ -197,7 +204,7 @@ This story takes place during season ten, after The Pegasus Project.
 :reading:  6.2
 :END:
 
-**** [#C] 2.1 First Prime :Tealc:
+**** TODO [#C] 2.1 First Prime :Tealc:
 :PROPERTIES:
 :rating:   7.8
 :END:
@@ -218,13 +225,21 @@ This story is around season 7 of Stargate SG-1, some time between /Fragile Ba
 
 It is supposedly set in one of the last two seasons of Stargate SG-1
 
-**** TODO [#C] 3.1.1 Half Life
+**** [#C] 3.1.1 Half Life
 
 the best placement of this entire series appears to be sometime after season 10
 
 **** [#B] 3.1.2 An Eye for an Eye
 **** [#B] 3.1.3 Infiltration
 **** 3.2.1 Excision
+**** 4.1 Duplicity
+
+This adventure is set during season 10 of Stargate SG-1.
+
+**** 4.2 Time's Wheel
+
+This adventure is set during season 10 of Stargate SG-1
+
 ** Stargate Atlantis (SGA) :sga:
 *** DONE tv
 *** comics
@@ -233,11 +248,13 @@ the best placement of this entire series appears to be sometime after season 10
 **** Hearts & Minds :P2017:
 **** Singularity :P2018:
 *** audio
-**** [#B] 2.4 - The Kindness of Strangers
+**** [#C] Perchance to Dream
+**** [#B] The Kindness of Strangers
 :PROPERTIES:
 :rating:   8.4
 :END:
 
+**** [#D] Meltdown
 ** Stargate Universe (SGU) :sgu:
 *** DONE SGU S1 (20 episodes) :P2009:
 **** DONE ep1x01-02
@@ -299,7 +316,7 @@ CLOSED: <2022-12-22 Thu 06:25>
 **** DONE 1x20
 CLOSED: <2022-12-22 Thu 07:10>
 
-*** SGU S2 (20 episodes) :P2010:
+*** DOING 📂SGU S2 (20 episodes) :P2010:
 
 人人影视（1024x576双语字幕）
 https://www.meijumi.net/7277.html
@@ -385,6 +402,10 @@ CLOSED: [2022-10-29 Sat 23:40]
 
 *** DONE 5x10
 CLOSED: [2022-10-30 Sun 23:20]
+
+** NEXT S6
+
+6 episodes
 
 * Battlestar Galactica :bsg:
 ** tv :📺:

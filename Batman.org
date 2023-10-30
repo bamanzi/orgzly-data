@@ -756,11 +756,37 @@ CLOSED: <2021-06-18 Fri 22:14>
 
 *** Damian Wayne
 *** Batwoman
-**** Batwomen: Elegy (DC #854-857) :P2009:
+**** Batwoman by Greg Rucka and J.H. Williams (TPB) :P2017:
+
+https://dc.fandom.com/wiki/Batwoman_by_Greg_Rucka_and_J.H._Williams_III_(Collected)?so=search
+
+***** DONE Batwomen: Elegy (DC #854-857) :P2009:
+CLOSED: <2023-10-15 Sun 23:19>
 
 凯特·凯恩是新的蝙蝠女侠，她在探索她的过去并踏入她的新角色时，必须面对超自然的威胁。
 
-**** Batwoman v2 vol. 1-4 :P2011:
+***** DONE Batwoman: GO (DC #858-860) :P2010:
+CLOSED: <2023-10-22 Sun 21:44>
+
+***** DONE Cutter (DC #861-863) :P2010:
+CLOSED: [2023-10-27 Fri 20:22]
+
+**** DOING Batwoman v2 vol. 1-4 :P2011:
+SCHEDULED: <2023-10-31 Tue>
+
+***** NOW vol.1 Batwoman: Hydrology (#0-5)
+SCHEDULED: <2023-10-29 Sun>
+
+***** NOW vol.2 Batwoman: To Drown the World (#6-11)
+SCHEDULED: <2023-11-02 Thu>
+
+***** NEXT vol.3 Batwoman: World's Finest (#12-17)
+SCHEDULED: <2023-11-05 Sun>
+
+***** NEXT vol.4 Batwoman: This Blood is Thick (#18-24)
+SCHEDULED: <2023-11-12 Sun>
+
+**** NEXT 📂Batwomen v3, by Marguerite Bennett (2017-2018)
 *** GCPD
 **** Gotham Central
 *** Batgirl
@@ -907,15 +933,22 @@ CLOSED: [2023-10-06 Fri 22:22] SCHEDULED: <2023-10-06 Fri>
 **** DONE 5x01
 CLOSED: [2023-10-09 Mon 16:46] SCHEDULED: <2023-10-11 Wed>
 
-**** NOW 5x02
-SCHEDULED: <2023-10-11 Wed>
+**** DONE 5x02
+CLOSED: <2023-10-24 Tue 19:23> SCHEDULED: <2023-10-11 Wed>
 
-**** NEXT 5x03
-SCHEDULED: <2023-10-14 Sat>
+**** DONE 5x03
+CLOSED: [2023-10-25 Wed 07:55] SCHEDULED: <2023-10-14 Sat>
 
-**** NEXT 5x04
-SCHEDULED: <2023-10-14 Sat>
+**** DONE 5x04
+CLOSED: [2023-10-25 Wed 18:54] SCHEDULED: <2023-10-14 Sat>
 
+**** DONE 5x05
+CLOSED: [2023-10-27 Fri 18:49] SCHEDULED: <2023-10-27 Fri>
+
+**** DONE 5x06
+CLOSED: [2023-10-29 Sun 23:11] SCHEDULED: <2023-10-27 Fri>
+
+**** NOW 5x07
 *** DONE Pennyworth S1
 CLOSED: [2022-09-16 Fri 20:31]
 
@@ -1028,11 +1061,11 @@ CLOSED: [2023-10-10 Tue 19:40] SCHEDULED: <2023-10-12 Thu>
 ***** DONE 2x10
 CLOSED: [2023-10-23 Mon 08:21] SCHEDULED: <2023-10-15 Sun>
 
-***** NOW 2x11
-SCHEDULED: <2023-10-25 Wed>
+***** DONE 2x11
+CLOSED: [2023-10-26 Thu 20:38] SCHEDULED: <2023-10-25 Wed>
 
-***** NOW 2x12
-SCHEDULED: <2023-10-27 Fri>
+***** DONE 2x12
+CLOSED: [2023-10-28 Sat 18:51] SCHEDULED: <2023-10-27 Fri>
 
 ***** NOW 2x13
 SCHEDULED: <2023-10-29 Sun>
@@ -1126,7 +1159,7 @@ CLOSED: [2022-10-25 Tue 12:54]
 
 a new modern version of the Superman story taking place in a
 
-**** NEXT Superman v4 :P2016:
+**** NEXT 📂Superman v4 :P2016:
 ***** Vol.1 Son of Superman
 ***** Vol.2 Trials of the Super Son
 ***** Vol.3 Multiplicity
@@ -1181,7 +1214,7 @@ Action Comics (2011-2016) #1-18
 #13-18
 
 **** NOW Superman: Up in the Sky 云天之上 :P2018:hanzify:
-SCHEDULED: <2023-10-14 Sat>
+SCHEDULED: <2023-10-31 Tue>
 
 【关爱酥皮烤肉锅炉组】补档
 超人：云天之上01~06 ​
@@ -1522,9 +1555,9 @@ CLOSED: [2023-10-10 Tue 17:56] SCHEDULED: <2023-10-12 Thu>
 **** DONE Arrow 6x08
 CLOSED: [2023-10-15 Sun 20:21] SCHEDULED: <2023-10-14 Sat>
 
-**** NOW The Flash 4x08
-SCHEDULED: <2023-10-23 Mon>
+**** DONE The Flash 4x08
+CLOSED: [2023-10-25 Wed 08:12] SCHEDULED: <2023-10-23 Mon>
 
-**** NOW Legends of Tomorrow 明日传奇3x08
-SCHEDULED: <2023-10-26 Thu>
+**** DONE Legends of Tomorrow 明日传奇3x08
+CLOSED: [2023-10-26 Thu 20:11] SCHEDULED: <2023-10-26 Thu>
 
