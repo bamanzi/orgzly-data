@@ -424,6 +424,11 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 ***** 70. Double part2 :Autons:
 ***** 71. The Last Love Song of Suzie Costello :Suzie:
 ***** 72. The Thirst Trap :Andy:Rhys:
+**** series 9
+***** 73. Launch Date :Ianto:
+***** 74. Sigil :Bilis_Manger:
+***** 75. Dog Hop :Andy:plot_yes:
+***** 76. Odyssey :plot_yes:
 *** specials
 **** 2DONE [#B] special 1: The Torchwood Archive :P2016:The_Commitee:2CD:plot_yes:
      CLOSED: [2020-11-19 Thu 18:33]
@@ -2212,7 +2217,15 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
 *** [#C] 2.3 The War Factory
 *** [#C] 2.4 Ten Minutes in Hell
 ** Nemesis 3: Objective: Earth :P2022_11:
-** TBR Nemesis 4: Masters of Time :P2023_07:
+*** 3.1 The Vulpreen Encounter
+*** 3.2 By Jacqui McGee
+*** 3.3 Axos Unleashed
+*** 3.4 Time of the Vulpreen
+** Nemesis 4: Masters of Time :P2023_07:
+*** 4.1 One Way or Another
+*** 4.2 Traitors' Gate
+*** 4.3 The Destiny Labyrinth
+*** 4.4 True Nemesis :Missy:
 * Kaldor City / The Robots :🎧:Kaldor:
 ** Kaldor City :plot_yes_dwg:
 *** HALF [#B] KC1. Occam's Razor :D2022_06_spinoffs:
@@ -2581,10 +2594,12 @@ http://www.drwhoguide.com/kaldor03.htm
 *** RTDC vol.3 Trapped :P2023_09:
 **** READY 3.1 Sink or Swim :bilibili:
 
-
 【【神秘博士广播剧熟肉】The Dimension Cannon 301 Sink or Swim 听任沉浮-哔哩哔哩】 https://b23.tv/JxOvW0I
 
-**** 3.2 The Lower Road
+**** READY 3.2 The Lower Road :bilibili:
+
+【【神秘博士广播剧熟肉】The Dimension Cannon 302 The Lower Road 黑暗之路-哔哩哔哩】 https://b23.tv/PqItLGk
+
 **** 3.3 The Good Samaritan
 ** Donna Nobel - Kidnapped :Donna:P2020:
 

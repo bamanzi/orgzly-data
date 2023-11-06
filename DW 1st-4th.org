@@ -1673,16 +1673,20 @@ https://disk.yandex.ru/d/n_i2CRgIJW0xOw
 *** CANCEL [#E] 3. The Death of Peladon :6th_Dr:Mel:
 *** [#A] 4. The Truth of Peladon :8th_Dr:
 ** Once and Future
-*** READY 1. Past Lives :P2023_06:4th_Dr:bilibili:
+*** READY 1. Past Lives :P2023_05:4th_Dr:bilibili:
 
 【博士的作战记录-哔哩哔哩】 https://b23.tv/zGOAtiq
 
-*** 2. The Artist at the End of Time :5th_Dr:
-*** 3. A Genius For War :7th_Dr:Davros:
-*** 4. Two's Company :6th_Dr:Christina:
-*** READY 5. The Martian Invasion of Planetoid 50 :bilibili:10th_Dr:
+*** 2. The Artist at the End of Time :5th_Dr:P2023_06:
+*** 3. A Genius For War :7th_Dr:Davros:P2023_07:
+*** 4. Two's Company :6th_Dr:Christina:P2023_08:
+*** READY 5. The Martian Invasion of Planetoid 50 :bilibili:10th_Dr:P2023_09:
 
 【【神秘博士六十周年纪念特辑】Once and Future 05 The Martian Invasion of Planetoid 50-哔哩哔哩】 https://b23.tv/qawlSXJ
+
+*** READY 6. TimeLord Immemorial :9th_Dr:Unbound_Dr:P2023_10:bilibili:
+
+【【神秘博士六十周年纪念特辑】Once and Future - TimeLord Immemorial 远古时间领主-哔哩哔哩】 https://b23.tv/TPEYe0X
 
 * multi-doctor story
 ** IX. The Four Doctors :P2010:

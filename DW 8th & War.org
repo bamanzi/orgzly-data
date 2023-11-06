@@ -357,6 +357,7 @@ http://www.drwhoguide.com/bbc7_13.htm
 ***** [#C] 3.6 The Cannibalists  (7.5)
 ***** TODO [#C] 3.7 The Eight Truths  (7.7)
 ***** [#C] 3.8 Worldwide Web (7.5)
+**** [#C] An Earthly Child (7.5) :Susan:Alex:
 **** 8DA series 4
 ***** 2DONE [#B] 4.1 _Death in Blackpool_ :Zygons:D2021_08_dr:
 :PROPERTIES:
@@ -388,7 +389,6 @@ CLOSED: [2021-10-17 Sun 15:11]
 
 **** misc
 ***** [#D] SST14. Late Night Shopping
-***** [#C] An Earthly Child (7.5) :Susan:Alex:
 *** Dark Eyes :scripted:
 **** Dark Eyes vol.1 :Molly:
 ***** DONE [#A] The Great War (8.5)
@@ -676,7 +676,7 @@ SCHEDULED: <2023-06-20 Tue 21:33>
 ****** 4.2 Get Andy
 ****** 4.3 The Keys of Baker Street
 ****** 4.4 Best Year Ever
-**** 📂What Lies Inside :P2022_11:
+**** 📂What Lies Inside :P2022_11:plot_yes:
 ***** Paradox of the Daleks :2CD:bilibili:
 
 【【广播剧汉化】 旋涡中的莫比乌斯环 Paradox of the Daleks 上-哔哩哔哩】 https://b23.tv/6iEGooT
@@ -684,12 +684,14 @@ SCHEDULED: <2023-06-20 Tue 21:33>
 【【广播剧汉化】 无头无尾的衔尾蛇 Paradox of the Daleks 下-哔哩哔哩】 https://b23.tv/4BN1Xdz
 
 ***** The Dalby Spook :1CD:
-**** 📂Connections :P2022_12:1CD:
+**** 📂Connections :P2022_12:1CD:plot_yes:
 ***** Here Lies Drax
 ***** The Love Vampires
 ***** Albie's Angels
 *** 8DA (2023- )
-**** TBR 📂Audacity :P2023_11:
+**** 📂Audacity :P2023_11:plot_yes:
+***** The Devouring :1CD:
+***** The Great Cyber-War :2CD:Cybermen:Charley:
 *** 8D Time War ↗
 **** DONE SST01 Museum Peace
 **** DONE [#C] ST7.9 - A Heart on Both Sides :Nyssa:
@@ -722,6 +724,8 @@ CLOSED: [2020-09-23 Wed 12:53]
 :END:
 
 *** misc :1CD:
+**** [#D] MR123a. The Company of Friends - Benny's Story :Benny:
+**** [#D] MR123b. The Company of Friends - Fitz's Story
 **** [#B] STS37 - Tuesday :Harry:
 :PROPERTIES:
 :rating:   8.3
@@ -1125,7 +1129,10 @@ CLOSED: <2021-11-26 Fri 09:50> DEADLINE: <2021-11-26 Fri 21:54> SCHEDULED: <2021
 
 【【广播剧汉化】 沉重的遗产 Cass 102 Vespertine-哔哩哔哩】 https://b23.tv/m3b5hyL
 
-**** 5.3 Previously, Next Time :2CD:
+**** READY 5.3 Previously, Next Time :2CD:bilibili:
+
+【【广播剧汉化】无限循环的死结 Cass 103 Previously, Next Time 上-哔哩哔哩】 https://b23.tv/dB3or7j
+
 ** 7. Universe on the brink
 *** 8D misc
 **** READY Lies in Ruins (The Legacy of Time) :8th_Dr:bilibili:Benny:🎧:
@@ -1325,15 +1332,15 @@ CLOSED: <2023-09-08 Fri 09:33> SCHEDULED: <2023-09-17 Sun>
 
 **** READY 9.3 - The Life and Loves of Mr Alexander Bennett :bilibili:
 
-
 【【广播剧汉化】法师的画饼日常 The War Master 战争法师 903 The Life and Loves of Mr Alexander-哔哩哔哩】 https://b23.tv/W4xMLa7
 
 **** READY 9.4 - The Kicker :bilibili:
 
-
-
 【【广播剧汉化】真假法师 The War Master 战争法师 904 The Kicker-哔哩哔哩】 https://b23.tv/J1ytO0Z
 
+*** TBR /📂The War Master series 10: Rogue Encounters/ :P2023_11:
+**** 10.1 Runtime
+**** 10.2 Manhunt
 *** DONE STR1.2 Museum Peace :🎧:
 CLOSED: [2020-09-23 Wed 12:53]
 
