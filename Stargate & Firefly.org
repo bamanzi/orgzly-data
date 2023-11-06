@@ -173,10 +173,21 @@ CLOSED: <2022-12-06 Tue 23:06>
 **** DONE [#C] 4x02 The Other Side
 CLOSED: <2023-10-29 Sun 17:21>
 
-**** NOW [#B] 4x03 Upgrades
-**** [#D] 4x04 Crossroads
-**** [#B] Devide and Conquer
-**** [#A] Window of Opportunity
+**** DONE [#B] 4x03 Upgrades
+CLOSED: [2023-10-31 Tue 08:04]
+
+**** DONE [#D] 4x04 Crossroads
+CLOSED: [2023-11-03 Fri 21:37]
+
+**** DONE [#B] 4x05 Devide and Conquer
+CLOSED: <2023-11-03 Fri 22:12>
+
+**** DONE [#A] 4x06 Window of Opportunity :time_loop:
+CLOSED: [2023-11-05 Sun 21:45]
+
+**** NOW 4x07 Watergate
+**** NOW 4x08 The First Ones
+**** NOW 4x09 Scorched Earth
 *** audio
 
 https://www.bigfinish.com/hubs/v/stargate
@@ -330,6 +341,10 @@ CLOSED: [2022-12-28 Wed 19:09]
 **** DONE 2x03
 CLOSED: [2023-01-06 Fri 07:27]
 
+**** NOW 2x04
+**** NEXT 2x05
+**** ...
+**** 2x12
 * The Expanse :expense:
 ** DONE S1
 ** DONE S2
