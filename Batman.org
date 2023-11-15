@@ -620,8 +620,8 @@ Detective Comics #950-956
 collected in Batman: League of Shadows
 
 **** crossover
-***** NOW (2016)	Night of the Monster Men
-SCHEDULED: <2023-09-23 Sat>
+***** DONE (2016)	Night of the Monster Men :Dr_Strange:
+CLOSED: [2023-11-10 Fri 13:52] SCHEDULED: <2023-09-23 Sat>
 
 - Batman v3 #7-8
 - Nightwing #5-6
@@ -929,7 +929,7 @@ CLOSED: [2023-10-03 Tue 15:44] SCHEDULED: <2023-10-04 Wed>
 **** DONE 4x22
 CLOSED: [2023-10-06 Fri 22:22] SCHEDULED: <2023-10-06 Fri>
 
-*** DOING Gotham S5 (12 eps)
+*** DONE Gotham S5 (12 eps)
 **** DONE 5x01
 CLOSED: [2023-10-09 Mon 16:46] SCHEDULED: <2023-10-11 Wed>
 
@@ -957,9 +957,15 @@ CLOSED: [2023-11-02 Thu 18:53] SCHEDULED: <2023-11-03 Fri>
 **** DONE 5x09
 CLOSED: [2023-11-04 Sat 14:13] SCHEDULED: <2023-11-05 Sun>
 
-**** NOW 5x10
-**** NOW 5x11
-**** 5x12
+**** DONE 5x10
+CLOSED: [2023-11-08 Wed 19:03]
+
+**** DONE 5x11
+CLOSED: [2023-11-11 Sat 19:34]
+
+**** DONE 5x12
+CLOSED: [2023-11-11 Sat 21:05]
+
 *** DONE Pennyworth S1
 CLOSED: [2022-09-16 Fri 20:31]
 
@@ -987,20 +993,20 @@ CLOSED: [2022-09-09 Fri 20:06] SCHEDULED: <2022-09-10 Sat>
 **** DONE 1x10
 CLOSED: [2022-09-16 Fri 20:31]
 
-*** DOING Pennyworth S2
+*** DOING Pennyworth S2 :Pennyworth:
 
 10 eps
 
 **** DONE 2x01
 CLOSED: [2023-10-30 Mon 21:58]
 
-**** NOW 2x02
-SCHEDULED: <2023-11-04 Sat>
+**** DONE 2x02
+CLOSED: [2023-11-07 Tue 19:27] SCHEDULED: <2023-11-04 Sat>
 
-**** NOW 2x03
-SCHEDULED: <2023-11-08 Wed>
+**** DONE 2x03
+CLOSED: [2023-11-14 Tue 21:50] SCHEDULED: <2023-11-08 Wed>
 
-**** NEXT 2x04
+**** NOW 2x04
 SCHEDULED: <2023-11-11 Sat>
 
 *** Harley Quinn (animated) :Harley:
@@ -1162,9 +1168,14 @@ CLOSED: [2022-08-21 Sun 10:09] SCHEDULED: <2022-08-18 Thu>
 ****** DONE [#B] 1x07 Shriek
 CLOSED: [2023-10-30 Mon 18:37] SCHEDULED: <2022-08-21 Sun>
 
-****** NOW 1x08
+****** DONE 1x08
+CLOSED: [2023-11-08 Wed 19:25]
+
 ****** NOW 1x09
 ****** NOW 1x10
+****** NEXT 1x11
+****** NEXT 1x12
+****** 1x13
 * Superman :Superman:
 ** comics :📚:
 
@@ -1259,9 +1270,18 @@ https://dc.fandom.com/wiki/Death_of_Superman
 
 有实体中文版书 https://book.douban.com/subject/35045339/
 
-***** The Death of Superman
+***** NOW The Death of Superman
+SCHEDULED: <2023-11-15 Wed>
 
-Superman: The Man of Steel #18-19, Justice League America #69, Superman #74-75, Adventures of Superman #497, and Action Comics #68
+- Superman: The Man of Steel #18
+- Justice League America #69
+- Superman (Volume 2) #74
+- Adventures of Superman #497
+- Action Comics #684
+- Superman: The Man of Steel #19
+- Superman (Volume 2) #75
+
+
 
 ***** Funeral for a Friend
 ***** Reign of the Supermen

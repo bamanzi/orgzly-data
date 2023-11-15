@@ -185,9 +185,17 @@ CLOSED: <2023-11-03 Fri 22:12>
 **** DONE [#A] 4x06 Window of Opportunity :time_loop:
 CLOSED: [2023-11-05 Sun 21:45]
 
-**** NOW 4x07 Watergate
-**** NOW 4x08 The First Ones
-**** NOW 4x09 Scorched Earth
+**** DONE 4x07 Watergate
+CLOSED: [2023-11-10 Fri 19:09]
+
+**** DONE 4x08 The First Ones
+CLOSED: [2023-11-13 Mon 08:04]
+
+**** DONE 4x09 Scorched Earth
+CLOSED: [2023-11-15 Wed 08:02]
+
+**** NOW 4x10 Beneath the Surface
+**** NOW 4x11 Point of no Return
 *** audio
 
 https://www.bigfinish.com/hubs/v/stargate
@@ -799,7 +807,7 @@ CLOSED: [2023-07-18 Tue 22:33] SCHEDULED: <2023-07-23 Sun>
 ****** DONE 2x08 The Rescue :Boba_Fett:Bo_Katan:
 CLOSED: [2023-07-25 Tue 18:48] SCHEDULED: <2023-07-30 Sun>
 
-***** season 3 (8 eps) :P2023_03:
+***** LATER season 3 (8 eps) :P2023_03:
 **** The Book of Boba Fett 波巴费特之书 :Boba_Fett:
 ***** DONE [#C] 📂season 1 (7 eps) :P2021:9ABY:
 
@@ -846,7 +854,7 @@ https://starwars.fandom.com/wiki/Obi-Wan_Kenobi_(television_series)?so=search
 
 https://starwars.fandom.com/wiki/Andor_(television_series)?so=search
 
-***** season 1 (12 eps) :P2022_09:
+***** LATER [#A] season 1 (12 eps) :P2022_09:
 ***** season 2
 **** The Acolyte
 **** Lando
@@ -1124,7 +1132,7 @@ TIMELINE: Across the prequel trilogy, original trilogy, and sequel trilogy[1]
 
 讲述了“残次品”的精英和实验性克隆人在克隆人战争刚结束时，在迅速变化的银河系中寻找自己的方向。“残次品”成员是一支独特的克隆人队伍，他们在基因上与克隆人军队中的兄弟不同，每个人都拥有一种独特的特殊技能，使他们成为特殊的士兵和可怕的船员。
 
-***** The Bad Batch s1 :P2021:
+***** LATER The Bad Batch s1 :P2021:
 
 (16 eps)
 
