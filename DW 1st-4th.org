@@ -315,8 +315,8 @@ SCHEDULED: <2023-09-30 Sat>
 *** BBC
 **** [#E] Men of War :Steven:Sara_Kingdom:WW1:P2018:1CD:
 *** TV Episodes audio soundtracks
-**** NOW The War Machines :DW2023_11_doctor:
-SCHEDULED: <2023-11-04 Sat>
+**** The War Machines :DW2023_11_doctor:
+SCHEDULED: <2023-11-18 Sat>
 
 ** novels
 *** An Unearthly Child

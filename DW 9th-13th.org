@@ -96,7 +96,8 @@ SCHEDULED: <2023-09-24 Sun>
 **** S2.3 Hidden Depth :P2022_11:
 ***** [#E] +7.1 The Seas of Titan+
 ***** [#D] 7.2 Lay Down Your Arms
-***** READY [#A] 7.3 Flatpack :Liv:Tania:bilibili:
+***** HALF [#A] 7.3 Flatpack :Liv:Tania:bilibili:DW2023_11_doctor:
+SCHEDULED: <2023-11-11 Sat>
 
 【【神秘博士广播剧熟肉】Hidden Depths 703 Flatpack 平板家居-哔哩哔哩】 https://b23.tv/ElXr5Mq
 
@@ -146,8 +147,7 @@ SCHEDULED: <2022-11-29 Tue>
 :END:
 
 *** ST (audiobooks) :🗣:
-**** NOW [#C] DotD#9. Night of the Whisper :plot_yes:1CD:DW2023_11_doctor:
-SCHEDULED: <2023-11-11 Sat>
+**** FIXME [#C] DotD#9. Night of the Whisper :plot_yes:1CD:DW2023_11_maybe:
 :PROPERTIES:
 :thetimescales: 7.6
 :END:

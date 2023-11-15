@@ -402,9 +402,7 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 
 ***** [#A] 57. The Grey Mare (8.5) :Ianto:
 ***** [#B] 58. Cadoc Point (8.4) :Andy:
-***** NEXT [#A] 59. Sonny (8.9) :Rhys:DW2023_11_spinoffs:
-      SCHEDULED: <2023-11-12 Sun>
-
+***** FIXME [#A] 59. Sonny (8.9) :Rhys:DW2023_11_spinoffs:
 ***** CANCEL [#E] 60. Infidel Places+ (6.7) :Queen:
 **** series 8 (61-72)
 ***** HALF [#C] TW61. War Chest :Tosh:P2022_05:DW2023_04_spinoffs:
@@ -436,12 +434,17 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
      :rating:   8.3
      :END:
 
-**** NEXT [#B] special 2: Outbreak :P2016:3CD:plot_yes:scripted:DW2023_11_spinoffs:
+**** HALF [#B] special 2: Outbreak :Jack:Ianto:Gwen:Rhys:Andy:Norton:P2016:3CD:plot_yes:scripted:DW2023_11_spinoffs:
      SCHEDULED: <2023-11-12 Sun>
      :PROPERTIES:
      :rating:   8.3
      :END:
 
+***** HALF 1. Incubation: Know
+***** 3QTR 2. Prodromal: Love :Norton:
+      CLOSED: [2023-11-09 Thu 10:09]
+
+***** 3. Invasion: Kill
 **** [#A] special 3: Believe :P2018:3CD:
      :PROPERTIES:
      :rating:   8.7
@@ -955,19 +958,20 @@ Roberts Master
      :rating:   7.2
      :END:
 
-**** NOW [#A] 7.3 Barrister to the Stars :DW2023_11_spinoffs:
-     SCHEDULED: <2023-11-05 Sun>
+**** [#A] 7.3 Barrister to the Stars
      :PROPERTIES:
      :rating:   8.9
      :END:
 
-**** [#D] 7.4 Carnival of Angels
+**** [#D] 7.4 Carnival of Angels :plot_yes:
      :PROPERTIES:
      :rating:   7.0
      :END:
 
 *** DoRS 8 :P2021:
-**** [#D] 8.1 Slight Glimpses of Tomorrow (7.1)
+**** [#D] 8.1 Slight Glimpses of Tomorrow (7.1) :plot_yes:DW2023_11_spinoffs:
+     SCHEDULED: <2023-11-12 Sun>
+
 **** [#C] 8.2 A Brave New World (7.6) :10th_Dr:
 **** [#C] 8.3 A Forever Home (7.5)
 **** HALF [#E] 8.4 Queen of the Mechonoids     (6.5) :Anya:Mark_7:
@@ -1078,8 +1082,11 @@ Roberts Master
 *** 3QTR [#B] 7.1 The Monstrous Menagerie           (8.1) :DW2022_08_spinoffs:
     CLOSED: [2022-09-02 Fri 19:14] SCHEDULED: <2022-09-04 Sun>
 
-*** NOW [#D] 7.2 The Night of 1000 Stars           (7.2) :Leela:plot_no:DW2023_11_spinoffs:
-    SCHEDULED: <2023-11-05 Sun>
+*** [#D] 7.2 The Night of 1000 Stars :Leela:plot_no:DW2023_11_spinoffs:
+    SCHEDULED: <2023-11-19 Sun>
+    :PROPERTIES:
+    :rating:   7.2
+    :END:
 
 *** HALF [#A] 7.3 Murder at Moorsey Manor           (8.7) :DW2023_01_spinoffs:
     SCHEDULED: <2023-01-09 Mon 21:33>
@@ -2460,7 +2467,7 @@ http://www.drwhoguide.com/kaldor03.htm
     SCHEDULED: <2023-08-31 Thu>
 
 *** [#E] +1.2 The Tao Connection+ (6.2)
-*** NOW [#B] SJS1.3 Test of Nerve (8.1) :DW2023_10_spinoffs:
+*** HALF [#B] SJS1.3 Test of Nerve (8.1) :DW2023_10_spinoffs:
     SCHEDULED: <2023-10-30 Mon>
 
 *** [#E] +1.4 Ghost Town+ (6.4)

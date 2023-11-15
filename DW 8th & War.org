@@ -1302,7 +1302,9 @@ SCHEDULED: <2023-09-03 Sun>
 **** 3QTR [#A] *6.2 - A Quiet Night In* #S :Jo:DW2023_09_spinoffs:
 CLOSED: <2023-09-08 Fri 09:33> SCHEDULED: <2023-09-17 Sun>
 
-**** NEXT [#A] 6.3 - The Orphan :Nyssa:DW2023_11_spinoffs:
+**** HALF [#A] 6.3 - The Orphan :Nyssa:DW2023_11_spinoffs:
+SCHEDULED: <2023-11-19 Sun>
+
 **** [#A] 6.4 - Unfinished Business
 *** /📂The War Master series 7: Self-Defence/ :Master_war:🎧:P2022_06:
 **** READY [#B] 7.1 The Forest Penitence :bilibili:

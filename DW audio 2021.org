@@ -1601,22 +1601,41 @@
 *** [#C] UNIT 1.2 Earthfall
 *** 3QTR [#D] PG3.2 - Whatever Remains
 *** 3QTR [#B] BSBOX1.2 - The Temple of Questions :Benny:
-*** [#B] SJS1.3 Test of Nerve :Sarah:
+*** HALF [#B] SJS1.3 Test of Nerve :Sarah:
 ** pending
 *** FIXME [#C] ST8.6 The Siege of Big Ben :10th_Dr:plot_yes:Jackie:
 * DW2023-11
 ** dw2023-11-doctor
 *** The War Machines :Dodo:Polly:Ben:
-*** FIXME [#C] CC3.10 - The Magician's Oath :Yates:
+*** [#C] CC3.10 - The Magician's Oath :Yates:
 *** [#A] MR081 The Kingmaker :5th_Dr:Peri:Erimem:
-*** [#A] 7DNA 1.4 The Dread of Night :7th_Dr:Roz:Chris:1CD:
-*** [#C] DotD#9. Night of the Whisper
-*** FIXME Let it Snow                                     :11th:Ice_Warriors:
+*** HALF [#A] 7DNA 1.4 The Dread of Night              :7th_Dr:Roz:Chris:1CD:
+*** HALF 9DA7.3 Flatpack
+*** FIXME Let it Snow :11th:Ice_Warriors:
 ** dw2023-11-spinoffs
-*** [#B] TWS2 Outbreak ⅔ :3CD:
-*** [#A] TW59 Sonny :Rhys:
+*** HALF [#B] TWS2 Outbreak ⅔                                           :3CD:
 *** [#B] CM2.2 - The Fifth Citadel
-*** [#D] J&L7.2 The Night of 1000 Stars (+Leela)
-*** [#A] WM6.3 The Orphan :Nyssa:Master_war:
+*** [#D] J&L7.2 The Night of 1000 Stars :Leela:
+*** HALF [#A] WM6.3 The Orphan                             :Nyssa:Master_war:
 *** [#C] Susan1.3. Assets of War
+*** FIXME [#D] DoRS8.1 Slight Glimpses of Tomorrow
+** pending
+* pending
+** odd
+*** [#B] LS2.1b The Fragile Yellow Arc of Fragrance (Susan, Ian, Barbara) :plot_yes:
+*** 3DA6.1 Poison of the Daleks (Jo)
+*** [#A] 3DA #9. The Annihilators 太长 (Liz, +2nd Dr, Jamie) 3CD ⅔ /
+*** [#C] CC4.05 - Ringpullworld :5th_Dr:Turlough:
+*** [#B] UNIT: Dominion p3 :7th_Dr:Klein:UNIT:Master_bald:1CD:
+*** [#A] MR120 The Magic Mousetrap :7th_Dr:Ace:Hex:
+*** [#C] DotD#9. Night of the Whisper
+
+** even
+*** [#C] 6DnP #1 The Headless Ones :6th_Dr:Peri:
+** spinoffs
+*** FIXME [#C] CY1.3 - Living History :Churchill:11th_Dr:
+*** [#D] Robots 3.1 The Mystery of Sector 13
+*** FIXME Missy2.4 Too Many Masters :Master:Missy:
 *** [#A] DoRS7.3 Barrister to the Stars
+*** [#A] TW59 Sonny :Rhys:
+

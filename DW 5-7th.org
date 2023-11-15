@@ -1237,8 +1237,8 @@ SCHEDULED: <2022-11-16 Wed>
 :rating:   8.2
 :END:
 
-***** NOW [#A] 7DA 1.4 - The Dread of Night :DW2023_11_doctor:
-SCHEDULED: <2023-11-04 Sat>
+***** HALF [#A] 7DA 1.4 - The Dread of Night :DW2023_11_doctor:
+SCHEDULED: <2023-11-18 Sat>
 :PROPERTIES:
 :rating:   8.5
 :END:
