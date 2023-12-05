@@ -116,11 +116,14 @@ CLOSED: [2021-06-15 Tue 08:16]
 CLOSED: [2023-03-17 Fri 08:26] SCHEDULED: <2023-03-18 Sat>
 
 **** Singularity
-**** NEXT [#A] 081. The Kingmaker :Peri:Erimem:4th_Dr:plot_no:DW2023_11_doctor:
-SCHEDULED: <2023-11-25 Sat>
+**** 3QTR [#A] 081. The Kingmaker :Peri:Erimem:4th_Dr:plot_yes_dwg:DW2023_11_doctor:
+CLOSED: [2023-11-26 Sun 14:44] SCHEDULED: <2023-11-29 Wed>
 :PROPERTIES:
 :rating:   8.8
 :END:
+
+
+http://www.drwhoguide.com/who_bf81.htm
 
 **** 2DONE [#D] 087. The Gathering :Cybermen:Tegan:plot_no:D2022_03_doctor:week3:
 CLOSED: [2022-03-27 Sun 12:08] SCHEDULED: <2022-03-30 Wed>
@@ -1237,23 +1240,27 @@ SCHEDULED: <2022-11-16 Wed>
 :rating:   8.2
 :END:
 
-***** HALF [#A] 7DA 1.4 - The Dread of Night :DW2023_11_doctor:
-SCHEDULED: <2023-11-18 Sat>
+***** 3QTR [#A] 7DA 1.4 - The Dread of Night :DW2023_11_doctor:
+CLOSED: [2023-11-17 Fri 08:22] SCHEDULED: <2023-11-18 Sat>
 :PROPERTIES:
-:rating:   8.5
+:rating:   8.6
 :END:
 
 **** 📂2022A Silver and Ice :P2022_06:
 ***** CANCEL [#F] Bad Day in Tinseltown :Cybermen:Mel:1CD:
 CLOSED: [2022-10-08 Sat 09:05]
 
-***** [#C] The Ribos Inheritance :Mel:2CD:
+***** BLOCK [#C] The Ribos Inheritance :Mel:2CD:
+
+block 原因：需要先看剧集16x01 The Ribos Operation
+
 **** 📂2022B Sullivan and Cross - AWOL :Harry:Naomi:P2022_11:
 ***** [#E] 22B.1 London Orbital
 ***** [#E] 22B.2 Scream of the Daleks :Daleks:
 **** 📂2023A Far From Home :P2023_06:Harry:Naomi:
 ***** 23A.1 Operation Dusk
 ***** 23A.2 Naomi's Ark
+**** 2023B. The Last Day 1
 *** novel adaptations :2CD:
 **** BLOCK [#D] NA1 Love and War :Ace:Benny:3CD:scripted:
 

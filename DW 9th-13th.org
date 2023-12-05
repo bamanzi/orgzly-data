@@ -563,7 +563,8 @@ SCHEDULED: <2023-06-23 Fri 19:51>
 :END:
 
 **** 📂Tenth Doctor Classic Companions :P2022_09:
-***** READY [#B] 1. Splinters :Leela:bilibili:
+***** READY [#C] 1. Splinters :Leela:bilibili:DW2023_12_doctor:
+SCHEDULED: <2023-12-30 Sat>
 
 【【神秘博士广播剧熟肉】Tenth Doctor Classic Companions 101 Splinters 碎片-哔哩哔哩】 https://b23.tv/SDB2uFD
 
@@ -719,8 +720,8 @@ SCHEDULED: <2022-09-30 Fri>
 :rating:   7.1
 :END:
 
-**** START [#C] 1.4 - False Coronets :Jane_Austen:D2022_05_doctor:
-SCHEDULED: <2022-05-21 Sat>
+**** HALF [#C] 1.4 - False Coronets :Jane_Austen:DW2023_11_doctor:plot_yes:
+SCHEDULED: <2023-11-26 Sun>
 :PROPERTIES:
 :rating:   7.8
 :END:

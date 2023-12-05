@@ -308,8 +308,7 @@ Sebastian Vaughan is the brightest, newest recruit to Torchwood. He's come fro
       :rating:   7.9
       :END:
 
-***** NOW [#A] TW43. The Three Monkeys :Owen:Andy:DW2023_10_spinoffs:
-      SCHEDULED: <2023-10-31 Tue>
+***** [#A] TW43. The Three Monkeys :Owen:Andy:
       :PROPERTIES:
       :rating:   8.8
       :END:
@@ -402,31 +401,33 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 
 ***** [#A] 57. The Grey Mare (8.5) :Ianto:
 ***** [#B] 58. Cadoc Point (8.4) :Andy:
-***** FIXME [#A] 59. Sonny (8.9) :Rhys:DW2023_11_spinoffs:
+***** [#A] 59. Sonny (8.9) :Rhys:plot_yes:
 ***** CANCEL [#E] 60. Infidel Places+ (6.7) :Queen:
 **** series 8 (61-72)
-***** HALF [#C] TW61. War Chest :Tosh:P2022_05:DW2023_04_spinoffs:
+***** HALF [#C] TW61. War Chest :Tosh:P2022_05:plot_yes:DW2023_04_spinoffs:
       DEADLINE: <2023-04-23 Sun> SCHEDULED: <2023-04-19 Wed 08:42>
 
 ***** HALF [#D] 62. Dead Plates :Bilis_Manger:DW2023_09_spinoffs:
       SCHEDULED: <2023-09-24 Sun>
 
-***** [#A] 63. Restricted Items Archive Entries 031–049 :Ianto:
-***** [#B] 64. Suckers :Tosh:
-***** [#B] 65X A Postcard from Mr Colchester :Colchester:
-***** [#D] 65. Death in Venice :Colchester:Ace:
+***** [#A] 63. Restricted Items Archive Entries 031–049 :Ianto:plot_yes:
+***** [#B] 64. Suckers :Tosh:plot_yes:
+***** [#B] 65X A Postcard from Mr Colchester :Colchester:plot_yes:
+***** [#D] 65. Death in Venice :Colchester:Ace:plot_yes:
 ***** CANCEL [#E] 66. Torchwood: SUV :Ianto:Tosh:
-***** [#B] 67. The Lincolnshire Poacher :Ianto:
-***** CANCEL [#F] 68. The Empire Man :Queen:
-***** 69. Double part1 :Autons:P2023_01:
-***** 70. Double part2 :Autons:
-***** 71. The Last Love Song of Suzie Costello :Suzie:
-***** 72. The Thirst Trap :Andy:Rhys:
+***** [#B] 67. The Lincolnshire Poacher :Ianto:plot_yes:
+***** CANCEL [#F] 68. The Empire Man :Queen:plot_yes:
+***** 69. Double part1 :Autons:P2023_01:plot_yes:
+***** 70. Double part2 :Autons:plot_yes:
+***** 71. The Last Love Song of Suzie Costello :Suzie:plot_yes:
+***** 72. The Thirst Trap :Andy:Rhys:plot_yes:
 **** series 9
-***** 73. Launch Date :Ianto:
+***** 73. Launch Date :Ianto:P2023_04:
 ***** 74. Sigil :Bilis_Manger:
 ***** 75. Dog Hop :Andy:plot_yes:
-***** 76. Odyssey :plot_yes:
+***** 76. Odyssey :plot_yes:Ood:
+***** 77. Oodunnit :Ood:
+***** TBR 78. Oracle :P2023_12:
 *** specials
 **** 2DONE [#B] special 1: The Torchwood Archive :P2016:The_Commitee:2CD:plot_yes:
      CLOSED: [2020-11-19 Thu 18:33]
@@ -434,17 +435,21 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
      :rating:   8.3
      :END:
 
-**** HALF [#B] special 2: Outbreak :Jack:Ianto:Gwen:Rhys:Andy:Norton:P2016:3CD:plot_yes:scripted:DW2023_11_spinoffs:
+**** HALF [#B] special 2: Outbreak :Jack:Ianto:Gwen:Rhys:Andy:Norton:P2016:3CD:plot_yes:scripted:
      SCHEDULED: <2023-11-12 Sun>
      :PROPERTIES:
      :rating:   8.3
      :END:
 
-***** HALF 1. Incubation: Know
-***** 3QTR 2. Prodromal: Love :Norton:
+***** 3QTR 1. Incubation: Know :DW2023_11_spinoffs:
+      CLOSED: <2023-11-14 Tue 21:31>
+
+***** 3QTR 2. Prodromal: Love :Norton:DW2023_11_spinoffs:
       CLOSED: [2023-11-09 Thu 10:09]
 
-***** 3. Invasion: Kill
+***** 3. Invasion: Kill :DW2023_12_spinoffs:
+      SCHEDULED: <2023-12-10 Sun>
+
 **** [#A] special 3: Believe :P2018:3CD:
      :PROPERTIES:
      :rating:   8.7
@@ -1248,6 +1253,8 @@ Roberts Master
     :END:
 
 *** NOW [#B] 6.3 - Ascension :DW2023_12_spinoffs:
+    SCHEDULED: <2023-12-17 Sun>
+
 ** [#B] 7.0 - Intervention Earth :P2015:
 ** [#A] 8.0 - Enemy Lines :P2016:
 * Bernice Summerfield :Benny:
@@ -1437,7 +1444,8 @@ http://drwhoguide.com/bs_a18.htm
      :rating:   8.0
      :END:
 
-**** [#C] 1.3 Private Enemy No. 1 :Ruth_Leonidas:
+**** [#C] 1.3 Private Enemy No. 1 :Ruth_Leonidas:DW2023_12_spinoffs:
+     SCHEDULED: <2023-12-17 Sun>
      :PROPERTIES:
      :rating:   7.8
      :END:
@@ -2128,7 +2136,8 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
     :rating:   7.8
     :END:
 
-*** [#C] 1.3 Bridgehead
+*** HALF [#C] 1.3 Bridgehead :DW2023_12_spinoffs:
+    SCHEDULED: <2023-12-10 Sun>
     :PROPERTIES:
     :rating:   7.9
     :END:
@@ -2361,12 +2370,17 @@ http://www.drwhoguide.com/kaldor03.htm
 **** 3QTR [#D] 3.2 - Whatever Remains :DW2023_10_spinoffs:
      CLOSED: [2023-10-25 Wed 07:22] SCHEDULED: <2023-10-22 Sun>
 
-**** [#B] 3.3 - Truth and Bone
+**** [#B] 3.3 - Truth and Bone :DW2023_12_spinoffs:
+     SCHEDULED: <2023-12-24 Sun>
+
 *** PG: Heritage 4 :P2020:
 **** [#A] 4.1 - Merry Christmas, Mr Jago  (9.0)
 **** [#E] +4.2 - The Ghost Writers+         (6.4)
 **** [#D] 4.3 - Rulers of Earth           (7.4)
-*** TBR PG: Trespassers 1 :P2023_10:
+*** PG: Trespassers 1 :P2023_10:
+**** 1.1 The Ghost and the Potato Man
+**** 1.2 Symmetry of Death
+**** 1.3 Till Death Us Do Part
 * Counter-Measures :ICMG:🎧:
 ** CM series 1 :P2012:plot_yes:
 *** HALF [#D] 1.1 - Threshold :plot_yes:DW2022_07_spinoffs:
@@ -2397,7 +2411,9 @@ http://www.drwhoguide.com/kaldor03.htm
 *** HALF [#B] CM2.1 - Manhunt :plot_cast:DW2023_08_spinoffs:
     SCHEDULED: <2023-08-20 Sun>
 
-*** NEXT [#B] 2.2 - The Fifth Citadel            (8.3) :DW2023_11_spinoffs:
+*** HALF [#B] 2.2 - The Fifth Citadel            (8.3) :DW2023_11_spinoffs:
+    SCHEDULED: <2023-11-26 Sun>
+
 *** [#C] 2.3 - Peshka
 *** [#C] 2.4 - Sins of the Fathers
 ** CM series 3 :P2014:
@@ -2685,8 +2701,10 @@ From Donna's perspective, the anthology is set after /Forest of the Dead/.
 *** DONE [#B] WoDW#3 - The Screaming Skull :UNIT:Ruth_Matheson:Charlie_Sato:Yates:DW2023_07_spinoffs:
     CLOSED: [2023-07-29 Sat 08:01] SCHEDULED: <2023-07-24 Mon 08:24>
 
-*** [#D] WoDW#4 - Second Sight :6th_Dr:Romana_2:Leela:Yates:
-** The Eighth of March
+*** [#D] WoDW#4 - Second Sight :6th_Dr:Romana_2:Leela:Yates:DW2023_12_doctor:
+    SCHEDULED: <2023-12-16 Sat>
+
+** The Eighth of March :🎧:
 *** vol.1 The Eighth of March :P2019:
 **** START [#D] 1.1 Emancipation :River:Leela:
 **** CANCEL [#F] 1.2 The Big Blue Book :Benny:Ace:7th_Dr:

@@ -53,8 +53,8 @@ Episode 1-3 missing.
 
 **** [#E] The Gunfighters
 **** [#D] /The Savages/ :missing:
-**** TODO [#C] The War Machines :DW2022_12_extra:
-SCHEDULED: <2023-01-07 Sat>
+**** HALF [#C] The War Machines :DW2023_11_extra:
+SCHEDULED: <2023-11-30 Thu>
 
 *** Season 4
 **** [#E] /The Smugglers/ :missing:
@@ -450,7 +450,7 @@ CLOSED: [2022-04-27 Wed 21:33] SCHEDULED: <2022-04-29 Fri>
 ***** [#D] 2.2 The Forsaken :Jamie:Polly:Ben:plot_yes:
 ***** HALF [#B] 2.3 The Black Hole (8.1) :Jamie:Victoria:D2021_06:Monk:
 ***** CANCEL [#E] 2.4 The Isos Network :Jamie:Zoe:Cybermen:plot_yes:
-**** EA S4
+**** EA S4 :P2017:
 ***** [#C] 4.1 The Night Witches :Jamie:Polly:Ben:plot_yes:
 SCHEDULED: <2023-03-01 Wed>
 :PROPERTIES:
@@ -467,8 +467,10 @@ SCHEDULED: <2023-03-01 Wed>
 :rating:   6.7
 :END:
 
-***** START [#B] 4.4 The Wreck of the World (8.2) :Jamie:Zoe:D2021_08_dr:plot_no:
-**** EA S6
+***** START [#B] 4.4 The Wreck of the World (8.2) :Jamie:Zoe:plot_no:DW2023_12_doctor:
+SCHEDULED: <2023-12-16 Sat>
+
+**** EA S6 :P2019:
 ***** HALF [#D] 6.1 The Home Guard :Jamie:Polly:Ben:Master_early:D2021_12_master:plot_half:week3:
 SCHEDULED: <2021-12-15 Wed>
 :PROPERTIES:
@@ -964,7 +966,7 @@ SCHEDULED: <2023-07-08 Sat>
 :rating:   7.6
 :END:
 
-***** NOW [#C] CC3.10 - The Magician's Oath :Yates:DW2023_11_doctor:
+***** HALF [#C] CC3.10 - The Magician's Oath :Yates:DW2023_11_doctor:
 SCHEDULED: <2023-11-11 Sat>
 :PROPERTIES:
 :rating:   7.5
@@ -1309,7 +1311,9 @@ SCHEDULED: <2021-11-05 Fri>
 ***** HALF [#C] 8.3 - The Enchantress of Numbers (7.6) :D2022_04_doctor:
 SCHEDULED: <2022-04-23 Sat>
 
-***** [#D] 8.4 - The False Guardian (7.1)
+***** [#D] 8.4 The False Guardian / 8.5 Time's Assassin :DW2023_12_doctor:
+SCHEDULED: <2023-12-09 Sat>
+
 ***** [#D] 8.6 - Fever Island (7.2)
 ***** [#B] 8.7/8.8 - The Perfect Prisoners (8.2/8.3) :2CD:
 **** 4DA series 9 :P2020:2CD:
