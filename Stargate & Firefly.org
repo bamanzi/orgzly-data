@@ -194,8 +194,37 @@ CLOSED: [2023-11-13 Mon 08:04]
 **** DONE 4x09 Scorched Earth
 CLOSED: [2023-11-15 Wed 08:02]
 
-**** NOW 4x10 Beneath the Surface
-**** NOW 4x11 Point of no Return
+**** DONE 4x10 Beneath the Surface
+CLOSED: [2023-11-16 Thu 18:46]
+
+**** DONE 4x11 Point of no Return
+CLOSED: [2023-11-21 Tue 09:17]
+
+**** DONE 4x12 Tangent
+CLOSED: <2023-11-23 Thu 08:35>
+
+**** DONE 4x13 The Curse
+CLOSED: [2023-11-25 Sat 20:51]
+
+**** DONE 4x14
+CLOSED: [2023-11-28 Tue 09:10]
+
+**** DONE [#B] 4x15 Chain Reaction
+CLOSED: [2023-11-29 Wed 22:09]
+
+**** DONE [#A] 4x16. 2010
+CLOSED: [2023-12-04 Mon 16:03]
+
+**** DONE 4x17 Absolute Power
+CLOSED: [2023-12-04 Mon 15:07]
+
+**** 4x18 The Light
+**** 4x19 Prodigy
+**** 4x20 Entity
+**** [#B] 4x21 Double Jeopardy
+**** [#A] 4x22 Exodus
+*** SG-1 S5
+**** [#A] 5x01 Enemies
 *** audio
 
 https://www.bigfinish.com/hubs/v/stargate
@@ -349,8 +378,17 @@ CLOSED: [2022-12-28 Wed 19:09]
 **** DONE 2x03
 CLOSED: [2023-01-06 Fri 07:27]
 
-**** NOW 2x04
-**** NEXT 2x05
+**** DONE 2x04
+CLOSED: [2023-11-19 Sun 20:18]
+
+**** DONE 2x05
+CLOSED: [2023-12-01 Fri 09:53]
+
+**** DONE 2x06
+CLOSED: [2023-12-04 Mon 21:34]
+
+**** NEXT 2x07
+**** NEXT 2x08
 **** ...
 **** 2x12
 * The Expanse :expense:

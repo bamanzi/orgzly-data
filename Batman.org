@@ -1006,9 +1006,17 @@ CLOSED: [2023-11-07 Tue 19:27] SCHEDULED: <2023-11-04 Sat>
 **** DONE 2x03
 CLOSED: [2023-11-14 Tue 21:50] SCHEDULED: <2023-11-08 Wed>
 
-**** NOW 2x04
-SCHEDULED: <2023-11-11 Sat>
+**** DONE 2x04
+CLOSED: <2023-11-19 Sun 19:37> SCHEDULED: <2023-11-11 Sat>
 
+**** DONE 2x05
+CLOSED: [2023-11-22 Wed 22:19]
+
+**** DONE 2x06
+CLOSED: [2023-11-28 Tue 23:53]
+
+**** 2x07
+**** 2x08
 *** Harley Quinn (animated) :Harley:
 
 13 eps
