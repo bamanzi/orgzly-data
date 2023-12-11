@@ -203,7 +203,11 @@ CLOSED: [2022-05-27 Fri 11:35] SCHEDULED: <2022-05-28 Sat>
 :rating:   8.1
 :END:
 
-***** [#D] 8.3 - Upstairs
+**** [#D] 8.3 - Upstairs :Vicki:Steven:
+:PROPERTIES:
+:rating:   7.4
+:END:
+
 **** Steven :Steven:
 ***** [#C] CC2.1 - Mother Russia
 ***** TODO [#C] CC5.8 - The Perpetual Bond :Oliver:
@@ -440,7 +444,7 @@ UNIT 和 准将第一次正式出场
 **** Bringer of Darkness (DWMS 1993) :Jamie:Victoria:Daleks:
 ** audio :🎧:
 *** EA :2CD:
-**** EA S2
+**** EA S2 :P2015:
 ***** 3QTR [#C] 2.1 The Yes Men :Jamie:Polly:Ben:plot_yes:D2022_04_doctor:
 CLOSED: [2022-04-27 Wed 21:33] SCHEDULED: <2022-04-29 Fri>
 :PROPERTIES:
@@ -860,7 +864,7 @@ block原因：太长（3CD）
 ***** NEXT [#D] 23A.1 Supernature
 ***** [#D] 23A.2 The Conservitors
 ***** [#C] 23A.3 The Iron Shore
-**** TBR 2023B Intelligence for War :P2023_10:Liz:
+**** BLOCK 2023B Intelligence for War :P2023_10:Liz:Brig:3CD:
 *** BF misc
 **** DONE [#A] The Sacrifice of Jo Grant (The Legacy of Time #3) :Jo:P2019:
 CLOSED: [2020-08-07 Fri 18:25]
@@ -1009,20 +1013,20 @@ SCHEDULED: <2022-07-16 Sat>
 *** BBC :BBC:📄:🎧:
 **** [#C] Horrors of War :Jo:Annie:WW1:P2018:1CD:
 **** new short stories
-***** DONE The Spear of Destiny (/12 Doctors, 12 Stories/ #3) :🎧:
+***** DONE The Spear of Destiny (/12 Doctors, 12 Stories/ #3) :Master:Jo:🎧:
 CLOSED: [2020-06-18 Thu 14:24]
 
-***** The Monster in the Woods (/Tales of Terror/) :Brigadier:Jo:
+***** The Monster in the Woods (/Tales of Terror/) :Brigadier:Jo:Daleks:
 ***** The Christmas Invasion (/Twelve Doctors of Christmas/) :P2018:
 **** BBC Short Trips
 ***** Freedom :Brigadier:Jo:
 ***** Degrees of Truth :Brigadier:
 **** DW audio annual
-***** 1.3 - Dark Intruders
-***** 2.3 - Scorched Earth
-***** 3.3 - The House That Jack Built
-***** 4.3 The Time Thief
-***** 5.3 War in the Abyss
+***** 1.3 - Dark Intruders :Jo:
+***** 2.3 - Scorched Earth :Sarah:
+***** 3.3 - The House That Jack Built :Jo:
+***** 4.3 The Time Thief :Sarah:
+***** 5.3 War in the Abyss :Jo:
 ** novels :📔:novel:
 *** READY [#B] Harvest of Time (3.90) :UNIT:Jo:Master:hanzify:
 
@@ -1271,17 +1275,21 @@ CLOSED: [2020-08-20 Thu 13:56]
 ***** 2DONE [#A] 5.6 The Trouble with Drax (8.7) :D2021_06:
 CLOSED: <2021-07-01 Thu 16:39>
 
-***** [#D] 5.7 - The Pursuit of History (7.3)
+***** [#D] 5.7 - The Pursuit of History (7.2)
 ***** [#D] 5.8 - Casualties of Time (7.1)
 **** 4DA series 6 :Romana_2:P2017:1CD:
 ***** CANCEL [#E] 6.1 The Beast of Kravenos :Jago:Litefoot:plot_yes:
 ***** [#D] 6.2 - The Eternal Battle (7.3) :Sontarans:plot_yes:
 ***** CANCEL [#E] 6.3 The Silent Scream :plot_yes:
 ***** CANCEL [#E] 6.4 Dethras :plot_yes:
-***** [#D] 6.5 - The Haunting of Malkin Place (7.4)
+***** HALF [#C] 6.5 - The Haunting of Malkin Place :plot_cast:DW2023_12_doctor:
+SCHEDULED: <2023-12-09 Sat>
+:PROPERTIES:
+:rating:   7.5
+:END:
+
 ***** [#D] 6.6 - Subterranea (7.1)
-***** [#D] 6.8 - The Skin of the Sleek (7.4)
-***** [#D] 6.9 - The Thief Who Stole Time (7.2)
+***** TODO [#D] 6.8 - The Skin of the Sleek / 6.9 - The Thief Who Stole Time
 **** 4DA series 7 :Leela:P2018:1CD:
 ***** 3QTR [#C] 7.1 The Sons of Kaldor (7.7) :Kaldor:Robots:DW2022_12_doctor:
 CLOSED: [2022-12-13 Tue 08:58] SCHEDULED: <2022-12-13 Tue>
@@ -1392,24 +1400,38 @@ CLOSED: [2022-09-03 Sat 17:41] SCHEDULED: <2022-09-04 Sun>
 **** LS7.1 The Ark :Sarah:Harry:P2023_06:
 **** LS7.2 Daleks! Genesis of Terror :Sarah:Harry:P2023_05:
 *** BF misc :BigFinish:
-**** HALF [#C] CA1.1 The Iron Legion (Comics Adaptation #1) (7.9) :2CD:
-**** HALF [#A] CA1.2 The Star Beast (Comics Adaptation #2) 9.0 :P2019:2CD:
+**** DONE [#C] Night of the Stormcrow (Bonus Release #11) :P2014:Leela:scripted:1CD:
+CLOSED: [2020-07-29 Wed 23:02]
 :PROPERTIES:
-:category: audio-drama
+:rating:   7.7
 :END:
 
-**** DONE [#C] Night of the Stormcrow (Bonus Release #11) †7.7) :Leela:scripted:1CD:
-CLOSED: [2020-07-29 Wed 23:02]
+**** [#B] NA03 - The Romance of Crime :Romana_2:P2015:2CD:scripted:
+:PROPERTIES:
+:rating:   8.0
+:END:
 
-**** DONE [#C] Night of the Vashta Nerada (7.8) (CDNM #2.1) :Vashta_Nerada:scripted:no_companion:bilibili:1CD:
+**** [#B] NA04 The English Way of Death :Romana_2:P2015:2CD:scripted:
+**** [#B] NA05 - The Well-Mannered War :Romana_2:2CD:P2015:
+:PROPERTIES:
+:rating:   8.1
+:END:
+
+**** DONE [#C] Night of the Vashta Nerada (7.8) (CDNM #2.1) :P2017:Vashta_Nerada:scripted:no_companion:bilibili:1CD:
 CLOSED: [2020-07-29 Wed 23:03]
 
 mp3val fix
 
 【【广播剧翻译】四任对抗Vashta Nerada 老博士新怪物 201 Night of Vashta Nerada-哔哩哔哩】 https://b23.tv/YCrcZhV
 
-**** [#D] CDNM3.2 The Tivolian Who Knew Too Much :Leela:plot_yes:1CD:
-**** [#B] Collision Course (The Legacy of Time #6) :Leela:Romana_2:
+**** [#A] Someone I Once Knew (The Diary of River Song #4.4) :P2018:River:
+:PROPERTIES:
+:rating:   8.5
+:END:
+
+15 out of 16 (93.8%) raters say this story requires a previous story.
+
+**** [#B] Collision Course (The Legacy of Time #6) :P2019:Leela:Romana_2:
 :PROPERTIES:
 :rating:   8.3
 :END:
@@ -1418,16 +1440,18 @@ mp3val fix
 
 thetimescales 上32/33认为需要先听前面的故事
 
-**** [#A] Someone I Once Knew (The Diary of River Song #4.4) :River:
+**** HALF [#D] CA1.1 The Iron Legion (Comics Adaptation #1) :2CD:P2019:
 :PROPERTIES:
-:rating:   8.5
+:rating:   7.1
 :END:
 
-15 out of 16 (93.8%) raters say this story requires a previous story.
+**** HALF [#B] CA1.2 The Star Beast (Comics Adaptation #2) :P2019:2CD:P2019:
+:PROPERTIES:
+:category: audio-drama
+:rating:   8.8
+:END:
 
-**** [#B] NA03 - The Romance of Crime (8.0) :Romana_2:2CD:scripted:
-**** [#B] NA04 The English Way of Death :Romana_2:2CD:scripted:
-**** [#B] NA05 - The Well-Mannered War (8.1) :Romana_2:2CD:
+**** [#D] CDNM3.2 The Tivolian Who Knew Too Much :P2022:Leela:plot_yes:1CD:
 *** BF shorts :🗣:
 **** Companion Chronicles
 ***** [#C] CC2.4 - The Catalyst :Leela:
@@ -1732,7 +1756,7 @@ http://www.drwhoguide.com/chronicles07.htm
 :rating:   7.7
 :END:
 
-*** 3QTR [#C] CC6.1 Tales From the Vault :Ruth:UNIT:Jo:Romana_1:Zoe:Steven:1st_Dr:2nd_Dr:3rd_Dr:4th_Dr:the_Vault:plot_yes:DW2023_04_spinoffs:
+*** 3QTR [#C] CC6.1 Tales From the Vault :Ruth_Matheson:UNIT:Jo:Romana_1:Zoe:Steven:1st_Dr:2nd_Dr:3rd_Dr:4th_Dr:the_Vault:plot_yes:DW2023_04_spinoffs:
 CLOSED: <2023-04-18 Tue 08:56> SCHEDULED: <2023-04-09 Sun>
 :PROPERTIES:
 :rating:   7.5

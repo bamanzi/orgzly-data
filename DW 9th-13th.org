@@ -186,7 +186,7 @@ In the aftermath of the Time War, the Doctor has no time to mourn. But how can h
 
 **** TODO #2. Legacy of the Slitheen
 ** novels :📔:
-*** TODO2 [#B] The Stealers of Dreams 盗梦贼 :Kindle己购:
+*** NEXT [#B] The Stealers of Dreams 盗梦贼 :己购:
 :PROPERTIES:
 :rating:   3.88
 :todo:     buy
@@ -217,26 +217,34 @@ https://link.zhihu.com/?target=http%3A//id24601.lofter.com/post/1cce6a8f_1c757b0
 ** comics
 *** DWM
 **** DWMGN: The Cruel Sea
-***** The Love Invasion (DWM355-357) :Rose:
-***** Art Attack (DWM358) :Rose:
-***** The Cruel Sea (DWM359-362) :Rose:
-***** A Groatsworth of Wit (DWM363-364) :Rose:
-**** Monstrous Beauty (DWM556-558) :Rose:
+***** DONE The Love Invasion (DWM355-357) :Rose:
+***** DONE Art Attack (DWM358) :Rose:
+***** DONE The Cruel Sea (DWM359-362) :Rose:
+***** DONE A Groatsworth of Wit (DWM363-364) :Rose:
+**** NEXT Monstrous Beauty (DWM556-558) :Rose:
+SCHEDULED: <2023-12-31 Sun>
+
 *** Titan
-**** Weapons of Past Destruction
+**** DONE Weapons of Past Destruction
 **** 9D0
-***** Doctormania (#1-3)
-***** The Transformed (#4-5)
-***** Official Secrets (#6-8)
-***** Slaver's Song (#9-10)
-***** Sin-Eaters (#11-12)
-***** Secret Agent Man (#13)
-***** The Bidding War (#14-15)
+***** DONE Doctormania (#1-3)
+***** DONE The Transformed (#4-5)
+***** DONE Official Secrets (#6-8)
+***** DONE Slaver's Song (#9-10)
+***** DONE Sin-Eaters (#11-12)
+***** DONE Secret Agent Man (#13)
+***** DONE The Bidding War (#14-15)
 * 10th Doctor :10th_Dr:
 ** tv :📺:
 *** S02
 **** DONE 2x01 New Earth
 CLOSED: [2022-05-08 Sun 16:38]
+
+**** DONE 2x08 The Impossible Planet
+CLOSED: [2023-12-10 Sun 17:27]
+
+**** DONE 2x09 The Satan Pit
+CLOSED: [2023-12-10 Sun 17:27]
 
 *** S04
 *** specials
@@ -248,32 +256,20 @@ CLOSED: [2023-02-06 Mon 20:34]
 
 ** comics :📚:
 *** IDW
-**** 10D vol.1
-***** TODO Agent Provocateur
-***** DONE The Forgotten
+**** TODO Agent Provocateur
+**** DONE The Forgotten
 CLOSED: [2020-08-16 Sun 13:54]
 
-**** 10D vol.2 :🛒:
-:PROPERTIES:
-:Bought:   Yes
-:END:
-
-***** DONE Through Time and Space
+**** DONE Through Time and Space
 CLOSED: [2020-08-16 Sun 13:55]
 
-***** DW 2009 1-6
-****** 01-02 Silver Scream
-****** 03-06 Fugitive
-**** 10D vol.3 :🛒:
-:PROPERTIES:
-:Bought:   Yes
-:END:
-
-***** DW 2009 7-16
-****** 07-08 Tesseract
-****** 09-12 Don't Step on the Grass
-****** 13-16 Final Sacrifice
-***** DW special 2010
+**** DW 2009
+***** 01-02 Silver Scream
+***** 03-06 Fugitive
+***** 07-08 Tesseract
+***** 09-12 Don't Step on the Grass
+***** 13-16 Final Sacrifice
+**** DW special 2010
 *** Titan
 **** DONE 10DY1
 CLOSED: [2020-08-16 Sun 17:00]
@@ -577,7 +573,7 @@ SCHEDULED: <2023-12-30 Sat>
 【【神秘博士广播剧熟肉】Tenth Doctor Classic Companions 103 Quantum of Axos 阿克索斯量子-哔哩哔哩】 https://b23.tv/M54MhC5
 
 *** 10DC
-**** 10DC S1
+**** 10DC S1 :P2018:
 ***** [#D] 1.1 - the Taste of Death :Rose:
 :PROPERTIES:
 :rating:   7.0
@@ -598,7 +594,11 @@ SCHEDULED: <2023-12-30 Sat>
 :rating:   8.0
 :END:
 
-**** TBR 10DC S2: Defender of the Earth :P2023_11:
+**** 10DC S2: Defender of the Earth :P2023_11:
+***** 2.1 The Thing in the Forest :WW2:
+***** 2.2 The Opacity Factor
+***** 2.3 Freedom or Death
+***** 2.4 The Siege of Shackleton
 *** CC & ST :🗣:
 **** [#D] DotD #10 Death's Deal :Donna:
 **** [#C] ST8.6 The Siege of Big Ben :plot_yes:
@@ -764,12 +764,15 @@ SCHEDULED: <2023-07-28 Fri 08:02>
 **** HALF [#A] 3.3 The End :DW2023_09_spinoffs:
 SCHEDULED: <2023-09-17 Sun>
 
-*** 11DC vol.4 All of Time and Space :Valarie:P2023_02:
-**** [#B] 4.1 All of Time and Space
-**** [#C] 4.2 The Yearn
-**** [#A] 4.3 Curiosity Shop
-**** 4.4 Broken Hearts
-*** TBR 11DC vol.5 Everywhere and Anywhere :P2023_11:
+*** 11DC vol.4 All of Time and Space :Valarie:
+**** [#B] 4.1 All of Time and Space :P2023_02:
+**** [#C] 4.2 The Yearn :P2023_02:
+**** [#A] 4.3 Curiosity Shop :P2023_02:
+**** 4.4 Broken Hearts :P2023_11:
+*** TBR 11DC vol.5 Everywhere and Anywhere :P2023_12:
+**** 5.1 Spirit of the Season
+**** 5.2 All’s Fair
+**** 5.3 Sins of the Flesh
 *** short trips :🗣:
 **** 3QTR ST10.5 Regeneration Impossible :D2021_08_extra:12th_Dr:
 **** 2DONE [#A] ST11.1 Rearguard :Sontarans:P2022_02:DW2022_11_doctor:
@@ -799,37 +802,33 @@ https://m.youtube.com/watch?v=7wrZUFIgiNE
 **** [#E] Paradis Lost (BBC) :Clara:1CD:P2020:
 **** [#B] NSA audio #15 The Art of Death :BBC:Amy:Rory:
 **** NEXT [#B] Let it Snow (Tales of Trenzalore #1) :Ice_Warriors:DW2023_11_doctor:
-SCHEDULED: <2023-11-25 Sat>
+SCHEDULED: <2023-12-31 Sun>
 
 ** comics
 *** IDW
-**** Omnibus vol.1
-***** DW2011 01-12
-****** 01 Spam Filtered
-****** 02-04 Ripper's Curse :Jack_the_Ripper:
-****** 05 They Think It's All Over!
-****** 06-08 When Worlds Collide
-****** 09 Space Squid
-****** 10-11 Body Snatched
-****** 12 Silent Knight
+**** DW2011
+***** 01 Spam Filtered
+***** 02-04 Ripper's Curse :Jack_the_Ripper:
+***** 05 They Think It's All Over!
+***** 06-08 When Worlds Collide
+***** 09 Space Squid
+***** 10-11 Body Snatched
+***** 12 Silent Knight
+***** 13-16 As Time Goes By
+**** DW2012
+***** 01-02 Hypothetical Gentleman
+***** 03-04 The Doctor and the Nurse
+***** 05-06 The Eye of Ashaya 
+***** 07-08 Space Oddit
+***** DONE 09-10 Sky Jack
+CLOSED: [2020-08-16 Sun 16:52]
+
+***** DONE 11-14 Dead Man's Hand
+CLOSED: [2020-08-16 Sun 16:52]
+
+**** specials :🛒:
 ***** DW special 2011
-**** omnibus vol. 2
-***** DW2011 13-16
-****** 13-16 As Time Goes By :Silurians:
-***** DW2012 01-08
-****** 01-02 Hypothetical Gentleman
-****** 03-04 The Doctor and the Nurse
-****** 05-06 The Eye of Ashaya 
-****** 07-08 Space Oddit
 ***** DW special 2012
-**** Omnibus Vol.3 :🛒:
-***** DW2012 09-16
-****** DONE 09-10 Sky Jack
-CLOSED: [2020-08-16 Sun 16:52]
-
-****** DONE 11-14 Dead Man's Hand
-CLOSED: [2020-08-16 Sun 16:52]
-
 ***** SDCC special
 ***** 50th Anniversary DVD special - Birthday Boy
 ***** DW special 2013 (The Girl Who Loved Doctor Who)
@@ -1202,11 +1201,15 @@ CLOSED: <2021-12-10 Fri 20:53>
 **** DONE 13x06
 CLOSED: [2021-12-12 Sun 14:53]
 
-*** 298. Eve of the Daleks
+*** NEXT 298. Eve of the Daleks
+SCHEDULED: <2023-12-17 Sun>
+
 *** DONE 299. Legend of the Sea Devil
 CLOSED: <2023-01-06 Fri 22:20>
 
-*** 300. The Power of the Doctor
+*** NEXT 300. The Power of the Doctor
+SCHEDULED: <2023-12-16 Sat>
+
 ** audio
 ** comics
 *** Titan Comics :📚:Titan:
@@ -1280,3 +1283,14 @@ https://tieba.baidu.com/p/6592330173
 
 http://tieba.baidu.com/p/6610135518?share=9105&fr=share&see_lz=0&sfc=copy&client_type=2&client_version=11.1.8.2&st=1593736160&unique=58A318B2D019E66209DFAEB93AC228AE
 
+* 14th Doctor
+** tv
+*** DONE Destination: Skaro :P2023_11:
+CLOSED: [2023-11-26 Sun 08:15]
+
+*** NEXT 301. The Star Beast :P2023_11:
+SCHEDULED: <2023-12-31 Sun>
+
+*** 302. Wild Blue Yonder
+** comics
+*** Liberation of the Daleks

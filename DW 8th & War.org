@@ -253,7 +253,7 @@ CLOSED: [2021-06-04 Fri 07:34]
 :rating:   6.8
 :END:
 
-*** with Lucie Miller :scripted:Lucie:8da:
+*** with Lucie Miller :Lucie:8da:
 **** 8DA series 1 :scripted:
 ***** HALF [#C] 1.1/1.2 Blood of the Daleks
 :PROPERTIES:
@@ -301,7 +301,7 @@ It was set between series 1 and series 2 of the Eighth Doctor Adventures a
 :rating:   8.0
 :END:
 
-**** 8DA series 2 :scripted:
+**** 8DA series 2 :scripted:plot_yes_dwg:
 ***** CANCEL [#E] +2.1 Dead London+
 :PROPERTIES:
 :rating:   6.5
@@ -348,17 +348,16 @@ SCHEDULED: <2023-10-22 Sun>
 
 http://www.drwhoguide.com/bbc7_13.htm
 
-**** 8DA series 3
+**** 8DA series 3 :scripted:
 ***** [#D] 3.1 Orbis (7.1)
 ***** CANCEL [#E] +3.2 Hothouse+ (6.8)
 ***** [#C] 3.3 The Beast of Orlok (7.5)
 ***** [#D] 3.4 Wirrn Dawn (7.1)
 ***** [#D] 3.5 The Scapegoat     (7.2)
 ***** [#C] 3.6 The Cannibalists  (7.5)
-***** TODO [#C] 3.7 The Eight Truths  (7.7)
+***** [#C] 3.7 The Eight Truths  (7.7)
 ***** [#C] 3.8 Worldwide Web (7.5)
-**** [#C] An Earthly Child (7.5) :Susan:Alex:
-**** 8DA series 4
+**** 8DA series 4 :P2010:scripted:
 ***** 2DONE [#B] 4.1 _Death in Blackpool_ :Zygons:D2021_08_dr:
 :PROPERTIES:
 :rating:   8.4
@@ -379,8 +378,8 @@ CLOSED: [2021-06-17 Thu 23:27]
 :rating:   8.2
 :END:
 
-***** [#C] 4.7  Relative Dimensions (7.6) :Susan:Alex:Lucie:
-***** [#D] 4.8  Prisoner of the Sun (7.3) :Susan:Alex:Lucie:
+***** TODO [#C] 4.7  Relative Dimensions (7.6) :Susan:Alex:Lucie:
+***** [#D] 4.8  Prisoner of the Sun (7.3)
 ***** 2DONE [#A] 4x09 Lucie Miller (8.9) :2CD:
 CLOSED: <2021-10-17 Sun 10:44>
 
@@ -389,6 +388,7 @@ CLOSED: [2021-10-17 Sun 15:11]
 
 **** misc
 ***** [#D] SST14. Late Night Shopping
+***** CANCEL [#E] SST25. The Caves of Erith
 *** Dark Eyes :scripted:
 **** Dark Eyes vol.1 :Molly:
 ***** DONE [#A] The Great War (8.5)
@@ -694,6 +694,10 @@ SCHEDULED: <2023-12-30 Sat>
 **** 📂Audacity :P2023_11:plot_yes:
 ***** The Devouring :1CD:
 ***** The Great Cyber-War :2CD:Cybermen:Charley:
+**** 📂In the Bleak Midwinter :P2023_12:1CD:
+***** Twenty-Four Doors in December
+***** The Empty Man
+***** Winter of the Demon
 *** 8D Time War ↗
 **** DONE SST01 Museum Peace
 **** DONE [#C] ST7.9 - A Heart on Both Sides :Nyssa:
@@ -728,6 +732,11 @@ CLOSED: [2020-09-23 Wed 12:53]
 *** misc :1CD:
 **** [#D] MR123a. The Company of Friends - Benny's Story :Benny:
 **** [#D] MR123b. The Company of Friends - Fitz's Story
+**** TODO [#C] An Earthly Child :Susan:Alex:P2009:
+:PROPERTIES:
+:rating:   7.5
+:END:
+
 **** [#B] STS37 - Tuesday :Harry:
 :PROPERTIES:
 :rating:   8.3
@@ -773,11 +782,11 @@ http://blog.sina.cn/dpool/blog/s/blog_6c777581010185u0.html?type=2
 ***** Ship of Fools (DWM23-24) :Kroton:no_doctor:
 ***** Throwback: The Soul of a Cybermen :Kroton:Cybermen:no_doctor:
 **** Oblivion
-***** Ophidius (DWM300-303) :Izzy:Destrii:
+***** DONE Ophidius (DWM300-303) :Izzy:Destrii:
 ***** Beautiful Freak (DWM304) :Izzy:
 ***** The Way of All Flesh (DWM306) :Izzy:
 ***** Character Assassin (DWM311) :Master:no_doctor:
-***** Children of the Revolution (DWM312-317) :Izzy:Daleks:
+***** DONE Children of the Revolution (DWM312-317) :Izzy:Daleks:
 ***** Me and My Shadow (DWM318) :Feyde:
 ***** Uroboros (DWM319-322) :Feyde:Destrii:
 ***** Oblivion (DWM323-328) :Izzy:Feyde:Destrii:
@@ -1238,6 +1247,10 @@ CLOSED: [2023-06-15 Thu 08:36] SCHEDULED: <2023-06-10 Sat>
 **** 5.1 A Mother's Love
 **** 5.2 Berserker
 **** 5.3 Memnos
+*** TBR WDB vol.6 Enemy Mine :P2023_12:
+**** 6.1 The Hybrid’s Choice
+**** 6.2 Fear Nothing
+**** 6.3 Exit Strategy
 *** Ambush (comic)
 ** 9. The Master flees
 *** 2DONE [#A] WM1.3 The Sky Man :D2021_09_extra:🎧:
@@ -1300,7 +1313,7 @@ The Siege of Trenzalore is viewed by some as the true final battle of the Time
 
 ** Currently Unplaced
 *** ST11.4 Death Will Not Part Us :8th_Dr:War_Doctor:9th_Dr:time_war:🎧:
-*** /📂The War Master series 6: Killing Time/ :Master_war:P2021:🎧:
+*** /📂The War Master series 6: Killing Time/ :Master_war:P2021:🎧:scripted:
 **** HALF [#B] WM6.1 - The Sincerest Form of Flattery :DW2023_08_spinoffs:
 SCHEDULED: <2023-09-03 Sun>
 
@@ -1347,9 +1360,11 @@ SCHEDULED: <2023-12-24 Sun>
 
 【【广播剧汉化】真假法师 The War Master 战争法师 904 The Kicker-哔哩哔哩】 https://b23.tv/J1ytO0Z
 
-*** TBR /📂The War Master series 10: Rogue Encounters/ :P2023_11:
+*** /📂The War Master series 10: Rogue Encounters/ :P2023_11:
 **** 10.1 Runtime
 **** 10.2 Manhunt
+**** 10.3 The Sublime Porte
+**** 10.4 Alone
 *** DONE STR1.2 Museum Peace :🎧:
 CLOSED: [2020-09-23 Wed 12:53]
 

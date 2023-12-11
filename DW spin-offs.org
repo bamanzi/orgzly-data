@@ -121,7 +121,7 @@ https://b23.tv/Lv2q44
       :rating:   6.3
       :END:
 
-***** HALF [#B] TW15. Corpse Day :Andy:Owen:The_Commitee:DW2023_07_spinoffs:
+***** 3QTR [#B] TW15. Corpse Day :Andy:Owen:The_Commitee:DW2023_07_spinoffs:
       SCHEDULED: <2023-07-03 Mon 08:19>
       :PROPERTIES:
       :rating:   8.1
@@ -367,7 +367,7 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
       :END:
 
 ***** BLOCK /50. Absent Friends/ (missing)
-***** [#A] 50X. The Black Knight (8.6) :Norton:
+***** [#A] 50X. The Black Knight (8.6) :Norton:plot_yes:
 ***** [#A] 51. The Five People You Kill in Middlebrough :Yvonne:plot_yes:
       :PROPERTIES:
       :rating:   8.5
@@ -427,7 +427,7 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 ***** 75. Dog Hop :Andy:plot_yes:
 ***** 76. Odyssey :plot_yes:Ood:
 ***** 77. Oodunnit :Ood:
-***** TBR 78. Oracle :P2023_12:
+***** 78. Oracle :P2023_12:
 *** specials
 **** 2DONE [#B] special 1: The Torchwood Archive :P2016:The_Commitee:2CD:plot_yes:
      CLOSED: [2020-11-19 Thu 18:33]
@@ -482,7 +482,7 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
       :rating:   7.5
       :END:
 
-**** [#A] Torchwood Soho: Parasite :3CD:P2020:plot_yes:Norton:Andy:Lizbeth:
+**** DONE [#A] Torchwood Soho: Parasite :3CD:P2020:plot_yes:Norton:Andy:Lizbeth:
 
 https://tardis.fandom.com/wiki/Parasite_(audio_story)
 
@@ -654,6 +654,10 @@ https://tardis.fandom.com/wiki/Parasite_(audio_story)
 ***** 7.6 At Her Majesty’s Pleasure :Yvvone:
 ***** 7.7 Cuckoo :Bilis_Manger:
 ***** 7.8 Pariahs
+***** 7.9 How I Conquered the World
+***** 7.10 Doomscroll
+***** 7.11 Heistland
+***** 7.12 The Apocalypse Starts at 6 PM
 *** The Lives of Captain Jack :🎧:Jack:1CD:
 **** vol.1 :P2017:
 ***** HALF [#D] The Year After I Died
@@ -1242,7 +1246,7 @@ Roberts Master
     :rating:   7.2
     :END:
 
-** series 6 :P2013:
+** series 6 :P2013:plot_yes:
 *** 3QTR [#C] GAL6.1 - Extermination :DW2023_07_spinoffs:
     CLOSED: [2023-07-26 Wed 09:08] SCHEDULED: <2023-07-16 Sun>
 
@@ -1629,63 +1633,65 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
      CLOSED: [2023-03-23 Thu 21:40] SCHEDULED: <2023-03-25 Sat>
 
 * #Master :🎧:
-** Missy series 1 :Master_missy:
-*** START [#C] 1.1 A Spoonful of Mayhem :D2021_07_extra:
-    :PROPERTIES:
-    :rating:   7.7
-    :END:
+** Missy :Master_missy:
+*** Missy series 1
+**** START [#C] 1.1 A Spoonful of Mayhem :D2021_07_extra:
+     :PROPERTIES:
+     :rating:   7.7
+     :END:
 
-*** HALF [#A] 1.2 Divorced, Beheaded, Regenerated :D2021_08_extra:plot_no:bilibili:
-    :PROPERTIES:
-    :rating:   9.0
-    :END:
+**** HALF [#A] 1.2 Divorced, Beheaded, Regenerated :D2021_08_extra:plot_no:bilibili:
+     :PROPERTIES:
+     :rating:   9.0
+     :END:
 
 【「重製版熟肉神秘博士廣播劇」Missy 102 Divorced, Beheaded, Regenerated-哔哩哔哩】 https://b23.tv/imPAE6N
 
-*** 3QTR [#A] MISSY1.3 - The Broken Clock :D2021_10_extra:plot_no:bilibili:
-    CLOSED: [2021-11-27 Sat 08:52] DEADLINE: <2021-11-30 Tue> SCHEDULED: <2021-11-13 Sat>
-    :PROPERTIES:
-    :rating:   8.6
-    :END:
+**** 3QTR [#A] MISSY1.3 - The Broken Clock :D2021_10_extra:plot_no:bilibili:
+     CLOSED: [2021-11-27 Sat 08:52] DEADLINE: <2021-11-30 Tue> SCHEDULED: <2021-11-13 Sat>
+     :PROPERTIES:
+     :rating:   8.6
+     :END:
 
 【【神秘博士广播剧】Missy 103 The broken clock 破碎时钟-哔哩哔哩】 https://b23.tv/R2cqU0o
 
-*** [#E] +Missy1.4 - The Belly of the Beast+ :D2021_11_master:
-    SCHEDULED: <2021-11-20 Sat>
-    :PROPERTIES:
-    :rating:   6.8
-    :END:
+**** [#E] +Missy1.4 - The Belly of the Beast+ :D2021_11_master:
+     SCHEDULED: <2021-11-20 Sat>
+     :PROPERTIES:
+     :rating:   6.8
+     :END:
 
-** Missy series 2 :Master_missy:
-*** HALF [#A] 2.1 - The Lumiat :D2022_05_spinoffs:plot_yes:bilibili:
-    SCHEDULED: <2022-05-21 Sat>
-    :PROPERTIES:
-    :rating:   8.8
-    :END:
+*** Missy series 2
+**** HALF [#A] 2.1 - The Lumiat :D2022_05_spinoffs:plot_yes:bilibili:
+     SCHEDULED: <2022-05-21 Sat>
+     :PROPERTIES:
+     :rating:   8.8
+     :END:
 
 【【神秘博士广播剧】Missy 201 The Lumiat-哔哩哔哩】 https://b23.tv/aeYuDl6
 
-*** HALF [#E] +2.2 - Brimstone and Terror+ :plot_no:DW2022_08_spinoffs:
-    SCHEDULED: <2022-08-13 Sat>
-    :PROPERTIES:
-    :rating:   6.8
-    :END:
+**** HALF [#E] +2.2 - Brimstone and Terror+ :plot_no:DW2022_08_spinoffs:
+     SCHEDULED: <2022-08-13 Sat>
+     :PROPERTIES:
+     :rating:   6.8
+     :END:
 
-*** HALF [#D] Missy2.3 - Treason and Plot :plot_cast:DW2023_04_spinoffs:
-    SCHEDULED: <2023-04-16 Sun>
-    :PROPERTIES:
-    :rating:   7.2
-    :END:
+**** HALF [#D] Missy2.3 - Treason and Plot :plot_cast:DW2023_04_spinoffs:
+     SCHEDULED: <2023-04-16 Sun>
+     :PROPERTIES:
+     :rating:   7.2
+     :END:
 
-*** [#B] 2.4 - Too Many Masters :Monk:
-    :PROPERTIES:
-    :rating:   8.2
-    :END:
+**** NEXT [#B] 2.4 - Too Many Masters :Monk:
+     :PROPERTIES:
+     :rating:   8.2
+     :END:
 
-** Missy and the Monk :Master_missy:P2021:
-*** [#D] 3.1 Body and Soulless
-*** [#E] 3.2 War Seed
-*** [#D] 3.3 Two Monks, One Mistress
+*** Missy and the Monk :lP2021:
+**** [#D] 3.1 Body and Soulless
+**** [#E] 3.2 War Seed
+**** [#D] 3.3 Two Monks, One Mistress
+*** TBR Bad Influence :P2024_04:
 ** Masterful
 *** READY Masterful :bilibili:
 
@@ -1738,6 +1744,8 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
 **** [#F] 2.1 - Nemesis Express
 **** [#E] 2.2 - Capture the Chronovore!
 **** [#F] 2.3 - Passion
+*** TBR Master! vol.3 Planet Doom :P2024_02:
+** The War Master  ↗
 ** TBR Call Me Master :Master_spy:
 * #Daleks :daleks:
 ** #Davros :Davros:
@@ -2687,8 +2695,9 @@ From Donna's perspective, the anthology is set after /Forest of the Dead/.
 **** [#B] 04. Angels
 **** [#D] 05. Interrogation
 *** Redacted S2 :P2023_09:
+* BF spin-offs
 * special
-** The Worlds of Doctor Who :P2014:
+** The Worlds of Doctor Who :P2014:🎧:
 *** 3QTR [#C] WoDW#1 - Mind Games :Jago:Litefoot:Ellie:Quick:DW2023_05_spinoffs:
     CLOSED: [2023-05-09 Tue 21:52] SCHEDULED: <2023-05-07 Sun>
 
@@ -2719,7 +2728,7 @@ From Donna's perspective, the anthology is set after /Forest of the Dead/.
 **** [#D] 2.1 Stolen Futures :Romana_2:K9:Biroc:
 **** [#E] 2.2 Prism :Christina:Jenny:
 **** [#C] 2.3 The Turn of the Tides :Jo:Rani:
-*** vol.3 :P2023_03:
+*** vol.3 Strange Chemistry :P2023_03:
 **** [#C] 3.1 - A Ghost of Alchemy :4th_Dr:Leela:
 **** [#E] 3.2 - Fairies at the Bottom of the Garden :Missy:
 * #Dark Times

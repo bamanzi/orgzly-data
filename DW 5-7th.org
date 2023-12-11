@@ -422,7 +422,7 @@ SCHEDULED: <2023-05-20 Sat>
 CLOSED: [2022-11-27 Sun 23:36] SCHEDULED: <2022-11-16 Wed>
 
 ***** [#D] 1.2 God of War :Nyssa:Tegan:Adric:ice_warriors:1CD:P2022_01:
-***** [#A] 2. The Auton Infinity :Tegan:Turlough:Brigadier:3CD:P2022_09:
+***** BLOCK [#A] 2. The Auton Infinity :Tegan:Turlough:Brigadier:3CD:P2022_09:
 **** 📂2023A. Conflicts of Interests :Nyssa:Tegan:P2023_04:
 ***** Friendly Fire :1CD:
 ***** The Edge of the War :1CD:
@@ -941,7 +941,6 @@ SCHEDULED: <2023-11-01 Wed>
 **** DONE The Gift (DWM123-126) :Peri:Frobisher:
 **** DONE The World Shapers (DWM127-129) :Peri:Frobisher:Jamie:Voord:Cybermen:Grant_Morrison:
 *** Marvel :Marvel:
-**** Abslom Daak — Dalek Killer
 **** Voyager :P1989:
 **** The Age of Chaos :Frobisher:
 * 7th Doctor :7th_Dr:
@@ -1032,7 +1031,7 @@ CLOSED: [2021-06-24 Thu 12:31]
 
 【【神秘博士广播剧熟肉】MR 074 LIVE 34-哔哩哔哩】 https://b23.tv/5OQlzQA
 
-***** 3QTR [#B] 79. Night Thoughts :Ace:Hex:plot_yes_dwg:DW2022_09_doctor:
+***** 3QTR [#B] 79. Night Thoughts :Ace:Hex:plot_yes_dwg:bilibili:DW2022_09_doctor:
 CLOSED: [2022-09-27 Tue 19:48] SCHEDULED: <2022-09-18 Sun>
 :PROPERTIES:
 :rating:   8.1
@@ -1185,7 +1184,7 @@ SCHEDULED: <2021-12-04 Sat>
 :thetimescales: 8.2
 :END:
 
-***** [#C] 243. The Quantum Possibility Engine
+***** [#C] 243. The Quantum Possibility Engine :Ace:Mel:
 :PROPERTIES:
 :thetimescales: 7.6
 :END:
@@ -1258,9 +1257,9 @@ block 原因：需要先看剧集16x01 The Ribos Operation
 ***** [#E] 22B.1 London Orbital
 ***** [#E] 22B.2 Scream of the Daleks :Daleks:
 **** 📂2023A Far From Home :P2023_06:Harry:Naomi:
-***** 23A.1 Operation Dusk
-***** 23A.2 Naomi's Ark
-**** 2023B. The Last Day 1
+***** [#B] 23A.1 Operation Dusk
+***** [#D] 23A.2 Naomi's Ark
+**** TBR 2023B. The Last Day 1
 *** novel adaptations :2CD:
 **** BLOCK [#D] NA1 Love and War :Ace:Benny:3CD:scripted:
 
