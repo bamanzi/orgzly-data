@@ -1,0 +1,129 @@
+* Life on Mars
+** Life on Mars (uk)
+*** DONE Life on Mars s1
+CLOSED: <2022-11-20 Sun 08:19>
+
+*** Life On Mars S2
+**** DONE 2x01
+CLOSED: [2023-12-16 Sat 23:00]
+
+** Ashes to ashes
+*** Ashes to Ashes s1
+**** DONE 1x01
+CLOSED: [2022-11-20 Sun 21:10]
+
+**** DONE 1x02
+CLOSED: [2022-11-21 Mon 21:46]
+
+**** DONE 1x03
+CLOSED: [2022-11-26 Sat 20:15]
+
+**** DONE 1x04
+CLOSED: [2022-12-05 Mon 23:59]
+
+** 火星生活（韩版）
+*** DONE 1x01
+CLOSED: <2022-11-13 Sun 15:38>
+
+*** DONE 1x02
+CLOSED: <2022-11-13 Sun 16:23>
+
+* Homeland :📺:
+** S1
+*** DONE 1x01-02
+*** DONE 1x03-04
+CLOSED: <2023-03-12 Sun 16:25>
+
+*** DONE 1x05
+CLOSED: <2023-03-14 Tue 08:45>
+
+*** DONE 1x06
+CLOSED: [2023-03-27 Mon 08:13]
+
+*** DONE 1x07
+CLOSED: [2023-03-28 Tue 07:50]
+
+*** DONE 1x08
+CLOSED: [2023-03-29 Wed 23:44] SCHEDULED: <2023-04-02 Sun>
+
+*** DONE 1x09
+CLOSED: [2023-04-03 Mon 20:51] SCHEDULED: <2023-04-02 Sun>
+
+*** DONE 1x10
+CLOSED: [2023-04-04 Tue 20:17]
+
+*** DONE 1x11
+CLOSED: [2023-04-15 Sat 21:30]
+
+*** DONE 1x12
+CLOSED: <2023-04-15 Sat 23:27>
+
+** S2
+*** DONE 2x01
+CLOSED: [2023-05-02 Tue 10:20]
+
+*** DONE 2x02
+CLOSED: [2023-05-02 Tue 11:10]
+
+*** DONE 2x03
+CLOSED: [2023-05-09 Tue 19:21]
+
+*** DONE 2x04
+CLOSED: [2023-05-10 Wed 19:17]
+
+*** DONE 2x05
+CLOSED: [2023-05-11 Thu 19:08]
+
+*** DONE 2x06
+CLOSED: [2023-05-12 Fri 19:04]
+
+*** DONE 2x07
+CLOSED: [2023-05-14 Sun 11:25]
+
+*** DONE 2x08
+CLOSED: [2023-05-23 Tue 08:19]
+
+*** DONE 2x09
+CLOSED: [2023-05-23 Tue 19:52]
+
+*** DONE 2x10
+CLOSED: <2023-06-02 Fri 19:28>
+
+*** DONE 2x11
+CLOSED: [2023-06-05 Mon 20:28]
+
+*** DONE 2x12
+CLOSED: [2023-06-09 Fri 23:38]
+
+* Breaking Bad / Better Call Saul
+** Breaking Bad
+** Better Call Saul
+*** DONE BCS S1
+*** BCS S2
+**** DONE 2x01
+CLOSED: <2023-11-16 Thu 23:32>
+
+**** DONE 2x02
+CLOSED: [2023-11-19 Sun 17:46]
+
+**** DONE 2x03
+CLOSED: [2023-12-07 Thu 21:20]
+
+**** NOW 2x04
+* For All Mankind
+** S1
+*** DONE 1x06
+CLOSED: <2023-08-16 Wed 19:13>
+
+*** DONE 1x07
+CLOSED: [2023-08-18 Fri 19:06]
+
+*** DONE 1x08
+CLOSED: [2023-08-28 Mon 08:27]
+
+*** DONE 1x09
+CLOSED: [2023-08-31 Thu 08:16]
+
+*** DONE 1x10
+CLOSED: <2023-09-02 Sat 21:48>
+

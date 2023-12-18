@@ -55,7 +55,7 @@ CLOSED: [2022-11-11 Fri 19:22]
 CLOSED: [2022-11-05 Sat 12:09] SCHEDULED: <2022-10-06 Thu>
 
 ** SG-1 :sg1:📺:
-*** 2DONE SG-1 S1
+*** 2DONE SG-1 S1 :P1997:
 *** DONE SG-1 S2
 **** DONE 2x01 The Serpent's Lair
 **** DONE 2x02 In the Line of Duty
@@ -166,7 +166,7 @@ CLOSED: [2022-11-24 Thu 22:13]
 **** DONE 3x22 Nemesis
 CLOSED: [2022-12-05 Mon 22:09]
 
-*** DOING 📂SG-1 S4
+*** DONE 📂SG-1 S4
 **** DONE [#A] 4x01 Small Victories
 CLOSED: <2022-12-06 Tue 23:06>
 
@@ -218,13 +218,32 @@ CLOSED: [2023-12-04 Mon 16:03]
 **** DONE 4x17 Absolute Power
 CLOSED: [2023-12-04 Mon 15:07]
 
-**** 4x18 The Light
-**** 4x19 Prodigy
-**** 4x20 Entity
-**** [#B] 4x21 Double Jeopardy
-**** [#A] 4x22 Exodus
+**** DONE 4x18 The Light
+CLOSED: [2023-12-09 Sat 20:33]
+
+**** DONE 4x19 Prodigy
+CLOSED: [2023-12-12 Tue 18:46]
+
+**** DONE 4x20 Entity
+CLOSED: [2023-12-13 Wed 20:35]
+
+**** DONE [#B] 4x21 Double Jeopardy
+CLOSED: <2023-12-16 Sat 19:42>
+
+**** DONE [#A] 4x22 Exodus
+CLOSED: <2023-12-17 Sun 14:52>
+
 *** SG-1 S5
-**** [#A] 5x01 Enemies
+**** DONE [#A] 5x01 Enemies
+CLOSED: [2023-12-17 Sun 15:35]
+
+**** 5x02
+**** 5x03
+**** 5x04
+*** ...
+*** SG-1 S10 :P2006:
+*** Stargate: The Ark of Truth :P2008:
+*** Stargate: Continuum :P2008:
 *** audio
 
 https://www.bigfinish.com/hubs/v/stargate
@@ -387,9 +406,15 @@ CLOSED: [2023-12-01 Fri 09:53]
 **** DONE 2x06
 CLOSED: [2023-12-04 Mon 21:34]
 
-**** NEXT 2x07
-**** NEXT 2x08
-**** ...
+**** DONE 2x07
+CLOSED: [2023-12-08 Fri 08:20]
+
+**** DONE 2x08
+CLOSED: [2023-12-11 Mon 08:05]
+
+**** NOW 2x09
+**** NOW 2x10
+**** 2x11
 **** 2x12
 * The Expanse :expense:
 ** DONE S1
