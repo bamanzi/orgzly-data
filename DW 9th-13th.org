@@ -184,9 +184,10 @@ https://ninthdoctoradventures.wordpress.com/episodes/
 
 In the aftermath of the Time War, the Doctor has no time to mourn. But how can he even begin to take ahold of the situation if he cannot face his own reflection? The human race is in danger of dying. Forever. 
 
-**** TODO #2. Legacy of the Slitheen
+**** TODO #2. Legacy of the Slitheen :DW2024_01_doctor:
 ** novels :📔:
-*** NEXT [#B] The Stealers of Dreams 盗梦贼 :己购:
+*** DONE [#B] The Stealers of Dreams 盗梦贼 :Rose:Jack:己购:DW2023_Q4:
+CLOSED: <2023-12-17 Sun 22:44> SCHEDULED: <2023-12-31 Sun>
 :PROPERTIES:
 :rating:   3.88
 :todo:     buy
@@ -221,7 +222,7 @@ https://link.zhihu.com/?target=http%3A//id24601.lofter.com/post/1cce6a8f_1c757b0
 ***** DONE Art Attack (DWM358) :Rose:
 ***** DONE The Cruel Sea (DWM359-362) :Rose:
 ***** DONE A Groatsworth of Wit (DWM363-364) :Rose:
-**** NEXT Monstrous Beauty (DWM556-558) :Rose:
+**** NOW Monstrous Beauty (DWM556-558) :Rose:DW2023_Q4:
 SCHEDULED: <2023-12-31 Sun>
 
 *** Titan
@@ -646,7 +647,7 @@ CLOSED: <2021-10-16 Sat 10:18>
 :rating:   3.95
 :END:
 
-*** TODO2 [#B] Stone Rose 石中女神 :Kindle己购:已购:Rose:
+*** [#B] Stone Rose 石中女神 :Kindle己购:已购:Rose:
 :PROPERTIES:
 :rating:   3.92
 :todo:     buy
@@ -668,7 +669,8 @@ CLOSED: [2022-12-10 Sat 21:48]
 :goodreads: 3.81
 :END:
 
-*** [#C] Shining Darkness 耀眼的黑暗 :Donna:
+*** DONE [#C] Shining Darkness 耀眼的黑暗 :Donna:
+CLOSED: <2022-12-11 Sun>
 :PROPERTIES:
 :rating:   3.84
 :END:
@@ -889,14 +891,20 @@ CLOSED: [2023-02-22 Wed 13:49]
 ***** The Chains of Olympus (DWM442-445) :Amy:Rory:
 ***** Sticks & Stones (DWM446-447) :Amy:Rory:
 ***** The Cornucopia Caper (DWM448-450) :Amy:Rory:
-**** DWMGN: Hunters of Buring Stone
+**** DWMGN: Hunters of Buring Stone :🛒:
 
   http://tardis.wikia.com/wiki/Hunters_of_the_Burning_Stone_(graphic_novel)
 
-***** The Broken Man (DWM451-454) :Amy:Rory:
+***** START The Broken Man (DWM451-454) :Amy:Rory:
+SCHEDULED: <2023-12-16 Sat>
+
 ***** Imaginary Enemies (DWM455) :Amy:Rory:Mels:
-***** Hunters of the Burning Stone (DWM456-461) :Ian:Barbara:
-**** DWMGN: The Blood of Azrael
+SCHEDULED: <2023-12-23 Sat>
+
+***** NEXT Hunters of the Burning Stone (DWM456-461) :Ian:Barbara:
+SCHEDULED: <2023-12-30 Sat>
+
+**** DWMGN: The Blood of Azrael :🛒:
 
   http://tardis.wikia.com/wiki/The_Blood_of_Azrael_(graphic_novel)
 
@@ -916,7 +924,8 @@ CLOSED: [2023-02-22 Wed 13:49]
 :rating:   3.98
 :END:
 
-*** HALF [#B] The Silent Stars Go By 寂静星辰飞过 (3.95) :已购:Kindle己购:DW2022_Q4:
+*** HALF [#B] The Silent Stars Go By 寂静星辰飞过 (3.95) :已购:Kindle己购:DW2023_Q4:
+SCHEDULED: <2023-12-31 Sun>
 :PROPERTIES:
 :rating:   3.95
 :END:
@@ -1201,13 +1210,13 @@ CLOSED: <2021-12-10 Fri 20:53>
 **** DONE 13x06
 CLOSED: [2021-12-12 Sun 14:53]
 
-*** NEXT 298. Eve of the Daleks
-SCHEDULED: <2023-12-17 Sun>
+*** DONE 298. Eve of the Daleks :time_loop:DW2023_Q4:
+CLOSED: [2023-12-17 Sun 10:28] SCHEDULED: <2023-12-17 Sun>
 
 *** DONE 299. Legend of the Sea Devil
 CLOSED: <2023-01-06 Fri 22:20>
 
-*** NEXT 300. The Power of the Doctor
+*** NOW 300. The Power of the Doctor :DW2023_Q4:
 SCHEDULED: <2023-12-16 Sat>
 
 ** audio
@@ -1243,10 +1252,12 @@ CLOSED: [2020-07-11 Sat 21:36]
 CLOSED: [2020-06-23 Tue 14:47]
 
 ***** DONE Mistress of Chaos (DWM543-548)
-***** TODO The Piggybackers (DWM549-552) :Graham:Yaz:Ryan:
+***** DONE The Piggybackers (DWM549-552) :Graham:Yaz:Ryan:DW2023_Q4:
+CLOSED: [2023-12-14 Thu 13:48]
+
 **** DWMGN: (pending)
-***** The White Dragon (DWM559-562) :Graham:Yaz:Ryan:
-***** The Forest Bride (DWM570-571) :Yaz:
+***** NOW The White Dragon (DWM559-562) :Graham:Yaz:Ryan:DW2023_Q4:
+***** NOW The Forest Bride (DWM570-571) :Yaz:DW2023_Q4:
 ***** It's Behind You (DWM572) :Yaz:Dan:
 ***** Hydra's Gate (DWM574-577) :Yaz:Dan:
 ***** Fear of the Future (DWM579) :Yaz:Dan:
@@ -1263,9 +1274,10 @@ CLOSED: [2020-07-05 Sun 17:11]
 :rating:   4.02
 :END:
 
-*** [#C] Combat Magicks 战斗魔法
+*** NEXT [#C] Combat Magicks 战斗魔法 :DW2023_Q4:
+SCHEDULED: <2024-01-13 Sat>
 :PROPERTIES:
-:goodreads: 3.7
+:goodreads: 3.72
 :END:
 
 ** short stories
@@ -1288,9 +1300,11 @@ http://tieba.baidu.com/p/6610135518?share=9105&fr=share&see_lz=0&sfc=copy&client
 *** DONE Destination: Skaro :P2023_11:
 CLOSED: [2023-11-26 Sun 08:15]
 
-*** NEXT 301. The Star Beast :P2023_11:
-SCHEDULED: <2023-12-31 Sun>
+*** NEXT 301. The Star Beast :P2023_11:DW2023_Q4:
+SCHEDULED: <2024-01-13 Sat>
 
-*** 302. Wild Blue Yonder
+*** 302. Wild Blue Yonder :DW2023_Q4:
+*** 303. The Giggle
 ** comics
 *** Liberation of the Daleks
+*** Untitled (DWM 598) :Donna:

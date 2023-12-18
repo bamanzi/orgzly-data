@@ -751,7 +751,8 @@ CLOSED: [2020-09-23 Wed 12:53]
 http://blog.sina.cn/dpool/blog/s/blog_6c7775810101a2hb.html?type=2
 
 ** novels
-*** [#A] Alien Bodies
+*** NEXT [#A] Alien Bodies :hanzify:DW2023_Q4:
+SCHEDULED: <2024-01-31 Wed>
 :PROPERTIES:
 :goodreads: 4.2
 :END:
