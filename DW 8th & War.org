@@ -511,8 +511,8 @@ SCHEDULED: <2023-06-20 Tue 21:33>
 :END:
 
 ***** DC vol.4
-****** HALF [#B] 4.1 - Ship in a Bottle :DW2023_12_doctor:
-SCHEDULED: <2023-12-09 Sat>
+****** 3QTR [#B] 4.1 - Ship in a Bottle :DW2023_12_doctor:
+CLOSED: [2023-12-20 Wed 07:51] SCHEDULED: <2023-12-09 Sat>
 :PROPERTIES:
 :rating:   8.4
 :END:
@@ -1278,8 +1278,8 @@ CLOSED: [2020-12-24 Thu 15:51] SCHEDULED: <2021-09-28 Tue>
 CLOSED: [2023-10-26 Thu 08:21] SCHEDULED: <2023-10-29 Sun>
 
 **** [#E] 2.2 - A Thing of Guile
-**** [#A] 2.3 - The Neverwhen :DW2023_12_doctor:
-SCHEDULED: <2023-12-23 Sat>
+**** 3QTR [#A] 2.3 - The Neverwhen :DW2023_12_doctor:
+CLOSED: [2023-12-13 Wed 08:37] SCHEDULED: <2023-12-16 Sat>
 
 *** 📂The War Doctor vol.3 :scripted:🎧:P2016:
 **** [#C] 3.1 - The Shadow Vortex
@@ -1324,7 +1324,7 @@ CLOSED: <2023-09-08 Fri 09:33> SCHEDULED: <2023-09-17 Sun>
 **** HALF [#A] 6.3 - The Orphan :Nyssa:DW2023_11_spinoffs:
 SCHEDULED: <2023-11-19 Sun>
 
-**** [#A] 6.4 - Unfinished Business :DW2023_12_spinoffs:
+**** HALF [#A] 6.4 - Unfinished Business :DW2023_12_spinoffs:
 SCHEDULED: <2023-12-24 Sun>
 
 *** /📂The War Master series 7: Self-Defence/ :Master_war:🎧:P2022_06:

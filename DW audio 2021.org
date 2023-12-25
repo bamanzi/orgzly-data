@@ -1568,7 +1568,9 @@
 *** DONE [#C] John#4 - Darker Purposes :Captain_John:Jack:
 *** HALF [#B] CM2.1 - Manhunt :ICMG:
 *** START [#A] J&L8.1 - Encore of the Scorchies
-*** HALF [#B] WM6.1 The Sincerest Form of Flattery :Time_War:Master_war:
+*** DONE [#B] WM6.1 The Sincerest Form of Flattery :Time_War:Master_war:
+    CLOSED: [2023-12-16 Sat 19:21]
+
 *** DONE [#C] Susan1.2 The Uncertain Shore :Susan:Time_War:bilibili:
 *** [#D] SJS1.1 Comeback :Sarah:
 * DW2023-09
@@ -1597,61 +1599,90 @@
 *** 3QTR [#C] WD2.1 Legion of the Lost :War_Doctor:
 ** dw2023-10-spinoffs
 *** DONE [#B] TW29. Serenity :Jack:Ianto:
-*** [#C] UNIT 1.2 Earthfall
+*** HALF [#C] UNIT 1.2 Earthfall
 *** 3QTR [#D] PG3.2 - Whatever Remains
 *** 3QTR [#B] BSBOX1.2 - The Temple of Questions :Benny:
 *** HALF [#B] SJS1.3 Test of Nerve :Sarah:
 ** pending
-*** FIXME [#A] TW43. The Three Monkeys :Andy:Owen:
 * DW2023-11
 ** dw2023-11-doctor
-*** START The War Machines                                  :Dodo:Polly:Ben:
-*** HALF [#C] CC3.10 - The Magician's Oath                       :Yates:
-*** 3QTR [#A] MR081 The Kingmaker                        :5th_Dr:Peri:Erimem:
-*** 3QTR [#A] 7DNA 1.4 The Dread of Night              :7th_Dr:Roz:Chris:1CD:
+*** START The War Machines :Dodo:Polly:Ben:
+*** HALF [#C] CC3.10 - The Magician's Oath :Yates:
+*** 3QTR [#A] MR081 The Kingmaker :5th_Dr:Peri:Erimem:
+*** 3QTR [#A] 7DNA 1.4 The Dread of Night :7th_Dr:Roz:Chris:1CD:
 *** 3QTR [#A] 9DA7.3 Flatpack
-*** HALF [#C] 11DC1.4 - False Coronets                        :11th_Dr:Clara:
+*** HALF [#C] 11DC1.4 - False Coronets :11th_Dr:Clara:
 ** dw2023-11-spinoffs
 *** 3QTR [#B] TWS2 Outbreak ⅔ :3CD:
 *** 3QTR [#B] CM2.2 - The Fifth Citadel
 *** [#D] J&L7.2 The Night of 1000 Stars :Leela:
-*** 3QTR [#A] WM6.3 The Orphan                         :Nyssa:Master_war:
+*** 3QTR [#A] WM6.3 The Orphan :Nyssa:Master_war:
 *** 3QTR [#C] Susan1.3. Assets of War
 *** HALF [#D] DoRS8.1 Slight Glimpses of Tomorrow
-** pending
-*** [#A] TW59 Sonny :Rhys:
 * DW2023-12
 ** dw2023-12-doctor
-*** [#B] EA4.4 The Wreck of the World :2nd_Dr:Jamie:Zoe:
-*** FIXME [#D] 4DA8.4 - The False Guardian                       :4th_Dr:Ann:
-*** [#D] WoDW#4 Second Sight :6th_Dr:Romana_2:Leela:Yates:
-*** FIXME [#B] 8DDC 4.1 - Ship in a Bottle                 :8th_Dr:Liv:Helen:
-*** FIXME [#C] 8DDC 4.2 - Songs of Love :8th_Dr:Liv:Helen:River:
-*** [#B] 10DCC1.1 - Splinters
-*** [#A] WD2.3 - The Neverwhen
+*** HALF [#B] EA4.4 The Wreck of the World :2nd_Dr:Jamie:Zoe:
+*** 3QTR [#C] 4DA6.5 - The Haunting of Malkin Place :4th_Dr:Romana_2:
+*** HALF [#B] 8DDC 4.1 - Ship in a Bottle :8th_Dr:Liv:Helen:
+***  [#C] 8DDC 4.2 - Songs of Love :8th_Dr:Liv:Helen:River:
+*** HALF [#B] 10DCC1.1 - Splinters
+*** HALF [#A] WD2.3 - The Neverwhen
 ** dw2023-12-spinoffs
-*** [#B] TWS2 Outbreak #3 Kill             :Jack:Gwen:Ianto:Rhys:Andy:Norton:
+*** [#B] TWS2 Outbreak #3 Kill :Jack:Gwen:Ianto:Rhys:Andy:Norton:
+*** HALF [#C] TW53. Empire of Shadows :Zach:
+*** HALF [#A] PG1.2. A Photograph to Remember
 *** HALF [#C] UNIT1.3 Bridgehead
-*** [#B] PG3.3 - Truth and Bone
-*** [#A] WM6.4 - Unfinished Business :Master_war:
+*** HALF [#A] WM6.4 - Unfinished Business                        :Master_war:
 *** HALF [#C] BSBOX1.3 - Private Enemy No. 1
-*** [#B] Gallifrey 6.3  - Ascension
+* DW2024-01
+** dw2024-01-doctor
+*** [#C] CC5.8 The Perpetual Bond :1st_Dr:Steven:Oliver:
+*** [#A] 3DA #9. The Annihilators :3rd_Dr:Liz:2nd_Dr:Jamie:3CD:
+*** [#C] CC4.05 - Ringpullworld :5th_Dr:Turlough:
+*** [#C] 2022A.2  The Ribos Inheritance :7th_Dr:Mel:
+*** [#D] 9DA 7.2 Lay Down Your Arms
+*** [#A] ST12.X The World Tree :11th_Dr:bilibili:
+** dw2024-01-spinoffs
+*** [#C] TW64 Suckers :Tosh:
+*** [#A] TW51 The Five People You Kill in Middlebrough :Yvonne:
+*** FIXME [#B] UNIT1.4 Armageddon
+*** FIXME [#D] J&L 8.3 - Jago & Litefoot & Patsy
+*** [#B] BSBOX 1.4 Judgement Day /
+*** [#B] Missy2.4 Too Many Masters :Master:Missy:
+* DW2024-02
+** dw2024-02-doctor
+*** 3DA #9. The Annihilators  part 3
+*** FIXME The Star Beast ?  / [#C] 4DA7.7/7.8 - Kill the Doctor! / The Age of Sutekh  (Leela, Sutehk)
+*** FIXME [#B] MR105. The Condemned (Charley) / [#C] 194. The Rani Elite (6th, Peri) / [#C] MR157. The Fourth Wall (Flip) 2cd
+*** 8DDC 4.3/4.4 :8th_Dr:Liv:Helen:
+*** [#D] 10DA1.2 Time Reaver :10th_Dr:Donna:bilibili:
+*** [#D] WDB3.1 - The Keeper of Light :War_Dr:
+** dw2024-02-spinoffs
+*** [#A] TW43 The Three Monkeys :Andy:Owen:
+*** [#C] BBC #4. The Dead Line #bilibili
+*** [#B] PG3.3 - Truth and Bone
+*** [#C] River 6.4 The Talents of Grel
+*** FIXME [#B] WM7.1 The Forest Penitence :Master_war:
+*** [#B] Gallifrey 6.3 -Ascension
+*** FIXME [#C] CY1.3 - Living History :Churchill:11th_Dr:
 * pending
 ** odd
 *** [#B] LS2.1b The Fragile Yellow Arc of Fragrance (Susan, Ian, Barbara) :plot_yes:
 *** 3DA6.1 Poison of the Daleks (Jo)
-*** [#A] 3DA #9. The Annihilators 太长 (Liz, +2nd Dr, Jamie) 3CD ⅔ /
-*** [#C] CC4.05 - Ringpullworld :5th_Dr:Turlough:
 *** [#B] UNIT: Dominion p3 :7th_Dr:Klein:UNIT:Master_bald:1CD:
 *** [#A] MR120 The Magic Mousetrap :7th_Dr:Ace:Hex:
 *** [#C] DotD#9. Night of the Whisper
 ** even
 *** [#C] 6DnP #1 The Headless Ones :6th_Dr:Peri:
+*** [#D] WoDW#4 Second Sight :6th_Dr:Romana_2:Leela:Yates:
+
 *** 8DTW 2.1 The Lords of Terror / 3.1 State of Bliss :8th_Dr:Bliss:
 **** S12.1 Salvage :Bliss:
 *** FIXME [#C] ST8.6 The Siege of Big Ben :10th_Dr:plot_yes:Jackie:
 ** spinoffs
-*** FIXME [#C] CY1.3 - Living History :Churchill:11th_Dr:
 *** [#D] Robots 3.1 The Mystery of Sector 13
-*** FIXME Missy2.4 Too Many Masters :Master:Missy:
 *** [#A] DoRS7.3 Barrister to the Stars
+*** [#C] Susan1.4
+*** [#A] TW59 Sonny :Rhys:
+
+*** TLV: Lesser Evils :Master_tremas:

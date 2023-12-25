@@ -472,8 +472,11 @@ SCHEDULED: <2023-03-01 Wed>
 :rating:   6.7
 :END:
 
-***** START [#B] 4.4 The Wreck of the World (8.2) :Jamie:Zoe:plot_no:DW2023_12_doctor:
+***** HALF [#B] 4.4 The Wreck of the World :Jamie:Zoe:plot_no:DW2023_12_doctor:
 SCHEDULED: <2023-12-16 Sat>
+:PROPERTIES:
+:rating:   8.2
+:END:
 
 **** EA S6 :P2019:
 ***** HALF [#D] 6.1 The Home Guard :Jamie:Polly:Ben:Master_early:D2021_12_master:plot_half:week3:
@@ -1285,8 +1288,8 @@ CLOSED: <2021-07-01 Thu 16:39>
 ***** [#D] 6.2 - The Eternal Battle (7.3) :Sontarans:plot_yes:
 ***** CANCEL [#E] 6.3 The Silent Scream :plot_yes:
 ***** CANCEL [#E] 6.4 Dethras :plot_yes:
-***** HALF [#C] 6.5 - The Haunting of Malkin Place :plot_cast:DW2023_12_doctor:
-SCHEDULED: <2023-12-09 Sat>
+***** 2DONE [#C] 6.5 - The Haunting of Malkin Place :plot_cast:DW2023_12_doctor:
+CLOSED: [2023-12-15 Fri 21:28] SCHEDULED: <2023-12-09 Sat>
 :PROPERTIES:
 :rating:   7.5
 :END:
@@ -1322,9 +1325,7 @@ SCHEDULED: <2021-11-05 Fri>
 ***** HALF [#C] 8.3 - The Enchantress of Numbers (7.6) :D2022_04_doctor:
 SCHEDULED: <2022-04-23 Sat>
 
-***** [#D] 8.4 The False Guardian / 8.5 Time's Assassin :DW2023_12_doctor:
-SCHEDULED: <2023-12-09 Sat>
-
+***** [#D] 8.4 The False Guardian / 8.5 Time's Assassin
 ***** [#D] 8.6 - Fever Island (7.2)
 ***** [#B] 8.7/8.8 - The Perfect Prisoners (8.2/8.3) :2CD:
 **** 4DA series 9 :P2020:2CD:
