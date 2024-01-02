@@ -103,6 +103,9 @@ SCHEDULED: <2023-11-11 Sat>
 
 **** S2.4 Shades of Fear :P2023_02:
 ***** READY [#D] 8.1 The Colour of Terror :bilibili:
+:PROPERTIES:
+:rating:   7.4
+:END:
 
 【【神秘博士广播剧熟肉】Shades of Fear 801 The Colour of Terror 恐怖之色-哔哩哔哩】 https://b23.tv/upXcyWs
 
@@ -209,13 +212,14 @@ CLOSED: <2023-12-17 Sun 22:44> SCHEDULED: <2023-12-31 Sun>
 :END:
 
 ** short stories
-*** The Day She Saved the Doctor #2: Rose and the Snow Windows
+*** NEXT The Day She Saved the Doctor #2: Rose and the Snow Windows :hanzify:
+SCHEDULED: <2023-12-31 Sun>
 
 https://link.zhihu.com/?target=http%3A//id24601.lofter.com/post/1cce6a8f_1c71baabb （1-2）
 
 https://link.zhihu.com/?target=http%3A//id24601.lofter.com/post/1cce6a8f_1c757b093 （3-5）
 
-** comics
+** comics :📚:
 *** DWM
 **** DWMGN: The Cruel Sea
 ***** DONE The Love Invasion (DWM355-357) :Rose:
@@ -771,7 +775,7 @@ SCHEDULED: <2023-09-17 Sun>
 **** [#C] 4.2 The Yearn :P2023_02:
 **** [#A] 4.3 Curiosity Shop :P2023_02:
 **** 4.4 Broken Hearts :P2023_11:
-*** TBR 11DC vol.5 Everywhere and Anywhere :P2023_12:
+*** 11DC vol.5 Everywhere and Anywhere :P2023_12:
 **** 5.1 Spirit of the Season
 **** 5.2 All’s Fair
 **** 5.3 Sins of the Flesh
@@ -803,10 +807,10 @@ https://m.youtube.com/watch?v=7wrZUFIgiNE
 
 **** [#E] Paradis Lost (BBC) :Clara:1CD:P2020:
 **** [#B] NSA audio #15 The Art of Death :BBC:Amy:Rory:
-**** NEXT [#B] Let it Snow (Tales of Trenzalore #1) :Ice_Warriors:DW2023_11_doctor:
+**** NEXT [#B] Let it Snow (Tales of Trenzalore #1) :Ice_Warriors:DW2024_01_doctor:
 SCHEDULED: <2023-12-31 Sun>
 
-** comics
+** comics :📚:
 *** IDW
 **** DW2011
 ***** 01 Spam Filtered
@@ -935,7 +939,7 @@ SCHEDULED: <2023-12-31 Sun>
 :goodreads: 3.85
 :END:
 
-*** [#C] Paradox Lost 悖论迷失
+*** [#B] Paradox Lost 悖论迷失
 :PROPERTIES:
 :rating:   3.88
 :END:
@@ -1216,12 +1220,12 @@ CLOSED: [2023-12-17 Sun 10:28] SCHEDULED: <2023-12-17 Sun>
 *** DONE 299. Legend of the Sea Devil
 CLOSED: <2023-01-06 Fri 22:20>
 
-*** NOW 300. The Power of the Doctor :DW2023_Q4:
-SCHEDULED: <2023-12-16 Sat>
+*** DONE 300. The Power of the Doctor :Master_spy:Yaz:Ace:Tegan:UNIT:Kate:DW2023_Q4:
+CLOSED: [2023-12-24 Sun 22:02] SCHEDULED: <2023-12-24 Sun>
 
 ** audio
-** comics
-*** Titan Comics :📚:Titan:
+** comics :📚:
+*** Titan Comics :Titan:
 **** DONE The Many Lives of Doctor Who
 CLOSED: [2020-07-19 Sun 22:59]
 
@@ -1296,15 +1300,22 @@ https://tieba.baidu.com/p/6592330173
 http://tieba.baidu.com/p/6610135518?share=9105&fr=share&see_lz=0&sfc=copy&client_type=2&client_version=11.1.8.2&st=1593736160&unique=58A318B2D019E66209DFAEB93AC228AE
 
 * 14th Doctor
-** tv
-*** DONE Destination: Skaro :P2023_11:
+** tv :DW2023_Q4:
+*** DONE Destination: Skaro (short) :P2023_11:
 CLOSED: [2023-11-26 Sun 08:15]
 
-*** NEXT 301. The Star Beast :P2023_11:DW2023_Q4:
-SCHEDULED: <2024-01-13 Sat>
+*** DONE 301. The Star Beast :P2023_11:DW2023_Q4:
+CLOSED: <2023-12-30 Sat 19:51> SCHEDULED: <2024-01-01 Mon>
 
-*** 302. Wild Blue Yonder :DW2023_Q4:
-*** 303. The Giggle
+*** NOW 302. Wild Blue Yonder :DW2023_Q4:
+SCHEDULED: <2024-01-07 Sun>
+
+*** 303. The Giggle :ToyMaker:DW2023_Q4:
+SCHEDULED: <2024-01-14 Sun>
+
 ** comics
 *** Liberation of the Daleks
-*** Untitled (DWM 598) :Donna:
+*** Untitled (DWM 598) :Donna:hanzify:
+* 15th Doctor
+** tv
+*** 304. The Church On Ruby Road :Christmas_special:P2023:

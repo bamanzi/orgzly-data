@@ -405,27 +405,27 @@ SCHEDULED: <2023-09-24 Sun>
 **** The Blazing Hour
 *** 5DA
 **** The Fifth Doctor Box Set :2CD:Nyssa:Tegan:Adric:
-***** [#A] Psychodrome
-***** [#A] Iterations of I
+***** [#A] Psychodrome :Adric:Nyssa:Tegan:plot_yes:
+***** [#A] Iterations of I :Adric:Nyssa:Tegan:plot_yes:
 **** Wicked Sisters :1CD:P2020:Leela:Zara:Abby:
 ***** HALF [#C] 5DWS1.1 The Garden of Storms :DW2023_05_doctor:
 SCHEDULED: <2023-05-20 Sat>
 
-***** [#B] The Moonrakers :Sontarans:
+***** [#B] The Moonrakers :Sontarans:DW2024_01_doctor:
 ***** CANCEL [#E] The People Made of Smoke
 **** 📂2021. The Lost Resort and Other Stories :Nyssa:Tegan:Marc:plot_yes:P2021_09:
-***** [#A] The Lost Resort :2CD:
+***** [#A] The Lost Resort :2CD:plot_yes:
 ***** CANCEL [#E] The Perils of Nellie Bly
-***** [#C] Nightmare of the Daleks :1CD:
+***** [#C] Nightmare of the Daleks :1CD:plot_yes:
 **** 📂2022. Forty
 ***** 3QTR [#D] 1.1 Secrets of Telos :Nyssa:Tegan:Cybermen:2CD:P2022_01:DW2022_11_maybe:
 CLOSED: [2022-11-27 Sun 23:36] SCHEDULED: <2022-11-16 Wed>
 
 ***** [#D] 1.2 God of War :Nyssa:Tegan:Adric:ice_warriors:1CD:P2022_01:
-***** BLOCK [#A] 2. The Auton Infinity :Tegan:Turlough:Brigadier:3CD:P2022_09:
+***** BLOCK [#A] 2. The Auton Infinity :Tegan:Turlough:Brigadier:Master_tremas:3CD:P2022_09:plot_yes:
 **** 📂2023A. Conflicts of Interests :Nyssa:Tegan:P2023_04:
-***** Friendly Fire :1CD:
-***** The Edge of the War :1CD:
+***** [#D] Friendly Fire :1CD:3parts:
+***** [#E] The Edge of the War :1CD:3parts:
 **** 📂2023B. In the Night :Nyssa:Tegan:P2023_09:
 ***** 1. Pursuit of the Nightjar :2CD:
 ***** 2. Resistor :1CD:
@@ -1261,7 +1261,7 @@ block 原因：需要先看剧集16x01 The Ribos Operation
 **** 📂2023A Far From Home :P2023_06:Harry:Naomi:
 ***** [#B] 23A.1 Operation Dusk
 ***** [#D] 23A.2 Naomi's Ark
-**** TBR 2023B. The Last Day 1
+**** 2023B. The Last Day 1 :Ace:Mel:Beeny:Hex:Master_decayed:P2023_12:3CD:
 *** novel adaptations :2CD:
 **** BLOCK [#D] NA1 Love and War :Ace:Benny:3CD:scripted:
 
@@ -1293,7 +1293,7 @@ block 原因：太长（3小时多）
 :END:
 
 *** misc
-**** CC4.6 BS and the Criminal Code :Benny:
+**** [#D] CC4.6 BS and the Criminal Code :Benny:
 **** HALF [#D] CC7.3 Project: Nirvana :Sally:Lysandra:P2012:plot_cast:DW2023_03_doctor:
 SCHEDULED: <2023-03-25 Sat>
 

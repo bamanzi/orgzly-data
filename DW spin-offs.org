@@ -427,7 +427,7 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 ***** 74. Sigil :Bilis_Manger:
 ***** 75. Dog Hop :Andy:plot_yes:
 ***** 76. Odyssey :plot_yes:Ood:
-***** 77. Oodunnit :Ood:
+***** 77. Oodunnit :Ood:Zack:
 ***** 78. Oracle :P2023_12:
 *** specials
 **** 2DONE [#B] special 1: The Torchwood Archive :P2016:The_Commitee:2CD:plot_yes:
@@ -483,56 +483,6 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
       :rating:   7.5
       :END:
 
-**** DONE [#A] Torchwood Soho: Parasite :3CD:P2020:plot_yes:Norton:Andy:Lizbeth:
-
-https://tardis.fandom.com/wiki/Parasite_(audio_story)
-
-***** 3QTR [#B] 1.1 The Man From Room 13 :DW2023_03_spinoffs:
-      CLOSED: [2023-03-24 Fri 08:26] SCHEDULED: <2023-03-05 Sun>
-
-***** 3QTR [#B] 1.1 Meet Mr Lyme :DW2023_03_spinoffs:
-      CLOSED: [2023-03-24 Fri 08:26] SCHEDULED: <2023-03-05 Sun>
-
-***** 2DONE [#A] 1.3 The Mould :DW2023_03_spinoffs:
-      CLOSED: [2023-04-11 Tue 08:29] SCHEDULED: <2023-04-09 Sun>
-
-***** 2DONE [#A] TWS1.4 The Spread :DW2023_04_spinoffs:
-      CLOSED: [2023-04-11 Tue 08:29] SCHEDULED: <2023-04-09 Sun>
-
-***** DONE [#A] TWS1.5 The Dead Hand [#S] :DW2023_04_spinoffs:
-      CLOSED: [2023-04-21 Fri 09:00] DEADLINE: <2023-04-23 Sun>
-
-***** 3QTR [#A] TWS1.6 The Liberty of Norton Folgate :DW2023_04_spinoffs:
-      CLOSED: [2023-04-21 Fri 13:57]
-
-**** Torchwood Soho: Ashenden :Norton:Andy:Lizbeth:P2021:plot_yes:
-***** [#C] 2.1. Pimlico
-      :PROPERTIES:
-      :rating:   7.8
-      :END:
-
-***** [#B] 2.2. O Little Town Of Ashenden
-      :PROPERTIES:
-      :rating:   8.1
-      :END:
-
-***** [#A] 2.3. The National Health
-      :PROPERTIES:
-      :rating:   8.6
-      :END:
-
-***** [#A] 2.4. Rivers of Blood                  (9.0)
-***** [#B] 2.5. Now is the Time for All Good Men
-      :PROPERTIES:
-      :rating:   8.2
-      :END:
-
-***** [#A] 2.6. The Hour of the Hollow Man
-      :PROPERTIES:
-      :rating:   8.9
-      :END:
-
-**** Torchwood Soho #3 The Unbegotten :Norton:Andy:Lizbeth:P2022_10:
 *** tv continuation :🎧:1CD:
 **** S5. Aliens Among Us
 ***** 2DONE [#B] 5.01 Changes Everything
@@ -771,6 +721,57 @@ https://tardis.fandom.com/wiki/Parasite_(audio_story)
 ***** [#A] 4.1 My Guest Tonight
 ***** [#C] 4.2 Lola
 ***** [#A] 4.3 Less Majesty
+*** Torchwood Soho
+**** DONE [#A] Torchwood Soho: Parasite :3CD:P2020:plot_yes:Norton:Andy:Lizbeth:
+
+https://tardis.fandom.com/wiki/Parasite_(audio_story)
+
+***** 3QTR [#B] 1.1 The Man From Room 13 :DW2023_03_spinoffs:
+      CLOSED: [2023-03-24 Fri 08:26] SCHEDULED: <2023-03-05 Sun>
+
+***** 3QTR [#B] 1.1 Meet Mr Lyme :DW2023_03_spinoffs:
+      CLOSED: [2023-03-24 Fri 08:26] SCHEDULED: <2023-03-05 Sun>
+
+***** 2DONE [#A] 1.3 The Mould :DW2023_03_spinoffs:
+      CLOSED: [2023-04-11 Tue 08:29] SCHEDULED: <2023-04-09 Sun>
+
+***** 2DONE [#A] TWS1.4 The Spread :DW2023_04_spinoffs:
+      CLOSED: [2023-04-11 Tue 08:29] SCHEDULED: <2023-04-09 Sun>
+
+***** DONE [#A] TWS1.5 The Dead Hand [#S] :DW2023_04_spinoffs:
+      CLOSED: [2023-04-21 Fri 09:00] DEADLINE: <2023-04-23 Sun>
+
+***** 3QTR [#A] TWS1.6 The Liberty of Norton Folgate :DW2023_04_spinoffs:
+      CLOSED: [2023-04-21 Fri 13:57]
+
+**** Torchwood Soho #2: Ashenden :Norton:Andy:Lizbeth:P2021:plot_yes:
+***** [#C] 2.1. Pimlico
+      :PROPERTIES:
+      :rating:   7.8
+      :END:
+
+***** [#B] 2.2. O Little Town Of Ashenden
+      :PROPERTIES:
+      :rating:   8.1
+      :END:
+
+***** [#A] 2.3. The National Health
+      :PROPERTIES:
+      :rating:   8.6
+      :END:
+
+***** [#A] 2.4. Rivers of Blood                  (9.0)
+***** [#B] 2.5. Now is the Time for All Good Men
+      :PROPERTIES:
+      :rating:   8.2
+      :END:
+
+***** [#A] 2.6. The Hour of the Hollow Man
+      :PROPERTIES:
+      :rating:   8.9
+      :END:
+
+**** Torchwood Soho #3 The Unbegotten :Norton:Andy:Lizbeth:P2022_10:
 *** BBC audio dramas :🎧:scripted:
 **** [#D] 1. Lost Souls :Martha:
 **** 3QTR [#B] TWB2. Asylum :Jack:Gwen:Ianto:Andy:DW2023_05_spinoffs:
@@ -1322,9 +1323,9 @@ http://drwhoguide.com/bs_a06.htm
      :rating:   7.4
      :END:
 
-**** [#C] 3.4 - The Mirror Effect
+**** [#D] 3.4 - The Mirror Effect
      :PROPERTIES:
-     :rating:   7.7
+     :rating:   7.4
      :END:
 
 http://drwhoguide.com/bs_a08.htm
@@ -1681,12 +1682,12 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
      :rating:   7.2
      :END:
 
-**** NEXT [#B] 2.4 - Too Many Masters :Monk:
+**** NEXT [#B] 2.4 - Too Many Masters :Monk:DW2024_01_spinoffs:
      :PROPERTIES:
      :rating:   8.2
      :END:
 
-*** Missy and the Monk :lP2021:
+*** Missy and the Monk :P2021:
 **** [#D] 3.1 Body and Soulless
 **** [#E] 3.2 War Seed
 **** [#D] 3.3 Two Monks, One Mistress
@@ -2487,32 +2488,31 @@ http://www.drwhoguide.com/kaldor03.htm
 *** DONE When to Die :P2015:
     CLOSED: <2020-08-15 Sat 16:31>
 
+* Sarah Jane
+** tv
+*** SJA s1 :P2007:
+**** DONE 1x01 Invasion of the Bane
+     CLOSED: [2023-12-31 Sun 21:58]
+
+**** 1x02 Revenge of the Slitheen
+**** 1x03 Eye of the Gorgon
+** audio
+*** Sarah Jane Smith (BF) :🎧:plot_yes_dwg:P2002:
+**** [#E] SJS1.1 - Comeback (6.8) :DW2023_08_spinoffs:
+     SCHEDULED: <2023-08-31 Thu>
+
+**** [#E] +1.2 The Tao Connection+ (6.2)
+**** HALF [#B] SJS1.3 Test of Nerve (8.1) :DW2023_10_spinoffs:
+     SCHEDULED: <2023-10-30 Mon>
+
+**** [#E] +1.4 Ghost Town+ (6.4)
+**** [#D] 1.5 Mirror, Signal, Manoeuvre (7.1)
+**** [#C] 2.1 Buried Secrets (7.5)
+**** [#B] 2.2 Snow Blind (8.4)
+**** [#B] 2.3 Fatal Consequences (8.1)
+**** [#B] 2.4 Dreamland (8.1)
+*** The Sarah Jane Adventures (BBC)
 * misc spin-offs (classic)
-** Sarah Jane Smith :🎧:plot_yes_dwg:
-*** [#E] SJS1.1 - Comeback (6.8) :DW2023_08_spinoffs:
-    SCHEDULED: <2023-08-31 Thu>
-
-*** [#E] +1.2 The Tao Connection+ (6.2)
-*** HALF [#B] SJS1.3 Test of Nerve (8.1) :DW2023_10_spinoffs:
-    SCHEDULED: <2023-10-30 Mon>
-
-*** [#E] +1.4 Ghost Town+ (6.4)
-*** [#D] 1.5 Mirror, Signal, Manoeuvre (7.1)
-*** [#C] 2.1 Buried Secrets (7.5)
-*** [#B] 2.2 Snow Blind (8.4)
-*** [#B] 2.3 Fatal Consequences (8.1)
-*** [#B] 2.4 Dreamland (8.1)
-** Charlotte Pollard
-*** series 1 :P2014:
-**** [#D] 1.1 - The Lamentation Cipher :plot_yes:
-**** [#E] +1.2 - The Shadow at the Edge of the World+ (6.8)
-**** [#C] 1.3 - The Fall of the House of Pollard    (7.9)
-**** [#D] 1.4 - The Viyran Solution                 (7.3)
-*** series 2 :P2017:
-**** [#E] +2.1 - Embankment Station+  (6.6)
-**** [#E] 2.2 - Ruffling  (6.9)
-**** [#E] +2.3 - Seed of Chaos+ (6.5)
-**** [#F] +2.4 - The Destructive Quality of Life+     (5.6)
 ** (^)
 *** UNIT
 *** Bernice Summerfield
@@ -2698,6 +2698,18 @@ From Donna's perspective, the anthology is set after /Forest of the Dead/.
 **** [#D] 05. Interrogation
 *** Redacted S2 :P2023_09:
 * BF spin-offs
+** Charlotte Pollard
+*** series 1 :P2014:
+**** [#D] 1.1 - The Lamentation Cipher :plot_yes:
+**** [#E] +1.2 - The Shadow at the Edge of the World+ (6.8)
+**** [#C] 1.3 - The Fall of the House of Pollard    (7.9)
+**** [#D] 1.4 - The Viyran Solution                 (7.3)
+*** series 2 :P2017:
+**** [#E] +2.1 - Embankment Station+  (6.6)
+**** [#E] 2.2 - Ruffling  (6.9)
+**** [#E] +2.3 - Seed of Chaos+ (6.5)
+**** [#F] +2.4 - The Destructive Quality of Life+     (5.6)
+** Graceless
 * special
 ** The Worlds of Doctor Who :P2014:🎧:
 *** 3QTR [#C] WoDW#1 - Mind Games :Jago:Litefoot:Ellie:Quick:DW2023_05_spinoffs:

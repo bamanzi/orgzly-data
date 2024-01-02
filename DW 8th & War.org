@@ -71,8 +71,6 @@ CLOSED: [2023-09-02 Sat 23:13] SCHEDULED: <2023-08-12 Sat>
 - 【【神秘博士广播剧熟肉】MR 050b Zagreus - Heartland 腹地-哔哩哔哩】 https://b23.tv/Wdk0e1i
 - 【【神秘博士广播剧熟肉】MR 050c Zagreus - Wasteland 荒野-哔哩哔哩】 https://b23.tv/pHm5uJP
 
-***** [#D] Living Legend (7.4) :P2003:
-**** MR part2 :scripted:2CD:
 ***** BLOCK [#A] 52. Scherzo :Charley:plot_yes:P2003:bilibili:
 :PROPERTIES:
 :rating:   8.6
@@ -82,6 +80,8 @@ CLOSED: [2023-09-02 Sat 23:13] SCHEDULED: <2023-08-12 Sat>
 
 【【神秘博士广播剧熟肉】MR 052 Scherzo 诙谐曲-哔哩哔哩】 https://b23.tv/jMH25le
 
+***** [#D] Living Legend (7.4) :P2003:
+**** MR part2 :Crizz:scripted:2CD:
 ***** CANCEL [#F] +053. The Creed of the Kromon+
 CLOSED: [2021-03-22 Mon 22:35]
 :PROPERTIES:
@@ -692,7 +692,10 @@ SCHEDULED: <2023-12-30 Sat>
 ***** Albie's Angels
 *** 8DA (2023- )
 **** 📂Audacity :P2023_11:plot_yes:
-***** The Devouring :1CD:
+***** READY The Devouring :1CD:bilibili:
+
+【【广播剧汉化】愤怒的纠缠 Audacity 101 The Devouring-哔哩哔哩】 https://b23.tv/j9alyHV
+
 ***** The Great Cyber-War :2CD:Cybermen:Charley:
 **** 📂In the Bleak Midwinter :P2023_12:1CD:
 ***** Twenty-Four Doors in December
@@ -1189,11 +1192,11 @@ CLOSED: <2020-12-17 Thu 19:57>
 *** DONE PROSE: The Third Wise Man :War_Doctor:
 CLOSED: <2019-10-29 Tue 13:59>
 
-** 8. A Warrior emerges
+** 8. A Warrior emerges :War_Doctor:
 *** DONE The Night of the Doctor
 CLOSED: [2020-09-23 Wed 14:01]
 
-*** _📂WDB vol.1 Forged in Fire_ :P2021_06:War_Doctor:🎧:
+*** _📂WDB vol.1 Forged in Fire_ :P2021_06:🎧:
 **** 2DONE [#B] 1.1 - Light the Flame :D2022_06_doctor:
 CLOSED: [2022-07-15 Fri 21:16] SCHEDULED: <2022-06-25 Sat>
 :PROPERTIES:
@@ -1217,7 +1220,7 @@ CLOSED: [2022-11-12 Sat 19:31] SCHEDULED: <2022-10-16 Sun>
 The young looking War Doctor makes a decision. In one outcome, he ends up a Dalek spy.
 
 *** DONE The Clockwise War (comic) :War_Doctor:12th_Dr:
-*** _📂WDB vol.2 Warbringer_ :War_Doctor:P2021_12:🎧:
+*** _📂WDB vol.2 Warbringer_ :Case:P2021_12:🎧:
 **** START [#E] 2.1 - Consequences :DW2023_01_doctor:
 SCHEDULED: <2023-01-31 Tue>
 :PROPERTIES:
@@ -1236,22 +1239,22 @@ CLOSED: [2023-06-15 Thu 08:36] SCHEDULED: <2023-06-10 Sat>
 :rating:   7.3
 :END:
 
-*** _📂WDB vol.3 Battlegrounds_ :War_Doctor:P2022_05:🎧:
-**** [#C] 3.1 - The Keeper of Light
+*** _📂WDB vol.3 Battlegrounds_ :P2022_05:🎧:
+**** [#D] 3.1 - The Keeper of Light
 **** [#E] 3.2 - Temmosus
 **** [#B] 3.3 - Rewind
-*** _📂WDB vol.4 He Who Fights Monsters_ :War_Doctor:P2022_12:🎧:
+*** _📂WDB vol.4 He Who Fights Monsters_ :P2022_12:🎧:
 **** [#B] 4.1 The Mission
 **** [#B] 4.2 The Abyss
 **** [#B] 4.3 The Horror
-*** 📂WDB vol.5 Comrades-in-Arms :P2023_05:🎧:
-**** 5.1 A Mother's Love
-**** 5.2 Berserker
-**** 5.3 Memnos
-*** TBR WDB vol.6 Enemy Mine :P2023_12:
+*** 📂WDB vol.5 Comrades-in-Arms :Case:P2023_05:🎧:
+**** [#D] 5.1 A Mother's Love
+**** [#D] 5.2 Berserker
+**** [#C] 5.3 Memnos
+*** 📂WDB vol.6 Enemy Mine :Case:P2023_12:
 **** 6.1 The Hybrid’s Choice
 **** 6.2 Fear Nothing
-**** 6.3 Exit Strategy
+**** 6.3 Exit Strategy :8th_Dr:
 *** Ambush (comic)
 ** 9. The Master flees
 *** 2DONE [#A] WM1.3 The Sky Man :D2021_09_extra:🎧:
@@ -1268,33 +1271,67 @@ CLOSED: [2020-12-24 Thu 15:51] SCHEDULED: <2021-09-28 Tue>
 
 ** 10. The Malignant threat
 *** 11DY2 (comics)
-** 11. The weary soldier (War Doctor)
+** 11. The weary soldier (War Doctor) :War_Doctor:
 *** 📂The War Doctor vol.1 :scripted:🎧:P2015:
-**** [#B] 1.1 - The Innocent
-**** [#C] 1.2 - The Thousand Worlds
-**** [#B] 1.3 - The Heart of the Battle
+**** READY [#B] 1.1 - The Innocent :bilibili:
+
+【【神秘博士广播剧汉化】The War Doctor 战争博士 101 The Innocent-哔哩哔哩】 https://b23.tv/iEKp6pd
+
+**** READY [#C] 1.2 - The Thousand Worlds :bilibili:
+
+【【神秘博士广播剧汉化】 The War Doctor 战争博士 102 The Thousand Worlds-哔哩哔哩】 https://b23.tv/URKOOIY
+
+**** READY [#B] 1.3 - The Heart of the Battle :bilibili:
+
+【【神秘博士广播剧汉化】The War Doctor 战争博士 103 The Heart of the Battle-哔哩哔哩】 https://b23.tv/VlWXVCg
+
 *** 📂The War Doctor vol.2 :scripted:🎧:P2016:
-**** 3QTR [#C] 2.1 - Legion of the Lost :DW2023_10_doctor:
+**** 3QTR [#C] 2.1 - Legion of the Lost :bilibili:DW2023_10_doctor:
 CLOSED: [2023-10-26 Thu 08:21] SCHEDULED: <2023-10-29 Sun>
 
-**** [#E] 2.2 - A Thing of Guile
-**** 3QTR [#A] 2.3 - The Neverwhen :DW2023_12_doctor:
+【【神秘博士广播剧汉化】 战争博士 The War Doctor 201 Legion of the Lost-哔哩哔哩】 https://b23.tv/NJpCjOt
+
+**** READY [#E] 2.2 - A Thing of Guile :bilibili:
+
+【【神秘博士广播剧翻译】战争博士 The War Doctor 202 a thing of guile-哔哩哔哩】 https://b23.tv/EhOYEfa
+
+**** 3QTR [#A] 2.3 - The Neverwhen :DW2023_12_doctor:bilibili:
 CLOSED: [2023-12-13 Wed 08:37] SCHEDULED: <2023-12-16 Sat>
 
+【【神秘博士广播剧翻译】战争博士 The War Doctor 203 The Neverwhen-哔哩哔哩】 https://b23.tv/jkJamuv
+
 *** 📂The War Doctor vol.3 :scripted:🎧:P2016:
-**** [#C] 3.1 - The Shadow Vortex
-**** [#C] 3.2 - The Eternity Cage
-**** [#D] 3.3 - Eye of Harmony
+**** READY [#C] 3.1 - The Shadow Vortex :bilibili:
+
+【【神秘博士广播剧汉化】The War Doctor 战争博士 301 The Shadow Vortex-哔哩哔哩】 https://b23.tv/uA4IMD3
+
+**** READY [#C] 3.2 - The Eternity Cage :bilibili:
+
+【【神秘博士广播剧汉化】The War Doctor 战争博士 302 The Eternity Cage-哔哩哔哩】 https://b23.tv/e4jM8H6
+
+**** READY [#D] 3.3 - Eye of Harmony :bilibili:
+
+【【神秘博士广播剧汉化】The War Doctor 战争博士 303 The Eye of Harmony-哔哩哔哩】 https://b23.tv/ydAzkK1
+
 *** 📂The War Doctor vol.4 :scripted:🎧:P2017:
-**** [#C] 4.1 - Pretty Lies
-**** [#C] 4.2 - The Lady of Obsidian
-**** [#D] 4.3 - The Enigma Dimension
+**** READY [#C] 4.1 - Pretty Lies :bilibili:
+
+【【神秘博士广播剧翻译】战争博士 The War Doctor 401 Pretty Lies-哔哩哔哩】 https://b23.tv/v9ZM2Ds
+
+**** READY [#C] 4.2 - The Lady of Obsidian :bilibili:
+
+【【神秘博士广播剧翻译】 战争博士 The War Doctor 402 The Lady Of Obsidian-哔哩哔哩】 https://b23.tv/CzHAoeG
+
+**** READY [#D] 4.3 - The Enigma Dimension :bilibili:
+
+【【神秘博士广播剧翻译】战争博士 The War Doctor 403 The Enigma Dimension-哔哩哔哩】 https://b23.tv/JRehZlk
+
 *** READY [#A] Engines of War /战争引擎 (novel) :📔:己购:
 :PROPERTIES:
 :rating:   4.04
 :END:
 
-*** The Bidding War (comic) :War_Doctor:9th_Dr:
+*** The Bidding War (comic) :9th_Dr:
 ** 12. The Final Day
 *** DONE The Last Day
 *** Sky Jacks (comic)

@@ -163,6 +163,7 @@ CLOSED: [2023-03-29 Wed 08:54] SCHEDULED: <2023-03-04 Sat>
 **** 📂2023. The Demon Song :Dodo:P2023_02:
 ***** 23.1 The Demon Song :1CD:
 ***** 23.2 The Incherton Incident :2CD:
+**** TBR 2024. Fugitive of the Daleks :P2024_01:Vicki:
 *** CC :🗣:
 **** Sara Kingdom trilogy :Sara_Kingdom:
 ***** HALF [#A] CC3.5 - Home Truths :plot_yes_dwg:DW2023_01_doctor:
@@ -1464,10 +1465,6 @@ thetimescales 上32/33认为需要先听前面的故事
 :END:
 
 ***** CANCEL [#D] CC3.4 - Empathy Games †7.0
-:PROPERTIES:
-:rating 7.0: 
-:END:
-
 ***** [#D] CC4.10 - The Time Vampire :Leela:
 :PROPERTIES:
 :rating:   7.2
@@ -1671,7 +1668,11 @@ CLOSED: [2021-07-27 Tue 23:10] SCHEDULED: <2021-12-03 Fri>
 
 【【神秘博士广播剧熟肉】The Stuff of Nightmares 304 If I Should Die Before I Wake 若我在沉睡中死去-哔哩哔哩】 https://b23.tv/TJmTSCZ
 
-*** TBR CDNM vol.4 Broken Memories :P2023_10:
+*** TBR CDNM vol.4 Broken Memories :P2024_04:
+**** 4.1 Invasion of the Body Stealers :4th_Dr:
+**** 4.2 The Queen of Clocks :6th_Dr:Clockwork_Droids:
+**** 4.3 The Silent Priest :Silents:7th_Dr:
+**** 4.4 The Silent City :Silents:8th_Dr:
 ** The Legacy of Time :P2019:
 *** HALF [#B] Lies in Ruins :8th_Dr:River:Benny:
 *** CANCEL [#E] The Split Infinitive :7th_Dr:Ace:CM:
