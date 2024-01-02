@@ -237,12 +237,8 @@ CLOSED: [2023-09-24 Sun 20:24] SCHEDULED: <2023-09-24 Sun>
 ***** DONE 5x13 :benben:
 CLOSED: [2023-10-01 Sun 15:53] SCHEDULED: <2023-09-30 Sat>
 
-***** NOW 5x14
-SCHEDULED: <2023-10-08 Sun>
-
-***** NOW 5x15
-SCHEDULED: <2023-10-14 Sat>
-
+***** LATER 5x14
+***** LATER 5x15
 **** S6 :P2018:
 
 21 episodes
@@ -334,9 +330,7 @@ CLOSED: [2022-09-30 Fri 08:08]
 **** DONE ep3 The Sunningdale Mystery
 CLOSED: [2023-10-11 Wed 22:28] SCHEDULED: <2023-10-15 Sun>
 
-**** NOW ep4 The Clergyman's Daughter
-SCHEDULED: <2023-10-29 Sun>
-
+**** LATER ep4 The Clergyman's Daughter
 **** ep5 Finessing the King
 **** ep6 The Ambassador's Boots
 *** 短篇集 The.Agatha.Christie.Hour

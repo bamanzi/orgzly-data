@@ -993,7 +993,8 @@ CLOSED: [2022-09-09 Fri 20:06] SCHEDULED: <2022-09-10 Sat>
 **** DONE 1x10
 CLOSED: [2022-09-16 Fri 20:31]
 
-*** DOING Pennyworth S2 :Pennyworth:
+*** DONE Pennyworth S2 :Pennyworth:
+CLOSED: [2023-12-25 Mon 20:21]
 
 10 eps
 
@@ -1015,8 +1016,18 @@ CLOSED: [2023-11-22 Wed 22:19]
 **** DONE 2x06
 CLOSED: [2023-11-28 Tue 23:53]
 
-**** 2x07
-**** 2x08
+**** DONE 2x07
+CLOSED: [2023-12-18 Mon 20:39] SCHEDULED: <2023-12-21 Thu>
+
+**** DONE 2x08
+CLOSED: [2023-12-18 Mon 22:06] SCHEDULED: <2023-12-24 Sun>
+
+**** DONE 2x09
+CLOSED: [2023-12-23 Sat 09:38]
+
+**** DONE 2x10
+CLOSED: [2023-12-25 Mon 20:21] SCHEDULED: <2023-12-30 Sat>
+
 *** Harley Quinn (animated) :Harley:
 
 13 eps
@@ -1179,8 +1190,8 @@ CLOSED: [2023-10-30 Mon 18:37] SCHEDULED: <2022-08-21 Sun>
 ****** DONE 1x08
 CLOSED: [2023-11-08 Wed 19:25]
 
-****** NOW 1x09
-****** NOW 1x10
+****** LATER 1x09
+****** LATER 1x10
 ****** NEXT 1x11
 ****** NEXT 1x12
 ****** 1x13

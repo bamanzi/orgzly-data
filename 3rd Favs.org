@@ -3,10 +3,18 @@
 *** DONE Life on Mars s1
 CLOSED: <2022-11-20 Sun 08:19>
 
-*** Life On Mars S2
+*** Life on Mars S2
 **** DONE 2x01
 CLOSED: [2023-12-16 Sat 23:00]
 
+**** DONE 2x02
+CLOSED: [2023-12-21 Thu 13:43]
+
+**** DONE 2x03
+CLOSED: [2023-12-30 Sat 09:15]
+
+**** NOW 2x04
+**** NOW 2x05
 ** Ashes to ashes
 *** Ashes to Ashes s1
 **** DONE 1x01

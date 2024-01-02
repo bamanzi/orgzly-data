@@ -155,10 +155,8 @@ CLOSED: [2022-11-12 Sat 10:50]
 **** DONE 3x19
 CLOSED: [2022-11-14 Mon 08:01]
 
-**** DONE 3x20
+**** DONE 3x20 :ascension:
 CLOSED: [2022-11-21 Mon 08:01]
-
-Ascension
 
 **** DONE 3x21
 CLOSED: [2022-11-24 Thu 22:13]
@@ -237,9 +235,20 @@ CLOSED: <2023-12-17 Sun 14:52>
 **** DONE [#A] 5x01 Enemies
 CLOSED: [2023-12-17 Sun 15:35]
 
-**** 5x02
-**** 5x03
-**** 5x04
+**** DONE 5x02
+CLOSED: [2023-12-22 Fri 23:09]
+
+**** DONE 5x03 Ascension :ascension:
+CLOSED: [2023-12-23 Sat 19:39]
+
+**** DONE 5x04 Fifth Man
+CLOSED: [2024-01-01 Mon 14:11]
+
+**** DONE 5x05
+CLOSED: [2024-01-01 Mon 19:59]
+
+**** NOW 5x06
+**** NOW 5x07
 *** ...
 *** SG-1 S10 :P2006:
 *** Stargate: The Ark of Truth :P2008:
@@ -412,10 +421,18 @@ CLOSED: [2023-12-08 Fri 08:20]
 **** DONE 2x08
 CLOSED: [2023-12-11 Mon 08:05]
 
-**** NOW 2x09
-**** NOW 2x10
-**** 2x11
-**** 2x12
+**** DONE 2x09
+CLOSED: [2023-12-19 Tue 08:10]
+
+**** DONE 2x10/11
+CLOSED: [2023-12-24 Sun 17:19]
+
+**** DONE 2x12
+CLOSED: [2023-12-27 Wed 19:16]
+
+**** DONE 2x13
+CLOSED: [2023-12-29 Fri 20:15]
+
 * The Expanse :expense:
 ** DONE S1
 ** DONE S2
