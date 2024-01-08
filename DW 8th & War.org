@@ -766,7 +766,7 @@ http://blog.sina.cn/dpool/blog/s/blog_6c777581010185u0.html?type=2
 *** Radio Times
 *** DWM
 **** Endgame
-***** DONE Endgame (DWM244-247) :Izzy:Max:ToyMaker:
+***** DONE Endgame (DWM244-247) :Izzy:Max:ToyMaker:DW2023_Q4:
 ***** DONE The Keep (DWM248-249) :Izzy:
 ***** DONE A Life of Matter and Death (DWM250) :Izzy:
 ***** DONE Fire and Brimstone (DWM251-255) :Izzy:Daleks:
@@ -1352,8 +1352,8 @@ The Siege of Trenzalore is viewed by some as the true final battle of the Time
 ** Currently Unplaced
 *** ST11.4 Death Will Not Part Us :8th_Dr:War_Doctor:9th_Dr:time_war:🎧:
 *** /📂The War Master series 6: Killing Time/ :Master_war:P2021:🎧:scripted:
-**** HALF [#B] WM6.1 - The Sincerest Form of Flattery :DW2023_08_spinoffs:
-SCHEDULED: <2023-09-03 Sun>
+**** DONE [#B] WM6.1 - The Sincerest Form of Flattery :DW2023_08_spinoffs:
+CLOSED: [2023-12-16 Sat 19:21] SCHEDULED: <2023-09-03 Sun>
 
 **** 3QTR [#A] *6.2 - A Quiet Night In* #S :Jo:DW2023_09_spinoffs:
 CLOSED: <2023-09-08 Fri 09:33> SCHEDULED: <2023-09-17 Sun>

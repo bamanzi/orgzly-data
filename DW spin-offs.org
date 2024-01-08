@@ -368,7 +368,8 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 
 ***** BLOCK /50. Absent Friends/ (missing)
 ***** [#A] 50X. The Black Knight (8.6) :Norton:plot_yes:
-***** [#A] 51. The Five People You Kill in Middlebrough :Yvonne:plot_yes:
+***** HALF [#A] 51. The Five People You Kill in Middlebrough :Yvonne:plot_yes:DW2024_01_spinoffs:
+      SCHEDULED: <2024-01-07 Sun>
       :PROPERTIES:
       :rating:   8.5
       :END:
@@ -412,7 +413,9 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
       SCHEDULED: <2023-09-24 Sun>
 
 ***** [#A] 63. Restricted Items Archive Entries 031–049 :Ianto:plot_yes:
-***** [#B] 64. Suckers :Tosh:plot_yes:
+***** [#B] 64. Suckers :Tosh:plot_yes:DW2024_01_spinoffs:
+      SCHEDULED: <2024-01-21 Sun>
+
 ***** [#B] 65X A Postcard from Mr Colchester :Colchester:plot_yes:
 ***** [#D] 65. Death in Venice :Colchester:Ace:plot_yes:
 ***** CANCEL [#E] 66. Torchwood: SUV :Ianto:Tosh:
@@ -448,8 +451,8 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 ***** 3QTR 2. Prodromal: Love :Norton:DW2023_11_spinoffs:
       CLOSED: [2023-11-09 Thu 10:09]
 
-***** 3. Invasion: Kill :DW2023_12_spinoffs:
-      SCHEDULED: <2023-12-24 Sun>
+***** HALF [#B] 3. Invasion: Kill :DW2023_12_spinoffs:
+      SCHEDULED: <2023-12-31 Sun>
 
 **** [#A] special 3: Believe :P2018:3CD:
      :PROPERTIES:
@@ -1115,7 +1118,9 @@ Roberts Master
     :rating:   7.3
     :END:
 
-*** [#D] 8.3 - Jago & Litefoot & Patsy           (7.3)
+*** [#D] 8.3 - Jago & Litefoot & Patsy           (7.3) :DW2024_01_spinoffs:
+    SCHEDULED: <2024-01-21 Sun>
+
 *** [#C] 8.4 - Higson & Quick                    (7.5)
 ** J&L series 9 :P2015:
 *** [#B] 9.1 - The Flying Frenchmen              (8.1)
@@ -1455,6 +1460,7 @@ http://drwhoguide.com/bs_a18.htm
      :END:
 
 **** [#B] 1.4 Judgement Day :Jack_McSpringheel:Ruth_Leonidas:DW2024_01_spinoffs:
+     SCHEDULED: <2024-01-14 Sun>
      :PROPERTIES:
      :rating:   8.3
      :END:
@@ -1682,7 +1688,8 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
      :rating:   7.2
      :END:
 
-**** NEXT [#B] 2.4 - Too Many Masters :Monk:DW2024_01_spinoffs:
+**** NEXT [#B] 2.4 - Too Many Masters :Monk:plot_no:DW2024_01_spinoffs:
+     SCHEDULED: <2024-01-07 Sun>
      :PROPERTIES:
      :rating:   8.2
      :END:
@@ -2138,7 +2145,7 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
     :rating:   7.5
     :END:
 
-*** NOW [#C] 1.2 Earthfall :DW2023_10_spinoffs:
+*** OVERDUE [#C] 1.2 Earthfall :DW2023_10_spinoffs:
     SCHEDULED: <2023-10-26 Thu>
     :PROPERTIES:
     :rating:   7.8
@@ -2150,7 +2157,8 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
     :rating:   7.9
     :END:
 
-*** [#B] 1.4	 Armageddon
+*** [#B] 1.4	 Armageddon :DW2024_01_spinoffs:
+    SCHEDULED: <2024-01-14 Sun>
     :PROPERTIES:
     :rating:   8.3
     :END:

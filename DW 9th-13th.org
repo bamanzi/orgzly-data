@@ -187,7 +187,14 @@ https://ninthdoctoradventures.wordpress.com/episodes/
 
 In the aftermath of the Time War, the Doctor has no time to mourn. But how can he even begin to take ahold of the situation if he cannot face his own reflection? The human race is in danger of dying. Forever. 
 
-**** TODO #2. Legacy of the Slitheen :DW2024_01_doctor:
+**** TODO #2. Legacy of the Slitheen :Slitheen:DW2024_01_doctor:
+SCHEDULED: <2024-01-06 Sat>
+
+The Doctor is forced to confront one of the most infamous crime families. Bribes, deceit, blackmail and assassinations are rife, with the entire Slitheen dynasty at stake. 
+
+The Doctor - Pete Walsh 
+Kayla - Isabella McCarthy Somerville
+
 ** novels :📔:
 *** DONE [#B] The Stealers of Dreams 盗梦贼 :Rose:Jack:己购:DW2023_Q4:
 CLOSED: <2023-12-17 Sun 22:44> SCHEDULED: <2023-12-31 Sun>
@@ -564,8 +571,8 @@ SCHEDULED: <2023-06-23 Fri 19:51>
 :END:
 
 **** 📂Tenth Doctor Classic Companions :P2022_09:
-***** HALF [#C] 1. Splinters :Leela:bilibili:DW2023_12_doctor:
-SCHEDULED: <2023-12-23 Sat>
+***** 2DONE [#C] 1. Splinters :Leela:bilibili:DW2023_12_doctor:
+CLOSED: [2023-12-29 Fri 22:07] SCHEDULED: <2023-12-23 Sat>
 
 【【神秘博士广播剧熟肉】Tenth Doctor Classic Companions 101 Splinters 碎片-哔哩哔哩】 https://b23.tv/SDB2uFD
 
@@ -808,7 +815,7 @@ https://m.youtube.com/watch?v=7wrZUFIgiNE
 **** [#E] Paradis Lost (BBC) :Clara:1CD:P2020:
 **** [#B] NSA audio #15 The Art of Death :BBC:Amy:Rory:
 **** NEXT [#B] Let it Snow (Tales of Trenzalore #1) :Ice_Warriors:DW2024_01_doctor:
-SCHEDULED: <2023-12-31 Sun>
+SCHEDULED: <2024-01-27 Sat>
 
 ** comics :📚:
 *** IDW
@@ -879,9 +886,15 @@ CLOSED: [2023-02-22 Wed 13:49]
 
  http://tardis.wikia.com/wiki/The_Child_of_Time_(graphic_novel)
 
-***** Supernature (DWM421-423) :Amy:
-***** Planet Bollywood (DWM424) :Amy:
+***** DONE Supernature (DWM421-423) :Amy:DW2023_Q4:
+CLOSED: <2024-01-02 Tue 13:03> SCHEDULED: <2023-12-31 Sun>
+
+***** NOW Planet Bollywood (DWM424) :Amy:DW2023_Q4:
+SCHEDULED: <2024-01-07 Sun>
+
 ***** The Golden Ones (DWM425-428) :Amy:Axos:
+SCHEDULED: <2024-01-07 Sun>
+
 ***** The Professor, the Queen and the Bookshop (DWM429) :Amy:
 ***** The Screams of Death (DWM430-431) :Amy:
 ***** Do Not Go Gentle Into That Good Night (DWM432) :Amy:
@@ -929,7 +942,7 @@ SCHEDULED: <2023-12-30 Sat>
 :END:
 
 *** HALF [#B] The Silent Stars Go By 寂静星辰飞过 (3.95) :已购:Kindle己购:DW2023_Q4:
-SCHEDULED: <2023-12-31 Sun>
+SCHEDULED: <2024-01-07 Sun>
 :PROPERTIES:
 :rating:   3.95
 :END:
@@ -1257,11 +1270,15 @@ CLOSED: [2020-06-23 Tue 14:47]
 
 ***** DONE Mistress of Chaos (DWM543-548)
 ***** DONE The Piggybackers (DWM549-552) :Graham:Yaz:Ryan:DW2023_Q4:
-CLOSED: [2023-12-14 Thu 13:48]
+CLOSED: [2023-12-14 Thu 13:48] SCHEDULED: <2023-12-17 Sun>
 
 **** DWMGN: (pending)
-***** NOW The White Dragon (DWM559-562) :Graham:Yaz:Ryan:DW2023_Q4:
+***** DONE The White Dragon (DWM559-562) :Graham:Yaz:Ryan:DW2023_Q4:
+CLOSED: [2023-12-19 Tue 13:12] SCHEDULED: <2023-12-23 Sat>
+
 ***** NOW The Forest Bride (DWM570-571) :Yaz:DW2023_Q4:
+SCHEDULED: <2024-01-07 Sun>
+
 ***** It's Behind You (DWM572) :Yaz:Dan:
 ***** Hydra's Gate (DWM574-577) :Yaz:Dan:
 ***** Fear of the Future (DWM579) :Yaz:Dan:
