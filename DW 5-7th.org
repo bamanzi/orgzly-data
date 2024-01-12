@@ -1,4 +1,4 @@
-#+TODO: TODO NEXT BLOCK TBR START HALF 3QTR | 2DONE DONE CANCEL
+#+TODO: TODO NEXT BLOCK TBR READY START HALF 3QTR LATER | 2DONE DONE CANCEL
 #+PRIORITIES: A F C
 
 * 5th Doctor :5th_Dr:
@@ -37,40 +37,9 @@ CLOSED: <2021-10-05 Tue 20:27>
 
 https://tardis.fandom.com/wiki/Fifth_Doctor_audio_stories
 
-*** main range 001-050 :scripted:2CD:
-**** The Sirens of Time
-**** Phantasmagoria
-**** [#F] 4. The Land of the Dead
-:PROPERTIES:
-:rating:   5.8
-:END:
-
-**** CANCEL [#F] 8. Red Dawn
-CLOSED: [2021-03-22 Mon 23:19]
-:PROPERTIES:
-:rating:   6.1
-:END:
-
-**** Winter for the Adept
-**** 2DONE 015. The Mutant Phase :Daleks:
-CLOSED: [2021-10-23 Sat 20:14]
-
-**** LATER [#C] 020. Loups-Garoux :Turlough:underrated:
-:PROPERTIES:
-:rating:   7.8
-:END:
-
+*** MR with Peri & Erimeme :scripted:2CD:
 **** DONE 024. The Eye of the Scorpion :Peri:Erimem:D2021_04:
 CLOSED: <2021-05-16 Sun 08:12>
-
-**** Primeval
-**** DONE [#A] 034. Spare Parts :Mondas:Cybermen:plot_yes:
-CLOSED: [2021-03-15 Mon 20:29]
-:PROPERTIES:
-:rating:   9.2
-:END:
-
-Genesis of the Cyberman (Mondas)
 
 **** DONE [#C] 038. The Church and the Crown :Peri:Erimem:DW2022_07_doctor:
 CLOSED: [2022-07-14 Thu 06:48] SCHEDULED: <2022-07-10 Sun>
@@ -84,15 +53,6 @@ CLOSED: [2021-03-22 Mon 23:17]
 :rating:   4.5
 :END:
 
-**** HALF [#B] 44. Creatures of Beauty :Nyssa:plot_no:D2022_02_doctor:
-SCHEDULED: <2022-02-24 Thu>
-:PROPERTIES:
-:rating:   8.2
-:END:
-
-**** [#C] 047. Omega
-**** Zagreus
-*** main range 051-100 :scripted:2CD:
 **** CANCEL [#F] 056. The Axis of Insanity :Erimem:
 CLOSED: [2021-03-22 Mon 23:22]
 :PROPERTIES:
@@ -105,7 +65,6 @@ CLOSED: [2021-03-22 Mon 23:24]
 :rating:   6.3
 :END:
 
-**** The Game
 **** CANCEL [#E] 069. Three's a Crowd :Erimem:
 CLOSED: [2021-06-15 Tue 08:16]
 :PROPERTIES:
@@ -115,22 +74,48 @@ CLOSED: [2021-06-15 Tue 08:16]
 **** 3QTR [#C] 071. The Council of Nicaea :Peri:Erimem:DW2023_03_doctor:
 CLOSED: [2023-03-17 Fri 08:26] SCHEDULED: <2023-03-18 Sat>
 
-**** Singularity
 **** 3QTR [#A] 081. The Kingmaker :Peri:Erimem:4th_Dr:plot_yes_dwg:DW2023_11_doctor:
 CLOSED: [2023-11-26 Sun 14:44] SCHEDULED: <2023-11-29 Wed>
 :PROPERTIES:
 :rating:   8.8
 :END:
 
-
 http://www.drwhoguide.com/who_bf81.htm
 
-**** 2DONE [#D] 087. The Gathering :Cybermen:Tegan:plot_no:D2022_03_doctor:week3:
-CLOSED: [2022-03-27 Sun 12:08] SCHEDULED: <2022-03-30 Wed>
+**** DONE [#B] 99. Son of the Dragon :plot_yes:D2021_05:Peri:Erimem:D2021_05:
+CLOSED: <2021-05-29 Sat 08:11>
 :PROPERTIES:
-:rating:   7.0
+:rating:   8.4
 :END:
 
+**** START [#E] 102. The Mind's Eye / Mission of the Viyrans :Viyrans:Peri:D2021_04:
+**** [#C] 104. The Bride of Peladon :Peri:Erimem:
+*** MR with Nyssa :Nyssa:scripted:2CD:
+**** CANCEL [#F] 4. The Land of the Dead
+:PROPERTIES:
+:rating:   5.8
+:END:
+
+**** CANCEL [#E] 010. Winter for the Adept
+**** 2DONE 015. The Mutant Phase :Daleks:
+CLOSED: [2021-10-23 Sat 20:14]
+
+**** [#D] 026. Primeval
+**** DONE [#A] 034. Spare Parts :Mondas:Cybermen:plot_yes:
+CLOSED: [2021-03-15 Mon 20:29]
+:PROPERTIES:
+:rating:   9.2
+:END:
+
+Genesis of the Cyberman (Mondas)
+
+**** HALF [#B] 44. Creatures of Beauty :Nyssa:plot_no:D2022_02_doctor:
+SCHEDULED: <2022-02-24 Thu>
+:PROPERTIES:
+:rating:   8.2
+:END:
+
+**** [#D] 066. The Game
 **** 📂91. Circular Time :plot_yes:Nyssa:short:
 ***** [#E] 91a. Spring
 ***** [#C] 91b. Summer
@@ -150,47 +135,24 @@ CLOSED: [2021-03-22 Mon 23:19]
 :rating:   5.8
 :END:
 
-**** CANCEL [#E] Exotron / Urban Myths
-CLOSED: [2021-03-22 Mon 23:23]
-:PROPERTIES:
-:rating:   6.2
-:END:
-
-**** DONE [#B] 99. Son of the Dragon :plot_yes:D2021_05:Peri:Erimem:D2021_05:
-CLOSED: <2021-05-29 Sat 08:11>
-:PROPERTIES:
-:rating:   8.4
-:END:
-
-**** The 100 Days of the Doctor
-*** main range 101-150 :scripted:2CD:
-**** START [#E] 102. The Mind's Eye / Mission of the Viyrans :Viyrans:Peri:D2021_04:
-**** [#C] 104. The Bride of Peladon :Peri:Erimem:
-**** 3QTR [#C] 107. The Haunting of Thomas Brewster :D2021_12_doctor:week4:
+**** 3QTR [#C] 107. The Haunting of Thomas Brewster :D2021_12_doctor
 CLOSED: [2021-12-28 Tue 14:32] SCHEDULED: <2021-12-26 Sun>
 :PROPERTIES:
 :rating:   7.9
 :END:
 
-**** CANCEL [#E] The Boy That Time Forgot
-CLOSED: [2021-03-22 Mon 23:24]
-:PROPERTIES:
-:rating:   6.3
-:END:
-
-**** CANCEL [#E] 113. Time Reef / A Perfect World
+**** CANCEL [#E] 110. The Boy That Time Forgot :Nyssa:Adric:
+**** CANCEL [#E] 113a. Time Reef
 CLOSED: [2021-03-22 Mon 23:20]
 :PROPERTIES:
 :rating:   6.1
 :END:
 
-**** [#E] 117. The Judgement of Isskar :Zara:Abby:Ice_Warriors:
-**** [#D] 118. The Destroyer of Delights :Zara:Abby:
+**** [#D] 113b. A Perfect World
 :PROPERTIES:
 :rating:   7.0
 :END:
 
-**** [#F] 119. The Chaos Pool :Zara:Abby:
 **** [#C] 127. Castle of Fear :Nyssa:
 **** 2DONE [#B] 128. The Eternal Summer :plot_yes:Nyssa:❤:
 CLOSED: [2021-06-17 Thu 23:01]
@@ -198,48 +160,67 @@ CLOSED: [2021-06-17 Thu 23:01]
 :rating:   8.4
 :END:
 
-**** Plague of the Daleks
+**** [#D] 129. Plague of the Daleks
+**** CANCEL [#E] 137. The Whispering Forest
+**** [#D] 138. The Cradle of the Snake
+**** 📂142. The Demons of Red Lodge and Other Stories :Nyssa:short:
+***** The Demons of Red Lodge
+***** The Entropy Composition
+***** Doing Time
+***** Special Features
+**** [#D] 168. 1001 Nights
+***** [#D] 1001 Nights (7.2)
+***** [#E] The Interplanetarian (6.7)
+***** [#D] Smuggling Tales (7.1)
+***** [#D] My Brother's Keeper (7.4)
+**** 2DONE [#B] MR178. 1963: Fanfare for the Common Men (8.2) :plot_yes:D2021_07_dr:
+CLOSED: [2021-07-01 Thu 22:54]
+
+**** CANCEL [#E] 185. Moonflesh (6.1)
+**** CANCEL [#E] 186. Tomb Ship (6.8)
+CLOSED: [2021-02-27 Sat 18:02]
+
+**** CANCEL [#E] 187. Masquerade (6.2)
+**** CANCEL [#E] 224a. Alien Heart (6.6)
+:PROPERTIES:
+:rating:   6.6
+:END:
+
+**** [#A] 224b. Dalek Soul (8.5) :plot_no:short:
+:PROPERTIES:
+:rating:   8.5
+:END:
+
+*** MR with Nyssa & Tegan :Nyssa:Tegan:scripted:2CD:
 **** 2DONE [#B] MR136. Cobwebs :D2021_08_dr:
 CLOSED: <2021-08-01 Sun 00:10>
 :PROPERTIES:
 :rating:   8.1
 :END:
 
-**** The Whispering Forest
-**** The Cradle of the Snake
-**** 📂142. The Demons of Red Lodge and Other Stories :Nyssa:short:
-***** The Demons of Red Lodge
-***** The Entropy Composition
-***** Doing Time
-***** Special Features
+**** CANCEL [#E] MR137. The Whispering Forest
+**** [#D] MR138. The Cradle of the Snake
 **** [#D] 146. Heroes of Sontar
 :PROPERTIES:
 :rating:   7.3
 :END:
 
-**** Kiss of Death
+**** CANCEL [#E] 147. Kiss of Death
 **** CANCEL [#E] 148. Rat Trap
 CLOSED: [2021-03-22 Mon 23:16]
 :PROPERTIES:
 :rating:   6.7
 :END:
 
-*** main range 151-200 :scripted:2CD:
 **** 3QTR [#B] MR159. The Emerald Tiger (8.2) :plot_yes:DW2023_07_doctor:
 CLOSED: <2023-07-07 Fri 20:32> SCHEDULED: <2023-07-05 Wed>
 
-**** [#D] 160. The 160. Jupiter Conjunction (7.3)
+**** [#D] 160. The Jupiter Conjunction (7.3)
 **** BLOCK [#B] 161. The Butcher of Brisbane (8.0) :plot_yes:
 :PROPERTIES:
 :rating:   8.0
 :END:
 
-**** [#C] 165. The Burning Prince (7.9)
-**** [#D] 168. 1001 Nights
-***** [#D] 1001 Nights (7.2)
-***** [#E] The Interplanetarian (6.7)
-***** [#D] Smuggling Tales (7.1)
-***** [#D] My Brother's Keeper (7.4)
 **** CANCEL [#E] 172. Eldrad Must Die! (6.5)
 CLOSED: [2021-02-27 Sat 18:02]
 
@@ -247,18 +228,6 @@ CLOSED: [2021-02-27 Sat 18:02]
 **** [#B] 174. Prisoners of Fate (8.2) :plot_yes:Nyssa:Tegan:
 
 应该先听 MR136 Cobwebs
-
-**** 2DONE [#B] MR178. 1963: Fanfare for the Common Men (8.2) :plot_yes:D2021_07_dr:
-CLOSED: [2021-07-01 Thu 22:54]
-
-**** CANCEL [#E] 185. Moonflesh (6.1)
-CLOSED: [2021-02-27 Sat 18:02]
-
-**** CANCEL [#E] 186. Tomb Ship (6.8)
-CLOSED: [2021-02-27 Sat 18:02]
-
-**** CANCEL [#E] 187. Masquerade (6.2)
-CLOSED: [2021-02-27 Sat 18:02]
 
 **** CANCEL [#E] 195. Mistfall (6.4)
 CLOSED: [2021-02-27 Sat 18:02]
@@ -269,10 +238,6 @@ CLOSED: [2021-02-27 Sat 18:02]
 :rating:   8.1
 :END:
 
-**** HALF [#B] MR200. The Secret History (8.2) :5th_Dr:plot_yes:Steven:Vicki:Monk:D2021_09_extra:
-SCHEDULED: <2021-09-15 Wed>
-
-*** main range 201-250 :scripted:2CD:
 **** [#C] 208. The Waters of Amsterdam (7.9)
 **** DONE [#A] 209. Aquitaine (8.8) :Tegan:Nyssa:P2016:plot_yes:
 CLOSED: <2021-03-12 Fri 19:58>
@@ -281,52 +246,11 @@ CLOSED: <2021-03-12 Fri 19:58>
 :END:
 
 **** BLOCK [#B] 210. The Peterloo Massacre (8.2) :P2016:plot_yes:
-**** 3QTR [#D] 211. And You Will Obey Me (7.2) :Master_decayed:D2021_11_master:
-CLOSED: <2021-11-19 Fri 17:35> SCHEDULED: <2021-11-13 Sat>
-:PROPERTIES:
-:rating:   7.2
-:END:
-
-**** 3QTR [#C] 212. Vampire of the Mind :Master_bald:D2021_11_master:plot_no:
-CLOSED: <2021-11-26 Fri 14:14> SCHEDULED: <2021-11-20 Sat>
-:PROPERTIES:
-:rating:   7.5
-:END:
-
-**** 📂217. The Memory Bank and Other Stories :short:
-***** [#D] The Memory Bank (7.2)
-***** [#E] The Last Fairy Tale (6.9)
-***** BLOCK [#B] 217c. Repeat Offender (8.1) :plot_yes:½CD:
-:PROPERTIES:
-:rating:   8.1
-:END:
-
-***** [#D] The Becoming (7.0)
-**** CANCEL [#D] 221. The Star Men (7.2)
-CLOSED: [2021-02-27 Sat 18:03]
-
+**** [#D] 221. The Star Men (7.2)
 **** CANCEL [#E] 222. The Contingency Club (6.9)
 CLOSED: [2021-02-27 Sat 18:02]
 
-**** CANCEL [#D] 223. Zaltys (7.1)
-CLOSED: [2021-02-27 Sat 18:03]
-
-**** [#E] 224a. Alien Heart (6.6)
-:PROPERTIES:
-:rating:   6.6
-:END:
-
-**** [#A] 224b. Dalek Soul (8.5) :plot_no:short:
-:PROPERTIES:
-:rating:   8.5
-:END:
-
-**** DONE [#A] 230.Time in Office (9.0) :P2017:Tegan:Leela:Gallifrey:plot_yes:
-CLOSED: [2021-04-13 Tue 17:47]
-:PROPERTIES:
-:rating:   9.0
-:END:
-
+**** [#D] 223. Zaltys (7.1)
 **** [#D] 234. Kingdom of Lies (7.4)
 :PROPERTIES:
 :rating:   7.4
@@ -340,6 +264,103 @@ CLOSED: [2021-04-13 Tue 17:47]
 **** [#A] 236. Serpent in the Silver Mask (8.5) :plot_yes:
 :PROPERTIES:
 :rating:   8.5
+:END:
+
+**** [#D] 256. Tartarus
+**** CANCEL [#F] 257a. Interstitial :short:
+**** CANCEL [#F] 257b. Feast of Fear
+**** 2DONE [#B] 258a. Warzone :Tegan:Nyssa:Cybermen:D2022_05_doctor:
+CLOSED: [2022-05-20 Fri 08:12] SCHEDULED: <2022-05-07 Sat>
+:PROPERTIES:
+:rating:   8.1
+:END:
+
+**** HALF [#D] 258b. Conversion :Tegan:Nyssa:Cybermen:D2022_05_doctor:
+SCHEDULED: <2022-05-14 Sat>
+:PROPERTIES:
+:rating:   7.4
+:END:
+
+**** CANCEL [#E] 267b. Madquake :plot_yes:
+:PROPERTIES:
+:rating:   6.8
+:END:
+
+*** MR with Turlough :Turlough:scripted:2CD:
+**** CANCEL [#E] 002. Phantasmagoria
+**** LATER [#C] 020. Loups-Garoux :Turlough:underrated:
+:PROPERTIES:
+:rating:   7.8
+:END:
+
+**** [#D] 076. Singularity
+**** 📂217. The Memory Bank and Other Stories :short:
+***** [#D] The Memory Bank (7.2)
+***** [#E] The Last Fairy Tale (6.9)
+***** BLOCK [#B] 217c. Repeat Offender (8.1) :plot_yes:½CD:
+:PROPERTIES:
+:rating:   8.1
+:END:
+
+***** [#D] The Becoming (7.0)
+**** [#D] 274. The Blazing Hour
+*** MR alone :scripted:2CD:
+**** [#C] 047. Omega
+**** [#C] 165. The Burning Prince (7.9)
+**** 3QTR [#D] 211. And You Will Obey Me (7.2) :Master_decayed:D2021_11_master:
+CLOSED: <2021-11-19 Fri 17:35> SCHEDULED: <2021-11-13 Sat>
+:PROPERTIES:
+:rating:   7.2
+:END:
+
+**** 📂266. Time Apart :short:
+***** 266a. Ghost Station
+***** [#D] 266b. The Bridge Master
+***** [#B] 266c. What Lurks Down Under
+***** CANCEL [#F] 266d. The Dancing Plague
+**** HALF [#C] 267a. Thin Time :underrated:P2020:1CD:11th_Dr:DW2023_01_doctor:
+SCHEDULED: <2023-01-06 Fri 08:38>
+:PROPERTIES:
+:rating:   7.8
+:END:
+
+**** 📂269. Shadow of the Daleks 1 :½CD:
+***** 3QTR [#C] 269a. Aimed at the Body :DW2023_09_spinoffs:
+CLOSED: <2023-09-12 Tue 09:13> SCHEDULED: <2023-09-09 Sat>
+
+***** HALF [#E] 269b. Lightspeed :DW2023_09_spinoffs:
+SCHEDULED: <2023-09-24 Sun>
+
+***** [#E] 269c. The Bookshop at the End of the World
+***** [#B] 269d. Interlude
+**** 📂270. Shadow of the Daleks 2
+***** [#B] 270a. Echo Chamber
+***** [#D] 270b. Towards Zero
+***** [#E] 270c. Castle Hydra
+***** [#D] 270d. Effect and Cause
+*** MR misc :scripted:2CD:
+**** The Sirens of Time
+**** Zagreus
+**** 2DONE [#D] 087. The Gathering :Cybermen:Tegan:plot_no:D2022_03_doctor
+CLOSED: [2022-03-27 Sun 12:08] SCHEDULED: <2022-03-30 Wed>
+:PROPERTIES:
+:rating:   7.0
+:END:
+
+CLOSED: [2021-03-22 Mon 23:23]
+
+**** CANCEL [#E] 095. Exotron / Urban Myths :Peri:
+:PROPERTIES:
+:rating:   6.2
+:END:
+
+**** HALF [#B] MR200. The Secret History (8.2) :5th_Dr:plot_yes:Steven:Vicki:Monk:D2021_09_extra:
+SCHEDULED: <2021-09-15 Wed>
+
+**** DONE [#A] 230.Time in Office (9.0) :P2017:Tegan:Leela:Gallifrey:plot_yes:
+CLOSED: [2021-04-13 Tue 17:47]
+:PROPERTIES:
+:rating:   9.0
 :END:
 
 **** CANCEL [#F] 237. The Helliax Rift (5.8)
@@ -357,62 +378,17 @@ CLOSED: [2021-02-27 Sat 18:02]
 **** CANCEL [#E] 249 The Kamelion Empire (6.6)
 CLOSED: [2021-02-27 Sat 18:02]
 
-*** main range 251- :scripted:
-**** Tartarus
-**** Interstitial / Feast of Fear :short:
-**** 2DONE [#B] 258a. Warzone :Tegan:Nyssa:Cybermen:D2022_05_doctor:
-CLOSED: [2022-05-20 Fri 08:12] SCHEDULED: <2022-05-07 Sat>
+*** 5DA with Nyssa & Tegan
+**** The Lost Stories
+***** [#B] 3.1 - The Elite :Nyssa:Tegan:Daleks:2CD:P2011:
 :PROPERTIES:
-:rating:   8.1
+:rating:   8.3
 :END:
 
-**** HALF [#D] 258b. Conversion :Tegan:Nyssa:Cybermen:D2022_05_doctor:
-SCHEDULED: <2022-05-14 Sat>
-:PROPERTIES:
-:rating:   7.4
-:END:
-
-**** Time Apart :short:
-***** Ghost Station
-***** The Bridge Master
-***** What Lurks Down Under
-***** The Dancing Plague
-**** HALF [#C] 267a. Thin Time :underrated:P2020:1CD:11th_Dr:DW2023_01_doctor:
-SCHEDULED: <2023-01-06 Fri 08:38>
-:PROPERTIES:
-:rating:   7.8
-:END:
-
-**** [#E] 267b. Madquake :plot_yes:
-:PROPERTIES:
-:rating:   6.8
-:END:
-
-**** 269. Shadow of the Daleks 1 :½CD:
-***** 3QTR [#C] 269a. Aimed at the Body :DW2023_09_spinoffs:
-CLOSED: <2023-09-12 Tue 09:13> SCHEDULED: <2023-09-09 Sat>
-
-***** HALF [#E] 269b. Lightspeed :DW2023_09_spinoffs:
-SCHEDULED: <2023-09-24 Sun>
-
-***** [#E] 269c. The Bookshop at the End of the World
-***** [#B] 269d. Interlude
-**** 270. Shadow of the Daleks 2
-***** [#B] 270a. Echo Chamber
-***** [#D] 270b. Towards Zero
-***** [#E] 270c. Castle Hydra
-***** [#D] 270d. Effect and Cause
-**** The Blazing Hour
-*** 5DA
-**** The Fifth Doctor Box Set :2CD:Nyssa:Tegan:Adric:
+***** [#D] 3.3 - The Children of Seth :Nyssa:Tegan:2CD:P2011:
+**** The Fifth Doctor Box Set :2CD:Nyssa:Tegan:Adric:P2014:
 ***** [#A] Psychodrome :Adric:Nyssa:Tegan:plot_yes:
 ***** [#A] Iterations of I :Adric:Nyssa:Tegan:plot_yes:
-**** Wicked Sisters :1CD:P2020:Leela:Zara:Abby:
-***** HALF [#C] 5DWS1.1 The Garden of Storms :DW2023_05_doctor:
-SCHEDULED: <2023-05-20 Sat>
-
-***** [#B] The Moonrakers :Sontarans:DW2024_01_doctor:
-***** CANCEL [#E] The People Made of Smoke
 **** 📂2021. The Lost Resort and Other Stories :Nyssa:Tegan:Marc:plot_yes:P2021_09:
 ***** [#A] The Lost Resort :2CD:plot_yes:
 ***** CANCEL [#E] The Perils of Nellie Bly
@@ -429,14 +405,23 @@ CLOSED: [2022-11-27 Sun 23:36] SCHEDULED: <2022-11-16 Wed>
 **** 📂2023B. In the Night :Nyssa:Tegan:P2023_09:
 ***** 1. Pursuit of the Nightjar :2CD:
 ***** 2. Resistor :1CD:
-*** misc
-**** The Lost Stories
-***** [#B] 3.1 - The Elite :Nyssa:Tegan:Daleks:2CD:
+*** with Zara & Abby
+**** [#E] 117. The Judgement of Isskar :Zara:Abby:Ice_Warriors:
+**** [#D] 118. The Destroyer of Delights :Zara:Abby:
 :PROPERTIES:
-:rating:   8.3
+:rating:   7.0
 :END:
 
-***** [#D] 3.3 - The Children of Seth :Nyssa:Tegan:2CD:
+**** [#F] 119. The Chaos Pool :Zara:Abby:
+**** Wicked Sisters :1CD:P2020:Leela:Zara:Abby:
+***** HALF [#C] 5DWS1.1 The Garden of Storms :DW2023_05_doctor:
+SCHEDULED: <2023-05-20 Sat>
+
+***** [#B] The Moonrakers :Sontarans:DW2024_01_doctor:
+SCHEDULED: <2024-01-20 Sat>
+
+***** CANCEL [#E] The People Made of Smoke
+*** misc
 **** Classic Doctors, New Monsters :1CD:
 ***** 3QTR [#B] 1.1 Fallen Angles :Weeping_Angels:scripted:DW2022_09_doctor:
 CLOSED: [2022-09-23 Fri 08:27] SCHEDULED: <2022-09-08 Thu>
@@ -506,7 +491,7 @@ CLOSED: [2022-12-15 Thu 08:21]
 
 **** [#C] Vengeance on Varos (7.7)
 **** [#D] The Mark of the Rani (6.9)
-**** [#C] The Two Doctors (7.5)
+**** [#C] The Two Doctors (7.5) :2nd_Dr:
 **** CANCEL [#E] Timelash (5.5)
 **** [#C] Revelation of the Daleks (7.8)
 *** Season 23
@@ -522,14 +507,17 @@ CLOSED: [2021-12-12 Sun 17:32]
 
 *** Season 24
 **** Time and the Rani
-*** TODO special: Real Time :Cybermen:Evelyn:DW2023_Q4:
-SCHEDULED: <2023-12-31 Sun>
+*** DONE short: A Fix with Sontarans
+CLOSED: [2024-01-07 Sun 20:27]
+
+*** NEXT special: Real Time :Cybermen:Evelyn:DW2023_Q4:
+SCHEDULED: <2024-01-14 Sun>
 
 ** audio :🎧:
 
 https://tardis.fandom.com/wiki/Sixth_Doctor_audio_stories
 
-*** main range 01-50 :scripted:2CD:
+*** MR with Evelyn :Evelyn:scripted:2CD:
 **** 3QTR [#A] 6. The Marian Conspiracy (8.6) :Evelyn:plot_yes:DW2022_08_doctor:
 CLOSED: [2022-08-03 Wed 21:45] SCHEDULED: <2022-08-03 Wed>
 
@@ -539,24 +527,10 @@ CLOSED: [2023-06-26 Mon 08:24] DEADLINE: <2023-06-28 Wed> SCHEDULED: <2023-06-14
 http://drwhoguide.com/who_bf09.htm
 
 **** DONE 11. The Apocalypse Element :Evelyn:Romana_2:Daleks:
-**** DONE [#A] 14. The Holy Terror (9.1) :Frobisher:plot_yes:D2021_05:
-CLOSED: <2021-05-29 Sat 23:21>
-:PROPERTIES:
-:rating:   9.1
-:END:
-
 **** 2DONE [#C] MR23. Project Twilight :The_Forge:D2021_07_dr:plot_yes:
 CLOSED: [2021-07-15 Thu 14:15]
 :PROPERTIES:
 :rating:   7.8
-:END:
-
-**** 3QTR [#A] 27. The One Doctor (9.0) :Mel:plot_no:D2022_04_doctor:
-CLOSED: [2022-04-22 Fri 08:22] SCHEDULED: <2022-04-30 Sat>
-
-**** [#D] 34. ...ish :Peri:
-:PROPERTIES:
-:rating:   7.1
 :END:
 
 **** DONE [#A] 40. Jubilee (9.0) :Evelyn:Daleks:plot_no:
@@ -572,28 +546,13 @@ CLOSED: [2021-07-23 Fri 12:43]
 :rating:   7.7
 :END:
 
-**** [#A] 48. Davros (9.0) :Mel:Davros:plot_yes:
-:PROPERTIES:
-:rating:   9.0
-:END:
-
-*** main range 51-100 :scripted:2CD:
-**** [#C] 51. The Wormery :Iris:
-:PROPERTIES:
-:rating:   7.5
-:END:
-
 **** LATER [#A] 57. Arrangements for War (8.5) :Evelyn:plot_no:
 **** [#D] 60. Medicinal Purposes
 :PROPERTIES:
 :rating:   7.1
 :END:
 
-**** 065. The Juggernauts :Davros:
-**** 73. Thicker than Water :Mel:
-**** HALF [#C] 078. The Reaping :Peri:Cybermen:D2022_01_cybermen:
-SCHEDULED: <2022-01-14 Fri>
-
+**** [#C] 73. Thicker than Water :Mel:Evelyn:
 **** DONE [#C] 084. The Nowhere Place :D2021_06:underrated:
 CLOSED: <2021-06-09 Wed 08:10>
 :PROPERTIES:
@@ -601,71 +560,21 @@ CLOSED: <2021-06-09 Wed 08:10>
 :goodreads: 3.6
 :END:
 
-**** BLOCK [#C] 90. Year of the Pig :Peri:plot_yes_dwg:
-:PROPERTIES:
-:rating:   7.7
-:END:
-
-block 原因：比较晦涩难懂
-
-http://www.drwhoguide.com/who_bf90.htm
-
-**** 2DONE [#A] 94b. Urgent Calls (8.8) :plot_yes:Viyrans:short:
-CLOSED: [2021-03-22 Mon 20:39]
-
-**** READY [#B] 100b. My Own Private Wolfgang (8.0) :plot_no:bilibili:
+**** 100. 100
+***** READY [#B] 100b. My Own Private Wolfgang (8.0) :plot_no:bilibili:
 
 【【DW广播剧翻译】MR 100b - 独属于我的沃尔夫冈-哔哩哔哩】 https://b23.tv/iDORqth
 
-**** [#C] 100c. Bedtime Story :short:
+***** [#C] 100c. Bedtime Story :short:
 :PROPERTIES:
 :rating:   7.8
 :END:
-
-*** main range 101-150 :scripted:2CD:
-**** 3QTR [#B] 105. The Condemned (8.4) :Charley:plot_yes_dwg:DW2023_02_doctor:
-CLOSED: <2023-01-31 Tue 08:52> SCHEDULED: <2023-02-04 Sat>
-
-Six and Charley meet, and an enjoyable, weird adventure results.
-
-http://www.drwhoguide.com/who_bf105.htm
 
 **** CANCEL [#E] 108. Assassin in the Limelight
 :PROPERTIES:
 :rating:   6.8
 :END:
 
-**** [#D] 111 The Doomwood Curse
-:PROPERTIES:
-:rating:   7.4
-:END:
-
-An excellent standalone romp from one of my favorite EU writers, featuring one of my favorite EU alien species.
-
-**** [#C] 114 Brotherhood of the Daleks :Charley:
-:PROPERTIES:
-:rating:   7.6
-:END:
-
-**** 116. The Raincloud Man :Charley:
-**** Bonus VII  Return of the Krotons
-**** DONE [#B] 124. Patient Zero (8.3) :Charley:plot_no:Daleks:Viyrans:
-CLOSED: <2021-04-18 Sun 08:14>
-:PROPERTIES:
-:rating:   8.3
-:END:
-
-**** [#D] 125 Paper Cuts :Mila:Viyrans:
-:PROPERTIES:
-:rating:   7.0
-:END:
-
-**** [#B] 126. Blue Forgotten Planet (8.1) :Charley:Mila:plot_no:
-**** HALF [#D] 133. City of Spires :Jamie:DW2022_12_doctor:
-SCHEDULED: <2022-12-24 Sat 22:41>
-
-**** [#C] 134. The Wreck of the Titan (7.6) :Jamie:
-**** LATER [#A] 135. Legend of the Cybermen (8.5) :Cybermen:Jamie:Zoe:plot_yes:
 **** [#D] 143. The Crimes of Thomas Brewster :Evelyn:
 :PROPERTIES:
 :rating:   7.4
@@ -681,105 +590,59 @@ SCHEDULED: <2022-12-24 Sat 22:41>
 :rating:   6.9
 :END:
 
-**** 150. Recorded Time and Other Stories :Peri:
-***** [#E] 150a. Recorded Time
-***** [#E] 150b. Paradoxicide
-***** [#D] 150c. A Most Excellent Match :short:
-***** [#B] 150d. Question Marks (8.3) :plot_no:short:
-*** main range 151-200 :scripted:2CD:
-**** 2DONE [#B] 156. The Curse of Davros (8.0) :plot_no:2buy:
-CLOSED: <2021-12-23 Thu 08:53>
+*** with Peri                                                          :Peri:
+**** MR with Peri                                              :scripted:2CD:
+***** [#D] 003. Whispers of Terror
+***** [#D] 34. ...ish                                                  :Peri:
+      :PROPERTIES:
+      :rating:   7.1
+      :END:
 
-**** [#C] 157. The Fourth Wall :Flip:
-SCHEDULED: <2023-03-01 Wed>
+***** HALF [#C] 078. The Reaping            :Peri:Cybermen:D2022_01_cybermen:
+      SCHEDULED: <2022-01-14 Fri>
 
-**** [#C] 169. The Wrong Doctors :Mel:
-:PROPERTIES:
-:rating:   7.9
-:END:
+***** BLOCK [#C] 90. Year of the Pig                      :Peri:plot_yes_dwg:
+      :PROPERTIES:
+      :rating:   7.7
+      :END:
 
-**** [#E] 182. Antidote to Oblivion
-**** [#E] 183. The Brood of Erys
-**** [#D] 184. Scavenger
-**** 188. Breaking Bubbles and Other Stories :short:
-***** [#A] 188d. The Curious Incident of the Doctor in the Night-Time (8.7) :plot_no:
-**** 3QTR [#A] MR192. The Widow's Assassin (8.6) :Peri:plot_no:D2021_09_dr:🛒:
-CLOSED: <2021-09-17 Fri 21:27> SCHEDULED: <2021-09-04 Sat>
+ block 原因：比较晦涩难懂
 
- 与剧集23x02 Mindwrap联系紧密
+ http://www.drwhoguide.com/who_bf90.htm
 
-**** 2DONE [#A] 193. Masters of Earth (8.6) :Peri:plot_no:Daleks:D2021_10_daleks:
-CLOSED: [2021-10-18 Mon 20:15]
+***** 📂150. Recorded Time and Other Stories                           :Peri:
+****** [#D] 150c. A Most Excellent Match
+****** [#B] 150d. Question Marks
+***** 📂179. 1963: The Space Race
+****** [#E] 150a. Recorded Time
+****** [#E] 150b. Paradoxicide
+****** [#D] 150c. A Most Excellent Match                              :short:
+****** [#B] 150d. Question Marks (8.3)                        :plot_no:short:
+***** 📂188. Breaking Bubbles and Other Stories                       :short:
+****** [#C] 188c. An Eye For Murder
+****** [#A] 188d. The Curious Incident of the Doctor in the Night-Time (8.7) :plot_no:
+***** 3QTR [#A] MR192. The Widow's Assassin (8.6) :Peri:plot_no:D2021_09_dr:🛒:
+      CLOSED: <2021-09-17 Fri 21:27> SCHEDULED: <2021-09-04 Sat>
 
-**** [#C] 194. The Rani Elite
-:PROPERTIES:
-:rating:   7.8
-:END:
+  与剧集23x02 Mindwrap联系紧密
 
-**** [#D] 199. Last of the Cybermen :Jamie:Zoe:
-:PROPERTIES:
-:rating:   7.1
-:END:
+***** 2DONE [#A] 193. Masters of Earth (8.6) :Peri:plot_no:Daleks:D2021_10_daleks:
+      CLOSED: [2021-10-18 Mon 20:15]
 
-*** main range 201- :scripted:2CD:
-**** [#C] 204. Criss-Cross :Constance:
-**** [#C] 212. Vampire of the Mind :Master:
-:PROPERTIES:
-:rating:   7.6
-:END:
+***** [#C] 194. The Rani Elite
+      :PROPERTIES:
+      :rating:   7.8
+      :END:
 
-**** [#C] 220. Quicksilver :Flip:Constance:
-**** [#B] 232. The Middle :Flip:Constance:
-:PROPERTIES:
-:rating:   8.4
-:END:
-
-**** [#A] 233. Static (8.6) :Flip:Constance:
-**** [#C] 239. Iron Bright (7.5)
-**** 3QTR [#C] 240. Hour of the Cybermen (7.8) :Cybermen:D2022_06_doctor:
-CLOSED: [2022-06-29 Wed 16:22] SCHEDULED: <2022-06-19 Sun>
-
-*** 6DA
-**** special/bonus
-***** [#E] The Ratings War
-***** [#D] Real Time :2CD:
-***** [#C] 33½ - The Maltese Penguin :1CD:
-:PROPERTIES:
-:rating:   7.6
-:END:
-
-***** VII - Return of the Krotons :1CD:
-***** READY XII - Trial of the Valeyard. :Valeyard:1CD:bilibili:
-
-【【神秘博士广播剧】Bonus Release 012 The Trial of Valeyard 黑暗博士的审判-哔哩哔哩】 https://b23.tv/BP98ck4
-
-**** 📂The Sixth Doctor: The Last Adventure :Valeyard:P2015:1CD:scripted:plot_yes:
-***** 2DONE The End of the Line :Constance:Master:D2021_12_master:bilibili:
-CLOSED: [2021-12-03 Fri 23:22] SCHEDULED: <2021-12-05 Sun>
-
-【【广播剧翻译】六任：最后的冒险 01 The end of the line-哔哩哔哩】 https://b23.tv/r4FWpnN
-
-***** HALF [#D] The Red House :Charley:bilibili:D2022_02_doctor:
-SCHEDULED: <2022-02-17 Thu>
-:PROPERTIES:
-:rating:   7.0
-:END:
-
-【【广播剧翻译】照日光变成人的反向狼人 六任:最后的冒险 102 红房子-哔哩哔哩】 https://b23.tv/RLKffOm
-
-***** 3QTR [#B] Stage Fright :Flip:Jago:Litefoot:bilibili:DW2022_10_doctor:
-CLOSED: [2022-11-12 Sat 20:08] SCHEDULED: <2022-11-01 Tue>
-:PROPERTIES:
-:rating:   8.3
-:END:
-
-【【广播剧翻译】博士的重生场景重演？六任：最后的冒险 103 Stage Fright-哔哩哔哩】 https://b23.tv/NnRPoV3
-
-***** 3QTR [#B] 6DLA1.4 The Brink of Death :Mel:bilibili:DW2023_04_doctor:
-CLOSED: [2023-04-11 Tue 21:15] SCHEDULED: <2023-04-15 Sat>
-
-【【广播剧翻译】在重生29年后补的重生集 六任：最后的冒险  104 The Brink of Death-哔哩哔哩】 https://b23.tv/4Ozoj0K
-
+***** [#C] 253. Memories of a Tyrant
+***** [#D] 254. Emissary of the Daleks
+***** [#D] 255. Harry Houdini's War
+***** 📂259. Blood on Santa's Claw and Other Stories
+****** [#D] Blood on Santa's Claw
+****** [#D] The Baby Awakes
+****** [#D] I Wish It Could Be Christmas Every Day
+****** [#D] Brightly Shone The Moon That Night
+***** [#A] 271. Plight of the Pimpernel
 **** 📂The Sixth Doctor and Peri :Peri:1CD:plot_yes:P2020:
 
 Volume One
@@ -803,11 +666,97 @@ Volume One
 :PROPERTIES:
 :rating:   9.0
 :END:
+**** 📂The Lost Stories
+***** The Lost Stories s1                                 :Peri:2CD:scripted:
+****** [#E] LS1.1 The Nightmare Fair                               :ToyMaker:
+       :PROPERTIES:
+       :rating:   6.8
+       :END:
 
-**** 📂2021. The Eleven :P2021_09:The_Eleven:Constance:1CD:
-***** [#D] 1. One for All
-***** [#B] 2. The Murder of Oliver Akkron
-***** [#B] 3. Elevation
+****** CANCEL [#F] +LS1.2 Mission to Magnus+                   :ice_warriors:
+       :PROPERTIES:
+       :rating:   5.7
+       :END:
+
+****** HALF [#B] 1.3 - Leviathan                           :DW2023_10_doctor:
+       SCHEDULED: <2023-11-01 Wed>
+       :PROPERTIES:
+       :rating:   8.1
+       :END:
+
+****** CANCEL [#F] 1.4 - The Hollows of Time
+       :PROPERTIES:
+       :rating:   5.8
+       :END:
+
+****** [#B] 1.5 - Paradise 5
+       :PROPERTIES:
+       :rating:   8.1
+       :END:
+
+****** [#D] 1.6 - Point of Entry
+       :PROPERTIES:
+       :rating:   7.3
+       :END:
+
+****** [#C] 1.7 - The Song of Megaptera
+       :PROPERTIES:
+       :rating:   7.5
+       :END:
+
+****** CANCEL [#E] 1.8 - The Macros
+       :PROPERTIES:
+       :rating:   6.8
+       :END:
+
+***** [#C] 3.4 - The Guardians of Prophecy                             :Peri:
+      :PROPERTIES:
+      :rating:   7.9
+      :END:
+
+***** CANCEL [#E] 3.5 - Power Play                                     :Peri:
+      :PROPERTIES:
+      :rating:   6.5
+      :END:
+
+***** [#B] 3.6 - The First Sontarans                                   :Peri:
+      :PROPERTIES:
+      :rating:   8.2
+      :END:
+
+***** CANCEL [#F] 5.2 - The Ultimate Evil                              :Peri:
+      :PROPERTIES:
+      :rating:   5.1
+      :END:
+**** VII - Return of the Krotons                                   :1CD:Peri:
+
+**** [#B] ST4.6 - To Cut a Blade of Grass :Peri:plot_no:
+**** [#C] DotD #6 Trouble in Paradise :Peri:plot_no:1CD:
+
+*** with Mel
+**** MR with Mel                                           :Mel:scripted:2CD:
+***** 3QTR [#A] 27. The One Doctor (9.0)        :Mel:plot_no:D2022_04_doctor:
+      CLOSED: [2022-04-22 Fri 08:22] SCHEDULED: <2022-04-30 Sat>
+
+***** [#A] 48. Davros (9.0)                             :Mel:Davros:plot_yes:
+      :PROPERTIES:
+      :rating:   9.0
+      :END:
+
+***** [#C] 065. The Juggernauts                                      :Davros:
+***** [#D] 066. Catch-1792
+***** [#C] 073. Thicker Than Water
+***** CANCEL [#E] 097a The Wishing Beast
+***** [#C] 097b. The Vanity Box
+***** [#C] 169. The Wrong Doctors                                       :Mel:
+      :PROPERTIES:
+      :rating:   7.9
+      :END:
+
+***** [#D] 170. Spaceport Fear
+***** CANCEL [#E] 171. The Seeds of War
+**** [#E] Lost Stories: Mind of the Hodiac                     :Mel:P2022_03:
+
 **** 📂2022A. Water Worlds :P2022_05:Mel:Hebe:1CD:plot_yes:
 ***** HALF [#D] 1.1 The Rotting Deep :DW2023_12_doctor:
 SCHEDULED: <2023-12-30 Sat>
@@ -826,71 +775,150 @@ SCHEDULED: <2023-12-30 Sat>
 ***** 1. Girl in a Bottle
 ***** 2. The Corruptions
 ***** 3. The Wrong Side of History
-*** The Lost Stories
-**** The Lost Stories s1 :Peri:2CD:scripted:
-***** [#E] LS1.1 The Nightmare Fair :ToyMaker:
+
+*** MR with Charley :Charley:scripted:2CD:
+**** 3QTR [#B] 105. The Condemned (8.4) :Charley:plot_yes_dwg:DW2023_02_doctor:
+CLOSED: <2023-01-31 Tue 08:52> SCHEDULED: <2023-02-04 Sat>
+
+Six and Charley meet, and an enjoyable, weird adventure results.
+
+http://www.drwhoguide.com/who_bf105.htm
+
+**** [#D] 111 The Doomwood Curse
 :PROPERTIES:
-:rating:   6.8
+:rating:   7.4
 :END:
 
-***** CANCEL [#F] +LS1.2 Mission to Magnus+ :ice_warriors:
+An excellent standalone romp from one of my favorite EU writers, featuring one of my favorite EU alien species.
+
+**** [#C] 114 Brotherhood of the Daleks :Charley:
 :PROPERTIES:
-:rating:   5.7
+:rating:   7.6
 :END:
 
-***** HALF [#B] 1.3 - Leviathan :DW2023_10_doctor:
-SCHEDULED: <2023-11-01 Wed>
+**** [#C] 116. The Raincloud Man :Charley:
+**** DONE [#B] 124. Patient Zero (8.3) :Charley:plot_no:Daleks:Viyrans:
+CLOSED: <2021-04-18 Sun 08:14>
 :PROPERTIES:
-:rating:   8.1
+:rating:   8.3
 :END:
 
-***** CANCEL [#F] 1.4 - The Hollows of Time
+**** [#D] 125 Paper Cuts :Mila:Viyrans:
 :PROPERTIES:
-:rating:   5.8
+:rating:   7.0
 :END:
 
-***** [#B] 1.5 - Paradise 5
+**** [#B] 126. Blue Forgotten Planet (8.1) :Charley:Mila:plot_no:
+*** MR with Flip & Constance :scripted:2CD:
+**** 2DONE [#B] 156. The Curse of Davros (8.0) :Flip:plot_no:2buy:
+CLOSED: <2021-12-23 Thu 08:53>
+
+**** [#C] 157. The Fourth Wall :Flip:
+SCHEDULED: <2023-03-01 Wed>
+
+**** CANCEL [#E] 182. Antidote to Oblivion :Flip:
+**** CANCEL [#E] 183. The Brood of Erys :Flip:
+**** [#D] 184. Scavenger :Flip:
+**** [#C] 204. Criss-Cross :Constance:
+**** CANCEL [#E] 205. Planet of the Rani :Constance:
+**** CANCEL [#E] 206. Shield of the Jötunn :Constance:
+**** [#C] 218. Order of the Daleks :Constance:Daleks:
+**** CANCEL [#F] 219. Absolute Power :Constance:
+**** [#C] 220. Quicksilver :Flip:Constance:
+**** [#D] 225a Vortex Ice :Flip:
+**** CANCEL [#F] 225b. Cortex Fire :Flip:
+**** [#B] 232. The Middle :Flip:Constance:
 :PROPERTIES:
-:rating:   8.1
+:rating:   8.4
 :END:
 
-***** [#D] 1.6 - Point of Entry
-:PROPERTIES:
-:rating:   7.3
-:END:
-
-***** [#C] 1.7 - The Song of Megaptera
-:PROPERTIES:
-:rating:   7.5
-:END:
-
-***** CANCEL [#E] 1.8 - The Macros
-:PROPERTIES:
-:rating:   6.8
-:END:
-
-**** [#C] 3.4 - The Guardians of Prophecy :Peri:
-:PROPERTIES:
-:rating:   7.9
-:END:
-
-**** CANCEL [#E] 3.5 - Power Play :Peri:
-:PROPERTIES:
-:rating:   6.5
-:END:
-
-**** [#B] 3.6 - The First Sontarans :Peri:
-:PROPERTIES:
-:rating:   8.2
-:END:
-
-**** CANCEL [#F] 5.2 - The Ultimate Evil :Peri:
-:PROPERTIES:
-:rating:   5.1
-:END:
-
-**** [#E] Mind of the Hodiac :Mel:P2022_03:
+**** [#A] 233. Static (8.6) :Flip:Constance:
+**** [#C] 263. Cry of the Vultriss :Flip:Con:Ice_Warriors:
+**** [#B] 264. Scorched Earth :Flip:Constance:
+**** CANCEL [#E] 265. The Lovecraft Invasion :Flip:Constance:
+**** [#D] 273. Colony of Fear :Constance:
+**** Bonus VII  Return of the Krotons
 *** BF misc
+**** MR misc                                                            :2CD:
+***** DONE [#A] 14. The Holy Terror (9.1)       :Frobisher:plot_yes:D2021_05:
+      CLOSED: <2021-05-29 Sat 23:21>
+      :PROPERTIES:
+      :rating:   9.1
+      :END:
+
+***** [#C] 51. The Wormery                                             :Iris:
+      :PROPERTIES:
+      :rating:   7.5
+      :END:
+
+***** 2DONE [#A] 94b. Urgent Calls (8.8)             :plot_yes:Viyrans:short:
+      CLOSED: [2021-03-22 Mon 20:39]
+
+***** HALF [#D] 133. City of Spires                  :Jamie:DW2022_12_doctor:
+      SCHEDULED: <2022-12-24 Sat 22:41>
+
+***** [#C] 134. The Wreck of the Titan (7.6)                          :Jamie:
+***** LATER [#A] 135. Legend of the Cybermen (8.5) :Cybermen:Jamie:Zoe:plot_yes:
+***** [#D] 199. Last of the Cybermen                              :Jamie:Zoe:
+      :PROPERTIES:
+      :rating:   7.1
+      :END:
+
+***** 3QTR [#C] 212. Vampire of the Mind :Master_bald:D2021_11_master:plot_no:
+      CLOSED: <2021-11-26 Fri 14:14> SCHEDULED: <2021-11-20 Sat>
+      :PROPERTIES:
+      :rating:   7.5
+      :END:
+
+***** [#C] 239. Iron Bright (7.5)
+***** 3QTR [#C] 240. Hour of the Cybermen (7.8) :UNIT:Cybermen:D2022_06_doctor:
+      CLOSED: [2022-06-29 Wed 16:22] SCHEDULED: <2022-06-19 Sun>
+
+***** CANCEL [#E] 246. The Hunting Ground
+**** 6DA
+***** special/bonus
+****** [#E] The Ratings War
+****** [#D] Real Time                                                   :2CD:
+****** [#C] 33½ - The Maltese Penguin                                   :1CD:
+       :PROPERTIES:
+       :rating:   7.6
+       :END:
+
+****** READY XII - Trial of the Valeyard.             :Valeyard:1CD:bilibili:
+
+ 【【神秘博士广播剧】Bonus Release 012 The Trial of Valeyard 黑暗博士的审判-哔哩哔哩】 https://b23.tv/BP98ck4
+
+***** 📂The Sixth Doctor: The Last Adventure :Valeyard:P2015:1CD:scripted:plot_yes:
+****** 2DONE The End of the Line  :Constance:Master:D2021_12_master:bilibili:
+       CLOSED: [2021-12-03 Fri 23:22] SCHEDULED: <2021-12-05 Sun>
+
+ 【【广播剧翻译】六任：最后的冒险 01 The end of the line-哔哩哔哩】 https://b23.tv/r4FWpnN
+
+****** HALF [#D] The Red House             :Charley:bilibili:D2022_02_doctor:
+       SCHEDULED: <2022-02-17 Thu>
+       :PROPERTIES:
+       :rating:   7.0
+       :END:
+
+ 【【广播剧翻译】照日光变成人的反向狼人 六任:最后的冒险 102 红房子-哔哩哔哩】 https://b23.tv/RLKffOm
+
+****** 3QTR [#B] Stage Fright  :Flip:Jago:Litefoot:bilibili:DW2022_10_doctor:
+       CLOSED: [2022-11-12 Sat 20:08] SCHEDULED: <2022-11-01 Tue>
+       :PROPERTIES:
+       :rating:   8.3
+       :END:
+
+ 【【广播剧翻译】博士的重生场景重演？六任：最后的冒险 103 Stage Fright-哔哩哔哩】 https://b23.tv/NnRPoV3
+
+****** 3QTR [#B] 6DLA1.4 The Brink of Death   :Mel:bilibili:DW2023_04_doctor:
+       CLOSED: [2023-04-11 Tue 21:15] SCHEDULED: <2023-04-15 Sat>
+
+ 【【广播剧翻译】在重生29年后补的重生集 六任：最后的冒险  104 The Brink of Death-哔哩哔哩】 https://b23.tv/4Ozoj0K
+
+***** 📂2021. The Eleven                  :P2021_09:The_Eleven:Constance:1CD:
+****** [#D] 1. One for All
+****** [#B] 2. The Murder of Oliver Akkron
+****** [#B] 3. Elevation
 **** Jago and Litefoot: Series 4
 ***** 2DONE Jago in Love
 ***** 2DONE Beautiful Things
@@ -912,10 +940,9 @@ SCHEDULED: <2023-11-01 Wed>
 【【神秘博士广播剧熟肉】The Stuff of Nightmares 303 Together in Eclectic Dreams 共做一梦-哔哩哔哩】 https://b23.tv/e3EmGiB
 
 **** The Diary of River Song: Series 2
-***** [#B] 2.3 World Enough and Time
-***** [#C] 2.4 The Eye of the Storm :7th_Dr:
-**** [#B] ST4.6 - To Cut a Blade of Grass :Peri:plot_no:
-**** [#C] DotD #6 Trouble in Paradise :Peri:plot_no:1CD:
+***** DONE [#B] 2.3 World Enough and Time
+***** 3QTR [#C] 2.4 The Eye of the Storm                             :7th_Dr:
+**** ST2023. The Hoxeth Time Capsule :P2023_12:
 *** BBC
 **** [#C] Fortunes of War :WW1:P2018:1CD:
 **** [#C] The Flight of the Sun God :Peri:P2019:1CD:
@@ -970,7 +997,7 @@ CLOSED: [2022-12-01 Thu 23:49]
 
 https://tardis.fandom.com/wiki/Seventh_Doctor_audio_stories
 
-*** main range :scripted:2CD:
+*** main range top :scripted:2CD:
 **** top
 
 |   | 12. The Fires of Vulcan        | 8.4 | 7th | 2000 | Mel                                          | Steve Lyons                          |
@@ -988,7 +1015,7 @@ https://tardis.fandom.com/wiki/Seventh_Doctor_audio_stories
 |   | 164. Gods and Monsters         | 8.4 | 7th | 2012 | Ace, Hex, Sally, Lysandra, Fenric, the Forge | Mike Maddox and Alan Barnes          |
 |   | 213. The Two Masters           | 8.8 | 7th | 2016 | The Old Master, The New Master               | John Dorney                          |
 
-**** MR001-050
+*** MR with Ace :Ace:scripted:2CD:
 ***** [#C] 5. Fearmonger :Ace:plot_yes:
 :PROPERTIES:
 :rating:   7.9
@@ -999,33 +1026,45 @@ https://tardis.fandom.com/wiki/Seventh_Doctor_audio_stories
 :rating:   7.0
 :END:
 
-***** HALF [#B] 12. The Fires of Vulcan (8.2) :P2000:Mel:plot_yes_dwg:DW2023_01_doctor:
-SCHEDULED: <2023-01-09 Mon 21:19>
-
-http://www.drwhoguide.com/who_bf12.htm
-
-***** [#D] 13. The Shadow of the Scourge :Ace:Benny:
-***** HALF [#D] 021. Dust Breeding :Master_decayed:D2021_10_master:
-SCHEDULED: <2021-11-07 Sun>
-:PROPERTIES:
-:rating:   7.0
-:END:
-
-***** DONE [#C] 25. Colditz :plot_yes:Klein:
-CLOSED: <2021-03-26 Fri 11:25>
+***** [#C] 180. 1963: The Assassination Games :Ace:ICMG:Allison:Gilmore:
 :PROPERTIES:
 :rating:   7.9
 :END:
 
-***** DONE [#C] 45. Project Lazarus :6th_Dr:plot_no:
+***** [#B] 181. Afterlife :Ace:Sally:
 :PROPERTIES:
-:rating:   7.7
+:rating:   8.1
 :END:
 
-***** 3QTR [#A] MR49. Master (9.0) :P2003:Master:Death:plot_yes:D2021_09_extra:
-CLOSED: <2021-09-23 Thu 21:27> SCHEDULED: <2021-09-04 Sat>
+***** 📂207. You Are the Doctor and Other Stories :Ace:short:
+****** DONE [#B] MR207a. You Are the Doctor :D2021_08_dr:
+CLOSED: <2021-08-11 Wed 17:21>
+:PROPERTIES:
+:rating:   8.1
+:END:
 
-**** MR051-100
+****** 3QTR [#C] MR207b. Come Die With Me :D2021_08_dr:Ace:
+:PROPERTIES:
+:rating:   7.5
+:END:
+
+****** CANCEL [#E] 207c. The Grand Betelgeuse Hotel
+:PROPERTIES:
+:rating:   6.6
+:END:
+
+****** [#C] 207d. Dead to the World
+:PROPERTIES:
+:rating:   7.5
+:END:
+
+***** [#C] 260. Dark Universe :Ace:The_Eleven:
+:PROPERTIES:
+:rating:   7.8
+:END:
+
+***** [#D] 272. The Grey Man of the Mountain :Ace:Brigadier:
+*** MR with Ace & Hex :Ace:Max:scripted:2CD:
 ***** DONE [#B] 58. The Harvest (8.4) :P2004:Ace:Hex:Cybermen:plot_yes:D2021_06:
 CLOSED: [2021-06-24 Thu 12:31]
 
@@ -1055,8 +1094,7 @@ CLOSED: <2022-05-17 Tue 21:11> SCHEDULED: <2022-05-07 Sat>
 :rating:   7.8
 :END:
 
-**** MR101-150
-***** 115. Forty-Five :short:
+***** 📂115. Forty-Five :short:
 ****** [#E] 115a. False Gods
 :PROPERTIES:
 :rating:   6.9
@@ -1079,6 +1117,39 @@ SCHEDULED: <2024-01-06 Sat>
 :rating:   8.6
 :END:
 
+***** [#A] 140. A Death in the Family (9.5) :P2010:Ace:Hex:Evelyn:Nobody_No_One:the_Forge:plot_no:
+***** [#B] 159. Project: Destiny :Ace:Hex:The_Forge:Lysandra:P2010:
+***** DONE [#A] 162. Protect and Survive (8.7) :P2012:Ace:Hex:plot_yes:WW3:Old_Ones:
+CLOSED: [2021-03-22 Mon 20:20]
+
+***** LATER [#C] MR163. Black and White :Ace:Hex:Sally:Lysandra:plot_yes:
+:PROPERTIES:
+:rating:   7.7
+:END:
+
+***** [#B] MR164. Gods and Monsters (8.4) :P2012:Ace:Hex:Sally:Lysandra:Fenric:the_Forge:plot_no:
+***** [#C] 226b. World Apart :Ace:Hex:plot_no:1CD:
+:PROPERTIES:
+:rating:   7.7
+:END:
+
+***** [#B] 245. Muse of Fire :Ace:Hex:
+:PROPERTIES:
+:thetimescales: 8.2
+:END:
+
+***** [#C] 268B. Displaced :Ace:Hex:plot_no:
+:PROPERTIES:
+:rating:   7.8
+:END:
+
+*** MR Klein line :Klein:scripted:2CD:
+***** DONE [#C] 25. Colditz :plot_yes:Klein:Ace:
+CLOSED: <2021-03-26 Fri 11:25>
+:PROPERTIES:
+:rating:   7.9
+:END:
+
 ***** DONE [#A] 130. A Thousand Tiny Wings (8.8) :P2010:Klein:plot_no:
 CLOSED: <2021-05-13 Thu 08:13>
 
@@ -1094,30 +1165,6 @@ CLOSED: <2021-05-31 Mon 08:10>
 ***** HALF [#A] MR132. The Architects of History (8.7) :P2010:Klein:Selachians:plot_no:D2021_09_dr:
 SCHEDULED: <2021-09-26 Sun>
 
-***** [#A] 140. A Death in the Family (9.5) :P2010:Ace:Hex:Evelyn:Nobody_No_One:the_Forge:plot_no:
-***** 2DONE [#B] MR149. Robophobia (8.4) :P2011:Liv:Kaldor_androids:plot_no:D2022_03_doctor:week1:
-CLOSED: <2022-03-31 Thu 21:41> SCHEDULED: <2022-03-12 Sat>
-:PROPERTIES:
-:rating:   8.4
-:END:
-
-**** MR151-200
-***** 2DONE [#C] MR152. House of Blue Fire :plot_no:D2021_07_dr:Sally:Great_Old_Ones:
-CLOSED: <2021-07-09 Fri 14:15>
-:PROPERTIES:
-:rating:   7.7
-:END:
-
-***** [#B] 159. Project: Destiny :Ace:Hex:The_Forge:Lysandra:P2010:
-***** DONE [#A] 162. Protect and Survive (8.7) :P2012:Ace:Hex:plot_yes:WW3:Old_Ones:
-CLOSED: [2021-03-22 Mon 20:20]
-
-***** LATER [#C] MR163. Black and White :Ace:Hex:Sally:Lysandra:plot_yes:
-:PROPERTIES:
-:rating:   7.7
-:END:
-
-***** [#B] MR164. Gods and Monsters (8.4) :P2012:Ace:Hex:Sally:Lysandra:Fenric:the_Forge:plot_no:
 ***** [#E] 175. Persuasion :Klein:
 :PROPERTIES:
 :rating:   6.8
@@ -1133,96 +1180,88 @@ CLOSED: [2021-03-22 Mon 20:20]
 :rating:   6.8
 :END:
 
-***** [#C] 180. 1963: The Assassination Games :Ace:ICMG:Allison:Gilmore:
-:PROPERTIES:
-:rating:   7.9
-:END:
+*** MR with Mel :Mel:scripted:2CD:
+***** HALF [#B] 12. The Fires of Vulcan (8.2) :P2000:Mel:plot_yes_dwg:DW2023_01_doctor:
+SCHEDULED: <2023-01-09 Mon 21:19>
 
-***** [#B] 181. Afterlife
-:PROPERTIES:
-:rating:   8.1
-:END:
+http://www.drwhoguide.com/who_bf12.htm
 
-**** MR201-
+***** [#D] 39. Bang-Bang-a-Boom!
+***** [#D] 46. Flip-Flop
+***** CANCEL [#F] 70. Unregenerate!
+***** [#D] 85. Red
 ***** HALF [#C] 201. We Are the Daleks :Mel:plot_no:D2022_01_doctor:
 SCHEDULED: <2022-01-30 Sun>
 :PROPERTIES:
 :rating:   7.6
 :END:
 
-***** 207. You Are the Doctor and Other Stories :Ace:short:
-****** DONE [#B] MR207a. You Are the Doctor :D2021_08_dr:
-CLOSED: <2021-08-11 Wed 17:21>
-:PROPERTIES:
-:rating:   8.1
-:END:
-
-****** 3QTR [#C] MR207b. Come Die With Me :D2021_08_dr:Ace:
-:PROPERTIES:
-:rating:   7.5
-:END:
-
-****** CANCEL [#E] 207c. The Grand Betelgeuse Hotel
-:PROPERTIES:
-:rating:   6.6
-:END:
-
-****** [#C] 207d. Dead to the World
-:PROPERTIES:
-:rating:   7.5
-:END:
-
-***** HALF [#A] 213. The Two Masters (8.8) :P2016:Master:plot_no:bilibili:D2021_12_master:week1:
-SCHEDULED: <2021-12-04 Sat>
-
-【【神秘博士广播剧汉化】The Two Masters 两个法师-哔哩哔哩】https://b23.tv/FjTGsz 
-
-***** [#C] 226b. World Apart :Ace:Hex:plot_no:1CD:
-:PROPERTIES:
-:rating:   7.7
-:END:
-
-***** [#B] 245. Muse of Fire
-:PROPERTIES:
-:thetimescales: 8.2
-:END:
-
-***** [#C] 243. The Quantum Possibility Engine :Ace:Mel:
+***** [#E] 202. The Warehouse
+***** CANCEL [#F] 203. Terror of the Sontarans
+***** CANCEL [#F] 214. A Life of Crime
+*** MR with Ace & Mel
+***** [#E] 215. Fiesta of the Damned
+***** CANCEL [#F] 216. Maker of Demons
+***** [#E] 229. The Silurian Candidate
+***** [#D] 241. Red Planets
+***** [#E] 242. The Dispossessed
+***** [#C] 243. The Quantum Possibility Engine
 :PROPERTIES:
 :thetimescales: 7.6
 :END:
 
-***** [#C] 260. Dark Universe
+*** MR misc :scripted:2CD:
+***** HALF [#D] 021. Dust Breeding :Master_decayed:D2021_10_master:
+SCHEDULED: <2021-11-07 Sun>
+:PROPERTIES:
+:rating:   7.0
+:END:
+
+***** DONE [#C] 45. Project Lazarus :6th_Dr:plot_no:
+:PROPERTIES:
+:rating:   7.7
+:END:
+
+***** 3QTR [#A] MR49. Master (9.0) :P2003:Master:Death:plot_yes:D2021_09_extra:
+CLOSED: <2021-09-23 Thu 21:27> SCHEDULED: <2021-09-04 Sat>
+
+***** 2DONE [#B] MR149. Robophobia (8.4) :P2011:Liv:Kaldor_androids:plot_no:D2022_03_doctor
+CLOSED: <2022-03-31 Thu 21:41> SCHEDULED: <2022-03-12 Sat>
+:PROPERTIES:
+:rating:   8.4
+:END:
+
+***** 2DONE [#C] MR152. House of Blue Fire :plot_no:D2021_07_dr:Sally:Great_Old_Ones:
+CLOSED: <2021-07-09 Fri 14:15>
+:PROPERTIES:
+:rating:   7.7
+:END:
+
+***** HALF [#A] 213. The Two Masters (8.8) :P2016:Master:plot_no:bilibili:D2021_12_master:
+SCHEDULED: <2021-12-04 Sat>
+
+【【神秘博士广播剧汉化】The Two Masters 两个法师-哔哩哔哩】https://b23.tv/FjTGsz 
+
+***** [#D] 261. The Psychic Circus
+***** [#C] 262. Subterfuge :Churchill:Monk:
 :PROPERTIES:
 :rating:   7.8
 :END:
 
-***** [#C] 262. Subterfuge
+*** with Ace & Benny
+**** [#D] MR013. The Shadow of the Scourge :Ace:Benny:
+**** BLOCK [#D] NA1 Love and War :Ace:Benny:3CD:scripted:
+
+block 原因：太长（3小时多）
+
+**** [#C] NA7 Theatre of War :Ace:Benny:Brax:
+**** [#A] NA8. All Consuming Fire :Ace:Benny:Holmes:
 :PROPERTIES:
-:rating:   7.8
+:rating:   8.4
 :END:
 
-***** [#C] 268B. Displaced :plot_no:
-:PROPERTIES:
-:rating:   7.8
-:END:
-
-***** 272. The Grey Man of the Mountain
-*** 7DA
-**** V. Return of the Daleks :Susan_Mendes:Kalendorf:P2006:
-**** [#B] UNIT - Dominion :Klein:Master_bald:P2012:4CD:
-:PROPERTIES:
-:rating:   8.1
-:END:
-
-***** 3QTR [#B] UNIT - Dominion p1 :DW2023_05_doctor:
-CLOSED: <2023-05-16 Tue 08:46> SCHEDULED: <2023-05-13 Sat 20:07>
-
-***** HALF [#B] UNIT - Dominion p2 :DW2023_05_doctor:
-SCHEDULED: <2023-05-20 Sat 20:07>
-
-***** START [#B] UNIT - Dominion p3
-***** TODO [#B] UNIT - Dominion p4
+**** BSNA 1.2-2.4↗
+*** with Roz & Chris
 **** 📂7DA New Adventures :P2018:Roz:Chris:1CD:
 ***** 3QTR [#D] 7DA 1.1 - The Trial of a Time Machine :DW2022_07_doctor:
 CLOSED: <2022-07-06 Wed 20:52> SCHEDULED: <2022-07-06 Wed>
@@ -1248,6 +1287,38 @@ CLOSED: [2023-11-17 Fri 08:22] SCHEDULED: <2023-11-18 Sat>
 :rating:   8.6
 :END:
 
+**** READY [#A] NA6 Damaged Goods :Roz:Chris:plot_no:2CD:bilibili:
+:PROPERTIES:
+:rating:   9.0
+:END:
+
+【【神秘博士广播剧翻译】RTD早期作品 Damaged Goods-哔哩哔哩】 https://b23.tv/5a9c2Hb
+
+**** TODO [#C] NA10 Original Sin :Benny:Roz:Chris:2CD:
+**** [#A] NA11. Cold Fusion :Roz:Chris:5th_Dr:
+:PROPERTIES:
+:rating:   8.7
+:END:
+
+*** with Benny :2CD:
+**** CANCEL [#E] NA2 The Highest Science :Benny:
+**** [#D] CC4.6 BS and the Criminal Code :Benny:
+**** DONE BSNA 1.1 The Revolution
+*** 7DA
+**** V. Return of the Daleks :Susan_Mendes:Kalendorf:P2006:
+**** [#B] UNIT - Dominion :Klein:Master_bald:P2012:4CD:
+:PROPERTIES:
+:rating:   8.1
+:END:
+
+***** 3QTR [#B] UNIT - Dominion p1 :DW2023_05_doctor:
+CLOSED: <2023-05-16 Tue 08:46> SCHEDULED: <2023-05-13 Sat 20:07>
+
+***** HALF [#B] UNIT - Dominion p2 :DW2023_05_doctor:
+SCHEDULED: <2023-05-20 Sat 20:07>
+
+***** START [#B] UNIT - Dominion p3
+***** TODO [#B] UNIT - Dominion p4
 **** 📂2022A Silver and Ice :P2022_06:
 ***** CANCEL [#F] Bad Day in Tinseltown :Cybermen:Mel:1CD:
 CLOSED: [2022-10-08 Sat 09:05]
@@ -1263,38 +1334,12 @@ CLOSED: [2022-10-08 Sat 09:05]
 ***** [#B] 23A.1 Operation Dusk
 ***** [#D] 23A.2 Naomi's Ark
 **** 2023B. The Last Day 1 :Ace:Mel:Beeny:Hex:Master_decayed:P2023_12:3CD:
-*** novel adaptations :2CD:
-**** BLOCK [#D] NA1 Love and War :Ace:Benny:3CD:scripted:
-
-block 原因：太长（3小时多）
-
-**** CANCEL [#E] NA2 The Highest Science :Benny:
-**** READY [#A] NA6 Damaged Goods :Roz:Chris:plot_no:2CD:bilibili:
-:PROPERTIES:
-:rating:   9.0
-:END:
-
-【【神秘博士广播剧翻译】RTD早期作品 Damaged Goods-哔哩哔哩】 https://b23.tv/5a9c2Hb
-
-**** [#C] NA7 Theatre of War :Ace:Benny:Brax:
-**** [#A] NA8. All Consuming Fire :Ace:Benny:Holmes:
-:PROPERTIES:
-:rating:   8.4
-:END:
-
+*** misc
 **** [#B] NA9. Nightshade :Ace:
 :PROPERTIES:
 :rating:   8.1
 :END:
 
-**** TODO [#C] NA10 Original Sin :Benny:Roz:Chris:2CD:
-**** [#A] NA11. Cold Fusion :Roz:Chris:5th_Dr:
-:PROPERTIES:
-:rating:   8.7
-:END:
-
-*** misc
-**** [#D] CC4.6 BS and the Criminal Code :Benny:
 **** HALF [#D] CC7.3 Project: Nirvana :Sally:Lysandra:P2012:plot_cast:DW2023_03_doctor:
 SCHEDULED: <2023-03-25 Sat>
 
@@ -1303,7 +1348,7 @@ SCHEDULED: <2023-03-25 Sat>
 :rating:   6.9
 :END:
 
-**** [#D] LS2.3 - Thin Ice :Raine:
+**** [#D] LS2.3 - Thin Ice :Ace:Raine:
 **** [#E] LS2.4 - Crime of the Century :Raine:
 **** [#D] LS2.5 Animal :Raine:
 **** [#D] LS2.6 Earth Aid :Raine:

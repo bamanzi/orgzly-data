@@ -63,134 +63,129 @@ CLOSED: [2024-01-03 Wed 21:56] SCHEDULED: <2023-11-30 Thu>
 Episode 4 missing (but animated in 2013).
 
 ** audio :🎧:
-*** EA :2CD:EA:
-**** EA S1
-***** [#C] EA1.1 Domain of the Voord :Susan:Ian:Barbara:Voord:plot_yes:
+*** with Susan, Ian, Barbara :Ian:Susan:Barbara:
+**** [#C] EA1.1 Domain of the Voord :Susan:Ian:Barbara:Voord:plot_yes:
 
 应该先看老版剧集 1x05 The Keys of Marinus
 
-***** [#D] EA1.2 The Doctor's Tale :Ian:Barbara:Vicki:plot_yes:
+**** CANCEL [#F] 3.1 The Age of Endurance
+**** 1DA vol.1-5 :Susan:Ian:Barbara:2CD:
+***** HALF [#C] 1.1 The Destination Wars :Master_early:D2021_08_dr:
+:PROPERTIES:
+:rating:   7.8
+:END:
+
+***** [#C] 1.2 The Great White Hurricane (7.5) :plot_no:
+***** 2DONE [#A] 2.1 The Invention of Death :D2021_07_dr:P2018:plot_simple:
+CLOSED: [2021-07-27 Tue 23:10]
+:PROPERTIES:
+:rating:   9.2
+:END:
+
+***** [#A] 2.2 The Barbarians and the Samurai :P2018:plot_no:
+:PROPERTIES:
+:rating:   8.6
+:END:
+
+***** [#C] 3.1 The Phoenicians (7.5) :plot_no:P2019:
+***** HALF [#A] 1DA3.2 Tick-Tock World :P2019:plot_yes:D2022_03_doctor:week2:
+SCHEDULED: <2022-03-12 Sat>
+:PROPERTIES:
+:rating:   8.5
+:END:
+
+***** [#E] +4.1 Return to Skaro+ (6.6)
+***** [#B] 4.2 Last of the Romanovs :P2020:plot_yes:
+:PROPERTIES:
+:rating:   8.1
+:END:
+
+***** [#B] 5.1 For the Glory of Urth :plot_no:P2021:
+:PROPERTIES:
+:rating:   8.4
+:END:
+
+***** [#A] 5.2 The Hollow Crown :plot_no:P2021:
+:PROPERTIES:
+:rating:   9.0?
+:END:
+
+**** Lost Stories
+***** BLOCK [#A] LS2.1a - Farewell Great Macedon :scripted:3CD:
+:PROPERTIES:
+:rating:   9.2
+:END:
+
+***** HALF [#C] LS2.1b The Fragile Yellow Arc of Fragrance :½CD:plot_yes:
+SCHEDULED: <2023-09-30 Sat>
+
+**** CC
+***** START [#B] CC3.7 - The Transit of Venus :plot_yes_dwg:DW2022_09_doctor:
+SCHEDULED: <2022-09-26 Mon>
+:PROPERTIES:
+:rating:   8.3
+:END:
+
+http://drwhoguide.com/chronicles15.htm
+
+***** [#C] 7.7 The Flames of Cadiz :Ian:Susan:plot_yes:
+:PROPERTIES:
+:rating:   7.8
+:END:
+
+***** 3QTR [#B] 7.10 - The Library of Alexandria :plot_yes:DW2023_09_maybe:
+CLOSED: [2023-09-13 Wed 09:05] SCHEDULED: <2023-09-16 Sat>
+:PROPERTIES:
+:rating:   8.0
+:END:
+
+***** [#F] 13.1 - E is For...
+**** ST
+***** [#B] ST1.1 Rise and Fall
+***** [#C] ST8.9 - A Small Semblance of Home :Susan:Ian:Barbara:
+*** with Ian, Barbara, Vicki
+**** [#D] EA1.2 The Doctor's Tale :Ian:Barbara:Vicki:plot_yes:
 :PROPERTIES:
 :rating:   7.1
 :END:
 
+**** CANCEL [#E] EA3.2 The Fifth Traveller
+:PROPERTIES:
+:rating:   6.8
+:END:
+
+**** CC
+***** 2DONE [#B] CC6.2 The Rocket Man :D2021_06:
+CLOSED: [2021-06-26 Sat 09:13]
+:PROPERTIES:
+:rating:   8.3
+:END:
+
+***** [#D] 9.1 - The Sleeping Blood :Barbara:Ian:Vicki:
+***** [#B] 9.2 - The Unwinding World :Vicki:Ian:Barbara:
+:PROPERTIES:
+:rating:   8.0
+:END:
+
+***** [#E] 13.2 - Daybreak
+**** [#C] ST2.1 - 1963 :Ian:Barbara:Vicki:
+*** with Steven & Vicki
+**** EA
 ***** HALF [#C] EA1.3 The Bounty of Ceres :Vicki:Steven:plot_no:DW2023_07_doctor:
 SCHEDULED: <2023-07-22 Sat>
 :PROPERTIES:
 :rating:   7.7
 :END:
 
-***** DONE [#C] EA1.4 - An Ordinary Life :Steven:Sara_Kingdom:plot_yes:DW2022_07_doctor:
-CLOSED: [2022-07-31 Sun 08:14] SCHEDULED: <2022-07-16 Sat>
-
-**** EA S3
-***** CANCEL [#F] 3.1 The Age of Endurance
-***** CANCEL [#E] 3.2 The Fifth Traveller
-:PROPERTIES:
-:rating:   6.8
-:END:
-
 ***** [#B] EA 3.3 The Ravelli Conspiracy (8.0) :Vicki:Steven:plot_no:
-***** HALF [#B] EA3.4 The Sontarans (8.0) :D2021_09_dr:Sara_Kingdom:Steven:plot_yes:
-SCHEDULED: <2021-09-22 Wed>
-
-**** EA S5 :P2018:Vicki:Steven:
-***** DONE [#A] EA5.1 The Dalek Occupation of Winter (9.0) :Steven:Vicki:daleks:plot_yes:DW2022_11_doctor:
+***** EA S5 :P2018:Vicki:Steven:
+****** DONE [#A] EA5.1 The Dalek Occupation of Winter (9.0) :Steven:Vicki:daleks:plot_yes:DW2022_11_doctor:
 CLOSED: [2022-11-04 Fri 13:26] SCHEDULED: <2022-11-01 Tue>
 
-***** [#B] EA5.2 An Ideal World (8.2) :plot_no:
-***** [#D] EA5.3 Entanglement (7.3) :plot_no:
-***** [#A] EA5.4 The Crash of the UK-201 (8.8) :plot_no:
-**** EA S7 :P2021_08:
-***** 2DONE [#C] EA7.1 After the Daleks :Dalek_War_1st:Susan:D2021_10_daleks:
-CLOSED: [2021-11-01 Mon 22:54] SCHEDULED: <2021-11-01 Mon>
-:PROPERTIES:
-:rating:   7.6
-:END:
-
-***** [#C] EA7.2 The Secrets of Det-Sen :Steven:Dodo:plot_simple:DW2022_03_maybe:
-:PROPERTIES:
-:rating:   7.8
-:END:
-
-*** 1DA vol.1-5 :Susan:Ian:Barbara:2CD:
-**** HALF [#C] 1.1 The Destination Wars :Master_early:D2021_08_dr:
-:PROPERTIES:
-:rating:   7.8
-:END:
-
-**** [#C] 1.2 The Great White Hurricane (7.5) :plot_no:
-**** 2DONE [#A] 2.1 The Invention of Death :D2021_07_dr:P2018:plot_simple:
-CLOSED: [2021-07-27 Tue 23:10]
-:PROPERTIES:
-:rating:   9.2
-:END:
-
-**** [#A] 2.2 The Barbarians and the Samurai :P2018:plot_no:
-:PROPERTIES:
-:rating:   8.6
-:END:
-
-**** [#C] 3.1 The Phoenicians (7.5) :plot_no:P2019:
-**** HALF [#A] 1DA3.2 Tick-Tock World :P2019:plot_yes:D2022_03_doctor:week2:
-SCHEDULED: <2022-03-12 Sat>
-:PROPERTIES:
-:rating:   8.5
-:END:
-
-**** [#E] +4.1 Return to Skaro+ (6.6)
-**** [#B] 4.2 Last of the Romanovs :P2020:plot_yes:
-:PROPERTIES:
-:rating:   8.1
-:END:
-
-**** [#B] 5.1 For the Glory of Urth :plot_no:P2021:
-:PROPERTIES:
-:rating:   8.4
-:END:
-
-**** [#A] 5.2 The Hollow Crown :plot_no:P2021:
-:PROPERTIES:
-:rating:   9.0?
-:END:
-
-*** 1DA (2022-)
-**** 📂2022. The Outlaws :Dodo:P2022_04:plot_yes:
-***** 3QTR [#D] 22.1 The Outlaws :Dodo:Monk:P2022_04:DW2023_03_doctor:
-CLOSED: [2023-03-29 Wed 08:54] SCHEDULED: <2023-03-04 Sat>
-
-***** [#C] 22.2 The Miniaturist :Dodo:P2022_04:1CD:
-**** 📂2023. The Demon Song :Dodo:P2023_02:
-***** 23.1 The Demon Song :1CD:
-***** 23.2 The Incherton Incident :2CD:
-**** TBR 2024. Fugitive of the Daleks :P2024_01:Vicki:
-*** CC :🗣:
-**** Sara Kingdom trilogy :Sara_Kingdom:
-***** HALF [#A] CC3.5 - Home Truths :plot_yes_dwg:DW2023_01_doctor:
-SCHEDULED: <2023-01-14 Sat 08:16>
-:PROPERTIES:
-:rating:   9.1
-:END:
-
-http://www.drwhoguide.com/chronicles13.htm
-
-***** TODO [#B] CC4.1 The Drowned World
-:PROPERTIES:
-:rating:   8.1
-:END:
-
-***** HALF [#A] CC5.1 - The Guardian of the Solar System :plot_yes:D2021_11:
-SCHEDULED: <2021-11-06 Sat>
-:PROPERTIES:
-:rating:   8.5
-:END:
-
-***** [#C] 6.7 - The Anachronauts :Steven:
-:PROPERTIES:
-:rating:   7.9
-:END:
-
-**** Vicki
+****** [#B] EA5.2 An Ideal World (8.2) :plot_no:
+****** [#D] EA5.3 Entanglement (7.3) :plot_no:
+****** [#A] EA5.4 The Crash of the UK-201 (8.8) :plot_no:
+**** CC
 ***** 3QTR [#C] 1.1 Frostfire :Vicki:Steven:scripted:plot_yes:bilibili:D2022_05_doctor:
 CLOSED: [2022-05-27 Fri 11:35] SCHEDULED: <2022-05-28 Sat>
 :PROPERTIES:
@@ -204,33 +199,61 @@ CLOSED: [2022-05-27 Fri 11:35] SCHEDULED: <2022-05-28 Sat>
 :rating:   8.1
 :END:
 
-**** [#D] 8.3 - Upstairs :Vicki:Steven:
+***** [#D] 8.3 - Upstairs :Vicki:Steven:
 :PROPERTIES:
 :rating:   7.4
 :END:
 
-**** Steven :Steven:
-***** [#C] CC2.1 - Mother Russia
-***** TODO [#C] CC5.8 - The Perpetual Bond :Oliver:DW2024_01_doctor:
-SCHEDULED: <2024-01-20 Sat>
+***** [#D] 11.1 Fields of Terror :Steven:Vicki:scripted:
+***** NEXT [#A] 11.2 Across the Darkened City :Steven:Vicki:Daleks:scripted:
+*** with Steven & Sara
+**** DONE [#C] EA1.4 - An Ordinary Life :Steven:Sara_Kingdom:plot_yes:DW2022_07_doctor:
+CLOSED: [2022-07-31 Sun 08:14] SCHEDULED: <2022-07-16 Sat>
 
-***** [#A] CC5.12 - The Cold Equations :Oliver:
+**** HALF [#B] EA3.4 - The Sontarans (8.0) :D2021_09_dr:Sara_Kingdom:Steven:plot_yes:
+SCHEDULED: <2021-09-22 Wed>
+
+**** Sara Kingdom trilogy :Sara_Kingdom:
+***** HALF [#A] CC3.5 - Home Truths :plot_yes_dwg:DW2023_01_doctor:
+SCHEDULED: <2023-01-14 Sat 08:16>
+:PROPERTIES:
+:rating:   9.1
+:END:
+
+http://www.drwhoguide.com/chronicles13.htm
+
+***** TODO [#B] CC4.1 - The Drowned World
+:PROPERTIES:
+:rating:   8.1
+:END:
+
+***** HALF [#A] CC5.1 - The Guardian of the Solar System :plot_yes:D2021_11:
+SCHEDULED: <2021-11-06 Sat>
 :PROPERTIES:
 :rating:   8.5
 :END:
 
-***** [#B] CC6.5 - The First Wave :Oliver:
+***** [#C] CC6.7 - The Anachronauts :Steven:
+:PROPERTIES:
+:rating:   7.9
+:END:
+
+**** [#D] SST4 The Little Drummer Boy :Steven:Sara_Kingdom:scripted:
+*** with Steven
+**** HALF [#C] CC5.8 - The Perpetual Bond :Oliver:DW2024_01_doctor:
+SCHEDULED: <2024-01-20 Sat>
+
+**** [#A] CC5.12 - The Cold Equations :Oliver:
+:PROPERTIES:
+:rating:   8.5
+:END:
+
+**** [#B] CC6.5 - The First Wave :Oliver:
 :PROPERTIES:
 :rating:   8.4
 :END:
 
-***** HALF [#B] CC7.5 - Return of the Rocket Men :D2021_06:
-:PROPERTIES:
-:rating:   8.2
-:END:
-
-***** Old Steven trilogy
-****** START [#B] 8.10 The War to End All Wars :D2022_02_doctor:
+**** START [#B] CC8.10 The War to End All Wars :D2022_02_doctor:
 SCHEDULED: <2022-02-24 Thu>
 :PROPERTIES:
 :rating:   8.0
@@ -238,84 +261,65 @@ SCHEDULED: <2022-02-24 Thu>
 
 Old Steven 1/3
 
-****** 9.3 ↗
-****** 9.4 ↗
-**** Ian/Barbara :Ian:
-***** START [#B] CC3.7 - The Transit of Venus :plot_yes_dwg:DW2022_09_doctor:
-SCHEDULED: <2022-09-26 Mon>
-:PROPERTIES:
-:rating:   8.3
-:END:
-
-http://drwhoguide.com/chronicles15.htm
-
-***** 2DONE [#B] CC6.2 The Rocket Man :D2021_06:
-CLOSED: [2021-06-26 Sat 09:13]
-:PROPERTIES:
-:rating:   8.3
-:END:
-
-***** [#C] 7.1 - The Time Museum
-:PROPERTIES:
-:rating:   7.7
-:END:
-
-***** [#C] 7.7 The Flames of Cadiz :Ian:Susan:plot_yes:
-:PROPERTIES:
-:rating:   7.8
-:END:
-
-***** 3QTR [#B] 7.10 - The Library of Alexandria :plot_yes:DW2023_09_maybe:
-CLOSED: [2023-09-13 Wed 09:05] SCHEDULED: <2023-09-16 Sat>
-:PROPERTIES:
-:rating:   8.0
-:END:
-
-**** 📂CC9. First Doctor - Volume One :P2015:
-***** [#D] 9.1 - The Sleeping Blood :Barbara:Ian:Vicki:
-***** [#B] 9.2 - The Unwinding World :Vicki:Ian:Barbara:
-:PROPERTIES:
-:rating:   8.0
-:END:
-
-***** [#D] 9.3 The Founding Fathers :Steven:
+**** [#D] CC9.3 The Founding Fathers :Steven:
 
 Old Steven 2/3
 
-***** [#A] 9.4 - The Locked Room :Steven:
+**** [#A] CC9.4 - The Locked Room :Steven:
 :PROPERTIES:
 :rating:   8.5
 :END:
 
 Old Steven 3/3
 
-**** 📂CC11. First Doctor - Volume Two :P2017:scripted:
-***** [#D] 11.1 Fields of Terror :Steven:Vicki:
-***** NEXT [#A] 11.2 Across the Darkened City :Steven:Vicki:Daleks:
-***** [#D] 11.3 The Bonfires of the Vanties :Polly:Ben:
-***** 3QTR [#B] CC11.4 The Plague of Dreams :Polly:Ben:DW2023_05_doctor:
-CLOSED: <2023-05-30 Tue 21:34> SCHEDULED: <2023-05-27 Sat>
-
-**** 📂CC13. First Doctor - Volume Three :P2019:
-***** [#F] 13.1 - E is For...
-***** [#E] 13.2 - Daybreak
-***** [#C] 13.3 - The Vardan Invasion of Mirth :Steven:Vardans:
-***** [#D] 13.4 - The Crumbling Magician :Ben:Polly:
-*** Lost Stories
-**** BLOCK [#A] LS2.1a - Farewell Great Macedon :scripted:3CD:
+**** [#C] CC13.3 - The Vardan Invasion of Mirth :Steven:Vardans:
+**** [#B] ST7.12 - O Tannenbaum :Steven:
+*** with Steven & Dodo
+**** [#C] EA7.2 The Secrets of Det-Sen :Steven:Dodo:plot_simple:DW2022_03_maybe:
 :PROPERTIES:
-:rating:   9.2
+:rating:   7.8
 :END:
 
-**** HALF [#C] LS2.1b The Fragile Yellow Arc of Fragrance :Ian:Susan:Barbara:½CD:plot_yes:
-SCHEDULED: <2023-09-30 Sat>
+**** [#C] CC2.1 - Mother Russia
+**** HALF [#B] CC7.5 - Return of the Rocket Men :D2021_06:
+:PROPERTIES:
+:rating:   8.2
+:END:
 
+*** with Dodo
+**** 📂1DA2022. The Outlaws :Dodo:P2022_04:plot_yes:
+***** 3QTR [#D] 22.1 The Outlaws :Dodo:Monk:P2022_04:DW2023_03_doctor:
+CLOSED: [2023-03-29 Wed 08:54] SCHEDULED: <2023-03-04 Sat>
+
+***** [#C] 22.2 The Miniaturist :Dodo:P2022_04:1CD:
+**** 📂1DA2023. The Demon Song :Dodo:P2023_02:
+***** 23.1 The Demon Song :1CD:
+***** 23.2 The Incherton Incident :2CD:
+*** with Polly & Ben
+**** [#D] CC11.3 The Bonfires of the Vanties :Polly:Ben:scripted:
+**** 3QTR [#B] CC11.4 The Plague of Dreams :Polly:Ben:DW2023_05_doctor:scripted:
+CLOSED: <2023-05-30 Tue 21:34> SCHEDULED: <2023-05-27 Sat>
+
+**** [#D] CC13.4 - The Crumbling Magician :Ben:Polly:
+**** ST7.5 - Falling :Ben:Polly:
+*** misc
+**** 2DONE [#C] EA7.1 After the Daleks :P2021_08:Dalek_War_1st:Susan:D2021_10_daleks:
+CLOSED: [2021-11-01 Mon 22:54] SCHEDULED: <2021-11-01 Mon>
+:PROPERTIES:
+:rating:   7.6
+:END:
+
+**** TBR 1DA2024. Fugitive of the Daleks :P2024_01:Vicki:
+*** CC :🗣:
+***** [#C] 7.1 - The Time Museum :Ian:
+:PROPERTIES:
+:rating:   7.7
+:END:
+
+**** 📂CC9. First Doctor - Volume One :P2015:
+**** 📂CC11. First Doctor - Volume Two :P2017:scripted:
+**** 📂CC13. First Doctor - Volume Three :P2019:
 *** short trips
-**** [#B] ST1.1 Rise and Fall
-**** [#C] ST2.1 - 1963 :Ian:Barbara:Vicki:
-**** [#B] ST7.12 - O Tannenbaum :Steven:
-**** [#C] ST8.9 - A Small Semblance of Home :Susan:Ian:Barbara:
-**** [#D] SST4 The Little Drummer Boy :Steven:Sara_Kingdom:scripted:
 
 /Short Trips: Companions/ #13
 
@@ -338,28 +342,53 @@ https://www.bilibili.com/read/cv16029955
 * 2nd Doctor :2nd_Dr:
 ** tv :📺:
 *** Season 4 :1967:
-**** DONE 04x03 The Power of the Daleks :daleks:animated:srt_full:missing:P2016:P1966:
-**** NOW /04x04 The Highlanders/ :missing:DW2023_Q4:
-SCHEDULED: <2023-12-31 Sun>
+**** DONE [#A] 04x03 The Power of the Daleks :daleks:animated:srt_full:missing:P2016:P1966:
+:PROPERTIES:
+:rating:   8.4
+:END:
+
+**** NOW [#D] /04x04 The Highlanders/ :missing:DW2023_Q4:
+SCHEDULED: <2023-12-30 Sat>
+:PROPERTIES:
+:rating:   6.9
+:END:
 
 小说翻译： http://tieba.baidu.com/p/6573080784?share=9105&fr=share&see_lz=0&share_from=post&sfc=copy&client_type=2&client_version=11.9.8.0&st=1629813078&unique=2870A12337A54D67F67CE44D0875042B 
 
-**** 04x05 The Underwater Menace :missing:animated:
-**** DONE 04x06 The Moonbase :Cybermen:fan_edit:animated:P2014:P1966:
+**** [#F] 04x05 The Underwater Menace :missing:animated:
+:PROPERTIES:
+:rating:   6.1
+:END:
+
+**** DONE [#C] 04x06 The Moonbase :Cybermen:fan_edit:animated:P2014:P1966:
+:PROPERTIES:
+:rating:   7.3
+:END:
 
 Episode 1, 3 missing (but animated in 2014)
 
 赛博人第二次出场
 
-**** DONE 04x07 The Macra Terror :animated:srt_full:2019:
-**** DONE 04x08 The Faceless Ones :animated:srt_full:
+**** DONE [#C] 04x07 The Macra Terror :animated:srt_full:2019:
+:PROPERTIES:
+:rating:   7.2
+:END:
+
+**** DONE [#C] 04x08 The Faceless Ones :animated:srt_full:
+:PROPERTIES:
+:rating:   7.4
+:END:
 
 Episode 2,4,5,6 missing (but all episodes animated in 2020)
 
-**** DONE 04x09 The Evil of the Daleks :daleks:srt_full:missing:Victoria:
+**** DONE [#A] 04x09 The Evil of the Daleks :daleks:srt_full:missing:Victoria:
+:PROPERTIES:
+:rating:   8.4
+:END:
+
 *** Season 5 :1968:
 **** DONE 05x01 The Tomb of the Cybermen :Cybermen:fan_edit:
-**** [#C] /The Abominable Snowmen/ (7.5) :great_intelligence:missing:DW2022_10_extra:
+**** [#C] /The Abominable Snowmen/ (7.5) :great_intelligence:missing:animated:DW2022_10_extra:
 SCHEDULED: <2022-11-02 Wed>
 
 Great Intelligence (大智慧/超级智能）和 Yeti (雪怪）的首次出场
@@ -447,8 +476,19 @@ UNIT 和 准将第一次正式出场
 **** Flower Power (DWM307) (TV Comic reprint) :Cybermen:
 **** Bringer of Darkness (DWMS 1993) :Jamie:Victoria:Daleks:
 ** audio :🎧:
-*** EA :2CD:
-**** EA S2 :P2015:
+*** with Polly & Ben
+**** [#D] CC12.1 - The Curator's Egg :Polly:Ben:
+:PROPERTIES:
+:rating:   7.2
+:END:
+
+**** [#D] ST6.6 - Lost and Found :Ben:Polly:
+:PROPERTIES:
+:rating:   7.0
+:END:
+
+*** with Jamie, Polly & Ben
+**** EA :2CD:
 ***** 3QTR [#C] 2.1 The Yes Men :Jamie:Polly:Ben:plot_yes:D2022_04_doctor:
 CLOSED: [2022-04-27 Wed 21:33] SCHEDULED: <2022-04-29 Fri>
 :PROPERTIES:
@@ -456,9 +496,6 @@ CLOSED: [2022-04-27 Wed 21:33] SCHEDULED: <2022-04-29 Fri>
 :END:
 
 ***** [#D] 2.2 The Forsaken :Jamie:Polly:Ben:plot_yes:
-***** HALF [#B] 2.3 The Black Hole (8.1) :Jamie:Victoria:D2021_06:Monk:
-***** CANCEL [#E] 2.4 The Isos Network :Jamie:Zoe:Cybermen:plot_yes:
-**** EA S4 :P2017:
 ***** [#C] 4.1 The Night Witches :Jamie:Polly:Ben:plot_yes:
 SCHEDULED: <2023-03-01 Wed>
 :PROPERTIES:
@@ -470,6 +507,55 @@ SCHEDULED: <2023-03-01 Wed>
 :rating:   7.7
 :END:
 
+***** HALF [#D] 6.1 The Home Guard :Jamie:Polly:Ben:Master_early:D2021_12_master:plot_half:week3:
+SCHEDULED: <2021-12-15 Wed>
+:PROPERTIES:
+:rating:   7.1
+:END:
+
+**** CC
+***** [#C] CC3.9 - Resistance :Polly:
+:PROPERTIES:
+:rating:   7.7
+:END:
+
+中文解说 【广播剧 - Resistance 抵抗 (剧情解说)-哔哩哔哩】 https://b23.tv/eL2dEEG
+
+***** [#C] 5.9 - The Forbidden Time :Polly:plot_yes:
+:PROPERTIES:
+:rating:   7.5
+:END:
+
+***** 3QTR [#C] 6.8 - The Selachian Gambit :Polly:Jamie:plot_yes:DW2022_08_doctor:
+CLOSED: [2022-08-24 Wed 09:37] SCHEDULED: <2022-08-10 Wed>
+:PROPERTIES:
+:rating:   7.7
+:END:
+
+***** HALF [#C] CC10.1 - The Mouthless Dead :Jamie:Polly:Ben:plot_yes:scripted:DW2023_02_doctor:
+SCHEDULED: <2023-02-07 Tue 21:50>
+:PROPERTIES:
+:rating:   7.7
+:END:
+
+*** with Jamie & Victoria :2CD:
+**** EA
+***** HALF [#B] 2.3 The Black Hole (8.1) :Jamie:Victoria:P2015:D2021_06:Monk:
+***** CANCEL [#E] 2.4 The Isos Network :Jamie:Zoe:Cybermen:plot_yes:
+**** CC
+***** START [#C] CC12.2 Dumb Waiter :Jamie:Leela:D2021_09_extra:plot_yes:ovedue:
+SCHEDULED: <2021-10-03 Sun>
+:PROPERTIES:
+:rating:   7.8
+:END:
+
+***** [#D] 10.2 The Story of Extinction :Victoria:plot_no:scripted:
+:PROPERTIES:
+:rating:   7.2
+:END:
+
+*** with Jamie & Zoe
+**** EA
 ***** CANCEL [#E] +4.3 The Morton Legacy+ :Jamie:Polly:Ben:
 :PROPERTIES:
 :rating:   6.7
@@ -481,15 +567,78 @@ SCHEDULED: <2023-12-16 Sat>
 :rating:   8.2
 :END:
 
-**** EA S6 :P2019:
-***** HALF [#D] 6.1 The Home Guard :Jamie:Polly:Ben:Master_early:D2021_12_master:plot_half:week3:
-SCHEDULED: <2021-12-15 Wed>
-:PROPERTIES:
-:rating:   7.1
-:END:
-
 ***** DONE [#A] 6.2 Daughter of the Gods (9.2) :Jamie:Zoe:Steven:Katarina:Daleks:P2019:D2021_04:
 CLOSED: <2021-04-30 Fri 22:59>
+
+**** HALF [#D] LS4.2 - The Queen of Time :Jamie:Zoe:plot_yes:D2022_06_doctor:2CD:
+SCHEDULED: <2022-06-05 Sun>
+:PROPERTIES:
+:rating:   7.4
+:END:
+
+**** BLOCK [#B] LS4.3 - Lords of the Red Planet :Jamie:Zoe:ice_warriors:3CD:plot_yes:
+:PROPERTIES:
+:rating:   8.2
+:END:
+
+**** CC
+***** HALF [#B] CC4.2 - The Glorious Revolution :Jamie:D2022_01_doctor:plot_no:
+:PROPERTIES:
+:rating:   8.1
+:END:
+
+与 Highlanders 相关
+
+***** [#C] CC6.11 - The Jigsaw War :Jamie:
+:PROPERTIES:
+:rating:   7.8
+:END:
+
+***** CANCEL [#E] 10.3 The Integral :plot_no:scripted:
+:PROPERTIES:
+:rating:   6.6
+:END:
+
+***** [#D] 10.4. The Edge :Jamie:plot_no:scripted:
+:PROPERTIES:
+:rating:   7.4
+:END:
+
+***** [#D] 12.3 The Iron Maid :Zoe:Jamie:
+:PROPERTIES:
+:rating:   7.3
+:END:
+
+***** [#B] CC12.4 - The Tactics of Defeat :Ruth_Matheson:Zoe:UNIT:
+:PROPERTIES:
+:rating:   8.1
+:END:
+
+***** [#A] 14.3 The Prints of Denmark :Zoe:Monk:
+***** [#D] 14.4 The Deepest Tragedian :Zoe:
+:PROPERTIES:
+:rating:   7.0
+:END:
+
+**** [#C] ST7.8 - The British Invasion :Zoe:Jamie:
+:PROPERTIES:
+:rating:   7.5
+:END:
+
+**** [#B] STS#3. Lepidoptery for Beginners :Jamie:Zoe:
+:PROPERTIES:
+:rating:   8.3
+:END:
+
+**** [#D] STS? The Horror of Hy-Brasil
+:PROPERTIES:
+:rating:   7.2
+:END:
+
+**** [#B] DotD#2 - Shadow of Death :Jamie:Zoe:plot_yes:
+:PROPERTIES:
+:thetimescales: 7.9
+:END:
 
 *** 2DA
 **** 📂Beyond War Games :P2022_07:plot_yes:
@@ -500,10 +649,10 @@ CLOSED: <2022-10-30 Sun 19:49> SCHEDULED: <2022-10-22 Sat>
 CLOSED: [2023-08-18 Fri 08:40] SCHEDULED: <2023-08-19 Sat>
 
 **** James Robert McCrimmon :P2023_07:1CD:
-***** 23.1 Jamie :plot_yes:
-***** 23.2 The Green Man
-***** 23.3 The Shroud
-*** Companion Chronicles :🗣:
+***** [#D] 23.1 Jamie :plot_yes:
+***** [#B] 23.2 The Green Man
+***** [#B] 23.3 The Shroud
+*** CC misc :🗣:
 **** #The_Company :Zoe:
 ***** 2DONE [#D] CC5.02 - Echoes of Grey :Zoe:D2021_07_dr:
 CLOSED: [2021-07-06 Tue 17:33]
@@ -528,123 +677,18 @@ SCHEDULED: <2023-06-24 Sat>
 :rating:   8.4
 :END:
 
-
 https://tardis.fandom.com/wiki/Zoe_Heriot#Life_after_the_Doctor
 
-**** [#C] CC3.9 - Resistance :Polly:
-:PROPERTIES:
-:rating:   7.7
-:END:
-
-中文解说 【广播剧 - Resistance 抵抗 (剧情解说)-哔哩哔哩】 https://b23.tv/eL2dEEG
-
-**** HALF [#B] CC4.2 - The Glorious Revolution :Jamie:D2022_01_doctor:plot_no:
-:PROPERTIES:
-:rating:   8.1
-:END:
-
-与 Highlanders 相关
-
-**** [#C] 5.9 - The Forbidden Time :Polly:plot_yes:
-:PROPERTIES:
-:rating:   7.5
-:END:
-
-**** 3QTR [#C] 6.8 - The Selachian Gambit :Polly:Jamie:plot_yes:DW2022_08_doctor:
-CLOSED: [2022-08-24 Wed 09:37] SCHEDULED: <2022-08-10 Wed>
-:PROPERTIES:
-:rating:   7.7
-:END:
-
-**** [#C] CC6.11 - The Jigsaw War :Jamie:
-:PROPERTIES:
-:rating:   7.8
-:END:
-
-**** 📂CC10 - The Second Doctor: Volume One :scripted:
-***** HALF [#C] CC10.1 - The Mouthless Dead :Jamie:Polly:Ben:plot_yes:DW2023_02_doctor:
-SCHEDULED: <2023-02-07 Tue 21:50>
-:PROPERTIES:
-:rating:   7.7
-:END:
-
-***** [#D] 10.2 The Story of Extinction :Victoria:plot_no:
-:PROPERTIES:
-:rating:   7.2
-:END:
-
-***** [#E] 10.3 The Integral :plot_no:
-:PROPERTIES:
-:rating:   6.6
-:END:
-
-***** [#D] 10.4. The Edge :Jamie:plot_no:
-:PROPERTIES:
-:rating:   7.4
-:END:
-
-**** 📂CC12 - The Second Doctor: Volume Two :P2018:
-***** [#D] 12.1 - The Curator's Egg
-:PROPERTIES:
-:rating:   7.2
-:END:
-
-***** START [#C] CC12.2 Dumb Waiter :Jamie:Leela:D2021_09_extra:plot_yes:ovedue:
-SCHEDULED: <2021-10-03 Sun>
-:PROPERTIES:
-:rating:   7.8
-:END:
-
-***** [#D] 12.3 The Iron Maid :Zoe:Jamie:
-:PROPERTIES:
-:rating:   7.3
-:END:
-
-***** [#B] CC12.4 - The Tactics of Defeat :Ruth_Matheson:Zoe:UNIT:
-:PROPERTIES:
-:rating:   8.1
-:END:
-
-**** 📂CC14 - The Second Doctor: Volume Three :P2022_04:
+**** with Jamie
 ***** [#A] 14.1 The Death of the Daleks :Jamie:Daleks:
 ***** [#C] 14.2 The Phantom Piper :Jamie:
-***** [#A] 14.3 The Prints of Denmark :Zoe:Monk:
-***** [#D] 14.4 The Deepest Tragedian :Zoe:
-:PROPERTIES:
-:rating:   7.0
-:END:
-
-*** misc
-**** HALF [#D] LS4.2 - The Queen of Time :Jamie:Zoe:plot_yes:D2022_06_doctor:2CD:
-SCHEDULED: <2022-06-05 Sun>
-:PROPERTIES:
-:rating:   7.4
-:END:
-
-**** BLOCK [#B] LS4.3 - Lords of the Red Planet :Jamie:Zoe:ice_warriors:3CD:plot_yes:
-:PROPERTIES:
-:rating:   8.2
-:END:
-
-**** [#B] DotD#2 - Shadow of Death :Jamie:Zoe:
-:PROPERTIES:
-:thetimescales: 7.9
-:END:
-
-*** short trips :🗣:
-**** [#D] 2.2 - The Way Forwards
+**** 📂CC10 - The Second Doctor: Volume One :scripted:
+**** 📂CC12 - The Second Doctor: Volume Two :P2018:
+**** 📂CC14 - The Second Doctor: Volume Three :P2022_04:
+*** ST misc :🗣:
+**** [#D] 2.2 - The Way Forwards :Victoria:
 :PROPERTIES:
 :rating:   7.1
-:END:
-
-**** [#D] 6.6 - Lost and Found
-:PROPERTIES:
-:rating:   7.0
-:END:
-
-**** [#C] 7.8 - The British Invasion :Zoe:Jamie:
-:PROPERTIES:
-:rating:   7.5
 :END:
 
 **** [#B] 8.X - The Last Day At Work :Jamie:
@@ -655,16 +699,6 @@ SCHEDULED: <2022-06-05 Sun>
 **** [#C] 10.2 - Deleted Scenes :Jamie:
 :PROPERTIES:
 :rating:   7.8
-:END:
-
-**** [#B] STS#3. Lepidoptery for Beginners :Jamie:Zoe:
-:PROPERTIES:
-:rating:   8.3
-:END:
-
-**** [#D] STS? The Horror of Hy-Brasil
-:PROPERTIES:
-:rating:   7.2
 :END:
 
 *** TV Soundtracks
@@ -769,50 +803,141 @@ CLOSED: [2020-06-30 Tue 14:01]
 *** TVAction/TVComic
 **** Marvel DWCC reprint
 ** audio :🎧:
-*** 3DA :BigFinish:3DA:2CD:
-**** CANCEL [#D] 1.1 - Prisoners of the Lake :Jo:UNIT:P2015:plot_yes:
+*** with Jo
+**** 3DA :BigFinish:3DA:2CD:
+***** CANCEL [#D] 1.1 - Prisoners of the Lake :Jo:UNIT:P2015:plot_yes:
 :PROPERTIES:
 :rating:   7.0
 :END:
 
-**** [#C] 3DA1.2 - The Havoc of Empires :Jo:Yates:P2015:plot_yes:DW2023_05_doctor:
+***** [#C] 3DA1.2 - The Havoc of Empires :Jo:Yates:P2015:plot_yes:DW2023_05_doctor:
 SCHEDULED: <2023-05-28 Sun>
 :PROPERTIES:
 :rating:   7.6
 :END:
 
-**** 2DONE [#B] 2.1 The Transcendence of Ephros :Jo:P2016:D2021_07_dr:plot_yes:
+***** 2DONE [#B] 2.1 The Transcendence of Ephros :Jo:P2016:D2021_07_dr:plot_yes:
 CLOSED: [2021-07-27 Tue 23:10]
 :PROPERTIES:
 :rating:   7.9
 :END:
 
-**** HALF [#D] 2.2 The Hidden Realm :Jo:P2016:plot_yes:DW2022_09_doctor:
+***** HALF [#D] 2.2 The Hidden Realm :Jo:P2016:plot_yes:DW2022_09_doctor:
 SCHEDULED: <2022-09-21 Wed>
 :PROPERTIES:
 :rating:   7.3
 :END:
 
-**** [#C] 3.1 The Conquest of Far :Jo:P2017:plot_no:
+***** [#C] 3.1 The Conquest of Far :Jo:P2017:plot_no:
 :PROPERTIES:
 :rating:   7.5
 :END:
 
-**** [#C] 3.2 Storm of the Horofax :Jo:P2017:plot_no:
+***** [#C] 3.2 Storm of the Horofax :Jo:P2017:plot_no:
 :PROPERTIES:
 :rating:   7.6
 :END:
 
-**** 2DONE [#B] 4.1 - The Rise of the New Humans (8.0) :Jo:Monk:P2018:D2021_05:plot_no:
+***** 2DONE [#B] 4.1 - The Rise of the New Humans (8.0) :Jo:Monk:P2018:D2021_05:plot_no:
 CLOSED: <2021-05-27 Thu 23:20>
 
-**** 3QTR [#C] 4.2 - The Tyrants of Logic :Jo:P2018:cybermen:plot_yes:D2022_02_doctor:
+***** 3QTR [#C] 4.2 - The Tyrants of Logic :Jo:P2018:cybermen:plot_yes:D2022_02_doctor:
 CLOSED: [2022-02-12 Sat 15:45] SCHEDULED: <2022-02-13 Sun>
 :PROPERTIES:
 :rating:   7.5
 :END:
 
-**** DONE [#A] 5.1. Primord :Liz:Jo:UNIT:P2019:plot_yes:
+***** [#D] 5.2 The Scream of Ghosts :Jo:P2019:plot_no:
+:PROPERTIES:
+:rating:   7.3
+:END:
+
+***** [#B] 6.1 Poison of the Daleks (8.0) :Jo:UNIT:P2020:plot_no:
+:PROPERTIES:
+:rating:   8.0
+:END:
+
+***** CANCEL [#D] 6.2 Operation: Hellfire :Jo:Churchill:P2020:plot_yes:
+:PROPERTIES:
+:rating:   7.1
+:END:
+
+***** CANCEL [#D] 8.1 Conspiracy in Space :Jo:draconians:plot_yes:DW2023_05_doctor:
+SCHEDULED: <2023-05-27 Sat>
+:PROPERTIES:
+:rating:   7.1
+:END:
+
+***** 2023A. The Return of Jo Jones :Jo:P2023_02:1CD:P2023_02:
+****** NEXT [#D] 23A.1 Supernature
+****** [#D] 23A.2 The Conservitors
+****** [#C] 23A.3 The Iron Shore
+**** misc
+***** DONE [#A] The Sacrifice of Jo Grant (The Legacy of Time #3) :Jo:P2019:
+CLOSED: [2020-08-07 Fri 18:25]
+:PROPERTIES:
+:rating:   9.0
+:END:
+
+***** BLOCK [#C] LS4.4 The Mega :Jo:Brigadier:Yates:Benton:3CD:
+:PROPERTIES:
+:rating:   7.6
+:END:
+
+block原因：太长（3小时）
+
+**** CC (Jo) :Jo:
+***** [#A] CC7.9 - The Scorchies †8.7 :has_plot:
+:PROPERTIES:
+:fandom:   https://tardis.fandom.com/wiki/The_Scorchies_(audio_story)
+:END:
+
+The Doctor, his companion Jo Grant and the Brigadier face their strangest case yet — a Saturday night TV show that has been invaded by aliens that look like puppets!
+
+The Scorchies want to take over the world. They want to kill the Doctor. And they want to perform some outstanding showtunes. Though not necessarily in that order...
+
+With Jo caught inside The Scorchies Show, can she save the day before the planet Earth falls victim to the dark side of light entertainment?
+
+***** HALF [#A] CC5.3 - Find and Replace :UNIT:Iris:
+:PROPERTIES:
+:rating:   8.6
+:END:
+
+Christmas 2010: Jo Grant finds herself stuck in a department store elevator with an alien creature called Huxley.
+
+Huxley is a narrator from Verbatim Six. He is here to let Jo revisit the best time of her life — when she was the plucky companion to that eccentric Space/Time traveller known only as... Iris Wildthyme.
+
+Confronted with memories she knows nothing about, Jo agrees to a meeting with Iris inside her transdimensional bus. Together the three of them take a trip back in time: back to the 1970s, to UNIT HQ and a meeting with the only person who knows the whole truth...
+
+https://tardis.fandom.com/wiki/Find_and_Replace_(audio_story)
+
+***** HALF [#B] CC8.4 - Ghost in the Machine :D2022_03_doctor:week2:plot_yes:
+SCHEDULED: <2022-03-30 Wed>
+:PROPERTIES:
+:rating:   8.1
+:END:
+
+***** [#D] CC6.0b - The Mists of Time (7.4)
+***** [#D] CC6.4 - The Many Deaths of Jo Grant (7.2)
+**** ST
+***** [#A] STS 39 Still Life :Jo:P2019:
+:PROPERTIES:
+:rating:   9.3
+:END:
+
+***** [#A] ST9.6 The Same Face (8.6, top #4 in ST) :Jo:Master:P2019:
+***** [#B] ST6.8 Damuscus (8.3, top #7 in ST) :Jo:UNIT:
+
+As the decade in English history which attracts the greatest quantity of alien invasions per annum, the 1970s are not the easiest time in which to steer the great British ship of state. The Prime Minister, nonetheless, is doing the very best job he can. Still, at least he has UNIT to rely on — their eccentric, bouffant-haired scientific adviser in particular. Or does he?
+
+***** [#D] STR6. The Switching :Jo:Benton:Master_nemesis:scripted:
+:PROPERTIES:
+:rating:   7.3
+:END:
+
+*** with Liz :Liz:
+**** 3DA
+***** DONE [#A] 5.1. Primord :Liz:Jo:UNIT:P2019:plot_yes:
 CLOSED: [2020-07-15 Wed 19:13]
 :PROPERTIES:
 :raiting:  8.5
@@ -820,80 +945,24 @@ CLOSED: [2020-07-15 Wed 19:13]
 
 Inferno
 
-**** [#D] 5.2 The Scream of Ghosts :Jo:P2019:plot_no:
-:PROPERTIES:
-:rating:   7.3
-:END:
-
-**** [#B] 6.1 Poison of the Daleks (8.0) :Jo:UNIT:P2020:plot_no:
-:PROPERTIES:
-:rating:   8.0
-:END:
-
-**** CANCEL [#D] 6.2 Operation: Hellfire :Jo:Churchill:P2020:plot_yes:
-:PROPERTIES:
-:rating:   7.1
-:END:
-
-**** HALF [#C] 7.1 The Unzal Incursion :P2021:Liz:Brigadier:DW2023_01_doctor:
+***** HALF [#C] 7.1 The Unzal Incursion :P2021:Liz:Brigadier:DW2023_01_doctor:
 SCHEDULED: <2023-01-17 Tue 08:51>
 :PROPERTIES:
 :rating:   7.9
 :END:
 
-**** HALF [#A] 7.2 The Gulf :P2021:Sarah:D2022_05_doctor:
-SCHEDULED: <2022-05-28 Sat>
-:PROPERTIES:
-:rating:   8.7
-:END:
-
-**** CANCEL [#D] 8.1 Conspiracy in Space :Jo:draconians:plot_yes:DW2023_05_doctor:
-SCHEDULED: <2023-05-27 Sat>
-:PROPERTIES:
-:rating:   7.1
-:END:
-
-**** HALF [#B] 8.2 The Devil's Hoofprints :P2021:Sarah:Brigadier:plot_yes:DW2023_09_doctor:
-SCHEDULED: <2023-09-21 Thu>
-:PROPERTIES:
-:rating:   8.1
-:END:
-
-*** 3DA (2022- )
-**** BLOCK [#A] 22A. The Annihilators :P2022_02:Liz:2nd_Dr:Jamie:Brigadier:3CD:DW2024_01_doctor:
+***** START [#A] 22A. The Annihilators :P2022_02:Liz:2nd_Dr:Jamie:Brigadier:3CD:DW2024_01_doctor:
+SCHEDULED: <2024-01-13 Sat>
 
 block原因：太长（3CD）
 
 /The Annihilators/ was the first 7 part story made by Big Finish
 
-**** CANCEL [#E] 22B. Kaleidoscope :Sarah:Harry:Brigadier:P2022_10:3CD:
-**** 2023A. The Return of Jo Jones :Jo:P2023_02:1CD:P2023_02:
-***** NEXT [#D] 23A.1 Supernature
-***** [#D] 23A.2 The Conservitors
-***** [#C] 23A.3 The Iron Shore
-**** BLOCK 2023B Intelligence for War :P2023_10:Liz:Brig:3CD:
-*** BF misc
-**** DONE [#A] The Sacrifice of Jo Grant (The Legacy of Time #3) :Jo:P2019:
-CLOSED: [2020-08-07 Fri 18:25]
-:PROPERTIES:
-:rating:   9.0
-:END:
-
-**** BLOCK [#C] LS4.4 The Mega :Jo:Brigadier:Yates:Benton:3CD:
-:PROPERTIES:
-:rating:   7.6
-:END:
-
-block原因：太长（3小时）
-
-**** CANCEL [#E] Peepshow (The Diary of River Song #6.3) †6.6
-CLOSED: [2020-06-25 Thu 21:48]
-
-**** START [#D] CDNM3.1 The House that Hoxx Built :plot_yes:DW2022_11_doctor:
-SCHEDULED: <2022-11-23 Wed>
-
-*** BF shorts :BigFinish:audiobook:🗣:
-**** CC (Liz) :Liz:
+****** HALF part1-3
+****** part4-5
+****** part6-7 :DW2024_02_doctor:
+***** BLOCK 2023B Intelligence for War :P2023_10:Liz:Brig:3CD:
+**** CC (Liz)
 ***** DONE [#A] CC7.4 - The Last Post :P2012:no_doctor:
 CLOSED: [2020-08-07 Fri 18:25]
 :PROPERTIES:
@@ -937,39 +1006,33 @@ Yet there's something rotten at the core of this family... The seeds of a politi
 
 The Sentinels of the New Dawn are stirring and its malign influence will be felt for centuries to come...
 
-**** CC (Jo) :Jo:
-***** [#A] CC7.9 - The Scorchies †8.7 :has_plot:
+**** [#B] ST6.7 The Blame Game (8.3, top #8 in ST) :Liz:Monk:
+
+To escape his Earth exile, the Doctor is prepared to make any bargain, come to any arrangement, or to do any deal with any devil – even if in this case the Devil wears a monk's robes. But when past misdeeds start catching up with both the Doctor and the Monk, who can Liz Shaw trust when time is running out and death is rapidly approaching?
+
+*** with Sarah
+**** HALF [#A] 3DA7.2 The Gulf :P2021:Sarah:D2022_05_doctor:
+SCHEDULED: <2022-05-28 Sat>
 :PROPERTIES:
-:fandom:   https://tardis.fandom.com/wiki/The_Scorchies_(audio_story)
+:rating:   8.7
 :END:
 
-The Doctor, his companion Jo Grant and the Brigadier face their strangest case yet — a Saturday night TV show that has been invaded by aliens that look like puppets!
-
-The Scorchies want to take over the world. They want to kill the Doctor. And they want to perform some outstanding showtunes. Though not necessarily in that order...
-
-With Jo caught inside The Scorchies Show, can she save the day before the planet Earth falls victim to the dark side of light entertainment?
-
-***** HALF [#A] CC5.3 - Find and Replace :UNIT:Iris:
-:PROPERTIES:
-:rating:   8.6
-:END:
-
-Christmas 2010: Jo Grant finds herself stuck in a department store elevator with an alien creature called Huxley.
-
-Huxley is a narrator from Verbatim Six. He is here to let Jo revisit the best time of her life — when she was the plucky companion to that eccentric Space/Time traveller known only as... Iris Wildthyme.
-
-Confronted with memories she knows nothing about, Jo agrees to a meeting with Iris inside her transdimensional bus. Together the three of them take a trip back in time: back to the 1970s, to UNIT HQ and a meeting with the only person who knows the whole truth...
-
-https://tardis.fandom.com/wiki/Find_and_Replace_(audio_story)
-
-***** HALF [#B] CC8.4 - Ghost in the Machine :D2022_03_doctor:week2:plot_yes:
-SCHEDULED: <2022-03-30 Wed>
+**** HALF [#B] 3DA8.2 The Devil's Hoofprints :P2021:Sarah:Brigadier:plot_yes:DW2023_09_doctor:
+SCHEDULED: <2023-09-21 Thu>
 :PROPERTIES:
 :rating:   8.1
 :END:
 
-***** [#D] CC6.0b - The Mists of Time (7.4)
-***** [#D] CC6.4 - The Many Deaths of Jo Grant (7.2)
+**** CANCEL [#E] 3DA22B. Kaleidoscope :Sarah:Harry:Brigadier:P2022_10:3CD:
+**** START [#D] CDNM3.1 The House that Hoxx Built :plot_yes:DW2022_11_doctor:
+SCHEDULED: <2022-11-23 Wed>
+
+**** CANCEL [#F] ST10.03 Decline of the Ancient Mariner :Sarah:
+:PROPERTIES:
+:rating:   4.5
+:END:
+
+*** BF shorts :BigFinish:audiobook:🗣:
 **** CC
 ***** HALF [#C] CC4.3 - The Prisoner of Peladon :Peladon:DW2023_07_doctor:
 SCHEDULED: <2023-07-08 Sat>
@@ -984,20 +1047,6 @@ SCHEDULED: <2023-11-11 Sat>
 :END:
 
 **** Short Trips
-***** [#A] STS 39 Still Life :Jo:P2019:
-:PROPERTIES:
-:rating:   9.3
-:END:
-
-***** [#A] ST9.6 The Same Face (8.6, top #4 in ST) :Jo:Master:P2019:
-***** [#B] ST6.8 Damuscus (8.3, top #7 in ST) :Jo:UNIT:
-
-As the decade in English history which attracts the greatest quantity of alien invasions per annum, the 1970s are not the easiest time in which to steer the great British ship of state. The Prime Minister, nonetheless, is doing the very best job he can. Still, at least he has UNIT to rely on — their eccentric, bouffant-haired scientific adviser in particular. Or does he?
-
-***** [#B] ST6.7 The Blame Game (8.3, top #8 in ST) :Liz:Monk:
-
-To escape his Earth exile, the Doctor is prepared to make any bargain, come to any arrangement, or to do any deal with any devil – even if in this case the Devil wears a monk's robes. But when past misdeeds start catching up with both the Doctor and the Monk, who can Liz Shaw trust when time is running out and death is rapidly approaching?
-
 ***** DONE [#C] ST7.X Landbound :scripted:no_companion:bilibili:DW2023_03_doctor:
 CLOSED: [2023-04-11 Tue 18:48] SCHEDULED: <2023-03-18 Sat>
 :PROPERTIES:
@@ -1006,16 +1055,8 @@ CLOSED: [2023-04-11 Tue 18:48] SCHEDULED: <2023-03-18 Sat>
 
 【【神秘博士】短途旅行：以陆为牢 | Short Trips: Landbound-哔哩哔哩】 https://b23.tv/hbxNYVJ
 
-***** CANCEL [#E] 10.03 Decline of the Ancient Mariner †4.2 :Sarah:
-CLOSED: [2020-06-25 Thu 21:52]
-
 ***** HALF [#A] ST11.3 The Threshold :Master_nemesis:P2022_02:DW2022_07_doctor:
 SCHEDULED: <2022-07-16 Sat>
-
-***** [#D] STR6. The Switching :Jo:Benton:Master_nemesis:scripted:
-:PROPERTIES:
-:rating:   7.3
-:END:
 
 *** BBC :BBC:📄:🎧:
 **** [#C] Horrors of War :Jo:Annie:WW1:P2018:1CD:
@@ -1134,8 +1175,8 @@ CLOSED: [2021-09-26 Sun 08:19]
 CLOSED: [2022-08-23 Tue 20:03] SCHEDULED: <2022-08-31 Wed>
 
 **** HALF [#C] 18x06 - The Keeper of Traken (7.9) :Nyssa:Master_decayed:
-**** HALF [#C] 18x07 - Logopolis (7.9) :Nyssa:Tegan:Master_tremas:DW2023_Q4:
-SCHEDULED: <2024-01-21 Sun>
+**** DONE [#C] 18x07 - Logopolis (7.9) :Nyssa:Tegan:Master_tremas:DW2023_Q4:
+CLOSED: [2024-01-08 Mon 20:40] SCHEDULED: <2024-01-21 Sun>
 
 ** comics :📚:
 *** DONE Titan Comics: Gaze of the Medusa :Sarah:Titan:
@@ -1180,7 +1221,7 @@ CLOSED: [2020-08-03 Mon 23:17]
 *** TVComic
 **** Marvel DWCC reprint
 ** audio :🎧:
-*** BF 4DA :4DA:BigFinish:
+*** with Leela
 **** 4DA series 1 :Leela:scripted:P2012:1CD:
 ***** CANCEL [#E] 1.1 Destination - Nerva †6.5
 CLOSED: [2020-06-28 Sun 13:30]
@@ -1212,21 +1253,6 @@ This time, Marshal Grinmal and his belligerent cohorts are ready for them. This 
 
 With the Doctor a prisoner on the Kraals' radiation-blasted home planet of Oseidon, only his companion Leela can save the day — alongside a most unlikely ally.
 
-**** 4DA series 2 :Romana_1:P2013:scripted:1CD:
-***** DONE [#B] 2.1 The Auntie Matter
-CLOSED: <2021-05-27 Thu 21:05>
-:PROPERTIES:
-:rating:   8.1
-:END:
-
-***** 3QTR [#B] 2.4 The Justice of Jalxar :Jago:Litefoot:D2022_01_doctor:
-CLOSED: [2022-01-18 Tue 15:32] SCHEDULED: <2022-01-30 Sun>
-:PROPERTIES:
-:rating:   8.1
-:END:
-
-***** [#C] 2.5 - Phantoms of the Deep (7.5)
-***** [#D] 2.6 - The Dalek Contract / 2.7 The Final Phase (7.0)
 **** 4DA series 3 :Leela:P2014:scripted:1CD:
 ***** 2DONE [#C] 3.1 - The King of Sontar (7.7) :Sontarans:D2021_09_dr:
 CLOSED: [2020-08-27 Thu 12:44] SCHEDULED: <2021-09-11 Sat>
@@ -1279,6 +1305,97 @@ SCHEDULED: <2022-06-16 Thu>
 ***** CANCEL [#F] 4.8 Return to Telos
 CLOSED: [2020-08-20 Thu 13:56]
 
+**** 4DA series 7 :Leela:P2018:1CD:
+***** 3QTR [#C] 7.1 The Sons of Kaldor (7.7) :Kaldor:Robots:DW2022_12_doctor:
+CLOSED: [2022-12-13 Tue 08:58] SCHEDULED: <2022-12-13 Tue>
+
+***** [#C] 7.2 The Crowmarsh Experiment (7.6)
+***** [#C] 7.6 The Bad Penny (7.5)
+***** TODO [#C] 7.7/7.8 - Kill the Doctor! / The Age of Sutekh (7.8/7.0) :Sutekh:2CD:
+**** DONE [#A] 9SP1 Shadow of the Sun (8.6) :Leela:1CD:
+CLOSED: [2020-07-15 Wed 19:13]
+
+**** 4DA series 10 :Leela:P2021:2CD:
+***** [#C] 10.1 The World Traders
+***** [#C] 10.2 The Day of the Comet
+***** [#C] 10.3 The Tribulations of Tahdeus Nook
+***** [#E] 10.4 The Primeval Design
+**** 4DA series 12 :Leela:Margaret:P2023:
+***** 12.1 Ice Heist :Ice_Warriors:P2023_03:2CD:
+***** 12.2 Antillia the Lost :P2023_03:2CD:
+***** 12.3 The Wizard of Time :P2023_06:1CD:
+***** 12.4 The Friendly Invasion :P2023_06:1CD:
+***** 12.5 Stone Cold :Weeping_Angels:P2023_06:2CD:
+***** 12.6 The Ghost of Margaret :P2023_06:1CD:
+**** BF PHP :Leela:
+
+Philip Hinchcliffe Presents
+
+***** [#B] 1.1 The Ghosts of Gralstead :plot_no:3CD:
+***** [#C] 1.2 - The Devil's Armada :2CD:
+***** [#D] 2. The Genesis Chamber :3CD:
+***** [#D] 3. The Helm of Awe :3CD:
+***** [#D] 4. The God of Phantoms :3CD:
+**** misc
+***** DONE [#C] Night of the Stormcrow (Bonus Release #11) :P2014:Leela:scripted:1CD:
+CLOSED: [2020-07-29 Wed 23:02]
+:PROPERTIES:
+:rating:   7.7
+:END:
+
+***** BLOCK [#A] LS 2.07 - The Foe from the Future  (8.9) :Leela:plot_yes:3CD:
+***** [#C] LS 2.08 - The Valley of Death 7.7 :Leela:2CD:plot_no:
+***** [#D] CDNM3.2 The Tivolian Who Knew Too Much :P2022:Leela:plot_yes:1CD:
+**** short
+***** [#C] CC2.4 - The Catalyst :Leela:
+:PROPERTIES:
+:rating:   7.9
+:END:
+
+***** CANCEL [#D] CC3.4 - Empathy Games †7.0 :Leela:
+***** [#D] CC4.10 - The Time Vampire :Leela:
+:PROPERTIES:
+:rating:   7.2
+:END:
+
+***** CANCEL [#E] CC7.6 - The Child
+:PROPERTIES:
+:rating:   6.3
+:END:
+
+***** [#B] STR1.5 Sound the Siren And I'll Come To You Comrade :Leela:
+:PROPERTIES:
+:rating:   7.9
+:END:
+
+*** with Romana I
+**** 4DA series 2 :Romana_1:P2013:scripted:1CD:
+***** DONE [#B] 2.1 The Auntie Matter
+CLOSED: <2021-05-27 Thu 21:05>
+:PROPERTIES:
+:rating:   8.1
+:END:
+
+***** 3QTR [#B] 2.4 The Justice of Jalxar :Jago:Litefoot:D2022_01_doctor:
+CLOSED: [2022-01-18 Tue 15:32] SCHEDULED: <2022-01-30 Sun>
+:PROPERTIES:
+:rating:   8.1
+:END:
+
+***** [#C] 2.5 - Phantoms of the Deep (7.5)
+***** [#D] 2.6 - The Dalek Contract / 2.7 The Final Phase (7.0)
+**** 3QTR [#B] STR3.4 The Warren Legacy :Romana_1:P2015:DW2023_04_doctor:
+CLOSED: <2023-04-22 Sat 21:12> SCHEDULED: <2023-04-12 Wed 08:15>
+:PROPERTIES:
+:rating:   7.9
+:END:
+
+**** [#C] SST16. The Doctor's First XI :Romana_1:P2014:
+:PROPERTIES:
+:rating:   7.9
+:END:
+
+*** with Romana II
 **** 4DA series 5 :Romana_2:P2016:1CD:
 ***** [#D] 5.1 - Wave of Destruction (7.1)
 ***** [#D] 5.2 - The Labyrinth of Buda Castle (7.1)
@@ -1301,13 +1418,48 @@ CLOSED: [2023-12-15 Fri 21:28] SCHEDULED: <2023-12-09 Sat>
 
 ***** [#D] 6.6 - Subterranea (7.1)
 ***** TODO [#D] 6.8 - The Skin of the Sleek / 6.9 - The Thief Who Stole Time
-**** 4DA series 7 :Leela:P2018:1CD:
-***** 3QTR [#C] 7.1 The Sons of Kaldor (7.7) :Kaldor:Robots:DW2022_12_doctor:
-CLOSED: [2022-12-13 Tue 08:58] SCHEDULED: <2022-12-13 Tue>
+**** 4DA series 9 :P2020:2CD:
 
-***** [#C] 7.2 The Crowmarsh Experiment (7.6)
-***** [#C] 7.6 The Bad Penny (7.5)
-***** TODO [#C] 7.7/7.8 - Kill the Doctor! / The Age of Sutekh (7.8/7.0) :Sutekh:2CD:
+Romana II
+
+***** [#C] 9.1 - Purgatory 12 (7.6) :Romana_2:Adric:
+***** 3QTR [#B] 4DA9.2 - Chase the Night (8.3) :Romana_2:Adric:K9_2:DW2023_06_doctor:
+CLOSED: [2023-06-07 Wed 08:19] SCHEDULED: <2023-06-10 Sat>
+:PROPERTIES:
+:rating:   8.3
+:END:
+
+***** [#D] 9.3 - The Planet of Witches (7.1) :Romana_2:Adric:
+***** [#B] 9.4 - The Quest of the Engineer (8.0) :Romana_2:Adric:
+**** misc
+***** READY [#A] LS6.2 - The Doomsday Contract :Romana_2:P2021:bilibili:2CD:
+:PROPERTIES:
+:rating:   8.9
+:END:
+
+【【神秘博士广播剧熟肉】The Lost Stories 602 The Doomsday Contract (Part 1&2) 末日合同-哔哩哔哩】 https://b23.tv/Ddqe3C1
+
+【【神秘博士广播剧熟肉】The Lost Stories 602 The Doomsday Contract (Part 3&4) 末日合同-哔哩哔哩】 https://b23.tv/yvSsm4b
+
+***** [#B] NA03 - The Romance of Crime :Romana_2:P2015:2CD:scripted:
+:PROPERTIES:
+:rating:   8.0
+:END:
+
+***** [#B] NA04 The English Way of Death :Romana_2:P2015:2CD:scripted:
+***** [#B] NA05 - The Well-Mannered War :Romana_2:2CD:P2015:
+:PROPERTIES:
+:rating:   8.1
+:END:
+
+**** short
+***** TODO [#A] ST6.9 - A Full Life (9.0) :Adric:Romana_2:
+***** [#C] 4.4 The Old Rogue :Romana_2:2nd_Dr:Jamie:
+:PROPERTIES:
+:rating:   7.9
+:END:
+
+*** BF 4DA :4DA:BigFinish:
 **** 4DA series 8 :P2019:Ann:1CD:
 ***** plot
 
@@ -1333,58 +1485,19 @@ SCHEDULED: <2022-04-23 Sat>
 ***** [#D] 8.4 The False Guardian / 8.5 Time's Assassin
 ***** [#D] 8.6 - Fever Island (7.2)
 ***** [#B] 8.7/8.8 - The Perfect Prisoners (8.2/8.3) :2CD:
-**** 4DA series 9 :P2020:2CD:
-
-Romana II
-
-***** [#C] 9.1 - Purgatory 12 (7.6) :Romana_2:Adric:
-***** 3QTR [#B] 4DA9.2 - Chase the Night (8.3) :Romana_2:Adric:K9_2:DW2023_06_doctor:
-CLOSED: [2023-06-07 Wed 08:19] SCHEDULED: <2023-06-10 Sat>
-:PROPERTIES:
-:rating:   8.3
-:END:
-
-***** [#D] 9.3 - The Planet of Witches (7.1) :Romana_2:Adric:
-***** [#B] 9.4 - The Quest of the Engineer (8.0) :Romana_2:Adric:
-***** DONE [#A] 9SP1 Shadow of the Sun (8.6) :Leela:1CD:
-CLOSED: [2020-07-15 Wed 19:13]
-
-**** 4DA series 10 :Leela:P2021:2CD:
-***** [#C] 10.1 The World Traders
-***** [#C] 10.2 The Day of the Comet
-***** [#C] 10.3 The Tribulations of Tahdeus Nook
-***** [#E] 10.4 The Primeval Design
-**** 📂4DA series 11 :P2022:2CD:
+**** 4DA series 11 :P2022:2CD:
 ***** 3QTR [#A] 11.1 Blood of the Time Lords :Master_early:plot_yes:DW2023_10_doctor:
 CLOSED: <2023-10-18 Wed 12:57> SCHEDULED: <2023-10-14 Sat>
 
-***** 3QTR [#B] 11.2 The Ravencliff Witch :Margaret:plot_yes:DW2023_02_doctor:
+***** 3QTR [#C] 11.2 The Ravencliff Witch :Margaret:plot_yes:DW2023_02_doctor:
 CLOSED: <2023-02-10 Fri 14:02> SCHEDULED: <2023-02-06 Mon 08:42>
 
 ***** [#C] 11.3 The Dreams of Avaice :The_Nine:
 ***** [#D] 11.4 Shellshock
-***** [#C] 11.5 Peake Season :1CD:
-**** 4DA series 12 :Leela:Margaret:P2023:
-***** 12.1 Ice Heist :Ice_Warriors:P2023_03:2CD:
-***** 12.2 Antillia the Lost :P2023_03:2CD:
-***** 12.3 The Wizard of Time :P2023_06:1CD:
-***** 12.4 The Friendly Invasion :P2023_06:1CD:
-***** 12.5 Stone Cold :Weeping_Angels:P2023_06:2CD:
-***** 12.6 The Ghost of Margaret :P2023_06:1CD:
+***** HALF [#D] 11.5 Peake Season :1CD:DW2024_04_doctor:
 **** TBR 4DA series 13 :Harry:Naomi:P2024_03:
-*** BF PHP :Leela:
-
-Philip Hinchcliffe Presents
-
-**** [#B] 1.1 The Ghosts of Gralstead :plot_no:3CD:
-**** [#C] 1.2 - The Devil's Armada :2CD:
-**** [#D] 2. The Genesis Chamber :3CD:
-**** [#D] 3. The Helm of Awe :3CD:
-**** [#D] 4. The God of Phantoms :3CD:
 *** BF The Lost Stories
-**** BLOCK [#A] LS 2.07 - The Foe from the Future  (8.9) :Leela:plot_yes:3CD:
-**** [#C] LS 2.08 - The Valley of Death 7.7 :Leela:2CD:plot_no:
-**** 2DONE [#B] LS6.1 - Return of the Cybermen :Cybermen:plot_half:DW2022_08_doctor:bilibili:
+**** 2DONE [#B] LS6.1 - Return of the Cybermen :Sarah:Cybermen:plot_half:DW2022_08_doctor:bilibili:
 CLOSED: [2022-09-03 Sat 17:41] SCHEDULED: <2022-09-04 Sun>
 :PROPERTIES:
 :rating:   8.0
@@ -1397,35 +1510,9 @@ CLOSED: [2022-09-03 Sat 17:41] SCHEDULED: <2022-09-04 Sun>
 【【神秘博士广播剧熟肉】The Lost Stories 601 Return of the Cybermen (Part 1&2) 赛博人的回归-哔哩哔哩】 https://b23.tv/TscHIKq
 【【神秘博士广播剧熟肉】The Lost Stories 601 Return of the Cybermen (Part 3&4) 赛博人的回归-哔哩哔哩】 https://b23.tv/fnaPGbZ
 
-**** READY [#A] LS6.2 - The Doomsday Contract :Romana_2:P2021:bilibili:2CD:
-:PROPERTIES:
-:rating:   8.9
-:END:
-
-【【神秘博士广播剧熟肉】The Lost Stories 602 The Doomsday Contract (Part 1&2) 末日合同-哔哩哔哩】 https://b23.tv/Ddqe3C1
-
-【【神秘博士广播剧熟肉】The Lost Stories 602 The Doomsday Contract (Part 3&4) 末日合同-哔哩哔哩】 https://b23.tv/yvSsm4b
-
 **** LS7.1 The Ark :Sarah:Harry:P2023_06:
-**** LS7.2 Daleks! Genesis of Terror :Sarah:Harry:P2023_05:
+**** CANCEL [#F] LS7.2 Daleks! Genesis of Terror :Sarah:Harry:P2023_05:
 *** BF misc :BigFinish:
-**** DONE [#C] Night of the Stormcrow (Bonus Release #11) :P2014:Leela:scripted:1CD:
-CLOSED: [2020-07-29 Wed 23:02]
-:PROPERTIES:
-:rating:   7.7
-:END:
-
-**** [#B] NA03 - The Romance of Crime :Romana_2:P2015:2CD:scripted:
-:PROPERTIES:
-:rating:   8.0
-:END:
-
-**** [#B] NA04 The English Way of Death :Romana_2:P2015:2CD:scripted:
-**** [#B] NA05 - The Well-Mannered War :Romana_2:2CD:P2015:
-:PROPERTIES:
-:rating:   8.1
-:END:
-
 **** DONE [#C] Night of the Vashta Nerada (7.8) (CDNM #2.1) :P2017:Vashta_Nerada:scripted:no_companion:bilibili:1CD:
 CLOSED: [2020-07-29 Wed 23:03]
 
@@ -1460,51 +1547,10 @@ thetimescales 上32/33认为需要先听前面的故事
 :rating:   8.8
 :END:
 
-**** [#D] CDNM3.2 The Tivolian Who Knew Too Much :P2022:Leela:plot_yes:1CD:
 *** BF shorts :🗣:
-**** Companion Chronicles
-***** [#C] CC2.4 - The Catalyst :Leela:
-:PROPERTIES:
-:rating:   7.9
-:END:
-
-***** CANCEL [#D] CC3.4 - Empathy Games †7.0
-***** [#D] CC4.10 - The Time Vampire :Leela:
-:PROPERTIES:
-:rating:   7.2
-:END:
-
-***** CANCEL [#E] CC7.6 - The Child
-:PROPERTIES:
-:rating:   6.3
-:END:
-
-**** BF Short Trips :audiobook:
-***** TODO [#A] ST6.9 - A Full Life (9.0) :Adric:Romana_2:
-***** TODO [#B] ST8.4 - Erasure (8.2) :Narvin:Adric:
-***** [#C] 4.4 The Old Rogue :Romana_2:2nd_Dr:Jamie:
-:PROPERTIES:
-:rating:   7.9
-:END:
-
-***** CANCEL [#E] ST9.8 #HarrySullivan †6.8
+**** TODO [#B] ST8.4 - Erasure (8.2) :Narvin:Adric:
+**** CANCEL [#E] ST9.8 #HarrySullivan †6.8
 CLOSED: [2020-06-25 Thu 21:56]
-
-***** [#B] STR1.5 Sound the Siren And I'll Come To You Comrade :Leela:
-:PROPERTIES:
-:rating:   7.9
-:END:
-
-***** 3QTR [#B] STR3.4 The Warren Legacy :Romana_1:P2015:DW2023_04_doctor:
-CLOSED: <2023-04-22 Sat 21:12> SCHEDULED: <2023-04-12 Wed 08:15>
-:PROPERTIES:
-:rating:   7.9
-:END:
-
-***** [#C] SST16. The Doctor's First XI :Romana_1:P2014:
-:PROPERTIES:
-:rating:   7.9
-:END:
 
 *** BBC 4DA :scripted:DA:BBC:
 **** Hornets' Nest
