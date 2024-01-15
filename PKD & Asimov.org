@@ -193,12 +193,13 @@ CLOSED: [2023-02-12 Sun 19:44]
 
 迪克长篇处女作（按出版时间）
 
-***** HALF [#C] 天空之眼 Eye in the Sky :P1957:
+***** DONE [#C] 天空之眼 Eye in the Sky :P1957:
+CLOSED: [2024-01-07 Sun 10:25]
 :PROPERTIES:
 :goodreads: 3.74
 :END:
 
-block: 尚未购买/借到
+从图书馆借阅
 
 ***** TBR [#B] 时间脱节 Time Out of Joint (已读《幻觉》) :P1959:
 :PROPERTIES:

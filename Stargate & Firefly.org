@@ -104,7 +104,7 @@ CLOSED: [2022-09-23 Fri 20:39]
 CLOSED: [2022-09-24 Sat 18:47]
 
 **** [#D] 3x02 Seth
-**** DONE [#B] 3x03 Fair Game
+**** DONE [#B] 3x03 Fair Game :Thor:
 CLOSED: [2022-09-27 Tue 07:41]
 
 **** DONE 3x04 Legacy
@@ -247,8 +247,20 @@ CLOSED: [2024-01-01 Mon 14:11]
 **** DONE 5x05
 CLOSED: [2024-01-01 Mon 19:59]
 
-**** NOW 5x06
-**** NOW 5x07
+**** DONE 5x06 Rite of Passage
+CLOSED: [2024-01-04 Thu 08:09]
+
+Cassandra 的来历见 1x14 Singularity
+
+**** DONE 5x07
+CLOSED: [2024-01-09 Tue 08:16]
+
+**** DONE 5x08
+CLOSED: [2024-01-12 Fri 18:44]
+
+**** DONE 5x09
+CLOSED: [2024-01-14 Sun 17:35]
+
 *** ...
 *** SG-1 S10 :P2006:
 *** Stargate: The Ark of Truth :P2008:
