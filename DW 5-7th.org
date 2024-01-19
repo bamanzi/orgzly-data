@@ -414,11 +414,11 @@ CLOSED: [2022-11-27 Sun 23:36] SCHEDULED: <2022-11-16 Wed>
 
 **** [#F] 119. The Chaos Pool :Zara:Abby:
 **** Wicked Sisters :1CD:P2020:Leela:Zara:Abby:
-***** HALF [#C] 5DWS1.1 The Garden of Storms :DW2023_05_doctor:
-SCHEDULED: <2023-05-20 Sat>
+***** 3QTR [#C] 5DWS1.1 The Garden of Storms :DW2023_05_doctor:
+CLOSED: <2024-01-15 Mon 21:35> SCHEDULED: <2023-05-20 Sat>
 
-***** [#B] The Moonrakers :Sontarans:DW2024_01_doctor:
-SCHEDULED: <2024-01-20 Sat>
+***** 3QTR [#B] The Moonrakers :Sontarans:plot_yes:DW2024_01_doctor:
+CLOSED: <2024-01-16 Tue 19:35> SCHEDULED: <2024-01-20 Sat>
 
 ***** CANCEL [#E] The People Made of Smoke
 *** misc
@@ -1111,11 +1111,13 @@ CLOSED: <2022-05-17 Tue 21:11> SCHEDULED: <2022-05-07 Sat>
 :END:
 
 ****** HALF [#A] 115d. The Word Lord (8.6) :P2008:Ace:Hex:Nobody_No_One:plot_no:
-***** [#A] 120. The Magic Mousetrap :2009:Ace:Hex:Celestial_Toymaker:plot_yes:DW2024_01_doctor:
+***** HALF [#A] 120. The Magic Mousetrap :2009:Ace:Hex:Celestial_Toymaker:plot_yes_dwg:DW2024_01_doctor:
 SCHEDULED: <2024-01-06 Sat>
 :PROPERTIES:
 :rating:   8.6
 :END:
+
+http://www.drwhoguide.com/who_bf120.htm
 
 ***** [#A] 140. A Death in the Family (9.5) :P2010:Ace:Hex:Evelyn:Nobody_No_One:the_Forge:plot_no:
 ***** [#B] 159. Project: Destiny :Ace:Hex:The_Forge:Lysandra:P2010:
@@ -1323,7 +1325,7 @@ SCHEDULED: <2023-05-20 Sat 20:07>
 ***** CANCEL [#F] Bad Day in Tinseltown :Cybermen:Mel:1CD:
 CLOSED: [2022-10-08 Sat 09:05]
 
-***** [#C] The Ribos Inheritance :Mel:2CD:DW2024_01_pending:
+***** [#C] The Ribos Inheritance :Mel:2CD:
 
 需要先看剧集16x01 The Ribos Operation
 

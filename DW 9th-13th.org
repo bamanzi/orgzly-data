@@ -187,7 +187,7 @@ https://ninthdoctoradventures.wordpress.com/episodes/
 
 In the aftermath of the Time War, the Doctor has no time to mourn. But how can he even begin to take ahold of the situation if he cannot face his own reflection? The human race is in danger of dying. Forever. 
 
-**** TODO #2. Legacy of the Slitheen :Slitheen:DW2024_01_doctor:
+**** HALF #2. Legacy of the Slitheen :Slitheen:DW2024_01_doctor:
 SCHEDULED: <2024-01-06 Sat>
 
 The Doctor is forced to confront one of the most infamous crime families. Bribes, deceit, blackmail and assassinations are rife, with the entire Slitheen dynasty at stake. 
@@ -794,10 +794,12 @@ CLOSED: [2022-11-02 Wed 20:33] SCHEDULED: <2022-11-06 Sun>
 :rating:   8.5
 :END:
 
-**** READY [#A] ST12.X The World Tree :P2022_12:bilibili:
+**** READY [#A] ST12.X The World Tree :P2022_12:bilibili:DW2024_01_doctor:
+SCHEDULED: <2024-01-28 Sun>
 
 【【神秘博士】短途旅行：世界树 | Short Trips: The World Tree-哔哩哔哩】 https://b23.tv/kE5PXA3
 
+**** [#B] ST12.6 The Galois Group :Valarie:
 *** misc :🗣:
 **** [#C] CY1.3 Living History ↗ :P2016:plot_yes:
 :PROPERTIES:
@@ -814,9 +816,7 @@ https://m.youtube.com/watch?v=7wrZUFIgiNE
 
 **** [#E] Paradis Lost (BBC) :Clara:1CD:P2020:
 **** [#B] NSA audio #15 The Art of Death :BBC:Amy:Rory:
-**** NEXT [#B] Let it Snow (Tales of Trenzalore #1) :Ice_Warriors:DW2024_01_doctor:
-SCHEDULED: <2024-01-27 Sat>
-
+**** NEXT [#B] Let it Snow (Tales of Trenzalore #1) :Ice_Warriors:
 ** comics :📚:
 *** IDW
 **** DW2011

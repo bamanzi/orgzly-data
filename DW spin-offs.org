@@ -368,8 +368,8 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 
 ***** BLOCK /50. Absent Friends/ (missing)
 ***** [#A] 50X. The Black Knight (8.6) :Norton:plot_yes:
-***** HALF [#A] 51. The Five People You Kill in Middlebrough :Yvonne:plot_yes:DW2024_01_spinoffs:
-      SCHEDULED: <2024-01-07 Sun>
+***** 3QTR [#A] 51. The Five People You Kill in Middlebrough :Yvonne:plot_yes:DW2024_01_spinoffs:
+      CLOSED: [2024-01-15 Mon 08:53] SCHEDULED: <2024-01-07 Sun>
       :PROPERTIES:
       :rating:   8.5
       :END:
@@ -413,8 +413,8 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
       SCHEDULED: <2023-09-24 Sun>
 
 ***** [#A] 63. Restricted Items Archive Entries 031–049 :Ianto:plot_yes:
-***** [#B] 64. Suckers :Tosh:plot_yes:DW2024_01_spinoffs:
-      SCHEDULED: <2024-01-21 Sun>
+***** 3QTR [#B] 64. Suckers :Tosh:plot_yes:DW2024_01_spinoffs:
+      CLOSED: <2024-01-18 Thu 08:52> SCHEDULED: <2024-01-21 Sun>
 
 ***** [#B] 65X A Postcard from Mr Colchester :Colchester:plot_yes:
 ***** [#D] 65. Death in Venice :Colchester:Ace:plot_yes:
@@ -1118,8 +1118,8 @@ Roberts Master
     :rating:   7.3
     :END:
 
-*** [#D] 8.3 - Jago & Litefoot & Patsy           (7.3) :DW2024_01_spinoffs:
-    SCHEDULED: <2024-01-21 Sun>
+*** START [#D] 8.3 - Jago & Litefoot & Patsy           (7.3) :DW2024_01_spinoffs:
+    SCHEDULED: <2024-01-14 Sun>
 
 *** [#C] 8.4 - Higson & Quick                    (7.5)
 ** J&L series 9 :P2015:
@@ -1459,8 +1459,8 @@ http://drwhoguide.com/bs_a18.htm
      :rating:   7.8
      :END:
 
-**** [#B] 1.4 Judgement Day :Jack_McSpringheel:Ruth_Leonidas:DW2024_01_spinoffs:
-     SCHEDULED: <2024-01-14 Sun>
+**** 3QTR [#B] 1.4 Judgement Day :Jack_McSpringheel:Ruth_Leonidas:DW2024_01_spinoffs:
+     CLOSED: [2024-01-17 Wed 08:48] SCHEDULED: <2024-01-14 Sun>
      :PROPERTIES:
      :rating:   8.3
      :END:
@@ -1688,8 +1688,8 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
      :rating:   7.2
      :END:
 
-**** NEXT [#B] 2.4 - Too Many Masters :Monk:plot_no:DW2024_01_spinoffs:
-     SCHEDULED: <2024-01-07 Sun>
+**** [#B] 2.4 - Too Many Masters :Monk:plot_no:DW2024_01_spinoffs:
+     SCHEDULED: <2024-01-28 Sun>
      :PROPERTIES:
      :rating:   8.2
      :END:
@@ -2158,7 +2158,7 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
     :END:
 
 *** [#B] 1.4	 Armageddon :DW2024_01_spinoffs:
-    SCHEDULED: <2024-01-14 Sun>
+    SCHEDULED: <2024-01-31 Wed>
     :PROPERTIES:
     :rating:   8.3
     :END:

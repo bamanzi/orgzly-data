@@ -240,7 +240,7 @@ SCHEDULED: <2021-11-06 Sat>
 
 **** [#D] SST4 The Little Drummer Boy :Steven:Sara_Kingdom:scripted:
 *** with Steven
-**** HALF [#C] CC5.8 - The Perpetual Bond :Oliver:DW2024_01_doctor:
+**** START [#C] CC5.8 - The Perpetual Bond :Oliver:plot_no:DW2024_01_doctor:
 SCHEDULED: <2024-01-20 Sat>
 
 **** [#A] CC5.12 - The Cold Equations :Oliver:
@@ -951,15 +951,17 @@ SCHEDULED: <2023-01-17 Tue 08:51>
 :rating:   7.9
 :END:
 
-***** START [#A] 22A. The Annihilators :P2022_02:Liz:2nd_Dr:Jamie:Brigadier:3CD:DW2024_01_doctor:
+***** HALF [#A] 22A. The Annihilators :P2022_02:Liz:2nd_Dr:Jamie:Brigadier:UNIT:3CD:DW2024_01_doctor:
 SCHEDULED: <2024-01-13 Sat>
 
 block原因：太长（3CD）
 
 /The Annihilators/ was the first 7 part story made by Big Finish
 
-****** HALF part1-3
-****** part4-5
+****** 3QTR part1-3
+CLOSED: [2024-01-18 Thu 23:13]
+
+****** HALF part4-5
 ****** part6-7 :DW2024_02_doctor:
 ***** BLOCK 2023B Intelligence for War :P2023_10:Liz:Brig:3CD:
 **** CC (Liz)
