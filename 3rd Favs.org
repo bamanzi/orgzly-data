@@ -16,7 +16,18 @@ CLOSED: [2023-12-30 Sat 09:15]
 **** DONE 2x04
 CLOSED: [2024-01-02 Tue 20:41]
 
-**** NOW 2x05
+**** DONE 2x05
+CLOSED: <2024-01-08 Mon 20:34>
+
+**** DONE 2x06
+CLOSED: [2024-01-15 Mon 22:15]
+
+**** DONE 2x07
+CLOSED: [2024-01-19 Fri 23:16]
+
+**** DONE 2x08
+CLOSED: [2024-01-26 Fri 23:20] SCHEDULED: <2024-01-27 Sat>
+
 ** Ashes to ashes
 *** Ashes to Ashes s1
 **** DONE 1x01
@@ -31,7 +42,7 @@ CLOSED: [2022-11-26 Sat 20:15]
 **** DONE 1x04
 CLOSED: [2022-12-05 Mon 23:59]
 
-**** DONE 2x05
+**** DONE 1x05
 CLOSED: [2024-01-08 Mon 20:12]
 
 ** 火星生活（韩版）

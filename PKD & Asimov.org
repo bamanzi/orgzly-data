@@ -351,7 +351,7 @@ CLOSED: [2022-01-03 Mon 08:41]
 ***** DONE 骡
 CLOSED: [2023-01-11 Wed 13:17]
 
-**** LATER [#A] 3. 第二基地 :P1953:
+**** HALF [#A] 3. 第二基地 :P1953:
 :PROPERTIES:
 :goodreads: 4.25
 :douban:   9.2
@@ -364,7 +364,7 @@ CLOSED: [2022-01-05 Wed 00:05]
 :douban:   9.1
 :END:
 
-**** [#A] 5. 迈向基地 :P1993:
+**** HALF [#A] 5. 迈向基地 :P1993:
 :PROPERTIES:
 :goodreads: 4.15
 :douban:   9.0
@@ -379,7 +379,9 @@ CLOSED: <2023-02-26 Sun 21:41>
 ***** DONE pt3: Dors Venabili
 CLOSED: [2023-03-03 Fri 09:22]
 
-***** LATER pt4: Wanda Seldon
+***** NOW pt4: Wanda Seldon
+SCHEDULED: <2024-01-31 Wed>
+
 **** [#A] 6.基地边缘 :P1982:
 :PROPERTIES:
 :goodreads: 4.15
