@@ -161,7 +161,7 @@ CLOSED: [2021-06-26 Sat 09:13]
 :rating:   8.3
 :END:
 
-***** [#D] 9.1 - The Sleeping Blood :Barbara:Ian:Vicki:
+***** CC8.9 Starborn :Vicki:Ian:Barbara:
 ***** [#B] 9.2 - The Unwinding World :Vicki:Ian:Barbara:
 :PROPERTIES:
 :rating:   8.0
@@ -169,7 +169,7 @@ CLOSED: [2021-06-26 Sat 09:13]
 
 ***** [#E] 13.2 - Daybreak
 **** [#C] ST2.1 - 1963 :Ian:Barbara:Vicki:
-*** with Steven & Vicki
+*** with Vicki & Steven
 **** EA
 ***** HALF [#C] EA1.3 The Bounty of Ceres :Vicki:Steven:plot_no:DW2023_07_doctor:
 SCHEDULED: <2023-07-22 Sat>
@@ -204,7 +204,7 @@ CLOSED: [2022-05-27 Fri 11:35] SCHEDULED: <2022-05-28 Sat>
 :rating:   7.4
 :END:
 
-***** [#D] 11.1 Fields of Terror :Steven:Vicki:scripted:
+***** [#D] 11.1 Fields of Terror :Vicki:Steven:scripted:
 ***** NEXT [#A] 11.2 Across the Darkened City :Steven:Vicki:Daleks:scripted:
 *** with Steven & Sara
 **** DONE [#C] EA1.4 - An Ordinary Life :Steven:Sara_Kingdom:plot_yes:DW2022_07_doctor:
@@ -295,6 +295,10 @@ CLOSED: [2023-03-29 Wed 08:54] SCHEDULED: <2023-03-04 Sat>
 **** 📂1DA2023. The Demon Song :Dodo:P2023_02:
 ***** 23.1 The Demon Song :1CD:
 ***** 23.2 The Incherton Incident :2CD:
+**** 1DA2024. Fugitive of the Daleks :3CD:P2024_01:Dodo:Vicki:
+
+这里的 Vicki 是老年 Vicki
+
 *** with Polly & Ben
 **** [#D] CC11.3 The Bonfires of the Vanties :Polly:Ben:scripted:
 **** 3QTR [#B] CC11.4 The Plague of Dreams :Polly:Ben:DW2023_05_doctor:scripted:
@@ -309,7 +313,6 @@ CLOSED: [2021-11-01 Mon 22:54] SCHEDULED: <2021-11-01 Mon>
 :rating:   7.6
 :END:
 
-**** TBR 1DA2024. Fugitive of the Daleks :P2024_01:Vicki:
 *** CC :🗣:
 ***** [#C] 7.1 - The Time Museum :Ian:
 :PROPERTIES:
@@ -317,6 +320,7 @@ CLOSED: [2021-11-01 Mon 22:54] SCHEDULED: <2021-11-01 Mon>
 :END:
 
 **** 📂CC9. First Doctor - Volume One :P2015:
+***** [#D] 9.1 - The Sleeping Blood :Susan:
 **** 📂CC11. First Doctor - Volume Two :P2017:scripted:
 **** 📂CC13. First Doctor - Volume Three :P2019:
 *** short trips
@@ -388,7 +392,7 @@ Episode 2,4,5,6 missing (but all episodes animated in 2020)
 
 *** Season 5 :1968:
 **** DONE 05x01 The Tomb of the Cybermen :Cybermen:fan_edit:
-**** [#C] /The Abominable Snowmen/ (7.5) :great_intelligence:missing:animated:DW2022_10_extra:
+**** DONE [#C] /The Abominable Snowmen/ (7.5) :great_intelligence:missing:animated:DW2022_10_extra:
 SCHEDULED: <2022-11-02 Wed>
 
 Great Intelligence (大智慧/超级智能）和 Yeti (雪怪）的首次出场
@@ -1026,9 +1030,11 @@ SCHEDULED: <2023-09-21 Thu>
 :END:
 
 **** CANCEL [#E] 3DA22B. Kaleidoscope :Sarah:Harry:Brigadier:P2022_10:3CD:
+**** TBR 3DA24A. Revolution in Space :P2024_02:
 **** START [#D] CDNM3.1 The House that Hoxx Built :plot_yes:DW2022_11_doctor:
 SCHEDULED: <2022-11-23 Wed>
 
+**** TBR SvsR#2 The Children of the Future :P2024_02:
 **** CANCEL [#F] ST10.03 Decline of the Ancient Mariner :Sarah:
 :PROPERTIES:
 :rating:   4.5
@@ -1168,16 +1174,25 @@ CLOSED: [2023-12-12 Tue 08:15] SCHEDULED: <2023-12-17 Sun>
 **** DONE [#D] 16x06 - The Armageddon Factor (7.2)
 CLOSED: [2021-06-01 Tue 21:03]
 
-*** S17
-**** DONE 17x01 Destiny of the Daleks :Daleks:Davros:
+*** S17 :Romana_2:
+**** DONE [#C] 17x01 Destiny of the Daleks :Daleks:Davros:
 CLOSED: [2021-09-26 Sun 08:19]
 
+**** DONE [#A] 17x02 City of Death
+**** [#D] 17x03 The Creature from the Pit
+**** [#D] 17x04 Nightmare of Eden
+**** [#E] 17x05 The Horns of Nimon
+**** DONE 17x06 Shada
 *** S18
-**** DONE [#C] 18x05 Warriors' Gate :DW2022_08_extra:
+**** [#E] 18x01 The Leisure Hive
+**** [#E] 18x02 Meglos
+**** [#D] 18x03 Full Circle :Adric:
+**** [#C] 18x04 State of Decay :Romana_2:Adric:
+**** DONE [#C] 18x05 Warriors' Gate :Romana_2:Adric:DW2022_08_extra:
 CLOSED: [2022-08-23 Tue 20:03] SCHEDULED: <2022-08-31 Wed>
 
-**** HALF [#C] 18x06 - The Keeper of Traken (7.9) :Nyssa:Master_decayed:
-**** DONE [#C] 18x07 - Logopolis (7.9) :Nyssa:Tegan:Master_tremas:DW2023_Q4:
+**** HALF [#C] 18x06 - The Keeper of Traken (7.9) :Adric:Nyssa:Master_decayed:
+**** DONE [#C] 18x07 - Logopolis (7.9) :Adric:Nyssa:Tegan:Master_tremas:DW2023_Q4:
 CLOSED: [2024-01-08 Mon 20:40] SCHEDULED: <2024-01-21 Sun>
 
 ** comics :📚:
@@ -1323,10 +1338,10 @@ CLOSED: [2020-07-15 Wed 19:13]
 ***** [#C] 10.3 The Tribulations of Tahdeus Nook
 ***** [#E] 10.4 The Primeval Design
 **** 4DA series 12 :Leela:Margaret:P2023:
-***** 12.1 Ice Heist :Ice_Warriors:P2023_03:2CD:
-***** 12.2 Antillia the Lost :P2023_03:2CD:
-***** 12.3 The Wizard of Time :P2023_06:1CD:
-***** 12.4 The Friendly Invasion :P2023_06:1CD:
+***** [#D] 12.1 Ice Heist :Ice_Warriors:P2023_03:2CD:
+***** CANCEL [#F] 12.2 Antillia the Lost :P2023_03:2CD:
+***** TODO [#C] 12.3 The Wizard of Time :P2023_06:1CD:
+***** [#D] 12.4 The Friendly Invasion :P2023_06:1CD:
 ***** 12.5 Stone Cold :Weeping_Angels:P2023_06:2CD:
 ***** 12.6 The Ghost of Margaret :P2023_06:1CD:
 **** BF PHP :Leela:
@@ -1345,8 +1360,12 @@ CLOSED: [2020-07-29 Wed 23:02]
 :rating:   7.7
 :END:
 
-***** BLOCK [#A] LS 2.07 - The Foe from the Future  (8.9) :Leela:plot_yes:3CD:
-***** [#C] LS 2.08 - The Valley of Death 7.7 :Leela:2CD:plot_no:
+***** BLOCK [#A] LS 2.07 - The Foe from the Future  (8.9) :Leela:P2012:plot_yes:3CD:
+***** [#C] LS 2.08 - The Valley of Death :Leela:2CD:P2012:plot_no:
+:PROPERTIES:
+:rating:   7.7
+:END:
+
 ***** [#D] CDNM3.2 The Tivolian Who Knew Too Much :P2022:Leela:plot_yes:1CD:
 **** short
 ***** [#C] CC2.4 - The Catalyst :Leela:
@@ -1752,8 +1771,8 @@ https://disk.yandex.ru/d/n_i2CRgIJW0xOw
 *** [#D] 2.1 Who Am I?
 *** [#E] 2.2 Time Killers
 *** [#B] 2.3 The Key To Key To Time
-** Peladon :P2022_01:
-*** [#B] 1. The Ordeal of Peladon
+** Peladon :P2022_01:plot_yes:
+*** [#B] 1. The Ordeal of Peladon :10th_Dr:
 *** [#D] 2. The Poison of Peladon :River:
 *** CANCEL [#E] 3. The Death of Peladon :6th_Dr:Mel:
 *** [#A] 4. The Truth of Peladon :8th_Dr:

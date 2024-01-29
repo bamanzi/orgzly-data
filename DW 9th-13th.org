@@ -131,6 +131,10 @@ SCHEDULED: <2023-11-11 Sat>
 
 【【神秘博士广播剧熟肉】Travel in Hope 306 Run 竞选-哔哩哔哩】 https://b23.tv/MeDKqt6
 
+**** TBR S3.3 Buried Threats :P2024_02:
+***** 3.3.1 A Theatre of Cruelty
+***** 3.3.2 The Running Men
+***** 3.3.3 Ancient History
 *** 9DC :P2017:
 **** [#D] 1.1 The Bleeding Heart
 :PROPERTIES:
@@ -690,6 +694,7 @@ CLOSED: <2022-12-11 Sun>
 ** tv :📺:
 *** S5 (203-212)
 **** DONE 5x07 The Hungry Earth /08 Cold Blood :Silurians:
+**** 5x10 Vincent and the Doctor
 **** DONE 5x12 Pandorica Opens
 **** DONE 5x13 The Big Bang :DW2022_07_extra:
 CLOSED: [2022-07-04 Mon 08:12]
@@ -702,6 +707,8 @@ CLOSED: <2022-12-16 Fri 22:50>
 **** DONE 6x02 Day of the Moon (214b) :Silents:
 CLOSED: <2022-12-17 Sat 23:20>
 
+**** 6x03 The Curse of the Black Spot
+**** 6x04 The Doctor's Wife
 **** DONE 6x07 A Good Man Goes to War :River:
 *** 225. The Doctor, the Widow and the Wardrobe :P2011_12:
 *** S7 (226-230,232-239)
@@ -786,6 +793,11 @@ SCHEDULED: <2023-09-17 Sun>
 **** 5.1 Spirit of the Season
 **** 5.2 All’s Fair
 **** 5.3 Sins of the Flesh
+*** TBR 11DC vol.6 Victory of the Doctor :P2024_02:
+**** 6.1 Didn’t You Kill My Mother?
+**** 6.2 Daleks Victorious
+**** 6.3 The Last Stand of Miss Valarie Lockwood
+**** 6.4 Victory of the Doctor
 *** short trips :🗣:
 **** 3QTR ST10.5 Regeneration Impossible :D2021_08_extra:12th_Dr:
 **** 2DONE [#A] ST11.1 Rearguard :Sontarans:P2022_02:DW2022_11_doctor:
@@ -941,8 +953,8 @@ SCHEDULED: <2023-12-30 Sat>
 :rating:   3.98
 :END:
 
-*** HALF [#B] The Silent Stars Go By 寂静星辰飞过 (3.95) :已购:Kindle己购:DW2023_Q4:
-SCHEDULED: <2024-01-07 Sun>
+*** DONE [#B] The Silent Stars Go By 寂静星辰飞过 (3.95) :已购:Kindle己购:DW2023_Q4:
+CLOSED: [2024-01-20 Sat 21:58] SCHEDULED: <2024-01-07 Sun>
 :PROPERTIES:
 :rating:   3.95
 :END:
@@ -1155,7 +1167,8 @@ DWMGN 027 - The Phantom Piper (12th vol4 - DWM512-523)
 ***** The Great Shopping Bill (12DY3 9) :Bill:Nardole:
 ***** A Confusion of Angels (12DY3 10-13) :Bill:Nardole:
 ** novels :📔:
-*** HALF [#B] Deep Time 四维深渊 (3.91) :已购:
+*** DONE [#B] Deep Time 四维深渊 (3.91) :已购:
+CLOSED: <2022-11-06 Sun>
 :PROPERTIES:
 :rating:   3.9
 :END:
@@ -1324,11 +1337,11 @@ CLOSED: [2023-11-26 Sun 08:15]
 *** DONE 301. The Star Beast :P2023_11:DW2023_Q4:
 CLOSED: <2023-12-30 Sat 19:51> SCHEDULED: <2024-01-01 Mon>
 
-*** NOW 302. Wild Blue Yonder :DW2023_Q4:
-SCHEDULED: <2024-01-07 Sun>
+*** DONE 302. Wild Blue Yonder :DW2023_Q4:
+CLOSED: [2024-01-21 Sun 12:28] SCHEDULED: <2024-01-07 Sun>
 
-*** 303. The Giggle :ToyMaker:DW2023_Q4:
-SCHEDULED: <2024-01-14 Sun>
+*** DONE 303. The Giggle :ToyMaker:DW2023_Q4:
+CLOSED: <2024-01-28 Sun 21:37> SCHEDULED: <2024-01-31 Wed>
 
 ** comics
 *** Liberation of the Daleks
