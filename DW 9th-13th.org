@@ -96,7 +96,7 @@ SCHEDULED: <2023-09-24 Sun>
 **** S2.3 Hidden Depth :P2022_11:
 ***** [#E] +7.1 The Seas of Titan+
 ***** [#D] 7.2 Lay Down Your Arms
-***** HALF [#A] 7.3 Flatpack :Liv:Tania:bilibili:DW2023_11_doctor:
+***** 2DONE [#A] 7.3 Flatpack :Liv:Tania:bilibili:DW2023_11_doctor:
 SCHEDULED: <2023-11-11 Sat>
 
 【【神秘博士广播剧熟肉】Hidden Depths 703 Flatpack 平板家居-哔哩哔哩】 https://b23.tv/ElXr5Mq
@@ -382,7 +382,7 @@ CLOSED: [2021-08-01 Sun 15:54]
 
 【[BF广播剧熟肉]Technophobia科技恐惧症-哔哩哔哩】https://b23.tv/nq0u5s
 
-***** READY [#D] 10DA 1.2 - Time Reaver :bilibili:
+***** READY [#D] 10DA 1.2 - Time Reaver :bilibili:DW2024_02_doctor:
 :PROPERTIES:
 :rating:   7.1
 :END:

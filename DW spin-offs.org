@@ -312,7 +312,8 @@ Sebastian Vaughan is the brightest, newest recruit to Torchwood. He's come fro
       :rating:   7.9
       :END:
 
-***** [#A] TW43. The Three Monkeys :Owen:Andy:
+***** HALF [#A] TW43. The Three Monkeys :Owen:Andy:DW2024_02_spinoffs:
+      SCHEDULED: <2024-02-11 Sun>
       :PROPERTIES:
       :rating:   8.8
       :END:
@@ -1275,7 +1276,10 @@ Roberts Master
     :rating:   8.1
     :END:
 
-*** NOW [#B] 6.3 - Ascension :DW2024_02_spinoffs:
+*** HALF [#B] 6.3 - Ascension :DW2024_02_spinoffs:
+    SCHEDULED: <2024-02-04 Sun>
+
+** special: WoDW#4 Second Sight ↗
 ** [#B] 7.0 - Intervention Earth :P2015:
 ** [#A] 8.0 - Enemy Lines :P2016:
 * Bernice Summerfield :Benny:
@@ -2175,8 +2179,8 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
     :rating:   7.9
     :END:
 
-*** [#B] 1.4	 Armageddon :DW2024_01_spinoffs:
-    SCHEDULED: <2024-01-31 Wed>
+*** [#B] 1.4	 Armageddon :DW2024_02_spinoffs:
+    SCHEDULED: <2024-02-11 Sun>
     :PROPERTIES:
     :rating:   8.3
     :END:
@@ -2407,9 +2411,7 @@ http://www.drwhoguide.com/kaldor03.htm
 **** 3QTR [#D] 3.2 - Whatever Remains :DW2023_10_spinoffs:
      CLOSED: [2023-10-25 Wed 07:22] SCHEDULED: <2023-10-22 Sun>
 
-**** [#B] 3.3 - Truth and Bone :DW2024_02_spinoffs:
-     SCHEDULED: <2024-01-01 Mon>
-
+**** START [#B] 3.3 - Truth and Bone :Sontarans:DW2024_02_spinoffs:
 *** PG: Heritage 4 :P2020:
 **** [#A] 4.1 - Merry Christmas, Mr Jago  (9.0)
 **** [#E] +4.2 - The Ghost Writers+         (6.4)
@@ -2451,7 +2453,9 @@ http://www.drwhoguide.com/kaldor03.htm
 *** HALF [#B] 2.2 - The Fifth Citadel            (8.3) :DW2023_11_spinoffs:
     SCHEDULED: <2023-11-26 Sun>
 
-*** [#C] 2.3 - Peshka
+*** 3QTR [#C] 2.3 - Peshka :plot_cast:DW2024_01_spinoffs:
+    CLOSED: [2024-01-27 Sat 23:42] DEADLINE: <2024-01-28 Sun>
+
 *** [#C] 2.4 - Sins of the Fathers
 ** CM series 3 :P2014:
 *** [#C] 3.1 - Changing of the Guard        (7.5)

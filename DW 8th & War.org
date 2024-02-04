@@ -525,13 +525,13 @@ CLOSED: [2023-12-20 Wed 07:51] SCHEDULED: <2023-12-09 Sat>
 :rating:   8.4
 :END:
 
-****** [#C] 4.2 - Songs of Love :River:DW2023_12_doctor:
-SCHEDULED: <2023-12-30 Sat>
+****** [#C] 4.2 - Songs of Love :River:DW2024_02_doctor:
+SCHEDULED: <2024-02-03 Sat>
 :PROPERTIES:
 :rating:   7.9
 :END:
 
-****** [#B] 4.3 - The Side of the Angels
+****** [#B] 4.3 - The Side of the Angels :DW2024_02_doctor:
 :PROPERTIES:
 :rating:   8.3
 :END:
@@ -1248,7 +1248,9 @@ CLOSED: [2023-06-15 Thu 08:36] SCHEDULED: <2023-06-10 Sat>
 :END:
 
 *** _📂WDB vol.3 Battlegrounds_ :P2022_05:🎧:
-**** [#D] 3.1 - The Keeper of Light
+**** HALF [#D] 3.1 - The Keeper of Light :DW2024_02_doctor:
+SCHEDULED: <2024-02-04 Sun>
+
 **** [#E] 3.2 - Temmosus
 **** [#B] 3.3 - Rewind
 *** _📂WDB vol.4 He Who Fights Monsters_ :P2022_12:🎧:

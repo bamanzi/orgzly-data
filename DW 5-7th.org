@@ -786,19 +786,20 @@ Six and Charley meet, and an enjoyable, weird adventure results.
 
 http://www.drwhoguide.com/who_bf105.htm
 
-**** [#D] 111 The Doomwood Curse
+**** [#D] 111 The Doomwood Curse :DW2024_02_doctor:
 :PROPERTIES:
 :rating:   7.4
 :END:
 
 An excellent standalone romp from one of my favorite EU writers, featuring one of my favorite EU alien species.
 
-**** [#C] 114 Brotherhood of the Daleks :Charley:
+**** [#C] 114 Brotherhood of the Daleks
 :PROPERTIES:
 :rating:   7.6
 :END:
 
-**** [#C] 116. The Raincloud Man :Charley:
+**** [#C] 116. The Raincloud Man
+**** CANCEL [#E] Bonus VII - Return of the Krotons :P2008:
 **** DONE [#B] 124. Patient Zero (8.3) :Charley:plot_no:Daleks:Viyrans:
 CLOSED: <2021-04-18 Sun 08:14>
 :PROPERTIES:
