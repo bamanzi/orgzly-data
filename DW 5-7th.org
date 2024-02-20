@@ -406,8 +406,10 @@ CLOSED: [2022-11-27 Sun 23:36] SCHEDULED: <2022-11-16 Wed>
 ***** READY 1. Pursuit of the Nightjar :2CD:
 
 【【神秘博士广播剧熟肉】In the Night 101 Pursuit of the Nightjar (Part 1&2) 追捕夜鹰-哔哩哔哩】 https://b23.tv/WduWl6H
+【【神秘博士广播剧熟肉】In the Night 101 Pursuit of the Nightjar (Part 3&4) 追捕夜鹰-哔哩哔哩】 https://b23.tv/jiFxS86
 
 ***** 2. Resistor :1CD:
+**** TBR NA12. Goth Opera :P2024_07:
 *** with Zara & Abby
 **** [#E] 117. The Judgement of Isskar :Zara:Abby:Ice_Warriors:
 **** [#D] 118. The Destroyer of Delights :Zara:Abby:
@@ -786,12 +788,14 @@ Six and Charley meet, and an enjoyable, weird adventure results.
 
 http://www.drwhoguide.com/who_bf105.htm
 
-**** [#D] 111 The Doomwood Curse :DW2024_02_doctor:
+**** HALF [#D] 111 The Doomwood Curse :plot_yes_dwg:DW2024_02_doctor:
 :PROPERTIES:
 :rating:   7.4
 :END:
 
 An excellent standalone romp from one of my favorite EU writers, featuring one of my favorite EU alien species.
+
+http://www.drwhoguide.com/who_bf111.htm
 
 **** [#C] 114 Brotherhood of the Daleks
 :PROPERTIES:
@@ -812,6 +816,7 @@ CLOSED: <2021-04-18 Sun 08:14>
 :END:
 
 **** [#B] 126. Blue Forgotten Planet (8.1) :Charley:Mila:plot_no:
+**** TBR SvsR#3 - Born to Die :Sontarans:P2024_03:
 *** MR with Flip & Constance :scripted:2CD:
 **** 2DONE [#B] 156. The Curse of Davros (8.0) :Flip:plot_no:2buy:
 CLOSED: <2021-12-23 Thu 08:53>
@@ -840,7 +845,6 @@ SCHEDULED: <2023-03-01 Wed>
 **** [#B] 264. Scorched Earth :Flip:Constance:
 **** CANCEL [#E] 265. The Lovecraft Invasion :Flip:Constance:
 **** [#D] 273. Colony of Fear :Constance:
-**** Bonus VII  Return of the Krotons
 *** BF misc
 **** MR misc :2CD:
 ***** DONE [#A] 14. The Holy Terror (9.1) :Frobisher:plot_yes:D2021_05:
@@ -922,6 +926,16 @@ CLOSED: [2023-04-11 Tue 21:15] SCHEDULED: <2023-04-15 Sat>
 ****** [#D] 1. One for All
 ****** [#B] 2. The Murder of Oliver Akkron
 ****** [#B] 3. Elevation
+***** TBR 📂2024A. The Quin Dilemma :P2024_03:
+
+This anthology marked the 40th anniversary of Baker's debut as the Doctor.
+
+****** 1. The Exaltation :Mel:
+****** 2. Escape from Holy Island :Peri:
+****** 3. Sibling Rivalry :Flip:Constance:Sontarans:
+****** 4. Children of the Revolution :Sontarans:
+****** 5. The Thousand Year Thaw :Peri:
+****** 6. The Firstborn
 **** Jago and Litefoot: Series 4
 ***** 2DONE Jago in Love
 ***** 2DONE Beautiful Things

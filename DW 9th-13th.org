@@ -131,7 +131,7 @@ SCHEDULED: <2023-11-11 Sat>
 
 【【神秘博士广播剧熟肉】Travel in Hope 306 Run 竞选-哔哩哔哩】 https://b23.tv/MeDKqt6
 
-**** TBR S3.3 Buried Threats :P2024_02:
+**** S3.3 Buried Threats :P2024_02:
 ***** 3.3.1 A Theatre of Cruelty
 ***** 3.3.2 The Running Men
 ***** 3.3.3 Ancient History
@@ -771,9 +771,11 @@ SCHEDULED: <2022-03-30 Wed>
 :END:
 
 *** 11DC vol.3 Geronimo! :Valarie:P2022_10:plot_yes:
-**** Prequel to Geronimo! :Clara:
+**** Prequel to Geronimo! :Clara:bilibili:
 
 https://tardis.fandom.com/wiki/Prequel_to_Geronimo!_(audio_story) 
+
+【【神秘博士广播剧】The Eleventh Doctor Chronicles: Geronimo! 先行篇-哔哩哔哩】 https://b23.tv/6zkqNzo
 
 **** 3QTR [#A] 11DC3.1 The Inheritance :DW2023_05_doctor:
 CLOSED: <2023-06-04 Sun 20:22> SCHEDULED: <2023-05-20 Sat>
@@ -786,14 +788,14 @@ SCHEDULED: <2023-09-17 Sun>
 
 *** 11DC vol.4 All of Time and Space :Valarie:
 **** [#B] 4.1 All of Time and Space :P2023_02:
-**** [#C] 4.2 The Yearn :P2023_02:
+**** [#D] 4.2 The Yearn :P2023_02:
 **** [#A] 4.3 Curiosity Shop :P2023_02:
-**** 4.4 Broken Hearts :P2023_11:
-*** 11DC vol.5 Everywhere and Anywhere :P2023_12:
+**** [#A] 4.4 Broken Hearts :P2023_11:
+*** 11DC vol.5 Everywhere and Anywhere :Valarie:P2023_12:
 **** 5.1 Spirit of the Season
 **** 5.2 All’s Fair
 **** 5.3 Sins of the Flesh
-*** TBR 11DC vol.6 Victory of the Doctor :P2024_02:
+*** 11DC vol.6 Victory of the Doctor :Valarie:P2024_02:
 **** 6.1 Didn’t You Kill My Mother?
 **** 6.2 Daleks Victorious
 **** 6.3 The Last Stand of Miss Valarie Lockwood
@@ -1028,7 +1030,7 @@ SCHEDULED: <2022-10-29 Sat>
 :rating:   7.6
 :END:
 
-*** 12DC vol.2 :P2021:
+*** 12DC vol.2 :P2021:Keira:
 **** HALF [#D] 12DC2.1. Flight to Calandra :D2021_11_doctor:
 SCHEDULED: <2021-11-20 Sat>
 
@@ -1044,6 +1046,10 @@ SCHEDULED: <2022-04-30 Sat>
 :rating:   7.0
 :END:
 
+*** TBR 12DC vol.3 You Only Die Twice :P2024_03:Keira:
+**** 3.1 Sunstrike
+**** 3.2 Never the End
+**** 3.3 You Only Die Twice
 *** Short Trips :🗣:
 **** 3QTR [#B] 9.2 - The Astrea Conspiracy :DW2023_08_doctor:
 CLOSED: [2023-09-03 Sun 11:45] SCHEDULED: <2023-09-03 Sun>
