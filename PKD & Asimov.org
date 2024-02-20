@@ -351,7 +351,8 @@ CLOSED: [2022-01-03 Mon 08:41]
 ***** DONE 骡
 CLOSED: [2023-01-11 Wed 13:17]
 
-**** HALF [#A] 3. 第二基地 :P1953:
+**** DONE [#A] 3. 第二基地 :P1953:
+CLOSED: [2024-02-03 Sat 14:28]
 :PROPERTIES:
 :goodreads: 4.25
 :douban:   9.2
@@ -419,36 +420,71 @@ CLOSED: <2022-02-01 Tue>
 **** The Last Question
 **** Earth is Room Enough
 ** tv
-**** DONE 1x01
+*** Foundation S1
+
+https://foundation.fandom.com/wiki/Season_One
+
+***** DONE 1x01
 CLOSED: <2021-12-15 Wed 20:43>
 
-**** DONE 1x02
+***** DONE 1x02
 CLOSED: [2021-12-17 Fri 20:02]
 
-**** DONE 1x03
+***** DONE 1x03
 CLOSED: [2021-12-22 Wed 19:16]
 
-**** DONE 1x04
+***** DONE 1x04
 CLOSED: [2021-12-24 Fri 20:14]
 
-**** DONE 1x05
+***** DONE 1x05
 CLOSED: [2021-12-25 Sat 19:09]
 
-**** DONE 1x06
+***** DONE 1x06
 CLOSED: <2021-12-31 Fri 19:56>
 
-**** DONE 1x07
+***** DONE 1x07
 CLOSED: [2021-12-31 Fri 21:00]
 
-**** DONE 1x08
+***** DONE 1x08
 CLOSED: [2022-01-07 Fri 19:24]
 
-**** DONE 1x09
+***** DONE 1x09
 CLOSED: <2022-01-15 Sat 14:48>
 
-**** DONE 1x10
+***** DONE 1x10
 CLOSED: [2022-01-15 Sat 23:26]
 
+*** Foundation S2
+
+https://foundation.fandom.com/wiki/Season_Two
+
+
+**** DONE 2x01
+CLOSED: <2024-01-29 Mon 22:01>
+
+**** DONE 2x02
+CLOSED: <2024-01-29 Mon 22:57>
+
+**** DONE 2x03
+CLOSED: [2024-01-30 Tue 08:35]
+
+**** DONE 2x04
+CLOSED: [2024-02-01 Thu 20:42]
+
+**** DONE 2x05 The Sighted and the Seen
+CLOSED: <2024-02-11 Sun 22:12>
+
+**** DONE 2x06
+CLOSED: [2024-02-12 Mon 20:15]
+
+**** DONE 2x07
+CLOSED: [2024-02-14 Wed 23:01]
+
+**** DONE 2x08
+CLOSED: [2024-02-19 Mon 21:23]
+
+**** 2x09
+**** 2x10
 ** movies
 *** DONE 永恒国度的终焉
 CLOSED: [2022-02-26 Sat 17:43]

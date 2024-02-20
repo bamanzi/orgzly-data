@@ -480,7 +480,7 @@ CLOSED: <2021-09-21 Tue 16:16>
 *** DONE 4x10
 CLOSED: [2021-09-21 Tue 17:02]
 
-** DONE comics: season 4.5 #1-4 :P2021:
+** DONE comics: The Expanse (season 4.5) #1-4 :P2021:
 CLOSED: [2022-11-08 Tue 19:07]
 
 A new limited series event set between Season 4 and Season 5 of Amazon’s hit series /The Expanse/ from Corinna Bechko (Green Lantern: Earth One) and Alejandro Aragon (Resonant)!
@@ -521,6 +521,12 @@ CLOSED: [2022-10-30 Sun 23:20]
 ** NEXT S6
 
 6 episodes
+
+** comics: The Expanse – The Dragon Tooth #1-12 :P2023:
+
+BOOMS! 工作室打算给 #浩瀚苍穹 出一个12期的系列，设定在原著第六本与第七本之间（也就是在电视剧之后）
+
+https://www.boom-studios.com/archives/the-expanse-dragon-tooth-series-announcement/
 
 * Battlestar Galactica :bsg:
 ** tv :📺:
