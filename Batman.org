@@ -593,7 +593,7 @@ CLOSED: <2023-09-14 Thu 18:46>
 Batman #9-13: I am Suicide
 Batman #14-15: Rooftops
 
-***** NOW [#B] vol.3 I am Bane :P2017:
+***** OVERDUE [#B] vol.3 I am Bane :P2017:
 SCHEDULED: <2023-09-23 Sat>
 
 Batman #16-20	
@@ -1272,7 +1272,7 @@ Action Comics (2011-2016) #1-18
 
 #13-18
 
-**** NOW Superman: Up in the Sky 云天之上 :P2018:hanzify:
+**** OVERDUE Superman: Up in the Sky 云天之上 :P2018:hanzify:
 SCHEDULED: <2023-10-31 Tue>
 
 【关爱酥皮烤肉锅炉组】补档
@@ -1289,7 +1289,7 @@ https://dc.fandom.com/wiki/Death_of_Superman
 
 有实体中文版书 https://book.douban.com/subject/35045339/
 
-***** NOW The Death of Superman
+***** OVERDUE The Death of Superman
 SCHEDULED: <2023-11-15 Wed>
 
 - Superman: The Man of Steel #18

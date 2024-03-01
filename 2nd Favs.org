@@ -173,8 +173,19 @@ CLOSED: [2023-03-25 Sat 19:03] SCHEDULED: <2023-03-29 Wed>
 ***** DONE 2x18
 CLOSED: [2023-03-25 Sat 20:59] SCHEDULED: <2023-03-29 Wed>
 
-**** Lucifer S3 (26 eps)
-**** Lucifer S4 (10 eps)
+**** Lucifer S3 (26 eps) :P2017:
+***** DONE 3x01
+CLOSED: [2024-02-24 Sat 12:04]
+
+***** DONE 3x02
+CLOSED: [2024-02-24 Sat 21:14]
+
+***** DONE 3x03
+CLOSED: [2024-02-26 Mon 20:14]
+
+**** Lucifer S4 (10 eps) :P2019:
+**** Lucifer S5 (16 eps) :P2020:
+**** Lucifer S6 (10 eps) :P2021:
 ** Preacher
 *** comics :📚:
 **** DONE book 1 (1-12)
@@ -210,7 +221,7 @@ CLOSED: [2022-03-20 Sun 10:45]
 
 **** vol.7 Salvation (41-50)
 *** tv :📺:
-**** S1 :P2016:
+**** DONE Preacher S1 :P2016:
 ***** DONE 1x01, 02, 03
 CLOSED: [2022-01-11 Tue 08:22]
 
@@ -223,7 +234,7 @@ CLOSED: [2022-01-19 Wed 22:03]
 ***** DONE 1x08, 09, 10
 CLOSED: [2022-01-21 Fri 23:07]
 
-**** DONE S2 :P2017:
+**** DONE Preacher S2 :P2017:
 
 13 episodes
 
@@ -263,6 +274,8 @@ CLOSED: [2023-03-10 Fri 21:08]
 ***** DONE 2x13
 CLOSED: [2023-03-12 Sun 18:45] SCHEDULED: <2023-03-12 Sun>
 
+**** Preacher S3 :P2018:
+**** Preacher S4 :P2019:
 ** V for Vendetta ...
 ** Fables :hanzify:
 
@@ -508,6 +521,7 @@ Set a few years after /Supernatural: Origins/, the story picks up with an 11-ye
 
 Picking up several years after the Supernatural: Rising Son, the Winchesters find themselves working a case in New York City. The comics sets up the events that led to Sam leaving his family to attend Stanford. It is written by Andrew Dabb and Daniel Loflin.
 
+*** Supernatural :P2011:
 *** The Dogs of Edinburgh :P2012:
 
  (December 2011-May 2012)
@@ -608,7 +622,7 @@ CLOSED: [2023-04-06 Thu 08:02]
 *** DONE 14x03
 CLOSED: [2023-04-07 Fri 20:12]
 
-*** DONE 14x04
+*** DONE [#A] 14x04 Mint Condition
 CLOSED: [2023-04-07 Fri 20:55]
 
 *** DONE 14x05
@@ -626,6 +640,21 @@ CLOSED: <2023-04-20 Thu 18:49>
 *** DONE 14x09
 CLOSED: [2023-04-24 Mon 20:03]
 
+*** DONE [#A] 14x10 Nihilism
+CLOSED: [2024-02-25 Sun 11:33]
+
+*** DONE 14x11
+CLOSED: [2024-02-25 Sun 13:07]
+
+*** DONE 14x12
+CLOSED: [2024-02-28 Wed 21:41]
+
+*** DONE [#A] 14x13 Lebanon
+CLOSED: [2024-02-29 Thu 08:13]
+
+*** [#A] 14x15 Ouroborus
+*** ...
+*** 14x20 Moriah
 ** S15
 
 20 episodes

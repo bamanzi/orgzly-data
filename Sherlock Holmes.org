@@ -343,4 +343,7 @@ CLOSED: [2023-10-11 Wed 22:28] SCHEDULED: <2023-10-15 Sun>
 *** DONE 黄金案
 CLOSED: [2024-02-18 Sun 15:26]
 
+*** DONE 红楼案/红亭子
+CLOSED: [2024-02-23 Fri 18:40]
+
 * Monk 神探阿蒙

@@ -483,8 +483,12 @@ CLOSED: [2024-02-14 Wed 23:01]
 **** DONE 2x08
 CLOSED: [2024-02-19 Mon 21:23]
 
-**** 2x09
-**** 2x10
+**** DONE 2x09
+CLOSED: [2024-02-22 Thu 22:31]
+
+**** DONE 2x10
+CLOSED: [2024-02-25 Sun 21:52] SCHEDULED: <2024-02-25 Sun>
+
 ** movies
 *** DONE 永恒国度的终焉
 CLOSED: [2022-02-26 Sat 17:43]
