@@ -312,8 +312,8 @@ Sebastian Vaughan is the brightest, newest recruit to Torchwood. He's come fro
       :rating:   7.9
       :END:
 
-***** HALF [#A] TW43. The Three Monkeys :Owen:Andy:DW2024_02_spinoffs:
-      SCHEDULED: <2024-02-11 Sun>
+***** 3QTR [#A] TW43. The Three Monkeys :Owen:Andy:DW2024_02_spinoffs:
+      CLOSED: <2024-02-23 Fri 20:41> SCHEDULED: <2024-02-11 Sun>
       :PROPERTIES:
       :rating:   8.8
       :END:
@@ -408,7 +408,9 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 
 ***** [#A] 57. The Grey Mare (8.5) :Ianto:
 ***** [#B] 58. Cadoc Point (8.4) :Andy:
-***** [#A] 59. Sonny (8.9) :Rhys:plot_yes:
+***** [#A] 59. Sonny (8.9) :Rhys:plot_yes:DW2024_03_spinoffs:
+      SCHEDULED: <2024-03-10 Sun>
+
 ***** CANCEL [#E] 60. Infidel Places+ (6.7) :Queen:
 **** series 8 (61-72)
 ***** HALF [#C] TW61. War Chest :Tosh:P2022_05:plot_yes:DW2023_04_spinoffs:
@@ -795,7 +797,8 @@ https://tardis.fandom.com/wiki/Parasite_(audio_story)
 
 Torchwood India
 
-**** READY [#C] 4. The Dead Line :bilibili:
+**** READY [#C] 4. The Dead Line :bilibili:DW2024_03_spinoffs:
+     SCHEDULED: <2024-03-17 Sun>
 
 【John Barrowman字幕组-火炬木广播剧中字-无人来电-哔哩哔哩】 https://b23.tv/Cxi034N
 
@@ -983,7 +986,8 @@ Roberts Master
      :rating:   7.2
      :END:
 
-**** [#A] 7.3 Barrister to the Stars
+**** [#A] 7.3 Barrister to the Stars :DW2024_03_spinoffs:
+     SCHEDULED: <2024-03-17 Sun>
      :PROPERTIES:
      :rating:   8.9
      :END:
@@ -1132,7 +1136,9 @@ Roberts Master
 *** START [#D] 8.3 - Jago & Litefoot & Patsy           (7.3) :DW2024_01_spinoffs:
     SCHEDULED: <2024-01-14 Sun>
 
-*** [#C] 8.4 - Higson & Quick                    (7.5)
+*** [#C] 8.4 - Higson & Quick                    (7.5) :DW2024_03_spinoffs:
+    SCHEDULED: <2024-03-10 Sun>
+
 ** J&L series 9 :P2015:
 *** [#B] 9.1 - The Flying Frenchmen              (8.1)
 *** [#B] 9.2 - The Devil's Dicemen               (8.1)
@@ -1231,7 +1237,9 @@ Roberts Master
 *** 3QTR [#B] 3.2 - Warfare (8.3) :DW2022_08_spinoffs:
     CLOSED: [2022-08-12 Fri 21:10] SCHEDULED: <2022-08-13 Sat>
 
-*** TODO [#C] 3.3 - Appropriation (7.9)
+*** 3QTR [#C] 3.3 - Appropriation (7.9) :DW2024_02_spinoffs:
+    CLOSED: <2024-02-26 Mon 08:28> SCHEDULED: <2024-02-25 Sun>
+
 *** TODO [#A] 3.4 - Mindbomb (8.9)
 *** [#B] 3.5 - Panacea (8.1)
 ** series 4 :P2011:plot_yes:
@@ -1276,9 +1284,7 @@ Roberts Master
     :rating:   8.1
     :END:
 
-*** HALF [#B] 6.3 - Ascension :DW2024_02_spinoffs:
-    SCHEDULED: <2024-02-04 Sun>
-
+*** HALF [#B] 6.3 - Ascension
 ** special: WoDW#4 Second Sight ↗
 ** [#B] 7.0 - Intervention Earth :P2015:
 ** [#A] 8.0 - Enemy Lines :P2016:
@@ -1332,7 +1338,8 @@ Roberts Master
      :rating:   7.3
      :END:
 
-**** [#C] 3.2 - The Green Eyed Monster
+**** [#C] 3.2 - The Green Eyed Monster :plot_yes:DW2024_02_spinoffs:
+     SCHEDULED: <2024-02-29 Thu>
      :PROPERTIES:
      :rating:   7.5
      :END:
@@ -1708,7 +1715,7 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
      :rating:   7.2
      :END:
 
-**** [#B] 2.4 - Too Many Masters :Monk:plot_no:DW2024_01_spinoffs:
+**** TODO [#B] 2.4 - Too Many Masters :Monk:plot_no:DW2024_01_spinoffs:
      SCHEDULED: <2024-01-28 Sun>
      :PROPERTIES:
      :rating:   8.2
@@ -1738,7 +1745,9 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
 
 - 上： 【【有声书汉化】准将的困扰 Terror of the Master 上-哔哩哔哩】 https://b23.tv/7SioMBV
 
-** [#B] CC8.1 Mastermind :Master_decayed:Ruth_Matheson:the_Vault:UNIT:
+** 3QTR [#B] CC8.1 Mastermind :Master_decayed:Ruth_Matheson:the_Vault:UNIT:DW2024_02_spinoffs:
+   CLOSED: <2024-02-28 Wed 08:07> SCHEDULED: <2024-02-25 Sun>
+
 ** Master! :Master_roberts:🎧:
 *** HALF [#C] Vienna #0 The Memory Box :D2021_12_extra:week2:
     SCHEDULED: <2021-12-10 Fri>
@@ -2180,8 +2189,7 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
     :rating:   7.9
     :END:
 
-*** [#B] 1.4	 Armageddon :DW2024_02_spinoffs:
-    SCHEDULED: <2024-02-11 Sun>
+*** [#B] 1.4	 Armageddon :DW2024_04_spinoffs:
     :PROPERTIES:
     :rating:   8.3
     :END:
@@ -2413,6 +2421,8 @@ http://www.drwhoguide.com/kaldor03.htm
      CLOSED: [2023-10-25 Wed 07:22] SCHEDULED: <2023-10-22 Sun>
 
 **** START [#B] 3.3 - Truth and Bone :Sontarans:DW2024_02_spinoffs:
+     SCHEDULED: <2024-02-29 Thu>
+
 *** PG: Heritage 4 :P2020:
 **** [#A] 4.1 - Merry Christmas, Mr Jago  (9.0)
 **** [#E] +4.2 - The Ghost Writers+         (6.4)

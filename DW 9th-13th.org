@@ -102,7 +102,8 @@ SCHEDULED: <2023-11-11 Sat>
 【【神秘博士广播剧熟肉】Hidden Depths 703 Flatpack 平板家居-哔哩哔哩】 https://b23.tv/ElXr5Mq
 
 **** S2.4 Shades of Fear :P2023_02:
-***** READY [#D] 8.1 The Colour of Terror :bilibili:
+***** READY [#D] 8.1 The Colour of Terror :bilibili:DW2024_03_doctor:
+SCHEDULED: <2024-03-16 Sat>
 :PROPERTIES:
 :rating:   7.4
 :END:
@@ -382,7 +383,7 @@ CLOSED: [2021-08-01 Sun 15:54]
 
 【[BF广播剧熟肉]Technophobia科技恐惧症-哔哩哔哩】https://b23.tv/nq0u5s
 
-***** READY [#D] 10DA 1.2 - Time Reaver :bilibili:DW2024_02_doctor:
+***** READY [#D] 10DA 1.2 - Time Reaver :bilibili:DW2024_04_doctor:
 :PROPERTIES:
 :rating:   7.1
 :END:
@@ -600,30 +601,30 @@ CLOSED: [2023-12-29 Fri 22:07] SCHEDULED: <2023-12-23 Sat>
 :rating:   7.0
 :END:
 
-***** TODO [#C] 1.3 - Wild Pastures :Sylvia:
+***** TODO [#C] 1.3 - Wild Pastures :Sylvia:plot_cast:
 :PROPERTIES:
 :rating:   7.5
 :END:
 
-***** TODO [#B] 1.4 - Last Chance :Christina:
+***** TODO [#B] 1.4 - Last Chance :Christina:plot_cast:
 :PROPERTIES:
 :rating:   8.0
 :END:
 
 **** 10DC S2: Defender of the Earth :P2023_11:
-***** 2.1 The Thing in the Forest :WW2:
-***** 2.2 The Opacity Factor
-***** 2.3 Freedom or Death
-***** 2.4 The Siege of Shackleton
+***** [#E] 2.1 The Thing in the Forest :WW2:
+***** [#F] 2.2 The Opacity Factor
+***** [#F] 2.3 Freedom or Death
+***** [#F] 2.4 The Siege of Shackleton
 *** CC & ST :🗣:
 **** [#D] DotD #10 Death's Deal :Donna:
-**** [#C] ST8.6 The Siege of Big Ben :plot_yes:
-SCHEDULED: <2023-10-31 Tue>
+**** [#C] ST8.6 The Siege of Big Ben :Jackie:plot_yes:DW2024_02_doctor:
+SCHEDULED: <2024-02-28 Wed>
 :PROPERTIES:
 :rating:   7.9
 :END:
 
-**** [#B] ST8.8 - Flight into Hull!
+**** [#B] ST8.8 - Flight into Hull! :Jackie:
 
 (alt 10D + alt Jackie)
 
@@ -787,7 +788,9 @@ SCHEDULED: <2023-07-28 Fri 08:02>
 SCHEDULED: <2023-09-17 Sun>
 
 *** 11DC vol.4 All of Time and Space :Valarie:
-**** [#B] 4.1 All of Time and Space :P2023_02:
+**** [#B] 4.1 All of Time and Space :P2023_02:DW2024_03_doctor:
+SCHEDULED: <2024-03-16 Sat>
+
 **** [#D] 4.2 The Yearn :P2023_02:
 **** [#A] 4.3 Curiosity Shop :P2023_02:
 **** [#A] 4.4 Broken Hearts :P2023_11:
@@ -808,8 +811,8 @@ CLOSED: [2022-11-02 Wed 20:33] SCHEDULED: <2022-11-06 Sun>
 :rating:   8.5
 :END:
 
-**** READY [#A] ST12.X The World Tree :P2022_12:bilibili:DW2024_01_doctor:
-SCHEDULED: <2024-01-28 Sun>
+**** 3QTR [#A] ST12.X The World Tree :P2022_12:plot_yes:bilibili:DW2024_01_doctor:
+CLOSED: [2024-01-28 Sun 07:16] SCHEDULED: <2024-01-28 Sun>
 
 【【神秘博士】短途旅行：世界树 | Short Trips: The World Tree-哔哩哔哩】 https://b23.tv/kE5PXA3
 

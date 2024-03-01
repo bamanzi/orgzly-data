@@ -216,7 +216,8 @@ CLOSED: [2021-03-22 Mon 23:16]
 CLOSED: <2023-07-07 Fri 20:32> SCHEDULED: <2023-07-05 Wed>
 
 **** [#D] 160. The Jupiter Conjunction (7.3)
-**** BLOCK [#B] 161. The Butcher of Brisbane (8.0) :plot_yes:
+**** BLOCK [#B] 161. The Butcher of Brisbane (8.0) :plot_yes:DW2024_03_doctor:
+SCHEDULED: <2024-03-23 Sat>
 :PROPERTIES:
 :rating:   8.0
 :END:
@@ -789,6 +790,7 @@ Six and Charley meet, and an enjoyable, weird adventure results.
 http://www.drwhoguide.com/who_bf105.htm
 
 **** HALF [#D] 111 The Doomwood Curse :plot_yes_dwg:DW2024_02_doctor:
+SCHEDULED: <2024-02-24 Sat>
 :PROPERTIES:
 :rating:   7.4
 :END:
@@ -1128,8 +1130,8 @@ CLOSED: <2022-05-17 Tue 21:11> SCHEDULED: <2022-05-07 Sat>
 :END:
 
 ****** HALF [#A] 115d. The Word Lord (8.6) :P2008:Ace:Hex:Nobody_No_One:plot_no:
-***** HALF [#A] 120. The Magic Mousetrap :2009:Ace:Hex:Celestial_Toymaker:plot_yes_dwg:DW2024_01_doctor:
-SCHEDULED: <2024-01-06 Sat>
+***** 3QTR [#A] 120. The Magic Mousetrap :2009:Ace:Hex:Celestial_Toymaker:plot_yes_dwg:DW2024_01_doctor:
+CLOSED: [2024-02-13 Tue 15:21] SCHEDULED: <2024-01-06 Sat>
 :PROPERTIES:
 :rating:   8.6
 :END:
@@ -1336,7 +1338,9 @@ CLOSED: <2023-05-16 Tue 08:46> SCHEDULED: <2023-05-13 Sat 20:07>
 ***** HALF [#B] UNIT - Dominion p2 :DW2023_05_doctor:
 SCHEDULED: <2023-05-20 Sat 20:07>
 
-***** START [#B] UNIT - Dominion p3
+***** START [#B] UNIT - Dominion p3 :DW2024_03_doctor:
+SCHEDULED: <2024-03-09 Sat>
+
 ***** TODO [#B] UNIT - Dominion p4
 **** 📂2022A Silver and Ice :P2022_06:
 ***** CANCEL [#F] Bad Day in Tinseltown :Cybermen:Mel:1CD:

@@ -64,7 +64,8 @@ Episode 4 missing (but animated in 2013).
 
 ** audio :🎧:
 *** with Susan, Ian, Barbara :Ian:Susan:Barbara:
-**** [#C] EA1.1 Domain of the Voord :Susan:Ian:Barbara:Voord:plot_yes:
+**** [#C] EA1.1 Domain of the Voord :Susan:Ian:Barbara:Voord:plot_yes:DW2024_03_doctor:
+SCHEDULED: <2024-03-09 Sat>
 
 应该先看老版剧集 1x05 The Keys of Marinus
 
@@ -968,8 +969,8 @@ CLOSED: [2024-01-18 Thu 23:13]
 ****** 3QTR part4-5
 CLOSED: [2024-01-21 Sun 19:53]
 
-****** part6-7 :DW2024_02_doctor:
-SCHEDULED: <2024-02-03 Sat>
+****** HALF [#A] part6-7 :DW2024_02_doctor:
+SCHEDULED: <2024-02-17 Sat>
 
 ***** BLOCK 2023B Intelligence for War :P2023_10:Liz:Brig:3CD:
 **** CC (Liz)
@@ -1035,8 +1036,8 @@ SCHEDULED: <2023-09-21 Thu>
 
 **** CANCEL [#E] 3DA22B. Kaleidoscope :Sarah:Harry:Brigadier:P2022_10:3CD:
 **** 3DA24A. Revolution in Space :P2024_02:
-**** START [#D] CDNM3.1 The House that Hoxx Built :P20222:plot_yes:DW2022_11_doctor:
-SCHEDULED: <2022-11-23 Wed>
+**** START [#D] CDNM3.1 The House that Hoxx Built :P2022:plot_yes:DW2024_03_doctor:
+SCHEDULED: <2024-03-23 Sat>
 
 **** SvsR#2 The Children of the Future :P2024_02:
 **** CANCEL [#F] ST10.03 Decline of the Ancient Mariner :Sarah:
@@ -1509,8 +1510,7 @@ SCHEDULED: <2022-04-23 Sat>
 
 ***** [#D] 8.4 The False Guardian / 8.5 Time's Assassin
 ***** [#D] 8.6 - Fever Island (7.2)
-***** [#B] 8.7/8.8 - The Perfect Prisoners :2CD:DW2024_02_doctor:
-SCHEDULED: <2024-02-10 Sat>
+***** [#B] 8.7/8.8 - The Perfect Prisoners :2CD:
 :PROPERTIES:
 :rating:   8.2
 :END:
@@ -1573,7 +1573,8 @@ thetimescales 上32/33认为需要先听前面的故事
 :rating:   7.1
 :END:
 
-**** HALF [#B] CA1.2 The Star Beast (Comics Adaptation #2) :P2019:2CD:P2019:
+**** HALF [#B] CA1.2 The Star Beast (Comics Adaptation #2) :P2019:K9:2CD:DW2024_02_doctor:
+SCHEDULED: <2024-02-28 Wed>
 :PROPERTIES:
 :category: audio-drama
 :rating:   8.8
