@@ -931,7 +931,7 @@ SCHEDULED: <2022-03-30 Wed>
 :END:
 
 ***** [#A] ST9.6 The Same Face (8.6, top #4 in ST) :Jo:Master:P2019:
-***** [#B] ST6.8 Damuscus (8.3, top #7 in ST) :Jo:UNIT:
+***** [#B] ST6.8 Damascus (8.3, top #7 in ST) :Jo:UNIT:
 
 As the decade in English history which attracts the greatest quantity of alien invasions per annum, the 1970s are not the easiest time in which to steer the great British ship of state. The Prime Minister, nonetheless, is doing the very best job he can. Still, at least he has UNIT to rely on — their eccentric, bouffant-haired scientific adviser in particular. Or does he?
 
@@ -1478,6 +1478,7 @@ CLOSED: [2023-06-07 Wed 08:19] SCHEDULED: <2023-06-10 Sat>
 :rating:   8.1
 :END:
 
+***** [#C] DotD#4. Babblesphere :4th_Dr:Romana_2:
 **** short
 ***** TODO [#A] ST6.9 - A Full Life (9.0) :Adric:Romana_2:
 ***** [#C] 4.4 The Old Rogue :Romana_2:2nd_Dr:Jamie:
@@ -1525,7 +1526,7 @@ CLOSED: <2023-02-10 Fri 14:02> SCHEDULED: <2023-02-06 Mon 08:42>
 ***** [#C] 11.3 The Dreams of Avaice :The_Nine:
 ***** [#D] 11.4 Shellshock
 ***** HALF [#D] 11.5 Peake Season :1CD:DW2024_04_doctor:
-**** TBR 4DA series 13 :Harry:Naomi:
+**** 4DA series 13 :Harry:Naomi:
 ***** 13.1 The Storm of the Sea Devils :P2024_03:
 ***** 13.2 Worlds Beyond :P2024_03:
 *** BF The Lost Stories
@@ -1729,6 +1730,18 @@ CLOSED: [2021-07-27 Tue 23:10] SCHEDULED: <2021-12-03 Fri>
 :rating:   8.7
 :END:
 
+** Destiny of the Doctor :P2013:plot_yes:
+*** [#D] 1. Hunters of Earth :1st_Dr:Susan:
+*** [#B] 2. Shadow of Death :2nd_Dr:Jamie:Zoe:
+*** CANCEL [#E] 3. Vengeance of the Stones :3rd_Dr:
+*** [#C] 4. Babblesphere :4th_Dr:Romana_2:
+*** [#D] 5. Smoke and Mirrors :5th_Dr:Adric:Nyssa:Tegan:
+*** [#C] 6. Trouble in Paradise :6th_Dr:Peri:
+*** [#D] 7. Shockwave :7th_Dr:Ace:
+*** [#C] 8. Enemy Aliens :8th_Dr:Charley:
+*** [#C] 9. Night of the Whisper :9th_Dr:Rose:Jack:
+*** [#D] 10. Death's Deal :10th_Dr:Donna:
+*** [#D] 11. The Time Machine :11th_Dr:Alice:
 ** Classic Doctors, New Monsters
 *** CDNM vol.1 :P2016:
 **** DONE [#B] 1.1 Fallen Angels :5th_Dr:
@@ -1755,10 +1768,10 @@ CLOSED: [2021-07-27 Tue 23:10] SCHEDULED: <2021-12-03 Fri>
 【【神秘博士广播剧熟肉】The Stuff of Nightmares 304 If I Should Die Before I Wake 若我在沉睡中死去-哔哩哔哩】 https://b23.tv/TJmTSCZ
 
 *** TBR CDNM vol.4 Broken Memories :P2024_04:
-**** 4.1 Invasion of the Body Stealers :4th_Dr:
-**** 4.2 The Queen of Clocks :6th_Dr:Clockwork_Droids:
-**** 4.3 The Silent Priest :Silents:7th_Dr:
-**** 4.4 The Silent City :Silents:8th_Dr:
+**** 4.1 Invasion of the Body Stealers :4th_Dr:Sarah:
+**** 4.2 The Queen of Clocks :6th_Dr:Clockwork_Droids:Mel:
+**** 4.3 The Silent City :Silents:8th_Dr:
+**** 4.4 The Silent Priest :Silents:7th_Dr:
 ** The Legacy of Time :P2019:
 *** HALF [#B] Lies in Ruins :8th_Dr:River:Benny:
 *** CANCEL [#E] The Split Infinitive :7th_Dr:Ace:CM:

@@ -175,6 +175,7 @@ SCHEDULED: <2022-11-29 Tue>
 :rating:   7.6
 :END:
 
+**** [#B] ST12.4 Identity Check :P2023_02:Rose:
 *** fan-made :fan_made:
 **** START 0.3 - What I Did on My Christmas Holidays by Sally Sparrow :short:D2022_03_doctor:week4:🗣:
 SCHEDULED: <2022-03-19 Sat>
@@ -591,7 +592,7 @@ CLOSED: [2023-12-29 Fri 22:07] SCHEDULED: <2023-12-23 Sat>
 
 *** 10DC
 **** 10DC S1 :P2018:
-***** [#D] 1.1 - the Taste of Death :Rose:
+***** [#D] 1.1 - the Taste of Death :Rose:plot_simple:
 :PROPERTIES:
 :rating:   7.0
 :END:
@@ -601,7 +602,8 @@ CLOSED: [2023-12-29 Fri 22:07] SCHEDULED: <2023-12-23 Sat>
 :rating:   7.0
 :END:
 
-***** TODO [#C] 1.3 - Wild Pastures :Sylvia:plot_cast:
+***** HALF [#C] 1.3 - Wild Pastures :Sylvia:plot_cast:DW2024_02_doctor:
+SCHEDULED: <2024-03-02 Sat>
 :PROPERTIES:
 :rating:   7.5
 :END:
@@ -633,7 +635,8 @@ CLOSED: [2023-10-07 Sat 19:46] SCHEDULED: <2023-10-14 Sat>
 
 【【神秘博士】短途旅行：言谈无阻 | Short Trips: Free Speech-哔哩哔哩】 https://b23.tv/Ix7q1RY
 
-**** [#B] ST11.5 Fear of Flying
+**** [#B] ST11.5 Fear of Flying :P2022_02:
+**** [#C] ST12.5 Table for Two, Dinner for One :P2023_02:
 *** BBC
 **** [#C] NSA #2 The Forever Trap
 **** READY [#A] NSA audio #7: Dead Air :1CD:bilibili:
@@ -711,6 +714,9 @@ CLOSED: <2022-12-17 Sat 23:20>
 **** 6x03 The Curse of the Black Spot
 **** 6x04 The Doctor's Wife
 **** DONE 6x07 A Good Man Goes to War :River:
+**** DONE 6x11 The God Complex
+CLOSED: [2024-02-05 Mon 20:32]
+
 *** 225. The Doctor, the Widow and the Wardrobe :P2011_12:
 *** S7 (226-230,232-239)
 **** DONE 7x12 Nightmare in Silver :Cybermen:
@@ -724,13 +730,13 @@ CLOSED: [2022-12-04 Sun 13:12]
 
 ** audio :🎧:
 *** 11DC vol.1 :🗣:
-**** HALF [#D] 1.1 - The Calendar Man :DW2022_07_doctor:
+**** HALF [#D] 1.1 - The Calendar Man :DW2022_07_doctor:plot_yes:
 SCHEDULED: <2022-07-23 Sat>
 :PROPERTIES:
 :rating:   7.3
 :END:
 
-**** [#D] 1.2 - The Top of the Tree
+**** [#D] 1.2 - The Top of the Tree :plot_yes:
 :PROPERTIES:
 :rating:   7.0
 :END:
@@ -778,8 +784,10 @@ https://tardis.fandom.com/wiki/Prequel_to_Geronimo!_(audio_story)
 
 【【神秘博士广播剧】The Eleventh Doctor Chronicles: Geronimo! 先行篇-哔哩哔哩】 https://b23.tv/6zkqNzo
 
-**** 3QTR [#A] 11DC3.1 The Inheritance :DW2023_05_doctor:
+**** 3QTR [#A] 11DC3.1 The Inheritance :DW2023_05_doctor:bilibili:
 CLOSED: <2023-06-04 Sun 20:22> SCHEDULED: <2023-05-20 Sat>
+
+【【神秘博士广播剧熟肉】Geronimo! 301 The Inheritance 遗产-哔哩哔哩】 https://b23.tv/T5sKhn0
 
 **** HALF [#A] 11DC3.2 The House of Masks :DW2023_07_doctor:
 SCHEDULED: <2023-07-28 Fri 08:02>
@@ -833,7 +841,7 @@ https://m.youtube.com/watch?v=7wrZUFIgiNE
 
 **** [#E] Paradis Lost (BBC) :Clara:1CD:P2020:
 **** [#B] NSA audio #15 The Art of Death :BBC:Amy:Rory:
-**** NEXT [#B] Let it Snow (Tales of Trenzalore #1) :Ice_Warriors:
+**** NEXT [#B] Let it Snow (Tales of Trenzalore #1) :Ice_Warriors:scripted:
 ** comics :📚:
 *** IDW
 **** DW2011
@@ -1085,6 +1093,7 @@ https://www.iiiff.com/article/404723
 :rating:   7.2
 :END:
 
+**** [#D] ST12.3 The Three Flames
 *** misc
 **** [#C] The Nightmare Realm :BBC:P2021:Nardole:1CD:
 :PROPERTIES:

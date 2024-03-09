@@ -218,7 +218,7 @@ SCHEDULED: <2022-08-31 Wed>
 
 【【神秘博士广播剧】Companion Chronicles 412 Solitaire 无知游戏-哔哩哔哩】 https://b23.tv/rq4Mqk7
 
-***** [#C] DotD #8. Enemy Aliens :Charley:plot_no:
+***** [#C] DotD #8. Enemy Aliens :Charley:plot_yes:
 ***** [#B] ST2.8 - Letting Go :Charley:
 :PROPERTIES:
 :rating:   8.0
@@ -1024,12 +1024,12 @@ CLOSED: [2020-09-23 Wed 12:53]
 【【翻译】Big Finish神秘博士八叔Time War短篇有声书 - 严阵以待 第一部分-哔哩哔哩】https://b23.tv/zhgkAz 
 
 **** Prequel
-**** HALF [#B] Susan1.1 Sphere of Influence :Ian:bilibili:P2020_04:DW2023_05_spinoffs:
+**** HALF [#B] Susan1.1 Sphere of Influence :plot_yes:Ian:bilibili:P2020_04:DW2023_05_spinoffs:
 SCHEDULED: <2023-05-21 Sun>
 
 【【神秘博士广播剧汉化】Susan's War 苏珊的战争 101 Sphere of Influence-哔哩哔哩】 https://b23.tv/qIYe1v0
 
-**** DONE [#C] _Susan1.2 - The Uncertain Shore_ :bilibili:P2020_04:DW2023_08_spinoffs:
+**** DONE [#C] _Susan1.2 - The Uncertain Shore_ :plot_yes:bilibili:P2020_04:DW2023_08_spinoffs:
 CLOSED: [2023-09-28 Thu 18:43] SCHEDULED: <2023-09-03 Sun>
 
 【【神秘博士广播剧汉化】Susan's War 苏珊的战争 102 The Uncertain Shore-哔哩哔哩】https://b23.tv/WenJUb
@@ -1039,7 +1039,7 @@ CLOSED: [2023-11-19 Sun 19:32] SCHEDULED: <2023-11-26 Sun>
 
 【【神秘博士广播剧汉化】Susan's War 苏珊的战争 103 Assets of War-哔哩哔哩】https://b23.tv/rjUz2u
 
-**** [#A] 4. The Shoreditch Intervention :P2020_04:8th_Dr:
+**** [#A] 4. The Shoreditch Intervention :P2020_04:8th_Dr:plot_yes:DW2024_03_spinoffs:
 *** 📂Gallifrey: Time War vol.3 :P2020:🎧:
 **** DONE Hostiles
 CLOSED: [2020-12-17 Thu 19:53]
@@ -1195,10 +1195,10 @@ CLOSED: <2020-12-17 Thu 19:57>
 **** [#B] 1.3 Collateral Victim
 **** [#B] 1.4 The First Days of Phaidon
 *** _📂Gallifrey: War Room vol.2_ :P2023_09:
-**** 2.1 Collaborators
-**** 2.2 Remnants
-**** 2.3 Transference
-**** 2.4 Ambition's Debt
+**** [#B] 2.1 Collaborators
+**** [#D] 2.2 Remnants
+**** [#A] 2.3 Transference
+**** [#B] 2.4 Ambition's Debt
 *** DONE PROSE: The Third Wise Man :War_Doctor:
 CLOSED: <2019-10-29 Tue 13:59>
 

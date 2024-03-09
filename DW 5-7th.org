@@ -410,6 +410,7 @@ CLOSED: [2022-11-27 Sun 23:36] SCHEDULED: <2022-11-16 Wed>
 【【神秘博士广播剧熟肉】In the Night 101 Pursuit of the Nightjar (Part 3&4) 追捕夜鹰-哔哩哔哩】 https://b23.tv/jiFxS86
 
 ***** 2. Resistor :1CD:
+**** 2024A. The Dream Team :P2024_04:
 **** TBR NA12. Goth Opera :P2024_07:
 *** with Zara & Abby
 **** [#E] 117. The Judgement of Isskar :Zara:Abby:Ice_Warriors:
@@ -497,8 +498,10 @@ CLOSED: [2022-12-15 Thu 08:21]
 
 **** DONE [#C] Vengeance on Varos (7.7)
 **** DONE [#D] The Mark of the Rani (6.9)
-**** [#C] The Two Doctors (7.5) :2nd_Dr:
-**** CANCEL [#E] Timelash (5.5)
+**** DONE [#C] The Two Doctors (7.5) :2nd_Dr:
+**** DONE [#E] Timelash (5.5)
+CLOSED: <2024-02-20 Tue 20:53>
+
 **** DONE [#C] Revelation of the Daleks (7.8)
 *** Season 23
 **** DONE [#D] The Mysterious Planet (7.1)
