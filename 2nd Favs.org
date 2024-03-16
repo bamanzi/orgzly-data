@@ -70,6 +70,18 @@ CLOSED: [2023-04-18 Tue 23:17]
 水漫汉化联盟
 
 *** Sandman (tv)(2022- ) :📺:
+**** DONE [#B] 1x01 Sleep of the Just
+CLOSED: [2024-03-03 Sun 19:43]
+
+**** DONE [#C] 1x02 Imperfect Hosts
+CLOSED: [2024-03-10 Sun 19:47]
+
+**** DONE [#C] 1x03 Dream a Little Dream of Me
+CLOSED: [2024-03-10 Sun 20:33]
+
+**** [#A] 1x04 A Hope in Hell
+**** [#B] 1x05 24/7
+**** [#A] 1x06 The Sound of Her Wings
 ** Lucifer
 *** Lucifer v1 (2000-2006, 75 issues) :📚:😈:lucifer:
 **** LATER vol.1 Devil in the Gateway
@@ -183,6 +195,31 @@ CLOSED: [2024-02-24 Sat 21:14]
 ***** DONE 3x03
 CLOSED: [2024-02-26 Mon 20:14]
 
+***** DONE 3x04
+CLOSED: [2024-03-01 Fri 21:57]
+
+***** DONE 3x05
+CLOSED: [2024-03-02 Sat 13:42]
+
+***** DONE [#A] 3x06 Vagas with Some Radish
+CLOSED: [2024-03-08 Fri 20:22]
+
+***** DONE [#A] 3x07 Off the Record
+CLOSED: [2024-03-09 Sat 08:57]
+
+***** DONE 3x08
+CLOSED: [2024-03-11 Mon 08:08]
+
+***** DONE 3x09
+CLOSED: [2024-03-13 Wed 21:51]
+
+***** DONE 3x10
+CLOSED: [2024-03-16 Sat 20:48]
+
+***** ....
+***** [#A] 3x14 Til Death Do Us Part
+***** ...
+***** [#A] 3x20 The Angel of San Bernardino
 **** Lucifer S4 (10 eps) :P2019:
 **** Lucifer S5 (16 eps) :P2020:
 **** Lucifer S6 (10 eps) :P2021:
@@ -609,7 +646,8 @@ CLOSED: [2023-03-16 Thu 19:29] SCHEDULED: <2023-03-18 Sat>
 *** DONE 13x23
 CLOSED: [2023-03-20 Mon 07:57] SCHEDULED: <2023-03-18 Sat>
 
-** S14
+** DONE S14
+CLOSED: [2024-03-15 Fri 20:13]
 
 20 episodes
 
@@ -652,10 +690,31 @@ CLOSED: [2024-02-28 Wed 21:41]
 *** DONE [#A] 14x13 Lebanon
 CLOSED: [2024-02-29 Thu 08:13]
 
-*** [#A] 14x15 Ouroborus
-*** ...
-*** 14x20 Moriah
+*** DONE [#A] 14x14 Ouroborus
+CLOSED: [2024-03-06 Wed 21:44]
+
+*** DONE 14x15
+CLOSED: <2024-03-07 Thu 07:57>
+
+*** DONE 14x16
+CLOSED: [2024-03-09 Sat 19:28]
+
+*** DONE 14x17
+CLOSED: [2024-03-09 Sat 20:13]
+
+*** DONE 14x18
+CLOSED: [2024-03-14 Thu 07:44]
+
+*** DONE 14x19
+CLOSED: [2024-03-15 Fri 00:15]
+
+*** DONE 14x20 Moriah
+CLOSED: [2024-03-15 Fri 20:13]
+
 ** S15
 
 20 episodes
 
+*** 15x01
+*** 15x02
+*** 15x03
