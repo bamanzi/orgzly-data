@@ -531,8 +531,8 @@ CLOSED: <2024-02-11 Sun 14:55> SCHEDULED: <2024-02-10 Sat>
 :rating:   7.9
 :END:
 
-****** [#B] 4.3 - The Side of the Angels :Monk:Weeping_Angels:DW2024_02_doctor:
-SCHEDULED: <2024-02-24 Sat>
+****** [#B] 4.3 - The Side of the Angels :Monk:Weeping_Angels:DW2024_04_doctor:
+SCHEDULED: <2024-04-06 Sat>
 :PROPERTIES:
 :rating:   8.3
 :END:
@@ -1039,7 +1039,9 @@ CLOSED: [2023-11-19 Sun 19:32] SCHEDULED: <2023-11-26 Sun>
 
 【【神秘博士广播剧汉化】Susan's War 苏珊的战争 103 Assets of War-哔哩哔哩】https://b23.tv/rjUz2u
 
-**** [#A] 4. The Shoreditch Intervention :P2020_04:8th_Dr:plot_yes:DW2024_03_spinoffs:
+**** HALF [#A] 4. The Shoreditch Intervention :P2020_04:8th_Dr:plot_yes:DW2024_Q2a_spinoffs:
+SCHEDULED: <2024-04-07 Sun>
+
 *** 📂Gallifrey: Time War vol.3 :P2020:🎧:
 **** DONE Hostiles
 CLOSED: [2020-12-17 Thu 19:53]

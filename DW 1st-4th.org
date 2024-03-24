@@ -64,7 +64,7 @@ Episode 4 missing (but animated in 2013).
 
 ** audio :🎧:
 *** with Susan, Ian, Barbara :Ian:Susan:Barbara:
-**** [#C] EA1.1 Domain of the Voord :Susan:Ian:Barbara:Voord:plot_yes:DW2024_03_doctor:
+**** HALF [#C] EA1.1 Domain of the Voord :Susan:Ian:Barbara:Voord:plot_yes:DW2024_Q2a_doctor:
 SCHEDULED: <2024-03-09 Sat>
 
 应该先看老版剧集 1x05 The Keys of Marinus
@@ -1036,9 +1036,7 @@ SCHEDULED: <2023-09-21 Thu>
 
 **** CANCEL [#E] 3DA22B. Kaleidoscope :Sarah:Harry:Brigadier:P2022_10:3CD:
 **** 3DA24A. Revolution in Space :P2024_02:
-**** START [#D] CDNM3.1 The House that Hoxx Built :P2022:plot_yes:DW2024_03_doctor:
-SCHEDULED: <2024-03-23 Sat>
-
+**** START [#D] CDNM3.1 The House that Hoxx Built :P2022:plot_yes:
 **** SvsR#2 The Children of the Future :P2024_02:
 **** CANCEL [#F] ST10.03 Decline of the Ancient Mariner :Sarah:
 :PROPERTIES:
@@ -1070,6 +1068,9 @@ CLOSED: [2023-04-11 Tue 18:48] SCHEDULED: <2023-03-18 Sat>
 
 ***** HALF [#A] ST11.3 The Threshold :Master_nemesis:P2022_02:DW2022_07_doctor:
 SCHEDULED: <2022-07-16 Sat>
+
+***** 3QTR [#B] ST12.2 AWOL :Brig:DW2024_Q2a_doctor:
+CLOSED: <2024-03-15 Fri 08:16> SCHEDULED: <2024-03-09 Sat>
 
 *** BBC :BBC:📄:🎧:
 **** [#C] Horrors of War :Jo:Annie:WW1:P2018:1CD:
@@ -1163,8 +1164,8 @@ CLOSED: <2020-08-03 Mon 18:24>
 
 sequel: Torchwood #25 Night of the Fendahl
 
-**** TODO [#C] 15x04 - The Sun Makers †7.8) :DW2022_09_extra:
-SCHEDULED: <2022-10-01 Sat>
+**** DONE [#C] 15x04 - The Sun Makers †7.8) :DW2023_Q4:
+CLOSED: [2024-02-04 Sun 20:31] SCHEDULED: <2024-01-27 Sat>
 
 **** CANCEL [#E] 15x05 - Underworld †6.2)
 **** DONE [#C] 15x06 - The Invasion of Time †7.7)

@@ -408,8 +408,8 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 
 ***** [#A] 57. The Grey Mare (8.5) :Ianto:
 ***** [#B] 58. Cadoc Point (8.4) :Andy:
-***** [#A] 59. Sonny (8.9) :Rhys:plot_yes:DW2024_03_spinoffs:
-      SCHEDULED: <2024-03-10 Sun>
+***** 3QTR [#A] 59. Sonny (8.9) :Rhys:plot_yes:DW2024_Q2a_spinoffs:
+      CLOSED: <2024-03-12 Tue 07:33> SCHEDULED: <2024-03-17 Sun>
 
 ***** CANCEL [#E] 60. Infidel Places+ (6.7) :Queen:
 **** series 8 (61-72)
@@ -799,8 +799,8 @@ https://tardis.fandom.com/wiki/Parasite_(audio_story)
 
 Torchwood India
 
-**** READY [#C] 4. The Dead Line :bilibili:DW2024_03_spinoffs:
-     SCHEDULED: <2024-03-17 Sun>
+**** READY [#C] 4. The Dead Line :bilibili:DW2024_Q2a_spinoffs:
+     SCHEDULED: <2024-03-31 Sun>
 
 【John Barrowman字幕组-火炬木广播剧中字-无人来电-哔哩哔哩】 https://b23.tv/Cxi034N
 
@@ -1138,8 +1138,8 @@ Roberts Master
 *** START [#D] 8.3 - Jago & Litefoot & Patsy           (7.3) :DW2024_01_spinoffs:
     SCHEDULED: <2024-01-14 Sun>
 
-*** [#C] 8.4 - Higson & Quick                    (7.5) :DW2024_03_spinoffs:
-    SCHEDULED: <2024-03-10 Sun>
+*** [#C] 8.4 - Higson & Quick                    (7.5) :DW2024_Q2a_spinoffs:
+    SCHEDULED: <2024-03-31 Sun>
 
 ** J&L series 9 :P2015:
 *** [#B] 9.1 - The Flying Frenchmen              (8.1)
@@ -1435,14 +1435,16 @@ http://drwhoguide.com/bs_a18.htm
 
 *** Series 7 :P2006:plot_yes_dwg:
 **** [#E] 7.1 - The Tartarus Gate
-**** [#B] 7.2 Timeless Passages (8.4)
+**** 3QTR [#B] 7.2 Timeless Passages (8.4) :DW2024_Q2a_spinoffs:
+     CLOSED: [2024-03-24 Sun 07:38] SCHEDULED: <2024-03-24 Sun>
+
 **** [#D] 7.3 The Worst Thing in the World (7.4)
-**** [#C] 7.4 Summer of Love (7.7)
+**** [#C] 7.4 Summer of Love (7.7) :Bev:
 **** [#C] 7.5 The Oracle of Delphi (7.7)
 **** [#B] 7.6 The Empire State (8.1)
 *** Series 8 :P2007:plot_yes_dwg:
 **** [#D] 8.1 - The Tub Full of Cats
-**** [#A] 8.2 The Judas Gift (8.5)
+**** [#A] 8.2 The Judas Gift (8.5) :Bev:
 **** [#A] 8.3 Freedom of Informatiom (8.6)
 **** [#A] 8.4 The End of The World (8.8)
 **** [#B] 8.5 The Final Amendment (8.2)
@@ -2488,7 +2490,9 @@ http://www.drwhoguide.com/kaldor03.htm
 *** 3QTR [#C] 2.3 - Peshka :plot_cast:DW2024_01_spinoffs:
     CLOSED: [2024-01-27 Sat 23:42] DEADLINE: <2024-01-28 Sun>
 
-*** [#C] 2.4 - Sins of the Fathers
+*** [#C] 2.4 - Sins of the Fathers :DW2024_Q2a_spinoffs:
+    SCHEDULED: <2024-04-07 Sun>
+
 ** CM series 3 :P2014:
 *** [#C] 3.1 - Changing of the Guard        (7.5)
 *** [#C] 3.2 - The Concrete Cage            (7.5)

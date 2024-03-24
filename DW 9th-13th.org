@@ -102,8 +102,8 @@ SCHEDULED: <2023-11-11 Sat>
 【【神秘博士广播剧熟肉】Hidden Depths 703 Flatpack 平板家居-哔哩哔哩】 https://b23.tv/ElXr5Mq
 
 **** S2.4 Shades of Fear :P2023_02:
-***** READY [#D] 8.1 The Colour of Terror :bilibili:DW2024_03_doctor:
-SCHEDULED: <2024-03-16 Sat>
+***** READY [#D] 8.1 The Colour of Terror :plot_cast:bilibili:DW2024_Q2a_doctor:
+SCHEDULED: <2024-03-30 Sat>
 :PROPERTIES:
 :rating:   7.4
 :END:
@@ -620,8 +620,7 @@ SCHEDULED: <2024-03-02 Sat>
 ***** [#F] 2.4 The Siege of Shackleton
 *** CC & ST :🗣:
 **** [#D] DotD #10 Death's Deal :Donna:
-**** [#C] ST8.6 The Siege of Big Ben :Jackie:plot_yes:DW2024_02_doctor:
-SCHEDULED: <2024-02-28 Wed>
+**** [#C] ST8.6 The Siege of Big Ben :Jackie:plot_yes:
 :PROPERTIES:
 :rating:   7.9
 :END:
@@ -796,8 +795,8 @@ SCHEDULED: <2023-07-28 Fri 08:02>
 SCHEDULED: <2023-09-17 Sun>
 
 *** 11DC vol.4 All of Time and Space :Valarie:
-**** [#B] 4.1 All of Time and Space :P2023_02:DW2024_03_doctor:
-SCHEDULED: <2024-03-16 Sat>
+**** [#B] 4.1 All of Time and Space :P2023_02:plot_yes:DW2024_Q2a_doctor:
+SCHEDULED: <2024-03-30 Sat>
 
 **** [#D] 4.2 The Yearn :P2023_02:
 **** [#A] 4.3 Curiosity Shop :P2023_02:

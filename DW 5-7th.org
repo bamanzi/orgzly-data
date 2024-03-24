@@ -216,8 +216,8 @@ CLOSED: [2021-03-22 Mon 23:16]
 CLOSED: <2023-07-07 Fri 20:32> SCHEDULED: <2023-07-05 Wed>
 
 **** [#D] 160. The Jupiter Conjunction (7.3)
-**** BLOCK [#B] 161. The Butcher of Brisbane (8.0) :plot_yes:DW2024_03_doctor:
-SCHEDULED: <2024-03-23 Sat>
+**** BLOCK [#B] 161. The Butcher of Brisbane (8.0) :plot_yes:DW2024_Q2a_doctor:
+SCHEDULED: <2024-04-06 Sat>
 :PROPERTIES:
 :rating:   8.0
 :END:
@@ -1341,8 +1341,8 @@ CLOSED: <2023-05-16 Tue 08:46> SCHEDULED: <2023-05-13 Sat 20:07>
 ***** HALF [#B] UNIT - Dominion p2 :DW2023_05_doctor:
 SCHEDULED: <2023-05-20 Sat 20:07>
 
-***** START [#B] UNIT - Dominion p3 :DW2024_03_doctor:
-SCHEDULED: <2024-03-09 Sat>
+***** HALF [#C] UNIT - Dominion p3 :DW2024_Q2a_doctor:
+SCHEDULED: <2024-03-16 Sat>
 
 ***** TODO [#B] UNIT - Dominion p4
 **** 📂2022A Silver and Ice :P2022_06:

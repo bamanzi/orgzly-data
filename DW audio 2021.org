@@ -1633,7 +1633,7 @@
 *** 3QTR [#A] 3DA #9. The Annihilators :3rd_Dr:Liz:2nd_Dr:Jamie:Brigadier:UNIT:3CD:
 *** 3QTR [#B] WS1.2. The Moontrakers :5th_Dr:Leela:Abby:Zara:Sontarans:
 *** HALF [#A] MR120 The Magic Mousetrap :7th_Dr:Ace:Hex:
-*** START 9DAFM02. Legacy of the Slitheen
+*** HALF 9DAFM02. Legacy of the Slitheen
 *** 3QTR [#A] ST12.X The World Tree :11th_Dr:bilibili:
 ** dw2024-01-spinoffs
 *** 3QTR [#C] TW64 Suckers :Tosh:
@@ -1641,66 +1641,95 @@
 *** [#D] J&L 8.3 - Jago & Litefoot & Patsy
 *** 3QTR [#B] BSBOX 1.4 Judgement Day :Benny:
 *** [#B] Missy2.4 Too Many Masters :Master:Missy:
-**** [#C] CM2.3 - Peshka
 *** 3QTR [#C] CM2.3 - Peshka
 * DW2024-02
 ** dw2024-02-doctor
-*** 3DA #9. The Annihilators - part 6-7 :3rd_Dr:Liz:Brig:2nd_Dr:Jamie:UNIT:
-*** FIXME [#B] 4DA 8.7/8.8 The Perfect Prisoners :Ann:
-*** FIXME [#B] MR111 The Doomwood Curse :6th_Dr:Charley:
-*** [#C] 8DDC 4.2 - Songs of Love :8th_Dr:Liv:Helen:River:
-*** [#B] 8DDC 4.3 - The Side of the Angels :8th_Dr:Liv:Helen:
-*** [#D] 10DA1.2 Time Reaver :10th_Dr:Donna:bilibili:
-*** HALF [#D] WDB3.1 - The Keeper of Light                           :War_Dr:
+*** 3QTR 3DA #9. The Annihilators - part 6-7 :3rd_Dr:Liz:Brig:2nd_Dr:Jamie:UNIT:
+*** 3QTR CA1.2 The Star Beast :4th_Dr:
+*** HALF [#B] MR111 The Doomwood Curse :6th_Dr:Charley:
+*** 2DONE [#C] 8DDC 4.2 - Songs of Love :8th_Dr:Liv:Helen:River:
+*** HALF [#C] 10DC1.3 - Wild Pastures :10th_Dr:plot_cast:Sylvia:
+*** 3QTR [#D] WDB3.1 - The Keeper of Light :War_Dr:
 ** dw2024-02-spinoffs
-*** HALF [#A] TW43 The Three Monkeys                              :Andy:Owen:
-*** [#B] UNIT1.4 Armageddon :UNIT:
+*** 3QTR [#A] TW43 The Three Monkeys :Andy:Owen:
 *** [#B] PG3.3 - Truth and Bone
-*** FIXME [#C] River 6.4 The Talents of Grel :River:
-*** [#B] WM7.1 The Forest Penitence :Master_war:
-*** HALF [#B] Gallifrey 6.3 -Ascension
-* DW2024-03
-** dw2024-03-doctor
-*** [#C] EA1.1 - Domain of the Voord :1st_Dr:Susan:Ian:Barbara:
-*** [#D] CDNM3.1 The House that Hoxx Built :3rd_Dr:Sarah:
+*** 3QTR [#B] GALL3.3 - Appropriation
+*** [#C] BS3.2 The Green Eyed Monster
+*** 3QTR [#B] CC8.1 Mastermind :Master_decayed:Ruth_Matheson:the_Vault:UNIT:
+* DW2024-Q2a
+** dw2024-q2a-doctor
+*** HALF [#C] EA1.1 - Domain of the Voord :1st_Dr:Susan:Ian:Barbara:
+*** 3QTR [#B] ST12.2 AWOL :3rd_Dr:Brig:
 *** [#B] MR161 The Butcher of Brisbane :5th_Dr:Nyssa:Tegan:Toulough:
-*** [#B] UNIT: Dominion #3 :7th_Dr:Klein:Master_bald:UNIT:
-*** FIXME [#D] 9DA 7.2 Lay Down Your Arms / [#D] 9DA8.1 The Colour of Terror
-*** FIXME [#B] 11DC4.1 All of Time and Space / [#C] CY1.3 - Living History (Churchill) :11th_Dr:
-** dw2024-03-spinoffs
-*** [#A] TW59 Sonny :Rhys:
-*** [#C] BBC #4. The Dead Line #bilibili
-*** [#C] J&L8.4 - Higson & Quick
-*** [#D] WM7.2 The Players :Master_war:
-*** [#C] BS3.2 The Green Eyed Monster 
-* DW2024-04
-** dw2024-04-doctor
-*** [#D] WoDW#4 Second Sight :6th_Dr:Romana_2:Leela:Yates:
+*** HALF [#B] UNIT: Dominion #3 :7th_Dr:Klein:Master_bald:UNIT:
+*** [#D] 9DA8.1 The Colour of Terror
+*** [#B] 11DC4.1 All of Time and Space :11th_Dr:
+** dw2024-q2a-spinoffs
+*** 3QTR [#A] TW59 Sonny :Rhys:
+    CLOSED: [2024-03-24 Sun 08:48]
+
+*** [#C] BBC #4. The Dead Line :Jack:Gwen:Ianto:bilibili:
+*** [#C] J&L8.4 - Higson & Quick :Jago:Litefoot:
+*** HALF [#B] BS7.2 - Timeless Passages
+*** [#C] Susan1.4 The Shoreditch Intervention :Susan:8th_Dr:Alex:
+** pending
+*** [#C] CM2.4 - Sins of the Fathers
+*** [#D] CDNM3.1 The House that Hoxx Built :3rd_Dr:Sarah:
+* DW2024-Q2b
+** dw2024-q2b-doctor
+*** [#C] EA4.1 The Night Witches :2nd_Dr:Jamie:Polly:Ben:
+*** [#C] 4DA 11.5 Peake Season :4th_Dr:
+*** CDNM1.2 Judoom in Chains / WoDW#4 Second Sight :6th_Dr:Romana_2:Leela:Yates:
 *** 8DTW 2.1 The Lords of Terror / 3.1 State of Bliss :8th_Dr:Bliss:
 **** S12.1 Salvage :Bliss:
-** dw2024-04-spinoffs
+*** [#D] 10DA1.2 Time Reaver :10th_Dr:Donna:bilibili:
+*** [#A] WDB3.3 - Rewind :War_Dr:
+** dw2024-q2b-spinoffs
 *** [#C] TW7.1 Aliens Next Door :Orr:
 *** [#A] TW50X The Black Knight :Norton:
-*** [#C] River 8.2 A Brave New World :River:10th_Dr:
+*** [#B] UNIT1.4 Armageddon :UNIT:
+*** FIXME [#A] DoRS7.3 Barrister to the Stars :River:
+*** FIXME [#B] WM7.1 The Forest Penitence :Master_war:
+** pending
+*** [#A] PG4.1 - Merry Christmas, Mr Jago  (9.0)
+*** [#B] 8DDC 4.3 - The Side of the Angels :8th_Dr:Liv:Helen:
+* DW2024-Q3a
+** dw2024-q3a-doctor
+*** 1DA22.2 The Miniaturist :1st_Dr:Dodo:
+*** [#C] 3DA3.1 The Conquest of Far :3rd_Dr:Jo:P2017:plot_no:
+    :PROPERTIES:
+    :rating:   7.5
+    :END:
+
+*** READY [#A] 8.3 Red Darkness :Vashta_Nerada:bilibili:
+
+【【神秘博士广播剧熟肉】Shades of Fear 803 Red Darkness 赤红黑暗-哔哩哔哩】 https://b23.tv/RPnCOqH
+
+** dw2024-q3b-spinoffs
+*** [#D] WM7.2 The Players :Master_war:
 * pending
 ** odd
 *** [#B] LS2.1b The Fragile Yellow Arc of Fragrance (Susan, Ian, Barbara) :plot_yes:
 *** 3DA6.1 Poison of the Daleks (Jo)
 *** [#C] CC4.05 - Ringpullworld :5th_Dr:Turlough:
 *** [#C] 2022A.2  The Ribos Inheritance :7th_Dr:Mel:
+*** [#D] 9DA7.2 Lay Down Your Arms
 *** [#C] DotD#9. Night of the Whisper
 *** Let it Snow :11th_Dr:
 
 Tales of Trenzalore - 01
 
 ** even
-*** The Star Beast ?
+*** FIXME [#B] 4DA 8.7/8.8 The Perfect Prisoners :Ann:
 *** [#C] 4DA7.7/7.8 - Kill the Doctor! / The Age of Sutekh  (Leela, Sutehk)
 *** [#C] 6DnP #1 The Headless Ones :6th_Dr:Peri:
 *** [#C] MR194. The Rani Elite (6th, Peri) / [#C] MR157. The Fourth Wall (Flip) 2cd
 *** FIXME [#C] ST8.6 The Siege of Big Ben :10th_Dr:plot_yes:Jackie:
 ** spinoffs
+*** HALF [#B] Gallifrey 6.3 -Ascension
 *** [#D] Robots 3.1 The Mystery of Sector 13
-*** [#A] DoRS7.3 Barrister to the Stars
-*** [#C] Susan1.4
+*** [#C] River 6.4 The Talents of Grel :River:Jago:
+*** [#C] River 8.2 A Brave New World :River:10th_Dr:
 *** TLV: Lesser Evils :Master_tremas:
+*** [#D] WM8.2 - The Shadow Master
+*** [#C] CY1.3 - Living History (Churchill)
