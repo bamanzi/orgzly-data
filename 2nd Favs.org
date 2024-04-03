@@ -79,8 +79,12 @@ CLOSED: [2024-03-10 Sun 19:47]
 **** DONE [#C] 1x03 Dream a Little Dream of Me
 CLOSED: [2024-03-10 Sun 20:33]
 
-**** [#A] 1x04 A Hope in Hell
-**** [#B] 1x05 24/7
+**** DONE [#A] 1x04 A Hope in Hell
+CLOSED: <2024-03-22 Fri 23:02>
+
+**** DONE [#B] 1x05 24/7
+CLOSED: [2024-03-24 Sun 15:10]
+
 **** [#A] 1x06 The Sound of Her Wings
 ** Lucifer
 *** Lucifer v1 (2000-2006, 75 issues) :📚:😈:lucifer:
@@ -216,8 +220,24 @@ CLOSED: [2024-03-13 Wed 21:51]
 ***** DONE 3x10
 CLOSED: [2024-03-16 Sat 20:48]
 
-***** ....
-***** [#A] 3x14 Til Death Do Us Part
+***** DONE 3x11
+CLOSED: [2024-03-18 Mon 08:13]
+
+***** DONE 3x12
+CLOSED: <2024-03-20 Wed 19:36>
+
+***** DONE 3x13
+CLOSED: [2024-03-22 Fri 07:56]
+
+***** DONE [#A] 3x14 Til Death Do Us Part
+CLOSED: [2024-03-29 Fri 20:52]
+
+***** DONE 3x15
+CLOSED: [2024-04-02 Tue 23:51]
+
+***** DONE 2x16
+CLOSED: [2024-04-03 Wed 19:13]
+
 ***** ...
 ***** [#A] 3x20 The Angel of San Bernardino
 **** Lucifer S4 (10 eps) :P2019:
@@ -312,6 +332,17 @@ CLOSED: [2023-03-10 Fri 21:08]
 CLOSED: [2023-03-12 Sun 18:45] SCHEDULED: <2023-03-12 Sun>
 
 **** Preacher S3 :P2018:
+***** DONE 3x01
+CLOSED: [2024-03-30 Sat 08:04]
+
+***** DONE 3x02
+CLOSED: [2024-04-01 Mon 08:04]
+
+***** DONE 3x03
+CLOSED: [2024-04-03 Wed 19:58]
+
+***** 3x04
+***** 3x05
 **** Preacher S4 :P2019:
 ** V for Vendetta ...
 ** Fables :hanzify:
@@ -574,8 +605,14 @@ CLOSED: [2022-12-31 Sat 18:03]
 CLOSED: [2022-12-31 Sat 21:06]
 
 ** S5
-*** DONE 5x08
+*** DONE 5x01 :Lucifer:
+CLOSED: [2024-03-26 Tue 07:53]
+
+*** DONE [#A] 5x08 Changing Channels [#S]
 CLOSED: [2023-01-02 Mon 21:10]
+
+*** DONE [#A] 5x09 The Real Ghostbusters
+CLOSED: [2024-03-27 Wed 20:11]
 
 *** DONE 5x19 :Gabriel:
 CLOSED: [2023-01-07 Sat 15:56]
@@ -708,13 +745,25 @@ CLOSED: [2024-03-14 Thu 07:44]
 *** DONE 14x19
 CLOSED: [2024-03-15 Fri 00:15]
 
-*** DONE 14x20 Moriah
+*** DONE [#A] 14x20 Moriah
 CLOSED: [2024-03-15 Fri 20:13]
 
 ** S15
 
 20 episodes
 
-*** 15x01
-*** 15x02
-*** 15x03
+*** DONE 15x01
+CLOSED: [2024-03-19 Tue 08:07]
+
+*** DONE 15x02
+CLOSED: [2024-03-19 Tue 21:42]
+
+*** DONE 15x03
+CLOSED: [2024-03-22 Fri 20:49]
+
+*** DONE 15x04
+CLOSED: [2024-03-29 Fri 20:01]
+
+*** DONE [#A] 15x05 Proverbs 17:3
+CLOSED: [2024-03-25 Mon 20:54]
+
