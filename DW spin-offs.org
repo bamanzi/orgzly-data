@@ -799,8 +799,8 @@ https://tardis.fandom.com/wiki/Parasite_(audio_story)
 
 Torchwood India
 
-**** READY [#C] 4. The Dead Line :bilibili:DW2024_Q2a_spinoffs:
-     SCHEDULED: <2024-03-31 Sun>
+**** HALF [#C] 4. The Dead Line :Jack:Gwen:Ianto:Rhys:plot_yes:bilibili:DW2024_Q2a_spinoffs:
+     SCHEDULED: <2024-04-07 Sun>
 
 【John Barrowman字幕组-火炬木广播剧中字-无人来电-哔哩哔哩】 https://b23.tv/Cxi034N
 
@@ -988,8 +988,7 @@ Roberts Master
      :rating:   7.2
      :END:
 
-**** [#A] 7.3 Barrister to the Stars :DW2024_03_spinoffs:
-     SCHEDULED: <2024-03-17 Sun>
+**** [#A] 7.3 Barrister to the Stars :DW2024_Q2b_spinoffs:
      :PROPERTIES:
      :rating:   8.9
      :END:
@@ -1135,11 +1134,17 @@ Roberts Master
     :rating:   7.3
     :END:
 
-*** START [#D] 8.3 - Jago & Litefoot & Patsy           (7.3) :DW2024_01_spinoffs:
+*** START [#D] 8.3 - Jago & Litefoot & Patsy :DW2024_01_spinoffs:
     SCHEDULED: <2024-01-14 Sun>
+    :PROPERTIES:
+    :rating:   7.2
+    :END:
 
-*** [#C] 8.4 - Higson & Quick                    (7.5) :DW2024_Q2a_spinoffs:
-    SCHEDULED: <2024-03-31 Sun>
+*** [#C] 8.4 - Higson & Quick :DW2024_Q2a_spinoffs:
+    SCHEDULED: <2024-04-07 Sun>
+    :PROPERTIES:
+    :rating:   7.7
+    :END:
 
 ** J&L series 9 :P2015:
 *** [#B] 9.1 - The Flying Frenchmen              (8.1)
@@ -2208,7 +2213,7 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
     :rating:   7.9
     :END:
 
-*** [#B] 1.4	 Armageddon :DW2024_04_spinoffs:
+*** [#B] 1.4	 Armageddon :DW2024_Q2b_spinoffs:
     :PROPERTIES:
     :rating:   8.3
     :END:
@@ -2491,7 +2496,7 @@ http://www.drwhoguide.com/kaldor03.htm
     CLOSED: [2024-01-27 Sat 23:42] DEADLINE: <2024-01-28 Sun>
 
 *** [#C] 2.4 - Sins of the Fathers :DW2024_Q2a_spinoffs:
-    SCHEDULED: <2024-04-07 Sun>
+    SCHEDULED: <2024-04-14 Sun>
 
 ** CM series 3 :P2014:
 *** [#C] 3.1 - Changing of the Guard        (7.5)

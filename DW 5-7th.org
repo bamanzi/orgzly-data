@@ -216,11 +216,13 @@ CLOSED: [2021-03-22 Mon 23:16]
 CLOSED: <2023-07-07 Fri 20:32> SCHEDULED: <2023-07-05 Wed>
 
 **** [#D] 160. The Jupiter Conjunction (7.3)
-**** BLOCK [#B] 161. The Butcher of Brisbane (8.0) :plot_yes:DW2024_Q2a_doctor:
+**** HALF [#B] 161. The Butcher of Brisbane (8.0) :plot_yes:DW2024_Q2a_doctor:
 SCHEDULED: <2024-04-06 Sat>
 :PROPERTIES:
 :rating:   8.0
 :END:
+
+需要先看剧集 14x06 The Talons of Weng-Chiang
 
 **** CANCEL [#E] 172. Eldrad Must Die! (6.5)
 CLOSED: [2021-02-27 Sat 18:02]

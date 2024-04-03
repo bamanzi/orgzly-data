@@ -1640,7 +1640,9 @@
 *** 3QTR [#A] TW51 The Five People You Kill in Middlebrough :Yvonne:
 *** [#D] J&L 8.3 - Jago & Litefoot & Patsy
 *** 3QTR [#B] BSBOX 1.4 Judgement Day :Benny:
-*** [#B] Missy2.4 Too Many Masters :Master:Missy:
+*** [#B] Missy2.4 Too Many Masters :Master:Missy:Monk:DW2024_Q2a_spinoffs:
+    SCHEDULED: <2024-04-14 Sun>
+
 *** 3QTR [#C] CM2.3 - Peshka
 * DW2024-02
 ** dw2024-02-doctor
@@ -1652,7 +1654,9 @@
 *** 3QTR [#D] WDB3.1 - The Keeper of Light :War_Dr:
 ** dw2024-02-spinoffs
 *** 3QTR [#A] TW43 The Three Monkeys :Andy:Owen:
-*** [#B] PG3.3 - Truth and Bone
+*** HALF [#B] PG3.3 - Truth and Bone :DW2024_Q2a_spinoffs:
+    SCHEDULED: <2024-04-07 Sun>
+
 *** 3QTR [#B] GALL3.3 - Appropriation
 *** [#C] BS3.2 The Green Eyed Monster
 *** 3QTR [#B] CC8.1 Mastermind :Master_decayed:Ruth_Matheson:the_Vault:UNIT:
@@ -1660,15 +1664,15 @@
 ** dw2024-q2a-doctor
 *** HALF [#C] EA1.1 - Domain of the Voord :1st_Dr:Susan:Ian:Barbara:
 *** 3QTR [#B] ST12.2 AWOL :3rd_Dr:Brig:
-*** [#B] MR161 The Butcher of Brisbane :5th_Dr:Nyssa:Tegan:Toulough:
+*** HALF [#B] MR161 The Butcher of Brisbane     :5th_Dr:Nyssa:Tegan:Toulough:
 *** HALF [#B] UNIT: Dominion #3 :7th_Dr:Klein:Master_bald:UNIT:
-*** [#D] 9DA8.1 The Colour of Terror
+*** 3QTR [#D] 9DA8.1 The Colour of Terror
 *** [#B] 11DC4.1 All of Time and Space :11th_Dr:
 ** dw2024-q2a-spinoffs
 *** 3QTR [#A] TW59 Sonny :Rhys:
     CLOSED: [2024-03-24 Sun 08:48]
 
-*** [#C] BBC #4. The Dead Line :Jack:Gwen:Ianto:bilibili:
+*** HALF [#C] BBC #4. The Dead Line                :Jack:Gwen:Ianto:bilibili:
 *** [#C] J&L8.4 - Higson & Quick :Jago:Litefoot:
 *** HALF [#B] BS7.2 - Timeless Passages
 *** [#C] Susan1.4 The Shoreditch Intervention :Susan:8th_Dr:Alex:

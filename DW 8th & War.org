@@ -531,7 +531,7 @@ CLOSED: <2024-02-11 Sun 14:55> SCHEDULED: <2024-02-10 Sat>
 :rating:   7.9
 :END:
 
-****** [#B] 4.3 - The Side of the Angels :Monk:Weeping_Angels:DW2024_04_doctor:
+****** [#B] 4.3 - The Side of the Angels :Monk:Weeping_Angels:DW2024_Q2b_doctor:
 SCHEDULED: <2024-04-06 Sat>
 :PROPERTIES:
 :rating:   8.3
@@ -1039,7 +1039,7 @@ CLOSED: [2023-11-19 Sun 19:32] SCHEDULED: <2023-11-26 Sun>
 
 【【神秘博士广播剧汉化】Susan's War 苏珊的战争 103 Assets of War-哔哩哔哩】https://b23.tv/rjUz2u
 
-**** HALF [#A] 4. The Shoreditch Intervention :P2020_04:8th_Dr:plot_yes:DW2024_Q2a_spinoffs:
+**** [#A] 4. The Shoreditch Intervention :P2020_04:8th_Dr:plot_yes:DW2024_Q2a_spinoffs:
 SCHEDULED: <2024-04-07 Sun>
 
 *** 📂Gallifrey: Time War vol.3 :P2020:🎧:
@@ -1102,7 +1102,7 @@ CLOSED: [2020-12-09 Wed 19:04]
 :END:
 
 *** 📂8D Time War vol.3 :Bliss:P2019:scripted:🎧:
-**** START [#E] 3.1 State of Bliss
+**** START [#E] 3.1 State of Bliss :DW2024_Q2b_doctor:
 :PROPERTIES:
 :rating:   6.8
 :END:
@@ -1256,7 +1256,7 @@ CLOSED: [2023-06-15 Thu 08:36] SCHEDULED: <2023-06-10 Sat>
 SCHEDULED: <2024-02-10 Sat>
 
 **** [#E] 3.2 - Temmosus
-**** [#B] 3.3 - Rewind
+**** [#B] 3.3 - Rewind :DW2024_Q2b_doctor:
 *** _📂WDB vol.4 He Who Fights Monsters_ :P2022_12:🎧:
 **** [#B] 4.1 The Mission
 **** [#B] 4.2 The Abyss
@@ -1379,8 +1379,7 @@ SCHEDULED: <2023-11-19 Sun>
 SCHEDULED: <2023-12-24 Sun>
 
 *** /📂The War Master series 7: Self-Defence/ :Master_war:🎧:P2022_06:
-**** READY [#B] 7.1 The Forest of Penitence :bilibili:DW2024_03_spinoffs:
-SCHEDULED: <2024-03-24 Sun>
+**** READY [#B] 7.1 The Forest of Penitence :bilibili:DW2024_Q2b_spinoffs:
 
 【【广播剧汉化】恶魔的低语 The War Master 战争法师 701 The Forest Penitence-哔哩哔哩】 https://b23.tv/fdIB3vT
 

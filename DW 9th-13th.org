@@ -102,8 +102,8 @@ SCHEDULED: <2023-11-11 Sat>
 【【神秘博士广播剧熟肉】Hidden Depths 703 Flatpack 平板家居-哔哩哔哩】 https://b23.tv/ElXr5Mq
 
 **** S2.4 Shades of Fear :P2023_02:
-***** READY [#D] 8.1 The Colour of Terror :plot_cast:bilibili:DW2024_Q2a_doctor:
-SCHEDULED: <2024-03-30 Sat>
+***** 3QTR [#D] 8.1 The Colour of Terror :plot_cast:bilibili:DW2024_Q2a_doctor:
+CLOSED: [2024-04-02 Tue 07:41] SCHEDULED: <2024-03-30 Sat>
 :PROPERTIES:
 :rating:   7.4
 :END:
@@ -384,7 +384,7 @@ CLOSED: [2021-08-01 Sun 15:54]
 
 【[BF广播剧熟肉]Technophobia科技恐惧症-哔哩哔哩】https://b23.tv/nq0u5s
 
-***** READY [#D] 10DA 1.2 - Time Reaver :bilibili:DW2024_04_doctor:
+***** READY [#D] 10DA 1.2 - Time Reaver :bilibili:DW2024_Q2b_doctor:
 :PROPERTIES:
 :rating:   7.1
 :END:
@@ -796,7 +796,7 @@ SCHEDULED: <2023-09-17 Sun>
 
 *** 11DC vol.4 All of Time and Space :Valarie:
 **** [#B] 4.1 All of Time and Space :P2023_02:plot_yes:DW2024_Q2a_doctor:
-SCHEDULED: <2024-03-30 Sat>
+SCHEDULED: <2024-04-06 Sat>
 
 **** [#D] 4.2 The Yearn :P2023_02:
 **** [#A] 4.3 Curiosity Shop :P2023_02:

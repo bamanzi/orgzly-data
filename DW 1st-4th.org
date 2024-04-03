@@ -501,8 +501,7 @@ CLOSED: [2022-04-27 Wed 21:33] SCHEDULED: <2022-04-29 Fri>
 :END:
 
 ***** [#D] 2.2 The Forsaken :Jamie:Polly:Ben:plot_yes:
-***** [#C] 4.1 The Night Witches :Jamie:Polly:Ben:plot_yes:
-SCHEDULED: <2023-03-01 Wed>
+***** [#C] 4.1 The Night Witches :Jamie:Polly:Ben:plot_yes:DW2024_Q2b_doctor:
 :PROPERTIES:
 :rating:   7.6
 :END:
@@ -1526,7 +1525,7 @@ CLOSED: <2023-02-10 Fri 14:02> SCHEDULED: <2023-02-06 Mon 08:42>
 
 ***** [#C] 11.3 The Dreams of Avaice :The_Nine:
 ***** [#D] 11.4 Shellshock
-***** HALF [#D] 11.5 Peake Season :1CD:DW2024_04_doctor:
+***** HALF [#D] 11.5 Peake Season :1CD:DW2024_Q2b_doctor:
 **** 4DA series 13 :Harry:Naomi:
 ***** 13.1 The Storm of the Sea Devils :P2024_03:
 ***** 13.2 Worlds Beyond :P2024_03:
