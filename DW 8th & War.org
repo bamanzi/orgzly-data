@@ -973,7 +973,7 @@ CLOSED: <2020-11-09 Mon 10:30>
 
 The N-Forms receive an activation call, setting this after /Desperate Measures/
 
-*** PROSE: The Stranger :War_Doctor:
+*** PROSE: The Stranger :War_Dr:
 ** 4. Rassilon resurrected
 *** DONE GTW1.4 Desperate Measures (Gallifrey: Time War #1.4) :Rassilon:🎧:
 CLOSED: [2020-11-09 Mon 18:14]
@@ -1101,7 +1101,7 @@ CLOSED: [2020-12-09 Wed 19:04]
 :rating:   6.8
 :END:
 
-*** 📂8D Time War vol.3 :Bliss:P2019:scripted:🎧:
+*** 📂8D Time War vol.3 :Bliss:P2019:scripted:🎧:plot_yes:
 **** START [#E] 3.1 State of Bliss :DW2024_Q2b_doctor:
 :PROPERTIES:
 :rating:   6.8
@@ -1201,10 +1201,10 @@ CLOSED: <2020-12-17 Thu 19:57>
 **** [#D] 2.2 Remnants
 **** [#A] 2.3 Transference
 **** [#B] 2.4 Ambition's Debt
-*** DONE PROSE: The Third Wise Man :War_Doctor:
+*** DONE PROSE: The Third Wise Man :War_Dr:
 CLOSED: <2019-10-29 Tue 13:59>
 
-** 8. A Warrior emerges :War_Doctor:
+** 8. A Warrior emerges :War_Dr:
 *** DONE The Night of the Doctor
 CLOSED: [2020-09-23 Wed 14:01]
 
@@ -1231,7 +1231,7 @@ CLOSED: [2022-11-12 Sat 19:31] SCHEDULED: <2022-10-16 Sun>
 
 The young looking War Doctor makes a decision. In one outcome, he ends up a Dalek spy.
 
-*** DONE The Clockwise War (comic) :War_Doctor:12th_Dr:
+*** DONE The Clockwise War (comic) :12th_Dr:
 *** _📂WDB vol.2 Warbringer_ :Case:P2021_12:🎧:
 **** START [#E] 2.1 - Consequences :DW2023_01_doctor:
 SCHEDULED: <2023-01-31 Tue>
@@ -1285,7 +1285,7 @@ CLOSED: [2020-12-24 Thu 15:51] SCHEDULED: <2021-09-28 Tue>
 
 ** 10. The Malignant threat
 *** 11DY2 (comics)
-** 11. The weary soldier (War Doctor) :War_Doctor:
+** 11. The weary soldier (War Doctor) :War_Dr:
 *** 📂The War Doctor vol.1 :scripted:🎧:P2015:
 **** READY [#B] 1.1 - The Innocent :bilibili:
 
@@ -1364,7 +1364,7 @@ Priyan tells Engin that Rassilon is initiating the Ultimate Sanction, placing it
 The Siege of Trenzalore is viewed by some as the true final battle of the Time War. 
 
 ** Currently Unplaced
-*** ST11.4 Death Will Not Part Us :8th_Dr:War_Doctor:9th_Dr:time_war:🎧:
+*** ST11.4 Death Will Not Part Us :8th_Dr:War_Dr:9th_Dr:time_war:🎧:
 *** /📂The War Master series 6: Killing Time/ :Master_war:P2021:🎧:scripted:
 **** DONE [#B] WM6.1 - The Sincerest Form of Flattery :DW2023_08_spinoffs:
 CLOSED: [2023-12-16 Sat 19:21] SCHEDULED: <2023-09-03 Sun>

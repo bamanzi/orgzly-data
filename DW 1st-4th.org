@@ -1743,12 +1743,12 @@ CLOSED: [2021-07-27 Tue 23:10] SCHEDULED: <2021-12-03 Fri>
 *** [#D] 10. Death's Deal :10th_Dr:Donna:
 *** [#D] 11. The Time Machine :11th_Dr:Alice:
 ** Classic Doctors, New Monsters
-*** CDNM vol.1 :P2016:
+*** CDNM vol.1 :P2016:scripted:
 **** DONE [#B] 1.1 Fallen Angels :5th_Dr:
 **** [#B] 1.2 Judoon in Chains :6th_Dr:
 **** CANCEL [#E] 1.3 Harvest of the Sycorax :7th_Dr:
 **** DONE [#C] 1.4 The Sontaran Ordeal :8th_Dr:time_war:
-*** CDNM vol.2 :P2017:
+*** CDNM vol.2 :P2017:scripted:
 **** DONE [#C] 2.1 Night of the Vashta Nerada :4th_Dr:
 **** CANCEL [#F] 2.2 Empire of the Racnoss :5th_Dr:
 **** [#D] 2.3 The Carrionite Curse :6th_Dr:
@@ -1759,15 +1759,15 @@ CLOSED: [2021-07-27 Tue 23:10] SCHEDULED: <2021-12-03 Fri>
 *** CDNM vol.3 The Stuff of Nightmares :P2022_07:
 **** HALF [#D] 3.1 The House That Hoxx Built :3rd_Dr:Sarah:
 **** [#C] 3.2 The Tivolian Who Knew Too Much :4th_Dr:Leela:
-**** READY [#A] 3.3 Together In Eclectic Dreams :6th_Dr:bilibili:
+**** READY [#A] 3.3 Together In Eclectic Dreams :6th_Dr:bilibili:Dream_crab:
 
 【【神秘博士广播剧熟肉】The Stuff of Nightmares 303 Together in Eclectic Dreams 共做一梦-哔哩哔哩】 https://b23.tv/GpP2NHZ
 
-**** READY [#A] 3.4 If I Should Die Before I Wake :8th_Dr:Charley:bilibili:
+**** READY [#A] 3.4 If I Should Die Before I Wake :8th_Dr:Charley:bilibili:Dream_crab:
 
 【【神秘博士广播剧熟肉】The Stuff of Nightmares 304 If I Should Die Before I Wake 若我在沉睡中死去-哔哩哔哩】 https://b23.tv/TJmTSCZ
 
-*** TBR CDNM vol.4 Broken Memories :P2024_04:
+*** CDNM vol.4 Broken Memories :P2024_03:
 **** 4.1 Invasion of the Body Stealers :4th_Dr:Sarah:
 **** 4.2 The Queen of Clocks :6th_Dr:Clockwork_Droids:Mel:
 **** 4.3 The Silent City :Silents:8th_Dr:
@@ -1823,6 +1823,31 @@ https://disk.yandex.ru/d/n_i2CRgIJW0xOw
 
 【【神秘博士六十周年纪念特辑】Once and Future - TimeLord Immemorial 远古时间领主-哔哩哔哩】 https://b23.tv/TPEYe0X
 
+*** 7. The Union :8th_Dr:Susan:River:P2023_10:
+** BBC Audio Originals
+*** TODO [#C] 01. The Thing from the Sea :4th_Dr:Wibbsey:P2018:
+*** [#E] 02. Men of War :1st_Dr:Steven:Sara_Kingdom:
+*** [#D] 03. Horrors of War :3rd_Dr:Jo:
+*** [#B] 04. Fortunes of War :6th_Dr:
+*** [#B] 05. The Elysian Blade :2nd_Dr:Jamie:Victoria:P2019:
+*** [#F] 06. The Winged Coven :4th_Dr:Wibbsey:Yates:
+*** TODO [#C] 07. The Scent of Blood :8th_Dr:
+*** TODO [#B] 08. The Flight of the Sun God :6th_Dr:Peri:
+*** [#E] 09. Paradise Lost :11th_Dr:Clara:P2020:
+*** [#B] 10. TLV: The Minds of Magnox :10th_Dr:
+*** TODO [#C] 11. The Nightmare Realm :12th_Dr:Nardole:P2021:
+*** TODO [#B] 12. The Ashes of Eternity :9th_Dr:Rose:
+*** TODO [#A] 13. The Resurrection Plant :2nd_Dr:Jamie:Zoe:
+*** TODO [#A] 14. The Code of Flesh :8th_Dr:P2022:
+*** [#D] 15. The Ice King :12th_Dr:P2023_01:
+*** 16. The Teeth of Ice :8th_Dr:P2023_08:
+*** 17. Doom's Day: Four From Doom's Day :12th_Dr:Ian:Barbara:
+*** 18. The Beast of Scar Hill :9th_Dr:Rose:P2024_09:
+*** 19. The Lagoon Monsters :10th_Dr:Martha:P2023_10:
+*** 20. The Romanov Project :13th_Dr:Yaz:Ryan:P2023_12:
+*** 21. The Cuckoo :12th_Dr:P2023_12:
+*** 22. Escape the Daleks! :3rd_Dr:Jo:Daleks:P2024_01:
+*** 23. River of Death :6th_Dr:Peri:P2024_03:
 * multi-doctor story
 ** IX. The Four Doctors :P2010:
 ** [#D] ST3.1 - Seven to One :🗣:P2011:plot_yes:

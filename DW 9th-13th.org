@@ -875,7 +875,7 @@ CLOSED: [2020-08-16 Sun 16:52]
 **** DONE 11DY1
 CLOSED: [2020-08-16 Sun 17:00]
 
-**** DONE 11DY2 :War_Doctor:
+**** DONE 11DY2 :War_Dr:
 CLOSED: [2020-08-16 Sun 17:00]
 
 **** DONE 11DY3
@@ -913,13 +913,13 @@ CLOSED: [2023-02-22 Wed 13:49]
 ***** DONE Supernature (DWM421-423) :Amy:DW2023_Q4:
 CLOSED: <2024-01-02 Tue 13:03> SCHEDULED: <2023-12-31 Sun>
 
-***** NOW Planet Bollywood (DWM424) :Amy:DW2023_Q4:
-SCHEDULED: <2024-01-07 Sun>
+***** DONE Planet Bollywood (DWM424) :Amy:DW2023_Q4:
+CLOSED: [2024-02-02 Fri 13:22] SCHEDULED: <2024-01-21 Sun>
 
-***** The Golden Ones (DWM425-428) :Amy:Axos:
-SCHEDULED: <2024-01-07 Sun>
+***** NOW The Golden Ones (DWM425-428) :Amy:Axos:DW2023_Q4:
+SCHEDULED: <2024-01-21 Sun>
 
-***** The Professor, the Queen and the Bookshop (DWM429) :Amy:
+***** The Professor, the Queen and the Bookshop (DWM429) :Amy:DW2023_Q4:
 ***** The Screams of Death (DWM430-431) :Amy:
 ***** Do Not Go Gentle Into That Good Night (DWM432) :Amy:
 ***** Forever Dreaming (DWM433-434) :Amy:
@@ -936,14 +936,14 @@ SCHEDULED: <2024-01-07 Sun>
 
   http://tardis.wikia.com/wiki/Hunters_of_the_Burning_Stone_(graphic_novel)
 
-***** START The Broken Man (DWM451-454) :Amy:Rory:
-SCHEDULED: <2023-12-16 Sat>
+***** DONE The Broken Man (DWM451-454) :Amy:Rory:DW2023_Q4:
+CLOSED: [2024-01-15 Mon 19:42] SCHEDULED: <2023-12-31 Sun>
 
-***** Imaginary Enemies (DWM455) :Amy:Rory:Mels:
-SCHEDULED: <2023-12-23 Sat>
+***** NEXT Imaginary Enemies (DWM455) :Amy:Rory:Mels:
+SCHEDULED: <2024-01-21 Sun>
 
 ***** NEXT Hunters of the Burning Stone (DWM456-461) :Ian:Barbara:
-SCHEDULED: <2023-12-30 Sat>
+SCHEDULED: <2024-01-28 Sun>
 
 **** DWMGN: The Blood of Azrael :🛒:
 
@@ -1003,7 +1003,7 @@ CLOSED: [2022-12-25 Sun 20:42]
 **** DONE 8x12 Death in Heaven :Cybermen:
 CLOSED: [2022-12-26 Mon 19:56]
 
-*** 253. Last Christmas :P2014_12:
+*** 253. Last Christmas :P2014_12:Clara:Danny_Pink:Dream_crab:
 *** S9 (254-262)
 *** 263. The Husbands of River Song :P2015_12:
 *** 264. The Return of Doctor Mysterio :P2016_12:
@@ -1299,10 +1299,10 @@ CLOSED: [2020-07-11 Sat 21:36]
 CLOSED: [2020-06-23 Tue 14:47]
 
 ***** DONE Mistress of Chaos (DWM543-548)
+**** DWMGN: The White Dragon
 ***** DONE The Piggybackers (DWM549-552) :Graham:Yaz:Ryan:DW2023_Q4:
 CLOSED: [2023-12-14 Thu 13:48] SCHEDULED: <2023-12-17 Sun>
 
-**** DWMGN: (pending)
 ***** DONE The White Dragon (DWM559-562) :Graham:Yaz:Ryan:DW2023_Q4:
 CLOSED: [2023-12-19 Tue 13:12] SCHEDULED: <2023-12-23 Sat>
 
@@ -1311,6 +1311,7 @@ SCHEDULED: <2024-01-07 Sun>
 
 ***** It's Behind You (DWM572) :Yaz:Dan:
 ***** Hydra's Gate (DWM574-577) :Yaz:Dan:
+**** DWMGN: (pending)
 ***** Fear of the Future (DWM579) :Yaz:Dan:
 ***** The Everlasting Summer (DWM580-583) :Yaz:Dan:
 ** novels :📔:
@@ -1362,6 +1363,9 @@ CLOSED: <2024-01-28 Sun 21:37> SCHEDULED: <2024-01-31 Wed>
 
 ** comics
 *** Liberation of the Daleks
+
+DWM 584-597
+
 *** Untitled (DWM 598) :Donna:hanzify:
 * 15th Doctor
 ** tv

@@ -437,15 +437,17 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 ***** 72. The Thirst Trap :Andy:Rhys:plot_yes:
 **** series 9
 ***** 73. Launch Date :Ianto:P2023_04:
-***** 74. Sigil :Bilis_Manger:
+***** 74. Sigil :Bilis_Manger:P2023_08:
 ***** 75. Dog Hop :Andy:plot_yes:
 ***** 76. Odyssey :plot_yes:Ood:
 ***** 77. Oodunnit :Ood:Zack:
 ***** 78. Oracle :P2023_12:
 ***** 79. Poppet
 ***** 80. Sabotage :Colchester:Ace:
-***** TBR 81. Tube Strike :Ianto:
-***** TBR 82. Missing Molly :Ianto:
+***** 81. Tube Strike :Ianto:
+***** TBR 82. Missing Molly :Ianto:P2024_04:
+***** 83. Disco :Ianto:
+***** 84.
 *** specials
 **** 2DONE [#B] special 1: The Torchwood Archive :P2016:The_Commitee:2CD:plot_yes:
      CLOSED: [2020-11-19 Thu 18:33]
@@ -1155,16 +1157,28 @@ Roberts Master
 *** [#C] 10.1 - The Case of the Missing Gasogene (7.9)
 *** [#C] 10.2 - The Year of the Bat              (7.7)
 *** [#B] 10.3 - The Mourning After               (8.2)
-*** [#A] 10.4 - The Museum of Curiosities        (8.7)
+*** [#A] 10.4 - The Museum of Curiosities
+    :PROPERTIES:
+    :rating:   8.5
+    :END:
+
 *** [#A] 10.X Jago & Litefoot & Strax - The Haunting  (8.7)
 ** J&L series 11 :P2016:
 *** [#C] 11.1 - Jago and Son (7.6)
 *** [#D] 11.2 - Maurice (7.2)
-*** [#B] 11.3 - The Woman in White (8.1)
-*** 3QTR [#C] J&L11.4 - Masterpiece (7.9) :Master_decayed:D2021_08_extra:plot_no:
+*** [#C] 11.3 - The Woman in White (8.1)
+    :PROPERTIES:
+    :rating:   7.9
+    :END:
+
+*** 3QTR [#B] J&L11.4 - Masterpiece :Master_decayed:D2021_08_extra:plot_no:
+    :PROPERTIES:
+    :rating:   8.0
+    :END:
+
 ** J&L series 12 :P2016:
 *** [#B] 12.1 - Picture This (8.0)
-*** [#B] 12.2 - The Flickermen (8.3)
+*** [#B] 12.2 - The Flickermen (8.0)
 *** [#B] 12.3 - School of Blood (8.1)
 *** [#D] 12.4 - Warm Blood (7.4)
 ** J&L series 13 :P2017:
@@ -1172,6 +1186,11 @@ Roberts Master
 *** [#C] 13.2 - Chapel of Night (7.7)
 *** [#B] 13.3 - How The Other Half Lives (8.0)
 *** [#D] 13.4 - Too Much Reality (7.4)
+** J&L series 14 :audiobook:P2021:
+*** 14.1 The Red Hand
+*** 14.2 The Laughing Policeman
+*** 14.3 The Corridors of Power
+*** 14.4 A Command Performance
 ** J&L Forever
 *** [#B] Jago & Litefoot Forever (8.3) :P2018:Queen:6th_Dr:
 *** [#C] ST 7.3/7.4 The Jago & Litefoot Revival (7.8) :P2017:10th_Dr:11th_Dr:
@@ -1366,12 +1385,13 @@ http://drwhoguide.com/bs_a06.htm
 http://drwhoguide.com/bs_a08.htm
 
 *** Series 4 :P2003:
+**** [#E] 4.1 The Bellotron Incident :Bev:Brax:Rutans:
 **** [#C] 4.2 - The Draconian Rage
      :PROPERTIES:
      :rating:   7.7
      :END:
 
-**** [#B] 4.4 - Death and the Daleks :plot_yes_dwg:
+**** [#B] 4.4 - Death and the Daleks :Bev:plot_yes_dwg:
      :PROPERTIES:
      :rating:   8.0
      :END:
@@ -1460,13 +1480,13 @@ http://drwhoguide.com/bs_a18.htm
 **** [#A] 9.3 The Adventure of the Diogenes Damsel
 **** [#C] 9.4 - The Diet of Worms
 *** Series 10 :P2009:
-**** [#A] 10.1 - Glory Days
+**** [#A] 10.1 - Glory Days :Bev:
 **** [#C] 10.2 - Absence
 **** [#C] 10.3 - Venus Mantrap
 **** [#D] 10.4 - Secret Origins
 *** Series 11 :P2010:
-**** [#B] 11.1 - Resurrecting the Past
-**** [#A] 11.2 - Escaping the Future
+**** [#B] 11.1 - Resurrecting the Past :Bev:
+**** [#A] 11.2 - Escaping the Future :Bev:
 **** 3QTR [#A] BS11.3 - Year Zero :plot_yes:DW2023_05_spinoffs:
      CLOSED: <2023-05-12 Fri 08:16> SCHEDULED: <2023-05-14 Sun>
 
@@ -2376,7 +2396,7 @@ http://www.drwhoguide.com/kaldor03.htm
      :rating:   7.2
      :END:
 
-**** [#A] 3.2 - Circuit Breaker
+**** [#B] 3.2 - Circuit Breaker
      :PROPERTIES:
      :rating:   8.5
      :END:
@@ -2397,7 +2417,7 @@ http://www.drwhoguide.com/kaldor03.htm
      :rating:   7.9
      :END:
 
-**** [#A] 4.3 - The Janus Deception
+**** [#B] 4.3 - The Janus Deception
      :PROPERTIES:
      :rating:   8.4
      :END:
@@ -2407,15 +2427,15 @@ http://www.drwhoguide.com/kaldor03.htm
 **** [#B] 5.2 Machines Like Us
 **** [#B] 5.3 Kaldor Nights
 *** The Robots: vol.6 :P2023_05:
-**** 6.1 Force of Nature
-**** 6.2 Face to Face
-**** 6.3 The Final Hour
+**** [#C] 6.1 Force of Nature
+**** [#B] 6.2 Face to Face
+**** [#E] 6.3 The Final Hour
 * The Paternoster Gang :TPG:
 ** audio :🎧:
 *** PG: Heritage 1 :P2019:
 **** [#D] (Eight of March #3) Inside Every Warrior (7.2)
 **** [#D] 1.1 - The Cars That Ate London! (7.2)
-**** HALF [#A] PG1.2 - A Photograph to Remember :DW2023_12_spinoffs:plot_cast:
+**** HALF [#B] PG1.2 - A Photograph to Remember :DW2023_12_spinoffs:plot_cast:
      SCHEDULED: <2023-12-10 Sun>
      :PROPERTIES:
      :rating:   8.5
@@ -2425,14 +2445,23 @@ http://www.drwhoguide.com/kaldor03.htm
      SCHEDULED: <2021-12-31 Fri>
 
 *** PG: Heritage 2 :P2019:
-**** START [#D] 2.1 - Dining with Death         (7.0) :DW2022_09_spinoffs:
+**** START [#E] 2.1 - Dining with Death :DW2022_09_spinoffs:
      SCHEDULED: <2022-09-30 Fri>
+     :PROPERTIES:
+     :rating:   6.8
+     :END:
 
-**** 3QTR [#C] 2.2 - The Screaming Ceiling     (7.6) :DW2022_11_spinoffs:
+**** 3QTR [#C] 2.2 - The Screaming Ceiling :DW2022_11_spinoffs:
      CLOSED: [2022-11-20 Sun 19:43] SCHEDULED: <2022-11-20 Sun>
+     :PROPERTIES:
+     :rating:   7.6
+     :END:
 
-**** HALF [#C] 2.3 - Spring-Heeled Jack        (7.7) :DW2023_02_spinoffs:
+**** HALF [#C] 2.3 - Spring-Heeled Jack :DW2023_02_spinoffs:
      SCHEDULED: <2023-02-21 Tue 08:33>
+     :PROPERTIES:
+     :rating:   7.9
+     :END:
 
 *** PG: Heritage 3 :P2020:
 **** 3QTR [#C] PG3.1 - Family Matters :DW2023_07_spinoffs:
@@ -2441,12 +2470,13 @@ http://www.drwhoguide.com/kaldor03.htm
      :rating:   7.5
      :END:
 
-**** 3QTR [#D] 3.2 - Whatever Remains :DW2023_10_spinoffs:
+**** 3QTR [#C] 3.2 - Whatever Remains :DW2023_10_spinoffs:
      CLOSED: [2023-10-25 Wed 07:22] SCHEDULED: <2023-10-22 Sun>
+     :PROPERTIES:
+     :rating:   7.5
+     :END:
 
-**** START [#B] 3.3 - Truth and Bone :Sontarans:DW2024_02_spinoffs:
-     SCHEDULED: <2024-02-29 Thu>
-
+**** [#A] 3.3 - Truth and Bone :Sontarans:DW2024_02_spinoffs:
 *** PG: Heritage 4 :P2020:
 **** [#A] 4.1 - Merry Christmas, Mr Jago  (9.0)
 **** [#E] +4.2 - The Ghost Writers+         (6.4)

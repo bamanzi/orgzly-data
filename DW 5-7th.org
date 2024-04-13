@@ -823,7 +823,7 @@ CLOSED: <2021-04-18 Sun 08:14>
 :END:
 
 **** [#B] 126. Blue Forgotten Planet (8.1) :Charley:Mila:plot_no:
-**** TBR SvsR#3 - Born to Die :Sontarans:P2024_03:
+**** SvsR#3 - Born to Die :Sontarans:P2024_03:
 *** MR with Flip & Constance :scripted:2CD:
 **** 2DONE [#B] 156. The Curse of Davros (8.0) :Flip:plot_no:2buy:
 CLOSED: <2021-12-23 Thu 08:53>
@@ -933,23 +933,24 @@ CLOSED: [2023-04-11 Tue 21:15] SCHEDULED: <2023-04-15 Sat>
 ****** [#D] 1. One for All
 ****** [#B] 2. The Murder of Oliver Akkron
 ****** [#B] 3. Elevation
-***** TBR 📂2024A. The Quin Dilemma :P2024_03:
+***** 📂2024A. The Quin Dilemma :P2024_03:
 
 This anthology marked the 40th anniversary of Baker's debut as the Doctor.
 
-****** 1. The Exaltation :Mel:
-****** 2. Escape from Holy Island :Peri:
-****** 3. Sibling Rivalry :Flip:Constance:Sontarans:
-****** 4. Children of the Revolution :Sontarans:
-****** 5. The Thousand Year Thaw :Peri:
-****** 6. The Firstborn
+****** 1. The Exaltation :Mel:½CD:
+****** 2. Escape from Holy Island :Peri:1CD:
+****** 3. Sibling Rivalry :Flip:Constance:Sontarans:½CD:
+****** 4. Children of the Revolution :Sontarans:1CD:
+****** 5. The Thousand Year Thaw :Peri:½CD:
+****** 6. The Firstborn :1CD:
 **** Jago and Litefoot: Series 4
 ***** 2DONE Jago in Love
 ***** 2DONE Beautiful Things
 ***** 2DONE The Lonely Clock
 ***** 2DONE The Hourglass Killers
 **** Classic Doctors, New Monsters
-***** TODO [#B] 1.2 Judoon in Chains
+***** TODO [#B] 1.2 Judoon in Chains :DW2024_Q2b_doctor:
+SCHEDULED: <2024-05-25 Sat>
 :PROPERTIES:
 :rating:   8.3
 :END:
@@ -1045,7 +1046,7 @@ https://tardis.fandom.com/wiki/Seventh_Doctor_audio_stories
 :rating:   7.9
 :END:
 
-***** HALF [#D] 7. The Genocide Machine :Ace:Daleks:Dalek_Empire:
+***** HALF [#D] 7. The Genocide Machine :Ace:Daleks:Dalek_Empire:Bev:
 :PROPERTIES:
 :rating:   7.0
 :END:
@@ -1237,7 +1238,7 @@ SCHEDULED: <2022-01-30 Sun>
 :END:
 
 *** MR misc :scripted:2CD:
-***** HALF [#D] 021. Dust Breeding :Master_decayed:D2021_10_master:
+***** HALF [#D] 021. Dust Breeding :Master_decayed:Bev:D2021_10_master:
 SCHEDULED: <2021-11-07 Sun>
 :PROPERTIES:
 :rating:   7.0
@@ -1332,7 +1333,7 @@ CLOSED: [2023-11-17 Fri 08:22] SCHEDULED: <2023-11-18 Sat>
 **** DONE BSNA 1.1 The Revolution
 *** 7DA
 **** V. Return of the Daleks :Susan_Mendes:Kalendorf:P2006:
-**** [#B] UNIT - Dominion :Klein:Master_bald:P2012:4CD:
+**** [#B] UNIT - Dominion :Klein:Raine:Master_bald:P2012:4CD:plot_yes:
 :PROPERTIES:
 :rating:   8.1
 :END:
@@ -1467,7 +1468,7 @@ DWMGN #22
 
 DWMGN #24
 
-***** DONE Pureblood (DWM193-196) :Benny:Sontarans:Rutan:
+***** DONE Pureblood (DWM193-196) :Benny:Sontarans:Rutans:
 ***** Flashback (DWMS1992) :Benny:
 ***** DONE Emperor of the Daleks! (DWM197-202) :6th_Dr:Benny:Peri:Abslom_Daak:Daleks:
 ***** Final Genesis (DWM203-206) :Ace:Benny:
