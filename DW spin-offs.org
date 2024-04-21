@@ -616,7 +616,7 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
       CLOSED: [2023-02-27 Mon 08:33] SCHEDULED: <2023-02-20 Mon 21:42>
 
 **** S7. Among Us :P2023_07:
-***** [#C] 7.1 Aliens Next Door :Orr:
+***** [#C] 7.1 Aliens Next Door :Orr:DW2024_Q2b_spinoffs:
 ***** [#C] 7.2 Colin Alone :Colchester:
 ***** [#A] 7.3 Misty Eyes :Gwen:Rhys:
 ***** [#C] 7.4 Moderation :Tyler:
@@ -801,8 +801,8 @@ https://tardis.fandom.com/wiki/Parasite_(audio_story)
 
 Torchwood India
 
-**** HALF [#C] 4. The Dead Line :Jack:Gwen:Ianto:Rhys:plot_yes:bilibili:DW2024_Q2a_spinoffs:
-     SCHEDULED: <2024-04-07 Sun>
+**** 3QTR [#C] 4. The Dead Line :Jack:Gwen:Ianto:Rhys:plot_yes:bilibili:DW2024_Q2a_spinoffs:
+     CLOSED: [2024-04-09 Tue 22:04] SCHEDULED: <2024-04-07 Sun>
 
 【John Barrowman字幕组-火炬木广播剧中字-无人来电-哔哩哔哩】 https://b23.tv/Cxi034N
 
@@ -904,7 +904,8 @@ Kovarian knows the universe’s greatest threat, the Doctor must be eliminate
 But if Melody Pond has failed, Kovarian will simply have to try again...
 
 *** DoRS 4 :P2018:
-**** START [#D] DoRS4.1 - Time in a Bottle
+**** HALF [#D] DoRS4.1 - Time in a Bottle :DW2024_Q2b_spinoffs:
+     SCHEDULED: <2024-04-28 Sun>
      :PROPERTIES:
      :rating:   7.3
      :END:
@@ -990,7 +991,7 @@ Roberts Master
      :rating:   7.2
      :END:
 
-**** [#A] 7.3 Barrister to the Stars :DW2024_Q2b_spinoffs:
+**** [#A] 7.3 Barrister to the Stars :DW2024_Q2b_pending:
      :PROPERTIES:
      :rating:   8.9
      :END:
@@ -1001,11 +1002,11 @@ Roberts Master
      :END:
 
 *** DoRS 8 :P2021:
-**** [#D] 8.1 Slight Glimpses of Tomorrow (7.1) :plot_yes:DW2023_11_spinoffs:
+**** HALF [#D] 8.1 Slight Glimpses of Tomorrow (7.1) :plot_yes:DW2023_11_spinoffs:
      SCHEDULED: <2023-11-12 Sun>
 
 **** [#C] 8.2 A Brave New World (7.6) :10th_Dr:
-**** [#C] 8.3 A Forever Home (7.5)
+**** [#C] 8.3 A Forever Home (7.5) :K9:
 **** HALF [#E] 8.4 Queen of the Mechonoids     (6.5) :Anya:Mark_7:
 *** DoRS 9 :P2021_10:
 **** 3QTR [#B] 9.1 The Blood Woods :Liz:Brigadier:D2022_01_spinoffs:
@@ -1266,7 +1267,7 @@ Roberts Master
 *** 3QTR [#C] 3.3 - Appropriation (7.9) :DW2024_02_spinoffs:
     CLOSED: <2024-02-26 Mon 08:28> SCHEDULED: <2024-02-25 Sun>
 
-*** TODO [#A] 3.4 - Mindbomb (8.9)
+*** TODO [#A] 3.4 - Mindbomb (8.9) :DW2024_Q2b_spinoffs:
 *** [#B] 3.5 - Panacea (8.1)
 ** series 4 :P2011:plot_yes:
 *** HALF [#B] 4.1 - Reborn       (8.0) :DW2022_09_spinoffs:
@@ -2525,7 +2526,7 @@ http://www.drwhoguide.com/kaldor03.htm
 *** 3QTR [#C] 2.3 - Peshka :plot_cast:DW2024_01_spinoffs:
     CLOSED: [2024-01-27 Sat 23:42] DEADLINE: <2024-01-28 Sun>
 
-*** [#C] 2.4 - Sins of the Fathers :DW2024_Q2a_spinoffs:
+*** HALF [#C] 2.4 - Sins of the Fathers :DW2024_Q2a_spinoffs:
     SCHEDULED: <2024-04-14 Sun>
 
 ** CM series 3 :P2014:

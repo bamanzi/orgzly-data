@@ -1654,8 +1654,8 @@
 *** 3QTR [#D] WDB3.1 - The Keeper of Light :War_Dr:
 ** dw2024-02-spinoffs
 *** 3QTR [#A] TW43 The Three Monkeys :Andy:Owen:
-*** HALF [#B] PG3.3 - Truth and Bone :DW2024_Q2a_spinoffs:
-    SCHEDULED: <2024-04-07 Sun>
+*** HALF [#B] PG3.3 - Truth and Bone :DW2024_Q2a_extra:
+    SCHEDULED: <2024-04-14 Sun>
 
 *** 3QTR [#B] GALL3.3 - Appropriation
 *** [#C] BS3.2 The Green Eyed Monster

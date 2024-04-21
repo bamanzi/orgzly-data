@@ -501,7 +501,8 @@ CLOSED: [2022-04-27 Wed 21:33] SCHEDULED: <2022-04-29 Fri>
 :END:
 
 ***** [#D] 2.2 The Forsaken :Jamie:Polly:Ben:plot_yes:
-***** [#C] 4.1 The Night Witches :Jamie:Polly:Ben:plot_yes:DW2024_Q2b_doctor:
+***** HALF [#C] 4.1 The Night Witches :Jamie:Polly:Ben:plot_yes:DW2024_Q2b_doctor:
+SCHEDULED: <2024-04-20 Sat>
 :PROPERTIES:
 :rating:   7.6
 :END:
@@ -1245,8 +1246,10 @@ CLOSED: [2020-08-03 Mon 23:17]
 ** audio :🎧:
 *** with Leela
 **** 4DA series 1 :Leela:scripted:P2012:1CD:
-***** CANCEL [#E] 1.1 Destination - Nerva †6.5
+***** CANCEL [#E] 1.1 Destination - Nerva †6.5 :bilibili:
 CLOSED: [2020-06-28 Sun 13:30]
+
+【【神秘博士广播剧熟肉】The Fourth Doctor's Adventures 101 - Destination Nerva 目的地诺亚-哔哩哔哩】 https://b23.tv/djAC4kd
 
 ***** DONE [#C] 1.2 The Renaissance Man †7.5)
 CLOSED: [2020-08-07 Fri 18:25]

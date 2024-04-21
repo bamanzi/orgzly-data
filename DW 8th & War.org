@@ -531,8 +531,7 @@ CLOSED: <2024-02-11 Sun 14:55> SCHEDULED: <2024-02-10 Sat>
 :rating:   7.9
 :END:
 
-****** [#B] 4.3 - The Side of the Angels :Monk:Weeping_Angels:DW2024_Q2b_doctor:
-SCHEDULED: <2024-04-06 Sat>
+****** [#B] 4.3 - The Side of the Angels :Monk:Weeping_Angels:DW2024_Q2b_pending:
 :PROPERTIES:
 :rating:   8.3
 :END:
@@ -589,7 +588,6 @@ SCHEDULED: <2024-04-06 Sat>
 
 ***** Ravenous vol.3
 ****** [#C] 3.1 - Deeptime Frontier
-
 :PROPERTIES:
 :rating:   7.6
 :END:
@@ -1039,8 +1037,8 @@ CLOSED: [2023-11-19 Sun 19:32] SCHEDULED: <2023-11-26 Sun>
 
 【【神秘博士广播剧汉化】Susan's War 苏珊的战争 103 Assets of War-哔哩哔哩】https://b23.tv/rjUz2u
 
-**** [#A] 4. The Shoreditch Intervention :P2020_04:8th_Dr:plot_yes:DW2024_Q2a_spinoffs:
-SCHEDULED: <2024-04-07 Sun>
+**** HALF [#A] 4. The Shoreditch Intervention :P2020_04:8th_Dr:plot_yes:DW2024_Q2b_spinoffs:
+SCHEDULED: <2024-04-20 Sat>
 
 *** 📂Gallifrey: Time War vol.3 :P2020:🎧:
 **** DONE Hostiles
@@ -1102,7 +1100,8 @@ CLOSED: [2020-12-09 Wed 19:04]
 :END:
 
 *** 📂8D Time War vol.3 :Bliss:P2019:scripted:🎧:plot_yes:
-**** START [#E] 3.1 State of Bliss :DW2024_Q2b_doctor:
+**** HALF [#E] 3.1 State of Bliss :DW2024_Q2b_doctor:
+SCHEDULED: <2024-05-18 Sat>
 :PROPERTIES:
 :rating:   6.8
 :END:
@@ -1117,7 +1116,7 @@ CLOSED: [2020-12-09 Wed 19:04]
 :rating:   7.1
 :END:
 
-*** [#B] ST12.1 Salvage :Bliss:P2023_02:🎧:
+*** [#B] ST12.1 Salvage :Bliss:P2023_02:🎧:plot_yes:DW2024_Q2b_pending:
 ** 6. Exploiting the Multiverse
 *** READY [#A] 3.4 The War Valeyard :Valeyard:bilibili:
 :PROPERTIES:

@@ -385,6 +385,7 @@ CLOSED: [2021-08-01 Sun 15:54]
 【[BF广播剧熟肉]Technophobia科技恐惧症-哔哩哔哩】https://b23.tv/nq0u5s
 
 ***** READY [#D] 10DA 1.2 - Time Reaver :bilibili:DW2024_Q2b_doctor:
+SCHEDULED: <2024-05-04 Sat>
 :PROPERTIES:
 :rating:   7.1
 :END:
