@@ -572,6 +572,35 @@ CLOSED: [2023-05-31 Wed 21:19]
 *** DONE 2x23
 CLOSED: [2023-05-31 Wed 22:15]
 
+** Fringe S3
+:PROPERTIES:
+:fringe :  
+:END:
+
+*** DONE [#A] 3x01
+CLOSED: <2024-04-14 Sun 09:59>
+
+*** DONE 3x02 The Box
+CLOSED: [2024-04-14 Sun 12:09]
+
+*** DONE [#A] 3x03
+CLOSED: [2024-04-16 Tue 00:51]
+
+*** DONE 3x04
+CLOSED: [2024-04-18 Thu 08:17]
+
+*** DONE 3x05
+CLOSED: <2024-04-19 Fri 08:07>
+
+*** DONE 3x06
+CLOSED: [2024-04-19 Fri 21:51]
+
+*** DONE [#A] 3x07 The Abducted
+CLOSED: [2024-04-20 Sat 21:17]
+
+*** DONE [#A] 3x08 Entrada
+CLOSED: <2024-04-21 Sun 11:19>
+
 ** comics :📚:
 *** DONE Fringe (vol.1)
 CLOSED: [2022-03-29 Tue 23:27]

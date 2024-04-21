@@ -238,7 +238,15 @@ CLOSED: [2024-04-02 Tue 23:51]
 ***** DONE 2x16
 CLOSED: [2024-04-03 Wed 19:13]
 
-***** ...
+***** DONE 2x17
+CLOSED: <2024-04-04 Thu 11:05>
+
+***** DONE 2x18
+CLOSED: <2024-04-04 Thu 12:05>
+
+***** DONE 2x19
+CLOSED: [2024-04-09 Tue 15:50]
+
 ***** [#A] 3x20 The Angel of San Bernardino
 **** Lucifer S4 (10 eps) :P2019:
 **** Lucifer S5 (16 eps) :P2020:
@@ -341,8 +349,24 @@ CLOSED: [2024-04-01 Mon 08:04]
 ***** DONE 3x03
 CLOSED: [2024-04-03 Wed 19:58]
 
-***** 3x04
-***** 3x05
+***** DONE 3x04
+CLOSED: [2024-04-09 Tue 19:57]
+
+***** DONE 3x05
+CLOSED: [2024-04-11 Thu 07:50]
+
+***** DONE 3x06
+CLOSED: [2024-04-12 Fri 20:07]
+
+***** DONE 3x07
+CLOSED: <2024-04-17 Wed 09:41>
+
+***** DONE 3x08
+CLOSED: [2024-04-18 Thu 07:34]
+
+***** DONE 3x09
+CLOSED: [2024-04-21 Sun 19:11]
+
 **** Preacher S4 :P2019:
 ** V for Vendetta ...
 ** Fables :hanzify:
