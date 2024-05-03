@@ -136,6 +136,10 @@ CLOSED: [2024-04-02 Tue 07:41] SCHEDULED: <2024-03-30 Sat>
 ***** 3.3.1 A Theatre of Cruelty
 ***** 3.3.2 The Running Men
 ***** 3.3.3 Ancient History
+**** TBR S3.4 Star-Crossed :River:P2024_05:
+***** 3.4.1 Swipe Right
+***** 3.4.2 Face of the Apocalypse
+***** 3.4.3 Archipelago
 *** 9DC :P2017:
 **** [#D] 1.1 The Bleeding Heart
 :PROPERTIES:
@@ -789,11 +793,15 @@ CLOSED: <2023-06-04 Sun 20:22> SCHEDULED: <2023-05-20 Sat>
 
 【【神秘博士广播剧熟肉】Geronimo! 301 The Inheritance 遗产-哔哩哔哩】 https://b23.tv/T5sKhn0
 
-**** HALF [#A] 11DC3.2 The House of Masks :DW2023_07_doctor:
+**** HALF [#A] 11DC3.2 The House of Masks :DW2023_07_doctor:bilibili:
 SCHEDULED: <2023-07-28 Fri 08:02>
 
-**** HALF [#A] 3.3 The End :DW2023_09_spinoffs:
+【【神秘博士广播剧熟肉】Geronimo! 302 The House of Masks 面具屋-哔哩哔哩】 https://b23.tv/1aje2ro
+
+**** HALF [#A] 3.3 The End :DW2023_09_spinoffs:bilibili:
 SCHEDULED: <2023-09-17 Sun>
+
+【【神秘博士广播剧熟肉】Geronimo! 303 The End 结局-哔哩哔哩】 https://b23.tv/ByulmWk
 
 *** 11DC vol.4 All of Time and Space :Valarie:
 **** [#B] 4.1 All of Time and Space :P2023_02:plot_yes:DW2024_Q2a_doctor:

@@ -1622,9 +1622,9 @@ SCHEDULED: <2022-10-29 Sat>
 CLOSED: [2020-08-08 Sat 14:26]
 
 ***** Sarah Jane and the Temple of Eyes (The Day She Saved the Doctor #1) :Sarah:P2018:
-***** Tales of Terror #4 - Toil and Trouble
-***** Twelve Angels Weeping 11 - Ice Warriors - Red Planet
-***** Twelve Doctors of Christmas #4  - Three Wise Man
+***** [#F] Tales of Terror #4 - Toil and Trouble
+***** [#D] Twelve Angels Weeping 11 - Ice Warriors - Red Planet
+***** [#E] Twelve Doctors of Christmas #4  - Three Wise Man
 **** BBC audio annual :scripted:🎧:
 ***** CANCEL 1.6 Conundrum ----- Annual 1982 :Adric:K9-II:
 CLOSED: [2020-07-19 Sun 23:03]

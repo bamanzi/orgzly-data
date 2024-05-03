@@ -431,12 +431,12 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 ***** CANCEL [#E] 66. Torchwood: SUV :Ianto:Tosh:
 ***** [#B] 67. The Lincolnshire Poacher :Ianto:plot_yes:
 ***** CANCEL [#F] 68. The Empire Man :Queen:plot_yes:
-***** 69. Double part1 :Autons:P2023_01:plot_yes:
-***** 70. Double part2 :Autons:plot_yes:
-***** 71. The Last Love Song of Suzie Costello :Suzie:plot_yes:
-***** 72. The Thirst Trap :Andy:Rhys:plot_yes:
+***** [#C] 69. Double part1 :Autons:P2023_01:plot_yes:
+***** [#A] 70. Double part2 :Autons:plot_yes:
+***** [#E] 71. The Last Love Song of Suzie Costello :Suzie:plot_yes:
+***** [#D] 72. The Thirst Trap :Andy:Rhys:plot_yes:
 **** series 9
-***** 73. Launch Date :Ianto:P2023_04:
+***** [#E] 73. Launch Date :Ianto:P2023_04:
 ***** 74. Sigil :Bilis_Manger:P2023_08:
 ***** 75. Dog Hop :Andy:plot_yes:
 ***** 76. Odyssey :plot_yes:Ood:
@@ -445,7 +445,7 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 ***** 79. Poppet
 ***** 80. Sabotage :Colchester:Ace:
 ***** 81. Tube Strike :Ianto:
-***** TBR 82. Missing Molly :Ianto:P2024_04:
+***** 82. Missing Molly :Ianto:P2024_04:
 ***** 83. Disco :Ianto:
 ***** 84.
 *** specials
@@ -740,7 +740,10 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
 ***** [#A] 4.1 My Guest Tonight
 ***** [#C] 4.2 Lola
 ***** [#A] 4.3 Less Majesty
-**** TBR TW1 vol.5 I Hate Mondays :P2024_05:
+**** TBR TW1 vol.5: I Hate Mondays :P2024_05:
+***** 5.1 Dinner for Yvonne
+***** 5.2 By Royal Appointment
+***** 5.3 Nerves
 *** Torchwood Soho
 **** DONE [#A] Torchwood Soho: Parasite :3CD:P2020:plot_yes:Norton:Andy:Lizbeth:
 
@@ -792,6 +795,7 @@ https://tardis.fandom.com/wiki/Parasite_(audio_story)
       :END:
 
 **** Torchwood Soho #3 The Unbegotten :Norton:Andy:Lizbeth:P2022_10:
+**** TBR Soho #4: Ascension :P2024_07:
 *** BBC audio dramas :🎧:scripted:
 **** [#D] 1. Lost Souls :Martha:
 **** 3QTR [#B] TWB2. Asylum :Jack:Gwen:Ianto:Andy:DW2023_05_spinoffs:
