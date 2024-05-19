@@ -49,13 +49,14 @@ CLOSED: [2023-01-02 Mon 17:59]
 ***** DONE #9-12
 CLOSED: [2023-01-07 Sat 15:06]
 
-**** READY Blade Runner 2029 :P2020:
+**** DONE Blade Runner 2029 :P2020:
+CLOSED: [2024-05-17 Fri 13:42] SCHEDULED: <2024-05-25 Sat>
 
 December 16, 2020 – February 9, 2022
 
 download: https://comics.codes/blade-runner-2029/
 
-**** TBR /Blade Runner 2039/ :P2023:
+**** READY /Blade Runner 2039/ :P2023:
 
 https://comics.codes/blade-runner-2039/
 
@@ -68,6 +69,8 @@ https://bladerunner.fandom.com/wiki/Blade_Runner_Origins
 
 下载：https://comics.codes/blade-runner-origins/ （不全）
 https://comics-all.com/tags/Blade%20Runner%20Origins/ （限流）
+
+Read online: https://www.zipcomic.com/blade-runner-origins
 
 **** Blade Runner: Black Lotus :P2022:
 
@@ -178,15 +181,15 @@ CLOSED: [2023-02-12 Sun 19:44]
 :END:
 
 *** 四川科学技术出版社
-**** 中短篇集1：记忆裂痕 (8.8) :🛒:
+**** 中短篇集1：记忆裂痕 (8.8) :🛒:ebook:
 ***** 8. 骷髅/头骨 The Skull
-**** 中短篇集2：命运规划局 (9.2) :🛒:
-**** 中短篇集3：预见未来 (8.7) :🛒:
-**** 中短篇集4：少数派报告 (8.9) :🛒:
-**** 中短篇集5：全面回忆 (8.8) :🛒:
-**** DONE 菲利普·迪克的电子梦 PKD's Electric Dreams :📺:🛒:
+**** 中短篇集2：命运规划局 (9.2) :🛒:ebook:
+**** 中短篇集3：预见未来 (8.7) :🛒:ebook:
+**** 中短篇集4：少数派报告 (8.9) :🛒:ebook:
+**** 中短篇集5：全面回忆 (8.8) :🛒:ebook:
+**** DONE 菲利普·迪克的电子梦 PKD's Electric Dreams :📺:🛒:ebook:
 **** 195x
-***** [#E] 太阳系大乐透 Solar Lottery :P1955:
+***** [#E] 太阳系大乐透 Solar Lottery :P1955:ebook:
 :PROPERTIES:
 :goodreads: 3.49
 :END:
@@ -249,7 +252,7 @@ CLOSED: [2022-03-06 Sun 11:46]
 
 星云奖提名
 
-***** READY [#B] 等待去年来临 （末日危机）Now Wait for Last Year :P1966:🛒:
+***** READY [#B] 等待去年来临 （末日危机）Now Wait for Last Year :P1966:🛒:ebook:
 :PROPERTIES:
 :douban:   8.4
 :goodreads: 3.89
@@ -265,7 +268,8 @@ CLOSED: [2022-03-06 Sun 11:46]
 ***** DONE [#A] ↗Do Androids Dream of Electric Sheep? :P1968:
 **** 1969-1976
 ***** DONE ↗Ubik :P1969:
-***** NEXT [#C] 死亡迷局  A Maze of Death :P1970:🛒:
+***** DONE [#C] 死亡迷局  A Maze of Death :P1970:🛒:
+CLOSED: [2024-05-17 Fri 23:26] SCHEDULED: <2024-05-25 Sat>
 :PROPERTIES:
 :douban:   8.4
 :goodreads: 3.80
@@ -274,7 +278,7 @@ CLOSED: [2022-03-06 Sun 11:46]
 十四个移民被送到了未经开发的德尔马克-欧星，却因设备故障与外界失去了联系。面对荒凉而陌生的环境，他们各怀心事、满腹猜疑，只能通过信号向神祈祷，但死亡随时可能降临……德尔马克-欧星上满是奇特的原生生物，还有早在移民到来之前就已存在的神秘大楼——它诱惑着所有人进入，却在各人眼中呈现出不同的模样……探索这颗星球的过程中，移民们接连遇害，是人们控制不住自己的癫狂，还是恶神在悄悄逼近？ 在这里，上帝要么不存在，要么是在蓄意毁灭它的造物……
 
 ***** DONE [#B] ↗Flow My Tears, the Policeman Said :P1974:
-***** READY [#A] 黑暗扫描仪 A Scanner Darkly :P1977:🛒:
+***** READY [#A] 黑暗扫描仪 A Scanner Darkly :P1977:🛒:ebook:
 :PROPERTIES:
 :goodreads: 4.0
 :END:
@@ -282,7 +286,7 @@ CLOSED: [2022-03-06 Sun 11:46]
 英国科幻协会奖（BSFA）获奖
 
 **** 1977-1982
-***** READY [#B] ¹神圣秘密 （瓦利斯） VALIS :P1981:🛒:
+***** READY [#B] ¹神圣秘密 （瓦利斯） VALIS :P1981:🛒:ebook:
 :PROPERTIES:
 :goodreads: 3.93
 :END:
@@ -316,7 +320,7 @@ CLOSED: [2022-03-06 Sun 11:46]
 
 * Asimov
 ** novels :📔:
-*** Foundation :🛒:
+*** Foundation :🛒:ebook:
 **** DONE [#A] 1. 基地 :P1951:
 CLOSED: <2022-01-24 Mon 20:41>
 :PROPERTIES:
@@ -394,7 +398,7 @@ SCHEDULED: <2024-01-31 Wed>
 :douban:   8.6
 :END:
 
-*** Robot
+*** Robot :ebook:
 **** DONE I, Robot :P1950:
 CLOSED: [2022-03-05 Sat 23:24]
 
@@ -404,7 +408,7 @@ CLOSED: [2023-01-21 Sat 22:50]
 **** LATER The Naked Sun 裸阳 :P1958:
 **** The Robots of Dawn :P1983:
 **** Robots and Empire :P1985:
-*** Galactic Empire 银河帝国系列
+*** Galactic Empire 银河帝国系列 :ebook:
 **** TODO 13. 繁星若尘 The Stars, Like Dust :P1951:
 **** 14. 星空暗流 The Currents of Space :P1952:
 **** 15. 苍穹一粟 Pebble in the Sky :P1950:

@@ -572,7 +572,7 @@ CLOSED: [2023-05-31 Wed 21:19]
 *** DONE 2x23
 CLOSED: [2023-05-31 Wed 22:15]
 
-** Fringe S3
+** Fringe S3 :P2010:
 :PROPERTIES:
 :fringe :  
 :END:
@@ -601,6 +601,28 @@ CLOSED: [2024-04-20 Sat 21:17]
 *** DONE [#A] 3x08 Entrada
 CLOSED: <2024-04-21 Sun 11:19>
 
+*** DONE 3x09
+CLOSED: [2024-04-24 Wed 20:16]
+
+*** DONE 3x10 The Firefly :Observer:
+CLOSED: [2024-05-03 Fri 18:34]
+
+*** DONE 3x11
+CLOSED: [2024-05-03 Fri 19:59]
+
+*** DONE 3x12
+CLOSED: [2024-05-06 Mon 20:17]
+
+*** DONE 3x13 :Fauxlivia:
+CLOSED: [2024-05-08 Wed 20:39]
+
+*** DONE 3x14 :alternate_universe:
+CLOSED: [2024-05-12 Sun 21:41] SCHEDULED: <2024-05-18 Sat>
+
+*** DONE 3x15
+CLOSED: [2024-05-18 Sat 18:08] SCHEDULED: <2024-05-18 Sat>
+
+*** 3x16
 ** comics :📚:
 *** DONE Fringe (vol.1)
 CLOSED: [2022-03-29 Tue 23:27]

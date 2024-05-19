@@ -407,7 +407,7 @@ CLOSED: [2021-02-22 Mon 13:04]
 ***** DONE Star Trek II: The Wrath of Khan :movie_adaptation:Khan:
 ***** DONE Star Trek: Khan - Ruling in Hell :movie_continuation:Khan:genetically_engineered:
 ***** DONE Spock Reflections :movie_continuation:Spock:
-***** Leonard McCoy Frontier Doctor
+***** DONE Leonard McCoy Frontier Doctor
 ***** Burden of Knowledge.
 ***** Star Trek: Harlan Ellison's Original The City on the Edge of Forever Teleplay :tv_based:
 **** DONE TPB: Star Trek: Romulans: Pawns of War :Romulans:
@@ -854,7 +854,7 @@ CLOSED: [2021-02-19 Fri 19:42]
 :rating:   6.2
 :END:
 
-**** TODO [#A] 6x15 Tapestry :Picard:Q:alternate_universe:ST2023_06:
+**** TODO [#A] 6x15 Tapestry :Picard:Q:alternate_universe:
 SCHEDULED: <2023-07-01 Sat>
 :PROPERTIES:
 :rating:   9.0
@@ -955,14 +955,26 @@ CLOSED: [2022-07-17 Sun 14:46] SCHEDULED: <2022-07-23 Sat>
 CLOSED: [2022-07-28 Thu 23:49] SCHEDULED: <2022-07-30 Sat>
 
 **** CANCEL [#E] 7x7. Dark Page            (6.5)
-**** READY [#C] 7x8. Attached             (7.5)
-**** CANCEL [#E] 7x9. Force of Nature      (6.5)
-**** READY [#C] 7x10. Inheritance         (7.6)
-**** READY [#A] 7x11. Parallels           (8.8) :alternate_universe:
-**** READY [#A] 7x12. The Pegasus         (8.6)
-**** [#D] 7x13. Homeward            (7.2)
+**** DONE [#C] 7x8. Attached             (7.5) :Picard:
+CLOSED: [2024-05-03 Fri 13:21]
+
+**** DONE [#E] 7x9. Force of Nature      (6.5)
+CLOSED: [2024-05-03 Fri 16:56]
+
+**** DONE [#C] 7x10. Inheritance         (7.6) :Data:
+CLOSED: [2024-05-07 Tue 21:46]
+
+Data meets Juliana Tainer, former wife of Dr. Noonien Soong and Data's "mother," but she holds a shocking secret that even she doesn't know she carries.
+
+**** DONE [#A] 7x11. Parallels           (8.8) :alternate_universe:
+CLOSED: [2024-05-10 Fri 19:10]
+
+**** DONE [#A] 7x12. The Pegasus         (8.6) :Romulans:
+CLOSED: [2024-05-18 Sat 11:26]
+
+**** TODO [#D] 7x13. Homeward            (7.2)
 **** CANCEL [#E] 7x14. Sub Rosa            (5.1)
-**** [#A] 7x15. Lower Decks         (8.7)
+**** TODO [#A] 7x15. Lower Decks         (8.7)
 **** [#C] 7x16. Thine Own Self      (7.9)
 **** CANCEL [#E] 7x17. Masks               (6.1)
 **** [#E] 7x18. Eye of the Beholder (6.8)
@@ -1790,14 +1802,26 @@ CLOSED: [2022-07-28 Thu 08:06]
 **** DONE [#C] 2x13. Prototype			 (7.6)
 CLOSED: [2022-07-30 Sat 20:07]
 
-**** [#D] 2x14. Alliances			 (7.3)
+**** DONE [#D] 2x14. Alliances			 (7.3)
+CLOSED: [2024-05-04 Sat 23:27]
+
 **** CANCEL [#E] 2x15. Threshold			 (5.4)
-**** [#B] 2x16. Meld					 (8.0)
-**** [#C] 2x17. Dreadnought			 (7.7)
-**** LATER [#B] 2x18. Death Wish			 (8.4) :Q:
-**** [#C] 2x19. Lifesigns			 (7.6)
-**** [#C] 2x20. Investigations		 (7.7)
-**** [#B] 2x21. Deadlock				 (8.3)
+**** DONE [#B] 2x16. Meld					 (8.0) :Vulcan:
+CLOSED: [2024-05-07 Tue 21:01]
+
+**** DONE [#C] 2x17. Dreadnought			 (7.7)
+CLOSED: [2024-05-08 Wed 07:50]
+
+**** DONE [#B] 2x18. Death Wish			 (8.4) :Q:Riker:
+CLOSED: [2024-05-14 Tue 23:49]
+
+**** DONE [#C] 2x19. Lifesigns			 (7.6) :EMH:
+CLOSED: [2024-05-15 Wed 22:32]
+
+**** DONE [#C] 2x20. Investigations		 (7.7)
+CLOSED: [2024-05-17 Fri 22:31]
+
+**** TODO [#B] 2x21. Deadlock				 (8.3)
 **** CANCEL [#E] 2x22. Innocence			 (6.8)
 **** [#D] 2x23. The Thaw				 (7.4)
 **** [#C] 2x24. Tuvix				 (7.7)
@@ -2168,15 +2192,29 @@ CLOSED: [2023-06-29 Thu 18:58] SCHEDULED: <2023-07-02 Sun>
 **** DONE 4x04 All Is Possible
 CLOSED: [2023-07-16 Sun 12:26] SCHEDULED: <2023-07-02 Sun>
 
-**** TODO 4x05 The Examples
-SCHEDULED: <2023-07-09 Sun>
+**** DONE 4x05 The Examples
+CLOSED: [2024-05-05 Sun 10:46] SCHEDULED: <2023-07-09 Sun>
 
-**** TODO 4x06 Stormy Weather
-SCHEDULED: <2023-07-09 Sun>
+**** DONE 4x06 Stormy Weather
+CLOSED: [2024-05-05 Sun 11:26] SCHEDULED: <2023-07-09 Sun>
 
-**** TODO 4x07 ...But to Connect
-SCHEDULED: <2023-07-15 Sat>
+**** DONE 4x07 ...But to Connect
+CLOSED: [2024-05-05 Sun 12:23] SCHEDULED: <2023-07-15 Sat>
 
+**** DONE 4x08
+CLOSED: [2024-05-12 Sun 17:12]
+
+**** DONE 4x09
+CLOSED: [2024-05-12 Sun 18:11]
+
+**** DONE 4x10
+CLOSED: [2024-05-18 Sat 12:30]
+
+**** DONE 4x11
+CLOSED: [2024-05-18 Sat 15:30]
+
+**** 4x12
+**** 4x13
 ** comics :IDW:📚:
 *** 2DONE Discovery: The Light of Kahless (卡勒斯之光) :hanzify:Kahless:Klingons:
 *** 2DONE Discovery: Succession (继位) :mirror_universe:hanzify:
@@ -2220,6 +2258,9 @@ CLOSED: [2022-06-26 Sun 22:27]
 CLOSED: <2022-06-04 Sat 17:14> SCHEDULED: <2022-06-03 Fri>
 
 *** Picard: Stargazer :P2022:
+
+故事在电视剧第二季之后
+
 ** audio
 *** No Man's Land :P2022:Seven_of_Nine:Raffi:
 * LD - Lower Decks :LD:animated:
@@ -2365,6 +2406,11 @@ CLOSED: [2022-07-16 Sat 07:03] SCHEDULED: <2022-07-17 Sun>
 *** DONE New Visions special: The Cage :tv_based:idw:Talosians:
 CLOSED: [2022-07-07 Thu 22:46]
 
+*** IDW
+**** DONE The Illyrian Enigma :Y2259:
+CLOSED: [2024-05-18 Sat 20:40]
+
+**** The Scorpius Run :P2023:
 * _others
 ** tv :tv:📺:
 *** short treks :ST:
@@ -2838,27 +2884,31 @@ CLOSED: [2021-03-26 Fri 23:23]
 
  The crew must contend with the disastrous fallout from Kelly's decision.
 
-*** DOING 📂Orville S3
-**** DONE 3x01 Electric Sheep
+*** DOING 📂Orville S3 :ST2024_06:
+**** DONE [#D] 3x01 Electric Sheep
 CLOSED: [2022-06-20 Mon 23:48]
 
-**** DONE 3x02 Shadow Realms
+**** DONE [#D] 3x02 Shadow Realms
 CLOSED: [2022-07-09 Sat 20:21] SCHEDULED: <2022-07-09 Sat>
 
-**** DONE 3x03 Mortality Paradox
+**** DONE [#C] 3x03 Mortality Paradox
 CLOSED: [2022-07-15 Fri 08:19] SCHEDULED: <2022-07-16 Sat>
 
-**** DONE 3x04 Gently Falling Rain
+**** DONE [#B] 3x04 Gently Falling Rain
 CLOSED: [2022-07-21 Thu 23:13] SCHEDULED: <2022-07-23 Sat>
 
-**** DONE 3x05 A Tale of Two Topas
+**** DONE [#C] 3x05 A Tale of Two Topas
 CLOSED: [2022-07-31 Sun 21:48] SCHEDULED: <2022-07-30 Sat>
 
-**** 3x06 :ST2023_12:
-**** 3x07 :ST2023_12:
-**** 3x08 :ST2023_12:
-**** 3x09 :ST2023_12:
-**** 3x10 :ST2023_12:
+**** DONE [#A] 3x06 Twice in a Lifetime
+CLOSED: [2024-05-03 Fri 18:12]
+
+**** DONE [#B] 3x07 From Unknown Graves
+CLOSED: [2024-05-13 Mon 22:38]
+
+**** TODO [#B] 3x08 Midnight Blue
+**** TODO [#A] 3x09 Domino
+**** TODO [#B] 3x10 Future Unknown
 ** comics :📚:
 *** Orville S1.5
 **** DONE New Beginning 新的开始 :hanzify:

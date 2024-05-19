@@ -339,7 +339,9 @@ CLOSED: [2023-03-10 Fri 21:08]
 ***** DONE 2x13
 CLOSED: [2023-03-12 Sun 18:45] SCHEDULED: <2023-03-12 Sun>
 
-**** Preacher S3 :P2018:
+**** DONE Preacher S3 :P2018:
+CLOSED: [2024-04-25 Thu 08:16]
+
 ***** DONE 3x01
 CLOSED: [2024-03-30 Sat 08:04]
 
@@ -366,6 +368,9 @@ CLOSED: [2024-04-18 Thu 07:34]
 
 ***** DONE 3x09
 CLOSED: [2024-04-21 Sun 19:11]
+
+***** DONE 3x10
+CLOSED: [2024-04-25 Thu 08:16]
 
 **** Preacher S4 :P2019:
 ** V for Vendetta ...
