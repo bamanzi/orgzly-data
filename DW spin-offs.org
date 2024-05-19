@@ -372,7 +372,9 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
       :END:
 
 ***** BLOCK /50. Absent Friends/ (missing)
-***** [#A] 50X. The Black Knight (8.6) :Norton:plot_yes:
+***** 3QTR [#A] 50X. The Black Knight (8.6) :Norton:plot_yes:DW2024_Q2b_spinoffs:
+      CLOSED: <2024-05-06 Mon 20:48> SCHEDULED: <2024-04-28 Sun>
+
 ***** 3QTR [#A] 51. The Five People You Kill in Middlebrough :Yvonne:plot_yes:DW2024_01_spinoffs:
       CLOSED: [2024-01-15 Mon 08:53] SCHEDULED: <2024-01-07 Sun>
       :PROPERTIES:
@@ -616,11 +618,13 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
       CLOSED: [2023-02-27 Mon 08:33] SCHEDULED: <2023-02-20 Mon 21:42>
 
 **** S7. Among Us :P2023_07:
-***** [#C] 7.1 Aliens Next Door :Orr:DW2024_Q2b_spinoffs:
-***** [#C] 7.2 Colin Alone :Colchester:
+***** [#C] 7.1 Aliens Next Door :Ng:Orr:DW2024_Q2b_spinoffs:
+      SCHEDULED: <2024-05-12 Sun>
+
+***** [#B] 7.2 Colin Alone :Colchester:
 ***** [#A] 7.3 Misty Eyes :Gwen:Rhys:
 ***** [#C] 7.4 Moderation :Tyler:
-***** [#C] 7.5 Propaganda :Orr:
+***** [#D] 7.5 Propaganda :Orr:
 ***** [#A] 7.6 At Her Majesty’s Pleasure :Yvvone:
 ***** [#A] 7.7 Cuckoo :Bilis_Manger:
 ***** [#A] 7.8 Pariahs
@@ -995,7 +999,8 @@ Roberts Master
      :rating:   7.2
      :END:
 
-**** [#A] 7.3 Barrister to the Stars :DW2024_Q2b_pending:
+**** [#A] 7.3 Barrister to the Stars
+     SCHEDULED: <2024-05-31 Fri>
      :PROPERTIES:
      :rating:   8.9
      :END:

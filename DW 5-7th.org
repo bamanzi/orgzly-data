@@ -949,13 +949,13 @@ This anthology marked the 40th anniversary of Baker's debut as the Doctor.
 ***** 2DONE The Lonely Clock
 ***** 2DONE The Hourglass Killers
 **** Classic Doctors, New Monsters
-***** TODO [#B] 1.2 Judoon in Chains :DW2024_Q2b_doctor:
-SCHEDULED: <2024-05-25 Sat>
+***** HALF [#B] 1.2 Judoon in Chains :scripted:plot_cast:DW2024_Q2b_doctor:
+SCHEDULED: <2024-05-11 Sat>
 :PROPERTIES:
 :rating:   8.3
 :END:
 
-***** [#D] 2.3 The Carrionite Curse
+***** [#D] 2.3 The Carrionite Curse :scripted:
 :PROPERTIES:
 :rating:   7.4
 :END:

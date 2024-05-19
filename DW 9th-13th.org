@@ -379,7 +379,7 @@ http://tardis.wikia.com/wiki/The_Crimson_Hand_(graphic_novel)
 ***** The Crimson Hand (DWM416-420) :Majenta:
 ** audio :🎧:
 *** 10DA
-**** 10DA vol.1 :P2016:Donna:
+**** 10DA vol.1 :P2016:Donna:scripted:
 ***** 2DONE [#C] 10DA 1.1 - Technophobia :D2021_07_dr:bilibili:
 CLOSED: [2021-08-01 Sun 15:54]
 :PROPERTIES:
