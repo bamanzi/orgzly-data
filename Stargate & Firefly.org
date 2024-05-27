@@ -50,6 +50,12 @@ CLOSED: [2022-11-05 Sat 07:36]
 **** DONE Brand New 'Verse #1-6
 CLOSED: [2022-11-11 Fri 19:22]
 
+*** 2022
+**** All New Firefly (#1-10)
+**** Firefly 20th Anniversary Special (2022) :oneshot:
+**** Keep Flying :oneshot:
+*** 2023
+**** The Fall Guys
 * Stargate
 ** DONE Stargate movie :P1994:
 CLOSED: [2022-11-05 Sat 12:09] SCHEDULED: <2022-10-06 Thu>
@@ -954,7 +960,7 @@ https://starwars.fandom.com/wiki/Andor_(television_series)?so=search
 
 ***** LATER [#A] season 1 (12 eps) :P2022_09:
 ***** season 2
-**** The Acolyte
+**** The Acolyte :132BBY:
 **** Lando
 **** Rangers of the New Republic
 *** tv (canon, animated) :animated:
@@ -1275,6 +1281,7 @@ CLOSED: [2023-08-27 Sun 18:03]
 
 Between 18 BBY and 5 BBY
 
+**** Tales of the Empire (2024)
 *** tv (legends)
 **** Droids :P1985:
 **** Eworks :P1985:

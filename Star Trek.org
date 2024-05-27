@@ -365,38 +365,59 @@ This story acts as a sequel to the novel /Sarek/ by A.C. Crispin, and as a p
 ***** Strange New Worlds (Annual 2013) :tv_continuation:
 ***** LATER 01. The Mirror Cracked :mirror_universe:
 ***** DONE Special: The Cage :tv_based:Pike:
-**** TPB: TOS omnibus
-***** DONE Blood Will Tell :hanzify:⭐️:Klingons:
-***** DONE [#C] Year Four :2007:
-CLOSED: [2021-02-14 Sun 16:09]
+**** #Romulans
+***** DONE TPB: Romulans: Pawns of War :Romulans:
 
-****** 2DONE 01
+https://memory-beta.fandom.com/wiki/Romulans:_Pawns_of_War?so=search
 
-进取号路遇一个巨大的行星系统，Kirk 等人在其中那颗宜居星球上发现一个基因科学家在这里做实验，他克隆/改造出了好些奇怪的类人生物。他最终的目的是想拯救他病危的妻子，但当发现他造的生物会袭击他人时，他把他们全部杀死了，包括他自己
+****** DONE Alien Spotlight: Romulans
+CLOSED: [2021-03-11 Thu 20:28]
 
-****** 2DONE 02
+****** DONE Balance of Terror :tv_based:
+CLOSED: [2021-03-11 Thu 20:28]
 
-进取号与一个星球签署二锂资源开采协议，但却遭遇了传统反对派的暗杀抗议。进取号在为“不干涉原则是否与采矿行为矛盾”进行争论的时候，却发现此星球正反两边都打算干掉他们，而二锂主矿也在纠纷中被炸毁
+****** DONE Star Trek: Romulans - The Hollow Crown
+CLOSED: [2021-03-11 Thu 21:18]
 
-****** 2DONE 03
-
-星联与一个殖民地 Phi-11 失联了，进取号前去调查发现人都神秘死亡了。回到舰上之后 Kirk 逐渐发现舰桥人员开始不听他的命令了，接着指挥权被McCoy解除，因为他感染上病毒了。但 Kirk 认为是其它人感染上了病毒，结果只有护士 Chapel 相信他...
-
-****** 2DONE 04
-
-进取号遇到一个星球，上面的人在到处安装摄像头，什么都直播。Kirk 和他的船员们自然也成了新的素材，在被武力胁迫无法离开的情况下，Kirk 不得不跟他们签订了“演戏”的合同。要怎样才能脱身呢？
-
-****** 2DONE 05
-
-进取号进行一项粒子加速科学实验，不料却造出一块奇怪的粒子云，Spock 被困其中
-
-****** 2DONE 06
-
-一艘星舰出了事故，进取号只找到了一些残骸。他们去附近一个星球寻找幸存者，却被一个机器人捕获了，然后发现这个机器人以原来那些人为原材料来克隆出新的婴儿
+****** DONE Star Trek: Romulans - Schism :2009:
+CLOSED: [2021-03-26 Fri 06:56]
 
 ***** LATER Year Four - The Enterprise Experiment :tv_continuation:Romulans:Section_31:
 
 a sequel to "The Enterprise Incident"
+
+**** #Klingons
+***** DONE Blood Will Tell :hanzify:⭐️:Klingons:
+***** Aliens: Klingons (2022)
+
+https://memory-beta.fandom.com/wiki/Klingons_(comic)
+
+**** DONE [#C] Year Four :2007:
+CLOSED: [2021-02-14 Sun 16:09]
+
+***** 2DONE 01
+
+进取号路遇一个巨大的行星系统，Kirk 等人在其中那颗宜居星球上发现一个基因科学家在这里做实验，他克隆/改造出了好些奇怪的类人生物。他最终的目的是想拯救他病危的妻子，但当发现他造的生物会袭击他人时，他把他们全部杀死了，包括他自己
+
+***** 2DONE 02
+
+进取号与一个星球签署二锂资源开采协议，但却遭遇了传统反对派的暗杀抗议。进取号在为“不干涉原则是否与采矿行为矛盾”进行争论的时候，却发现此星球正反两边都打算干掉他们，而二锂主矿也在纠纷中被炸毁
+
+***** 2DONE 03
+
+星联与一个殖民地 Phi-11 失联了，进取号前去调查发现人都神秘死亡了。回到舰上之后 Kirk 逐渐发现舰桥人员开始不听他的命令了，接着指挥权被McCoy解除，因为他感染上病毒了。但 Kirk 认为是其它人感染上了病毒，结果只有护士 Chapel 相信他...
+
+***** 2DONE 04
+
+进取号遇到一个星球，上面的人在到处安装摄像头，什么都直播。Kirk 和他的船员们自然也成了新的素材，在被武力胁迫无法离开的情况下，Kirk 不得不跟他们签订了“演戏”的合同。要怎样才能脱身呢？
+
+***** 2DONE 05
+
+进取号进行一项粒子加速科学实验，不料却造出一块奇怪的粒子云，Spock 被困其中
+
+***** 2DONE 06
+
+一艘星舰出了事故，进取号只找到了一些残骸。他们去附近一个星球寻找幸存者，却被一个机器人捕获了，然后发现这个机器人以原来那些人为原材料来克隆出新的婴儿
 
 **** _mini
 ***** DONE Mirror Images (镜像权路) :mirror_universe:hanzify:
@@ -410,19 +431,6 @@ CLOSED: [2021-02-22 Mon 13:04]
 ***** DONE Leonard McCoy Frontier Doctor
 ***** Burden of Knowledge.
 ***** Star Trek: Harlan Ellison's Original The City on the Edge of Forever Teleplay :tv_based:
-**** DONE TPB: Star Trek: Romulans: Pawns of War :Romulans:
-***** DONE Alien Spotlight: Romulans
-CLOSED: [2021-03-11 Thu 20:28]
-
-***** DONE Balance of Terror :tv_based:
-CLOSED: [2021-03-11 Thu 20:28]
-
-***** DONE Star Trek: Romulans - The Hollow Crown
-CLOSED: [2021-03-11 Thu 21:18]
-
-***** DONE Star Trek: Romulans - Schism :2009:
-CLOSED: [2021-03-26 Fri 06:56]
-
 **** 📂Year Five (2019-) :hanzify:
 ***** DONE 01-02 :Tholian:
 CLOSED: <2021-01-12 Tue 13:08>
@@ -536,15 +544,101 @@ CLOSED: [2023-06-12 Mon 13:16]
 
 ***** [#B] Burden of Knowledge :P2010:
 ** short stories
+*** Strange New Worlds II
+**** Triptych
+
+After Kirk fails to correct the timeline in New York City, 1930, two more teams need to travel through the Guardian of Forever.
+
+Connections
+- TOS episode: "The City on the Edge of Forever"
+
+**** DONE The Quick and the Dead
+CLOSED: [2024-05-20 Mon 22:54]
+
+McCoy struggles to save Kirk from a hyperaccelerated bacterial infection.
+
+**** The First Law of Metaphysics
+
+Saavik asks Spock to return to Vulcan to help a young half-Vulcan, half-human girl.
+
+connections:
+
+- Star Trek III: The Search for Spock
+- Star Trek V: The Final Frontier
+- Star Trek: Generations (novel)
+
+**** The Hero of My Own Life
+
+Captain Uhura, Gillian Taylor, and Carol Marcus work together on a new Genesis Project.
+
+connections:
+- Star Trek II: The Wrath of Khan
+- Star Trek III: The Search for Spock
+- Star Trek IV: The Voyage Home
+- TOS novel: Sarek
+
+**** Doctors Three
+
+Admiral McCoy visits Dr. Zimmerman as he works on perfecting the EMH program
+
+https://memory-beta.fandom.com/wiki/Doctors_Three
+
+connection: None
+
+*** Strange New Worlds IV
+**** TODO "A Little More Action" by TG Theodore
+SCHEDULED: <2022-07-24 Sun>
+
+**** "Prodigal Father" by Robert J. Mendenhall
+**** "Missed" by Pat Detmer
+**** "Tears for Eternity" by Lynda Martinez Foley
+**** "Countdown" by Mary Sweeney
+**** "First Star I See Tonight" by Victoria Grant
+**** "Scotty's Song" by Michael J. Jasper
+**** [#A] "The Name of the Cat" by Steven Scott Ripley (First Prize)
 *** Strange New Worlds VI
-**** "Whales Weep Not" by Juanita Nolte
-**** "One Last Adventure" by Mark Allen and Charity Zegers
-**** "Marking Time" by Pat Detmer
-**** "Ancient History" by Robert J. Mendenhall
-**** "Bum Radish: Five Spins on a Turquoise Reindeer" by TG Theodore
-**** "A Piece of the Pie" by G. Wood
-*** Strange New Worlds IX
+**** Whales Weep Not
+
+connection: movie 4: The Voyage Home
+
+**** One Last Adventure :DoTI:
+
+connection: None
+
+**** Marking Time
+
+Leonard McCoy comforts James T. Kirk, who is still hurting from Edith Keeler's death
+
+connection: The City on the Edge of Forever
+
+**** Ancient History
+
+Morgan Bateson confronts Montgomery Scott.
+
+connection: The Lights of Zetar
+
+**** Bum Radish: Five Spins on a Turquoise Reindeer
+
+Nine-year-old Montgomery Scott meets four-year-old Leonard McCoy.
+
+connection: None
+
+**** DONE A Piece of the Pie :TOS:
+CLOSED: [2022-07-17 Sun 22:32] SCHEDULED: <2022-07-17 Sun>
+
+ A Piece of Action 的后续
+
+connection: A Piece of Action
+
+*** Strange New Worlds 9
+**** "Gone Native" by John Coffren
 **** LATER A Bad Day for Koloth :Koloth:Kang:Tribbles:
+**** "Book of Fulfillment" by Steven Costa
+**** "The Smallest Choices" by Jeremy Yoder
+*** Starnge New worlds 10
+**** [#A] "The Smell of Dead Roses" by Gerri Leen (Grand Prize)
+**** "The Doomsday Gambit" by Rick Dickson
+**** "Empty" by David DeLee
 * TNG - The Next Generation :TNG:
 ** tv (1987-1993) :tv:📺:
 *** _download
@@ -730,7 +824,9 @@ CLOSED: [2022-06-10 Fri 08:23] SCHEDULED: <2022-06-10 Fri>
 **** DONE 5x08 Unification II (8.4) :Spock:Romulans:
 CLOSED: <2022-06-10 Fri 23:58> SCHEDULED: <2022-06-10 Fri>
 
-**** [#D] 5x09. A Matter of Time        (7.4)
+**** DONE [#D] 5x09. A Matter of Time        (7.4)
+CLOSED: [2024-05-24 Fri 22:09]
+
 **** CANCEL [#E] 5x10. New Ground              (6.6)
 **** CANCEL [#E] 5x11. Hero Worship            (6.7)
 **** CANCEL [#E] 5x12. Violations              (6.4)
@@ -939,7 +1035,7 @@ CLOSED: <2022-05-27 Fri 20:18> SCHEDULED: <2022-06-03 Fri>
 :rating:   8.3
 :END:
 
-*** TNG S7 :Y2370:
+*** TNG S7 :Y2370:ST2024_06:
 **** DONE [#C] 7x1. Descent, Part II     (7.9) :Data:Lore:
 CLOSED: [2022-05-27 Fri 22:42] SCHEDULED: <2022-06-03 Fri>
 
@@ -972,7 +1068,9 @@ CLOSED: [2024-05-10 Fri 19:10]
 **** DONE [#A] 7x12. The Pegasus         (8.6) :Romulans:
 CLOSED: [2024-05-18 Sat 11:26]
 
-**** TODO [#D] 7x13. Homeward            (7.2)
+**** DONE [#D] 7x13. Homeward            (7.2) :Prime_Directive:Holodeck:
+CLOSED: [2024-05-20 Mon 20:14]
+
 **** CANCEL [#E] 7x14. Sub Rosa            (5.1)
 **** TODO [#A] 7x15. Lower Decks         (8.7)
 **** [#C] 7x16. Thine Own Self      (7.9)
@@ -1189,12 +1287,96 @@ The Q Conflict, The Mirror Broken, DC Originals: TNG #1, Return to Raimon #1
 
 - set during the Nemesis epilogue
 
+*** Strange New Worlds II
+**** DONE I Am Klingon :Klingons:
+
+The Enterprise-D discovers a century-old Klingon "lifeboat," with an unusual looking Klingon aboard.
+
+/Although this story refers to the events of TNG episode "The Emissary" happening "two years ago" (which would place the story in late 2367), other evidence indicates a date of at least 2369./
+
+connections:
+
+- TOS episode: "Errand of Mercy"
+- TOS episode: "The Trouble with Tribbles"
+- TOS episode: "Day of the Dove"
+- TNG episode: "The Emissary"
+- DS9 episode: "Trials and Tribble-ations"
+
+**** Reciprocity
+
+Picard sends a return message to the original humanoid race, four billion years in the past.
+
+connection:
+- TNG episode "The Chase"  (6x20)
+
+**** Calculated Risk
+
+Reginald Barclay assists Dr. Katherine Pulaski in isolating a romance-inducing virus.
+
+connection: None
+
+**** Gods, Fate, and Fractals
+
+Federation Department of Temporal Investigations agents Marion Dulmur and Gariff Lucsly investigate the eradication of the Maquis from the timeline.
+
+/This story takes place in 2373, stardate 50564.2, largely simultaneously with the events of DS9 episode: "By Inferno's Light"(5x15)./
+
+**** I Am Become Death :Data:
+
+In the far future of an alternate timeline, humanoid life is extinct, replaced by a race of androids begun by Data.
+
+connections:
+
+- TNG episode: "Datalore"
+- TNG episode: "Brothers"
+
+*** Strange New Worlds IV
+**** "Flight 19" by Alan James Garbers :TNG:
+**** "The Promise" by Shane Zeranski :TNG:
+**** "Flash Point" by E. Catherine Tobler :TNG:
+**** "Prodigal Son" by Tonya D. Price :TNG:
+**** "Seeing Forever" by Jeff Suess :TNG:
 *** Strange New Worlds VI
 **** DONE The Soft Room :Romulans:Tal_Shiar:M5:
 CLOSED: [2022-07-09 Sat 15:26]
 
+A man wakes up in a white void, tended to by a mysterious Vulcan woman, T'Kyr. She tells him he has been insane and has been placed in this environment while his memory slowly recovers. He eventually recalls that he is Richard Daystrom but can only recall enough to make a recreation of his old study in the void. His helpers provide him with a "game" that seems to involve him trying to find a way to defeat the Borg...
+
 M5 首次是在 TOS 剧集 The Ultimate Computer 出现
 
+**** Protecting Data's Friends
+
+When a friend of Data's, Ensign Yen, is killed in a rock climbing accident while on shore leave, he becomes convinced that if he had been with her he could have prevented it. For this reason, he designs a set of robotic bodyguards for the rest of the senior staff, powered by his own neural net, to protect them from harm...
+
+connection: None
+
+**** The Human Factor :Q:
+
+Q wakes up to find himself without his powers and with a young Lwaxana Troi, who believes he is her husband Ian Andrew Troi and they are on their honeymoon. Although slightly bemused, Q ends up playing along with it...
+
+connection: None
+
+**** Tribble in Paradise
+
+Data enters the Nexus.
+
+*** Strange New Worlds 9
+**** "Staying the Course" by Paul C. Tseng
+**** "Home Soil" by Jim Johnson
+**** "Terra Tonight" by Scott Pearson :TNG:
+**** "Solace in Bloom" by Jeff D. Jacques
+*** Strange New Workds 10
+**** "Wired" by Aimee Ford Foster
+**** BLOCK "A Dish Served Cold" by Paul C. Tseng
+
+Grebnedlog and his fellow Pakleds deliberately try to get themselves
+assimilated by the Borg, in an effort to exact revenge upon the crew
+of the Enterprise.
+
+This story takes place eight years after "Samaritan Snare," (2x17)
+during Starfleet's battle against the Borg cube in Sector 001.
+
+**** "The Very Model" by Muri McCage
 * DS9 - Deep Space Nine :DS9:
 ** DS9 tv (1993-1998) :📺:tv:
 *** DS9 S1 (Jan. - Jun. 1993) :Y2369:
@@ -1676,10 +1858,53 @@ The Romulan emperor is murdered, just as Romulus enters the Dominion War.
 **** "Stone Cold Truths," by Peter David
 **** "Requital," by Michael A. Martin & Andy Mangels
 **** The Dominion War Timeline, compiled by Keith R.A. DeCandido
+*** Strange New Worlds II
+**** TODO Research
+SCHEDULED: <2024-05-26 Sun>
+
+The time-travelling researcher for Star Trek: Deep Space Nine explains her reasons for quitting.
+
+connections:
+- TNG episode: "A Matter of Time"
+
+**** Change of Heart
+
+The female Changeling has to deal with the uncharacteristic behavior of the Vorta on a Dominion-controlled mining planet.
+
+*** Strange New Worlds IV
+**** "Captain Proton and the Orb of Bajor" by Jonathan Bridge
+**** [#A] "Isolation Ward 4" by Kevin G. Summers (Third Prize)
 *** Strange New Worlds VI
-**** "Fabrications" by Brett Hudgins
-**** "Urgent Matter" by Robert J. LaBaff
-**** "Best Tools Available" by Shawn Michael Scott
+**** Fabrications
+
+Garak deals with a Bajoran who plans to commit an act of terrorism.
+
+**** Urgent Matter
+
+A Changeling from the Great Link arrives aboard Deep Space 9 on an urgent mission.
+
+**** Best Tools Available
+
+Nog takes the /Kobayashi Maru scenario/ (小林丸号测试) at Starfleet Academy.
+
+*** Strange New Worlds 9
+**** "Shadowed Allies" by Emily P. Bloch
+**** "Living on the Edge of Existence" by Gerri Leen
+**** "The Last Tree on Ferenginar: A Ferengi Fable From the Future" by Mike McDevitt
+**** "The Tribbles' Pagh" by Ryan M. Williams
+*** Strange New Worlds 10
+**** BLOCK "So a Horse Walks into a Bar..." by Brian Seidman
+
+Lewis Zimmerman visits Deep Space 9 to study Vic Fontaine.
+
+Connections
+- DS9 episode: "The Forsaken" (1x17)
+- DS9 episode: "Doctor Bashir, I Presume" (5x16)
+- DS9 episode: "His Way" (6x20)
+- VOY episode: "Message in a Bottle" (4x14)
+- VOY episode: "Life Line" (6x24)
+
+**** "Signal to Noise" by Jim Johnson
 * VOY - Voyager :VOY:
 ** tv (1995-2001) :📺:
 *** VOY S1 :Y2371:
@@ -1821,10 +2046,18 @@ CLOSED: [2024-05-15 Wed 22:32]
 **** DONE [#C] 2x20. Investigations		 (7.7)
 CLOSED: [2024-05-17 Fri 22:31]
 
-**** TODO [#B] 2x21. Deadlock				 (8.3)
-**** CANCEL [#E] 2x22. Innocence			 (6.8)
-**** [#D] 2x23. The Thaw				 (7.4)
-**** [#C] 2x24. Tuvix				 (7.7)
+**** DONE [#B] 2x21. Deadlock				 (8.3)
+CLOSED: [2024-05-19 Sun 13:38]
+
+**** DONE [#E] 2x22. Innocence			 (6.8)
+CLOSED: [2024-05-22 Wed 20:05]
+
+**** DONE [#D] 2x23. The Thaw				 (7.4)
+CLOSED: [2024-05-22 Wed 21:27]
+
+**** DONE [#C] 2x24. Tuvix				 (7.7)
+CLOSED: [2024-05-26 Sun 12:08]
+
 **** [#C] 2x25. Resolutions			 (7.5)
 **** [#C] 2x26. Basics: Part I		(7.9)
 *** VOY S3 :Y2373:
@@ -2022,12 +2255,35 @@ CLOSED: [2023-06-17 Sat 12:07] SCHEDULED: <2023-06-17 Sat>
 CLOSED: [2023-06-27 Tue 13:14] SCHEDULED: <2023-06-30 Fri>
 
 ** short stories
+*** Strange New Worlds II
+**** [#A] "A Ribbon for Rosie" by Ilsa J. Bick (Grand Prize) :VOY:
+**** "Touched" by Kim Sheard :VOY:
+**** "Almost... But Not Quite" by Dayton Ward :VOY:
+**** "The Healing Arts" by E. Cristy Ruteshouser and Lynda Martinez Foley :VOY:
+**** "Seventh Heaven" by Dustan Moon :VOY:
+*** Strange New Worlds IV
+**** "Iridium-7-Tetrahydroxate Crystals Are a Girl's Best Friend" by Bill Stuart :VOY:
+**** "Uninvited Admirals" by Penny A. Proctor :VOY:
+**** "Return" by Chuck Anderson :VOY:
+**** "Black Hats" by William Leisner :VOY:
+**** "Personal Log" by Kevin Killiany :VOY:
+**** "Welcome Home" by Diana Kornfeld :VOY:
+**** [#A] "Shadows, in the Dark" by Ilsa J. Bick (Second Prize) :VOY:
 *** Strange New Worlds VI
 **** "Homemade" by Elizabeth A. Dunham
 **** "Seven and Seven" by Kevin Hosey
 **** "The End of Night" by Paul J. Kaplan
 **** "Hidden" by Jan Stevens
 **** "Widow's Walk" by Mary Scott-Wiecek
+*** Strange New Worlds 9
+**** [#A] "Choices" by Susan S. McCrackin (Second Prize)
+**** "Unconventional Cures" by Russ Crossley
+**** "Maturation" by Catherine E. Pike
+*** Strange New Worlds 10
+**** "The Fate of Captain Ransom" by Rob Vagle :VOY:
+**** "A Taste of Spam" by L. E. Doggett :VOY:
+**** "Adjustments" by Laura Ware :VOY:
+**** "The Day the Borg Came" by M.C. DeMarco :VOY:
 * ENT - Enterprise
 ** Enterprise (2001-2004)
 ** short stories
@@ -2035,6 +2291,14 @@ CLOSED: [2023-06-27 Tue 13:14] SCHEDULED: <2023-06-30 Fri>
 **** "Savior" by Julie Hyzy
 **** "Preconceptions" by Penny A. Proctor
 **** "Cabin E-14" by Shane Zeranski
+*** Strange New Worlds 9
+**** "Rounding a Corner Already Turned" by Allison Cain :ENT:
+**** "Mother Nature's Little Reminders" by A. Rhea King :ENT:
+**** [#A] "Mestral" by Ben Guilfoy (Third Prize) :ENT:
+*** Strange New Worlds 10
+**** "The Dream" by Robyn Sullivent Gries :ENT:
+**** [#A] "Universal Chord" by Carolyn Winifred (Third Prize) :ENT:
+**** "You Are Not in Space" by Edgar Governo :ENT:
 * KTL - Kelvin Timeline (AOS) :KTL:
 ** movies :🎦:
 *** Star Trek (2009) :P2009:Y2387:
@@ -2088,6 +2352,7 @@ CLOSED: <2022-07-15 Fri 19:16> SCHEDULED: <2022-07-14 Thu>
 CLOSED: [2022-08-02 Tue 06:20] SCHEDULED: <2022-07-24 Sun>
 
 *** KTL movie line
+**** DONE Spock Reflections :movie_continuation:Spock:
 **** DONE Star Trek: Countdown
 **** DONE Star Trek: Nero
 **** DONE Star Trek: Movie Adaptation
@@ -2179,7 +2444,7 @@ CLOSED: [2022-07-02 Sat 17:02]
 **** DONE [#E] 3x13 That Hope Is You, Part 2
 CLOSED: [2022-07-02 Sat 18:08]
 
-*** Discovery S4 :ST2023_06:
+*** 📂Discovery S4 :ST2024_06:
 **** DONE 4x01 Kobayashi Maru 小林丸号
 CLOSED: [2023-06-23 Fri 21:04]
 
@@ -2299,7 +2564,7 @@ CLOSED: [2022-07-29 Fri 21:16] SCHEDULED: <2022-07-30 Sat>
 *** 2x01 Strange Energies
 * SNW - Strange New Worlds (2022- ) :SNW:Pike:
 ** tv :📺:
-*** DONE SNW S1 :P2022:
+*** DONE SNW S1 :P2022:Y2259:
 
 10 episodes
 
@@ -2347,9 +2612,7 @@ CLOSED: [2023-07-01 Sat 12:02] SCHEDULED: <2023-07-01 Sat>
 
 an alternate timeline of TOS episode: /Balance of Terror/
 
-*** SNW S2 :P2023:
-
-
+*** SNW S2 :P2023:Y2259:
 
 新世界第二季整季：
 百度网盘：https://pan.baidu.com/s/1onWnu2wUZd5YZFDD0uDCWg?pwd=stcn 提取码：stcn
@@ -2450,6 +2713,14 @@ It consists of a crossover of characters from across the galaxy, exploring the
 - Beverly Crusher
 
 https://intl.startrek.com/news/new-era-star-trek-comics
+
+#星际迷航[超话]# 全明星阵容的漫画新主刊来了[丰收了]第1期熟肉发布，熟悉的24世纪角色悉数登场。
+
+故事发生在电影9之后，希斯科回到常态世界接任了新船“忒休斯号”指挥权，在这艘船上，数据（带着他的猫）担任大副，派瑞斯担任舵手，贝芙莉担任医官，以及，斯考提担任轮机长！
+
+**** Defiant (2023)
+
+ 漫画新系列《挑战号》第1期发布！本刊是正在连载的新主刊的衍生故事，故事紧接在主刊第5期之后，又是全明星阵容，集结了史波克、沃尔夫、罗·拉伦、贝拉娜和Lore，为了完成一项特殊的任务。
 
 **** _mix
 ***** Alien Spotlight 聚焦外星人 :hanzify:
@@ -2568,233 +2839,30 @@ CLOSED: [2022-05-27 Fri 08:46]
 
 https://memory-beta.fandom.com/wiki/Strange_New_Worlds_II
 
-**** TOS
-***** BLOCK [#A] "Triptych" by Melissa Dickinson (Second Prize) :TOS:alternate_universe:
-
- alternative to TOS 1x28 /The City on the Edge of Forever/
-
-***** "The Quick and the Dead" by Kathy Oltion :TOS:
-
- connections: None
-
-***** BLOCK "The First Law of Metaphysics" by Michael S. Poteet :TOS:
-
- Connections
- - Star Trek III: The Search for Spock
- - Star Trek V: The Final Frontier
- - Star Trek: Generations
-
-***** "The Hero of My Own Life" by Peg Robinson :TOS:
-
- Captain Uhura, Gillian Taylor, and Carol Marcus work together on a new Genesis Project.
-
- connections:
- - TOS novel: Star Trek II: The Wrath of Khan
-
-***** TODO "Doctors Three" by Charles Skaggs :TOS:
-SCHEDULED: <2022-07-24 Sun>
-
- Admiral McCoy visits Dr. Zimmerman as he works on perfecting the EMH program.
-
-**** TNG
-***** DONE [#A] "I Am Klingon" by Ken Rand (Third Prize) :TNG:Klingons:
-CLOSED: [2022-05-27 Fri 16:39]
-
- The Enterprise-D discovers a century-old Klingon "lifeboat," with an unusual looking Klingon aboard.
-
- 进取号打捞到一艘100年前的救生船，里面有一个没有头脊的克林贡人，Worf 了解到了一段被刻意遗忘的往事。这个克林贡人身体已经撑不了24小时，Worf 不想将他送回克林贡，而是打算让他带着荣誉死去，同时也可以洗清对方家族的名声
-
-***** BLOCK "Reciprocity" by Brad Curry :TNG:
-SCHEDULED: <2022-07-24 Sun>
-
-Picard sends a return message to the original humanoid race, four billion years in the past.
-
-connections: 6x20 /The Chase/
-
-***** "Calculated Risk" by Christina F. York :TNG:
-
-Reginald Barclay assists Dr. Katherine Pulaski in isolating a romance-inducing virus.
-
- connections: None
-
-***** BLOCK "Gods, Fate, and Fractals" by William Leisner :TNG:
-
- /Federation Department of Temporal Investigations/ agents /Marion Dulmur/
- and /Gariff Lucsly/ investigate the eradication of the /Maquis/ from the
- timeline.
-
- Related stories
- - TNG episode: "The Naked Now"
- - TNG episode: "Yesterday's Enterprise"
- - TNG episode: "Remember Me"
- - TNG episode: "A Matter of Time"
- - TNG episode: "The First Duty"
- - TNG episode: "Time's Arrow"
- - TNG episode: "Journey's End"
- - DS9 episode: "Trials and Tribble-ations"
- - DS9 episode: "By Inferno's Light"
- - TNG movie: Star Trek: Generations
- - TNG movie: Star Trek: First Contact
-
-***** TODO "I Am Become Death" by Franklin Thatcher :TNG:Data:Lore:
-SCHEDULED: <2022-06-05 Sun>
-
- In the far future of an alternate timeline, humanoid life is extinct, replaced by a race of androids begun by Data.
-
-**** DS9
-***** BLOCK "Research" by J. R. Rasmussen :DS9:
-
- sequel to TNG 5x09 /A Matter of Time/.
-
- main character: Berlinghoff Rasmussen
-
-***** TODO "Change of Heart" by Steven Scott Ripley :DS9:
-
- The female Changeling has to deal with the uncharacteristic behavior
- of the Vorta on a Dominion-controlled mining planet.
-
- connections: None
-
-**** VOY
-***** [#A] "A Ribbon for Rosie" by Ilsa J. Bick (Grand Prize) :VOY:
-***** "Touched" by Kim Sheard :VOY:
-***** "Almost... But Not Quite" by Dayton Ward :VOY:
-***** "The Healing Arts" by E. Cristy Ruteshouser and Lynda Martinez Foley :VOY:
-***** "Seventh Heaven" by Dustan Moon :VOY:
 *** [#C] Strange New Worlds III (3.79)
 *** [#B] Strange New Worlds IV (3.94) :P2001:
 
 https://memory-beta.fandom.com/wiki/Strange_New_Worlds_IV
 
-**** TOS
-***** TODO "A Little More Action" by TG Theodore :TOS:
-SCHEDULED: <2022-07-24 Sun>
-
-***** "Prodigal Father" by Robert J. Mendenhall :TOS:
-***** "Missed" by Pat Detmer :TOS:
-***** "Tears for Eternity" by Lynda Martinez Foley :TOS:
-***** "Countdown" by Mary Sweeney :TOS:
-***** "First Star I See Tonight" by Victoria Grant :TOS:
-***** "Scotty's Song" by Michael J. Jasper :TOS:
-***** [#A] "The Name of the Cat" by Steven Scott Ripley (First Prize) :TOS:
-**** TNG
-***** "Flight 19" by Alan James Garbers :TNG:
-***** "The Promise" by Shane Zeranski :TNG:
-***** "Flash Point" by E. Catherine Tobler :TNG:
-***** "Prodigal Son" by Tonya D. Price :TNG:
-***** "Seeing Forever" by Jeff Suess :TNG:
-**** DS9
-***** "Captain Proton and the Orb of Bajor" by Jonathan Bridge :DS9:
-***** [#A] "Isolation Ward 4" by Kevin G. Summers (Third Prize) :DS9:
-**** VOY
-***** "Iridium-7-Tetrahydroxate Crystals Are a Girl's Best Friend" by Bill Stuart :VOY:
-***** "Uninvited Admirals" by Penny A. Proctor :VOY:
-***** "Return" by Chuck Anderson :VOY:
-***** "Black Hats" by William Leisner :VOY:
-***** "Personal Log" by Kevin Killiany :VOY:
-***** "Welcome Home" by Diana Kornfeld :VOY:
-***** [#A] "Shadows, in the Dark" by Ilsa J. Bick (Second Prize) :VOY:
 *** [#C] Strange New Worlds V (3.83)
 *** [#B] 📂Strange New Worlds VI (3.99) :P2003:🛒:已购:
 
 https://memory-beta.fandom.com/wiki/Strange_New_Worlds_VI
 
-**** TOS
-***** [#A] "Whales Weep Not" by Juanita Nolte (Third Prize) :TOS:
-***** "One Last Adventure" by Mark Allen and Charity Zegers :TOS:
-***** "Marking Time" by Pat Detmer :TOS:
-***** "Ancient History" by Robert J. Mendenhall :TOS:
-***** "Bum Radish: Five Spins on a Turquoise Reindeer" by TG Theodore :TOS:
-***** DONE "A Piece of the Pie" by G. Wood :TOS:
-CLOSED: [2022-07-17 Sun 22:32] SCHEDULED: <2022-07-17 Sun>
-
- A Piece of Action 的后续
-
-**** TNG
-***** DONE [#A] "The Soft Room" by Geoffrey Thorne (Second Prize) :TNG:
-***** "Protecting Data's Friends" by Scott William Carter :TNG:
-***** "The Human Factor" by Russ Crossley :TNG:
-***** "Tribble in Paradise" by Louisa M. Swann :TNG:
-**** DS9
-***** "Fabrications" by Brett Hudgins :DS9:
-***** "Urgent Matter" by Robert J. LaBaff :DS9:
-***** "Best Tools Available" by Shawn Michael Scott :DS9:
-**** VOY
-***** "Homemade" by Elizabeth A. Dunham :VOY:
-***** "Seven and Seven" by Kevin Hosey :VOY:
-***** "The End of Night" by Paul J. Kaplan :VOY:
-***** "Hidden" by Jan Stevens :VOY:
-***** "Widow's Walk" by Mary Scott-Wiecek :VOY:
-**** ENT
-***** "Savior" by Julie Hyzy :ENT:
-***** "Preconceptions" by Penny A. Proctor :ENT:
-***** "Cabin E-14" by Shane Zeranski :ENT:
-**** misc
-***** [#A] "Our Million-Year Mission" by Robert T. Jeschonek (Grand Prize)
-***** "The Beginning" by Annie Reed
+**** [#A] "Our Million-Year Mission" by Robert T. Jeschonek (Grand Prize)
+**** "The Beginning" by Annie Reed
 *** [#B] Strange New Worlds VII (3.87)
 *** [#B] Strange New Worlds 8 (3.96)
 *** TOBUY [#A] *Strange New Worlds 9* (4.05) :P2006:
 
 https://memory-beta.fandom.com/wiki/Strange_New_Worlds_9
 
-**** "Gone Native" by John Coffren :TOS:
-**** "A Bad Day for Koloth" by David DeLee :TOS:
-**** "Book of Fulfillment" by Steven Costa :TOS:
-**** "The Smallest Choices" by Jeremy Yoder :TOS:
-**** "Staying the Course" by Paul C. Tseng :TNG:
-**** "Home Soil" by Jim Johnson :TNG:
-**** "Terra Tonight" by Scott Pearson :TNG:
-**** "Solace in Bloom" by Jeff D. Jacques :TNG:
-**** "Shadowed Allies" by Emily P. Bloch :DS9:
-**** "Living on the Edge of Existence" by Gerri Leen :DS9:
-**** "The Last Tree on Ferenginar: A Ferengi Fable From the Future" by Mike McDevitt :DS9:
-**** "The Tribbles' Pagh" by Ryan M. Williams :DS9:
-**** [#A] "Choices" by Susan S. McCrackin (Second Prize) :VOY:
-**** "Unconventional Cures" by Russ Crossley :VOY:
-**** "Maturation" by Catherine E. Pike :VOY:
-**** "Rounding a Corner Already Turned" by Allison Cain :ENT:
-**** "Mother Nature's Little Reminders" by A. Rhea King :ENT:
-**** [#A] "Mestral" by Ben Guilfoy (Third Prize) :ENT:
 **** "Remembering the Future" by Randy Tatano
 **** "Rocket Man" by Kenneth E. Carper
 **** "The Rules of War" by Kevin Lauderdale
 **** "The Immortality Blues" by Marc Carlson
 **** [#A] "Orphans" by R.S. Belcher (Grand Prize)
 *** [#B] Strange New Worlds 10 (3.93) :P2007:🛒:已购:
-**** [#A] "The Smell of Dead Roses" by Gerri Leen (Grand Prize) :TOS:
-**** "The Doomsday Gambit" by Rick Dickson :TOS:
-**** "Empty" by David DeLee :TOS:
-**** "Wired" by Aimee Ford Foster :TNG:
-**** BLOCK "A Dish Served Cold" by Paul C. Tseng :TNG:
-
-Grebnedlog and his fellow Pakleds deliberately try to get themselves
-assimilated by the Borg, in an effort to exact revenge upon the crew
-of the Enterprise.
-
-This story takes place eight years after "Samaritan Snare," (2x17)
-during Starfleet's battle against the Borg cube in Sector 001.
-
-**** "The Very Model" by Muri McCage :TNG:
-**** BLOCK "So a Horse Walks into a Bar..." by Brian Seidman :DS9:
-
-Lewis Zimmerman visits Deep Space 9 to study Vic Fontaine.
-
-Connections
-- DS9 episode: "The Forsaken" (1x17)
-- DS9 episode: "Doctor Bashir, I Presume" (5x16)
-- DS9 episode: "His Way" (6x20)
-- VOY episode: "Message in a Bottle" (4x14)
-- VOY episode: "Life Line" (6x24)
-
-**** "Signal to Noise" by Jim Johnson :DS9:
-**** "The Fate of Captain Ransom" by Rob Vagle :VOY:
-**** "A Taste of Spam" by L. E. Doggett :VOY:
-**** "Adjustments" by Laura Ware :VOY:
-**** "The Day the Borg Came" by M.C. DeMarco :VOY:
-**** "The Dream" by Robyn Sullivent Gries :ENT:
-**** [#A] "Universal Chord" by Carolyn Winifred (Third Prize) :ENT:
-**** "You Are Not in Space" by Edgar Governo :ENT:
 **** "Time Line" by Jerry M. Wolfe
 **** [#A] "Echoes" by Randy Tatano (Second Prize)
 **** "Brigadoon" by Rigel Ailur
@@ -2906,7 +2974,9 @@ CLOSED: [2024-05-03 Fri 18:12]
 **** DONE [#B] 3x07 From Unknown Graves
 CLOSED: [2024-05-13 Mon 22:38]
 
-**** TODO [#B] 3x08 Midnight Blue
+**** DONE [#B] 3x08 Midnight Blue
+CLOSED: [2024-05-26 Sun 11:52]
+
 **** TODO [#A] 3x09 Domino
 **** TODO [#B] 3x10 Future Unknown
 ** comics :📚:
@@ -2927,6 +2997,7 @@ CLOSED: [2021-03-26 Fri 23:49]
 
 翻译：
 - 前两章  https://m.weibo.cn/6420838648/4837290571210950
+- 全文： https://wu-danielle.bearblog.dev/myrutxdrpq/?continueFlag=5dbaf60ab342f4c66f75fcac04bb192d
 
 * For All Mankind
 ** DONE S1
