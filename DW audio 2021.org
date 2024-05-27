@@ -1681,22 +1681,23 @@
 *** [#D] CDNM3.1 The House that Hoxx Built :3rd_Dr:Sarah:
 * DW2024-Q2b
 ** dw2024-q2b-doctor
-*** [#C] EA4.1 The Night Witches :2nd_Dr:Jamie:Polly:Ben:
+*** HALF [#C] EA4.1 The Night Witches                :2nd_Dr:Jamie:Polly:Ben:
 *** [#C] 4DA 11.5 Peake Season :4th_Dr:
-*** CDNM1.2 Judoom in Chains / WoDW#4 Second Sight :6th_Dr:Romana_2:Leela:Yates:
-*** 8DTW 2.1 The Lords of Terror / 3.1 State of Bliss :8th_Dr:Bliss:
+*** DONE CDNM1.2 Judoom in Chains               :6th_Dr:Romana_2:Leela:Yates:
+*** HALF 8DTW 3.1 State of Bliss / Salvage                     :8th_Dr:Bliss:
 **** S12.1 Salvage :Bliss:
 *** [#D] 10DA1.2 Time Reaver :10th_Dr:Donna:bilibili:
-*** [#A] WDB3.3 - Rewind :War_Dr:
+*** HALF [#A] WDB3.3 - Rewind                                        :War_Dr:
 ** dw2024-q2b-spinoffs
 *** [#C] TW7.1 Aliens Next Door :Orr:
-*** [#A] TW50X The Black Knight :Norton:
-*** [#B] UNIT1.4 Armageddon :UNIT:
-*** FIXME [#A] DoRS7.3 Barrister to the Stars :River:
-*** FIXME [#B] WM7.1 The Forest Penitence :Master_war:
+*** 3QTR [#A] TW50X The Black Knight                                 :Norton:
+*** HALF [#B] UNIT1.4 Armageddon                                       :UNIT:
+*** HALF [#D] DoRS4.1 Time in a Bottle                                :River:
+*** HALF [#B] WM7.1 The Forest Penitence                         :Master_war:
 ** pending
-*** [#A] PG4.1 - Merry Christmas, Mr Jago  (9.0)
+*** WoDW#4 Second Sight
 *** [#B] 8DDC 4.3 - The Side of the Angels :8th_Dr:Liv:Helen:
+
 * DW2024-Q3a
 ** dw2024-q3a-doctor
 *** 1DA22.2 The Miniaturist :1st_Dr:Dodo:
@@ -1705,12 +1706,21 @@
     :rating:   7.5
     :END:
 
-*** READY [#A] 8.3 Red Darkness :Vashta_Nerada:bilibili:
+*** [#D] MR269c/d Shadow of the Daleks :5th_Dr:
+*** [#C] The Ribos Inheritance :7th_Dr:Mel:
+*** READY [#A] 9DA8.3 Red Darkness :9th_Dr:Vashta_Nerada:bilibili:
 
 【【神秘博士广播剧熟肉】Shades of Fear 803 Red Darkness 赤红黑暗-哔哩哔哩】 https://b23.tv/RPnCOqH
 
+*** [#D] 11DA4.2 The Yearn :11th_Dr:
 ** dw2024-q3b-spinoffs
+*** [#B] TW41 Red Base                                                 :Andy:
+*** [#B] TW7.2 Colin Alone                                      :Colchester:
+*** [#C] CM3.1 - Changing of the Guard
+*** [#A] PG4.1 - Merry Christmas, Mr Jago 
+*** [#B] BS5.3 The Relics of Jegg-Sau
 *** [#D] WM7.2 The Players :Master_war:
+*** [#D] ROB3.1 - The Mystery of Sector 13 
 * pending
 ** odd
 *** [#B] LS2.1b The Fragile Yellow Arc of Fragrance (Susan, Ian, Barbara) :plot_yes:

@@ -1,3 +1,6 @@
+#+TODO: TODO NEXT READY BLOCK TBR START HALF 3QTR | 2DONE DONE CANCEL
+#+PRIORITIES: A F C
+
 * 9th Doctor :9th_Dr:
 ** tv :📺:
 *** S1
@@ -111,7 +114,7 @@ CLOSED: [2024-04-02 Tue 07:41] SCHEDULED: <2024-03-30 Sat>
 【【神秘博士广播剧熟肉】Shades of Fear 801 The Colour of Terror 恐怖之色-哔哩哔哩】 https://b23.tv/upXcyWs
 
 ***** [#E] +8.2 The Blooming Menace+
-***** READY [#A] 8.3 Red Darkness :Vashta_Nerada:bilibili:
+***** READY [#A] 8.3 Red Darkness :Vashta_Nerada:bilibili:DW2024_Q3a_doctor:
 
 【【神秘博士广播剧熟肉】Shades of Fear 803 Red Darkness 赤红黑暗-哔哩哔哩】 https://b23.tv/RPnCOqH
 
@@ -807,7 +810,7 @@ SCHEDULED: <2023-09-17 Sun>
 **** [#B] 4.1 All of Time and Space :P2023_02:plot_yes:DW2024_Q2a_doctor:
 SCHEDULED: <2024-04-06 Sat>
 
-**** [#D] 4.2 The Yearn :P2023_02:
+**** [#D] 4.2 The Yearn :P2023_02:DW2024_Q3a_doctor:
 **** [#A] 4.3 Curiosity Shop :P2023_02:
 **** [#A] 4.4 Broken Hearts :P2023_11:
 *** 11DC vol.5 Everywhere and Anywhere :Valarie:P2023_12:

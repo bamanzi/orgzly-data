@@ -492,6 +492,9 @@ https://disk.yandex.ru/d/wvIFTkwIBUEYcw
 - S9 :: https://disk.yandex.ru/d/e1atH9RZUNXS1Q
 - S10 :: https://disk.yandex.ru/d/qptsnyRnGRKM8A
 - S11 https://disk.yandex.ru/d/IqN8LgERfkZePw
+- S12 https://disk.yandex.ru/d/1GzsoPGLkDsJOg
+- S13 https://disk.yandex.ru/d/poHvcFKNjnuU4g
+- S14 https://disk.yandex.ru/d/5K2nqrFO-rsHwg
 
 *** classic misc
 **** Bonus Releases
@@ -655,7 +658,8 @@ https://mega.nz/#F!VKZQCDBK!HVF3dZfQp9G2rwFlRKHGbw
 - S12 https://disk.yandex.ru/d/pXKVvNUKiu8Hcw
 - S13 https://disk.yandex.ru/d/OZ6ajfR8yLdQxw
 - S14 https://disk.yandex.ru/d/ARDA9f-AVB_VRg
-- S15 https://disk.yandex.ru/d/CjqEBL4WFWuMdA 
+- S15 https://disk.yandex.ru/d/CjqEBL4WFWuMdA
+- S16 https://disk.yandex.ru/d/zS0eKbU0BkqZjQ
 
 **** Gallifrey
 
@@ -672,7 +676,7 @@ https://mega.nz/#F!VKZQCDBK!HVF3dZfQp9G2rwFlRKHGbw
 
 - S3-S4 :: https://disk.yandex.ru/d/yNZ2_0_tZv6N6A
 - S6 :: https://disk.yandex.ru/d/DHV5ZujRNe1_XQ
-- 
+- S7 :: https://disk.yandex.ru/d/Rlz5IsFxqbrFgA
 
 **** The Robots
 ***** Vol.1

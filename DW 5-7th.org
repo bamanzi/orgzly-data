@@ -334,8 +334,8 @@ CLOSED: <2023-09-12 Tue 09:13> SCHEDULED: <2023-09-09 Sat>
 ***** HALF [#E] 269b. Lightspeed :DW2023_09_spinoffs:
 SCHEDULED: <2023-09-24 Sun>
 
-***** [#E] 269c. The Bookshop at the End of the World
-***** [#B] 269d. Interlude
+***** [#E] 269c. The Bookshop at the End of the World :DW2024_Q3a_doctor:
+***** [#B] 269d. Interlude :DW2024_Q3a_doctor:
 **** 📂270. Shadow of the Daleks 2
 ***** [#B] 270a. Echo Chamber
 ***** [#D] 270b. Towards Zero
@@ -538,7 +538,10 @@ CLOSED: [2023-06-26 Mon 08:24] DEADLINE: <2023-06-28 Wed> SCHEDULED: <2023-06-14
 
 http://drwhoguide.com/who_bf09.htm
 
-**** DONE 11. The Apocalypse Element :Evelyn:Romana_2:Daleks:
+**** DONE 11. The Apocalypse Element :Evelyn:Romana_2:Daleks:bilibili:
+
+【【神秘博士广播剧熟肉】MR011 The Apocalypse Element 末日元素-哔哩哔哩】 https://b23.tv/lFiGif9
+
 **** 2DONE [#C] MR23. Project Twilight :The_Forge:D2021_07_dr:plot_yes:
 CLOSED: [2021-07-15 Thu 14:15]
 :PROPERTIES:
@@ -949,8 +952,8 @@ This anthology marked the 40th anniversary of Baker's debut as the Doctor.
 ***** 2DONE The Lonely Clock
 ***** 2DONE The Hourglass Killers
 **** Classic Doctors, New Monsters
-***** HALF [#B] 1.2 Judoon in Chains :scripted:plot_cast:DW2024_Q2b_doctor:
-SCHEDULED: <2024-05-11 Sat>
+***** DONE [#B] 1.2 Judoon in Chains :scripted:plot_cast:DW2024_Q2b_doctor:
+CLOSED: [2024-05-21 Tue 16:37] SCHEDULED: <2024-05-11 Sat>
 :PROPERTIES:
 :rating:   8.3
 :END:
@@ -1352,7 +1355,7 @@ SCHEDULED: <2024-03-16 Sat>
 ***** CANCEL [#F] Bad Day in Tinseltown :Cybermen:Mel:1CD:
 CLOSED: [2022-10-08 Sat 09:05]
 
-***** [#C] The Ribos Inheritance :Mel:2CD:
+***** [#C] The Ribos Inheritance :Mel:2CD:DW2024_Q3a_doctor:
 
 需要先看剧集16x01 The Ribos Operation
 

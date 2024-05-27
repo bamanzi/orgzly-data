@@ -698,7 +698,10 @@ SCHEDULED: <2024-05-31 Fri>
 ***** Here Lies Drax
 ***** The Love Vampires
 ***** Albie's Angels
-**** TBR Echoes :P2024_05:
+**** Echoes :P2024_05:
+***** 1. Birdsong
+***** 2. Lost Hearts
+***** 3. Slot Beasts
 *** 8DA (2023- )
 **** 📂Audacity :P2023_11:plot_yes:Audacity:
 ***** READY The Devouring :1CD:bilibili:
@@ -749,7 +752,7 @@ CLOSED: [2020-09-23 Wed 12:53]
 :rating:   7.5
 :END:
 
-**** [#B] STS37 - Tuesday :Harry:
+**** [#B] SST37 - Tuesday :Harry:
 :PROPERTIES:
 :rating:   8.3
 :END:
@@ -1258,8 +1261,8 @@ CLOSED: [2023-06-15 Thu 08:36] SCHEDULED: <2023-06-10 Sat>
 SCHEDULED: <2024-02-10 Sat>
 
 **** [#E] 3.2 - Temmosus
-**** HALF [#B] 3.3 - Rewind :DW2024_Q2b_doctor:
-SCHEDULED: <2024-05-04 Sat>
+**** 3QTR [#B] 3.3 - Rewind :DW2024_Q2b_doctor:
+CLOSED: [2024-05-23 Thu 21:38] SCHEDULED: <2024-05-04 Sat>
 
 *** _📂WDB vol.4 He Who Fights Monsters_ :P2022_12:🎧:
 **** [#B] 4.1 The Mission
@@ -1383,11 +1386,12 @@ SCHEDULED: <2023-11-19 Sun>
 SCHEDULED: <2023-12-24 Sun>
 
 *** /📂The War Master series 7: Self-Defence/ :Master_war:🎧:P2022_06:
-**** READY [#B] 7.1 The Forest of Penitence :bilibili:DW2024_Q2b_spinoffs:
+**** HALF [#B] 7.1 The Forest of Penitence :bilibili:DW2024_Q2b_spinoffs:
+SCHEDULED: <2024-05-26 Sun>
 
 【【广播剧汉化】恶魔的低语 The War Master 战争法师 701 The Forest Penitence-哔哩哔哩】 https://b23.tv/fdIB3vT
 
-**** READY [#D] 7.2 The Players :bilibili:
+**** READY [#D] 7.2 The Players :bilibili:DW2024_Q3a_spinoffs:
 
 【【广播剧汉化】蹩脚的自辩 The War Master 战争法师 702 The Players-哔哩哔哩】 https://b23.tv/X3fable
 
