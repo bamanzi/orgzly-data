@@ -462,7 +462,7 @@ CLOSED: [2022-01-14 Fri 15:10]
 
 Interludes #1
 
-**** Gobbledegook :P2023_04:
+**** [#D] Gobbledegook :P2023_04:
 
 Interludes #4
 
@@ -782,9 +782,9 @@ SCHEDULED: <2023-12-30 Sat>
 ***** [#F] 2.2 Reverse Engineering
 ***** [#D] 2.3 Chronomancer
 **** 📂2023A. Purity Unleashed :P2023_05:Mel:
-***** 1. Broadway Belongs to Me!
-***** 2. Purification
-***** 3. Time-Burst
+***** [#E] 1. Broadway Belongs to Me!
+***** [#D] 2. Purification
+***** [#E] 3. Time-Burst
 **** 📂2023B. Purity Unbound :P2023_08:Mel:Hebe:
 ***** 1. Girl in a Bottle
 ***** 2. The Corruptions
@@ -986,7 +986,7 @@ CLOSED: [2024-05-21 Tue 16:37] SCHEDULED: <2024-05-11 Sat>
 **** DONE Abel's Story (DWM105) :Peri:Frobisher:
 **** DONE The Warrior's Story (DWM106) :Peri:Frobisher:
 **** DONE Frobisher's Story (DWM107) :Peri:Frobisher:
-*** DWMGN: The World Shapers (DWM108-129)
+*** DWMGN: The World Shapers (DWM108-129) :已购:
 **** DONE Exodus (DWM108) :Peri:Frobisher:
 **** DONE Revelation! (DWM109) :Peri:Frobisher:Cybermen:
 **** DONE Genesis! (DWM110) :Peri:Frobisher:Cybermen:
@@ -1280,7 +1280,7 @@ SCHEDULED: <2021-12-04 Sat>
 
 *** with Ace & Benny
 **** [#D] MR013. The Shadow of the Scourge :Ace:Benny:
-**** BLOCK [#D] NA1 Love and War :Ace:Benny:3CD:scripted:
+**** BLOCK [#C] NA1 Love and War :Ace:Benny:3CD:scripted:
 
 block 原因：太长（3小时多）
 
@@ -1355,7 +1355,8 @@ SCHEDULED: <2024-03-16 Sat>
 ***** CANCEL [#F] Bad Day in Tinseltown :Cybermen:Mel:1CD:
 CLOSED: [2022-10-08 Sat 09:05]
 
-***** [#C] The Ribos Inheritance :Mel:2CD:DW2024_Q3a_doctor:
+***** HALF [#D] The Ribos Inheritance :Mel:2CD:plot_yes:DW2024_Q3a_doctor:
+DEADLINE: <2024-06-05 Wed 08:26> SCHEDULED: <2024-06-15 Sat>
 
 需要先看剧集16x01 The Ribos Operation
 
@@ -1632,6 +1633,11 @@ DWMGN #24
 ***** The Last Word :Benny:P2001:
 *** Operation Volcano (Titan Comics)
 ** novels
+*** [#A] The Also People
+:PROPERTIES:
+:goodreads: 4.14
+:END:
+
 *** OVERDUE [#A] /Human Nature/ :📔:Benny:D2021_12:
 SCHEDULED: <2021-12-03 Fri>
 :PROPERTIES:
@@ -1648,6 +1654,15 @@ SCHEDULED: <2021-12-03 Fri>
 :PROPERTIES:
 :rating:   4.13
 :END:
+
+https://doctorwho.guide/who_na46.htm
+
+*** [#A] Damaged Goods
+:PROPERTIES:
+:goodreads: 4.02
+:END:
+
+https://doctorwho.guide/who_na55.htm
 
 ** short stories
 *** How You Get There :Benny:

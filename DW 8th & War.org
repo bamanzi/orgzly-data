@@ -1154,15 +1154,15 @@ CLOSED: <2021-11-26 Fri 09:50> DEADLINE: <2021-11-26 Fri 21:54> SCHEDULED: <2021
 :END:
 
 *** 📂8D Time War vol.5 Cass :Cass:P2023_01:plot_yes:🎧:
-**** READY 5.1 Meanwhile, Elsewhere :bilibili:
+**** READY [#C] 5.1 Meanwhile, Elsewhere :bilibili:
 
 【【广播剧汉化】并进的时间线 Cass 101 Meanwhile Elsewhere-哔哩哔哩】 https://b23.tv/zBubJ4R
 
-**** READY 5.2 Vespertine :bilibili:
+**** READY [#C] 5.2 Vespertine :bilibili:
 
 【【广播剧汉化】 沉重的遗产 Cass 102 Vespertine-哔哩哔哩】 https://b23.tv/m3b5hyL
 
-**** READY 5.3 Previously, Next Time :2CD:bilibili:
+**** READY [#B] 5.3 Previously, Next Time :2CD:bilibili:
 
 【【广播剧汉化】无限循环的死结 Cass 103 Previously, Next Time 上-哔哩哔哩】 https://b23.tv/dB3or7j
 
@@ -1392,6 +1392,7 @@ SCHEDULED: <2024-05-26 Sun>
 【【广播剧汉化】恶魔的低语 The War Master 战争法师 701 The Forest Penitence-哔哩哔哩】 https://b23.tv/fdIB3vT
 
 **** READY [#D] 7.2 The Players :bilibili:DW2024_Q3a_spinoffs:
+SCHEDULED: <2024-06-30 Sun>
 
 【【广播剧汉化】蹩脚的自辩 The War Master 战争法师 702 The Players-哔哩哔哩】 https://b23.tv/X3fable
 
@@ -1404,19 +1405,19 @@ SCHEDULED: <2024-05-26 Sun>
 【【广播剧汉化】注定的未来 The War Master 战争法师 704 The Last Line-哔哩哔哩】 https://b23.tv/t0szyKn
 
 *** /📂The War Master series 9: Solitary Confinement/ :🎧:P2023_06:Master_war:
-**** READY 9.1 - The Walls of Absence :bilibili:
+**** READY [#A] 9.1 - The Walls of Absence :bilibili:
 
 【【广播剧汉化】燃烧的天空 The War Master 战争法师 901 The Walls of Absence-哔哩哔哩】 https://b23.tv/vQ364oL
 
-**** READY 9.2 - The Long Despair :bilibili:
+**** READY [#A] 9.2 - The Long Despair :bilibili:
 
 【【广播剧汉化】漫长的绝望 The War Master 战争法师 902 The Long Despair-哔哩哔哩】 https://b23.tv/ZP1QcKr
 
-**** READY 9.3 - The Life and Loves of Mr Alexander Bennett :bilibili:
+**** READY [#A] 9.3 - The Life and Loves of Mr Alexander Bennett :bilibili:
 
 【【广播剧汉化】法师的画饼日常 The War Master 战争法师 903 The Life and Loves of Mr Alexander-哔哩哔哩】 https://b23.tv/W4xMLa7
 
-**** READY 9.4 - The Kicker :bilibili:
+**** READY [#C] 9.4 - The Kicker :bilibili:
 
 【【广播剧汉化】真假法师 The War Master 战争法师 904 The Kicker-哔哩哔哩】 https://b23.tv/J1ytO0Z
 

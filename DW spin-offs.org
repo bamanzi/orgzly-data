@@ -452,7 +452,7 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 ***** 81. Tube Strike :Ianto:
 ***** 82. Missing Molly :Ianto:P2024_04:
 ***** 83. Disco :Ianto:
-***** 84.
+***** 84. The Restoration of Catherine :Andy:Norton:
 *** specials
 **** 2DONE [#B] special 1: The Torchwood Archive :P2016:The_Commitee:2CD:plot_yes:
      CLOSED: [2020-11-19 Thu 18:33]
@@ -620,11 +620,13 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
 ***** 3QTR [#B] 6.12 Thoughts and Prayers (8.2) :Yvonne:Orr:God:P2019:DW2023_02_spinoffs:
       CLOSED: [2023-02-27 Mon 08:33] SCHEDULED: <2023-02-20 Mon 21:42>
 
-**** S7. Among Us :P2023_07:plot_yes:
+**** 📂S7. Among Us :P2023_07:plot_yes:
 ***** [#C] 7.1 Aliens Next Door :Ng:Orr:DW2024_Q2b_spinoffs:
       SCHEDULED: <2024-05-12 Sun>
 
-***** [#B] 7.2 Colin Alone :Colchester:DW2024_Q3a_spinoffs:
+***** 3QTR [#B] 7.2 Colin Alone :Colchester:DW2024_Q3a_spinoffs:
+      CLOSED: [2024-05-30 Thu 19:34] SCHEDULED: <2024-06-16 Sun>
+
 ***** [#A] 7.3 Misty Eyes :Gwen:Rhys:
 ***** [#C] 7.4 Moderation :Tyler:
 ***** [#D] 7.5 Propaganda :Orr:
@@ -1020,7 +1022,7 @@ Roberts Master
 ***** [#C] 8.2 A Brave New World (7.6) :10th_Dr:
 ***** [#C] 8.3 A Forever Home (7.5) :K9:
 ***** HALF [#E] 8.4 Queen of the Mechonoids     (6.5) :Anya:Mark_7:
-**** DoRS 9 - New Recruit :P2021_10:
+**** 📂DoRS 9 - New Recruit :P2021_10:
 ***** 3QTR [#B] 9.1 The Blood Woods :Liz:Brigadier:D2022_01_spinoffs:
       CLOSED: [2022-01-14 Fri 08:37] SCHEDULED: <2022-01-26 Wed>
       :PROPERTIES:
@@ -1045,17 +1047,17 @@ Roberts Master
       :rating:   8.1
       :END:
 
-**** DoRS 10 - Two Rivers and a Firewall :P2022_08:
+**** 📂DoRS 10 - Two Rivers and a Firewall :P2022_08:
 ***** [#C] 10.1 The Two Rivers
 ***** [#F] 10.2 Beauty on the Inside
 ***** [#E] 10.3 Black Friday
 ***** [#E] 10.4 Firewall
-**** DoRS 11 - Friend of the Family :P2023_01:
-***** part1. The Rules of the House
-***** part2. The Key to the Door
-***** part3. The Bird from the Nest
-***** part4. The Isle on the Shore
-**** DoRS 12 - The Orphan Quartet :P2023_08:
+**** 📂DoRS 11 - Friend of the Family :P2023_01:
+***** [#A] part1. The Rules of the House
+***** [#A] part2. The Key to the Door
+***** [#A] part3. The Bird from the Nest
+***** [#A] part4. The Isle on the Shore
+**** 📂DoRS 12 - The Orphan Quartet :P2023_08:
 ***** 12.1 The Excise Men
 ***** 12.2 Harvest of the Krotons
 ***** 12.3 Dead Man Talking
@@ -1350,7 +1352,7 @@ Roberts Master
      :rating:   6.7
      :END:
 
-**** [#A] 1.5 Just War :2CD:
+**** [#A] 1.5 Just War :WW2:2CD:
      :PROPERTIES:
      :rating:   9.2
      :END:
@@ -2446,7 +2448,7 @@ http://www.drwhoguide.com/kaldor03.htm
 **** [#D] 5.1 The Enhancement
 **** [#B] 5.2 Machines Like Us
 **** [#B] 5.3 Kaldor Nights
-*** The Robots: vol.6 :P2023_05:
+*** 📂The Robots: vol.6 :P2023_05:
 **** [#C] 6.1 Force of Nature
 **** [#B] 6.2 Face to Face
 **** [#E] 6.3 The Final Hour
@@ -2767,7 +2769,7 @@ http://www.drwhoguide.com/kaldor03.htm
 
 【【神秘博士广播剧熟肉】The Dimension Cannon 203 The Rogue Planet 流浪行星-哔哩哔哩】 https://b23.tv/T3YU8OJ
 
-*** RTDC vol.3 Trapped :P2023_09:
+*** 📂RTDC vol.3 Trapped :P2023_09:
 **** READY 3.1 Sink or Swim :bilibili:
 
 【【神秘博士广播剧熟肉】The Dimension Cannon 301 Sink or Swim 听任沉浮-哔哩哔哩】 https://b23.tv/JxOvW0I
@@ -2842,7 +2844,7 @@ From Donna's perspective, the anthology is set after /Forest of the Dead/.
 **** [#C] 03: Lost
 **** [#B] 04. Angels
 **** [#D] 05. Interrogation
-*** Redacted S2 :P2023_09:
+*** 📂Redacted S2 :P2023_09:
 * BF spin-offs
 ** Charlotte Pollard
 *** series 1 :P2014:
@@ -2874,7 +2876,7 @@ From Donna's perspective, the anthology is set after /Forest of the Dead/.
     SCHEDULED: <2024-01-01 Mon>
 
 ** The Eighth of March :🎧:
-*** vol.1 The Eighth of March :P2019:
+*** 📂vol.1 The Eighth of March :P2019:
 **** START [#D] 1.1 Emancipation :River:Leela:
 **** CANCEL [#F] 1.2 The Big Blue Book :Benny:Ace:7th_Dr:
 **** 3QTR [#D] EoM1.3 Inside Every Warrior :Vastra:Jenny:Strax:TPG:DW2023_04_spinoffs:
@@ -2884,11 +2886,11 @@ From Donna's perspective, the anthology is set after /Forest of the Dead/.
      :END:
 
 **** [#B] 1.4 Narcisus :UNIT_new:
-*** vol.2 Protectors of Time :P2022_03:
+*** 📂vol.2 Protectors of Time :P2022_03:
 **** [#D] 2.1 Stolen Futures :Romana_2:K9:Biroc:
 **** [#E] 2.2 Prism :Christina:Jenny:
 **** [#C] 2.3 The Turn of the Tides :Jo:Rani:
-*** vol.3 Strange Chemistry :P2023_03:
+*** 📂vol.3 Strange Chemistry :P2023_03:
 **** [#C] 3.1 - A Ghost of Alchemy :4th_Dr:Leela:
 **** [#E] 3.2 - Fairies at the Bottom of the Garden :Missy:
 * #Dark Times

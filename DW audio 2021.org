@@ -1293,7 +1293,7 @@
 - next morning (00:22:50)
 - alien speaks (00:37:08)
 
-*** 3QTR [#B] WDB1.1. Light the Flame :War_Doctor:Karn:
+*** 3QTR [#B] WDB1.1. Light the Flame :War_Dr:Karn:
 ** DW 2022-06-spinoffs
 *** HALF [#B] TW1-1.1 - New Girl :Yvonne:
 *** 3QTR [#E] TW1-1.2 - Through the Ruins :Yvonne:
@@ -1341,7 +1341,7 @@
 *** HALF [#E] 8DDC 2.4 The Sonomancer :8th_Dr:Liv:Helen:River:
 *** 2DONE [#C] 10DA 3.2 One Mile Down :10th_Dr:Donna:bilibili:
 *** HALF [#C] 12DC1.2 War Wounds :12th_Dr:Danny:
-*** 3QTR [#D] WDB 1.2 Lion Hearts :War_Doctor:
+*** 3QTR [#D] WDB 1.2 Lion Hearts :War_Dr:
 ** DW 2022-08-spinoffs
 *** 3QTR [#C] TW6.5 Flight 405 :Jack:Yvonne:Norton:
 *** HALF [#C] The Sins of Captain John #1 - The Restored
@@ -1382,7 +1382,7 @@
 *** 3QTR [#B] MR103 The Girl Who Never Was :8th_Dr:Charley:Cyberman:
 *** 3QTR [#B] 10D&RS #3 Ghosts :10th_Dr:River:
 *** START [#C] 12DC1.4 Field Trip :12th_Dr:Osgood:
-*** 2DONE [#B] WDB 1.3 The Shadow Squad :War_Doctor:
+*** 2DONE [#B] WDB 1.3 The Shadow Squad :War_Dr:
 ** DW 2022-10-spinoffs
 *** 2DONE [#A] TW6.7 Another Man's Shoes :Torchwood:
 *** 3QTR [#A] TW6.8 Eye of the Storm :Torchwood:
@@ -1491,7 +1491,7 @@
 *** 3QTR [#C] 8DDC 3.2 The Eighth Piece :8th_Dr:Liv:Helen:River:
 *** HALF [#C] 8DDC 3.3 The Doomsday Chronometer :8th_Dr:Liv:Helen:River:
 *** HALF [#A] DU2.2 The Trojan Dalek :10th_Dr:Anya:Mark_7:bilibili:
-*** HALF [#D] WDB 2.2 Destroyer :War_Doctor:
+*** HALF [#D] WDB 2.2 Destroyer :War_Dr:
 ** dw2023-04-spinoffs
 *** 2DONE [#A] TW Soho: Parasite (p4-p6) :Norton:Andy:
 *** HALF [#C] TW61 War Chest :Tosh:
@@ -1524,7 +1524,7 @@
 *** HALF [#C] MR009 The Spectre of Lanyon Moor :6th_Dr:Evelyn:2CD:
 *** HALF [#A] 8DDC3.4 The Crucible of Souls :8th_Dr:Liv:Helen:River:The_Nine:
 *** START [#A] 10DDU 2.3 The Lost :10th_Dr:Anya:Mark_7:bilibili:
-*** 3QTR [#D] WDB2.3 Saviour :War_Doctor:Time_War:
+*** 3QTR [#D] WDB2.3 Saviour :War_Dr:Time_War:
 ** dw2023-06-spinoffs
 *** START [#B] TWO3.1 Retirement Plan :Yvonne:Ianto:
 *** 3QTR [#A] John #3 Peach Blossom Heights :Captain_John:Jack:
@@ -1593,7 +1593,7 @@
 *** HALF [#B] LS1.3 Leviathan :6th_Dr:Peri:
 *** HALF [#C] 8DA2.7 Sisters of the Flame / 2.8 Vengeance of Morbius :8th_Dr:Lucie:Morbius:Karn:
 *** DONE [#D] ST10.X Free Speech :10th_Dr:bilibili:
-*** 3QTR [#C] WD2.1 Legion of the Lost :War_Doctor:
+*** 3QTR [#C] WD2.1 Legion of the Lost :War_Dr:
 ** dw2023-10-spinoffs
 *** DONE [#B] TW29. Serenity :Jack:Ianto:
 *** HALF [#C] UNIT 1.2 Earthfall
@@ -1619,7 +1619,7 @@
 *** 3QTR [#C] 4DA6.5 - The Haunting of Malkin Place :4th_Dr:Romana_2:
 *** HALF [#B] 8DDC 4.1 - Ship in a Bottle :8th_Dr:Liv:Helen:
 *** 2DONE [#B] 10DCC1.1 - Splinters :10th_Dr:Leela:K9
-*** 3QTR [#A] WD2.3 - The Neverwhen :War_Doctor:
+*** 3QTR [#A] WD2.3 - The Neverwhen :War_Dr:
 ** dw2023-12-spinoffs
 *** HALF [#B] TWS2 Outbreak #3 Kill :Jack:Gwen:Ianto:Rhys:Andy:Norton:
 *** HALF [#C] TW53. Empire of Shadows :Zach:
@@ -1672,32 +1672,27 @@
 *** 3QTR [#A] TW59 Sonny :Rhys:
     CLOSED: [2024-03-24 Sun 08:48]
 
-*** HALF [#C] BBC #4. The Dead Line                :Jack:Gwen:Ianto:bilibili:
+*** HALF [#C] BBC #4. The Dead Line :Jack:Gwen:Ianto:bilibili:
 *** [#C] J&L8.4 - Higson & Quick :Jago:Litefoot:
 *** HALF [#B] BS7.2 - Timeless Passages
 *** [#C] Susan1.4 The Shoreditch Intervention :Susan:8th_Dr:Alex:
-** pending
 *** [#C] CM2.4 - Sins of the Fathers
-*** [#D] CDNM3.1 The House that Hoxx Built :3rd_Dr:Sarah:
 * DW2024-Q2b
 ** dw2024-q2b-doctor
-*** HALF [#C] EA4.1 The Night Witches                :2nd_Dr:Jamie:Polly:Ben:
+*** HALF [#C] EA4.1 The Night Witches :2nd_Dr:Jamie:Polly:Ben:
 *** [#C] 4DA 11.5 Peake Season :4th_Dr:
-*** DONE CDNM1.2 Judoom in Chains               :6th_Dr:Romana_2:Leela:Yates:
-*** HALF 8DTW 3.1 State of Bliss / Salvage                     :8th_Dr:Bliss:
+*** DONE CDNM1.2 Judoom in Chains :6th_Dr:
+*** HALF 8DTW3.1 State of Bliss / ST12.1 Salvage :8th_Dr:Bliss:
 **** S12.1 Salvage :Bliss:
 *** [#D] 10DA1.2 Time Reaver :10th_Dr:Donna:bilibili:
-*** HALF [#A] WDB3.3 - Rewind                                        :War_Dr:
+*** HALF [#A] WDB3.3 - Rewind :War_Dr:
 ** dw2024-q2b-spinoffs
-*** [#C] TW7.1 Aliens Next Door :Orr:
-*** 3QTR [#A] TW50X The Black Knight                                 :Norton:
-*** HALF [#B] UNIT1.4 Armageddon                                       :UNIT:
-*** HALF [#D] DoRS4.1 Time in a Bottle                                :River:
-*** HALF [#B] WM7.1 The Forest Penitence                         :Master_war:
-** pending
-*** WoDW#4 Second Sight
-*** [#B] 8DDC 4.3 - The Side of the Angels :8th_Dr:Liv:Helen:
-
+*** [#C] TW7.1 Aliens Next Door :Orr:Ng:
+*** 3QTR [#A] TW50X The Black Knight :Norton:
+*** HALF [#B] UNIT1.4 Armageddon :UNIT:
+*** HALF [#D] DoRS4.1 Time in a Bottle :River:
+*** HALF [#B] WM7.1 The Forest Penitence :Master_war:
+*** HALF [#A] GALL3.4 Mindbomb
 * DW2024-Q3a
 ** dw2024-q3a-doctor
 *** 1DA22.2 The Miniaturist :1st_Dr:Dodo:
@@ -1707,26 +1702,25 @@
     :END:
 
 *** [#D] MR269c/d Shadow of the Daleks :5th_Dr:
-*** [#C] The Ribos Inheritance :7th_Dr:Mel:
+*** [#C] 7DA22A.2 The Ribos Inheritance :7th_Dr:Mel:
 *** READY [#A] 9DA8.3 Red Darkness :9th_Dr:Vashta_Nerada:bilibili:
 
 【【神秘博士广播剧熟肉】Shades of Fear 803 Red Darkness 赤红黑暗-哔哩哔哩】 https://b23.tv/RPnCOqH
 
 *** [#D] 11DA4.2 The Yearn :11th_Dr:
-** dw2024-q3b-spinoffs
-*** [#B] TW41 Red Base                                                 :Andy:
-*** [#B] TW7.2 Colin Alone                                      :Colchester:
+** dw2024-q3a-spinoffs
+*** [#B] TW41 Red Base :Andy:
+*** [#B] TW7.2 Colin Alone :Colchester:
 *** [#C] CM3.1 - Changing of the Guard
-*** [#A] PG4.1 - Merry Christmas, Mr Jago 
+*** [#A] PG4.1 - Merry Christmas, Mr Jago
 *** [#B] BS5.3 The Relics of Jegg-Sau
 *** [#D] WM7.2 The Players :Master_war:
-*** [#D] ROB3.1 - The Mystery of Sector 13 
+*** [#D] ROB3.1 - The Mystery of Sector 13
 * pending
 ** odd
 *** [#B] LS2.1b The Fragile Yellow Arc of Fragrance (Susan, Ian, Barbara) :plot_yes:
 *** 3DA6.1 Poison of the Daleks (Jo)
 *** [#C] CC4.05 - Ringpullworld :5th_Dr:Turlough:
-*** [#C] 2022A.2  The Ribos Inheritance :7th_Dr:Mel:
 *** [#D] 9DA7.2 Lay Down Your Arms
 *** [#C] DotD#9. Night of the Whisper
 *** Let it Snow :11th_Dr:
@@ -1737,11 +1731,12 @@ Tales of Trenzalore - 01
 *** FIXME [#B] 4DA 8.7/8.8 The Perfect Prisoners :Ann:
 *** [#C] 4DA7.7/7.8 - Kill the Doctor! / The Age of Sutekh  (Leela, Sutehk)
 *** [#C] 6DnP #1 The Headless Ones :6th_Dr:Peri:
+*** WoDW#4 Second Sight :Romana_2:Leela:Yates:
+*** [#B] 8DDC 4.3 - The Side of the Angels :8th_Dr:Liv:Helen:
 *** [#C] MR194. The Rani Elite (6th, Peri) / [#C] MR157. The Fourth Wall (Flip) 2cd
 *** FIXME [#C] ST8.6 The Siege of Big Ben :10th_Dr:plot_yes:Jackie:
 ** spinoffs
 *** HALF [#B] Gallifrey 6.3 -Ascension
-*** [#D] Robots 3.1 The Mystery of Sector 13
 *** [#C] River 6.4 The Talents of Grel :River:Jago:
 *** [#C] River 8.2 A Brave New World :River:10th_Dr:
 *** TLV: Lesser Evils :Master_tremas:

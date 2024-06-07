@@ -292,10 +292,12 @@ Old Steven 3/3
 ***** 3QTR [#D] 22.1 The Outlaws :Dodo:Monk:P2022_04:DW2023_03_doctor:
 CLOSED: [2023-03-29 Wed 08:54] SCHEDULED: <2023-03-04 Sat>
 
-***** [#C] 22.2 The Miniaturist :Dodo:P2022_04:1CD:DW2024_Q3a_doctor:
+***** 3QTR [#C] 22.2 The Miniaturist :Dodo:P2022_04:1CD:DW2024_Q3a_doctor:
+CLOSED: [2024-06-05 Wed 08:25] SCHEDULED: <2024-06-15 Sat>
+
 **** 📂1DA2023. The Demon Song :Dodo:P2023_02:
-***** 23.1 The Demon Song :1CD:
-***** 23.2 The Incherton Incident :2CD:
+***** [#B] 23.1 The Demon Song :1CD:
+***** [#E] 23.2 The Incherton Incident :2CD:
 **** 1DA2024. Fugitive of the Daleks :3CD:P2024_01:Dodo:Vicki:
 
 这里的 Vicki 是老年 Vicki
@@ -873,7 +875,7 @@ SCHEDULED: <2023-05-27 Sat>
 :rating:   7.1
 :END:
 
-***** 2023A. The Return of Jo Jones :Jo:P2023_02:1CD:P2023_02:
+***** 📂2023A. The Return of Jo Jones :Jo:P2023_02:1CD:P2023_02:
 ****** NEXT [#D] 23A.1 Supernature
 ****** [#D] 23A.2 The Conservitors
 ****** [#C] 23A.3 The Iron Shore
@@ -1099,7 +1101,7 @@ On Earth, UNIT is called in to investigate a mysterious incident on a North 
 As the Sild invasion begins, the Doctor faces a terrible dilemma. To save the universe, he must save his arch-nemesis... The Master
 
 
-翻译：https://b23.tv/N5x8uoR
+翻译：https://b23.tv/PM38pXs
 
 **** Harvest of Time (audiobook) :audiobook:🎧:
 
@@ -1350,8 +1352,8 @@ CLOSED: [2020-07-15 Wed 19:13]
 ***** CANCEL [#F] 12.2 Antillia the Lost :P2023_03:2CD:
 ***** TODO [#C] 12.3 The Wizard of Time :P2023_06:1CD:
 ***** [#D] 12.4 The Friendly Invasion :P2023_06:1CD:
-***** 12.5 Stone Cold :Weeping_Angels:P2023_06:2CD:
-***** 12.6 The Ghost of Margaret :P2023_06:1CD:
+***** [#D] 12.5 Stone Cold :Weeping_Angels:P2023_06:2CD:
+***** [#B] 12.6 The Ghost of Margaret :P2023_06:1CD:
 **** BF PHP :Leela:
 
 Philip Hinchcliffe Presents
@@ -1551,7 +1553,7 @@ CLOSED: [2022-09-03 Sat 17:41] SCHEDULED: <2022-09-04 Sun>
 【【神秘博士广播剧熟肉】The Lost Stories 601 Return of the Cybermen (Part 1&2) 赛博人的回归-哔哩哔哩】 https://b23.tv/TscHIKq
 【【神秘博士广播剧熟肉】The Lost Stories 601 Return of the Cybermen (Part 3&4) 赛博人的回归-哔哩哔哩】 https://b23.tv/fnaPGbZ
 
-**** LS7.1 The Ark :Sarah:Harry:P2023_06:
+**** [#E] LS7.1 The Ark :Sarah:Harry:P2023_06:
 **** CANCEL [#F] LS7.2 Daleks! Genesis of Terror :Sarah:Harry:P2023_05:
 *** BF misc :BigFinish:
 **** DONE [#C] Night of the Vashta Nerada (7.8) (CDNM #2.1) :P2017:Vashta_Nerada:scripted:no_companion:bilibili:1CD:
@@ -1862,6 +1864,9 @@ https://disk.yandex.ru/d/n_i2CRgIJW0xOw
 *** 2. The Children of the Future :3rd_Dr:Sarah:
 *** 3. Born to Die :6th_Dr:Charley:
 *** 4. In Name Only :War_Dr:
+** Dark Gallifrey
+*** Morbius
+*** The War Master
 * multi-doctor story
 ** IX. The Four Doctors :P2010:
 ** [#D] ST3.1 - Seven to One :🗣:P2011:plot_yes:
