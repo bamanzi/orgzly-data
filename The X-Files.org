@@ -577,6 +577,8 @@ CLOSED: [2023-05-31 Wed 22:15]
 :fringe :  
 :END:
 
+22 episodes
+
 *** DONE [#A] 3x01
 CLOSED: <2024-04-14 Sun 09:59>
 
@@ -625,8 +627,20 @@ CLOSED: [2024-05-18 Sat 18:08] SCHEDULED: <2024-05-18 Sat>
 *** DONE 3x16 Os :MotW:mainline:
 CLOSED: [2024-05-23 Thu 08:31]
 
-*** DONE 3x17 :MotW:mainline:
+*** DONE 3x17 Stowaway :MotW:mainline:
 CLOSED: [2024-05-25 Sat 08:07]
+
+*** DONE 3x18 Bloodline :Fauxlivia:
+CLOSED: [2024-06-03 Mon 08:06]
+
+*** 3x19 Lysergic Acid Diethylamide
+** Fringe S4
+
+22 episodes
+
+** Fringe S5
+
+13 episodes
 
 ** comics :📚:
 *** DONE Fringe (vol.1)

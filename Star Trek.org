@@ -219,7 +219,7 @@ CLOSED: [2022-06-12 Sun 23:15]
 
 **** CANCEL [#E] 3x20. The Way to Eden                   (5.6)
 **** [#D] 3x21. The Cloud Minders                 (7.2)
-**** TODO [#E] 3x22. The Savage Curtain                (6.9) :Kahless:ST2023_06:
+**** TODO [#E] 3x22. The Savage Curtain                (6.9) :Kahless:ST2024_06:
 SCHEDULED: <2023-06-30 Fri>
 
 **** [#B] 3x23. All Our Yesterdays (8.4)
@@ -343,14 +343,13 @@ CLOSED: [2023-06-19 Mon 06:28] SCHEDULED: <2023-06-18 Sun>
 
 Kirk 团队与进取号的起源故事
 
-***** TODO 22-23 Redjac is Back :Jack_the_Ripper:ST2023_06:
-SCHEDULED: <2023-07-01 Sat>
-
+***** TODO 22-23 Redjac is Back :Jack_the_Ripper:ST2024_06:
 **** TOS vol.2 (1988-1996)
-***** 07-12 Best of Captain Kirk :⭐️:BoST:
+***** #07-12 The Trial of James T. Kirk :⭐️:BoST:
 
 IDW Best of Star Trek vol.5
 
+***** LATER #13-15 先贤归来三部曲 :dc_tos_vol2:hanzify:ST2024_12:
 *** Marvel Paramount (1996-1998)
 *** Wildstorm (1999-2001)
 **** DONE All of Me :alternate_universe:
@@ -362,7 +361,9 @@ This story acts as a sequel to the novel /Sarek/ by A.C. Crispin, and as a p
 
 *** IDW
 **** New Visions :photonovel:
-***** Strange New Worlds (Annual 2013) :tv_continuation:
+***** DONE Strange New Worlds (Annual 2013) :tv_continuation:ST2024_06:
+CLOSED: [2024-05-31 Fri 13:58]
+
 ***** LATER 01. The Mirror Cracked :mirror_universe:
 ***** DONE Special: The Cage :tv_based:Pike:
 **** #Romulans
@@ -419,11 +420,16 @@ CLOSED: [2021-02-14 Sun 16:09]
 
 一艘星舰出了事故，进取号只找到了一些残骸。他们去附近一个星球寻找幸存者，却被一个机器人捕获了，然后发现这个机器人以原来那些人为原材料来克隆出新的婴儿
 
-**** _mini
+**** #parallel_universe
 ***** DONE Mirror Images (镜像权路) :mirror_universe:hanzify:
 ***** DONE Hell's Mirror :hanzify:mirror_universe:P2020:Khan:genetically_engineered:
 CLOSED: [2021-02-22 Mon 13:04]
 
+***** READY The Motion Picture - Echoes :P2023:hanzify:
+
+ 原初电影漫画《回声 Echoes》第1期，故事发生在电影1之后，一位神秘客人来到了进取号上。
+
+**** _mini
 ***** Misson's End
 ***** DONE Star Trek II: The Wrath of Khan :movie_adaptation:Khan:
 ***** DONE Star Trek: Khan - Ruling in Hell :movie_continuation:Khan:genetically_engineered:
@@ -488,7 +494,7 @@ CLOSED: [2021-01-11 Mon 14:34]
 ****** DONE [#A] Once a Hero... (DC TOS vol2 #19) 一朝为英雄 :hanzify:
 CLOSED: [2021-01-11 Mon 17:50]
 
-****** LATER DC TOS vol.2 #13-15 先贤归来三部曲 :dc_tos_vol2:hanzify:ST2023_12:
+****** LATER DC TOS vol.2 #13-15 先贤归来三部曲 :dc_tos_vol2:hanzify:ST2024_12:
 ***** DONE IDW STA3: The Gary Seven Collection :Gary_Seven:P2009:
 ****** DONE The Peacekeeper (DC TOS volume 2 #49-50) :P1993:dc_tos_vol2:
 CLOSED: [2021-02-20 Sat 12:49]
@@ -499,7 +505,7 @@ CLOSED: [2021-03-14 Sun 16:10]
 ******* DC TOS volume 2 Annual 1995 :TOS:
 ******* DC TNG volume 2 Annual 1995 :TNG:
 ***** IDW STA5. Best of Captain Kirk :P2009:
-****** LATER [#A] DC TOS volume 2 #7-12 (The Trial of James T. Kirk) :1990:dc_tos_vol2:ST2023_12:
+****** LATER [#A] DC TOS volume 2 #7-12 (The Trial of James T. Kirk) :1990:dc_tos_vol2:ST2024_12:
 ***** IDW STA6. Best of Alternate Universes :P2009:
 ****** TODO The Mirror Universe Saga  (DC TOS vol.1 #09-16) :dc_tos_vol1:P1984:
 SCHEDULED: <2023-06-10 Sat>
@@ -508,17 +514,18 @@ SCHEDULED: <2023-06-10 Sat>
 ****** DONE DC TOS vol.1 #01-04 :P1984:dc_tos_vol1:
 CLOSED: [2021-01-12 Tue 19:43]
 
-****** TODO DC TOS vol.1 #31-32 Maggie's world / Judgement day :dc_tos_vol1:ST2023_06:
-SCHEDULED: <2023-07-01 Sat>
+****** TODO DC TOS vol.1 #31-32 Maggie's world / Judgement day :dc_tos_vol1:ST2024_06:
+SCHEDULED: <2024-06-02 Sun>
 
-***** [#B] STCvol.5 Who Killed Captain Kirk (DC TOS vol.1 48-55) :dc_tos_vol1:
+***** TODO [#B] STCvol.5 Who Killed Captain Kirk (DC TOS vol.1 48-55) :dc_tos_vol1:ST2024_06:
 ***** [#B] Debt of Honor :DC:P1992:
 
 Captain Kirk and the crew of the USS Enterprise find themselves teamed with the Klingons and Romulans to fight a the galactic threat that no government dares admit exists…
 
 **** IDW
 ***** DONE Klingons - Blood Will Tell :IDW:Klingons:hanzify:
-***** LATER New Visions: Strange New Worlds :tv_continuation:
+***** DONE New Visions: Strange New Worlds :tv_continuation:ST2024_06:
+CLOSED: [2024-05-31 Fri 13:58] SCHEDULED: <2024-06-01 Sat>
 
  sequel story to the second pilot, "Where No Man Has Gone Before".
 
@@ -543,7 +550,7 @@ CLOSED: [2023-06-12 Mon 12:51] SCHEDULED: <2023-06-10 Sat>
 CLOSED: [2023-06-12 Mon 13:16]
 
 ***** [#B] Burden of Knowledge :P2010:
-** short stories
+** short stories :📄:
 *** Strange New Worlds II
 **** Triptych
 
@@ -552,7 +559,7 @@ After Kirk fails to correct the timeline in New York City, 1930, two more te
 Connections
 - TOS episode: "The City on the Edge of Forever"
 
-**** DONE The Quick and the Dead
+**** DONE The Quick and the Dead :McCoy:
 CLOSED: [2024-05-20 Mon 22:54]
 
 McCoy struggles to save Kirk from a hyperaccelerated bacterial infection.
@@ -577,7 +584,8 @@ connections:
 - Star Trek IV: The Voyage Home
 - TOS novel: Sarek
 
-**** Doctors Three
+**** DONE Doctors Three :EMH:McCoy:ST2024_06:
+CLOSED: [2024-05-30 Thu 16:43]
 
 Admiral McCoy visits Dr. Zimmerman as he works on perfecting the EMH program
 
@@ -601,7 +609,9 @@ SCHEDULED: <2022-07-24 Sun>
 
 connection: movie 4: The Voyage Home
 
-**** One Last Adventure :DoTI:
+**** One Last Adventure :DTI:
+
+Rogue Department of Temporal Investigations agents Whitmore and Hanson are employed by retired Romulan admiral Korvak, providing him with a 23rd century Romulan warbird and transporting him back in time so he can achieve his ambition to fight and defeat Captain Kirk.
 
 connection: None
 
@@ -1072,7 +1082,9 @@ CLOSED: [2024-05-18 Sat 11:26]
 CLOSED: [2024-05-20 Mon 20:14]
 
 **** CANCEL [#E] 7x14. Sub Rosa            (5.1)
-**** TODO [#A] 7x15. Lower Decks         (8.7)
+**** DONE [#A] 7x15. Lower Decks         (8.7)
+CLOSED: [2024-06-02 Sun 19:38]
+
 **** [#C] 7x16. Thine Own Self      (7.9)
 **** CANCEL [#E] 7x17. Masks               (6.1)
 **** [#E] 7x18. Eye of the Beholder (6.8)
@@ -1140,7 +1152,7 @@ IDW best of star trek vol.2
 **** DONE Operation Assimilation :P1997:Romulans:Borg:Borg_Queen:
 *** WildStorm (1999-2001)
 **** DONE [#B] The Gorn Crisis :2001:TNG:best:
-**** TODO Perchance to Dream :ST2023_06:
+**** TODO Perchance to Dream :ST2024_12:
 SCHEDULED: <2023-07-02 Sun>
 
 **** DONE Embrace the Wolf :Jack_the_Ripper:ST2023_06:
@@ -1229,7 +1241,7 @@ The Q Conflict, The Mirror Broken, DC Originals: TNG #1, Return to Raimon #1
 ***** DONE Mirror Broken :IDW:
 ***** DC TNG #1
 ***** DC TNG vol.2 #1 Return to Raimon
-** short stories
+** short stories :📄:
 *** The Sky's the Limit
 **** "Meet with Triumph and Disaster" by Michael Schuster & Steve Mollmann
 
@@ -1302,7 +1314,8 @@ connections:
 - TNG episode: "The Emissary"
 - DS9 episode: "Trials and Tribble-ations"
 
-**** Reciprocity
+**** DONE Reciprocity :ST2024_06:
+CLOSED: [2024-05-27 Mon 11:36]
 
 Picard sends a return message to the original humanoid race, four billion years in the past.
 
@@ -1311,17 +1324,18 @@ connection:
 
 **** Calculated Risk
 
-Reginald Barclay assists Dr. Katherine Pulaski in isolating a romance-inducing virus.
+Reginald Barclay assists Dr. Katherine Pulaski (TNG s2) in isolating a romance-inducing virus.
 
 connection: None
 
-**** Gods, Fate, and Fractals
+**** LATER Gods, Fate, and Fractals :DTI:
 
 Federation Department of Temporal Investigations agents Marion Dulmur and Gariff Lucsly investigate the eradication of the Maquis from the timeline.
 
 /This story takes place in 2373, stardate 50564.2, largely simultaneously with the events of DS9 episode: "By Inferno's Light"(5x15)./
 
-**** I Am Become Death :Data:
+**** DONE I Am Become Death :Data:ST2024_06:
+CLOSED: [2024-06-03 Mon 17:48] SCHEDULED: <2024-06-01 Sat>
 
 In the far future of an alternate timeline, humanoid life is extinct, replaced by a race of androids begun by Data.
 
@@ -1487,7 +1501,7 @@ CLOSED: [2023-06-25 Sun 18:54] SCHEDULED: <2023-06-25 Sun>
 **** DONE [#C] 5x03. Looking for par'Mach in All the Wrong Places (7.7) :Klingons:
 **** DONE [#C] 5x04. ...Nor the Battle to the Strong (7.7)
 **** [#D] 5x05. The Assignment (7.3)
-**** DONE [#A] 5x06. Trials and Tribble-ations (9.4) :Koloth:
+**** DONE [#A] 5x06. Trials and Tribble-ations (9.4) :Koloth:DTI:
 **** CANCEL [#E] 5x07. Let He Who Is Without Sin... (5.6)
 **** DONE [#C] 5x08. Things Past (7.6)
 **** DONE [#C] 5x09. The Ascent (7.6)
@@ -1773,7 +1787,9 @@ CLOSED: [2023-06-29 Thu 13:21]
 sequel to /Blood Oath/
 
 **** miniseries
-***** LATER 9a. Hearts and Minds (Jun. 1994)
+***** DONE 9a. Hearts and Minds (Jun. 1994) :ST2024_06:
+CLOSED: [2024-05-27 Mon 13:50]
+
 ***** The Maquis Soldier of Peace
 **** single
 ***** DONE Lightstorm :ST2023_06:
@@ -1804,9 +1820,7 @@ CLOSED: <2021-03-06 Sat 20:23>
 ***** DONE 05 The Shadow Group :ST2023_06:
 CLOSED: [2023-07-02 Sun 15:49] SCHEDULED: <2023-06-30 Fri>
 
-***** TODO 06-07 Risk :ST2023_06:
-SCHEDULED: <2023-07-06 Thu>
-
+***** TODO 06-07 Risk :ST2024_06:
 ***** 08-09 Public Enemies, Private Lives
 ***** 10 Lwaxana Troi and the Wedding of Doom
 ***** 11 Four Funerals and a Wedding
@@ -1828,6 +1842,9 @@ CLOSED: [2021-02-20 Sat 13:13]
 **** 2DONE Fool's Gold :2010:
 **** DONE Too Long a Sacrifice (2020) :hanzify:
 CLOSED: [2021-01-18 Mon 22:11]
+
+**** DONE The Dog of War :P2023:ST2024_06:
+CLOSED: [2024-05-29 Wed 19:20]
 
 ** short stories :📄:
 *** The Lives of Dax
@@ -1859,8 +1876,8 @@ The Romulan emperor is murdered, just as Romulus enters the Dominion War.
 **** "Requital," by Michael A. Martin & Andy Mangels
 **** The Dominion War Timeline, compiled by Keith R.A. DeCandido
 *** Strange New Worlds II
-**** TODO Research
-SCHEDULED: <2024-05-26 Sun>
+**** DONE Research :ST2024_06:
+CLOSED: [2024-05-27 Mon 14:39] SCHEDULED: <2024-05-26 Sun>
 
 The time-travelling researcher for Star Trek: Deep Space Nine explains her reasons for quitting.
 
@@ -1989,7 +2006,7 @@ CLOSED: [2022-07-08 Fri 19:57] SCHEDULED: <2022-07-09 Sat>
 **** DONE [#D] 1x16 Learning Curve
 CLOSED: [2022-07-09 Sat 12:06] SCHEDULED: <2022-07-16 Sat>
 
-*** DOING VOY S2 :Y2372:
+*** VOY S2 :Y2372:ST2024_06:
 
 26 issues
 
@@ -2058,10 +2075,16 @@ CLOSED: [2024-05-22 Wed 21:27]
 **** DONE [#C] 2x24. Tuvix				 (7.7)
 CLOSED: [2024-05-26 Sun 12:08]
 
-**** [#C] 2x25. Resolutions			 (7.5)
-**** [#C] 2x26. Basics: Part I		(7.9)
+**** DONE [#C] 2x25. Resolutions			 (7.5)
+CLOSED: [2024-05-27 Mon 21:17]
+
+**** DONE [#C] 2x26. Basics: Part I		(7.9)
+CLOSED: [2024-05-31 Fri 20:15]
+
 *** VOY S3 :Y2373:
-**** [#B] 3x01. Basics: Part II       (8.0)
+**** DONE [#B] 3x01. Basics: Part II       (8.0) :ST2024_06:
+CLOSED: [2024-05-31 Fri 21:03]
+
 **** DONE [#C] 3x02. Flashback			   (7.9) :Sulu:Kang:Excelsior:ST2023_06:
 CLOSED: [2023-07-01 Sat 16:54] SCHEDULED: <2023-07-02 Sun>
 
@@ -2234,9 +2257,8 @@ CLOSED: [2022-07-29 Fri 20:17] SCHEDULED: <2022-07-30 Sat>
 ***** DONE 1. The Storm / 2. Under Ion Skies / 3. Repercussions :Y2372:ST2023_06:
 CLOSED: [2023-07-02 Sun 21:56]
 
-***** TODO 4-5. Homeostasis :ST2023_06:
-SCHEDULED: <2023-07-06 Thu>
-
+***** TODO 4-5. Homeostasis :ST2024_12:
+***** ...
 ***** 9. Dead zone :Y2374:
 **** Star Trek Voyager - Splashdown (1998) :Y2374:
 *** WildStorm (1999-2001)
@@ -2254,13 +2276,37 @@ CLOSED: [2023-06-17 Sat 12:07] SCHEDULED: <2023-06-17 Sat>
 **** DONE Voyager - Seven's Reckoning :Prime_Directive:Y2374:2020:hanzify:ST2023_06:
 CLOSED: [2023-06-27 Tue 13:14] SCHEDULED: <2023-06-30 Fri>
 
-** short stories
+** short stories :📄:
 *** Strange New Worlds II
-**** [#A] "A Ribbon for Rosie" by Ilsa J. Bick (Grand Prize) :VOY:
-**** "Touched" by Kim Sheard :VOY:
-**** "Almost... But Not Quite" by Dayton Ward :VOY:
-**** "The Healing Arts" by E. Cristy Ruteshouser and Lynda Martinez Foley :VOY:
-**** "Seventh Heaven" by Dustan Moon :VOY:
+**** DONE [#A] "A Ribbon for Rosie" by Ilsa J. Bick (Grand Prize) :Seven_of_Nine:ST2024_06:
+CLOSED: [2024-05-28 Tue 12:49] SCHEDULED: <2024-05-31 Fri>
+
+Five-year-old Annika Hansen is visited by a woman from the future who calls herself "Seven".
+
+connection:
+- VOY episode: "The Raven"
+
+
+**** DONE "Touched" by Kim Sheard :ST2024_06:
+CLOSED: <2024-05-31 Fri 11:49> SCHEDULED: <2024-05-31 Fri>
+
+A young alien girl is inspired by an encounter with Chakotay and B'Elanna Torres to become a science fiction writer
+
+**** LATER "Almost... But Not Quite" by Dayton Ward :DTI:
+**** "The Healing Arts" by E. Cristy Ruteshouser and Lynda Martinez Foley :EMH:McCoy:
+
+The Doctor consults a holographic version of Leonard McCoy to treat an empathic healer.
+
+**** "Seventh Heaven" by Dustan Moon :Seven_of_Nine:Borg:
+
+Seven of Nine is approached by Hugh with an offer to join his society of individualized Borg.
+
+connections:
+- TNG episode: "I, Borg"
+- TNG episode: "Descent"
+
+
+
 *** Strange New Worlds IV
 **** "Iridium-7-Tetrahydroxate Crystals Are a Girl's Best Friend" by Bill Stuart :VOY:
 **** "Uninvited Admirals" by Penny A. Proctor :VOY:
@@ -2478,8 +2524,12 @@ CLOSED: [2024-05-18 Sat 12:30]
 **** DONE 4x11
 CLOSED: [2024-05-18 Sat 15:30]
 
-**** 4x12
-**** 4x13
+**** DONE 4x12
+CLOSED: [2024-05-27 Mon 20:16]
+
+**** DONE 4x13
+CLOSED: [2024-05-29 Wed 20:34]
+
 ** comics :IDW:📚:
 *** 2DONE Discovery: The Light of Kahless (卡勒斯之光) :hanzify:Kahless:Klingons:
 *** 2DONE Discovery: Succession (继位) :mirror_universe:hanzify:
@@ -2649,8 +2699,10 @@ CLOSED: [2022-07-16 Sat 07:50] SCHEDULED: <2022-07-24 Sun>
 **** DONE 09. One of a Kind
 CLOSED: <2022-07-20 Wed 01:04> SCHEDULED: <2022-07-31 Sun>
 
-**** TODO 10-11. The Fallen :ST2023_12:
-**** TODO 12. Futures :Una:ST2023_12:
+**** TODO 10-11. The Fallen :ST2024_06:
+**** TODO 12. Futures :Una:
+**** ...
+**** 17.
 *** Star Trek: Crew :Una:P2009:
 
 The five-issue miniseries from John Byrne charts the early career of Number One.
@@ -2689,7 +2741,7 @@ CLOSED: [2022-06-05 Sun 12:34]
 *** Prodigy (2021)
 ** comics :📚:
 *** DC Comics
-**** [#B] Modala Imperative (TOS+TNG) :TOS:TNG:P1991:ST2023_12:
+**** [#B] Modala Imperative (TOS+TNG) :TOS:TNG:P1991:ST2024_12:
 *** DONE 2.5 TNG+DS9 crossover (DC+Malibu) :P1994:TNG:DS9:crossover:
 CLOSED: [2021-01-21 Thu 19:34]
 
@@ -2698,7 +2750,8 @@ CLOSED: [2021-01-21 Thu 19:34]
 **** New Frontier: Double Time :NF:
 **** Special :hanzify:mix:
 *** 6. IDW :idw:
-**** Star Trek (IDW 2022) :Y2378:
+**** Star Trek (IDW 2022) :Y2378:hanzify:
+***** _info
 
 https://memory-beta.fandom.com/wiki/Star_Trek_(IDW_2022)
 
@@ -2718,10 +2771,28 @@ https://intl.startrek.com/news/new-era-star-trek-comics
 
 故事发生在电影9之后，希斯科回到常态世界接任了新船“忒休斯号”指挥权，在这艘船上，数据（带着他的猫）担任大副，派瑞斯担任舵手，贝芙莉担任医官，以及，斯考提担任轮机长！
 
-**** Defiant (2023)
+***** DONE #1-6 Godshock :ST2024_06:
+CLOSED: [2024-06-05 Wed 09:02]
+
+***** DONE #7-10 Redpath :ST2024_06:
+CLOSED: [2024-06-06 Thu 08:44] SCHEDULED: <2024-06-09 Sun>
+
+**** Defiant (2023) :Y2378:hanzify:
 
  漫画新系列《挑战号》第1期发布！本刊是正在连载的新主刊的衍生故事，故事紧接在主刊第5期之后，又是全明星阵容，集结了史波克、沃尔夫、罗·拉伦、贝拉娜和Lore，为了完成一项特殊的任务。
 
+***** TODO Defiant vol.1 (#1-5) :ST2024_06:
+SCHEDULED: <2024-06-09 Sun>
+
+**** READY Day of Blood :crossover:hanzify:ST2024_12:
+
+漫画《鲜血之日 Day of Blood》第1期发布，本刊故事承接新主刊第10期和《挑战号》第5期。
+
+***** Day of Blood
+***** Defiant #6
+***** Star Trek (2023) #11
+***** Defiant #7
+***** Star Trek (2023) #12
 **** _mix
 ***** Alien Spotlight 聚焦外星人 :hanzify:
 ****** DONE Klingons: Four Thousand Throats... :Kang:Klingons:ST2023_06:
@@ -2767,7 +2838,7 @@ CLOSED: [2021-01-13 Wed 12:45]
 ***** Star Trek: New Frontier
 ***** DONE Assignment Earth :Gary_Seven:P2008:
 **** crossovers
-***** The Next Generation/Doctor Who: Assimilation2 :doctor_who:11D:tng:
+***** The Next Generation/Doctor Who: Assimilation2 :doctor_who:11th_Dr:tng:
 ***** Star Trek/Planet of the Apes
 ***** Star Trek/Green Lantern: The Spectrum War （光谱战争） :hanzify:
 ***** Star Trek/Green Lantern Volume 2: Stranger Worlds (陌界生人)
@@ -2977,7 +3048,9 @@ CLOSED: [2024-05-13 Mon 22:38]
 **** DONE [#B] 3x08 Midnight Blue
 CLOSED: [2024-05-26 Sun 11:52]
 
-**** TODO [#A] 3x09 Domino
+**** DONE [#A] 3x09 Domino
+CLOSED: [2024-06-01 Sat 21:42]
+
 **** TODO [#B] 3x10 Future Unknown
 ** comics :📚:
 *** Orville S1.5

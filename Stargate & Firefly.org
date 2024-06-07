@@ -32,7 +32,7 @@ https://en.m.wikipedia.org/wiki/Firefly_(Boom!_Studios_comics)
 CLOSED: [2021-07-11 Sun 15:34]
 
 *** 2020
-**** DONE The Outlaw Ma Reynolds
+**** DONE The Outlaw Ma Reynolds :oneshot:
 **** DONE New Sheriff in the 'Verse (#13-20) :ongoing:
 CLOSED: <2021-07-29 Thu 12:48>
 
@@ -655,24 +655,17 @@ CLOSED: <2023-07-06 Thu 08:11> SCHEDULED: <2023-07-09 Sun>
 **** DONE 2x20 Lay Down Your Burdens, Part II
 CLOSED: [2023-07-07 Fri 20:46] SCHEDULED: <2023-07-09 Sun>
 
-*** DONE The Plan
+*** DONE The Plan :P2009:
 CLOSED: [2022-06-05 Sun 22:44] SCHEDULED: <2022-06-05 Sun>
 
 Set during the events from the Miniseries to Season 2's /"Lay Down Your Burdens, Part II (2x20),"/ this story is told from the Cylons' perspective, centering on two distinct Cavil copies as they try to fulfill the Cylons' plan.
 
-*** Razer
-
- 建议在2x17之后观看
-
-在看完第三季之前不要看最后10分钟
-
-**** Razer: Flashback
 *** DONE The Resistance (10集短篇)
 CLOSED: [2023-07-08 Sat 20:10] SCHEDULED: <2023-07-16 Sun>
 
 这部网络剧的作用是连接第二季和第三季，有 1 到 10 的合集版，十分推荐
 
-*** DOING 📂BSG S3 (20 eps) :P2006:
+*** 📂BSG S3 (20 eps) :P2006:
 **** DONE 3x01 Occupation
 CLOSED: [2023-07-10 Mon 08:02] SCHEDULED: <2023-07-16 Sun>
 
@@ -727,9 +720,22 @@ CLOSED: [2023-08-06 Sun 16:13]
 **** DONE 3x18
 CLOSED: [2023-08-08 Tue 18:48]
 
-**** 3x19
-**** 3x20
+**** DONE 3x19
+CLOSED: [2024-06-03 Mon 20:22]
+
+**** DONE 3x20
+CLOSED: [2024-06-04 Tue 07:56]
+
+*** DONE Razer :P2007:
+CLOSED: [2024-06-06 Thu 18:43]
+
+ 建议在2x17之后观看
+
+在看完第三季之前不要看最后10分钟
+
+**** Razer: Flashback
 *** 📂BSG S4 (20 eps) :P2008:
+**** 4x01
 *** The Face of the Enemy (10集短篇)
 *** Caprica (前传，18集)
 *** Blood & Chrome
@@ -768,15 +774,15 @@ https://en.battlestarwiki.org/Battlestar_Galactica:_Pegasus
 The story is obviously set within the two-year span where humanoid Cylon infiltration began, likely within a year prior to /the Fall of the Twelve Colonies/ based on comments at the start of the story from a Number Six, Simon and Number Five.
 
 *** Tales from the Fleet Omnibus
-**** Ghosts (4 issues)
+**** Ghosts (4 issues) :P2008:
 
 This 2008 four issue mini-series consists of new characters outside of the Battlestar Galactica "mainstream" who are part of the /Ghost Squadron/, a black-ops team struggling to survive after the wake of the /Fall of the Twelve Colonies/.
 
-**** Cylon War (4 issues)
+**** Cylon War (4 issues) :P2009:
 
 This four issue 2009 mini-series tells the tale of the /Cylon War/ decades before the /Fall of the Twelve Colonies/.
 
-**** The Final Five (4 issues)
+**** The Final Five (4 issues) :P2009:
 
 This four issue 2009 event ties directly into the events of the final episodes of the Re-imagined Series.
 
@@ -1055,6 +1061,12 @@ CLOSED: [2023-08-25 Fri 23:21]
 CLOSED: [2023-08-26 Sat 20:08]
 
 ****** 2x09/10
+****** DONE 2x11
+CLOSED: <2024-06-04 Tue 18:29>
+
+****** DONE 2x12 The Mandalore Plot :Mandalorian:
+CLOSED: [2024-06-04 Tue 18:56]
+
 ***** season 3 (22 eps) :P2010:21BBY:20BBY:
 
 22–21–20 BBY
@@ -1213,9 +1225,11 @@ Vader 与 Ahsoka 终于得对战一场
 ***** season 4 (16 eps) :P2017:
 ****** 4x07 Kindred :World_Between_Worlds:
 ****** 4x13 A World Between Worlds :World_Between_Worlds:
-**** Forces of Destiny (2017-2018)
+**** CANCEL Forces of Destiny (2017-2018)
 
 TIMELINE: Across the prequel trilogy, original trilogy, and sequel trilogy[1]
+
+CANCEL: 低幼向
 
 ***** season 1 (18 eps) :P2017:
 ***** season 2 (18 eps) :P2018:
@@ -1450,7 +1464,7 @@ CLOSED: [2023-07-23 Sun 15:16]
 - Star Wars: Zam Wesell
 
 **** 2. 克隆人进攻
-***** TBR epic collection: The Menace Revealed Vol. 4 :P2024_01:
+***** epic collection: The Menace Revealed Vol. 4 :P2024_01:
 
 - The Bounty Hunters: Aurra Sing
 - Starfighter: Crossbones #1-3
