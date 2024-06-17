@@ -734,8 +734,32 @@ CLOSED: [2024-06-06 Thu 18:43]
 在看完第三季之前不要看最后10分钟
 
 **** Razer: Flashback
-*** 📂BSG S4 (20 eps) :P2008:
-**** 4x01
+*** DOING 📂BSG S4 (20 eps) :P2008:
+**** DONE 4x01
+CLOSED: [2024-06-07 Fri 18:41]
+
+**** DONE 4x02
+CLOSED: [2024-06-08 Sat 09:44]
+
+**** DONE 4x03
+CLOSED: [2024-06-08 Sat 10:30]
+
+**** DONE 4x04
+CLOSED: [2024-06-11 Tue 20:23]
+
+**** DONE 4x05
+CLOSED: [2024-06-12 Wed 21:20]
+
+**** DONE 4x06
+CLOSED: <2024-06-13 Thu 18:39>
+
+**** DONE 4x07
+CLOSED: [2024-06-14 Fri 22:25]
+
+**** DONE 4x08
+CLOSED: [2024-06-17 Mon 08:17]
+
+**** 4x09
 *** The Face of the Enemy (10集短篇)
 *** Caprica (前传，18集)
 *** Blood & Chrome
@@ -948,7 +972,12 @@ CLOSED: [2023-08-04 Fri 16:05]
 
 https://starwars.fandom.com/wiki/Ahsoka_(television_series)?so=search
 
-Set after the fall of the Empire, /Ahsoka/ follows the former Jedi knight Ahsoka Tano as she investigates an emerging threat to a vulnerable galaxy.[9]
+Set after the fall of the Empire, /Ahsoka/ follows the former Jedi knight Ahsoka Tano as she investigates an emerging threat to a vulnerable galaxy.
+
+剧情衔接 /Star Wars: Rebels/
+
+***** DONE 1x01
+CLOSED: [2024-06-10 Mon 22:07]
 
 ***** 1x04 Fallen Jedi :World_Between_Worlds:
 **** Obi-Wan Kenobi 欧比旺
@@ -964,10 +993,26 @@ https://starwars.fandom.com/wiki/Obi-Wan_Kenobi_(television_series)?so=search
 
 https://starwars.fandom.com/wiki/Andor_(television_series)?so=search
 
-***** LATER [#A] season 1 (12 eps) :P2022_09:
+***** DOING [#A] 📂season 1 (12 eps) :P2022_09:
+****** DONE 1x01
+CLOSED: [2024-06-12 Wed 20:09]
+
+****** DONE 1x02
+CLOSED: [2024-06-14 Fri 20:22]
+
+****** DONE 1x03
+CLOSED: [2024-06-15 Sat 23:44]
+
+****** DONE 1x04
+CLOSED: <2024-06-16 Sun 10:08>
+
+****** DONE 1x05
+CLOSED: [2024-06-16 Sun 12:04]
+
+****** NOW 1x06 :10BBY:
 ***** season 2
-**** The Acolyte :132BBY:
-**** Lando
+**** The Acolyte :132BBY:P2024:
+**** TBR Lando :P2030:
 **** Rangers of the New Republic
 *** tv (canon, animated) :animated:
 **** The Clone Wars (2008-2014)
@@ -996,13 +1041,13 @@ CLOSED: [2023-07-22 Sat 22:31]
 
 The film chronologically takes place between the Season One episode /The Hidden Enemy/ (1x16) and Season Three episode /Clone Cadets/ (3x01)
 
-****** DONE [#A] 3x01 Clone Cadets
+****** DONE [#A] 3x01 Clone Cadets :Clone_Soldier:
 CLOSED: [2023-08-14 Mon 20:11]
 
 ****** DONE 3x03 Supply Lines
 CLOSED: [2023-08-14 Mon 22:56]
 
-***** DONE season 1 (22 eps) :P2008:22BBY:
+***** DONE 📂season 1 (22 eps) :P2008:22BBY:
 ****** DONE 1x01 Ambush :Yoda:Ventress:
 CLOSED: [2023-07-22 Sat 23:08]
 
@@ -1036,7 +1081,7 @@ CLOSED: [2023-08-07 Mon 20:12]
 ****** DONE [#B] 1x19/20/21 Innocents of Ryloth
 CLOSED: [2023-08-09 Wed 21:41]
 
-***** DOING season 2 (22 eps) :P2009:22BBY:
+***** DONE 📂season 2 (22 eps) :P2009:22BBY:
 ****** DONE 2x01/02/03 :Cad_Bane:
 CLOSED: [2023-08-14 Mon 12:58]
 
@@ -1060,34 +1105,58 @@ CLOSED: [2023-08-25 Fri 23:21]
 ****** DONE 2x07/08
 CLOSED: [2023-08-26 Sat 20:08]
 
-****** 2x09/10
+****** DONE 2x09 Grievous Intrigue :Grievous:
+CLOSED: <2024-06-09 Sun 10:11>
+
+****** DONE 2x10 The Deserter :Clone_Soldier:
+CLOSED: [2024-06-09 Sun 23:59]
+
 ****** DONE 2x11
 CLOSED: <2024-06-04 Tue 18:29>
 
-****** DONE 2x12 The Mandalore Plot :Mandalorian:
-CLOSED: [2024-06-04 Tue 18:56]
+****** DONE 2x12/13/14 The Mandalore Plot / Voyage of Temptation / Duchess of Mandalore :Mandalorian:
+CLOSED: [2024-06-09 Sun 11:46]
 
-***** season 3 (22 eps) :P2010:21BBY:20BBY:
+****** DONE 2x20 Death Trap :Boba_Fett:
+CLOSED: [2024-06-11 Tue 07:49]
+
+****** DONE 2x21 :Boba_Fett:R2_D2:Aurra_Sing:
+CLOSED: [2024-06-11 Tue 08:12]
+
+****** DONE 2x22 :Boba_Fett:Aurra_Sing:
+CLOSED: [2024-06-11 Tue 08:40]
+
+***** DOING 📂TCW season 3 (22 eps) :P2010:21BBY:20BBY:
 
 22–21–20 BBY
 
-****** 3x05
-****** 3x06
-****** 3x07
-****** DONE 3x02 ARC Troopers :Grievous:Ventress:
+****** DONE 3x05/06 Corruption / The Academy
+CLOSED: [2024-06-13 Thu 08:26]
+
+****** DONE 3x07 Assassin :Aurra_Sing:
+CLOSED: [2024-06-14 Fri 19:46]
+
+****** DONE 3x02 ARC Troopers :Grievous:Ventress:Kamino:
 CLOSED: [2023-08-14 Mon 22:04]
 
-****** 3x04 Sphere of Influence
-****** 3x08
-****** DONE [#A] 1x22 Hostage Crisis :Cad_Bane:
+****** DONE 3x04 Sphere of Influence
+CLOSED: [2024-06-15 Sat 12:19]
+
+****** DONE 3x08 Evil Plans :Cad_Bane:C3PO:R2_D2:
+CLOSED: [2024-06-15 Sat 19:19]
+
+****** DONE [#A] 1x22 Hostage Crisis :Cad_Bane:Aurra_Sing:
 CLOSED: [2023-08-10 Thu 08:14]
 
-****** 3x09
-****** 3x10
-****** 3x11
-****** 2x15 Senate Murders
+****** DONE 3x09 Hunt for Ziro :Cad_Bane:Quinlan_Vos:
+CLOSED: [2024-06-15 Sat 20:55]
+
+****** DONE 3x10/3x11/2x15 Heroes on Both Sides / Pursuit of Peace / Senate Murders
+CLOSED: [2024-06-16 Sun 17:48]
+
 ****** 3x12
-***** season 4 (22 eps) :P2011:20BBY:
+****** 3x13..3x22
+***** 📂season 4 (22 eps) :P2011:20BBY:
 ****** 4x14 A Friend in Need :Bo_Katan:
 ***** season 5 (20 eps) :P2012:19BBY:
 ****** 5x14 Eminence :Bo_Katan:
@@ -1097,6 +1166,18 @@ CLOSED: [2023-08-10 Thu 08:14]
 ***** season 6 (13 eps) :P2014:
 ***** season 7 (12 eps) :P2020:
 ****** 7x07 Dangerous Debt :Bo_Katan:
+**** The Bad Batch (2021- ) 残次品/异等小队 :19BBY:
+
+讲述了“残次品”的精英和实验性克隆人在克隆人战争刚结束时，在迅速变化的银河系中寻找自己的方向。“残次品”成员是一支独特的克隆人队伍，他们在基因上与克隆人军队中的兄弟不同，每个人都拥有一种独特的特殊技能，使他们成为特殊的士兵和可怕的船员。
+
+***** LATER The Bad Batch s1 :P2021:
+
+(16 eps)
+
+***** The Bad Batch s2 :P2023:
+
+(16 eps)
+
 **** Rebels (2014-2018) 义军崛起
 
 5 BBY - 0 BBY
@@ -1225,7 +1306,7 @@ Vader 与 Ahsoka 终于得对战一场
 ***** season 4 (16 eps) :P2017:
 ****** 4x07 Kindred :World_Between_Worlds:
 ****** 4x13 A World Between Worlds :World_Between_Worlds:
-**** CANCEL Forces of Destiny (2017-2018)
+**** CANCEL [#E] Forces of Destiny (2017-2018)
 
 TIMELINE: Across the prequel trilogy, original trilogy, and sequel trilogy[1]
 
@@ -1233,7 +1314,7 @@ CANCEL: 低幼向
 
 ***** season 1 (18 eps) :P2017:
 ***** season 2 (18 eps) :P2018:
-**** Resistance (2018-2020) 抵抗组织
+**** CANCEL [#E] Resistance (2018-2020) 抵抗组织
 
 34ABY-35ABY
 
@@ -1246,18 +1327,6 @@ CANCEL: 低幼向
 
 ***** season 1 (36 eps) :P2018:
 ***** season 2 (18 eps) :P2019:
-**** The Bad Batch (2021- ) 残次品/异等小队 :19BBY:
-
-讲述了“残次品”的精英和实验性克隆人在克隆人战争刚结束时，在迅速变化的银河系中寻找自己的方向。“残次品”成员是一支独特的克隆人队伍，他们在基因上与克隆人军队中的兄弟不同，每个人都拥有一种独特的特殊技能，使他们成为特殊的士兵和可怕的船员。
-
-***** LATER The Bad Batch s1 :P2021:
-
-(16 eps)
-
-***** The Bad Batch s2 :P2023:
-
-(16 eps)
-
 **** Visions 幻境 (2021- )
 ***** Visions S1 :P2021:
 
@@ -1441,11 +1510,11 @@ https://starwars.fandom.com/wiki/Star_Wars_Legends_Epic_Collection:_The_Menace_R
 - Star Wars Tales #13
 - Aurra's Song (Annual 2000)
 
-****** DONE [#C] Twilight (Star Wars (1998) #19-22)
+****** DONE [#C] Twilight (Star Wars (1998) #19-22) :Quinlan_Vos:
 
 Quinlan Vos 失去了记忆，他要去找回来
 
-****** DONE [#C] Infinity's End (Star Wars (1998) #23-27) :hanzify:
+****** DONE [#C] Infinity's End (Star Wars (1998) #23-26) :hanzify:Quinlan_Vos:
 CLOSED: [2023-07-23 Sun 07:54]
 
 Dathomir 的女巫在挖掘一种传送门，绝地团派 Quinlan Vos 去阻止她们
@@ -1453,7 +1522,8 @@ Dathomir 的女巫在挖掘一种传送门，绝地团派 Quinlan Vos 去阻止�
 ****** DONE [#C] The Hunt for Aurra Sing (Star Wars (1998) #28-31)
 CLOSED: [2023-07-23 Sun 15:16]
 
-***** epic collection: The Menace Revealed Vol. 3 :P2023:
+***** 2DONE epic collection: The Menace Revealed Vol. 3 :P2023:
+CLOSED: [2024-06-14 Fri 12:40]
 
 - Star Wars: Republic (1998)
   - #36-39 The Stark Hyperspace War
@@ -1463,22 +1533,36 @@ CLOSED: [2023-07-23 Sun 15:16]
 - Star Wars: Jango Fett
 - Star Wars: Zam Wesell
 
+****** Star Wars: Republic #36-45 :Quinlan_Vos:
+****** DONE Jango Fett :Jango_Fett:Boba_Fett:oneshot:
+CLOSED: [2024-06-13 Thu 19:30]
+
+27 BBY
+
+****** Zam Wesell :Jango_Fett:
+
+27 BBY
+
 **** 2. 克隆人进攻
-***** epic collection: The Menace Revealed Vol. 4 :P2024_01:
+***** NOW epic collection: The Menace Revealed Vol. 4 :P2024_01:
 
 - The Bounty Hunters: Aurra Sing
 - Starfighter: Crossbones #1-3
 - Free Comic Book Day 2002
 - Republic #46-48
 - Star Wars: Episode II — Attack of the Clones #1-4
-- Full of Surprises
-- Most Precious Weapon
-- Practice Makes Perfect
-- Machines of War
+- Star Wars: Hasbro/Toyrus Exclusive #1-4
 - "Poison Moon"—Dark Horse Extra 44–47
 - material from Star Wars Tales 2, 7, 14, 18, 20, & 24
 
 ****** Star Wars: Episode II — Attack of the Clones
+****** Hasbro/Toyrus Exclusive
+
+- Full of Surprises
+- Most Precious Weapon
+- Practice Makes Perfect
+- Machines of War
+
 ***** DONE epic collection: The Clone Wars vol.1 :22BBY:
 CLOSED: [2023-09-03 Sun 14:02]
 
@@ -1551,6 +1635,20 @@ CLOSED: [2023-08-29 Tue 14:02]
 
 19BBY
 
+***** epic collection: The Empire Vol. 4
+****** Darth Vader and the Cry of Shadows #1-4
+****** Star Wars Tales #11, #18, #20...
+****** Jabba the Hutt
+****** DONE [#B] Boba Fett: Enemy of the Empire (1999)
+CLOSED: [2022-04-30 Sat 20:21]
+
+3BBY
+
++block：getcomics上无相关TPB，只找到 epic collection The Empire Vol. 4+
+
+***** epic collection: The Empire Vol. 5
+****** Droids (1994) #0-6
+****** Droids (1995) #1-8
 ***** misc
 ****** Blood Ties: A Tale of Jango and Boba Fett (2010)
 
@@ -1560,13 +1658,6 @@ CLOSED: [2023-08-29 Tue 14:02]
 ***** Empire (2002) :hanzify:
 ***** Rebellion (2006)
 ***** Star Wars (2013)
-***** DONE Boba Fett: Enemy of the Empire (1999)
-CLOSED: [2022-04-30 Sat 20:21]
-
-3BBY
-
-+block：getcomics上无相关TPB，只找到 epic collection The Empire Vol. 4+
-
 ***** DONE [#B] Rebel Heist (2014, Dark Horse)
 CLOSED: [2022-05-01 Sun 12:57] SCHEDULED: <2022-05-05 Thu>
 
@@ -1667,45 +1758,69 @@ c. 32 BBY
 
 ***** between movie 1-2
 ****** TODO Obi-Wan and Anakin
-SCHEDULED: <2023-07-31 Mon>
+SCHEDULED: <2024-06-22 Sat>
 
 29 BBY
 
+****** TODO Jedi of the Republic – Mace Windu :hanzify:
+SCHEDULED: <2024-06-22 Sat>
+
+22 BBY
+
 ***** between movie 3 & 4
-****** Jedi of the Republic – Mace Windu :hanzify:
-****** Jedi Fallen Order - Dark Temple
-
-a prequel to the Respawn Entertainment video game /Star Wars Jedi: Fallen Order/. 
-
 ****** Darth Vader v2: Dark Lord of the Sith (2017-2018)
 
 19 BBY-12 BBY
 
 Beginning during the events of /Star Wars: Episode III Revenge of the Sith/ directly after Darth Vader discovers that his wife, Padmé Amidala, has died, the series chronicles Vader going on various missions across the galaxy, all the while hunting the few surviving Jedi alongside his band of dark side apprentices known as the /Inquisitorius/. 
 
+****** Jedi Fallen Order - Dark Temple
+
+a prequel to the Respawn Entertainment video game /Star Wars Jedi: Fallen Order/. 
+
+14 BBY
+
 ***** Age of Republic
 **** Star Wars Rebels
 
 link: https://www.starwars.com/news/a-guide-to-star-wars-rebels-books-and-comics
 
-***** Kanan: The Last Padawan
+***** Kanan
+****** DONE Kanan #1-6: The Last Padawan :Order66:
+CLOSED: <2024-06-16 Sun 23:02>
 
-32BBY
+19 BBY & 4 BBY
 
 It takes place during /Order 66/
 
-***** Kanan: Firt Blodd
+****** NOW Kanan #7-12: Firt Blodd
 
-22BBY
+4 BBY
 
 It depicts Kanan's first foray into the Clone Wars
 
-***** Thrawn :P2018:
+***** Thrawn
 
-/Star Wars: Thrawn/ is a canon comic book miniseries adapting the novel of the same name (2017开始的新三部曲，与原三部曲不是一回事）. It was written by Jody Houser, illustrated by Luke Ross, and published by Marvel Comics on February 14, 2018, running until July 11, 2018. 
+/Star Wars: Thrawn/ is a canon comic book miniseries adapting the novel of the same name (2017开始的新三部曲小说，与原三部曲不是一回事）. 
 
-The limited comic series takes place between /Star Wars: Episode III Revenge of the Sith/ and /Star Wars: Episode IV A New Hope/,
+****** NOW Thrawn :P2018:
+
+It was written by Jody Houser, illustrated by Luke Ross, and published by Marvel Comics on February 14, 2018, running until July 11, 2018. 
+
+The limited comic series takes place between /Star Wars: Episode III Revenge of the Sith/ and /Star Wars: Episode IV A New Hope/, _it leads right into /Star Wars: Rebels season 3/ with /Steps Into Shadow (episodes 3.01 and 3.02)/_,
 and follows the life of /Mitth'raw'nuruodo/, Thrawn as he rises through the ranks of the Galactic Empire and makes many friends---and foes---alike.
+
+****** Thrawn - Alliances :P2024:
+
+Set between the third and fourth seasons of the animated television show /Star Wars Rebels/.
+
+****** TBR Thrawn: Treason
+
+set between the /Star Wars Rebels/ episodes "Rebel Assault"(4x09) and "Family Reunion – and Farewell."(4x15)
+
+***** Rogue One Adaptation
+
+13 BBY–1 BBY
 
 **** 正传三部曲相关
 ***** before movie 4

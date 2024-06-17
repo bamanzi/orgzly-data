@@ -2781,7 +2781,7 @@ CLOSED: [2024-06-06 Thu 08:44] SCHEDULED: <2024-06-09 Sun>
 
  漫画新系列《挑战号》第1期发布！本刊是正在连载的新主刊的衍生故事，故事紧接在主刊第5期之后，又是全明星阵容，集结了史波克、沃尔夫、罗·拉伦、贝拉娜和Lore，为了完成一项特殊的任务。
 
-***** TODO Defiant vol.1 (#1-5) :ST2024_06:
+***** TODO Defiant vol.1 (#1-5) :ST2024_12:
 SCHEDULED: <2024-06-09 Sun>
 
 **** READY Day of Blood :crossover:hanzify:ST2024_12:
@@ -3052,6 +3052,9 @@ CLOSED: [2024-05-26 Sun 11:52]
 CLOSED: [2024-06-01 Sat 21:42]
 
 **** TODO [#B] 3x10 Future Unknown
+
+部分情节与 1x07 相关
+
 ** comics :📚:
 *** Orville S1.5
 **** DONE New Beginning 新的开始 :hanzify:
@@ -3073,8 +3076,21 @@ CLOSED: [2021-03-26 Fri 23:49]
 - 全文： https://wu-danielle.bearblog.dev/myrutxdrpq/?continueFlag=5dbaf60ab342f4c66f75fcac04bb192d
 
 * For All Mankind
-** DONE S1
-CLOSED: [2023-09-02 Sat 20:57]
+** S1
+*** DONE 1x06
+CLOSED: <2023-08-16 Wed 19:13>
+
+*** DONE 1x07
+CLOSED: [2023-08-18 Fri 19:06]
+
+*** DONE 1x08
+CLOSED: [2023-08-28 Mon 08:27]
+
+*** DONE 1x09
+CLOSED: [2023-08-31 Thu 08:16]
+
+*** DONE 1x10
+CLOSED: <2023-09-02 Sat 21:48>
 
 * footnotes
 
