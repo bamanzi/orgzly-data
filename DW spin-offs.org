@@ -1221,11 +1221,13 @@ Roberts Master
     :rating:   7.6
     :END:
 
-*** 3QTR [#C] 1.2 Square One :D2021_09_extra:overdue:
+*** 3QTR [#C] 1.2 Square One :D2021_09_extra:overdue:bilibili:
     CLOSED: [2021-11-03 Wed 21:05] SCHEDULED: <2021-11-03 Wed>
     :PROPERTIES:
     :rating:   7.6
     :END:
+
+【【神秘博士广播剧熟肉】Gallifrey 102-Square One 最初的起点-哔哩哔哩】 https://b23.tv/ixQmCx6
 
 *** HALF [#C] GFY1.3 The Inquiry :bilibili:D2021_11_extra:
     SCHEDULED: <2021-11-27 Sat>
@@ -1598,7 +1600,11 @@ http://drwhoguide.com/bs_a18.htm
 
 Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor can't get to her, not this time. All Benny can do is stay alive for as long as possible. And, in a city full of Daleks, that's not going to be very long.
 
-*** vol.2 The Triumph of Sutekh :7th_Dr:P2015:
+*** vol.2 The Triumph of Sutekh :7th_Dr:Sutekh:P2015:
+**** [#C] 2.1 - The Pyramid of Sutekh
+**** [#D] 2.2 - The Vault of Osiris
+**** [#B] 2.3 - The Eye of Horus
+**** [#C] 2.4 - The Tears of Isis
 *** vol.3 The Unbound Universe :unbound_universe:Doctor_unbound:P2016:
 **** READY Unbound #2: Sympathy for the Devil :bilibili:Master_unbound:
 

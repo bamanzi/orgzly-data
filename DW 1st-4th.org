@@ -588,6 +588,7 @@ SCHEDULED: <2022-06-05 Sun>
 :rating:   8.2
 :END:
 
+**** TBR LS8.2 Operation Werewolf :P2024_07:
 **** CC
 ***** HALF [#B] CC4.2 - The Glorious Revolution :Jamie:D2022_01_doctor:plot_no:
 :PROPERTIES:
@@ -781,7 +782,7 @@ CLOSED: [2020-07-20 Mon 20:15]
 
 *** season 10 :📺:UNIT:Jo:
 **** DONE [#B] 10x01 - The Three Doctors †8.1)
-**** [#C] 10x02 - Carnival of Monsters †7.8) :3D:Sarah:
+**** [#C] 10x02 - Carnival of Monsters †7.8)
 **** DONE 10x03 - Frontier in Space †7.6)
 **** DONE 10x04 - Planet of the Daleks †7.5)
 **** DONE [#B] 10x05 - The Green Death †8.2)
@@ -1536,9 +1537,11 @@ SCHEDULED: <2024-05-11 Sat>
 **** 4DA series 13 :Harry:Naomi:
 ***** 13.1 The Storm of the Sea Devils :P2024_03:
 ***** 13.2 Worlds Beyond :P2024_03:
-***** 13.3 Matryoshka :ToyMaker:
-***** 13.4 The Caged Assassin
-***** 13.5 Metamorphosis :Master_decayed:
+***** 13.3 Matryoshka :ToyMaker:P2024_06:
+***** 13.4 The Caged Assassin :P2024_06:
+***** 13.5 Metamorphosis :Master_decayed:P2024_06:
+***** TBR 13.6 The Face in the Storm :P2024_09:
+***** TBR 13.7 Dominant Species :P2024_09:
 *** BF The Lost Stories
 **** 2DONE [#B] LS6.1 - Return of the Cybermen :Sarah:Cybermen:plot_half:DW2022_08_doctor:bilibili:
 CLOSED: [2022-09-03 Sat 17:41] SCHEDULED: <2022-09-04 Sun>
@@ -1866,7 +1869,7 @@ https://disk.yandex.ru/d/n_i2CRgIJW0xOw
 *** 4. In Name Only :War_Dr:
 ** Dark Gallifrey
 *** Morbius
-*** The War Master
+*** The War Master :Master_War:Unbound_Dr:War_Dr:Benny:P2024_08:
 * multi-doctor story
 ** IX. The Four Doctors :P2010:
 ** [#D] ST3.1 - Seven to One :🗣:P2011:plot_yes:

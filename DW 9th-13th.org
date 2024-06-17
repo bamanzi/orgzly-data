@@ -101,6 +101,9 @@ SCHEDULED: <2023-09-24 Sun>
 ***** [#D] 7.2 Lay Down Your Arms
 ***** 2DONE [#A] 7.3 Flatpack :Liv:Tania:bilibili:DW2023_11_doctor:
 SCHEDULED: <2023-11-11 Sat>
+:PROPERTIES:
+:rating:   8.6
+:END:
 
 【【神秘博士广播剧熟肉】Hidden Depths 703 Flatpack 平板家居-哔哩哔哩】 https://b23.tv/ElXr5Mq
 
@@ -272,6 +275,8 @@ CLOSED: [2023-12-10 Sun 17:27]
 **** DONE 2x09 The Satan Pit
 CLOSED: [2023-12-10 Sun 17:27]
 
+*** S03
+*** The Infinite Quest :Martha:animated:
 *** S04
 *** specials
 **** DONE 199. The Next Doctor :Cybermen:P2008:
@@ -280,6 +285,9 @@ CLOSED: [2022-12-11 Sun 22:27]
 **** DONE 200. Planet of the Dead :P2009:
 CLOSED: [2023-02-06 Mon 20:34]
 
+**** 201. The Waters of Mars
+**** Dreamland :animated:P2009:
+**** 202. The End of Time
 ** comics :📚:
 *** IDW
 **** TODO Agent Provocateur

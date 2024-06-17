@@ -3,8 +3,6 @@
 
 * 5th Doctor :5th_Dr:
 ** tv :📺:
-*** Season 18
-**** Logopolis
 *** Season 19
 **** [#D] Castrovalva (7.3)
 **** CANCEL [#E] Four to Doomsday (6.9)
@@ -932,6 +930,8 @@ CLOSED: [2023-04-11 Tue 21:15] SCHEDULED: <2023-04-15 Sat>
 
  【【广播剧翻译】在重生29年后补的重生集 六任：最后的冒险  104 The Brink of Death-哔哩哔哩】 https://b23.tv/4Ozoj0K
 
+animation: https://m.youtube.com/watch?v=q_syF24kYek
+
 ***** 📂2021. The Eleven :P2021_09:The_Eleven:Constance:1CD:
 ****** [#D] 1. One for All
 ****** [#B] 2. The Murder of Oliver Akkron
@@ -946,6 +946,7 @@ This anthology marked the 40th anniversary of Baker's debut as the Doctor.
 ****** 4. Children of the Revolution :Sontarans:1CD:
 ****** 5. The Thousand Year Thaw :Peri:½CD:
 ****** 6. The Firstborn :1CD:
+***** TBR 2024B. The Trials of a Time Lord :Peri:Mel:P2024_08:
 **** Jago and Litefoot: Series 4
 ***** 2DONE Jago in Love
 ***** 2DONE Beautiful Things
@@ -1367,6 +1368,7 @@ DEADLINE: <2024-06-05 Wed 08:26> SCHEDULED: <2024-06-15 Sat>
 ***** [#B] 23A.1 Operation Dusk
 ***** [#D] 23A.2 Naomi's Ark
 **** 2023B. The Last Day 1 :Ace:Mel:Beeny:Hex:Master_decayed:P2023_12:3CD:
+**** 2024A. The Last Day 2 :P2024_06:
 *** misc
 **** [#B] NA9. Nightshade :Ace:
 :PROPERTIES:
