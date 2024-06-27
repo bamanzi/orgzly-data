@@ -304,7 +304,8 @@ Sebastian Vaughan is the brightest, newest recruit to Torchwood. He's come fro
       :rating:   9.1
       :END:
 
-***** [#B] 41 Red Base :Andy:plot_cast:DW2024_Q3a_spinoffs:
+***** HALF [#B] 41 Red Base :Andy:plot_cast:DW2024_Q3a_spinoffs:
+      SCHEDULED: <2024-06-30 Sun>
       :PROPERTIES:
       :rating:   8.1
       :END:
@@ -2419,7 +2420,8 @@ http://www.drwhoguide.com/kaldor03.htm
      :END:
 
 *** The Robots vol.3 :P2020_12:
-**** [#D] 3.1 - The Mystery of Sector 13 :DW2024_Q3a_spinoffs:
+**** HALF [#D] 3.1 - The Mystery of Sector 13 :DW2024_Q3a_spinoffs:
+     SCHEDULED: <2024-06-21 Fri 09:27>
      :PROPERTIES:
      :rating:   7.2
      :END:

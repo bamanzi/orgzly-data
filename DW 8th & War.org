@@ -12,11 +12,13 @@ CLOSED: [2022-08-15 Mon 21:26]
 ** audio :🎧:
 *** with Charley :Charley:
 **** MR part1 :scripted:2CD:
-***** DONE [#C] 016 - Storm Warning
+***** DONE [#C] 016 - Storm Warning :bilibili:
 CLOSED: [2020-08-11 Tue 08:46]
 :PROPERTIES:
 :rating:   7.7
 :END:
+
+【【神秘博士广播剧熟肉】MR 016 Storm Warning 风暴预警-哔哩哔哩】 https://b23.tv/XYs7qbA
 
 ***** DONE [#E] 017 - Sword Of Orion :Cybermen:
 CLOSED: [2020-08-18 Tue 08:19] SCHEDULED: <2022-08-30 Tue>
@@ -42,14 +44,18 @@ CLOSED: <2020-09-19 Sat 13:56>
 :rating:   6.8
 :END:
 
-***** DONE [#A] 029 - The Chimes Of Midnight (9.4)
+***** DONE [#A] 029 - The Chimes Of Midnight (9.4) :bilibili:
 CLOSED: [2020-09-24 Thu 08:32]
 :PROPERTIES:
 :rating:   9.4
 :END:
 
-***** 2DONE [#B] 030 - Seasons of Fear (8.4).
+【【神秘博士广播剧熟肉】MR029-The Chime of Midnight-午夜钟声-哔哩哔哩】 https://b23.tv/9ZVU3k8
+
+***** 2DONE [#B] 030 - Seasons of Fear (8.4). :bilibili:
 CLOSED: [2020-11-26 Thu 08:26]
+
+【【神秘博士广播剧熟肉】MR 030 Seasons of Fear 恐惧之季-哔哩哔哩】 https://b23.tv/Huubr5D
 
 ***** DONE [#D] _031 - Embrace the Darkness_ :plot_no:bilibili:DW2023_08_doctor:
 CLOSED: [2023-09-02 Sat 23:13] SCHEDULED: <2023-08-12 Sat>
@@ -1392,8 +1398,8 @@ SCHEDULED: <2024-05-26 Sun>
 
 【【广播剧汉化】恶魔的低语 The War Master 战争法师 701 The Forest Penitence-哔哩哔哩】 https://b23.tv/fdIB3vT
 
-**** READY [#D] 7.2 The Players :bilibili:DW2024_Q3a_spinoffs:
-SCHEDULED: <2024-06-30 Sun>
+**** HALF [#D] 7.2 The Players :bilibili:DW2024_Q3a_spinoffs:
+SCHEDULED: <2024-06-23 Sun>
 
 【【广播剧汉化】蹩脚的自辩 The War Master 战争法师 702 The Players-哔哩哔哩】 https://b23.tv/X3fable
 

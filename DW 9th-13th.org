@@ -117,8 +117,11 @@ CLOSED: [2024-04-02 Tue 07:41] SCHEDULED: <2024-03-30 Sat>
 【【神秘博士广播剧熟肉】Shades of Fear 801 The Colour of Terror 恐怖之色-哔哩哔哩】 https://b23.tv/upXcyWs
 
 ***** [#E] +8.2 The Blooming Menace+
-***** READY [#A] 8.3 Red Darkness :Vashta_Nerada:bilibili:DW2024_Q3a_doctor:
-SCHEDULED: <2024-06-29 Sat>
+***** HALF [#A] 8.3 Red Darkness :Vashta_Nerada:plot_cast:bilibili:DW2024_Q3a_doctor:
+SCHEDULED: <2024-06-22 Sat>
+:PROPERTIES:
+:rating:   8.9
+:END:
 
 【【神秘博士广播剧熟肉】Shades of Fear 803 Red Darkness 赤红黑暗-哔哩哔哩】 https://b23.tv/RPnCOqH
 
@@ -1392,4 +1395,15 @@ DWM 584-597
 *** Untitled (DWM 598) :Donna:hanzify:
 * 15th Doctor
 ** tv
-*** 304. The Church On Ruby Road :Christmas_special:P2023:
+*** DONE 304. The Church On Ruby Road :Christmas_special:P2023:
+CLOSED: [2024-06-08 Sat 15:34]
+
+*** DONE [#F] 1x01 Space Babies
+CLOSED: [2024-06-26 Wed 21:57] SCHEDULED: <2024-06-22 Sat>
+
+*** [#E] 1x02 The Devil's Chord
+*** [#C] 1x03 Boom
+*** [#B] 1x04 73 Yards
+** comics
+*** DWM
+**** Mancopolis (#599-605?)

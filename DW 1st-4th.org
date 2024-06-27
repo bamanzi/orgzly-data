@@ -649,17 +649,21 @@ SCHEDULED: <2022-06-05 Sun>
 :END:
 
 *** 2DA
-**** 📂Beyond War Games :P2022_07:plot_yes:
+**** 📂Beyond War Games :P2022_07:plot_yes:Raven:
 ***** 3QTR [#B] 22.1 The Final Beginning :Daleks:plot_yes:DW2022_10_doctor:1CD:
 CLOSED: <2022-10-30 Sun 19:49> SCHEDULED: <2022-10-22 Sat>
 
 ***** 3QTR [#C] 2DA22.2 Wrath of the Ice Warriors :Brigadier:ice_warriors:2CD:DW2023_08_doctor:
 CLOSED: [2023-08-18 Fri 08:40] SCHEDULED: <2023-08-19 Sat>
 
-**** James Robert McCrimmon :P2023_07:1CD:
+**** James Robert McCrimmon :P2023_07:1CD:Jamie:Raven:
 ***** [#D] 23.1 Jamie :plot_yes:
 ***** [#B] 23.2 The Green Man
 ***** [#B] 23.3 The Shroud
+**** TBR Conspiracy of Raven :Jamie:Raven:P2024_07:
+***** 1. Kippers
+***** 2. Catastrophe Theory :Zoe:
+***** 3. The Vanishing Point :Zoe:
 *** CC misc :🗣:
 **** #The_Company :Zoe:
 ***** 2DONE [#D] CC5.02 - Echoes of Grey :Zoe:D2021_07_dr:
@@ -836,7 +840,8 @@ SCHEDULED: <2022-09-21 Wed>
 :rating:   7.3
 :END:
 
-***** [#C] 3.1 The Conquest of Far :Jo:P2017:plot_no:DW2024_Q3a_doctor:
+***** 2DONE [#C] 3.1 The Conquest of Far :Jo:Daleks:P2017:plot_no:DW2024_Q3a_doctor:
+CLOSED: [2024-06-21 Fri 19:24] SCHEDULED: <2024-06-22 Sat>
 :PROPERTIES:
 :rating:   7.5
 :END:
