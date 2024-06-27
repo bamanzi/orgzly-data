@@ -2567,7 +2567,7 @@ CLOSED: [2022-06-25 Sat 23:46]
 **** DONE 1x10 Et in Arcadia Ego, Part 2
 CLOSED: [2022-06-26 Sun 22:27]
 
-*** Picard S2 :P2022:
+*** Picard S2 :P2022:Y2400:
 ** comics :📚:
 *** DONE Picard: Countdown
 CLOSED: <2022-06-04 Sat 17:14> SCHEDULED: <2022-06-03 Fri>
@@ -2575,6 +2575,8 @@ CLOSED: <2022-06-04 Sat 17:14> SCHEDULED: <2022-06-03 Fri>
 *** Picard: Stargazer :P2022:
 
 故事在电视剧第二季之后
+
+set between seasons two and three of the Paramount+ hit series /Star Trek: Picard/
 
 ** audio
 *** No Man's Land :P2022:Seven_of_Nine:Raffi:

@@ -735,7 +735,7 @@ CLOSED: [2024-06-06 Thu 18:43]
 
 **** Razer: Flashback
 *** DOING 📂BSG S4 (20 eps) :P2008:
-**** DONE 4x01
+**** DONE [#B] 4x01
 CLOSED: [2024-06-07 Fri 18:41]
 
 **** DONE 4x02
@@ -750,16 +750,35 @@ CLOSED: [2024-06-11 Tue 20:23]
 **** DONE 4x05
 CLOSED: [2024-06-12 Wed 21:20]
 
-**** DONE 4x06
+**** DONE [#B] 4x06
 CLOSED: <2024-06-13 Thu 18:39>
 
-**** DONE 4x07
+**** DONE [#B] 4x07
 CLOSED: [2024-06-14 Fri 22:25]
 
 **** DONE 4x08
 CLOSED: [2024-06-17 Mon 08:17]
 
-**** 4x09
+**** DONE [#A] 4x09
+CLOSED: [2024-06-18 Tue 18:48]
+
+**** DONE [#A] 4x10
+CLOSED: [2024-06-21 Fri 21:30]
+
+**** DONE [#A] 4x11
+CLOSED: [2024-06-21 Fri 22:33]
+
+**** DONE 4x12
+CLOSED: <2024-06-22 Sat 20:53>
+
+**** DONE [#A] 4x13/14
+CLOSED: [2024-06-24 Mon 20:14]
+
+**** DONE [#B] 4x15
+CLOSED: [2024-06-25 Tue 18:47]
+
+**** 4x16
+**** [#B] 4x17
 *** The Face of the Enemy (10集短篇)
 *** Caprica (前传，18集)
 *** Blood & Chrome
@@ -832,7 +851,7 @@ It’s a dangerous time for the last remaining humans. Captured by the Cylons on
 观看顺序：https://www.douban.com/doulist/133200925/
 
 *** skywalker saga
-**** LATER Star Wars: Episode I The Phantom Menace :P1999:
+**** Star Wars: Episode I The Phantom Menace :P1999:
 SCHEDULED: <2023-07-16 Sun>
 
 32BBY
@@ -847,15 +866,11 @@ CLOSED: <2023-07-22 Sat 17:50>
 19BBY
 
 **** DONE Star Wars: Episode IV A New Hope
-**** DONE Star Wars: Episode V The Empire Strikes Back
+**** DONE Star Wars: Episode V The Empire Strikes Back :3ABY:
 CLOSED: <2022-04-02 Sat 21:50>
 
-3ABY
-
-**** DONE Star Wars: Episode VI Return of the Jedi
+**** DONE Star Wars: Episode VI Return of the Jedi :4ABY:
 CLOSED: [2022-04-04 Mon 16:50]
-
-4ABY
 
 **** Star Wars: Episode VII The Force Awakens :P2015:
 
@@ -872,7 +887,8 @@ CLOSED: [2022-05-29 Sun 13:32]
 
 0 BBY, days before A New Hope, with a prologue set in 13 BBY
 
-**** LATER Solo :10BBY:
+**** DONE Solo :10BBY:Han_Solo:Crimson_Dawn:Qira:
+CLOSED: [2024-06-23 Sun 16:33]
 
 10 BBY, with a prologue set in 13 BBY
 
@@ -1009,10 +1025,25 @@ CLOSED: <2024-06-16 Sun 10:08>
 ****** DONE 1x05
 CLOSED: [2024-06-16 Sun 12:04]
 
-****** NOW 1x06 :10BBY:
+****** DONE 1x06
+CLOSED: [2024-06-18 Tue 08:45]
+
+****** DONE 1x07
+CLOSED: <2024-06-22 Sat 10:18>
+
+****** DONE 1x08
+CLOSED: <2024-06-22 Sat 12:07>
+
+****** DONE 1x09
+CLOSED: [2024-06-22 Sat 19:30]
+
+****** DONE 1x10
+CLOSED: [2024-06-25 Tue 08:12]
+
+****** 1x11
+****** 1x12
 ***** season 2
 **** The Acolyte :132BBY:P2024:
-**** TBR Lando :P2030:
 **** Rangers of the New Republic
 *** tv (canon, animated) :animated:
 **** The Clone Wars (2008-2014)
@@ -1151,20 +1182,31 @@ CLOSED: [2023-08-10 Thu 08:14]
 ****** DONE 3x09 Hunt for Ziro :Cad_Bane:Quinlan_Vos:
 CLOSED: [2024-06-15 Sat 20:55]
 
-****** DONE 3x10/3x11/2x15 Heroes on Both Sides / Pursuit of Peace / Senate Murders
+****** DONE 3x10/3x11/2x15 Heroes on Both Sides / Pursuit of Peace / Senate Murders :Padme:
 CLOSED: [2024-06-16 Sun 17:48]
 
-****** 3x12
-****** 3x13..3x22
+****** DONE 3x12/13/14 Nightsister / Monster / Witches of the Mist :Ventress:Dooku:
+CLOSED: [2024-06-18 Tue 07:47]
+
+****** DONE 3x15/16/17 Overlords / Altar of Mortis / Ghosts of Mortis :Anakin:
+CLOSED: [2024-06-24 Mon 08:04]
+
+****** DONE 3x18/19/20 The Citadel / Counterattack / Citadel Rescue :Tarkin:
+CLOSED: [2024-06-27 Thu 08:05]
+
+后两集有各种战斗机器人 (battle droids)
+
+****** 3x21 Padawan Lost
 ***** 📂season 4 (22 eps) :P2011:20BBY:
 ****** 4x14 A Friend in Need :Bo_Katan:
-***** season 5 (20 eps) :P2012:19BBY:
+****** 4x22 Revenge :Maul:
+***** 📂season 5 (20 eps) :P2012:19BBY:
 ****** 5x14 Eminence :Bo_Katan:
 ****** 5x15 Shades of Reason :Bo_Katan:
 ****** 5x16 The Lawless :Bo_Katan:
 ****** 5x20 The Wrong Jedi :Ahsoka:
-***** season 6 (13 eps) :P2014:
-***** season 7 (12 eps) :P2020:
+***** 📂season 6 (13 eps) :P2014:
+***** 📂season 7 (12 eps) :P2020:
 ****** 7x07 Dangerous Debt :Bo_Katan:
 **** The Bad Batch (2021- ) 残次品/异等小队 :19BBY:
 
@@ -1327,15 +1369,6 @@ CANCEL: 低幼向
 
 ***** season 1 (36 eps) :P2018:
 ***** season 2 (18 eps) :P2019:
-**** Visions 幻境 (2021- )
-***** Visions S1 :P2021:
-
-9 eps
-
-***** Visions S2 :P2023:
-
-9 eps
-
 **** Galaxy of Creatures (2021- )
 
 34 ABY
@@ -1379,6 +1412,16 @@ up of three-minute installments, while Season 3 (Volume II) is made up of twelve
 minute installments. The success of Star Wars: Clone Wars led to production of the similarly
 titled /Star Wars: The Clone Wars/.
 
+*** tv (non-canon)
+**** Visions 幻境 (2021- )
+***** Visions S1 :P2021:
+
+9 eps
+
+***** Visions S2 :P2023:
+
+9 eps
+
 ** comics :📚:
 
 https://starwars.fandom.com/wiki/List_of_comics
@@ -1388,7 +1431,7 @@ https://starwars.fandom.com/wiki/List_of_comics
 
 https://starwars.fandom.com/wiki/Dark_Horse_Comics
 
-**** 0 起源
+**** 0. The Old Republic
 ***** Dawn of the Jedi (2012-2014) :hanzify:
 
 25793BBY
@@ -1406,7 +1449,7 @@ https://starwars.fandom.com/wiki/Dark_Horse_Comics
 
 1000BBY
 
-**** 1. 幽灵的威胁
+**** 1. Rise of the Sith
 ***** DONE epic collection: Rise of the Sith vol.1
 CLOSED: <2023-07-08 Sat 23:50>
 
@@ -1470,18 +1513,19 @@ CLOSED: [2023-07-14 Fri 13:20]
 ****** DONE Star Wars: Episode I — The Phantom Menace
 CLOSED: [2023-07-13 Thu 08:38]
 
+**** 2. The Menace Revealed
 ***** DONE epic collection: The Menace Revealed Vol. 1 :32BBY:
 CLOSED: [2023-07-20 Thu 12:34]
 
-- Jango Fett: Open Seasons #1-4
-- Outlander -- Star Wars (1998) #7-12
-- Emissaries to Malastare -- Star Wars (1998) #13-18
-- Nomad (Star Wars Tales #21-24)
+ - Jango Fett: Open Seasons #1-4
+ - Outlander -- Star Wars (1998) #7-12
+ - Emissaries to Malastare -- Star Wars (1998) #13-18
+ - Nomad (Star Wars Tales #21-24)
 
 ****** DONE [#B] Jango Fett: Open Seasons :hanzify:
 CLOSED: [2023-07-16 Sun 08:12]
 
-58 BBY - 32 BBY
+ 58 BBY - 32 BBY
 
 ****** DONE [#B] Outlander -- Star Wars (1998) #7-12 :hanzify:
 CLOSED: [2023-07-16 Sun 10:43]
@@ -1497,72 +1541,58 @@ CLOSED: [2023-07-16 Sun 10:43]
 ***** DONE [#C] epic collection: The Menace Revealed Vol. 2 :31BBY:
 CLOSED: [2023-07-25 Tue 23:43]
 
-32 BBY - 31 BBY
+ 32 BBY - 31 BBY
 
 
-https://starwars.fandom.com/wiki/Star_Wars_Legends_Epic_Collection:_The_Menace_Revealed_Vol._2
+ https://starwars.fandom.com/wiki/Star_Wars_Legends_Epic_Collection:_The_Menace_Revealed_Vol._2
 
-- Star Wars (1998) #19-35
-  - #19-22 Twilight
-  - #23-27 Infinity's End
-  - #28-31 The Hunt for Aurra Sing
-  - #32-35 Darkness
-- Star Wars Tales #13
-- Aurra's Song (Annual 2000)
+ - Star Wars (1998) #19-35
+   - #19-22 Twilight
+   - #23-27 Infinity's End
+   - #28-31 The Hunt for Aurra Sing
+   - #32-35 Darkness
+ - Star Wars Tales #13
+ - Aurra's Song (Annual 2000)
 
-****** DONE [#C] Twilight (Star Wars (1998) #19-22) :Quinlan_Vos:
+****** DONE [#C] Twilight (Star Wars (1998) #19-22) :Quinlan_Vos:hanzify:
 
-Quinlan Vos 失去了记忆，他要去找回来
+ Quinlan Vos 失去了记忆，他要去找回来
 
 ****** DONE [#C] Infinity's End (Star Wars (1998) #23-26) :hanzify:Quinlan_Vos:
 CLOSED: [2023-07-23 Sun 07:54]
 
-Dathomir 的女巫在挖掘一种传送门，绝地团派 Quinlan Vos 去阻止她们
+ Dathomir 的女巫在挖掘一种传送门，绝地团派 Quinlan Vos 去阻止她们
 
 ****** DONE [#C] The Hunt for Aurra Sing (Star Wars (1998) #28-31)
 CLOSED: [2023-07-23 Sun 15:16]
 
+****** DONE Darkness (Star Wars (1998) #32-35) :hanzify:
 ***** 2DONE epic collection: The Menace Revealed Vol. 3 :P2023:
 CLOSED: [2024-06-14 Fri 12:40]
 
-- Star Wars: Republic (1998)
-  - #36-39 The Stark Hyperspace War
-  - #40-41 The Devaronian Version
-  - #42-45 Rite of Passage
-- Jedi Quest #1-4
-- Star Wars: Jango Fett
-- Star Wars: Zam Wesell
+ - Star Wars: Republic (1998)
+   - #36-39 The Stark Hyperspace War
+   - #40-41 The Devaronian Version
+   - #42-45 Rite of Passage
+ - Jedi Quest #1-4
+ - Star Wars: Jango Fett
+ - Star Wars: Zam Wesell
 
 ****** Star Wars: Republic #36-45 :Quinlan_Vos:
-****** DONE Jango Fett :Jango_Fett:Boba_Fett:oneshot:
+****** DONE Jango Fett / Zam Wesell :Jango_Fett:Boba_Fett:oneshot:
 CLOSED: [2024-06-13 Thu 19:30]
 
-27 BBY
+ 27 BBY
 
-****** Zam Wesell :Jango_Fett:
+***** HALF epic collection: The Menace Revealed Vol. 4 :P2024_01:
 
-27 BBY
-
-**** 2. 克隆人进攻
-***** NOW epic collection: The Menace Revealed Vol. 4 :P2024_01:
-
-- The Bounty Hunters: Aurra Sing
-- Starfighter: Crossbones #1-3
-- Free Comic Book Day 2002
-- Republic #46-48
-- Star Wars: Episode II — Attack of the Clones #1-4
-- Star Wars: Hasbro/Toyrus Exclusive #1-4
-- "Poison Moon"—Dark Horse Extra 44–47
-- material from Star Wars Tales 2, 7, 14, 18, 20, & 24
+- [ ] +Starfighter: Crossbones #1-3+
+- [ ] +Republic #46-48+
+- [ ] Star Wars: Episode II — Attack of the Clones #1-4
+- [X] misc (10多个短篇)
 
 ****** Star Wars: Episode II — Attack of the Clones
-****** Hasbro/Toyrus Exclusive
-
-- Full of Surprises
-- Most Precious Weapon
-- Practice Makes Perfect
-- Machines of War
-
+**** 3. The Clone Wars
 ***** DONE epic collection: The Clone Wars vol.1 :22BBY:
 CLOSED: [2023-09-03 Sun 14:02]
 
@@ -1579,9 +1609,7 @@ https://starwars.fandom.com/wiki/Star_Wars_Legends_Epic_Collection:_The_Clone_Wa
 - "Rather Darkness Visible" — Star Wars Tales 19
 - The Artist of Naboo—Star Wars: Visionaries
 
-
-
-****** Jedi (2003-2004) (5 issues)
+****** DONE Jedi (2003-2004) (5 issues)
 ******* DONE Dooku :Dooku:
 CLOSED: [2023-08-29 Tue 14:02]
 
@@ -1591,78 +1619,106 @@ CLOSED: [2023-08-29 Tue 14:02]
 
 - "Honor Bound"—Star Wars Tales 22
 - Republic #55-67
-- Darth Maul—Death Sentence #1-4
+- Darth Maul — Death Sentence #1-4
 
 ****** [#B] The Battle of Jabiim (Star Wars: Republic #55-58) :hanzify:
 ***** epic collection: The Clone Wars vol.3
-****** Obsession
-
-19BBY
-
 ****** General Grievous
 
 20BBY
 
-***** epic collection: The Clone Wars vol.4
-****** Star Wars: Episode III — Revenge of the Sith
-****** Darth Vader and the Cry of Shadows
+****** Obsession
 
-17BBY
+19BBY
 
+***** epic collection: The Clone Wars vol.4 :19BBY:
 ****** Darth Maul — Son of Dathomir :hanzify:canon:
-**** 3. 西斯的复仇
-***** epic collection: The Empire Vol. 1
+****** Star Wars: Episode III — Revenge of the Sith
+****** Star Wars Republic #74-77, #80-82
+**** 4. The Empire
+***** epic collection: The Empire Vol. 1 :19BBY:
 ****** [#A] Purge (2005) :hanzify:
 
 19 BBY
 
 ****** Darth Vader and the Lost Command (2011) :hanzify:
-
-19BBY
-
-****** Dark Times (2006-2013)
-
-19BBY
-
+****** Dark Times #1-5
 ***** epic collection: The Empire Vol. 2
-****** Dark Times (2006-2013)
-
-19BBY
-
+****** Dark Times #6-17 :19BBY:
+****** Dark Times—Out of the Wilderness
 ***** epic collection: The Empire Vol. 3
 ****** [#B] Darth Vader and the Ghost Prison (2012) :hanzify:
-****** Darth Vader and the Ninth Assassin :hanzify:
+****** Darth Vader and the Ninth Assassin :19BBY:hanzify:
+****** Dark Times—Fire Carrier #1-5
+****** Dark Times—A Spark Remains #1-5
+***** NOW epic collection: The Empire Vol. 4
+****** LATER Darth Vader and the Cry of Shadows #1-4 :19BBY:hanzify:
+****** DONE "Old Wounds"—Star Wars: Visionaries :Obi_Wan:Maul:hanzify:
+CLOSED: [2024-06-21 Fri 13:19]
 
-19BBY
+16 BBY
 
-***** epic collection: The Empire Vol. 4
-****** Darth Vader and the Cry of Shadows #1-4
-****** Star Wars Tales #11, #18, #20...
-****** Jabba the Hutt
+****** Jabba the Hutt :5BBY:
+
+- [X] The Gaar Suppoon Hit  (hanzify)
+- [X] The Hunger of Princess Nampi (hanzify)
+- [X] The Dynasty Trap
+- [ ] Betrayal
+
+****** #boba_fett misc
+
+- "Prey" — Star Wars Tales 11
+- "Outbid But Never Outgunned" — Star Wars Tales 7
+- "Number Two in the Galaxy" — Star Wars Tales 18
+- "Payback" — Star Wars Tales 18
+- "Being Boba Fett" — Star Wars Tales 18
+
+
+
 ****** DONE [#B] Boba Fett: Enemy of the Empire (1999)
 CLOSED: [2022-04-30 Sat 20:21]
 
 3BBY
 
-+block：getcomics上无相关TPB，只找到 epic collection The Empire Vol. 4+
+****** misc
+
+- The Duty" — Star Wars Tales 12
+- "Ghost" — Star Wars Tales 11
+- "Sandstorm" — Star Wars Tales 15
+- Luke Skywalker's Walkabout
+- "Falling Star" — Star Wars Tales 15
+- "Young Lando Calrissian" — Star Wars Tales 20
+- "Prey" — Star Wars Tales 11
+- "In the Beginning" — Star Wars Tales 11
+- Star Wars: The Art of the Bad Deal
+- "Melvin Fett" — Star Wars Tales 20
+- "The Value of Proper Intelligence to Any Successful Military Campaign is Not to Be Underestimated" — Star Wars Tales 19
+
+
+
+
 
 ***** epic collection: The Empire Vol. 5
 ****** Droids (1994) #0-6
 ****** Droids (1995) #1-8
+***** epic collection: The Empire Vol. 6
+****** Agents of the Empire: Iron Eclipse (2011)
+****** Agents of the Empire: Hard Targets (2012)
 ***** misc
 ****** Blood Ties: A Tale of Jango and Boba Fett (2010)
 
 22BBY & 2BBY
 
-**** 4-6 正传三部曲
+**** 5. The Rebellion
 ***** Empire (2002) :hanzify:
 ***** Rebellion (2006)
 ***** Star Wars (2013)
-***** DONE [#B] Rebel Heist (2014, Dark Horse)
+***** DONE [#B] Rebel Heist (2014)
 CLOSED: [2022-05-01 Sun 12:57] SCHEDULED: <2022-05-05 Thu>
 
 0-3ABY
 
+**** 6. The New Republic
 ***** DONE Shadows of the Empire trilogy
 ****** DONE [#C] 📂Shadows of the Empire (1996, 1998)
 CLOSED: <2022-05-11 Wed 10:48>
@@ -1686,11 +1742,10 @@ CLOSED: [2022-05-28 Sat 12:59] SCHEDULED: <2022-05-29 Sun>
 
 4ABY
 
-***** LATER [#B] X-Wing: Rogue Squadron (1995) :hanzify:
+***** [#B] X-Wing: Rogue Squadron (1995) :hanzify:
 
 4-5 ABY
 
-**** 6.5 续篇
 ***** DONE [#A] 📂The Thrawn Trilogy (1995-1998) :hanzify:
 
  9ABY
@@ -1704,7 +1759,7 @@ CLOSED: <2023-08-05 Sat 19:38>
 ****** DONE The Last Command
 CLOSED: [2023-09-07 Thu 13:19]
 
-***** LATER [#A] Dark Empire trilogy :Luke:Solo:Leia:
+***** [#A] Dark Empire trilogy :Luke:Han_Solo:Leia:
 
  All three comic series detailed the resurrection of Emperor Palpatine in clone bodies.
 
@@ -1712,7 +1767,7 @@ CLOSED: [2023-09-07 Thu 13:19]
 
 https://starwars.fandom.com/wiki/Star_Wars:_Dark_Empire
 
-***** LATER [#B] Crimson Empire trilogy
+***** [#B] Crimson Empire trilogy
 
  11ABY
 
@@ -1723,7 +1778,7 @@ https://starwars.fandom.com/wiki/Star_Wars:_Dark_Empire
 
 15ABY
 
-**** 10 续篇
+**** 7. The Legacy
 ***** [#A] Legacy (2006-2010) :hanzify:
 
 130-137ABY
@@ -1732,22 +1787,23 @@ https://starwars.fandom.com/wiki/Star_Wars:_Dark_Empire
 
 138-140ABY
 
-**** non-continuity
-***** Star Wars Tales (1999-2005)
-***** [#B] Star Wars Infinities
 **** 未分类 on-going
-***** Vector
+***** Vector (crossover)
+
+https://starwars.fandom.com/wiki/Star_Wars:_Vector
+
 ***** Republic (1998-2006)
 
 timeline: various
 
 It ran for 83 issues, spanning from before The Phantom Menace to after Revenge of the Sith. Starting with issue #49, it became the main Clone Wars comic. It was continued in the Star Wars: Dark Times series
 
-**** 未分类 mini
-***** Union (2000)
+***** The Clone Wars
+**** 短篇集
+***** Star Wars Tales (1999-2005)
 ***** Visionaries (2005)
-***** Agents of the Empire: Iron Eclipse (2011)
-***** Agents of the Empire: Hard Targets (2012)
+**** non-continuity
+***** [#B] Star Wars Infinities
 *** Marvel (2015- ) :canon:
 **** 前传三部曲相关
 ***** before movie 1
@@ -1780,20 +1836,46 @@ a prequel to the Respawn Entertainment video game /Star Wars Jedi: Fallen Order/
 
 14 BBY
 
+****** TODO Vader - Dark Visions :P2019:hanzify:
+SCHEDULED: <2022-06-03 Fri>
+
+Between 2 BBY and 0 BBY
+
+https://www.manhuaren.com/manhua-xingqiudazhan-weidayuheianhuanxiang/
+
 ***** Age of Republic
 **** Star Wars Rebels
 
 link: https://www.starwars.com/news/a-guide-to-star-wars-rebels-books-and-comics
 
+***** DONE Han Solo - Imperial Cadet :P2018:Han_Solo:
+CLOSED: [2024-06-24 Mon 12:16] SCHEDULED: <2022-05-14 Sat>
+
+Between 13 BBY and 10 BBY
+
+***** NOW Lando - Double or Nothing :P2018:
+SCHEDULED: <2022-05-14 Sat>
+
+10BBY
+
+It told a story that focused on the characters Lando Calrissian and L3-37 just prior to Solo: A Star Wars Story
+
+***** NOW Beckett :oneshot:hanzify:
+***** Solo: A Star Wars Story Adaptation :Han_Solo:Crimson_Dawn:Qira:
+SCHEDULED: <2022-05-14 Sat>
+
+13BBY-10BBY
+
+***** NEXT Han Solo & Chewbacca :P2022:Han_Solo:
 ***** Kanan
-****** DONE Kanan #1-6: The Last Padawan :Order66:
+****** DONE [#B] Kanan #1-6: The Last Padawan :Order66:
 CLOSED: <2024-06-16 Sun 23:02>
 
 19 BBY & 4 BBY
 
 It takes place during /Order 66/
 
-****** NOW Kanan #7-12: Firt Blodd
+****** NOW [#C] Kanan #7-12: Firt Blodd
 
 4 BBY
 
@@ -1803,18 +1885,18 @@ It depicts Kanan's first foray into the Clone Wars
 
 /Star Wars: Thrawn/ is a canon comic book miniseries adapting the novel of the same name (2017开始的新三部曲小说，与原三部曲不是一回事）. 
 
-****** NOW Thrawn :P2018:
+****** NEXT Thrawn :P2018:2BBY:hanzify:
 
 It was written by Jody Houser, illustrated by Luke Ross, and published by Marvel Comics on February 14, 2018, running until July 11, 2018. 
 
 The limited comic series takes place between /Star Wars: Episode III Revenge of the Sith/ and /Star Wars: Episode IV A New Hope/, _it leads right into /Star Wars: Rebels season 3/ with /Steps Into Shadow (episodes 3.01 and 3.02)/_,
 and follows the life of /Mitth'raw'nuruodo/, Thrawn as he rises through the ranks of the Galactic Empire and makes many friends---and foes---alike.
 
-****** Thrawn - Alliances :P2024:
+****** Thrawn - Alliances :P2024:2BBY:hanzify:
 
 Set between the third and fourth seasons of the animated television show /Star Wars Rebels/.
 
-****** TBR Thrawn: Treason
+****** TBR Thrawn: Treason :1BBY:
 
 set between the /Star Wars Rebels/ episodes "Rebel Assault"(4x09) and "Family Reunion – and Farewell."(4x15)
 
@@ -1822,32 +1904,11 @@ set between the /Star Wars Rebels/ episodes "Rebel Assault"(4x09) and "Family 
 
 13 BBY–1 BBY
 
+***** NOW Guardians of the Whills: The Manga :1BBY:
+
+The manga adaptation of the novel /Star Wars: Guardians of the Whills/, by /Greg Rucka/, revisits fan-favorite characters /Baze Malbus/ and /Chirrut Îmwe/ before they joined the Rebellion in the blockbuster film /Rogue One: A Star Wars Story/.
+
 **** 正传三部曲相关
-***** before movie 4
-****** LATER Solo: A Star Wars Story Adaptation
-SCHEDULED: <2022-05-14 Sat>
-
-13BBY-10BBY
-
-****** LATER Han Solo - Imperial Cadet :P2018:
-SCHEDULED: <2022-05-14 Sat>
-
-Between 13 BBY and 10 BBY
-
-****** LATER Lando - Double or Nothing :P2018:
-SCHEDULED: <2022-05-14 Sat>
-
-10BBY
-
-It told a story that focused on the characters Lando Calrissian and L3-37 just prior to Solo: A Star Wars Story
-
-****** LATER Vader - Dark Visions :P2019:hanzify:
-SCHEDULED: <2022-06-03 Fri>
-
-Between 2 BBY and 0 BBY
-
-https://www.manhuaren.com/manhua-xingqiudazhan-weidayuheianhuanxiang/
-
 ***** between movie 4 & 5
 ****** DONE Han Solo :P2016:hanzify:
 CLOSED: [2022-04-27 Wed 13:51]
@@ -1892,10 +1953,10 @@ CLOSED: [2022-05-03 Tue 16:25] SCHEDULED: <2022-05-10 Tue>
 ******* DONE Vol.6 Out Among the Stars (#33-37,A3)
 CLOSED: [2022-06-03 Fri 07:09] SCHEDULED: <2022-06-01 Wed>
 
-******* LATER Vol.7 The Ashes of Jedha (#38-43)
+******* Vol.7 The Ashes of Jedha (#38-43)
 SCHEDULED: <2022-06-04 Sat>
 
-******* LATER vol.8 Mutiny at Mon Cala (#44-49,A4)
+******* vol.8 Mutiny at Mon Cala (#44-49,A4)
 SCHEDULED: <2022-06-05 Sun>
 
 ******* vol.9 Hope Dies (#50-55)
@@ -1937,8 +1998,8 @@ CLOSED: [2022-05-26 Thu 13:43]
 
 没意思
 
-******* LATER vol.4 The Catastrophe Con (#20-25)
-******* LATER Vol.5 Worst Among Equals (A2, #26-31)
+******* vol.4 The Catastrophe Con (#20-25)
+******* Vol.5 Worst Among Equals (A2, #26-31)
 ******* vol. 6 Unspeakable Rebel Superweapon (#32-36)
 ******* vol.7 A Rogue's End (#37-40)
 ****** DONE Lando (2015) :hanzify:
@@ -1959,11 +2020,21 @@ takes place between the events of /Star Wars: Episode V The Empire Strikes Bac
 Between the events of /Star Wars: Episode V The Empire Strikes Back/ and /Star Wars: Episode VI Return of the Jedi/
 
 ****** Doctor Aphra v2 (2020- )
-****** LATER Bounty Hunters (2020- )
+****** Bounty Hunters (2020- )
 
 The series features the bounty hunters /Beilert Valance/, /Boba Fett/ and /Bossk/, and takes place between the events of /Star Wars: Episode V The Empire Strikes Back/ and /Star Wars: Episode VI
 Return of the Jedi/
 
+****** crossover: War of the Bounty Hunters :P2021:Boba_Fett:hanzify:
+
+https://starwars.fandom.com/wiki/Star_Wars:_War_of_the_Bounty_Hunters
+
+****** crossover: Crimson Reign :P2022:Crimson_Dawn:Qira:
+
+https://starwars.fandom.com/wiki/Star_Wars:_Crimson_Reign
+
+****** crossover: Hidden Empire
+****** crossover: Dark Droids :hanzify:
 ***** between movie 6-7
 ****** DONE [#B] Shattered Empire (2015) :hanzify:
 CLOSED: [2022-05-28 Sat 13:48] SCHEDULED: <2022-05-29 Sun>
@@ -2026,13 +2097,19 @@ c.232 BBY
 
 1000BBY
 
-*** Tarkin 塔金 :canon:
+*** NOW Catalyst 催化剂 :hanzify:
+
+prequel novel to the Anthology film /Rogue One: A Star Wars Story./
+
+21 BBY-17BBY
+
+*** NEXT Tarkin 塔金 :canon:hanzify:
 
 14BBY
 
 The novel is set in 14 BBY, five years after the events of /Star Wars: Episode III Revenge of the Sith/, and it focuses on /Wilhuff Tarkin/ and how he became a /Grand Moff/.
 
-*** DONE Thrawn trilogy :legends:Thrawn:9ABY:
+*** DONE Thrawn trilogy :legends:Thrawn:9ABY:hanzify:
 **** DONE Thrawn 1: Heir to the Empire 帝国传承
 CLOSED: <2022-05-21 Sat 11:48>
 
