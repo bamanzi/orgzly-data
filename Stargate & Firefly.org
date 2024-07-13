@@ -548,7 +548,7 @@ https://m.douban.com/note/731811864
 *** DONE [#A] TV mini (2003)
 CLOSED: [2021-07-18 Sun 15:42]
 
-*** 📂BSG S1 (13 episodes) :P2004:
+*** DONE 📂BSG S1 (13 episodes) :P2004:
 **** DONE 1x01 33
 CLOSED: [2021-07-21 Wed 08:20]
 
@@ -588,8 +588,7 @@ CLOSED: <2021-10-19 Tue 20:21>
 **** DONE 1x13 Kobol's Last Gleaming, Part II
 CLOSED: <2021-10-19 Tue 10:48>
 
-*** 📂BSG S2 (20 episodes) :P2005:
-DEADLINE: <2022-05-31 Tue>
+*** DONE 📂BSG S2 (20 episodes) :P2005:
 
 2005-07-15 — 2006-04-10
 
@@ -665,7 +664,7 @@ CLOSED: [2023-07-08 Sat 20:10] SCHEDULED: <2023-07-16 Sun>
 
 这部网络剧的作用是连接第二季和第三季，有 1 到 10 的合集版，十分推荐
 
-*** 📂BSG S3 (20 eps) :P2006:
+*** DONE 📂BSG S3 (20 eps) :P2006:
 **** DONE 3x01 Occupation
 CLOSED: [2023-07-10 Mon 08:02] SCHEDULED: <2023-07-16 Sun>
 
@@ -734,7 +733,7 @@ CLOSED: [2024-06-06 Thu 18:43]
 在看完第三季之前不要看最后10分钟
 
 **** Razer: Flashback
-*** DOING 📂BSG S4 (20 eps) :P2008:
+*** DONE 📂BSG S4 (20 eps) :P2008:
 **** DONE [#B] 4x01
 CLOSED: [2024-06-07 Fri 18:41]
 
@@ -775,10 +774,20 @@ CLOSED: <2024-06-22 Sat 20:53>
 CLOSED: [2024-06-24 Mon 20:14]
 
 **** DONE [#B] 4x15
-CLOSED: [2024-06-25 Tue 18:47]
+CLOSED: [2024-07-08 Mon 12:49]
 
-**** 4x16
-**** [#B] 4x17
+**** DONE 4x16
+CLOSED: [2024-06-27 Thu 18:47]
+
+**** DONE [#B] 4x17
+CLOSED: [2024-07-02 Tue 20:14]
+
+**** DONE 4x18
+CLOSED: <2024-07-03 Wed 17:27>
+
+**** DONE 4x19-21
+CLOSED: [2024-07-08 Mon 12:49]
+
 *** The Face of the Enemy (10集短篇)
 *** Caprica (前传，18集)
 *** Blood & Chrome
@@ -1009,7 +1018,7 @@ https://starwars.fandom.com/wiki/Obi-Wan_Kenobi_(television_series)?so=search
 
 https://starwars.fandom.com/wiki/Andor_(television_series)?so=search
 
-***** DOING [#A] 📂season 1 (12 eps) :P2022_09:
+***** DONE [#A] 📂season 1 (12 eps) :P2022_09:
 ****** DONE 1x01
 CLOSED: [2024-06-12 Wed 20:09]
 
@@ -1040,8 +1049,12 @@ CLOSED: [2024-06-22 Sat 19:30]
 ****** DONE 1x10
 CLOSED: [2024-06-25 Tue 08:12]
 
-****** 1x11
-****** 1x12
+****** DONE 1x11
+CLOSED: [2024-06-28 Fri 20:05]
+
+****** DONE 1x12
+CLOSED: [2024-06-30 Sun 09:55]
+
 ***** season 2
 **** The Acolyte :132BBY:P2024:
 **** Rangers of the New Republic
@@ -1157,7 +1170,7 @@ CLOSED: [2024-06-11 Tue 08:12]
 ****** DONE 2x22 :Boba_Fett:Aurra_Sing:
 CLOSED: [2024-06-11 Tue 08:40]
 
-***** DOING 📂TCW season 3 (22 eps) :P2010:21BBY:20BBY:
+***** DONE 📂TCW season 3 (22 eps) :P2010:21BBY:20BBY:
 
 22–21–20 BBY
 
@@ -1196,7 +1209,7 @@ CLOSED: [2024-06-27 Thu 08:05]
 
 后两集有各种战斗机器人 (battle droids)
 
-****** 3x21 Padawan Lost
+****** 3x21/22 Padawan Lost / Wookiee Hunt :Chewie:
 ***** 📂season 4 (22 eps) :P2011:20BBY:
 ****** 4x14 A Friend in Need :Bo_Katan:
 ****** 4x22 Revenge :Maul:
@@ -1205,8 +1218,8 @@ CLOSED: [2024-06-27 Thu 08:05]
 ****** 5x15 Shades of Reason :Bo_Katan:
 ****** 5x16 The Lawless :Bo_Katan:
 ****** 5x20 The Wrong Jedi :Ahsoka:
-***** 📂season 6 (13 eps) :P2014:
-***** 📂season 7 (12 eps) :P2020:
+***** 📂season 6 (13 eps) :P2014:19BBY:
+***** 📂season 7 (12 eps) :P2020:19BBY:
 ****** 7x07 Dangerous Debt :Bo_Katan:
 **** The Bad Batch (2021- ) 残次品/异等小队 :19BBY:
 
@@ -1245,7 +1258,7 @@ CLOSED: [2022-04-22 Fri 20:06]
 ****** DONE 1x03 Fighter Flight"
 CLOSED: [2022-04-22 Fri 20:31]
 
-****** DONE 1x04 Rise of the Old Masters
+****** DONE [#B] 1x04 Rise of the Old Masters
 CLOSED: [2022-04-25 Mon 21:54]
 
 ****** DONE 1x05 Breaking Ranks
@@ -1257,10 +1270,10 @@ CLOSED: [2022-05-16 Mon 21:08]
 ****** DONE 1x07 Empire Day
 CLOSED: [2022-05-11 Wed 08:17]
 
-****** DONE 1x08 Gathering Forces
+****** DONE [#B] 1x08 Gathering Forces
 CLOSED: [2022-05-12 Thu 21:09]
 
-****** DONE 1x09 Path of the Jedi :World_Between_Worlds:
+****** DONE [#B] 1x09 Path of the Jedi :World_Between_Worlds:
 CLOSED: [2022-05-20 Fri 23:34]
 
 ****** DONE 1x10 :Lando:
@@ -1275,20 +1288,20 @@ CLOSED: [2022-06-02 Thu 18:45] SCHEDULED: <2022-06-02 Thu>
 ****** DONE 1x13 Rebel Resolve
 CLOSED: [2022-06-05 Sun 16:21] SCHEDULED: <2022-06-06 Mon>
 
-****** DONE 1x14 Fire Across the Galaxy
+****** DONE [#A] 1x14 Fire Across the Galaxy
 CLOSED: [2022-06-18 Sat 00:12] SCHEDULED: <2022-06-07 Tue>
 
 ***** DONE season 2 (22 eps) :P2015:4BBY:3BBY:
 
 4 BBY–3 BBY
 
-****** DONE 2x01-02 The Siege of Lothal :Ahsoka:Lando:Vader:
+****** DONE [#A] 2x01-02 The Siege of Lothal :Ahsoka:Lando:Vader:
 CLOSED: <2023-07-18 Tue 21:52>
 
 ****** DONE 2x03
 CLOSED: [2023-07-19 Wed 22:29]
 
-****** DONE 2x04
+****** DONE [#B] 2x04 Relics of the Old Republic
 CLOSED: [2023-07-19 Wed 22:51]
 
 ****** DONE 2x05
@@ -1303,10 +1316,10 @@ CLOSED: [2023-07-20 Thu 23:05]
 ****** DONE 2x08
 CLOSED: [2023-07-28 Fri 07:58]
 
-****** DONE 2x09
+****** DONE [#B] 2x09 Stealth Strike
 CLOSED: [2023-07-28 Fri 08:19]
 
-****** DONE 2x10 :Ahsoka:
+****** DONE [#A] 2x10 The Future of the Force :Ahsoka:
 CLOSED: [2023-08-02 Wed 08:20]
 
 ****** DONE 2x11
@@ -1327,10 +1340,10 @@ CLOSED: [2023-08-13 Sun 11:38]
 ****** DONE 2x16
 CLOSED: <2023-08-17 Thu 07:53>
 
-****** DONE 2x17
+****** DONE [#B] 2x17 The Honorable Ones
 CLOSED: [2023-08-17 Thu 08:20]
 
-****** DONE 2x18 Shroud of Darkness :Ahsoka:Yoda:Vader:World_Between_Worlds:
+****** DONE [#A] 2x18 Shroud of Darkness :Ahsoka:Yoda:Vader:World_Between_Worlds:
 CLOSED: [2023-08-18 Fri 20:43]
 
 ****** DONE 2x19 :Droids:
@@ -1339,12 +1352,45 @@ CLOSED: [2023-08-19 Sat 12:32]
 ****** DONE 2x20
 CLOSED: [2023-08-19 Sat 13:12]
 
-****** DONE 2x21/22 Twilight of the Apprentice :Vader:Ahsoka:Maul:
+****** DONE [#A] 2x21/22 Twilight of the Apprentice :Vader:Ahsoka:Maul:
 CLOSED: [2023-08-26 Sat 21:31]
 
 Vader 与 Ahsoka 终于得对战一场
 
 ***** season 3 (22 eps) :P2016:2BBY:
+****** DONE 3x01-02 Steps Into Shadow :Tarkin:Thrawn:
+CLOSED: [2024-07-01 Mon 08:14]
+
+****** [#B] 3x03 The Holocrons of Fate :Maul:
+****** DONE 3x04
+CLOSED: [2024-07-05 Fri 22:14]
+
+****** DONE 3x05 Hera's Heroes :Thrawn:Hera:
+CLOSED: [2024-07-09 Tue 23:08]
+
+****** DONE [#B] 3x06 The Last Battle :Rex:
+CLOSED: [2024-07-09 Tue 23:32]
+
+****** DONE 3x07 :Mandalorian:
+CLOSED: [2024-07-12 Fri 21:52]
+
+****** DONE 3x08
+CLOSED: [2024-07-12 Fri 22:28]
+
+****** DONE 3x09
+CLOSED: [2024-07-13 Sat 16:05]
+
+****** 3x10
+****** [#A] 3x11 Visions and Voices :Maul:
+****** 3x12/13 Ghosts of Geonosis
+****** 3x14
+****** [#A] 3x15 Trails of the Darksaber
+****** [#A] 3x16 Legacy of Mandalore
+****** [#A] 3x17 Through Imperial Eyes
+****** ...
+****** 3x20 Twin Suns :Maul:
+****** 3x21
+****** 3x22
 ***** season 4 (16 eps) :P2017:
 ****** 4x07 Kindred :World_Between_Worlds:
 ****** 4x13 A World Between Worlds :World_Between_Worlds:
@@ -1621,16 +1667,10 @@ CLOSED: [2023-08-29 Tue 14:02]
 - Republic #55-67
 - Darth Maul — Death Sentence #1-4
 
-****** [#B] The Battle of Jabiim (Star Wars: Republic #55-58) :hanzify:
+****** [#B] The Battle of Jabiim 贾毕姆之战 (Star Wars: Republic #55-58) :hanzify:
 ***** epic collection: The Clone Wars vol.3
-****** General Grievous
-
-20BBY
-
-****** Obsession
-
-19BBY
-
+****** General Grievous :20BBY:hanzify:
+****** Obsession :hanzify:19BBY:
 ***** epic collection: The Clone Wars vol.4 :19BBY:
 ****** Darth Maul — Son of Dathomir :hanzify:canon:
 ****** Star Wars: Episode III — Revenge of the Sith
@@ -1643,44 +1683,47 @@ CLOSED: [2023-08-29 Tue 14:02]
 
 ****** Darth Vader and the Lost Command (2011) :hanzify:
 ****** Dark Times #1-5
-***** epic collection: The Empire Vol. 2
-****** Dark Times #6-17 :19BBY:
+***** epic collection: The Empire Vol. 2 :19BBY:
+****** Dark Times #6-17
 ****** Dark Times—Out of the Wilderness
-***** epic collection: The Empire Vol. 3
+***** epic collection: The Empire Vol. 3 :19BBY:
 ****** [#B] Darth Vader and the Ghost Prison (2012) :hanzify:
-****** Darth Vader and the Ninth Assassin :19BBY:hanzify:
+****** Darth Vader and the Ninth Assassin :hanzify:
 ****** Dark Times—Fire Carrier #1-5
 ****** Dark Times—A Spark Remains #1-5
-***** NOW epic collection: The Empire Vol. 4
+***** 3QTR epic collection: The Empire Vol. 4
+CLOSED: [2024-06-29 Sat 18:38]
+
 ****** LATER Darth Vader and the Cry of Shadows #1-4 :19BBY:hanzify:
 ****** DONE "Old Wounds"—Star Wars: Visionaries :Obi_Wan:Maul:hanzify:
 CLOSED: [2024-06-21 Fri 13:19]
 
 16 BBY
 
-****** Jabba the Hutt :5BBY:
+****** DONE Jabba the Hutt :5BBY:
+CLOSED: <2024-06-28 Fri 12:59>
 
 - [X] The Gaar Suppoon Hit  (hanzify)
 - [X] The Hunger of Princess Nampi (hanzify)
 - [X] The Dynasty Trap
-- [ ] Betrayal
+- [X] Betrayal
 
-****** #boba_fett misc
+****** DONE #boba_fett misc :Boba_Fett:
+CLOSED: <2024-06-27 Thu 23:03>
 
-- "Prey" — Star Wars Tales 11
-- "Outbid But Never Outgunned" — Star Wars Tales 7
-- "Number Two in the Galaxy" — Star Wars Tales 18
-- "Payback" — Star Wars Tales 18
-- "Being Boba Fett" — Star Wars Tales 18
+- [X] "Prey 猎物" — Star Wars Tales 11
+- [X] "Outbid But Never Outgunned" — Star Wars Tales 7
+- [X] "Number Two in the Galaxy 天下第二" — Star Wars Tales 18
+- [X] "Payback" — Star Wars Tales 18
+- [X] "Being Boba Fett 波巴·费特的一天" — Star Wars Tales 18
 
-
-
-****** DONE [#B] Boba Fett: Enemy of the Empire (1999)
+****** DONE [#B] Boba Fett: Enemy of the Empire (1999) :Boba_Fett:3BBY:
 CLOSED: [2022-04-30 Sat 20:21]
 
-3BBY
+故事还行，但不太喜欢画风
 
-****** misc
+****** DONE misc
+CLOSED: [2024-06-29 Sat 13:57]
 
 - The Duty" — Star Wars Tales 12
 - "Ghost" — Star Wars Tales 11
@@ -1690,13 +1733,9 @@ CLOSED: [2022-04-30 Sat 20:21]
 - "Young Lando Calrissian" — Star Wars Tales 20
 - "Prey" — Star Wars Tales 11
 - "In the Beginning" — Star Wars Tales 11
-- Star Wars: The Art of the Bad Deal
+- Star Wars FCBD2012: The Art of the Bad Deal
 - "Melvin Fett" — Star Wars Tales 20
 - "The Value of Proper Intelligence to Any Successful Military Campaign is Not to Be Underestimated" — Star Wars Tales 19
-
-
-
-
 
 ***** epic collection: The Empire Vol. 5
 ****** Droids (1994) #0-6
@@ -1849,35 +1888,31 @@ https://www.manhuaren.com/manhua-xingqiudazhan-weidayuheianhuanxiang/
 link: https://www.starwars.com/news/a-guide-to-star-wars-rebels-books-and-comics
 
 ***** DONE Han Solo - Imperial Cadet :P2018:Han_Solo:
-CLOSED: [2024-06-24 Mon 12:16] SCHEDULED: <2022-05-14 Sat>
+CLOSED: [2024-06-24 Mon 12:16]
 
 Between 13 BBY and 10 BBY
 
-***** NOW Lando - Double or Nothing :P2018:
-SCHEDULED: <2022-05-14 Sat>
+***** DONE Lando - Double or Nothing :P2018:
+CLOSED: [2024-07-01 Mon 13:30]
 
 10BBY
 
 It told a story that focused on the characters Lando Calrissian and L3-37 just prior to Solo: A Star Wars Story
 
-***** NOW Beckett :oneshot:hanzify:
-***** Solo: A Star Wars Story Adaptation :Han_Solo:Crimson_Dawn:Qira:
-SCHEDULED: <2022-05-14 Sat>
+***** DONE Beckett :oneshot:hanzify:
+CLOSED: [2024-06-29 Sat 07:13]
+
+***** Solo: A Star Wars Story Adaptation :Han_Solo:Chewie:Crimson_Dawn:Qira:
 
 13BBY-10BBY
 
-***** NEXT Han Solo & Chewbacca :P2022:Han_Solo:
+***** NOW Han Solo & Chewbacca :P2022:Han_Solo:Chewie:
 ***** Kanan
-****** DONE [#B] Kanan #1-6: The Last Padawan :Order66:
+****** DONE [#B] Kanan #1-6: The Last Padawan :Order66:19BBY:4BBY:
 CLOSED: <2024-06-16 Sun 23:02>
 
-19 BBY & 4 BBY
-
-It takes place during /Order 66/
-
-****** NOW [#C] Kanan #7-12: Firt Blodd
-
-4 BBY
+****** DONE [#C] Kanan #7-12: Firt Blodd :19BBY:4BBY:
+CLOSED: [2024-07-02 Tue 13:11]
 
 It depicts Kanan's first foray into the Clone Wars
 
@@ -1885,7 +1920,7 @@ It depicts Kanan's first foray into the Clone Wars
 
 /Star Wars: Thrawn/ is a canon comic book miniseries adapting the novel of the same name (2017开始的新三部曲小说，与原三部曲不是一回事）. 
 
-****** NEXT Thrawn :P2018:2BBY:hanzify:
+****** NOW Thrawn :P2018:2BBY:hanzify:
 
 It was written by Jody Houser, illustrated by Luke Ross, and published by Marvel Comics on February 14, 2018, running until July 11, 2018. 
 
@@ -1915,7 +1950,7 @@ CLOSED: [2022-04-27 Wed 13:51]
 
 0 ABY
 
-****** DONE Chewbacca :P2015:
+****** DONE Chewbacca :P2015:Chewie:
 CLOSED: [2022-04-29 Fri 13:22]
 
 0 ABY
