@@ -412,7 +412,7 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 ***** HALF [#C] TW56. The Red List (7.8) :Ace:Colchester:DW2023_05_spinoffs:
       SCHEDULED: <2023-05-28 Sun>
 
-***** [#A] 57. The Grey Mare (8.5) :Ianto:
+***** [#A] 57. The Grey Mare (8.5) :Ianto:DW2024_Q3b_spinoffs:
 ***** [#B] 58. Cadoc Point (8.4) :Andy:
 ***** 3QTR [#A] 59. Sonny (8.9) :Rhys:plot_yes:DW2024_Q2a_spinoffs:
       CLOSED: <2024-03-12 Tue 07:33> SCHEDULED: <2024-03-17 Sun>
@@ -628,7 +628,7 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
 ***** 3QTR [#B] 7.2 Colin Alone :Colchester:DW2024_Q3a_spinoffs:
       CLOSED: [2024-05-30 Thu 19:34] SCHEDULED: <2024-06-16 Sun>
 
-***** [#A] 7.3 Misty Eyes :Gwen:Rhys:
+***** [#A] 7.3 Misty Eyes :Gwen:Rhys:DW2024_Q3b_spinoffs:
 ***** [#C] 7.4 Moderation :Tyler:
 ***** [#D] 7.5 Propaganda :Orr:
 ***** [#A] 7.6 At Her Majesty’s Pleasure :Yvvone:
@@ -930,7 +930,7 @@ Professor Jemima Still has picked up a signal from an impossible source and ta
 
 But their mission is about to unleash hell upon the universe…
 
-***** [#C] 4.2 - Kings of Infinite Space
+***** [#C] 4.2 - Kings of Infinite Space :DW2024_Q3b_spinoffs:
       :PROPERTIES:
       :rating:   7.7
       :END:
@@ -1441,10 +1441,13 @@ Braxiatel的收藏被第五轴占据，由伯尼斯过去的人物领导。
 http://drwhoguide.com/bs_a13.htm
 
 **** [#E] +5.2 The Bone of Contention+
-**** [#B] 5.3 The Relics of Jegg-Sau :plot_yes_dwg:DW2024_Q3a_spinoffs:
+**** HALF [#B] 5.3 The Relics of Jegg-Sau :plot_yes_dwg:DW2024_Q3a_spinoffs:
+     SCHEDULED: <2024-07-07 Sun>
      :PROPERTIES:
      :rating:   8.1
      :END:
+
+https://doctorwho.guide/bs_a15.htm
 
 **** [#D] 5.4 The Masquerade of Death
      :PROPERTIES:
@@ -2268,7 +2271,7 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
     :END:
 
 ** UNIT 2: Shutdown :P2016:plot_yes:
-*** [#C] 2.1 Power Cell (7.5)
+*** [#C] 2.1 Power Cell (7.5) :DW2024_Q3b_spinoffs:
 *** [#D] 2.2 Death in Geneva (7.1)
 *** [#C] 2.3 The Battle of the Tower (7.5)
 *** [#D] 2.4 Ice Station Alpha (7.3)
@@ -2508,14 +2511,27 @@ http://www.drwhoguide.com/kaldor03.htm
 
 **** [#A] 3.3 - Truth and Bone :Sontarans:DW2024_02_spinoffs:
 *** PG: Heritage 4 :P2020:
-**** [#A] 4.1 - Merry Christmas, Mr Jago  (9.0) :Jago:DW2024_Q3a_spinoffs:
-**** [#E] +4.2 - The Ghost Writers+         (6.4)
-**** [#D] 4.3 - Rulers of Earth           (7.4)
+**** START [#A] 4.1 - Merry Christmas, Mr Jago :Jago:DW2024_Q3a_spinoffs:plot_none:
+     SCHEDULED: <2024-07-14 Sun>
+     :PROPERTIES:
+     :rating:   8.9
+     :END:
+
+**** [#E] +4.2 - The Ghost Writers+
+     :PROPERTIES:
+     :rating:   6.4
+     :END:
+
+**** [#D] 4.3 - Rulers of Earth
+     :PROPERTIES:
+     :rating:   7.4
+     :END:
+
 *** PG: Trespassers 1 :P2023_10:
 **** 1.1 The Ghost and the Potato Man
 **** 1.2 Symmetry of Death
 **** 1.3 Till Death Us Do Part
-*** TBR PG: Trespassers 2 - The Casebook of Paternoster Row :P2024_04:
+*** PG: Trespassers 2 - The Casebook of Paternoster Row :P2024_04:
 **** 2.1 Anne of a Thousand Light Years :4th_Dr:
 **** 2.2 Pater Noster
 **** 2.3 The Gentleman Theives
@@ -2559,10 +2575,27 @@ http://www.drwhoguide.com/kaldor03.htm
     SCHEDULED: <2024-04-14 Sun>
 
 ** CM series 3 :P2014:
-*** [#C] 3.1 - Changing of the Guard        (7.5) :DW2024_Q3a_spinoffs:
-*** [#C] 3.2 - The Concrete Cage            (7.5)
-*** [#C] 3.3 - The Forgotten Village        (7.8)
-*** [#A] 3.4 - Unto the Breach              (8.9)
+*** START [#C] 3.1 - Changing of the Guard :plot_cast:DW2024_Q3a_spinoffs:
+    SCHEDULED: <2024-07-14 Sun>
+    :PROPERTIES:
+    :rating:   7.5
+    :END:
+
+*** [#C] 3.2 - The Concrete Cage
+    :PROPERTIES:
+    :rating:   7.5
+    :END:
+
+*** [#C] 3.3 - The Forgotten Village
+    :PROPERTIES:
+    :rating:   7.8
+    :END:
+
+*** [#A] 3.4 - Unto the Breach
+    :PROPERTIES:
+    :rating:   8.9
+    :END:
+
 ** CM series 4 :P2015:
 *** [#D] 4.1 - New Horizons (7.3)
 *** [#C] 4.2 - The Keep (7.9)
@@ -2765,7 +2798,7 @@ http://www.drwhoguide.com/kaldor03.htm
 【【神秘博士广播剧熟肉】The Dimension Cannon 104 The Last Party on Earth 地球最后的狂欢-哔哩哔哩】 https://b23.tv/FHge6fG
 
 *** RTDC vol.2 Other Worlds :P2022_10:
-**** READY [#C] 2.1 Saltwater :bilibili:
+**** READY [#C] 2.1 Saltwater :bilibili:DW2024_Q3b_spinoffs:
 
 【【神秘博士广播剧熟肉】The Dimension Cannon 201 Saltwater 盐水-哔哩哔哩】 https://b23.tv/M44oyPQ
 

@@ -14,7 +14,9 @@
 **** DONE [#D] The Keys of Marinus :Voord:D2022_06_extra:
 CLOSED: [2022-06-15 Wed 22:25] SCHEDULED: <2022-06-15 Wed>
 
-**** [#C] The Aztecs
+**** DONE [#C] The Aztecs
+CLOSED: [2024-07-08 Mon 16:33]
+
 **** [#E] The Sensorites
 **** DONE [#E] The Reign of Terror :part_missing:animated:P2013:
 
@@ -692,23 +694,25 @@ SCHEDULED: <2023-06-24 Sat>
 https://tardis.fandom.com/wiki/Zoe_Heriot#Life_after_the_Doctor
 
 **** with Jamie
-***** [#A] 14.1 The Death of the Daleks :Jamie:Daleks:
-***** [#C] 14.2 The Phantom Piper :Jamie:
+***** [#A] CC14.1 The Death of the Daleks :Jamie:Daleks:DW2024_Q3b_doctor:
+SCHEDULED: <2024-07-27 Sat>
+
+***** [#C] CC14.2 The Phantom Piper :Jamie:
 **** 📂CC10 - The Second Doctor: Volume One :scripted:
 **** 📂CC12 - The Second Doctor: Volume Two :P2018:
 **** 📂CC14 - The Second Doctor: Volume Three :P2022_04:
 *** ST misc :🗣:
-**** [#D] 2.2 - The Way Forwards :Victoria:
+**** [#D] ST2.2 - The Way Forwards :Victoria:
 :PROPERTIES:
 :rating:   7.1
 :END:
 
-**** [#B] 8.X - The Last Day At Work :Jamie:
+**** [#B] ST8.X - The Last Day At Work :Jamie:
 :PROPERTIES:
 :rating:   8.1
 :END:
 
-**** [#C] 10.2 - Deleted Scenes :Jamie:
+**** [#C] ST10.2 - Deleted Scenes :Jamie:
 :PROPERTIES:
 :rating:   7.8
 :END:
@@ -1356,7 +1360,7 @@ CLOSED: [2020-07-15 Wed 19:13]
 **** 4DA series 12 :Leela:Margaret:P2023:
 ***** [#D] 12.1 Ice Heist :Ice_Warriors:P2023_03:2CD:
 ***** CANCEL [#F] 12.2 Antillia the Lost :P2023_03:2CD:
-***** TODO [#C] 12.3 The Wizard of Time :P2023_06:1CD:
+***** TODO [#C] 12.3 The Wizard of Time :P2023_06:1CD:DW2024_Q3b_doctor:
 ***** [#D] 12.4 The Friendly Invasion :P2023_06:1CD:
 ***** [#D] 12.5 Stone Cold :Weeping_Angels:P2023_06:2CD:
 ***** [#B] 12.6 The Ghost of Margaret :P2023_06:1CD:

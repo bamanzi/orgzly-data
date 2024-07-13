@@ -1664,10 +1664,10 @@
 ** dw2024-q2a-doctor
 *** HALF [#C] EA1.1 - Domain of the Voord :1st_Dr:Susan:Ian:Barbara:
 *** 3QTR [#B] ST12.2 AWOL :3rd_Dr:Brig:
-*** HALF [#B] MR161 The Butcher of Brisbane     :5th_Dr:Nyssa:Tegan:Toulough:
+*** HALF [#B] MR161 The Butcher of Brisbane :5th_Dr:Nyssa:Tegan:Toulough:
 *** HALF [#B] UNIT: Dominion #3 :7th_Dr:Klein:Master_bald:UNIT:
 *** 3QTR [#D] 9DA8.1 The Colour of Terror
-*** [#B] 11DC4.1 All of Time and Space :11th_Dr:
+*** START [#B] 11DC4.1 All of Time and Space :11th_Dr:
 ** dw2024-q2a-spinoffs
 *** 3QTR [#A] TW59 Sonny :Rhys:
     CLOSED: [2024-03-24 Sun 08:48]
@@ -1676,7 +1676,7 @@
 *** [#C] J&L8.4 - Higson & Quick :Jago:Litefoot:
 *** HALF [#B] BS7.2 - Timeless Passages
 *** [#C] Susan1.4 The Shoreditch Intervention :Susan:8th_Dr:Alex:
-*** [#C] CM2.4 - Sins of the Fathers
+*** HALF [#C] CM2.4 - Sins of the Fathers
 * DW2024-Q2b
 ** dw2024-q2b-doctor
 *** HALF [#C] EA4.1 The Night Witches :2nd_Dr:Jamie:Polly:Ben:
@@ -1695,27 +1695,47 @@
 *** HALF [#A] GALL3.4 Mindbomb
 * DW2024-Q3a
 ** dw2024-q3a-doctor
-*** 1DA22.2 The Miniaturist :1st_Dr:Dodo:
-*** [#C] 3DA3.1 The Conquest of Far :3rd_Dr:Jo:P2017:plot_no:
+*** 2DONE 1DA22.2 The Miniaturist :1st_Dr:Dodo:
+*** 2DONE [#C] 3DA3.1 The Conquest of Far :3rd_Dr:Jo:P2017:plot_no:
     :PROPERTIES:
     :rating:   7.5
     :END:
 
-*** [#D] MR269c/d Shadow of the Daleks :5th_Dr:
-*** [#C] 7DA22A.2 The Ribos Inheritance :7th_Dr:Mel:
-*** READY [#A] 9DA8.3 Red Darkness :9th_Dr:Vashta_Nerada:bilibili:
+*** HALF [#D] MR269c/d Shadow of the Daleks :5th_Dr:
+*** 2DONE [#C] 7DA22A.2 The Ribos Inheritance :7th_Dr:Mel:
+*** HALF [#A] 9DA8.3 Red Darkness :9th_Dr:Vashta_Nerada:bilibili:
 
 【【神秘博士广播剧熟肉】Shades of Fear 803 Red Darkness 赤红黑暗-哔哩哔哩】 https://b23.tv/RPnCOqH
 
-*** [#D] 11DA4.2 The Yearn :11th_Dr:
+*** HALF [#D] 11DA4.2 The Yearn :11th_Dr:
 ** dw2024-q3a-spinoffs
-*** [#B] TW41 Red Base :Andy:
-*** [#B] TW7.2 Colin Alone :Colchester:
+*** HALF [#B] TW41 Red Base :Andy:
+*** DONE [#B] TW7.2 Colin Alone :Colchester:
 *** [#C] CM3.1 - Changing of the Guard
 *** [#A] PG4.1 - Merry Christmas, Mr Jago
-*** [#B] BS5.3 The Relics of Jegg-Sau
-*** [#D] WM7.2 The Players :Master_war:
-*** [#D] ROB3.1 - The Mystery of Sector 13
+*** HALF [#B] BS5.3 The Relics of Jegg-Sau
+*** HALF [#D] WM7.2 The Players :Master_war:
+*** HALF [#D] ROB3.1 - The Mystery of Sector 13
+* DW2024-Q3b
+** dw2024-q3b-doctor
+*** [#A] CC14.1 The Death of the Daleks :2nd_Dr:Jamie:
+*** [#C] 4DA12.3 The Wizard of Time :4th_Dr:Leela:Margaret:
+*** [#A] MR057 Arrangements of War :6th_Dr:Evelyn:
+*** [#B] 8DDC4.3 - The Side of the Angels :8th_Dr:Liv:Helen:
+*** [#B] 8DDC4.4 - Stop the Clock :8th_Dr:Liv:Helen:
+*** [#C] DU3.2 - The Dalek Defense :10th_Dr:Anya:Mark7:
+*** [#A] WD2.3 - The Neverwhen :War_Dr:DW2024_Q3b_doctor:
+** dw2024-q3b-spinoffs
+*** [#A] TW7.3 Misty Eyes :Gwen:Rhys:
+*** [#A] TW57. The Grey Mare :Ianto:
+*** [#C] UNIT2.1 Power Cell
+*** [#B] WM7.3 Boundaries :Master_war:
+*** [#C] River4.2 - Kings of Infinite Space :River:
+*** Rose2.1 Saltwater
+** pending
+*** JACK2.1 Piece of Mind :Jack:
+*** PG/JL: [#B] J&L 9.1 The Flying Frenchmen
+*** Gallifrey 3.5
 * pending
 ** odd
 *** [#B] LS2.1b The Fragile Yellow Arc of Fragrance (Susan, Ian, Barbara) :plot_yes:
@@ -1732,7 +1752,6 @@ Tales of Trenzalore - 01
 *** [#C] 4DA7.7/7.8 - Kill the Doctor! / The Age of Sutekh  (Leela, Sutehk)
 *** [#C] 6DnP #1 The Headless Ones :6th_Dr:Peri:
 *** WoDW#4 Second Sight :Romana_2:Leela:Yates:
-*** [#B] 8DDC 4.3 - The Side of the Angels :8th_Dr:Liv:Helen:
 *** [#C] MR194. The Rani Elite (6th, Peri) / [#C] MR157. The Fourth Wall (Flip) 2cd
 *** FIXME [#C] ST8.6 The Siege of Big Ben :10th_Dr:plot_yes:Jackie:
 ** spinoffs

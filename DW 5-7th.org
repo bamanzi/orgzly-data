@@ -3,21 +3,23 @@
 
 * 5th Doctor :5th_Dr:
 ** tv :📺:
-*** Season 19
+*** Season 19 :Nyssa:Tegan:Adric:
 **** [#D] Castrovalva (7.3)
 **** CANCEL [#E] Four to Doomsday (6.9)
-**** [#D] Kinda (7.4)
+**** DONE [#D] Kinda (7.4) :The_Mara:
+CLOSED: <2024-07-02 Tue 09:05>
+
 **** [#C] The Visitation (7.6)
 **** [#D] Black Orchid (7.2)
 **** DONE [#A] Earthshock (8.5) :Cybermen:DW2022_10_extra:
 CLOSED: [2022-11-19 Sat 18:32] SCHEDULED: <2022-11-02 Wed>
 
 **** CANCEL [#F] Time-Flight (6.0)
-*** Season 20
-**** [#D] Arc of Infinity (7.1)
-**** [#D] Snakedance (7.2)
-**** [#C] Mawdryn Undead (7.8(
-**** CANCEL [#E] Terminus (6.4)
+*** Season 20 :Tegan:
+**** [#D] Arc of Infinity (7.1) :Nyssa:
+**** [#D] Snakedance (7.2) :Nyssa:The_Mara:
+**** [#C] Mawdryn Undead (7.8) :Nyssa:
+**** CANCEL [#E] Terminus (6.4) :Nyssa:
 **** [#B] Enlightenment (8.1)
 **** CANCEL [#E] The King's Demons (6.6)
 *** 20th anniversary special
@@ -326,14 +328,18 @@ SCHEDULED: <2023-01-06 Fri 08:38>
 :END:
 
 **** 📂269. Shadow of the Daleks 1 :½CD:
-***** 3QTR [#C] 269a. Aimed at the Body :DW2023_09_spinoffs:
-CLOSED: <2023-09-12 Tue 09:13> SCHEDULED: <2023-09-09 Sat>
+***** DONE [#C] 269a. Aimed at the Body :DW2023_09_spinoffs:
+CLOSED: <2024-06-29 Sat 14:55> SCHEDULED: <2023-09-09 Sat>
 
-***** HALF [#E] 269b. Lightspeed :DW2023_09_spinoffs:
-SCHEDULED: <2023-09-24 Sun>
+***** DONE [#E] 269b. Lightspeed :DW2023_09_spinoffs:
+CLOSED: <2024-06-29 Sat 16:42> SCHEDULED: <2023-09-24 Sun>
 
-***** [#E] 269c. The Bookshop at the End of the World :DW2024_Q3a_doctor:
-***** [#B] 269d. Interlude :DW2024_Q3a_doctor:
+***** DONE [#E] 269c. The Bookshop at the End of the World :DW2024_Q3a_doctor:
+CLOSED: <2024-06-29 Sat 16:46> SCHEDULED: <2024-06-29 Sat>
+
+***** HALF [#B] 269d. Interlude :DW2024_Q3a_doctor:
+SCHEDULED: <2024-06-29 Sat>
+
 **** 📂270. Shadow of the Daleks 2
 ***** [#B] 270a. Echo Chamber
 ***** [#D] 270b. Towards Zero
@@ -559,7 +565,10 @@ CLOSED: [2021-07-23 Fri 12:43]
 :rating:   7.7
 :END:
 
-**** LATER [#A] 57. Arrangements for War (8.5) :Evelyn:plot_no:
+**** LATER [#A] 57. Arrangements for War (8.5) :Evelyn:plot_yes_dwg:DW2024_Q3b_doctor:
+
+https://doctorwho.guide/who_bf57.htm
+
 **** [#D] 60. Medicinal Purposes
 :PROPERTIES:
 :rating:   7.1
@@ -1358,8 +1367,8 @@ SCHEDULED: <2024-03-16 Sat>
 ***** CANCEL [#F] Bad Day in Tinseltown :Cybermen:Mel:1CD:
 CLOSED: [2022-10-08 Sat 09:05]
 
-***** HALF [#D] The Ribos Inheritance :Mel:2CD:plot_yes:DW2024_Q3a_doctor:
-DEADLINE: <2024-06-05 Wed 08:26> SCHEDULED: <2024-06-15 Sat>
+***** 3QTR [#D] The Ribos Inheritance :Mel:2CD:plot_yes:DW2024_Q3a_doctor:
+CLOSED: [2024-06-29 Sat 19:45] SCHEDULED: <2024-06-05 Wed 09:27>
 
 需要先看剧集16x01 The Ribos Operation
 

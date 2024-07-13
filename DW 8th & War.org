@@ -538,12 +538,12 @@ CLOSED: <2024-02-11 Sun 14:55> SCHEDULED: <2024-02-10 Sat>
 :END:
 
 ****** [#B] 4.3 - The Side of the Angels :Monk:Weeping_Angels:DW2024_Q3b_doctor:
-SCHEDULED: <2024-05-31 Fri>
+SCHEDULED: <2024-07-27 Sat>
 :PROPERTIES:
 :rating:   8.3
 :END:
 
-****** [#B] 4.4 - Stop the Clock
+****** [#B] 4.4 - Stop the Clock :DW2024_Q3b_doctor:
 :PROPERTIES:
 :rating:   8.1
 :END:
@@ -1398,12 +1398,12 @@ SCHEDULED: <2024-05-26 Sun>
 
 【【广播剧汉化】恶魔的低语 The War Master 战争法师 701 The Forest Penitence-哔哩哔哩】 https://b23.tv/fdIB3vT
 
-**** HALF [#D] 7.2 The Players :bilibili:DW2024_Q3a_spinoffs:
-SCHEDULED: <2024-06-23 Sun>
+**** 2DONE [#D] 7.2 The Players :bilibili:DW2024_Q3a_spinoffs:
+CLOSED: [2024-07-09 Tue 13:25] SCHEDULED: <2024-06-23 Sun>
 
 【【广播剧汉化】蹩脚的自辩 The War Master 战争法师 702 The Players-哔哩哔哩】 https://b23.tv/X3fable
 
-**** READY [#B] 7.3 Boundaries :bilibili:
+**** READY [#B] 7.3 Boundaries :bilibili:DW2024_Q3b_spinoffs:
 
 【【广播剧汉化】徒劳的挣扎 The War Master 战争法师 703 Boundaries-哔哩哔哩】 https://b23.tv/KX01zpP
 
