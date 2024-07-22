@@ -1198,7 +1198,7 @@ CLOSED: [2024-06-15 Sat 20:55]
 ****** DONE 3x10/3x11/2x15 Heroes on Both Sides / Pursuit of Peace / Senate Murders :Padme:
 CLOSED: [2024-06-16 Sun 17:48]
 
-****** DONE 3x12/13/14 Nightsister / Monster / Witches of the Mist :Ventress:Dooku:
+****** DONE 3x12/13/14 Nightsister / Monster / Witches of the Mist :Ventress:Dooku:Nightsisters:
 CLOSED: [2024-06-18 Tue 07:47]
 
 ****** DONE 3x15/16/17 Overlords / Altar of Mortis / Ghosts of Mortis :Anakin:
@@ -1209,9 +1209,18 @@ CLOSED: [2024-06-27 Thu 08:05]
 
 后两集有各种战斗机器人 (battle droids)
 
-****** 3x21/22 Padawan Lost / Wookiee Hunt :Chewie:
+****** DONE 3x21/22 Padawan Lost / Wookiee Hunt :Chewie:
+CLOSED: <2024-06-28 Fri 08:08>
+
 ***** 📂season 4 (22 eps) :P2011:20BBY:
+****** DONE 4x01/02/03 Water War / Gungan Attack / Prisoners :Ackbar:
+CLOSED: [2024-07-17 Wed 19:55]
+
+****** DONE 4x04 :Jar_Jar:Grievous:Dooku:
+CLOSED: [2024-07-20 Sat 20:38]
+
 ****** 4x14 A Friend in Need :Bo_Katan:
+****** 4x19/20 Massacre / Bounty :Nightsisters:
 ****** 4x22 Revenge :Maul:
 ***** 📂season 5 (20 eps) :P2012:19BBY:
 ****** 5x14 Eminence :Bo_Katan:
@@ -1328,7 +1337,7 @@ CLOSED: [2023-08-03 Thu 16:00]
 ****** DONE 2x12 :Leia:
 CLOSED: [2023-08-12 Sat 13:02]
 
-****** DONE 2x13 :Mandalorian:
+****** DONE 2x13 The Protector of Concord Dawn :Mandalorian:
 CLOSED: [2023-08-13 Sun 08:16]
 
 ****** DONE 2x14
@@ -1358,10 +1367,12 @@ CLOSED: [2023-08-26 Sat 21:31]
 Vader 与 Ahsoka 终于得对战一场
 
 ***** season 3 (22 eps) :P2016:2BBY:
-****** DONE 3x01-02 Steps Into Shadow :Tarkin:Thrawn:
+****** DONE 3x01-02 Steps Into Shadow :Tarkin:Thrawn:Bentu:
 CLOSED: [2024-07-01 Mon 08:14]
 
-****** [#B] 3x03 The Holocrons of Fate :Maul:
+****** DONE [#B] 3x03 The Holocrons of Fate :Maul:Bentu:
+CLOSED: [2024-07-15 Mon 08:03]
+
 ****** DONE 3x04
 CLOSED: [2024-07-05 Fri 22:14]
 
@@ -1371,7 +1382,7 @@ CLOSED: [2024-07-09 Tue 23:08]
 ****** DONE [#B] 3x06 The Last Battle :Rex:
 CLOSED: [2024-07-09 Tue 23:32]
 
-****** DONE 3x07 :Mandalorian:
+****** DONE 3x07 Imperial Supercommandos :Mandalorian:
 CLOSED: [2024-07-12 Fri 21:52]
 
 ****** DONE 3x08
@@ -1380,12 +1391,21 @@ CLOSED: [2024-07-12 Fri 22:28]
 ****** DONE 3x09
 CLOSED: [2024-07-13 Sat 16:05]
 
-****** 3x10
-****** [#A] 3x11 Visions and Voices :Maul:
-****** 3x12/13 Ghosts of Geonosis
-****** 3x14
-****** [#A] 3x15 Trails of the Darksaber
-****** [#A] 3x16 Legacy of Mandalore
+****** DONE 3x10 :Thrawn:
+CLOSED: [2024-07-14 Sun 16:14]
+
+****** DONE [#A] 3x11 Visions and Voices :Maul:Bentu:Nightsisters:Darksaber:
+CLOSED: [2024-07-15 Mon 08:25]
+
+****** DONE 3x12/13 Ghosts of Geonosis
+CLOSED: [2024-07-18 Thu 08:13]
+
+****** DONE 3x14
+CLOSED: [2024-07-20 Sat 11:02]
+
+****** DONE [#A] 3x15 Trails of the Darksaber / 3x16 Legacy of Mandalore :Darksaber:Sabine:Mandalorian:
+CLOSED: [2024-07-21 Sun 15:38]
+
 ****** [#A] 3x17 Through Imperial Eyes
 ****** ...
 ****** 3x20 Twin Suns :Maul:
@@ -1612,7 +1632,7 @@ CLOSED: [2023-07-23 Sun 07:54]
 ****** DONE [#C] The Hunt for Aurra Sing (Star Wars (1998) #28-31)
 CLOSED: [2023-07-23 Sun 15:16]
 
-****** DONE Darkness (Star Wars (1998) #32-35) :hanzify:
+****** DONE Darkness (Star Wars (1998) #32-35) :hanzify:Quinlan_Vos:
 ***** 2DONE epic collection: The Menace Revealed Vol. 3 :P2023:
 CLOSED: [2024-06-14 Fri 12:40]
 
@@ -1638,6 +1658,35 @@ CLOSED: [2024-06-13 Thu 19:30]
 - [X] misc (10多个短篇)
 
 ****** Star Wars: Episode II — Attack of the Clones
+****** misc
+
+The Bounty Hunters: Aurra Sing
+"Poison Moon"—Dark Horse Extra 44–47
+ "The Way of the Warrior" — Star Wars Tales 18
+
+"A Jedi's Weapon"—Free Comic Book Day 2002
+
+
+
+Full of Surprises
+
+Most Precious Weapon
+
+Practice Makes Perfect
+
+Machines of War
+
+￼ "The Lesson" — Star Wars Tales 14
+
+￼ "Nobody's Perfect" — Star Wars Tales 20
+
+￼ "Failing Up With Jar Jar Binks" — Star Wars Tales 20
+
+￼ "Fett Club" — Star Wars Tales 24
+
+
+
+
 **** 3. The Clone Wars
 ***** DONE epic collection: The Clone Wars vol.1 :22BBY:
 CLOSED: [2023-09-03 Sun 14:02]
@@ -1906,7 +1955,11 @@ CLOSED: [2024-06-29 Sat 07:13]
 
 13BBY-10BBY
 
-***** NOW Han Solo & Chewbacca :P2022:Han_Solo:Chewie:
+***** NOW Han Solo & Chewbacca :Han_Solo:Chewie:
+****** DONE [#C] The Crystal Run, part 1 (#1-5) :P2022:
+CLOSED: [2024-07-21 Sun 17:09]
+
+****** TODO [#C] The Crystal Run, part 2 (#6-10) :P2023:
 ***** Kanan
 ****** DONE [#B] Kanan #1-6: The Last Padawan :Order66:19BBY:4BBY:
 CLOSED: <2024-06-16 Sun 23:02>
@@ -1920,14 +1973,14 @@ It depicts Kanan's first foray into the Clone Wars
 
 /Star Wars: Thrawn/ is a canon comic book miniseries adapting the novel of the same name (2017开始的新三部曲小说，与原三部曲不是一回事）. 
 
-****** NOW Thrawn :P2018:2BBY:hanzify:
+****** LATER Thrawn :P2018:2BBY:hanzify:
 
 It was written by Jody Houser, illustrated by Luke Ross, and published by Marvel Comics on February 14, 2018, running until July 11, 2018. 
 
 The limited comic series takes place between /Star Wars: Episode III Revenge of the Sith/ and /Star Wars: Episode IV A New Hope/, _it leads right into /Star Wars: Rebels season 3/ with /Steps Into Shadow (episodes 3.01 and 3.02)/_,
 and follows the life of /Mitth'raw'nuruodo/, Thrawn as he rises through the ranks of the Galactic Empire and makes many friends---and foes---alike.
 
-****** Thrawn - Alliances :P2024:2BBY:hanzify:
+****** LATER Thrawn - Alliances :P2024:2BBY:hanzify:
 
 Set between the third and fourth seasons of the animated television show /Star Wars Rebels/.
 
@@ -1935,11 +1988,11 @@ Set between the third and fourth seasons of the animated television show /S
 
 set between the /Star Wars Rebels/ episodes "Rebel Assault"(4x09) and "Family Reunion – and Farewell."(4x15)
 
-***** Rogue One Adaptation
+***** LATER Rogue One Adaptation
 
 13 BBY–1 BBY
 
-***** NOW Guardians of the Whills: The Manga :1BBY:
+***** LATER Guardians of the Whills: The Manga :1BBY:
 
 The manga adaptation of the novel /Star Wars: Guardians of the Whills/, by /Greg Rucka/, revisits fan-favorite characters /Baze Malbus/ and /Chirrut Îmwe/ before they joined the Rebellion in the blockbuster film /Rogue One: A Star Wars Story/.
 
