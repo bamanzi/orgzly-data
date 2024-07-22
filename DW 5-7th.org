@@ -4,7 +4,7 @@
 * 5th Doctor :5th_Dr:
 ** tv :📺:
 *** Season 19 :Nyssa:Tegan:Adric:
-**** [#D] Castrovalva (7.3)
+**** [#D] Castrovalva (7.3) :Master_tremas:
 **** CANCEL [#E] Four to Doomsday (6.9)
 **** DONE [#D] Kinda (7.4) :The_Mara:
 CLOSED: <2024-07-02 Tue 09:05>
@@ -14,7 +14,7 @@ CLOSED: <2024-07-02 Tue 09:05>
 **** DONE [#A] Earthshock (8.5) :Cybermen:DW2022_10_extra:
 CLOSED: [2022-11-19 Sat 18:32] SCHEDULED: <2022-11-02 Wed>
 
-**** CANCEL [#F] Time-Flight (6.0)
+**** CANCEL [#F] Time-Flight (6.0) :Master_tremas:
 *** Season 20 :Tegan:
 **** [#D] Arc of Infinity (7.1) :Nyssa:
 **** [#D] Snakedance (7.2) :Nyssa:The_Mara:
@@ -32,7 +32,7 @@ CLOSED: [2022-11-19 Sat 18:32] SCHEDULED: <2022-11-02 Wed>
 CLOSED: <2021-10-05 Tue 20:27>
 
 **** [#C] Planet of Fire (7.5)
-**** [#C] The Caves of Androzani (8.7)
+**** [#A] The Caves of Androzani (8.7)
 ** audio :🎧:
 
 https://tardis.fandom.com/wiki/Fifth_Doctor_audio_stories
@@ -41,7 +41,7 @@ https://tardis.fandom.com/wiki/Fifth_Doctor_audio_stories
 **** DONE 024. The Eye of the Scorpion :Peri:Erimem:D2021_04:
 CLOSED: <2021-05-16 Sun 08:12>
 
-**** DONE [#C] 038. The Church and the Crown :Peri:Erimem:DW2022_07_doctor:
+**** DONE [#C] 038. The Church and the Crown :Peri:Erimem:DW2022_07_doctor:Richelieu:
 CLOSED: [2022-07-14 Thu 06:48] SCHEDULED: <2022-07-10 Sun>
 :PROPERTIES:
 :rating:   7.7
@@ -162,7 +162,7 @@ CLOSED: [2021-06-17 Thu 23:01]
 
 **** [#D] 129. Plague of the Daleks
 **** CANCEL [#E] 137. The Whispering Forest
-**** [#D] 138. The Cradle of the Snake
+**** [#D] 138. The Cradle of the Snake :The_Mara:
 **** 📂142. The Demons of Red Lodge and Other Stories :Nyssa:short:
 ***** The Demons of Red Lodge
 ***** The Entropy Composition
@@ -346,8 +346,6 @@ SCHEDULED: <2024-06-29 Sat>
 ***** [#E] 270c. Castle Hydra
 ***** [#D] 270d. Effect and Cause
 *** MR misc :scripted:2CD:
-**** The Sirens of Time
-**** Zagreus
 **** 2DONE [#D] 087. The Gathering :Cybermen:Tegan:plot_no:D2022_03_doctor
 CLOSED: [2022-03-27 Sun 12:08] SCHEDULED: <2022-03-30 Wed>
 :PROPERTIES:
@@ -417,7 +415,7 @@ CLOSED: [2022-11-27 Sun 23:36] SCHEDULED: <2022-11-16 Wed>
 
 ***** 2. Resistor :1CD:
 **** 2024A. The Dream Team :P2024_04:
-**** TBR NA12. Goth Opera :P2024_07:
+**** NA12. Goth Opera :P2024_07:3CD:
 *** with Zara & Abby
 **** [#E] 117. The Judgement of Isskar :Zara:Abby:Ice_Warriors:
 **** [#D] 118. The Destroyer of Delights :Zara:Abby:
@@ -497,7 +495,6 @@ part of /Short Trips: Monsters/
 * 6th Doctor :6th_Dr:
 ** tv :📺:
 *** Season 21
-**** The Caves of Androzani
 **** CANCEL [#F] The Twin Dilemma (5.4)
 *** Season 22
 **** DONE [#F] Attack of the Cybermen (6.9)
@@ -518,7 +515,7 @@ CLOSED: [2021-07-25 Sun 21:08]
 **** DONE [#D] Terror of the Vervoids (7.0) :D2021_Q4:Mel:
 CLOSED: <2021-12-02 Thu 21:20>
 
-**** DONE [#D] The Ultimate Foe (7.2)
+**** DONE [#D] The Ultimate Foe (7.2) :Master_tremas:
 CLOSED: [2021-12-12 Sun 17:32]
 
 *** Season 24
@@ -552,29 +549,32 @@ CLOSED: [2021-07-15 Thu 14:15]
 :rating:   7.8
 :END:
 
-**** DONE [#A] 40. Jubilee (9.0) :Evelyn:Daleks:plot_no:
+**** DONE [#A] 40. Jubilee (9.0) :Daleks:plot_no:
 CLOSED: [2021-03-30 Tue 17:52]
 
-**** [#A] 43. Doctor Who and The Pirates (8.8) :Evelyn:plot_yes:
+**** [#A] 43. Doctor Who and The Pirates (8.8) :plot_yes:
 
 or The Lass that Lost a Sailor 
 
-**** 2DONE [#C] MR45. Project: Lazarus :7th_Dr:Evelyn:D2021_08_dr:
+**** 2DONE [#C] MR45. Project: Lazarus :7th_Dr:D2021_08_dr:
 CLOSED: [2021-07-23 Fri 12:43]
 :PROPERTIES:
 :rating:   7.7
 :END:
 
-**** LATER [#A] 57. Arrangements for War (8.5) :Evelyn:plot_yes_dwg:DW2024_Q3b_doctor:
+**** HALF [#A] 57. Arrangements for War (8.5) :plot_yes_dwg:DW2024_Q3b_doctor:
+SCHEDULED: <2024-08-03 Sat>
 
 https://doctorwho.guide/who_bf57.htm
+
+Taking place immediately after the first half of /Project: Lazarus/
 
 **** [#D] 60. Medicinal Purposes
 :PROPERTIES:
 :rating:   7.1
 :END:
 
-**** [#C] 73. Thicker than Water :Mel:Evelyn:
+**** [#C] 73. Thicker than Water ↗ :Mel:Evelyn:
 **** DONE [#C] 084. The Nowhere Place :D2021_06:underrated:
 CLOSED: <2021-06-09 Wed 08:10>
 :PROPERTIES:
@@ -583,6 +583,7 @@ CLOSED: <2021-06-09 Wed 08:10>
 :END:
 
 **** 100. 100
+***** [#E] 100a. 100 BC
 ***** READY [#B] 100b. My Own Private Wolfgang (8.0) :plot_no:bilibili:
 
 【【DW广播剧翻译】MR 100b - 独属于我的沃尔夫冈-哔哩哔哩】 https://b23.tv/iDORqth
@@ -592,6 +593,7 @@ CLOSED: <2021-06-09 Wed 08:10>
 :rating:   7.8
 :END:
 
+***** [#D] 100d. The 100 Days of the Doctor
 **** CANCEL [#E] 108. Assassin in the Limelight
 :PROPERTIES:
 :rating:   6.8
@@ -691,10 +693,12 @@ Volume One
 
 **** 📂The Lost Stories
 ***** The Lost Stories s1 :Peri:2CD:scripted:
-****** [#E] LS1.1 The Nightmare Fair :ToyMaker:
+****** READY [#E] LS1.1 The Nightmare Fair :ToyMaker:bilibili:
 :PROPERTIES:
 :rating:   6.8
 :END:
+
+【【神秘博士广播剧熟肉】The Lost Story 101 The Nightmare Fair -梦魇游乐园-哔哩哔哩】 https://b23.tv/BCSkW8Z
 
 ****** CANCEL [#F] +LS1.2 Mission to Magnus+ :ice_warriors:
 :PROPERTIES:
@@ -765,7 +769,7 @@ CLOSED: [2022-04-22 Fri 08:22] SCHEDULED: <2022-04-30 Sat>
 :rating:   9.0
 :END:
 
-***** [#C] 065. The Juggernauts :Davros:
+***** DONE [#C] 065. The Juggernauts :Davros:
 ***** [#D] 066. Catch-1792
 ***** [#C] 073. Thicker Than Water
 ***** CANCEL [#E] 097a The Wishing Beast
@@ -1014,7 +1018,9 @@ CLOSED: [2024-05-21 Tue 16:37] SCHEDULED: <2024-05-11 Sat>
 ** tv :📺:
 *** S24
 **** CANCEL [#F] 24x01 - Time and the Rani (5.1)
-**** TODO [#F] 24x02 - Paradise Towers (6.1) :DW2023_02_extra:
+**** DONE [#F] 24x02 - Paradise Towers (6.1)
+CLOSED: [2024-07-17 Wed 20:45]
+
 **** CANCEL [#F] 24x03 - Delta and the Bannermen (6.0)
 **** CANCEL [#F] 24x04 - Dragonfire (6.3)
 *** S25
@@ -1027,10 +1033,10 @@ CLOSED: [2022-12-01 Thu 23:49]
 
 **** [#D] 25x04 The Greatest Show in the Galaxy (7.2)
 *** S26
-**** [#C] S26E01 - Battlefield (7.4)
+**** DONE [#C] S26E01 - Battlefield (7.4)
 **** [#D] S26E02 鬼舍之光 - Ghost Light (7.2)
 **** [#B] S26E03 Fenric的诅咒 - The Curse of Fenric (8.2)
-**** [#C] S26E04 幸存 - Survival (7.7)
+**** [#C] S26E04 幸存 - Survival (7.7) :Master_tremas:
 ** audio :🎧:
 
 https://tardis.fandom.com/wiki/Seventh_Doctor_audio_stories
@@ -1448,8 +1454,18 @@ CLOSED: [2023-02-03 Fri 13:08]
 DWMGN #15
 
 ***** DONE Nemesis of the Daleks (DWM152-155) :Abslom_Daak:Daleks:
-***** Stairway to Heaven (DWM156)
-***** (The Incredible Hulk Presents 1-12)
+***** DONE Stairway to Heaven (DWM156)
+***** Doctor Who (The Incredible Hulk Presents 1-12)
+****** Once in a Lifetime
+****** Hunger from the Ends of Time!
+****** War World!
+****** Technical Hitch
+****** A Switch in Time!
+****** The Sentinel!
+****** Who's That Girl!
+****** The Enlightenment of Ly-Chee the Wise
+****** Slimmer!
+****** Nineveh!
 ***** DONE Hunger from the Ends of Time! (DWM157-158)
 ***** DONE Train-Flight (DWM159-161) :Sarah:
 ***** Doctor Conkerer! (DWM162)
@@ -1462,21 +1478,35 @@ DWM27-30, 44-46
 
 DWMGN #20
 
-***** (DWM164-166) Fellow Travellers :Ace:
-***** (DWM167) Darkness, Falling :no_doctor:Brigadier:Mandragora_Helix:
-***** (DWM168) Distractions :Ace:Mandragora_Helix:
-***** (DWM169-172) The Mark of Mandragora :Ace:Brigadier:Mandragora_Helix:
-***** (DWM173) Party Animals :Ace:
-***** (DWM174) The Chameleon Factor :Ace:
+***** DONE (DWM164-166) Fellow Travellers :Ace:
+CLOSED: [2024-07-07 Sun 15:48]
+
+***** LATER (DWM167) Darkness, Falling :no_doctor:Brigadier:Mandragora_Helix:
+***** LATER (DWM168) Distractions :Ace:Mandragora_Helix:
+***** LATER (DWM169-172) The Mark of Mandragora :Ace:Brigadier:UNIT:Mandragora_Helix:
+***** DONE (DWM173) Party Animals :Ace:Beep:
+CLOSED: [2024-07-07 Sun 21:13]
+
+***** DONE (DWM174) The Chameleon Factor :Ace:
+CLOSED: [2024-07-07 Sun 21:21]
+
 ***** DONE (DWM175-178) The Good Soldier :Ace:Cybermen:
-***** (DWM179) A Glitch in Time :Ace:
-***** (DWMS1991) Seaside Rendezvous :Ace:
+***** DONE (DWM179) A Glitch in Time :Ace:
+CLOSED: [2024-07-07 Sun 21:45]
+
+***** DONE (DWMS1991) Seaside Rendezvous :Ace:
+CLOSED: [2024-07-07 Sun 21:58]
+
 **** DWMGN: Evening's Empire (DWM180-192)
 
 DWMGN #22
 
-***** Evening's Empire (DWM180) :Ace:
-***** The Grief (DWM185-187) :Ace:
+***** DONE Evening's Empire (part 1) (DWM180) :Ace:UNIT:
+CLOSED: [2024-07-11 Thu 13:22]
+
+***** DONE The Grief (DWM185-187) :Ace:
+CLOSED: [2024-07-16 Tue 23:15]
+
 ***** Ravens (DWM188-190)
 ***** Memorial (DWM191) :Ace:
 ***** Cat Litter (DWM192) :Ace:
@@ -1644,6 +1674,23 @@ DWMGN #24
 ***** Plastic Millenium :Mel:DWMS:P1994:
 ***** Ground Zero :Ace:Threshold:P1996:
 ***** The Last Word :Benny:P2001:
+*** DWM graphic novels
+**** DONE Abslom Daak - Dalek Killer :Marvel:P1990:
+***** Abslom Daak... Dalek Killer
+***** Star Tigers
+***** Nemesis of the Daleks
+***** A Slow Night in Paradise (prose)
+**** DONE Evening's Empire :Ace:P1993:Marvel:
+CLOSED: [2024-07-11 Thu 13:24]
+
+DWCC 1993 Autumn Special
+
+**** The Mark of Mandragora :Virgin:P1993:
+***** DONE Train-Flight (DWM159-161) :Sarah:
+***** Doctor Conkerer! (DWM162)
+***** LATER (DWM167) Darkness, Falling :no_doctor:Brigadier:Mandragora_Helix:
+***** LATER (DWM168) Distractions :Ace:Mandragora_Helix:
+***** LATER (DWM169-172) The Mark of Mandragora :Ace:Brigadier:Mandragora_Helix:
 *** Operation Volcano (Titan Comics)
 ** novels
 *** [#A] The Also People

@@ -441,19 +441,25 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 ***** [#A] 70. Double part2 :Autons:plot_yes:
 ***** [#E] 71. The Last Love Song of Suzie Costello :Suzie:plot_yes:
 ***** [#D] 72. The Thirst Trap :Andy:Rhys:plot_yes:
-**** series 9
+**** series 9 (73-84)
 ***** [#E] 73. Launch Date :Ianto:P2023_04:
-***** 74. Sigil :Bilis_Manger:P2023_08:
-***** 75. Dog Hop :Andy:plot_yes:
-***** 76. Odyssey :plot_yes:Ood:
-***** 77. Oodunnit :Ood:Zack:
-***** 78. Oracle :P2023_12:
-***** 79. Poppet
-***** 80. Sabotage :Colchester:Ace:
-***** 81. Tube Strike :Ianto:
+***** [#B] 74. Sigil :Bilis_Manger:P2023_08:
+***** [#E] 75. Dog Hop :Andy:plot_yes:
+***** [#D] 76. Odyssey :plot_yes:Ood:
+***** [#E] 77. Oodunnit :Ood:Zack:
+***** [#D] 78. Oracle :Ood:P2023_12:
+***** [#C] 79. Poppet :Rhys:
+***** [#B] 80. Sabotage :Colchester:Ace:
+***** 80X. Torchwood: Another Postcard from Mr Colchester
+***** 81. Tube Strike :Ianto:P2024_03:
 ***** 82. Missing Molly :Ianto:P2024_04:
 ***** 83. Disco :Ianto:
 ***** 84. The Restoration of Catherine :Andy:Norton:
+**** series 10
+***** 85. Art Decadence :The_Mara:P2024_07:
+***** TBR 86. End Game :Tosh:
+***** TBR 87. The Hollow Choir
+***** TBR 88. Widdershins
 *** specials
 **** 2DONE [#B] special 1: The Torchwood Archive :P2016:The_Commitee:2CD:plot_yes:
      CLOSED: [2020-11-19 Thu 18:33]
@@ -508,7 +514,7 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
       :rating:   7.5
       :END:
 
-*** tv continuation :🎧:1CD:
+*** tv continuation :1CD:
 **** S5. Aliens Among Us
 ***** 2DONE [#B] 5.01 Changes Everything
       CLOSED: [2021-01-31 Sun 18:37]
@@ -805,7 +811,7 @@ https://tardis.fandom.com/wiki/Parasite_(audio_story)
       :END:
 
 **** Torchwood Soho #3 The Unbegotten :Norton:Andy:Lizbeth:P2022_10:
-**** TBR Soho #4: Ascension :P2024_07:
+**** Soho #4: Ascension :P2024_07:
 *** BBC audio dramas :🎧:scripted:
 **** [#D] 1. Lost Souls :Martha:
 **** 3QTR [#B] TWB2. Asylum :Jack:Gwen:Ianto:Andy:DW2023_05_spinoffs:
@@ -1059,10 +1065,10 @@ Roberts Master
 ***** [#A] part3. The Bird from the Nest
 ***** [#A] part4. The Isle on the Shore
 **** 📂DoRS 12 - The Orphan Quartet :P2023_08:
-***** 12.1 The Excise Men
-***** 12.2 Harvest of the Krotons
-***** 12.3 Dead Man Talking
-***** 12.4 The Wife of River Song
+***** [#E] 12.1 The Excise Men
+***** [#E] 12.2 Harvest of the Krotons
+***** [#A] 12.3 Dead Man Talking
+***** [#E] 12.4 The Wife of River Song
 *** The Death and Life of River Song
 *** misc
 **** DONE R&J (The Lives of Captain Jack #3.3) :Jack:
@@ -1737,8 +1743,8 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
 *** 2.1 Every Dark Thought
 *** 2.2 Empress of the Drahvins
 *** 2.3 The Angel of History
-* #Master :🎧:
-** Missy :Master_missy:
+* #Master
+** Missy :Master_missy:🎧:
 *** Missy series 1
 **** START [#C] 1.1 A Spoonful of Mayhem :D2021_07_extra:
      :PROPERTIES:
@@ -1801,7 +1807,7 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
 **** 4.1 Missy and the Time Assassin
 **** 4.2 Bad Apple Brigade
 **** 4.3 The Baron Robbers
-** Masterful
+** Masterful :🎧:
 *** READY Masterful :bilibili:
 
 【【神秘博士广播剧】Masterful 混乱之主 01-哔哩哔哩】 https://b23.tv/WSXHwtR
@@ -1861,6 +1867,7 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
 **** 3.3 Hellbound
 ** The War Master  ↗
 ** TBR Call Me Master :Master_spy:
+** misc
 * #Daleks :daleks:
 ** #Davros :Davros:
 *** tv :📺:
@@ -2244,6 +2251,13 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
 **** [#D] 2.1 The Frequency
 **** [#E] 2.2 Haunt
 **** [#E] 2.3 The Last Line of Defence
+** 3QTR [#C] CC6.1 Tales From the Vault :Ruth_Matheson:UNIT:Jo:Romana_1:Zoe:Steven:1st_Dr:2nd_Dr:3rd_Dr:4th_Dr:the_Vault:plot_yes:DW2023_04_spinoffs:
+   CLOSED: <2023-04-18 Tue 08:56> SCHEDULED: <2023-04-09 Sun>
+   :PROPERTIES:
+   :rating:   7.5
+   :END:
+
+** 2DONE CC8.1 Mastermind :Master_decayed:UNIT:Vault:
 * UNIT: The New Series :UNIT_new:🎧:
 ** UNIT 1: Extinction :Nestene:P2015:plot_yes:
 *** START [#C] UNIT1.1 - Vanguard :DW2023_09_spinoffs:
@@ -2562,11 +2576,14 @@ http://www.drwhoguide.com/kaldor03.htm
     :END:
 
 ** CM series 2 :P2013:
-*** HALF [#B] CM2.1 - Manhunt :plot_cast:DW2023_08_spinoffs:
+*** HALF [#B] 2.1 - Manhunt :plot_cast:DW2023_08_spinoffs:
     SCHEDULED: <2023-08-20 Sun>
 
-*** HALF [#B] 2.2 - The Fifth Citadel            (8.3) :DW2023_11_spinoffs:
+*** HALF [#B] 2.2 - The Fifth Citadel :DW2023_11_spinoffs:
     SCHEDULED: <2023-11-26 Sun>
+    :PROPERTIES:
+    :rating:   8.3
+    :END:
 
 *** 3QTR [#C] 2.3 - Peshka :plot_cast:DW2024_01_spinoffs:
     CLOSED: [2024-01-27 Sat 23:42] DEADLINE: <2024-01-28 Sun>
@@ -2621,8 +2638,14 @@ http://www.drwhoguide.com/kaldor03.htm
 * Faction Paradox
 ** audio
 *** The Faction Paradox Protocols (BBV 2001-2004)
-**** 1. The Eleven-Day Empire :P2001:
-**** 2. The Shadow Play :P2001:
+**** READY 1. The Eleven-Day Empire :P2001:bilibili:
+
+【【神秘博士广播剧熟肉】Faction Paradox 101 The Eleven Day Empire 十一日帝国-哔哩哔哩】 https://b23.tv/yggpd5J
+
+**** READY 2. The Shadow Play :P2001:bilibili:
+
+【【神秘博士广播剧熟肉】Faction Paradox 102 The Shadow Play 影子戏-哔哩哔哩】 https://b23.tv/MWqe754
+
 **** 3. Sabbath Dei :P2003:
 **** 4. In the Year of the Cat :P2003:
 **** 5. Movers :P2003:
@@ -2671,7 +2694,10 @@ http://www.drwhoguide.com/kaldor03.htm
 
 **** [#E] +1.4 Ghost Town+ (6.4)
 **** [#D] 1.5 Mirror, Signal, Manoeuvre (7.1)
-**** [#C] 2.1 Buried Secrets (7.5)
+**** [#C] 2.1 Buried Secrets (7.5) :plot_yes_dwg:
+
+https://doctorwho.guide/sj_06.htm
+
 **** [#B] 2.2 Snow Blind (8.4)
 **** [#B] 2.3 Fatal Consequences (8.1)
 **** [#B] 2.4 Dreamland (8.1)
@@ -2695,6 +2721,10 @@ http://www.drwhoguide.com/kaldor03.htm
 
 ** audio
 * misc spin-offs (classic)
+** K9 and Company
+*** DONE A Girl's Best Friend :P1981:
+    CLOSED: [2024-07-15 Mon 20:32]
+
 ** (^)
 *** UNIT
 *** Bernice Summerfield
@@ -2705,7 +2735,6 @@ http://www.drwhoguide.com/kaldor03.htm
 *** Jago & Litefoot
 *** Missy
 ** ???
-*** Graceless
 *** Iris Wildthyme
 * misc spin-offs (nuwho) :🎧:
 ** The Churchil Years

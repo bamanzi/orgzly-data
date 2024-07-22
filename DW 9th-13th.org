@@ -146,7 +146,7 @@ SCHEDULED: <2024-06-22 Sat>
 ***** 3.3.1 A Theatre of Cruelty
 ***** 3.3.2 The Running Men
 ***** 3.3.3 Ancient History
-**** TBR S3.4 Star-Crossed :River:P2024_05:
+**** S3.4 Star-Crossed :River:P2024_05:
 ***** 3.4.1 Swipe Right
 ***** 3.4.2 Face of the Apocalypse
 ***** 3.4.3 Archipelago
@@ -256,7 +256,7 @@ https://link.zhihu.com/?target=http%3A//id24601.lofter.com/post/1cce6a8f_1c757b0
 **** NOW Monstrous Beauty (DWM556-558) :Rose:DW2023_Q4:
 SCHEDULED: <2023-12-31 Sun>
 
-*** Titan
+*** Titan :Titan_Comics:
 **** DONE Weapons of Past Destruction
 **** 9D0
 ***** DONE Doctormania (#1-3)
@@ -307,7 +307,7 @@ CLOSED: [2020-08-16 Sun 13:55]
 ***** 09-12 Don't Step on the Grass
 ***** 13-16 Final Sacrifice
 **** DW special 2010
-*** Titan
+*** Titan :Titan_Comics:
 **** DONE 10DY1
 CLOSED: [2020-08-16 Sun 17:00]
 
@@ -355,7 +355,7 @@ CLOSED: [2023-01-17 Tue 13:43]
 ***** 05 Revolving Doors
 ***** 06-08,10 Vortex Butterflies
 ***** 11-14 The Good Companion
-**** Once Upon a Time Lord
+**** Once Upon a Time Lord :Martha:9th_Dr:Rose:P2023:
 *** DWM
 **** DWMGN: The Betrothal of Sontar
 
@@ -506,8 +506,22 @@ SCHEDULED: <2022-04-29 Fri>
 :rating:   8.0
 :END:
 
-**** Dalek Universe :P2021:Anya:Mark_7:
-***** _intro
+**** 📂Tenth Doctor Classic Companions :P2022_09:
+***** 2DONE [#C] 1. Splinters :Leela:bilibili:DW2023_12_doctor:
+CLOSED: [2023-12-29 Fri 22:07] SCHEDULED: <2023-12-23 Sat>
+
+【【神秘博士广播剧熟肉】Tenth Doctor Classic Companions 101 Splinters 碎片-哔哩哔哩】 https://b23.tv/SDB2uFD
+
+***** READY [#E] 2. The Stuntman :Nyssa:bilibili:
+
+【【神秘博士广播剧熟肉】Tenth Doctor Classic Companions 102 The Stuntman 特技替身-哔哩哔哩】 https://b23.tv/hT2rOwk
+
+***** READY [#D] 3. Quantum of Axos :Ace:bilibili:
+
+【【神秘博士广播剧熟肉】Tenth Doctor Classic Companions 103 Quantum of Axos 阿克索斯量子-哔哩哔哩】 https://b23.tv/M54MhC5
+
+*** Dalek Universe :P2021:Anya:Mark_7:
+**** _intro
 
 前两季基本就是The Dalek's Master Plan的续作
 
@@ -529,13 +543,14 @@ SCHEDULED: <2022-04-29 Fri>
 
 要理清情节顺序的话大概是这么个顺序
 
-***** READY The Dalek Protocol :4th_Dr:Leela:K9_1:plot_no:bilibili:
+**** READY The Dalek Protocol :4th_Dr:Leela:K9_1:plot_no:bilibili:
 SCHEDULED: <2021-11-08 Mon>
 
 【【神秘博士广播剧熟肉】Dalek Universe - The Dalek Protocol (Part 1&2)-哔哩哔哩】 https://b23.tv/FWNLkZc
 
 【【神秘博士广播剧熟肉】Dalek Universe - The Dalek Protocol (Part 3&4)-哔哩哔哩】 https://b23.tv/MruDd4V
 
+**** Dalek Universe 1
 ***** DONE [#B] DU 1.1 - Buying Time :plot_no:D2021_11_daleks:bilibili:
 CLOSED: <2022-05-21 Sat 19:23> SCHEDULED: <2021-11-06 Sat>
 :PROPERTIES:
@@ -560,6 +575,7 @@ CLOSED: [2022-06-18 Sat 10:57] SCHEDULED: <2022-06-25 Sat>
 
 【【神秘博士广播剧熟肉】Dalek Universe 103 The House of Kingdom 家族-哔哩哔哩】 https://b23.tv/bQCgXoT
 
+**** Dalek Universe 2
 ***** HALF [#D] DU2.1 - Cycle of Destruction :bilibili:DW2023_02_doctor:
 SCHEDULED: <2023-02-21 Tue 08:51>
 :PROPERTIES:
@@ -655,8 +671,13 @@ CLOSED: [2023-10-07 Sat 19:46] SCHEDULED: <2023-10-14 Sat>
 **** [#B] ST11.5 Fear of Flying :P2022_02:
 **** [#C] ST12.5 Table for Two, Dinner for One :P2023_02:
 *** BBC
-**** [#C] NSA #2 The Forever Trap
-**** READY [#A] NSA audio #7: Dead Air :1CD:bilibili:
+**** [#C] NSA #2 The Forever Trap :plot_yes_dwg:
+
+https://doctorwho.guide/forevertrap.htm
+
+**** READY [#A] NSA audio #7: Dead Air :1CD:bilibili:plot_yes_dwg:
+
+https://doctorwho.guide/deadair.htm
 
 【【神秘博士广播剧熟肉】New Series Adventures Audio 7 Dead Air 寂静无声-哔哩哔哩】 https://b23.tv/KSGTaTK
 
@@ -847,7 +868,7 @@ SCHEDULED: <2024-07-13 Sat>
 *** 11DC vol.5 Everywhere and Anywhere :Valarie:P2023_12:
 **** 5.1 Spirit of the Season
 **** 5.2 All’s Fair
-**** 5.3 Sins of the Flesh
+**** 5.3 Sins of the Flesh :Cybermen:
 *** 11DC vol.6 Victory of the Doctor :Valarie:P2024_02:
 **** 6.1 Didn’t You Kill My Mother?
 **** 6.2 Daleks Victorious
@@ -914,7 +935,7 @@ CLOSED: [2020-08-16 Sun 16:52]
 ***** DW special 2013 (The Girl Who Loved Doctor Who)
 **** A Fairytale Life
 **** Assimilation² (crossover with Star Trek)
-*** Titan
+*** Titan :Titan_Comics:
 **** DONE 11DY1
 CLOSED: [2020-08-16 Sun 17:00]
 
@@ -1099,7 +1120,7 @@ SCHEDULED: <2022-04-30 Sat>
 :rating:   7.0
 :END:
 
-*** TBR 12DC vol.3 You Only Die Twice :P2024_03:Keira:
+*** 12DC vol.3 You Only Die Twice :P2024_03:Keira:
 **** 3.1 Sunstrike
 **** 3.2 Never the End
 **** 3.3 You Only Die Twice
@@ -1204,28 +1225,41 @@ DWMGN 027 - The Phantom Piper (12th vol4 - DWM512-523)
 **** DWM misc
 ***** The Clockwise War (DWM524-530) :Bill:
 *** Titan
-**** 12DY1 :Clara:
+**** 12DY1 :Clara:P2015:已购:
 ***** Terrorformer (12D 1-2)
 ***** The Swords of Kali (12D 3-5)
 ***** The Fractures (12D 6-8)
 ***** Gangland (12D 9-10)
 ***** Unearthly Things (12D 11)
 ***** The Hyperion Empire (12D 12-15)
-***** Relative Dimensions (12D 16)
-**** 12DY2
-***** Clara Oswald and the School of Death (12DY2 1-4) :Clara:
-***** The Fourth Wall (12DY2 5) :Clara:
-***** The Twist (12DY2 6-8)
-***** Playing House (12DY2 9-10)
-***** Terror of the Cabinet Noir (12DY2 11-13)
-***** Invasion of the Mindmorphs (12DY2 14-15)
-**** 12DY3
+***** Relative Dimensions (12D 16) :ToyMaker:
+**** 12DY2 :P2016:
+***** DONE Clara Oswald and the School of Death (12DY2 1-4) :Clara:
+CLOSED: [2024-07-06 Sat 06:53]
+
+***** DONE The Fourth Wall (12DY2 5) :Clara:
+CLOSED: [2024-07-07 Sun 13:24]
+
+***** DONE The Twist (12DY2 6-8)
+CLOSED: [2024-07-03 Wed 22:16]
+
+***** DONE Playing House (12DY2 9-10)
+CLOSED: [2024-07-04 Thu 17:25]
+
+***** DONE Terror of the Cabinet Noir (12DY2 11-13) :Richelieu:
+CLOSED: [2024-07-18 Thu 12:55]
+
+***** DONE Invasion of the Mindmorphs (12DY2 14-15)
+CLOSED: [2024-07-20 Sat 09:47]
+
+**** 12DY3 :P2017:
 ***** Beneath the Waves (12DY3 1-4)
 ***** The Boy With the Displaced Smile (12DY3 2)
 ***** The Wolves of Winter (12DY3 5-7) :Bill:
 ***** The Lost Dimension: The Twelfth Doctor (12DY3 8)↗ :Bill:Nardole:
 ***** The Great Shopping Bill (12DY3 9) :Bill:Nardole:
 ***** A Confusion of Angels (12DY3 10-13) :Bill:Nardole:
+**** Ghost Stories :P2017:
 ** novels :📔:
 *** DONE [#B] Deep Time 四维深渊 (3.91) :已购:
 CLOSED: <2022-11-06 Sun>
@@ -1255,29 +1289,50 @@ CLOSED: <2022-11-06 Sun>
 CLOSED: [2021-01-30 Sat 09:15]
 
 *** TV S12 (288-295) :📺:
-**** DONE [#C] 12x1-2 Spyfall (6.6/6.5)
+**** DONE [#C] 12x1-2 Spyfall :Master_spy:
 CLOSED: [2020-06-17 Wed 19:48]
+:PROPERTIES:
+:rating:   6.5
+:END:
 
-**** DONE [#E] 12x3 Orphan 55  4.1
+**** DONE [#E] 12x3 Orphan 55
 CLOSED: [2020-06-30 Tue 22:52]
+:PROPERTIES:
+:rating:   4.1
+:END:
 
-**** DONE [#C] 12x4 Nikola Tesla's Night of Terror 6.5
+**** DONE [#C] 12x4 Nikola Tesla's Night of Terror
 CLOSED: [2020-07-01 Wed 21:35]
+:PROPERTIES:
+:rating:   6.5
+:END:
 
-**** DONE [#A] 12x5 Fugitive of the Judoon †7.6
+**** DONE [#A] 12x5 Fugitive of the Judoon :Fugitive_Dr:
 CLOSED: [2020-07-09 Thu 22:59]
+:PROPERTIES:
+:rating:   7.6
+:END:
 
-**** DONE [#E] 12x06 Praxeus 5.2
+**** DONE [#E] 12x06 Praxeus
 CLOSED: [2020-07-19 Sun 17:55]
+:PROPERTIES:
+:rating:   5.2
+:END:
 
-**** DONE [#D] 12x07 Can You Hear Me 5.8
+**** DONE [#D] 12x07 Can You Hear Me
 CLOSED: <2020-08-02 Sun 18:40>
+:PROPERTIES:
+:rating:   5.8
+:END:
 
-**** DONE [#B] 12x8 The Haunting of Villa Diodati †7.2)
+**** DONE [#B] 12x8 The Haunting of Villa Diodati
 CLOSED: <2020-07-16 Thu 17:56-21:56>
+:PROPERTIES:
+:rating:   7.2
+:END:
 
-**** 12x09 Ascension of the Cybermen
-**** 12x10 The Timeless Children
+**** 12x09 Ascension of the Cybermen :Master_spy:
+**** 12x10 The Timeless Children :Fugitive_Dr:Master_spy:
 *** DONE 296. Revolution of the Daleks :daleks:P2021:
 CLOSED: <2021-01-09 Sat 16:24>
 
@@ -1311,7 +1366,7 @@ CLOSED: [2023-12-24 Sun 22:02] SCHEDULED: <2023-12-24 Sun>
 
 ** audio
 ** comics :📚:
-*** Titan Comics :Titan:
+*** Titan Comics :Titan_Comics:
 **** DONE The Many Lives of Doctor Who
 CLOSED: [2020-07-19 Sun 22:59]
 
@@ -1418,9 +1473,22 @@ CLOSED: [2024-06-08 Sat 15:34]
 *** DONE [#F] 1x01 Space Babies
 CLOSED: [2024-06-26 Wed 21:57] SCHEDULED: <2024-06-22 Sat>
 
-*** [#E] 1x02 The Devil's Chord
-*** [#C] 1x03 Boom
-*** [#B] 1x04 73 Yards
+*** DONE [#E] 1x02 The Devil's Chord
+CLOSED: <2024-06-24 Mon 20:51>
+
+*** DONE [#C] 1x03 Boom
+CLOSED: [2024-06-28 Fri 19:17]
+
+*** DONE [#B] 1x04 73 Yards
+CLOSED: [2024-07-10 Wed 23:28]
+
+*** [#D] 1x05 Dot and Bubble
+*** [#D] 1x06 Rogue
+*** [#B] 1x07 The Legend of Ruby Sunday
+*** [#E] 1x08 Empire of Death
 ** comics
 *** DWM
 **** Mancopolis (#599-605?)
+*** Titan
+**** FCBD 2024
+**** 15D #1-4 Everyone Must Go! :P2024:

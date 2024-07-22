@@ -1,3 +1,6 @@
+#+TODO: TODO NEXT READY BLOCK TBR START HALF 3QTR | 2DONE DONE CANCEL
+#+PRIORITIES: A F C
+
 * 8th Doctor :8th_Dr:
 
 timeline: 
@@ -693,13 +696,13 @@ SCHEDULED: <2024-07-27 Sat>
 ****** 4.3 The Keys of Baker Street
 ****** 4.4 Best Year Ever
 **** 📂What Lies Inside :P2022_11:plot_yes:
-***** Paradox of the Daleks :2CD:bilibili:
+***** [#A] Paradox of the Daleks :2CD:bilibili:
 
 【【广播剧汉化】 旋涡中的莫比乌斯环 Paradox of the Daleks 上-哔哩哔哩】 https://b23.tv/6iEGooT
 
 【【广播剧汉化】 无头无尾的衔尾蛇 Paradox of the Daleks 下-哔哩哔哩】 https://b23.tv/4BN1Xdz
 
-***** The Dalby Spook :1CD:
+***** [#D] The Dalby Spook :1CD:
 **** 📂Connections :P2022_12:1CD:plot_yes:
 ***** Here Lies Drax
 ***** The Love Vampires
@@ -821,7 +824,7 @@ http://blog.sina.cn/dpool/blog/s/blog_6c777581010185u0.html?type=2
 ***** Bad Blood (DWM338-342) :Destrii:
 ***** Sins of the Fathers (DWM343-345) :Destrii:
 ***** The Flood (DWM346-353) :Destrii:Cybermen:
-*** DONE Titan: A Matter of Life and Death (#1-5) :P2016:Josie:
+*** DONE Titan: A Matter of Life and Death (#1-5) :P2016:Josie:Titan_Comics:
 * Last Great Time War timeline :time_war:
 
 https://tardis.fandom.com/wiki/Theory:Timeline_-_Last_Great_Time_War
