@@ -117,8 +117,8 @@ CLOSED: [2024-04-02 Tue 07:41] SCHEDULED: <2024-03-30 Sat>
 【【神秘博士广播剧熟肉】Shades of Fear 801 The Colour of Terror 恐怖之色-哔哩哔哩】 https://b23.tv/upXcyWs
 
 ***** [#E] +8.2 The Blooming Menace+
-***** HALF [#A] 8.3 Red Darkness :Vashta_Nerada:plot_cast:bilibili:DW2024_Q3a_doctor:
-SCHEDULED: <2024-06-22 Sat>
+***** DONE [#A] 8.3 Red Darkness :Vashta_Nerada:plot_cast:bilibili:DW2024_Q3a_doctor:
+CLOSED: [2024-07-16 Tue 08:34] SCHEDULED: <2024-06-22 Sat>
 :PROPERTIES:
 :rating:   8.9
 :END:
@@ -603,14 +603,15 @@ SCHEDULED: <2023-06-23 Fri 19:51>
 
 第三季结尾还接上了The Resurrection of the Daleks
 
-***** READY [#E] DU3.1 - The First Son :bilibili:
+***** READY [#E] DU3.1 - The First Son :bilibili:DW2024_Q3b_doctor:
+SCHEDULED: <2024-08-10 Sat>
 :PROPERTIES:
 :rating:   6.9
 :END:
 
 【【神秘博士广播剧熟肉】Dalek Universe 301 The First Son 第一子-哔哩哔哩】 https://b23.tv/ZcWe1OJ
 
-***** READY [#C] DU3.2 - The Dalek Defense :Davros:bilibili:DW2024_Q3b_doctor:
+***** READY [#C] DU3.2 - The Dalek Defense :Davros:bilibili:
 :PROPERTIES:
 :rating:   7.9
 :END:
@@ -704,7 +705,8 @@ CLOSED: <2021-10-16 Sat 10:18>
 :rating:   3.95
 :END:
 
-*** [#B] Stone Rose 石中女神 :Kindle己购:已购:Rose:
+*** 3QTR [#B] Stone Rose 石中女神 :Kindle己购:已购:Rose:
+CLOSED: [2024-07-27 Sat 13:35]
 :PROPERTIES:
 :rating:   3.92
 :todo:     buy
@@ -1460,7 +1462,8 @@ CLOSED: [2024-01-21 Sun 12:28] SCHEDULED: <2024-01-07 Sun>
 CLOSED: <2024-01-28 Sun 21:37> SCHEDULED: <2024-01-31 Wed>
 
 ** comics
-*** Liberation of the Daleks
+*** DONE Liberation of the Daleks
+CLOSED: [2024-07-26 Fri 13:30]
 
 DWM 584-597
 
@@ -1482,13 +1485,16 @@ CLOSED: [2024-06-28 Fri 19:17]
 *** DONE [#B] 1x04 73 Yards
 CLOSED: [2024-07-10 Wed 23:28]
 
-*** [#D] 1x05 Dot and Bubble
+*** DONE [#D] 1x05 Dot and Bubble
+CLOSED: [2024-07-20 Sat 10:39]
+
 *** [#D] 1x06 Rogue
 *** [#B] 1x07 The Legend of Ruby Sunday
 *** [#E] 1x08 Empire of Death
 ** comics
 *** DWM
-**** Mancopolis (#599-605?)
+**** Mancopolis (#599-603)
+**** The Hans of Fear (#604-)
 *** Titan
 **** FCBD 2024
 **** 15D #1-4 Everyone Must Go! :P2024:

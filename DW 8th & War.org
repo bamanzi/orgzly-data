@@ -65,11 +65,14 @@ CLOSED: [2023-09-02 Sat 23:13] SCHEDULED: <2023-08-12 Sat>
 
 【【神秘博士广播剧熟肉】MR 031 Embrace the Darkness 拥抱黑暗-哔哩哔哩】 https://b23.tv/jwHXAsd
 
-***** READY [#E] +032 - The Time of the Daleks+ (6.3) :bilibili:
+***** READY [#E] +032 - The Time of the Daleks+ :bilibili:
+:PROPERTIES:
+:rating:   6.3
+:END:
 
 【【神秘博士广播剧熟肉】MR 032 The Time of the Daleks 戴立克之时-哔哩哔哩】 https://b23.tv/Wv6gLf7
 
-***** START [#B] 033 - Neverland (8.4) :plot_yes_dwg:bilibili:
+***** START [#B] 033 - Neverland :plot_yes_dwg:bilibili:DW2024_Q3b_doctor:
 :PROPERTIES:
 :rating:   8.5
 :END:
@@ -540,13 +543,13 @@ CLOSED: <2024-02-11 Sun 14:55> SCHEDULED: <2024-02-10 Sat>
 :rating:   7.9
 :END:
 
-****** [#B] 4.3 - The Side of the Angels :Monk:Weeping_Angels:DW2024_Q3b_doctor:
+****** [#B] 4.3 - The Side of the Angels :Monk:Weeping_Angels:DW2024_Q4b_doctor:
 SCHEDULED: <2024-07-27 Sat>
 :PROPERTIES:
 :rating:   8.3
 :END:
 
-****** [#B] 4.4 - Stop the Clock :DW2024_Q3b_doctor:
+****** [#C] 4.4 - Stop the Clock :DW2024_Q4b_doctor:
 :PROPERTIES:
 :rating:   8.1
 :END:
@@ -1319,41 +1322,69 @@ CLOSED: [2020-12-24 Thu 15:51] SCHEDULED: <2021-09-28 Tue>
 *** 📂The War Doctor vol.2 :scripted:🎧:P2016:
 **** 3QTR [#C] 2.1 - Legion of the Lost :bilibili:DW2023_10_doctor:
 CLOSED: [2023-10-26 Thu 08:21] SCHEDULED: <2023-10-29 Sun>
+:PROPERTIES:
+:rating:   7.7
+:END:
 
 【【神秘博士广播剧汉化】 战争博士 The War Doctor 201 Legion of the Lost-哔哩哔哩】 https://b23.tv/NJpCjOt
 
-**** READY [#E] 2.2 - A Thing of Guile :bilibili:
+**** HALF [#E] 2.2 - A Thing of Guile :bilibili:DW2024_Q3b_doctor:
+SCHEDULED: <2024-07-27 Sat>
+:PROPERTIES:
+:rating:   6 7
+:END:
 
 【【神秘博士广播剧翻译】战争博士 The War Doctor 202 a thing of guile-哔哩哔哩】 https://b23.tv/EhOYEfa
 
 **** 3QTR [#A] 2.3 - The Neverwhen :DW2023_12_doctor:bilibili:
 CLOSED: [2023-12-13 Wed 08:37] SCHEDULED: <2023-12-16 Sat>
+:PROPERTIES:
+:rating:   8.5
+:END:
 
 【【神秘博士广播剧翻译】战争博士 The War Doctor 203 The Neverwhen-哔哩哔哩】 https://b23.tv/jkJamuv
 
 *** 📂The War Doctor vol.3 :scripted:🎧:P2016:
 **** READY [#C] 3.1 - The Shadow Vortex :bilibili:
+:PROPERTIES:
+:rating:   7.8
+:END:
 
 【【神秘博士广播剧汉化】The War Doctor 战争博士 301 The Shadow Vortex-哔哩哔哩】 https://b23.tv/uA4IMD3
 
 **** READY [#C] 3.2 - The Eternity Cage :bilibili:
+:PROPERTIES:
+:rating:   7.7
+:END:
 
 【【神秘博士广播剧汉化】The War Doctor 战争博士 302 The Eternity Cage-哔哩哔哩】 https://b23.tv/e4jM8H6
 
 **** READY [#D] 3.3 - Eye of Harmony :bilibili:
+:PROPERTIES:
+:raring:   7.1
+:END:
 
 【【神秘博士广播剧汉化】The War Doctor 战争博士 303 The Eye of Harmony-哔哩哔哩】 https://b23.tv/ydAzkK1
 
 *** 📂The War Doctor vol.4 :scripted:🎧:P2017:
 **** READY [#C] 4.1 - Pretty Lies :bilibili:
+:PROPERTIES:
+:rating:   7.5
+:END:
 
 【【神秘博士广播剧翻译】战争博士 The War Doctor 401 Pretty Lies-哔哩哔哩】 https://b23.tv/v9ZM2Ds
 
 **** READY [#C] 4.2 - The Lady of Obsidian :bilibili:
+:PROPERTIES:
+:rating:   7.5
+:END:
 
 【【神秘博士广播剧翻译】 战争博士 The War Doctor 402 The Lady Of Obsidian-哔哩哔哩】 https://b23.tv/CzHAoeG
 
 **** READY [#D] 4.3 - The Enigma Dimension :bilibili:
+:PROPERTIES:
+:rating:   7.1
+:END:
 
 【【神秘博士广播剧翻译】战争博士 The War Doctor 403 The Enigma Dimension-哔哩哔哩】 https://b23.tv/JRehZlk
 

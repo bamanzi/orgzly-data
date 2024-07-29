@@ -397,27 +397,45 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
       :rating:   7.6
       :END:
 
-***** 3QTR [#A] 54. Curios (8.9) :Bilis_Manger:DW2022_12_spinoffs:
+***** 3QTR [#A] 54. Curios :Bilis_Manger:DW2022_12_spinoffs:
       CLOSED: [2022-12-05 Mon 21:44] SCHEDULED: <2022-12-05 Mon>
       :PROPERTIES:
       :rating:   8.9
       :END:
 
-***** HALF [#A] 55. The Great Sontaran War (8.7) :Ianto:Sontarans:D2021_11_extra:
+***** HALF [#A] 55. The Great Sontaran War :Ianto:Sontarans:D2021_11_extra:
       DEADLINE: <2021-11-25 Thu 12:50> SCHEDULED: <2021-11-27 Sat>
       :PROPERTIES:
       :rating:   8.6
       :END:
 
-***** HALF [#C] TW56. The Red List (7.8) :Ace:Colchester:DW2023_05_spinoffs:
+***** HALF [#C] TW56. The Red List :Ace:Colchester:DW2023_05_spinoffs:
       SCHEDULED: <2023-05-28 Sun>
+      :PROPERTIES:
+      :rating:   7.8
+      :END:
 
-***** [#A] 57. The Grey Mare (8.5) :Ianto:DW2024_Q3b_spinoffs:
-***** [#B] 58. Cadoc Point (8.4) :Andy:
-***** 3QTR [#A] 59. Sonny (8.9) :Rhys:plot_yes:DW2024_Q2a_spinoffs:
+***** [#A] 57. The Grey Mare :Ianto:DW2024_Q3b_spinoffs:
+      :PROPERTIES:
+      :rating:   8.5
+      :END:
+
+***** [#B] 58. Cadoc Point :Andy:
+      :PROPERTIES:
+      :rating:   8.4
+      :END:
+
+***** 3QTR [#A] 59. Sonny :Rhys:plot_yes:DW2024_Q2a_spinoffs:
       CLOSED: <2024-03-12 Tue 07:33> SCHEDULED: <2024-03-17 Sun>
+      :PROPERTIES:
+      :rating:   8.9
+      :END:
 
-***** CANCEL [#E] 60. Infidel Places+ (6.7) :Queen:
+***** CANCEL [#E] 60. Infidel Places :Queen:
+      :PROPERTIES:
+      :rating:   6.7
+      :END:
+
 **** series 8 (61-72)
 ***** HALF [#C] TW61. War Chest :Tosh:P2022_05:plot_yes:DW2023_04_spinoffs:
       DEADLINE: <2023-04-23 Sun> SCHEDULED: <2023-04-19 Wed 08:42>
@@ -634,7 +652,9 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
 ***** 3QTR [#B] 7.2 Colin Alone :Colchester:DW2024_Q3a_spinoffs:
       CLOSED: [2024-05-30 Thu 19:34] SCHEDULED: <2024-06-16 Sun>
 
-***** [#A] 7.3 Misty Eyes :Gwen:Rhys:DW2024_Q3b_spinoffs:
+***** HALF [#A] 7.3 Misty Eyes :Gwen:Rhys:Ng:DW2024_Q3b_spinoffs:
+      SCHEDULED: <2024-07-28 Sun>
+
 ***** [#C] 7.4 Moderation :Tyler:
 ***** [#D] 7.5 Propaganda :Orr:
 ***** [#A] 7.6 At Her Majesty’s Pleasure :Yvvone:
@@ -1172,10 +1192,26 @@ Roberts Master
     :END:
 
 ** J&L series 9 :P2015:
-*** [#B] 9.1 - The Flying Frenchmen              (8.1)
-*** [#B] 9.2 - The Devil's Dicemen               (8.1)
-*** [#C] 9.3 - Island of Death                   (7.5)
-*** [#D] 9.4 - Return of the Nightmare           (7.4)
+*** [#B] 9.1 - The Flying Frenchmen :DW2024_Q3b_spinoffs:
+    :PROPERTIES:
+    :rating:   8.1
+    :END:
+
+*** [#B] 9.2 - The Devil's Dicemen
+    :PROPERTIES:
+    :rating:   8.1
+    :END:
+
+*** [#C] 9.3 - Island of Death
+    :PROPERTIES:
+    :rating:   7.5
+    :END:
+
+*** [#D] 9.4 - Return of the Nightmare
+    :PROPERTIES:
+    :rating:   7.4
+    :END:
+
 ** J&L series 10 :P2015:
 *** [#C] 10.1 - The Case of the Missing Gasogene (7.9)
 *** [#C] 10.2 - The Year of the Bat              (7.7)
@@ -1447,8 +1483,8 @@ Braxiatel的收藏被第五轴占据，由伯尼斯过去的人物领导。
 http://drwhoguide.com/bs_a13.htm
 
 **** [#E] +5.2 The Bone of Contention+
-**** HALF [#B] 5.3 The Relics of Jegg-Sau :plot_yes_dwg:DW2024_Q3a_spinoffs:
-     SCHEDULED: <2024-07-07 Sun>
+**** 3QTR [#B] 5.3 The Relics of Jegg-Sau :plot_yes_dwg:DW2024_Q3a_spinoffs:
+     CLOSED: [2024-07-15 Mon 21:12] SCHEDULED: <2024-07-07 Sun>
      :PROPERTIES:
      :rating:   8.1
      :END:
@@ -2285,10 +2321,26 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
     :END:
 
 ** UNIT 2: Shutdown :P2016:plot_yes:
-*** [#C] 2.1 Power Cell (7.5) :DW2024_Q3b_spinoffs:
-*** [#D] 2.2 Death in Geneva (7.1)
-*** [#C] 2.3 The Battle of the Tower (7.5)
-*** [#D] 2.4 Ice Station Alpha (7.3)
+*** [#C] 2.1 Power Cell :DW2024_Q3b_spinoffs:
+    :PROPERTIES:
+    :rating:   7.5
+    :END:
+
+*** [#D] 2.2 Death in Geneva
+    :PROPERTIES:
+    :rating:   7.1
+    :END:
+
+*** [#C] 2.3 The Battle of the Tower
+    :PROPERTIES:
+    :rating:   7.5
+    :END:
+
+*** [#D] 2.4 Ice Station Alpha
+    :PROPERTIES:
+    :rating:   7.3
+    :END:
+
 ** UNIT 3: Silenced :P2016:
 *** DONE [#B] 3.1 House of Silents (8.2) :plot_yes:DW2022_11_spinoffs:
     CLOSED: [2022-11-10 Thu 09:05] SCHEDULED: <2022-11-09 Wed>

@@ -562,8 +562,11 @@ CLOSED: [2021-07-23 Fri 12:43]
 :rating:   7.7
 :END:
 
-**** HALF [#A] 57. Arrangements for War (8.5) :plot_yes_dwg:DW2024_Q3b_doctor:
+**** HALF [#A] 57. Arrangements for War :plot_yes_dwg:DW2024_Q3b_doctor:
 SCHEDULED: <2024-08-03 Sat>
+:PROPERTIES:
+:rating:   8.5
+:END:
 
 https://doctorwho.guide/who_bf57.htm
 

@@ -1674,7 +1674,7 @@
 
 *** HALF [#C] BBC #4. The Dead Line :Jack:Gwen:Ianto:bilibili:
 *** [#C] J&L8.4 - Higson & Quick :Jago:Litefoot:
-*** HALF [#B] BS7.2 - Timeless Passages
+*** HALF [#B] BS7.2 - Timeless Passages :Benny:
 *** [#C] Susan1.4 The Shoreditch Intervention :Susan:8th_Dr:Alex:
 *** HALF [#C] CM2.4 - Sins of the Fathers
 * DW2024-Q2b
@@ -1691,7 +1691,7 @@
 *** 3QTR [#A] TW50X The Black Knight :Norton:
 *** HALF [#B] UNIT1.4 Armageddon :UNIT:
 *** HALF [#D] DoRS4.1 Time in a Bottle :River:
-*** HALF [#B] WM7.1 The Forest Penitence :Master_war:
+*** HALF [#B] WM7.1 The Forest Penitence :Master_war:bilibili:
 *** HALF [#A] GALL3.4 Mindbomb
 * DW2024-Q3a
 ** dw2024-q3a-doctor
@@ -1703,45 +1703,72 @@
 
 *** HALF [#D] MR269c/d Shadow of the Daleks :5th_Dr:
 *** 2DONE [#C] 7DA22A.2 The Ribos Inheritance :7th_Dr:Mel:
-*** HALF [#A] 9DA8.3 Red Darkness :9th_Dr:Vashta_Nerada:bilibili:
+*** DONE [#A] 9DA8.3 Red Darkness :9th_Dr:Vashta_Nerada:bilibili:
 
 【【神秘博士广播剧熟肉】Shades of Fear 803 Red Darkness 赤红黑暗-哔哩哔哩】 https://b23.tv/RPnCOqH
 
 *** HALF [#D] 11DA4.2 The Yearn :11th_Dr:
 ** dw2024-q3a-spinoffs
-*** HALF [#B] TW41 Red Base :Andy:
+*** 3QTR [#B] TW41 Red Base :Andy:
 *** DONE [#B] TW7.2 Colin Alone :Colchester:
 *** [#C] CM3.1 - Changing of the Guard
-*** [#A] PG4.1 - Merry Christmas, Mr Jago
-*** HALF [#B] BS5.3 The Relics of Jegg-Sau
-*** HALF [#D] WM7.2 The Players :Master_war:
+*** [#A] PG4.1 - Merry Christmas, Mr Jago :Vastra:Strax:Jenny:Jago:
+*** 3QTR [#B] BS5.3 The Relics of Jegg-Sau :Benny:
+*** 2DONE [#D] WM7.2 The Players :Master_war:bilibili:
 *** HALF [#D] ROB3.1 - The Mystery of Sector 13
 * DW2024-Q3b
 ** dw2024-q3b-doctor
-*** [#A] CC14.1 The Death of the Daleks :2nd_Dr:Jamie:
+*** HALF MA05. The Enemy of the Universe :2nd_Dr:
 *** [#C] 4DA12.3 The Wizard of Time :4th_Dr:Leela:Margaret:
-*** [#A] MR057 Arrangements of War :6th_Dr:Evelyn:
-*** [#B] 8DDC4.3 - The Side of the Angels :8th_Dr:Liv:Helen:
-*** [#B] 8DDC4.4 - Stop the Clock :8th_Dr:Liv:Helen:
-*** [#C] DU3.2 - The Dalek Defense :10th_Dr:Anya:Mark7:
-*** [#A] WD2.3 - The Neverwhen :War_Dr:DW2024_Q3b_doctor:
+*** HALF [#A] MR057 Arrangements of War :6th_Dr:Evelyn:
+*** [#B] MR033 - Neverland :8th_Dr:Charley:bilibili:
+
+http://drwhoguide.com/who_bf33.htm
+
+【【神秘博士广播剧熟肉】MR 033 Neverland 永无乡-哔哩哔哩】 https://b23.tv/bjamVSy
+
+*** [#E] DU3.1 - The Fitst Son :10th_Dr:Anya:Mark7:bilibili:
+*** HALF [#E] 2.2 - A Thing of Guile :War_Dr:bilibili:
+
+【【神秘博士广播剧翻译】战争博士 The War Doctor 202 a thing of guile-哔哩哔哩】 https://b23.tv/EhOYEfa
+
 ** dw2024-q3b-spinoffs
-*** [#A] TW7.3 Misty Eyes :Gwen:Rhys:
+*** HALF [#A] TW7.3 Misty Eyes :Gwen:Rhys:
 *** [#A] TW57. The Grey Mare :Ianto:
-*** [#C] UNIT2.1 Power Cell
-*** [#B] WM7.3 Boundaries :Master_war:
-*** [#C] River4.2 - Kings of Infinite Space :River:
-*** Rose2.1 Saltwater
+*** [#C] UNIT2.1 Power Cell 
+*** HALF [#B] J&L9.1 The Flying Frenchmen :Jago:Litefoot:
+*** [#B] WM7.3 Boundaries :Master_war:bilibili:
+*** HALF [#C] River4.2 - Kings of Infinite Space :River:
+*** [#C] Rose2.1 Saltwater :Rose:bilibili:
 ** pending
+*** [#A] CC14.1 The Death of the Daleks :2nd_Dr:Jamie:
 *** JACK2.1 Piece of Mind :Jack:
-*** PG/JL: [#B] J&L 9.1 The Flying Frenchmen
-*** Gallifrey 3.5
+*** [#D] CY2.1 - Young Winston :Churchill:Vastra:
+* DW2024-Q4a
+** dw2024-q4a-doctor
+*** [#B] EA5.2 An Ideal World :1st_Dr:Vicki:Steven:
+
+*** FIXME [#D] CDNM3.1 The House that Hoxx Built :3rd_Dr:Sarah:
+*** [#B] MR104 The Bride of Peladon :5th_Dr:Peri:Erimem:
+*** [#C] 268B. Displaced :7th_DR:Ace:Hex:plot_no:
+*** [#D] 9DA7.2 Lay Down Your Arms :9th_DR:
+*** [#A] 11DC4.3 Curiosity Shop :11th_Dr:
+
+** dw2024-q4a-spinoffs
+*** [#C] TW7.4 Moderation :Tyler:
+*** [#C] TW69 Double / TW70 Double part 2 
+*** [#D] UNIT2.2 Death in Geneva
+*** FIXME PG/JL: [#B] 9.2 - The Devil's Dicemen
+*** [#C] BSBOX 2.1 Brand Management :Benny:
+*** [#A] WM7.4 The Last Line :Master_war:10th_Dr:
+*** [#C] Rose2.2 Now is the New Dark :Rose:
+*** FIXME [#B] Gallifrey 3.5 - Panacea                       :Romana_2:Leela:
+
 * pending
 ** odd
 *** [#B] LS2.1b The Fragile Yellow Arc of Fragrance (Susan, Ian, Barbara) :plot_yes:
 *** 3DA6.1 Poison of the Daleks (Jo)
 *** [#C] CC4.05 - Ringpullworld :5th_Dr:Turlough:
-*** [#D] 9DA7.2 Lay Down Your Arms
 *** [#C] DotD#9. Night of the Whisper
 *** Let it Snow :11th_Dr:
 
