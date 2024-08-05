@@ -733,7 +733,7 @@ CLOSED: [2024-06-06 Thu 18:43]
 在看完第三季之前不要看最后10分钟
 
 **** Razer: Flashback
-*** DONE 📂BSG S4 (20 eps) :P2008:
+*** DONE 📂BSG S4 (20 eps) :P2008:S2024_06:S2024_07:
 **** DONE [#B] 4x01
 CLOSED: [2024-06-07 Fri 18:41]
 
@@ -896,7 +896,7 @@ CLOSED: [2022-05-29 Sun 13:32]
 
 0 BBY, days before A New Hope, with a prologue set in 13 BBY
 
-**** DONE Solo :10BBY:Han_Solo:Crimson_Dawn:Qira:
+**** DONE Solo :10BBY:Han_Solo:Crimson_Dawn:Qira:S2024_07:
 CLOSED: [2024-06-23 Sun 16:33]
 
 10 BBY, with a prologue set in 13 BBY
@@ -1018,7 +1018,7 @@ https://starwars.fandom.com/wiki/Obi-Wan_Kenobi_(television_series)?so=search
 
 https://starwars.fandom.com/wiki/Andor_(television_series)?so=search
 
-***** DONE [#A] 📂season 1 (12 eps) :P2022_09:
+***** DONE [#A] 📂season 1 (12 eps) :P2022_09:S2024_07:
 ****** DONE 1x01
 CLOSED: [2024-06-12 Wed 20:09]
 
@@ -1085,7 +1085,7 @@ CLOSED: [2023-07-22 Sat 22:31]
 
 The film chronologically takes place between the Season One episode /The Hidden Enemy/ (1x16) and Season Three episode /Clone Cadets/ (3x01)
 
-****** DONE [#A] 3x01 Clone Cadets :Clone_Soldier:
+****** DONE [#A] 3x01 Clone Cadets :Clone_Soldiers:
 CLOSED: [2023-08-14 Mon 20:11]
 
 ****** DONE 3x03 Supply Lines
@@ -1152,7 +1152,7 @@ CLOSED: [2023-08-26 Sat 20:08]
 ****** DONE 2x09 Grievous Intrigue :Grievous:
 CLOSED: <2024-06-09 Sun 10:11>
 
-****** DONE 2x10 The Deserter :Clone_Soldier:
+****** DONE 2x10 The Deserter :Clone_Soldiers:
 CLOSED: [2024-06-09 Sun 23:59]
 
 ****** DONE 2x11
@@ -1170,7 +1170,7 @@ CLOSED: [2024-06-11 Tue 08:12]
 ****** DONE 2x22 :Boba_Fett:Aurra_Sing:
 CLOSED: [2024-06-11 Tue 08:40]
 
-***** DONE 📂TCW season 3 (22 eps) :P2010:21BBY:20BBY:
+***** DONE 📂TCW season 3 (22 eps) :P2010:21BBY:20BBY:S2024_07:
 
 22–21–20 BBY
 
@@ -1219,6 +1219,13 @@ CLOSED: [2024-07-17 Wed 19:55]
 ****** DONE 4x04 :Jar_Jar:Grievous:Dooku:
 CLOSED: [2024-07-20 Sat 20:38]
 
+****** DONE 4x05/06 :R2_D2:C3PO:
+CLOSED: [2024-07-22 Mon 20:19]
+
+****** DONE 4x07-10 Carnage of Krell :Clone_Soldiers:
+CLOSED: [2024-07-27 Sat 08:30]
+
+****** ...
 ****** 4x14 A Friend in Need :Bo_Katan:
 ****** 4x19/20 Massacre / Bounty :Nightsisters:
 ****** 4x22 Revenge :Maul:
@@ -1366,11 +1373,11 @@ CLOSED: [2023-08-26 Sat 21:31]
 
 Vader 与 Ahsoka 终于得对战一场
 
-***** season 3 (22 eps) :P2016:2BBY:
-****** DONE 3x01-02 Steps Into Shadow :Tarkin:Thrawn:Bentu:
+***** DONE season 3 (22 eps) :P2016:2BBY:S2024_07:
+****** DONE 3x01-02 Steps Into Shadow :Tarkin:Thrawn:Bendu:
 CLOSED: [2024-07-01 Mon 08:14]
 
-****** DONE [#B] 3x03 The Holocrons of Fate :Maul:Bentu:
+****** DONE [#B] 3x03 The Holocrons of Fate :Maul:Bendu:
 CLOSED: [2024-07-15 Mon 08:03]
 
 ****** DONE 3x04
@@ -1394,7 +1401,7 @@ CLOSED: [2024-07-13 Sat 16:05]
 ****** DONE 3x10 :Thrawn:
 CLOSED: [2024-07-14 Sun 16:14]
 
-****** DONE [#A] 3x11 Visions and Voices :Maul:Bentu:Nightsisters:Darksaber:
+****** DONE [#A] 3x11 Visions and Voices :Maul:Bendu:Nightsisters:Darksaber:
 CLOSED: [2024-07-15 Mon 08:25]
 
 ****** DONE 3x12/13 Ghosts of Geonosis
@@ -1403,14 +1410,28 @@ CLOSED: [2024-07-18 Thu 08:13]
 ****** DONE 3x14
 CLOSED: [2024-07-20 Sat 11:02]
 
-****** DONE [#A] 3x15 Trails of the Darksaber / 3x16 Legacy of Mandalore :Darksaber:Sabine:Mandalorian:
+****** DONE [#A] 3x15/16 Trails of the Darksaber / Legacy of Mandalore :Darksaber:Sabine:Mandalorian:
 CLOSED: [2024-07-21 Sun 15:38]
 
-****** [#A] 3x17 Through Imperial Eyes
-****** ...
-****** 3x20 Twin Suns :Maul:
-****** 3x21
-****** 3x22
+****** DONE [#A] 3x17 Through Imperial Eyes :Fulcum:
+CLOSED: <2024-07-24 Wed 19:53>
+
+****** DONE 3x18 :Mon_Mothma:
+CLOSED: [2024-07-24 Wed 20:49]
+
+****** DONE 3x19
+CLOSED: [2024-07-26 Fri 19:58]
+
+****** DONE 3x20 Twin Suns :Maul:
+CLOSED: [2024-07-27 Sat 21:25]
+
+Maul 被 Kenobi 斩于塔图因，这与黑马漫画的短篇 /Old Woulds/ 是一致的，不过漫画中 Maul 是一双机械腿，而这里并不是
+
+https://starwars.fandom.com/wiki/Old_Wounds
+
+****** DONE 3x21/22 Zero Hour :Bendu:
+CLOSED: [2024-07-30 Tue 08:07]
+
 ***** season 4 (16 eps) :P2017:
 ****** 4x07 Kindred :World_Between_Worlds:
 ****** 4x13 A World Between Worlds :World_Between_Worlds:
@@ -1633,7 +1654,7 @@ CLOSED: [2023-07-23 Sun 07:54]
 CLOSED: [2023-07-23 Sun 15:16]
 
 ****** DONE Darkness (Star Wars (1998) #32-35) :hanzify:Quinlan_Vos:
-***** 2DONE epic collection: The Menace Revealed Vol. 3 :P2023:
+***** 2DONE epic collection: The Menace Revealed Vol. 3 :P2023:S2024_07:
 CLOSED: [2024-06-14 Fri 12:40]
 
  - Star Wars: Republic (1998)
@@ -1650,7 +1671,7 @@ CLOSED: [2024-06-13 Thu 19:30]
 
  27 BBY
 
-***** HALF epic collection: The Menace Revealed Vol. 4 :P2024_01:
+***** HALF epic collection: The Menace Revealed Vol. 4 :P2024_01:S2024_07:
 
 - [ ] +Starfighter: Crossbones #1-3+
 - [ ] +Republic #46-48+
@@ -1658,7 +1679,7 @@ CLOSED: [2024-06-13 Thu 19:30]
 - [X] misc (10多个短篇)
 
 ****** Star Wars: Episode II — Attack of the Clones
-****** misc
+****** DONE misc
 
 The Bounty Hunters: Aurra Sing
 "Poison Moon"—Dark Horse Extra 44–47
@@ -1740,7 +1761,7 @@ CLOSED: [2023-08-29 Tue 14:02]
 ****** Darth Vader and the Ninth Assassin :hanzify:
 ****** Dark Times—Fire Carrier #1-5
 ****** Dark Times—A Spark Remains #1-5
-***** 3QTR epic collection: The Empire Vol. 4
+***** 3QTR epic collection: The Empire Vol. 4 :S2024_07:
 CLOSED: [2024-06-29 Sat 18:38]
 
 ****** LATER Darth Vader and the Cry of Shadows #1-4 :19BBY:hanzify:
@@ -1936,12 +1957,18 @@ https://www.manhuaren.com/manhua-xingqiudazhan-weidayuheianhuanxiang/
 
 link: https://www.starwars.com/news/a-guide-to-star-wars-rebels-books-and-comics
 
-***** DONE Han Solo - Imperial Cadet :P2018:Han_Solo:
+***** Inquisitors
+
+https://starwars.fandom.com/wiki/Star_Wars:_Inquisitors
+
+14 BBY - 9 BBY
+
+***** DONE Han Solo - Imperial Cadet :P2018:Han_Solo:S2024_07:
 CLOSED: [2024-06-24 Mon 12:16]
 
 Between 13 BBY and 10 BBY
 
-***** DONE Lando - Double or Nothing :P2018:
+***** DONE Lando - Double or Nothing :P2018:S2024_07:
 CLOSED: [2024-07-01 Mon 13:30]
 
 10BBY
@@ -1955,12 +1982,19 @@ CLOSED: [2024-06-29 Sat 07:13]
 
 13BBY-10BBY
 
-***** NOW Han Solo & Chewbacca :Han_Solo:Chewie:
+***** DONE Han Solo & Chewbacca :Han_Solo:Chewie:S2024_07:
+
+故事设定其实算是2023漫画大事件《黑暗机器人》的引子
+
+https://starwars.fandom.com/wiki/Neural_core?so=search
+
 ****** DONE [#C] The Crystal Run, part 1 (#1-5) :P2022:
 CLOSED: [2024-07-21 Sun 17:09]
 
-****** TODO [#C] The Crystal Run, part 2 (#6-10) :P2023:
-***** Kanan
+****** DONE [#C] The Crystal Run, part 2 (#6-10) :P2023:
+CLOSED: [2024-07-23 Tue 08:54]
+
+***** DONE Kanan :S2024_07:
 ****** DONE [#B] Kanan #1-6: The Last Padawan :Order66:19BBY:4BBY:
 CLOSED: <2024-06-16 Sun 23:02>
 
@@ -2113,7 +2147,7 @@ Between the events of /Star Wars: Episode V The Empire Strikes Back/ and /Star W
 The series features the bounty hunters /Beilert Valance/, /Boba Fett/ and /Bossk/, and takes place between the events of /Star Wars: Episode V The Empire Strikes Back/ and /Star Wars: Episode VI
 Return of the Jedi/
 
-****** crossover: War of the Bounty Hunters :P2021:Boba_Fett:hanzify:
+****** crossover: War of the Bounty Hunters :P2021:Boba_Fett:hanzify:3ABY:
 
 https://starwars.fandom.com/wiki/Star_Wars:_War_of_the_Bounty_Hunters
 
@@ -2121,7 +2155,10 @@ https://starwars.fandom.com/wiki/Star_Wars:_War_of_the_Bounty_Hunters
 
 https://starwars.fandom.com/wiki/Star_Wars:_Crimson_Reign
 
-****** crossover: Hidden Empire
+****** crossover: Hidden Empire :P2023:Crimson_Dawn:Qira:
+
+https://starwars.fandom.com/wiki/Star_Wars:_Hidden_Empire?so=search
+
 ****** crossover: Dark Droids :hanzify:
 ***** between movie 6-7
 ****** DONE [#B] Shattered Empire (2015) :hanzify:
@@ -2191,7 +2228,8 @@ prequel novel to the Anthology film /Rogue One: A Star Wars Story./
 
 21 BBY-17BBY
 
-*** NEXT Tarkin 塔金 :canon:hanzify:
+*** DONE Tarkin 塔金 :Tarkin:Vader:canon:hanzify:已购:S2024_07:
+CLOSED: [2024-07-28 Sun 21:21]
 
 14BBY
 

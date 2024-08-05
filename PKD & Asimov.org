@@ -49,7 +49,7 @@ CLOSED: [2023-01-02 Mon 17:59]
 ***** DONE #9-12
 CLOSED: [2023-01-07 Sat 15:06]
 
-**** DONE Blade Runner 2029 :P2020:
+**** DONE Blade Runner 2029 :P2020:S2024_02:
 CLOSED: [2024-05-17 Fri 13:42] SCHEDULED: <2024-05-25 Sat>
 
 December 16, 2020 – February 9, 2022
@@ -196,7 +196,7 @@ CLOSED: [2023-02-12 Sun 19:44]
 
 迪克长篇处女作（按出版时间）
 
-***** DONE [#C] 天空之眼 Eye in the Sky :P1957:
+***** DONE [#C] 天空之眼 Eye in the Sky :P1957:S2024_02:
 CLOSED: [2024-01-07 Sun 10:25]
 :PROPERTIES:
 :goodreads: 3.74
@@ -268,7 +268,7 @@ CLOSED: [2022-03-06 Sun 11:46]
 ***** DONE [#A] ↗Do Androids Dream of Electric Sheep? :P1968:
 **** 1969-1976
 ***** DONE ↗Ubik :P1969:
-***** DONE [#C] 死亡迷局  A Maze of Death :P1970:🛒:
+***** DONE [#C] 死亡迷局  A Maze of Death :P1970:🛒:S2024_02:
 CLOSED: [2024-05-17 Fri 23:26] SCHEDULED: <2024-05-25 Sat>
 :PROPERTIES:
 :douban:   8.4
@@ -355,13 +355,12 @@ CLOSED: [2022-01-03 Mon 08:41]
 ***** DONE 骡
 CLOSED: [2023-01-11 Wed 13:17]
 
-**** DONE [#A] 3. 第二基地 :P1953:
+**** DONE [#A] 3. 第二基地 :P1953:S2024_01:
 CLOSED: [2024-02-03 Sat 14:28]
 :PROPERTIES:
 :goodreads: 4.25
 :douban:   9.2
 :END:
-
 **** DONE [#A] 4. 基地前奏 Prelude to Foundation :P1988:
 CLOSED: [2022-01-05 Wed 00:05]
 :PROPERTIES:
@@ -458,7 +457,7 @@ CLOSED: <2022-01-15 Sat 14:48>
 ***** DONE 1x10
 CLOSED: [2022-01-15 Sat 23:26]
 
-*** Foundation S2
+*** Foundation S2 :S2024_02:
 
 https://foundation.fandom.com/wiki/Season_Two
 

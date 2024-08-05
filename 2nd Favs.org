@@ -36,7 +36,7 @@ CLOSED: [2022-03-17 Thu 07:27]
 **** DONE TPB.6 Fables and Reflections (#29-31, #38-40, #50)
 CLOSED: [2023-04-13 Thu 13:08]
 
-**** TPB.7 Brief Lives (#41-49)
+**** DONE TPB.7 Brief Lives (#41-49) :S2024_04:
 **** TPB.8 Worlds' End (#51-56)
 **** TPB.9 The Kindly Ones (#57-69)
 **** TPB.10 The Wake
@@ -189,7 +189,7 @@ CLOSED: [2023-03-25 Sat 19:03] SCHEDULED: <2023-03-29 Wed>
 ***** DONE 2x18
 CLOSED: [2023-03-25 Sat 20:59] SCHEDULED: <2023-03-29 Wed>
 
-**** Lucifer S3 (26 eps) :P2017:
+**** HALF Lucifer S3 (26 eps) :P2017:S2024_03:
 ***** DONE 3x01
 CLOSED: [2024-02-24 Sat 12:04]
 
@@ -235,16 +235,16 @@ CLOSED: [2024-03-29 Fri 20:52]
 ***** DONE 3x15
 CLOSED: [2024-04-02 Tue 23:51]
 
-***** DONE 2x16
+***** DONE 3x16
 CLOSED: [2024-04-03 Wed 19:13]
 
-***** DONE 2x17
+***** DONE 3x17
 CLOSED: <2024-04-04 Thu 11:05>
 
-***** DONE 2x18
+***** DONE 3x18
 CLOSED: <2024-04-04 Thu 12:05>
 
-***** DONE 2x19
+***** DONE 3x19
 CLOSED: [2024-04-09 Tue 15:50]
 
 ***** [#A] 3x20 The Angel of San Bernardino
@@ -339,7 +339,7 @@ CLOSED: [2023-03-10 Fri 21:08]
 ***** DONE 2x13
 CLOSED: [2023-03-12 Sun 18:45] SCHEDULED: <2023-03-12 Sun>
 
-**** DONE Preacher S3 :P2018:
+**** DONE Preacher S3 :P2018:S2024_04:
 CLOSED: [2024-04-25 Thu 08:16]
 
 ***** DONE 3x01
@@ -465,6 +465,31 @@ https://fables.fandom.com/wiki/Fables_Wiki
 ** Swamp Thing
 * Marvel
 ** Ultimate Marvel
+*** Ultimate X-Men
+
+https://breezewiki.com/ultimatepopculture/wiki/Ultimate_X-Men#Collected_editions
+
+**** vol.1 The Tomorrow People (#1-6)
+**** vol.2 Return To Weapon X (#7-12)
+**** vol.3 World Tour (#13-20)
+**** vol.4 Hellfire & Brimstone (#21-25)
+**** vol.5 Ultimate War
+**** vol.6 Return Of The King (#26-33)
+**** vol.7 Blockbuster (#34-39)
+*** Ultimate Fantastic Four
+
+https://breezewiki.com/ultimatepopculture/wiki/Ultimate_Fantastic_Four#Collected_editions
+
+**** DONE vol.1 The Fantastic (#1-6) :S2024_08:
+CLOSED: [2024-07-30 Tue 23:11]
+
+**** DONE vol.2 Doom (#7-12) :S2024_08:
+CLOSED: <2024-08-02 Fri 13:03>
+
+**** TODO vol.3 N-Zone (#13-18) :S2024_08:
+**** TODO vol.4 Inhuman (#19-20, annual #1) :S2024_08:
+**** vol.5 Crossover (#21-26)
+**** vol.6 Frightful (#27-32)
 ** Spider-Man
 *** The Amazing Spider-Man 神奇蜘蛛侠
 **** v1 (1963-1998, #001-441)
@@ -598,6 +623,49 @@ Ultimate Spider-Man #129–133, Annual #3
 ***** vol.5 Death Spider-Man Fallout
 **** Ultimate Comics Spider-Man (Miles Morales)
 ** Marvel MCU
+*** Marvel's Agents of S.H.I.E.L.D.
+**** DOING S5 :S2024_08:
+***** DONE 5x11
+CLOSED: [2024-07-28 Sun 20:24]
+
+***** DONE 5x12
+CLOSED: [2024-07-29 Mon 08:08]
+
+***** DONE 5x13
+CLOSED: [2024-08-01 Thu 08:05]
+
+***** DONE 5x14
+CLOSED: [2024-08-02 Fri 08:55]
+
+***** DONE 5x15
+CLOSED: [2024-08-03 Sat 14:49]
+
+***** DONE 5x16
+CLOSED: [2024-08-03 Sat 15:35]
+
+*** misc
+**** TODO Loki S1 :S2024_08:
+*** phase 4
+**** DOING WandaVision 旺达幻视 :P2021:S2024_08:
+***** DONE 1x01
+CLOSED: [2024-07-29 Mon 20:08]
+
+***** DONE 1x02
+CLOSED: [2024-07-29 Mon 20:41]
+
+***** DONE 1x03
+CLOSED: <2024-07-31 Wed 19:57>
+
+***** DONE 1x04
+CLOSED: [2024-08-02 Fri 23:30]
+
+***** DONE 1x05
+CLOSED: <2024-08-04 Sun 16:26>
+
+***** DONE 1x06
+CLOSED: <2024-08-04 Sun 22:59>
+
+**** TODO The Falcon and the Winter Soldier 猎鹰与冬兵 :S2024_08:
 * Supernatural :📺:spn:
 ** comics
 *** Origins  :P2007:
@@ -712,7 +780,7 @@ CLOSED: [2023-03-16 Thu 19:29] SCHEDULED: <2023-03-18 Sat>
 *** DONE 13x23
 CLOSED: [2023-03-20 Mon 07:57] SCHEDULED: <2023-03-18 Sat>
 
-** DONE S14
+** DONE S14 :S2023_03:S2024_03:
 CLOSED: [2024-03-15 Fri 20:13]
 
 20 episodes
@@ -777,7 +845,7 @@ CLOSED: [2024-03-15 Fri 00:15]
 *** DONE [#A] 14x20 Moriah
 CLOSED: [2024-03-15 Fri 20:13]
 
-** S15
+** S15 :S2024_03:
 
 20 episodes
 

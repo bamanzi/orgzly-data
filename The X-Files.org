@@ -345,7 +345,13 @@ CLOSED: [2023-05-16 Tue 13:20]
 ***** OVERDUE Conspiracy (2014)
 ** audio :🎧:
 *** Cold Cases (#01-16)
+
+http://xfiles.news/index.php/news/reviews/131-the-x-files-cold-cases-recap-and-review
+
 *** Stolen Lives (comics 17-25)
+
+http://www.xfiles.news/index.php/news/reviews/1432-recap-and-review-the-x-files-stolen-lives
+
 ** prose :📄:
 *** vol.1 Trust No One :ebook:
 
@@ -572,7 +578,7 @@ CLOSED: [2023-05-31 Wed 21:19]
 *** DONE 2x23
 CLOSED: [2023-05-31 Wed 22:15]
 
-** Fringe S3 :P2010:
+** Fringe S3 :P2010:S2024_05:S2024_06:
 :PROPERTIES:
 :fringe :  
 :END:
