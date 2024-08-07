@@ -601,7 +601,7 @@ SCHEDULED: <2022-06-05 Sun>
 :rating:   8.2
 :END:
 
-**** TBR LS8.2 Operation Werewolf :P2024_07:Jamie:Zoe:
+**** BLOCK LS8.1 Operation Werewolf :P2024_07:Jamie:Zoe:WW2:3CD:
 **** CC
 ***** HALF [#B] CC4.2 - The Glorious Revolution :Jamie:D2022_01_doctor:plot_no:
 :PROPERTIES:
@@ -759,35 +759,108 @@ https://m.vk.com/wall-205306392_49
 * 3rd Doctor :3rd_Dr:
 ** tv :📺:
 *** season 7 :Liz:UNIT:
-**** DONE 7x01 - Spearhead from Space (8.2)
-**** DONE 7x02 - Doctor Who and the Silurians (8.0)
-**** DONE 7x03 - The Ambassadors of Death (7.5)
-**** DONE [#A] 7x4 Inferno †8. 5 （重看）
+**** DONE [#B] 7x01 - Spearhead from Space
+:PROPERTIES:
+:rating:   8.2
+:END:
+
+**** DONE [#B] 7x02 - Doctor Who and the Silurians
+:PROPERTIES:
+:rating:   8.0
+:END:
+
+**** DONE [#C] 7x03 - The Ambassadors of Death
+:PROPERTIES:
+:rating:   7.5
+:END:
+
+**** DONE [#A] 7x4 Inferno
 CLOSED: [2020-07-15 Wed 19:13]
+:PROPERTIES:
+:rating:   8.5
+:END:
 
-*** season 8
-**** DONE 8x01 - Terror of the Autons (7.8)
-**** DONE 8x02 - The Mind of Evil (7.6)
-**** DONE 8x03 - The Claws of Axos (7.3)
-**** DONE 8x04 - Colony in Space (7.1)
-**** 8x05 - The Dæmons (7.8)
+*** season 8 :Master_nemesis:
+**** DONE [#C] 8x01 - Terror of the Autons
+:PROPERTIES:
+:rating:   7.8
+:END:
+
+**** DONE [#C] 8x02 - The Mind of Evil
+:PROPERTIES:
+:rating:   7.6
+:END:
+
+**** DONE [#D] 8x03 - The Claws of Axos
+:PROPERTIES:
+:rating:   7.3
+:END:
+
+**** DONE [#D] 8x04 - Colony in Space
+:PROPERTIES:
+:rating:   7.1
+:END:
+
+**** DONE [#C] 8x05 - The Dæmons
+CLOSED: [2024-07-31 Wed 20:33]
+:PROPERTIES:
+:rating:   7.8
+:END:
+
 *** season 9
-**** DONE 9x01 - Day of the Daleks (7.9)
-**** DONE 9x02 - The Curse of Peladon (7.6)
-**** DONE [#C] 9x03 The Sea Devil (7.7) :Master_nemesis:DW2022_12_extra:
-CLOSED: [2023-01-01 Sun 16:07] SCHEDULED: <2022-12-31 Sat>
+**** DONE [#C] 9x01 - Day of the Daleks
+:PROPERTIES:
+:rating:   7.9
+:END:
 
-**** 9x04 - The Mutants (7.0)
-**** DONE 9x05 - The Time Monster †6.9)
+**** DONE [#C] 9x02 - The Curse of Peladon
+:PROPERTIES:
+:rating:   7.6
+:END:
+
+**** DONE [#C] 9x03 The Sea Devil :Master_nemesis:DW2022_12_extra:
+CLOSED: [2023-01-01 Sun 16:07] SCHEDULED: <2022-12-31 Sat>
+:PROPERTIES:
+:rating:   7.7
+:END:
+
+**** [#D] 9x04 - The Mutants
+:PROPERTIES:
+:rating:   7.0
+:END:
+
+**** DONE [#E] 9x05 - The Time Monster :Master_nemesis:
 CLOSED: [2020-07-20 Mon 20:15]
+:PROPERTIES:
+:rating:   6.9
+:END:
 
 *** season 10 :📺:UNIT:Jo:
-**** DONE [#B] 10x01 - The Three Doctors †8.1)
-**** [#C] 10x02 - Carnival of Monsters †7.8)
-**** DONE 10x03 - Frontier in Space †7.6)
-**** DONE 10x04 - Planet of the Daleks †7.5)
-**** DONE [#B] 10x05 - The Green Death †8.2)
+**** DONE [#B] 10x01 - The Three Doctors
+:PROPERTIES:
+:rating:   8.1
+:END:
+
+**** [#C] 10x02 - Carnival of Monsters
+:PROPERTIES:
+:rating:   7.8
+:END:
+
+**** DONE [#C] 10x03 - Frontier in Space :Master_nemesis:
+:PROPERTIES:
+:rating:   7.6
+:END:
+
+**** DONE [#C] 10x04 - Planet of the Daleks
+:PROPERTIES:
+:rating:   7.5
+:END:
+
+**** DONE [#B] 10x05 - The Green Death
 CLOSED: [2020-06-25 Thu 20:46]
+:PROPERTIES:
+:rating:   8.2
+:END:
 
 sequel: Torchwood #26 The Green Life
 
@@ -935,7 +1008,7 @@ SCHEDULED: <2022-03-30 Wed>
 :rating:   9.3
 :END:
 
-***** [#A] ST9.6 The Same Face (8.6, top #4 in ST) :Jo:Master:P2019:
+***** [#A] ST9.6 The Same Face (8.6, top #4 in ST) :Jo:Master_nemesis:P2019:
 ***** [#B] ST6.8 Damascus (8.3, top #7 in ST) :Jo:UNIT:
 
 As the decade in English history which attracts the greatest quantity of alien invasions per annum, the 1970s are not the easiest time in which to steer the great British ship of state. The Prime Minister, nonetheless, is doing the very best job he can. Still, at least he has UNIT to rely on — their eccentric, bouffant-haired scientific adviser in particular. Or does he?
@@ -1096,7 +1169,7 @@ CLOSED: [2020-06-18 Thu 14:24]
 **** 4.3 The Time Thief :Sarah:
 **** 5.3 War in the Abyss :Jo:
 ** novels :📔:novel:
-*** READY [#B] Harvest of Time (3.90) :UNIT:Jo:Master:hanzify:
+*** READY [#B] Harvest of Time (3.90) :UNIT:Jo:Master_nemesis:hanzify:
 
 After billions of years of imprisonment, the vicious Sild have broken out of confinement. From a ruined world at the end of time, they make preparations to conquer the past, with the ultimate goal of rewriting history. But to achieve their aims they will need to enslave an intellect greater than their own...
 
@@ -1836,11 +1909,35 @@ https://disk.yandex.ru/d/n_i2CRgIJW0xOw
 
 【【神秘博士六十周年纪念特辑】Once and Future 02 The Artist at the End of Time 时间尽头的艺术家-哔哩哔哩】 https://b23.tv/BYDtIle
 
-*** [#D] 3. A Genius For War :7th_Dr:Davros:P2023_07:
-*** [#E] 4. Two's Company :6th_Dr:Christina:P2023_08:
+https://www.bigfinish.com/releases/v/doctor-who-once-and-future-the-artist-at-the-end-of-time-2775
+
+受到退化的影响，博士前往宇宙的尽头寻找答案。但相反，他找到了他的女儿Jenny和一位艺术家，而他的作品似乎标志着每一个世界的终结。
+博士在第五任化身中稳定下来，与Jenny和馆长一起解开末日艺术馆和它所收集艺术品的谜团。
+
+*** READY [#D] 3. A Genius For War :7th_Dr:Davros:P2023_07:bilibili:
+
+【【神秘博士六十周年纪念特辑】Once and Future 03 A Genius for War 战争天才-哔哩哔哩】 https://b23.tv/eNCVavv
+
+在时间大战期间，时间领主收到了来自Skaro监狱卫星Falkus的消息。而其中唯一的囚犯，Davros，想给他们一个提议。他愿意帮助他们赢得时间大战... 但前提是博士来救他。
+
+*** READY [#E] 4. Two's Company :6th_Dr:Christina:P2023_08:bilibili:
+
+【【神秘博士六十周年纪念特辑】Once and Future 04 Two's Company 二人为伴-哔哩哔哩】 https://b23.tv/j7wOjk8
+
+https://www.bigfinish.com/releases/v/doctor-who-once-and-future-two-s-company-2777
+
+回到地球，博士在寻找退化武器起源的过程中发现了一条线索。在他的第六个化身里，他遇到了Jackie Tyer和Christina de Souza夫人——他们的相遇是命运的安排，还是有其他原因的？——他们将寻找一件强大的珠宝。
+
+与此同时，有一名叛逃的时间领主欺骗了Harry Sullivan，让他在博士的旅行开始前帮助他阻止他们——所有人的生命都危在旦夕。
+
 *** READY [#D] 5. The Martian Invasion of Planetoid 50 :bilibili:10th_Dr:P2023_09:
 
 【【神秘博士六十周年纪念特辑】Once and Future 05 The Martian Invasion of Planetoid 50-哔哩哔哩】 https://b23.tv/qawlSXJ
+
+https://www.bigfinish.com/releases/v/doctor-who-once-and-future-the-martian-invasion-of-planetoid-50-2778
+
+第一任博士来到维多利亚时期火星人入侵的伦敦。但法师出现时，他发现一切并不像看起来那样…
+很快，博士被迫重生成未来的化身——第十任——但他不是唯一与法师和她的火星入侵者作战的人。维多利亚小队——Vastra夫人、Jenny和Strax——也前来协助。但他们能否帮博士解开他自己的退化之谜？
 
 *** READY [#E] 6. TimeLord Immemorial :9th_Dr:Unbound_Dr:P2023_10:bilibili:
 
@@ -1961,7 +2058,7 @@ CLOSED: [2021-11-01 Mon 22:54] SCHEDULED: <2021-11-01 Mon>
 **** 5. The Penumbra Affair :P2022:Wibbsey:Polly:Yates:
 ** novels
 *** [#A] Who Killed Kennedy (4.1) :novel:
-*** DONE [#B] 敌人的脸孔 The Face of the Enemy (PDA top #5) †3. 83 :📔:UNIT:Master:
+*** DONE [#B] 敌人的脸孔 The Face of the Enemy (PDA top #5) †3. 83 :📔:UNIT:Master_nemesis:
 CLOSED: [2020-07-21 Tue 18:26]
 
 敌人的脸孔

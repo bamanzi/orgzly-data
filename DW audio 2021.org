@@ -1532,7 +1532,6 @@
 *** 2DONE [#A] ST8.10 I Am The Master :Master_decayed:bilibili:
 *** 3QTR [#C] BS11.4 Dead Man's Switch :Benny:
 *** HALF [#D] CY1.2 Hounded :Churchill:10th_Dr:
-
 ** dw2023-07-doctor
 
 | 069 | MR159. The Emeral Tiger | 5th | Nyssa,Tegan,Toulough |
@@ -1627,13 +1626,13 @@
 *** HALF [#C] UNIT1.3 Bridgehead :UNIT:
 *** HALF [#A] WM6.4 - Unfinished Business :Master_war:
 *** 2DONE [#C] BSBOX1.3 - Private Enemy No. 1 :Benny:
-* DW2024-01
+* DW 2024
 ** dw2024-01-doctor
 *** HALF [#C] CC5.8 The Perpetual Bond :1st_Dr:Steven:Oliver:
 *** 3QTR [#A] 3DA #9. The Annihilators :3rd_Dr:Liz:2nd_Dr:Jamie:Brigadier:UNIT:3CD:
 *** 3QTR [#B] WS1.2. The Moontrakers :5th_Dr:Leela:Abby:Zara:Sontarans:
 *** HALF [#A] MR120 The Magic Mousetrap :7th_Dr:Ace:Hex:
-*** HALF 9DAFM02. Legacy of the Slitheen
+*** HALF 9DAFM02. Legacy of the Slitheen :9th_Dr:
 *** 3QTR [#A] ST12.X The World Tree :11th_Dr:bilibili:
 ** dw2024-01-spinoffs
 *** 3QTR [#C] TW64 Suckers :Tosh:
@@ -1644,7 +1643,6 @@
     SCHEDULED: <2024-04-14 Sun>
 
 *** 3QTR [#C] CM2.3 - Peshka
-* DW2024-02
 ** dw2024-02-doctor
 *** 3QTR 3DA #9. The Annihilators - part 6-7 :3rd_Dr:Liz:Brig:2nd_Dr:Jamie:UNIT:
 *** 3QTR CA1.2 The Star Beast :4th_Dr:
@@ -1657,16 +1655,15 @@
 *** HALF [#B] PG3.3 - Truth and Bone :DW2024_Q2a_extra:
     SCHEDULED: <2024-04-14 Sun>
 
-*** 3QTR [#B] GALL3.3 - Appropriation
-*** [#C] BS3.2 The Green Eyed Monster
+*** 3QTR [#B] GALL3.3 - Appropriation :Romana_2:Leela:
+*** [#C] BS3.2 The Green Eyed Monster :Benny:
 *** 3QTR [#B] CC8.1 Mastermind :Master_decayed:Ruth_Matheson:the_Vault:UNIT:
-* DW2024-Q2a
 ** dw2024-q2a-doctor
 *** HALF [#C] EA1.1 - Domain of the Voord :1st_Dr:Susan:Ian:Barbara:
 *** 3QTR [#B] ST12.2 AWOL :3rd_Dr:Brig:
 *** HALF [#B] MR161 The Butcher of Brisbane :5th_Dr:Nyssa:Tegan:Toulough:
 *** HALF [#B] UNIT: Dominion #3 :7th_Dr:Klein:Master_bald:UNIT:
-*** 3QTR [#D] 9DA8.1 The Colour of Terror
+*** 3QTR [#D] 9DA8.1 The Colour of Terror :9th_Dr:
 *** START [#B] 11DC4.1 All of Time and Space :11th_Dr:
 ** dw2024-q2a-spinoffs
 *** 3QTR [#A] TW59 Sonny :Rhys:
@@ -1675,9 +1672,7 @@
 *** HALF [#C] BBC #4. The Dead Line :Jack:Gwen:Ianto:bilibili:
 *** [#C] J&L8.4 - Higson & Quick :Jago:Litefoot:
 *** HALF [#B] BS7.2 - Timeless Passages :Benny:
-*** [#C] Susan1.4 The Shoreditch Intervention :Susan:8th_Dr:Alex:
 *** HALF [#C] CM2.4 - Sins of the Fathers
-* DW2024-Q2b
 ** dw2024-q2b-doctor
 *** HALF [#C] EA4.1 The Night Witches :2nd_Dr:Jamie:Polly:Ben:
 *** [#C] 4DA 11.5 Peake Season :4th_Dr:
@@ -1693,7 +1688,6 @@
 *** HALF [#D] DoRS4.1 Time in a Bottle :River:
 *** HALF [#B] WM7.1 The Forest Penitence :Master_war:bilibili:
 *** HALF [#A] GALL3.4 Mindbomb
-* DW2024-Q3a
 ** dw2024-q3a-doctor
 *** 2DONE 1DA22.2 The Miniaturist :1st_Dr:Dodo:
 *** 2DONE [#C] 3DA3.1 The Conquest of Far :3rd_Dr:Jo:P2017:plot_no:
@@ -1716,7 +1710,6 @@
 *** 3QTR [#B] BS5.3 The Relics of Jegg-Sau :Benny:
 *** 2DONE [#D] WM7.2 The Players :Master_war:bilibili:
 *** HALF [#D] ROB3.1 - The Mystery of Sector 13
-* DW2024-Q3b
 ** dw2024-q3b-doctor
 *** HALF MA05. The Enemy of the Universe :2nd_Dr:
 *** [#C] 4DA12.3 The Wizard of Time :4th_Dr:Leela:Margaret:
@@ -1727,7 +1720,7 @@ http://drwhoguide.com/who_bf33.htm
 
 【【神秘博士广播剧熟肉】MR 033 Neverland 永无乡-哔哩哔哩】 https://b23.tv/bjamVSy
 
-*** [#E] DU3.1 - The Fitst Son :10th_Dr:Anya:Mark7:bilibili:
+*** [#E] DU3.1 - The First Son :10th_Dr:Anya:Mark7:bilibili:
 *** HALF [#E] 2.2 - A Thing of Guile :War_Dr:bilibili:
 
 【【神秘博士广播剧翻译】战争博士 The War Doctor 202 a thing of guile-哔哩哔哩】 https://b23.tv/EhOYEfa
@@ -1735,35 +1728,27 @@ http://drwhoguide.com/who_bf33.htm
 ** dw2024-q3b-spinoffs
 *** HALF [#A] TW7.3 Misty Eyes :Gwen:Rhys:
 *** [#A] TW57. The Grey Mare :Ianto:
-*** [#C] UNIT2.1 Power Cell 
+*** [#C] UNIT2.1 Power Cell
 *** HALF [#B] J&L9.1 The Flying Frenchmen :Jago:Litefoot:
 *** [#B] WM7.3 Boundaries :Master_war:bilibili:
 *** HALF [#C] River4.2 - Kings of Infinite Space :River:
 *** [#C] Rose2.1 Saltwater :Rose:bilibili:
-** pending
-*** [#A] CC14.1 The Death of the Daleks :2nd_Dr:Jamie:
-*** JACK2.1 Piece of Mind :Jack:
-*** [#D] CY2.1 - Young Winston :Churchill:Vastra:
-* DW2024-Q4a
 ** dw2024-q4a-doctor
 *** [#B] EA5.2 An Ideal World :1st_Dr:Vicki:Steven:
-
 *** FIXME [#D] CDNM3.1 The House that Hoxx Built :3rd_Dr:Sarah:
 *** [#B] MR104 The Bride of Peladon :5th_Dr:Peri:Erimem:
 *** [#C] 268B. Displaced :7th_DR:Ace:Hex:plot_no:
 *** [#D] 9DA7.2 Lay Down Your Arms :9th_DR:
 *** [#A] 11DC4.3 Curiosity Shop :11th_Dr:
-
 ** dw2024-q4a-spinoffs
 *** [#C] TW7.4 Moderation :Tyler:
-*** [#C] TW69 Double / TW70 Double part 2 
+*** [#C] TW69 Double / TW70 Double part 2
 *** [#D] UNIT2.2 Death in Geneva
 *** FIXME PG/JL: [#B] 9.2 - The Devil's Dicemen
 *** [#C] BSBOX 2.1 Brand Management :Benny:
 *** [#A] WM7.4 The Last Line :Master_war:10th_Dr:
 *** [#C] Rose2.2 Now is the New Dark :Rose:
-*** FIXME [#B] Gallifrey 3.5 - Panacea                       :Romana_2:Leela:
-
+*** FIXME [#B] Gallifrey 3.5 - Panacea :Romana_2:Leela:
 * pending
 ** odd
 *** [#B] LS2.1b The Fragile Yellow Arc of Fragrance (Susan, Ian, Barbara) :plot_yes:
@@ -1775,16 +1760,22 @@ http://drwhoguide.com/who_bf33.htm
 Tales of Trenzalore - 01
 
 ** even
+*** [#A] CC14.1 The Death of the Daleks                        :2nd_Dr:Jamie:
+
 *** FIXME [#B] 4DA 8.7/8.8 The Perfect Prisoners :Ann:
+
 *** [#C] 4DA7.7/7.8 - Kill the Doctor! / The Age of Sutekh  (Leela, Sutehk)
-*** [#C] 6DnP #1 The Headless Ones :6th_Dr:Peri:
 *** WoDW#4 Second Sight :Romana_2:Leela:Yates:
 *** [#C] MR194. The Rani Elite (6th, Peri) / [#C] MR157. The Fourth Wall (Flip) 2cd
 *** FIXME [#C] ST8.6 The Siege of Big Ben :10th_Dr:plot_yes:Jackie:
 ** spinoffs
+*** JACK2.1 Piece of Mind                                              :Jack:
+
 *** HALF [#B] Gallifrey 6.3 -Ascension
 *** [#C] River 6.4 The Talents of Grel :River:Jago:
 *** [#C] River 8.2 A Brave New World :River:10th_Dr:
 *** TLV: Lesser Evils :Master_tremas:
 *** [#D] WM8.2 - The Shadow Master
-*** [#C] CY1.3 - Living History (Churchill)
+*** [#C] CY1.3 - Living History :Churchill:
+*** [#D] CY2.1 - Young Winston :Churchill:Vastra:
+*** [#C] Susan1.4 The Shoreditch Intervention :Susan:8th_Dr:Alex:
