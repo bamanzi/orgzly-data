@@ -72,7 +72,8 @@ CLOSED: [2023-09-02 Sat 23:13] SCHEDULED: <2023-08-12 Sat>
 
 【【神秘博士广播剧熟肉】MR 032 The Time of the Daleks 戴立克之时-哔哩哔哩】 https://b23.tv/Wv6gLf7
 
-***** START [#B] 033 - Neverland :plot_yes_dwg:bilibili:DW2024_Q3b_doctor:
+***** 3QTR [#B] 033 - Neverland :Romana_2:Rassilon:plot_yes_dwg:bilibili:DW2024_Q3b_doctor:
+CLOSED: [2024-08-10 Sat 20:04] SCHEDULED: <2024-08-10 Sat>
 :PROPERTIES:
 :rating:   8.5
 :END:
@@ -992,12 +993,18 @@ The N-Forms receive an activation call, setting this after /Desperate Measures/
 *** DONE GTW1.4 Desperate Measures (Gallifrey: Time War #1.4) :Rassilon:🎧:
 CLOSED: [2020-11-09 Mon 18:14]
 
-*** 2DONE [#C] WM1.2 The Good Master :Master_war:D2021_08_extra:🎧:
+*** 2DONE [#C] WM1.2 The Good Master :Master_war:Cole:D2021_08_extra:🎧:
 :PROPERTIES:
 :rating:   7.8
 :END:
 
-*** READY [#B] 7.3 Boundaries :bilibili:DW2024_Q3b_spinoffs:
+*** 2DONE [#A] WM1.3 The Sky Man :Cole:D2021_09_extra:🎧:
+CLOSED: [2021-09-24 Fri 18:50] SCHEDULED: <2021-09-04 Sat>
+:PROPERTIES:
+:rating:   9.2
+:END:
+
+*** HALF [#B] 7.3 Boundaries :Cole:bilibili:DW2024_Q3b_spinoffs:
 SCHEDULED: <2024-08-11 Sun>
 
 【【广播剧汉化】徒劳的挣扎 The War Master 战争法师 703 Boundaries-哔哩哔哩】 https://b23.tv/KX01zpP

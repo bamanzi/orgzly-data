@@ -549,21 +549,21 @@ CLOSED: [2021-07-15 Thu 14:15]
 :rating:   7.8
 :END:
 
-**** DONE [#A] 40. Jubilee (9.0) :Daleks:plot_no:
+**** DONE [#A] 40. Jubilee (9.0) :Daleks:plot_yes_dwg:已购:
 CLOSED: [2021-03-30 Tue 17:52]
 
 **** [#A] 43. Doctor Who and The Pirates (8.8) :plot_yes:
 
 or The Lass that Lost a Sailor 
 
-**** 2DONE [#C] MR45. Project: Lazarus :7th_Dr:D2021_08_dr:
+**** 2DONE [#C] MR45. Project: Lazarus :7th_Dr:D2021_08_dr:2buy:
 CLOSED: [2021-07-23 Fri 12:43]
 :PROPERTIES:
 :rating:   7.7
 :END:
 
 **** HALF [#A] 57. Arrangements for War :plot_yes_dwg:DW2024_Q3b_doctor:
-SCHEDULED: <2024-08-03 Sat>
+SCHEDULED: <2024-08-17 Sat>
 :PROPERTIES:
 :rating:   8.5
 :END:

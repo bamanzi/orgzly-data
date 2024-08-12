@@ -603,8 +603,8 @@ SCHEDULED: <2023-06-23 Fri 19:51>
 
 第三季结尾还接上了The Resurrection of the Daleks
 
-***** READY [#E] DU3.1 - The First Son :bilibili:DW2024_Q3b_doctor:
-SCHEDULED: <2024-08-10 Sat>
+***** HALF [#E] DU3.1 - The First Son :River:bilibili:DW2024_Q3b_doctor:
+SCHEDULED: <2024-08-17 Sat>
 :PROPERTIES:
 :rating:   6.9
 :END:
