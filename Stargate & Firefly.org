@@ -1,4 +1,4 @@
-#+TITLE: Space operas
+#+TITLE: Star Wars, Stargate
 
 * Firefly :firefly:
 ** DONE tv
@@ -805,7 +805,7 @@ CLOSED: [2022-05-30 Mon 06:28] SCHEDULED: <2022-05-29 Sun>
 
 This series chronicles the first mission of Galactica under the command of Commander William Adama, dealing with terrorism in the Twelve Colonies.
 
-*** DONE ongoing (#0-12) :P2006:🛒:
+*** DONE ongoing (#0-12) :P2006:已购:
 
 The first series of issues based on the Re-imagined Series written by Greg Pak and pencilled by Nigel Raynor. The storyline appears after the events of "Home, Part II" (2x07) and before "Pegasus" (2x10) and significantly diverge from the Re-imagined Series' timeline of Season 2.
 
@@ -818,7 +818,7 @@ CLOSED: [2022-05-06 Fri 22:51]
 **** DONE vol.3 #9-12
 CLOSED: [2022-05-08 Sun 11:38]
 
-*** DONE Pegasus (one-shot) :🛒:
+*** DONE Pegasus (one-shot) :已购:
 CLOSED: [2022-05-21 Sat 16:27] SCHEDULED: <2022-05-22 Sun>
 
 https://en.battlestarwiki.org/Battlestar_Galactica:_Pegasus
@@ -1705,9 +1705,6 @@ Machines of War
 
 ￼ "Fett Club" — Star Wars Tales 24
 
-
-
-
 **** 3. The Clone Wars
 ***** DONE epic collection: The Clone Wars vol.1 :22BBY:
 CLOSED: [2023-09-03 Sun 14:02]
@@ -2252,8 +2249,8 @@ CLOSED: <2023-09-03 Sun 09:43>
 
 https://starwars.fandom.com/wiki/Disney%E2%80%93Lucasfilm_Press
 
-**** Star Wars: The Original Trilogy – A Graphic Novel :P2016:🛒:
-**** Star Wars: The Prequel Trilogy – A Graphic Novel :P2017:🛒:
+**** Star Wars: The Original Trilogy – A Graphic Novel :P2016:已购:
+**** Star Wars: The Prequel Trilogy – A Graphic Novel :P2017:已购:
 *** lego
 **** file adaptations
 ***** LEGO Star Wars: Save the Galaxy! (2011) — Young-readers adaptation of Star Wars: Episode IV A New Hope; published by Scholastic.

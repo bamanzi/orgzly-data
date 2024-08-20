@@ -255,7 +255,7 @@ CLOSED: <2020-11-14 Sat 22:47>
 **** DONE vol.3 20-29 (1996-1997)
 CLOSED: [2020-12-02 Wed 22:47]
 
-**** vol.4 30-41 (1997-1998) :🛒:
+**** vol.4 30-41 (1997-1998) :已购:
 **** specials: -1,-2, Digest 1/2/3
 *** Wildstorm (2008-2009)
 **** DONE 00-02 :myth:
@@ -266,7 +266,7 @@ CLOSED: <2020-10-13 Tue 13:10>
 
 **** 05-06
 *** IDW (2013-2018) :IDW:
-**** Season 10 (2013-2015) :🛒:🎧:
+**** Season 10 (2013-2015) :已购:🎧:
 ***** DONE 01-05 Believers :myth:
 CLOSED: [2020-11-07 Sat 10:40]
 
@@ -366,7 +366,7 @@ CLOSED: <2020-10-30 Fri 23:12>
 **** DONE [#C] Non Gratum Anus Rodentum :Skinner:Vietnam_War:
 CLOSED: <2020-10-10 Sat 16:40>
 
-*** vol.2 The Truth is Out There :🛒:
+*** vol.2 The Truth is Out There :已购:
 
 book review: https://is.gd/LXpZZR (coldbananas.com)
  http://coldbananas.com/2016/05/books/the-truth-is-out-there-serves-up-another-mixed-bag-of-x-files-short-stories/
@@ -383,7 +383,6 @@ CLOSED: [2022-03-13 Sun 14:23]
 **** DONE [#B] Mummiya
 CLOSED: [2022-03-06 Sun 21:26]
 
-
 [cp]补记：Mummiya 是上周看的，也收录于短篇集 The Truth is Out There
 
 这是一个关于埃及神秘的木乃伊的故事。街边流浪汉遇到一个木乃伊模样的影子在街上游荡，壮着胆子捅了一刀，木乃伊倒下了。Scully 发现层层裹尸布里面是一个女孩儿，判断死于两三个月前。那流浪汉怎么会看到木乃伊在街边晃荡呢？
@@ -397,7 +396,7 @@ Scully 查明死者是个身患绝症的大学生后，Mulder 去埃及文化专
 CLOSED: <2019-11-29 Fri 13:13>
 
 **** Voice of Experience
-*** vol.3 Secret Agendas :🛒:ebook:
+*** vol.3 Secret Agendas :已购:ebook:
 
 book review: https://is.gd/Xv3hBF (coldbananas.com)
 
@@ -579,9 +578,6 @@ CLOSED: [2023-05-31 Wed 21:19]
 CLOSED: [2023-05-31 Wed 22:15]
 
 ** Fringe S3 :P2010:S2024_05:S2024_06:
-:PROPERTIES:
-:fringe :  
-:END:
 
 22 episodes
 

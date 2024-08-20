@@ -313,7 +313,7 @@ written by Paul Cornell
 ***** DONE 23-26. The Streets Run Red
 CLOSED: [2022-09-11 Sun 07:46]
 
-**** LATER [#A] The Black Mirror :🛒:Snyder:Grayson:P2010:
+**** LATER [#A] The Black Mirror :已购:Snyder:Grayson:P2010:
 
  作为蝙蝠侠的迪克·格雷森不得不与小詹姆斯·戈登抗争，后者作为连环杀手归来，同时也是对哥谭市和迪克·格雷森本人的黑暗面的反映。
 
@@ -1211,10 +1211,10 @@ CLOSED: [2022-10-02 Sun 18:08] SCHEDULED: <2022-10-07 Fri>
 **** DONE Up, Up, and Away 一飞冲天 :P2006:
 CLOSED: [2022-10-20 Thu 23:12] SCHEDULED: <2022-10-07 Fri>
 
-**** DONE [#B] Superman: Secret Origin 秘密起源 :P2009:🛒:Geoff_Johns:
+**** DONE [#B] Superman: Secret Origin 秘密起源 :P2009:已购:Geoff_Johns:
 CLOSED: [2022-10-25 Tue 12:54]
 
-**** READY _Superman: Earth One_ 一号地球 :P2010:🛒:
+**** READY _Superman: Earth One_ 一号地球 :P2010:已购:
 
 a new modern version of the Superman story taking place in a
 
@@ -1228,8 +1228,8 @@ a new modern version of the Superman story taking place in a
 ***** Vol.7 Bizarroverse
 **** Superman Smashes the Klan 超人恶斗3K党 :P2019:
 *** greatest hits
-**** LATER Superman: For All Seasons 四季 :P1998:🛒:
-**** DONE All-star Superman :P2005:Grant_Morrison:🛒:
+**** LATER Superman: For All Seasons 四季 :P1998:已购:
+**** DONE All-star Superman :P2005:Grant_Morrison:已购:
 **** BLOCK Superman: Kryptonite :P2006:
 
 SUPERMAN CONFIDENTIAL #1-5 and #11.
@@ -1416,7 +1416,7 @@ to the re-imagined Earth-22 reality.
 
 https://dc.fandom.com/wiki/Thy_Kingdom_Come
 
-**** READY Superman: Secret Identity 秘密身份 :P2004:🛒:
+**** READY Superman: Secret Identity 秘密身份 :P2004:已购:
 **** Superman: Red Son :P2003:
 *** singles
 **** /Superman: Whatever Happened to the Man of Tomorrow?/, by Alan Moore and Curt Swan

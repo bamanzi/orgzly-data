@@ -108,23 +108,23 @@ CLOSED: [2023-01-08 Sun 12:19]
 
 ** novels :📔:
 *** 译林出版社
-**** DONE [#B] 流吧，我的眼泪 :🛒:
+**** DONE [#B] 流吧，我的眼泪 :已购:
 :PROPERTIES:
 :goodreads: 3.91
 :END:
 
-**** DONE [#A] 仿生人会梦见电子羊吗 :P1968:🛒:
+**** DONE [#A] 仿生人会梦见电子羊吗 :P1968:已购:
 :PROPERTIES:
 :goodreads: 4.08
 :END:
 
-**** DONE [#A] 尤比克 :🛒:
+**** DONE [#A] 尤比克 :已购:
 :PROPERTIES:
 :goodreads: 4.07
 :END:
 
-**** DONE 少数派报告 :anthology:🛒:
-**** DONE [#D] 高堡奇人 :P1962:🛒:
+**** DONE 少数派报告 :anthology:已购:
+**** DONE [#D] 高堡奇人 :P1962:已购:
 :PROPERTIES:
 :goodreads: 3.62
 :END:
@@ -159,7 +159,7 @@ CLOSED: [2023-01-08 Sun 12:19]
 
 《主教的轮回》是三部曲的最后一部（其他两部为《瓦利斯》和《神的入侵》）。小说讲述一位温文尔雅的主教蒂莫西·阿彻的故事。儿子与情妇的自杀痛苦的折磨着他，最终使他踏上了探索基督真实身份的奇异旅途。作品从学术的高度对宗教信仰的种种迷思进行了痛苦的探索，感人至深。
 
-**** DONE [#B] 幻觉（时间脱节） Time Out of Joint :P1959:🛒:
+**** DONE [#B] 幻觉（时间脱节） Time Out of Joint :P1959:已购:
 CLOSED: [2023-02-12 Sun 19:44]
 :PROPERTIES:
 :goodreads: 3.86
@@ -181,13 +181,13 @@ CLOSED: [2023-02-12 Sun 19:44]
 :END:
 
 *** 四川科学技术出版社
-**** 中短篇集1：记忆裂痕 (8.8) :🛒:ebook:
+**** 中短篇集1：记忆裂痕 (8.8) :已购:ebook:
 ***** 8. 骷髅/头骨 The Skull
-**** 中短篇集2：命运规划局 (9.2) :🛒:ebook:
-**** 中短篇集3：预见未来 (8.7) :🛒:ebook:
-**** 中短篇集4：少数派报告 (8.9) :🛒:ebook:
-**** 中短篇集5：全面回忆 (8.8) :🛒:ebook:
-**** DONE 菲利普·迪克的电子梦 PKD's Electric Dreams :📺:🛒:ebook:
+**** 中短篇集2：命运规划局 (9.2) :已购:ebook:
+**** 中短篇集3：预见未来 (8.7) :已购:ebook:
+**** 中短篇集4：少数派报告 (8.9) :已购:ebook:
+**** 中短篇集5：全面回忆 (8.8) :已购:ebook:
+**** DONE 菲利普·迪克的电子梦 PKD's Electric Dreams :📺:已购:ebook:
 **** 195x
 ***** [#E] 太阳系大乐透 Solar Lottery :P1955:ebook:
 :PROPERTIES:
@@ -219,12 +219,12 @@ CLOSED: [2024-01-07 Sun 10:25]
 :goodreads: 3.78
 :END:
 
-***** NEXT [#C] 火星时间穿越 （火星人的时光倒转） Martian Time-Slip :P1964:🛒:
+***** NEXT [#C] 火星时间穿越 （火星人的时光倒转） Martian Time-Slip :P1964:已购:
 :PROPERTIES:
 :goodreads: 3.76
 :END:
 
-***** READY [#C] 阿尔法卫星上的家族Clans of the Alphane Moon :P1964:🛒:
+***** READY [#C] 阿尔法卫星上的家族Clans of the Alphane Moon :P1964:已购:
 :PROPERTIES:
 :goodreads: 3.74
 :END:
@@ -234,7 +234,7 @@ CLOSED: [2024-01-07 Sun 10:25]
 :goodreads: 3.65
 :END:
 
-***** DONE [#A] 帕莫·艾德里奇的三处圣痕 The Three Stigmata of Palmer Eldritch :P1965:🛒:
+***** DONE [#A] 帕莫·艾德里奇的三处圣痕 The Three Stigmata of Palmer Eldritch :P1965:已购:
 CLOSED: [2022-03-06 Sun 11:46]
 :PROPERTIES:
 :douban:   8.5
@@ -245,14 +245,14 @@ CLOSED: [2022-03-06 Sun 11:46]
 
 未来，一种名为“糖麻”的药物被广泛使用，它让人们把眼前的微缩城市模型当作现实，进而开启另一段人生。 此时，帕莫·艾德里奇恰从异星归来，他带回的“嚼麻”能让人获得近乎神明的体验，从而导致糖麻产业链面临崩溃。 巴尼·梅尔森临危受命，对帕莫·艾德里奇展开调查。然而，他所见、所思、所做的一切，究竟是现实、幻觉，还是幻觉之中的另一场幻觉？ 帕莫·艾德里奇，究竟是外星人的傀儡、梅尔森眼中的幻觉，还是神灵本身的再现？
 
-***** READY [#D] 血钱博士 Dr. Bloodmoney :P1965:🛒:
+***** READY [#D] 血钱博士 Dr. Bloodmoney :P1965:已购:
 :PROPERTIES:
 :goodreads: 3.68
 :END:
 
 星云奖提名
 
-***** READY [#B] 等待去年来临 （末日危机）Now Wait for Last Year :P1966:🛒:ebook:
+***** READY [#B] 等待去年来临 （末日危机）Now Wait for Last Year :P1966:已购:ebook:
 :PROPERTIES:
 :douban:   8.4
 :goodreads: 3.89
@@ -268,7 +268,7 @@ CLOSED: [2022-03-06 Sun 11:46]
 ***** DONE [#A] ↗Do Androids Dream of Electric Sheep? :P1968:
 **** 1969-1976
 ***** DONE ↗Ubik :P1969:
-***** DONE [#C] 死亡迷局  A Maze of Death :P1970:🛒:S2024_02:
+***** DONE [#C] 死亡迷局  A Maze of Death :P1970:已购:S2024_02:
 CLOSED: [2024-05-17 Fri 23:26] SCHEDULED: <2024-05-25 Sat>
 :PROPERTIES:
 :douban:   8.4
@@ -278,7 +278,7 @@ CLOSED: [2024-05-17 Fri 23:26] SCHEDULED: <2024-05-25 Sat>
 十四个移民被送到了未经开发的德尔马克-欧星，却因设备故障与外界失去了联系。面对荒凉而陌生的环境，他们各怀心事、满腹猜疑，只能通过信号向神祈祷，但死亡随时可能降临……德尔马克-欧星上满是奇特的原生生物，还有早在移民到来之前就已存在的神秘大楼——它诱惑着所有人进入，却在各人眼中呈现出不同的模样……探索这颗星球的过程中，移民们接连遇害，是人们控制不住自己的癫狂，还是恶神在悄悄逼近？ 在这里，上帝要么不存在，要么是在蓄意毁灭它的造物……
 
 ***** DONE [#B] ↗Flow My Tears, the Policeman Said :P1974:
-***** READY [#A] 黑暗扫描仪 A Scanner Darkly :P1977:🛒:ebook:
+***** READY [#A] 黑暗扫描仪 A Scanner Darkly :P1977:已购:ebook:
 :PROPERTIES:
 :goodreads: 4.0
 :END:
@@ -286,14 +286,14 @@ CLOSED: [2024-05-17 Fri 23:26] SCHEDULED: <2024-05-25 Sat>
 英国科幻协会奖（BSFA）获奖
 
 **** 1977-1982
-***** READY [#B] ¹神圣秘密 （瓦利斯） VALIS :P1981:🛒:ebook:
+***** READY [#B] ¹神圣秘密 （瓦利斯） VALIS :P1981:已购:ebook:
 :PROPERTIES:
 :goodreads: 3.93
 :END:
 
 一道粉红色激光照射后，爱马士·肥特的人生改变了。他看到古罗马和现实生活重叠到一起，他了解到小儿子身上连医生都没有诊断出的病症，他服药自杀却存活下来……一切无望的生活琐碎仿佛开始有了终极意义。 他需要做出一个判断：究竟是自己疯了，还是一个如神圣存在般的智能系统正在向自己彰显这个世界的本质。 他究竟是谁？是隐秘宗教诺斯替教派的教徒，是能通晓古今的救世主，抑或，只是郁郁不得志的科幻小说家菲利普·迪克？
 
-***** READY [#C] ²神圣入侵 The Divine Invasion :P1981:🛒:
+***** READY [#C] ²神圣入侵 The Divine Invasion :P1981:已购:
 :PROPERTIES:
 :goodreads: 3.81
 :END:
@@ -320,7 +320,7 @@ CLOSED: [2024-05-17 Fri 23:26] SCHEDULED: <2024-05-25 Sat>
 
 * Asimov
 ** novels :📔:
-*** Foundation :🛒:ebook:
+*** Foundation :已购:ebook:
 **** DONE [#A] 1. 基地 :P1951:
 CLOSED: <2022-01-24 Mon 20:41>
 :PROPERTIES:
@@ -361,6 +361,7 @@ CLOSED: [2024-02-03 Sat 14:28]
 :goodreads: 4.25
 :douban:   9.2
 :END:
+
 **** DONE [#A] 4. 基地前奏 Prelude to Foundation :P1988:
 CLOSED: [2022-01-05 Wed 00:05]
 :PROPERTIES:
@@ -412,13 +413,13 @@ CLOSED: [2023-01-21 Sat 22:50]
 **** 14. 星空暗流 The Currents of Space :P1952:
 **** 15. 苍穹一粟 Pebble in the Sky :P1950:
 *** misc
-**** DONE [#A] The End of Eternity 永恒的终结 :🛒:
+**** DONE [#A] The End of Eternity 永恒的终结 :已购:
 CLOSED: <2022-02-01 Tue>
 :PROPERTIES:
 :douban:   9.0
 :END:
 
-**** DONE [#B] The Gods Themselves 神们自己 :🛒:
+**** DONE [#B] The Gods Themselves 神们自己 :已购:
 **** Nightfall (4.05)
 **** The Last Question
 **** Earth is Room Enough

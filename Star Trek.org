@@ -2090,7 +2090,7 @@ CLOSED: [2023-07-01 Sat 16:54] SCHEDULED: <2023-07-02 Sun>
 
 闪回发生在 电影六 The Undiscovered Country 期间的精进号上（克林贡的卫星 Praxis 爆炸，失去大部能源来源，于是与星联启动和平谈判。克林贡谈判代表遭到阴谋份子暗杀，Kirk 和 Spock 被嫁祸。时任精进号舰长的 Sulu 要去救老朋友…）
 
-**** [#E] 3x03. The Chute			   (6.9)
+**** [#E] 3x03. The Chute			   (6.9) :S2025:
 **** [#D] 3x04. The Swarm			   (7.3)
 **** [#E] 3x05. False Profits		   (6.8)
 **** [#D] 3x06. Remember			   (7.1)
@@ -2098,7 +2098,7 @@ CLOSED: [2023-07-01 Sat 16:54] SCHEDULED: <2023-07-02 Sun>
 **** [#B] 3x08. Future's End		   (8.4) :alternate_universe:
 **** [#B] 3x09. Future's End: Part II (8.3)
 **** [#E] 3x10. Warlord			   (6.8)
-**** LATER [#D] 3x11. The Q and the Grey   (7.4) :Q:
+**** [#D] 3x11. The Q and the Grey   (7.4) :Q:S2025:
 **** [#D] 3x12. Macrocosm			   (7.3)
 **** [#E] 3x13. Fair Trade		   (6.8)
 **** [#E] 3x14. Alter Ego			   (6.8)
@@ -2304,8 +2304,6 @@ Seven of Nine is approached by Hugh with an offer to join his society of indi
 connections:
 - TNG episode: "I, Borg"
 - TNG episode: "Descent"
-
-
 
 *** Strange New Worlds IV
 **** "Iridium-7-Tetrahydroxate Crystals Are a Girl's Best Friend" by Bill Stuart :VOY:
@@ -2567,7 +2565,7 @@ CLOSED: [2022-06-25 Sat 23:46]
 **** DONE 1x10 Et in Arcadia Ego, Part 2
 CLOSED: [2022-06-26 Sun 22:27]
 
-*** Picard S2 :P2022:Y2400:
+*** Picard S2 :P2022:Y2400:S2025:
 ** comics :📚:
 *** DONE Picard: Countdown
 CLOSED: <2022-06-04 Sat 17:14> SCHEDULED: <2022-06-03 Fri>
@@ -2612,7 +2610,7 @@ CLOSED: [2022-07-22 Fri 19:07] SCHEDULED: <2022-07-23 Sat>
 *** DONE 1x10 No Small Parts
 CLOSED: [2022-07-29 Fri 21:16] SCHEDULED: <2022-07-30 Sat>
 
-** 📂Lower Decks S2 (2021)
+** 📂Lower Decks S2 (2021) :S2025:
 *** 2x01 Strange Energies
 * SNW - Strange New Worlds (2022- ) :SNW:Pike:
 ** tv :📺:
@@ -2664,7 +2662,7 @@ CLOSED: [2023-07-01 Sat 12:02] SCHEDULED: <2023-07-01 Sat>
 
 an alternate timeline of TOS episode: /Balance of Terror/
 
-*** SNW S2 :P2023:Y2259:
+*** SNW S2 :P2023:Y2259:S2025:
 
 新世界第二季整季：
 百度网盘：https://pan.baidu.com/s/1onWnu2wUZd5YZFDD0uDCWg?pwd=stcn 提取码：stcn
@@ -2776,9 +2774,10 @@ https://intl.startrek.com/news/new-era-star-trek-comics
 ***** DONE #1-6 Godshock :ST2024_06:
 CLOSED: [2024-06-05 Wed 09:02]
 
-***** DONE #7-10 Redpath :ST2024_06:
+***** DONE #7-10 The Red Path :ST2024_06:
 CLOSED: [2024-06-06 Thu 08:44] SCHEDULED: <2024-06-09 Sun>
 
+***** #13-18 A Savage World of Glass and Bone
 **** Defiant (2023) :Y2378:hanzify:
 
  漫画新系列《挑战号》第1期发布！本刊是正在连载的新主刊的衍生故事，故事紧接在主刊第5期之后，又是全明星阵容，集结了史波克、沃尔夫、罗·拉伦、贝拉娜和Lore，为了完成一项特殊的任务。
@@ -2904,8 +2903,8 @@ CLOSED: [2022-05-27 Fri 08:46]
 **** LATER Infinity's Prism
 *** Section 31
 **** Abyss :P2001:
-**** [#A] Disavowed :P2014:
-**** [#A] Control :P2017:
+**** [#A] Disavowed :P2014:已购:
+**** [#A] Control :P2017:已购:
 ** short stories :📄:
 *** [#C] Strange New Worlds I (3.76)
 *** [#B] Strange New Worlds II (3.95) :P1999:
@@ -2918,7 +2917,7 @@ https://memory-beta.fandom.com/wiki/Strange_New_Worlds_II
 https://memory-beta.fandom.com/wiki/Strange_New_Worlds_IV
 
 *** [#C] Strange New Worlds V (3.83)
-*** [#B] 📂Strange New Worlds VI (3.99) :P2003:🛒:已购:
+*** [#B] 📂Strange New Worlds VI (3.99) :P2003:已购:
 
 https://memory-beta.fandom.com/wiki/Strange_New_Worlds_VI
 
@@ -2926,7 +2925,7 @@ https://memory-beta.fandom.com/wiki/Strange_New_Worlds_VI
 **** "The Beginning" by Annie Reed
 *** [#B] Strange New Worlds VII (3.87)
 *** [#B] Strange New Worlds 8 (3.96)
-*** TOBUY [#A] *Strange New Worlds 9* (4.05) :P2006:
+*** [#A] *Strange New Worlds 9* (4.05) :P2006:2buy:
 
 https://memory-beta.fandom.com/wiki/Strange_New_Worlds_9
 
@@ -2935,7 +2934,7 @@ https://memory-beta.fandom.com/wiki/Strange_New_Worlds_9
 **** "The Rules of War" by Kevin Lauderdale
 **** "The Immortality Blues" by Marc Carlson
 **** [#A] "Orphans" by R.S. Belcher (Grand Prize)
-*** [#B] Strange New Worlds 10 (3.93) :P2007:🛒:已购:
+*** [#B] Strange New Worlds 10 (3.93) :P2007:已购:
 **** "Time Line" by Jerry M. Wolfe
 **** [#A] "Echoes" by Randy Tatano (Second Prize)
 **** "Brigadoon" by Rigel Ailur
@@ -2974,10 +2973,9 @@ CLOSED: [2021-01-19 Tue 19:16]
 :END:
 
 **** DONE [#C] 2x07 Deflectors
-
- :PROPERTIES:
- :rating:   7.6
- :END:
+:PROPERTIES:
+:rating:   7.6
+:END:
 
 **** DONE [#A] 2x08 Identity: Part I
 CLOSED: [2021-01-27 Wed 16:54]

@@ -464,40 +464,6 @@ https://fables.fandom.com/wiki/Fables_Wiki
 ** Y: The Last Man
 ** Swamp Thing
 * Marvel
-** Ultimate Marvel
-*** Ultimate X-Men :S2025:
-
-https://breezewiki.com/ultimatepopculture/wiki/Ultimate_X-Men#Collected_editions
-
-**** vol.1 The Tomorrow People (#1-6)
-**** vol.2 Return To Weapon X (#7-12)
-**** vol.3 World Tour (#13-20)
-**** vol.4 Hellfire & Brimstone (#21-25)
-**** vol.5 Ultimate War
-**** vol.6 Return Of The King (#26-33)
-**** vol.7 Blockbuster (#34-39)
-*** Ultimate Fantastic Four
-
-https://breezewiki.com/ultimatepopculture/wiki/Ultimate_Fantastic_Four#Collected_editions
-
-**** DONE vol.1 The Fantastic (#1-6) :S2024_08:
-CLOSED: [2024-07-30 Tue 23:11]
-
-**** DONE vol.2 Doom (#7-12) :S2024_08:
-CLOSED: <2024-08-02 Fri 13:03>
-
-**** DONE vol.3 N-Zone (#13-18) :S2024_08:
-CLOSED: <2024-08-06 Tue 20:24>
-
-**** DONE vol.4 Inhuman (#19-20, annual #1) :S2024_08:
-CLOSED: <2024-08-08 Thu 20:25>
-
-**** vol.5 Crossover (#21-26)
-***** DONE Crossover (#21-23)
-CLOSED: <2024-08-10 Sat 08:27>
-
-***** Tomb of Namor (#24-27)
-**** vol.6 Frightful (#27-32)
 ** Spider-Man
 *** The Amazing Spider-Man 神奇蜘蛛侠
 **** v1 (1963-1998, #001-441)
@@ -590,6 +556,7 @@ It was replaced by The Superior Spider-Man as part of the Marvel NOW! relaun
 
 - Spider-Gwen: Ghost Spider #4
 
+** Ultimate Marvel
 *** Ultimate Spider-Man
 
 https://en.m.wikipedia.org/wiki/List_of_Ultimate_Spider-Man_story_arcs
@@ -630,9 +597,57 @@ Ultimate Spider-Man #129–133, Annual #3
 ***** vol.4 Death of Spider-Man (#156-160)
 ***** vol.5 Death Spider-Man Fallout
 **** Ultimate Comics Spider-Man (Miles Morales)
+*** Ultimate X-Men :S2025:
+
+https://breezewiki.com/ultimatepopculture/wiki/Ultimate_X-Men#Collected_editions
+
+**** vol.1 The Tomorrow People (#1-6)
+**** vol.2 Return To Weapon X (#7-12)
+**** vol.3 World Tour (#13-20)
+**** vol.4 Hellfire & Brimstone (#21-25)
+**** vol.5 Ultimate War
+**** vol.6 Return Of The King (#26-33)
+**** vol.7 Blockbuster (#34-39)
+*** Ultimate Fantastic Four :S2024_08:
+
+https://breezewiki.com/ultimatepopculture/wiki/Ultimate_Fantastic_Four#Collected_editions
+
+**** DONE vol.1 The Fantastic (#1-6) :S2024_08:
+CLOSED: [2024-07-30 Tue 23:11]
+
+**** DONE vol.2 Doom (#7-12) :S2024_08:
+CLOSED: <2024-08-02 Fri 13:03>
+
+**** DONE vol.3 N-Zone (#13-18) :S2024_08:
+CLOSED: <2024-08-06 Tue 20:24>
+
+**** DONE vol.4 Inhuman (#19-20, annual #1) :S2024_08:
+CLOSED: <2024-08-08 Thu 20:25>
+
+**** DONE vol.5 Crossover (#21-26)
+***** DONE Crossover (#21-23)
+CLOSED: <2024-08-10 Sat 08:27>
+
+***** DONE Tomb of Namor (#24-27)
+CLOSED: [2024-08-12 Mon 19:09]
+
+**** DONE vol.6 Frightful (#27-32)
+***** DONE President Thor (#27-29)
+CLOSED: [2024-08-15 Thu 15:31]
+
+***** DONE Frightful (#30-32)
+CLOSED: [2024-08-17 Sat 16:48]
+
+*** mini
+**** DONE [#B] Ultimate Captain America
+CLOSED: [2024-08-19 Mon 16:04]
+
+**** Ultimate Thor
 ** Marvel MCU
 *** Marvel's Agents of S.H.I.E.L.D.
-**** DOING S5 :S2024_08:
+**** DONE S5 :S2024_08:
+CLOSED: [2024-08-13 Tue 18:47]
+
 ***** DONE 5x11
 CLOSED: [2024-07-28 Sun 20:24]
 
@@ -663,15 +678,34 @@ CLOSED: [2024-08-07 Wed 20:26]
 ***** DONE 5x20
 CLOSED: [2024-08-09 Fri 21:28]
 
-***** 5x21
-***** 5x22
+***** DONE 5x21
+CLOSED: [2024-08-13 Tue 08:05]
+
+***** DONE 5x22
+CLOSED: [2024-08-13 Tue 18:47]
+
 **** S6 :S2025:
 *** phase 2
 **** DONE Avengers 2: Age of Ultron
 CLOSED: [2024-08-10 Sat 10:01]
 
 *** phase 4
-**** DOING WandaVision 旺达幻视 :P2021:S2024_08:
+**** TODO Loki S1 :S2024_08:
+***** DONE 1x01
+CLOSED: [2024-08-12 Mon 08:32]
+
+***** DONE 1x02
+CLOSED: [2024-08-15 Thu 08:12]
+
+***** DONE 1x03
+CLOSED: [2024-08-16 Fri 22:24]
+
+***** DONE 1x04
+CLOSED: [2024-08-17 Sat 23:08]
+
+***** 1x05
+***** 1x06
+**** DONE WandaVision 旺达幻视 :P2021:S2024_08:
 ***** DONE 1x01
 CLOSED: [2024-07-29 Mon 20:08]
 
@@ -700,10 +734,10 @@ CLOSED: [2024-08-10 Sat 15:30]
 CLOSED: [2024-08-10 Sat 16:16]
 
 **** TODO The Falcon and the Winter Soldier 猎鹰与冬兵 :S2024_08:
-*** misc
-**** TODO Loki S1 :S2024_08:
+*** Daredevil / The Pulisher
+**** Daredevil S1
 ***** DONE 1x01
-CLOSED: [2024-08-12 Mon 08:32]
+CLOSED: [2024-08-19 Mon 20:56]
 
 * Supernatural :📺:spn:
 ** comics
