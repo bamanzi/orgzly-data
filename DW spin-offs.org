@@ -107,10 +107,10 @@ B站有字幕
 https://b23.tv/AvT0wB
 https://b23.tv/Lv2q44
 
-***** 2DONE [#A] 12. Made You Look :Gwen:
+***** 2DONE [#B] 12. Made You Look :Gwen:
       CLOSED: [2021-04-27 Tue 08:33]
       :PROPERTIES:
-      :rating:   8.8
+      :rating:   8.4
       :END:
 
 **** series 3 (13-18) :P2017:
@@ -169,10 +169,10 @@ half scripted https://www.pillowfort.social/posts/563376
       :rating:   9.2
       :END:
 
-***** 3QTR [#A] 22. Goodbye Piccadilly :Andy:Norton:plot_yes:DW2022_07_spinoffs:
+***** 3QTR [#B] 22. Goodbye Piccadilly :Andy:Norton:plot_yes:DW2022_07_spinoffs:
       SCHEDULED: <2022-07-06 Wed>
       :PROPERTIES:
-      :rating:   8.6
+      :rating:   8.1
       :END:
 
 Sgt Andy Davidson wakes up in the 1950s. He's chained to a bed, his clothes are missing and the building's on fire. Norton Folgate needs his help.
@@ -316,10 +316,10 @@ Sebastian Vaughan is the brightest, newest recruit to Torchwood. He's come fro
       :rating:   7.9
       :END:
 
-***** 3QTR [#A] TW43. The Three Monkeys :Owen:Andy:DW2024_02_spinoffs:
+***** 3QTR [#B] 43. The Three Monkeys :Owen:Andy:DW2024_02_spinoffs:
       CLOSED: <2024-02-23 Fri 20:41> SCHEDULED: <2024-02-11 Sun>
       :PROPERTIES:
-      :rating:   8.8
+      :rating:   8.4
       :END:
 
 Andy Davidson's been ordered to watch over a local businessman. Everything's always gone right for him, and Andy's long wondered why.
@@ -376,8 +376,11 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
       :END:
 
 ***** BLOCK /50. Absent Friends/ (missing)
-***** 3QTR [#A] 50X. The Black Knight (8.6) :Norton:plot_yes:DW2024_Q2b_spinoffs:
+***** 3QTR [#A] 50X. The Black Knight :Norton:plot_yes:DW2024_Q2b_spinoffs:
       CLOSED: <2024-05-06 Mon 20:48> SCHEDULED: <2024-04-28 Sun>
+      :PROPERTIES:
+      :rating:   8.6
+      :END:
 
 ***** 3QTR [#A] 51. The Five People You Kill in Middlebrough :Yvonne:plot_yes:DW2024_01_spinoffs:
       CLOSED: [2024-01-15 Mon 08:53] SCHEDULED: <2024-01-07 Sun>
@@ -385,7 +388,7 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
       :rating:   8.5
       :END:
 
-***** 3QTR [#A] 52. Madam I'm (8.8) :Norton:Adam:Lizbeth:plot_yes:DW2023_08_spinoffs:
+***** 3QTR [#A] 52. Madam I'm :Norton:Adam:Lizbeth:plot_yes:DW2023_08_spinoffs:
       CLOSED: <2023-08-23 Wed 10:27> SCHEDULED: <2023-08-27 Sun>
       :PROPERTIES:
       :rating:   8.8
@@ -409,15 +412,16 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
       :rating:   8.6
       :END:
 
-***** HALF [#C] TW56. The Red List :Ace:Colchester:DW2023_05_spinoffs:
+***** HALF [#C] 56. The Red List :Ace:Colchester:DW2023_05_spinoffs:
       SCHEDULED: <2023-05-28 Sun>
       :PROPERTIES:
       :rating:   7.8
       :END:
 
-***** [#A] 57. The Grey Mare :Ianto:DW2024_Q3b_spinoffs:
+***** [#B] 57. The Grey Mare :Ianto:DW2024_Q3b_spinoffs:
+      SCHEDULED: <2024-08-25 Sun>
       :PROPERTIES:
-      :rating:   8.5
+      :rating:   8.3
       :END:
 
 ***** [#B] 58. Cadoc Point :Andy:
@@ -436,7 +440,7 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
       :rating:   6.7
       :END:
 
-**** series 8 (61-72)
+**** series 8 (61-72) :P2022:
 ***** HALF [#C] TW61. War Chest :Tosh:P2022_05:plot_yes:DW2023_04_spinoffs:
       DEADLINE: <2023-04-23 Sun> SCHEDULED: <2023-04-19 Wed 08:42>
 
@@ -459,7 +463,7 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 ***** [#A] 70. Double part2 :Autons:plot_yes:
 ***** [#E] 71. The Last Love Song of Suzie Costello :Suzie:plot_yes:
 ***** [#D] 72. The Thirst Trap :Andy:Rhys:plot_yes:
-**** series 9 (73-84)
+**** series 9 (73-84) :P2023:
 ***** [#E] 73. Launch Date :Ianto:P2023_04:
 ***** [#B] 74. Sigil :Bilis_Manger:P2023_08:
 ***** [#E] 75. Dog Hop :Andy:plot_yes:
@@ -649,21 +653,27 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
 ***** [#C] 7.1 Aliens Next Door :Ng:Orr:DW2024_Q2b_spinoffs:
       SCHEDULED: <2024-05-12 Sun>
 
-***** 3QTR [#B] 7.2 Colin Alone :Colchester:DW2024_Q3a_spinoffs:
+***** 3QTR [#C] 7.2 Colin Alone :Colchester:DW2024_Q3a_spinoffs:
       CLOSED: [2024-05-30 Thu 19:34] SCHEDULED: <2024-06-16 Sun>
+      :PROPERTIES:
+      :rating:   7.6
+      :END:
 
-***** HALF [#A] 7.3 Misty Eyes :Gwen:Rhys:Ng:DW2024_Q3b_spinoffs:
-      SCHEDULED: <2024-07-28 Sun>
+***** HALF [#B] 7.3 Misty Eyes :Gwen:Rhys:Ng:DW2024_Q3b_spinoffs:
+      SCHEDULED: <2024-08-11 Sun>
+      :PROPERTIES:
+      :rating:   8.4
+      :END:
 
-***** [#C] 7.4 Moderation :Tyler:
-***** [#D] 7.5 Propaganda :Orr:
-***** [#A] 7.6 At Her Majesty’s Pleasure :Yvvone:
-***** [#A] 7.7 Cuckoo :Bilis_Manger:
-***** [#A] 7.8 Pariahs
-***** 7.9 How I Conquered the World
-***** 7.10 Doomscroll
-***** 7.11 Heistland
-***** 7.12 The Apocalypse Starts at 6 PM
+***** [#C] 7.4 Moderation :Tyler:Colchester:
+***** [#E] 7.5 Propaganda :Orr:
+***** [#A] 7.6 At Her Majesty’s Pleasure :Yvonne:Andy:
+***** [#A] 7.7 Cuckoo (9.1) :Bilis_Manger:
+***** [#A] 7.8 Pariahs :Yvonne:Colchester:Ng:Tyler:Orr:
+***** [#A] 7.9 How I Conquered the World
+***** [#B] 7.10 Doomscroll
+***** [#B] 7.11 Heistland
+***** [#C] 7.12 The Apocalypse Starts at 6 PM
 *** The Lives of Captain Jack :🎧:Jack:1CD:
 **** vol.1 :P2017:
 ***** HALF [#D] The Year After I Died
@@ -781,7 +791,7 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
 ***** 5.2 By Royal Appointment
 ***** 5.3 Nerves
 *** Torchwood Soho
-**** DONE [#A] Torchwood Soho: Parasite :3CD:P2020:plot_yes:Norton:Andy:Lizbeth:
+**** DONE [#A] TW Soho #1: Parasite :3CD:P2020:plot_yes:Norton:Andy:Lizbeth:
 
 https://tardis.fandom.com/wiki/Parasite_(audio_story)
 
@@ -803,7 +813,7 @@ https://tardis.fandom.com/wiki/Parasite_(audio_story)
 ***** 3QTR [#A] TWS1.6 The Liberty of Norton Folgate :DW2023_04_spinoffs:
       CLOSED: [2023-04-21 Fri 13:57]
 
-**** Torchwood Soho #2: Ashenden :Norton:Andy:Lizbeth:P2021:plot_yes:
+**** TW Soho #2: Ashenden :Norton:Andy:Lizbeth:P2021:plot_yes:
 ***** [#C] 2.1. Pimlico
       :PROPERTIES:
       :rating:   7.8
@@ -830,8 +840,8 @@ https://tardis.fandom.com/wiki/Parasite_(audio_story)
       :rating:   8.9
       :END:
 
-**** Torchwood Soho #3 The Unbegotten :Norton:Andy:Lizbeth:P2022_10:
-**** Soho #4: Ascension :P2024_07:
+**** TW Soho #3 The Unbegotten :Norton:Andy:Lizbeth:P2022_10:plot_yes:
+**** TW Soho #4: Ascension :P2024_07:
 *** BBC audio dramas :🎧:scripted:
 **** [#D] 1. Lost Souls :Martha:
 **** 3QTR [#B] TWB2. Asylum :Jack:Gwen:Ianto:Andy:DW2023_05_spinoffs:
@@ -975,7 +985,7 @@ With the Discordia on their tail, River and her friends run for their lives 
       :END:
 
 **** DoRS 5 :P2019:
-***** 2DONE [#A] 5.1 The Bekdel Test :Missy:plot_yes:bilibili:
+***** 2DONE [#A] 5.1 The Bekdel Test :Master_missy:plot_yes:bilibili:
       CLOSED: [2021-05-28 Fri 08:51]
       :PROPERTIES:
       :rating:   8.6
@@ -1050,7 +1060,7 @@ Roberts Master
 ***** [#C] 8.2 A Brave New World (7.6) :10th_Dr:
 ***** [#C] 8.3 A Forever Home (7.5) :K9:
 ***** HALF [#E] 8.4 Queen of the Mechonoids     (6.5) :Anya:Mark_7:
-**** 📂DoRS 9 - New Recruit :P2021_10:
+**** 📂DoRS 9 - New Recruit :P2021_10:2buy:
 ***** 3QTR [#B] 9.1 The Blood Woods :Liz:Brigadier:D2022_01_spinoffs:
       CLOSED: [2022-01-14 Fri 08:37] SCHEDULED: <2022-01-26 Wed>
       :PROPERTIES:
@@ -1063,13 +1073,13 @@ Roberts Master
       :rating:   7.2
       :END:
 
-***** CANCEL [#E] DoRS9.3. Never Alone :D2022_03_spinoffs:week2:
+***** CANCEL [#E] DoRS9.3. Never Alone :D2022_03_spinoffs:
       CLOSED: [2022-03-30 Wed 19:27]
       :PROPERTIES:
       :rating:   6.1
       :END:
 
-***** HALF [#B] DoRS9.4. Rivers of Light :Liz:3rd_Dr:D2022_03_spinoffs:week3:
+***** HALF [#B] DoRS9.4. Rivers of Light :Liz:3rd_Dr:D2022_03_spinoffs:Master_nemesis:
       SCHEDULED: <2022-03-19 Sat>
       :PROPERTIES:
       :rating:   8.1
@@ -1091,6 +1101,11 @@ Roberts Master
 ***** [#A] 12.3 Dead Man Talking
 ***** [#E] 12.4 The Wife of River Song
 *** The Death and Life of River Song
+**** TBR DLRS1: Last Words :P2024_08:
+***** 1.1 Apokalypsis
+***** 1.2 Fate & Fatality
+***** 1.3 The Black Hours
+***** 1.4 Book of the Dead
 *** misc
 **** DONE R&J (The Lives of Captain Jack #3.3) :Jack:
      CLOSED: <2020-09-14 Mon 21:12>
@@ -1335,7 +1350,7 @@ Roberts Master
     CLOSED: [2024-05-24 Fri 08:48] SCHEDULED: <2024-05-12 Sun>
 
 *** [#B] 3.5 - Panacea (8.1)
-** series 4 :P2011:plot_yes:
+** 📂series 4 :P2011:plot_yes:2buy:
 *** HALF [#B] 4.1 - Reborn       (8.0) :DW2022_09_spinoffs:
     SCHEDULED: <2022-09-18 Sun>
 
@@ -1458,7 +1473,7 @@ http://drwhoguide.com/bs_a08.htm
      :rating:   7.7
      :END:
 
-**** [#B] 4.4 - Death and the Daleks :Bev:plot_yes_dwg:
+**** [#B] 4.4 - Death and the Daleks :Bev:plot_yes_dwg:已购:
      :PROPERTIES:
      :rating:   8.0
      :END:
@@ -1754,7 +1769,7 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
      :rating:   8.7
      :END:
 
-*** vol.7 Blood & Steel :P2022_09:Cybermen:Doctor_unbound:
+*** 📂vol.7 Blood & Steel :P2022_09:Cybermen:Doctor_unbound:2buy:
 **** 2DONE [#B] 7.1 Willkommen 欢迎 :DW2022_11_doctor:
      CLOSED: [2023-03-22 Wed 08:44] SCHEDULED: <2022-11-23 Wed>
 
@@ -1767,6 +1782,12 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
 **** 3QTR [#B] 7.4 Auf Wiedersehen 再见 :DW2023_03_doctor:
      CLOSED: [2023-03-23 Thu 21:40] SCHEDULED: <2023-03-25 Sat>
 
+*** The Eternity Club 1 :P2024_09:
+**** 1.1 The Armageddon Chair
+**** 1.2 Triumph of the Drahvin
+*** The Eternity Club 2 :P2024_10:
+**** 2.1 Rhubarb
+**** 2.2 Please Retain Your Ticket for the Cloakroom
 ** Treasury :P2018:🗣:
 *** [#B] The Evacuation of Bernice Summerfield Considered as a Short Film by Terry Gilliam
 *** [#A] And Then Again
@@ -1849,6 +1870,18 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
 **** 4.1 Missy and the Time Assassin
 **** 4.2 Bad Apple Brigade
 **** 4.3 The Baron Robbers
+*** 📕The Missy Chronicles :anthology:📄:
+**** Dismemberment :hanzify:
+
+http://670641333.lofter.com/post/1dfa202c_efdc1153
+
+https://tieba.baidu.com/p/5863165791
+
+**** Lords and Masters
+**** Teddy Sparkles Must Die!
+**** The Liar, the Glitch and the War Zone
+**** Girl Power! :12th_Dr:Nardole:
+**** Alit in Underland :Master_saxon:
 ** Masterful :🎧:
 *** READY Masterful :bilibili:
 
@@ -1867,9 +1900,6 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
 *** Terror of the Master :audiobook:bilibili:Master_nemesis:
 
 - 上： 【【有声书汉化】准将的困扰 Terror of the Master 上-哔哩哔哩】 https://b23.tv/7SioMBV
-
-** 3QTR [#B] CC8.1 Mastermind :Master_decayed:Ruth_Matheson:the_Vault:UNIT:DW2024_02_spinoffs:
-   CLOSED: <2024-02-28 Wed 08:07> SCHEDULED: <2024-02-25 Sun>
 
 ** Master! :Master_roberts:🎧:
 *** HALF [#C] Vienna #0 The Memory Box :D2021_12_extra:week2:
@@ -1910,6 +1940,16 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
 ** The War Master  ↗
 ** TBR Call Me Master :Master_spy:
 ** misc
+*** 3QTR [#B] CC8.1 Mastermind :Master_decayed:Ruth_Matheson:the_Vault:UNIT:DW2024_02_spinoffs:
+    CLOSED: <2024-02-28 Wed 08:07> SCHEDULED: <2024-02-25 Sun>
+
+** 📕I am The Master :📄:
+*** 1. Anger Management :Master_nemesis:
+*** 2. The Dead Travel Fast :Master_decayed:
+*** 3. Missy's Magical Mystery Mission :Master_missy:
+*** 4. A Master of Disguise :Master_tremas:
+*** 5. The Night Harvest :Master_saxon:
+*** 6. The Master and Margarita :Master_spy:
 * #Daleks :daleks:
 ** #Davros :Davros:
 *** tv :📺:
@@ -2283,7 +2323,7 @@ rating 8.7/8.3
 *** [#E] 1.1 Time Heals (6.5)
 *** [#D] 1.2 Snake Head (7.4)
 *** [#C] 1.3 The Longest Night (7.9)
-*** [#C] 1.4 The Wasting :P2005:Brig:
+*** [#C] 1.4 The Wasting :P2005:Brigadier:
 *** [#B] special: Dominion :7th_Dr:Klein:Ace:Master_bald:P2012:
 ** UNIT: Brave New World
 
@@ -2441,7 +2481,7 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
 *** 4.1 One Way or Another
 *** 4.2 Traitors' Gate
 *** 4.3 The Destiny Labyrinth
-*** 4.4 True Nemesis :Missy:
+*** 4.4 True Nemesis :Master_missy:
 * Kaldor City / The Robots :🎧:Kaldor:
 ** Kaldor City :plot_yes_dwg:
 *** HALF [#B] KC1. Occam's Razor :D2022_06_spinoffs:
@@ -2605,9 +2645,9 @@ http://www.drwhoguide.com/kaldor03.htm
      :END:
 
 *** PG: Trespassers 1 :P2023_10:
-**** 1.1 The Ghost and the Potato Man
-**** 1.2 Symmetry of Death
-**** 1.3 Till Death Us Do Part
+**** [#E] +1.1 The Ghost and the Potato Man+
+**** [#D] 1.2 Symmetry of Death
+**** [#A] 1.3 Till Death Us Do Part
 *** PG: Trespassers 2 - The Casebook of Paternoster Row :P2024_04:
 **** 2.1 Anne of a Thousand Light Years :4th_Dr:
 **** 2.2 Pater Noster
@@ -2814,7 +2854,11 @@ https://doctorwho.guide/sj_06.htm
 
 **** CANCEL [#E] +1.4 - The Chartwell Metamorphosis+ (6.4)
 *** series 2 :P2018:
-**** [#D] 2.1 - Young Winston               (7.1)
+**** [#D] 2.1 - Young Winston
+     :PROPERTIES:
+     :rating:   7.1
+     :END:
+
 **** CANCEL [#E] 2.2 - Human Conflict              (6.8)
 **** CANCEL [#E] 2.3 - I Was Churchill's Double    (6.8)
 **** TODO [#C] 2.4 - Churchill Victorious        (7.7)
@@ -3025,7 +3069,7 @@ From Donna's perspective, the anthology is set after /Forest of the Dead/.
 **** [#C] 2.3 The Turn of the Tides :Jo:Rani:
 *** 📂vol.3 Strange Chemistry :P2023_03:
 **** [#C] 3.1 - A Ghost of Alchemy :4th_Dr:Leela:
-**** [#E] 3.2 - Fairies at the Bottom of the Garden :Missy:
+**** [#E] 3.2 - Fairies at the Bottom of the Garden :Master_missy:
 * #Dark Times
 
 https://tardis.fandom.com/wiki/Dark_Times_-_list_of_appearances

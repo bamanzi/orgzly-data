@@ -82,7 +82,7 @@ http://drwhoguide.com/who_bf33.htm
 
 【【神秘博士广播剧熟肉】MR 033 Neverland 永无乡-哔哩哔哩】 https://b23.tv/bjamVSy
 
-***** BLOCK [#D] 50. Zegreus :5th_Dr:6th_Dr:7th_Dr:3CD:Romana_2:Charley:bilibili:
+***** BLOCK [#D] 50. Zegreus :Romana_2:5th_Dr:6th_Dr:7th_Dr:Rassilon:Leela:Charley:3CD:bilibili:
 :PROPERTIES:
 :rating:   7.3
 :END:
@@ -170,13 +170,14 @@ CLOSED: [2021-12-14 Tue 03:29] SCHEDULED: <2021-12-12 Sun>
 
  Time Works: Skippable and standalone, but I’m rather fond of it all the same. Very fairy-tale.
 
-***** CANCEL [#E] +83. Something Inside+
-CLOSED: [2021-06-01 Tue 21:55]
+***** READY [#E] +83. Something Inside+ :bilibili:
 :PROPERTIES:
 :rating:   6.5
 :END:
 
-***** DONE [#C] 88. Memory Lane :Charley:❤:underrated:2buy:
+【【神秘博士广播剧熟肉】MR83 Something Inside 头中之物-哔哩哔哩】 https://b23.tv/sHi6wQy
+
+***** DONE [#C] 88. Memory Lane :Charley:underrated:已购:
 CLOSED: <2021-06-12 Sat 08:09>
 :PROPERTIES:
 :rating:   7.9
@@ -193,11 +194,6 @@ CLOSED: [2021-03-22 Mon 22:48]
 CLOSED: [2022-11-03 Thu 16:31] SCHEDULED: <2022-10-16 Sun>
 :PROPERTIES:
 :rating:   8.4
-:END:
-
-***** [#A] CC4.12 Solitaire (9.2) :ToyMaker:P2010:plot_yes:
-:PROPERTIES:
-:rating:   9.2
 :END:
 
 **** 📂Charlotte Pollard: The Further Adventuress :P2022_01:
@@ -261,7 +257,7 @@ CLOSED: [2021-03-22 Mon 22:31]
 :rating:   8.4
 :END:
 
-**** 2DONE [#A] 153 Silver Turk :Mary:Cybermen:plot_yes:
+**** 2DONE [#A] 153 Silver Turk :Mary:Cybermen:plot_yes:已购:
 CLOSED: <2021-03-20 Sat 21:30>
 :PROPERTIES:
 :rating:   8.6
@@ -414,7 +410,7 @@ CLOSED: [2021-10-17 Sun 15:11]
 **** misc
 ***** [#D] SST14. Late Night Shopping
 ***** CANCEL [#E] SST25. The Caves of Erith
-*** Dark Eyes :scripted:
+*** Dark Eyes :scripted:已购:
 **** Dark Eyes vol.1 :Molly:
 ***** DONE [#A] The Great War (8.5)
 CLOSED: <2020-09-25 Fri 16:37>
@@ -640,7 +636,7 @@ SCHEDULED: <2024-07-27 Sat>
 
 【【神秘博士广播剧】Ravenous 402 Planet of Dust 尘土之星-哔哩哔哩】 https://b23.tv/3xZT5N3
 
-****** READY [#A] 4.3/4.4 Day of the Master :Master_war:Missy:Master_decayed:Master_roberts:bilibili:
+****** READY [#A] 4.3/4.4 Day of the Master :Master_war:Master_missy:Master_decayed:Master_roberts:bilibili:
 :PROPERTIES:
 :rating:   9.3/9.6
 :END:
@@ -934,7 +930,7 @@ CLOSED: [2021-01-06 Wed 09:03]
 
 1 out of 25 (4.0%) raters say this story requires a previous story.
 
-*** /📂The War Master series 8: Escape from Reality/ :P2022_12:Master_war:🎧:
+*** /📂The War Master series 8: Escape from Reality/ :P2022_12:Master_war:🎧:2buy:
 **** DONE [#A] _8.1 The Wrath of Medusa_ :bilibili:DW2023_07_spinoffs:
 CLOSED: [2023-07-27 Thu 19:33] SCHEDULED: <2023-07-23 Sun>
 
@@ -1155,7 +1151,7 @@ SCHEDULED: <2024-05-25 Sat>
 
 【【广播剧翻译】Valeyard复活参战？时间大战 304 The War Valeyard-哔哩哔哩】 https://b23.tv/klLTjmK
 
-*** 📂8D Time War vol.4 :Bliss:P2020:scripted:🎧:
+*** 📂8D Time War vol.4 :Bliss:P2020:scripted:🎧:已购：
 **** 3QTR [#A] 4.1/4.2 The Palindrome :D2021_10_davros:Davros:
 CLOSED: [2021-10-25 Mon 08:47]
 :PROPERTIES:
@@ -1311,13 +1307,7 @@ CLOSED: [2024-05-23 Thu 21:38] SCHEDULED: <2024-05-04 Sat>
 **** 6.3 Exit Strategy :8th_Dr:
 *** Ambush (comic)
 ** 12. The Master flees
-*** 2DONE [#A] WM1.3 The Sky Man :D2021_09_extra:🎧:
-CLOSED: [2021-09-24 Fri 18:50] SCHEDULED: <2021-09-04 Sat>
-:PROPERTIES:
-:rating:   9.2
-:END:
-
-*** DONE [#A] WM1.4 The Heavenly Paradigm :🎧:D2021_09_extra:
+*** DONE [#A] WM1.4 The Heavenly Paradigm :Cole:🎧:D2021_09_extra:
 CLOSED: [2020-12-24 Thu 15:51] SCHEDULED: <2021-09-28 Tue>
 :PROPERTIES:
 :rating:   9.0
@@ -1326,7 +1316,7 @@ CLOSED: [2020-12-24 Thu 15:51] SCHEDULED: <2021-09-28 Tue>
 ** 13. The Malignant threat
 *** 11DY2 (comics)
 ** 14. The weary soldier (War Doctor) :War_Dr:
-*** 📂The War Doctor vol.1 :scripted:🎧:P2015:
+*** 📂The War Doctor vol.1 :scripted:🎧:P2015:已购:
 **** READY [#B] 1.1 - The Innocent :bilibili:
 
 【【神秘博士广播剧汉化】The War Doctor 战争博士 101 The Innocent-哔哩哔哩】 https://b23.tv/iEKp6pd
@@ -1339,7 +1329,7 @@ CLOSED: [2020-12-24 Thu 15:51] SCHEDULED: <2021-09-28 Tue>
 
 【【神秘博士广播剧汉化】The War Doctor 战争博士 103 The Heart of the Battle-哔哩哔哩】 https://b23.tv/VlWXVCg
 
-*** 📂The War Doctor vol.2 :scripted:🎧:P2016:
+*** 📂The War Doctor vol.2 :scripted:🎧:P2016:已购:
 **** 3QTR [#C] 2.1 - Legion of the Lost :bilibili:DW2023_10_doctor:
 CLOSED: [2023-10-26 Thu 08:21] SCHEDULED: <2023-10-29 Sun>
 :PROPERTIES:
@@ -1364,7 +1354,7 @@ CLOSED: [2023-12-13 Wed 08:37] SCHEDULED: <2023-12-16 Sat>
 
 【【神秘博士广播剧翻译】战争博士 The War Doctor 203 The Neverwhen-哔哩哔哩】 https://b23.tv/jkJamuv
 
-*** 📂The War Doctor vol.3 :scripted:🎧:P2016:
+*** 📂The War Doctor vol.3 :scripted:🎧:P2016:已购:
 **** READY [#C] 3.1 - The Shadow Vortex :bilibili:
 :PROPERTIES:
 :rating:   7.8
@@ -1386,7 +1376,7 @@ CLOSED: [2023-12-13 Wed 08:37] SCHEDULED: <2023-12-16 Sat>
 
 【【神秘博士广播剧汉化】The War Doctor 战争博士 303 The Eye of Harmony-哔哩哔哩】 https://b23.tv/ydAzkK1
 
-*** 📂The War Doctor vol.4 :scripted:🎧:P2017:
+*** 📂The War Doctor vol.4 :scripted:🎧:P2017:已购:
 **** READY [#C] 4.1 - Pretty Lies :bilibili:
 :PROPERTIES:
 :rating:   7.5
@@ -1422,7 +1412,7 @@ Priyan tells Engin that Rassilon is initiating the Ultimate Sanction, placing it
 
 *** The End of Time
 *** tv: The Day of the Doctor
-*** Novel: The Day of the Doctor :🛒:
+*** Novel: The Day of the Doctor :已购:
 ** Aftermath
 *** 1x01 Rose
 *** 1x06 Dalek
@@ -1489,8 +1479,9 @@ CLOSED: [2020-09-23 Wed 12:53]
 *** DONE COMIC: The Forgotten (8D part)
 CLOSED: [2020-09-23 Wed 12:53]
 
+*** TBR Dark Gallifrey 2: The War Master :Master_war:War_Dr:Benny:Unbound_Dr:Captain_John:P2024_08:
 *** The War Doctor Rises
 **** TBR WDR1: Morbius the Mighty :P2024_08:War_Dr:
-*** Susan's War vol.2 :Susan:War_Dr:
+*** TBR Susan's War vol.2 :Susan:War_Dr:P2024_08:
 **** 2.1 The Lost Son
 **** 2.2 The Golden Child

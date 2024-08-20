@@ -9,7 +9,7 @@ CLOSED: [2022-06-30 Thu 08:12]
 
 ** audio :🎧:
 *** 9DA
-**** S1.1 Ravagers :P2021_05:
+**** S1.1 Ravagers :P2021_05:已购:
 ***** START 1.1 Sphere of Freedom (7.2)
 ***** START 1.2 Cataclysm (7.0)
 ***** START 1.3 Food Fight (6.8)
@@ -279,6 +279,7 @@ CLOSED: [2023-12-10 Sun 17:27]
 CLOSED: [2023-12-10 Sun 17:27]
 
 *** S03
+**** 3x11/12/13 Utopia / The Sound of Drums / Last of the Time Lords :Master_saxon:
 *** The Infinite Quest :Martha:animated:
 *** S04
 *** specials
@@ -290,7 +291,7 @@ CLOSED: [2023-02-06 Mon 20:34]
 
 **** 201. The Waters of Mars
 **** Dreamland :animated:P2009:
-**** 202. The End of Time
+**** 202. The End of Time :Rassilon:Master_saxon:
 ** comics :📚:
 *** IDW
 **** TODO Agent Provocateur
@@ -712,7 +713,7 @@ CLOSED: [2024-07-27 Sat 13:35]
 :todo:     buy
 :END:
 
-*** DONE [#B] The Story of Martha 玛莎的故事 :Kindle己购:己购:DW2022_Q4:
+*** DONE [#B] The Story of Martha 玛莎的故事 :Martha:Master_saxon:Kindle己购:己购:DW2022_Q4:
 CLOSED: [2022-12-10 Sat 21:48]
 :PROPERTIES:
 :rating:   3.89
@@ -849,24 +850,32 @@ SCHEDULED: <2023-09-17 Sun>
 【【神秘博士广播剧熟肉】Geronimo! 303 The End 结局-哔哩哔哩】 https://b23.tv/ByulmWk
 
 *** 11DC vol.4 All of Time and Space :Valarie:plot_yes:
-**** START [#B] 4.1 All of Time and Space :P2023_02:plot_yes:DW2024_Q2a_doctor:
+**** START [#B] 4.1 All of Time and Space :P2023_02:plot_yes:DW2024_Q2a_doctor:bilibili:
 SCHEDULED: <2024-04-06 Sat>
 :PROPERTIES:
 :rating:   8.0
 :END:
 
-**** HALF [#D] 4.2 The Yearn :P2023_02:DW2024_Q3a_doctor:
+【【神秘博士广播剧熟肉】The Eleventh Doctor Chronicles 401 All of Time and Space 所有的时空-哔哩哔哩】 https://b23.tv/bWQOH1r
+
+**** HALF [#D] 4.2 The Yearn :P2023_02:DW2024_Q3a_doctor:bilibili:
 SCHEDULED: <2024-07-13 Sat>
 :PROPERTIES:
 :rating:   7.3
 :END:
+
+【【神秘博士广播剧熟肉】All of Time and Space 402 The Yearn 渴望-哔哩哔哩】 https://b23.tv/BPVZGsy
 
 **** [#A] 4.3 Curiosity Shop :P2023_02:
 :PROPERTIES:
 :rating:   8.6
 :END:
 
-**** [#A] 4.4 Broken Hearts :P2023_11:
+**** [#A] 4.4 Broken Hearts (9.1) :P2023_11:
+:PROPERTIES:
+:rating:   9.1
+:END:
+
 *** 11DC vol.5 Everywhere and Anywhere :Valarie:P2023_12:
 **** 5.1 Spirit of the Season
 **** 5.2 All’s Fair
@@ -889,7 +898,7 @@ CLOSED: [2024-01-28 Sun 07:16] SCHEDULED: <2024-01-28 Sun>
 
 【【神秘博士】短途旅行：世界树 | Short Trips: The World Tree-哔哩哔哩】 https://b23.tv/kE5PXA3
 
-**** [#B] ST12.6 The Galois Group :Valarie:
+**** [#B] ST12.6 The Galois Group :Valarie:plot_yes:
 *** misc :🗣:
 **** [#C] CY1.3 Living History ↗ :P2016:plot_yes:
 :PROPERTIES:
@@ -929,7 +938,7 @@ CLOSED: [2020-08-16 Sun 16:52]
 ***** DONE 11-14 Dead Man's Hand
 CLOSED: [2020-08-16 Sun 16:52]
 
-**** specials :🛒:
+**** specials :已购:
 ***** DW special 2011
 ***** DW special 2012
 ***** SDCC special
@@ -998,7 +1007,7 @@ SCHEDULED: <2024-01-21 Sun>
 ***** The Chains of Olympus (DWM442-445) :Amy:Rory:
 ***** Sticks & Stones (DWM446-447) :Amy:Rory:
 ***** The Cornucopia Caper (DWM448-450) :Amy:Rory:
-**** DWMGN: Hunters of Buring Stone :🛒:
+**** DWMGN: Hunters of Buring Stone :已购:
 
   http://tardis.wikia.com/wiki/Hunters_of_the_Burning_Stone_(graphic_novel)
 
@@ -1011,7 +1020,7 @@ SCHEDULED: <2024-01-21 Sun>
 ***** NEXT Hunters of the Burning Stone (DWM456-461) :Ian:Barbara:
 SCHEDULED: <2024-01-28 Sun>
 
-**** DWMGN: The Blood of Azrael :🛒:
+**** DWMGN: The Blood of Azrael :已购:
 
   http://tardis.wikia.com/wiki/The_Blood_of_Azrael_(graphic_novel)
 
@@ -1063,7 +1072,7 @@ CLOSED: [2024-01-20 Sat 21:58] SCHEDULED: <2024-01-07 Sun>
 **** DONE 8x08 Mummy on the Orient Express
 CLOSED: [2022-11-30 Wed 23:34]
 
-**** DONE 8x11 Dark Water :Cybermen:Missy:
+**** DONE 8x11 Dark Water :Cybermen:Master_missy:
 CLOSED: [2022-12-25 Sun 20:42]
 
 **** DONE 8x12 Death in Heaven :Cybermen:
@@ -1074,15 +1083,15 @@ CLOSED: [2022-12-26 Mon 19:56]
 *** 263. The Husbands of River Song :P2015_12:
 *** 264. The Return of Doctor Mysterio :P2016_12:
 *** S10 (265-275) :P2017:
-**** DONE 10x11 World Enough and Time :cybermen:
+**** DONE 10x11 World Enough and Time :cybermen:Master_saxon:
 CLOSED: <2021-09-23 Thu 11:39>
 
-**** DONE 10x12 The Doctor Falls :Cybermen:
+**** DONE 10x12 The Doctor Falls :Cybermen:Master_saxon:
 CLOSED: [2021-09-24 Fri 08:10]
 
 *** 276. Twice Upon a Time :P2017_12:
 ** audio :🎧:
-*** 12DC vol.1 :P2020:🗣:
+*** 12DC vol.1 :P2020:plot_yes:
 **** HALF [#D] 1.1 The Charge of the Night Brigade :Mary_Seacole:D2022_06_doctor:
 DEADLINE: <2022-06-23 Thu 22:40> SCHEDULED: <2022-06-19 Sun>
 :PROPERTIES:
@@ -1100,13 +1109,13 @@ SCHEDULED: <2022-08-30 Tue>
 :rating:   7.1
 :END:
 
-**** START [#C] 1.4 Field Trip :plot_no:Osgood:DW2022_10_doctor:
+**** START [#C] 1.4 Field Trip :Osgood:DW2022_10_doctor:
 SCHEDULED: <2022-10-29 Sat>
 :PROPERTIES:
 :rating:   7.6
 :END:
 
-*** 12DC vol.2 :P2021:Keira:
+*** 12DC vol.2 :P2021:Keira:plot_yes:
 **** HALF [#D] 12DC2.1. Flight to Calandra :D2021_11_doctor:
 SCHEDULED: <2021-11-20 Sat>
 

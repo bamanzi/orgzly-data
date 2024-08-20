@@ -41,7 +41,7 @@ https://tardis.fandom.com/wiki/Fifth_Doctor_audio_stories
 **** DONE 024. The Eye of the Scorpion :Peri:Erimem:D2021_04:
 CLOSED: <2021-05-16 Sun 08:12>
 
-**** DONE [#C] 038. The Church and the Crown :Peri:Erimem:DW2022_07_doctor:Richelieu:
+**** DONE [#C] 038. The Church and the Crown :Peri:Erimem:DW2022_07_doctor:Richelieu:已购:
 CLOSED: [2022-07-14 Thu 06:48] SCHEDULED: <2022-07-10 Sun>
 :PROPERTIES:
 :rating:   7.7
@@ -74,7 +74,7 @@ CLOSED: [2021-06-15 Tue 08:16]
 **** 3QTR [#C] 071. The Council of Nicaea :Peri:Erimem:DW2023_03_doctor:
 CLOSED: [2023-03-17 Fri 08:26] SCHEDULED: <2023-03-18 Sat>
 
-**** 3QTR [#A] 081. The Kingmaker :Peri:Erimem:4th_Dr:plot_yes_dwg:DW2023_11_doctor:
+**** 3QTR [#A] 081. The Kingmaker :Peri:Erimem:4th_Dr:plot_yes_dwg:DW2023_11_doctor:已购:
 CLOSED: [2023-11-26 Sun 14:44] SCHEDULED: <2023-11-29 Wed>
 :PROPERTIES:
 :rating:   8.8
@@ -101,7 +101,7 @@ CLOSED: <2021-05-29 Sat 08:11>
 CLOSED: [2021-10-23 Sat 20:14]
 
 **** [#D] 026. Primeval
-**** DONE [#A] 034. Spare Parts :Mondas:Cybermen:plot_yes:
+**** DONE [#A] 034. Spare Parts :Mondas:Cybermen:plot_yes:已购:
 CLOSED: [2021-03-15 Mon 20:29]
 :PROPERTIES:
 :rating:   9.2
@@ -116,7 +116,7 @@ SCHEDULED: <2022-02-24 Thu>
 :END:
 
 **** [#D] 066. The Game
-**** 📂91. Circular Time :plot_yes:Nyssa:short:
+**** 📂91. Circular Time :plot_yes:Nyssa:short:已购:
 ***** [#E] 91a. Spring
 ***** [#C] 91b. Summer
 ***** [#A] 91c.Autumn
@@ -212,7 +212,7 @@ CLOSED: [2021-03-22 Mon 23:16]
 :rating:   6.7
 :END:
 
-**** 3QTR [#B] MR159. The Emerald Tiger (8.2) :plot_yes:DW2023_07_doctor:
+**** 3QTR [#B] MR159. The Emerald Tiger (8.2) :plot_yes:DW2023_07_doctor:2buy:
 CLOSED: <2023-07-07 Fri 20:32> SCHEDULED: <2023-07-05 Wed>
 
 **** [#D] 160. The Jupiter Conjunction (7.3)
@@ -242,7 +242,7 @@ CLOSED: [2021-02-27 Sat 18:02]
 :END:
 
 **** [#C] 208. The Waters of Amsterdam (7.9)
-**** DONE [#A] 209. Aquitaine (8.8) :Tegan:Nyssa:P2016:plot_yes:
+**** DONE [#A] 209. Aquitaine (8.8) :Tegan:Nyssa:P2016:plot_yes:已购:
 CLOSED: <2021-03-12 Fri 19:58>
 :PROPERTIES:
 :rating:   8.8
@@ -269,22 +269,22 @@ CLOSED: [2021-02-27 Sat 18:02]
 :rating:   8.5
 :END:
 
-**** [#D] 256. Tartarus
-**** CANCEL [#F] 257a. Interstitial :short:
-**** CANCEL [#F] 257b. Feast of Fear
-**** 2DONE [#B] 258a. Warzone :Tegan:Nyssa:Cybermen:D2022_05_doctor:
+**** [#D] 256. Tartarus :Marc:
+**** CANCEL [#F] 257a. Interstitial :Marc:short:
+**** CANCEL [#F] 257b. Feast of Fear :Marc:
+**** 2DONE [#B] 258a. Warzone :Marc:Cybermen:D2022_05_doctor:
 CLOSED: [2022-05-20 Fri 08:12] SCHEDULED: <2022-05-07 Sat>
 :PROPERTIES:
 :rating:   8.1
 :END:
 
-**** HALF [#D] 258b. Conversion :Tegan:Nyssa:Cybermen:D2022_05_doctor:
+**** HALF [#D] 258b. Conversion :Marc:Cybermen:D2022_05_doctor:
 SCHEDULED: <2022-05-14 Sat>
 :PROPERTIES:
 :rating:   7.4
 :END:
 
-**** CANCEL [#E] 267b. Madquake :plot_yes:
+**** CANCEL [#E] 267b. Madquake :Marc:plot_yes:
 :PROPERTIES:
 :rating:   6.8
 :END:
@@ -307,6 +307,7 @@ SCHEDULED: <2022-05-14 Sat>
 
 ***** [#D] The Becoming (7.0)
 **** [#D] 274. The Blazing Hour
+**** [#B] CC4.05 - Ringpullworld :1CD:
 *** MR alone :scripted:2CD:
 **** [#C] 047. Omega
 **** [#C] 165. The Burning Prince (7.9)
@@ -362,7 +363,7 @@ CLOSED: [2021-03-22 Mon 23:23]
 **** HALF [#B] MR200. The Secret History (8.2) :5th_Dr:plot_yes:Steven:Vicki:Monk:D2021_09_extra:
 SCHEDULED: <2021-09-15 Wed>
 
-**** DONE [#A] 230.Time in Office (9.0) :P2017:Tegan:Leela:Gallifrey:plot_yes:
+**** DONE [#A] 230.Time in Office (9.0) :P2017:Tegan:Leela:Gallifrey:plot_yes:已购:
 CLOSED: [2021-04-13 Tue 17:47]
 :PROPERTIES:
 :rating:   9.0
@@ -539,7 +540,7 @@ CLOSED: [2023-06-26 Mon 08:24] DEADLINE: <2023-06-28 Wed> SCHEDULED: <2023-06-14
 
 http://drwhoguide.com/who_bf09.htm
 
-**** DONE 11. The Apocalypse Element :Evelyn:Romana_2:Daleks:bilibili:
+**** DONE 11. The Apocalypse Element :Evelyn:Romana_2:Daleks:bilibili:已购:
 
 【【神秘博士广播剧熟肉】MR011 The Apocalypse Element 末日元素-哔哩哔哩】 https://b23.tv/lFiGif9
 
@@ -648,7 +649,7 @@ SCHEDULED: <2022-01-14 Fri>
 ***** 📂188. Breaking Bubbles and Other Stories :short:
 ****** [#C] 188c. An Eye For Murder
 ****** [#A] 188d. The Curious Incident of the Doctor in the Night-Time (8.7) :plot_no:
-***** 3QTR [#A] MR192. The Widow's Assassin (8.6) :Peri:plot_no:D2021_09_dr:🛒:
+***** 3QTR [#A] MR192. The Widow's Assassin (8.6) :Peri:plot_no:D2021_09_dr:已购:
 CLOSED: <2021-09-17 Fri 21:27> SCHEDULED: <2021-09-04 Sat>
 
   与剧集23x02 Mindwrap联系紧密
@@ -767,7 +768,7 @@ SCHEDULED: <2023-11-01 Wed>
 ***** 3QTR [#A] 27. The One Doctor (9.0) :Mel:plot_no:D2022_04_doctor:
 CLOSED: [2022-04-22 Fri 08:22] SCHEDULED: <2022-04-30 Sat>
 
-***** [#A] 48. Davros (9.0) :Mel:Davros:plot_yes:
+***** [#A] 48. Davros (9.0) :Mel:Davros:plot_yes:已购:
 :PROPERTIES:
 :rating:   9.0
 :END:
@@ -1170,7 +1171,7 @@ http://www.drwhoguide.com/who_bf120.htm
 
 ***** [#A] 140. A Death in the Family (9.5) :P2010:Ace:Hex:Evelyn:Nobody_No_One:the_Forge:plot_no:
 ***** [#B] 159. Project: Destiny :Ace:Hex:The_Forge:Lysandra:P2010:
-***** DONE [#A] 162. Protect and Survive (8.7) :P2012:Ace:Hex:plot_yes:WW3:Old_Ones:
+***** DONE [#A] 162. Protect and Survive (8.7) :P2012:Ace:Hex:plot_yes:WW3:Old_Ones:已购:
 CLOSED: [2021-03-22 Mon 20:20]
 
 ***** LATER [#C] MR163. Black and White :Ace:Hex:Sally:Lysandra:plot_yes:
@@ -1195,7 +1196,7 @@ CLOSED: [2021-03-22 Mon 20:20]
 :END:
 
 *** MR Klein line :Klein:scripted:2CD:
-***** DONE [#C] 25. Colditz :plot_yes:Klein:Ace:
+***** DONE [#C] 25. Colditz :plot_yes:Klein:Ace:已购:
 CLOSED: <2021-03-26 Fri 11:25>
 :PROPERTIES:
 :rating:   7.9
@@ -1213,7 +1214,7 @@ CLOSED: <2021-05-31 Mon 08:10>
 :rating:   7.8
 :END:
 
-***** HALF [#A] MR132. The Architects of History (8.7) :P2010:Klein:Selachians:plot_no:D2021_09_dr:
+***** HALF [#A] MR132. The Architects of History (8.7) :P2010:Klein:Selachians:plot_no:D2021_09_dr:2buy:
 SCHEDULED: <2021-09-26 Sun>
 
 ***** [#E] 175. Persuasion :Klein:
@@ -1276,7 +1277,7 @@ SCHEDULED: <2021-11-07 Sun>
 ***** 3QTR [#A] MR49. Master (9.0) :P2003:Master:Death:plot_yes:D2021_09_extra:
 CLOSED: <2021-09-23 Thu 21:27> SCHEDULED: <2021-09-04 Sat>
 
-***** 2DONE [#B] MR149. Robophobia (8.4) :P2011:Liv:Kaldor_androids:plot_no:D2022_03_doctor
+***** 2DONE [#B] MR149. Robophobia (8.4) :P2011:Liv:Kaldor_androids:plot_no:D2022_03_doctor :2buy:
 CLOSED: <2022-03-31 Thu 21:41> SCHEDULED: <2022-03-12 Sat>
 :PROPERTIES:
 :rating:   8.4
@@ -1688,12 +1689,12 @@ CLOSED: [2024-07-11 Thu 13:24]
 
 DWCC 1993 Autumn Special
 
-**** The Mark of Mandragora :Virgin:P1993:
+**** LATER The Mark of Mandragora :Virgin:P1993:
 ***** DONE Train-Flight (DWM159-161) :Sarah:
 ***** Doctor Conkerer! (DWM162)
-***** LATER (DWM167) Darkness, Falling :no_doctor:Brigadier:Mandragora_Helix:
-***** LATER (DWM168) Distractions :Ace:Mandragora_Helix:
-***** LATER (DWM169-172) The Mark of Mandragora :Ace:Brigadier:Mandragora_Helix:
+***** (DWM167) Darkness, Falling :no_doctor:Brigadier:Mandragora_Helix:
+***** (DWM168) Distractions :Ace:Mandragora_Helix:
+***** (DWM169-172) The Mark of Mandragora :Ace:Brigadier:Mandragora_Helix:
 *** Operation Volcano (Titan Comics)
 ** novels
 *** [#A] The Also People

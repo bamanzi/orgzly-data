@@ -492,7 +492,7 @@ UNIT 和 准将第一次正式出场
 
 *** with Jamie, Polly & Ben
 **** EA :2CD:
-***** 3QTR [#C] EA2.1 The Yes Men :Jamie:Polly:Ben:plot_yes:D2022_04_doctor:
+***** 3QTR [#C] EA2.1 The Yes Men :Jamie:Polly:Ben:plot_yes:D2022_04_doctor:2buy:
 CLOSED: [2022-04-27 Wed 21:33] SCHEDULED: <2022-04-29 Fri>
 :PROPERTIES:
 :rating:   7.7
@@ -665,14 +665,14 @@ CLOSED: <2022-10-30 Sun 19:49> SCHEDULED: <2022-10-22 Sat>
 ***** 3QTR [#C] 2DA22.2 Wrath of the Ice Warriors :Brigadier:ice_warriors:2CD:DW2023_08_doctor:
 CLOSED: [2023-08-18 Fri 08:40] SCHEDULED: <2023-08-19 Sat>
 
-**** James Robert McCrimmon :P2023_07:1CD:Jamie:Raven:
-***** [#D] 23.1 Jamie :plot_yes:
+**** 📂James Robert McCrimmon :P2023_07:1CD:Jamie:Raven:plot_yes:
+***** [#D] 23.1 Jamie :10BBY:
 ***** [#B] 23.2 The Green Man
 ***** [#B] 23.3 The Shroud
-**** Conspiracy of Raven :Jamie:Raven:P2024_07:
-***** 1. Kippers
-***** 2. Catastrophe Theory :Zoe:
-***** 3. The Vanishing Point :Zoe:
+**** 📂Conspiracy of Raven :Jamie:Raven:P2024_07:
+***** 24.1 Kippers
+***** 24.2 Catastrophe Theory :Zoe:
+***** 24.3 The Vanishing Point :Zoe:
 *** BF misc :🗣:
 **** #The_Company :Zoe:
 ***** 2DONE [#D] CC5.02 - Echoes of Grey :Zoe:D2021_07_dr:
@@ -813,7 +813,7 @@ CLOSED: [2024-07-31 Wed 20:33]
 :rating:   7.9
 :END:
 
-**** DONE [#C] 9x02 - The Curse of Peladon
+**** DONE [#C] 9x02 - The Curse of Peladon :King_Peladon:
 :PROPERTIES:
 :rating:   7.6
 :END:
@@ -1050,7 +1050,7 @@ CLOSED: [2024-01-21 Sun 19:53]
 ****** HALF [#A] part6-7 :DW2024_02_doctor:
 SCHEDULED: <2024-02-17 Sat>
 
-***** BLOCK 2023B Intelligence for War :P2023_10:Liz:Brig:3CD:
+***** BLOCK 2023B Intelligence for War :P2023_10:Liz:Brigadier:3CD:
 **** CC (Liz)
 ***** DONE [#A] CC7.4 - The Last Post :P2012:no_doctor:
 CLOSED: [2020-08-07 Fri 18:25]
@@ -1099,31 +1099,31 @@ The Sentinels of the New Dawn are stirring and its malign influence will be fe
 
 To escape his Earth exile, the Doctor is prepared to make any bargain, come to any arrangement, or to do any deal with any devil – even if in this case the Devil wears a monk's robes. But when past misdeeds start catching up with both the Doctor and the Monk, who can Liz Shaw trust when time is running out and death is rapidly approaching?
 
-*** with Sarah
-**** HALF [#A] 3DA7.2 The Gulf :P2021:Sarah:D2022_05_doctor:
+*** with Sarah :Sarah:
+**** HALF [#A] 3DA7.2 The Gulf :P2021:D2022_05_doctor:
 SCHEDULED: <2022-05-28 Sat>
 :PROPERTIES:
 :rating:   8.7
 :END:
 
-**** HALF [#B] 3DA8.2 The Devil's Hoofprints :P2021:Sarah:Brigadier:plot_yes:DW2023_09_doctor:
+**** HALF [#B] 3DA8.2 The Devil's Hoofprints :P2021:Brigadier:plot_yes:DW2023_09_doctor:
 SCHEDULED: <2023-09-21 Thu>
 :PROPERTIES:
 :rating:   8.1
 :END:
 
-**** CANCEL [#E] 3DA22B. Kaleidoscope :Sarah:Harry:Brigadier:P2022_10:3CD:
-**** 3DA24A. Revolution in Space :P2024_02:
+**** CANCEL [#E] 3DA22B. Kaleidoscope :Harry:Brigadier:P2022_10:3CD:
+**** BLOCK [#D] 3DA24A. Revolution in Space :P2024_02:3CD:
 **** START [#D] CDNM3.1 The House that Hoxx Built :P2022:plot_yes:
 **** SvsR#2 The Children of the Future :P2024_02:
-**** CANCEL [#F] ST10.03 Decline of the Ancient Mariner :Sarah:
+**** CANCEL [#F] ST10.03 Decline of the Ancient Mariner
 :PROPERTIES:
 :rating:   4.5
 :END:
 
 *** BF shorts :BigFinish:audiobook:🗣:
 **** CC
-***** HALF [#C] CC4.3 - The Prisoner of Peladon :Peladon:DW2023_07_doctor:
+***** HALF [#C] CC4.3 - The Prisoner of Peladon :King_Peladon:DW2023_07_doctor:
 SCHEDULED: <2023-07-08 Sat>
 :PROPERTIES:
 :rating:   7.6
@@ -1147,7 +1147,7 @@ CLOSED: [2023-04-11 Tue 18:48] SCHEDULED: <2023-03-18 Sat>
 ***** HALF [#A] ST11.3 The Threshold :Master_nemesis:P2022_02:DW2022_07_doctor:
 SCHEDULED: <2022-07-16 Sat>
 
-***** 3QTR [#B] ST12.2 AWOL :Brig:DW2024_Q2a_doctor:
+***** 3QTR [#B] ST12.2 AWOL :Brigadier:DW2024_Q2a_doctor:
 CLOSED: <2024-03-15 Fri 08:16> SCHEDULED: <2024-03-09 Sat>
 
 *** BBC :BBC:📄:🎧:
@@ -1615,11 +1615,14 @@ SCHEDULED: <2024-05-11 Sat>
 ***** 13.2 Worlds Beyond :P2024_03:
 ***** 13.3 Matryoshka :ToyMaker:P2024_06:
 ***** 13.4 The Caged Assassin :P2024_06:
-***** 13.5 Metamorphosis :Master_decayed:P2024_06:
+***** READY 13.5 Metamorphosis :Master_decayed:P2024_06:bilibili:
+
+【【神秘博士广播剧】The Fourth Doctor Adbenture 1303 - Metamorphosis 蜕变-哔哩哔哩】 https://b23.tv/2HuC49t
+
 ***** TBR 13.6 The Face in the Storm :P2024_09:
 ***** TBR 13.7 Dominant Species :P2024_09:
-*** BF The Lost Stories
-**** 2DONE [#B] LS6.1 - Return of the Cybermen :Sarah:Cybermen:plot_half:DW2022_08_doctor:bilibili:
+*** with Sarah (& Harry) :Sarah:
+**** 2DONE [#B] LS6.1 - Return of the Cybermen :Cybermen:plot_half:DW2022_08_doctor:bilibili:
 CLOSED: [2022-09-03 Sat 17:41] SCHEDULED: <2022-09-04 Sun>
 :PROPERTIES:
 :rating:   8.0
@@ -1632,8 +1635,13 @@ CLOSED: [2022-09-03 Sat 17:41] SCHEDULED: <2022-09-04 Sun>
 【【神秘博士广播剧熟肉】The Lost Stories 601 Return of the Cybermen (Part 1&2) 赛博人的回归-哔哩哔哩】 https://b23.tv/TscHIKq
 【【神秘博士广播剧熟肉】The Lost Stories 601 Return of the Cybermen (Part 3&4) 赛博人的回归-哔哩哔哩】 https://b23.tv/fnaPGbZ
 
-**** [#E] LS7.1 The Ark :Sarah:Harry:P2023_06:
-**** CANCEL [#F] LS7.2 Daleks! Genesis of Terror :Sarah:Harry:P2023_05:
+**** CANCEL [#E] LS7.1 The Ark :Harry:P2023_06:
+**** CANCEL [#F] LS7.2 Daleks! Genesis of Terror :Harry:P2023_05:
+**** [#C] CDNM4.1 Invasion of the Body Stealers
+**** READY [#D] 1. Past Lives :P2023_05:Osgood:Monk:bilibili:
+
+【博士的作战记录-哔哩哔哩】 https://b23.tv/zGOAtiq
+
 *** BF misc :BigFinish:
 **** DONE [#C] Night of the Vashta Nerada (7.8) (CDNM #2.1) :P2017:Vashta_Nerada:scripted:no_companion:bilibili:1CD:
 CLOSED: [2020-07-29 Wed 23:03]
@@ -1821,15 +1829,36 @@ CLOSED: [2021-07-27 Tue 23:10] SCHEDULED: <2021-12-03 Fri>
 :END:
 
 ** Destiny of the Doctor :P2013:plot_yes:
-*** [#D] 1. Hunters of Earth :1st_Dr:Susan:
-*** [#B] 2. Shadow of Death :2nd_Dr:Jamie:Zoe:bilibili:
+*** READY [#D] 1. Hunters of Earth :1st_Dr:Susan:bilibili:
+
+【【神秘博士有声书】Destiny of The Doctor-Hunters of Earth 地球猎手-哔哩哔哩】 https://b23.tv/ruM6Riw
+
+肖迪奇，伦敦，1963年，Beatles打败了John Smith和Common One成为第一，卫星也发射上天。视线回到地球，一件奇怪的事情发生了，煤山原本平静的孩子开始变得躁动，一个大盗偷窃了很多设备
+
+Susan Foremen学生和他的爷爷，神秘的博士，只想要一个平静的生活，她想要融入Cedric等其他学生的圈子中，但是有什么事情在街道和托特尔路的爆炸现场发生
+
+年轻人变得很危险。他们的任务就是消灭不同的人或者是外星人，Susan的平静生活被打破了，自己被别人注意到了，她发现自己处于一个被孤立的状态，突然一场追捕开始了，她和她的爷爷成为了狩猎对象
+
+*** READY [#B] 2. Shadow of Death :2nd_Dr:Jamie:Zoe:bilibili:
 
 【【神秘博士有声书】Destiny of The Doctor-Shadow of Death 博士的命运 死亡之影-哔哩哔哩】 https://b23.tv/W2wKRKr
+
+随着一次紧急迫降，塔迪斯降落在一个遥远的星球上，围绕着一个奇怪的星球运行——脉冲星，它的引力强到足够让时间发生扭曲。
+
+再进一步的探索中博士和他的朋友Jamie和Zoe发现了人类建在星球表面的前哨基地，科学家在此地研究这个古老的城市，城市很明显荒废了，但是科学家却无法解释这座制造精密的城市发生了什么
+博士发现有什么黑暗，安静但致命的东西也在这个地方，然后正在慢慢地接近人类入侵者
 
 *** CANCEL [#E] 3. Vengeance of the Stones :3rd_Dr:
 *** READY [#C] 4. Babblesphere :4th_Dr:Romana_2:bilibili:
 
 【【有声书】Destiny of The Doctor-Babblesphere-哔哩哔哩】 https://b23.tv/41WSvrw
+
+神秘博士50周年有声纪念书
+
+一个火山活动频繁的世界Hephastos是作曲家，作家的，画家，诗人的家乡，都在努力的创作最好的作品，但是最追求梦想的时候却偏的太远了。
+博士和罗曼娜到达这个星球，发现殖民者不关心自己的健康，他们曾经的美好的家园走向衰亡，Babble网络占据了人们很长的生活时间，开始奴役这里的殖民者，这里所有的想法都被人们共享，无论是生活琐事还是什么不重要的事，私人的想法现在是犯罪
+
+殖民者被杀害，博士和罗曼娜怀疑有一个恶意的智慧在那里兴风作浪，随着时间流逝，两位时间旅行者能否找到真相，在被无穷无尽的琐事淹没之前
 
 *** [#D] 5. Smoke and Mirrors :5th_Dr:Adric:Nyssa:Tegan:
 *** [#C] 6. Trouble in Paradise :6th_Dr:Peri:
@@ -1864,14 +1893,14 @@ CLOSED: [2021-07-27 Tue 23:10] SCHEDULED: <2021-12-03 Fri>
 【【神秘博士广播剧熟肉】The Stuff of Nightmares 304 If I Should Die Before I Wake 若我在沉睡中死去-哔哩哔哩】 https://b23.tv/TJmTSCZ
 
 *** CDNM vol.4 Broken Memories :P2024_03:
-**** 4.1 Invasion of the Body Stealers :4th_Dr:Sarah:
-**** 4.2 The Queen of Clocks :6th_Dr:Clockwork_Droids:Mel:
-**** 4.3 The Silent City :Silents:8th_Dr:
-**** 4.4 The Silent Priest :Silents:7th_Dr:
+**** [#C] 4.1 Invasion of the Body Stealers :4th_Dr:Sarah:
+**** [#A] 4.2 The Queen of Clocks :6th_Dr:Clockwork_Droids:Mel:
+**** [#B] 4.3 The Silent City :Silents:8th_Dr:
+**** [#B] 4.4 The Silent Priest :Silents:7th_Dr:
 ** The Legacy of Time :P2019:
 *** HALF [#B] Lies in Ruins :8th_Dr:River:Benny:
 *** CANCEL [#E] The Split Infinitive :7th_Dr:Ace:CM:
-*** DONE [#A] The Sacrifice of Jo Grant :3rd_Dr:Jo:UNIT_new:Brig:
+*** DONE [#A] The Sacrifice of Jo Grant :3rd_Dr:Jo:UNIT_new:Brigadier:
 *** [#D] Relative Time :5th_Dr:Jenny:the_Nine:
 *** [#C] The Avenues of Possibility :6th_Dr:Charley:
 *** [#B] Collision Course :4th_Dr:
@@ -1896,7 +1925,7 @@ https://disk.yandex.ru/d/n_i2CRgIJW0xOw
 *** [#E] 2.2 Time Killers
 *** [#B] 2.3 The Key To Key To Time
 ** Peladon :P2022_01:plot_yes:
-*** [#B] 1. The Ordeal of Peladon :10th_Dr:
+*** [#B] 1. The Ordeal of Peladon :King_Peladon:14th_Dr:
 *** [#D] 2. The Poison of Peladon :River:
 *** CANCEL [#E] 3. The Death of Peladon :6th_Dr:Mel:
 *** [#A] 4. The Truth of Peladon :8th_Dr:
@@ -1943,7 +1972,10 @@ https://www.bigfinish.com/releases/v/doctor-who-once-and-future-the-martian-inva
 
 【【神秘博士六十周年纪念特辑】Once and Future - TimeLord Immemorial 远古时间领主-哔哩哔哩】 https://b23.tv/TPEYe0X
 
-*** [#B] 7. The Union :8th_Dr:Susan:River:P2023_10:
+*** READY [#B] 7. The Union :8th_Dr:Susan:River:P2023_10:bilibili:
+
+【【神秘博士六十周年纪念特辑】Once and Future 07 The Union 联合-哔哩哔哩】 https://b23.tv/XYQUxsR
+
 *** TBR 8. Coda: The Final Act :War_Dr:Benny:Vienna:Voord:P2024_11:
 ** BBC Audio Originals
 *** TODO [#C] 01. The Thing from the Sea :4th_Dr:Wibbsey:P2018:
@@ -1995,7 +2027,7 @@ https://www.bigfinish.com/releases/v/doctor-who-once-and-future-the-martian-inva
 *** The Light at the End :P2013:
 *** MR275. The End of the Beginning :5th_Dr:6th_Dr:7th_Dr:8th_Dr:P2021:
 *** ST11.4 Death Will Not Part Us :8th_Dr:War_Dr:9th_Dr:time_war:P2022:
-*** LS8.1 Death World :1st_Dr:2nd_Dr:3rd_Dr:P2024_07:
+*** LS8.2 Deathworld :1st_Dr:2nd_Dr:3rd_Dr:Jamie:Jo:Brigadier:P2024_08:
 ** comics
 *** IDW :IDW:
 **** Prisoners of Time
