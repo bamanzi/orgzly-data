@@ -350,7 +350,7 @@ https://www.bilibili.com/read/cv16029955
 :rating:   8.4
 :END:
 
-**** NOW [#D] /04x04 The Highlanders/ :missing:DW2023_Q4:
+**** [#D] /04x04 The Highlanders/ :missing:DW2025:
 SCHEDULED: <2023-12-30 Sat>
 :PROPERTIES:
 :rating:   6.9
@@ -1428,6 +1428,8 @@ CLOSED: [2020-07-15 Wed 19:13]
 ***** [#D] 12.1 Ice Heist :Ice_Warriors:P2023_03:2CD:
 ***** CANCEL [#F] 12.2 Antillia the Lost :P2023_03:2CD:
 ***** TODO [#C] 12.3 The Wizard of Time :P2023_06:1CD:DW2024_Q3b_doctor:
+SCHEDULED: <2024-08-24 Sat>
+
 ***** [#D] 12.4 The Friendly Invasion :P2023_06:1CD:
 ***** [#D] 12.5 Stone Cold :Weeping_Angels:P2023_06:2CD:
 ***** [#B] 12.6 The Ghost of Margaret :P2023_06:1CD:
@@ -1753,7 +1755,7 @@ CLOSED: [2021-06-17 Thu 23:09]
 
 *** [#C] 3. Full Fathom Five
 *** [#D] 4. He Jests at Scars...
-*** READY [#A] 5. Deadline :bilibili:
+*** READY [#A] 5. Deadline :bilibili:DW2024_Q3c_spinoffs:
 
 【【神秘博士广播剧翻译】Unbound:Deadline 假如世界上没有博士-哔哩哔哩】 https://b23.tv/tK7WtHA
 
@@ -1798,7 +1800,7 @@ CLOSED: [2021-07-27 Tue 23:10] SCHEDULED: <2021-12-03 Fri>
 :rating:   8.1
 :END:
 
-*** [#A] 6. Damaged Goods :7th_Dr:P2015:
+*** READY [#A] 6. Damaged Goods ↗ :7th_Dr:P2015:bilibili:
 :PROPERTIES:
 :rating:   9.0
 :END:
@@ -1925,7 +1927,9 @@ https://disk.yandex.ru/d/n_i2CRgIJW0xOw
 *** [#E] 2.2 Time Killers
 *** [#B] 2.3 The Key To Key To Time
 ** Peladon :P2022_01:plot_yes:
-*** [#B] 1. The Ordeal of Peladon :King_Peladon:14th_Dr:
+*** [#B] 1. The Ordeal of Peladon :King_Peladon:14th_Dr:DW2024_Q3c_spinoffs:
+SCHEDULED: <2024-08-31 Sat>
+
 *** [#D] 2. The Poison of Peladon :River:
 *** CANCEL [#E] 3. The Death of Peladon :6th_Dr:Mel:
 *** [#A] 4. The Truth of Peladon :8th_Dr:
@@ -2019,13 +2023,19 @@ https://www.bigfinish.com/releases/v/doctor-who-once-and-future-the-martian-inva
 *** MR001. The Sirens of Time :5th_Dr:6th_Dr:7th_Dr:
 *** MR050. Zagreus :8th_Dr:5th_Dr:6th_Dr:7th_Dr:P2003:
 *** IX. The Four Doctors :P2010:
-*** [#D] ST3.1 - Seven to One :🗣:P2011:plot_yes:
+*** [#D] ST3.1 - Seven to One 🗣 :P2011:plot_yes:
 :PROPERTIES:
 :rating:   7.4
 :END:
 
 *** The Light at the End :P2013:
 *** MR275. The End of the Beginning :5th_Dr:6th_Dr:7th_Dr:8th_Dr:P2021:
+*** [#A] NA11. Cold Fusion :5th_Dr:7th_Dr:Roz:Chris:Adric:Nyssa:Tegan:plot_yes:DW2024_Q3c_doctor:
+SCHEDULED: <2024-08-31 Sat>
+:PROPERTIES:
+:rating:   8.7
+:END:
+
 *** ST11.4 Death Will Not Part Us :8th_Dr:War_Dr:9th_Dr:time_war:P2022:
 *** LS8.2 Deathworld :1st_Dr:2nd_Dr:3rd_Dr:Jamie:Jo:Brigadier:P2024_08:
 ** comics

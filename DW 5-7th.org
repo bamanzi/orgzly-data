@@ -563,8 +563,8 @@ CLOSED: [2021-07-23 Fri 12:43]
 :rating:   7.7
 :END:
 
-**** HALF [#A] 57. Arrangements for War :plot_yes_dwg:DW2024_Q3b_doctor:
-SCHEDULED: <2024-08-17 Sat>
+**** 3QTR [#A] 57. Arrangements for War :plot_yes_dwg:DW2024_Q3b_doctor:
+CLOSED: [2024-08-15 Thu 21:40] SCHEDULED: <2024-08-03 Sat>
 :PROPERTIES:
 :rating:   8.5
 :END:
@@ -1347,7 +1347,7 @@ CLOSED: [2023-11-17 Fri 08:22] SCHEDULED: <2023-11-18 Sat>
 【【神秘博士广播剧翻译】RTD早期作品 Damaged Goods-哔哩哔哩】 https://b23.tv/5a9c2Hb
 
 **** TODO [#C] NA10 Original Sin :Benny:Roz:Chris:2CD:
-**** [#A] NA11. Cold Fusion :Roz:Chris:5th_Dr:
+**** [#A] NA11. Cold Fusion :Roz:Chris:5th_Dr:plot_yes:
 :PROPERTIES:
 :rating:   8.7
 :END:

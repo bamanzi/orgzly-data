@@ -1000,8 +1000,8 @@ CLOSED: [2021-09-24 Fri 18:50] SCHEDULED: <2021-09-04 Sat>
 :rating:   9.2
 :END:
 
-*** HALF [#B] 7.3 Boundaries :Cole:bilibili:DW2024_Q3b_spinoffs:
-SCHEDULED: <2024-08-11 Sun>
+*** 3QTR [#B] 7.3 Boundaries :Cole:bilibili:DW2024_Q3b_spinoffs:
+CLOSED: <2024-08-13 Tue 08:57> SCHEDULED: <2024-08-11 Sun>
 
 【【广播剧汉化】徒劳的挣扎 The War Master 战争法师 703 Boundaries-哔哩哔哩】 https://b23.tv/KX01zpP
 
@@ -1422,7 +1422,12 @@ Priyan tells Engin that Rassilon is initiating the Ultimate Sanction, placing it
 The Siege of Trenzalore is viewed by some as the true final battle of the Time War. 
 
 ** Currently Unplaced
-*** ST11.4 Death Will Not Part Us :8th_Dr:War_Dr:9th_Dr:time_war:🎧:
+*** [#B] ST11.4 Death Will Not Part Us :8th_Dr:War_Dr:9th_Dr:time_war:🎧:DW2024_Q3c_doctor:
+SCHEDULED: <2024-09-28 Sat>
+:PROPERTIES:
+:rating:   8.0
+:END:
+
 *** /📂The War Master series 6: Killing Time/ :Master_war:P2021:🎧:scripted:
 **** DONE [#B] WM6.1 - The Sincerest Form of Flattery :DW2023_08_spinoffs:
 CLOSED: [2023-12-16 Sat 19:21] SCHEDULED: <2023-09-03 Sun>

@@ -491,18 +491,18 @@ CLOSED: [2022-10-19 Wed 19:24] SCHEDULED: <2022-10-16 Sun>
 【【David Tennant】Big Finish广播剧熟肉the Tenth Doctor and River Song - Ghosts-哔哩哔哩】https://b23.tv/84jHoJ
 
 **** Out of Time
-***** HALF [#C] Out of Time 1 :P2020:bilibili:4th_Dr:
+***** HALF [#C] Out of Time 1 :P2020:bilibili:4th_Dr:scripted:
 :PROPERTIES:
 :rating:   7.8
 :END:
 
-***** HALF [#C] Out of Time 2 - The Gates of Hell :P2021:Cybermen:5th_Dr:D2022_04_doctor:
+***** HALF [#C] Out of Time 2 - The Gates of Hell :P2021:Cybermen:5th_Dr:scripted:D2022_04_doctor:
 SCHEDULED: <2022-04-29 Fri>
 :PROPERTIES:
 :rating:   7.5
 :END:
 
-***** [#B] Out of Time #3 Wink :6th_Dr:Weeping_Angels:P2022_06:
+***** [#B] Out of Time #3 Wink :6th_Dr:Weeping_Angels:P2022_06:DW2024_Q3c_doctor:
 :PROPERTIES:
 :rating:   8.0
 :END:
@@ -605,9 +605,9 @@ SCHEDULED: <2023-06-23 Fri 19:51>
 第三季结尾还接上了The Resurrection of the Daleks
 
 ***** HALF [#E] DU3.1 - The First Son :River:bilibili:DW2024_Q3b_doctor:
-SCHEDULED: <2024-08-17 Sat>
+SCHEDULED: <2024-07-27 Sat>
 :PROPERTIES:
-:rating:   6.9
+:rating:   6.5
 :END:
 
 【【神秘博士广播剧熟肉】Dalek Universe 301 The First Son 第一子-哔哩哔哩】 https://b23.tv/ZcWe1OJ
@@ -1109,8 +1109,8 @@ SCHEDULED: <2022-08-30 Tue>
 :rating:   7.1
 :END:
 
-**** START [#C] 1.4 Field Trip :Osgood:DW2022_10_doctor:
-SCHEDULED: <2022-10-29 Sat>
+**** START [#C] 1.4 Field Trip :Osgood:DW2024_Q3c_doctor:
+SCHEDULED: <2024-09-14 Sat>
 :PROPERTIES:
 :rating:   7.6
 :END:

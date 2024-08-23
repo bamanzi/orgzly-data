@@ -418,7 +418,7 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
       :rating:   7.8
       :END:
 
-***** [#B] 57. The Grey Mare :Ianto:DW2024_Q3b_spinoffs:
+***** HALF [#B] 57. The Grey Mare :Ianto:DW2024_Q3b_spinoffs:
       SCHEDULED: <2024-08-25 Sun>
       :PROPERTIES:
       :rating:   8.3
@@ -504,7 +504,8 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 ***** HALF [#B] 3. Invasion: Kill :DW2023_12_spinoffs:
       SCHEDULED: <2023-12-31 Sun>
 
-**** [#A] special 3: Believe :P2018:3CD:
+**** [#A] special 3: Believe :P2018:3CD:plot_yes:DW2024_Q3c_spinoffs:
+     SCHEDULED: <2024-09-14 Sat>
      :PROPERTIES:
      :rating:   8.7
      :END:
@@ -659,8 +660,8 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
       :rating:   7.6
       :END:
 
-***** HALF [#B] 7.3 Misty Eyes :Gwen:Rhys:Ng:DW2024_Q3b_spinoffs:
-      SCHEDULED: <2024-08-11 Sun>
+***** 3QTR [#B] 7.3 Misty Eyes :Gwen:Rhys:Ng:DW2024_Q3b_spinoffs:
+      CLOSED: [2024-08-23 Fri 19:39] SCHEDULED: <2024-08-03 Sat 21:03>
       :PROPERTIES:
       :rating:   8.4
       :END:
@@ -1208,8 +1209,8 @@ Roberts Master
     :END:
 
 ** J&L series 9 :P2015:
-*** HALF [#B] 9.1 - The Flying Frenchmen :DW2024_Q3b_spinoffs:
-    SCHEDULED: <2024-08-11 Sun>
+*** 3QTR [#B] 9.1 - The Flying Frenchmen :DW2024_Q3b_spinoffs:
+    CLOSED: <2024-08-08 Thu 20:56> SCHEDULED: <2024-08-04 Sun>
     :PROPERTIES:
     :rating:   8.1
     :END:
@@ -1416,7 +1417,8 @@ Roberts Master
      :rating:   6.7
      :END:
 
-**** [#A] 1.5 Just War :WW2:2CD:
+**** [#A] 1.5 Just War :WW2:2CD:plot_yes:DW2024_Q3c_spinoffs:
+     SCHEDULED: <2024-09-28 Sat>
      :PROPERTIES:
      :rating:   9.2
      :END:
@@ -1799,7 +1801,7 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
 *** [#A] A Mutual Friend
 ** special: The Story So Far :P2018:plot_yes:
 *** HALF [#B] 1.1 Ever After Happy :DW2024_Q3b_spinoffs:
-    SCHEDULED: <2024-08-18 Sun>
+    SCHEDULED: <2024-08-25 Sun>
 
 *** [#C] 1.2 The Grel Invasion of Earth
 *** [#A] 1.3 Braxiatel in Love
@@ -2371,8 +2373,8 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
     :END:
 
 ** UNIT 2: Shutdown :P2016:plot_yes:
-*** [#C] 2.1 Power Cell :DW2024_Q3b_spinoffs:
-    SCHEDULED: <2024-08-18 Sun>
+*** HALF [#C] 2.1 Power Cell :DW2024_Q3b_spinoffs:
+    SCHEDULED: <2024-08-31 Sat>
     :PROPERTIES:
     :rating:   7.5
     :END:
@@ -2836,11 +2838,10 @@ https://doctorwho.guide/sj_06.htm
 *** Gallifrey
 *** I, Davros
 *** Jago & Litefoot
-*** Missy
 ** ???
 *** Iris Wildthyme
 * misc spin-offs (nuwho) :🎧:
-** The Churchil Years
+** The Churchil Years :Churchill:
 *** series 1 :P2016:
 **** HALF [#E] CY1.1 - The Oncoming Storm          (6.9) :9th_Dr:DW2023_05_spinoffs:
      SCHEDULED: <2023-05-28 Sun>
@@ -2854,7 +2855,8 @@ https://doctorwho.guide/sj_06.htm
 
 **** CANCEL [#E] +1.4 - The Chartwell Metamorphosis+ (6.4)
 *** series 2 :P2018:
-**** [#D] 2.1 - Young Winston
+**** [#D] 2.1 - Young Winston :Vastra:11th_Dr:plot_cast:DW2024_Q3c_spinoffs:
+     SCHEDULED: <2024-08-31 Sat>
      :PROPERTIES:
      :rating:   7.1
      :END:
@@ -2935,14 +2937,24 @@ https://doctorwho.guide/sj_06.htm
 
 *** RTDC vol.2 Other Worlds :P2022_10:
 **** READY [#C] 2.1 Saltwater :bilibili:DW2024_Q3b_spinoffs:
+     SCHEDULED: <2024-08-25 Sun>
+     :PROPERTIES:
+     :rating:   7.9
+     :END:
 
 【【神秘博士广播剧熟肉】The Dimension Cannon 201 Saltwater 盐水-哔哩哔哩】 https://b23.tv/M44oyPQ
 
-**** READY [#C] 2.2 Now is the New Dark :bilibili:
+**** READY [#B] 2.2 Now is the New Dark :bilibili:
+     :PROPERTIES:
+     :rating:   8.0
+     :END:
 
 【【神秘博士广播剧熟肉】The Dimension Cannon 202 Now is the New Dark 新黑暗-哔哩哔哩】 https://b23.tv/DsxHEzn
 
 **** READY [#A] 2.3 The Rogue Planet :bilibili:
+     :PROPERTIES:
+     :rating:   8.8
+     :END:
 
 【【神秘博士广播剧熟肉】The Dimension Cannon 203 The Rogue Planet 流浪行星-哔哩哔哩】 https://b23.tv/T3YU8OJ
 
