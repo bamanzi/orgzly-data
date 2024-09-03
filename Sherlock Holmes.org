@@ -8,12 +8,9 @@
 
 https://audiobookbay.is/abss/bbc-sherlock-holmes-the-complete-series-as-audio-drams-bbc-4-sir-arthur-conan-doyle-bert-coules/
 
-
-
 *** Big Finish
 **** vol.1
-***** 1.3 Holmes and the Ripper :2CD:bilibili:Jack_the_Ripper:
-
+***** READY 1.3 Holmes and the Ripper :2CD:bilibili:Jack_the_Ripper:
 
 - 【【广播剧汉化】 白教堂街的幽灵 Holmes and the Ripper （上）-哔哩哔哩】 https://b23.tv/yGvjj5H
 - 【【广播剧汉化】罪恶的真相 Holmes and the Ripper （下）-哔哩哔哩】 https://b23.tv/TbjNSVR
@@ -113,7 +110,7 @@ CLOSED: <2022-10-02 Sun 09:51> SCHEDULED: <2022-09-25 Sun>
 
 古老的游戏，当年开发项目被终止
 
-***** DONE 4x06 The Cost of Doing Business
+***** DONE [#B] 4x06 The Cost of Doing Business
 CLOSED: <2022-10-07 Fri 09:55>
 :PROPERTIES:
 :rating:   8.0
@@ -222,23 +219,28 @@ CLOSED: [2023-09-10 Sun 22:54]
 ***** DONE 5x08
 CLOSED: [2023-09-11 Mon 22:13]
 
-***** DONE 5x09
+***** DONE [#B] 5x09
 CLOSED: [2023-09-11 Mon 23:00]
 
 ***** DONE 5x10
 CLOSED: [2023-09-17 Sun 21:25] SCHEDULED: <2023-09-17 Sun>
 
-***** DONE 5x11
+***** DONE [#B] 5x11
 CLOSED: [2023-09-20 Wed 23:11] SCHEDULED: <2023-09-21 Thu>
 
 ***** DONE 5x12
 CLOSED: [2023-09-24 Sun 20:24] SCHEDULED: <2023-09-24 Sun>
 
-***** DONE 5x13 :benben:
+***** DONE [#B] 5x13 Over a Barrel :benben:
 CLOSED: [2023-10-01 Sun 15:53] SCHEDULED: <2023-09-30 Sat>
 
-***** LATER 5x14
-***** LATER 5x15
+***** DONE 5x14
+CLOSED: [2024-08-29 Thu 22:24]
+
+***** DONE [#B] 5x15/16
+CLOSED: [2024-09-01 Sun 21:12]
+
+***** 5x17
 **** S6 :P2018:
 
 21 episodes
@@ -249,8 +251,8 @@ CLOSED: [2023-10-01 Sun 15:53] SCHEDULED: <2023-09-30 Sat>
 
 *** Sherlock 神探夏洛克
 * Agatha Christie 阿加莎·克里斯蒂 :阿婆:
-** tv :📺:
-*** 大侦探波罗 Agatha Christie's Poirot :poirot:
+** Hercule Poirot 波洛系列 :poirot:
+*** 大侦探波罗 Agatha Christie's Poirot :📺:
 
 https://agathachristie.fandom.com/wiki/Agatha_Christie%27s_Poirot
 
@@ -282,12 +284,57 @@ CLOSED: [2023-09-28 Thu 20:03] SCHEDULED: <2023-09-24 Sun>
 ***** DONE 1x09 The King of Clubs
 CLOSED: [2023-10-03 Tue 21:44] SCHEDULED: <2023-10-02 Mon>
 
-***** DONE 1x10 The Dream :benben:
+***** DONE [#C] 1x10 The Dream :benben:
 CLOSED: [2023-10-21 Sat 16:28] SCHEDULED: <2023-10-09 Mon>
 
 **** series 2
+
+其中第1集和第10集为长篇小说改编，片长100分钟；其他8集均为短篇小说改编，片长50分钟。
+
+1、Peril at End House 悬崖山庄奇案
+2、The Veiled Lady 蒙面女人
+3、The Lost Mine 矿藏之谜
+4、The Cornish Mystery 康沃尔谜案
+5、The Disappearance of Mr. Davenheim 无影无踪
+6、Double Sin 双重罪恶
+7、The Adventure of the Cheap Flat 廉价公寓的秘密
+8、The Kidnapped Prime Minister 惊天绑票
+9、The Adventure of the Western Star 西方之星;
+10、The Mysterious Affair at Styles 斯泰尔斯庄园奇案
+
+第10集《斯泰尔斯庄园奇案》是1990年9月ITV为了纪念阿婆诞辰100周年推出的特别篇，改编自阿婆的第一部长篇小说，也是时间顺序上波洛的第一案，适宜作为全剧首集观看。
+
+***** [#B] 2x01
 **** series 13 :P2013:
-*** Miss Marple (BBC)
+*** books
+**** [#A] 东方快车谋杀案 A⁺
+:PROPERTIES:
+:goodreads: 4.20
+:END:
+
+**** [#A] 罗杰疑案 A⁺
+:PROPERTIES:
+:goodreads: 4.27
+:END:
+
+**** [#A] 尼罗河上的惨案
+:PROPERTIES:
+:goodreads: 4.12
+:END:
+
+**** [#A] ABC 谋杀案
+:PROPERTIES:
+:goodreads: 4.03
+:END:
+
+**** [#B] 底牌 Cards on the Table
+**** [#A] Curtains 帷幕
+:PROPERTIES:
+:goodreads: 4.10
+:END:
+
+** Miss Marple 系列 :marple:
+*** Miss Marple (BBC) :📺:
 
 1984-1992
 
@@ -295,7 +342,7 @@ CLOSED: [2023-10-21 Sat 16:28] SCHEDULED: <2023-10-09 Mon>
 
 https://agathachristie.fandom.com/wiki/Miss_Marple_(BBC_television_series)
 
-*** 玛普尔小姐 Agatha Christie's Marple (ITV)
+*** 玛普尔小姐 Agatha Christie's Marple (ITV) :📺:
 
 https://agathachristie.fandom.com/wiki/Agatha_Christie's_Marple
 
@@ -316,7 +363,19 @@ CLOSED: <2023-10-04 Wed 20:55> SCHEDULED: <2023-10-04 Wed>
 ***** 2x01 Sleeping Murder
 ***** 2x02 The Moving Finger
 **** Season 6 :P2013:
-*** 汤米夫妇探案集 Agatha Christie's Partners in Crime
+*** books
+**** HALF [#A] 谋杀启事
+:PROPERTIES:
+:goodreads: 4.01
+:END:
+
+**** [#A] 寓所迷案 Murder at the Vicarage
+:PROPERTIES:
+:goodreads: 4.05
+:END:
+
+** misc
+*** 汤米夫妇探案集 Agatha Christie's Partners in Crime :📺:
 
 https://agathachristie.fandom.com/wiki/Agatha_Christie%27s_Partners_in_Crime
 
@@ -334,8 +393,17 @@ CLOSED: [2023-10-11 Wed 22:28] SCHEDULED: <2023-10-15 Sun>
 **** ep5 Finessing the King
 **** ep6 The Ambassador's Boots
 *** 短篇集 The.Agatha.Christie.Hour
-** audio
-*** DOING 谋杀启事（广播剧）
+*** books
+**** And Then There Were None 无人生还 A⁺
+:PROPERTIES:
+:goodreads: 4.28
+:END:
+
+**** Crooked House 怪屋
+:PROPERTIES:
+:goodreads: 4.08
+:END:
+
 * 狄公案
 ** tv
 *** 1986电视剧 (14 集)

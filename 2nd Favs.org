@@ -642,7 +642,9 @@ CLOSED: [2024-08-17 Sat 16:48]
 **** DONE [#B] Ultimate Captain America
 CLOSED: [2024-08-19 Mon 16:04]
 
-**** Ultimate Thor
+**** DONE Ultimate Comics Thor
+CLOSED: [2024-08-27 Tue 13:24]
+
 ** Marvel MCU
 *** Marvel's Agents of S.H.I.E.L.D.
 **** DONE S5 :S2024_08:
@@ -690,7 +692,7 @@ CLOSED: [2024-08-13 Tue 18:47]
 CLOSED: [2024-08-10 Sat 10:01]
 
 *** phase 4
-**** TODO Loki S1 :S2024_08:
+**** DONE Loki S1 :S2024_08:
 ***** DONE 1x01
 CLOSED: [2024-08-12 Mon 08:32]
 
@@ -703,8 +705,12 @@ CLOSED: [2024-08-16 Fri 22:24]
 ***** DONE 1x04
 CLOSED: [2024-08-17 Sat 23:08]
 
-***** 1x05
-***** 1x06
+***** DONE 1x05
+CLOSED: [2024-08-20 Tue 22:03]
+
+***** DONE 1x06
+CLOSED: [2024-08-24 Sat 21:57]
+
 **** DONE WandaVision 旺达幻视 :P2021:S2024_08:
 ***** DONE 1x01
 CLOSED: [2024-07-29 Mon 20:08]
@@ -738,6 +744,30 @@ CLOSED: [2024-08-10 Sat 16:16]
 **** Daredevil S1
 ***** DONE 1x01
 CLOSED: [2024-08-19 Mon 20:56]
+
+***** DONE 1x02
+CLOSED: [2024-08-20 Tue 18:56]
+
+***** DONE 1x03
+CLOSED: <2024-08-21 Wed 20:44>
+
+***** DONE 1x04
+CLOSED: [2024-08-23 Fri 19:34]
+
+***** DONE 1x05
+CLOSED: [2024-08-26 Mon 07:49]
+
+***** DONE 1x06
+CLOSED: [2024-08-26 Mon 08:37]
+
+***** DONE 1x07
+CLOSED: [2024-08-29 Thu 21:28]
+
+***** DONE 1x08
+CLOSED: [2024-08-30 Fri 18:55]
+
+***** DONE 1x09
+CLOSED: [2024-09-02 Mon 20:36]
 
 * Supernatural :📺:spn:
 ** comics
