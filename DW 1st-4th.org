@@ -1333,29 +1333,27 @@ CLOSED: [2020-06-28 Sun 13:30]
 ***** DONE [#C] 1.2 The Renaissance Man †7.5)
 CLOSED: [2020-08-07 Fri 18:25]
 
-***** DONE [#B] 1.3 The Wrath of the Iceni :scripted:
+***** DONE [#B] 1.3 The Wrath of the Iceni
 CLOSED: [2020-06-23 Tue 09:05]
 :PROPERTIES:
 :rating:   8.4
 :END:
 
-***** DONE [#D] 1.5 - Trail of the White Worm (7.3) :Master_decayed:
+***** DONE [#D] 1.5 - Trail of the White Worm :Master_decayed:bilibili:
 CLOSED: <2020-08-17 Mon 10:54>
+:PROPERTIES:
+:rating:   7.3
+:END:
 
-The legend dates back to Roman times, at least: a great White Worm, as wide as a man, slithers out of the rocks of the Dark Peak Gap to take animals, sometimes even children, for its food.
+【【神秘博士广播剧熟肉】The Fourth Doctor's Adventure Trail of the White Worm-白虫的踪迹-哔哩哔哩】 https://b23.tv/HybCyP7
 
-When the Doctor and Leela arrive in the wilds of Derbyshire, only to get caught up in the hunt for a missing girl, they soon discover that the legend of the Worm is very much alive — even now, in 1979.
-
-Worse still, it seems that the Doctor isn't the only renegade Time Lord on the trail of this deadly and mysterious Worm...
-
-***** 2DONE [#D] 1.6 - The Oseidon Adventure (7.2) :Master_decayed:
+***** 2DONE [#D] 1.6 - The Oseidon Adventure :Master_decayed:bilibili:
 CLOSED: [2020-08-18 Tue 13:03]
+:PROPERTIES:
+:rating:   7.2
+:END:
 
-The first time the fearsome Kraals attempted to take over the Earth, with the help of their android agents, things didn't go quite according to plan — thanks to the time-travelling alien Doctor and his allies at UNIT.
-
-This time, Marshal Grinmal and his belligerent cohorts are ready for them. This time, they'll make no mistakes. This time, Chief Scientist Tyngworg has not just one plan, but a back-up plan, and a back-up back-up plan worked out...
-
-With the Doctor a prisoner on the Kraals' radiation-blasted home planet of Oseidon, only his companion Leela can save the day — alongside a most unlikely ally.
+【【神秘博士广播剧熟肉】The Fourth Doctor's Adventure 106 The Oseidon Adventure-Oseidon上的冒险-哔哩哔哩】 https://b23.tv/bNV0his
 
 **** 📂4DA series 3 :Leela:P2014:scripted:1CD:
 ***** 2DONE [#C] 3.1 - The King of Sontar (7.7) :Sontarans:D2021_09_dr:
@@ -2013,7 +2011,7 @@ https://www.bigfinish.com/releases/v/doctor-who-once-and-future-the-martian-inva
 *** 4. In Name Only :War_Dr:
 ** Dark Gallifrey
 *** Morbius
-*** The War Master :Master_War:Unbound_Dr:War_Dr:Benny:Captain_John:P2024_08:
+*** The War Master ↗ :Master_War:Unbound_Dr:War_Dr:Benny:Captain_John:P2024_08:
 * multi-doctor story
 ** tv
 *** 10x01 The Three Doctors :P1973:
@@ -2030,14 +2028,14 @@ https://www.bigfinish.com/releases/v/doctor-who-once-and-future-the-martian-inva
 
 *** The Light at the End :P2013:
 *** MR275. The End of the Beginning :5th_Dr:6th_Dr:7th_Dr:8th_Dr:P2021:
-*** [#A] NA11. Cold Fusion :5th_Dr:7th_Dr:Roz:Chris:Adric:Nyssa:Tegan:plot_yes:DW2024_Q3c_doctor:
-SCHEDULED: <2024-08-31 Sat>
+*** HALF [#A] NA11. Cold Fusion :5th_Dr:7th_Dr:Roz:Chris:Adric:Nyssa:Tegan:plot_simple:DW2024_Q3c_doctor:
+SCHEDULED: <2024-09-07 Sat>
 :PROPERTIES:
 :rating:   8.7
 :END:
 
 *** ST11.4 Death Will Not Part Us :8th_Dr:War_Dr:9th_Dr:time_war:P2022:
-*** LS8.2 Deathworld :1st_Dr:2nd_Dr:3rd_Dr:Jamie:Jo:Brigadier:P2024_08:
+*** LS8.2 Deathworld :1st_Dr:2nd_Dr:3rd_Dr:Jamie:Jo:Brigadier:3CD:P2024_08:
 ** comics
 *** IDW :IDW:
 **** Prisoners of Time

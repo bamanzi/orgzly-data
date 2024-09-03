@@ -17,7 +17,7 @@ CLOSED: [2022-11-19 Sat 18:32] SCHEDULED: <2022-11-02 Wed>
 **** CANCEL [#F] Time-Flight (6.0) :Master_tremas:
 *** Season 20 :Tegan:
 **** [#D] Arc of Infinity (7.1) :Nyssa:
-**** [#D] Snakedance (7.2) :Nyssa:The_Mara:
+**** LATER [#D] Snakedance (7.2) :Nyssa:The_Mara:DW2024_Q4:
 **** [#C] Mawdryn Undead (7.8) :Nyssa:
 **** CANCEL [#E] Terminus (6.4) :Nyssa:
 **** [#B] Enlightenment (8.1)
@@ -88,7 +88,7 @@ CLOSED: <2021-05-29 Sat 08:11>
 :rating:   8.4
 :END:
 
-**** START [#E] 102. The Mind's Eye / Mission of the Viyrans :Viyrans:Peri:D2021_04:
+**** [#E] 102a. The Mind's Eye :Erimem:Peri:D2021_04:
 **** [#C] 104. The Bride of Peladon :Peri:Erimem:
 *** MR with Nyssa :Nyssa:scripted:2CD:
 **** CANCEL [#F] 4. The Land of the Dead
@@ -101,7 +101,7 @@ CLOSED: <2021-05-29 Sat 08:11>
 CLOSED: [2021-10-23 Sat 20:14]
 
 **** [#D] 026. Primeval
-**** DONE [#A] 034. Spare Parts :Mondas:Cybermen:plot_yes:已购:
+**** DONE [#A] 034. Spare Parts (A⁺) :Mondas:Cybermen:plot_yes:已购:
 CLOSED: [2021-03-15 Mon 20:29]
 :PROPERTIES:
 :rating:   9.2
@@ -360,6 +360,7 @@ CLOSED: [2021-03-22 Mon 23:23]
 :rating:   6.2
 :END:
 
+**** START [#E] 102b. Mission of the Viyrans :Viyrans:Peri:D2021_04:
 **** HALF [#B] MR200. The Secret History (8.2) :5th_Dr:plot_yes:Steven:Vicki:Monk:D2021_09_extra:
 SCHEDULED: <2021-09-15 Wed>
 
@@ -385,13 +386,6 @@ CLOSED: [2021-02-27 Sat 18:02]
 CLOSED: [2021-02-27 Sat 18:02]
 
 *** 5DA with Nyssa & Tegan
-**** The Lost Stories
-***** [#B] 3.1 - The Elite :Nyssa:Tegan:Daleks:2CD:P2011:
-:PROPERTIES:
-:rating:   8.3
-:END:
-
-***** [#D] 3.3 - The Children of Seth :Nyssa:Tegan:2CD:P2011:
 **** The Fifth Doctor Box Set :2CD:Nyssa:Tegan:Adric:P2014:
 ***** [#A] Psychodrome :Adric:Nyssa:Tegan:plot_yes:
 ***** [#A] Iterations of I :Adric:Nyssa:Tegan:plot_yes:
@@ -409,14 +403,16 @@ CLOSED: [2022-11-27 Sun 23:36] SCHEDULED: <2022-11-16 Wed>
 ***** [#D] Friendly Fire :1CD:3parts:
 ***** [#E] The Edge of the War :1CD:3parts:
 **** 📂2023B. In the Night :Nyssa:Tegan:P2023_09:
-***** READY 1. Pursuit of the Nightjar :2CD:
+***** READY [#A] 1. Pursuit of the Nightjar :2CD:
 
 【【神秘博士广播剧熟肉】In the Night 101 Pursuit of the Nightjar (Part 1&2) 追捕夜鹰-哔哩哔哩】 https://b23.tv/WduWl6H
 【【神秘博士广播剧熟肉】In the Night 101 Pursuit of the Nightjar (Part 3&4) 追捕夜鹰-哔哩哔哩】 https://b23.tv/jiFxS86
 
-***** 2. Resistor :1CD:
-**** 2024A. The Dream Team :P2024_04:
-**** NA12. Goth Opera :P2024_07:3CD:
+***** CANCEL [#F] 2. Resistor :1CD:
+**** 📂2024A. The Dream Team :P2024_04:Adric:Nyssa:Tegan:
+***** The Merfolk Murders :1CD:
+***** Dream Team :1CD:
+**** 2024B. The Great Beyond :Adric:Nyssa:Tegan:
 *** with Zara & Abby
 **** [#E] 117. The Judgement of Isskar :Zara:Abby:Ice_Warriors:
 **** [#D] 118. The Destroyer of Delights :Zara:Abby:
@@ -454,8 +450,14 @@ CLOSED: [2022-01-14 Fri 15:10]
 ***** The Furies
 **** [#E] VI. Return to the Web Planet :1CD:
 **** X. The Five Companions :1CD:
-**** [#B] CC4.05 - Ringpullworld :1CD:
-**** I, Kamelion :Kamelion:Toulough:
+**** The Lost Stories
+***** [#B] 3.1 - The Elite :Nyssa:Tegan:Daleks:2CD:P2011:
+:PROPERTIES:
+:rating:   8.3
+:END:
+
+***** [#D] 3.3 - The Children of Seth :Nyssa:Tegan:2CD:P2011:
+**** NA12. Goth Opera :Nyssa:Tegan:P2024_07:3CD:
 *** audiobook
 **** [#D] DotD #5 Smoke and Mirrors :Adric:Nyssa:Tegan:1CD:plot_yes:
 **** [#C] ST6.9 Gardens of the Dead :Tegan:Nyssa:Turlough:
@@ -524,7 +526,7 @@ CLOSED: [2021-12-12 Sun 17:32]
 *** DONE short: A Fix with Sontarans
 CLOSED: [2024-01-07 Sun 20:27]
 
-*** NEXT special: Real Time :Cybermen:Evelyn:DW2023_Q4:
+*** LATER special: Real Time :Cybermen:Evelyn:DW2024_Q4:
 SCHEDULED: <2024-01-14 Sun>
 
 ** audio :🎧:
@@ -550,7 +552,7 @@ CLOSED: [2021-07-15 Thu 14:15]
 :rating:   7.8
 :END:
 
-**** DONE [#A] 40. Jubilee (9.0) :Daleks:plot_yes_dwg:已购:
+**** DONE [#A] 40. Jubilee (A⁺) :Daleks:plot_yes_dwg:已购:
 CLOSED: [2021-03-30 Tue 17:52]
 
 **** [#A] 43. Doctor Who and The Pirates (8.8) :plot_yes:
@@ -768,7 +770,7 @@ SCHEDULED: <2023-11-01 Wed>
 ***** 3QTR [#A] 27. The One Doctor (9.0) :Mel:plot_no:D2022_04_doctor:
 CLOSED: [2022-04-22 Fri 08:22] SCHEDULED: <2022-04-30 Sat>
 
-***** [#A] 48. Davros (9.0) :Mel:Davros:plot_yes:已购:
+***** [#A] 48. Davros (A⁺) :Mel:Davros:plot_yes:已购:
 :PROPERTIES:
 :rating:   9.0
 :END:
@@ -801,9 +803,9 @@ SCHEDULED: <2023-12-30 Sat>
 ***** [#D] 2. Purification
 ***** [#E] 3. Time-Burst
 **** 📂2023B. Purity Unbound :P2023_08:Mel:Hebe:
-***** 1. Girl in a Bottle
-***** 2. The Corruptions
-***** 3. The Wrong Side of History
+***** [#D] 1. Girl in a Bottle
+***** CANCEL [#F] 2. The Corruptions
+***** CANCEL [#F] 3. The Wrong Side of History
 *** MR with Charley :Charley:scripted:2CD:
 **** 3QTR [#B] 105. The Condemned (8.4) :Charley:plot_yes_dwg:DW2023_02_doctor:
 CLOSED: <2023-01-31 Tue 08:52> SCHEDULED: <2023-02-04 Sat>
@@ -870,63 +872,62 @@ SCHEDULED: <2023-03-01 Wed>
 **** [#B] 264. Scorched Earth :Flip:Constance:
 **** CANCEL [#E] 265. The Lovecraft Invasion :Flip:Constance:
 **** [#D] 273. Colony of Fear :Constance:
-*** BF misc
-**** MR misc :2CD:
-***** DONE [#A] 14. The Holy Terror (9.1) :Frobisher:plot_yes:D2021_05:
+*** MR misc :2CD:
+**** DONE [#A] 14. The Holy Terror (A⁺) :Frobisher:plot_yes:D2021_05:
 CLOSED: <2021-05-29 Sat 23:21>
 :PROPERTIES:
 :rating:   9.1
 :END:
 
-***** [#C] 51. The Wormery :Iris:
+**** [#C] 51. The Wormery :Iris:
 :PROPERTIES:
 :rating:   7.5
 :END:
 
-***** 2DONE [#A] 94b. Urgent Calls (8.8) :plot_yes:Viyrans:short:
+**** 2DONE [#A] 94b. Urgent Calls (8.8) :plot_yes:Viyrans:short:
 CLOSED: [2021-03-22 Mon 20:39]
 
-***** HALF [#D] 133. City of Spires :Jamie:DW2022_12_doctor:
+**** HALF [#D] 133. City of Spires :Jamie:DW2022_12_doctor:
 SCHEDULED: <2022-12-24 Sat 22:41>
 
-***** [#C] 134. The Wreck of the Titan (7.6) :Jamie:
-***** LATER [#A] 135. Legend of the Cybermen (8.5) :Cybermen:Jamie:Zoe:plot_yes:
-***** [#D] 199. Last of the Cybermen :Jamie:Zoe:
+**** [#C] 134. The Wreck of the Titan (7.6) :Jamie:
+**** LATER [#A] 135. Legend of the Cybermen (8.5) :Cybermen:Jamie:Zoe:plot_yes:
+**** [#D] 199. Last of the Cybermen :Jamie:Zoe:
 :PROPERTIES:
 :rating:   7.1
 :END:
 
-***** 3QTR [#C] 212. Vampire of the Mind :Master_bald:D2021_11_master:plot_no:
+**** 3QTR [#C] 212. Vampire of the Mind :Master_bald:D2021_11_master:plot_no:
 CLOSED: <2021-11-26 Fri 14:14> SCHEDULED: <2021-11-20 Sat>
 :PROPERTIES:
 :rating:   7.5
 :END:
 
-***** [#C] 239. Iron Bright (7.5)
-***** 3QTR [#C] 240. Hour of the Cybermen (7.8) :UNIT:Cybermen:D2022_06_doctor:
+**** [#C] 239. Iron Bright (7.5)
+**** 3QTR [#C] 240. Hour of the Cybermen (7.8) :UNIT:Cybermen:D2022_06_doctor:
 CLOSED: [2022-06-29 Wed 16:22] SCHEDULED: <2022-06-19 Sun>
 
-***** CANCEL [#E] 246. The Hunting Ground
-**** 6DA
-***** special/bonus
-****** [#E] The Ratings War
-****** [#D] Real Time :2CD:
-****** [#C] 33½ - The Maltese Penguin :1CD:
+**** CANCEL [#E] 246. The Hunting Ground
+*** 6DA
+**** special/bonus
+***** [#E] The Ratings War
+***** [#D] Real Time :2CD:
+***** [#C] 33½ - The Maltese Penguin :1CD:
 :PROPERTIES:
 :rating:   7.6
 :END:
 
-****** READY XII - Trial of the Valeyard. :Valeyard:1CD:bilibili:
+***** READY XII - Trial of the Valeyard. :Valeyard:1CD:bilibili:
 
  【【神秘博士广播剧】Bonus Release 012 The Trial of Valeyard 黑暗博士的审判-哔哩哔哩】 https://b23.tv/BP98ck4
 
-***** 📂The Sixth Doctor: The Last Adventure :Valeyard:P2015:1CD:scripted:plot_yes:
-****** 2DONE The End of the Line :Constance:Master:D2021_12_master:bilibili:
+**** 📂The Sixth Doctor: The Last Adventure :Valeyard:P2015:1CD:scripted:plot_yes:
+***** 2DONE The End of the Line :Constance:Master:D2021_12_master:bilibili:
 CLOSED: [2021-12-03 Fri 23:22] SCHEDULED: <2021-12-05 Sun>
 
  【【广播剧翻译】六任：最后的冒险 01 The end of the line-哔哩哔哩】 https://b23.tv/r4FWpnN
 
-****** HALF [#D] The Red House :Charley:bilibili:D2022_02_doctor:
+***** HALF [#D] The Red House :Charley:bilibili:D2022_02_doctor:
 SCHEDULED: <2022-02-17 Thu>
 :PROPERTIES:
 :rating:   7.0
@@ -934,7 +935,7 @@ SCHEDULED: <2022-02-17 Thu>
 
  【【广播剧翻译】照日光变成人的反向狼人 六任:最后的冒险 102 红房子-哔哩哔哩】 https://b23.tv/RLKffOm
 
-****** 3QTR [#B] Stage Fright :Flip:Jago:Litefoot:bilibili:DW2022_10_doctor:
+***** 3QTR [#B] Stage Fright :Flip:Jago:Litefoot:bilibili:DW2022_10_doctor:
 CLOSED: [2022-11-12 Sat 20:08] SCHEDULED: <2022-11-01 Tue>
 :PROPERTIES:
 :rating:   8.3
@@ -942,28 +943,29 @@ CLOSED: [2022-11-12 Sat 20:08] SCHEDULED: <2022-11-01 Tue>
 
  【【广播剧翻译】博士的重生场景重演？六任：最后的冒险 103 Stage Fright-哔哩哔哩】 https://b23.tv/NnRPoV3
 
-****** 3QTR [#B] 6DLA1.4 The Brink of Death :Mel:bilibili:DW2023_04_doctor:
+***** 3QTR [#B] 6DLA1.4 The Brink of Death :Mel:bilibili:DW2023_04_doctor:
 CLOSED: [2023-04-11 Tue 21:15] SCHEDULED: <2023-04-15 Sat>
 
  【【广播剧翻译】在重生29年后补的重生集 六任：最后的冒险  104 The Brink of Death-哔哩哔哩】 https://b23.tv/4Ozoj0K
 
 animation: https://m.youtube.com/watch?v=q_syF24kYek
 
-***** 📂2021. The Eleven :P2021_09:The_Eleven:Constance:1CD:
-****** [#D] 1. One for All
-****** [#B] 2. The Murder of Oliver Akkron
-****** [#B] 3. Elevation
-***** 📂2024A. The Quin Dilemma :P2024_03:
+**** 📂2021. The Eleven :P2021_09:The_Eleven:Constance:1CD:
+***** [#D] 1. One for All
+***** [#B] 2. The Murder of Oliver Akkron
+***** [#B] 3. Elevation
+**** 📂2024A. The Quin Dilemma :P2024_03:
 
 This anthology marked the 40th anniversary of Baker's debut as the Doctor.
 
-****** 1. The Exaltation :Mel:½CD:
-****** 2. Escape from Holy Island :Peri:1CD:
-****** 3. Sibling Rivalry :Flip:Constance:Sontarans:½CD:
-****** 4. Children of the Revolution :Sontarans:1CD:
-****** 5. The Thousand Year Thaw :Peri:½CD:
-****** 6. The Firstborn :1CD:
-***** TBR 2024B. The Trials of a Time Lord :Peri:Mel:P2024_08:
+***** 1. The Exaltation :Mel:½CD:
+***** 2. Escape from Holy Island :Peri:1CD:
+***** 3. Sibling Rivalry :Flip:Constance:Sontarans:½CD:
+***** 4. Children of the Revolution :Sontarans:1CD:
+***** 5. The Thousand Year Thaw :Peri:½CD:
+***** 6. The Firstborn :1CD:
+**** 2024B. The Trials of a Time Lord :Peri:Mel:P2024_08:3CD:
+*** BF misc
 **** Jago and Litefoot: Series 4
 ***** 2DONE Jago in Love
 ***** 2DONE Beautiful Things
@@ -1169,7 +1171,7 @@ CLOSED: [2024-02-13 Tue 15:21] SCHEDULED: <2024-01-06 Sat>
 
 http://www.drwhoguide.com/who_bf120.htm
 
-***** [#A] 140. A Death in the Family (9.5) :P2010:Ace:Hex:Evelyn:Nobody_No_One:the_Forge:plot_no:
+***** [#A] 140. A Death in the Family (A⁺) :P2010:Ace:Hex:Evelyn:Nobody_No_One:the_Forge:plot_no:
 ***** [#B] 159. Project: Destiny :Ace:Hex:The_Forge:Lysandra:P2010:
 ***** DONE [#A] 162. Protect and Survive (8.7) :P2012:Ace:Hex:plot_yes:WW3:Old_Ones:已购:
 CLOSED: [2021-03-22 Mon 20:20]
@@ -1274,7 +1276,7 @@ SCHEDULED: <2021-11-07 Sun>
 :rating:   7.7
 :END:
 
-***** 3QTR [#A] MR49. Master (9.0) :P2003:Master:Death:plot_yes:D2021_09_extra:
+***** 3QTR [#A] MR49. Master (A⁺) :P2003:Master:Death:plot_yes:D2021_09_extra:
 CLOSED: <2021-09-23 Thu 21:27> SCHEDULED: <2021-09-04 Sat>
 
 ***** 2DONE [#B] MR149. Robophobia (8.4) :P2011:Liv:Kaldor_androids:plot_no:D2022_03_doctor :2buy:
@@ -1347,7 +1349,7 @@ CLOSED: [2023-11-17 Fri 08:22] SCHEDULED: <2023-11-18 Sat>
 【【神秘博士广播剧翻译】RTD早期作品 Damaged Goods-哔哩哔哩】 https://b23.tv/5a9c2Hb
 
 **** TODO [#C] NA10 Original Sin :Benny:Roz:Chris:2CD:
-**** [#A] NA11. Cold Fusion :Roz:Chris:5th_Dr:plot_yes:
+**** [#A] NA11. Cold Fusion ↗ :Roz:Chris:5th_Dr:plot_yes:
 :PROPERTIES:
 :rating:   8.7
 :END:

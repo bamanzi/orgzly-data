@@ -479,7 +479,7 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 ***** 84. The Restoration of Catherine :Andy:Norton:
 **** series 10
 ***** 85. Art Decadence :The_Mara:P2024_07:
-***** TBR 86. End Game :Tosh:
+***** 86. End Game :Tosh:
 ***** TBR 87. The Hollow Choir
 ***** TBR 88. Widdershins
 *** specials
@@ -677,46 +677,46 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
 ***** [#C] 7.12 The Apocalypse Starts at 6 PM
 *** The Lives of Captain Jack :🎧:Jack:1CD:
 **** vol.1 :P2017:
-***** HALF [#D] The Year After I Died
+***** HALF [#D] 1.1 The Year After I Died
       :PROPERTIES:
       :rating:   7.2
       :END:
 
-***** HALF [#C] Wednesdays For Beginners
+***** HALF [#C] 1.2 Wednesdays For Beginners
       :PROPERTIES:
       :rating:   7.6
       :END:
 
-***** [#D] One Enchanted Evening
+***** [#D] 1.3 One Enchanted Evening
       :PROPERTIES:
       :rating:   7.4
       :END:
 
-***** DONE [#C] Month 25
+***** DONE [#C] 1.4 Month 25
       CLOSED: <2018-08-19 Sun 21:58>
       :PROPERTIES:
       :rating:   7.7
       :END:
 
 **** vol.2 :P2019:
-***** [#C] Piece of Mind :6th_Dr:
+***** [#B] 2.1 Piece of Mind :6th_Dr:
       :PROPERTIES:
-      :rating:   7.8
+      :rating:   8.0
       :END:
 
-***** [#D] What Have I Done?
+***** [#E] 2.2 What Have I Done?
       :PROPERTIES:
-      :rating:   7.2
+      :rating:   6.5
       :END:
 
-***** CANCEL [#E] Driving Miss Wells
+***** CANCEL [#E] 2.3 Driving Miss Wells
       CLOSED: [2021-04-23 Fri 23:05]
       :PROPERTIES:
       :rating:   6.3
       :END:
 
 **** vol.3 :P2020:
-***** HALF [#B] 3.1 Crush :D2021_07_extra:Jackie:
+***** HALF [#A] 3.1 Crush :D2021_07_extra:Jackie:
       :PROPERTIES:
       :rating:   8.2
       :END:
@@ -727,10 +727,10 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
       :rating:   8.0
       :END:
 
-***** DONE [#A] R&J :River:bilibili:
+***** DONE [#A] 3.3 R&J (9.4) :River:bilibili:
       CLOSED: <2020-09-21 Mon 20:30>
       :PROPERTIES:
-      :rating:   9.5
+      :rating:   9.4
       :END:
 
 【【神秘博士/火炬木广播剧翻译】R&J（博士、上校和宋江的超时空三角恋情！）-哔哩哔哩】https://b23.tv/IZfO0B
@@ -787,8 +787,11 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
 ***** [#A] 4.1 My Guest Tonight
 ***** [#C] 4.2 Lola
 ***** [#A] 4.3 Less Majesty
-**** TW1 vol.5: I Hate Mondays :P2024_05:
+**** TW1 vol.5: I Hate Mondays :P2024_05:plot_yes:
 ***** 5.1 Dinner for Yvonne
+
+https://tardis.wiki/wiki/Dinner_for_Yvonne_(audio_story)
+
 ***** 5.2 By Royal Appointment
 ***** 5.3 Nerves
 *** Torchwood Soho
@@ -1102,7 +1105,7 @@ Roberts Master
 ***** [#A] 12.3 Dead Man Talking
 ***** [#E] 12.4 The Wife of River Song
 *** The Death and Life of River Song
-**** TBR DLRS1: Last Words :P2024_08:
+**** DLRS1: Last Words :P2024_08:
 ***** 1.1 Apokalypsis
 ***** 1.2 Fate & Fatality
 ***** 1.3 The Black Hours
@@ -1673,7 +1676,7 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
 **** [#B] 2.3 - The Eye of Horus
 **** [#C] 2.4 - The Tears of Isis
 *** vol.3 The Unbound Universe :unbound_universe:Doctor_unbound:P2016:
-**** READY Unbound #2: Sympathy for the Devil :bilibili:Master_unbound:
+**** HALF Unbound #2: Sympathy for the Devil :bilibili:Master_unbound:
 
 【【神秘博士广播剧熟肉】Unbound: Sympathy for the Devil 怜悯恶魔-哔哩哔哩】 https://b23.tv/d9yBioC
 
@@ -1784,10 +1787,10 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
 **** 3QTR [#B] 7.4 Auf Wiedersehen 再见 :DW2023_03_doctor:
      CLOSED: [2023-03-23 Thu 21:40] SCHEDULED: <2023-03-25 Sat>
 
-*** The Eternity Club 1 :P2024_09:
+*** TBR The Eternity Club 1 :P2024_09:
 **** 1.1 The Armageddon Chair
 **** 1.2 Triumph of the Drahvin
-*** The Eternity Club 2 :P2024_10:
+*** TBR The Eternity Club 2 :P2024_10:
 **** 2.1 Rhubarb
 **** 2.2 Please Retain Your Ticket for the Cloakroom
 ** Treasury :P2018:🗣:
@@ -1810,7 +1813,7 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
 *** [#A] 2.3 The Angel of History
 * #Master
 ** Missy :Master_missy:🎧:
-*** Missy series 1
+*** 📂Missy series 1
 **** START [#C] 1.1 A Spoonful of Mayhem :D2021_07_extra:
      :PROPERTIES:
      :rating:   7.7
@@ -1823,7 +1826,7 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
 
 【「重製版熟肉神秘博士廣播劇」Missy 102 Divorced, Beheaded, Regenerated-哔哩哔哩】 https://b23.tv/imPAE6N
 
-**** 3QTR [#A] MISSY1.3 - The Broken Clock :D2021_10_extra:plot_no:bilibili:
+**** 3QTR [#A] 1.3 - The Broken Clock :D2021_10_extra:plot_no:bilibili:
      CLOSED: [2021-11-27 Sat 08:52] DEADLINE: <2021-11-30 Tue> SCHEDULED: <2021-11-13 Sat>
      :PROPERTIES:
      :rating:   8.6
@@ -1831,13 +1834,13 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
 
 【【神秘博士广播剧】Missy 103 The broken clock 破碎时钟-哔哩哔哩】 https://b23.tv/R2cqU0o
 
-**** [#E] +Missy1.4 - The Belly of the Beast+ :D2021_11_master:
+**** [#E] +1.4 - The Belly of the Beast+ :D2021_11_master:
      SCHEDULED: <2021-11-20 Sat>
      :PROPERTIES:
      :rating:   6.8
      :END:
 
-*** Missy series 2
+*** 📂Missy series 2
 **** HALF [#A] 2.1 - The Lumiat :D2022_05_spinoffs:plot_yes:bilibili:
      SCHEDULED: <2022-05-21 Sat>
      :PROPERTIES:
@@ -1852,7 +1855,7 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
      :rating:   6.8
      :END:
 
-**** HALF [#D] Missy2.3 - Treason and Plot :plot_cast:DW2023_04_spinoffs:
+**** HALF [#D] 2.3 - Treason and Plot :plot_cast:DW2023_04_spinoffs:
      SCHEDULED: <2023-04-16 Sun>
      :PROPERTIES:
      :rating:   7.2
@@ -1864,26 +1867,26 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
      :rating:   8.2
      :END:
 
-*** Missy and the Monk :P2021:
+*** 📂Missy and the Monk :P2021:
 **** [#D] 3.1 Body and Soulless
 **** [#E] 3.2 War Seed
 **** [#D] 3.3 Two Monks, One Mistress
-*** Bad Influence :P2024_05:
+*** 📂Bad Influence :P2024_05:
 **** 4.1 Missy and the Time Assassin
 **** 4.2 Bad Apple Brigade
 **** 4.3 The Baron Robbers
-*** 📕The Missy Chronicles :anthology:📄:
-**** Dismemberment :hanzify:
+** 📕The Missy Chronicles :anthology:📄:
+*** Dismemberment :hanzify:
 
 http://670641333.lofter.com/post/1dfa202c_efdc1153
 
 https://tieba.baidu.com/p/5863165791
 
-**** Lords and Masters
-**** Teddy Sparkles Must Die!
-**** The Liar, the Glitch and the War Zone
-**** Girl Power! :12th_Dr:Nardole:
-**** Alit in Underland :Master_saxon:
+*** Lords and Masters
+*** Teddy Sparkles Must Die!
+*** The Liar, the Glitch and the War Zone
+*** Girl Power! :12th_Dr:Nardole:
+*** Alit in Underland :Master_saxon:
 ** Masterful :🎧:
 *** READY Masterful :bilibili:
 
@@ -1910,7 +1913,7 @@ https://tieba.baidu.com/p/5863165791
     :rating:   7.9
     :END:
 
-*** Master! vol.1 :plot_yes:
+*** 📂Master! vol.1 :plot_yes:
 **** 3QTR [#B] 1.1 Faustian :DW2022_07_extra:
      CLOSED: [2022-07-21 Thu 19:49] SCHEDULED: <2022-07-10 Sun>
      :PROPERTIES:
@@ -1931,11 +1934,11 @@ https://tieba.baidu.com/p/5863165791
 
 【【神秘博士广播剧】MASTER! 103 复仇-哔哩哔哩】 https://b23.tv/rYJARj9
 
-*** Master! vol.2 Nemesis Express :P2022_10:
+*** 📂Master! vol.2 Nemesis Express :P2022_10:
 **** [#F] 2.1 - Nemesis Express
 **** [#E] 2.2 - Capture the Chronovore!
 **** [#F] 2.3 - Passion
-*** Master! vol.3 Planet Doom :P2024_02:
+*** 📂Master! vol.3 Planet Doom :P2024_02:
 **** 3.1 Basilisk
 **** 3.2 Axos Rising
 **** 3.3 Hellbound
@@ -2474,16 +2477,16 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
 *** [#C] 2.2 Power of the Dominators
 *** [#C] 2.3 The War Factory
 *** [#C] 2.4 Ten Minutes in Hell
-** Nemesis 3: Objective: Earth :P2022_11:
-*** 3.1 The Vulpreen Encounter
-*** 3.2 By Jacqui McGee
-*** 3.3 Axos Unleashed
-*** 3.4 Time of the Vulpreen
-** Nemesis 4: Masters of Time :P2023_07:
-*** 4.1 One Way or Another
-*** 4.2 Traitors' Gate
-*** 4.3 The Destiny Labyrinth
-*** 4.4 True Nemesis :Master_missy:
+** 📂Nemesis 3: Objective: Earth :P2022_11:
+*** [#D] 3.1 The Vulpreen Encounter
+*** [#B] 3.2 By Jacqui McGee
+*** [#C] 3.3 Axos Unleashed
+*** [#D] 3.4 Time of the Vulpreen
+** 📂Nemesis 4: Masters of Time :P2023_07:
+*** [#E] 4.1 One Way or Another
+*** [#E] 4.2 Traitors' Gate
+*** [#C] 4.3 The Destiny Labyrinth
+*** [#C] 4.4 True Nemesis :Master_missy:
 * Kaldor City / The Robots :🎧:Kaldor:
 ** Kaldor City :plot_yes_dwg:
 *** HALF [#B] KC1. Occam's Razor :D2022_06_spinoffs:
@@ -2582,7 +2585,7 @@ http://www.drwhoguide.com/kaldor03.htm
 **** [#C] 6.1 Force of Nature
 **** [#B] 6.2 Face to Face
 **** [#E] 6.3 The Final Hour
-* The Paternoster Gang :TPG:
+* The Paternoster Gang :TPG:Vastra:Jenny_Flint:Strax:
 ** audio :🎧:
 *** PG: Heritage 1 :P2019:
 **** [#D] (Eight of March #3) Inside Every Warrior (7.2)
@@ -2824,6 +2827,7 @@ https://doctorwho.guide/sj_06.htm
 *** DONE 1x05 Brave-ish Heart
     CLOSED: [2024-01-28 Sun 21:47]
 
+*** LATER 1x06 :DW2024_Q4:
 ** audio
 * misc spin-offs (classic)
 ** K9 and Company
@@ -2959,15 +2963,15 @@ https://doctorwho.guide/sj_06.htm
 【【神秘博士广播剧熟肉】The Dimension Cannon 203 The Rogue Planet 流浪行星-哔哩哔哩】 https://b23.tv/T3YU8OJ
 
 *** 📂RTDC vol.3 Trapped :P2023_09:
-**** READY 3.1 Sink or Swim :bilibili:
+**** READY [#E] 3.1 Sink or Swim :bilibili:
 
 【【神秘博士广播剧熟肉】The Dimension Cannon 301 Sink or Swim 听任沉浮-哔哩哔哩】 https://b23.tv/JxOvW0I
 
-**** READY 3.2 The Lower Road :bilibili:
+**** READY [#C] 3.2 The Lower Road :bilibili:
 
 【【神秘博士广播剧熟肉】The Dimension Cannon 302 The Lower Road 黑暗之路-哔哩哔哩】 https://b23.tv/PqItLGk
 
-**** READY 3.3 The Good Samaritan :bilibili:
+**** READY [#B] 3.3 The Good Samaritan :bilibili:
 
 【【神秘博士广播剧熟肉】The Dimension Cannon 303 The Good Samaritan 好撒玛利亚人-哔哩哔哩】 https://b23.tv/WS4osiT
 
@@ -3068,7 +3072,7 @@ From Donna's perspective, the anthology is set after /Forest of the Dead/.
 *** 📂vol.1 The Eighth of March :P2019:
 **** START [#D] 1.1 Emancipation :River:Leela:
 **** CANCEL [#F] 1.2 The Big Blue Book :Benny:Ace:7th_Dr:
-**** 3QTR [#D] EoM1.3 Inside Every Warrior :Vastra:Jenny:Strax:TPG:DW2023_04_spinoffs:
+**** 3QTR [#D] 1.3 Inside Every Warrior :Vastra:Jenny_Flint:Strax:TPG:DW2023_04_spinoffs:
      CLOSED: [2023-04-26 Wed 08:34] SCHEDULED: <2023-04-16 Sun>
      :PROPERTIES:
      :rating:   7.2
@@ -3078,7 +3082,7 @@ From Donna's perspective, the anthology is set after /Forest of the Dead/.
 *** 📂vol.2 Protectors of Time :P2022_03:
 **** [#D] 2.1 Stolen Futures :Romana_2:K9:Biroc:
 **** [#E] 2.2 Prism :Christina:Jenny:
-**** [#C] 2.3 The Turn of the Tides :Jo:Rani:
+**** [#D] 2.3 The Turn of the Tides :Jo:Rani:
 *** 📂vol.3 Strange Chemistry :P2023_03:
 **** [#C] 3.1 - A Ghost of Alchemy :4th_Dr:Leela:
 **** [#E] 3.2 - Fairies at the Bottom of the Garden :Master_missy:

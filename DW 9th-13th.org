@@ -9,11 +9,11 @@ CLOSED: [2022-06-30 Thu 08:12]
 
 ** audio :🎧:
 *** 9DA
-**** S1.1 Ravagers :P2021_05:已购:
+**** 📂S1.1 Ravagers :P2021_05:已购:
 ***** START 1.1 Sphere of Freedom (7.2)
 ***** START 1.2 Cataclysm (7.0)
 ***** START 1.3 Food Fight (6.8)
-**** S1.2 Respond to All Calls :P2021_05:
+**** 📂S1.2 Respond to All Calls :P2021_05:
 ***** HALF [#C] 9DA 2.1 Girl, Deconstructed :D2021_08_dr:plot_yes:bilibili:
 
 【【神秘博士广播剧翻译】女孩离奇失踪，九叔英雄救美 九任冒险集 201 被解构的女孩-哔哩哔哩】 https://b23.tv/dXGOnq7
@@ -28,7 +28,7 @@ SCHEDULED: <2021-11-04 Thu>
 
 【【广播剧翻译】墓地星球中针对博士的阴谋 九任冒险集 203 Planet of the End-哔哩哔哩】 https://b23.tv/uwJY0f7
 
-**** S1.3 Lost Warriors :P2021_11:
+**** 📂S1.3 Lost Warriors :P2021_11:
 ***** [#E] 3.1. The Hunting Season
 :PROPERTIES:
 :rating:   6.8
@@ -47,7 +47,7 @@ CLOSED: [2022-05-19 Thu 08:51] SCHEDULED: <2022-05-07 Sat>
 
 【【广播剧翻译】大都会电影里出现了赛博人？九任冒险集 303 Monsters in Metropolis-哔哩哔哩】 https://b23.tv/ayLbFDQ
 
-**** S1.4 Old Friends :P2021_11:
+**** 📂S1.4 Old Friends :P2021_11:
 ***** HALF [#C] 4.1 Fond Farewell :bilibili:DW2022_09_doctor:
 SCHEDULED: <2022-09-21 Wed>
 :PROPERTIES:
@@ -70,7 +70,7 @@ SCHEDULED: <2022-07-23 Sat>
 :rating:   8.2
 :END:
 
-**** S2.1 Back to Earth :P2022_05:
+**** 📂S2.1 Back to Earth :P2022_05:
 ***** 2DONE [#B] 5.1 Station to Station :bilibili:DW2023_01_doctor:
 CLOSED: [2023-01-23 Mon 08:22] SCHEDULED: <2023-01-10 Tue 08:39>
 
@@ -84,7 +84,7 @@ CLOSED: [2023-03-21 Tue 08:07] SCHEDULED: <2023-03-11 Sat>
 
 【【神秘博士广播剧熟肉】Back to Earth 503 Auld Lang Syne 逝去已久的时光-哔哩哔哩】 https://b23.tv/1NrKKIN
 
-**** S2.2 Into the Stars :P2022_08:
+**** 📂S2.2 Into the Stars :P2022_08:
 ***** DONE [#A] _6.1 Salvation Nine_ :Sontarans:bilibili:plot_yes:DW2023_07_doctor:
 CLOSED: [2023-07-23 Sun 12:02] SCHEDULED: <2023-07-21 Fri 13:17>
 
@@ -96,7 +96,7 @@ SCHEDULED: <2023-09-24 Sun>
 
 【【神秘博士广播剧熟肉】Into the Stars 603 Break the Ice 破冰-哔哩哔哩】 https://b23.tv/FgizL7a
 
-**** S2.3 Hidden Depth :P2022_11:
+**** 📂S2.3 Hidden Depth :P2022_11:
 ***** [#E] +7.1 The Seas of Titan+
 ***** [#D] 7.2 Lay Down Your Arms
 ***** 2DONE [#A] 7.3 Flatpack :Liv:Tania:bilibili:DW2023_11_doctor:
@@ -142,11 +142,11 @@ CLOSED: [2024-07-16 Tue 08:34] SCHEDULED: <2024-06-22 Sat>
 
 【【神秘博士广播剧熟肉】Travel in Hope 306 Run 竞选-哔哩哔哩】 https://b23.tv/MeDKqt6
 
-**** S3.3 Buried Threats :P2024_02:
-***** 3.3.1 A Theatre of Cruelty
+**** 📂S3.3 Buried Threats :P2024_02:
+***** 3.3.1 A Theatre of Cruelty :scripted:
 ***** 3.3.2 The Running Men
 ***** 3.3.3 Ancient History
-**** S3.4 Star-Crossed :River:P2024_05:
+**** 📂S3.4 Star-Crossed :River:P2024_05:
 ***** 3.4.1 Swipe Right
 ***** 3.4.2 Face of the Apocalypse
 ***** 3.4.3 Archipelago
@@ -191,10 +191,10 @@ SCHEDULED: <2022-11-29 Tue>
 
 **** [#B] ST12.4 Identity Check :P2023_02:Rose:
 *** fan-made :fan_made:
-**** START 0.3 - What I Did on My Christmas Holidays by Sally Sparrow :short:D2022_03_doctor:week4:🗣:
+**** START 0.3 - What I Did on My Christmas Holidays by Sally Sparrow 🗣 :short:D2022_03_doctor:
 SCHEDULED: <2022-03-19 Sat>
 
-**** TODO 0.4 - The Beast of Babylon
+**** TODO 0.4 - The Beast of Babylon 🗣
 **** 3QTR 0.5 Exhausted Supplies :12th_Dr:D2021_12_doctor:week2:bilibili:
 CLOSED: [2021-12-14 Tue 20:07] DEADLINE: <2021-12-08 Wed 20:05> SCHEDULED: <2021-12-10 Fri>
 
@@ -253,7 +253,7 @@ https://link.zhihu.com/?target=http%3A//id24601.lofter.com/post/1cce6a8f_1c757b0
 ***** DONE Art Attack (DWM358) :Rose:
 ***** DONE The Cruel Sea (DWM359-362) :Rose:
 ***** DONE A Groatsworth of Wit (DWM363-364) :Rose:
-**** NOW Monstrous Beauty (DWM556-558) :Rose:DW2023_Q4:
+**** LATER Monstrous Beauty (DWM556-558) :Rose:DW2025:
 SCHEDULED: <2023-12-31 Sun>
 
 *** Titan :Titan_Comics:
@@ -502,10 +502,13 @@ SCHEDULED: <2022-04-29 Fri>
 :rating:   7.5
 :END:
 
-***** [#B] Out of Time #3 Wink :6th_Dr:Weeping_Angels:P2022_06:DW2024_Q3c_doctor:
+***** READY [#B] Out of Time #3 Wink :6th_Dr:Weeping_Angels:P2022_06:bilibili:DW2024_Q3c_doctor:
+SCHEDULED: <2024-10-12 Sat>
 :PROPERTIES:
 :rating:   8.0
 :END:
+
+【【神秘博士广播剧熟肉】Out of Time 3 Wink 眨眼-哔哩哔哩】 https://b23.tv/Zgi9tmr
 
 **** 📂Tenth Doctor Classic Companions :P2022_09:
 ***** 2DONE [#C] 1. Splinters :Leela:bilibili:DW2023_12_doctor:
@@ -866,10 +869,12 @@ SCHEDULED: <2024-07-13 Sat>
 
 【【神秘博士广播剧熟肉】All of Time and Space 402 The Yearn 渴望-哔哩哔哩】 https://b23.tv/BPVZGsy
 
-**** [#A] 4.3 Curiosity Shop :P2023_02:
+**** READY [#A] 4.3 Curiosity Shop :P2023_02:bilibili:
 :PROPERTIES:
 :rating:   8.6
 :END:
+
+【【神秘博士广播剧熟肉】All of Time and Space 403 Curiosity Shop 古董店-哔哩哔哩】 https://b23.tv/bFj2VgO
 
 **** [#A] 4.4 Broken Hearts (9.1) :P2023_11:
 :PROPERTIES:
@@ -991,10 +996,10 @@ CLOSED: <2024-01-02 Tue 13:03> SCHEDULED: <2023-12-31 Sun>
 ***** DONE Planet Bollywood (DWM424) :Amy:DW2023_Q4:
 CLOSED: [2024-02-02 Fri 13:22] SCHEDULED: <2024-01-21 Sun>
 
-***** NOW The Golden Ones (DWM425-428) :Amy:Axos:DW2023_Q4:
+***** The Golden Ones (DWM425-428) :Amy:Axos:
 SCHEDULED: <2024-01-21 Sun>
 
-***** The Professor, the Queen and the Bookshop (DWM429) :Amy:DW2023_Q4:
+***** The Professor, the Queen and the Bookshop (DWM429) :Amy:
 ***** The Screams of Death (DWM430-431) :Amy:
 ***** Do Not Go Gentle Into That Good Night (DWM432) :Amy:
 ***** Forever Dreaming (DWM433-434) :Amy:
@@ -1278,7 +1283,7 @@ CLOSED: <2022-11-06 Sun>
 :rating:   3.9
 :END:
 
-*** READY [#B] The Shining Man 闪光的人 (3.87) :己购:DW2022_Q4:
+*** LATER [#B] The Shining Man 闪光的人 (3.87) :己购:DW2024_Q4:
 :PROPERTIES:
 :rating:   3.87
 :END:
@@ -1415,7 +1420,7 @@ CLOSED: [2023-12-14 Thu 13:48] SCHEDULED: <2023-12-17 Sun>
 ***** DONE The White Dragon (DWM559-562) :Graham:Yaz:Ryan:DW2023_Q4:
 CLOSED: [2023-12-19 Tue 13:12] SCHEDULED: <2023-12-23 Sat>
 
-***** NOW The Forest Bride (DWM570-571) :Yaz:DW2023_Q4:
+***** LATER The Forest Bride (DWM570-571) :Yaz:DW2025:
 SCHEDULED: <2024-01-07 Sun>
 
 ***** It's Behind You (DWM572) :Yaz:Dan:
@@ -1435,7 +1440,7 @@ CLOSED: [2020-07-05 Sun 17:11]
 :rating:   4.02
 :END:
 
-*** NEXT [#C] Combat Magicks 战斗魔法 :DW2023_Q4:
+*** [#C] Combat Magicks 战斗魔法
 SCHEDULED: <2024-01-13 Sat>
 :PROPERTIES:
 :goodreads: 3.72
@@ -1457,7 +1462,7 @@ https://tieba.baidu.com/p/6592330173
 http://tieba.baidu.com/p/6610135518?share=9105&fr=share&see_lz=0&sfc=copy&client_type=2&client_version=11.1.8.2&st=1593736160&unique=58A318B2D019E66209DFAEB93AC228AE
 
 * 14th Doctor
-** tv :DW2023_Q4:
+** tv
 *** DONE Destination: Skaro (short) :P2023_11:
 CLOSED: [2023-11-26 Sun 08:15]
 

@@ -47,7 +47,7 @@ CLOSED: <2020-09-19 Sat 13:56>
 :rating:   6.8
 :END:
 
-***** DONE [#A] 029 - The Chimes Of Midnight (9.4) :bilibili:
+***** DONE [#A] 029 - The Chimes Of Midnight (A⁺) :bilibili:
 CLOSED: [2020-09-24 Thu 08:32]
 :PROPERTIES:
 :rating:   9.4
@@ -247,7 +247,7 @@ SCHEDULED: <2022-08-31 Wed>
 :rating:   7.8
 :END:
 
-***** [#B] CDNM3.4 If I Should Die Before I Wake ↗ :plot_yes:bilibili:
+***** READY [#B] CDNM3.4 If I Should Die Before I Wake ↗ :plot_yes:bilibili:
 ***** SvsR #1. The Battle of Giant's Causeway :P2024_01:Crizz:
 *** with Mary
 **** 123. The Company of Friends :short:
@@ -433,7 +433,7 @@ CLOSED: [2020-10-30 Fri 18:15]
 ***** DONE [#A] 2.4 Eyes of the Master (8.6) :Liv:Molly:Master_bald:D2021_07_extra:
 CLOSED: <2021-07-16 Fri 16:32>
 
-**** Dark Eyes vol.3 :Master_bald:Liv:
+**** 📂Dark Eyes vol.3 :Master_bald:Liv:
 ***** 2DONE [#C] 3.1 The Death of Hope (7.5) :D2021_07_extra:
 CLOSED: [2021-07-27 Tue 23:10]
 
@@ -700,7 +700,7 @@ SCHEDULED: <2024-07-27 Sat>
 ****** 4.3 The Keys of Baker Street
 ****** 4.4 Best Year Ever
 **** 📂What Lies Inside :P2022_11:plot_yes:
-***** [#A] Paradox of the Daleks :2CD:bilibili:
+***** READY [#A] Paradox of the Daleks :2CD:bilibili:
 
 【【广播剧汉化】 旋涡中的莫比乌斯环 Paradox of the Daleks 上-哔哩哔哩】 https://b23.tv/6iEGooT
 
@@ -726,6 +726,7 @@ SCHEDULED: <2024-07-27 Sat>
 ***** Twenty-Four Doors in December
 ***** The Empty Man
 ***** Winter of the Demon
+**** TBR The Stuff of Legend :Charley:Master_bald:P2024_09:
 *** 8D Time War ↗
 **** DONE SST01 Museum Peace
 **** DONE [#C] ST7.9 - A Heart on Both Sides :Nyssa:
@@ -780,7 +781,7 @@ CLOSED: [2020-09-23 Wed 12:53]
 http://blog.sina.cn/dpool/blog/s/blog_6c7775810101a2hb.html?type=2
 
 ** novels
-*** NEXT [#A] Alien Bodies :hanzify:DW2023_Q4:
+*** [#A] Alien Bodies :hanzify:DW2025:
 SCHEDULED: <2024-01-31 Wed>
 :PROPERTIES:
 :goodreads: 4.2
@@ -1484,9 +1485,9 @@ CLOSED: [2020-09-23 Wed 12:53]
 *** DONE COMIC: The Forgotten (8D part)
 CLOSED: [2020-09-23 Wed 12:53]
 
-*** TBR Dark Gallifrey 2: The War Master :Master_war:War_Dr:Benny:Unbound_Dr:Captain_John:P2024_08:
+*** Dark Gallifrey 2: The War Master :Master_war:War_Dr:Benny:Unbound_Dr:Captain_John:P2024_08:
 *** The War Doctor Rises
 **** TBR WDR1: Morbius the Mighty :P2024_08:War_Dr:
-*** TBR Susan's War vol.2 :Susan:War_Dr:P2024_08:
+*** Susan's War vol.2 :Susan:War_Dr:P2024_08:
 **** 2.1 The Lost Son
 **** 2.2 The Golden Child
