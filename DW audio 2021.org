@@ -1731,78 +1731,74 @@ http://drwhoguide.com/who_bf33.htm
 *** HALF [#C] UNIT2.1 Power Cell
 *** HALF [#B] J&L9.1 The Flying Frenchmen :Jago:Litefoot:
 *** 3QTR [#B] WM7.3 Boundaries :Master_war:bilibili:
-*** [#C] Rose2.1 Saltwater :Rose:bilibili:
+*** READY [#C] Rose2.1 Saltwater :Rose:bilibili:
 *** HALF [#B] BSS1.1 Ever After Happy
 ** DOING dw2024-q3c-doctor
-*** [#A] NA11. Cold Fusion :5th_Dr:7th_Dr:Roz:Chris:Adric:Nyssa:Tegan:3CD:plot_yes:
+*** HALF [#A] NA11. Cold Fusion :5th_Dr:7th_Dr:Roz:Chris:Adric:Nyssa:Tegan:3CD:plot_yes:
     :PROPERTIES:
     :rating:   8.7
     :END:
 
-*** [#B] Out of Time #3 Wink :10th_Dr:6th_Dr:Weeping_Angels:P2022_06:
+*** [#B] Out of Time #3 Wink :10th_Dr:6th_Dr:Weeping_Angels:P2022_06:bilibili:
     :PROPERTIES:
     :rating:   8.0
     :END:
 
 *** [#B] ST11.4 Death Will Not Part Us 🗣 :8th_Dr:War_Dr:9th_Dr:time_war:
-*** START [#C] 12DC1.4 Field Trip 🗣 :12th_Dr:Osgood:
+*** START [#C] 12DC1.4 Field Trip 🗣 :12th_Dr:Osgood:plot_yes:
 ** DOING dw2024-q3c-spinoffs
-*** [#A] TW special 3: Believe :P2018:3CD:plot_yes:
+*** DONE [#A] TW special 3: Believe :P2018:3CD:plot_yes:
     :PROPERTIES:
     :rating:   8.7
     :END:
 
 *** [#A] BS1.5 Just War :Benny:WW2:2CD:plot_yes_dwg:
-*** [#D] CY2.1 - Young Winston :Churchill:Vastra:11th_Dr:
-*** [#B] Peladon1. The Ordeal of Peladon :King_Peladon:14th_Dr:
+*** HALF [#D] CY2.1 - Young Winston :Churchill:Vastra:11th_Dr:
+*** HALF [#B] Peladon1. The Ordeal of Peladon :King_Peladon:14th_Dr:plot_yes:
+*** [#B] Gallifrey 3.5 - Panacea :Romana_2:Leela:
 *** READY [#A] Unbound5. Deadline :bilibili:
-** FIXME dw2024-q3c-pending
-*** FIXME [#D] WoDW#4 Second Sight :6th_Dr:Romana_2:Leela:Yates:
-*** FIXME [#A] BBV21 Punchline :plot_yes_dwg:
-*** FIXME TW Soho #2: Ashenden :Norton:Andy:Lizbeth:P2021:plot_yes:
 ** dw2024-q4a-doctor
 *** [#B] EA5.2 An Ideal World :1st_Dr:Vicki:Steven:
-*** FIXME [#D] CDNM3.1 The House that Hoxx Built :3rd_Dr:Sarah:
-*** [#B] MR104 The Bride of Peladon :5th_Dr:Peri:Erimem:
-*** [#C] 268B. Displaced :7th_DR:Ace:Hex:plot_no:
-*** [#D] 9DA7.2 Lay Down Your Arms :9th_DR:
+*** HALF [#C] 2023B Intelligence for War (part1~2) :3rd_Dr:Liz:3CD:
+*** FIXME [#C] CC4.05 - Ringpullworld :5th_Dr:Turlough:
+*** [#B] MR159. Project: Destiny :7th_Dr:Ace:Hex:The_Forge:Lysandra:P2010:
+*** [#D] 9DA7.2 Lay Down Your Arms :9th_Dr:
 *** [#A] 11DC4.3 Curiosity Shop :11th_Dr:
 ** dw2024-q4a-spinoffs
-*** [#C] TW7.4 Moderation :Tyler:
-*** [#C] TW69 Double / TW70 Double part 2
+*** FIXME [#A] 7.6 At Her Majesty’s Pleasure :Yvonne:Andy:
+*** FIXME [#C] TW69 Double
 *** [#D] UNIT2.2 Death in Geneva
-*** FIXME PG/JL: [#B] 9.2 - The Devil's Dicemen
-*** [#C] BSBOX 2.1 Brand Management :Benny:
+*** FIXME [#B] JL9.2 - The Devil's Dicemen
+*** HALF [#C] River4.2 - Kings of Infinite Space :River:
 *** [#A] WM7.4 The Last Line :Master_war:10th_Dr:
 *** [#C] Rose2.2 Now is the New Dark :Rose:
-*** FIXME [#B] Gallifrey 3.5 - Panacea :Romana_2:Leela:
+** dw2024-q4a-pending
+*** [#C] 268B. Displaced :7th_DR:Ace:Hex:plot_no:
 * pending
 ** odd
 *** [#B] LS2.1b The Fragile Yellow Arc of Fragrance (Susan, Ian, Barbara) :plot_yes:
 *** 3DA6.1 Poison of the Daleks (Jo)
-*** [#C] CC4.05 - Ringpullworld :5th_Dr:Turlough:
 *** [#C] DotD#9. Night of the Whisper
 *** Let it Snow :11th_Dr:
 
 Tales of Trenzalore - 01
 
 ** even
-*** [#A] CC14.1 The Death of the Daleks                        :2nd_Dr:Jamie:
-
+*** [#A] CC14.1 The Death of the Daleks :2nd_Dr:Jamie:
 *** FIXME [#B] 4DA 8.7/8.8 The Perfect Prisoners :Ann:
-
 *** [#C] 4DA7.7/7.8 - Kill the Doctor! / The Age of Sutekh  (Leela, Sutehk)
-*** WoDW#4 Second Sight :Romana_2:Leela:Yates:
-*** [#C] MR194. The Rani Elite (6th, Peri) / [#C] MR157. The Fourth Wall (Flip) 2cd
+*** [#C] MR194. The Rani Elite (6th, Peri)
+*** SvsR#1. The Battle of Giant's Causeway :8th_Dr:Charley:Crizz:
 *** FIXME [#C] ST8.6 The Siege of Big Ben :10th_Dr:plot_yes:Jackie:
 ** spinoffs
-*** JACK2.1 Piece of Mind                                              :Jack:
-
+*** JACK2.1 Piece of Mind :Jack:
+*** [#C] TW2.2 - Blind Summit :Yvvone:Ianto:
 *** HALF [#B] Gallifrey 6.3 -Ascension
+*** FIXME [#D] WoDW#4 Second Sight :6th_Dr:Romana_2:Leela:Yates:
+*** FIXME [#A] BBV21 Punchline :plot_yes_dwg:
+*** FIXME TW Soho #2: Ashenden :Norton:Andy:Lizbeth:P2021:plot_yes:
 *** [#C] River 6.4 The Talents of Grel :River:Jago:
 *** [#C] River 8.2 A Brave New World :River:10th_Dr:
-*** TLV: Lesser Evils :Master_tremas:
 *** [#D] WM8.2 - The Shadow Master
 *** [#C] CY1.3 - Living History :Churchill:
-*** [#D] CY2.1 - Young Winston :Churchill:Vastra:
 *** [#C] Susan1.4 The Shoreditch Intervention :Susan:8th_Dr:Alex:

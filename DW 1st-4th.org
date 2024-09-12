@@ -744,7 +744,7 @@ mp3val -f
 
 https://m.vk.com/wall-205306392_48
 
-**** HALF [#B] MA05. The Enemy of the Universe :DW2024_Q3b_doctor:
+**** HALF [#C] MA05. The Enemy of the Universe :DW2024_Q3b_doctor:
 SCHEDULED: <2024-08-10 Sat>
 
 https://m.vk.com/wall-205306392_49
@@ -1425,8 +1425,11 @@ CLOSED: [2020-07-15 Wed 19:13]
 **** 4DA series 12 :Leela:Margaret:P2023:
 ***** [#D] 12.1 Ice Heist :Ice_Warriors:P2023_03:2CD:
 ***** CANCEL [#F] 12.2 Antillia the Lost :P2023_03:2CD:
-***** TODO [#C] 12.3 The Wizard of Time :P2023_06:1CD:DW2024_Q3b_doctor:
-SCHEDULED: <2024-08-24 Sat>
+***** [#C] 12.3 The Wizard of Time :P2023_06:1CD:DW2024_Q3b_doctor:
+SCHEDULED: <2024-08-31 Sat>
+:PROPERTIES:
+:rating:   7.5
+:END:
 
 ***** [#D] 12.4 The Friendly Invasion :P2023_06:1CD:
 ***** [#D] 12.5 Stone Cold :Weeping_Angels:P2023_06:2CD:
@@ -1753,7 +1756,8 @@ CLOSED: [2021-06-17 Thu 23:09]
 
 *** [#C] 3. Full Fathom Five
 *** [#D] 4. He Jests at Scars...
-*** READY [#A] 5. Deadline :bilibili:DW2024_Q3c_spinoffs:
+*** READY [#A] 5. Deadline :bilibili:plot_cast:DW2024_Q3c_spinoffs:
+SCHEDULED: <2024-09-29 Sun>
 
 【【神秘博士广播剧翻译】Unbound:Deadline 假如世界上没有博士-哔哩哔哩】 https://b23.tv/tK7WtHA
 
@@ -1925,8 +1929,8 @@ https://disk.yandex.ru/d/n_i2CRgIJW0xOw
 *** [#E] 2.2 Time Killers
 *** [#B] 2.3 The Key To Key To Time
 ** Peladon :P2022_01:plot_yes:
-*** [#B] 1. The Ordeal of Peladon :King_Peladon:14th_Dr:DW2024_Q3c_spinoffs:
-SCHEDULED: <2024-08-31 Sat>
+*** HALF [#B] 1. The Ordeal of Peladon :King_Peladon:14th_Dr:DW2024_Q3c_spinoffs:
+SCHEDULED: <2024-09-08 Sun>
 
 *** [#D] 2. The Poison of Peladon :River:
 *** CANCEL [#E] 3. The Death of Peladon :6th_Dr:Mel:

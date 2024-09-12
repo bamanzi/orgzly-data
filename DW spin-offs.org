@@ -418,8 +418,8 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
       :rating:   7.8
       :END:
 
-***** HALF [#B] 57. The Grey Mare :Ianto:DW2024_Q3b_spinoffs:
-      SCHEDULED: <2024-08-25 Sun>
+***** 3QTR [#B] 57. The Grey Mare :Ianto:DW2024_Q3b_spinoffs:
+      CLOSED: <2024-09-05 Thu 22:16> SCHEDULED: <2024-08-25 Sun>
       :PROPERTIES:
       :rating:   8.3
       :END:
@@ -504,8 +504,8 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 ***** HALF [#B] 3. Invasion: Kill :DW2023_12_spinoffs:
       SCHEDULED: <2023-12-31 Sun>
 
-**** [#A] special 3: Believe :P2018:3CD:plot_yes:DW2024_Q3c_spinoffs:
-     SCHEDULED: <2024-09-14 Sat>
+**** DONE [#A] special 3: Believe :P2018:3CD:plot_yes:DW2024_Q3c_spinoffs:
+     CLOSED: [2024-09-11 Wed 08:27] SCHEDULED: <2024-09-14 Sat>
      :PROPERTIES:
      :rating:   8.7
      :END:
@@ -1353,8 +1353,10 @@ Roberts Master
 *** 3QTR [#A] 3.4 - Mindbomb (8.9) :DW2024_Q2b_spinoffs:
     CLOSED: [2024-05-24 Fri 08:48] SCHEDULED: <2024-05-12 Sun>
 
-*** [#B] 3.5 - Panacea (8.1)
-** 📂series 4 :P2011:plot_yes:2buy:
+*** [#B] 3.5 - Panacea (8.1) :DW2024_Q3c_spinoffs:
+    SCHEDULED: <2024-10-13 Sun>
+
+** series 4 :P2011:plot_yes:2buy:
 *** HALF [#B] 4.1 - Reborn       (8.0) :DW2022_09_spinoffs:
     SCHEDULED: <2022-09-18 Sun>
 
@@ -1421,7 +1423,7 @@ Roberts Master
      :END:
 
 **** [#A] 1.5 Just War :WW2:2CD:plot_yes:DW2024_Q3c_spinoffs:
-     SCHEDULED: <2024-09-28 Sat>
+     SCHEDULED: <2024-10-13 Sun>
      :PROPERTIES:
      :rating:   9.2
      :END:
@@ -1803,8 +1805,8 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
 *** [#F] Bernice Summerfield and the Library of Books
 *** [#A] A Mutual Friend
 ** special: The Story So Far :P2018:plot_yes:
-*** HALF [#B] 1.1 Ever After Happy :DW2024_Q3b_spinoffs:
-    SCHEDULED: <2024-08-25 Sun>
+*** 3QTR [#B] 1.1 Ever After Happy :DW2024_Q3b_spinoffs:
+    CLOSED: <2024-09-04 Wed 20:36> SCHEDULED: <2024-08-31 Sat>
 
 *** [#C] 1.2 The Grel Invasion of Earth
 *** [#A] 1.3 Braxiatel in Love
@@ -2377,7 +2379,7 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
 
 ** UNIT 2: Shutdown :P2016:plot_yes:
 *** HALF [#C] 2.1 Power Cell :DW2024_Q3b_spinoffs:
-    SCHEDULED: <2024-08-31 Sat>
+    SCHEDULED: <2024-08-25 Sun>
     :PROPERTIES:
     :rating:   7.5
     :END:
@@ -2859,8 +2861,8 @@ https://doctorwho.guide/sj_06.htm
 
 **** CANCEL [#E] +1.4 - The Chartwell Metamorphosis+ (6.4)
 *** series 2 :P2018:
-**** [#D] 2.1 - Young Winston :Vastra:11th_Dr:plot_cast:DW2024_Q3c_spinoffs:
-     SCHEDULED: <2024-08-31 Sat>
+**** HALF [#D] 2.1 - Young Winston :Vastra:11th_Dr:plot_cast:DW2024_Q3c_spinoffs:
+     SCHEDULED: <2024-09-08 Sun>
      :PROPERTIES:
      :rating:   7.1
      :END:
@@ -2940,8 +2942,8 @@ https://doctorwho.guide/sj_06.htm
 【【神秘博士广播剧熟肉】The Dimension Cannon 104 The Last Party on Earth 地球最后的狂欢-哔哩哔哩】 https://b23.tv/FHge6fG
 
 *** RTDC vol.2 Other Worlds :P2022_10:
-**** READY [#C] 2.1 Saltwater :bilibili:DW2024_Q3b_spinoffs:
-     SCHEDULED: <2024-08-25 Sun>
+**** HALF [#C] 2.1 Saltwater :bilibili:DW2024_Q3b_spinoffs:
+     SCHEDULED: <2024-08-31 Sat>
      :PROPERTIES:
      :rating:   7.9
      :END:
