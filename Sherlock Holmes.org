@@ -1,25 +1,312 @@
 * Sherlock Holmes
 ** books
-*** 血字的研究
-*** 四签名
-*** 冒险录
+
+https://breezewiki.com/bakerstreet/wiki/List_of_Sherlock_Holmes_Short_Stories_and_Novels
+
+*** HALF [#A] 血字的研究 A Study in Scarlet :P1887:
+:PROPERTIES:
+:goodreads: 4.14
+:END:
+
+*** [#B] 四签名 The Sign of the Four :P1890:
+:PROPERTIES:
+:goodreads: 3.89
+:END:
+
+*** [#A] 冒险录（短篇集）The Adventures of Sherlock Holmes [A⁺] :P1892:anthology:
+:PROPERTIES:
+:goodreads: 4.29
+:END:
+
+**** A Scandal in Bohemia
+**** The Red-Headed League
+**** A Case of Identity
+**** The Boscombe Valley Mystery
+**** The Five Orange Pips
+**** The Man with the Twisted Lip
+**** The Adventure of the Blue Carbuncle
+**** The Adventure of the Speckled Band
+**** The Adventure of the Engineer's Thumb
+**** The Adventure of the Noble Bachelor
+**** The Adventure of the Beryl Coronet
+**** The Adventure of the Copper Beeches
+*** [#A] 回忆录（短篇集）The Memoirs of Sherlock Holmes [A⁺] :P1894:
+:PROPERTIES:
+:goodreads: 4.30
+:END:
+
+**** The Adventure of the Silver Blaze
+**** The Adventure of the Cardboard Box
+
+Note: In America, this story was removed from Memoirs and placed instead in /His Last Bow/.
+
+**** The Adventure of the Yellow Face
+**** The Adventure of the Stock-Broker's Clerk
+**** The Adventure of the Gloria Scott
+
+(Holmes's first case, described to Watson)
+
+**** The Adventure of the Musgrave Ritual
+
+(another early case, told by Holmes to Watson)
+
+**** The Adventure of the Reigate Puzzle
+**** The Adventure of the Crooked Man
+**** The Adventure of the Resident Patient
+**** The Adventure of the Greek Interpreter
+
+(Mycroft appears for the first time)
+
+**** The Adventure of the Naval Treaty
+**** The Adventure of the Final Problem
+
+(Watson reports the death of Holmes)
+
+*** [#A] 巴斯克维尔的猎犬 The Hound of the Baskervilles :P1902:
+:PROPERTIES:
+:goodreads: 4.13
+:END:
+
+*** [#A] 归来记（短篇集）The Return of Sherlock Holmes [A⁺] :P1903:
+:PROPERTIES:
+:goodreads: 4.28
+:END:
+
+**** The Adventure of the Empty House
+**** The Adventure of the Norwood Builder
+**** The Adventure of the Dancing Men
+**** The Adventure of the Solitary Cyclist
+**** The Adventure of the Priory School
+**** The Adventure of Black Peter
+**** The Adventure of Charles Augustus Milverton
+**** The Adventure of the Six Napoleons
+**** The Adventure of the Three Students
+**** The Adventure of the Golden Pince-Nez
+**** The Adventure of the Missing Three-Quarter
+**** The Adventure of the Abbey Grange
+**** The Adventure of the Second Stain
+*** [#B] 恐怖谷 The Valley of Fear :P1915:
+:PROPERTIES:
+:goodreads: 3.96
+:END:
+
+*** [#A] 最后致意（短篇集）His Last Bow: Some Reminiscences of Sherlock Holmes [A⁺] :P1917:
+:PROPERTIES:
+:goodreads: 4.20
+:END:
+
+**** The Adventure of Wisteria Lodge
+**** The Adventure of the Cardboard Box
+**** The Adventure of the Red Circle
+**** The Adventure of the Bruce-Partington Plans
+**** The Adventure of the Dying Detective
+**** The Disappearance of Lady Frances Carfax
+**** The Adventure of the Devil's Foot
+**** His Last Bow
+*** [#A] 新探案（短篇集）The Case-Book of Sherlock Holmes :P1927:
+:PROPERTIES:
+:goodreads: 4.13
+:END:
+
+**** The Adventure of the Mazarin Stone
+**** The Problem of Thor Bridge
+**** The Adventure of the Creeping Man
+**** The Adventure of the Sussex Vampire
+**** The Adventure of the Three Garridebs
+**** The Adventure of the Illustrious Client
+**** The Adventure of the Three Gables
+**** The Adventure of the Blanched Soldier
+**** The Adventure of the Lion's Mane
+**** The Adventure of the Retired Colourman
+**** The Adventure of the Veiled Lodger
+**** The Adventure of Shoscombe Old Place
 ** audio
-*** BBC
+*** BBC Radio 4 (1989-1998)
+
+https://bakerstreet.fandom.com/wiki/Sherlock_Holmes_(BBC_Radio_series)
+
+https://en.m.wikipedia.org/wiki/Sherlock_Holmes_(1989_radio_series)
+
+https://archive.org/details/SherlockHolmes-CliveMerrissonBBCAudiodramas/
+
+**** _download
+
+https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas
 
 https://audiobookbay.is/abss/bbc-sherlock-holmes-the-complete-series-as-audio-drams-bbc-4-sir-arthur-conan-doyle-bert-coules/
 
+**** 📂The Adventures of Sherlock Holmes
+**** 📂The Memoirs of Sherlock Holmes
+***** 01. Silver Blaze :S2024_10:
+***** 02. The Yellow Face
+***** 03. The Stock-Broker's Clerk
+***** 04. The Gloria Scott
+
+(Holmes's first case, described to Watson)
+
+***** 05. The Musgrave Ritual
+
+(another early case, told by Holmes to Watson)
+
+***** 06. The Reigate Puzzle
+***** 07. The Crooked Man
+***** 08.The Resident Patient
+***** 09. The Greek Interpreter
+
+(Mycroft appears for the first time)
+
+***** 10. The Naval Treaty
+***** 11. The Final Problem
+
+(Watson reports the death of Holmes)
+
+**** 📂The Return of Sherlock Holmes
+**** 📂His Last Bow: Some Reminiscences of Sherlock Holmes
+**** 📂The Case-Book of Sherlock Holmes
+**** 📂The Further Adventures of Sherlock Holmes (#65-80) :plot_yes:
+
+The episodes were based on throwaway references in Doyle's short stories and novels.
+
+They were broadcast on BBC Radio 4 across four series in 2002, 2004, 2008–2009 and 2010.
+
+https://breezewiki.com/bakerstreet/wiki/The_Further_Adventures_of_Sherlock_Holmes_(radio_series)
+
+https://m.vk.com/pages?oid=-141525352&p=The_Further_Adventures_of_Sherlock_Holmes_%28Clive_Merrison%29
+
+***** series 1 :P2002:
+****** 1.1 The Madness of Colonel Warburton :S2024_09:
+
+https://bakerstreet.fandom.com/wiki/The_Madness_of_Colonel_Warburton
+
+****** 1.2 The Star of the Adelphi
+****** 1.3 The Peculiar Persecution of Mr John Vincent Harden
+****** 1.4 The Singular Inheritance of Miss Gloria Wilson
+****** 1.5 The Saviour of Cripplegate Square
+***** series 2 :P2004:
+****** 2.1 The Abergavenny Murder
+****** 2.2 The Shameful Betrayal of Miss Emily Smith
+****** 2.3 The Tragedy of Hanbury Street
+****** 2.4 The Determined Client
+****** 2.5 The Striking Success of Miss Franny Blossom
+***** series 3 :P2009:
+****** 3.1 The Remarkable Performance of Mr Frederick Merridew
+****** 3.2 The Eyes of Horus
+****** 3.3 The Thirteen Watches
+****** 3.4 The Ferrers Documents
+***** series 4 :P2010:
+****** 4.1 The Marlbourne Point Mystery, Part 1
+****** 4.2 The Marlbourne Point Mystery, Part 2
 *** Big Finish
-**** vol.1
-***** READY 1.3 Holmes and the Ripper :2CD:bilibili:Jack_the_Ripper:
+
+https://breezewiki.com/bakerstreet/wiki/Sherlock_Holmes_(Big_Finish_audio_series)
+
+**** vol.1 :P2010:
+***** [#B] 1.1 The Last Act
+:PROPERTIES:
+:goodreads: 4.17
+:thetimescales: 7.3
+:END:
+
+Audio adaptation of David Stuart Davies' 1999 one-man play.
+
+First appearance of Roger Llewellyn as Sherlock.
+
+***** [#E] 1.2 The Death and Life
+:PROPERTIES:
+:goodreads: 3.38
+:thetimescales: 6.9
+:END:
+
+Audio adaptation of Davies' 2008 one-man play.
+
+Last appearance of Roger Llewellyn as Sherlock.
+
+***** READY [#C] 1.3 Holmes and the Ripper :2CD:bilibili:Jack_the_Ripper:
+:PROPERTIES:
+:goodreads: 3.52
+:thetimescales: 8.0
+:END:
+
+Audio adaptation of Clemens' 1988 play.
+
+First appearance of Nicholas Briggs as Sherlock and Richard Earl as Watson.
 
 - 【【广播剧汉化】 白教堂街的幽灵 Holmes and the Ripper （上）-哔哩哔哩】 https://b23.tv/yGvjj5H
 - 【【广播剧汉化】罪恶的真相 Holmes and the Ripper （下）-哔哩哔哩】 https://b23.tv/TbjNSVR
 
-***** 1.4 The Speckled Band
-**** vol.2
-***** 2.1a The Empty House
-***** 2.1b The Final Problem
+***** [#D] 1.4 The Speckled Band
+:PROPERTIES:
+:thetimescales: 7.5
+:END:
+
+Dramatic reading of Doyle's 1892 short story
+
+**** vol.2 :P2011:
+***** [#C] 2.1a The Empty House :canon:
+:PROPERTIES:
+:thetimescales: 7.7
+:END:
+
+***** [#C] 2.1b The Final Problem :canon:
+:PROPERTIES:
+:thetimescales: 7.5
+:END:
+
+***** [#C] 2.2 The Reification of Hans Gerber
+:PROPERTIES:
+:goodreads: 3.64
+:thetimescales: 7.9
+:END:
+
+***** [#B] 2.3 The Hound of the Baskervilles :canon:
+:PROPERTIES:
+:goodreads: 4.24
+:thetimescales: 8.2
+:END:
+
+***** [#B] 2.4 The Tangled Skein
+:PROPERTIES:
+:goodreads: 3.85
+:thetimescales: 8.0
+:END:
+
+Adaptation of Davies' 2007 novel /Sherlock Holmes and the Tangled Skein/.
+
+Sequel to /The Hound of the Baskervilles/, featuring Dracula.
+
+***** [#B] 2.5 The Adventure of the Perfidious Mariner
+:PROPERTIES:
+:goodreads: 3.79
+:thetimescales: 8.4
+:END:
+
+**** vol.3 :P2013:
+**** vol.4 :P2014:
+**** vol.5 :P2016:
+**** vol.6 :P2018:
+**** vol.7
+***** [#A] 7.1 The Seamstress of Peckham Rye :P2021_07:
+:PROPERTIES:
+:goodreads: 4.33
+:END:
+
+The 2021 release, /Sherlock Holmes – The Seamstress of Peckham Rye/ won ‘Best Audio Drama’ at the 2022 Audie Awards.
+
+***** [#A] 7.2 The Fiends of New York City :P2022_05:
+:PROPERTIES:
+:goodreads: 4.00
+:END:
+
+**** misc
+***** The Adventure of the Bloomsbury Bomber :P2015:
+
+In /The Worlds of Big Finish/.
+
 ** tv :📺:
+*** 福尔摩斯与华生医生 (苏联1979-1986)
+
+https://www.douban.com/doulist/889918/
+
 *** Jeremy Brett 版 (1984-1994)
 **** The Adventures of SH
 ***** DONE 1x01 A Scandal in Bohemia 波希米亚丑闻
@@ -51,8 +338,16 @@ CLOSED: <2022-10-20 Thu 22:19> SCHEDULED: <2022-10-14 Fri>
 ***** DONE 4x06 The Hound of the Baskervilles
 CLOSED: [2022-08-26 Fri 22:02]
 
-*** 俄版福尔摩斯 (1979-1986)
-*** Elementary
+*** Sherlock 神探夏洛克 (2010-2017)
+
+https://breezewiki.com/bakerstreet/wiki/Sherlock_(2010)
+
+**** S1 :P2010:
+***** 1x01 A Study in Pink
+***** 1x02 The Blind Banker
+***** 1x03 The Great Game
+**** S2 :P2012:
+*** Elementary (2012-2019)
 **** DONE S1
 **** DONE S2
 **** DONE S3
@@ -240,21 +535,143 @@ CLOSED: [2024-08-29 Thu 22:24]
 ***** DONE [#B] 5x15/16
 CLOSED: [2024-09-01 Sun 21:12]
 
-***** 5x17
+***** DONE 5x17
+CLOSED: [2024-09-04 Wed 19:08]
+
+***** DONE 5x18
+CLOSED: [2024-09-06 Fri 08:19]
+
+***** DONE 5x19
+CLOSED: <2024-09-09 Mon 21:52>
+
+***** DONE 5x20
+CLOSED: [2024-09-15 Sun 14:28]
+
+***** 5x21
+***** 5x22
+***** 5x23
 **** S6 :P2018:
 
 21 episodes
 
+***** 6x01
+***** 6x02
+***** 6x03
 **** S7 :P2019:
 
 13 episodes
 
-*** Sherlock 神探夏洛克
+*** 俄版福尔摩斯（2013）
+
+https://m.douban.com/movie/subject/20451142/
+
+** movies
+*** Without a Clue :P1988:
+*** Mr. Holmes :P2015:
+
+故事发生在1947年的英格兰，名声远扬的大侦探福尔摩斯（伊恩·麦克莱恩 Ian McKellen 饰）如今已是93岁高龄的老人了，晚年期间，他过着离群索居的生活，陪伴在他身边的只有管家芒罗夫人（劳拉·琳妮 Laura Linney 饰）和她的儿子罗杰（米罗·帕克 Milo Parker 饰）。 虽然已经不再过问江湖中的种种纷纷扰扰，但是对于福尔摩斯精彩的一生来说，仍旧有一些未解的谜团令他耿耿于怀。日渐僵硬的身体，每况愈下的记忆力和推理能力让他越发的意识到，现在，此刻，是他解开这些谜团的最后机会了。就这样，在缺少了老搭档华生的情况下，福尔摩斯独自开始了他的最后一次推理。©豆瓣
+
+** comics
+https://sherlockholmes.fandom.com/de/wiki/Sherlock-Holmes-Comics
+*** Dynamite
+https://bakerstreet.breezewiki.com/wiki/Dynamite_Entertainment
+**** TODO Volume 1: The Trial of Sherlock Holmes :P2010:S2024_09:
+**** Volume 2: The Liverpool Demon :P2013:
+**** Volume 3: Majority Lives :P2016:
+**** Year One :P2011:
+**** Sherlock Holmes vs. Harry Houdidi :P2015:
+*** Dark Horse Comics
+**** The Vampires of London :P2004:
+**** The Necronomicon :P2015:
+**** Crime Alleys :P2016:
+
 * Agatha Christie 阿加莎·克里斯蒂 :阿婆:
 ** Hercule Poirot 波洛系列 :poirot:
+*** books
+**** [#B] The Mysterious Affair at Styles 斯泰尔斯庄园奇案
+:PROPERTIES:
+:goodreads: 4.0
+:douban:   7.8
+:END:
+
+**** TODO [#A] 东方快车谋杀案 [A⁺] :已购:
+:PROPERTIES:
+:goodreads: 4.20
+:douban:   9.0
+:END:
+
+**** TODO [#A] 罗杰疑案 [A⁺] :已购:
+:PROPERTIES:
+:goodreads: 4.27
+:douban:   9.2
+:END:
+
+**** [#A] 尼罗河上的惨案
+:PROPERTIES:
+:goodreads: 4.12
+:douban:   8.7
+:END:
+
+**** DONE [#A] ABC 谋杀案 [A⁻] :已购:S2024_09:
+CLOSED: [2024-09-17 Tue 23:19]
+:PROPERTIES:
+:goodreads: 4.03
+:douban:   8.3
+:END:
+
+**** [#A] Peril at End House 悬崖山庄奇案 [A⁻]
+:PROPERTIES:
+:goodreads: 4.01
+:douban:   8.3
+:END:
+
+tv 2x01
+
+**** [#B] Lord Edgware Dies 人性记录
+:PROPERTIES:
+:goodreads: 3.94
+:douban:   7.8
+:END:
+
+**** [#B] Cards on the Table 底牌
+:PROPERTIES:
+:goodreads: 3.96
+:douban:   8.1
+:END:
+
+**** [#B] Hercule Poirot's Christmas 波洛圣诞探案记
+:PROPERTIES:
+:goodreads: 3.99
+:douban:   8.2
+:END:
+
+**** [#B] Evil Under the Sun 阳光下的罪恶
+:PROPERTIES:
+:goodreads: 3.98
+:douban:   8.1
+:END:
+
+**** [#B] 📂Poirot Investigates 波洛探案集（首相绑架案） :anthology:
+:PROPERTIES:
+:goodreads: 3.91
+:douban:   6.4
+:END:
+
+**** [#B] Murder in Mesopotamia 古墓之谜
+:PROPERTIES:
+:goodreads: 3.93
+:douban:   7.6
+:END:
+
+**** TODO [#A] Curtains 帷幕 :已购:
+:PROPERTIES:
+:goodreads: 4.10
+:douban:   9.1
+:END:
+
 *** 大侦探波罗 Agatha Christie's Poirot :📺:
 
-https://agathachristie.fandom.com/wiki/Agatha_Christie%27s_Poirot
+https://breezewiki.com/agathachristie/wiki/List_of_Agatha_Christie's_Poirot_episodes
 
 70 episodes in total
 
@@ -287,53 +704,63 @@ CLOSED: [2023-10-03 Tue 21:44] SCHEDULED: <2023-10-02 Mon>
 ***** DONE [#C] 1x10 The Dream :benben:
 CLOSED: [2023-10-21 Sat 16:28] SCHEDULED: <2023-10-09 Mon>
 
-**** series 2
+**** series 2 :S2024_09:
 
-其中第1集和第10集为长篇小说改编，片长100分钟；其他8集均为短篇小说改编，片长50分钟。
+其中第1集为长篇小说改编，片长100分钟；其他8集均为短篇小说改编，片长50分钟。
 
-1、Peril at End House 悬崖山庄奇案
-2、The Veiled Lady 蒙面女人
-3、The Lost Mine 矿藏之谜
-4、The Cornish Mystery 康沃尔谜案
-5、The Disappearance of Mr. Davenheim 无影无踪
-6、Double Sin 双重罪恶
-7、The Adventure of the Cheap Flat 廉价公寓的秘密
-8、The Kidnapped Prime Minister 惊天绑票
-9、The Adventure of the Western Star 西方之星;
-10、The Mysterious Affair at Styles 斯泰尔斯庄园奇案
+***** DONE [#B] 2x01 Peril at End House 悬崖山庄奇案
+CLOSED: <2024-09-07 Sat 22:23>
 
-第10集《斯泰尔斯庄园奇案》是1990年9月ITV为了纪念阿婆诞辰100周年推出的特别篇，改编自阿婆的第一部长篇小说，也是时间顺序上波洛的第一案，适宜作为全剧首集观看。
+***** DONE 2x02 The Veiled Lady :benben:
+CLOSED: [2024-09-03 Tue 08:06]
 
-***** [#B] 2x01
+***** DONE 2x03 The Lost Mine 矿藏之谜
+CLOSED: [2024-09-06 Fri 18:52]
+
+***** DONE 2x04. The Cornish Mystery 康沃尔谜案
+CLOSED: [2024-09-11 Wed 20:21]
+
+***** DONE 2x05. The Disappearance of Mr. Davenheim 无影无踪 :benben:
+CLOSED: [2024-09-14 Sat 23:24]
+
+***** 2x06. Double Sin 双重罪恶
+***** 2x07. The Adventure of the Cheap Flat 廉价公寓的秘密
+***** 2x08. The Kidnapped Prime Minister 惊天绑票
+***** 2x09. The Adventure of the Western Star 西方之星
+**** series 3
+***** 3x01 The Mysterious Affair at Styles 斯泰尔斯庄园奇案
+
+《斯泰尔斯庄园奇案》是1990年9月ITV为了纪念阿婆诞辰100周年推出的特别篇，改编自阿婆的第一部长篇小说，也是时间顺序上波洛的第一案，适宜作为全剧首集观看。
+
+**** series 4 :P1992:
+***** DONE [#B] 4x01 The ABC Murders
+CLOSED: [2024-09-16 Mon 17:46]
+:PROPERTIES:
+:imdb:     8.4
+:END:
+
+**** ...
 **** series 13 :P2013:
-*** books
-**** [#A] 东方快车谋杀案 A⁺
-:PROPERTIES:
-:goodreads: 4.20
-:END:
-
-**** [#A] 罗杰疑案 A⁺
-:PROPERTIES:
-:goodreads: 4.27
-:END:
-
-**** [#A] 尼罗河上的惨案
-:PROPERTIES:
-:goodreads: 4.12
-:END:
-
-**** [#A] ABC 谋杀案
-:PROPERTIES:
-:goodreads: 4.03
-:END:
-
-**** [#B] 底牌 Cards on the Table
-**** [#A] Curtains 帷幕
-:PROPERTIES:
-:goodreads: 4.10
-:END:
-
 ** Miss Marple 系列 :marple:
+*** books
+**** HALF [#A] 谋杀启事 A Murder is Announced :已购:
+:PROPERTIES:
+:goodreads: 4.01
+:douban:   8.0
+:END:
+
+**** [#B] 寓所迷案 Murder at the Vicarage
+:PROPERTIES:
+:goodreads: 4.05
+:douban:   7.5
+:END:
+
+**** [#B] 📂死亡草 （短篇集）
+:PROPERTIES:
+:goodreads: 3。94
+:douban:   8.1
+:END:
+
 *** Miss Marple (BBC) :📺:
 
 1984-1992
@@ -363,17 +790,6 @@ CLOSED: <2023-10-04 Wed 20:55> SCHEDULED: <2023-10-04 Wed>
 ***** 2x01 Sleeping Murder
 ***** 2x02 The Moving Finger
 **** Season 6 :P2013:
-*** books
-**** HALF [#A] 谋杀启事
-:PROPERTIES:
-:goodreads: 4.01
-:END:
-
-**** [#A] 寓所迷案 Murder at the Vicarage
-:PROPERTIES:
-:goodreads: 4.05
-:END:
-
 ** misc
 *** 汤米夫妇探案集 Agatha Christie's Partners in Crime :📺:
 
@@ -394,7 +810,7 @@ CLOSED: [2023-10-11 Wed 22:28] SCHEDULED: <2023-10-15 Sun>
 **** ep6 The Ambassador's Boots
 *** 短篇集 The.Agatha.Christie.Hour
 *** books
-**** And Then There Were None 无人生还 A⁺
+**** TODO And Then There Were None 无人生还 [A⁺] :已购:
 :PROPERTIES:
 :goodreads: 4.28
 :END:

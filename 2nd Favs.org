@@ -557,6 +557,7 @@ It was replaced by The Superior Spider-Man as part of the Marvel NOW! relaun
 - Spider-Gwen: Ghost Spider #4
 
 ** Ultimate Marvel
+*** LATER 📂The Ultimates :S2025:
 *** Ultimate Spider-Man
 
 https://en.m.wikipedia.org/wiki/List_of_Ultimate_Spider-Man_story_arcs
@@ -597,7 +598,7 @@ Ultimate Spider-Man #129–133, Annual #3
 ***** vol.4 Death of Spider-Man (#156-160)
 ***** vol.5 Death Spider-Man Fallout
 **** Ultimate Comics Spider-Man (Miles Morales)
-*** Ultimate X-Men :S2025:
+*** LATER 📂Ultimate X-Men :S2025:
 
 https://breezewiki.com/ultimatepopculture/wiki/Ultimate_X-Men#Collected_editions
 
@@ -686,7 +687,7 @@ CLOSED: [2024-08-13 Tue 08:05]
 ***** DONE 5x22
 CLOSED: [2024-08-13 Tue 18:47]
 
-**** S6 :S2025:
+**** LATER 📂S6 :S2025:
 *** phase 2
 **** DONE Avengers 2: Age of Ultron
 CLOSED: [2024-08-10 Sat 10:01]
@@ -741,7 +742,7 @@ CLOSED: [2024-08-10 Sat 16:16]
 
 **** TODO The Falcon and the Winter Soldier 猎鹰与冬兵 :S2024_08:
 *** Daredevil / The Pulisher
-**** Daredevil S1
+**** DONE Daredevil S1
 ***** DONE 1x01
 CLOSED: [2024-08-19 Mon 20:56]
 
@@ -768,6 +769,18 @@ CLOSED: [2024-08-30 Fri 18:55]
 
 ***** DONE 1x09
 CLOSED: [2024-09-02 Mon 20:36]
+
+***** DONE 1x10
+CLOSED: [2024-09-05 Thu 07:43]
+
+***** DONE 1x11
+CLOSED: <2024-09-08 Sun 21:18>
+
+***** DONE 1x12
+CLOSED: [2024-09-12 Thu 20:18]
+
+***** DONE 1x13
+CLOSED: [2024-09-12 Thu 22:35]
 
 * Supernatural :📺:spn:
 ** comics
@@ -808,7 +821,7 @@ CLOSED: [2022-12-31 Sat 21:06]
 *** DONE 5x01 :Lucifer:
 CLOSED: [2024-03-26 Tue 07:53]
 
-*** DONE [#A] 5x08 Changing Channels [#S]
+*** DONE [#A] 5x08 Changing Channels [A⁺]
 CLOSED: [2023-01-02 Mon 21:10]
 
 *** DONE [#A] 5x09 The Real Ghostbusters
