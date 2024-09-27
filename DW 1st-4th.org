@@ -1756,8 +1756,8 @@ CLOSED: [2021-06-17 Thu 23:09]
 
 *** [#C] 3. Full Fathom Five
 *** [#D] 4. He Jests at Scars...
-*** READY [#A] 5. Deadline :bilibili:plot_cast:DW2024_Q3c_spinoffs:
-SCHEDULED: <2024-09-29 Sun>
+*** 3QTR [#A] 5. Deadline :bilibili:plot_cast:DW2024_Q3c_spinoffs:
+CLOSED: [2024-09-14 Sat 20:44] SCHEDULED: <2024-09-22 Sun>
 
 【【神秘博士广播剧翻译】Unbound:Deadline 假如世界上没有博士-哔哩哔哩】 https://b23.tv/tK7WtHA
 
@@ -2032,8 +2032,8 @@ https://www.bigfinish.com/releases/v/doctor-who-once-and-future-the-martian-inva
 
 *** The Light at the End :P2013:
 *** MR275. The End of the Beginning :5th_Dr:6th_Dr:7th_Dr:8th_Dr:P2021:
-*** HALF [#A] NA11. Cold Fusion :5th_Dr:7th_Dr:Roz:Chris:Adric:Nyssa:Tegan:plot_simple:DW2024_Q3c_doctor:
-SCHEDULED: <2024-09-07 Sat>
+*** 3QTR [#A] NA11. Cold Fusion :5th_Dr:7th_Dr:Roz:Chris:Adric:Nyssa:Tegan:plot_simple:DW2024_Q3c_doctor:
+CLOSED: <2024-09-25 Wed 22:22> SCHEDULED: <2024-09-07 Sat>
 :PROPERTIES:
 :rating:   8.7
 :END:

@@ -1756,17 +1756,17 @@ http://drwhoguide.com/who_bf33.htm
 *** HALF [#D] CY2.1 - Young Winston :Churchill:Vastra:11th_Dr:
 *** HALF [#B] Peladon1. The Ordeal of Peladon :King_Peladon:14th_Dr:plot_yes:
 *** [#B] Gallifrey 3.5 - Panacea :Romana_2:Leela:
-*** READY [#A] Unbound5. Deadline :bilibili:
+*** HALF [#A] Unbound5. Deadline :bilibili:
 ** dw2024-q4a-doctor
 *** [#B] EA5.2 An Ideal World :1st_Dr:Vicki:Steven:
 *** HALF [#C] 2023B Intelligence for War (part1~2) :3rd_Dr:Liz:3CD:
 *** FIXME [#C] CC4.05 - Ringpullworld :5th_Dr:Turlough:
-*** [#B] MR159. Project: Destiny :7th_Dr:Ace:Hex:The_Forge:Lysandra:P2010:
+*** [#B] MR139. Project: Destiny :7th_Dr:Ace:Hex:The_Forge:Lysandra:P2010:
 *** [#D] 9DA7.2 Lay Down Your Arms :9th_Dr:
 *** [#A] 11DC4.3 Curiosity Shop :11th_Dr:
 ** dw2024-q4a-spinoffs
 *** FIXME [#A] 7.6 At Her Majesty’s Pleasure :Yvonne:Andy:
-*** FIXME [#C] TW69 Double
+*** FIXME [#C] TW69 Double part 1
 *** [#D] UNIT2.2 Death in Geneva
 *** FIXME [#B] JL9.2 - The Devil's Dicemen
 *** HALF [#C] River4.2 - Kings of Infinite Space :River:
@@ -1774,6 +1774,26 @@ http://drwhoguide.com/who_bf33.htm
 *** [#C] Rose2.2 Now is the New Dark :Rose:
 ** dw2024-q4a-pending
 *** [#C] 268B. Displaced :7th_DR:Ace:Hex:plot_no:
+** dw2024-q4b-doctor
+*** FIXME [#D] 2DA23.1 Jamie :2nd_Dr:
+*** FIXME [#A] 2DA23.2 The Green Man
+*** [#C] 4DA9.1 - Purgatory 12 :4th_Dr:Romana_2:Adric:
+*** FIXME [#B] 6DA2022A.2 The Tides of the Moon :6th_Dr:Mel:Hebe:
+*** [#B] 8DDC4.3 - The Side of the Angels :8th_Dr:Liv:Helen:
+*** [#B] 8DDC4.4 - Stop the Clock :8th_Dr:Liv:Helen:
+*** READY [#C] DU3.2 - The Dalek Defense :10th_Dr:Anya:Mark7:bilibili:
+*** READY [#A] WD2.3 - The Neverwhen :War_Dr:DW2024_Q4b_doctor:bilibili:
+** dw2024-q4b-spinoffs
+*** FIXME [#C] TW7.4 Moderation :Tyler:
+*** FIXME [#A] TW70 Double part 2
+*** FIXME [#C] UNIT2.3 The Battle of the Tower
+*** [#D] PG4.3 - Rulers of Earth
+*** [#C] BSBOX 2.1 Brand Management :Benny:
+*** FIXME [#D] Missy3.1 Body and Soulless / [#A] ST9.6 The Same Face
+*** [#A] Rose2.3 The Rogue Planet :Rose:
+** dw2024-q4b-pending
+*** [#C] 6DnP1.1 - The Headless Ones :6th_Dr:Peri:
+*** [#C] CM3.2 - The Concrete Cage
 * pending
 ** odd
 *** [#B] LS2.1b The Fragile Yellow Arc of Fragrance (Susan, Ian, Barbara) :plot_yes:

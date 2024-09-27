@@ -1422,8 +1422,8 @@ Roberts Master
      :rating:   6.7
      :END:
 
-**** [#A] 1.5 Just War :WW2:2CD:plot_yes:DW2024_Q3c_spinoffs:
-     SCHEDULED: <2024-10-13 Sun>
+**** HALF [#A] 1.5 Just War :WW2:2CD:plot_yes:DW2024_Q3c_spinoffs:
+     SCHEDULED: <2024-10-05 Sat>
      :PROPERTIES:
      :rating:   9.2
      :END:

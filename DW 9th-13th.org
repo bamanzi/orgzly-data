@@ -1114,8 +1114,8 @@ SCHEDULED: <2022-08-30 Tue>
 :rating:   7.1
 :END:
 
-**** START [#C] 1.4 Field Trip :Osgood:DW2024_Q3c_doctor:
-SCHEDULED: <2024-09-14 Sat>
+**** HALF [#C] 1.4 Field Trip :Osgood:DW2024_Q3c_doctor:
+SCHEDULED: <2024-09-21 Sat>
 :PROPERTIES:
 :rating:   7.6
 :END:
