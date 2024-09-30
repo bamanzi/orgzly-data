@@ -342,8 +342,16 @@ CLOSED: [2022-08-26 Fri 22:02]
 
 https://breezewiki.com/bakerstreet/wiki/Sherlock_(2010)
 
-**** S1 :P2010:
-***** 1x01 A Study in Pink
+**** DOING S1 :P2010:
+***** 1x00 unaired pilot
+
+The pilot follows the same plot as "A Study in Pink"
+
+https://breezewiki.com/bakerstreet/wiki/Unaired_Pilot
+
+***** DONE 1x01 A Study in Pink
+CLOSED: [2024-09-26 Thu 18:56]
+
 ***** 1x02 The Blind Banker
 ***** 1x03 The Great Game
 **** S2 :P2012:
@@ -484,9 +492,11 @@ CLOSED: [2022-12-10 Sat 17:38]
 :rating:   8.2
 :END:
 
-**** DOING S5 :P2016:
+**** DONE S5 :P2016:
 
 24 episodes
+
+https://breezewiki.com/bakerstreet/wiki/Elementary:_Season_Five
 
 ***** DONE 5x01
 CLOSED: <2023-08-13 Sun 22:42>
@@ -529,6 +539,7 @@ CLOSED: [2023-09-24 Sun 20:24] SCHEDULED: <2023-09-24 Sun>
 ***** DONE [#B] 5x13 Over a Barrel :benben:
 CLOSED: [2023-10-01 Sun 15:53] SCHEDULED: <2023-09-30 Sat>
 
+**** DOING S5 part2 :P2016:S2024_09:
 ***** DONE 5x14
 CLOSED: [2024-08-29 Thu 22:24]
 
@@ -547,9 +558,16 @@ CLOSED: <2024-09-09 Mon 21:52>
 ***** DONE 5x20
 CLOSED: [2024-09-15 Sun 14:28]
 
-***** 5x21
-***** 5x22
-***** 5x23
+***** DONE 5x21
+CLOSED: [2024-09-19 Thu 20:14]
+
+***** DONE 5x22
+CLOSED: [2024-09-20 Fri 21:53]
+
+***** DONE 5x23
+CLOSED: [2024-09-29 Sun 08:10]
+
+***** 5x24
 **** S6 :P2018:
 
 21 episodes
@@ -572,19 +590,32 @@ https://m.douban.com/movie/subject/20451142/
 故事发生在1947年的英格兰，名声远扬的大侦探福尔摩斯（伊恩·麦克莱恩 Ian McKellen 饰）如今已是93岁高龄的老人了，晚年期间，他过着离群索居的生活，陪伴在他身边的只有管家芒罗夫人（劳拉·琳妮 Laura Linney 饰）和她的儿子罗杰（米罗·帕克 Milo Parker 饰）。 虽然已经不再过问江湖中的种种纷纷扰扰，但是对于福尔摩斯精彩的一生来说，仍旧有一些未解的谜团令他耿耿于怀。日渐僵硬的身体，每况愈下的记忆力和推理能力让他越发的意识到，现在，此刻，是他解开这些谜团的最后机会了。就这样，在缺少了老搭档华生的情况下，福尔摩斯独自开始了他的最后一次推理。©豆瓣
 
 ** comics
+
 https://sherlockholmes.fandom.com/de/wiki/Sherlock-Holmes-Comics
+
 *** Dynamite
+
 https://bakerstreet.breezewiki.com/wiki/Dynamite_Entertainment
-**** TODO Volume 1: The Trial of Sherlock Holmes :P2010:S2024_09:
-**** Volume 2: The Liverpool Demon :P2013:
-**** Volume 3: Majority Lives :P2016:
-**** Year One :P2011:
+
+**** TODO [#A] Volume 1: The Trial of Sherlock Holmes :P2010:S2024_09:
+:PROPERTIES:
+:goodreads: 4.00
+:END:
+
+Holmes himself is the prime suspect in a murder mystery, and while he fights to save his very life, Watson must assemble the pieces of the puzzle in his stead. Will Watson's efforts save his friend or condemn him?
+
+**** [#E] Volume 2: The Liverpool Demon :P2013:
+**** [#D] Volume 3: Majority Lives :P2016:
+**** [#D] Year One :P2011:
 **** Sherlock Holmes vs. Harry Houdidi :P2015:
+**** [#D] The Vanishing Man :P2018:
 *** Dark Horse Comics
 **** The Vampires of London :P2004:
 **** The Necronomicon :P2015:
 **** Crime Alleys :P2016:
-
+*** Soleil Comics
+**** Sherlock Holmes & The Time Travelers  (2014-2016)
+**** Sherlock Holmes Society  (2015-2016) :P2015:
 * Agatha Christie 阿加莎·克里斯蒂 :阿婆:
 ** Hercule Poirot 波洛系列 :poirot:
 *** books
@@ -704,7 +735,7 @@ CLOSED: [2023-10-03 Tue 21:44] SCHEDULED: <2023-10-02 Mon>
 ***** DONE [#C] 1x10 The Dream :benben:
 CLOSED: [2023-10-21 Sat 16:28] SCHEDULED: <2023-10-09 Mon>
 
-**** series 2 :S2024_09:
+**** DOING series 2 :P1990:S2024_09:
 
 其中第1集为长篇小说改编，片长100分钟；其他8集均为短篇小说改编，片长50分钟。
 
@@ -723,21 +754,34 @@ CLOSED: [2024-09-11 Wed 20:21]
 ***** DONE 2x05. The Disappearance of Mr. Davenheim 无影无踪 :benben:
 CLOSED: [2024-09-14 Sat 23:24]
 
-***** 2x06. Double Sin 双重罪恶
-***** 2x07. The Adventure of the Cheap Flat 廉价公寓的秘密
-***** 2x08. The Kidnapped Prime Minister 惊天绑票
+***** DONE 2x06. Double Sin 双重罪恶 :⭐:
+CLOSED: [2024-09-20 Fri 07:59]
+
+***** DONE 2x07. The Adventure of the Cheap Flat 廉价公寓的秘密
+CLOSED: [2024-09-22 Sun 22:50]
+
+***** DONE 2x08. The Kidnapped Prime Minister 首相绑架案
+CLOSED: [2024-09-27 Fri 20:20]
+
 ***** 2x09. The Adventure of the Western Star 西方之星
-**** series 3
+**** series 3 :P1991:
 ***** 3x01 The Mysterious Affair at Styles 斯泰尔斯庄园奇案
 
 《斯泰尔斯庄园奇案》是1990年9月ITV为了纪念阿婆诞辰100周年推出的特别篇，改编自阿婆的第一部长篇小说，也是时间顺序上波洛的第一案，适宜作为全剧首集观看。
 
 **** series 4 :P1992:
+
+3 episodes
+
 ***** DONE [#B] 4x01 The ABC Murders
 CLOSED: [2024-09-16 Mon 17:46]
 :PROPERTIES:
 :imdb:     8.4
 :END:
+
+**** series 5 :P1993:
+
+8 episodes
 
 **** ...
 **** series 13 :P2013:

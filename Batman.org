@@ -581,6 +581,11 @@ collected in: DC Universe Rebirth
 Announces Rebirth
 
 **** DOING Batman v3
+
+Written by: Tom King
+
+Art by: David Finch, Mikel Janin, Clay Mann, Joëlle Jones, et al.
+
 ***** DONE [#C] vol.1	I am Gotham :P2016:
 CLOSED: <2023-09-10 Sun 16:32>
 
@@ -593,11 +598,19 @@ CLOSED: <2023-09-14 Thu 18:46>
 Batman #9-13: I am Suicide
 Batman #14-15: Rooftops
 
-***** OVERDUE [#B] vol.3 I am Bane :P2017:
-SCHEDULED: <2023-09-23 Sat>
+***** DONE [#B] vol.3 I am Bane :P2017:
+CLOSED: [2024-09-30 Mon 13:04]
 
 Batman #16-20	
 
+***** NOW Vol. 4: The War of Jokes and Riddles
+
+Batman v3 #25-32
+
+***** NEXT Vol. 5: The Rules of Engagement
+***** NEXT Vol. 6: Bride or Burglar?
+***** ...
+***** Vol. 11: The Fall and the Fallen
 **** Detective Comics v1
 ***** vol.1	Rise of the Batmen :P2016:
 
@@ -628,7 +641,7 @@ CLOSED: [2023-11-10 Fri 13:52] SCHEDULED: <2023-09-23 Sat>
 - Detective Comics #941-942
 - Batman: Night of the Monster Men	
 
-***** [#C] (2017) The Button
+***** NOW [#C] (2017) The Button
 
 - Batman v3 #21-22	
 - The Flash (Volume 5) #21-22
@@ -711,6 +724,9 @@ Batman Confidential #1-6
 ***** 20-24. Wild Ride
 ***** 25-32. (singles)
 ***** 33-37. Batman: War Games
+**** Catwoman v4 :new52:
+***** vol.6 Keeper of the Castle
+***** vol.7 Inheritance
 **** DONE Batman: Heart of Hush ↗
 *** Dick Greyson
 **** DONE [#B] Robin: Year One (4 issues) :hanzify:Grayson:Two_Face:origin:
@@ -771,7 +787,7 @@ CLOSED: <2023-10-22 Sun 21:44>
 ***** DONE Cutter (DC #861-863) :P2010:
 CLOSED: [2023-10-27 Fri 20:22]
 
-**** DOING Batwoman v2 vol. 1-4 :P2011:
+**** Batwoman v2 vol. 1-4 :P2011:
 SCHEDULED: <2023-10-31 Tue>
 
 ***** DONE vol.1 Batwoman: Hydrology (#0-5)
@@ -780,13 +796,13 @@ CLOSED: <2023-10-29 Sun 17:43> SCHEDULED: <2023-10-29 Sun>
 ***** DONE vol.2 Batwoman: To Drown the World (#6-11)
 CLOSED: <2023-11-05 Sun 14:17> SCHEDULED: <2023-11-02 Thu>
 
-***** NEXT vol.3 Batwoman: World's Finest (#12-17)
+***** vol.3 Batwoman: World's Finest (#12-17)
 SCHEDULED: <2023-11-05 Sun>
 
-***** NEXT vol.4 Batwoman: This Blood is Thick (#18-24)
+***** vol.4 Batwoman: This Blood is Thick (#18-24)
 SCHEDULED: <2023-11-12 Sun>
 
-**** NEXT 📂Batwomen v3, by Marguerite Bennett (2017-2018)
+**** 📂Batwomen v3, by Marguerite Bennett (2017-2018)
 *** GCPD
 **** Gotham Central
 *** Batgirl
@@ -818,38 +834,8 @@ The story details the first meeting between Batgirl and Catwoman.
 CLOSED: [2022-09-25 Sun 15:27] SCHEDULED: <2022-09-25 Sun>
 
 ** movie
-*** DCEU
 *** Nolan verse
 **** Batman: Gotham Knight :animated:P2008:
-*** DCAMU :🎦:DCAMU:
-
-The DC Animated Movie Universe is a shared universe consisting of a number of movies, shorts and digital-first comics, originally conceived as an "animated New 52", but later expanding into older and original stories. 
-
-
-- https://www.douban.com/doulist/126839716/
-
-**** [#A] Justice League: The Flashpoint Paradox
-:PROPERTIES:
-:douban:   8.7
-:END:
-
-**** [#B] Justice League: War
-**** DONE Son of Batman
-**** LATER Batman vs. Robin
-
-partially based on 
-- the /Batman: The Court of Owls/ arc, written by Scott Snyder and illustrated by Greg Capullo and Jonathan Glapion, 
-- and the /Batman and Robin: Born to Kill/ arc, written by Peter Tomasi and illustrated by Patrick Gleason and Mick Gray. 
-
-**** DONE Batman: Bad Blood
-CLOSED: [2022-08-04 Thu 22:07] SCHEDULED: <2022-08-13 Sat>
-
-The story is inspired by the /Batman Reborn/ arc, whilst also including elements from /Batwoman: Go/. 
-
-- Nightwing / Batman (Dick Grayson) (First appearance as Batman)
-- Robin (Damian Wayne)
-
-**** LATER Batman: Hush
 *** other animated (non-DCAMU)
 **** DONE Batman: Under the Red Hood
 **** DONE Batman: Year One :P2011:
@@ -1028,11 +1014,11 @@ CLOSED: [2023-12-23 Sat 09:38]
 **** DONE 2x10
 CLOSED: [2023-12-25 Mon 20:21] SCHEDULED: <2023-12-30 Sat>
 
-*** Harley Quinn (animated) :Harley:
+*** Harley Quinn TAS (animated) :Harley:
 
-13 eps
+https://dc.fandom.com/wiki/Harley_Quinn_(TV_Series)
 
-**** DONE S1 (13 eps)
+**** DONE S1 (13 eps) :P2019:
 CLOSED: [2022-10-02 Sun 11:51]
 
 ***** DONE 1x01
@@ -1074,7 +1060,7 @@ CLOSED: [2022-09-30 Fri 19:19] SCHEDULED: <2022-09-30 Fri>
 ***** DONE 1x13
 CLOSED: [2022-10-02 Sun 11:51]
 
-**** DONE S2
+**** DONE S2 :P2020:
 ***** DONE 2x01
 CLOSED: [2023-09-16 Sat 20:00]
 
@@ -1116,6 +1102,9 @@ CLOSED: [2023-10-28 Sat 18:51] SCHEDULED: <2023-10-27 Fri>
 ***** DONE 2x13
 CLOSED: [2023-11-02 Thu 19:17] SCHEDULED: <2023-10-31 Tue>
 
+**** S3 :P2022:
+**** S4 :P2023:
+**** Kiteman: Hell Yeah :P2024:
 ** DCAU :dcau:
 *** Batman Adventures
 **** movies
@@ -1190,11 +1179,16 @@ CLOSED: [2023-10-30 Mon 18:37] SCHEDULED: <2022-08-21 Sun>
 ****** DONE 1x08
 CLOSED: [2023-11-08 Wed 19:25]
 
-****** LATER 1x09
-****** LATER 1x10
-****** NEXT 1x11
-****** NEXT 1x12
+****** 1x09
+****** 1x10
+****** 1x11
+****** 1x12
 ****** 1x13
+** LATER The Batman Saga :S2025:
+*** The Batman 新蝙蝠侠 (2022) :🎥:P2022:
+*** TBR The Batman part2 :P2026:
+*** tv: The Penguin :P2024:📺:
+*** comics: The Riddler: Year One :P2023:
 * Superman :Superman:
 ** comics :📚:
 
@@ -1218,11 +1212,11 @@ CLOSED: [2022-10-25 Tue 12:54]
 
 a new modern version of the Superman story taking place in a
 
-**** NEXT 📂Superman v4 :P2016:
-***** Vol.1 Son of Superman
-***** Vol.2 Trials of the Super Son
-***** Vol.3 Multiplicity
-***** Vol.4 Black Dawn
+**** 📂Superman v4 :P2016:
+***** NOW Vol.1 Son of Superman
+***** NOW Vol.2 Trials of the Super Son
+***** NEXT Vol.3 Multiplicity
+***** NEXT Vol.4 Black Dawn
 ***** Vol.5 Hopes and Fears
 ***** Vol.6 Imperius Lex
 ***** Vol.7 Bizarroverse
@@ -1289,7 +1283,7 @@ https://dc.fandom.com/wiki/Death_of_Superman
 
 有实体中文版书 https://book.douban.com/subject/35045339/
 
-***** OVERDUE The Death of Superman
+***** LATER The Death of Superman
 SCHEDULED: <2023-11-15 Wed>
 
 - Superman: The Man of Steel #18
@@ -1337,7 +1331,7 @@ new52 vol.5-9
 
 by Max Landis
 
-**** The Man of Steel v2 :P2018:
+**** NEXT The Man of Steel v2 :P2018:
 
 by Brian Michael Bendis
 
@@ -1472,7 +1466,7 @@ Superman: New Krypton Special #1 pages 1-9
 **** The Final Days of Superman
 **** Revenge
 ** tv :📺:
-*** DONE Superman and Lois S1 (15 eps)
+*** DONE Superman and Lois S1 (15 eps) :P2021:
 CLOSED: [2022-10-02 Sun 20:58]
 
 **** DONE 1x01
@@ -1520,7 +1514,7 @@ CLOSED: [2022-10-01 Sat 22:05] SCHEDULED: <2022-10-05 Wed>
 **** DONE 1x15
 CLOSED: [2022-10-02 Sun 20:58]
 
-*** DONE Superman and Lois S2
+*** DONE Superman and Lois S2 :P2022:
 **** DONE 2x01
 CLOSED: [2023-09-05 Tue 19:04]
 
@@ -1566,7 +1560,11 @@ CLOSED: [2023-10-03 Tue 12:51] SCHEDULED: <2023-10-04 Wed>
 **** DONE 2x15
 CLOSED: [2023-10-06 Fri 08:58] SCHEDULED: <2023-10-05 Thu 21:48>
 
+*** Superman and Lois S3 :P2023:
 ** movies
+*** DCEU
+**** Man of Steel :P2013:
+**** Batman v Superman: Dawn of Justice :P2016:
 *** BLOCK The Death of Superman :DCAMU:P2018:
 SCHEDULED: <2022-10-04 Tue>
 
