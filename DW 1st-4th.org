@@ -278,7 +278,7 @@ Old Steven 3/3
 **** [#C] CC13.3 - The Vardan Invasion of Mirth :Steven:Vardans:
 **** [#B] ST7.12 - O Tannenbaum :Steven:
 *** with Steven & Dodo
-**** [#C] EA7.2 The Secrets of Det-Sen :Steven:Dodo:plot_simple:DW2022_03_maybe:
+**** [#C] EA7.2 The Secrets of Det-Sen :Steven:Dodo:plot_yes:P2021_08:
 :PROPERTIES:
 :rating:   7.8
 :END:
@@ -666,7 +666,7 @@ CLOSED: <2022-10-30 Sun 19:49> SCHEDULED: <2022-10-22 Sat>
 CLOSED: [2023-08-18 Fri 08:40] SCHEDULED: <2023-08-19 Sat>
 
 **** 📂James Robert McCrimmon :P2023_07:1CD:Jamie:Raven:plot_yes:
-***** [#D] 23.1 Jamie :10BBY:
+***** [#D] 23.1 Jamie
 ***** [#B] 23.2 The Green Man
 ***** [#B] 23.3 The Shroud
 **** 📂Conspiracy of Raven :Jamie:Raven:P2024_07:
@@ -951,10 +951,11 @@ SCHEDULED: <2023-05-27 Sat>
 :rating:   7.1
 :END:
 
-***** 📂2023A. The Return of Jo Jones :Jo:P2023_02:1CD:P2023_02:
+***** 📂23A. The Return of Jo Jones :Jo:P2023_02:1CD:P2023_02:
 ****** NEXT [#D] 23A.1 Supernature
 ****** [#D] 23A.2 The Conservitors
 ****** [#C] 23A.3 The Iron Shore
+***** TBR 24B. The Quintessence
 **** misc
 ***** DONE [#A] The Sacrifice of Jo Grant (The Legacy of Time #3) :Jo:P2019:
 CLOSED: [2020-08-07 Fri 18:25]
@@ -1050,7 +1051,7 @@ CLOSED: [2024-01-21 Sun 19:53]
 ****** HALF [#A] part6-7 :DW2024_02_doctor:
 SCHEDULED: <2024-02-17 Sat>
 
-***** BLOCK 2023B Intelligence for War :P2023_10:Liz:Brigadier:3CD:
+***** BLOCK [#C] 23B Intelligence for War :P2023_10:Liz:Brigadier:3CD:plot_yes:
 **** CC (Liz)
 ***** DONE [#A] CC7.4 - The Last Post :P2012:no_doctor:
 CLOSED: [2020-08-07 Fri 18:25]
@@ -1100,20 +1101,21 @@ The Sentinels of the New Dawn are stirring and its malign influence will be fe
 To escape his Earth exile, the Doctor is prepared to make any bargain, come to any arrangement, or to do any deal with any devil – even if in this case the Devil wears a monk's robes. But when past misdeeds start catching up with both the Doctor and the Monk, who can Liz Shaw trust when time is running out and death is rapidly approaching?
 
 *** with Sarah :Sarah:
-**** HALF [#A] 3DA7.2 The Gulf :P2021:D2022_05_doctor:
+**** 3DA
+***** HALF [#A] 7.2 The Gulf :P2021:D2022_05_doctor:
 SCHEDULED: <2022-05-28 Sat>
 :PROPERTIES:
 :rating:   8.7
 :END:
 
-**** HALF [#B] 3DA8.2 The Devil's Hoofprints :P2021:Brigadier:plot_yes:DW2023_09_doctor:
+***** HALF [#B] 8.2 The Devil's Hoofprints :P2021:Brigadier:plot_yes:DW2023_09_doctor:
 SCHEDULED: <2023-09-21 Thu>
 :PROPERTIES:
 :rating:   8.1
 :END:
 
-**** CANCEL [#E] 3DA22B. Kaleidoscope :Harry:Brigadier:P2022_10:3CD:
-**** BLOCK [#D] 3DA24A. Revolution in Space :P2024_02:3CD:
+***** CANCEL [#E] 22B. Kaleidoscope :Harry:Brigadier:P2022_10:3CD:
+***** BLOCK [#D] 24A. Revolution in Space :P2024_02:3CD:plot_yes:
 **** START [#D] CDNM3.1 The House that Hoxx Built :P2022:plot_yes:
 **** SvsR#2 The Children of the Future :P2024_02:
 **** CANCEL [#F] ST10.03 Decline of the Ancient Mariner
@@ -1622,8 +1624,8 @@ SCHEDULED: <2024-05-11 Sat>
 
 【【神秘博士广播剧】The Fourth Doctor Adbenture 1303 - Metamorphosis 蜕变-哔哩哔哩】 https://b23.tv/2HuC49t
 
-***** TBR 13.6 The Face in the Storm :P2024_09:
-***** TBR 13.7 Dominant Species :P2024_09:
+***** 13.6 The Face in the Storm :P2024_09:1CD:
+***** 13.7 Dominant Species :P2024_09:2CD:
 *** with Sarah (& Harry) :Sarah:
 **** 2DONE [#B] LS6.1 - Return of the Cybermen :Cybermen:plot_half:DW2022_08_doctor:bilibili:
 CLOSED: [2022-09-03 Sat 17:41] SCHEDULED: <2022-09-04 Sun>
@@ -2008,11 +2010,13 @@ https://www.bigfinish.com/releases/v/doctor-who-once-and-future-the-martian-inva
 *** 22. Escape the Daleks! :3rd_Dr:Jo:Daleks:P2024_01:
 *** 23. River of Death :6th_Dr:Peri:P2024_03:
 *** 24. The Demons Within :10th_Dr:Martha:P2024_05:
+*** 25. Dark Contract :5th_Dr:Tegan:Nyssa:Adric:
+*** 26. The Force of Death :8th_Dr:P2024_10:
 ** Sontarans vs Rutans
-*** 1. The Battle of Giant's Causeway :8th_Dr:Charley:Crizz:
-*** 2. The Children of the Future :3rd_Dr:Sarah:
-*** 3. Born to Die :6th_Dr:Charley:
-*** 4. In Name Only :War_Dr:
+*** 1. The Battle of Giant's Causeway :8th_Dr:Charley:Crizz:P2024_01:
+*** 2. The Children of the Future :3rd_Dr:Sarah:P2024_02:
+*** 3. Born to Die :6th_Dr:Charley:P2024_03:
+*** 4. In Name Only :War_Dr:P2024_04:
 ** Dark Gallifrey
 *** Morbius
 *** The War Master ↗ :Master_War:Unbound_Dr:War_Dr:Benny:Captain_John:P2024_08:
@@ -2024,7 +2028,10 @@ https://www.bigfinish.com/releases/v/doctor-who-once-and-future-the-martian-inva
 ** audio
 *** MR001. The Sirens of Time :5th_Dr:6th_Dr:7th_Dr:
 *** MR050. Zagreus :8th_Dr:5th_Dr:6th_Dr:7th_Dr:P2003:
-*** IX. The Four Doctors :P2010:
+*** READY BR09. The Four Doctors :P2010:8th_Dr:5th_Dr:6th_Dr:7th_Dr:Daleks:bilibili:
+
+【【神秘博士广播剧熟肉】Bonus Release The Four Doctors 四位博士-哔哩哔哩】 https://b23.tv/dYrJYbh
+
 *** [#D] ST3.1 - Seven to One 🗣 :P2011:plot_yes:
 :PROPERTIES:
 :rating:   7.4
@@ -2087,7 +2094,7 @@ http://www.drwhoguide.com/chronicles07.htm
 :rating:   7.7
 :END:
 
-**** [#A] ST7.6 - How to Win Planets and Influence People †9.2 :Monk:Sarah:Harry:
+**** [#A] ST7.6 - How to Win Planets and Influence People [A⁺] :Monk:Sarah:Harry:
 **** 2DONE [#C] EA7.1 After the Daleks :P2021_08:Dalek_War_1st:Susan:D2021_10_daleks:
 CLOSED: [2021-11-01 Mon 22:54] SCHEDULED: <2021-11-01 Mon>
 :PROPERTIES:

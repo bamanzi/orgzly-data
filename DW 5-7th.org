@@ -101,7 +101,7 @@ CLOSED: <2021-05-29 Sat 08:11>
 CLOSED: [2021-10-23 Sat 20:14]
 
 **** [#D] 026. Primeval
-**** DONE [#A] 034. Spare Parts (A⁺) :Mondas:Cybermen:plot_yes:已购:
+**** DONE [#A] 034. Spare Parts [A⁺] :Mondas:Cybermen:plot_yes:已购:
 CLOSED: [2021-03-15 Mon 20:29]
 :PROPERTIES:
 :rating:   9.2
@@ -412,7 +412,7 @@ CLOSED: [2022-11-27 Sun 23:36] SCHEDULED: <2022-11-16 Wed>
 **** 📂2024A. The Dream Team :P2024_04:Adric:Nyssa:Tegan:
 ***** The Merfolk Murders :1CD:
 ***** Dream Team :1CD:
-**** 2024B. The Great Beyond :Adric:Nyssa:Tegan:
+**** 2024B. The Great Beyond :Adric:Nyssa:Tegan:3CD:P2024_09:
 *** with Zara & Abby
 **** [#E] 117. The Judgement of Isskar :Zara:Abby:Ice_Warriors:
 **** [#D] 118. The Destroyer of Delights :Zara:Abby:
@@ -495,6 +495,7 @@ part of /Short Trips: Monsters/
 **** The Lunar Strangers (DWM215-217) :Tegan:Turlough:
 **** DONE The Curse of the Scarab (DWM228-230) :Peri:
 **** Blood Invocation (DWY1995)
+** novels
 * 6th Doctor :6th_Dr:
 ** tv :📺:
 *** Season 21
@@ -552,7 +553,7 @@ CLOSED: [2021-07-15 Thu 14:15]
 :rating:   7.8
 :END:
 
-**** DONE [#A] 40. Jubilee (A⁺) :Daleks:plot_yes_dwg:已购:
+**** DONE [#A] 40. Jubilee [A⁺] :Daleks:plot_yes_dwg:已购:
 CLOSED: [2021-03-30 Tue 17:52]
 
 **** [#A] 43. Doctor Who and The Pirates (8.8) :plot_yes:
@@ -770,7 +771,7 @@ SCHEDULED: <2023-11-01 Wed>
 ***** 3QTR [#A] 27. The One Doctor (9.0) :Mel:plot_no:D2022_04_doctor:
 CLOSED: [2022-04-22 Fri 08:22] SCHEDULED: <2022-04-30 Sat>
 
-***** [#A] 48. Davros (A⁺) :Mel:Davros:plot_yes:已购:
+***** [#A] 48. Davros [A⁺] :Mel:Davros:plot_yes:已购:
 :PROPERTIES:
 :rating:   9.0
 :END:
@@ -873,7 +874,7 @@ SCHEDULED: <2023-03-01 Wed>
 **** CANCEL [#E] 265. The Lovecraft Invasion :Flip:Constance:
 **** [#D] 273. Colony of Fear :Constance:
 *** MR misc :2CD:
-**** DONE [#A] 14. The Holy Terror (A⁺) :Frobisher:plot_yes:D2021_05:
+**** DONE [#A] 14. The Holy Terror [A⁺] :Frobisher:plot_yes:D2021_05:
 CLOSED: <2021-05-29 Sat 23:21>
 :PROPERTIES:
 :rating:   9.1
@@ -917,7 +918,7 @@ CLOSED: [2022-06-29 Wed 16:22] SCHEDULED: <2022-06-19 Sun>
 :rating:   7.6
 :END:
 
-***** READY XII - Trial of the Valeyard. :Valeyard:1CD:bilibili:
+***** READY [#A] XII - Trial of the Valeyard. :Valeyard:1CD:bilibili:
 
  【【神秘博士广播剧】Bonus Release 012 The Trial of Valeyard 黑暗博士的审判-哔哩哔哩】 https://b23.tv/BP98ck4
 
@@ -1146,7 +1147,7 @@ CLOSED: <2022-05-17 Tue 21:11> SCHEDULED: <2022-05-07 Sat>
 :rating:   7.8
 :END:
 
-***** 📂115. Forty-Five :short:
+***** 📂115. Forty-Five :short:P2008:
 ****** [#E] 115a. False Gods
 :PROPERTIES:
 :rating:   6.9
@@ -1162,8 +1163,8 @@ CLOSED: <2022-05-17 Tue 21:11> SCHEDULED: <2022-05-07 Sat>
 :rating:   7.4
 :END:
 
-****** HALF [#A] 115d. The Word Lord (8.6) :P2008:Ace:Hex:Nobody_No_One:plot_no:
-***** 3QTR [#A] 120. The Magic Mousetrap :2009:Ace:Hex:Celestial_Toymaker:plot_yes_dwg:DW2024_01_doctor:
+****** HALF [#A] 115d. The Word Lord (8.6) :Ace:Hex:Nobody_No_One:plot_no:
+***** 3QTR [#A] 120. The Magic Mousetrap :P2009:Ace:Hex:Celestial_Toymaker:plot_yes_dwg:DW2024_01_doctor:
 CLOSED: [2024-02-13 Tue 15:21] SCHEDULED: <2024-01-06 Sat>
 :PROPERTIES:
 :rating:   8.6
@@ -1241,9 +1242,21 @@ SCHEDULED: <2023-01-09 Mon 21:19>
 http://www.drwhoguide.com/who_bf12.htm
 
 ***** [#D] 39. Bang-Bang-a-Boom!
+:PROPERTIES:
+:rating:   7.1
+:END:
+
 ***** [#D] 46. Flip-Flop
+:PROPERTIES:
+:rating:   7.2
+:END:
+
 ***** CANCEL [#F] 70. Unregenerate!
 ***** [#D] 85. Red
+:PROPERTIES:
+:rating:   7.3
+:END:
+
 ***** HALF [#C] 201. We Are the Daleks :Mel:plot_no:D2022_01_doctor:
 SCHEDULED: <2022-01-30 Sun>
 :PROPERTIES:
@@ -1265,45 +1278,49 @@ SCHEDULED: <2022-01-30 Sun>
 :END:
 
 *** MR misc :scripted:2CD:
-***** HALF [#D] 021. Dust Breeding :Master_decayed:Bev:D2021_10_master:
+**** HALF [#D] 021. Dust Breeding :Master_decayed:Bev:D2021_10_master:
 SCHEDULED: <2021-11-07 Sun>
 :PROPERTIES:
 :rating:   7.0
 :END:
 
-***** DONE [#C] 45. Project Lazarus :6th_Dr:plot_no:
+**** DONE [#C] 45. Project Lazarus :6th_Dr:plot_no:
 :PROPERTIES:
 :rating:   7.7
 :END:
 
-***** 3QTR [#A] MR49. Master (A⁺) :P2003:Master:Death:plot_yes:D2021_09_extra:
+**** 3QTR [#A] MR49. Master [A⁺] :P2003:Master:Death:plot_yes:D2021_09_extra:
 CLOSED: <2021-09-23 Thu 21:27> SCHEDULED: <2021-09-04 Sat>
 
-***** 2DONE [#B] MR149. Robophobia (8.4) :P2011:Liv:Kaldor_androids:plot_no:D2022_03_doctor :2buy:
+**** 2DONE [#B] MR149. Robophobia (8.4) :P2011:Liv:Kaldor_androids:plot_no:D2022_03_doctor :2buy:
 CLOSED: <2022-03-31 Thu 21:41> SCHEDULED: <2022-03-12 Sat>
 :PROPERTIES:
 :rating:   8.4
 :END:
 
-***** 2DONE [#C] MR152. House of Blue Fire :plot_no:D2021_07_dr:Sally:Great_Old_Ones:
+**** 2DONE [#C] MR152. House of Blue Fire :plot_no:D2021_07_dr:Sally:Great_Old_Ones:
 CLOSED: <2021-07-09 Fri 14:15>
 :PROPERTIES:
 :rating:   7.7
 :END:
 
-***** HALF [#A] 213. The Two Masters (8.8) :P2016:Master:plot_no:bilibili:D2021_12_master:
+**** HALF [#A] 213. The Two Masters (8.8) :P2016:Master:plot_no:bilibili:D2021_12_master:
 SCHEDULED: <2021-12-04 Sat>
 
 【【神秘博士广播剧汉化】The Two Masters 两个法师-哔哩哔哩】https://b23.tv/FjTGsz 
 
-***** [#D] 261. The Psychic Circus
-***** [#C] 262. Subterfuge :Churchill:Monk:
+**** [#D] 261. The Psychic Circus
+**** [#C] 262. Subterfuge :Churchill:Monk:
 :PROPERTIES:
 :rating:   7.8
 :END:
 
 *** with Ace & Benny
 **** [#D] MR013. The Shadow of the Scourge :Ace:Benny:
+:PROPERTIES:
+:rating:   7.1
+:END:
+
 **** BLOCK [#C] NA1 Love and War :Ace:Benny:3CD:scripted:
 
 block 原因：太长（3小时多）

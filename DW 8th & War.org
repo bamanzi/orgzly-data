@@ -408,6 +408,15 @@ CLOSED: <2021-10-17 Sun 10:44>
 CLOSED: [2021-10-17 Sun 15:11]
 
 **** misc
+***** READY [#C] An Earthly Child :Susan:Alex:P2009:bilibili:
+:PROPERTIES:
+:rating:   7.5
+:END:
+
+This is the beginning of the arc about adventures of Susan and Alex with the Eighth Doctor, which continues in /Relative Dimensions/ (with /Quinnis/ serving as a prequel of sorts), /Lucie Miller/ and /To the Death/.
+
+【【神秘博士广播剧熟肉】Bonus Release 08 An Earthly Child 平凡男孩-哔哩哔哩】 https://b23.tv/eWtDl46
+
 ***** [#D] SST14. Late Night Shopping
 ***** CANCEL [#E] SST25. The Caves of Erith
 *** Dark Eyes :scripted:已购:
@@ -507,7 +516,7 @@ SCHEDULED: <2022-09-04 Sun>
 :END:
 
 ***** DC vol.3
-****** 3QTR [#A] 3.1 - Absent Friends [#S] :DW2023_02_doctor:
+****** 3QTR [#A] 3.1 - Absent Friends  [A⁺] :DW2023_02_doctor:
 CLOSED: [2023-02-08 Wed 08:38] SCHEDULED: <2023-02-11 Sat>
 :PROPERTIES:
 :rating:   9.2
@@ -708,25 +717,25 @@ SCHEDULED: <2024-07-27 Sat>
 
 ***** [#D] The Dalby Spook :1CD:
 **** 📂Connections :P2022_12:1CD:plot_yes:
-***** Here Lies Drax
-***** The Love Vampires
-***** Albie's Angels
-**** Echoes :P2024_05:
-***** 1. Birdsong
-***** 2. Lost Hearts
-***** 3. Slot Beasts
+***** [#B] Here Lies Drax
+***** [#C] The Love Vampires
+***** [#A] Albie's Angels [A†]
+**** 📂Echoes :P2024_05:
+***** [#B] 1. Birdsong
+***** [#D] 2. Lost Hearts
+***** [#D] 3. Slot Beasts
 *** 8DA (2023- )
 **** 📂Audacity :P2023_11:plot_yes:Audacity:
-***** READY The Devouring :1CD:bilibili:
+***** READY [#D] The Devouring :1CD:bilibili:
 
 【【广播剧汉化】愤怒的纠缠 Audacity 101 The Devouring-哔哩哔哩】 https://b23.tv/j9alyHV
 
-***** The Great Cyber-War :2CD:Cybermen:Charley:
+***** [#B] The Great Cyber-War :2CD:Cybermen:Charley:
 **** 📂In the Bleak Midwinter :P2023_12:1CD:Audacity:Charley:
-***** Twenty-Four Doors in December
-***** The Empty Man
-***** Winter of the Demon
-**** TBR The Stuff of Legend :Charley:Master_bald:P2024_09:
+***** [#B] Twenty-Four Doors in December
+***** [#D] The Empty Man
+***** [#E] Winter of the Demon
+**** The Stuff of Legend :Charley:Master_bald:Daleks:2CD:P2024_09:
 *** 8D Time War ↗
 **** DONE SST01 Museum Peace
 **** DONE [#C] ST7.9 - A Heart on Both Sides :Nyssa:
@@ -762,11 +771,6 @@ CLOSED: [2020-09-23 Wed 12:53]
 **** BR2 Shada :Romana_2:K9_2:P2003:scripted:
 **** [#D] MR123a. The Company of Friends - Benny's Story :Benny:
 **** [#D] MR123b. The Company of Friends - Fitz's Story
-**** TODO [#C] An Earthly Child :Susan:Alex:P2009:
-:PROPERTIES:
-:rating:   7.5
-:END:
-
 **** [#B] SST37 - Tuesday :Harry:
 :PROPERTIES:
 :rating:   8.3
@@ -924,7 +928,7 @@ CLOSED: [2021-01-06 Wed 09:03]
 
 【【神秘博士广播剧汉化】光与暗，善与恶，到底什么才是完美配比呢 The War Master 战争法师 304 Darkness and Light-哔哩哔哩】 https://b23.tv/BrsnX9D
 
-*** [#C] Concealed Weapon (Diary Of River Song 5.4) :🎧:River:Master_war:
+*** HALF [#C] Concealed Weapon (Diary Of River Song 5.4) :🎧:River:Master_war:
 :PROPERTIES:
 :rating:   7.6
 :END:
@@ -1184,7 +1188,7 @@ CLOSED: <2021-11-26 Fri 09:50> DEADLINE: <2021-11-26 Fri 21:54> SCHEDULED: <2021
 
 【【广播剧汉化】 沉重的遗产 Cass 102 Vespertine-哔哩哔哩】 https://b23.tv/m3b5hyL
 
-**** READY [#B] 5.3 Previously, Next Time :2CD:bilibili:
+**** READY [#B] 5.3 Previously, Next Time :bilibili:
 
 【【广播剧汉化】无限循环的死结 Cass 103 Previously, Next Time 上-哔哩哔哩】 https://b23.tv/dB3or7j
 
@@ -1486,8 +1490,14 @@ CLOSED: [2020-09-23 Wed 12:53]
 CLOSED: [2020-09-23 Wed 12:53]
 
 *** Dark Gallifrey 2: The War Master :Master_war:War_Dr:Benny:Unbound_Dr:Captain_John:P2024_08:
+*** 8th Doctor: Time War
+**** TBR vol.6 Uncharted :P2024_10:
+***** 6.1 Nowhere, Never
+***** 6.2 The Road Untravelled
+***** 6.3 Cass-cade
+***** 6.4 Borrow or Rob
 *** The War Doctor Rises
-**** TBR WDR1: Morbius the Mighty :P2024_08:War_Dr:
+**** WDR1: Morbius the Mighty :P2024_08:War_Dr:3CD:
 *** Susan's War vol.2 :Susan:War_Dr:P2024_08:
 **** 2.1 The Lost Son
 **** 2.2 The Golden Child
