@@ -1,5 +1,5 @@
 * DC
-** Watchmen
+** Watchmen :Watchmen:
 *** DONE movie
 *** comics
 **** DONE Watchmen (1986-1987) :hanzify:
@@ -13,10 +13,10 @@
 ***** Ozymandias
 ***** Dollar Bill
 ***** Moloh
-**** Doomsday Clock (2018-2020) :P2018:hanzify:
+**** LATER Doomsday Clock 末日钟声 (2018-2020) :P2018:hanzify:S2025_Q4:
 **** Rorschach :P2020:hanzify:
 *** tv
-**** Watchmen S1 (2019, 9 eps) :P2019:
+**** LATER Watchmen S1 (2019, 9 eps) :P2019:S2025_Q4:
 ** Sandman
 *** Sandman v2 (1989-1996) :📚:Neil_Gaiman:
 
@@ -69,7 +69,7 @@ CLOSED: [2023-04-18 Tue 23:17]
 
 水漫汉化联盟
 
-*** Sandman (tv)(2022- ) :📺:
+*** Sandman (tv)(2022- ) :📺:S2025_Q1:
 **** DONE [#B] 1x01 Sleep of the Just
 CLOSED: [2024-03-03 Sun 19:43]
 
@@ -189,7 +189,7 @@ CLOSED: [2023-03-25 Sat 19:03] SCHEDULED: <2023-03-29 Wed>
 ***** DONE 2x18
 CLOSED: [2023-03-25 Sat 20:59] SCHEDULED: <2023-03-29 Wed>
 
-**** HALF Lucifer S3 (26 eps) :P2017:S2024_03:
+**** HALF Lucifer S3 (26 eps) :P2017:
 ***** DONE 3x01
 CLOSED: [2024-02-24 Sat 12:04]
 
@@ -248,7 +248,7 @@ CLOSED: <2024-04-04 Thu 12:05>
 CLOSED: [2024-04-09 Tue 15:50]
 
 ***** [#A] 3x20 The Angel of San Bernardino
-**** Lucifer S4 (10 eps) :P2019:
+**** Lucifer S4 (10 eps) :P2019:S2025_Q1:
 **** Lucifer S5 (16 eps) :P2020:
 **** Lucifer S6 (10 eps) :P2021:
 ** Preacher
@@ -372,7 +372,7 @@ CLOSED: [2024-04-21 Sun 19:11]
 ***** DONE 3x10
 CLOSED: [2024-04-25 Thu 08:16]
 
-**** Preacher S4 :P2019:
+**** Preacher S4 :P2019:S2025_Q1:
 ** V for Vendetta ...
 ** Fables :hanzify:
 
@@ -557,7 +557,7 @@ It was replaced by The Superior Spider-Man as part of the Marvel NOW! relaun
 - Spider-Gwen: Ghost Spider #4
 
 ** Ultimate Marvel
-*** LATER 📂The Ultimates :S2025:
+*** LATER 📂The Ultimates :S2025_Q3:
 *** Ultimate Spider-Man
 
 https://en.m.wikipedia.org/wiki/List_of_Ultimate_Spider-Man_story_arcs
@@ -598,7 +598,7 @@ Ultimate Spider-Man #129–133, Annual #3
 ***** vol.4 Death of Spider-Man (#156-160)
 ***** vol.5 Death Spider-Man Fallout
 **** Ultimate Comics Spider-Man (Miles Morales)
-*** LATER 📂Ultimate X-Men :S2025:
+*** LATER 📂Ultimate X-Men :S2025_Q3:
 
 https://breezewiki.com/ultimatepopculture/wiki/Ultimate_X-Men#Collected_editions
 
@@ -609,20 +609,20 @@ https://breezewiki.com/ultimatepopculture/wiki/Ultimate_X-Men#Collected_editions
 **** vol.5 Ultimate War
 **** vol.6 Return Of The King (#26-33)
 **** vol.7 Blockbuster (#34-39)
-*** Ultimate Fantastic Four :S2024_08:
+*** Ultimate Fantastic Four
 
 https://breezewiki.com/ultimatepopculture/wiki/Ultimate_Fantastic_Four#Collected_editions
 
-**** DONE vol.1 The Fantastic (#1-6) :S2024_08:
+**** DONE vol.1 The Fantastic (#1-6)
 CLOSED: [2024-07-30 Tue 23:11]
 
-**** DONE vol.2 Doom (#7-12) :S2024_08:
+**** DONE vol.2 Doom (#7-12)
 CLOSED: <2024-08-02 Fri 13:03>
 
-**** DONE vol.3 N-Zone (#13-18) :S2024_08:
+**** DONE vol.3 N-Zone (#13-18)
 CLOSED: <2024-08-06 Tue 20:24>
 
-**** DONE vol.4 Inhuman (#19-20, annual #1) :S2024_08:
+**** DONE vol.4 Inhuman (#19-20, annual #1)
 CLOSED: <2024-08-08 Thu 20:25>
 
 **** DONE vol.5 Crossover (#21-26)
@@ -687,7 +687,7 @@ CLOSED: [2024-08-13 Tue 08:05]
 ***** DONE 5x22
 CLOSED: [2024-08-13 Tue 18:47]
 
-**** LATER 📂S6 :S2025:
+**** LATER 📂S6 :S2025_Q3:
 *** phase 2
 **** DONE Avengers 2: Age of Ultron
 CLOSED: [2024-08-10 Sat 10:01]
@@ -712,6 +712,7 @@ CLOSED: [2024-08-20 Tue 22:03]
 ***** DONE 1x06
 CLOSED: [2024-08-24 Sat 21:57]
 
+**** Loki S2 :S2025_Q3:
 **** DONE WandaVision 旺达幻视 :P2021:S2024_08:
 ***** DONE 1x01
 CLOSED: [2024-07-29 Mon 20:08]
@@ -740,7 +741,7 @@ CLOSED: [2024-08-10 Sat 15:30]
 ***** DONE 1x09
 CLOSED: [2024-08-10 Sat 16:16]
 
-**** TODO The Falcon and the Winter Soldier 猎鹰与冬兵 :S2024_08:
+**** TODO The Falcon and the Winter Soldier 猎鹰与冬兵 :S2025_Q3:
 *** Daredevil / The Pulisher
 **** DONE Daredevil S1
 ***** DONE 1x01
@@ -961,7 +962,7 @@ CLOSED: [2024-03-15 Fri 00:15]
 *** DONE [#A] 14x20 Moriah
 CLOSED: [2024-03-15 Fri 20:13]
 
-** S15 :S2024_03:
+** S15 :S2025_Q1:
 
 20 episodes
 

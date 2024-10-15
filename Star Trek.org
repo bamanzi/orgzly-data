@@ -2081,7 +2081,7 @@ CLOSED: [2024-05-27 Mon 21:17]
 **** DONE [#C] 2x26. Basics: Part I		(7.9)
 CLOSED: [2024-05-31 Fri 20:15]
 
-*** VOY S3 :Y2373:
+*** LATER 📂VOY S3 :Y2373:S2024_12:
 **** DONE [#B] 3x01. Basics: Part II       (8.0) :ST2024_06:
 CLOSED: [2024-05-31 Fri 21:03]
 
@@ -2090,7 +2090,7 @@ CLOSED: [2023-07-01 Sat 16:54] SCHEDULED: <2023-07-02 Sun>
 
 闪回发生在 电影六 The Undiscovered Country 期间的精进号上（克林贡的卫星 Praxis 爆炸，失去大部能源来源，于是与星联启动和平谈判。克林贡谈判代表遭到阴谋份子暗杀，Kirk 和 Spock 被嫁祸。时任精进号舰长的 Sulu 要去救老朋友…）
 
-**** [#E] 3x03. The Chute			   (6.9) :S2025:
+**** [#E] 3x03. The Chute			   (6.9)
 **** [#D] 3x04. The Swarm			   (7.3)
 **** [#E] 3x05. False Profits		   (6.8)
 **** [#D] 3x06. Remember			   (7.1)
@@ -2565,7 +2565,7 @@ CLOSED: [2022-06-25 Sat 23:46]
 **** DONE 1x10 Et in Arcadia Ego, Part 2
 CLOSED: [2022-06-26 Sun 22:27]
 
-*** Picard S2 :P2022:Y2400:S2025:
+*** LATER 📂Picard S2 :P2022:Y2400:S2024_12:
 ** comics :📚:
 *** DONE Picard: Countdown
 CLOSED: <2022-06-04 Sat 17:14> SCHEDULED: <2022-06-03 Fri>
@@ -2610,7 +2610,7 @@ CLOSED: [2022-07-22 Fri 19:07] SCHEDULED: <2022-07-23 Sat>
 *** DONE 1x10 No Small Parts
 CLOSED: [2022-07-29 Fri 21:16] SCHEDULED: <2022-07-30 Sat>
 
-** 📂Lower Decks S2 (2021) :S2025:
+** LATER 📂Lower Decks S2 (2021) :S2024_12:
 *** 2x01 Strange Energies
 * SNW - Strange New Worlds (2022- ) :SNW:Pike:
 ** tv :📺:
@@ -2662,7 +2662,7 @@ CLOSED: [2023-07-01 Sat 12:02] SCHEDULED: <2023-07-01 Sat>
 
 an alternate timeline of TOS episode: /Balance of Terror/
 
-*** SNW S2 :P2023:Y2259:S2025:
+*** LATER 📂SNW S2 :P2023:Y2259:S2024_12:
 
 新世界第二季整季：
 百度网盘：https://pan.baidu.com/s/1onWnu2wUZd5YZFDD0uDCWg?pwd=stcn 提取码：stcn

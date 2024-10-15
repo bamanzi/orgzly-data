@@ -580,10 +580,9 @@ collected in: DC Universe Rebirth
 
 Announces Rebirth
 
-**** DOING Batman v3
+**** DOING Batman v3 :S2024_10:
 
-Written by: Tom King
-
+#1-85 Written by: Tom King
 Art by: David Finch, Mikel Janin, Clay Mann, Joëlle Jones, et al.
 
 ***** DONE [#C] vol.1	I am Gotham :P2016:
@@ -592,46 +591,62 @@ CLOSED: <2023-09-10 Sun 16:32>
 Batman #1-6	
 collected in Batman: I am Gotham
 
-***** DONE [#B] vol.2	I am Suicide :P2016:
+***** DONE [#B] vol.2: I am Suicide :P2016:
 CLOSED: <2023-09-14 Thu 18:46>
 
 Batman #9-13: I am Suicide
 Batman #14-15: Rooftops
 
-***** DONE [#B] vol.3 I am Bane :P2017:
-CLOSED: [2024-09-30 Mon 13:04]
+***** DONE [#B] vol.3: I am Bane :P2017:
+CLOSED: [2023-09-30 Mon 13:04]
 
 Batman #16-20	
 
-***** NOW Vol. 4: The War of Jokes and Riddles
+***** DONE Vol. 4: The War of Jokes and Riddles
+CLOSED: [2024-10-03 Thu 08:35]
 
 Batman v3 #25-32
 
-***** NEXT Vol. 5: The Rules of Engagement
-***** NEXT Vol. 6: Bride or Burglar?
-***** ...
+***** DONE Vol. 5: The Rules of Engagement
+CLOSED: [2024-10-04 Fri 14:54]
+
+- Batman (Volume 3) #33-37
+- Batman Annual (Volume 3) #2
+
+***** DONE Vol. 6: Bride or Burglar?
+CLOSED: <2024-10-09 Wed 19:24>
+
+Batman (Volume 3) #38-44
+
+***** DONE Vol. 7: The Wedding
+CLOSED: <2024-10-12 Sat 13:50>
+
+Batman (Volume 3) #45-50
+
+***** Vol. 8: Cold Days
+***** Vol. 9: The Tyrant Wing
+***** Vol. 10: Knightmares
 ***** Vol. 11: The Fall and the Fallen
-**** Detective Comics v1
-***** vol.1	Rise of the Batmen :P2016:
+***** Vol. 12/13 City of Bane
+**** Detective Comics v1 (rebirth) :S2024_10:
+***** DONE vol.1	Rise of the Batmen :P2016:
+CLOSED: [2024-10-15 Tue 05:16]
 
 Detective Comics #934-940
 
-Batman: Detective Comics: Rise of the Batmen	
+***** Vol. 2 The Victim Syndicate :P2016:
 
-***** (2016) The Victim Syndicate
+Detective Comics #943-949
 
-Detective Comics #943-947	
-collected in Batman: Detective Comics: The Victim Syndicate
-
-***** (2017) Batwoman Begins
-
-Detective Comics #948-949
-
-***** (2017) League of Shadows
+***** Vol. 3 League of Shadows
 
 Detective Comics #950-956	
 collected in Batman: League of Shadows
 
+***** Vol. 4: Deus Ex Machine
+***** Vol. 5: A Lonely Place of Living
+***** Vol. 6: Fall of the Batmen
+***** Vol. 7: Batmen Eternal
 **** crossover
 ***** DONE (2016)	Night of the Monster Men :Dr_Strange:
 CLOSED: [2023-11-10 Fri 13:52] SCHEDULED: <2023-09-23 Sat>
@@ -641,11 +656,18 @@ CLOSED: [2023-11-10 Fri 13:52] SCHEDULED: <2023-09-23 Sat>
 - Detective Comics #941-942
 - Batman: Night of the Monster Men	
 
-***** NOW [#C] (2017) The Button
+***** DONE [#C] (2017) The Button :Flash:Watchmen:
+CLOSED: [2024-10-09 Wed 12:45]
 
 - Batman v3 #21-22	
 - The Flash (Volume 5) #21-22
 collected in Batman / The Falsh: The Button
+
+算是末日钟声(Doomsday Clock) 的序曲
+
+***** Batwoman Begins :P2017:
+
+Detective Comics #948-949
 
 **** singles
 ***** (2017) Rooftops
@@ -689,6 +711,7 @@ Batman Confidential #1-6
 
 这个令人难以置信的系列讲述了GCPD的重大犯罪部，他们试图在一个由腐败，怪胎和蒙面义警统治的城市中工作。
 
+*** elseworlds
 ** comics (batfamily) :📚:
 *** DONE [#B] Batman: A Lonely Place of Dying :Jason:Tim:P1989:
 
@@ -717,9 +740,9 @@ Batman Confidential #1-6
 
   Ed Brubaker和Darwyn Cooke的传奇连载，这些故事让赛琳娜从小偷变成了东区的罗宾汉
 
-***** 1-4. Anodyne
-***** 6-9. Disguises
-***** 12-16. Relentless
+***** DONE 1-4. Anodyne
+***** DONE 6-9. Disguises
+***** DONE 12-16. Relentless
 ***** 17-19. No Easy Way Down
 ***** 20-24. Wild Ride
 ***** 25-32. (singles)
@@ -752,7 +775,7 @@ Batman Confidential #1-6
 ***** Oracle: Year One: Born of Hope (Batman Chronicles Vol 1 #5)
 ***** Birds of Prey vol.1
 ***** Birds of Prey vol.2
-**** Batgirl vol.4
+**** Batgirl vol.4 :new52:P2011:
 ***** DONE 1-6
 CLOSED: <2021-05-18 Tue 22:10>
 
@@ -802,6 +825,7 @@ SCHEDULED: <2023-11-05 Sun>
 ***** vol.4 Batwoman: This Blood is Thick (#18-24)
 SCHEDULED: <2023-11-12 Sun>
 
+**** Detective Comics: Rebirth vol.1-7 ↗
 **** 📂Batwomen v3, by Marguerite Bennett (2017-2018)
 *** GCPD
 **** Gotham Central
@@ -980,7 +1004,6 @@ CLOSED: [2022-09-09 Fri 20:06] SCHEDULED: <2022-09-10 Sat>
 CLOSED: [2022-09-16 Fri 20:31]
 
 *** DONE Pennyworth S2 :Pennyworth:
-CLOSED: [2023-12-25 Mon 20:21]
 
 10 eps
 
@@ -1014,6 +1037,29 @@ CLOSED: [2023-12-23 Sat 09:38]
 **** DONE 2x10
 CLOSED: [2023-12-25 Mon 20:21] SCHEDULED: <2023-12-30 Sat>
 
+*** DOING Pennyworth S3 :S2024_10:
+**** DONE 3x01
+CLOSED: [2024-10-03 Thu 16:52]
+
+**** DONE 3x02
+CLOSED: [2024-10-03 Thu 20:41]
+
+**** DONE 3x03
+CLOSED: [2024-10-03 Thu 21:55]
+
+**** DONE 3x04
+CLOSED: [2024-10-04 Fri 21:57]
+
+**** DONE 3x05
+CLOSED: <2024-10-12 Sat 08:08>
+
+**** DONE 3x06
+CLOSED: [2024-10-12 Sat 18:47]
+
+**** DONE 3x07
+CLOSED: [2024-10-14 Mon 08:12]
+
+**** 3x08
 *** Harley Quinn TAS (animated) :Harley:
 
 https://dc.fandom.com/wiki/Harley_Quinn_(TV_Series)
@@ -1102,7 +1148,7 @@ CLOSED: [2023-10-28 Sat 18:51] SCHEDULED: <2023-10-27 Fri>
 ***** DONE 2x13
 CLOSED: [2023-11-02 Thu 19:17] SCHEDULED: <2023-10-31 Tue>
 
-**** S3 :P2022:
+**** S3 :P2022:S2024_10:
 **** S4 :P2023:
 **** Kiteman: Hell Yeah :P2024:
 ** DCAU :dcau:
@@ -1184,7 +1230,7 @@ CLOSED: [2023-11-08 Wed 19:25]
 ****** 1x11
 ****** 1x12
 ****** 1x13
-** LATER The Batman Saga :S2025:
+** LATER The Batman Saga :S2025_Q4:
 *** The Batman 新蝙蝠侠 (2022) :🎥:P2022:
 *** TBR The Batman part2 :P2026:
 *** tv: The Penguin :P2024:📺:
@@ -1213,6 +1259,10 @@ CLOSED: [2022-10-25 Tue 12:54]
 a new modern version of the Superman story taking place in a
 
 **** 📂Superman v4 :P2016:
+
+vol.1 - 7
+by Peter J. Tomasi and Patrick Gleason
+
 ***** NOW Vol.1 Son of Superman
 ***** NOW Vol.2 Trials of the Super Son
 ***** NEXT Vol.3 Multiplicity
@@ -1293,8 +1343,6 @@ SCHEDULED: <2023-11-15 Wed>
 - Action Comics #684
 - Superman: The Man of Steel #19
 - Superman (Volume 2) #75
-
-
 
 ***** Funeral for a Friend
 ***** Reign of the Supermen
@@ -1560,7 +1608,36 @@ CLOSED: [2023-10-03 Tue 12:51] SCHEDULED: <2023-10-04 Wed>
 **** DONE 2x15
 CLOSED: [2023-10-06 Fri 08:58] SCHEDULED: <2023-10-05 Thu 21:48>
 
-*** Superman and Lois S3 :P2023:
+*** DOING Superman and Lois S3 :P2023:S2024_10:
+**** DONE 3x01
+CLOSED: [2024-09-30 Mon 21:22]
+
+**** DONE 3x02
+CLOSED: [2024-10-01 Tue 17:07]
+
+**** DONE 3x03
+CLOSED: <2024-10-02 Wed 22:28>
+
+**** DONE 3x04
+CLOSED: [2024-10-05 Sat 21:19]
+
+**** DONE 3x05
+CLOSED: [2024-10-06 Sun 17:08]
+
+**** DONE 3x06
+CLOSED: [2024-10-08 Tue 20:27]
+
+**** DONE 3x07
+CLOSED: [2024-10-10 Thu 20:07]
+
+**** DONE 3x08
+CLOSED: <2024-10-11 Fri 08:02>
+
+**** DONE 3x09
+CLOSED: [2024-10-11 Fri 21:29]
+
+**** 3x10
+**** 3x11
 ** movies
 *** DCEU
 **** Man of Steel :P2013:
@@ -1572,58 +1649,185 @@ https://m.80sgod.com/movie/23048
 
 *** Reign of the Supermen :DCAMU:
 *** All-Star Superman
-* Green Arrow
-** comics
-* Arrowverse
-** crossovers
-*** crossover1
-**** DONE The Flash 1x08
+* misc
+** Green Arrow
+*** comics
+** Arrowverse
+*** crossovers
+**** DONE crossover1 :P2014:
+***** DONE The Flash 1x08
 CLOSED: <2022-10-22 Sat 15:29>
 
-**** DONE Arrow 3x08
+***** DONE Arrow 3x08
 CLOSED: <2022-10-22 Sat 16:20>
 
-*** 2: Legends of Yesterday 昨日军团
-**** DONE The Flash 2x08
+**** DONE 2. Legends of Yesterday 昨日军团 :P2015:
+***** DONE The Flash 2x08
 CLOSED: <2022-11-04 Fri 20:15> SCHEDULED: <2022-10-31 Mon>
 
-**** DONE Arrow 4x08
+***** DONE Arrow 4x08
 CLOSED: [2022-11-04 Fri 21:06] SCHEDULED: <2022-10-31 Mon>
 
-**** DONE Supergirl 1x18
+***** DONE Supergirl 1x18
 CLOSED: [2022-11-08 Tue 20:14] SCHEDULED: <2022-10-31 Mon>
 
-*** 3.Invasion 支配者入侵
-**** DONE Supergirl 2x08
+**** DONE 3. Invasion 支配者入侵 :P2016:
+***** DONE Supergirl 2x08
 CLOSED: [2022-11-08 Tue 21:11] SCHEDULED: <2022-10-31 Mon>
 
 The epilogue of the episode is a prelude to the crossover Invasion! 
 
-**** DONE The Flash 3x08
+***** DONE The Flash 3x08
 CLOSED: <2022-11-12 Sat 16:03>
 
 https://arrow.fandom.com/wiki/Invasion!_(The_Flash)
 
-**** DONE Arrow 5x08
+***** DONE Arrow 5x08
 CLOSED: [2022-11-12 Sat 17:13]
 
-**** DONE Legends of Tomorrow 明日传奇2x07
+***** DONE Legends of Tomorrow 明日传奇2x07
 CLOSED: [2022-11-19 Sat 15:32]
 
-**** The Flash 3x17
+***** The Flash 3x17
 
 https://dc.fandom.com/wiki/The_Flash_(2014_TV_Series)_Episode:_Duet
 
-*** 4. Crisis on Earth-X
-**** DONE Supergirl 3x08
+**** DONE 4. Crisis on Earth-X :P2017:
+***** DONE Supergirl 3x08
 CLOSED: [2023-10-10 Tue 17:56] SCHEDULED: <2023-10-12 Thu>
 
-**** DONE Arrow 6x08
+***** DONE Arrow 6x08
 CLOSED: [2023-10-15 Sun 20:21] SCHEDULED: <2023-10-14 Sat>
 
-**** DONE The Flash 4x08
+***** DONE The Flash 4x08
 CLOSED: [2023-10-25 Wed 08:12] SCHEDULED: <2023-10-23 Mon>
 
-**** DONE Legends of Tomorrow 明日传奇3x08
+***** DONE Legends of Tomorrow 明日传奇3x08
 CLOSED: [2023-10-26 Thu 20:11] SCHEDULED: <2023-10-26 Thu>
 
+**** 5. Elseworld :P2018:S2024_10:
+**** 6. Crisis on Infinite Earths 无限地球危机 :S2024_Q4:
+** Doom Patrol (tv series)
+*** S1
+**** DONE 1x01
+CLOSED: <2024-10-12 Sat 22:58>
+
+**** DONE 1x02
+CLOSED: [2024-10-13 Sun 15:37]
+
+* DCAMU :🎦:DCAMU:
+
+The DC Animated Movie Universe is a shared universe consisting of a number of movies, shorts and digital-first comics, originally conceived as an "animated New 52", but later expanding into older and original stories. 
+
+https://dc.fandom.com/wiki/DC_Animated_Movie_Universe#Media
+
+
+- https://www.douban.com/doulist/126839716/
+
+** #Batman
+*** DONE [#D] Son of Batman :P2014:
+:PROPERTIES:
+:douban:   6.7
+:END:
+
+*** NEXT [#D] Batman vs. Robin 蝙蝠侠大战罗宾 :P2015:
+:PROPERTIES:
+:douban:   6.8
+:END:
+
+partially based on 
+- the /Batman: The Court of Owls/ arc, written by Scott Snyder and illustrated by Greg Capullo and Jonathan Glapion, 
+- and the /Batman and Robin: Born to Kill/ arc, written by Peter Tomasi and illustrated by Patrick Gleason and Mick Gray. 
+
+*** DONE [#C] Batman: Bad Blood 蝙蝠侠：血脉恩仇 :P2016:
+CLOSED: [2022-08-04 Thu 22:07] SCHEDULED: <2022-08-13 Sat>
+:PROPERTIES:
+:douban:   7.1
+:END:
+
+The story is inspired by the /Batman Reborn/ arc, whilst also including elements from /Batwoman: Go/. 
+
+- Nightwing / Batman (Dick Grayson) (First appearance as Batman)
+- Robin (Damian Wayne)
+
+*** [#D] Batman: Hush :P2019:
+:PROPERTIES:
+:douban:   6.3
+:END:
+
+** #Justice_League
+*** NOW [#A] Justice League: The Flashpoint Paradox :P2013:
+SCHEDULED: <2024-10-20 Sun>
+:PROPERTIES:
+:douban:   8.7
+:END:
+
+*** NEXT [#A] Justice League: War :P2014:
+SCHEDULED: <2024-10-20 Sun>
+:PROPERTIES:
+:douban:   8.1
+:END:
+
+*** [#E] Justice League: Throne of Atlantis :P2015:
+:PROPERTIES:
+:douban:   6.2
+:END:
+
+*** [#D] Justice League vs. Teen Titans
+*** LATER [#B] Justice League Dark :P2017:
+:PROPERTIES:
+:douban:   7.6
+:END:
+
+*** LATER [#C] Justice League Dark: Apokolips War :P2020:
+:PROPERTIES:
+:douban:   7.0
+:END:
+
+** [#B] The Death of Superman :P2018:
+:PROPERTIES:
+:douban:   7.5
+:END:
+
+** [#B] Reign of the Supermen  超人王朝 :P2019:
+:PROPERTIES:
+:douban:   7.5
+:END:
+
+** [#D] Teen Titans: The Judas Contract
+** Suicide Squad: Hell to Pay
+** Constantine City of Demons: The Movie
+** Wonder Woman: Bloodlines
+* DCEU
+** movies :🎦:
+
+https://dc.fandom.com/wiki/DC_Extended_Universe#Films
+
+https://www.douban.com/doulist/133931658/
+
+*** [#C] Man of Steel (2013) 超人：钢铁之躯
+*** [#C] Batman v Superman: Dawn of Justice
+*** DONE [#D] Suicide Squad (2016) :S2024_10:
+CLOSED: <2024-09-25 Wed 23:18> SCHEDULED: <2024-10-05 Sat>
+
+*** DONE [#C] Wonder Woman (2017)
+*** CANCEL [#D] Justice League (2017)
+*** DONE [#C] Aquaman (2018) 海王
+*** [#E] Shazam! (2019) 雷霆沙赞
+*** CANCEL [#E] Birds of Prey (And the Fantabulous Emancipation of One Harley Quinn) 猛禽小队和哈莉·奎茵
+*** CANCEL [#E] Wonder Woman 1984 (2020)
+*** DONE [#A] Zack Snyder's Justice League
+:PROPERTIES:
+:douban:   8.1
+:END:
+
+*** NOW [#A] The Suicide Squad (2021) X特遣队：全员集结
+SCHEDULED: <2024-10-13 Sun>
+
+*** CANCEL [#F] Black Adam (2022)
+*** CANCEL [#F] Shazam! Fury of the Gods (2023)
+*** [#B] The Flash (2023) 闪电侠
+*** CANCEL [#F] Blue Beetle (2023)
+*** CANCEL [#E] Aquaman and the Lost Kingdom (2023)
+** tv
+*** NEXT [#A] Peacemaker 和平使者 :📺:

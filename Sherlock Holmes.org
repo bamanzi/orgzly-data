@@ -3,7 +3,8 @@
 
 https://breezewiki.com/bakerstreet/wiki/List_of_Sherlock_Holmes_Short_Stories_and_Novels
 
-*** HALF [#A] 血字的研究 A Study in Scarlet :P1887:
+*** DONE [#A] 血字的研究 A Study in Scarlet :P1887:
+CLOSED: [2024-10-01 Tue 11:29]
 :PROPERTIES:
 :goodreads: 4.14
 :END:
@@ -352,7 +353,9 @@ https://breezewiki.com/bakerstreet/wiki/Unaired_Pilot
 ***** DONE 1x01 A Study in Pink
 CLOSED: [2024-09-26 Thu 18:56]
 
-***** 1x02 The Blind Banker
+***** DONE 1x02 The Blind Banker
+CLOSED: [2024-10-02 Wed 14:38]
+
 ***** 1x03 The Great Game
 **** S2 :P2012:
 *** Elementary (2012-2019)
@@ -539,7 +542,6 @@ CLOSED: [2023-09-24 Sun 20:24] SCHEDULED: <2023-09-24 Sun>
 ***** DONE [#B] 5x13 Over a Barrel :benben:
 CLOSED: [2023-10-01 Sun 15:53] SCHEDULED: <2023-09-30 Sat>
 
-**** DOING S5 part2 :P2016:S2024_09:
 ***** DONE 5x14
 CLOSED: [2024-08-29 Thu 22:24]
 
@@ -564,10 +566,9 @@ CLOSED: [2024-09-19 Thu 20:14]
 ***** DONE 5x22
 CLOSED: [2024-09-20 Fri 21:53]
 
-***** DONE 5x23
-CLOSED: [2024-09-29 Sun 08:10]
+***** DONE 5x23/24
+CLOSED: [2024-09-30 Mon 22:19]
 
-***** 5x24
 **** S6 :P2018:
 
 21 episodes
@@ -735,7 +736,7 @@ CLOSED: [2023-10-03 Tue 21:44] SCHEDULED: <2023-10-02 Mon>
 ***** DONE [#C] 1x10 The Dream :benben:
 CLOSED: [2023-10-21 Sat 16:28] SCHEDULED: <2023-10-09 Mon>
 
-**** DOING series 2 :P1990:S2024_09:
+**** DONE series 2 :P1990:S2024_09:
 
 其中第1集为长篇小说改编，片长100分钟；其他8集均为短篇小说改编，片长50分钟。
 
@@ -763,7 +764,9 @@ CLOSED: [2024-09-22 Sun 22:50]
 ***** DONE 2x08. The Kidnapped Prime Minister 首相绑架案
 CLOSED: [2024-09-27 Fri 20:20]
 
-***** 2x09. The Adventure of the Western Star 西方之星
+***** DONE 2x09. The Adventure of the Western Star 西方之星
+CLOSED: [2024-10-02 Wed 17:55]
+
 **** series 3 :P1991:
 ***** 3x01 The Mysterious Affair at Styles 斯泰尔斯庄园奇案
 
@@ -787,16 +790,34 @@ CLOSED: [2024-09-16 Mon 17:46]
 **** series 13 :P2013:
 ** Miss Marple 系列 :marple:
 *** books
+**** [#B] 寓所迷案 Murder at the Vicarage
+:PROPERTIES:
+:goodreads: 4.05
+:douban:   7.5
+:END:
+
 **** HALF [#A] 谋杀启事 A Murder is Announced :已购:
 :PROPERTIES:
 :goodreads: 4.01
 :douban:   8.0
 :END:
 
-**** [#B] 寓所迷案 Murder at the Vicarage
+**** [#B] 4:50 from Paddington 命案目睹记
 :PROPERTIES:
-:goodreads: 4.05
-:douban:   7.5
+:goodreads: 3.96
+:douban:   7.7
+:END:
+
+**** [#B] The Mirror Crack'd from Side to Side 破镜谋杀案
+:PROPERTIES:
+:goodreads: 3.95
+:douban:   7.6
+:END:
+
+**** [#B] Sleeping Murder 沉睡谋杀案
+:PROPERTIES:
+:goodreads: 3.98
+:douban:   7.6
 :END:
 
 **** [#B] 📂死亡草 （短篇集）
@@ -831,7 +852,9 @@ CLOSED: [2023-09-24 Sun 13:20] SCHEDULED: <2023-09-24 Sun>
 CLOSED: <2023-10-04 Wed 20:55> SCHEDULED: <2023-10-04 Wed>
 
 **** season 2 :P2006:
-***** 2x01 Sleeping Murder
+***** DONE 2x01 Sleeping Murder
+CLOSED: [2024-10-08 Tue 08:12]
+
 ***** 2x02 The Moving Finger
 **** Season 6 :P2013:
 ** misc

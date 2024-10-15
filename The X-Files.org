@@ -577,7 +577,7 @@ CLOSED: [2023-05-31 Wed 21:19]
 *** DONE 2x23
 CLOSED: [2023-05-31 Wed 22:15]
 
-** Fringe S3 :P2010:S2024_05:S2024_06:
+** Fringe S3 :P2010:
 
 22 episodes
 
@@ -636,7 +636,7 @@ CLOSED: [2024-05-25 Sat 08:07]
 CLOSED: [2024-06-03 Mon 08:06]
 
 *** 3x19 Lysergic Acid Diethylamide
-** Fringe S4
+** Fringe S4 :S2025_Q2:
 
 22 episodes
 

@@ -49,14 +49,14 @@ CLOSED: [2023-01-02 Mon 17:59]
 ***** DONE #9-12
 CLOSED: [2023-01-07 Sat 15:06]
 
-**** DONE Blade Runner 2029 :P2020:S2024_02:
+**** DONE Blade Runner 2029 :P2020:
 CLOSED: [2024-05-17 Fri 13:42] SCHEDULED: <2024-05-25 Sat>
 
 December 16, 2020 – February 9, 2022
 
 download: https://comics.codes/blade-runner-2029/
 
-**** READY /Blade Runner 2039/ :P2023:
+**** READY /Blade Runner 2039/ :P2023:S2025_Q1:
 
 https://comics.codes/blade-runner-2039/
 
@@ -204,10 +204,12 @@ CLOSED: [2024-01-07 Sun 10:25]
 
 从图书馆借阅
 
-***** TBR [#B] 时间脱节 Time Out of Joint (已读《幻觉》) :P1959:
+***** DONE [#B] 时间脱节 Time Out of Joint :P1959:
 :PROPERTIES:
 :goodreads: 3.86
 :END:
+
+已读江苏教育出版社版本（译名《幻觉》)
 
 **** 1961-1968
 ***** DONE [#D] ↗The Man in the High Castle :P1962:
@@ -219,7 +221,7 @@ CLOSED: [2024-01-07 Sun 10:25]
 :goodreads: 3.78
 :END:
 
-***** NEXT [#C] 火星时间穿越 （火星人的时光倒转） Martian Time-Slip :P1964:已购:
+***** NEXT [#C] 火星时间穿越 （火星人的时光倒转） Martian Time-Slip :P1964:已购:S2025_Q1:
 :PROPERTIES:
 :goodreads: 3.76
 :END:
@@ -355,7 +357,7 @@ CLOSED: [2022-01-03 Mon 08:41]
 ***** DONE 骡
 CLOSED: [2023-01-11 Wed 13:17]
 
-**** DONE [#A] 3. 第二基地 :P1953:S2024_01:
+**** DONE [#A] 3. 第二基地 :P1953:
 CLOSED: [2024-02-03 Sat 14:28]
 :PROPERTIES:
 :goodreads: 4.25
@@ -369,7 +371,7 @@ CLOSED: [2022-01-05 Wed 00:05]
 :douban:   9.1
 :END:
 
-**** HALF [#A] 5. 迈向基地 :P1993:
+**** HALF [#A] 5. 迈向基地 :P1993:S2025_Q1:
 :PROPERTIES:
 :goodreads: 4.15
 :douban:   9.0
@@ -405,7 +407,7 @@ CLOSED: [2022-03-05 Sat 23:24]
 **** DONE The Caves of Steel 钢窟 :P1958:
 CLOSED: [2023-01-21 Sat 22:50]
 
-**** LATER The Naked Sun 裸阳 :P1958:
+**** LATER The Naked Sun 裸阳 :P1958:S2025_Q1:
 **** The Robots of Dawn :P1983:
 **** Robots and Empire :P1985:
 *** Galactic Empire 银河帝国系列 :ebook:
@@ -424,7 +426,7 @@ CLOSED: <2022-02-01 Tue>
 **** The Last Question
 **** Earth is Room Enough
 ** tv
-*** Foundation S1
+*** DONE Foundation S1
 
 https://foundation.fandom.com/wiki/Season_One
 
@@ -458,10 +460,9 @@ CLOSED: <2022-01-15 Sat 14:48>
 ***** DONE 1x10
 CLOSED: [2022-01-15 Sat 23:26]
 
-*** Foundation S2 :S2024_02:
+*** DONE Foundation S2
 
 https://foundation.fandom.com/wiki/Season_Two
-
 
 **** DONE 2x01
 CLOSED: <2024-01-29 Mon 22:01>
@@ -598,8 +599,6 @@ CLOSED: [2023-01-13 Fri 12:36]
 T2 Saga is a comic series comprised of Terminator: Infinity and Terminator: Revolution, totally 10 issues published by Dynamite Entertainment.
 
 Though titled "T2" (Terminator 2), the story itself is a continuation to the film Terminator 3: Rise of the Machines with some minor continuity differences.
-
-
 
 ***** Terminator: Infinity :P2007:
 ***** Terminator: Revolution :P2009:

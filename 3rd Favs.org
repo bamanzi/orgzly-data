@@ -218,3 +218,32 @@ CLOSED: [2024-08-14 Wed 23:20]
 *** DONE 6x07
 CLOSED: [2024-08-18 Sun 21:43]
 
+*** DONE 6x08
+CLOSED: [2024-08-21 Wed 22:02]
+
+*** DONE 6x09
+CLOSED: [2024-08-23 Fri 23:37]
+
+*** DONE 6x10
+CLOSED: <2024-09-02 Mon 22:48>
+
+*** DONE 6x11
+CLOSED: [2024-09-10 Tue 22:59]
+
+*** DONE 6x12
+CLOSED: [2024-10-01 Tue 16:12]
+
+*** DONE 6x13 The Bakersfield Expedition
+CLOSED: [2024-10-04 Fri 23:23]
+
+The guys are heading to a comic book convention in Bakersfield, California dressed as /Star Trek: Next Generation/ characters while the girls investigate the world of comic books.
+
+*** DONE 6x14
+CLOSED: [2024-10-06 Sun 23:24]
+
+*** DONE 6x15
+CLOSED: [2024-10-06 Sun 23:44]
+
+*** DONE 6x16
+CLOSED: [2024-10-09 Wed 23:28]
+
