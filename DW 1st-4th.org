@@ -185,7 +185,9 @@ SCHEDULED: <2023-07-22 Sat>
 ****** DONE [#A] EA5.1 The Dalek Occupation of Winter (9.0) :Steven:Vicki:daleks:plot_yes:DW2022_11_doctor:
 CLOSED: [2022-11-04 Fri 13:26] SCHEDULED: <2022-11-01 Tue>
 
-****** [#B] EA5.2 An Ideal World (8.2) :plot_no:
+****** HALF [#B] EA5.2 An Ideal World (8.2) :plot_no:DW2024_Q4a_doctor:
+SCHEDULED: <2024-10-19 Sat>
+
 ****** [#D] EA5.3 Entanglement (7.3) :plot_no:
 ****** [#A] EA5.4 The Crash of the UK-201 (8.8) :plot_no:
 **** CC

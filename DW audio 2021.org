@@ -1639,9 +1639,6 @@
 *** 3QTR [#A] TW51 The Five People You Kill in Middlebrough :Yvonne:
 *** [#D] J&L 8.3 - Jago & Litefoot & Patsy
 *** 3QTR [#B] BSBOX 1.4 Judgement Day :Benny:
-*** [#B] Missy2.4 Too Many Masters :Master:Missy:Monk:DW2024_Q2a_spinoffs:
-    SCHEDULED: <2024-04-14 Sun>
-
 *** 3QTR [#C] CM2.3 - Peshka
 ** dw2024-02-doctor
 *** 3QTR 3DA #9. The Annihilators - part 6-7 :3rd_Dr:Liz:Brigadier:2nd_Dr:Jamie:UNIT:
@@ -1664,7 +1661,7 @@
 *** HALF [#B] MR161 The Butcher of Brisbane :5th_Dr:Nyssa:Tegan:Toulough:
 *** HALF [#B] UNIT: Dominion #3 :7th_Dr:Klein:Master_bald:UNIT:
 *** 3QTR [#D] 9DA8.1 The Colour of Terror :9th_Dr:
-*** START [#B] 11DC4.1 All of Time and Space :11th_Dr:
+*** START [#B] 11DC4.1 All of Time and Space :11th_Dr:bilibili:
 ** dw2024-q2a-spinoffs
 *** 3QTR [#A] TW59 Sonny :Rhys:
     CLOSED: [2024-03-24 Sun 08:48]
@@ -1677,9 +1674,9 @@
 *** HALF [#C] EA4.1 The Night Witches :2nd_Dr:Jamie:Polly:Ben:
 *** [#C] 4DA 11.5 Peake Season :4th_Dr:
 *** DONE CDNM1.2 Judoom in Chains :6th_Dr:
-*** HALF 8DTW3.1 State of Bliss / ST12.1 Salvage :8th_Dr:Bliss:
-**** S12.1 Salvage :Bliss:
-*** [#D] 10DA1.2 Time Reaver :10th_Dr:Donna:bilibili:
+*** HALF 8DTW3.1 State of Bliss :8th_Dr:Bliss:
+*** HALF S12.1 Salvage :8th_Dr:Bliss:
+*** READY [#D] 10DA1.2 Time Reaver :10th_Dr:Donna:bilibili:
 *** HALF [#A] WDB3.3 - Rewind :War_Dr:
 ** dw2024-q2b-spinoffs
 *** [#C] TW7.1 Aliens Next Door :Orr:Ng:
@@ -1701,7 +1698,7 @@
 
 【【神秘博士广播剧熟肉】Shades of Fear 803 Red Darkness 赤红黑暗-哔哩哔哩】 https://b23.tv/RPnCOqH
 
-*** HALF [#D] 11DA4.2 The Yearn :11th_Dr:
+*** HALF [#D] 11DA4.2 The Yearn :11th_Dr:bilibili:
 ** dw2024-q3a-spinoffs
 *** 3QTR [#B] TW41 Red Base :Andy:
 *** DONE [#B] TW7.2 Colin Alone :Colchester:
@@ -1733,7 +1730,7 @@ http://drwhoguide.com/who_bf33.htm
 *** 3QTR [#B] WM7.3 Boundaries :Master_war:bilibili:
 *** READY [#C] Rose2.1 Saltwater :Rose:bilibili:
 *** HALF [#B] BSS1.1 Ever After Happy
-** DOING dw2024-q3c-doctor
+** dw2024-q3c-doctor
 *** HALF [#A] NA11. Cold Fusion :5th_Dr:7th_Dr:Roz:Chris:Adric:Nyssa:Tegan:3CD:plot_yes:
     :PROPERTIES:
     :rating:   8.7
@@ -1746,7 +1743,7 @@ http://drwhoguide.com/who_bf33.htm
 
 *** [#B] ST11.4 Death Will Not Part Us 🗣 :8th_Dr:War_Dr:9th_Dr:time_war:
 *** START [#C] 12DC1.4 Field Trip 🗣 :12th_Dr:Osgood:plot_yes:
-** DOING dw2024-q3c-spinoffs
+** dw2024-q3c-spinoffs
 *** DONE [#A] TW special 3: Believe :P2018:3CD:plot_yes:
     :PROPERTIES:
     :rating:   8.7
@@ -1757,22 +1754,24 @@ http://drwhoguide.com/who_bf33.htm
 *** HALF [#B] Peladon1. The Ordeal of Peladon :King_Peladon:14th_Dr:plot_yes:
 *** [#B] Gallifrey 3.5 - Panacea :Romana_2:Leela:
 *** HALF [#A] Unbound5. Deadline :bilibili:
-** dw2024-q4a-doctor
-*** [#B] EA5.2 An Ideal World :1st_Dr:Vicki:Steven:
-*** HALF [#C] 2023B Intelligence for War (part1~2) :3rd_Dr:Liz:3CD:
-*** FIXME [#C] CC4.05 - Ringpullworld :5th_Dr:Turlough:
+** DOING dw2024-q4a-doctor
+*** HALF [#B] EA5.2 An Ideal World :1st_Dr:Vicki:Steven:
+*** HALF [#C] 3DA23B Intelligence for War (part1~3) :3rd_Dr:Liz:3CD:DW2024_Q4a_doctor:
+    SCHEDULED: <2024-10-12 Sat>
+
+*** [#C] CC4.05 - Ringpullworld :5th_Dr:Turlough:
 *** [#B] MR139. Project: Destiny :7th_Dr:Ace:Hex:The_Forge:Lysandra:P2010:
 *** [#D] 9DA7.2 Lay Down Your Arms :9th_Dr:
-*** [#A] 11DC4.3 Curiosity Shop :11th_Dr:
-** dw2024-q4a-spinoffs
-*** FIXME [#A] 7.6 At Her Majesty’s Pleasure :Yvonne:Andy:
-*** FIXME [#C] TW69 Double part 1
+*** [#A] 11DC4.3 Curiosity Shop :11th_Dr:bilibili:
+** DOING dw2024-q4a-spinoffs
+*** HALF [#A] TW7.6 At Her Majesty’s Pleasure :Yvonne:Andy:
+*** [#C] TW69 Double part 1
 *** [#D] UNIT2.2 Death in Geneva
-*** FIXME [#B] JL9.2 - The Devil's Dicemen
-*** HALF [#C] River4.2 - Kings of Infinite Space :River:
-*** [#A] WM7.4 The Last Line :Master_war:10th_Dr:
+*** [#B] JL9.2 - The Devil's Dicemen
+*** [#C] River4.2 - Kings of Infinite Space :River:
+*** HALF [#B] Missy2.4 Too Many Masters :Master_missy:Monk:
 *** [#C] Rose2.2 Now is the New Dark :Rose:
-** dw2024-q4a-pending
+** FIXME dw2024-q4a-pending
 *** [#C] 268B. Displaced :7th_DR:Ace:Hex:plot_no:
 ** dw2024-q4b-doctor
 *** FIXME [#D] 2DA23.1 Jamie :2nd_Dr:
@@ -1789,11 +1788,12 @@ http://drwhoguide.com/who_bf33.htm
 *** FIXME [#C] UNIT2.3 The Battle of the Tower
 *** [#D] PG4.3 - Rulers of Earth
 *** [#C] BSBOX 2.1 Brand Management :Benny:
-*** FIXME [#D] Missy3.1 Body and Soulless / [#A] ST9.6 The Same Face
+*** FIXME [#A] WM7.4 The Last Line :Master_war:10th_Dr:
 *** [#A] Rose2.3 The Rogue Planet :Rose:
 ** dw2024-q4b-pending
 *** [#C] 6DnP1.1 - The Headless Ones :6th_Dr:Peri:
 *** [#C] CM3.2 - The Concrete Cage
+*** FIXME [#D] Missy3.1 Body and Soulless / [#A] ST9.6 The Same Face
 * pending
 ** odd
 *** [#B] LS2.1b The Fragile Yellow Arc of Fragrance (Susan, Ian, Barbara) :plot_yes:

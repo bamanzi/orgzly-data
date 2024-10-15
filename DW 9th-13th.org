@@ -98,7 +98,9 @@ SCHEDULED: <2023-09-24 Sun>
 
 **** 📂S2.3 Hidden Depth :P2022_11:
 ***** [#E] +7.1 The Seas of Titan+
-***** [#D] 7.2 Lay Down Your Arms
+***** [#D] 7.2 Lay Down Your Arms :DW2024_Q4a_doctor:
+SCHEDULED: <2024-10-26 Sat>
+
 ***** 2DONE [#A] 7.3 Flatpack :Liv:Tania:bilibili:DW2023_11_doctor:
 SCHEDULED: <2023-11-11 Sat>
 :PROPERTIES:
@@ -505,7 +507,7 @@ SCHEDULED: <2022-04-29 Fri>
 :rating:   7.5
 :END:
 
-***** READY [#B] Out of Time #3 Wink :6th_Dr:Weeping_Angels:P2022_06:bilibili:DW2024_Q3c_doctor:
+***** HALF [#B] Out of Time #3 Wink :6th_Dr:Weeping_Angels:P2022_06:bilibili:DW2024_Q3c_doctor:
 SCHEDULED: <2024-10-12 Sat>
 :PROPERTIES:
 :rating:   8.0
@@ -872,17 +874,20 @@ SCHEDULED: <2024-07-13 Sat>
 
 【【神秘博士广播剧熟肉】All of Time and Space 402 The Yearn 渴望-哔哩哔哩】 https://b23.tv/BPVZGsy
 
-**** READY [#A] 4.3 Curiosity Shop :P2023_02:bilibili:
+**** READY [#A] 4.3 Curiosity Shop :P2023_02:bilibili:DW2024_Q4a_doctor:
+SCHEDULED: <2024-11-02 Sat>
 :PROPERTIES:
 :rating:   8.6
 :END:
 
 【【神秘博士广播剧熟肉】All of Time and Space 403 Curiosity Shop 古董店-哔哩哔哩】 https://b23.tv/bFj2VgO
 
-**** [#A] 4.4 Broken Hearts (9.1) :P2023_11:
+**** READY [#A] 4.4 Broken Hearts [A⁺] :P2023_11:bilibili:
 :PROPERTIES:
 :rating:   9.1
 :END:
+
+【【神秘博士广播剧熟肉】All of Time and Space 404 Broken Hearts 破碎的心-哔哩哔哩】 https://b23.tv/g5LFC71
 
 *** 11DC vol.5 Everywhere and Anywhere :Valarie:P2023_12:
 **** 5.1 Spirit of the Season

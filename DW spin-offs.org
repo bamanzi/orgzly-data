@@ -459,9 +459,15 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 ***** CANCEL [#E] 66. Torchwood: SUV :Ianto:Tosh:
 ***** [#B] 67. The Lincolnshire Poacher :Ianto:plot_yes:
 ***** CANCEL [#F] 68. The Empire Man :Queen:plot_yes:
-***** [#C] 69. Double part1 :Autons:P2023_01:plot_yes:
+***** [#C] 69. Double part1 :Autons:P2023_01:plot_yes:DW2024_Q4a_spinoffs:
+      SCHEDULED: <2024-11-10 Sun>
+
 ***** [#A] 70. Double part2 :Autons:plot_yes:
 ***** [#E] 71. The Last Love Song of Suzie Costello :Suzie:plot_yes:
+      :PROPERTIES:
+      :rating:   6.6
+      :END:
+
 ***** [#D] 72. The Thirst Trap :Andy:Rhys:plot_yes:
 **** series 9 (73-84) :P2023:
 ***** [#E] 73. Launch Date :Ianto:P2023_04:
@@ -670,7 +676,9 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
 
 ***** [#C] 7.4 Moderation :Tyler:Colchester:
 ***** [#E] 7.5 Propaganda :Orr:
-***** [#A] 7.6 At Her Majesty’s Pleasure :Yvonne:Andy:
+***** HALF [#A] 7.6 At Her Majesty’s Pleasure :Yvonne:Andy:DW2024_Q4a_spinoffs:
+      SCHEDULED: <2024-10-20 Sun>
+
 ***** [#A] 7.7 Cuckoo (9.1) :Bilis_Manger:
 ***** [#A] 7.8 Pariahs :Yvonne:Colchester:Ng:Tyler:Orr:
 ***** [#A] 7.9 How I Conquered the World
@@ -950,7 +958,7 @@ Professor Jemima Still has picked up a signal from an impossible source and ta
 But their mission is about to unleash hell upon the universe…
 
 ***** [#C] 4.2 - Kings of Infinite Space :DW2024_Q4a_spinoffs:
-      SCHEDULED: <2024-08-04 Sun>
+      SCHEDULED: <2024-11-03 Sun>
       :PROPERTIES:
       :rating:   7.7
       :END:
@@ -1197,7 +1205,8 @@ Roberts Master
     :rating:   8.1
     :END:
 
-*** [#B] 9.2 - The Devil's Dicemen
+*** [#B] 9.2 - The Devil's Dicemen :DW2024_Q4a_spinoffs:
+    SCHEDULED: <2024-10-27 Sun>
     :PROPERTIES:
     :rating:   8.1
     :END:
@@ -1401,8 +1410,8 @@ Roberts Master
      :rating:   6.7
      :END:
 
-**** HALF [#A] 1.5 Just War :WW2:2CD:plot_yes:DW2024_Q3c_spinoffs:
-     SCHEDULED: <2024-10-05 Sat>
+**** 3QTR [#A] 1.5 Just War :WW2:2CD:plot_yes:DW2024_Q3c_spinoffs:
+     CLOSED: [2024-10-07 Mon 07:54] SCHEDULED: <2024-10-05 Sat>
      :PROPERTIES:
      :rating:   9.2
      :END:
@@ -1841,8 +1850,8 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
      :rating:   7.2
      :END:
 
-**** TODO [#B] 2.4 - Too Many Masters :Monk:plot_no:DW2024_01_spinoffs:
-     SCHEDULED: <2024-01-28 Sun>
+**** HALF [#B] 2.4 - Too Many Masters :Monk:plot_no:DW2024_Q4a_spinoffs:
+     SCHEDULED: <2024-10-12 Sat>
      :PROPERTIES:
      :rating:   8.2
      :END:
@@ -2365,7 +2374,8 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
     :rating:   7.5
     :END:
 
-*** [#D] 2.2 Death in Geneva
+*** [#D] 2.2 Death in Geneva :DW2024_Q4a_spinoffs:
+    SCHEDULED: <2024-11-03 Sun>
     :PROPERTIES:
     :rating:   7.1
     :END:
@@ -2932,7 +2942,8 @@ https://doctorwho.guide/sj_06.htm
 
 【【神秘博士广播剧熟肉】The Dimension Cannon 201 Saltwater 盐水-哔哩哔哩】 https://b23.tv/M44oyPQ
 
-**** READY [#B] 2.2 Now is the New Dark :bilibili:
+**** READY [#B] 2.2 Now is the New Dark :bilibili:DW2024_Q4a_spinoffs:
+     SCHEDULED: <2024-11-17 Sun>
      :PROPERTIES:
      :rating:   8.0
      :END:
