@@ -174,7 +174,7 @@ CLOSED: [2021-07-09 Fri 17:25]
 
 **** DONE Hush (#608-619) :P2003:
 **** Broken City (#620-625) :P2004:
-**** DONE War Game saga :P2004:
+**** DONE War Game saga :P2004:Stephanie_Brown:
 **** [#C] Batman: City of Crime  (DC #800-808,811-814) :P2005:
 
  一个黑暗的谜团，将蝙蝠侠带入了哥谭下方最贫瘠的地区。
@@ -628,25 +628,7 @@ Batman (Volume 3) #45-50
 ***** Vol. 10: Knightmares
 ***** Vol. 11: The Fall and the Fallen
 ***** Vol. 12/13 City of Bane
-**** Detective Comics v1 (rebirth) :S2024_10:
-***** DONE vol.1	Rise of the Batmen :P2016:
-CLOSED: [2024-10-15 Tue 05:16]
-
-Detective Comics #934-940
-
-***** Vol. 2 The Victim Syndicate :P2016:
-
-Detective Comics #943-949
-
-***** Vol. 3 League of Shadows
-
-Detective Comics #950-956	
-collected in Batman: League of Shadows
-
-***** Vol. 4: Deus Ex Machine
-***** Vol. 5: A Lonely Place of Living
-***** Vol. 6: Fall of the Batmen
-***** Vol. 7: Batmen Eternal
+**** Detective Comics: Rebirth vol.1-7 ↗
 **** crossover
 ***** DONE (2016)	Night of the Monster Men :Dr_Strange:
 CLOSED: [2023-11-10 Fri 13:52] SCHEDULED: <2023-09-23 Sat>
@@ -665,22 +647,18 @@ collected in Batman / The Falsh: The Button
 
 算是末日钟声(Doomsday Clock) 的序曲
 
-***** Batwoman Begins :P2017:
-
-Detective Comics #948-949
-
 **** singles
-***** (2017) Rooftops
+***** DONE (2017) Rooftops
 
 Batman #14-15	
 collected in Batman: I am Suicide
 
-***** (2017) Higher Powers
+***** DONE (2017) Higher Powers
 
 Detective Comics #950		
 A Backup Story
 
-***** (2017) The Big Picture
+***** DONE (2017) The Big Picture
 
 Detective Comics #950		
 A Backup Story
@@ -693,6 +671,9 @@ Batman Confidential #1-6
 **** [#C] Dark Nights: Metal :P2017:
 
 - Dark Nights: Metal #1-6
+
+**** DONE Batman: Preludes to the Wedding :P2018:
+CLOSED: [2024-10-24 Thu 13:48]
 
 *** pending
 **** 阿克汉姆疯人院：严肃地球上的严肃的屋宅
@@ -751,6 +732,15 @@ Batman Confidential #1-6
 ***** vol.6 Keeper of the Castle
 ***** vol.7 Inheritance
 **** DONE Batman: Heart of Hush ↗
+**** Catwoman v5
+
+It begain in 2018, following the canceled wedding of Catwoman and Batman in Batman (Volume 3) #50.
+
+***** Vol.1: Copycats :P2018:
+***** Vol.2: Far From Gotham :P2019:
+***** Vol.3: Friend or Foe? :P2019:
+***** Vol.4: Come Home, Alley Cat :P2020:
+***** Vol.5: Valley of the Shadow of Death :P2020:
 *** Dick Greyson
 **** DONE [#B] Robin: Year One (4 issues) :hanzify:Grayson:Two_Face:origin:
 
@@ -829,19 +819,55 @@ SCHEDULED: <2023-11-12 Sun>
 **** 📂Batwomen v3, by Marguerite Bennett (2017-2018)
 *** GCPD
 **** Gotham Central
-*** Batgirl
-**** [#C] Batgirl vol.3 #1-24 :batgirl:
+*** Batfamily
+**** Detective Comics v1 (rebirth) :S2024_10:
+***** DONE vol.1	Rise of the Batmen :P2016:Batwoman:
+CLOSED: [2024-10-15 Tue 05:16]
 
- 随着布鲁斯的离开，卡茜决定放弃蝙蝠女郎的衣钵，而史蒂芬妮·布朗决定将其接过。她意识到学习过程会十分艰难，但芭芭拉·戈登会提供帮助。
+Detective Comics #934-940
 
-***** DONE 1-7. Batgirl Rising
-CLOSED: [2022-08-09 Tue 13:42] SCHEDULED: <2022-08-10 Wed>
+https://breezewiki.com/dc/wiki/Detective_Comics:_Rise_of_the_Batmen_(Collected)
 
-***** DONE 9-14. The Flood
-CLOSED: [2022-08-14 Sun 07:54] SCHEDULED: <2022-08-14 Sun>
+***** DONE Vol. 2 The Victim Syndicate :P2016:Batwoman:Stephanie_Brown:
+CLOSED: [2024-10-18 Fri 23:30]
 
-***** HALF 15-24. The Lesson
-SCHEDULED: <2022-09-25 Sun>
+Detective Comics #943-949
+
+https://breezewiki.com/dc/wiki/Detective_Comics:_The_Victim_Syndicate_(Collected)
+
+***** DONE Vol. 3 League of Shadows :Cassandra_Cain:
+CLOSED: [2024-10-20 Sun 23:06]
+
+Detective Comics #950-956	
+
+https://breezewiki.com/dc/wiki/Detective_Comics:_League_of_Shadows_(Collected)
+
+***** DONE Vol. 4: Deus Ex Machine :Azrael:Zatanna:
+CLOSED: [2024-10-22 Tue 12:56]
+
+Detective Comics #957-962
+
+https://breezewiki.com/dc/wiki/Detective_Comics:_Deus_Ex_Machina_(Collected)
+
+***** DONE Vol. 5: A Lonely Place of Living :Tim_Drake:
+CLOSED: [2024-10-26 Sat 06:46]
+
+Detective Comics #963-958
+
+https://breezewiki.com/dc/wiki/Detective_Comics:_A_Lonely_Place_of_Living_(Collected)
+
+***** DONE Vol. 6: Fall of the Batmen
+CLOSED: <2024-10-27 Sun 23:17>
+
+Detective Comics #969-974, & Annual 2018
+
+https://breezewiki.com/dc/wiki/Detective_Comics:_Fall_of_the_Batmen_(Collected)
+
+***** Vol. 7: Batmen Eternal
+
+Detective Comics #975-981
+
+https://breezewiki.com/dc/wiki/Detective_Comics:_Batmen_Eternal_(Collected)
 
 *** misc
 **** DONE Batman/Huntress: Cry for Blood (3 issues) :Huntress:P2000:origin:
@@ -851,6 +877,23 @@ SCHEDULED: <2022-09-25 Sun>
 **** TODO The Cat and the Bat (BC #17-21) :P2009:Barbara_Gordon:Catwoman:
 
 The story details the first meeting between Batgirl and Catwoman.
+
+**** Cassandra Cain
+***** Batgirl v1 (2000-2006)
+***** Batgirl v2 (2008)
+**** Stephanie Brown
+***** [#C] Batgirl vol.3 #1-24 :batgirl:
+
+ 随着布鲁斯的离开，卡茜决定放弃蝙蝠女郎的衣钵，而史蒂芬妮·布朗决定将其接过。她意识到学习过程会十分艰难，但芭芭拉·戈登会提供帮助。
+
+****** DONE 1-7. Batgirl Rising
+CLOSED: [2022-08-09 Tue 13:42] SCHEDULED: <2022-08-10 Wed>
+
+****** DONE 9-14. The Flood
+CLOSED: [2022-08-14 Sun 07:54] SCHEDULED: <2022-08-14 Sun>
+
+****** HALF 15-24. The Lesson
+SCHEDULED: <2022-09-25 Sun>
 
 ** comics (villains) :📚:
 *** Penguin
@@ -1037,7 +1080,7 @@ CLOSED: [2023-12-23 Sat 09:38]
 **** DONE 2x10
 CLOSED: [2023-12-25 Mon 20:21] SCHEDULED: <2023-12-30 Sat>
 
-*** DOING Pennyworth S3 :S2024_10:
+*** DONE Pennyworth S3 :S2024_10:
 **** DONE 3x01
 CLOSED: [2024-10-03 Thu 16:52]
 
@@ -1059,7 +1102,15 @@ CLOSED: [2024-10-12 Sat 18:47]
 **** DONE 3x07
 CLOSED: [2024-10-14 Mon 08:12]
 
-**** 3x08
+**** DONE 3x08
+CLOSED: [2024-10-21 Mon 08:07]
+
+**** DONE 3x09
+CLOSED: [2024-10-22 Tue 20:11]
+
+**** DONE 3x10
+CLOSED: [2024-10-23 Wed 08:04]
+
 *** Harley Quinn TAS (animated) :Harley:
 
 https://dc.fandom.com/wiki/Harley_Quinn_(TV_Series)
@@ -1608,7 +1659,7 @@ CLOSED: [2023-10-03 Tue 12:51] SCHEDULED: <2023-10-04 Wed>
 **** DONE 2x15
 CLOSED: [2023-10-06 Fri 08:58] SCHEDULED: <2023-10-05 Thu 21:48>
 
-*** DOING Superman and Lois S3 :P2023:S2024_10:
+*** DONE Superman and Lois S3 :P2023:S2024_10:
 **** DONE 3x01
 CLOSED: [2024-09-30 Mon 21:22]
 
@@ -1636,8 +1687,18 @@ CLOSED: <2024-10-11 Fri 08:02>
 **** DONE 3x09
 CLOSED: [2024-10-11 Fri 21:29]
 
-**** 3x10
-**** 3x11
+**** DONE 3x10
+CLOSED: <2024-10-17 Thu 08:08>
+
+**** DONE 3x11
+CLOSED: <2024-10-18 Fri 19:49>
+
+**** DONE 3x12
+CLOSED: [2024-10-18 Fri 20:49]
+
+**** DONE 3x13
+CLOSED: [2024-10-20 Sun 19:43]
+
 ** movies
 *** DCEU
 **** Man of Steel :P2013:
@@ -1705,15 +1766,45 @@ CLOSED: [2023-10-25 Wed 08:12] SCHEDULED: <2023-10-23 Mon>
 ***** DONE Legends of Tomorrow 明日传奇3x08
 CLOSED: [2023-10-26 Thu 20:11] SCHEDULED: <2023-10-26 Thu>
 
-**** 5. Elseworld :P2018:S2024_10:
-**** 6. Crisis on Infinite Earths 无限地球危机 :S2024_Q4:
+**** DONE 5. Elseworld :P2018:S2024_10:
+***** DONE The Flash 5x09
+CLOSED: <2024-10-15 Tue 20:12>
+
+***** DONE Arrow 7x09
+CLOSED: [2024-10-15 Tue 21:44]
+
+***** DONE Supergirl 4x09
+CLOSED: [2024-10-16 Wed 21:17]
+
+**** 6. Crisis on Infinite Earths 无限地球危机 :S2025_Q4:
 ** Doom Patrol (tv series)
-*** S1
+*** DOING S1 :S2024_10:
 **** DONE 1x01
 CLOSED: <2024-10-12 Sat 22:58>
 
 **** DONE 1x02
 CLOSED: [2024-10-13 Sun 15:37]
+
+**** DONE 1x03
+CLOSED: [2024-10-18 Fri 19:06]
+
+**** DONE 1x04/05
+CLOSED: [2024-10-20 Sun 09:38]
+
+**** DONE 1x06
+CLOSED: <2024-10-22 Tue 22:01>
+
+**** DONE 1x07
+CLOSED: [2024-10-22 Tue 22:53]
+
+**** DONE 1x08
+CLOSED: [2024-10-23 Wed 19:45]
+
+**** DONE 1x09
+CLOSED: <2024-10-26 Sat 20:21>
+
+**** DONE 1x10
+CLOSED: [2024-10-28 Mon 08:20]
 
 * DCAMU :🎦:DCAMU:
 
@@ -1756,8 +1847,8 @@ The story is inspired by the /Batman Reborn/ arc, whilst also including elements
 :END:
 
 ** #Justice_League
-*** NOW [#A] Justice League: The Flashpoint Paradox :P2013:
-SCHEDULED: <2024-10-20 Sun>
+*** DONE [#A] Justice League: The Flashpoint Paradox :P2013:
+CLOSED: [2024-10-25 Fri 19:51] SCHEDULED: <2024-10-20 Sun>
 :PROPERTIES:
 :douban:   8.7
 :END:
@@ -1821,13 +1912,11 @@ CLOSED: <2024-09-25 Wed 23:18> SCHEDULED: <2024-10-05 Sat>
 :douban:   8.1
 :END:
 
-*** NOW [#A] The Suicide Squad (2021) X特遣队：全员集结
-SCHEDULED: <2024-10-13 Sun>
-
+*** LATER [#A] The Suicide Squad (2021) X特遣队：全员集结 :S2025_Q4:
 *** CANCEL [#F] Black Adam (2022)
 *** CANCEL [#F] Shazam! Fury of the Gods (2023)
 *** [#B] The Flash (2023) 闪电侠
 *** CANCEL [#F] Blue Beetle (2023)
 *** CANCEL [#E] Aquaman and the Lost Kingdom (2023)
-** tv
-*** NEXT [#A] Peacemaker 和平使者 :📺:
+** tv :📺:
+*** LATER [#A] Peacemaker 和平使者 :S2025_Q4:

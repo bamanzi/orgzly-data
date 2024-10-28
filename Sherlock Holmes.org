@@ -232,8 +232,8 @@ Audio adaptation of Clemens' 1988 play.
 
 First appearance of Nicholas Briggs as Sherlock and Richard Earl as Watson.
 
-- 【【广播剧汉化】 白教堂街的幽灵 Holmes and the Ripper （上）-哔哩哔哩】 https://b23.tv/yGvjj5H
-- 【【广播剧汉化】罪恶的真相 Holmes and the Ripper （下）-哔哩哔哩】 https://b23.tv/TbjNSVR
+- 【【广播剧汉化】 白教堂街的幽灵 Holmes and the Ripper （上）-哔哩哔哩】 https://b23.tv/HcTYxOE
+- 【【广播剧汉化】罪恶的真相 Holmes and the Ripper （下）-哔哩哔哩】 https://b23.tv/aGArUI9
 
 ***** [#D] 1.4 The Speckled Band
 :PROPERTIES:
@@ -343,20 +343,16 @@ CLOSED: [2022-08-26 Fri 22:02]
 
 https://breezewiki.com/bakerstreet/wiki/Sherlock_(2010)
 
-**** DOING S1 :P2010:
-***** 1x00 unaired pilot
-
-The pilot follows the same plot as "A Study in Pink"
-
-https://breezewiki.com/bakerstreet/wiki/Unaired_Pilot
-
+**** DONE S1 :P2010:
 ***** DONE 1x01 A Study in Pink
 CLOSED: [2024-09-26 Thu 18:56]
 
 ***** DONE 1x02 The Blind Banker
 CLOSED: [2024-10-02 Wed 14:38]
 
-***** 1x03 The Great Game
+***** DONE 1x03 The Great Game
+CLOSED: [2024-10-27 Sun 15:52]
+
 **** S2 :P2012:
 *** Elementary (2012-2019)
 **** DONE S1
@@ -855,7 +851,9 @@ CLOSED: <2023-10-04 Wed 20:55> SCHEDULED: <2023-10-04 Wed>
 ***** DONE 2x01 Sleeping Murder
 CLOSED: [2024-10-08 Tue 08:12]
 
-***** 2x02 The Moving Finger
+***** DONE 2x02 The Moving Finger
+CLOSED: [2024-10-19 Sat 17:04]
+
 **** Season 6 :P2013:
 ** misc
 *** 汤米夫妇探案集 Agatha Christie's Partners in Crime :📺:

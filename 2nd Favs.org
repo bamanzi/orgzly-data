@@ -37,8 +37,8 @@ CLOSED: [2022-03-17 Thu 07:27]
 CLOSED: [2023-04-13 Thu 13:08]
 
 **** DONE TPB.7 Brief Lives (#41-49) :S2024_04:
-**** TPB.8 Worlds' End (#51-56)
-**** TPB.9 The Kindly Ones (#57-69)
+**** TPB.8 Worlds' End (#51-56) :S2025_Q1:
+**** TPB.9 The Kindly Ones (#57-69) :S2025_Q1:
 **** TPB.10 The Wake
 *** Sandman Universe (2018- ) :📚:
 
