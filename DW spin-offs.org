@@ -486,8 +486,8 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 **** series 10
 ***** 85. Art Decadence :The_Mara:P2024_07:
 ***** 86. End Game :Tosh:
-***** 87. The Hollow Choir
-***** TBR 88. Widdershins :P2024_09:
+***** 87. The Hollow Choir :Rhys:
+***** 88. Widdershins :P2024_09:
 ***** TBR 89. Bad Connection :Suzie:
 ***** TBR 90. Reflect :Colchester:Ace:
 *** specials
@@ -1660,11 +1660,11 @@ http://drwhoguide.com/bs_a18.htm
 
 Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor can't get to her, not this time. All Benny can do is stay alive for as long as possible. And, in a city full of Daleks, that's not going to be very long.
 
-*** vol.2 The Triumph of Sutekh :7th_Dr:Sutekh:P2015:
-**** [#C] 2.1 - The Pyramid of Sutekh
-**** [#D] 2.2 - The Vault of Osiris
-**** [#B] 2.3 - The Eye of Horus
-**** [#C] 2.4 - The Tears of Isis
+*** vol.2 The Triumph of Sutekh :Sutekh:P2015:
+**** [#C] 2.1 - The Pyramid of Sutekh :7th_Dr:
+**** [#D] 2.2 - The Vault of Osiris :Ace:
+**** [#B] 2.3 - The Eye of Horus :7th_Dr:
+**** [#C] 2.4 - The Tears of Isis :7th_Dr:Ace:
 *** vol.3 The Unbound Universe :unbound_universe:Doctor_unbound:P2016:
 **** HALF Unbound #2: Sympathy for the Devil :bilibili:Master_unbound:
 
@@ -1932,7 +1932,10 @@ https://tieba.baidu.com/p/5863165791
 
 【【神秘博士广播剧】MASTER！301 Basilisk 蛇怪计划-哔哩哔哩】 https://b23.tv/X4ikFVS
 
-**** [#D] 3.2 Axos Rising
+**** READY [#D] 3.2 Axos Rising :bilibili:
+
+【【神秘博士广播剧】MASTER! 302 Axos Rising Axos崛起-哔哩哔哩】 https://b23.tv/2KICAg4
+
 **** [#D] 3.3 Hellbound
 ** The War Master  ↗
 ** TBR Call Me Master :Master_spy:
@@ -2650,6 +2653,10 @@ http://www.drwhoguide.com/kaldor03.htm
 **** 2.1 Anne of a Thousand Light Years :4th_Dr:
 **** 2.2 Pater Noster
 **** 2.3 The Gentleman Theives
+*** PG: Trespassers 3 - No Place Like Home :P2024_10:
+**** 3.1 Doppelgängers
+**** 3.2 Jellyfish!
+**** 3.3 The Houseguest
 * Counter-Measures :ICMG:🎧:
 ** CM series 1 :P2012:plot_yes:
 *** HALF [#D] 1.1 - Threshold :plot_yes:DW2022_07_spinoffs:
@@ -2904,14 +2911,18 @@ https://doctorwho.guide/sj_06.htm
 **** [#E] +1.2 - Prisoner of the Ood+ (6.9)
 **** [#F] +1.3 - Neon Reign+ (5.6)
 **** [#D] 1.4 - Zero Space (7.0)
-*** series 2 :P2021:
+*** series 2: Still Running :P2021:
 **** [#E] +2.1 - Inside the Maldorvarium+ (6.5?)
 **** HALF [#E] +2.2 - Altered Status+ (6.8?) :Cybermen:D2022_06_spinoffs:
      SCHEDULED: <2022-06-16 Thu>
 
 **** [#E] +2.3 - Calamity Jenny+ (6.6)
 **** [#D] 2.4 - Her Own Wrost Enemy (7.0)
-*** TBR series 3: Saving Time :P2024_10:
+*** series 3: Saving Time :P2024_10:
+**** 3.1 Florence O'Connor and the Sandwich of Doom
+**** 3.2 A Beginner's Guide to Monsters (and How to Slay Them)
+**** 3.3 Genesis of the Humans :Dorium:
+**** 3.4 Reboot
 ** Rose Tyler - The Dimension Cannon :Rose:
 *** RTDC vol.1 :P2019:
 **** 3QTR [#A] 1.1 - The Endless Night       (8.3) :D2022_06_spinoffs:

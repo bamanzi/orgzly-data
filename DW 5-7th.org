@@ -993,7 +993,10 @@ CLOSED: [2024-05-21 Tue 16:37] SCHEDULED: <2024-05-11 Sat>
 **** The Diary of River Song: Series 2
 ***** DONE [#B] 2.3 World Enough and Time
 ***** 3QTR [#C] 2.4 The Eye of the Storm :7th_Dr:
-**** ST2023. The Hoxeth Time Capsule :P2023_12:
+**** READY ST13.X The Hoxeth Time Capsule :P2023_12:bilibili:
+
+【【神秘博士】短途旅行：霍克斯泰斯的时间胶囊 | Short Trips: The Hoxteth Time Capsule-哔哩哔哩】 https://b23.tv/D7MmQye
+
 *** BBC
 **** [#C] Fortunes of War :WW1:P2018:1CD:
 **** [#C] The Flight of the Sun God :Peri:P2019:1CD:

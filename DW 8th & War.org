@@ -1156,11 +1156,11 @@ SCHEDULED: <2024-05-25 Sat>
 
 【【广播剧翻译】Valeyard复活参战？时间大战 304 The War Valeyard-哔哩哔哩】 https://b23.tv/klLTjmK
 
-*** 📂8D Time War vol.4 :Bliss:P2020:scripted:🎧:已购：
-**** 3QTR [#A] 4.1/4.2 The Palindrome :D2021_10_davros:Davros:
+*** 📂8D Time War vol.4 :Bliss:P2020:scripted:🎧:已购:
+**** 3QTR [#A] 4.1/4.2 The Palindrome [A⁺] :D2021_10_davros:Davros:
 CLOSED: [2021-10-25 Mon 08:47]
 :PROPERTIES:
-:rating:   9.4
+:rating:   9.2
 :END:
 
 day 5: 博士来访，但 davros 并不认得，博士说不可能，昨天刚。。。；daleks 从 portal 过来，杀了他妻子
@@ -1172,10 +1172,10 @@ CLOSED: [2021-11-12 Fri 18:30] SCHEDULED: <2021-11-20 Sat>
 :rating:   7.9
 :END:
 
-**** 3QTR [#A] 8DTW4.4 Restoration of the Daleks :D2021_11_davros:
+**** 3QTR [#A] 8DTW4.4 Restoration of the Daleks :Alex:D2021_11_davros:
 CLOSED: <2021-11-26 Fri 09:50> DEADLINE: <2021-11-26 Fri 21:54> SCHEDULED: <2021-11-20 Sat>
 :PROPERTIES:
-:rating:   9.2
+:rating:   8.9
 :END:
 
 ** 8. The Doctor and Cass Fermazzi
@@ -1192,7 +1192,11 @@ CLOSED: <2021-11-26 Fri 09:50> DEADLINE: <2021-11-26 Fri 21:54> SCHEDULED: <2021
 
 【【广播剧汉化】无限循环的死结 Cass 103 Previously, Next Time 上-哔哩哔哩】 https://b23.tv/dB3or7j
 
-*** TBR 📂8D Time War vol.6 Reflection :Cass:P2024_10:
+*** 📂8D Time War vol.6 Reflections :Cass:Alex:P2024_10:
+**** 6.1 Nowhere, Never
+**** 6.2 The Road Untravelled
+**** 6.3 Cass-cade
+**** 6.4 Borrow or Rob
 ** 9. Fall of Romana
 *** DONE GTW3.2 Nevernor
 CLOSED: [2020-12-17 Thu 19:53]
@@ -1235,7 +1239,7 @@ CLOSED: [2020-09-23 Wed 12:53]
 :END:
 
 **** HALF A Heart on Both Sides (Short Trips #7.9) :🎧:Nyssa:
-*** _📂Gallifrey: War Room vol.2_ :P2023_09:🎧:
+*** _📂Gallifrey: War Room vol.2 Manoeuvres_ :P2023_09:🎧:
 **** [#B] 2.1 Collaborators
 **** [#D] 2.2 Remnants
 **** [#A] 2.3 Transference
@@ -1491,11 +1495,6 @@ CLOSED: [2020-09-23 Wed 12:53]
 
 *** Dark Gallifrey 2: The War Master :Master_war:War_Dr:Benny:Unbound_Dr:Captain_John:P2024_08:
 *** 8th Doctor: Time War
-**** TBR vol.6 Uncharted :P2024_10:
-***** 6.1 Nowhere, Never
-***** 6.2 The Road Untravelled
-***** 6.3 Cass-cade
-***** 6.4 Borrow or Rob
 *** The War Doctor Rises
 **** WDR1: Morbius the Mighty :P2024_08:War_Dr:3CD:
 *** Susan's War vol.2 :Susan:War_Dr:P2024_08:

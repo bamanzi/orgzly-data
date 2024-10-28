@@ -180,16 +180,30 @@ SCHEDULED: <2023-07-22 Sat>
 :rating:   7.7
 :END:
 
-***** [#B] EA 3.3 The Ravelli Conspiracy (8.0) :Vicki:Steven:plot_no:
+***** [#B] EA 3.3 The Ravelli Conspiracy (8.0) :Vicki:Steven:plot_cast:
 ***** EA S5 :P2018:Vicki:Steven:
-****** DONE [#A] EA5.1 The Dalek Occupation of Winter (9.0) :Steven:Vicki:daleks:plot_yes:DW2022_11_doctor:
+****** DONE [#A] EA5.1 The Dalek Occupation of Winter :Steven:Vicki:daleks:plot_yes:DW2022_11_doctor:
 CLOSED: [2022-11-04 Fri 13:26] SCHEDULED: <2022-11-01 Tue>
+:PROPERTIES:
+:rating:   9.0
+:END:
 
-****** HALF [#B] EA5.2 An Ideal World (8.2) :plot_no:DW2024_Q4a_doctor:
+****** HALF [#C] EA5.2 An Ideal World :plot_cast:DW2024_Q4a_doctor:
 SCHEDULED: <2024-10-19 Sat>
+:PROPERTIES:
+:rating:   7.6
+:END:
 
-****** [#D] EA5.3 Entanglement (7.3) :plot_no:
-****** [#A] EA5.4 The Crash of the UK-201 (8.8) :plot_no:
+****** [#D] EA5.3 Entanglement :plot_no:
+:PROPERTIES:
+:rating:   7.2
+:END:
+
+****** [#A] EA5.4 The Crash of the UK-201 :plot_no:
+:PROPERTIES:
+:rating:   8.7
+:END:
+
 **** CC
 ***** 3QTR [#C] CC1.1 Frostfire :Vicki:Steven:scripted:plot_yes:bilibili:D2022_05_doctor:
 CLOSED: [2022-05-27 Fri 11:35] SCHEDULED: <2022-05-28 Sat>
@@ -957,7 +971,7 @@ SCHEDULED: <2023-05-27 Sat>
 ****** NEXT [#D] 23A.1 Supernature
 ****** [#D] 23A.2 The Conservitors
 ****** [#C] 23A.3 The Iron Shore
-***** TBR 24B. The Quintessence
+***** 24B. The Quintessence :Jo:3CD:P2024_10:
 **** misc
 ***** DONE [#A] The Sacrifice of Jo Grant (The Legacy of Time #3) :Jo:P2019:
 CLOSED: [2020-08-07 Fri 18:25]
@@ -2012,7 +2026,7 @@ https://www.bigfinish.com/releases/v/doctor-who-once-and-future-the-martian-inva
 *** 22. Escape the Daleks! :3rd_Dr:Jo:Daleks:P2024_01:
 *** 23. River of Death :6th_Dr:Peri:P2024_03:
 *** 24. The Demons Within :10th_Dr:Martha:P2024_05:
-*** 25. Dark Contract :5th_Dr:Tegan:Nyssa:Adric:
+*** 25. Dark Contract :5th_Dr:Tegan:Nyssa:Adric:P2024_08:
 *** 26. The Force of Death :8th_Dr:P2024_10:
 ** Sontarans vs Rutans
 *** 1. The Battle of Giant's Causeway :8th_Dr:Charley:Crizz:P2024_01:
