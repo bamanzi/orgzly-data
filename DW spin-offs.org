@@ -459,7 +459,7 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 ***** CANCEL [#E] 66. Torchwood: SUV :Ianto:Tosh:
 ***** [#B] 67. The Lincolnshire Poacher :Ianto:plot_yes:
 ***** CANCEL [#F] 68. The Empire Man :Queen:plot_yes:
-***** [#C] 69. Double part1 :Autons:P2023_01:plot_yes:DW2024_Q4a_spinoffs:
+***** HALF [#C] 69. Double part1 :Autons:P2023_01:plot_yes:DW2024_Q4a_spinoffs:
       SCHEDULED: <2024-11-10 Sun>
 
 ***** [#A] 70. Double part2 :Autons:plot_yes:
@@ -676,8 +676,8 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
 
 ***** [#C] 7.4 Moderation :Tyler:Colchester:
 ***** [#E] 7.5 Propaganda :Orr:
-***** HALF [#A] 7.6 At Her Majesty’s Pleasure :Yvonne:Andy:DW2024_Q4a_spinoffs:
-      SCHEDULED: <2024-10-20 Sun>
+***** 3QTR [#A] 7.6 At Her Majesty’s Pleasure :Yvonne:Andy:DW2024_Q4a_spinoffs:
+      CLOSED: [2024-10-19 Sat 20:47] SCHEDULED: <2024-10-20 Sun>
 
 ***** [#A] 7.7 Cuckoo (9.1) :Bilis_Manger:
 ***** [#A] 7.8 Pariahs :Yvonne:Colchester:Ng:Tyler:Orr:
@@ -957,7 +957,7 @@ Professor Jemima Still has picked up a signal from an impossible source and ta
 
 But their mission is about to unleash hell upon the universe…
 
-***** [#C] 4.2 - Kings of Infinite Space :DW2024_Q4a_spinoffs:
+***** START [#C] 4.2 - Kings of Infinite Space :DW2024_Q4a_spinoffs:
       SCHEDULED: <2024-11-03 Sun>
       :PROPERTIES:
       :rating:   7.7
@@ -1205,7 +1205,7 @@ Roberts Master
     :rating:   8.1
     :END:
 
-*** [#B] 9.2 - The Devil's Dicemen :DW2024_Q4a_spinoffs:
+*** HALF [#B] 9.2 - The Devil's Dicemen :DW2024_Q4a_spinoffs:
     SCHEDULED: <2024-10-27 Sun>
     :PROPERTIES:
     :rating:   8.1
@@ -2371,26 +2371,26 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
     :END:
 
 ** UNIT 2: Shutdown :P2016:plot_yes:
-*** HALF [#C] 2.1 Power Cell :DW2024_Q3b_spinoffs:
+*** HALF [#D] 2.1 Power Cell :DW2024_Q3b_spinoffs:
     SCHEDULED: <2024-08-25 Sun>
     :PROPERTIES:
-    :rating:   7.5
+    :rating:   7.3
     :END:
 
-*** [#D] 2.2 Death in Geneva :DW2024_Q4a_spinoffs:
+*** HALF [#D] 2.2 Death in Geneva :DW2024_Q4a_spinoffs:
     SCHEDULED: <2024-11-03 Sun>
     :PROPERTIES:
-    :rating:   7.1
+    :rating:   6.9
     :END:
 
 *** [#C] 2.3 The Battle of the Tower
     :PROPERTIES:
-    :rating:   7.5
+    :rating:   7.2
     :END:
 
 *** [#D] 2.4 Ice Station Alpha
     :PROPERTIES:
-    :rating:   7.3
+    :rating:   7.0
     :END:
 
 ** UNIT 3: Silenced :P2016:

@@ -1005,11 +1005,40 @@ CLOSED: [2021-09-24 Fri 18:50] SCHEDULED: <2021-09-04 Sat>
 :rating:   9.2
 :END:
 
-*** 3QTR [#B] 7.3 Boundaries :Cole:bilibili:DW2024_Q3b_spinoffs:
+*** 3QTR [#B] WM7.3 Boundaries :Cole:bilibili:DW2024_Q3b_spinoffs:
 CLOSED: <2024-08-13 Tue 08:57> SCHEDULED: <2024-08-11 Sun>
 
 【【广播剧汉化】徒劳的挣扎 The War Master 战争法师 703 Boundaries-哔哩哔哩】 https://b23.tv/KX01zpP
 
+*** /📂The War Master series 7: Self-Defence/ :Master_war:🎧:P2022_06:
+**** HALF [#B] 7.1 The Forest of Penitence :bilibili:DW2024_Q2b_spinoffs:
+SCHEDULED: <2024-05-26 Sun>
+
+【【广播剧汉化】恶魔的低语 The War Master 战争法师 701 The Forest Penitence-哔哩哔哩】 https://b23.tv/fdIB3vT
+
+**** 2DONE [#D] 7.2 The Players :bilibili:DW2024_Q3a_spinoffs:
+CLOSED: [2024-07-09 Tue 13:25] SCHEDULED: <2024-06-23 Sun>
+
+【【广播剧汉化】蹩脚的自辩 The War Master 战争法师 702 The Players-哔哩哔哩】 https://b23.tv/X3fable
+
+**** READY [#A] 7.4 The Last Line :10th_Dr:bilibili:DW2024_Q4b_spinoffs:
+
+【【广播剧汉化】注定的未来 The War Master 战争法师 704 The Last Line-哔哩哔哩】 https://b23.tv/t0szyKn
+
+*** /📂The War Master series 6: Killing Time/ :Master_war:P2021:🎧:scripted:
+**** DONE [#B] 6.1 - The Sincerest Form of Flattery :DW2023_08_spinoffs:
+CLOSED: [2023-12-16 Sat 19:21] SCHEDULED: <2023-09-03 Sun>
+
+**** 3QTR [#A] *6.2 - A Quiet Night In* #S :Jo:DW2023_09_spinoffs:
+CLOSED: <2023-09-08 Fri 09:33> SCHEDULED: <2023-09-17 Sun>
+
+**** HALF [#A] 6.3 - The Orphan :Nyssa:DW2023_11_spinoffs:
+SCHEDULED: <2023-11-19 Sun>
+
+**** HALF [#A] 6.4 - Unfinished Business :DW2023_12_spinoffs:
+SCHEDULED: <2023-12-24 Sun>
+
+*** Dark Gallifrey 2: The War Master :Master_war:War_Dr:Benny:Unbound_Dr:Captain_John:P2024_08:
 *** /📂The War Master series 5: Hearts of Darkness/ :Master_War:🎧:
 **** 2DONE [#B] 5.1 - The Edge of Redemption :plot_yes:DW2022_11_spinoffs:
 CLOSED: [2022-11-07 Mon 20:49] SCHEDULED: <2022-11-09 Wed>
@@ -1364,7 +1393,7 @@ CLOSED: [2023-12-13 Wed 08:37] SCHEDULED: <2023-12-16 Sat>
 【【神秘博士广播剧翻译】战争博士 The War Doctor 203 The Neverwhen-哔哩哔哩】 https://b23.tv/jkJamuv
 
 *** 📂The War Doctor vol.3 :scripted:🎧:P2016:已购:
-**** READY [#C] 3.1 - The Shadow Vortex :bilibili:
+**** READY [#C] 3.1 - The Shadow Vortex :bilibili:DW2024_Q4b_doctor:
 :PROPERTIES:
 :rating:   7.8
 :END:
@@ -1431,72 +1460,10 @@ Priyan tells Engin that Rassilon is initiating the Ultimate Sanction, placing it
 The Siege of Trenzalore is viewed by some as the true final battle of the Time War. 
 
 ** Currently Unplaced
-*** HALF [#B] ST11.4 Death Will Not Part Us 🗣 :8th_Dr:War_Dr:9th_Dr:time_war:🎧:DW2024_Q3c_doctor:
-SCHEDULED: <2024-09-28 Sat>
-:PROPERTIES:
-:rating:   8.0
-:END:
-
-*** /📂The War Master series 6: Killing Time/ :Master_war:P2021:🎧:scripted:
-**** DONE [#B] WM6.1 - The Sincerest Form of Flattery :DW2023_08_spinoffs:
-CLOSED: [2023-12-16 Sat 19:21] SCHEDULED: <2023-09-03 Sun>
-
-**** 3QTR [#A] *6.2 - A Quiet Night In* #S :Jo:DW2023_09_spinoffs:
-CLOSED: <2023-09-08 Fri 09:33> SCHEDULED: <2023-09-17 Sun>
-
-**** HALF [#A] 6.3 - The Orphan :Nyssa:DW2023_11_spinoffs:
-SCHEDULED: <2023-11-19 Sun>
-
-**** HALF [#A] 6.4 - Unfinished Business :DW2023_12_spinoffs:
-SCHEDULED: <2023-12-24 Sun>
-
-*** /📂The War Master series 7: Self-Defence/ :Master_war:🎧:P2022_06:
-**** HALF [#B] 7.1 The Forest of Penitence :bilibili:DW2024_Q2b_spinoffs:
-SCHEDULED: <2024-05-26 Sun>
-
-【【广播剧汉化】恶魔的低语 The War Master 战争法师 701 The Forest Penitence-哔哩哔哩】 https://b23.tv/fdIB3vT
-
-**** 2DONE [#D] 7.2 The Players :bilibili:DW2024_Q3a_spinoffs:
-CLOSED: [2024-07-09 Tue 13:25] SCHEDULED: <2024-06-23 Sun>
-
-【【广播剧汉化】蹩脚的自辩 The War Master 战争法师 702 The Players-哔哩哔哩】 https://b23.tv/X3fable
-
-**** READY [#A] 7.4 The Last Line :10th_Dr:bilibili:DW2024_Q4b_spinoffs:
-
-【【广播剧汉化】注定的未来 The War Master 战争法师 704 The Last Line-哔哩哔哩】 https://b23.tv/t0szyKn
-
-*** /📂The War Master series 9: Solitary Confinement/ :🎧:P2023_06:Master_war:
-**** READY [#A] 9.1 - The Walls of Absence :bilibili:
-
-【【广播剧汉化】燃烧的天空 The War Master 战争法师 901 The Walls of Absence-哔哩哔哩】 https://b23.tv/vQ364oL
-
-**** READY [#A] 9.2 - The Long Despair :bilibili:
-
-【【广播剧汉化】漫长的绝望 The War Master 战争法师 902 The Long Despair-哔哩哔哩】 https://b23.tv/ZP1QcKr
-
-**** READY [#A] 9.3 - The Life and Loves of Mr Alexander Bennett :bilibili:
-
-【【广播剧汉化】法师的画饼日常 The War Master 战争法师 903 The Life and Loves of Mr Alexander-哔哩哔哩】 https://b23.tv/W4xMLa7
-
-**** READY [#C] 9.4 - The Kicker :bilibili:
-
-【【广播剧汉化】真假法师 The War Master 战争法师 904 The Kicker-哔哩哔哩】 https://b23.tv/J1ytO0Z
-
-*** /📂The War Master series 10: Rogue Encounters/ :P2023_11:🎧:
-**** 10.1 Runtime
-**** 10.2 Manhunt
-**** 10.3 The Sublime Porte
-**** 10.4 Alone
 *** DONE STR1.2 Museum Peace :🎧:
 CLOSED: [2020-09-23 Wed 12:53]
 
 *** DONE COMIC: The Forgotten (8D part)
 CLOSED: [2020-09-23 Wed 12:53]
 
-*** Dark Gallifrey 2: The War Master :Master_war:War_Dr:Benny:Unbound_Dr:Captain_John:P2024_08:
 *** 8th Doctor: Time War
-*** The War Doctor Rises
-**** WDR1: Morbius the Mighty :P2024_08:War_Dr:3CD:
-*** Susan's War vol.2 :Susan:War_Dr:P2024_08:
-**** 2.1 The Lost Son
-**** 2.2 The Golden Child

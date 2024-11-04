@@ -1742,83 +1742,51 @@ http://drwhoguide.com/who_bf33.htm
     :END:
 
 *** [#B] ST11.4 Death Will Not Part Us 🗣 :8th_Dr:War_Dr:9th_Dr:time_war:
-*** START [#C] 12DC1.4 Field Trip 🗣 :12th_Dr:Osgood:plot_yes:
+*** [#C] 12DC1.4 Field Trip 🗣 :12th_Dr:Osgood:plot_yes:
 ** dw2024-q3c-spinoffs
 *** DONE [#A] TW special 3: Believe :P2018:3CD:plot_yes:
     :PROPERTIES:
     :rating:   8.7
     :END:
 
-*** [#A] BS1.5 Just War :Benny:WW2:2CD:plot_yes_dwg:
+*** 3QTR [#A] BS1.5 Just War :Benny:WW2:2CD:plot_yes_dwg:
 *** HALF [#D] CY2.1 - Young Winston :Churchill:Vastra:11th_Dr:
-*** HALF [#B] Peladon1. The Ordeal of Peladon :King_Peladon:14th_Dr:plot_yes:
-*** [#B] Gallifrey 3.5 - Panacea :Romana_2:Leela:
+*** 3QTR [#B] Peladon1. The Ordeal of Peladon :King_Peladon:14th_Dr:plot_yes:
+*** HALF [#B] Gallifrey 3.5 - Panacea :Romana_2:Leela:
 *** HALF [#A] Unbound5. Deadline :bilibili:
 ** DOING dw2024-q4a-doctor
 *** HALF [#B] EA5.2 An Ideal World :1st_Dr:Vicki:Steven:
-*** HALF [#C] 3DA23B Intelligence for War (part1~3) :3rd_Dr:Liz:3CD:DW2024_Q4a_doctor:
+*** HALF [#C] 3DA23B Intelligence for War (part1~3) :3rd_Dr:Liz:3CD:plot_yes:DW2024_Q4a_doctor:
     SCHEDULED: <2024-10-12 Sat>
 
 *** [#C] CC4.05 - Ringpullworld :5th_Dr:Turlough:
-*** [#B] MR139. Project: Destiny :7th_Dr:Ace:Hex:The_Forge:Lysandra:P2010:
+*** 3QTR [#B] MR139. Project: Destiny :7th_Dr:Ace:Hex:The_Forge:Lysandra:P2010:
 *** [#D] 9DA7.2 Lay Down Your Arms :9th_Dr:
-*** [#A] 11DC4.3 Curiosity Shop :11th_Dr:bilibili:
+*** READY [#A] 11DC4.3 Curiosity Shop :11th_Dr:bilibili:
 ** DOING dw2024-q4a-spinoffs
-*** HALF [#A] TW7.6 At Her Majesty’s Pleasure :Yvonne:Andy:
+*** 3QTR [#A] TW7.6 At Her Majesty’s Pleasure :Yvonne:Andy:
 *** [#C] TW69 Double part 1
-*** [#D] UNIT2.2 Death in Geneva
-*** [#B] JL9.2 - The Devil's Dicemen
+*** HALF [#D] UNIT2.2 Death in Geneva
+*** HALF [#B] JL9.2 - The Devil's Dicemen
 *** [#C] River4.2 - Kings of Infinite Space :River:
 *** HALF [#B] Missy2.4 Too Many Masters :Master_missy:Monk:
 *** [#C] Rose2.2 Now is the New Dark :Rose:
-** FIXME dw2024-q4a-pending
-*** [#C] 268B. Displaced :7th_DR:Ace:Hex:plot_no:
 ** dw2024-q4b-doctor
-*** FIXME [#D] 2DA23.1 Jamie :2nd_Dr:
-*** FIXME [#A] 2DA23.2 The Green Man
-*** [#C] 4DA9.1 - Purgatory 12 :4th_Dr:Romana_2:Adric:
+*** [#D] 2DA23.1 Jamie :2nd_Dr:
+*** FIXME [#C] 4DA7.7/7.8 - Kill the Doctor! / The Age of Sutekh :4th_Dr:Leela:Sutehk:
 *** FIXME [#B] 6DA2022A.2 The Tides of the Moon :6th_Dr:Mel:Hebe:
-*** [#B] 8DDC4.3 - The Side of the Angels :8th_Dr:Liv:Helen:
+*** [#B] 8DDC4.3 - The Side of the Angels :8th_Dr:Liv:Helen:Monk:
 *** [#B] 8DDC4.4 - Stop the Clock :8th_Dr:Liv:Helen:
-*** READY [#C] DU3.2 - The Dalek Defense :10th_Dr:Anya:Mark7:bilibili:
-*** READY [#A] WD2.3 - The Neverwhen :War_Dr:DW2024_Q4b_doctor:bilibili:
+*** READY [#C] WD3.1 - The Shadow Vortex :War_Dr:bilibili:
+*** FIXME [#A] BSS2.3 The Angel of History :Benny:Unbound_Dr:
 ** dw2024-q4b-spinoffs
-*** FIXME [#C] TW7.4 Moderation :Tyler:
-*** FIXME [#A] TW70 Double part 2
-*** FIXME [#C] UNIT2.3 The Battle of the Tower
+*** [#C] TW7.4 Moderation :Tyler:
+*** [#A] TW70 Double part 2
+*** FIXME [#C] CM3.2 - The Concrete Cage
 *** [#D] PG4.3 - Rulers of Earth
-*** [#C] BSBOX 2.1 Brand Management :Benny:
-*** FIXME [#A] WM7.4 The Last Line :Master_war:10th_Dr:
-*** [#A] Rose2.3 The Rogue Planet :Rose:
+*** READY [#A] WM7.4 The Last Line :Master_war:10th_Dr:
+*** READY [#A] Rose2.3 The Rogue Planet :Rose:
+*** FIXME [#C] CY1.3 - Living History :Churchill:
 ** dw2024-q4b-pending
 *** [#C] 6DnP1.1 - The Headless Ones :6th_Dr:Peri:
-*** [#C] CM3.2 - The Concrete Cage
-*** FIXME [#D] Missy3.1 Body and Soulless / [#A] ST9.6 The Same Face
-* pending
-** odd
-*** [#B] LS2.1b The Fragile Yellow Arc of Fragrance (Susan, Ian, Barbara) :plot_yes:
-*** 3DA6.1 Poison of the Daleks (Jo)
-*** [#C] DotD#9. Night of the Whisper
-*** Let it Snow :11th_Dr:
-
-Tales of Trenzalore - 01
-
-** even
-*** [#A] CC14.1 The Death of the Daleks :2nd_Dr:Jamie:
-*** FIXME [#B] 4DA 8.7/8.8 The Perfect Prisoners :Ann:
-*** [#C] 4DA7.7/7.8 - Kill the Doctor! / The Age of Sutekh  (Leela, Sutehk)
-*** [#C] MR194. The Rani Elite (6th, Peri)
-*** SvsR#1. The Battle of Giant's Causeway :8th_Dr:Charley:Crizz:
-*** FIXME [#C] ST8.6 The Siege of Big Ben :10th_Dr:plot_yes:Jackie:
-** spinoffs
-*** JACK2.1 Piece of Mind :Jack:
-*** [#C] TW2.2 - Blind Summit :Yvvone:Ianto:
-*** HALF [#B] Gallifrey 6.3 -Ascension
-*** FIXME [#D] WoDW#4 Second Sight :6th_Dr:Romana_2:Leela:Yates:
-*** FIXME [#A] BBV21 Punchline :plot_yes_dwg:
-*** FIXME TW Soho #2: Ashenden :Norton:Andy:Lizbeth:P2021:plot_yes:
-*** [#C] River 6.4 The Talents of Grel :River:Jago:
-*** [#C] River 8.2 A Brave New World :River:10th_Dr:
-*** [#D] WM8.2 - The Shadow Master
-*** [#C] CY1.3 - Living History :Churchill:
-*** [#C] Susan1.4 The Shoreditch Intervention :Susan:8th_Dr:Alex:
+*** FIXME [#D] Missy3.1 Body and Soulless /

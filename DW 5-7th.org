@@ -1177,19 +1177,19 @@ CLOSED: [2024-02-13 Tue 15:21] SCHEDULED: <2024-01-06 Sat>
 
 http://www.drwhoguide.com/who_bf120.htm
 
-***** [#B] 139. Project: Destiny :Ace:Hex:The_Forge:Lysandra:P2010:DW2024_Q4a_doctor:
-SCHEDULED: <2024-11-16 Sat>
+***** 3QTR [#B] 139. Project: Destiny :Ace:Hex:The_Forge:Lysandra:P2010:DW2024_Q4a_doctor:
+CLOSED: <2024-10-31 Thu 21:22> SCHEDULED: <2024-11-02 Sat>
 
 ***** [#A] 140. A Death in the Family [A⁺] :P2010:Ace:Hex:Evelyn:Nobody_No_One:the_Forge:plot_no:
 ***** DONE [#A] 162. Protect and Survive (8.7) :P2012:Ace:Hex:plot_yes:WW3:Old_Ones:已购:
 CLOSED: [2021-03-22 Mon 20:20]
 
-***** LATER [#C] MR163. Black and White :Ace:Hex:Sally:Lysandra:plot_yes:
+***** LATER [#C] 163. Black and White :Ace:Hex:Sally:Lysandra:plot_yes:
 :PROPERTIES:
 :rating:   7.7
 :END:
 
-***** [#B] MR164. Gods and Monsters (8.4) :P2012:Ace:Hex:Sally:Lysandra:Fenric:the_Forge:plot_no:
+***** [#B] 164. Gods and Monsters (8.4) :P2012:Ace:Hex:Sally:Lysandra:Fenric:the_Forge:plot_no:
 ***** [#C] 226b. World Apart :Ace:Hex:plot_no:1CD:
 :PROPERTIES:
 :rating:   7.7

@@ -98,7 +98,7 @@ SCHEDULED: <2023-09-24 Sun>
 
 **** 📂S2.3 Hidden Depth :P2022_11:
 ***** [#E] +7.1 The Seas of Titan+
-***** [#D] 7.2 Lay Down Your Arms :DW2024_Q4a_doctor:
+***** START [#D] 7.2 Lay Down Your Arms :DW2024_Q4a_doctor:
 SCHEDULED: <2024-10-26 Sat>
 
 ***** 2DONE [#A] 7.3 Flatpack :Liv:Tania:bilibili:DW2023_11_doctor:
@@ -874,7 +874,7 @@ SCHEDULED: <2024-07-13 Sat>
 
 【【神秘博士广播剧熟肉】All of Time and Space 402 The Yearn 渴望-哔哩哔哩】 https://b23.tv/BPVZGsy
 
-**** READY [#A] 4.3 Curiosity Shop :P2023_02:bilibili:DW2024_Q4a_doctor:
+**** START [#A] 4.3 Curiosity Shop :P2023_02:bilibili:DW2024_Q4a_doctor:
 SCHEDULED: <2024-11-02 Sat>
 :PROPERTIES:
 :rating:   8.6
