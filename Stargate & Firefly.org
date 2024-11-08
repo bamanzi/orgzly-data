@@ -170,7 +170,7 @@ CLOSED: [2022-11-24 Thu 22:13]
 **** DONE 3x22 Nemesis
 CLOSED: [2022-12-05 Mon 22:09]
 
-*** DONE 📂SG-1 S4
+*** DONE SG-1 S4
 **** DONE [#A] 4x01 Small Victories
 CLOSED: <2022-12-06 Tue 23:06>
 
@@ -237,7 +237,7 @@ CLOSED: <2023-12-16 Sat 19:42>
 **** DONE [#A] 4x22 Exodus
 CLOSED: <2023-12-17 Sun 14:52>
 
-*** SG-1 S5
+*** DOING SG-1 S5 :P2001:S2024_11:
 **** DONE [#A] 5x01 Enemies
 CLOSED: [2023-12-17 Sun 15:35]
 
@@ -264,9 +264,43 @@ CLOSED: [2024-01-09 Tue 08:16]
 **** DONE 5x08
 CLOSED: [2024-01-12 Fri 18:44]
 
-**** DONE 5x09
+**** DONE [#B] 5x09 Between Two Fires
 CLOSED: [2024-01-14 Sun 17:35]
 
+**** DONE [#B] 5x10 2001
+CLOSED: <2024-10-26 Sat 23:01>
+
+**** DONE 5x11
+CLOSED: [2024-10-28 Mon 20:16]
+
+**** DONE [#B] 5x12 Wormhole X-Treme!
+CLOSED: [2024-10-28 Mon 21:13]
+
+
+与 4x11 Point of No Return 相关
+
+**** DONE 5x13
+CLOSED: [2024-11-01 Fri 18:47]
+
+**** DONE 5x14
+CLOSED: [2024-11-04 Mon 08:06]
+
+**** DONE [#B] 5x15/16 Summit / Last Stand
+CLOSED: [2024-11-02 Sat 15:33]
+
+**** DONE 5x17
+CLOSED: [2024-11-05 Tue 08:27]
+
+**** DONE 5x18
+CLOSED: [2024-11-06 Wed 18:48]
+
+**** 5x19 Menace
+**** 5x20
+**** [#B] 5x21 Meridian
+**** [#B] 5x22 Revelations
+*** SG-1 S6 :P2002:
+**** [#B] 6x01/02 Redemption
+**** [#B] 6x03 Descent
 *** ...
 *** SG-1 S10 :P2006:
 *** Stargate: The Ark of Truth :P2008:
@@ -336,8 +370,13 @@ This adventure is set during season 10 of Stargate SG-1
 
 ** Stargate Atlantis (SGA) :sga:
 *** DONE tv
+**** SGA S1 :P2004:
+**** SGA S2 :P2005:
+**** SGA S3 :P2006:
+**** SGA S4 :P2007:
+**** SGA S5 :P2008:
 *** comics
-**** Back to Pegasus :P2016:
+**** NOW Back to Pegasus :P2016:S2024_12:
 **** Gateways :P2017:
 **** Hearts & Minds :P2017:
 **** Singularity :P2018:
@@ -410,7 +449,7 @@ CLOSED: <2022-12-22 Thu 06:25>
 **** DONE 1x20
 CLOSED: <2022-12-22 Thu 07:10>
 
-*** DOING 📂SGU S2 (20 episodes) :P2010:
+*** DOING 📂SGU S2 (20 episodes) :P2010:S2024_11:
 
 人人影视（1024x576双语字幕）
 https://www.meijumi.net/7277.html
@@ -450,6 +489,12 @@ CLOSED: [2023-12-27 Wed 19:16]
 
 **** DONE 2x13
 CLOSED: [2023-12-29 Fri 20:15]
+
+**** DONE 2x14
+CLOSED: <2024-11-03 Sun 14:56>
+
+**** DONE 2x15
+CLOSED: [2024-11-03 Sun 20:38]
 
 * The Expanse :expense:
 ** DONE S1
@@ -524,11 +569,17 @@ CLOSED: [2022-10-29 Sat 23:40]
 *** DONE 5x10
 CLOSED: [2022-10-30 Sun 23:20]
 
-** NEXT S6
+** DOING S6 :S2024_11:
 
 6 episodes
 
-** comics: The Expanse – The Dragon Tooth #1-12 :P2023:
+*** DONE 6x01
+CLOSED: [2024-11-06 Wed 07:58]
+
+*** DONE 6x02
+CLOSED: <2024-11-07 Thu 22:59>
+
+** LATER comics: The Expanse – The Dragon Tooth :P2023:S2025_Q4:
 
 BOOMS! 工作室打算给 #浩瀚苍穹 出一个12期的系列，设定在原著第六本与第七本之间（也就是在电视剧之后）
 

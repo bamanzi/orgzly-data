@@ -856,14 +856,15 @@ Detective Comics #963-958
 
 https://breezewiki.com/dc/wiki/Detective_Comics:_A_Lonely_Place_of_Living_(Collected)
 
-***** DONE Vol. 6: Fall of the Batmen
+***** DONE Vol. 6: Fall of the Batmen :Batwoman:Clayface:
 CLOSED: <2024-10-27 Sun 23:17>
 
 Detective Comics #969-974, & Annual 2018
 
 https://breezewiki.com/dc/wiki/Detective_Comics:_Fall_of_the_Batmen_(Collected)
 
-***** Vol. 7: Batmen Eternal
+***** DONE Vol. 7: Batmen Eternal :Tim_Drake:Stephanie_Brown:
+CLOSED: [2024-10-28 Mon 23:32]
 
 Detective Comics #975-981
 
@@ -1307,20 +1308,34 @@ CLOSED: [2022-10-25 Tue 12:54]
 
 **** READY _Superman: Earth One_ 一号地球 :P2010:已购:
 
-a new modern version of the Superman story taking place in a
+a new modern version of the Superman story taking place in a separate continuity.
 
 **** 📂Superman v4 :P2016:
 
 vol.1 - 7
 by Peter J. Tomasi and Patrick Gleason
 
-***** NOW Vol.1 Son of Superman
-***** NOW Vol.2 Trials of the Super Son
-***** NEXT Vol.3 Multiplicity
-***** NEXT Vol.4 Black Dawn
-***** Vol.5 Hopes and Fears
-***** Vol.6 Imperius Lex
-***** Vol.7 Bizarroverse
+***** DONE Vol.1 Son of Superman
+CLOSED: [2024-10-31 Thu 23:08]
+
+Superman (Volume 4) #1-6
+
+***** DONE Vol.2 Trials of the Super Son
+CLOSED: [2024-11-03 Sun 22:18]
+
+Superman (Volume 4) #7-13
+
+***** DONE Vol.3 Multiplicity
+CLOSED: [2024-11-04 Mon 12:50]
+
+***** DONE Vol.4 Black Dawn
+CLOSED: [2024-11-04 Mon 23:33]
+
+***** DONE Vol.5 Hopes and Fears
+CLOSED: [2024-11-06 Wed 23:26]
+
+***** NOW Vol.6 Imperius Lex
+***** NEXT Vol.7 Bizarroverse
 **** Superman Smashes the Klan 超人恶斗3K党 :P2019:
 *** greatest hits
 **** LATER Superman: For All Seasons 四季 :P1998:已购:
@@ -1354,7 +1369,7 @@ https://dc.fandom.com/wiki/Superman:_Last_Son_of_Krypton_(Collected)?so=search
 Superman: New Krypton Special #1 pages 1-9
 
 ***** misc #871-873
-**** /Action Comics/, by Grant Morrison :P2011:Grant_Morrison:
+**** /Action Comics/, by Grant Morrison :P2011:Grant_Morrison:new52:
 
 Action Comics (2011-2016) #1-18
 
@@ -1375,12 +1390,11 @@ SCHEDULED: <2023-10-31 Tue>
 
 https://m.weibo.cn/6135693122/4821361538896879
 
-
 **** LATER /Action Comics/, by Phillip Kennedy Johnson :P2021:
 *** further reading
-**** BLOCK The Death of Superman (1992-1993) :P1992:crossover:
+**** BLOCK Death and Return of Superman (1992-1993) :P1992:crossover:
 
-https://dc.fandom.com/wiki/Death_of_Superman
+https://breezewiki.com/dc/wiki/Death_and_Return_of_Superman
 
 有实体中文版书 https://book.douban.com/subject/35045339/
 
@@ -1398,7 +1412,7 @@ SCHEDULED: <2023-11-15 Wed>
 ***** Funeral for a Friend
 ***** Reign of the Supermen
 ***** Return of Superman
-**** LATER Superman/Batman, by Jeph Loeb :P2003:
+**** Superman/Batman, by Jeph Loeb :P2003:
 
 Superman/Batman v1 #1-26
 
@@ -1422,7 +1436,7 @@ Superman/Batman v1 #20-25
 
 by Scott Snyder and Jim Lee (2013-2015)
 
-**** Superman: Action Comics by Grek Pak and Aaron Kuder (2014-2016)
+**** Superman: Action Comics by Grek Pak and Aaron Kuder (2014-2016) :new52:
 
 new52 vol.5-9
 
@@ -1703,12 +1717,6 @@ CLOSED: [2024-10-20 Sun 19:43]
 *** DCEU
 **** Man of Steel :P2013:
 **** Batman v Superman: Dawn of Justice :P2016:
-*** BLOCK The Death of Superman :DCAMU:P2018:
-SCHEDULED: <2022-10-04 Tue>
-
-https://m.80sgod.com/movie/23048
-
-*** Reign of the Supermen :DCAMU:
 *** All-Star Superman
 * misc
 ** Green Arrow
@@ -1806,6 +1814,21 @@ CLOSED: <2024-10-26 Sat 20:21>
 **** DONE 1x10
 CLOSED: [2024-10-28 Mon 08:20]
 
+**** DONE 1x11
+CLOSED: [2024-11-01 Fri 20:36]
+
+**** DONE 1x12
+CLOSED: [2024-11-02 Sat 20:00]
+
+**** DONE 1x13
+CLOSED: [2024-11-03 Sun 16:07]
+
+**** DONE 1x14
+CLOSED: <2024-11-04 Mon 22:49>
+
+**** DONE 1x15
+CLOSED: [2024-11-04 Mon 23:12]
+
 * DCAMU :🎦:DCAMU:
 
 The DC Animated Movie Universe is a shared universe consisting of a number of movies, shorts and digital-first comics, originally conceived as an "animated New 52", but later expanding into older and original stories. 
@@ -1875,10 +1898,9 @@ SCHEDULED: <2024-10-20 Sun>
 :douban:   7.0
 :END:
 
-** [#B] The Death of Superman :P2018:
-:PROPERTIES:
-:douban:   7.5
-:END:
+** BLOCK [#B] The Death of Superman :DCAMU:P2018:
+
+https://m.80sgod.com/movie/23048
 
 ** [#B] Reign of the Supermen  超人王朝 :P2019:
 :PROPERTIES:
