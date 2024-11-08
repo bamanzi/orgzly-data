@@ -73,7 +73,7 @@
 **** The War Master vol.1-3
 **** 8D Time War vol.1-2
 **** The War Doctor vol.1-4
-* DW 2021 :S2022:
+* DW 2021 :S2021:
 ** DW 2021-03
 
 | 09 | MR209. Aquitaine           | 5th | Nyssa, Tegan   |
@@ -197,7 +197,7 @@
 - part2 (00:35:50)
 
 *** HALF DWU2 - Sympathy for the Devil :Unbound:
-*** TODO DoRS6.3 - Peepshow :River:3rd_Dr:
+*** [#E] DoRS6.3 - Peepshow :River:3rd_Dr:
 
 - <last play position> (00:00:00)
 - <second to last play position> (00:00:00)
@@ -211,7 +211,7 @@
 - <last play position> (01:25:31)
 - appendix (01:55:10)
 
-*** START [#B] ST6.7 - The Blame Game :Monk:
+*** [#B] ST6.7 - The Blame Game :Monk:
 
 - <last play position> (00:00:00)
 
@@ -312,7 +312,7 @@
  - <second to last play position> (00:00:00)
  - <last play position> (00:23:52)
 
-**** START DoRS5.2. Animal Instinct :Master:
+**** [#D] DoRS5.2. Animal Instinct :Master:
 
  - <second to last play position> (00:00:00)
  - <last play position> (00:08:04)
@@ -322,12 +322,12 @@
  - <second to last play position> (00:46:32)
  - <last play position> (00:49:01)
 
-**** START JACK3.1. Crush :Jack:Jackie:
+**** [#A] JACK3.1. Crush :Jack:Jackie:
 
  - <second to last play position> (00:00:00)
  - <last play position> (00:00:00)
 
-**** START MISSY1.1. A Spoonful of Mayhem :Master:Missy:
+**** [#C] MISSY1.1. A Spoonful of Mayhem :Master:Missy:
 
  - <second to last play position> (00:00:00)
  - <last play position> (00:18:11)
@@ -353,7 +353,7 @@
  - <second to last play position> (00:24:31)
  - <last play position> (00:27:37)
 
-**** START 1DA 1.01 - The Destination Wars :1st_Dr:Susan:Ian:Barbara:Master:
+**** HALF 1DA 1.01 - The Destination Wars :1st_Dr:Susan:Ian:Barbara:Master:
 
  - <second to last play position> (00:52:13)
  - <last play position> (01:17:58)
@@ -398,7 +398,7 @@
  - p3 (01:00:41)
 
 **** HALF BF207b - Come Die with Me :7th_Dr:Ace:
-**** START EA4.4 - The Wreck of the World :2nd_Dr:Jamie:Zoe:
+**** HALF EA4.4 - The Wreck of the World :2nd_Dr:Jamie:Zoe:
 
  - <second to last play position> (00:30:15)
  - p2 (00:30:15)
@@ -545,12 +545,12 @@
  - part4 (01:27:59)
 
 *** DW 2021-09extra
-**** START CC11.2. Dumb Waiter :2nd_Dr:Leela:Jamie:
+**** [#C] CC11.2. Dumb Waiter :2nd_Dr:Leela:Jamie:
 
  - <second to last play position> (00:00:44)
  - <last play position> (00:01:00)
 
-**** START GFY1.2 - Square One :Romana_2:Leela:
+**** [#C] GFY1.2 - Square One :Romana_2:Leela:
 
  - <second to last play position> (00:16:46)
  - <last play position> (00:35:18)
@@ -702,7 +702,7 @@
  - <second to last play position> (00:36:08)
  - <last play position> (01:00:50)
 
-**** START J&L5.4 - The Final Act :Jago:Litefoot:
+**** [#C] J&L5.4 - The Final Act :Jago:Litefoot:
 
  - <last play position> (00:00:00)
  - <second to last play position> (00:00:00)
@@ -973,11 +973,11 @@
  - <second to last play position> (00:39:11)
  - <last play position> (00:45:14)
 
-**** START Jago & Litefoot & Strax - The Haunting :Jago:Litefoot:Strax:
+**** [#C] 10.X Jago & Litefoot & Strax - The Haunting :Jago:Litefoot:Strax:
 
  - <last play position> (00:00:00)
 
-**** START PG1.3. The Ghosts of Greenwich
+**** [#D] PG1.3. The Ghosts of Greenwich
 
  - <last play position> (00:00:00)
  - <second to last play position> (00:00:00)
@@ -1424,7 +1424,7 @@
 ** DW 2022-12-spinoffs
 *** HALF [#B] TW6.10 ScrapeJane
 *** 3QTR [#A] TW54. Curios :Bilis_Manger:
-*** HALF [#C] River7.1 Colony of Strangers :River:
+*** HALF [#C] DoRS7.1 Colony of Strangers :River:
 *** DONE [#E] Donna1.3 The Sorcerer of Albion :Donna:bilibili:
 *** 2DONE [#C] WM5.2 Scaramancer :Master_war:8th_Dr:
 *** 3QTR [#C] Gallifrey 4.4 Forever
@@ -1448,7 +1448,7 @@
 *** 3QTR [#A] WM5.3 The Castle of Kurnos 5 :Master_war:8th_Dr:
 *** 2DONE [#C] Donna 1.4 The Chiswick Cuckoos :Donna:10th_Dr:bilibili:
 *** 3QTR [#C] Robots2.3 Do No Harm :Liv:
-*** HALF [#D] River7.2 Abbey of Heretics :River:
+*** HALF [#D] DoRS7.2 Abbey of Heretics :River:
 ** dw2023-02-doctor
 
 | 066 | MR105. The Condemned | 6th | Charley |
@@ -1519,14 +1519,14 @@
 
 | 068 | MR009. The Spectre of Lanyon Moor | 6th | Evelyn |
 
-*** START [#D] CC7.2 The Uncertainty Principle :2nd_Dr:Zoe:
+*** [#D] CC7.2 The Uncertainty Principle :2nd_Dr:Zoe:
 *** 3QTR [#B] 4DA9.2 Chase the Night (8.3) :Romana_2:Adric:
 *** HALF [#C] MR009 The Spectre of Lanyon Moor :6th_Dr:Evelyn:2CD:
 *** HALF [#A] 8DDC3.4 The Crucible of Souls :8th_Dr:Liv:Helen:River:The_Nine:
-*** START [#A] 10DDU 2.3 The Lost :10th_Dr:Anya:Mark_7:bilibili:
+*** [#A] 10DDU 2.3 The Lost :10th_Dr:Anya:Mark_7:bilibili:
 *** 3QTR [#D] WDB2.3 Saviour :War_Dr:Time_War:
 ** dw2023-06-spinoffs
-*** START [#B] TWO3.1 Retirement Plan :Yvonne:Ianto:
+*** [#B] TWO3.1 Retirement Plan :Yvonne:Ianto:
 *** 3QTR [#A] John #3 Peach Blossom Heights :Captain_John:Jack:
 *** 3QTR [#D] WoDW2 The Reesinger Process :ICMG:
 *** 2DONE [#A] ST8.10 I Am The Master :Master_decayed:bilibili:
@@ -1539,7 +1539,7 @@
 *** HALF [#C] EA1.3 The Bounty of Ceres :1st_Dr:Vicki:Steven:2CD:
 *** HALF [#C] CC4.3 The Prisoner of Peladon :3rd_Dr:Peladon:
 *** 3QTR [#B] MR159 The Emerald Tiger :5th_Dr:Nyssa:Tegan:Toulough:2CD:
-*** DONE [#C] River2.1 The Unknown :7th_Dr:River:
+*** DONE [#C] DoRS2.1 The Unknown :7th_Dr:River:
 *** 3QTR [#B] NABS1.1 - The Revolution :7th_Dr:Benny:
 *** DONE [#A] 9DA 6.1 Salvation Nine :9th_Dr:bilibili:
 *** [#A] 11DC 3.2 The House of Masks :11th_Dr:
@@ -1556,8 +1556,8 @@
 
 *** 3QTR [#B] Wrath of the Ice Warriors :2nd_Dr:Brigadier:
 *** DONE [#C] 4DA 4.2 The Darkness of Glass :4th_Dr:Leela:
-*** 3QTR [#B] River2.3 World Enough and Time (8.0) :6th_Dr:River:
-*** HALF [#C] River2.4 The Eye of the Storm (7.7) :6th_Dr:7th_Dr:River:
+*** 3QTR [#B] DoRS2.3 World Enough and Time :6th_Dr:River:
+*** HALF [#C] DoRS2.4 The Eye of the Storm (7.7) :6th_Dr:7th_Dr:River:
 *** DONE [#D] MR031 Embrace the Darkness :8th_Dr:Charley:bilibili:
 *** HALF [#C] 10DA 3.3 The Creeping Death :10th_Dr:Donna:bilibili:
 *** 3QTR [#B] ST9.2 - The Astrea Conspiracy :12th_Dr:
@@ -1565,7 +1565,7 @@
 *** 3QTR [#A] TW52. Madam, I'm :Lizbeth:Norton:Adam:
 *** DONE [#C] John#4 - Darker Purposes :Captain_John:Jack:
 *** HALF [#B] CM2.1 - Manhunt :ICMG:
-*** START [#A] J&L8.1 - Encore of the Scorchies
+*** [#A] J&L8.1 - Encore of the Scorchies
 *** DONE [#B] WM6.1 The Sincerest Form of Flattery :Time_War:Master_war:
     CLOSED: [2023-12-16 Sat 19:21]
 
@@ -1579,7 +1579,7 @@
 *** HALF [#A] 9DA6.3 Break the Ice :9th_Dr:
 *** HALF [#A] 11DC3.3 The End :11th_Dr:
 ** dw2023-09-spinoffs
-*** 3QTR [#A] TWO3.3 The Rockery :Yvvone:Ianto:
+*** 3QTR [#A] TWO3.3 The Rockery :Yvonne:Ianto:
 *** HALF [#D] TW62. Dead Plates :Bilis:
 *** HALF [#B] UNIT 1.1 Vanguard :UNIT:
 *** HALF [#D] J&L8.2 - The Backwards Men
@@ -1661,7 +1661,7 @@
 *** HALF [#B] MR161 The Butcher of Brisbane :5th_Dr:Nyssa:Tegan:Toulough:
 *** HALF [#B] UNIT: Dominion #3 :7th_Dr:Klein:Master_bald:UNIT:
 *** 3QTR [#D] 9DA8.1 The Colour of Terror :9th_Dr:
-*** START [#B] 11DC4.1 All of Time and Space :11th_Dr:bilibili:
+*** [#B] 11DC4.1 All of Time and Space :11th_Dr:bilibili:
 ** dw2024-q2a-spinoffs
 *** 3QTR [#A] TW59 Sonny :Rhys:
     CLOSED: [2024-03-24 Sun 08:48]
@@ -1768,7 +1768,7 @@ http://drwhoguide.com/who_bf33.htm
 *** [#C] TW69 Double part 1
 *** HALF [#D] UNIT2.2 Death in Geneva
 *** HALF [#B] JL9.2 - The Devil's Dicemen
-*** [#C] River4.2 - Kings of Infinite Space :River:
+*** [#C] DoRS4.2 - Kings of Infinite Space :River:
 *** HALF [#B] Missy2.4 Too Many Masters :Master_missy:Monk:
 *** [#C] Rose2.2 Now is the New Dark :Rose:
 ** dw2024-q4b-doctor

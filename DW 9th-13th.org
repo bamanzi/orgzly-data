@@ -101,6 +101,11 @@ SCHEDULED: <2023-09-24 Sun>
 ***** START [#D] 7.2 Lay Down Your Arms :DW2024_Q4a_doctor:
 SCHEDULED: <2024-10-26 Sat>
 
+
+贝尔塔·冯·苏特纳（Bertha von Suttner1843年6月9日—1914年6月21日），生於布拉格，逝世於维也纳，是一位奥地利小说家，激进的和平主义者。
+
+苏特纳1889年发表了小说《Die Waffen nieder!（放下武器！）》，此后就成为了奥地利和平运动的象征，1891年她创立了奥地利和平主义组织，在1905年獲得諾貝爾和平獎
+
 ***** 2DONE [#A] 7.3 Flatpack :Liv:Tania:bilibili:DW2023_11_doctor:
 SCHEDULED: <2023-11-11 Sat>
 :PROPERTIES:
@@ -877,7 +882,7 @@ SCHEDULED: <2024-07-13 Sat>
 
 【【神秘博士广播剧熟肉】All of Time and Space 402 The Yearn 渴望-哔哩哔哩】 https://b23.tv/BPVZGsy
 
-**** START [#A] 4.3 Curiosity Shop :P2023_02:bilibili:DW2024_Q4a_doctor:
+**** HALF [#A] 4.3 Curiosity Shop :P2023_02:bilibili:DW2024_Q4a_doctor:
 SCHEDULED: <2024-11-02 Sat>
 :PROPERTIES:
 :rating:   8.6
@@ -1297,7 +1302,7 @@ CLOSED: <2022-11-06 Sun>
 :rating:   3.9
 :END:
 
-*** LATER [#B] The Shining Man 闪光的人 (3.87) :己购:DW2024_Q4:
+*** LATER [#B] The Shining Man 闪光的人 (3.87) :己购:S2024_Q4:
 :PROPERTIES:
 :rating:   3.87
 :END:
@@ -1497,7 +1502,7 @@ DWM 584-597
 
 *** Untitled (DWM 598) :Donna:hanzify:
 * 15th Doctor
-** tv
+** tv :S2024_12:
 *** DONE 304. The Church On Ruby Road :Christmas_special:P2023:
 CLOSED: [2024-06-08 Sat 15:34]
 
