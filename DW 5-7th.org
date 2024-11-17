@@ -17,7 +17,7 @@ CLOSED: [2022-11-19 Sat 18:32] SCHEDULED: <2022-11-02 Wed>
 **** CANCEL [#F] Time-Flight (6.0) :Master_tremas:
 *** Season 20 :Tegan:
 **** [#D] Arc of Infinity (7.1) :Nyssa:
-**** LATER [#D] Snakedance (7.2) :Nyssa:The_Mara:DW2024_Q4:
+**** LATER [#D] Snakedance (7.2) :Nyssa:The_Mara:S2024_Q4:
 **** [#C] Mawdryn Undead (7.8) :Nyssa:
 **** CANCEL [#E] Terminus (6.4) :Nyssa:
 **** [#B] Enlightenment (8.1)
@@ -173,7 +173,7 @@ CLOSED: [2021-06-17 Thu 23:01]
 ***** [#E] The Interplanetarian (6.7)
 ***** [#D] Smuggling Tales (7.1)
 ***** [#D] My Brother's Keeper (7.4)
-**** 2DONE [#B] MR178. 1963: Fanfare for the Common Men (8.2) :plot_yes:D2021_07_dr:
+**** 2DONE [#B] 178. 1963: Fanfare for the Common Men (8.2) :plot_yes:D2021_07_dr:
 CLOSED: [2021-07-01 Thu 22:54]
 
 **** CANCEL [#E] 185. Moonflesh (6.1)
@@ -192,14 +192,14 @@ CLOSED: [2021-02-27 Sat 18:02]
 :END:
 
 *** MR with Nyssa & Tegan :Nyssa:Tegan:scripted:2CD:
-**** 2DONE [#B] MR136. Cobwebs :D2021_08_dr:
+**** 2DONE [#B] 136. Cobwebs :D2021_08_dr:
 CLOSED: <2021-08-01 Sun 00:10>
 :PROPERTIES:
 :rating:   8.1
 :END:
 
-**** CANCEL [#E] MR137. The Whispering Forest
-**** [#D] MR138. The Cradle of the Snake
+**** CANCEL [#E] 137. The Whispering Forest
+**** [#D] 138. The Cradle of the Snake
 **** [#D] 146. Heroes of Sontar
 :PROPERTIES:
 :rating:   7.3
@@ -212,7 +212,7 @@ CLOSED: [2021-03-22 Mon 23:16]
 :rating:   6.7
 :END:
 
-**** 3QTR [#B] MR159. The Emerald Tiger (8.2) :plot_yes:DW2023_07_doctor:2buy:
+**** 3QTR [#B] 159. The Emerald Tiger (8.2) :plot_yes:DW2023_07_doctor:2buy:
 CLOSED: <2023-07-07 Fri 20:32> SCHEDULED: <2023-07-05 Wed>
 
 **** [#D] 160. The Jupiter Conjunction (7.3)
@@ -259,7 +259,7 @@ CLOSED: [2021-02-27 Sat 18:02]
 :rating:   7.4
 :END:
 
-**** [#A] MR235. Ghost Walk (8.5) :plot_yes:
+**** [#A] 235. Ghost Walk (8.5) :plot_yes:
 :PROPERTIES:
 :rating:   8.5
 :END:
@@ -363,7 +363,7 @@ CLOSED: [2021-03-22 Mon 23:23]
 :END:
 
 **** START [#E] 102b. Mission of the Viyrans :Viyrans:Peri:D2021_04:
-**** HALF [#B] MR200. The Secret History (8.2) :5th_Dr:plot_yes:Steven:Vicki:Monk:D2021_09_extra:
+**** HALF [#B] 200. The Secret History (8.2) :5th_Dr:plot_yes:Steven:Vicki:Monk:D2021_09_extra:
 SCHEDULED: <2021-09-15 Wed>
 
 **** DONE [#A] 230.Time in Office (9.0) :P2017:Tegan:Leela:Gallifrey:plot_yes:已购:
@@ -387,7 +387,7 @@ CLOSED: [2021-02-27 Sat 18:02]
 **** CANCEL [#E] 249 The Kamelion Empire (6.6)
 CLOSED: [2021-02-27 Sat 18:02]
 
-*** 5DA with Nyssa & Tegan
+*** 5DA with Nyssa & Tegan :5DA:
 **** The Fifth Doctor Box Set :2CD:Nyssa:Tegan:Adric:P2014:
 ***** [#A] Psychodrome :Adric:Nyssa:Tegan:plot_yes:
 ***** [#A] Iterations of I :Adric:Nyssa:Tegan:plot_yes:
@@ -469,6 +469,10 @@ CLOSED: [2022-01-14 Fri 15:10]
 
 Interludes #1
 
+**** Meanwhile Turlough :Toulough:P2024_04:
+
+Interludes #8
+
 **** [#D] Gobbledegook :P2023_04:
 
 Interludes #4
@@ -529,7 +533,7 @@ CLOSED: [2021-12-12 Sun 17:32]
 *** DONE short: A Fix with Sontarans
 CLOSED: [2024-01-07 Sun 20:27]
 
-*** LATER special: Real Time :Cybermen:Evelyn:DW2024_Q4:
+*** LATER special: Real Time :Cybermen:Evelyn:S2024_Q4:
 SCHEDULED: <2024-01-14 Sun>
 
 ** audio :🎧:
@@ -540,7 +544,7 @@ https://tardis.fandom.com/wiki/Sixth_Doctor_audio_stories
 **** 3QTR [#A] 6. The Marian Conspiracy (8.6) :Evelyn:plot_yes:DW2022_08_doctor:
 CLOSED: [2022-08-03 Wed 21:45] SCHEDULED: <2022-08-03 Wed>
 
-**** 3QTR [#B] MR009 - The Spectre of Lanyon Moor (8.0) :Evelyn:Brigadier:plot_yes_dwg:DW2023_06_doctor:
+**** 3QTR [#B] 009 - The Spectre of Lanyon Moor (8.0) :Evelyn:Brigadier:plot_yes_dwg:DW2023_06_doctor:
 CLOSED: [2023-06-26 Mon 08:24] DEADLINE: <2023-06-28 Wed> SCHEDULED: <2023-06-14 Wed 08:34>
 
 http://drwhoguide.com/who_bf09.htm
@@ -549,7 +553,7 @@ http://drwhoguide.com/who_bf09.htm
 
 【【神秘博士广播剧熟肉】MR011 The Apocalypse Element 末日元素-哔哩哔哩】 https://b23.tv/lFiGif9
 
-**** 2DONE [#C] MR23. Project Twilight :The_Forge:D2021_07_dr:plot_yes:
+**** 2DONE [#C] 23. Project Twilight :The_Forge:D2021_07_dr:plot_yes:
 CLOSED: [2021-07-15 Thu 14:15]
 :PROPERTIES:
 :rating:   7.8
@@ -562,7 +566,7 @@ CLOSED: [2021-03-30 Tue 17:52]
 
 or The Lass that Lost a Sailor 
 
-**** 2DONE [#C] MR45. Project: Lazarus :7th_Dr:D2021_08_dr:2buy:
+**** 2DONE [#C] 45. Project: Lazarus :7th_Dr:D2021_08_dr:2buy:
 CLOSED: [2021-07-23 Fri 12:43]
 :PROPERTIES:
 :rating:   7.7
@@ -654,7 +658,7 @@ SCHEDULED: <2022-01-14 Fri>
 ***** 📂188. Breaking Bubbles and Other Stories :short:
 ****** [#C] 188c. An Eye For Murder
 ****** [#A] 188d. The Curious Incident of the Doctor in the Night-Time (8.7) :plot_no:
-***** 3QTR [#A] MR192. The Widow's Assassin (8.6) :Peri:plot_no:D2021_09_dr:已购:
+***** 3QTR [#A] 192. The Widow's Assassin (8.6) :Peri:plot_no:D2021_09_dr:已购:
 CLOSED: <2021-09-17 Fri 21:27> SCHEDULED: <2021-09-04 Sat>
 
   与剧集23x02 Mindwrap联系紧密
@@ -795,7 +799,7 @@ CLOSED: [2022-04-22 Fri 08:22] SCHEDULED: <2022-04-30 Sat>
 ***** HALF [#D] 1.1 The Rotting Deep :DW2023_12_doctor:
 SCHEDULED: <2023-12-30 Sat>
 
-***** [#B] 1.2 - The Tides of the Moon
+***** [#B] 1.2 - The Tides of the Moon :DW2024_Q4b_doctor:
 ***** [#E] 1.3 - Maelstrom
 **** 📂2022B. Purity Undreamed :P2022_08:Mel:Hebe:
 ***** [#E] 2.1 The Mindless Ones
@@ -911,7 +915,7 @@ CLOSED: <2021-11-26 Fri 14:14> SCHEDULED: <2021-11-20 Sat>
 CLOSED: [2022-06-29 Wed 16:22] SCHEDULED: <2022-06-19 Sun>
 
 **** CANCEL [#E] 246. The Hunting Ground
-*** 6DA
+*** 6DA :6DA:
 **** special/bonus
 ***** [#E] The Ratings War
 ***** [#D] Real Time :2CD:
@@ -1095,13 +1099,13 @@ animation: https://m.youtube.com/watch?v=X1bsGF0BlGU
 :END:
 
 ***** 📂207. You Are the Doctor and Other Stories :Ace:short:
-****** DONE [#B] MR207a. You Are the Doctor :D2021_08_dr:
+****** DONE [#B] 207a. You Are the Doctor :D2021_08_dr:
 CLOSED: <2021-08-11 Wed 17:21>
 :PROPERTIES:
 :rating:   8.1
 :END:
 
-****** 3QTR [#C] MR207b. Come Die With Me :D2021_08_dr:Ace:
+****** 3QTR [#C] 207b. Come Die With Me :D2021_08_dr:Ace:
 :PROPERTIES:
 :rating:   7.5
 :END:
@@ -1146,7 +1150,7 @@ CLOSED: <2023-09-16 Sat 13:03> SCHEDULED: <2023-09-16 Sat>
 :rating:   7.7
 :END:
 
-***** 3QTR [#C] MR89. No Man's Land :Ace:Hex:The_Forge:plot_no:D2022_05_doctor:
+***** 3QTR [#C] 89. No Man's Land :Ace:Hex:The_Forge:plot_no:D2022_05_doctor:
 CLOSED: <2022-05-17 Tue 21:11> SCHEDULED: <2022-05-07 Sat>
 :PROPERTIES:
 :rating:   7.8
@@ -1224,7 +1228,7 @@ CLOSED: <2021-05-31 Mon 08:10>
 :rating:   7.8
 :END:
 
-***** HALF [#A] MR132. The Architects of History (8.7) :P2010:Klein:Selachians:plot_no:D2021_09_dr:2buy:
+***** HALF [#A] 132. The Architects of History (8.7) :P2010:Klein:Selachians:plot_no:D2021_09_dr:2buy:
 SCHEDULED: <2021-09-26 Sun>
 
 ***** [#E] 175. Persuasion :Klein:
@@ -1296,16 +1300,16 @@ SCHEDULED: <2021-11-07 Sun>
 :rating:   7.7
 :END:
 
-**** 3QTR [#A] MR49. Master [A⁺] :P2003:Master:Death:plot_yes:D2021_09_extra:
+**** 3QTR [#A] 49. Master [A⁺] :P2003:Master:Death:plot_yes:D2021_09_extra:
 CLOSED: <2021-09-23 Thu 21:27> SCHEDULED: <2021-09-04 Sat>
 
-**** 2DONE [#B] MR149. Robophobia (8.4) :P2011:Liv:Kaldor_androids:plot_no:D2022_03_doctor :2buy:
+**** 2DONE [#B] 149. Robophobia (8.4) :P2011:Liv:Kaldor_androids:plot_no:D2022_03_doctor :2buy:
 CLOSED: <2022-03-31 Thu 21:41> SCHEDULED: <2022-03-12 Sat>
 :PROPERTIES:
 :rating:   8.4
 :END:
 
-**** 2DONE [#C] MR152. House of Blue Fire :plot_no:D2021_07_dr:Sally:Great_Old_Ones:
+**** 2DONE [#C] 152. House of Blue Fire :plot_no:D2021_07_dr:Sally:Great_Old_Ones:
 CLOSED: <2021-07-09 Fri 14:15>
 :PROPERTIES:
 :rating:   7.7
@@ -1382,7 +1386,7 @@ CLOSED: [2023-11-17 Fri 08:22] SCHEDULED: <2023-11-18 Sat>
 **** CANCEL [#E] NA2 The Highest Science :Benny:
 **** [#D] CC4.6 BS and the Criminal Code :Benny:
 **** DONE BSNA 1.1 The Revolution
-*** 7DA
+*** 7DA :7DA:
 **** V. Return of the Daleks :Susan_Mendes:Kalendorf:P2006:
 **** [#B] UNIT - Dominion :Klein:Raine:Master_bald:P2012:4CD:plot_yes:
 :PROPERTIES:
@@ -1416,6 +1420,10 @@ CLOSED: [2024-06-29 Sat 19:45] SCHEDULED: <2024-06-05 Wed 09:27>
 ***** [#D] 23A.2 Naomi's Ark
 **** 2023B. The Last Day 1 :Ace:Mel:Beeny:Hex:Master_decayed:P2023_12:3CD:
 **** 2024A. The Last Day 2 :P2024_06:
+**** TBR 📂2024B The Doctor and Carnacki :P2024_11:
+***** 24B.1 The Haunter of the Shore
+***** 24B.2 The House
+***** 24B.3 The Institute of Forgotten Souls
 *** misc
 **** [#B] NA9. Nightshade :Ace:
 :PROPERTIES:

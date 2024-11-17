@@ -71,8 +71,8 @@ SCHEDULED: <2024-03-09 Sat>
 
 应该先看老版剧集 1x05 The Keys of Marinus
 
-**** CANCEL [#F] 3.1 The Age of Endurance
-**** 1DA vol.1-5 :Susan:Ian:Barbara:2CD:
+**** CANCEL [#F] EA3.1 The Age of Endurance
+**** 1DA vol.1-5 :Susan:Ian:Barbara:2CD:1DA:
 ***** HALF [#C] 1.1 The Destination Wars :Master_early:D2021_08_dr:
 :PROPERTIES:
 :rating:   7.8
@@ -91,7 +91,7 @@ CLOSED: [2021-07-27 Tue 23:10]
 :END:
 
 ***** [#C] 3.1 The Phoenicians (7.5) :plot_no:P2019:
-***** HALF [#A] 1DA3.2 Tick-Tock World :P2019:plot_yes:D2022_03_doctor:week2:
+***** HALF [#A] 3.2 Tick-Tock World :P2019:plot_yes:D2022_03_doctor:week2:
 SCHEDULED: <2022-03-12 Sat>
 :PROPERTIES:
 :rating:   8.5
@@ -334,10 +334,20 @@ CLOSED: <2023-05-30 Tue 21:34> SCHEDULED: <2023-05-27 Sat>
 :rating:   7.7
 :END:
 
-**** 📂CC9. First Doctor - Volume One :P2015:
+**** CC9. First Doctor - Volume One :P2015:
+
+https://tardis.wiki/wiki/The_First_Doctor:_Volume_One
+
 ***** [#D] CC9.1 - The Sleeping Blood :Susan:
-**** 📂CC11. First Doctor - Volume Two :P2017:scripted:
-**** 📂CC13. First Doctor - Volume Three :P2019:
+**** CC11. First Doctor - Volume Two :P2017:scripted:
+
+https://tardis.wiki/wiki/The_First_Doctor:_Volume_Two
+
+**** CC13. First Doctor - Volume Three :P2019:
+
+https://tardis.wiki/wiki/The_First_Doctor:_Volume_Three
+
+**** TBR CC15. First Doctor - Volume Four :P2025_05:
 *** short trips
 
 /Short Trips: Companions/ #13
@@ -582,7 +592,7 @@ SCHEDULED: <2021-10-03 Sun>
 :rating:   7.8
 :END:
 
-**** [#A] CC14.1 The Death of the Daleks :Jamie:Daleks:DW2024_Q4b_pending:
+**** [#A] CC14.1 The Death of the Daleks :Jamie:Daleks:
 **** [#C] CC14.2 The Phantom Piper :Jamie:
 **** [#B] ST8.X - The Last Day At Work :Jamie:
 :PROPERTIES:
@@ -673,19 +683,19 @@ SCHEDULED: <2022-06-05 Sun>
 :thetimescales: 7.9
 :END:
 
-*** 2DA
-**** 📂Beyond War Games :P2022_07:plot_yes:Raven:
+*** 2DA :2DA:
+**** 📂2022. Beyond War Games :P2022_07:plot_yes:Raven:
 ***** 3QTR [#B] 22.1 The Final Beginning :Daleks:plot_yes:DW2022_10_doctor:1CD:
 CLOSED: <2022-10-30 Sun 19:49> SCHEDULED: <2022-10-22 Sat>
 
 ***** 3QTR [#C] 2DA22.2 Wrath of the Ice Warriors :Brigadier:ice_warriors:2CD:DW2023_08_doctor:
 CLOSED: [2023-08-18 Fri 08:40] SCHEDULED: <2023-08-19 Sat>
 
-**** 📂James Robert McCrimmon :P2023_07:1CD:Jamie:Raven:plot_yes:
-***** [#D] 23.1 Jamie
+**** 📂2023. James Robert McCrimmon :P2023_07:1CD:Jamie:Raven:plot_yes:
+***** [#D] 23.1 Jamie :DW2024_Q4b_doctor:
 ***** [#B] 23.2 The Green Man
 ***** [#B] 23.3 The Shroud
-**** 📂Conspiracy of Raven :Jamie:Raven:P2024_07:
+**** 📂2024. Conspiracy of Raven :Jamie:Raven:P2024_07:
 ***** 24.1 Kippers
 ***** 24.2 Catastrophe Theory :Zoe:
 ***** 24.3 The Vanishing Point :Zoe:
@@ -716,9 +726,18 @@ SCHEDULED: <2023-06-24 Sat>
 
 https://tardis.fandom.com/wiki/Zoe_Heriot#Life_after_the_Doctor
 
-**** 📂CC10 - The Second Doctor: Volume One :scripted:
-**** 📂CC12 - The Second Doctor: Volume Two :P2018:
-**** 📂CC14 - The Second Doctor: Volume Three :P2022_04:
+**** CC10 - The Second Doctor: Volume One :scripted:
+
+https://tardis.wiki/wiki/The_Second_Doctor:_Volume_One
+
+**** CC12 - The Second Doctor: Volume Two :P2018:
+
+https://tardis.wiki/wiki/The_Second_Doctor:_Volume_Two
+
+**** CC14 - The Second Doctor: Volume Three :P2022_04:
+
+https://tardis.wiki/wiki/The_Second_Doctor:_Volume_Three
+
 **** [#D] ST2.2 - The Way Forwards :Victoria:
 :PROPERTIES:
 :rating:   7.1
@@ -908,7 +927,7 @@ CLOSED: [2020-06-30 Tue 14:01]
 :rating:   7.0
 :END:
 
-***** [#C] 3DA1.2 - The Havoc of Empires :Jo:Yates:P2015:plot_yes:DW2023_05_doctor:
+***** [#C] 1.2 - The Havoc of Empires :Jo:Yates:P2015:plot_yes:DW2023_05_doctor:
 SCHEDULED: <2023-05-28 Sun>
 :PROPERTIES:
 :rating:   7.6
@@ -1036,7 +1055,7 @@ As the decade in English history which attracts the greatest quantity of alien i
 :END:
 
 *** with Liz :Liz:
-**** 3DA
+**** 3DA :3DA:
 ***** DONE [#A] 5.1. Primord :Liz:Jo:UNIT:P2019:plot_yes:
 CLOSED: [2020-07-15 Wed 19:13]
 :PROPERTIES:
@@ -1117,7 +1136,7 @@ The Sentinels of the New Dawn are stirring and its malign influence will be fe
 To escape his Earth exile, the Doctor is prepared to make any bargain, come to any arrangement, or to do any deal with any devil – even if in this case the Devil wears a monk's robes. But when past misdeeds start catching up with both the Doctor and the Monk, who can Liz Shaw trust when time is running out and death is rapidly approaching?
 
 *** with Sarah :Sarah:
-**** 3DA
+**** 3DA :3DA:
 ***** HALF [#A] 7.2 The Gulf :P2021:D2022_05_doctor:
 SCHEDULED: <2022-05-28 Sat>
 :PROPERTIES:
@@ -1341,8 +1360,8 @@ CLOSED: [2020-08-03 Mon 23:17]
 *** TVComic
 **** Marvel DWCC reprint
 ** audio :🎧:
-*** with Leela
-**** 📂4DA series 1 :Leela:scripted:P2012:1CD:
+*** with Leela :Leela:
+**** 4DA series 1 :4DA:scripted:P2012:1CD:
 ***** CANCEL [#E] 1.1 Destination - Nerva †6.5 :bilibili:
 CLOSED: [2020-06-28 Sun 13:30]
 
@@ -1373,7 +1392,7 @@ CLOSED: [2020-08-18 Tue 13:03]
 
 【【神秘博士广播剧熟肉】The Fourth Doctor's Adventure 106 The Oseidon Adventure-Oseidon上的冒险-哔哩哔哩】 https://b23.tv/bNV0his
 
-**** 📂4DA series 3 :Leela:P2014:scripted:1CD:
+**** 4DA series 3 :4DA:P2014:scripted:1CD:
 ***** 2DONE [#C] 3.1 - The King of Sontar (7.7) :Sontarans:D2021_09_dr:
 CLOSED: [2020-08-27 Thu 12:44] SCHEDULED: <2021-09-11 Sat>
 
@@ -1404,9 +1423,9 @@ CLOSED: [2020-07-30 Thu 06:48]
 ***** CANCEL [#D] 3.8 - Zygon Hunt (7.0)
 CLOSED: [2020-07-30 Thu 06:50]
 
-**** 4DA series 4 :Leela:P2015:1CD:
+**** 4DA series 4 :4DA:P2015:1CD:
 ***** CANCEL [#E] 4.1 +The Exxilons+ (6.5)
-***** 2DONE [#C] 4DA4.2 The Darkness of Glass :plot_yes:DW2023_08_doctor:
+***** 2DONE [#C] 4.2 The Darkness of Glass :plot_yes:DW2023_08_doctor:
 CLOSED: [2023-08-26 Sat 08:25] SCHEDULED: <2023-08-19 Sat>
 
 ***** 2DONE [#B] 4.3 Requiem for the Rocket Men :Master_decayed:D2021_07_dr:
@@ -1425,22 +1444,24 @@ SCHEDULED: <2022-06-16 Thu>
 ***** CANCEL [#F] 4.8 Return to Telos
 CLOSED: [2020-08-20 Thu 13:56]
 
-**** 4DA series 7 :Leela:P2018:1CD:
+**** 4DA series 7 :4DA:P2018:1CD:
 ***** 3QTR [#C] 7.1 The Sons of Kaldor (7.7) :Kaldor:Robots:DW2022_12_doctor:
 CLOSED: [2022-12-13 Tue 08:58] SCHEDULED: <2022-12-13 Tue>
 
 ***** [#C] 7.2 The Crowmarsh Experiment (7.6)
 ***** [#C] 7.6 The Bad Penny (7.5)
-***** TODO [#C] 7.7/7.8 - Kill the Doctor! / The Age of Sutekh (7.8/7.0) :Sutekh:2CD:
-**** DONE [#A] 9SP1 Shadow of the Sun (8.6) :Leela:1CD:
+***** HALF [#C] 7.7/7.8 - Kill the Doctor! / The Age of Sutekh :Sutekh:2CD:DW2024_Q4b_doctor:
+SCHEDULED: <2024-11-16 Sat>
+
+**** DONE [#A] 9SP1 Shadow of the Sun (8.6) :4DA:1CD:
 CLOSED: [2020-07-15 Wed 19:13]
 
-**** 4DA series 10 :Leela:P2021:2CD:
+**** 4DA series 10 :4DA:P2021:2CD:
 ***** [#C] 10.1 The World Traders
 ***** [#C] 10.2 The Day of the Comet
 ***** [#C] 10.3 The Tribulations of Tahdeus Nook
 ***** [#E] 10.4 The Primeval Design
-**** 4DA series 12 :Leela:Margaret:P2023:
+**** 4DA series 12 :4DA:Margaret:P2023:
 ***** [#D] 12.1 Ice Heist :Ice_Warriors:P2023_03:2CD:
 ***** CANCEL [#F] 12.2 Antillia the Lost :P2023_03:2CD:
 ***** [#C] 12.3 The Wizard of Time :P2023_06:1CD:DW2024_Q3b_doctor:
@@ -1452,7 +1473,7 @@ SCHEDULED: <2024-08-31 Sat>
 ***** [#D] 12.4 The Friendly Invasion :P2023_06:1CD:
 ***** [#D] 12.5 Stone Cold :Weeping_Angels:P2023_06:2CD:
 ***** [#B] 12.6 The Ghost of Margaret :P2023_06:1CD:
-**** BF PHP :Leela:
+**** BF PHP
 
 Philip Hinchcliffe Presents
 
@@ -1462,27 +1483,27 @@ Philip Hinchcliffe Presents
 ***** [#D] 3. The Helm of Awe :3CD:
 ***** [#D] 4. The God of Phantoms :3CD:
 **** misc
-***** DONE [#C] Night of the Stormcrow (Bonus Release #11) :P2014:Leela:scripted:1CD:
+***** DONE [#C] Night of the Stormcrow (Bonus Release #11) :P2014:scripted:1CD:
 CLOSED: [2020-07-29 Wed 23:02]
 :PROPERTIES:
 :rating:   7.7
 :END:
 
-***** BLOCK [#A] LS 2.07 - The Foe from the Future  (8.9) :Leela:P2012:plot_yes:3CD:
-***** [#C] LS 2.08 - The Valley of Death :Leela:2CD:P2012:plot_no:
+***** BLOCK [#A] LS 2.07 - The Foe from the Future  (8.9) P2012:plot_yes:3CD:
+***** [#C] LS 2.08 - The Valley of Death 2CD:P2012:plot_no:
 :PROPERTIES:
 :rating:   7.7
 :END:
 
-***** [#D] CDNM3.2 The Tivolian Who Knew Too Much :P2022:Leela:plot_yes:1CD:
+***** [#D] CDNM3.2 The Tivolian Who Knew Too Much :P2022plot_yes:1CD:
 **** short
-***** [#C] CC2.4 - The Catalyst :Leela:
+***** [#C] CC2.4 - The Catalyst
 :PROPERTIES:
 :rating:   7.9
 :END:
 
-***** CANCEL [#D] CC3.4 - Empathy Games †7.0 :Leela:
-***** [#D] CC4.10 - The Time Vampire :Leela:
+***** CANCEL [#D] CC3.4 - Empathy Games †7.0
+***** [#D] CC4.10 - The Time Vampire
 :PROPERTIES:
 :rating:   7.2
 :END:
@@ -1492,13 +1513,13 @@ CLOSED: [2020-07-29 Wed 23:02]
 :rating:   6.3
 :END:
 
-***** [#B] STR1.5 Sound the Siren And I'll Come To You Comrade :Leela:
+***** [#B] STR1.5 Sound the Siren And I'll Come To You Comrade
 :PROPERTIES:
 :rating:   7.9
 :END:
 
-*** with Romana I
-**** 📂4DA series 2 :Romana_1:P2013:scripted:1CD:
+*** with Romana I :Romana_1:
+**** 📂4DA series 2 :4DA:P2013:scripted:1CD:
 ***** DONE [#B] 2.1 The Auntie Matter
 CLOSED: <2021-05-27 Thu 21:05>
 :PROPERTIES:
@@ -1513,19 +1534,19 @@ CLOSED: [2022-01-18 Tue 15:32] SCHEDULED: <2022-01-30 Sun>
 
 ***** [#C] 2.5 - Phantoms of the Deep (7.5)
 ***** [#D] 2.6 - The Dalek Contract / 2.7 The Final Phase (7.0)
-**** 3QTR [#B] STR3.4 The Warren Legacy :Romana_1:P2015:DW2023_04_doctor:
+**** 3QTR [#B] STR3.4 The Warren Legacy :P2015:DW2023_04_doctor:
 CLOSED: <2023-04-22 Sat 21:12> SCHEDULED: <2023-04-12 Wed 08:15>
 :PROPERTIES:
 :rating:   7.9
 :END:
 
-**** [#C] SST16. The Doctor's First XI :Romana_1:P2014:
+**** [#C] SST16. The Doctor's First XI :P2014:
 :PROPERTIES:
 :rating:   7.9
 :END:
 
-*** with Romana II
-**** 4DA series 5 :Romana_2:P2016:1CD:
+*** with Romana II :Romana_2:
+**** 4DA series 5 :4DA:P2016:1CD:
 ***** [#D] 5.1 - Wave of Destruction (7.1)
 ***** [#D] 5.2 - The Labyrinth of Buda Castle (7.1)
 ***** [#C] 5.3 - The Paradox Planet (7.6) / 5.4 - Legacy of Death (7.6)
@@ -1534,7 +1555,7 @@ CLOSED: <2021-07-01 Thu 16:39>
 
 ***** [#D] 5.7 - The Pursuit of History (7.2)
 ***** [#D] 5.8 - Casualties of Time (7.1)
-**** 4DA series 6 :Romana_2:P2017:1CD:
+**** 4DA series 6 :4DA:P2017:1CD:
 ***** CANCEL [#E] 6.1 The Beast of Kravenos :Jago:Litefoot:plot_yes:
 ***** [#D] 6.2 - The Eternal Battle (7.3) :Sontarans:plot_yes:
 ***** CANCEL [#E] 6.3 The Silent Scream :plot_yes:
@@ -1547,12 +1568,12 @@ CLOSED: [2023-12-15 Fri 21:28] SCHEDULED: <2023-12-09 Sat>
 
 ***** [#D] 6.6 - Subterranea (7.1)
 ***** TODO [#D] 6.8 - The Skin of the Sleek / 6.9 - The Thief Who Stole Time
-**** 4DA series 9 :P2020:2CD:
+**** 4DA series 9 :4DA:P2020:2CD:
 
 Romana II
 
 ***** [#C] 9.1 - Purgatory 12 (7.6) :Romana_2:Adric:
-***** 3QTR [#B] 4DA9.2 - Chase the Night (8.3) :Romana_2:Adric:K9_2:DW2023_06_doctor:
+***** 3QTR [#B] 9.2 - Chase the Night (8.3) :Romana_2:Adric:K9_2:DW2023_06_doctor:
 CLOSED: [2023-06-07 Wed 08:19] SCHEDULED: <2023-06-10 Sat>
 :PROPERTIES:
 :rating:   8.3
@@ -1589,7 +1610,7 @@ CLOSED: [2023-06-07 Wed 08:19] SCHEDULED: <2023-06-10 Sat>
 :rating:   7.9
 :END:
 
-*** BF 4DA :4DA:BigFinish:
+*** BF 4DA misc :4DA:BigFinish:
 **** 4DA series 8 :P2019:Ann:1CD:
 ***** plot
 
@@ -1890,12 +1911,12 @@ Susan Foremen学生和他的爷爷，神秘的博士，只想要一个平静的�
 *** [#D] 10. Death's Deal :10th_Dr:Donna:
 *** [#D] 11. The Time Machine :11th_Dr:Alice:
 ** Classic Doctors, New Monsters
-*** 📂CDNM vol.1 :P2016:scripted:
+*** CDNM vol.1 :P2016:scripted:
 **** DONE [#B] 1.1 Fallen Angels :5th_Dr:
 **** DONE [#B] 1.2 Judoon in Chains :6th_Dr:
 **** CANCEL [#E] 1.3 Harvest of the Sycorax :7th_Dr:
 **** DONE [#C] 1.4 The Sontaran Ordeal :8th_Dr:time_war:
-*** 📂CDNM vol.2 :P2017:scripted:
+*** CDNM vol.2 :P2017:scripted:
 **** DONE [#C] 2.1 Night of the Vashta Nerada :4th_Dr:
 **** CANCEL [#F] 2.2 Empire of the Racnoss :5th_Dr:
 **** [#D] 2.3 The Carrionite Curse :6th_Dr:
@@ -1947,8 +1968,8 @@ https://disk.yandex.ru/d/n_i2CRgIJW0xOw
 *** [#E] 2.2 Time Killers
 *** [#B] 2.3 The Key To Key To Time
 ** Peladon :P2022_01:plot_yes:
-*** HALF [#B] 1. The Ordeal of Peladon :King_Peladon:14th_Dr:DW2024_Q3c_spinoffs:
-SCHEDULED: <2024-09-08 Sun>
+*** 3QTR [#B] 1. The Ordeal of Peladon :King_Peladon:14th_Dr:DW2024_Q3c_spinoffs:
+CLOSED: [2024-11-01 Fri 08:38] SCHEDULED: <2024-09-08 Sun>
 
 *** [#D] 2. The Poison of Peladon :River:
 *** CANCEL [#E] 3. The Death of Peladon :6th_Dr:Mel:

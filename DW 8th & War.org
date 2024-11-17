@@ -107,7 +107,7 @@ CLOSED: [2021-03-22 Mon 22:35]
 :rating:   5.4
 :END:
 
-***** 2DONE [#A] MR54. The Natural History of Fear :plot_no:Charley:D2021_07_dr:
+***** 2DONE [#A] 54. The Natural History of Fear :plot_no:Charley:D2021_07_dr:
 CLOSED: [2021-07-06 Tue 17:15]
 :PROPERTIES:
 :rating:   8.5
@@ -119,7 +119,7 @@ CLOSED: [2021-03-22 Mon 22:38]
 :rating:   6.0
 :END:
 
-***** TODO [#D] MR61. Faith Stealer
+***** TODO [#D] 61. Faith Stealer
 :PROPERTIES:
 :rating:   7.4
 :END:
@@ -419,7 +419,7 @@ This is the beginning of the arc about adventures of Susan and Alex with the Eig
 
 ***** [#D] SST14. Late Night Shopping
 ***** CANCEL [#E] SST25. The Caves of Erith
-*** Dark Eyes :scripted:已购:
+*** 📂Dark Eyes :scripted:已购:
 **** Dark Eyes vol.1 :Molly:
 ***** DONE [#A] The Great War (8.5)
 CLOSED: <2020-09-25 Fri 16:37>
@@ -442,7 +442,7 @@ CLOSED: [2020-10-30 Fri 18:15]
 ***** DONE [#A] 2.4 Eyes of the Master (8.6) :Liv:Molly:Master_bald:D2021_07_extra:
 CLOSED: <2021-07-16 Fri 16:32>
 
-**** 📂Dark Eyes vol.3 :Master_bald:Liv:
+**** Dark Eyes vol.3 :Master_bald:Liv:
 ***** 2DONE [#C] 3.1 The Death of Hope (7.5) :D2021_07_extra:
 CLOSED: [2021-07-27 Tue 23:10]
 
@@ -460,7 +460,7 @@ SCHEDULED: <2021-09-24 Fri>
 CLOSED: <2021-10-28 Thu 14:30>
 
 *** with Liv & Helen :Liv:Helen:
-**** Doom Coalition :plot_yes:scripted:
+**** 📂Doom Coalition :plot_yes:scripted:
 ***** DC vol.1
 ****** 2DONE [#B] 1.1 The Eleven :D2022_01_doctor:bilibili:
 CLOSED: [2022-01-05 Wed 16:56] SCHEDULED: <2022-01-30 Sun>
@@ -553,18 +553,18 @@ CLOSED: <2024-02-11 Sun 14:55> SCHEDULED: <2024-02-10 Sat>
 :rating:   7.9
 :END:
 
-****** [#B] 4.3 - The Side of the Angels :Monk:Weeping_Angels:DW2024_Q4b_doctor:
-SCHEDULED: <2024-07-27 Sat>
+****** DONE [#B] 4.3 - The Side of the Angels :Monk:Weeping_Angels:DW2024_Q4b_doctor:
+CLOSED: [2024-11-06 Wed 16:51] SCHEDULED: <2024-07-27 Sat>
 :PROPERTIES:
-:rating:   8.3
+:rating:   8.0
 :END:
 
 ****** [#C] 4.4 - Stop the Clock :DW2024_Q4b_doctor:
 :PROPERTIES:
-:rating:   8.1
+:rating:   7.8
 :END:
 
-**** Ravenous
+**** 📂Ravenous
 ***** Ravenous vol.1
 ****** READY [#D] 1.1 Their Finest Hour :bilibili:
 
@@ -654,7 +654,7 @@ SCHEDULED: <2024-07-27 Sat>
 
 【【神秘博士广播剧】Ravenous 403 Day of the Master 法师之日(下)-哔哩哔哩】 https://b23.tv/fcWfPdy
 
-**** Stranded
+**** 📂Stranded
 ***** Stranded vol.1
 ****** READY [#C] 1.1. Lost Property :bilibili:
 
@@ -736,6 +736,10 @@ SCHEDULED: <2024-07-27 Sat>
 ***** [#D] The Empty Man
 ***** [#E] Winter of the Demon
 **** The Stuff of Legend :Charley:Master_bald:Daleks:2CD:P2024_09:
+**** TBR 📂Deadly Strangers :P2024_12:
+***** 1. Puccini and the Doctor
+***** 2. Woman's Day Off
+***** 3. The Gloaming :The_Mara:
 *** 8D Time War ↗
 **** DONE SST01 Museum Peace
 **** DONE [#C] ST7.9 - A Heart on Both Sides :Nyssa:
@@ -837,7 +841,7 @@ http://blog.sina.cn/dpool/blog/s/blog_6c777581010185u0.html?type=2
 *** DONE Titan: A Matter of Life and Death (#1-5) :P2016:Josie:Titan_Comics:
 * Last Great Time War timeline :time_war:
 
-https://tardis.fandom.com/wiki/Theory:Timeline_-_Last_Great_Time_War
+https://tardis.wiki/wiki/Theory:Timeline_-_Last_Great_Time_War
 
 ** 概述： The Complete Story of 'The Time War'
 
@@ -951,6 +955,28 @@ CLOSED: [2023-07-27 Thu 19:33] SCHEDULED: <2023-07-23 Sun>
 【【广播剧汉化】 你也有今天啊 The War Master 战争法师 804 The Master of Dorian Gray-哔哩哔哩】 https://b23.tv/UiQZnNN
 
 *** Master of Worlds (UNIT new #6.4) :Master_war:🎧:
+*** /📂The War Master series 9: Solitary Confinement/ :🎧:P2023_06:Master_war:
+**** READY [#A] 9.1 - The Walls of Absence :bilibili:
+
+【【广播剧汉化】燃烧的天空 The War Master 战争法师 901 The Walls of Absence-哔哩哔哩】 https://b23.tv/vQ364oL
+
+**** READY [#A] 9.2 - The Long Despair :bilibili:
+
+【【广播剧汉化】漫长的绝望 The War Master 战争法师 902 The Long Despair-哔哩哔哩】 https://b23.tv/ZP1QcKr
+
+**** READY [#A] 9.3 - The Life and Loves of Mr Alexander Bennett :bilibili:
+
+【【广播剧汉化】法师的画饼日常 The War Master 战争法师 903 The Life and Loves of Mr Alexander-哔哩哔哩】 https://b23.tv/W4xMLa7
+
+**** READY [#C] 9.4 - The Kicker :bilibili:
+
+【【广播剧汉化】真假法师 The War Master 战争法师 904 The Kicker-哔哩哔哩】 https://b23.tv/J1ytO0Z
+
+*** /📂The War Master series 10: Rogue Encounters/ :P2023_11:🎧:
+**** 10.1 Runtime
+**** 10.2 Manhunt
+**** 10.3 The Sublime Porte
+**** 10.4 Alone
 *** /📂The War Master series 4: Anti-Genesis/ :Master_war:scripted:🎧:
 **** DONE [#B] 4.1 From the Flames :has_plot:D2021_10_master:
 CLOSED: <2021-01-16 Sat 22:52>
@@ -1133,6 +1159,9 @@ CLOSED: [2023-11-19 Sun 19:32] SCHEDULED: <2023-11-26 Sun>
 **** HALF [#A] 4. The Shoreditch Intervention :P2020_04:8th_Dr:plot_yes:
 SCHEDULED: <2024-05-31 Fri>
 
+*** 📂Susan's War vol.2 :Susan:War_Dr:P2024_08:
+**** 2.1 The Lost Son
+**** 2.2 The Golden Child
 ** 6. Derilobia Lost
 *** 📂8D Time War vol.2 :Bliss:P2018:scripted:🎧:
 **** 2DONE [#C] 2.1 The Lords of Terror
@@ -1242,7 +1271,7 @@ CLOSED: <2020-12-17 Thu 19:57>
 **** 4.3 Beyond
 **** 4.4 Homecoming
 ** 10. Universe on the brink
-*** _📂Gallifrey: War Room vol.1_ :🎧:P2022_08:
+*** _📂Gallifrey: War Room vol.1 Allegiance_ :🎧:P2022_08:
 **** [#B] 1.1 The Last Days of Freme
 **** [#D] 1.2 The Passenger
 **** [#B] 1.3 Collateral Victim
@@ -1268,6 +1297,12 @@ CLOSED: [2020-09-23 Wed 12:53]
 :END:
 
 **** HALF A Heart on Both Sides (Short Trips #7.9) :🎧:Nyssa:
+*** HALF [#B] ST11.4 Death Will Not Part Us 🗣 :8th_Dr:time_war:🎧:DW2024_Q3c_doctor:
+SCHEDULED: <2024-09-28 Sat>
+:PROPERTIES:
+:rating:   8.0
+:END:
+
 *** _📂Gallifrey: War Room vol.2 Manoeuvres_ :P2023_09:🎧:
 **** [#B] 2.1 Collaborators
 **** [#D] 2.2 Remnants
@@ -1343,6 +1378,8 @@ CLOSED: [2024-05-23 Thu 21:38] SCHEDULED: <2024-05-04 Sat>
 **** 6.1 The Hybrid’s Choice
 **** 6.2 Fear Nothing
 **** 6.3 Exit Strategy :8th_Dr:
+*** 📂The War Doctor Rises
+**** WDR1: Morbius the Mighty :P2024_08:War_Dr:3CD:
 *** Ambush (comic)
 ** 12. The Master flees
 *** DONE [#A] WM1.4 The Heavenly Paradigm :Cole:🎧:D2021_09_extra:

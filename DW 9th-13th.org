@@ -8,7 +8,7 @@
 CLOSED: [2022-06-30 Thu 08:12]
 
 ** audio :🎧:
-*** 9DA
+*** 9DA :9DA:
 **** 📂S1.1 Ravagers :P2021_05:已购:
 ***** START 1.1 Sphere of Freedom (7.2)
 ***** START 1.2 Cataclysm (7.0)
@@ -101,6 +101,11 @@ SCHEDULED: <2023-09-24 Sun>
 ***** START [#D] 7.2 Lay Down Your Arms :DW2024_Q4a_doctor:
 SCHEDULED: <2024-10-26 Sat>
 
+
+贝尔塔·冯·苏特纳（Bertha von Suttner1843年6月9日—1914年6月21日），生於布拉格，逝世於维也纳，是一位奥地利小说家，激进的和平主义者。
+
+苏特纳1889年发表了小说《Die Waffen nieder!（放下武器！）》，此后就成为了奥地利和平运动的象征，1891年她创立了奥地利和平主义组织，在1905年獲得諾貝爾和平獎
+
 ***** 2DONE [#A] 7.3 Flatpack :Liv:Tania:bilibili:DW2023_11_doctor:
 SCHEDULED: <2023-11-11 Sat>
 :PROPERTIES:
@@ -147,7 +152,10 @@ CLOSED: [2024-07-16 Tue 08:34] SCHEDULED: <2024-06-22 Sat>
 **** 📂S3.3 Buried Threats :P2024_02:
 ***** 3.3.1 A Theatre of Cruelty :scripted:
 ***** 3.3.2 The Running Men
-***** 3.3.3 Ancient History
+***** READY 3.3.3 Ancient History :bilibili:
+
+【【神秘博士广播剧熟肉】Buried Threats 309 Ancient History 古代史-哔哩哔哩】 https://b23.tv/0f5K9xm
+
 **** 📂S3.4 Star-Crossed :River:P2024_05:
 ***** 3.4.1 Swipe Right
 ***** 3.4.2 Face of the Apocalypse
@@ -158,7 +166,7 @@ CLOSED: [2024-07-16 Tue 08:34] SCHEDULED: <2024-06-22 Sat>
 :rating:   7.0
 :END:
 
-**** HALF [#D] 9DC1.3. The Other Side :Rose:Adam:DW2023_05_doctor:
+**** HALF [#D] 1.3. The Other Side :Rose:Adam:DW2023_05_doctor:
 SCHEDULED: <2023-05-13 Sat>
 :PROPERTIES:
 :rating:   7.2
@@ -399,7 +407,7 @@ http://tardis.wikia.com/wiki/The_Crimson_Hand_(graphic_novel)
 ***** Ghosts of the Northern Line (DWM414-415) :Majenta:
 ***** The Crimson Hand (DWM416-420) :Majenta:
 ** audio :🎧:
-*** 10DA
+*** 10DA :10DA:
 **** 10DA vol.1 :P2016:Donna:scripted:
 ***** 2DONE [#C] 10DA 1.1 - Technophobia :D2021_07_dr:bilibili:
 CLOSED: [2021-08-01 Sun 15:54]
@@ -426,7 +434,7 @@ CLOSED: <2021-05-29 Sat 23:26>
 【[BF广播剧熟肉]Death And The Queen死亡与女王-哔哩哔哩】https://b23.tv/qfRlhV
 
 **** 10DA vol.2 :P2017:Rose:
-***** HALF [#C] 10DA2.1 - _Infamy of the Zaross_ :D2021_08_dr:plot_no:Jackie:bilibili:
+***** HALF [#C] 10DA 2.1 - Infamy of the Zaross :D2021_08_dr:plot_no:Jackie:bilibili:
 :PROPERTIES:
 :rating:   7.5
 :END:
@@ -462,7 +470,7 @@ CLOSED: [2022-08-11 Thu 21:18] SCHEDULED: <2022-08-10 Wed>
 
 【【神秘博士广播剧熟肉】The 10th Doctor Adventures 302 One Mile Down-哔哩哔哩】 https://b23.tv/4UM8Y1U
 
-***** HALF [#D] _10DA 3.3 - The Creeping Death_ :bilibili:DW2023_08_doctor:
+***** HALF [#D] 10DA 3.3 - The Creeping Death :bilibili:DW2023_08_doctor:
 SCHEDULED: <2023-08-26 Sat>
 :PROPERTIES:
 :rating:   7.2
@@ -815,7 +823,7 @@ SCHEDULED: <2022-01-31 Mon>
 :rating:   7.4
 :END:
 
-**** [#F] The Melting Pot
+**** [#F] 2.3 The Melting Pot
 :PROPERTIES:
 :rating:   5.6
 :END:
@@ -833,7 +841,7 @@ https://tardis.fandom.com/wiki/Prequel_to_Geronimo!_(audio_story)
 
 【【神秘博士广播剧】The Eleventh Doctor Chronicles: Geronimo! 先行篇-哔哩哔哩】 https://b23.tv/6zkqNzo
 
-**** 3QTR [#A] 11DC3.1 The Inheritance :DW2023_05_doctor:bilibili:
+**** 3QTR [#A] 3.1 The Inheritance :DW2023_05_doctor:bilibili:
 CLOSED: <2023-06-04 Sun 20:22> SCHEDULED: <2023-05-20 Sat>
 :PROPERTIES:
 :rating:   8.6
@@ -841,7 +849,7 @@ CLOSED: <2023-06-04 Sun 20:22> SCHEDULED: <2023-05-20 Sat>
 
 【【神秘博士广播剧熟肉】Geronimo! 301 The Inheritance 遗产-哔哩哔哩】 https://b23.tv/T5sKhn0
 
-**** HALF [#B] 11DC3.2 The House of Masks :DW2023_07_doctor:bilibili:
+**** HALF [#B] 3.2 The House of Masks :DW2023_07_doctor:bilibili:
 SCHEDULED: <2023-07-28 Fri 08:02>
 :PROPERTIES:
 :rating:   8.4
@@ -874,7 +882,7 @@ SCHEDULED: <2024-07-13 Sat>
 
 【【神秘博士广播剧熟肉】All of Time and Space 402 The Yearn 渴望-哔哩哔哩】 https://b23.tv/BPVZGsy
 
-**** START [#A] 4.3 Curiosity Shop :P2023_02:bilibili:DW2024_Q4a_doctor:
+**** HALF [#A] 4.3 Curiosity Shop :P2023_02:bilibili:DW2024_Q4a_doctor:
 SCHEDULED: <2024-11-02 Sat>
 :PROPERTIES:
 :rating:   8.6
@@ -1132,7 +1140,7 @@ SCHEDULED: <2024-09-21 Sat>
 :END:
 
 *** 12DC vol.2 :P2021:Keira:plot_yes:
-**** HALF [#D] 12DC2.1. Flight to Calandra :D2021_11_doctor:
+**** HALF [#D] 2.1. Flight to Calandra :D2021_11_doctor:
 SCHEDULED: <2021-11-20 Sat>
 
 **** 3QTR [#E] 2.2 Split Second :D2022_02_doctor:
@@ -1141,7 +1149,7 @@ CLOSED: [2022-02-23 Wed 20:38] SCHEDULED: <2022-02-24 Thu>
 :rating:   6.4
 :END:
 
-**** HALF [#D] 12DC2.3 The Weight of History :D2022_04_doctor:
+**** HALF [#D] 2.3 The Weight of History :D2022_04_doctor:
 SCHEDULED: <2022-04-30 Sat>
 :PROPERTIES:
 :rating:   7.0
@@ -1294,7 +1302,7 @@ CLOSED: <2022-11-06 Sun>
 :rating:   3.9
 :END:
 
-*** LATER [#B] The Shining Man 闪光的人 (3.87) :己购:DW2024_Q4:
+*** LATER [#B] The Shining Man 闪光的人 (3.87) :己购:S2024_Q4:
 :PROPERTIES:
 :rating:   3.87
 :END:
@@ -1494,7 +1502,7 @@ DWM 584-597
 
 *** Untitled (DWM 598) :Donna:hanzify:
 * 15th Doctor
-** tv
+** tv :S2024_12:
 *** DONE 304. The Church On Ruby Road :Christmas_special:P2023:
 CLOSED: [2024-06-08 Sat 15:34]
 
