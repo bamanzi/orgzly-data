@@ -1754,7 +1754,7 @@ http://drwhoguide.com/who_bf33.htm
 *** 3QTR [#B] Peladon1. The Ordeal of Peladon :King_Peladon:14th_Dr:plot_yes:
 *** HALF [#B] Gallifrey 3.5 - Panacea :Romana_2:Leela:
 *** HALF [#A] Unbound5. Deadline :bilibili:
-** DOING dw2024-q4a-doctor
+** dw2024-q4a-doctor
 *** HALF [#B] EA5.2 An Ideal World :1st_Dr:Vicki:Steven:
 *** HALF [#C] 3DA23B Intelligence for War (part1~3) :3rd_Dr:Liz:3CD:plot_yes:DW2024_Q4a_doctor:
     SCHEDULED: <2024-10-12 Sat>
@@ -1763,7 +1763,7 @@ http://drwhoguide.com/who_bf33.htm
 *** 3QTR [#B] MR139. Project: Destiny :7th_Dr:Ace:Hex:The_Forge:Lysandra:P2010:
 *** [#D] 9DA7.2 Lay Down Your Arms :9th_Dr:
 *** READY [#A] 11DC4.3 Curiosity Shop :11th_Dr:bilibili:
-** DOING dw2024-q4a-spinoffs
+** dw2024-q4a-spinoffs
 *** 3QTR [#A] TW7.6 At Her Majesty’s Pleasure :Yvonne:Andy:
 *** [#C] TW69 Double part 1
 *** HALF [#D] UNIT2.2 Death in Geneva
@@ -1771,22 +1771,203 @@ http://drwhoguide.com/who_bf33.htm
 *** [#C] DoRS4.2 - Kings of Infinite Space :River:
 *** HALF [#B] Missy2.4 Too Many Masters :Master_missy:Monk:
 *** [#C] Rose2.2 Now is the New Dark :Rose:
-** dw2024-q4b-doctor
-*** [#D] 2DA23.1 Jamie :2nd_Dr:
-*** FIXME [#C] 4DA7.7/7.8 - Kill the Doctor! / The Age of Sutekh :4th_Dr:Leela:Sutehk:
-*** FIXME [#B] 6DA2022A.2 The Tides of the Moon :6th_Dr:Mel:Hebe:
-*** [#B] 8DDC4.3 - The Side of the Angels :8th_Dr:Liv:Helen:Monk:
+** DOING dw2024-q4b-doctor
+*** HALF [#D] 2DA23.1 Jamie :2nd_Dr:Jamie:
+*** FIXME [#A] 2DA23.2 The Green Man :2nd_Dr:Jamie:
+*** HALF [#C] 4DA7.7/7.8 - Kill the Doctor! / The Age of Sutekh :4th_Dr:Leela:Sutehk:
+*** HALF [#B] 6DA2022A.2 The Tides of the Moon :6th_Dr:Mel:Hebe:
+*** DONE [#B] 8DDC4.3 - The Side of the Angels :8th_Dr:Liv:Helen:Monk:
 *** [#B] 8DDC4.4 - Stop the Clock :8th_Dr:Liv:Helen:
-*** READY [#C] WD3.1 - The Shadow Vortex :War_Dr:bilibili:
-*** FIXME [#A] BSS2.3 The Angel of History :Benny:Unbound_Dr:
-** dw2024-q4b-spinoffs
-*** [#C] TW7.4 Moderation :Tyler:
-*** [#A] TW70 Double part 2
-*** FIXME [#C] CM3.2 - The Concrete Cage
-*** [#D] PG4.3 - Rulers of Earth
 *** READY [#A] WM7.4 The Last Line :Master_war:10th_Dr:
+*** READY [#C] WD3.1 - The Shadow Vortex :War_Dr:bilibili:
+** DOING dw2024-q4b-spinoffs
+*** HALF [#B] BBC5.3 The House of the Dead :Jack:Gwen:Ianto:bilibili:
+*** [#A] TW70 Double part 2
+*** [#C] UNIT2.3 The Battle of the Tower
+*** [#D] PG4.3 - Rulers of Earth
+*** HALF [#A] BSS2.3 The Angel of History :Benny:Unbound_Dr:
+*** FIXME [#B] RBT3.2 - Circuit Breaker :Toos:Poul:
+*** FIXME [#C] CY2.4 - Churchill Victorious
+** FIXME dw2024-q4b-pending
 *** READY [#A] Rose2.3 The Rogue Planet :Rose:
-*** FIXME [#C] CY1.3 - Living History :Churchill:
-** dw2024-q4b-pending
 *** [#C] 6DnP1.1 - The Headless Ones :6th_Dr:Peri:
-*** FIXME [#D] Missy3.1 Body and Soulless /
+*** FIXME [#D] Missy3.1 Body and Soulless
+* DW 2025
+** TODO dw2025-q1a-doctor
+*** [#D] CC11.3 The Bonfires of the Vanties :Polly:Ben:scripted:
+*** [#C] 2023B Intelligence for War (part4~7) :3rd_Dr:Liz:3CD:
+*** [#B] MR104 The Bride of Peladon :5th_Dr:Peri:Erimem:
+*** FIXME [#C] BSNA2.1 - The Pyramid of Sutekh :Benny:7th_Dr:
+*** READY [#B] 9DA3.2.1 Below There :9th_Dr:bilibili:
+*** READY 11DC 4.4 Broken Hearts :11th_Dr:Valarie:
+** TODO dw2025-q1a-spinoffs
+*** [#C] TW7.4 Moderation :Tyler:
+*** [#B] TW Soho #2: Ashenden (1~3) :Norton:Andy:Lizbeth:P2021:plot_yes:
+*** FIXME [#C] CM3.2 - The Concrete Cage
+*** [#C] JL9.3 - Island of Death
+*** FIXME [#B] DoRS4.3 - Whodunnit?
+*** [#A] ST9.6 The Same Face :Master:
+*** HALF [#B] Gallifrey 6.3 -Ascension
+** TODO dw2025-q1b-doctor
+*** CC8.12 Second Chances :2nd_Dr:Zoe:
+*** FIXME [#A] DoRS4.4 - Someone I Once Knew :River:4th_Dr:
+*** [#C] MR194. The Rani Elite :6th_DR:Peri:
+*** [#C] 8DA2.3 - Brave New Town :8th_Dr:Lucie:
+*** READY [#C] DU3.2 - The Dalek Defense :10th_Dr:Anya:Mark7:bilibili:
+*** [#B] WDB4.1 The Mission :War_Dr:
+** TODO dw2025-q1b-spinoffs
+*** [#A] TW7.7 Cuckoo :Bilis_Manger:
+*** [#A] TW7.8 Pariahs :Yvonne:Colchester:Ng:Tyler:Orr:
+*** FIXME [#A] TW Soho #2: Ashenden (4~6) :Norton:Andy:Lizbeth:P2021:plot_yes:
+*** [#D] UNIT2.4 Ice Station Alpha
+*** [#D] JL9.4 - Return of the Nightmare
+*** [#D] BSNA2.2 - The Vault of Osiris :Benny:Ace:
+*** [#A] WM8.3 The Adventure of the Deceased Doctor :Master_war:Holmes:bilibili:
+* FIXME pending
+** special
+*** 4DA1303 - Metamorphosis :4th_Dr:Master:bilibili:
+*** FIXME [#D] WoDW#4 Second Sight :6th_Dr:Romana_2:Leela:Yates:
+*** [#B] Jack 2.1 Piece of Mind :Jack:6th_Dr:
+*** [#C] Susan1.4 The Shoreditch Intervention :Susan:8th_Dr:Alex:
+** odd
+*** 1st
+**** [#B] LS2.1b The Fragile Yellow Arc of Fragrance (Susan, Ian, Barbara) :plot_yes:
+**** CC9.2 - The Unwinding World :1st_Dr:Vicki:
+**** [#C] EA7.2 The Secrets of Det-Sun :1st_Dr:Steven:Dodo:
+*** 3rd
+**** 3DA6.1 Poison of the Daleks (Jo)
+**** CC5.10 - The Sentinels of the New Dawn (Liz)
+**** CC2.3 - Old Soldiers (Brig) no_doctor?
+*** 5th
+**** MR142c. Doing Time + 142d Special Features (Nyssa)
+**** [#D] MR91. Circular Time a/b (Nyssa)
+**** 5DA21.3 [#C] Nightmare of the Daleks  (Nyssa, Tegan, Marc)
+**** [#B] ST7.11. The Ingenious Gentleman Adric of Alzarius (Adric, Nyssa)
+**** MR266A. Ghost Station (no companion)
+**** READY [#A] 2023B.1 Pursuit of the Nightjar (Nyssa, Tegan)
+**** 2CD
+***** MR20 Loups-Garoux (Turlough)
+***** READY [#C] MR047 Omega /
+***** [#B] MR161 The Butcher of Brisbane  (Nyssa + Tegan +Turlough)
+***** [#D] MR234. Kingdom of Lies (Nyssa + Tegan + Adric)
+***** [#B] LS3.1 The Elite (Nyssa, Tegan, Daleks) / LS3.3 The Children of Seth
+***** [#C] MR127 Castle of Fear (Nyssa, Rutans)
+***** [#C] MR165. The Burning Prince (no companion)
+*** 7th
+**** FIXME [#A] BBV21 Punchline :plot_yes_dwg:
+**** [#C] 268B. Displaced :7th_DR:Ace:Hex:plot_no:
+**** UNIT: Dominion #4 :7th_Dr:Raine:Klein:Master_bald:
+**** [#D] CC4.6 BS and and the Criminal Code (Benny)  /
+**** 2CD
+***** Klein [#E] MR175. Persuasion (Klein) / [#C] 176. Starlight Robbery
+***** Mel [#D] MR046 Filp-flop / [#C]  2022A.2  The Ribos Inheritance (Mel)
+***** Ace: MR05. The Fearmonger (Ace) / MR180. The Assassination Games (7th, Ace, Counter-Measure)
+***** MR013 The Shadow of the Scourge (Benny, Ace)
+***** [#C] MR243. The Quantum Possibility Engine (Ace, Mel)
+***** [#C] MR082 The Settling (Ace, Hex)
+***** READY [#A] 74. Live 34 (Ace, Hex) /
+***** READY [#A] NA6 Damaged Goods (Roz, Chris)
+*** 9th
+**** [#C] DotD#9. Night of the Whisper
+**** READY 3.1.3 The Beautiful Game
+**** READY 3.2.1 Below There
+**** READY 3.2.3 Run
+*** Let it Snow :11th_Dr:
+
+Tales of Trenzalore - 01
+
+** even
+*** 2nd
+**** [#A] CC14.1 The Death of the Daleks :2nd_Dr:Jamie:
+**** [#C] EA4.2 The Outliers :2th_Dr:Jamie:Polly:Ben:plot_yes:
+**** BBC #5 The Elysian Blade :Jamie:Victoria:
+*** 4th
+**** [#C] 4DA2.5 Pantoms of the Deep (Romana I) 1cd
+**** [#D] 4DA6.2 - The Eternal Battle (Romana II) plot_yes
+**** [#C] CDNM3.2 The Tivolian Who Knew Too Much :4th_Dr:Leela:
+**** [#C] CDNM4.1 Invasion of the Body Stealers :4th_Dr:Sarah:
+**** BBC Demon Quest #1-5
+**** READY DotD #4 Babblesphere :4th_Dr:Romana_2:bilibili:
+**** 2CD
+***** [#C] 4DA5.3 - The Paradox Planet (7.6) / 5.4 - Legacy of Death (7.6) :Romana_2:
+***** [#B] 4DA 8.7/8.8 The Perfect Prisoners :Ann:
+***** [#C] 4DA9.1 - Purgatory 12 :4th_Dr:Romana_2:Adric:
+***** [#A] LS6.2 - The Doomsday Contract (Romana2) :bilibili:
+***** READY DU0 The Dalek Protocol
+*** 6th
+**** 6DnP #1 The Headless Ones (Peri) 1cd  /
+**** [#B] 22A.2 The Tides of the Moon (Mel, Hebe) 1cd /
+**** READY [#B] 100b. My Own Private Wolfgang (Evelyn)
+**** READY [#A] Bonus12. Trial of the Valeyard
+**** READY [#A] CDNM3.3 Together in Eclectic Dreams
+**** 2CD
+***** [#C] 73. Thicker than Water (Mel, Eyelyn)
+***** [#C] 134. The Wreck of the Titan (Jamie)
+***** [#C] 157. The Fourth Wall (Flip) 2cd
+***** [#C] 169. The Wrong Doctors (Mel)
+***** [#C] 194. The Rani Elite (6th, Peri)
+***** [#C] 204. Criss-Cross (Constance)
+***** READY [#E] LS1.1 The Nightmare Fair (Peri, ToyMaker)
+*** 8th
+**** [#A] BBC #14. The Code of Flesh (James MacFarlane)
+**** Charlie
+***** READY [#D] MR031 - Embrace the Darkness
+***** READY [#E] 032 - The Time of the Daleks
+***** READY CC4.12 Solitaire
+***** READY 050 Zegreus
+***** READY [#A] CDNM3.4 If I Should Die Before I Wake
+***** SvsR#1. The Battle of Giant's Causeway :8th_Dr:Charley:Crizz:
+**** Liv & Helen
+***** READY Ravenous 1.1/1.2 / 2.2/2.3  / 4.1/4.2/4.3
+***** READY Stranded: 1.1-1.4, 2.1-2.4, 3.1/3.2/3.4
+***** READY 8DA 2022:  Paradox of the Daleks 2cd / 2023.1 Audacity 101 The Devouring
+**** Time War
+***** READY [#A] 3.4 The War Valeyard
+***** READY 5.1 Meanwhile, Elsewhere / 5.2 Vespertine / [#B] 5.3 Previously, Next Time
+*** 10th
+**** FIXME [#C] ST8.6 The Siege of Big Ben :10th_Dr:plot_yes:Jackie:
+**** TODO [#B] 10DC1.4 - Last Chance :10th_Dr:Christina:plot_cast:
+**** READY Donna: [#D] 10DA1.2 Time Reaver (Donna) /10DA 3.3 - The Creeping Death (Donna)
+**** READY DU 3.3
+**** READY 10DCC [#E] 2. The Stuntman (Nyssa)  / [#D] 3. Quantum of Axos (Ace)
+**** READY ST: [#A] NSA #7: Dead Air
+**** READY [#D] O&F #5  The Martian Invasion of Planetoid 50
+**** READY fan-made  Empire of the Sun
+** spinoffs
+*** Torchwood
+**** Jack
+***** [#C] Jack1.2 Wednesdays For Beginners (Jackie)
+***** [#C] Jack1.4 Month 25
+***** [#B] Jack2.1 Piece of Mind :Jack:
+**** Andy: [#B] 58. Cadoc Point
+**** Andy + Owen: [#A] 49. Gooseberry :Owen:Andy:
+     :PROPERTIES:
+     :rating:   8.7
+     :END:
+
+**** Yvvone+Ianto: [#C] TWO2.2 - Blind Summit / [#A] TWO2.3 - 9 to 5 :Yvonne:Ianto:
+**** READY Ianto: [#A] 63. Restricted Items Archive Entries 031–049
+**** [#B] 67. The Lincolnshire Poacher :Ianto:
+**** FIXME [#D] TW65. Death in Venice :Colchester:Ace:
+**** TW Soho #3 The Unbegotten :Norton:Andy:Lizbeth:P2022_10:plot_yes:
+*** Benny
+**** FIXME [#C] BS6.2 The Kingdom of the Blind :Benny:
+     :PROPERTIES:
+     :rating:   7.7
+     :END:
+
+http://drwhoguide.com/bs_a18.htm
+
+**** FIXME [#C] BSBOX 2.1 Brand Management :Benny:
+*** River
+**** [#C] DoRS6.4 The Talents of Grel :River:Jago:
+**** [#C] DoRS8.2 A Brave New World :River:10th_Dr:
+*** UNIT
+**** [#B] UNEM1.1 The Enemy Beyond :UNIT:The_Eleven:
+*** Master
+**** [#D] WM8.2 - The Shadow Master
+*** The Lone Centurion vol.2
+*** The Robots vol.3
+*** Rose Tyler: The Dimension Cannon vol.3
+*** misc
+**** FIXME [#C] CY1.3 - Living History :Churchill:
