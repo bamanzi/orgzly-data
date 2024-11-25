@@ -156,8 +156,6 @@ CLOSED: <2022-02-22 Tue 20:27>
 CLOSED: [2022-02-23 Wed 19:43]
 
 *** S9 (2001.11-2002.05)
-DEADLINE: <2022-03-31 Thu> SCHEDULED: <2022-03-31 Thu>
-
 **** DONE 9x01 Nothing Important Happened Today :myth:super-soldier:
 CLOSED: <2022-02-28 Mon 23:23>
 

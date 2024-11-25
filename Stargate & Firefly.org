@@ -50,12 +50,27 @@ CLOSED: [2022-11-05 Sat 07:36]
 **** DONE Brand New 'Verse #1-6
 CLOSED: [2022-11-11 Fri 19:22]
 
+**** River Run :oneshot:
 *** 2022
-**** All New Firefly (#1-10)
+**** DONE All New Firefly (#1-10)
+***** DONE vol.1 (#1-4)
+CLOSED: <2024-11-18 Mon 13:06>
+
+***** DONE vol.2 (#5-8)
+CLOSED: <2024-11-19 Tue 13:02>
+
+***** DONE vol.3 (#9-10, Big Damn Finale)
+CLOSED: [2024-11-20 Wed 13:30]
+
 **** Firefly 20th Anniversary Special (2022) :oneshot:
-**** Keep Flying :oneshot:
-*** 2023
-**** The Fall Guys
+**** HALF Keep Flying :oneshot:
+
+没看懂讲了个什么故事，更没搞懂设定在那个时间点。大胡子是Mal 吗（前几页也没胡子没那么老啊），那个戴眼镜的大妈又是谁，几乎所有人物都不容易辨识
+
+*** 2023-2024
+**** The Fall Guys (#1-6)
+**** Firefly ‘Verses :oneshot:
+**** Firefly – Malcolm Reynolds Year One #1 (2024)
 * Stargate
 ** DONE Stargate movie :P1994:
 CLOSED: [2022-11-05 Sat 12:09] SCHEDULED: <2022-10-06 Thu>
@@ -167,11 +182,11 @@ CLOSED: [2022-11-21 Mon 08:01]
 **** DONE 3x21
 CLOSED: [2022-11-24 Thu 22:13]
 
-**** DONE 3x22 Nemesis
+**** DONE 3x22 Nemesis :Replicator:
 CLOSED: [2022-12-05 Mon 22:09]
 
 *** DONE SG-1 S4
-**** DONE [#A] 4x01 Small Victories
+**** DONE [#A] 4x01 Small Victories :Replicator:
 CLOSED: <2022-12-06 Tue 23:06>
 
 **** DONE [#C] 4x02 The Other Side
@@ -237,8 +252,8 @@ CLOSED: <2023-12-16 Sat 19:42>
 **** DONE [#A] 4x22 Exodus
 CLOSED: <2023-12-17 Sun 14:52>
 
-*** DOING SG-1 S5 :P2001:S2024_11:
-**** DONE [#A] 5x01 Enemies
+*** DONE SG-1 S5 :P2001:
+**** DONE [#A] 5x01 Enemies :Replicator:
 CLOSED: [2023-12-17 Sun 15:35]
 
 **** DONE 5x02
@@ -294,13 +309,47 @@ CLOSED: [2024-11-05 Tue 08:27]
 **** DONE 5x18
 CLOSED: [2024-11-06 Wed 18:48]
 
-**** 5x19 Menace
-**** 5x20
-**** [#B] 5x21 Meridian
-**** [#B] 5x22 Revelations
-*** SG-1 S6 :P2002:
-**** [#B] 6x01/02 Redemption
-**** [#B] 6x03 Descent
+**** DONE 5x19 Menace :Replicator:
+CLOSED: [2024-11-08 Fri 23:11]
+
+**** DONE 5x20
+CLOSED: [2024-11-10 Sun 17:37]
+
+**** DONE [#B] 5x21 Meridian :ascension:
+CLOSED: [2024-11-09 Sat 15:57]
+
+**** DONE [#B] 5x22 Revelations
+CLOSED: [2024-11-09 Sat 20:33]
+
+*** DOING SG-1 S6 :P2002:
+**** DONE [#B] 6x01/02 Redemption
+CLOSED: [2024-11-13 Wed 16:05]
+
+**** DONE 6x03 Descent
+CLOSED: [2024-11-15 Fri 19:16]
+
+**** DONE 6x04
+CLOSED: [2024-11-18 Mon 08:10]
+
+**** DONE 6x05
+CLOSED: [2024-11-18 Mon 09:09]
+
+**** DONE [#B] 6x06 Abyss
+CLOSED: [2024-11-21 Thu 08:03]
+
+**** DONE 6x07
+CLOSED: [2024-11-19 Tue 20:04]
+
+**** DONE 6x08
+CLOSED: [2024-11-19 Tue 22:07]
+
+**** DONE 6x09
+CLOSED: [2024-11-22 Fri 21:04]
+
+**** 6x10
+**** 6x11
+**** [#A] 6x12 Unnatural Selection
+*** SG-1 S7 :P2003:
 *** ...
 *** SG-1 S10 :P2006:
 *** Stargate: The Ark of Truth :P2008:
@@ -371,6 +420,14 @@ This adventure is set during season 10 of Stargate SG-1
 ** Stargate Atlantis (SGA) :sga:
 *** DONE tv
 **** SGA S1 :P2004:
+***** DONE 1x01/02
+CLOSED: [2024-11-22 Fri 20:13]
+
+***** 1x04
+***** 1x05
+***** 1x07
+***** 1x08
+***** 1x09
 **** SGA S2 :P2005:
 **** SGA S3 :P2006:
 **** SGA S4 :P2007:
@@ -484,7 +541,7 @@ CLOSED: [2023-12-19 Tue 08:10]
 **** DONE 2x10/11
 CLOSED: [2023-12-24 Sun 17:19]
 
-**** DONE 2x12
+**** DONE [#B] 2x12
 CLOSED: [2023-12-27 Wed 19:16]
 
 **** DONE 2x13
@@ -496,6 +553,16 @@ CLOSED: <2024-11-03 Sun 14:56>
 **** DONE 2x15
 CLOSED: [2024-11-03 Sun 20:38]
 
+**** DONE 2x16
+CLOSED: [2024-11-14 Thu 23:14]
+
+**** DONE [#B] 2x17/18
+CLOSED: [2024-11-16 Sat 21:21]
+
+**** DONE 2x19
+CLOSED: [2024-11-23 Sat 18:39]
+
+**** 2x20
 * The Expanse :expense:
 ** DONE S1
 ** DONE S2
@@ -569,7 +636,7 @@ CLOSED: [2022-10-29 Sat 23:40]
 *** DONE 5x10
 CLOSED: [2022-10-30 Sun 23:20]
 
-** DOING S6 :S2024_11:
+** DONE S6 :S2024_11:
 
 6 episodes
 
@@ -578,6 +645,18 @@ CLOSED: [2024-11-06 Wed 07:58]
 
 *** DONE 6x02
 CLOSED: <2024-11-07 Thu 22:59>
+
+*** DONE 6x03
+CLOSED: [2024-11-08 Fri 20:13]
+
+*** DONE 6x04
+CLOSED: [2024-11-10 Sun 18:27]
+
+*** DONE 6x05
+CLOSED: [2024-11-14 Thu 22:34]
+
+*** DONE 6x06
+CLOSED: [2024-11-16 Sat 13:50]
 
 ** LATER comics: The Expanse – The Dragon Tooth :P2023:S2025_Q4:
 
@@ -2346,4 +2425,9 @@ https://starwars.fandom.com/wiki/Star_Wars_Movie_Adaptations
 **** The High Republic Adventures (2021.02-2022.02)
 
 15 issues
+
+* Babylon 5
+** B5 S1
+*** DONE 1x01
+CLOSED: [2024-11-17 Sun 16:26]
 
