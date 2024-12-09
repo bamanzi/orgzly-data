@@ -73,24 +73,24 @@ SCHEDULED: <2024-03-09 Sat>
 
 **** CANCEL [#F] EA3.1 The Age of Endurance
 **** 1DA vol.1-5 :Susan:Ian:Barbara:2CD:1DA:
-***** HALF [#C] 1.1 The Destination Wars :Master_early:D2021_08_dr:
+***** HALF [#C] 1.1 The Destination Wars :Master_early:D2021_08_dr:plot_yes:
 :PROPERTIES:
 :rating:   7.8
 :END:
 
-***** [#C] 1.2 The Great White Hurricane (7.5) :plot_no:
-***** 2DONE [#A] 2.1 The Invention of Death :D2021_07_dr:P2018:plot_simple:
+***** [#C] 1.2 The Great White Hurricane (7.5) :plot_yes:
+***** 2DONE [#A] 2.1 The Invention of Death :D2021_07_dr:P2018:plot_yes:
 CLOSED: [2021-07-27 Tue 23:10]
 :PROPERTIES:
 :rating:   9.2
 :END:
 
-***** [#A] 2.2 The Barbarians and the Samurai :P2018:plot_no:
+***** [#A] 2.2 The Barbarians and the Samurai :P2018:plot_yes:
 :PROPERTIES:
 :rating:   8.6
 :END:
 
-***** [#C] 3.1 The Phoenicians (7.5) :plot_no:P2019:
+***** [#C] 3.1 The Phoenicians (7.5) :plot_yes:P2019:
 ***** HALF [#A] 3.2 Tick-Tock World :P2019:plot_yes:D2022_03_doctor:week2:
 SCHEDULED: <2022-03-12 Sat>
 :PROPERTIES:
@@ -305,6 +305,7 @@ Old Steven 3/3
 :rating:   8.2
 :END:
 
+**** TBR 1DA2025. The Living Darkness :P2025_01:
 *** with Dodo
 **** 📂1DA2022. The Outlaws :Dodo:P2022_04:plot_yes:
 ***** 3QTR [#D] 22.1 The Outlaws :Dodo:Monk:P2022_04:DW2023_03_doctor:
@@ -1657,8 +1658,8 @@ CLOSED: <2023-02-10 Fri 14:02> SCHEDULED: <2023-02-06 Mon 08:42>
 SCHEDULED: <2024-05-11 Sat>
 
 **** 4DA series 13 :Harry:Naomi:
-***** 13.1 The Storm of the Sea Devils :P2024_03:
-***** 13.2 Worlds Beyond :P2024_03:
+***** [#D] 13.1 The Storm of the Sea Devils :P2024_03:
+***** [#D] 13.2 Worlds Beyond :P2024_03:
 ***** 13.3 Matryoshka :ToyMaker:P2024_06:
 ***** 13.4 The Caged Assassin :P2024_06:
 ***** READY 13.5 Metamorphosis :Master_decayed:P2024_06:bilibili:
@@ -1944,6 +1945,11 @@ Susan Foremen学生和他的爷爷，神秘的博士，只想要一个平静的�
 **** [#A] 4.2 The Queen of Clocks :6th_Dr:Clockwork_Droids:Mel:
 **** [#B] 4.3 The Silent City :Silents:8th_Dr:
 **** [#B] 4.4 The Silent Priest :Silents:7th_Dr:
+*** TBR CDNM vol.5 Faithful Friends :P2025_01:
+**** 5.1 The Krillitane Feint :2nd_Dr:Jamie:Zoe:
+**** 5.2 The Dying Breed :4th_Dr:Leela:K9:
+**** 5.3 The Krillitane Relic :7th_Dr:Ray:
+**** 5.4 Five Hundred Ways to Leave Your Lover :8th_Dr:
 ** The Legacy of Time :P2019:
 *** HALF [#B] Lies in Ruins :8th_Dr:River:Benny:
 *** CANCEL [#E] The Split Infinitive :7th_Dr:Ace:CM:
@@ -2025,7 +2031,10 @@ https://www.bigfinish.com/releases/v/doctor-who-once-and-future-the-martian-inva
 
 【【神秘博士六十周年纪念特辑】Once and Future 07 The Union 联合-哔哩哔哩】 https://b23.tv/XYQUxsR
 
-*** TBR 8. Coda: The Final Act :War_Dr:Benny:Vienna:Voord:P2024_11:
+*** READY 8. Coda: The Final Act :Fugitive_Dr:War_Dr:Benny:Vienna:Voord:P2024_11:bilibili:
+
+【【神秘博士六十周年纪念特辑】Once and Future 08 The Final Act 终幕-哔哩哔哩】 https://b23.tv/CtuXuvx
+
 ** BBC Audio Originals
 *** TODO [#C] 01. The Thing from the Sea :4th_Dr:Wibbsey:P2018:
 *** [#E] 02. Men of War :1st_Dr:Steven:Sara_Kingdom:

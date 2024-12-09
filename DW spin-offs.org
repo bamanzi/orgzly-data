@@ -23,26 +23,24 @@
 **** Station Zero
 **** The Culling
 ** audio :🎧:
-*** BBC audio dramas :🎧:scripted:
-**** [#D] 1. Lost Souls :Martha:
-**** 3QTR [#B] 2. Asylum :Jack:Gwen:Ianto:Andy:DW2023_05_spinoffs:
+*** BBC audio dramas :🎧:scripted:plot_yes:
+**** [#D] 1. Lost Souls :Martha:P2008:
+**** 3QTR [#B] 2. Asylum :Jack:Gwen:Ianto:Andy:P2009:DW2023_05_spinoffs:
      CLOSED: [2023-05-08 Mon 20:28] SCHEDULED: <2023-05-07 Sun>
 
-**** DONE [#B] 3. Golden Age
+**** DONE [#B] 3. Golden Age :P2009:
 
 Torchwood India
 
-**** 3QTR [#C] 4. The Dead Line :Jack:Gwen:Ianto:Rhys:plot_yes:bilibili:DW2024_Q2a_spinoffs:
+**** 3QTR [#C] 4. The Dead Line :Jack:Gwen:Ianto:Rhys:bilibili:P2009:DW2024_Q2a_spinoffs:
      CLOSED: [2024-04-09 Tue 22:04] SCHEDULED: <2024-04-07 Sun>
-
 
 【John Barrowman字幕组-火炬木广播剧中字-无人来电-哔哩哔哩】 https://b23.tv/PmtaVMU
 
-**** [#C] 5.1 The Devil and Miss Carew :Jack:Gwen:Ianto:
-**** CANCEL [#E] 5.2 Submission
-**** HALF [#B] 5.3 The House of the Dead :Jack:Ianto:bilibili:DW2024_Q4b_spinoffs:
-     SCHEDULED: <2024-12-01 Sun>
-
+**** [#C] 5.1 The Devil and Miss Carew :Jack:Gwen:Ianto:P2011:
+**** CANCEL [#E] 5.2 Submission :P2011:
+**** 2DONE [#B] 5.3 The House of the Dead :Jack:Ianto:bilibili:P2011:DW2024_Q4b_spinoffs:
+     CLOSED: [2024-12-05 Thu 06:35] SCHEDULED: <2024-12-01 Sun>
 
 【John Barrowman 字幕组-火炬木广播剧中字-亡者之屋-哔哩哔哩】 https://b23.tv/WyjmysL
 
@@ -496,11 +494,11 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 ***** [#E] 73. Launch Date :Ianto:P2023_04:
 ***** [#C] 74. Sigil :Bilis_Manger:P2023_08:
 ***** [#E] 75. Dog Hop :Andy:plot_yes:
-***** 76. Odyssey :plot_yes:Ood:
-***** 77. Oodunnit :Ood:Zack:
-***** 78. Oracle :Ood:P2023_12:
-***** 79. Poppet :Rhys:
-***** 80. Sabotage :Colchester:Ace:
+***** [#D] 76. Odyssey :plot_yes:Ood:P2024_10:
+***** [#E] 77. Oodunnit :Ood:Zack:P2024_11:
+***** [#D] 78. Oracle :Ood:P2023_12:
+***** 79. Poppet :Rhys:P2024_01:
+***** 80. Sabotage :Colchester:Ace:P2024_02:
 ***** 80X. Torchwood: Another Postcard from Mr Colchester
 ***** 81. Tube Strike :Ianto:P2024_03:
 ***** 82. Missing Molly :Ianto:P2024_04:
@@ -513,6 +511,7 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 ***** 88. Widdershins :P2024_10:
 ***** 89. Bad Connection :Suzie:
 ***** TBR 90. Reflect :Colchester:Ace:
+***** TBR 91. Ianto's Inferno :P2025_01:
 *** specials
 **** 2DONE [#B] special 1: The Torchwood Archive :P2016:The_Commitee:2CD:plot_yes:
      CLOSED: [2020-11-19 Thu 18:33]
@@ -708,14 +707,14 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
 ***** [#B] 7.10 Doomscroll :Orr:Colchester:Tyler:
 ***** [#B] 7.11 Heistland :Yvonne:Orr:Tyler:
 ***** [#C] 7.12 The Apocalypse Starts at 6 PM :Yvonne:Orr:
-*** The Lives of Captain Jack :🎧:Jack:1CD:
+*** 📂The Lives of Captain Jack :🎧:Jack:1CD:
 **** vol.1 :P2017:
 ***** HALF [#D] 1.1 The Year After I Died
       :PROPERTIES:
       :rating:   7.2
       :END:
 
-***** HALF [#C] 1.2 Wednesdays For Beginners
+***** HALF [#C] 1.2 Wednesdays For Beginners :Jackie:
       :PROPERTIES:
       :rating:   7.6
       :END:
@@ -845,7 +844,7 @@ https://tardis.fandom.com/wiki/Parasite_(audio_story)
 ***** part 3-6 :DW2023_04_spinoffs:
       CLOSED: [2023-04-21 Fri 09:00] DEADLINE: <2023-04-23 Sun>
 
-**** TW Soho #2: Ashenden :Norton:Andy:Lizbeth:P2021:plot_yes:
+**** [#B] TW Soho #2: Ashenden :Norton:Andy:Lizbeth:P2021:plot_yes:
 
 - 2.1. Pimlico
 - 2.2. O Little Town Of Ashenden
@@ -856,26 +855,6 @@ https://tardis.fandom.com/wiki/Parasite_(audio_story)
 
 **** TW Soho #3 The Unbegotten :Norton:Andy:Lizbeth:P2022_10:plot_yes:
 **** TW Soho #4: Ascension :P2024_07:
-*** BBC audio dramas :🎧:scripted:
-**** [#D] 1. Lost Souls :Martha:
-**** 3QTR [#B] 2. Asylum :Jack:Gwen:Ianto:Andy:DW2023_05_spinoffs:
-     CLOSED: [2023-05-08 Mon 20:28] SCHEDULED: <2023-05-07 Sun>
-
-**** DONE [#B] 3. Golden Age
-
-Torchwood India
-
-**** 3QTR [#C] 4. The Dead Line :Jack:Gwen:Ianto:Rhys:plot_yes:bilibili:DW2024_Q2a_spinoffs:
-     CLOSED: [2024-04-09 Tue 22:04] SCHEDULED: <2024-04-07 Sun>
-
-【John Barrowman字幕组-火炬木广播剧中字-无人来电-哔哩哔哩】 https://b23.tv/Cxi034N
-
-**** [#C] The Devil and Miss Carew
-**** CANCEL [#E] Submission
-**** READY [#B] The House of the Dead :bilibili:
-
-【John Barrowman 字幕组-火炬木广播剧中字-亡者之屋-哔哩哔哩】 https://b23.tv/uQcs9jt
-
 * River Song :River:
 ** prose
 *** DONE [#A] The Legends of River Song 瑞文·宋传奇 :P2016:己购:
@@ -1416,10 +1395,10 @@ Roberts Master
 ** [#B] 7.0 - Intervention Earth :P2015:
 ** [#A] 8.0 - Enemy Lines :P2016:
 ** 📂Echoes Through Eternity :P2024_11:
-*** 1. Damned if You Do
-*** 2. The Questing Beast
-*** 3. In Search of Lost Time
-*** 4. Damned if You Don't
+*** 1. Damned if You Do :Narvin:
+*** 2. The Questing Beast :Braxiatel:
+*** 3. In Search of Lost Time :Ace:
+*** 4. Damned if You Don't :Narvin:
 * Bernice Summerfield :Benny:
 ** Bernice Summerfield :🎧:
 *** Series 1 :P1999:
@@ -1811,8 +1790,8 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
 **** 8.2 Triumph of the Drahvin :P2024_09:
 **** 8.3 Rhubarb :P2024_10:
 **** 8.4 Please Retain Your Ticket for the Cloakroom :P2024_10:
-**** TBR 8.5 The Terrible Shame of a Tree :P2024_11:
-**** TBR 8.6 Mr Pym has an Adventure :P2024_11:
+**** 8.5 The Terrible Shame of a Tree :P2024_11:
+**** 8.6 Mr Pym has an Adventure :P2024_11:
 **** TBR 8.7 Sanctuary :P2024_12:
 **** TBR 8.8 Liturgy of Death :P2024_12:
 ** Treasury :P2018:🗣:
@@ -2566,7 +2545,7 @@ http://www.drwhoguide.com/kaldor03.htm
      :rating:   8.0
      :END:
 
-**** HALF [#B] 2.2 - Toos and Poul :DW2022_11_spinoffs:_spinoffs:
+**** HALF [#B] 2.2 - Toos and Poul :Toos:Poul:DW2022_11_spinoffs:
      SCHEDULED: <2022-11-20 Sun>
      :PROPERTIES:
      :rating:   8.0
@@ -2578,7 +2557,7 @@ http://www.drwhoguide.com/kaldor03.htm
      :rating:   7.9
      :END:
 
-*** The Robots vol.3 :P2020_12:
+*** The Robots vol.3 :P2020_12:plot_no:
 **** HALF [#D] 3.1 - The Mystery of Sector 13 :DW2024_Q3a_spinoffs:
      SCHEDULED: <2024-06-21 Fri 09:27>
      :PROPERTIES:
@@ -2597,7 +2576,7 @@ http://www.drwhoguide.com/kaldor03.htm
      :END:
 
 *** The Robots vol.4 :P2021_06:
-**** [#A] 4.1 - Closed Loop
+**** [#A] 4.1 - Closed Loop :Toos:Poul:
      :PROPERTIES:
      :rating:   8.6
      :END:
@@ -2674,16 +2653,18 @@ http://www.drwhoguide.com/kaldor03.htm
      :rating:   8.9
      :END:
 
-**** [#E] +4.2 - The Ghost Writers+
+**** [#E] +4.2 - The Ghost Writers+ :DW2024_Q4b_spinoffs:
+     SCHEDULED: <2024-12-08 Sun>
      :PROPERTIES:
      :rating:   6.4
      :END:
 
-**** [#D] 4.3 - Rulers of Earth :DW2024_Q4b_spinoffs:
-     SCHEDULED: <2024-12-08 Sun>
+**** [#D] 4.3 - Rulers of Earth
      :PROPERTIES:
      :rating:   7.4
      :END:
+
+紧接 4.3 /The Ghost Writers/，且与 3.2 /Whatever Remains/ 相关性比较强
 
 *** PG: Trespassers 1 :P2023_10:
 **** [#E] +1.1 The Ghost and the Potato Man+
@@ -2693,10 +2674,10 @@ http://www.drwhoguide.com/kaldor03.htm
 **** 2.1 Anne of a Thousand Light Years :4th_Dr:
 **** 2.2 Pater Noster
 **** 2.3 The Gentleman Theives
-*** PG: Trespassers 3 - No Place Like Home :P2024_10:
+*** PG: Trespassers 3 - No Place Like Home :P2024_12:
 **** 3.1 Doppelgängers
 **** 3.2 Jellyfish!
-**** 3.3 The Houseguest
+**** 3.3 The Houseguest :2nd_Dr:
 * Counter-Measures :ICMG:🎧:
 ** CM series 1 :P2012:plot_yes:
 *** HALF [#D] 1.1 - Threshold :plot_yes:DW2022_07_spinoffs:

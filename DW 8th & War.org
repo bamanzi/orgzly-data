@@ -955,7 +955,7 @@ CLOSED: [2023-07-27 Thu 19:33] SCHEDULED: <2023-07-23 Sun>
 【【广播剧汉化】 你也有今天啊 The War Master 战争法师 804 The Master of Dorian Gray-哔哩哔哩】 https://b23.tv/UiQZnNN
 
 *** Master of Worlds (UNIT new #6.4) :Master_war:🎧:
-*** /📂The War Master series 9: Solitary Confinement/ :🎧:P2023_06:Master_war:
+*** /📂The War Master series 9: Solitary Confinement/ :🎧:P2023_06:Master_war:plot_cast:
 **** READY [#A] 9.1 - The Walls of Absence :bilibili:
 
 【【广播剧汉化】燃烧的天空 The War Master 战争法师 901 The Walls of Absence-哔哩哔哩】 https://b23.tv/vQ364oL
@@ -973,10 +973,10 @@ CLOSED: [2023-07-27 Thu 19:33] SCHEDULED: <2023-07-23 Sun>
 【【广播剧汉化】真假法师 The War Master 战争法师 904 The Kicker-哔哩哔哩】 https://b23.tv/J1ytO0Z
 
 *** /📂The War Master series 10: Rogue Encounters/ :P2023_11:🎧:
-**** 10.1 Runtime
-**** 10.2 Manhunt
-**** 10.3 The Sublime Porte
-**** 10.4 Alone
+**** [#C] 10.1 Runtime
+**** [#B] 10.2 Manhunt
+**** [#A] 10.3 The Sublime Porte
+**** [#A] 10.4 Alone
 *** /📂The War Master series 4: Anti-Genesis/ :Master_war:scripted:🎧:
 **** DONE [#B] 4.1 From the Flames :has_plot:D2021_10_master:
 CLOSED: <2021-01-16 Sat 22:52>
@@ -1031,12 +1031,7 @@ CLOSED: [2021-09-24 Fri 18:50] SCHEDULED: <2021-09-04 Sat>
 :rating:   9.2
 :END:
 
-*** 3QTR [#B] WM7.3 Boundaries :Cole:bilibili:DW2024_Q3b_spinoffs:
-CLOSED: <2024-08-13 Tue 08:57> SCHEDULED: <2024-08-11 Sun>
-
-【【广播剧汉化】徒劳的挣扎 The War Master 战争法师 703 Boundaries-哔哩哔哩】 https://b23.tv/KX01zpP
-
-*** /📂The War Master series 7: Self-Defence/ :Master_war:🎧:P2022_06:
+*** /📂The War Master series 7: Self-Defence/ :Master_war:🎧:P2022_06:plot_cast:
 **** HALF [#B] 7.1 The Forest of Penitence :bilibili:DW2024_Q2b_spinoffs:
 SCHEDULED: <2024-05-26 Sun>
 
@@ -1047,11 +1042,20 @@ CLOSED: [2024-07-09 Tue 13:25] SCHEDULED: <2024-06-23 Sun>
 
 【【广播剧汉化】蹩脚的自辩 The War Master 战争法师 702 The Players-哔哩哔哩】 https://b23.tv/X3fable
 
-**** READY [#A] 7.4 The Last Line :10th_Dr:bilibili:DW2024_Q4b_spinoffs:
+**** 3QTR [#B] WM7.3 Boundaries :Cole:bilibili:DW2024_Q3b_spinoffs:
+CLOSED: <2024-08-13 Tue 08:57> SCHEDULED: <2024-08-11 Sun>
 
-【【广播剧汉化】注定的未来 The War Master 战争法师 704 The Last Line-哔哩哔哩】 https://b23.tv/t0szyKn
+【【广播剧汉化】徒劳的挣扎 The War Master 战争法师 703 Boundaries-哔哩哔哩】 https://b23.tv/KX01zpP
 
-*** /📂The War Master series 6: Killing Time/ :Master_war:P2021:🎧:scripted:
+**** HALF [#A] 7.4 The Last Line :10th_Dr:bilibili:DW2024_Q4b_spinoffs:
+SCHEDULED: <2024-12-14 Sat>
+:PROPERTIES:
+:rating:   8.8
+:END:
+
+【【广播剧汉化】注定的未来 The War Master 战争法师 704 The Last Line-哔哩哔哩】 https://b23.tv/ZzLB3Ta
+
+*** /📂The War Master series 6: Killing Time/ :Master_war:P2021:🎧:scripted:plot_cast:
 **** DONE [#B] 6.1 - The Sincerest Form of Flattery :DW2023_08_spinoffs:
 CLOSED: [2023-12-16 Sat 19:21] SCHEDULED: <2023-09-03 Sun>
 
@@ -1064,7 +1068,7 @@ SCHEDULED: <2023-11-19 Sun>
 **** HALF [#A] 6.4 - Unfinished Business :DW2023_12_spinoffs:
 SCHEDULED: <2023-12-24 Sun>
 
-*** Dark Gallifrey 2: The War Master :Master_war:War_Dr:Benny:Unbound_Dr:Captain_John:P2024_08:
+*** Dark Gallifrey 2: The War Master :Master_war:War_Dr:Benny:Unbound_Dr:Captain_John:P2024_08:plot_yes:🎧:
 *** /📂The War Master series 5: Hearts of Darkness/ :Master_War:🎧:
 **** 2DONE [#B] 5.1 - The Edge of Redemption :plot_yes:DW2022_11_spinoffs:
 CLOSED: [2022-11-07 Mon 20:49] SCHEDULED: <2022-11-09 Wed>
@@ -1375,11 +1379,12 @@ CLOSED: [2024-05-23 Thu 21:38] SCHEDULED: <2024-05-04 Sat>
 **** [#D] 5.2 Berserker
 **** [#C] 5.3 Memnos
 *** 📂WDB vol.6 Enemy Mine :Case:P2023_12:🎧:
-**** 6.1 The Hybrid’s Choice
-**** 6.2 Fear Nothing
-**** 6.3 Exit Strategy :8th_Dr:
+**** [#B] 6.1 The Hybrid’s Choice
+**** [#E] 6.2 Fear Nothing
+**** [#B] 6.3 Exit Strategy :8th_Dr:
 *** 📂The War Doctor Rises
 **** WDR1: Morbius the Mighty :P2024_08:War_Dr:3CD:
+**** TBR WDR2: Unknown Soldiers :P2024_12:
 *** Ambush (comic)
 ** 12. The Master flees
 *** DONE [#A] WM1.4 The Heavenly Paradigm :Cole:🎧:D2021_09_extra:
@@ -1429,8 +1434,9 @@ CLOSED: [2023-12-13 Wed 08:37] SCHEDULED: <2023-12-16 Sat>
 
 【【神秘博士广播剧翻译】战争博士 The War Doctor 203 The Neverwhen-哔哩哔哩】 https://b23.tv/jkJamuv
 
-*** 📂The War Doctor vol.3 :scripted:🎧:P2016:已购:
-**** READY [#C] 3.1 - The Shadow Vortex :bilibili:DW2024_Q4b_doctor:
+*** 📂The War Doctor vol.3 :scripted:🎧:P2016:已购:plot_cast:
+**** HALF [#C] 3.1 - The Shadow Vortex :bilibili:DW2024_Q4b_doctor:
+SCHEDULED: <2024-12-07 Sat>
 :PROPERTIES:
 :rating:   7.8
 :END:

@@ -453,12 +453,15 @@ CLOSED: [2022-01-14 Fri 15:10]
 **** [#E] VI. Return to the Web Planet :1CD:
 **** X. The Five Companions :1CD:
 **** The Lost Stories
-***** [#B] 3.1 - The Elite :Nyssa:Tegan:Daleks:2CD:P2011:
+***** [#B] LS3.1 - The Elite :Nyssa:Tegan:Daleks:2CD:P2011:
 :PROPERTIES:
 :rating:   8.3
 :END:
 
-***** [#D] 3.3 - The Children of Seth :Nyssa:Tegan:2CD:P2011:
+***** LS3.2 Hexagora :Nyssa:Tegan:P2011:
+***** [#D] LS3.3 - The Children of Seth :Nyssa:Tegan:2CD:P2011:
+***** LS5.1 Nightmare Country :P2019:
+***** TBR LS9.1 Genesis of the Cybermen :Adric:Nyssa:Tegan:Cybermen:P2025_03:
 **** NA12. Goth Opera :Nyssa:Tegan:P2024_07:3CD:
 *** audiobook
 **** [#D] DotD #5 Smoke and Mirrors :Adric:Nyssa:Tegan:1CD:plot_yes:
@@ -999,7 +1002,7 @@ CLOSED: [2024-05-21 Tue 16:37] SCHEDULED: <2024-05-11 Sat>
 **** The Diary of River Song: Series 2
 ***** DONE [#B] 2.3 World Enough and Time
 ***** 3QTR [#C] 2.4 The Eye of the Storm :7th_Dr:
-**** READY ST13.X The Hoxeth Time Capsule :P2023_12:bilibili:
+**** READY [#D] ST13.X The Hoxteth Time Capsule :P2023_12:bilibili:
 
 【【神秘博士】短途旅行：霍克斯泰斯的时间胶囊 | Short Trips: The Hoxteth Time Capsule-哔哩哔哩】 https://b23.tv/D7MmQye
 
@@ -1420,7 +1423,7 @@ CLOSED: [2024-06-29 Sat 19:45] SCHEDULED: <2024-06-05 Wed 09:27>
 **** 📂2023A Far From Home :P2023_06:Harry:Naomi:
 ***** [#B] 23A.1 Operation Dusk
 ***** [#D] 23A.2 Naomi's Ark
-**** 2023B. The Last Day 1 :Ace:Mel:Beeny:Hex:Master_decayed:P2023_12:3CD:
+**** [#F] 2023B. The Last Day 1 :Ace:Mel:Beeny:Hex:Master_decayed:P2023_12:3CD:
 **** 2024A. The Last Day 2 :P2024_06:
 **** TBR 📂2024B The Doctor and Carnacki :P2024_11:
 ***** 24B.1 The Haunter of the Shore
