@@ -340,15 +340,49 @@ CLOSED: [2024-11-21 Thu 08:03]
 **** DONE 6x07
 CLOSED: [2024-11-19 Tue 20:04]
 
-**** DONE 6x08
+**** DONE [#B] 6x08 The Other Guy
 CLOSED: [2024-11-19 Tue 22:07]
 
-**** DONE 6x09
+**** DONE 6x09 Allegiance
 CLOSED: [2024-11-22 Fri 21:04]
 
-**** 6x10
-**** 6x11
-**** [#A] 6x12 Unnatural Selection
+**** DONE 6x10 Cure
+CLOSED: [2024-11-25 Mon 21:50]
+
+**** DONE [#B] 6x11 Prometheus
+CLOSED: [2024-11-27 Wed 08:06]
+
+**** DONE [#A] 6x12 Unnatural Selection
+CLOSED: [2024-11-27 Wed 18:45]
+
+**** CANCEL [#E] 6x13
+CLOSED: [2024-11-28 Thu 21:17]
+
+**** DONE 6x14
+CLOSED: [2024-11-28 Thu 21:58]
+
+**** DONE 6x15
+CLOSED: [2024-11-30 Sat 21:38]
+
+**** DONE 6x16
+CLOSED: [2024-11-30 Sat 23:10]
+
+**** DONE [#E] 6x17 Disclosure
+CLOSED: [2024-12-02 Mon 20:43]
+
+美国向联合国五常揭示了星门计划，这集回顾了全面若干集的一些情节
+
+**** DONE 6x18
+CLOSED: [2024-12-06 Fri 22:44]
+
+**** DONE 6x19
+CLOSED: [2024-12-07 Sat 00:15]
+
+**** DONE 6x20
+CLOSED: [2024-12-09 Mon 07:57]
+
+**** 6x21
+**** 6x22 Full Circle (Part 1 of 3)
 *** SG-1 S7 :P2003:
 *** ...
 *** SG-1 S10 :P2006:
@@ -506,7 +540,7 @@ CLOSED: <2022-12-22 Thu 06:25>
 **** DONE 1x20
 CLOSED: <2022-12-22 Thu 07:10>
 
-*** DOING 📂SGU S2 (20 episodes) :P2010:S2024_11:
+*** DONE SGU S2 (20 episodes) :P2010:S2024_11:
 
 人人影视（1024x576双语字幕）
 https://www.meijumi.net/7277.html
@@ -562,7 +596,9 @@ CLOSED: [2024-11-16 Sat 21:21]
 **** DONE 2x19
 CLOSED: [2024-11-23 Sat 18:39]
 
-**** 2x20
+**** DONE 2x20
+CLOSED: [2024-11-30 Sat 19:05]
+
 * The Expanse :expense:
 ** DONE S1
 ** DONE S2
@@ -667,13 +703,15 @@ https://www.boom-studios.com/archives/the-expanse-dragon-tooth-series-announceme
 * Battlestar Galactica :bsg:
 ** tv :📺:
 
-https://www.txmeiju.com/tv/search?s=%E5%A4%AA%E7%A9%BA%E5%A0%A1%E5%9E%92
-
-BDrip 720p 人人影视
-
 
 终极无剧透观影顺序指南
 https://m.douban.com/note/731811864
+
+*** _download
+
+https://www.txmeiju.com/tv/search?s=%E5%A4%AA%E7%A9%BA%E5%A0%A1%E5%9E%92
+
+BDrip 720p 人人影视
 
 *** DONE [#A] TV mini (2003)
 CLOSED: [2021-07-18 Sun 15:42]
@@ -919,12 +957,30 @@ CLOSED: <2024-07-03 Wed 17:27>
 CLOSED: [2024-07-08 Mon 12:49]
 
 *** The Face of the Enemy (10集短篇)
-*** Caprica (前传，18集)
+*** DOING Caprica (前传，18集)
+**** DONE 1x01
+CLOSED: [2024-11-26 Tue 20:26]
+
+**** DONE 1x02
+CLOSED: [2024-11-29 Fri 08:04]
+
+**** DONE 1x03
+CLOSED: <2024-12-01 Sun 21:18>
+
+**** DONE 1x04
+CLOSED: [2024-12-04 Wed 20:11]
+
+**** DONE 1x05
+CLOSED: [2024-12-05 Thu 08:04]
+
 *** Blood & Chrome
 ** comics :📚:
+
+https://en.battlestarwiki.org/List_of_Comics#Dynamite_Entertainment
+
 *** Origins
 **** Zarek
-**** Amada
+**** Adama
 **** DONE Starbuck & Helo
 CLOSED: <2021-08-11 Wed 23:20>
 
@@ -968,6 +1024,7 @@ This four issue 2009 mini-series tells the tale of the /Cylon War/ decades bef
 
 This four issue 2009 event ties directly into the events of the final episodes of the Re-imagined Series.
 
+**** Adrift
 *** Six :P2014:
 
 Between April and August 2014, Dynamite produced a 5-issue series on the origins of Six.
@@ -980,7 +1037,7 @@ A pivotal chapter in the history of Battlestar Galactica, the reimagined series�
 
 takes place during the second season of the Re-imagined Series, covering /Gaius Baltar's/ rebuild of a /Cylon Centurion/ he calls /Tallos/ and the threat it poses to /Cylon/ agents hiding in the Fleet.
 
-*** Twilight Command  (TOS?) :P2019:
+*** Twilight Command :P2019:
 
 It’s a dangerous time for the last remaining humans. Captured by the Cylons on New Caprica, the colonists live in fear of what every new day will bring. As the Cylons press their oppressive–and life-threatening agenda—the survivors grow more desperate to reclaim their freedom. But there’s hope. Out in the wilds of New Caprica, beyond the Cylon boundaries, is a band of human freedom fighters. They answer to no one. They fear no Cylons. They are Twilight Command–and they have a plan. From writer Michael Moreci (Wasted Space, Archie Meets Batman ’66) and artist Breno Tamura (Batgirl and the Birds of Prey) comes the untold tale of Twilight Command!
 
