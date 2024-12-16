@@ -1032,8 +1032,8 @@ CLOSED: [2021-09-24 Fri 18:50] SCHEDULED: <2021-09-04 Sat>
 :END:
 
 *** /📂The War Master series 7: Self-Defence/ :Master_war:🎧:P2022_06:plot_cast:
-**** HALF [#B] 7.1 The Forest of Penitence :bilibili:DW2024_Q2b_spinoffs:
-SCHEDULED: <2024-05-26 Sun>
+**** DONE [#B] 7.1 The Forest of Penitence :bilibili:DW2024_Q2b_spinoffs:
+CLOSED: [2024-12-14 Sat 15:18] SCHEDULED: <2024-05-26 Sun>
 
 【【广播剧汉化】恶魔的低语 The War Master 战争法师 701 The Forest Penitence-哔哩哔哩】 https://b23.tv/fdIB3vT
 
@@ -1435,8 +1435,8 @@ CLOSED: [2023-12-13 Wed 08:37] SCHEDULED: <2023-12-16 Sat>
 【【神秘博士广播剧翻译】战争博士 The War Doctor 203 The Neverwhen-哔哩哔哩】 https://b23.tv/jkJamuv
 
 *** 📂The War Doctor vol.3 :scripted:🎧:P2016:已购:plot_cast:
-**** HALF [#C] 3.1 - The Shadow Vortex :bilibili:DW2024_Q4b_doctor:
-SCHEDULED: <2024-12-07 Sat>
+**** 3QTR [#C] 3.1 - The Shadow Vortex :bilibili:DW2024_Q4b_doctor:
+CLOSED: <2024-12-09 Mon 08:57> SCHEDULED: <2024-12-14 Sat>
 :PROPERTIES:
 :rating:   7.8
 :END:

@@ -1772,26 +1772,22 @@ http://drwhoguide.com/who_bf33.htm
 *** HALF [#B] Missy2.4 Too Many Masters :Master_missy:Monk:
 *** [#C] Rose2.2 Now is the New Dark :Rose:
 ** DOING dw2024-q4b-doctor
-*** HALF [#D] 2DA23.1 Jamie :2nd_Dr:Jamie:
-*** FIXME [#A] 2DA23.2 The Green Man :2nd_Dr:Jamie:
+*** 3QTR [#D] 2DA23.1 Jamie :2nd_Dr:Jamie:
+*** HALF [#A] 2DA23.2 The Green Man :2nd_Dr:Jamie:
 *** HALF [#C] 4DA7.7/7.8 - Kill the Doctor! / The Age of Sutekh :4th_Dr:Leela:Sutehk:
 *** HALF [#B] 6DA2022A.2 The Tides of the Moon :6th_Dr:Mel:Hebe:
 *** DONE [#B] 8DDC4.3 - The Side of the Angels :8th_Dr:Liv:Helen:Monk:
 *** [#B] 8DDC4.4 - Stop the Clock :8th_Dr:Liv:Helen:
-*** READY [#A] WM7.4 The Last Line :Master_war:10th_Dr:
-*** READY [#C] WD3.1 - The Shadow Vortex :War_Dr:bilibili:
+*** HALF [#A] WM7.4 The Last Line :Master_war:10th_Dr:
+*** 3QTR [#C] WD3.1 - The Shadow Vortex :War_Dr:bilibili:
 ** DOING dw2024-q4b-spinoffs
-*** HALF [#B] BBC5.3 The House of the Dead :Jack:Gwen:Ianto:bilibili:
+*** 2DONE [#B] BBC5.3 The House of the Dead :Jack:Gwen:Ianto:bilibili:
 *** [#A] TW70 Double part 2
-*** [#C] UNIT2.3 The Battle of the Tower
-*** [#D] PG4.3 - Rulers of Earth
-*** HALF [#A] BSS2.3 The Angel of History :Benny:Unbound_Dr:
-*** FIXME [#B] RBT3.2 - Circuit Breaker :Toos:Poul:
-*** FIXME [#C] CY2.4 - Churchill Victorious
-** FIXME dw2024-q4b-pending
-*** READY [#A] Rose2.3 The Rogue Planet :Rose:
-*** [#C] 6DnP1.1 - The Headless Ones :6th_Dr:Peri:
-*** FIXME [#D] Missy3.1 Body and Soulless
+*** HALF [#C] UNIT2.3 The Battle of the Tower
+*** [#E] PG4.2 - The Ghost Writers
+*** 3QTR [#A] BSS2.3 The Angel of History :Benny:Unbound_Dr:
+*** HALF [#B] RBT3.2 - Circuit Breaker :Toos:Poul:
+*** [#C] CY2.4 - Churchill Victorious
 * DW 2025
 ** TODO dw2025-q1a-doctor
 *** [#D] CC11.3 The Bonfires of the Vanties :Polly:Ben:scripted:
@@ -1803,11 +1799,11 @@ http://drwhoguide.com/who_bf33.htm
 ** TODO dw2025-q1a-spinoffs
 *** [#C] TW7.4 Moderation :Tyler:
 *** [#B] TW Soho #2: Ashenden (1~3) :Norton:Andy:Lizbeth:P2021:plot_yes:
-*** FIXME [#C] CM3.2 - The Concrete Cage
-*** [#C] JL9.3 - Island of Death
+*** [#D] UNIT2.4 Ice Station Alpha
+*** [#D] PG4.3 - Rulers of Earth
 *** FIXME [#B] DoRS4.3 - Whodunnit?
 *** [#A] ST9.6 The Same Face :Master:
-*** HALF [#B] Gallifrey 6.3 -Ascension
+*** READY [#A] Rose2.3 The Rogue Planet :Rose:
 ** TODO dw2025-q1b-doctor
 *** CC8.12 Second Chances :2nd_Dr:Zoe:
 *** FIXME [#A] DoRS4.4 - Someone I Once Knew :River:4th_Dr:

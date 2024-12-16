@@ -322,7 +322,7 @@ CLOSED: [2024-06-05 Wed 08:25] SCHEDULED: <2024-06-15 Sat>
 这里的 Vicki 是老年 Vicki
 
 *** with Polly & Ben
-**** [#D] CC11.3 The Bonfires of the Vanties :Polly:Ben:scripted:
+**** [#D] CC11.3 The Bonfires of the Vanties :Polly:Ben:scripted:DW2025_Q1a_doctor:
 **** 3QTR [#B] CC11.4 The Plague of Dreams :Polly:Ben:DW2023_05_doctor:scripted:
 CLOSED: <2023-05-30 Tue 21:34> SCHEDULED: <2023-05-27 Sat>
 
@@ -696,7 +696,7 @@ CLOSED: [2023-08-18 Fri 08:40] SCHEDULED: <2023-08-19 Sat>
 ***** 3QTR [#D] 23.1 Jamie :DW2024_Q4b_doctor:
 CLOSED: [2024-11-22 Fri 08:42] SCHEDULED: <2024-11-16 Sat>
 
-***** [#B] 23.2 The Green Man :DW2024_Q4b_doctor:
+***** HALF [#B] 23.2 The Green Man :Krynoids:DW2024_Q4b_doctor:
 SCHEDULED: <2024-12-21 Sat>
 
 ***** [#B] 23.3 The Shroud
@@ -1091,7 +1091,7 @@ CLOSED: [2024-01-21 Sun 19:53]
 ****** HALF [#A] part6-7 :DW2024_02_doctor:
 SCHEDULED: <2024-02-17 Sat>
 
-***** BLOCK [#C] 23B Intelligence for War :P2023_10:Liz:Brigadier:3CD:plot_yes:
+***** HALF [#C] 23B Intelligence for War :P2023_10:Liz:Brigadier:3CD:plot_yes:
 **** CC (Liz)
 ***** DONE [#A] CC7.4 - The Last Post :P2012:no_doctor:
 CLOSED: [2020-08-07 Fri 18:25]
@@ -1455,8 +1455,8 @@ CLOSED: [2022-12-13 Tue 08:58] SCHEDULED: <2022-12-13 Tue>
 
 ***** [#C] 7.2 The Crowmarsh Experiment (7.6)
 ***** [#C] 7.6 The Bad Penny (7.5)
-***** HALF [#C] 7.7/7.8 - Kill the Doctor! / The Age of Sutekh :Sutekh:2CD:DW2024_Q4b_doctor:
-SCHEDULED: <2024-11-16 Sat>
+***** HALF [#C] 7.7/7.8 - Kill the Doctor! / The Age of Sutekh :Sutekh:2CD:DW2024_Q4b_doctor:plot_no:
+SCHEDULED: <2024-12-07 Sat>
 
 **** DONE [#A] 9SP1 Shadow of the Sun (8.6) :4DA:1CD:
 CLOSED: [2020-07-15 Wed 19:13]

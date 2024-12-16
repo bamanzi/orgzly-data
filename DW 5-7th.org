@@ -89,7 +89,7 @@ CLOSED: <2021-05-29 Sat 08:11>
 :END:
 
 **** [#E] 102a. The Mind's Eye :Erimem:Peri:D2021_04:
-**** [#C] 104. The Bride of Peladon :Peri:Erimem:
+**** [#C] 104. The Bride of Peladon :Peri:Erimem:DW2025_Q1a_doctor:
 *** MR with Nyssa :Nyssa:scripted:2CD:
 **** CANCEL [#F] 4. The Land of the Dead
 :PROPERTIES:
