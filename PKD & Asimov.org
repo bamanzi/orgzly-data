@@ -81,7 +81,7 @@ https://bladerunner.fandom.com/wiki/Blade_Runner:_Black_Lotus_(comic)
 
 https://bladerunner.fandom.com/wiki/Blade_Runner:_Black_Lotus
 
-**** TBR Blade Runner 2099
+**** TBR Blade Runner 2099 :P2025:
 ** The Man in the High Castle
 *** DONE 小说：高堡奇人
 *** tv :📺:
@@ -254,7 +254,8 @@ CLOSED: [2022-03-06 Sun 11:46]
 
 星云奖提名
 
-***** READY [#B] 等待去年来临 （末日危机）Now Wait for Last Year :P1966:已购:ebook:
+***** DONE [#B] 等待去年来临 （末日危机）Now Wait for Last Year :P1966:已购:ebook:
+CLOSED: [2024-12-20 Fri 23:23]
 :PROPERTIES:
 :douban:   8.4
 :goodreads: 3.89
@@ -371,7 +372,8 @@ CLOSED: [2022-01-05 Wed 00:05]
 :douban:   9.1
 :END:
 
-**** HALF [#A] 5. 迈向基地 :P1993:S2025_Q1:
+**** DONE [#A] 5. 迈向基地 :P1993:S2025_Q1:
+CLOSED: [2024-12-23 Mon 08:10]
 :PROPERTIES:
 :goodreads: 4.15
 :douban:   9.0
@@ -386,8 +388,11 @@ CLOSED: <2023-02-26 Sun 21:41>
 ***** DONE pt3: Dors Venabili
 CLOSED: [2023-03-03 Fri 09:22]
 
-***** NOW pt4: Wanda Seldon
-SCHEDULED: <2024-01-31 Wed>
+***** DONE part4: Wanda Seldon
+CLOSED: [2024-12-23 Mon 07:50] SCHEDULED: <2024-01-31 Wed>
+
+***** DONE part5: Epilogue
+CLOSED: [2024-12-23 Mon 08:10]
 
 **** [#A] 6.基地边缘 :P1982:
 :PROPERTIES:
@@ -407,8 +412,10 @@ CLOSED: [2022-03-05 Sat 23:24]
 **** DONE The Caves of Steel 钢窟 :P1958:
 CLOSED: [2023-01-21 Sat 22:50]
 
-**** LATER The Naked Sun 裸阳 :P1958:S2025_Q1:
-**** The Robots of Dawn :P1983:
+**** DONE The Naked Sun 裸阳 :P1958:S2025_Q1:
+CLOSED: [2024-12-24 Tue 22:38]
+
+**** The Robots of Dawn 曙光中的机器人 :P1983:
 **** Robots and Empire :P1985:
 *** Galactic Empire 银河帝国系列 :ebook:
 **** TODO 13. 繁星若尘 The Stars, Like Dust :P1951:
@@ -505,7 +512,7 @@ CLOSED: [2022-02-26 Sat 20:03]
 
 * #Robots
 ** Westworld
-*** DONE Westworld S2
+*** DONE Westworld S2 :P2018:
 **** DONE 2x01
 CLOSED: <2023-01-07 Sat 21:13>
 
@@ -535,6 +542,16 @@ CLOSED: [2023-01-26 Thu 18:04]
 
 **** DONE 2x10
 CLOSED: <2023-01-27 Fri 20:13>
+
+*** Westworld S3 :P2020:
+**** DONE 3x01
+CLOSED: [2024-12-22 Sun 15:31]
+
+**** DONE 3x02
+CLOSED: [2024-12-22 Sun 17:11]
+
+**** DONE 3x03
+CLOSED: [2024-12-24 Tue 18:50]
 
 ** Terminator
 *** movie
@@ -602,3 +619,29 @@ Though titled "T2" (Terminator 2), the story itself is a continuation to the fil
 
 ***** Terminator: Infinity :P2007:
 ***** Terminator: Revolution :P2009:
+** Humans 真实的人类
+*** DONE S1 :P2015:
+**** DONE 1x01
+CLOSED: [2024-12-17 Tue 20:37]
+
+**** DONE 1x02
+CLOSED: [2024-12-18 Wed 20:33]
+
+**** DONE 1x03
+CLOSED: [2024-12-19 Thu 08:09]
+
+**** DONE 1x04
+CLOSED: [2024-12-19 Thu 21:18]
+
+**** DONE 1x05
+CLOSED: [2024-12-19 Thu 22:08]
+
+**** DONE 1x06
+CLOSED: [2024-12-20 Fri 08:13]
+
+**** DONE 1x07
+CLOSED: [2024-12-20 Fri 20:25]
+
+**** DONE 1x08
+CLOSED: [2024-12-20 Fri 21:23]
+

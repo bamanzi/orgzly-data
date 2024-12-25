@@ -321,7 +321,7 @@ CLOSED: [2024-11-09 Sat 15:57]
 **** DONE [#B] 5x22 Revelations
 CLOSED: [2024-11-09 Sat 20:33]
 
-*** DOING SG-1 S6 :P2002:
+*** SG-1 S6 :P2002:
 **** DONE [#B] 6x01/02 Redemption
 CLOSED: [2024-11-13 Wed 16:05]
 
@@ -381,9 +381,13 @@ CLOSED: [2024-12-07 Sat 00:15]
 **** DONE 6x20
 CLOSED: [2024-12-09 Mon 07:57]
 
-**** 6x21
-**** 6x22 Full Circle (Part 1 of 3)
+**** DONE 6x21
+CLOSED: [2024-12-09 Mon 20:08]
+
+**** [#A] 6x22 Full Circle (Part 1 of 3)
 *** SG-1 S7 :P2003:
+**** [#B] 7x01 Fallen (Part 2 of 3)
+**** [#B] 7x02 Homecoming (Part 3 of 3)
 *** ...
 *** SG-1 S10 :P2006:
 *** Stargate: The Ark of Truth :P2008:
@@ -403,6 +407,8 @@ download: https://audiobookbay.fi/audio-books/big-finish-productions-stargate-sg
 
 This audiobook is set during season 3 of Stargate SG-1, before Fair Game.
 
+https://breezewiki.com/stargate/wiki/Stargate_SG-1:_Gift_of_the_Gods
+
 **** [#A] 1.2 Shell Game
 :PROPERTIES:
 :rating:   9.1
@@ -421,6 +427,8 @@ This story takes place during season ten, after The Pegasus Project.
 :END:
 
 This story is set during the fourth season of Stargate SG-1
+
+https://breezewiki.com/stargate/wiki/Stargate_SG-1:_First_Prime
 
 **** [#A] 2.2 Pathogen
 :PROPERTIES:
@@ -457,11 +465,20 @@ This adventure is set during season 10 of Stargate SG-1
 ***** DONE 1x01/02
 CLOSED: [2024-11-22 Fri 20:13]
 
-***** 1x04
-***** 1x05
-***** 1x07
-***** 1x08
-***** 1x09
+***** DONE 1x05 Suspicion
+CLOSED: [2024-12-12 Thu 20:17]
+
+***** DONE 1x07 Poisoning the Well
+CLOSED: [2024-12-13 Fri 07:43]
+
+***** DONE 1x08 Underground
+CLOSED: [2024-12-14 Sat 11:40]
+
+***** DONE 1x09 Home
+CLOSED: [2024-12-16 Mon 08:24]
+
+***** 1x10 The Storm
+***** 1x11 The Eye
 **** SGA S2 :P2005:
 **** SGA S3 :P2006:
 **** SGA S4 :P2007:
@@ -973,6 +990,18 @@ CLOSED: [2024-12-04 Wed 20:11]
 **** DONE 1x05
 CLOSED: [2024-12-05 Thu 08:04]
 
+**** DONE 1x06
+CLOSED: <2024-12-11 Wed 20:23>
+
+**** DONE 1x07
+CLOSED: [2024-12-12 Thu 08:16]
+
+**** DONE 1x08
+CLOSED: <2024-12-13 Fri 18:54>
+
+**** DONE 1x09
+CLOSED: [2024-12-16 Mon 21:12]
+
 *** Blood & Chrome
 ** comics :📚:
 
@@ -980,7 +1009,9 @@ https://en.battlestarwiki.org/List_of_Comics#Dynamite_Entertainment
 
 *** Origins
 **** Zarek
-**** Adama
+**** DONE Adama
+CLOSED: [2024-12-17 Tue 13:07]
+
 **** DONE Starbuck & Helo
 CLOSED: <2021-08-11 Wed 23:20>
 
