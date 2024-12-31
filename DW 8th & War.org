@@ -736,7 +736,7 @@ CLOSED: [2024-11-06 Wed 16:51] SCHEDULED: <2024-07-27 Sat>
 ***** [#D] The Empty Man
 ***** [#E] Winter of the Demon
 **** The Stuff of Legend :Charley:Master_bald:Daleks:2CD:P2024_09:
-**** TBR 📂Deadly Strangers :P2024_12:
+**** 📂Deadly Strangers :P2024_12:Charley:Audacity:
 ***** 1. Puccini and the Doctor
 ***** 2. Woman's Day Off
 ***** 3. The Gloaming :The_Mara:
@@ -1384,7 +1384,7 @@ CLOSED: [2024-05-23 Thu 21:38] SCHEDULED: <2024-05-04 Sat>
 **** [#B] 6.3 Exit Strategy :8th_Dr:
 *** 📂The War Doctor Rises
 **** WDR1: Morbius the Mighty :P2024_08:War_Dr:3CD:
-**** TBR WDR2: Unknown Soldiers :P2024_12:
+**** WDR2: Unknown Soldiers :P2024_12:3CD:
 *** Ambush (comic)
 ** 12. The Master flees
 *** DONE [#A] WM1.4 The Heavenly Paradigm :Cole:🎧:D2021_09_extra:

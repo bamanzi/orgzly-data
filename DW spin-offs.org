@@ -515,7 +515,8 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 ***** 87. The Hollow Choir :Rhys:
 ***** 88. Widdershins :P2024_10:
 ***** 89. Bad Connection :Suzie:
-***** TBR 90. Reflect :Colchester:Ace:
+***** 90. Reflect :Colchester:Ace:
+***** 90X. A Christmas Card from Mr Colchester :Colchester:
 ***** TBR 91. Ianto's Inferno :P2025_01:
 *** specials
 **** 2DONE [#B] special 1: The Torchwood Archive :P2016:The_Commitee:2CD:plot_yes:
@@ -1155,21 +1156,36 @@ Roberts Master
     :END:
 
 ** J&L series 6 :P2013:
-*** HALF [#C] 6.1 - The Skeleton Quay (7.8) :D2022_05_spinoffs:
+*** HALF [#C] 6.1 - The Skeleton Quay :D2022_05_spinoffs:
     SCHEDULED: <2022-05-07 Sat>
+    :PROPERTIES:
+    :rating:   7.8
+    :END:
 
-*** [#D] 6.2 - Return of the Repressed         (7.1) :D2022_05_spinoffs:
+*** [#D] 6.2 - Return of the Repressed :D2022_05_spinoffs:
     SCHEDULED: <2022-05-28 Sat>
+    :PROPERTIES:
+    :rating:   7.1
+    :END:
 
-*** [#D] 6.3 - Military Intelligence           (7.4) :D2022_06_spinoffs:
+*** [#D] 6.3 - Military Intelligence :D2022_06_spinoffs:
     SCHEDULED: <2022-06-16 Thu>
+    :PROPERTIES:
+    :rating:   7.4
+    :END:
 
-*** HALF [#C] 6.4 - The Trial of George Litefoot    (7.8) :D2022_06_spinoffs:
+*** HALF [#C] 6.4 - The Trial of George Litefoot :D2022_06_spinoffs:
     DEADLINE: <2022-06-23 Thu 20:40> SCHEDULED: <2022-06-26 Sun>
+    :PROPERTIES:
+    :rating:   7.8
+    :END:
 
 ** J&L series 7 :P2014:
-*** 3QTR [#B] 7.1 The Monstrous Menagerie           (8.1) :DW2022_08_spinoffs:
+*** 3QTR [#B] 7.1 The Monstrous Menagerie :DW2022_08_spinoffs:
     CLOSED: [2022-09-02 Fri 19:14] SCHEDULED: <2022-09-04 Sun>
+    :PROPERTIES:
+    :rating:   8.1
+    :END:
 
 *** [#D] 7.2 The Night of 1000 Stars :Leela:plot_no:DW2023_11_spinoffs:
     SCHEDULED: <2023-11-19 Sun>
@@ -1180,8 +1196,11 @@ Roberts Master
 *** HALF [#A] 7.3 Murder at Moorsey Manor           (8.7) :DW2023_01_spinoffs:
     SCHEDULED: <2023-01-09 Mon 21:33>
 
-*** HALF [#C] 7.4 The Wax Princess                  (7.5) :Jack_the_Ripper:plot_cast:DW2023_03_spinoffs:
+*** HALF [#C] 7.4 The Wax Princess :Jack_the_Ripper:plot_cast:DW2023_03_spinoffs:
     SCHEDULED: <2023-03-12 Sun>
+    :PROPERTIES:
+    :rating:   7.5
+    :END:
 
 ** J&L series 8 :P2014:
 *** START [#A] 8.1 - Encore of the Scorchies         (8.9) :DW2023_08_spinoffs:
@@ -1797,8 +1816,8 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
 **** 8.4 Please Retain Your Ticket for the Cloakroom :P2024_10:
 **** 8.5 The Terrible Shame of a Tree :P2024_11:
 **** 8.6 Mr Pym has an Adventure :P2024_11:
-**** TBR 8.7 Sanctuary :P2024_12:
-**** TBR 8.8 Liturgy of Death :P2024_12:
+**** 8.7 Sanctuary :P2024_12:
+**** 8.8 Liturgy of Death :P2024_12:
 ** Treasury :P2018:🗣:
 *** [#B] The Evacuation of Bernice Summerfield Considered as a Short Film by Terry Gilliam
 *** [#A] And Then Again
@@ -2905,12 +2924,14 @@ https://doctorwho.guide/sj_06.htm
 
 **** CANCEL [#E] 2.2 - Human Conflict              (6.8)
 **** CANCEL [#E] 2.3 - I Was Churchill's Double    (6.8)
-**** TODO [#C] 2.4 - Churchill Victorious        (7.7) :DW2024_Q4b_spinoffs:
+**** [#C] 2.4 - Churchill Victorious :DW2024_Q4b_spinoffs:plot_cast:
+     SCHEDULED: <2024-12-22 Sun>
      :PROPERTIES:
      :rating:   7.7
      :END:
 
-1 out of 8 (12.5%) raters say this story requires a previous story.
+/Really if I had to boil this story down in a sentence, it would be "Winston Churchill can't find happiness amidst all the excitement of the VE celebration so he goes undercover as a bank manager and is then promptly captured by a bounty hunter and does some stuff and then we cut to credits."/
+
 
 ** Tales from New Earth :P2018:
 *** START [#D] 1.1 Escape From New New York (7.3) :D2022_05_spinoffs:

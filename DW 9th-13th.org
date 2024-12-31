@@ -150,14 +150,17 @@ CLOSED: [2024-07-16 Tue 08:34] SCHEDULED: <2024-06-22 Sat>
 【【神秘博士广播剧熟肉】Travel in Hope 306 Run 竞选-哔哩哔哩】 https://b23.tv/MeDKqt6
 
 **** 📂S3.3 Buried Threats :P2024_02:
-***** 3.3.1 A Theatre of Cruelty :scripted:
-***** 3.3.2 The Running Men
-***** READY 3.3.3 Ancient History :bilibili:
+***** [#E] 3.3.1 A Theatre of Cruelty :scripted:
+***** CANCEL [#F] 3.3.2 The Running Men
+***** READY [#C] 3.3.3 Ancient History :Benny:bilibili:
 
 【【神秘博士广播剧熟肉】Buried Threats 309 Ancient History 古代史-哔哩哔哩】 https://b23.tv/0f5K9xm
 
 **** 📂S3.4 Star-Crossed :River:P2024_05:
-***** 3.4.1 Swipe Right
+***** READY 3.4.1 Swipe Right :bilibili:
+
+【【神秘博士广播剧熟肉】Star-Crossed 310 Swipe Right 右划-哔哩哔哩】 https://b23.tv/l5bWhl4
+
 ***** 3.4.2 Face of the Apocalypse
 ***** 3.4.3 Archipelago
 *** 9DC :P2017:
@@ -226,14 +229,14 @@ The Doctor - Pete Walsh
 Kayla - Isabella McCarthy Somerville
 
 ** novels :📔:
-*** DONE [#B] The Stealers of Dreams 盗梦贼 :Rose:Jack:己购:DW2023_Q4:
+*** DONE [#B] The Stealers of Dreams 盗梦贼 :Rose:Jack:己购:DW2023_Q4:ebook:
 CLOSED: <2023-12-17 Sun 22:44> SCHEDULED: <2023-12-31 Sun>
 :PROPERTIES:
 :rating:   3.88
 :todo:     buy
 :END:
 
-*** DONE [#B] Only Human 人类唯一 :已购:Rose:Jack:
+*** DONE [#B] Only Human 人类唯一 :已购:Rose:Jack:ebook:
 :PROPERTIES:
 :rating:   3.9
 :END:
@@ -711,25 +714,25 @@ https://www.youtube.com/watch?v=L8p0fF0Rv6g
  Donna decides to swap time travel for a quiet night in with her family but as they tune into the Most Haunted Live special, who do they see? The Doctor joining forces with Yvette Fielding and her team while they investigate the mysterious and derelict; Century House. Their mission: discover the famous resident ghost, The Red Widow. Hauntings and supernatural events cause the team to be trapped within the haunted house, as they soon discover that there is more than meets the eye to this place. Will they survive the night? 
 
 ** novels :📔:
-*** DONE [#A] Prisoner of the Daleks 戴立克之囚 :已购:
+*** DONE [#A] Prisoner of the Daleks 戴立克之囚 :已购:ebook:
 CLOSED: <2021-10-16 Sat 10:18>
 :PROPERTIES:
 :rating:   4.1
 :END:
 
-*** DONE [#B] 美丽的混沌 Beautiful Chaos :已购:Kindle己购:Donna:
+*** DONE [#B] 美丽的混沌 Beautiful Chaos :已购:ebook:Donna:
 :PROPERTIES:
 :rating:   3.95
 :END:
 
-*** 3QTR [#B] Stone Rose 石中女神 :Kindle己购:已购:Rose:
+*** 3QTR [#B] Stone Rose 石中女神 :ebook:已购:Rose:
 CLOSED: [2024-07-27 Sat 13:35]
 :PROPERTIES:
 :rating:   3.92
 :todo:     buy
 :END:
 
-*** DONE [#B] The Story of Martha 玛莎的故事 :Martha:Master_saxon:Kindle己购:己购:DW2022_Q4:
+*** DONE [#B] The Story of Martha 玛莎的故事 :Martha:Master_saxon:ebook:己购:DW2022_Q4:
 CLOSED: [2022-12-10 Sat 21:48]
 :PROPERTIES:
 :rating:   3.89
@@ -1051,7 +1054,7 @@ SCHEDULED: <2024-01-28 Sun>
 ***** Pay the Piper (DWM468-469) :Clara:
 ***** The Blood of Azrael (DWM470-474) :Clara:
 ** novels :📔:
-*** DONE [#A] 天使之触 Touched by Angles :已购:Kindle己购:
+*** DONE [#A] 天使之触 Touched by Angles :已购:ebook:
 :PROPERTIES:
 :rating:   4.10
 :END:
@@ -1061,7 +1064,7 @@ SCHEDULED: <2024-01-28 Sun>
 :rating:   3.98
 :END:
 
-*** DONE [#B] The Silent Stars Go By 寂静星辰飞过 (3.95) :已购:Kindle己购:DW2023_Q4:
+*** DONE [#B] The Silent Stars Go By 寂静星辰飞过 (3.95) :已购:ebook:DW2023_Q4:
 CLOSED: [2024-01-20 Sat 21:58] SCHEDULED: <2024-01-07 Sun>
 :PROPERTIES:
 :rating:   3.95
@@ -1077,12 +1080,12 @@ CLOSED: [2024-01-20 Sat 21:58] SCHEDULED: <2024-01-07 Sun>
 :rating:   3.88
 :END:
 
-*** [#C] Apollo 23 阿波罗23号 :Kindle己购:
+*** [#C] Apollo 23 阿波罗23号 :ebook:
 :PROPERTIES:
 :rating:   3.81
 :END:
 
-*** [#E] Shroud of Sorrow 噬悲者 :Kindle己购:
+*** [#E] Shroud of Sorrow 噬悲者 :ebook:
 :PROPERTIES:
 :rating:   3.65
 :END:
@@ -1192,7 +1195,7 @@ https://www.iiiff.com/article/404723
 :END:
 
 **** [#D] ST12.3 The Three Flames
-**** TBR ST12.X War Stories :Bill:P2024_12:
+**** ST12.X War Stories :Bill:P2024_12:scripted:
 *** misc
 **** [#C] The Nightmare Realm :BBC:P2021:Nardole:1CD:
 :PROPERTIES:
@@ -1308,12 +1311,12 @@ CLOSED: <2022-11-06 Sun>
 :rating:   3.87
 :END:
 
-*** HALF [#C] Silhouette 侧影 :已购:Kindle己购:
+*** HALF [#C] Silhouette 侧影 :已购:ebook:
 :PROPERTIES:
 :rating:   3.80
 :END:
 
-*** [#C] The Blood Cell 血囚房 :Kindle己购:
+*** [#C] The Blood Cell 血囚房 :ebook:
 :PROPERTIES:
 :rating:   3.81
 :END:

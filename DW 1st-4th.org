@@ -1609,7 +1609,10 @@ CLOSED: [2023-06-07 Wed 08:19] SCHEDULED: <2023-06-10 Sat>
 
 ***** [#C] DotD#4. Babblesphere :4th_Dr:Romana_2:
 **** short
-***** TODO [#A] ST6.9 - A Full Life (9.0) :Adric:Romana_2:
+***** READY [#A] ST6.9 - A Full Life (9.0) :Adric:Romana_2:bilibili:
+
+【【神秘博士广播剧熟肉】短途旅行：充实人生    Short trips: A full life-哔哩哔哩】 https://b23.tv/3ecUFly
+
 ***** [#C] 4.4 The Old Rogue :Romana_2:2nd_Dr:Jamie:
 :PROPERTIES:
 :rating:   7.9
@@ -1685,10 +1688,11 @@ CLOSED: [2022-09-03 Sat 17:41] SCHEDULED: <2022-09-04 Sun>
 **** CANCEL [#E] LS7.1 The Ark :Harry:P2023_06:
 **** CANCEL [#F] LS7.2 Daleks! Genesis of Terror :Harry:P2023_05:
 **** [#C] CDNM4.1 Invasion of the Body Stealers
-**** READY [#D] 1. Past Lives :P2023_05:Osgood:Monk:bilibili:
+**** READY [#D] Once and Future #1. Past Lives :P2023_05:Osgood:Monk:bilibili:
 
 【博士的作战记录-哔哩哔哩】 https://b23.tv/zGOAtiq
 
+**** The Curse of Time :P2024_12:Harry:2CD:
 *** BF misc :BigFinish:
 **** DONE [#C] Night of the Vashta Nerada (7.8) (CDNM #2.1) :P2017:Vashta_Nerada:scripted:no_companion:bilibili:1CD:
 CLOSED: [2020-07-29 Wed 23:03]
@@ -1724,6 +1728,12 @@ SCHEDULED: <2024-02-28 Wed>
 :category: audio-drama
 :rating:   8.8
 :END:
+
+**** READY The Dalek Protocol :Leela:K9_1:Anya:Mark_7:Daleks:P2021:2CD:plot_no:bilibili:
+
+【【神秘博士广播剧熟肉】Dalek Universe - The Dalek Protocol (Part 1&2)-哔哩哔哩】 https://b23.tv/FWNLkZc
+
+【【神秘博士广播剧熟肉】Dalek Universe - The Dalek Protocol (Part 3&4)-哔哩哔哩】 https://b23.tv/MruDd4V
 
 *** BF shorts :🗣:
 **** TODO [#B] ST8.4 - Erasure (8.2) :Narvin:Adric:
