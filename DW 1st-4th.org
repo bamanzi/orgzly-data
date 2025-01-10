@@ -322,7 +322,9 @@ CLOSED: [2024-06-05 Wed 08:25] SCHEDULED: <2024-06-15 Sat>
 这里的 Vicki 是老年 Vicki
 
 *** with Polly & Ben
-**** [#D] CC11.3 The Bonfires of the Vanties :Polly:Ben:scripted:DW2025_Q1a_doctor:
+**** HALF [#D] CC11.3 The Bonfires of the Vanties :Polly:Ben:scripted:DW2025_Q1a_doctor:
+SCHEDULED: <2025-01-18 Sat>
+
 **** 3QTR [#B] CC11.4 The Plague of Dreams :Polly:Ben:DW2023_05_doctor:scripted:
 CLOSED: <2023-05-30 Tue 21:34> SCHEDULED: <2023-05-27 Sat>
 

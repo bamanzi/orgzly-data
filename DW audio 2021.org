@@ -1717,7 +1717,7 @@ http://drwhoguide.com/who_bf33.htm
 
 【【神秘博士广播剧熟肉】MR 033 Neverland 永无乡-哔哩哔哩】 https://b23.tv/bjamVSy
 
-*** HALF [#E] DU3.1 - The First Son :10th_Dr:Anya:Mark7:River:bilibili:
+*** HALF [#E] DU3.1 - The First Son :10th_Dr:Anya:Mark_7:River:bilibili:
 *** 3QTR [#E] WD2.2 - A Thing of Guile :War_Dr:bilibili:
 
 【【神秘博士广播剧翻译】战争博士 The War Doctor 202 a thing of guile-哔哩哔哩】 https://b23.tv/EhOYEfa
@@ -1756,8 +1756,8 @@ http://drwhoguide.com/who_bf33.htm
 *** HALF [#A] Unbound5. Deadline :bilibili:
 ** dw2024-q4a-doctor
 *** HALF [#B] EA5.2 An Ideal World :1st_Dr:Vicki:Steven:
-*** HALF [#C] 3DA23B Intelligence for War (part1~3) :3rd_Dr:Liz:3CD:plot_yes:DW2024_Q4a_doctor:
-    SCHEDULED: <2024-10-12 Sat>
+*** 3QTR [#C] 3DA23B Intelligence for War (part1~3) :3rd_Dr:Liz:3CD:plot_yes:DW2024_Q4a_doctor:
+    CLOSED: [2024-12-26 Thu 23:25] SCHEDULED: <2024-10-12 Sat>
 
 *** [#C] CC4.05 - Ringpullworld :5th_Dr:Turlough:
 *** 3QTR [#B] MR139. Project: Destiny :7th_Dr:Ace:Hex:The_Forge:Lysandra:P2010:
@@ -1771,59 +1771,65 @@ http://drwhoguide.com/who_bf33.htm
 *** [#C] DoRS4.2 - Kings of Infinite Space :River:
 *** HALF [#B] Missy2.4 Too Many Masters :Master_missy:Monk:
 *** [#C] Rose2.2 Now is the New Dark :Rose:
-** DOING dw2024-q4b-doctor
+** dw2024-q4b-doctor
 *** 3QTR [#D] 2DA23.1 Jamie :2nd_Dr:Jamie:
 *** HALF [#A] 2DA23.2 The Green Man :2nd_Dr:Jamie:
 *** HALF [#C] 4DA7.7/7.8 - Kill the Doctor! / The Age of Sutekh :4th_Dr:Leela:Sutehk:
 *** HALF [#B] 6DA2022A.2 The Tides of the Moon :6th_Dr:Mel:Hebe:
 *** DONE [#B] 8DDC4.3 - The Side of the Angels :8th_Dr:Liv:Helen:Monk:
-*** [#B] 8DDC4.4 - Stop the Clock :8th_Dr:Liv:Helen:
-*** HALF [#A] WM7.4 The Last Line :Master_war:10th_Dr:
+*** HALF [#B] 8DDC4.4 - Stop the Clock :8th_Dr:Liv:Helen:
+*** 3QTR [#A] WM7.4 The Last Line :Master_war:10th_Dr:
 *** 3QTR [#C] WD3.1 - The Shadow Vortex :War_Dr:bilibili:
-** DOING dw2024-q4b-spinoffs
+** dw2024-q4b-spinoffs
 *** 2DONE [#B] BBC5.3 The House of the Dead :Jack:Gwen:Ianto:bilibili:
-*** [#A] TW70 Double part 2
+*** HALF [#A] TW70 Double part 2
 *** HALF [#C] UNIT2.3 The Battle of the Tower
-*** [#E] PG4.2 - The Ghost Writers
+*** HALF [#E] PG4.2 - The Ghost Writers
 *** 3QTR [#A] BSS2.3 The Angel of History :Benny:Unbound_Dr:
 *** HALF [#B] RBT3.2 - Circuit Breaker :Toos:Poul:
 *** [#C] CY2.4 - Churchill Victorious
-* DW 2025
-** TODO dw2025-q1a-doctor
-*** [#D] CC11.3 The Bonfires of the Vanties :Polly:Ben:scripted:
-*** [#C] 2023B Intelligence for War (part4~7) :3rd_Dr:Liz:3CD:
+* DW 2025 :S2025:
+** DOING dw2025-q1a-doctor
+*** HALF [#D] CC11.3 The Bonfires of the Vanties         :Polly:Ben:scripted:
+*** HALF [#C] 2023B Intelligence for War (part4~7) :3rd_Dr:Liz:3CD:DW2025_Q1a_doctor:
+    SCHEDULED: <2025-01-11 Sat>
+
 *** [#B] MR104 The Bride of Peladon :5th_Dr:Peri:Erimem:
-*** FIXME [#C] BSNA2.1 - The Pyramid of Sutekh :Benny:7th_Dr:
-*** READY [#B] 9DA3.2.1 Below There :9th_Dr:bilibili:
+*** [#C] BSNA2.1 - The Pyramid of Sutekh :Benny:7th_Dr:
+*** 3QTR [#B] 9DA3.2.1 Below There                          :9th_Dr:bilibili:
 *** READY 11DC 4.4 Broken Hearts :11th_Dr:Valarie:
-** TODO dw2025-q1a-spinoffs
-*** [#C] TW7.4 Moderation :Tyler:
-*** [#B] TW Soho #2: Ashenden (1~3) :Norton:Andy:Lizbeth:P2021:plot_yes:
+** DOING dw2025-q1a-spinoffs
+*** HALF [#C] TW7.4 Moderation :Tyler:
+*** HALF [#B] TW Soho #2: Ashenden (1~3) :Norton:Andy:Lizbeth:P2021:plot_yes:DW2025_Q1a_spinoffs:
+    SCHEDULED: <2025-01-26 Sun>
+
 *** [#D] UNIT2.4 Ice Station Alpha
 *** [#D] PG4.3 - Rulers of Earth
-*** FIXME [#B] DoRS4.3 - Whodunnit?
-*** [#A] ST9.6 The Same Face :Master:
+*** HALF [#B] DoRS4.3 - Whodunnit?
+*** FIXME [#A] ST9.6 The Same Face :Master:
 *** READY [#A] Rose2.3 The Rogue Planet :Rose:
 ** TODO dw2025-q1b-doctor
 *** CC8.12 Second Chances :2nd_Dr:Zoe:
 *** FIXME [#A] DoRS4.4 - Someone I Once Knew :River:4th_Dr:
 *** [#C] MR194. The Rani Elite :6th_DR:Peri:
 *** [#C] 8DA2.3 - Brave New Town :8th_Dr:Lucie:
-*** READY [#C] DU3.2 - The Dalek Defense :10th_Dr:Anya:Mark7:bilibili:
+*** READY [#C] DU3.2 - The Dalek Defense :10th_Dr:Anya:Mark_7:bilibili:
 *** [#B] WDB4.1 The Mission :War_Dr:
 ** TODO dw2025-q1b-spinoffs
-*** [#A] TW7.7 Cuckoo :Bilis_Manger:
-*** [#A] TW7.8 Pariahs :Yvonne:Colchester:Ng:Tyler:Orr:
 *** FIXME [#A] TW Soho #2: Ashenden (4~6) :Norton:Andy:Lizbeth:P2021:plot_yes:
-*** [#D] UNIT2.4 Ice Station Alpha
-*** [#D] JL9.4 - Return of the Nightmare
+*** FIXME [#B] 65X A Postcard from Mr Colchester :Colchester:plot_yes:
+*** HALF [#B] UNEM1.1 The Enemy Beyond :The_Eleven:
+*** FIXME [#C] CM3.2 - The Concrete Cage
+*** [#C] JL9.3 - Island of Death
 *** [#D] BSNA2.2 - The Vault of Osiris :Benny:Ace:
+*** HALF [#B] Gallifrey 6.3 -Ascension
 *** [#A] WM8.3 The Adventure of the Deceased Doctor :Master_war:Holmes:bilibili:
 * FIXME pending
 ** special
 *** 4DA1303 - Metamorphosis :4th_Dr:Master:bilibili:
 *** FIXME [#D] WoDW#4 Second Sight :6th_Dr:Romana_2:Leela:Yates:
 *** [#B] Jack 2.1 Piece of Mind :Jack:6th_Dr:
+*** UNIT: Dominion #4 :7th_Dr:Raine:Klein:Master_bald:
 *** [#C] Susan1.4 The Shoreditch Intervention :Susan:8th_Dr:Alex:
 ** odd
 *** 1st
@@ -1959,11 +1965,23 @@ http://drwhoguide.com/bs_a18.htm
 **** [#C] DoRS6.4 The Talents of Grel :River:Jago:
 **** [#C] DoRS8.2 A Brave New World :River:10th_Dr:
 *** UNIT
-**** [#B] UNEM1.1 The Enemy Beyond :UNIT:The_Eleven:
 *** Master
+**** FIXME [#D] Missy3.1 Body and Soulless
 **** [#D] WM8.2 - The Shadow Master
-*** The Lone Centurion vol.2
-*** The Robots vol.3
-*** Rose Tyler: The Dimension Cannon vol.3
+**** READY [#E] 3.1 Basilisk :bilibili:
+
+【【神秘博士广播剧】MASTER！301 Basilisk 蛇怪计划-哔哩哔哩】 https://b23.tv/X4ikFVS
+
+**** READY [#D] 3.2 Axos Rising :bilibili:
+
+【【神秘博士广播剧】MASTER! 302 Axos Rising Axos崛起-哔哩哔哩】 https://b23.tv/2KICAg4
+
+**** READY [#D] 3.3 Hellbound :bilibili:
+
+【【神秘博士广播剧】MASTER! 303 Hellbound 地狱之旅-哔哩哔哩】 https://b23.tv/wytau8f
+
 *** misc
 **** FIXME [#C] CY1.3 - Living History :Churchill:
+**** The Lone Centurion vol.2
+**** The Robots vol.3
+**** Rose Tyler: The Dimension Cannon vol.3

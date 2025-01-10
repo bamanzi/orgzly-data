@@ -318,10 +318,31 @@ CLOSED: [2023-06-21 Wed 19:17] SCHEDULED: <2023-06-24 Sat>
 ** movies :🎦:
 *** 2DONE 1. Star Trek: The Motion Picture 无限太空 :P1979:
 *** 2DONE 2. The Wrath of Khan 可汗怒吼 :P1982:Khan:genetically_engineered:
+:PROPERTIES:
+:imdb:     7.7
+:END:
+
 *** 2DONE 3. The Search for Spock 石破天惊 :P1984:
+:PROPERTIES:
+:imdb:     6.6
+:END:
+
 *** 4. The Voyage Home 抢救未来 :P1986:
+:PROPERTIES:
+:imdb:     7.3
+:END:
+
 *** 5. The Final Frontier 终极先锋 :P1989:
-*** 6. The Undiscovered Country 未来之城 :P1991:
+:PROPERTIES:
+:imdb:     5.5
+:END:
+
+*** DONE 6. The Undiscovered Country 未来之城 :P1991:Y2293:
+CLOSED: [2025-01-04 Sat 18:29]
+:PROPERTIES:
+:imdb:     7.2
+:END:
+
 ** comics :📚:
 *** Classic-UK
 *** Peter Pan
@@ -369,7 +390,7 @@ CLOSED: [2024-05-31 Fri 13:58]
 **** #Romulans
 ***** DONE TPB: Romulans: Pawns of War :Romulans:
 
-https://memory-beta.fandom.com/wiki/Romulans:_Pawns_of_War?so=search
+https://memory-beta.breezewiki.com/wiki/Romulans:_Pawns_of_War
 
 ****** DONE Alien Spotlight: Romulans
 CLOSED: [2021-03-11 Thu 20:28]
@@ -391,7 +412,7 @@ a sequel to "The Enterprise Incident"
 ***** DONE Blood Will Tell :hanzify:⭐️:Klingons:
 ***** Aliens: Klingons (2022)
 
-https://memory-beta.fandom.com/wiki/Klingons_(comic)
+https://memory-beta.breezewiki.com/wiki/Klingons_(comic)
 
 **** DONE [#C] Year Four :2007:
 CLOSED: [2021-02-14 Sun 16:09]
@@ -589,7 +610,7 @@ CLOSED: [2024-05-30 Thu 16:43]
 
 Admiral McCoy visits Dr. Zimmerman as he works on perfecting the EMH program
 
-https://memory-beta.fandom.com/wiki/Doctors_Three
+https://memory-beta.breezewiki.com/wiki/Doctors_Three
 
 connection: None
 
@@ -1097,14 +1118,13 @@ CLOSED: [2024-06-02 Sun 19:38]
 **** [#A] 7x25. All Good Things...  (9.1) :Q:alternate_universe:
 ** movies :🎦:
 *** DONE 07. Generations 斗转星移 :Y2371:P1994:Kirk:Picard:
-
 :PROPERTIES:
-:rating:   6.6
+:imdb:     6.6
 :END:
 
 *** 2DONE 08. First Contact 第一类接触 :Y2373:P1996:Borg:Borg_Queen:Data:
 :PROPERTIES:
-:rating:   7.6
+:imdb:     7.6
 :END:
 
 Borg Queen 首次出现
@@ -1112,13 +1132,13 @@ Borg Queen 首次出现
 *** DONE [#E] 09. Insurrection 起义 :Y2375:P1998:Section_31:
 CLOSED: [2021-03-18 Thu 13:08]
 :PROPERTIES:
-:rating:   6.4
+:imdb:     6.4
 :END:
 
 *** DONE 10. Nemesis 复仇女神 :Y2379:P2002:Romulans:Data:
 CLOSED: [2022-05-23 Mon 20:25]
 :PROPERTIES:
-:rating:   6.4
+:imdb:     6.4
 :END:
 
 ** comics :📚:
@@ -1166,11 +1186,11 @@ CLOSED: [2023-06-26 Mon 18:43] SCHEDULED: <2023-06-25 Sun>
 
 前五期是五个毫不相干的小故事，但都有些没讲清楚的地方。第五期末尾和第六期表明前面那些故事幕后都有一个阴谋集团的影子（似乎是Section 31），但仍然讲的莫名其妙
 
-***** Intelligence Gathering :Y2368:
+***** NOW Intelligence Gathering :Y2368:S2025_Q1:
 ***** DONE [#C] The Last Generation :alternate_universe:
 CLOSED: [2022-07-19 Tue 06:55] SCHEDULED: <2022-07-23 Sat>
 
-***** Ghosts :Y2367:
+***** NEXT Ghosts :Y2367:S2025_Q1:
 ***** DONE [#B] Hive :Borg_Queen:Y2382:ST2023_06:
 CLOSED: [2023-06-18 Sun 07:31] SCHEDULED: <2023-06-18 Sun>
 
@@ -1191,6 +1211,7 @@ CLOSED: [2022-07-15 Fri 13:18] SCHEDULED: <2022-07-17 Sun>
 SCHEDULED: <2022-07-31 Sun>
 
 **** DONE Deviations :alternate_universe:
+**** Holo-ween :P2023:S2025_Q1:
 *** _best :⭐️:
 **** DONE Best of Star Trek TNG (DC) :DC:
 ***** DONE [#B] v2 #05-06 Serafin's Survivors :Geordi:P1990:
@@ -1500,7 +1521,7 @@ CLOSED: [2023-06-25 Sun 18:54] SCHEDULED: <2023-06-25 Sun>
 **** DONE [#B] 5x02. The Ship (8.1)
 **** DONE [#C] 5x03. Looking for par'Mach in All the Wrong Places (7.7) :Klingons:
 **** DONE [#C] 5x04. ...Nor the Battle to the Strong (7.7)
-**** [#D] 5x05. The Assignment (7.3)
+**** [#D] 5x05. The Assignment (7.3) :Pah_Wraith:
 **** DONE [#A] 5x06. Trials and Tribble-ations (9.4) :Koloth:DTI:
 **** CANCEL [#E] 5x07. Let He Who Is Without Sin... (5.6)
 **** DONE [#C] 5x08. Things Past (7.6)
@@ -1532,7 +1553,6 @@ CLOSED: [2021-01-28 Thu 23:11]
 :END:
 
 **** DONE [#A] 6x02 Rocks and Shoals :dominion_invasion:
-
 :PROPERTIES:
 :rating:   8.6
 :END:
@@ -1667,7 +1687,7 @@ CLOSED: [2021-03-27 Sat 21:22]
 :rating:   7.6
 :END:
 
-**** DONE [#D] 6x21 The Reckoning
+**** DONE [#D] 6x21 The Reckoning :Pah_Wraith:
 CLOSED: [2021-03-29 Mon 08:43]
 :PROPERTIES:
 :rating:   7.3
@@ -1695,17 +1715,17 @@ CLOSED: [2021-04-03 Sat 20:23]
 :rating:   7.6
 :END:
 
-**** DONE [#B] 6x26 Tears of the Prophets
+**** DONE [#B] 6x26 Tears of the Prophets :Pah_Wraith:
 CLOSED: [2022-06-17 Fri 21:36]
 :PROPERTIES:
 :rating:   8.4
 :END:
 
-*** DS9 S7 :Y2375:
+*** DOING DS9 S7 :Y2375:S2025_Q1:
 **** DONE [#C] 7x1. Image in the Sand (7.7)
 CLOSED: [2022-06-17 Fri 22:20]
 
-**** DONE [#B] 7x2. Shadows and Symbols                  (8.0)
+**** DONE [#B] 7x2. Shadows and Symbols                  (8.0) :Pah_Wraith:
 CLOSED: [2022-06-18 Sat 18:30]
 
 **** DONE [#D] 7x3. Afterimage                           (7.3) :Ezri_Dax:
@@ -1723,42 +1743,53 @@ CLOSED: [2022-07-19 Tue 08:04] SCHEDULED: <2022-07-21 Thu>
 **** DONE [#C] 7x7. Once More Unto the Breach            (7.7) :Klingons:
 CLOSED: [2022-07-27 Wed 20:20] SCHEDULED: <2022-07-30 Sat>
 
-**** DONE [#A] 7x8. The Siege of AR-558                  (8.7) :ST2023_06:
+**** DONE [#A] 7x8. The Siege of AR-558                  (8.7)
 CLOSED: [2023-06-02 Fri 16:50] SCHEDULED: <2023-06-03 Sat>
 
-**** DONE [#E] 7x9. Covenant                             (6.9) :ST2023_06:
+**** DONE [#E] 7x9. Covenant                             (6.9)
 CLOSED: [2023-06-05 Mon 08:06] SCHEDULED: <2023-06-07 Wed>
 
-**** DONE [#B] 7x10. It's Only a Paper Moon              (8.2) :hologram:ST2023_06:
+**** DONE [#B] 7x10. It's Only a Paper Moon              (8.2) :hologram:
 CLOSED: [2023-06-08 Thu 18:56] SCHEDULED: <2023-06-07 Wed>
 
-**** DONE [#E] 7x11. Prodigal Daughter                   (6.5) :ST2023_06:
+**** DONE [#E] 7x11. Prodigal Daughter                   (6.5)
 CLOSED: [2023-06-13 Tue 18:54] SCHEDULED: <2023-06-14 Wed>
 
-**** DONE [#E] 7x12. The Emperor's New Cloak             (6.5) :mirror_universe:ST2023_06:
+**** DONE [#E] 7x12. The Emperor's New Cloak             (6.5) :mirror_universe:
 CLOSED: [2023-06-15 Thu 18:52] SCHEDULED: <2023-06-14 Wed>
 
-**** DONE [#E] 7x13. Field of Fire                       (6.8) :Ezri_Dax:Trill:ST2023_06:
+**** DONE [#E] 7x13. Field of Fire                       (6.8) :Ezri_Dax:Trill:
 CLOSED: [2023-06-20 Tue 18:51] SCHEDULED: <2023-06-21 Wed>
 
-**** DONE [#D] 7x14. Chimera                             (7.3) :Changelings:ST2023_06:
+**** DONE [#D] 7x14. Chimera                             (7.3) :Changelings:
 CLOSED: [2023-06-27 Tue 08:11] SCHEDULED: <2023-06-24 Sat>
 
-**** DONE [#C] 7x15. Badda-Bing, Badda-Bang              (7.8) :hologram:ST2023_06:
+**** DONE [#C] 7x15. Badda-Bing, Badda-Bang              (7.8) :hologram:
 CLOSED: <2023-06-28 Wed 19:28> SCHEDULED: <2023-06-28 Wed>
 
-**** DONE [#B] 7x16. Inter Arma Enim Silent Leges        (8.4) :Section_31:ST2023_06:
+**** DONE [#B] 7x16. Inter Arma Enim Silent Leges        (8.4) :Section_31:
 CLOSED: [2023-06-30 Fri 20:09] SCHEDULED: <2023-06-30 Fri>
 
-**** TODO [#C] 7x17. Penumbra                            (7.6)
-**** [#C] 7x18. 'Til Death Do Us Part               (7.7)
-**** [#B] 7x19. Strange Bedfellows                  (8.0)
-**** [#B] 7x20. The Changing Face of Evil           (8.5)
-**** [#B] 7x21. When It Rains...                    (8.2)
-**** [#A] 7x22. Tacking Into the Wind               (8.7)
-**** [#C] 7x23. Extreme Measures                    (7.7) :Section_31:
-**** [#B] 7x24. The Dogs of War                     (8.3)
-**** [#A] 7x25. What You Leave Behind               (8.7)
+**** 7x17-25 Final chapter 10 episode arc
+***** DONE [#C] 7x17. Penumbra (7.4) :Ezri_Dax:
+CLOSED: [2025-01-01 Wed 15:27]
+
+"Penumbra" is the first episode of the /Final Chapter 10 episode arc/
+
+***** DONE 7x18. 'Till Death Do Us Part (7.4) :Pah_Wraith:
+CLOSED: [2025-01-01 Wed 16:22]
+
+***** DONE [#B] 7x19. Strange Bedfellows                  (8.0) :Pah_Wraith:Ezri_Dax:
+CLOSED: [2025-01-06 Mon 10:15]
+
+***** DONE [#B] 7x20. The Changing Face of Evil           (8.5)
+CLOSED: [2025-01-06 Mon 18:40]
+
+***** NOW [#B] 7x21. When It Rains...                    (8.2)
+***** NOW [#A] 7x22. Tacking Into the Wind               (8.7)
+***** [#C] 7x23. Extreme Measures                    (7.7) :Section_31:
+***** [#B] 7x24. The Dogs of War                     (8.3)
+***** [#A] 7x25. What You Leave Behind               (8.7)
 ** comics :📚:
 *** Malibu (1993-1995) :Malibu:
 **** 📂on-going
@@ -1889,8 +1920,8 @@ connections:
 The female Changeling has to deal with the uncharacteristic behavior of the Vorta on a Dominion-controlled mining planet.
 
 *** Strange New Worlds IV
-**** "Captain Proton and the Orb of Bajor" by Jonathan Bridge
-**** [#A] "Isolation Ward 4" by Kevin G. Summers (Third Prize)
+**** Captain Proton and the Orb of Bajor
+**** [#A] Isolation Ward 4 (Third Prize)
 *** Strange New Worlds VI
 **** Fabrications
 
@@ -1905,12 +1936,12 @@ A Changeling from the Great Link arrives aboard Deep Space 9 on an urgent 
 Nog takes the /Kobayashi Maru scenario/ (小林丸号测试) at Starfleet Academy.
 
 *** Strange New Worlds 9
-**** "Shadowed Allies" by Emily P. Bloch
-**** "Living on the Edge of Existence" by Gerri Leen
+**** Shadowed Allies
+**** Living on the Edge of Existence
 **** "The Last Tree on Ferenginar: A Ferengi Fable From the Future" by Mike McDevitt
-**** "The Tribbles' Pagh" by Ryan M. Williams
+**** The Tribbles' Pagh
 *** Strange New Worlds 10
-**** BLOCK "So a Horse Walks into a Bar..." by Brian Seidman
+**** BLOCK So a Horse Walks into a Bar...
 
 Lewis Zimmerman visits Deep Space 9 to study Vic Fontaine.
 
@@ -1921,7 +1952,7 @@ Connections
 - VOY episode: "Message in a Bottle" (4x14)
 - VOY episode: "Life Line" (6x24)
 
-**** "Signal to Noise" by Jim Johnson
+**** Signal to Noise
 * VOY - Voyager :VOY:
 ** tv (1995-2001) :📺:
 *** VOY S1 :Y2371:
@@ -2081,19 +2112,23 @@ CLOSED: [2024-05-27 Mon 21:17]
 **** DONE [#C] 2x26. Basics: Part I		(7.9)
 CLOSED: [2024-05-31 Fri 20:15]
 
-*** LATER 📂VOY S3 :Y2373:S2024_12:
-**** DONE [#B] 3x01. Basics: Part II       (8.0) :ST2024_06:
+*** LATER 📂VOY S3 :Y2373:S2025_Q1:
+**** DONE [#B] 3x01. Basics: Part II       (8.0)
 CLOSED: [2024-05-31 Fri 21:03]
 
-**** DONE [#C] 3x02. Flashback			   (7.9) :Sulu:Kang:Excelsior:ST2023_06:
+**** DONE [#C] 3x02. Flashback			   (7.9) :Sulu:Kang:Excelsior:
 CLOSED: [2023-07-01 Sat 16:54] SCHEDULED: <2023-07-02 Sun>
 
 闪回发生在 电影六 The Undiscovered Country 期间的精进号上（克林贡的卫星 Praxis 爆炸，失去大部能源来源，于是与星联启动和平谈判。克林贡谈判代表遭到阴谋份子暗杀，Kirk 和 Spock 被嫁祸。时任精进号舰长的 Sulu 要去救老朋友…）
 
-**** [#E] 3x03. The Chute			   (6.9)
-**** [#D] 3x04. The Swarm			   (7.3)
+**** DONE [#E] 3x03. The Chute			   (6.9)
+CLOSED: [2025-01-04 Sat 14:51]
+
+**** DONE [#D] 3x04. The Swarm			   (7.3)
+CLOSED: [2025-01-05 Sun 20:47]
+
 **** [#E] 3x05. False Profits		   (6.8)
-**** [#D] 3x06. Remember			   (7.1)
+**** NOW [#D] 3x06. Remember			   (7.1)
 **** CANCEL [#E] 3x07. Sacred Ground		   (5.9)
 **** [#B] 3x08. Future's End		   (8.4) :alternate_universe:
 **** [#B] 3x09. Future's End: Part II (8.3)
@@ -2286,7 +2321,6 @@ Five-year-old Annika Hansen is visited by a woman from the future who calls he
 connection:
 - VOY episode: "The Raven"
 
-
 **** DONE "Touched" by Kim Sheard :ST2024_06:
 CLOSED: <2024-05-31 Fri 11:49> SCHEDULED: <2024-05-31 Fri>
 
@@ -2416,8 +2450,8 @@ CLOSED: [2022-07-24 Sun 10:45]
 
 * DSC - Discovery :DSC:
 ** Discovery (2017- ) :📺:
-*** 📂DSC S1
-*** 📂DSC S2 :2019:Pike:Section_31:
+*** 📂DSC S1 :P2017:
+*** 📂DSC S2 :P2019:Pike:Section_31:
 **** 2x01 Brother :Spock:
 **** 2x07 Light and Shadows :Spock:
 **** 2x08 If Memory Serves :Talosians:Spock:
@@ -2436,7 +2470,7 @@ CLOSED: [2021-03-13 Sat 19:47]
 **** DONE 2x14 Such Sweet Sorrow, Part 2 :Spock:
 CLOSED: [2021-03-13 Sat 22:56]
 
-*** 📂DSC S3 :2020:
+*** 📂DSC S3 :P2020:
 
 13 episodes
 
@@ -2488,7 +2522,7 @@ CLOSED: [2022-07-02 Sat 17:02]
 **** DONE [#E] 3x13 That Hope Is You, Part 2
 CLOSED: [2022-07-02 Sat 18:08]
 
-*** 📂Discovery S4 :ST2024_06:
+*** 📂Discovery S4 :P2021:ST2024_06:
 **** DONE 4x01 Kobayashi Maru 小林丸号
 CLOSED: [2023-06-23 Fri 21:04]
 
@@ -2528,10 +2562,12 @@ CLOSED: [2024-05-27 Mon 20:16]
 **** DONE 4x13
 CLOSED: [2024-05-29 Wed 20:34]
 
+*** 📂Discovery S5 :P2024:
 ** comics :IDW:📚:
 *** 2DONE Discovery: The Light of Kahless (卡勒斯之光) :hanzify:Kahless:Klingons:
 *** 2DONE Discovery: Succession (继位) :mirror_universe:hanzify:
 *** 2DONE Discovery: Aftermath (余波) :hanzify:
+*** Adventures in the 32nd Century :P2022:S2025_Q1:
 * PIC - Picard :PIC:
 ** tv :📺:
 *** DONE 📂Picard S1 :P2020:Y2399:
@@ -2565,7 +2601,7 @@ CLOSED: [2022-06-25 Sat 23:46]
 **** DONE 1x10 Et in Arcadia Ego, Part 2
 CLOSED: [2022-06-26 Sun 22:27]
 
-*** LATER 📂Picard S2 :P2022:Y2400:S2024_12:
+*** LATER 📂Picard S2 :P2022:Y2400:S2025_Q1:
 ** comics :📚:
 *** DONE Picard: Countdown
 CLOSED: <2022-06-04 Sat 17:14> SCHEDULED: <2022-06-03 Fri>
@@ -2610,8 +2646,26 @@ CLOSED: [2022-07-22 Fri 19:07] SCHEDULED: <2022-07-23 Sat>
 *** DONE 1x10 No Small Parts
 CLOSED: [2022-07-29 Fri 21:16] SCHEDULED: <2022-07-30 Sat>
 
-** LATER 📂Lower Decks S2 (2021) :S2024_12:
-*** 2x01 Strange Energies
+** DOING 📂Lower Decks S2 (2021) :S2025_Q1:
+*** DONE 2x01 Strange Energies
+CLOSED: [2025-01-01 Wed 22:12]
+
+*** DONE 2x02 :Riker:
+CLOSED: [2025-01-09 Thu 08:36]
+
+** 📂Lower Decks S3 (2022)
+*** 3x01 :P2022_08:
+** 📂Lower Decks S4 (2023)
+** 📂Lower Decks S5 (2024)
+** comics
+*** LATER All in a Sea of Wonders :P2022_09:S2025_Q4:
+
+3 issues
+
+*** Risian Rendezvous
+*** Go See Cal!
+*** Warp Your Own Way
+*** Lower Decks (ongoing series)
 * SNW - Strange New Worlds (2022- ) :SNW:Pike:
 ** tv :📺:
 *** DONE SNW S1 :P2022:Y2259:
@@ -2662,13 +2716,16 @@ CLOSED: [2023-07-01 Sat 12:02] SCHEDULED: <2023-07-01 Sat>
 
 an alternate timeline of TOS episode: /Balance of Terror/
 
-*** LATER 📂SNW S2 :P2023:Y2259:S2024_12:
+*** DOING 📂SNW S2 :P2023:Y2259:S2025_Q1:
 
 新世界第二季整季：
 百度网盘：https://pan.baidu.com/s/1onWnu2wUZd5YZFDD0uDCWg?pwd=stcn 提取码：stcn
 阿里云盘：https://www.aliyundrive.com/s/VURkpFkpUu2
 夸克网盘：https://pan.quark.cn/s/afd047d935d3
 快速下载：https://stcn.link/s/snw2dl
+
+**** DONE 2x01
+CLOSED: [2025-01-02 Thu 11:00]
 
 ** comics :📚:
 *** Early Voyages (Marvel)
@@ -2725,7 +2782,7 @@ CLOSED: [2022-07-07 Thu 22:46]
 **** DONE The Illyrian Enigma :Y2259:
 CLOSED: [2024-05-18 Sat 20:40]
 
-**** The Scorpius Run :P2023:
+**** LATER The Scorpius Run :P2023:S2025_Q4:
 * _others
 ** tv :tv:📺:
 *** short treks :ST:
@@ -2753,7 +2810,7 @@ CLOSED: [2021-01-21 Thu 19:34]
 **** Star Trek (IDW 2022) :Y2378:hanzify:
 ***** _info
 
-https://memory-beta.fandom.com/wiki/Star_Trek_(IDW_2022)
+https://memory-beta.breezewiki.com/wiki/Star_Trek_(IDW_2022)
 
 the second ongoing series from IDW to simply bear the name "Star Trek" (IDW's first Star Trek series was centered around the TOS cast of the Kelvin timeline)
 
@@ -2778,6 +2835,7 @@ CLOSED: [2024-06-05 Wed 09:02]
 CLOSED: [2024-06-06 Thu 08:44] SCHEDULED: <2024-06-09 Sun>
 
 ***** #13-18 A Savage World of Glass and Bone
+***** #19-24 Pleroma
 **** Defiant (2023) :Y2378:hanzify:
 
  漫画新系列《挑战号》第1期发布！本刊是正在连载的新主刊的衍生故事，故事紧接在主刊第5期之后，又是全明星阵容，集结了史波克、沃尔夫、罗·拉伦、贝拉娜和Lore，为了完成一项特殊的任务。
@@ -2785,6 +2843,9 @@ CLOSED: [2024-06-06 Thu 08:44] SCHEDULED: <2024-06-09 Sun>
 ***** TODO Defiant vol.1 (#1-5) :ST2024_12:
 SCHEDULED: <2024-06-09 Sun>
 
+***** #8-11 Another Piece of the Action
+***** #12-16 Hell Is Only a Word
+***** #17-21 The Stars of Home
 **** READY Day of Blood :crossover:hanzify:ST2024_12:
 
 漫画《鲜血之日 Day of Blood》第1期发布，本刊故事承接新主刊第10期和《挑战号》第5期。
@@ -2909,17 +2970,17 @@ CLOSED: [2022-05-27 Fri 08:46]
 *** [#C] Strange New Worlds I (3.76)
 *** [#B] Strange New Worlds II (3.95) :P1999:
 
-https://memory-beta.fandom.com/wiki/Strange_New_Worlds_II
+https://memory-beta.breezewiki.com/wiki/Strange_New_Worlds_II
 
 *** [#C] Strange New Worlds III (3.79)
 *** [#B] Strange New Worlds IV (3.94) :P2001:
 
-https://memory-beta.fandom.com/wiki/Strange_New_Worlds_IV
+https://memory-beta.breezewiki.com/wiki/Strange_New_Worlds_IV
 
 *** [#C] Strange New Worlds V (3.83)
 *** [#B] 📂Strange New Worlds VI (3.99) :P2003:已购:
 
-https://memory-beta.fandom.com/wiki/Strange_New_Worlds_VI
+https://memory-beta.breezewiki.com/wiki/Strange_New_Worlds_VI
 
 **** [#A] "Our Million-Year Mission" by Robert T. Jeschonek (Grand Prize)
 **** "The Beginning" by Annie Reed
@@ -2927,7 +2988,7 @@ https://memory-beta.fandom.com/wiki/Strange_New_Worlds_VI
 *** [#B] Strange New Worlds 8 (3.96)
 *** [#A] *Strange New Worlds 9* (4.05) :P2006:2buy:
 
-https://memory-beta.fandom.com/wiki/Strange_New_Worlds_9
+https://memory-beta.breezewiki.com/wiki/Strange_New_Worlds_9
 
 **** "Remembering the Future" by Randy Tatano
 **** "Rocket Man" by Kenneth E. Carper
@@ -2946,7 +3007,7 @@ https://memory-beta.fandom.com/wiki/Strange_New_Worlds_9
 
 * The Orville :ORV:
 ** tv :📺:
-*** Orville S1
+*** DONE Orville S1
 **** DONE [#C] 1x01 Old Wounds                 (7.5)
 **** DONE [#C] 1x02 Command Performance (7.8)
 **** DONE [#C] 1x03 About a Girl (7.8)
@@ -2959,7 +3020,7 @@ https://memory-beta.fandom.com/wiki/Strange_New_Worlds_9
 **** DONE [#B] 1x10 Firestorm (8.2)
 **** DONE [#B] 1x11 New Dimensions (8.1)
 **** DONE [#A] 1x12 Mad Idolatry (8.6)
-*** Orville S2
+*** DONE Orville S2
 **** DONE [#C] 2x05 All the World Is Birthday Cake
 CLOSED: <2021-01-10 Sun 21:16>
 :PROPERTIES:
@@ -3023,7 +3084,7 @@ CLOSED: [2021-03-26 Fri 23:23]
 
  The crew must contend with the disastrous fallout from Kelly's decision.
 
-*** DOING 📂Orville S3 :ST2024_06:
+*** DONE Orville S3
 **** DONE [#D] 3x01 Electric Sheep
 CLOSED: [2022-06-20 Mon 23:48]
 
@@ -3051,9 +3112,10 @@ CLOSED: [2024-05-26 Sun 11:52]
 **** DONE [#A] 3x09 Domino
 CLOSED: [2024-06-01 Sat 21:42]
 
-**** TODO [#B] 3x10 Future Unknown
+**** DONE [#B] 3x10 Future Unknown
+CLOSED: [2024-12-30 Mon 22:52]
 
-部分情节与 1x07 相关
+人物 Lysella 出自 /Episode 1x07: Majority Rule/
 
 ** comics :📚:
 *** Orville S1.5
@@ -3066,8 +3128,10 @@ CLOSED: [2021-02-16 Tue 13:32]
 **** DONE Hero 英雄 :P2020:
 CLOSED: [2021-03-26 Fri 23:49]
 
-**** Degressions 偏航 :P2021:
-**** Artifact 人造品 :P2021:
+**** NOW Degressions 偏航 :P2021:S2025_Q1:
+**** DONE Artifact 人造品 :P2021:S2025_Q1:
+CLOSED: [2025-01-05 Sun 22:57]
+
 ** novels
 *** Sympathy for the Devil
 
@@ -3091,6 +3155,10 @@ CLOSED: [2023-08-31 Thu 08:16]
 
 *** DONE 1x10
 CLOSED: <2023-09-02 Sat 21:48>
+
+** S2
+*** DONE 2x01
+CLOSED: [2025-01-04 Sat 22:24]
 
 * footnotes
 

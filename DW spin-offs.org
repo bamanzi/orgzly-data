@@ -483,7 +483,7 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 ***** 3QTR [#C] 69. Double part1 :Autons:P2023_01:plot_yes:DW2024_Q4a_spinoffs:
       CLOSED: [2024-12-06 Fri 08:44] SCHEDULED: <2024-11-10 Sun>
 
-***** [#A] 70. Double part2 :Autons:plot_yes:DW2024_Q4b_spinoffs:
+***** HALF [#A] 70. Double part2 :Autons:plot_yes:DW2024_Q4b_spinoffs:
       SCHEDULED: <2024-12-22 Sun>
       :PROPERTIES:
       :rating:   8.5
@@ -702,7 +702,9 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
       :rating:   8.4
       :END:
 
-***** START [#C] 7.4 Moderation :Tyler:Colchester:DW2025_Q1a_spinoffs:
+***** HALF [#C] 7.4 Moderation :Tyler:Colchester:DW2025_Q1a_spinoffs:
+      SCHEDULED: <2025-01-05 Sun>
+
 ***** [#E] 7.5 Propaganda :Orr:
 ***** 3QTR [#A] 7.6 At Her Majesty’s Pleasure :Yvonne:Andy:DW2024_Q4a_spinoffs:
       CLOSED: [2024-10-19 Sat 20:47] SCHEDULED: <2024-10-20 Sun>
@@ -973,7 +975,8 @@ But their mission is about to unleash hell upon the universe…
 
 With the Discordia on their tail, River and her friends run for their lives across time and space. But when your opponent can twist cause and effect to ensure victory at every turn, then escape may well be impossible.
 
-***** [#B] 4.3 - Whodunnit? :DW2025_Q1a_spinoffs:
+***** HALF [#B] 4.3 - Whodunnit? :DW2025_Q1a_spinoffs:
+      SCHEDULED: <2025-01-12 Sun>
       :PROPERTIES:
       :rating:   8.0
       :END:
