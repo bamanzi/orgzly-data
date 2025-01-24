@@ -90,6 +90,8 @@ CLOSED: <2021-05-29 Sat 08:11>
 
 **** [#E] 102a. The Mind's Eye :Erimem:Peri:D2021_04:
 **** [#C] 104. The Bride of Peladon :Peri:Erimem:DW2025_Q1a_doctor:
+SCHEDULED: <2025-02-01 Sat>
+
 *** MR with Nyssa :Nyssa:scripted:2CD:
 **** CANCEL [#F] 4. The Land of the Dead
 :PROPERTIES:
@@ -674,7 +676,7 @@ CLOSED: <2021-09-17 Fri 21:27> SCHEDULED: <2021-09-04 Sat>
 ***** 2DONE [#A] 193. Masters of Earth (8.6) :Peri:plot_no:Daleks:D2021_10_daleks:
 CLOSED: [2021-10-18 Mon 20:15]
 
-***** [#C] 194. The Rani Elite
+***** [#C] 194. The Rani Elite :DW2025_Q1b_doctor:
 :PROPERTIES:
 :rating:   7.8
 :END:
@@ -1412,7 +1414,9 @@ SCHEDULED: <2023-05-20 Sat 20:07>
 ***** HALF [#C] UNIT - Dominion p3 :DW2024_Q2a_doctor:
 SCHEDULED: <2024-03-16 Sat>
 
-***** TODO [#B] UNIT - Dominion p4
+***** HALF [#B] UNIT - Dominion p4 :DW2025_Q1a_doctor:
+SCHEDULED: <2025-01-25 Sat>
+
 **** 📂2022A Silver and Ice :P2022_06:
 ***** CANCEL [#F] Bad Day in Tinseltown :Cybermen:Mel:1CD:
 CLOSED: [2022-10-08 Sat 09:05]

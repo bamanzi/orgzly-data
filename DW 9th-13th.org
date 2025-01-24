@@ -632,7 +632,7 @@ SCHEDULED: <2024-07-27 Sat>
 
 【【神秘博士广播剧熟肉】Dalek Universe 301 The First Son 第一子-哔哩哔哩】 https://b23.tv/ZcWe1OJ
 
-***** READY [#C] DU3.2 - The Dalek Defense :Davros:bilibili:
+***** READY [#C] DU3.2 - The Dalek Defense :Davros:bilibili:DW2025_Q1b_doctor:
 :PROPERTIES:
 :rating:   7.9
 :END:
@@ -894,22 +894,23 @@ SCHEDULED: <2024-11-02 Sat>
 
 【【神秘博士广播剧熟肉】All of Time and Space 403 Curiosity Shop 古董店-哔哩哔哩】 https://b23.tv/bFj2VgO
 
-**** READY [#A] 4.4 Broken Hearts [A⁺] :P2023_11:bilibili:DW2025_Q1a_doctor:
+**** HALF [#A] 4.4 Broken Hearts [A⁺] :P2023_11:bilibili:DW2025_Q1a_doctor:
+SCHEDULED: <2025-01-25 Sat>
 :PROPERTIES:
 :rating:   9.1
 :END:
 
 【【神秘博士广播剧熟肉】All of Time and Space 404 Broken Hearts 破碎的心-哔哩哔哩】 https://b23.tv/g5LFC71
 
-*** 11DC vol.5 Everywhere and Anywhere :Valarie:P2023_12:
+*** 📂11DC vol.5 Everywhere and Anywhere :Valarie:P2023_12:
 **** [#A] 5.1 Spirit of the Season
 **** [#B] 5.2 All’s Fair
 **** [#A] 5.3 Sins of the Flesh :Cybermen:
-*** 11DC vol.6 Victory of the Doctor :Valarie:P2024_02:
-**** 6.1 Didn’t You Kill My Mother?
-**** 6.2 Daleks Victorious
-**** 6.3 The Last Stand of Miss Valarie Lockwood
-**** 6.4 Victory of the Doctor
+*** 📂11DC vol.6 Victory of the Doctor :Valarie:P2024_02:
+**** [#B] 6.1 Didn’t You Kill My Mother?
+**** [#B] 6.2 Daleks Victorious
+**** [#A] 6.3 The Last Stand of Miss Valarie Lockwood
+**** [#A] 6.4 Victory of the Doctor
 *** short trips :🗣:
 **** 3QTR ST10.5 Regeneration Impossible :D2021_08_extra:12th_Dr:
 **** 2DONE [#A] ST11.1 Rearguard :Sontarans:P2022_02:DW2022_11_doctor:

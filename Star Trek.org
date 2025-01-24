@@ -211,8 +211,12 @@ CLOSED: [2022-06-20 Mon 00:19]
 **** DONE [#D] 3x15. Let That Be Your Last Battlefield (7.3) :ST2023_06:
 CLOSED: [2023-06-07 Wed 22:07] SCHEDULED: <2023-06-11 Sun>
 
-**** TODO [#E] 3x16. The Mark of Gideon                (6.7)
-**** TODO [#E] 3x17. That Which Survives               (6.7)
+**** DONE [#E] 3x16. The Mark of Gideon                (6.7)
+CLOSED: [2025-01-10 Fri 20:44]
+
+**** DONE [#E] 3x17. That Which Survives               (6.7)
+CLOSED: [2025-01-24 Fri 08:20] SCHEDULED: <2025-01-25 Sat>
+
 **** CANCEL [#E] 3x18. The Lights of Zetar               (6.3)
 **** DONE [#C] 3x19. Requiem for Methuselah            (7.6)
 CLOSED: [2022-06-12 Sun 23:15]
@@ -220,8 +224,6 @@ CLOSED: [2022-06-12 Sun 23:15]
 **** CANCEL [#E] 3x20. The Way to Eden                   (5.6)
 **** [#D] 3x21. The Cloud Minders                 (7.2)
 **** TODO [#E] 3x22. The Savage Curtain                (6.9) :Kahless:ST2024_06:
-SCHEDULED: <2023-06-30 Fri>
-
 **** [#B] 3x23. All Our Yesterdays (8.4)
 **** [#D] 3x24. Turnabout Intruder                (7.0)
 
@@ -311,8 +313,12 @@ CLOSED: [2022-07-15 Fri 19:34] SCHEDULED: <2022-07-16 Sat>
 **** DONE [#D] 7. Embracing the Winds 变革之风  (7.4) :ST2023_06:
 CLOSED: [2023-06-21 Wed 19:17] SCHEDULED: <2023-06-24 Sat>
 
-**** [#B] 8. Still Treads the Shadow  (8.1)
+**** DONE [#B] 8. Still Treads the Shadow  (8.1)
+CLOSED: [2025-01-14 Tue 07:46]
+
 **** [#A] 9. What Ships Are For  (8.6)
+SCHEDULED: <2025-01-31 Fri>
+
 **** [#A] 10. To Boldly Go: Part I  (9.1)
 **** [#A] 11. To Boldly Go: Part II  (9.4)
 ** movies :🎦:
@@ -695,7 +701,7 @@ Ferengi 首次亮相
 **** DONE [#C] 1x06 Where No One Has Gone Before (7.6)
 **** CANCEL [#E] 1x07 Lonely Among Us   (6.4)
 **** CANCEL [#E] 1x08 Justice                      (6.1)
-**** DONE [#E] 1x09 The Battle                   (6.9) :Ferengi:
+**** DONE [#E] 1x09 The Battle                   (6.9) :Ferengi:Stargazer:
 CLOSED: [2022-07-10 Sun 21:01] SCHEDULED: <2022-07-10 Sun>
 
 与 Picard 在 Stargazer 上的最后经历有关
@@ -781,7 +787,7 @@ first appearance of Borg
 **** DONE [#B] 3x04. Who Watches the Watchers (8.1)
 **** [#E] 3x05. The Bonding              (6.7)
 **** DONE [#C] 3x06. Booby Trap               (7.5)
-**** DONE [#C] 3x07. The Enemy                (7.9)
+**** DONE [#C] 3x07. The Enemy                (7.9) :Geordi:Romulans:
 **** CANCEL [#E] 3x08. The Price                (6.4)
 **** CANCEL [#E] 3x09.The Vengeance Factor      (6.6)
 **** DONE [#B] 3x10. The Defector             (8.5) :Romulans:
@@ -1181,16 +1187,26 @@ CLOSED: [2023-06-05 Mon 06:18] SCHEDULED: <2023-06-04 Sun>
 **** The Killing Shadows
 *** IDW :IDW:
 **** [TPB] TNG omnibus
-***** DONE The Space Between :Y2364-2370:ST2023_06:
+***** DONE [#B] The Space Between :Y2364-2370:ST2023_06:
 CLOSED: [2023-06-26 Mon 18:43] SCHEDULED: <2023-06-25 Sun>
 
 前五期是五个毫不相干的小故事，但都有些没讲清楚的地方。第五期末尾和第六期表明前面那些故事幕后都有一个阴谋集团的影子（似乎是Section 31），但仍然讲的莫名其妙
 
-***** NOW Intelligence Gathering :Y2368:S2025_Q1:
+***** DONE [#B] Intelligence Gathering :Y2368:tv_continuation:
+CLOSED: [2025-01-22 Wed 13:41] SCHEDULED: <2025-01-19 Sun>
+
+The series was set bewtween /The Next Phase/  (5x24) and /The Inner Light/ (5x25) towards the end of the fifth season of the TNG television series.
+
+ * Ferengi thought maker 出自剧集 1x10 /The Battle/.
+ * 敌手罗幕兰人 /Tomalak/ 出自剧集 3x07 /The Enemy/ 和 3x10 /The Defector/
+ * Tomalak 提及的种族 Iconian 出自 2x11 /Contagion/, 其传送门技术 Iconian Gateway 也出现在DS9 4x23 /To the Death/
+
 ***** DONE [#C] The Last Generation :alternate_universe:
 CLOSED: [2022-07-19 Tue 06:55] SCHEDULED: <2022-07-23 Sat>
 
-***** NEXT Ghosts :Y2367:S2025_Q1:
+***** NEXT Ghosts :Y2367:
+SCHEDULED: <2025-02-01 Sat>
+
 ***** DONE [#B] Hive :Borg_Queen:Y2382:ST2023_06:
 CLOSED: [2023-06-18 Sun 07:31] SCHEDULED: <2023-06-18 Sun>
 
@@ -1721,7 +1737,7 @@ CLOSED: [2022-06-17 Fri 21:36]
 :rating:   8.4
 :END:
 
-*** DOING DS9 S7 :Y2375:S2025_Q1:
+*** DOING DS9 S7 :Y2375:
 **** DONE [#C] 7x1. Image in the Sand (7.7)
 CLOSED: [2022-06-17 Fri 22:20]
 
@@ -1772,24 +1788,34 @@ CLOSED: [2023-06-30 Fri 20:09] SCHEDULED: <2023-06-30 Fri>
 
 **** 7x17-25 Final chapter 10 episode arc
 ***** DONE [#C] 7x17. Penumbra (7.4) :Ezri_Dax:
-CLOSED: [2025-01-01 Wed 15:27]
+CLOSED: [2025-01-01 Wed 15:27] SCHEDULED: <2025-01-04 Sat>
 
 "Penumbra" is the first episode of the /Final Chapter 10 episode arc/
 
 ***** DONE 7x18. 'Till Death Do Us Part (7.4) :Pah_Wraith:
-CLOSED: [2025-01-01 Wed 16:22]
+CLOSED: [2025-01-01 Wed 16:22] SCHEDULED: <2025-01-04 Sat>
 
 ***** DONE [#B] 7x19. Strange Bedfellows                  (8.0) :Pah_Wraith:Ezri_Dax:
-CLOSED: [2025-01-06 Mon 10:15]
+CLOSED: [2025-01-06 Mon 10:15] SCHEDULED: <2025-01-11 Sat>
 
 ***** DONE [#B] 7x20. The Changing Face of Evil           (8.5)
-CLOSED: [2025-01-06 Mon 18:40]
+CLOSED: [2025-01-06 Mon 18:40] SCHEDULED: <2025-01-11 Sat>
 
-***** NOW [#B] 7x21. When It Rains...                    (8.2)
-***** NOW [#A] 7x22. Tacking Into the Wind               (8.7)
-***** [#C] 7x23. Extreme Measures                    (7.7) :Section_31:
-***** [#B] 7x24. The Dogs of War                     (8.3)
+***** DONE [#B] 7x21. When It Rains...                    (8.2) :Section_31:
+CLOSED: [2025-01-11 Sat 22:08] SCHEDULED: <2025-01-11 Sat>
+
+***** DONE [#A] 7x22. Tacking Into the Wind               (8.7)
+CLOSED: [2025-01-16 Thu 08:09] SCHEDULED: <2025-01-18 Sat>
+
+***** DONE [#C] 7x23. Extreme Measures                    (7.7) :Section_31:
+CLOSED: [2025-01-16 Thu 21:57] SCHEDULED: <2025-01-18 Sat>
+
+***** DONE [#B] 7x24. The Dogs of War                     (8.3)
+CLOSED: [2025-01-22 Wed 08:08] SCHEDULED: <2025-01-25 Sat>
+
 ***** [#A] 7x25. What You Leave Behind               (8.7)
+SCHEDULED: <2025-01-31 Fri>
+
 ** comics :📚:
 *** Malibu (1993-1995) :Malibu:
 **** 📂on-going
@@ -2112,28 +2138,40 @@ CLOSED: [2024-05-27 Mon 21:17]
 **** DONE [#C] 2x26. Basics: Part I		(7.9)
 CLOSED: [2024-05-31 Fri 20:15]
 
-*** LATER 📂VOY S3 :Y2373:S2025_Q1:
+*** LATER 📂VOY S3 :Y2373:
 **** DONE [#B] 3x01. Basics: Part II       (8.0)
 CLOSED: [2024-05-31 Fri 21:03]
 
 **** DONE [#C] 3x02. Flashback			   (7.9) :Sulu:Kang:Excelsior:
-CLOSED: [2023-07-01 Sat 16:54] SCHEDULED: <2023-07-02 Sun>
+CLOSED: [2023-07-01 Sat 16:54] SCHEDULED: <2025-01-05 Sun>
 
 闪回发生在 电影六 The Undiscovered Country 期间的精进号上（克林贡的卫星 Praxis 爆炸，失去大部能源来源，于是与星联启动和平谈判。克林贡谈判代表遭到阴谋份子暗杀，Kirk 和 Spock 被嫁祸。时任精进号舰长的 Sulu 要去救老朋友…）
 
 **** DONE [#E] 3x03. The Chute			   (6.9)
-CLOSED: [2025-01-04 Sat 14:51]
+CLOSED: [2025-01-04 Sat 14:51] SCHEDULED: <2025-01-05 Sun>
 
 **** DONE [#D] 3x04. The Swarm			   (7.3)
-CLOSED: [2025-01-05 Sun 20:47]
+CLOSED: [2025-01-05 Sun 20:47] SCHEDULED: <2025-01-12 Sun>
 
-**** [#E] 3x05. False Profits		   (6.8)
-**** NOW [#D] 3x06. Remember			   (7.1)
+**** DONE [#E] 3x05. False Profits		   (6.8) :Ferengi:
+CLOSED: [2025-01-12 Sun 22:28] SCHEDULED: <2025-01-12 Sun>
+
+**** DONE [#D] 3x06. Remember			   (7.1)
+CLOSED: [2025-01-17 Fri 20:15] SCHEDULED: <2025-01-19 Sun>
+
 **** CANCEL [#E] 3x07. Sacred Ground		   (5.9)
-**** [#B] 3x08. Future's End		   (8.4) :alternate_universe:
-**** [#B] 3x09. Future's End: Part II (8.3)
-**** [#E] 3x10. Warlord			   (6.8)
+**** DONE [#B] 3x08. Future's End		   (8.4) :alternate_timeline:
+CLOSED: <2025-01-19 Sun 15:56> SCHEDULED: <2025-01-19 Sun>
+
+**** DONE [#B] 3x09. Future's End: Part II (8.3) :alternate_timeline:
+CLOSED: [2025-01-19 Sun 16:50] SCHEDULED: <2025-01-19 Sun>
+
+**** DONE [#E] 3x10. Warlord			   (6.8)
+CLOSED: [2025-01-18 Sat 21:00] SCHEDULED: <2025-01-19 Sun>
+
 **** [#D] 3x11. The Q and the Grey   (7.4) :Q:S2025:
+SCHEDULED: <2025-01-26 Sun>
+
 **** [#D] 3x12. Macrocosm			   (7.3)
 **** [#E] 3x13. Fair Trade		   (6.8)
 **** [#E] 3x14. Alter Ego			   (6.8)
@@ -2614,8 +2652,37 @@ set between seasons two and three of the Paramount+ hit series /Star Trek
 
 ** audio
 *** No Man's Land :P2022:Seven_of_Nine:Raffi:
+** novels :📔:
+*** [#B] #1. The Last Best Hope :Picard:ebook:
+:PROPERTIES:
+:goodreads: 4.06
+:END:
+
+*** [#A] #2. The Dark Veil :Riker:ebook:
+:PROPERTIES:
+:goodreads: 4.11
+:END:
+
+*** [#B] #3. Rogue Elements :Picard:Raffi:
+:PROPERTIES:
+:goodreads: 4.06
+:END:
+
+*** [#A] #4. Second Self
+:PROPERTIES:
+:goodreads: 4.16
+:END:
+
+*** [#A] #5. Firewall :Seven_of_Nine:
+:PROPERTIES:
+:goodreads: 4.15
+:END:
+
 * LD - Lower Decks :LD:animated:
 ** DONE 📂Lower Decks S1 (2020)
+
+https://breezewiki.com/memory-alpha/wiki/LD_Season_1
+
 *** DONE 1x01 Second Contact
 CLOSED: <2021-01-12 Tue 19:10>
 
@@ -2646,12 +2713,24 @@ CLOSED: [2022-07-22 Fri 19:07] SCHEDULED: <2022-07-23 Sat>
 *** DONE 1x10 No Small Parts
 CLOSED: [2022-07-29 Fri 21:16] SCHEDULED: <2022-07-30 Sat>
 
-** DOING 📂Lower Decks S2 (2021) :S2025_Q1:
+** DOING 📂Lower Decks S2 (2021)
+
+https://breezewiki.com/memory-alpha/wiki/LD_Season_2
+
 *** DONE 2x01 Strange Energies
 CLOSED: [2025-01-01 Wed 22:12]
 
-*** DONE 2x02 :Riker:
+*** DONE 2x02 Kayshon, His Eyes Open :Riker:
 CLOSED: [2025-01-09 Thu 08:36]
+
+*** DONE 2x03 We'll Always Have Tom Paris
+CLOSED: [2025-01-16 Thu 23:38]
+
+*** DONE 2x04 Mugato, Gumato
+CLOSED: [2025-01-22 Wed 14:00] SCHEDULED: <2025-01-25 Sat>
+
+*** 2x05 An Embarrassment Of Dooplers
+SCHEDULED: <2025-01-31 Fri>
 
 ** 📂Lower Decks S3 (2022)
 *** 3x01 :P2022_08:
@@ -2724,8 +2803,35 @@ an alternate timeline of TOS episode: /Balance of Terror/
 夸克网盘：https://pan.quark.cn/s/afd047d935d3
 快速下载：https://stcn.link/s/snw2dl
 
-**** DONE 2x01
-CLOSED: [2025-01-02 Thu 11:00]
+**** DONE [#C] 2x01 The Broken Circle
+CLOSED: [2025-01-02 Thu 11:00] SCHEDULED: <2025-01-04 Sat>
+:PROPERTIES:
+:imdb:     7.6
+:END:
+
+**** DONE [#A] 2x02 Ad Astra per Aspera
+CLOSED: [2025-01-11 Sat 09:03] SCHEDULED: <2025-01-11 Sat>
+:PROPERTIES:
+:imdb:     8.5
+:END:
+
+**** DONE [#B] 2x03 Tomorrow and Tomorrow and Tomorrow :Kirk:DTI:alternate_timeline:
+CLOSED: [2025-01-20 Mon 07:38] SCHEDULED: <2025-01-18 Sat>
+:PROPERTIES:
+:imdb:     8.3
+:END:
+
+**** NOW [#D] 2x04 Among the Lotus Eaters
+SCHEDULED: <2025-01-25 Sat>
+:PROPERTIES:
+:imdb:     7.3
+:END:
+
+**** [#B] 2x05 Charades
+SCHEDULED: <2025-01-31 Fri>
+:PROPERTIES:
+:and:      8.2
+:END:
 
 ** comics :📚:
 *** Early Voyages (Marvel)
@@ -2760,25 +2866,25 @@ CLOSED: <2022-07-20 Wed 01:04> SCHEDULED: <2022-07-31 Sun>
 **** TODO 12. Futures :Una:
 **** ...
 **** 17.
-*** Star Trek: Crew :Una:P2009:
+*** IDW
+**** Star Trek: Crew :Una:P2009:
 
 The five-issue miniseries from John Byrne charts the early career of Number One.
 
-**** DONE 01. Shakedown
-**** DONE 02. The Bottle
-**** DONE 03. Ghosts
-**** DONE 04. Shadows of the Past :Gary_Seven:Pike:
+***** DONE 01. Shakedown
+***** DONE 02. The Bottle
+***** DONE 03. Ghosts
+***** DONE 04. Shadows of the Past :Gary_Seven:Pike:
 CLOSED: [2022-07-10 Sun 14:04]
 
 进取号在一个星球上遭遇了地球人，他们分成五个族群相互战争，结果发现他们是当初 Gary Seven 传送过来的克隆士兵。与 IDW 的 Operation Earth 系列故事相关
 
-**** DONE 05. The Ends of Eternity
+***** DONE 05. The Ends of Eternity
 CLOSED: [2022-07-16 Sat 07:03] SCHEDULED: <2022-07-17 Sun>
 
-*** DONE New Visions special: The Cage :tv_based:idw:Talosians:
+**** DONE New Visions special: The Cage :tv_based:idw:Talosians:
 CLOSED: [2022-07-07 Thu 22:46]
 
-*** IDW
 **** DONE The Illyrian Enigma :Y2259:
 CLOSED: [2024-05-18 Sat 20:40]
 
@@ -3128,11 +3234,13 @@ CLOSED: [2021-02-16 Tue 13:32]
 **** DONE Hero 英雄 :P2020:
 CLOSED: [2021-03-26 Fri 23:49]
 
-**** NOW Degressions 偏航 :P2021:S2025_Q1:
-**** DONE Artifact 人造品 :P2021:S2025_Q1:
+**** NOW Degressions 偏航 :P2021:
+SCHEDULED: <2025-02-01 Sat>
+
+**** DONE Artifact 人造品 :P2021:
 CLOSED: [2025-01-05 Sun 22:57]
 
-** novels
+** novels :📔:
 *** Sympathy for the Devil
 
 翻译：
@@ -3153,13 +3261,34 @@ CLOSED: [2023-08-28 Mon 08:27]
 *** DONE 1x09
 CLOSED: [2023-08-31 Thu 08:16]
 
-*** DONE 1x10
+*** DONE 1x10 :Y1974:
 CLOSED: <2023-09-02 Sat 21:48>
 
-** S2
+** S2 :Y1983:P2021:
 *** DONE 2x01
 CLOSED: [2025-01-04 Sat 22:24]
 
+*** DONE 2x02
+CLOSED: [2025-01-13 Mon 08:16]
+
+*** DONE 2x03
+CLOSED: [2025-01-13 Mon 13:28]
+
+*** DONE 2x04
+CLOSED: [2025-01-20 Mon 19:39]
+
+*** DONE 2x05
+CLOSED: [2025-01-21 Tue 20:12]
+
+*** NOW 2x06
+SCHEDULED: <2025-01-26 Sun>
+
+*** NOW 2x07
+SCHEDULED: <2025-01-26 Sun>
+
+*** 2x08
+*** 2x09
+*** 2x10
 * footnotes
 
 #+TBLFM: $2='(cond ((> $4 8.5) "[#A]") ((>= $4 8.0) "[#B]") ((>= $4 7.5) "[#C]") ((>= $4 7.0) "[#D]") (t "[#E]"));N

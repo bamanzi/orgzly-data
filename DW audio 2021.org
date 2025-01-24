@@ -1790,14 +1790,14 @@ http://drwhoguide.com/who_bf33.htm
 *** [#C] CY2.4 - Churchill Victorious
 * DW 2025 :S2025:
 ** DOING dw2025-q1a-doctor
-*** HALF [#D] CC11.3 The Bonfires of the Vanties         :Polly:Ben:scripted:
+*** HALF [#D] CC11.3 The Bonfires of the Vanties :Polly:Ben:scripted:
 *** HALF [#C] 2023B Intelligence for War (part4~7) :3rd_Dr:Liz:3CD:DW2025_Q1a_doctor:
     SCHEDULED: <2025-01-11 Sat>
 
 *** [#B] MR104 The Bride of Peladon :5th_Dr:Peri:Erimem:
-*** [#C] BSNA2.1 - The Pyramid of Sutekh :Benny:7th_Dr:
-*** 3QTR [#B] 9DA3.2.1 Below There                          :9th_Dr:bilibili:
-*** READY 11DC 4.4 Broken Hearts :11th_Dr:Valarie:
+*** UNIT: Dominion #4 :7th_Dr:Raine:Klein:Master_bald:
+*** 3QTR [#B] 9DA3.2.1 Below There :9th_Dr:bilibili:
+*** READY [#A] 11DC 4.4 Broken Hearts :11th_Dr:Valarie:
 ** DOING dw2025-q1a-spinoffs
 *** HALF [#C] TW7.4 Moderation :Tyler:
 *** HALF [#B] TW Soho #2: Ashenden (1~3) :Norton:Andy:Lizbeth:P2021:plot_yes:DW2025_Q1a_spinoffs:
@@ -1806,30 +1806,26 @@ http://drwhoguide.com/who_bf33.htm
 *** [#D] UNIT2.4 Ice Station Alpha
 *** [#D] PG4.3 - Rulers of Earth
 *** HALF [#B] DoRS4.3 - Whodunnit?
-*** FIXME [#A] ST9.6 The Same Face :Master:
 *** READY [#A] Rose2.3 The Rogue Planet :Rose:
 ** TODO dw2025-q1b-doctor
-*** CC8.12 Second Chances :2nd_Dr:Zoe:
+*** [#A] CC8.12 Second Chances :2nd_Dr:Zoe:
 *** FIXME [#A] DoRS4.4 - Someone I Once Knew :River:4th_Dr:
 *** [#C] MR194. The Rani Elite :6th_DR:Peri:
 *** [#C] 8DA2.3 - Brave New Town :8th_Dr:Lucie:
 *** READY [#C] DU3.2 - The Dalek Defense :10th_Dr:Anya:Mark_7:bilibili:
 *** [#B] WDB4.1 The Mission :War_Dr:
 ** TODO dw2025-q1b-spinoffs
-*** FIXME [#A] TW Soho #2: Ashenden (4~6) :Norton:Andy:Lizbeth:P2021:plot_yes:
+*** [#A] TW Soho #2: Ashenden (4~6) :Norton:Andy:Lizbeth:P2021:plot_yes:DW2025_Q1b_spinoffs:
 *** FIXME [#B] 65X A Postcard from Mr Colchester :Colchester:plot_yes:
 *** HALF [#B] UNEM1.1 The Enemy Beyond :The_Eleven:
-*** FIXME [#C] CM3.2 - The Concrete Cage
+*** [#C] CM3.2 - The Concrete Cage
 *** [#C] JL9.3 - Island of Death
-*** [#D] BSNA2.2 - The Vault of Osiris :Benny:Ace:
 *** HALF [#B] Gallifrey 6.3 -Ascension
 *** [#A] WM8.3 The Adventure of the Deceased Doctor :Master_war:Holmes:bilibili:
 * FIXME pending
 ** special
-*** 4DA1303 - Metamorphosis :4th_Dr:Master:bilibili:
-*** FIXME [#D] WoDW#4 Second Sight :6th_Dr:Romana_2:Leela:Yates:
+*** READY 4DA1303 - Metamorphosis :4th_Dr:Harry:Naomi:Master_decayed:bilibili:
 *** [#B] Jack 2.1 Piece of Mind :Jack:6th_Dr:
-*** UNIT: Dominion #4 :7th_Dr:Raine:Klein:Master_bald:
 *** [#C] Susan1.4 The Shoreditch Intervention :Susan:8th_Dr:Alex:
 ** odd
 *** 1st
