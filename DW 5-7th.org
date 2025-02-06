@@ -74,7 +74,7 @@ CLOSED: [2021-06-15 Tue 08:16]
 **** 3QTR [#C] 071. The Council of Nicaea :Peri:Erimem:DW2023_03_doctor:
 CLOSED: [2023-03-17 Fri 08:26] SCHEDULED: <2023-03-18 Sat>
 
-**** 3QTR [#A] 081. The Kingmaker :Peri:Erimem:4th_Dr:plot_yes_dwg:DW2023_11_doctor:已购:
+**** 3QTR [#A] 081. The Kingmaker :Peri:Erimem:Shakespeare:4th_Dr:plot_yes_dwg:DW2023_11_doctor:已购:
 CLOSED: [2023-11-26 Sun 14:44] SCHEDULED: <2023-11-29 Wed>
 :PROPERTIES:
 :rating:   8.8
@@ -474,7 +474,7 @@ CLOSED: [2022-01-14 Fri 15:10]
 
 Interludes #1
 
-**** Meanwhile Turlough :Toulough:P2024_04:
+**** [#C] Meanwhile, Turlough :Toulough:P2024_04:
 
 Interludes #8
 
@@ -1050,7 +1050,7 @@ CLOSED: [2024-05-21 Tue 16:37] SCHEDULED: <2024-05-11 Sat>
 CLOSED: [2024-07-17 Wed 20:45]
 
 **** CANCEL [#F] 24x03 - Delta and the Bannermen (6.0)
-**** CANCEL [#F] 24x04 - Dragonfire (6.3)
+**** CANCEL [#E] 24x04 - Dragonfire (6.3)
 *** S25
 **** DONE [#A] 25x01 Remembrance of the Daleks (8.5) :Davros:
 CLOSED: [2021-11-01 Mon 19:54]
@@ -1400,7 +1400,7 @@ CLOSED: [2023-11-17 Fri 08:22] SCHEDULED: <2023-11-18 Sat>
 **** DONE BSNA 1.1 The Revolution
 *** 7DA :7DA:
 **** V. Return of the Daleks :Susan_Mendes:Kalendorf:P2006:
-**** [#B] UNIT - Dominion :Klein:Raine:Master_bald:P2012:4CD:plot_yes:
+**** [#B] UNIT - Dominion :UNIT:Klein:Raine:Master_bald:P2012:4CD:plot_yes:
 :PROPERTIES:
 :rating:   8.1
 :END:
@@ -1434,7 +1434,7 @@ CLOSED: [2024-06-29 Sat 19:45] SCHEDULED: <2024-06-05 Wed 09:27>
 ***** [#D] 23A.2 Naomi's Ark
 **** [#F] 2023B. The Last Day 1 :Ace:Mel:Beeny:Hex:Master_decayed:P2023_12:3CD:
 **** 2024A. The Last Day 2 :P2024_06:
-**** TBR 📂2024B The Doctor and Carnacki :P2024_11:
+**** 📂2024B The Doctor and Carnacki :P2024_11:
 ***** 24B.1 The Haunter of the Shore
 ***** 24B.2 The House
 ***** 24B.3 The Institute of Forgotten Souls

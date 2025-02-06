@@ -108,7 +108,7 @@ SCHEDULED: <2022-03-12 Sat>
 :rating:   8.4
 :END:
 
-***** [#A] 5.2 The Hollow Crown :plot_no:P2021:
+***** [#A] 5.2 The Hollow Crown :Shakespeare:plot_no:P2021:
 :PROPERTIES:
 :rating:   9.0?
 :END:
@@ -305,7 +305,7 @@ Old Steven 3/3
 :rating:   8.2
 :END:
 
-**** TBR 1DA2025. The Living Darkness :P2025_01:
+**** 1DA2025. The Living Darkness :P2025_01:3CD:scripted:
 *** with Dodo
 **** 📂1DA2022. The Outlaws :Dodo:P2022_04:plot_yes:
 ***** 3QTR [#D] 22.1 The Outlaws :Dodo:Monk:P2022_04:DW2023_03_doctor:
@@ -317,13 +317,16 @@ CLOSED: [2024-06-05 Wed 08:25] SCHEDULED: <2024-06-15 Sat>
 **** 📂1DA2023. The Demon Song :Dodo:P2023_02:
 ***** [#B] 23.1 The Demon Song :1CD:
 ***** [#E] 23.2 The Incherton Incident :2CD:
-**** 1DA2024. Fugitive of the Daleks :3CD:P2024_01:Dodo:Vicki:
+**** [#B] 1DA2024. Fugitive of the Daleks :3CD:P2024_01:Dodo:Vicki:
 
 这里的 Vicki 是老年 Vicki
 
 *** with Polly & Ben
 **** HALF [#D] CC11.3 The Bonfires of the Vanties :Polly:Ben:scripted:DW2025_Q1a_doctor:
 SCHEDULED: <2025-01-18 Sat>
+:PROPERTIES:
+:rating:   7.1
+:END:
 
 **** 3QTR [#B] CC11.4 The Plague of Dreams :Polly:Ben:DW2023_05_doctor:scripted:
 CLOSED: <2023-05-30 Tue 21:34> SCHEDULED: <2023-05-27 Sat>
@@ -671,7 +674,7 @@ SCHEDULED: <2022-06-05 Sun>
 :rating:   7.5
 :END:
 
-***** [#B] STS#3. Lepidoptery for Beginners :Jamie:Zoe:
+***** [#B] STS#3. Lepidoptery for Beginners :Jamie:Zoe:P2010:
 :PROPERTIES:
 :rating:   8.3
 :END:
@@ -993,11 +996,11 @@ SCHEDULED: <2023-05-27 Sat>
 :rating:   7.1
 :END:
 
-***** 📂23A. The Return of Jo Jones :Jo:P2023_02:1CD:P2023_02:
+***** 📂2023A. The Return of Jo Jones :Jo:P2023_02:1CD:P2023_02:
 ****** NEXT [#D] 23A.1 Supernature
 ****** [#D] 23A.2 The Conservitors
 ****** [#C] 23A.3 The Iron Shore
-***** 24B. The Quintessence :Jo:3CD:P2024_10:
+***** 2024B. The Quintessence :Jo:3CD:P2024_10:
 **** misc
 ***** DONE [#A] The Sacrifice of Jo Grant (The Legacy of Time #3) :Jo:P2019:
 CLOSED: [2020-08-07 Fri 18:25]
@@ -1077,10 +1080,9 @@ SCHEDULED: <2023-01-17 Tue 08:51>
 :rating:   7.9
 :END:
 
-***** HALF [#A] 22A. The Annihilators :P2022_02:Liz:2nd_Dr:Jamie:Brigadier:UNIT:3CD:DW2024_01_doctor:
+***** HALF [#A] 2022A. The Annihilators :P2022_02:Liz:2nd_Dr:Jamie:Brigadier:UNIT:3CD:DW2024_01_doctor:
 SCHEDULED: <2024-01-13 Sat>
 
-block原因：太长（3CD）
 
 /The Annihilators/ was the first 7 part story made by Big Finish
 
@@ -1093,7 +1095,12 @@ CLOSED: [2024-01-21 Sun 19:53]
 ****** HALF [#A] part6-7 :DW2024_02_doctor:
 SCHEDULED: <2024-02-17 Sat>
 
-***** HALF [#C] 23B Intelligence for War :P2023_10:Liz:Brigadier:3CD:plot_yes:
+***** HALF [#C] 2023B. Intelligence for War :P2023_10:Liz:Brigadier:3CD:plot_yes:
+:PROPERTIES:
+:rating:   7.6
+:END:
+
+***** TBR 2025A. Doctor Who and the Brain Drain :P2025_03:3CD:
 **** CC (Liz)
 ***** DONE [#A] CC7.4 - The Last Post :P2012:no_doctor:
 CLOSED: [2020-08-07 Fri 18:25]
@@ -1156,10 +1163,10 @@ SCHEDULED: <2023-09-21 Thu>
 :rating:   8.1
 :END:
 
-***** CANCEL [#E] 22B. Kaleidoscope :Harry:Brigadier:P2022_10:3CD:
-***** BLOCK [#D] 24A. Revolution in Space :P2024_02:3CD:plot_yes:
+***** CANCEL [#E] 2022B. Kaleidoscope :Harry:Brigadier:P2022_10:3CD:
+***** BLOCK [#D] 2024A. Revolution in Space :P2024_02:3CD:plot_yes:
 **** START [#D] CDNM3.1 The House that Hoxx Built :P2022:plot_yes:
-**** SvsR#2 The Children of the Future :P2024_02:
+**** [#B] SvsR#2 The Children of the Future :P2024_02:
 **** CANCEL [#F] ST10.03 Decline of the Ancient Mariner
 :PROPERTIES:
 :rating:   4.5
@@ -1256,7 +1263,7 @@ https://tieba.baidu.com/p/2440478286?see_lz=1&pn=0&
 CLOSED: [2020-06-26 Fri 18:54]
 
 *** S13 :Sarah:
-**** DONE [#A] 13x01 - Terror of the Zygons †8.5)
+**** DONE [#A] 13x01 - Terror of the Zygons (8.5) :Zygons:
 **** DONE [#C] 13x02 - Planet of Evil †7.7) 重看
 CLOSED: [2020-07-16 Thu 19:10]
 
@@ -1427,7 +1434,7 @@ CLOSED: [2020-08-27 Thu 12:44]
 ***** CANCEL [#E] +3.7 - The Abandoned+ (6.2)
 CLOSED: [2020-07-30 Thu 06:48]
 
-***** CANCEL [#D] 3.8 - Zygon Hunt (7.0)
+***** CANCEL [#D] 3.8 - Zygon Hunt (7.0) :Zygons:
 CLOSED: [2020-07-30 Thu 06:50]
 
 **** 4DA series 4 :4DA:P2015:1CD:
@@ -1468,7 +1475,7 @@ CLOSED: [2020-07-15 Wed 19:13]
 ***** [#C] 10.2 The Day of the Comet
 ***** [#C] 10.3 The Tribulations of Tahdeus Nook
 ***** [#E] 10.4 The Primeval Design
-**** 4DA series 12 :4DA:Margaret:P2023:
+**** 📂4DA series 12 :4DA:Margaret:P2023:
 ***** [#D] 12.1 Ice Heist :Ice_Warriors:P2023_03:2CD:
 ***** CANCEL [#F] 12.2 Antillia the Lost :P2023_03:2CD:
 ***** [#C] 12.3 The Wizard of Time :P2023_06:1CD:DW2024_Q3b_doctor:
@@ -1603,7 +1610,10 @@ CLOSED: [2023-06-07 Wed 08:19] SCHEDULED: <2023-06-10 Sat>
 :rating:   8.0
 :END:
 
-***** [#B] NA04 The English Way of Death :Romana_2:P2015:2CD:scripted:
+***** READY [#B] NA04 The English Way of Death :Romana_2:P2015:2CD:scripted:bilibili:
+
+【【神秘博士广播剧熟肉】The English Way of Death-英伦三岛的毁灭-哔哩哔哩】 https://b23.tv/gFeelFi
+
 ***** [#B] NA05 - The Well-Mannered War :Romana_2:2CD:P2015:
 :PROPERTIES:
 :rating:   8.1
@@ -1615,7 +1625,7 @@ CLOSED: [2023-06-07 Wed 08:19] SCHEDULED: <2023-06-10 Sat>
 
 【【神秘博士广播剧熟肉】短途旅行：充实人生    Short trips: A full life-哔哩哔哩】 https://b23.tv/3ecUFly
 
-***** [#C] 4.4 The Old Rogue :Romana_2:2nd_Dr:Jamie:
+***** [#C] ST4.4 The Old Rogue :Romana_2:2nd_Dr:Jamie:
 :PROPERTIES:
 :rating:   7.9
 :END:
@@ -1957,11 +1967,15 @@ Susan Foremen学生和他的爷爷，神秘的博士，只想要一个平静的�
 **** [#A] 4.2 The Queen of Clocks :6th_Dr:Clockwork_Droids:Mel:
 **** [#B] 4.3 The Silent City :Silents:8th_Dr:
 **** [#B] 4.4 The Silent Priest :Silents:7th_Dr:
-*** TBR CDNM vol.5 Faithful Friends :P2025_01:
+*** CDNM vol.5 Faithful Friends :P2025_01:
 **** 5.1 The Krillitane Feint :2nd_Dr:Jamie:Zoe:
 **** 5.2 The Dying Breed :4th_Dr:Leela:K9:
 **** 5.3 The Krillitane Relic :7th_Dr:Ray:
-**** 5.4 Five Hundred Ways to Leave Your Lover :8th_Dr:
+**** 5.4 Five Hundred Ways to Leave Your Lover :8th_Dr:bilibili:
+
+
+【【神秘博士广播剧片段】博士反复被甩和被强吻的一天-哔哩哔哩】 https://b23.tv/SkNZjPX
+
 ** The Legacy of Time :P2019:
 *** HALF [#B] Lies in Ruins :8th_Dr:River:Benny:
 *** CANCEL [#E] The Split Infinitive :7th_Dr:Ace:CM:
@@ -2151,6 +2165,7 @@ CLOSED: <2018-07-13 Fri 08:03>
 
 http://www.drwhoguide.com/chronicles07.htm
 
+**** CC7.1 The Time Museum :Ian:
 **** [#C] CC7.12 - Council of War :Benton:Brigadier:
 :PROPERTIES:
 :rating:   7.7

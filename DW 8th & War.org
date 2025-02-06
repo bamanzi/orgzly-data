@@ -248,7 +248,7 @@ SCHEDULED: <2022-08-31 Wed>
 :END:
 
 ***** READY [#B] CDNM3.4 If I Should Die Before I Wake ↗ :plot_yes:bilibili:
-***** SvsR #1. The Battle of Giant's Causeway :P2024_01:Crizz:
+***** [#C] SvsR #1. The Battle of Giant's Causeway :P2024_01:Crizz:
 *** with Mary
 **** 123. The Company of Friends :short:
 ***** 2DONE [#B] 4. Mary's Story :plot_yes:Mary:½CD:
@@ -616,10 +616,12 @@ SCHEDULED: <2024-12-21 Sat>
 :rating:   7.6
 :END:
 
-****** [#A] 3.2 - Companion Piece
+****** READY [#A] 3.2 - Companion Piece :River:Charley:Bliss:The_Nine:bilibili:
 :PROPERTIES:
 :rating:   8.9
 :END:
+
+【【神秘博士广播剧中字】宋江智斗九 营救博士同伴-哔哩哔哩】 https://b23.tv/4XfytgQ
 
 ****** CANCEL [#E] +3.3 - L.E.G.E.N.D+
 :PROPERTIES:
