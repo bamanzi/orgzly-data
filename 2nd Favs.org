@@ -247,8 +247,31 @@ CLOSED: <2024-04-04 Thu 12:05>
 ***** DONE 3x19
 CLOSED: [2024-04-09 Tue 15:50]
 
-***** [#A] 3x20 The Angel of San Bernardino
+***** DONE [#A] 3x20 The Angel of San Bernardino
+CLOSED: [2025-02-05 Wed 20:31] SCHEDULED: <2025-02-08 Sat>
+
+***** DONE 3x21
+CLOSED: [2025-02-06 Thu 08:16] SCHEDULED: <2025-02-08 Sat>
+
+***** DONE 3x22
+CLOSED: [2025-02-08 Sat 08:05] SCHEDULED: <2025-02-08 Sat>
+
+***** DONE 3x23
+CLOSED: [2025-02-11 Tue 21:51] SCHEDULED: <2025-02-15 Sat>
+
+***** DONE 3x24
+CLOSED: [2025-02-12 Wed 07:52] SCHEDULED: <2025-02-15 Sat>
+
+***** DONE 3x25
+CLOSED: [2025-02-12 Wed 18:37] SCHEDULED: <2025-02-15 Sat>
+
+***** 3x26
+SCHEDULED: <2025-02-22 Sat>
+
 **** Lucifer S4 (10 eps) :P2019:S2025_Q1:
+***** DONE 3x01
+CLOSED: [2025-02-14 Fri 20:08]
+
 **** Lucifer S5 (16 eps) :P2020:
 **** Lucifer S6 (10 eps) :P2021:
 ** Preacher
@@ -818,25 +841,42 @@ CLOSED: [2022-12-31 Sat 18:03]
 *** DONE 3x11 :Gabriel:
 CLOSED: [2022-12-31 Sat 21:06]
 
+** S4
+*** 4x18 The Monster at the End of This Book :Chuck:
+*** DONE 4x19
+CLOSED: [2025-02-11 Tue 08:09]
+
+*** 4x22 Lucifer Rising :Chuck:
 ** S5
-*** DONE 5x01 :Lucifer:
+*** DONE 5x01 :Lucifer:Chuck:
 CLOSED: [2024-03-26 Tue 07:53]
 
 *** DONE [#A] 5x08 Changing Channels [A⁺]
 CLOSED: [2023-01-02 Mon 21:10]
 
-*** DONE [#A] 5x09 The Real Ghostbusters
+*** DONE [#A] 5x09 The Real Ghostbusters :Chuck:
 CLOSED: [2024-03-27 Wed 20:11]
 
+*** DONE 5x13 The Song Remains the Same :Michael:John:Mary:
+CLOSED: [2025-02-12 Wed 19:22]
+
+*** 5x18 Point of No Return :Michael:
 *** DONE 5x19 :Gabriel:
 CLOSED: [2023-01-07 Sat 15:56]
 
+*** 5x22 Swan Song :Michael:Chuck:
 ** S9
 *** DONE 9x18
 CLOSED: [2023-01-14 Sat 14:44]
 
 ** DONE S11
+*** DONE 11x11
+CLOSED: [2025-02-07 Fri 08:11]
+
 ** DONE S12
+*** DONE 12x17
+CLOSED: [2025-02-07 Fri 22:03]
+
 ** DONE SPN S13
 *** DONE 13x01, 02
 CLOSED: [2022-02-02 Wed 14:29]
@@ -959,7 +999,7 @@ CLOSED: [2024-03-14 Thu 07:44]
 *** DONE 14x19
 CLOSED: [2024-03-15 Fri 00:15]
 
-*** DONE [#A] 14x20 Moriah
+*** DONE [#A] 14x20 Moriah :Chuck:
 CLOSED: [2024-03-15 Fri 20:13]
 
 ** S15 :S2025_Q1:
@@ -969,15 +1009,51 @@ CLOSED: [2024-03-15 Fri 20:13]
 *** DONE 15x01
 CLOSED: [2024-03-19 Tue 08:07]
 
-*** DONE 15x02
+*** DONE 15x02 :Chuck:
 CLOSED: [2024-03-19 Tue 21:42]
 
 *** DONE 15x03
 CLOSED: [2024-03-22 Fri 20:49]
 
-*** DONE 15x04
+*** DONE 15x04 :Chuck:
 CLOSED: [2024-03-29 Fri 20:01]
 
 *** DONE [#A] 15x05 Proverbs 17:3
 CLOSED: [2024-03-25 Mon 20:54]
 
+*** DONE 15x06
+CLOSED: [2025-02-06 Thu 20:16]
+
+*** DONE 15x07
+CLOSED: [2025-02-08 Sat 20:14]
+
+*** DONE 15x08 Our Father, Who Aren't in Heaven :Michael:
+CLOSED: [2025-02-10 Mon 20:13]
+
+*** DONE 15x09 :Chuck:
+CLOSED: [2025-02-14 Fri 20:10]
+
+*** 15x10
+*** 15x11
+* Stranger Things
+** S1 :P2016:
+** S2 :P2017_10:
+*** DONE 2x03
+CLOSED: [2025-02-15 Sat 20:46]
+
+*** DONE 2x04
+CLOSED: [2025-02-15 Sat 22:15]
+
+** S3 :P2019_07:
+** comics
+*** The Other Side :P2018:
+
+2018.09 - 2019.01, 4 issues
+
+*** Six :P2019:
+
+2019.05 - 2019.08
+
+*** Zombie Boys :P2020_01:oneshot:
+*** Into the Fire :P2020_07:
+*** Science Camp :P2020_09:

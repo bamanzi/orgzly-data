@@ -2833,8 +2833,8 @@ http://www.drwhoguide.com/kaldor03.htm
 **** 5. Movers :P2003:
 **** 6. A Labyrinth of Histories :P2004:
 *** The True History of Faction Paradox (MBP 2004-2009) :Sutekh:plot_yes_dwg:
-
-**** 1. Coming to Dust :P2005:
+**** 1. Coming to Dust :P2005:DW2025_Q1b_spinoffs:
+     SCHEDULED: <2025-03-16 Sun>
 
 https://tardis.breezewiki.com/wiki/Coming_to_Dust_(audio_story)
 https://doctorwho.guide/paradox_a01.htm
@@ -3053,8 +3053,8 @@ https://doctorwho.guide/sj_06.htm
 
 【【神秘博士广播剧熟肉】The Dimension Cannon 202 Now is the New Dark 新黑暗-哔哩哔哩】 https://b23.tv/DsxHEzn
 
-**** READY [#A] 2.3 The Rogue Planet :bilibili:DW2025_Q1a_spinoffs:
-     SCHEDULED: <2024-12-21 Sat>
+**** HALF [#A] 2.3 The Rogue Planet :plot_no:bilibili:DW2025_Q1a_spinoffs:
+     SCHEDULED: <2025-02-09 Sun>
      :PROPERTIES:
      :rating:   8.8
      :END:

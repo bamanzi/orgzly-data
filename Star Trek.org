@@ -316,8 +316,8 @@ CLOSED: [2023-06-21 Wed 19:17] SCHEDULED: <2023-06-24 Sat>
 **** DONE [#B] 8. Still Treads the Shadow  (8.1)
 CLOSED: [2025-01-14 Tue 07:46]
 
-**** [#A] 9. What Ships Are For  (8.6)
-SCHEDULED: <2025-01-31 Fri>
+**** DONE [#A] 9. What Ships Are For  (8.6)
+CLOSED: [2025-02-03 Mon 11:03] SCHEDULED: <2025-02-02 Sun>
 
 **** [#A] 10. To Boldly Go: Part I  (9.1)
 **** [#A] 11. To Boldly Go: Part II  (9.4)
@@ -1431,18 +1431,22 @@ during Starfleet's battle against the Borg cube in Sector 001.
 * DS9 - Deep Space Nine :DS9:
 ** DS9 tv (1993-1998) :📺:tv:
 *** DS9 S1 (Jan. - Jun. 1993) :Y2369:
-**** DONE [#C] 1x01. Emissary (7.6)
+**** DONE [#C] 1x01/02. Emissary (7.6)
 **** DONE [#D] 1x03. Past Prologue (7.1) :ST2023_06:
 CLOSED: [2023-06-25 Sun 18:54] SCHEDULED: <2023-06-25 Sun>
 
 **** CANCEL [#E] 1x04. A Man Alone (6.9)
-**** [#D] 1x05. Babel (7.0)
+**** DONE [#D] 1x05. Babel (7.0)
+CLOSED: [2025-01-29 Wed 16:27]
+
 **** DONE [#C] 1x06. Captive Pursuit (7.7)
 **** LATER [#E] 1x07. Q-Less (6.9) :Q:
-**** [#D] 1x08. Dax (7.2)
+**** DONE [#D] 1x08. Dax (7.2) :Curzon_Dax:
+CLOSED: [2025-01-27 Mon 08:15]
+
 **** CANCEL [#E] 1x09. The Passenger (6.5)
 **** CANCEL [#E] 1x10. Move Along Home (6.0)
-**** [#D] 1x11. The Nagus (7.2)
+**** [#D] 1x11. The Nagus (7.2) :Ferengi:
 **** [#D] 1x12. Vortex (7.1)
 **** CANCEL [#E] 1x13. Battle Lines (6.7)
 **** CANCEL [#E] 1x14. The Storyteller (6.1)
@@ -1737,7 +1741,7 @@ CLOSED: [2022-06-17 Fri 21:36]
 :rating:   8.4
 :END:
 
-*** DOING DS9 S7 :Y2375:
+*** DS9 S7 :Y2375:
 **** DONE [#C] 7x1. Image in the Sand (7.7)
 CLOSED: [2022-06-17 Fri 22:20]
 
@@ -1813,8 +1817,8 @@ CLOSED: [2025-01-16 Thu 21:57] SCHEDULED: <2025-01-18 Sat>
 ***** DONE [#B] 7x24. The Dogs of War                     (8.3)
 CLOSED: [2025-01-22 Wed 08:08] SCHEDULED: <2025-01-25 Sat>
 
-***** [#A] 7x25. What You Leave Behind               (8.7)
-SCHEDULED: <2025-01-31 Fri>
+***** DONE [#A] 7x25. What You Leave Behind               (8.7)
+CLOSED: [2025-02-02 Sun 15:05] SCHEDULED: <2025-02-02 Sun>
 
 ** comics :📚:
 *** Malibu (1993-1995) :Malibu:
@@ -2166,11 +2170,11 @@ CLOSED: <2025-01-19 Sun 15:56> SCHEDULED: <2025-01-19 Sun>
 **** DONE [#B] 3x09. Future's End: Part II (8.3) :alternate_timeline:
 CLOSED: [2025-01-19 Sun 16:50] SCHEDULED: <2025-01-19 Sun>
 
-**** DONE [#E] 3x10. Warlord			   (6.8)
+**** DONE [#E] 3x10. Warlord		   (6.8)
 CLOSED: [2025-01-18 Sat 21:00] SCHEDULED: <2025-01-19 Sun>
 
-**** [#D] 3x11. The Q and the Grey   (7.4) :Q:S2025:
-SCHEDULED: <2025-01-26 Sun>
+**** DONE [#D] 3x11. The Q and the Grey   (7.4) :Q:S2025:
+CLOSED: [2025-01-26 Sun 20:19] SCHEDULED: <2025-01-26 Sun>
 
 **** [#D] 3x12. Macrocosm			   (7.3)
 **** [#E] 3x13. Fair Trade		   (6.8)
@@ -2325,15 +2329,26 @@ CLOSED: [2022-07-29 Fri 20:17] SCHEDULED: <2022-07-30 Sat>
 **** [#C] 7x24. Renaissance Man             (7.7)
 **** [#B] 7x25. Endgame                     (8.5) :alternate_universe:
 ** comics :📚:
-*** Marvel Paramount
+*** Marvel Paramount :marvel:
 **** Star Trek Voyager (1996-98)
+
+https://breezewiki.com/memory-alpha/wiki/Star_Trek:_Voyager_(Marvel)
+
 ***** DONE 1. The Storm / 2. Under Ion Skies / 3. Repercussions :Y2372:ST2023_06:
 CLOSED: [2023-07-02 Sun 21:56]
 
-***** TODO 4-5. Homeostasis :ST2024_12:
-***** ...
+***** DONE 4-5. Homeostasis
+CLOSED: <2025-01-29 Wed 06:53> SCHEDULED: <2025-01-27 Mon>
+
+***** 6-8. Relicquest :Y2372:
 ***** 9. Dead zone :Y2374:
-**** Star Trek Voyager - Splashdown (1998) :Y2374:
+***** 10. Ghosts
+***** 11-12. Leviathan :Y2373:
+***** 14-15. Survival of the Fittest :Y2374:
+**** Star Trek Voyager - Splashdown :Y2374:P1998:mini:
+
+4 issues
+
 *** WildStorm (1999-2001)
 **** False Colors :Y2376:
 **** Elite Force :Y2376:
@@ -2451,16 +2466,26 @@ CLOSED: [2022-07-10 Sun 16:10] SCHEDULED: <2022-08-01 Mon>
 CLOSED: [2021-01-13 Wed 12:34]
 
 **** LATER 41-54 Five-Year Mission
-SCHEDULED: <2022-08-01 Mon>
+***** DONE 41-42 Behemoth
+CLOSED: [2025-01-25 Sat 16:07] SCHEDULED: <2025-01-26 Sun>
 
-***** 41-42 Behemoth
-***** 43-45 Five-Year Mission: Eurydice
-***** OVERDUE 46-47 The Tholian Webs
-***** 48-49 Diety
+***** DONE 43-45 Five-Year Mission: Eurydice
+CLOSED: [2025-01-26 Sun 13:22] SCHEDULED: <2025-01-26 Sun>
+
+***** DONE 46-47 The Tholian Webs :tv_based:
+CLOSED: [2025-02-06 Thu 21:47] SCHEDULED: <2025-02-02 Sun>
+
+The story for this issue (and the next issue) is an adaptation of the /Star Trek: The Original Series/ episode /The Tholian Web/
+
+***** DONE 48-49 Diety :Prime_Directive:
+CLOSED: [2025-02-12 Wed 13:12] SCHEDULED: <2025-02-02 Sun>
+
 ***** DONE 50-52 Live evil :mirror_universe:Khan:
 CLOSED: <2022-07-15 Fri 19:16> SCHEDULED: <2022-07-14 Thu>
 
 ***** 53-54 Reunion
+SCHEDULED: <2025-02-06 Thu>
+
 **** 2DONE 55-58 Legacy of Spock :Spock:
 **** 59-60 final
 *** 2DONE Star Trek: Boldly Go
@@ -2605,7 +2630,9 @@ CLOSED: [2024-05-29 Wed 20:34]
 *** 2DONE Discovery: The Light of Kahless (卡勒斯之光) :hanzify:Kahless:Klingons:
 *** 2DONE Discovery: Succession (继位) :mirror_universe:hanzify:
 *** 2DONE Discovery: Aftermath (余波) :hanzify:
-*** Adventures in the 32nd Century :P2022:S2025_Q1:
+*** DONE Adventures in the 32nd Century :P2022:
+CLOSED: [2025-01-24 Fri 13:12] SCHEDULED: <2025-01-26 Sun>
+
 * PIC - Picard :PIC:
 ** tv :📺:
 *** DONE 📂Picard S1 :P2020:Y2399:
@@ -2729,8 +2756,8 @@ CLOSED: [2025-01-16 Thu 23:38]
 *** DONE 2x04 Mugato, Gumato
 CLOSED: [2025-01-22 Wed 14:00] SCHEDULED: <2025-01-25 Sat>
 
-*** 2x05 An Embarrassment Of Dooplers
-SCHEDULED: <2025-01-31 Fri>
+*** DONE 2x05 An Embarrassment Of Dooplers
+CLOSED: [2025-01-31 Fri 15:34] SCHEDULED: <2025-01-29 Wed>
 
 ** 📂Lower Decks S3 (2022)
 *** 3x01 :P2022_08:
@@ -2821,14 +2848,14 @@ CLOSED: [2025-01-20 Mon 07:38] SCHEDULED: <2025-01-18 Sat>
 :imdb:     8.3
 :END:
 
-**** NOW [#D] 2x04 Among the Lotus Eaters
-SCHEDULED: <2025-01-25 Sat>
+**** DONE [#D] 2x04 Among the Lotus Eaters
+CLOSED: [2025-01-25 Sat 11:14] SCHEDULED: <2025-01-25 Sat>
 :PROPERTIES:
 :imdb:     7.3
 :END:
 
-**** [#B] 2x05 Charades
-SCHEDULED: <2025-01-31 Fri>
+**** DONE [#B] 2x05 Charades
+CLOSED: [2025-02-02 Sun 13:24] SCHEDULED: <2025-02-02 Sun>
 :PROPERTIES:
 :and:      8.2
 :END:
@@ -2890,6 +2917,10 @@ CLOSED: [2024-05-18 Sat 20:40]
 
 **** LATER The Scorpius Run :P2023:S2025_Q4:
 * _others
+** movies :🎦:
+*** DONE Star Trek: Section 31 :P2025:
+CLOSED: [2025-02-04 Tue 12:25]
+
 ** tv :tv:📺:
 *** short treks :ST:
 **** 1x03 The Brightest Star :DSC:
@@ -3234,8 +3265,10 @@ CLOSED: [2021-02-16 Tue 13:32]
 **** DONE Hero 英雄 :P2020:
 CLOSED: [2021-03-26 Fri 23:49]
 
-**** NOW Degressions 偏航 :P2021:
-SCHEDULED: <2025-02-01 Sat>
+**** DONE Degressions 偏航 :P2021:
+CLOSED: [2025-02-03 Mon 22:17] SCHEDULED: <2025-02-04 Tue>
+
+发生在2x14 The Road Not Taken 之前。七年前的凯莉从2x13 返回自己的时间线，但保留记忆的她改变了未来走向
 
 **** DONE Artifact 人造品 :P2021:
 CLOSED: [2025-01-05 Sun 22:57]
@@ -3264,7 +3297,9 @@ CLOSED: [2023-08-31 Thu 08:16]
 *** DONE 1x10 :Y1974:
 CLOSED: <2023-09-02 Sat 21:48>
 
-** S2 :Y1983:P2021:
+** DONE S2 :Y1983:P2021:
+CLOSED: [2025-02-01 Sat 23:53]
+
 *** DONE 2x01
 CLOSED: [2025-01-04 Sat 22:24]
 
@@ -3280,15 +3315,21 @@ CLOSED: [2025-01-20 Mon 19:39]
 *** DONE 2x05
 CLOSED: [2025-01-21 Tue 20:12]
 
-*** NOW 2x06
-SCHEDULED: <2025-01-26 Sun>
+*** DONE 2x06
+CLOSED: <2025-01-25 Sat 17:59> SCHEDULED: <2025-01-26 Sun>
 
-*** NOW 2x07
-SCHEDULED: <2025-01-26 Sun>
+*** DONE 2x07
+CLOSED: [2025-01-26 Sun 10:40] SCHEDULED: <2025-01-26 Sun>
 
-*** 2x08
-*** 2x09
-*** 2x10
+*** DONE 2x08
+CLOSED: <2025-01-28 Tue 11:58> SCHEDULED: <2025-01-28 Tue>
+
+*** DONE 2x09
+CLOSED: <2025-01-30 Thu 10:43> SCHEDULED: <2025-01-31 Fri>
+
+*** DONE 2x10
+CLOSED: [2025-02-01 Sat 23:53] SCHEDULED: <2025-01-31 Fri>
+
 * footnotes
 
 #+TBLFM: $2='(cond ((> $4 8.5) "[#A]") ((>= $4 8.0) "[#B]") ((>= $4 7.5) "[#C]") ((>= $4 7.0) "[#D]") (t "[#E]"));N

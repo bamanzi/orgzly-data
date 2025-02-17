@@ -1789,39 +1789,45 @@ http://drwhoguide.com/who_bf33.htm
 *** HALF [#B] RBT3.2 - Circuit Breaker :Toos:Poul:
 *** [#C] CY2.4 - Churchill Victorious
 * DW 2025 :S2025:
-** DOING dw2025-q1a-doctor
+** dw2025-q1a-doctor
 *** HALF [#D] CC11.3 The Bonfires of the Vanties :Polly:Ben:scripted:
-*** HALF [#C] 2023B Intelligence for War (part4~7) :3rd_Dr:Liz:3CD:DW2025_Q1a_doctor:
-    SCHEDULED: <2025-01-11 Sat>
+*** 3QTR [#C] 2023B Intelligence for War (part4~5) :3rd_Dr:Liz:3CD:DW2025_Q1a_doctor:
+    CLOSED: [2025-02-08 Sat 09:02] SCHEDULED: <2025-01-11 Sat>
 
-*** [#B] MR104 The Bride of Peladon :5th_Dr:Peri:Erimem:
-*** UNIT: Dominion #4 :7th_Dr:Raine:Klein:Master_bald:
+*** HALF [#C] 2023B Intelligence for War (part6~7) :3rd_Dr:Liz:3CD:DW2025_Q1a_doctor:
+    SCHEDULED: <2025-02-01 Sat>
+
+*** 3QTR [#B] MR104 The Bride of Peladon :5th_Dr:Peri:Erimem:
+*** HALF [#B] UNIT: Dominion #4 :7th_Dr:Raine:Klein:Master_bald:
 *** 3QTR [#B] 9DA3.2.1 Below There :9th_Dr:bilibili:
-*** READY [#A] 11DC 4.4 Broken Hearts :11th_Dr:Valarie:
-** DOING dw2025-q1a-spinoffs
+*** 3QTR [#A] 11DC 4.4 Broken Hearts :11th_Dr:Valarie:
+** dw2025-q1a-spinoffs
 *** HALF [#C] TW7.4 Moderation :Tyler:
 *** HALF [#B] TW Soho #2: Ashenden (1~3) :Norton:Andy:Lizbeth:P2021:plot_yes:DW2025_Q1a_spinoffs:
     SCHEDULED: <2025-01-26 Sun>
 
 *** [#D] UNIT2.4 Ice Station Alpha
-*** [#D] PG4.3 - Rulers of Earth
-*** HALF [#B] DoRS4.3 - Whodunnit?
-*** READY [#A] Rose2.3 The Rogue Planet :Rose:
+*** HALF [#D] PG4.3 - Rulers of Earth
+*** 3QTR [#B] DoRS4.3 - Whodunnit?
+*** HALF [#A] Rose2.3 The Rogue Planet :Rose:
 ** TODO dw2025-q1b-doctor
 *** [#A] CC8.12 Second Chances :2nd_Dr:Zoe:
 *** FIXME [#A] DoRS4.4 - Someone I Once Knew :River:4th_Dr:
-*** [#C] MR194. The Rani Elite :6th_DR:Peri:
+*** [#C] MR116. The Raincloud Man :6th_Dr:Charley:
 *** [#C] 8DA2.3 - Brave New Town :8th_Dr:Lucie:
-*** READY [#C] DU3.2 - The Dalek Defense :10th_Dr:Anya:Mark_7:bilibili:
+*** FIXME [#C] ST8.6 The Siege of Big Ben :Jackie:plot_yes:
 *** [#B] WDB4.1 The Mission :War_Dr:
 ** TODO dw2025-q1b-spinoffs
 *** [#A] TW Soho #2: Ashenden (4~6) :Norton:Andy:Lizbeth:P2021:plot_yes:DW2025_Q1b_spinoffs:
+    SCHEDULED: <2025-03-16 Sun>
+
 *** FIXME [#B] 65X A Postcard from Mr Colchester :Colchester:plot_yes:
 *** HALF [#B] UNEM1.1 The Enemy Beyond :The_Eleven:
 *** [#C] CM3.2 - The Concrete Cage
 *** [#C] JL9.3 - Island of Death
-*** HALF [#B] Gallifrey 6.3 -Ascension
 *** [#A] WM8.3 The Adventure of the Deceased Doctor :Master_war:Holmes:bilibili:
+*** [#C] FP2.1 Coming to Dust :Sutekh:
+*** HALF [#B] Gallifrey 6.3 -Ascension
 * FIXME pending
 ** special
 *** READY 4DA1303 - Metamorphosis :4th_Dr:Harry:Naomi:Master_decayed:bilibili:

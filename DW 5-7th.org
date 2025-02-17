@@ -89,8 +89,8 @@ CLOSED: <2021-05-29 Sat 08:11>
 :END:
 
 **** [#E] 102a. The Mind's Eye :Erimem:Peri:D2021_04:
-**** [#C] 104. The Bride of Peladon :Peri:Erimem:DW2025_Q1a_doctor:
-SCHEDULED: <2025-02-01 Sat>
+**** 3QTR [#C] 104. The Bride of Peladon :Peri:Erimem:DW2025_Q1a_doctor:
+CLOSED: [2025-02-14 Fri 20:43] SCHEDULED: <2025-02-08 Sat>
 
 *** MR with Nyssa :Nyssa:scripted:2CD:
 **** CANCEL [#F] 4. The Land of the Dead
@@ -676,7 +676,7 @@ CLOSED: <2021-09-17 Fri 21:27> SCHEDULED: <2021-09-04 Sat>
 ***** 2DONE [#A] 193. Masters of Earth (8.6) :Peri:plot_no:Daleks:D2021_10_daleks:
 CLOSED: [2021-10-18 Mon 20:15]
 
-***** [#C] 194. The Rani Elite :DW2025_Q1b_doctor:
+***** [#C] 194. The Rani Elite
 :PROPERTIES:
 :rating:   7.8
 :END:
@@ -848,7 +848,7 @@ http://www.drwhoguide.com/who_bf111.htm
 :rating:   7.6
 :END:
 
-**** [#C] 116. The Raincloud Man
+**** [#C] 116. The Raincloud Man :DW2025_Q1b_doctor:
 **** CANCEL [#E] Bonus VII - Return of the Krotons :P2008:
 **** DONE [#B] 124. Patient Zero (8.3) :Charley:plot_no:Daleks:Viyrans:
 CLOSED: <2021-04-18 Sun 08:14>
