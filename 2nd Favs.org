@@ -20,26 +20,66 @@
 ** Sandman
 *** Sandman v2 (1989-1996) :📚:Neil_Gaiman:
 
+https://breezewiki.com/dc/wiki/Sandman_Vol_2
+
 先去看尼尔盖曼的《睡魔》，总共75期。然后去看《路西法》V1，也是75期。这两个算是必读的。
 
 睡魔还有庞杂的衍生短篇和图像小说，优先看尼尔盖曼亲自写的几部，其他人写的可以选着看。目录的话【http://t.cn/A6LsmKZl 】这里比较全
 
+download:
+- https://getcomics.org/dc/the-sandman-v01-v10-free-download/
+- https://getcomics.org/dc/the-sandman-book-1-4-tpb-2022/
+
 **** DONE 卷1：前奏与夜曲 (Preludes and Nocturnes)
 **** DONE 卷2：玩偶之家 (The Doll's House)
-**** DONE 卷3：梦境国度 (Dream Country, #17-20)
-**** DONE 卷4：迷雾季节 (Season of Mists, #21-#31)
+**** DONE 卷3：梦境国度 (Dream Country, #17-20) :short:
+
+- Sandman (Volume 2) #17 ("Calliope")
+- Sandman (Volume 2) #18 ("A Dream of A Thousand Cats")
+- Sandman (Volume 2) #19 ("A Midsummer Night's Dream")
+- Sandman (Volume 2) #20 ("Façade")
+
+**** DONE 卷4：迷雾季节 (Season of Mists, #21-#28)
 CLOSED: <2022-02-05 Sat 17:17>
 
 **** DONE 卷五：一场游戏一场梦 (A Game of You, #32-37)
 CLOSED: [2022-03-17 Thu 07:27]
 
-**** DONE TPB.6 Fables and Reflections (#29-31, #38-40, #50)
+**** DONE 卷6：神话和倒影 (Fables and Reflections, #29-31, #38-40, #50) :short:
 CLOSED: [2023-04-13 Thu 13:08]
 
+Vertigo Preview #1 ("Fear of Falling")
+
+- Sandman (Volume 2) #31 ("Three Septembers and a January")
+- Sandman (Volume 2) #29 ("Thermidor")
+- Sandman (Volume 2) #38 ("The Hunt")
+- Sandman (Volume 2) #30 ("August")
+- Sandman (Volume 2) #39 ("Soft Places")
+- Sandman Special #1 ("The Song of Orpheus")
+- Sandman (Volume 2) #40 ("The Parliament of Rooks")
+- Sandman (Volume 2) #50 ("Ramadan")
+
 **** DONE TPB.7 Brief Lives (#41-49) :S2024_04:
-**** TPB.8 Worlds' End (#51-56) :S2025_Q1:
+**** TPB.8 Worlds' End (#51-56) :short:S2025_Q1:
+
+- Sandman (Volume 2) #51: "A Tale of Two Cities"
+- Sandman (Volume 2) #52: "Cluracan's Tale"
+- Sandman (Volume 2) #53: "Hob's Leviathan"
+- Sandman (Volume 2) #54: "The Golden Boy"
+- Sandman (Volume 2) #55: "Cerements"
+- Sandman (Volume 2) #56: "World's End"
+
 **** TPB.9 The Kindly Ones (#57-69) :S2025_Q1:
-**** TPB.10 The Wake
+**** TPB.10 The Wake (#70-75)
+
+- Sandman (Volume 2) #70: "The Wake: Chapter 1"
+- Sandman (Volume 2) #71: "The Wake: Chapter 2"
+- Sandman (Volume 2) #72: "The Wake: Chapter 3"
+- Sandman (Volume 2) #73: "The Wake: An Epilogue"
+- Sandman (Volume 2) #74: "Exiles"
+- Sandman (Volume 2) #75: "The Tempest"
+
+
 *** Sandman Universe (2018- ) :📚:
 
 先看那本睡魔宇宙特刊，然后看《幻梦境》，算是主要故事。《路西法》刊稍微
@@ -86,6 +126,79 @@ CLOSED: <2024-03-22 Fri 23:02>
 CLOSED: [2024-03-24 Sun 15:10]
 
 **** [#A] 1x06 The Sound of Her Wings
+SCHEDULED: <2025-02-08 Sat>
+
+*** Sandman (audio)
+
+https://breezewiki.com/sandman/wiki/The_Sandman_(audio)
+
+**** Act I
+
+https://sandman.fandom.com/wiki/The_Sandman_(audio)#Act_I_2
+
+***** 1.01-1.07
+***** 1.08 The Sound of Her Wings
+
+https://dc.fandom.com/wiki/Sandman_Vol_2_8
+
+***** 1.09 Tales in the Sand
+
+https://dc.fandom.com/wiki/Sandman_Vol_2_9
+
+***** 1.10 Men of Good Fortune
+
+https://dc.fandom.com/wiki/Sandman_Vol_2_13
+
+***** 1.11-1.16 The Doll's House
+***** 1.17 Calliope   
+***** 1.18 A Dream of a Thousand Cats   
+***** 1.19 Façade   
+***** 1.20 A Midsummer Night's Dream   
+
+**** Act II
+
+https://sandman.fandom.com/wiki/The_Sandman_(audio)#Act_II_2
+
+***** 1-8 Season of Mist
+***** 9 Fables & Reflections, Distant Mirrors - Thermidor   
+***** 10 Fables & Reflections, Distant Mirrors - August   
+***** 11 Fables & Reflections, Distant Mirrors - Three Septembers and  a January
+***** 12-17 A Game of You
+***** 18 Convergence - The Hunt   
+***** 19 Convergence - Soft Places   
+***** 20 Convergence - The Parliament of Rooks   
+***** 21 Distant Mirrors - Ramadan
+
+**** Act III
+
+https://sandman.fandom.com/wiki/The_Sandman_(audio)#Act_III_2
+
+***** 3.01 The Song of Orpheus
+
+https://dc.fandom.com/wiki/Sandman_Special_Vol_1_1
+
+***** 3.02 Fear of Falling
+
+https://dc.fandom.com/wiki/Vertigo_Preview_Vol_1_1
+
+***** 3.03 Flowers of Romance
+
+https://dc.fandom.com/wiki/Vertigo:_Winter%27s_Edge_Vol_1_1
+
+***** 3.03-3.13 Brief Lives
+***** 3.13 How They Met Themselves
+
+https://dc.fandom.com/wiki/Vertigo:_Winter%27s_Edge_Vol_1_3
+
+***** 3.14 Worlds' End - A Tale of Two Cities
+
+https://dc.fandom.com/wiki/Sandman_Vol_2_51
+
+***** 3.15 Worlds' End - Cluracan's Tale
+***** 3.16 Worlds' End - Hob's Leviathan
+***** 3.17 Worlds' End - The Golden Boy
+***** 3.18 Worlds' End - Cerements
+***** 3.19 Worlds' End - Worlds' Ends
 ** Lucifer
 *** Lucifer v1 (2000-2006, 75 issues) :📚:😈:lucifer:
 **** LATER vol.1 Devil in the Gateway
