@@ -237,7 +237,7 @@ Suzie Costello works for Torchwood, but strictly to her own agenda. When a spac
 
 Bonded by an alien device, Margaret and Suzie find themselves on the run from Torchwood, the police, and six warp missiles that'll destroy them, Cardiff, and most of the Western Hemisphere.
 
-***** CANCEL [#E] +28. Sargasso+ :Rhys:
+***** CANCEL [#E] +28. Sargasso+ :Rhys:Autons:
       :PROPERTIES:
       :rating:   6.3
       :END:
@@ -495,29 +495,31 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
       :END:
 
 ***** [#D] 72. The Thirst Trap :Andy:Rhys:plot_yes:
-**** series 9 (73-84) :P2023:
+**** series 9 (73-84)
 ***** [#E] 73. Launch Date :Ianto:P2023_04:
 ***** [#C] 74. Sigil :Bilis_Manger:P2023_08:
-***** [#E] 75. Dog Hop :Andy:plot_yes:
-***** [#D] 76. Odyssey :plot_yes:Ood:P2024_10:
-***** [#E] 77. Oodunnit :Ood:Zack:P2024_11:
+***** [#E] 75. Dog Hop :Andy:plot_yes:P2024_09:
+***** [#C] 76. Odyssey :plot_yes:Ood:P2024_10:
+***** [#D] 77. Oodunnit :Ood:Zack:P2024_11:
 ***** [#D] 78. Oracle :Ood:P2023_12:
-***** 79. Poppet :Rhys:P2024_01:
-***** 80. Sabotage :Colchester:Ace:P2024_02:
-***** 80X. Torchwood: Another Postcard from Mr Colchester
+***** [#B] 79. Poppet :Rhys:P2024_01:
+***** [#B] 80. Sabotage :Colchester:Ace:P2024_02:
+***** [#C] 80X. Another Postcard from Mr Colchester
 ***** 81. Tube Strike :Ianto:P2024_03:
 ***** 82. Missing Molly :Ianto:P2024_04:
-***** 83. Disco :Ianto:
-***** 84. The Restoration of Catherine :Andy:Norton:
+***** 83. Disco :Ianto:P2024_05:
+***** 84. The Restoration of Catherine :Andy:Norton:P2024_06:
 **** series 10
 ***** 85. Art Decadence :The_Mara:P2024_07:
-***** 86. End Game :Tosh:
-***** 87. The Hollow Choir :Rhys:
+***** 86. End Game :Tosh:P2024_08:
+***** 87. The Hollow Choir :Rhys:P2024_09:
 ***** 88. Widdershins :P2024_10:
-***** 89. Bad Connection :Suzie:
-***** 90. Reflect :Colchester:Ace:
-***** 90X. A Christmas Card from Mr Colchester :Colchester:
-***** TBR 91. Ianto's Inferno :P2025_01:
+***** 89. Bad Connection :Suzie:P2024_11:
+***** 90. Reflect :Colchester:Ace:P2024_12:
+***** 90X. A Christmas Card from Mr Colchester :Colchester:P2024_12:
+***** 91. Ianto's Inferno :P2025_01:
+***** 92. Inseparable :Yvonne:
+***** 93. Rictus :Zygons:
 *** specials
 **** 2DONE [#B] special 1: The Torchwood Archive :P2016:The_Commitee:2CD:plot_yes:
      CLOSED: [2020-11-19 Thu 18:33]
@@ -1090,7 +1092,7 @@ Roberts Master
 **** 📂DoRS 10 - Two Rivers and a Firewall :P2022_08:
 ***** [#C] 10.1 The Two Rivers
 ***** [#F] 10.2 Beauty on the Inside
-***** [#E] 10.3 Black Friday
+***** [#E] 10.3 Black Friday :Autons:
 ***** [#E] 10.4 Firewall
 **** 📂DoRS 11 - Friend of the Family :P2023_01:
 ***** [#A] part1. The Rules of the House
@@ -1108,6 +1110,11 @@ Roberts Master
 ***** 1.2 Fate & Fatality
 ***** 1.3 The Black Hours
 ***** 1.4 Book of the Dead
+**** DLRS2: Ace and Tegan :Ace:Tegan:
+***** 2.1 Castaways
+***** 2.2 Driftwood
+***** 2.3 Dead Rising
+***** 2.4 The End is the Beginning is the End
 *** misc
 **** DONE R&J (The Lives of Captain Jack #3.3) :Jack:
      CLOSED: <2020-09-14 Mon 21:12>
@@ -1986,7 +1993,7 @@ https://tieba.baidu.com/p/5863165791
 
 ** The War Master  ↗
 ** Call Me Master :Master_spy:
-*** TBR vol.1 Inner Demons :P2025_02:
+*** vol.1 Inner Demons :P2025_02:
 **** 1.1 Self-Help
 **** 1.2 The Clockwork Swan
 **** 1.3 The Good Life
@@ -2396,21 +2403,30 @@ rating 8.7/8.3
 
 Brave New World was a subseries of the UNIT audio series produced by Big Finish Productions. Beginning in 2022, it focused on the exploits of UNIT under the command of /Winifred Bambera/ (TV: Battlefield) along with her new team: /Sergeant Jean-Paul Savarin/ and /Dr Louise Rix/.
 
-*** Seabird One :P2022_07:
-**** [#C] 1.1 Rogue State
+*** 📂Seabird One :P2022_07:
+**** [#D] 1.1 Rogue State
 **** [#D] 1.2 Time Flies
-**** [#B] 1.3 Dark Side of the Moon
-*** Visitants :P2022_12:
+**** [#C] 1.3 Dark Side of the Moon
+*** 📂Visitants :P2022_12:
 **** [#D] 2.1 The Frequency
 **** [#E] 2.2 Haunt
 **** [#E] 2.3 The Last Line of Defence
+*** TBR 📂Fractures :P2025_06:
 ** 3QTR [#C] CC6.1 Tales From the Vault :Ruth_Matheson:UNIT:Jo:Romana_1:Zoe:Steven:1st_Dr:2nd_Dr:3rd_Dr:4th_Dr:the_Vault:plot_yes:DW2023_04_spinoffs:
    CLOSED: <2023-04-18 Tue 08:56> SCHEDULED: <2023-04-09 Sun>
    :PROPERTIES:
    :rating:   7.5
    :END:
 
-** CC8.1 Mastermind ↗ :Master_decayed:UNIT:Vault:
+** #Ruth_Matheson
+*** CC6.1 Tales from the Vault
+*** CC8.1 Mastermind ↗ :Master_decayed:UNIT:Vault:
+*** [#B] CC12.4 - The Tactics of Defeat :Ruth_Matheson:Zoe:UNIT:
+    :PROPERTIES:
+    :rating:   8.1
+    :END:
+
+*** WoDW#3 The Screaming Skull
 * UNIT: The New Series :UNIT_new:🎧:
 ** UNIT 1: Extinction :Nestene:P2015:plot_yes:
 *** START [#C] 1.1 - Vanguard :DW2023_09_spinoffs:
@@ -2819,7 +2835,7 @@ http://www.drwhoguide.com/kaldor03.htm
 *** [#D] 3.3. The Dalek Gambit (7.3) :2020:
 * Faction Paradox
 ** audio
-*** The Faction Paradox Protocols (BBV 2001-2004)
+*** 📂The Faction Paradox Protocols (BBV 2001-2004)
 **** READY 1. The Eleven-Day Empire :P2001:bilibili:
 
 【【神秘博士广播剧熟肉】Faction Paradox 101 The Eleven Day Empire 十一日帝国-哔哩哔哩】 https://b23.tv/yggpd5J
@@ -2844,6 +2860,10 @@ https://doctorwho.guide/paradox_a01.htm
 **** 4. Words from Nine Divinities :P2008:
 **** 5. Ozymandias :P2009:
 **** 6. The Judgment of Sutekh :P2009:
+*** 📂Dionus's War (BBV) :P2021:
+*** 📂Rebirth (BBV) :P2021:
+*** 📂Hellscape Season 1 :P2022:
+*** 📂Hellscape Season 2 :P2023:
 * P.R.O.B.E
 ** video :📺:Liz:
 *** DONE The Zero Imperative 
@@ -3138,13 +3158,19 @@ From Donna's perspective, the anthology is set after /Forest of the Dead/.
 **** [#D] 05. Interrogation
 *** 📂Redacted S2 :P2023_09:
 ** The Fugitive Doctor
-*** TBR vol.1 Most Wanted :P2025_01:
+*** vol.1 Most Wanted :P2025_01:
 **** READY 1.1 Fast Times :bilibili:
 
 【【神秘博士广播剧熟肉】Most Wanted 101 Fast Times 疾速时刻-哔哩哔哩】 https://b23.tv/YrPIGZF
 
-**** 1.2 The Legend of Baba Yaga
-**** 1.3 The Dimension of Lost Things
+**** READY 1.2 The Legend of Baba Yaga :bilibili:
+
+【【神秘博士广播剧熟肉】Most Wanted 102 The Legend of Baba Yaga 芭芭·雅加的传说-哔哩哔哩】 https://b23.tv/F4pfJpk
+
+**** READY 1.3 The Dimension of Lost Things :bilibili:
+
+【【神秘博士广播剧熟肉】Most Wanted 103 The Dimension of Lost Things 失落之物的维度-哔哩哔哩】 https://b23.tv/Jqhq8ys
+
 * BF spin-offs
 ** Charlotte Pollard
 *** series 1 :P2014:

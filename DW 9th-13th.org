@@ -1502,7 +1502,7 @@ https://tieba.baidu.com/p/6592330173
 
 http://tieba.baidu.com/p/6610135518?share=9105&fr=share&see_lz=0&sfc=copy&client_type=2&client_version=11.1.8.2&st=1593736160&unique=58A318B2D019E66209DFAEB93AC228AE
 
-* 14th Doctor
+* 14th Doctor :14th_Dr:
 ** tv
 *** DONE Destination: Skaro (short) :P2023_11:
 CLOSED: [2023-11-26 Sun 08:15]
@@ -1523,8 +1523,8 @@ CLOSED: [2024-07-26 Fri 13:30]
 DWM 584-597
 
 *** Untitled (DWM 598) :Donna:hanzify:
-* 15th Doctor
-** tv :S2024_12:
+* 15th Doctor :15th_Dr:
+** tv :Ruby:
 *** DONE 304. The Church On Ruby Road :Christmas_special:P2023:
 CLOSED: [2024-06-08 Sat 15:34]
 
@@ -1545,7 +1545,7 @@ CLOSED: [2024-07-20 Sat 10:39]
 
 *** [#D] 1x06 Rogue
 *** [#B] 1x07 The Legend of Ruby Sunday
-*** [#E] 1x08 Empire of Death
+*** [#E] 1x08 Empire of Death :Sutekh:
 ** comics
 *** DWM
 **** Mancopolis (#599-603)

@@ -798,6 +798,8 @@ SCHEDULED: <2024-01-31 Wed>
 :goodreads: 4.2
 :END:
 
+https://isaakfvkampfer.lofter.com/post/1cd1fea1_c3fb6e6
+
 http://blog.sina.cn/dpool/blog/s/blog_6c777581010185u0.html?type=2
 
 ** comics
@@ -949,9 +951,10 @@ CLOSED: [2023-07-27 Thu 19:33] SCHEDULED: <2023-07-23 Sun>
 【【广播剧汉化】奥林匹斯超市开张啦 The War Master 战争法师 801 The Wrath of Medusa-哔哩哔哩】 https://b23.tv/nf4Yhuu
 
 **** [#D] 8.2 The Shadow Master
-**** READY [#A] 8.3 The Adventure of the Deceased Doctor :Holmes:bilibili:DW2025_Q1b_spinoffs:
+**** HALF [#A] 8.3 The Adventure of the Deceased Doctor :Holmes:plot_cast:bilibili:dw2025_q1b_spinoffs:
+SCHEDULED: <2025-03-02 Sun>
 
-【【广播剧汉化】福尔摩法历险记 The War Master 战争法师 803 The Adventure of the Deceased Doctor-哔哩哔哩】 https://b23.tv/MCzr4Ar
+【【广播剧汉化】福尔摩法历险记 The War Master 战争法师 803 The Adventure of the Deceased Doctor-哔哩哔哩】 https://b23.tv/p7QpEiz
 
 **** READY [#C] 8.4 The Master of Dorian Gray :bilibili:
 
@@ -1146,7 +1149,7 @@ CLOSED: [2020-09-23 Wed 12:53]
 
 【【翻译】Big Finish神秘博士八叔Time War短篇有声书 - 严阵以待 第一部分-哔哩哔哩】https://b23.tv/zhgkAz 
 
-*** 📂Susan's War :Susan:🎧:
+*** 📂Susan's War :Susan:🎧:Rasmus:
 **** Prequel
 **** HALF [#B] Susan1.1 Sphere of Influence :plot_yes:Ian:bilibili:P2020_04:DW2023_05_spinoffs:
 SCHEDULED: <2023-05-21 Sun>
@@ -1167,8 +1170,11 @@ CLOSED: [2023-11-19 Sun 19:32] SCHEDULED: <2023-11-26 Sun>
 SCHEDULED: <2024-05-31 Fri>
 
 *** 📂Susan's War vol.2 :Susan:War_Dr:P2024_08:
-**** 2.1 The Lost Son
+**** 2.1 The Lost Son :Rasmus:
 **** 2.2 The Golden Child
+*** TBR 📂Susan's War vol.3 Grandfather Time :P2025_03:War_Dr:Rasmus:
+**** 3.1 The Last of the Kaleds
+**** 3.2 The Voord Alliance
 ** 6. Derilobia Lost
 *** 📂8D Time War vol.2 :Bliss:P2018:scripted:🎧:
 **** 2DONE [#C] 2.1 The Lords of Terror

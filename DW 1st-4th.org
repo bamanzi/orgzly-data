@@ -633,7 +633,7 @@ SCHEDULED: <2022-06-05 Sun>
 :rating:   8.2
 :END:
 
-**** BLOCK LS8.1 Operation Werewolf :P2024_07:Jamie:Zoe:WW2:3CD:
+**** BLOCK [#D] LS8.1 Operation Werewolf :P2024_07:Jamie:Zoe:WW2:3CD:
 **** CC
 ***** HALF [#B] CC4.2 - The Glorious Revolution :Jamie:D2022_01_doctor:plot_no:
 :PROPERTIES:
@@ -674,10 +674,12 @@ SCHEDULED: <2022-06-05 Sun>
 :rating:   7.5
 :END:
 
-***** [#B] STS#3. Lepidoptery for Beginners :Jamie:Zoe:P2010:
+***** [#B] STS#3. Lepidoptery for Beginners :Jamie:Zoe:P2010:scripted:
 :PROPERTIES:
 :rating:   8.3
 :END:
+
+/Lepidoptery for Beginners/ was the twelfth short story in the Short Trips anthology /Short Trips: Defining Patterns/
 
 ***** [#D] STS? The Horror of Hy-Brasil
 :PROPERTIES:
@@ -1065,7 +1067,7 @@ As the decade in English history which attracts the greatest quantity of alien i
 :END:
 
 *** with Liz :Liz:
-**** 3DA :3DA:
+**** 3DA :3DA:Brigadier:
 ***** DONE [#A] 5.1. Primord :Liz:Jo:UNIT:P2019:plot_yes:
 CLOSED: [2020-07-15 Wed 19:13]
 :PROPERTIES:
@@ -1074,13 +1076,13 @@ CLOSED: [2020-07-15 Wed 19:13]
 
 Inferno
 
-***** HALF [#C] 7.1 The Unzal Incursion :P2021:Liz:Brigadier:DW2023_01_doctor:
+***** HALF [#C] 7.1 The Unzal Incursion :P2021:DW2023_01_doctor:
 SCHEDULED: <2023-01-17 Tue 08:51>
 :PROPERTIES:
 :rating:   7.9
 :END:
 
-***** HALF [#A] 2022A. The Annihilators :P2022_02:Liz:2nd_Dr:Jamie:Brigadier:UNIT:3CD:DW2024_01_doctor:
+***** HALF [#A] 2022A. The Annihilators :P2022_02:2nd_Dr:Jamie:3CD:DW2024_01_doctor:
 SCHEDULED: <2024-01-13 Sat>
 
 
@@ -1095,12 +1097,12 @@ CLOSED: [2024-01-21 Sun 19:53]
 ****** HALF [#A] part6-7 :DW2024_02_doctor:
 SCHEDULED: <2024-02-17 Sat>
 
-***** HALF [#C] 2023B. Intelligence for War :P2023_10:Liz:Brigadier:3CD:plot_yes:
+***** HALF [#C] 2023B. Intelligence for War :P2023_10:3CD:plot_yes:
 :PROPERTIES:
 :rating:   7.6
 :END:
 
-***** TBR 2025A. Doctor Who and the Brain Drain :P2025_03:3CD:
+***** 2025A. Doctor Who and the Brain Drain :P2025_02:3CD:plot_yes:
 **** CC (Liz)
 ***** DONE [#A] CC7.4 - The Last Post :P2012:no_doctor:
 CLOSED: [2020-08-07 Fri 18:25]
@@ -1164,7 +1166,7 @@ SCHEDULED: <2023-09-21 Thu>
 :END:
 
 ***** CANCEL [#E] 2022B. Kaleidoscope :Harry:Brigadier:P2022_10:3CD:
-***** BLOCK [#D] 2024A. Revolution in Space :P2024_02:3CD:plot_yes:
+***** [#D] 2024A. Revolution in Space :P2024_02:3CD:plot_yes:
 **** START [#D] CDNM3.1 The House that Hoxx Built :P2022:plot_yes:
 **** [#B] SvsR#2 The Children of the Future :P2024_02:
 **** CANCEL [#F] ST10.03 Decline of the Ancient Mariner
@@ -1201,7 +1203,7 @@ SCHEDULED: <2022-07-16 Sat>
 ***** 3QTR [#B] ST12.2 AWOL :Brigadier:DW2024_Q2a_doctor:
 CLOSED: <2024-03-15 Fri 08:16> SCHEDULED: <2024-03-09 Sat>
 
-*** BBC :BBC:📄:🎧:
+*** BBC :BBC:📄:
 **** [#C] Horrors of War :Jo:Annie:WW1:P2018:1CD:
 **** new short stories
 ***** DONE The Spear of Destiny (/12 Doctors, 12 Stories/ #3) :Master:Jo:🎧:
@@ -1470,7 +1472,7 @@ SCHEDULED: <2024-12-07 Sat>
 **** DONE [#A] 9SP1 Shadow of the Sun (8.6) :4DA:1CD:
 CLOSED: [2020-07-15 Wed 19:13]
 
-**** 4DA series 10 :4DA:P2021:2CD:
+**** 📂4DA series 10 :4DA:P2021:2CD:
 ***** [#C] 10.1 The World Traders
 ***** [#C] 10.2 The Day of the Comet
 ***** [#C] 10.3 The Tribulations of Tahdeus Nook
@@ -1487,7 +1489,10 @@ SCHEDULED: <2024-08-31 Sat>
 ***** [#D] 12.4 The Friendly Invasion :P2023_06:1CD:
 ***** [#D] 12.5 Stone Cold :Weeping_Angels:P2023_06:2CD:
 ***** [#B] 12.6 The Ghost of Margaret :P2023_06:1CD:
-**** BF PHP
+**** TBR 📂4DA series 14
+***** 14.1 The Hellwood Inheritance :P2025_03:
+***** 14.2 The Memory Thieves :P2025_03:
+**** 📂BF PHP
 
 Philip Hinchcliffe Presents
 
@@ -1582,7 +1587,7 @@ CLOSED: [2023-12-15 Fri 21:28] SCHEDULED: <2023-12-09 Sat>
 
 ***** [#D] 6.6 - Subterranea (7.1)
 ***** TODO [#D] 6.8 - The Skin of the Sleek / 6.9 - The Thief Who Stole Time
-**** 4DA series 9 :4DA:P2020:2CD:
+**** 📂4DA series 9 :4DA:P2020:2CD:
 
 Romana II
 
@@ -1605,10 +1610,12 @@ CLOSED: [2023-06-07 Wed 08:19] SCHEDULED: <2023-06-10 Sat>
 
 【【神秘博士广播剧熟肉】The Lost Stories 602 The Doomsday Contract (Part 3&4) 末日合同-哔哩哔哩】 https://b23.tv/yvSsm4b
 
-***** [#B] NA03 - The Romance of Crime :Romana_2:P2015:2CD:scripted:
+***** READY [#B] NA03 - The Romance of Crime :Romana_2:P2015:2CD:scripted:bilibili:
 :PROPERTIES:
 :rating:   8.0
 :END:
+
+【【神秘博士广播剧熟肉】Romance of Crime-犯罪的浪漫-哔哩哔哩】 https://b23.tv/N11f7Tx
 
 ***** READY [#B] NA04 The English Way of Death :Romana_2:P2015:2CD:scripted:bilibili:
 
@@ -1631,7 +1638,7 @@ CLOSED: [2023-06-07 Wed 08:19] SCHEDULED: <2023-06-10 Sat>
 :END:
 
 *** BF 4DA misc :4DA:BigFinish:
-**** 4DA series 8 :P2019:Ann:1CD:
+**** 📂4DA series 8 :P2019:Ann:1CD:
 ***** plot
 
 一只晗玥吹泡泡 20:36:05
@@ -1660,7 +1667,7 @@ SCHEDULED: <2022-04-23 Sat>
 :rating:   8.2
 :END:
 
-**** 4DA series 11 :P2022:2CD:
+**** 📂4DA series 11 :P2022:2CD:
 ***** 3QTR [#A] 11.1 Blood of the Time Lords :Master_early:plot_yes:DW2023_10_doctor:
 CLOSED: <2023-10-18 Wed 12:57> SCHEDULED: <2023-10-14 Sat>
 
@@ -1672,7 +1679,7 @@ CLOSED: <2023-02-10 Fri 14:02> SCHEDULED: <2023-02-06 Mon 08:42>
 ***** HALF [#D] 11.5 Peake Season :1CD:DW2024_Q2b_doctor:
 SCHEDULED: <2024-05-11 Sat>
 
-**** 4DA series 13 :Harry:Naomi:
+**** 📂4DA series 13 :Harry:Naomi:
 ***** [#D] 13.1 The Storm of the Sea Devils :P2024_03:
 ***** [#D] 13.2 Worlds Beyond :P2024_03:
 ***** 13.3 Matryoshka :ToyMaker:P2024_06:
@@ -1970,7 +1977,7 @@ Susan Foremen学生和他的爷爷，神秘的博士，只想要一个平静的�
 *** CDNM vol.5 Faithful Friends :P2025_01:
 **** 5.1 The Krillitane Feint :2nd_Dr:Jamie:Zoe:
 **** 5.2 The Dying Breed :4th_Dr:Leela:K9:
-**** 5.3 The Krillitane Relic :7th_Dr:Ray:
+**** 5.3 The Krillitane Relic :7th_Dr:Zoe:
 **** 5.4 Five Hundred Ways to Leave Your Lover :8th_Dr:bilibili:
 
 
@@ -2061,12 +2068,12 @@ https://www.bigfinish.com/releases/v/doctor-who-once-and-future-the-martian-inva
 
 【【神秘博士六十周年纪念特辑】Once and Future 08 The Final Act 终幕-哔哩哔哩】 https://b23.tv/CtuXuvx
 
-** BBC Audio Originals
+** BBC Audio Originals :BBC:
 *** TODO [#C] 01. The Thing from the Sea :4th_Dr:Wibbsey:P2018:
 *** [#E] 02. Men of War :1st_Dr:Steven:Sara_Kingdom:
 *** [#D] 03. Horrors of War :3rd_Dr:Jo:
-*** [#B] 04. Fortunes of War :6th_Dr:
-*** [#B] 05. The Elysian Blade :2nd_Dr:Jamie:Victoria:P2019:
+*** TODO [#B] 04. Fortunes of War :6th_Dr:
+*** TODO [#B] 05. The Elysian Blade :2nd_Dr:Jamie:Victoria:P2019:
 *** [#F] 06. The Winged Coven :4th_Dr:Wibbsey:Yates:
 *** TODO [#C] 07. The Scent of Blood :8th_Dr:
 *** TODO [#B] 08. The Flight of the Sun God :6th_Dr:Peri:
@@ -2079,7 +2086,7 @@ https://www.bigfinish.com/releases/v/doctor-who-once-and-future-the-martian-inva
 *** [#D] 15. The Ice King :12th_Dr:P2023_01:
 *** 16. The Teeth of Ice :8th_Dr:P2023_08:
 *** 17. Doom's Day: Four From Doom's Day :12th_Dr:Ian:Barbara:
-*** 18. The Beast of Scar Hill :9th_Dr:Rose:P2024_09:
+*** 18. The Beast of Scar Hill :9th_Dr:Rose:P2023_09:
 *** 19. The Lagoon Monsters :10th_Dr:Martha:P2023_10:
 *** 20. The Romanov Project :13th_Dr:Yaz:Ryan:P2023_12:
 *** 21. The Cuckoo :12th_Dr:P2023_12:
@@ -2088,14 +2095,18 @@ https://www.bigfinish.com/releases/v/doctor-who-once-and-future-the-martian-inva
 *** 24. The Demons Within :10th_Dr:Martha:P2024_05:
 *** 25. Dark Contract :5th_Dr:Tegan:Nyssa:Adric:P2024_08:
 *** 26. The Force of Death :8th_Dr:P2024_10:
+*** 27. On Ghost Beach :15th_Dr:Ruby:
+*** 28. Sting of the Sasquatch :15th_Dr:Ruby:
+*** 29. House of Plastic :7th_Dr:Ace:Autons:
 ** Sontarans vs Rutans
-*** 1. The Battle of Giant's Causeway :8th_Dr:Charley:Crizz:P2024_01:
-*** 2. The Children of the Future :3rd_Dr:Sarah:P2024_02:
-*** 3. Born to Die :6th_Dr:Charley:P2024_03:
-*** 4. In Name Only :War_Dr:P2024_04:
+*** [#C] 1. The Battle of Giant's Causeway :8th_Dr:Charley:Crizz:P2024_01:
+*** [#B] 2. The Children of the Future :3rd_Dr:Sarah:P2024_02:
+*** [#D] 3. Born to Die :6th_Dr:Charley:P2024_03:
+*** [#C] 4. In Name Only :War_Dr:P2024_04:
 ** Dark Gallifrey
 *** Morbius
 *** The War Master ↗ :Master_War:Unbound_Dr:War_Dr:Benny:Captain_John:P2024_08:
+*** Missy :P2025_05:7th_Dr:
 * multi-doctor story
 ** tv
 *** 10x01 The Three Doctors :P1973:

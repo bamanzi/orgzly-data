@@ -364,12 +364,12 @@
  - part2 (00:23:50)
  - <second to last play position> (01:02:50)
 
-**** DONE 8DA2.6 - The Zygon Who Fell to Earth :8th_Dr:Lucy:Zygon:
+**** DONE 8DA2.6 - The Zygon Who Fell to Earth :8th_Dr:Lucy:Zygons:
 
  - <second to last play position> (00:35:32)
  - <last play position> (00:36:29)
 
-**** DONE 8DA4.1 - Death in Blackpool :8th_Dr:Lucy:Zygon:
+**** DONE 8DA4.1 - Death in Blackpool :8th_Dr:Lucy:Zygons:
 
  - <second to last play position> (00:00:00)
  - <last play position> (00:01:30)
@@ -1774,7 +1774,7 @@ http://drwhoguide.com/who_bf33.htm
 ** dw2024-q4b-doctor
 *** 3QTR [#D] 2DA23.1 Jamie :2nd_Dr:Jamie:
 *** HALF [#A] 2DA23.2 The Green Man :2nd_Dr:Jamie:
-*** HALF [#C] 4DA7.7/7.8 - Kill the Doctor! / The Age of Sutekh :4th_Dr:Leela:Sutehk:
+*** HALF [#C] 4DA7.7/7.8 - Kill the Doctor! / The Age of Sutekh :4th_Dr:Leela:Sutekh:
 *** HALF [#B] 6DA2022A.2 The Tides of the Moon :6th_Dr:Mel:Hebe:
 *** DONE [#B] 8DDC4.3 - The Side of the Angels :8th_Dr:Liv:Helen:Monk:
 *** HALF [#B] 8DDC4.4 - Stop the Clock :8th_Dr:Liv:Helen:

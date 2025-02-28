@@ -402,7 +402,7 @@ CLOSED: [2021-02-27 Sat 18:02]
 CLOSED: [2022-11-27 Sun 23:36] SCHEDULED: <2022-11-16 Wed>
 
 ***** [#D] 1.2 God of War :Nyssa:Tegan:Adric:ice_warriors:1CD:P2022_01:
-***** BLOCK [#A] 2. The Auton Infinity :Tegan:Turlough:Brigadier:Master_tremas:3CD:P2022_09:plot_yes:
+***** BLOCK [#A] 2. The Auton Infinity :Tegan:Turlough:Brigadier:Master_tremas:Autons:3CD:P2022_09:plot_yes:
 **** 📂2023A. Conflicts of Interests :Nyssa:Tegan:P2023_04:
 ***** [#D] Friendly Fire :1CD:3parts:
 ***** [#E] The Edge of the War :1CD:3parts:
@@ -627,7 +627,7 @@ CLOSED: <2021-06-09 Wed 08:10>
 :rating:   7.6
 :END:
 
-**** [#E] 145. Industrial Evolution :Evelyn:
+**** CANCEL [#E] 145. Industrial Evolution :Evelyn:
 :PROPERTIES:
 :rating:   6.9
 :END:
@@ -662,12 +662,15 @@ SCHEDULED: <2022-01-14 Fri>
 ****** [#B] 150d. Question Marks (8.3) :plot_no:short:
 ***** 📂188. Breaking Bubbles and Other Stories :short:
 ****** [#D] 188a. Breaking Bubbles
-****** [#D] 188b. Of Chaos Time The :bilibili:
+****** READY [#D] 188b. Of Chaos Time The :bilibili:
 
 【【神秘博士广播剧熟肉】MR 188b Of Chaos Time The 之混乱时-哔哩哔哩】 https://b23.tv/41dD0SO
 
 ****** [#C] 188c. An Eye For Murder
-****** [#A] 188d. The Curious Incident of the Doctor in the Night-Time (8.7) :plot_no:
+****** READY [#A] 188d. The Curious Incident of the Doctor in the Night-Time (8.7) :plot_no:bilibili:
+
+【【神秘博士广播剧熟肉】MR 188d The Curious Incident of the Doctor in the Night-Time 深夜博士离奇事件-哔哩哔哩】 https://b23.tv/JrU0JQv
+
 ***** 3QTR [#A] 192. The Widow's Assassin (8.6) :Peri:plot_no:D2021_09_dr:已购:
 CLOSED: <2021-09-17 Fri 21:27> SCHEDULED: <2021-09-04 Sat>
 
@@ -1168,7 +1171,10 @@ CLOSED: <2022-05-17 Tue 21:11> SCHEDULED: <2022-05-07 Sat>
 :rating:   7.8
 :END:
 
-***** 📂115. Forty-Five :short:P2008:
+***** 📂115. Forty-Five :short:P2008:plot_yes_dwg:
+
+https://doctorwho.guide/who_bf115.htm
+
 ****** [#E] 115a. False Gods
 :PROPERTIES:
 :rating:   6.9
@@ -1184,7 +1190,10 @@ CLOSED: <2022-05-17 Tue 21:11> SCHEDULED: <2022-05-07 Sat>
 :rating:   7.4
 :END:
 
-****** HALF [#A] 115d. The Word Lord (8.6) :Ace:Hex:Nobody_No_One:plot_no:
+****** HALF [#A] 115d. The Word Lord (8.6) :Ace:Hex:Nobody_No_One:bilibili:
+
+【【神秘博士广播剧熟肉】MR 115d The Word Lord 词语领主-哔哩哔哩】 https://b23.tv/mZsVZy0
+
 ***** 3QTR [#A] 120. The Magic Mousetrap :P2009:Ace:Hex:Celestial_Toymaker:plot_yes_dwg:DW2024_01_doctor:
 CLOSED: [2024-02-13 Tue 15:21] SCHEDULED: <2024-01-06 Sat>
 :PROPERTIES:
