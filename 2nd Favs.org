@@ -17,6 +17,7 @@
 **** Rorschach :P2020:hanzify:
 *** tv
 **** LATER Watchmen S1 (2019, 9 eps) :P2019:S2025_Q4:
+* Vertigo
 ** Sandman
 *** Sandman v2 (1989-1996) :📚:Neil_Gaiman:
 
@@ -69,7 +70,9 @@ Vertigo Preview #1 ("Fear of Falling")
 - Sandman (Volume 2) #55: "Cerements"
 - Sandman (Volume 2) #56: "World's End"
 
-**** TPB.9 The Kindly Ones (#57-69) :S2025_Q1:
+**** DONE TPB.9 The Kindly Ones (#57-69) :S2025_Q1:
+CLOSED: [2025-03-11 Tue 13:59]
+
 **** TPB.10 The Wake (#70-75)
 
 - Sandman (Volume 2) #70: "The Wake: Chapter 1"
@@ -87,46 +90,106 @@ Vertigo Preview #1 ("Fear of Falling")
 年新开了地狱神探刊，那个还行吧，没有开头的惊艳感了。 马上幻梦境刊会完
 结重开，改名叫《dreaming：wake hour》
 
-**** DONE Sandman Universe
+**** DONE Sandman Universe :P2018:oneshot:
 CLOSED: [2022-02-03 Thu 11:32]
 
-**** TODO The Dreaming v2 (2018-2020, 20 issues) :hanzify:
+**** TODO The Dreaming v2 :hanzify:P2018:
 
-幻梦境 （前期期有东尔汉化）
+(2018-2020, 20 issues)
 
-***** DONE #1-6 :hanzify:
+幻梦境 
+
+***** DONE vol.1 Pathways and Emanations (#1-6) :hanzify:
 CLOSED: [2023-04-18 Tue 23:17]
 
-**** Lucifer v3 (2018-2020, 24 issues) :hanzify:
+#1-7 期由东尔汉化组汉化
+
+***** vol.2 Empty Shells (#7-12)
+
+梦境图书馆部门：Threshold汉化呈现
+《睡魔宇宙：幻梦境》#8-12：
+
+**** Lucifer v3 (2018-2020, 24 issues) :hanzify:P2018:
 
 水漫汉化联盟汉化了前21期
 
-**** READY The Dreaming: Waking Hour (2020-2021, 12 issues)
-
-幻梦境 - 梦醒时分 （UA汉化组）
-
-**** READY John Constantine: Hellblazer v1 (2020，12期全)
+**** Year Two :P2019:
+***** The Sandman Universe Presents: Hellblazer
+***** READY John Constantine: Hellblazer v1 (2020，12期全)
 
 水漫汉化联盟
 
-*** Sandman (tv)(2022- ) :📺:S2025_Q1:
-**** DONE [#B] 1x01 Sleep of the Just
+**** Year Three :P2020:
+***** READY The Dreaming: Waking Hour (2020-2021, 12 issues)
+
+幻梦境 - 梦醒时分 （UA汉化组）
+
+**** Year Four :P2021:
+***** Nightmare Country :hanzify:
+
+6 issues
+
+***** Dead Boy Detectives
+*** Sandman (tv)(2022- )
+
+https://breezewiki.com/sandman/wiki/The_Sandman_(TV_series)
+
+**** S1 :P2022:
+***** DONE [#B] 1x01 Sleep of the Just
 CLOSED: [2024-03-03 Sun 19:43]
 
-**** DONE [#C] 1x02 Imperfect Hosts
+***** DONE [#C] 1x02 Imperfect Hosts
 CLOSED: [2024-03-10 Sun 19:47]
 
-**** DONE [#C] 1x03 Dream a Little Dream of Me
+***** DONE [#C] 1x03 Dream a Little Dream of Me
 CLOSED: [2024-03-10 Sun 20:33]
 
-**** DONE [#A] 1x04 A Hope in Hell
+***** DONE [#A] 1x04 A Hope in Hell
 CLOSED: <2024-03-22 Fri 23:02>
 
-**** DONE [#B] 1x05 24/7
+- #4 "A Hope in Hell"
+- #5 "Passengers"
+
+***** DONE [#B] 1x05 24/7
 CLOSED: [2024-03-24 Sun 15:10]
 
-**** [#A] 1x06 The Sound of Her Wings
-SCHEDULED: <2025-02-08 Sat>
+- #4 "A Hope in Hell"
+- #5 "Passengers"
+
+***** DONE [#A] 1x06 The Sound of Her Wings
+CLOSED: [2025-03-01 Sat 14:59] SCHEDULED: <2025-02-08 Sat>
+
+- #8 "The Sound of Her Wings"
+- #13 "Men of Good Forture"
+
+***** DONE 1x07. The Doll's House
+CLOSED: [2025-03-05 Wed 23:33]
+
+- #10 "The Doll's House"
+- #11 "Moving In"
+
+***** DONE 1x08 Playing House
+CLOSED: [2025-03-07 Fri 00:04]
+
+- #12 "Playing House"
+- #15 "Into the Night"
+
+***** DONE 1x09 Collectors
+CLOSED: <2025-03-07 Fri 21:03>
+
+- #12 "Playing House" (in part)
+- #14 "Collectors"
+
+***** DONE 1x10 Lost Hearts
+CLOSED: [2025-03-07 Fri 21:58]
+
+- #14 "Collectors" (in part)
+- #16 "Lost Hearts"
+
+***** 1x11
+
+- #18 "A Dream of a Thousand Cats"
+- #17 "Calliope"
 
 *** Sandman (audio)
 

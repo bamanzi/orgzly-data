@@ -679,12 +679,14 @@ SCHEDULED: <2024-03-02 Sat>
 ***** [#F] 2.4 The Siege of Shackleton
 *** CC & ST :🗣:
 **** [#D] DotD #10 Death's Deal :Donna:
-**** [#C] ST8.6 The Siege of Big Ben :Jackie:plot_yes:DW2025_Q1b_doctor:
+**** DONE [#C] ST8.6 The Siege of Big Ben :Jackie:plot_yes:scripted:dw2025_q1b_doctor:
+CLOSED: [2025-02-19 Wed 20:30] SCHEDULED: <2025-02-22 Sat>
 :PROPERTIES:
 :rating:   7.9
 :END:
 
-**** [#B] ST8.8 - Flight into Hull! :Jackie:plot_no:
+**** [#B] ST8.8 - Flight into Hull! :Jackie:plot_no:dw2025_q1b_maybe:
+SCHEDULED: <2025-03-29 Sat>
 :PROPERTIES:
 :rating:   81
 :END:

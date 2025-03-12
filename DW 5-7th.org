@@ -851,7 +851,11 @@ http://www.drwhoguide.com/who_bf111.htm
 :rating:   7.6
 :END:
 
-**** [#C] 116. The Raincloud Man :DW2025_Q1b_doctor:
+**** HALF [#C] 116. The Raincloud Man :P2008:dw2025_q1b_doctor:
+SCHEDULED: <2025-03-15 Sat>
+
+https://doctorwho.guide/who_bf116.htm
+
 **** CANCEL [#E] Bonus VII - Return of the Krotons :P2008:
 **** DONE [#B] 124. Patient Zero (8.3) :Charley:plot_no:Daleks:Viyrans:
 CLOSED: <2021-04-18 Sun 08:14>

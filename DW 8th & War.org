@@ -333,10 +333,13 @@ It was set between series 1 and series 2 of the Eighth Doctor Adventures a
 :rating:   7.5
 :END:
 
-***** TODO [#C] 2.3 - Brave New Town :DW2025_Q1b_doctor:
+***** HALF [#C] 2.3 - Brave New Town :Nestene:Autons:dw2025_q1b_doctor:
+SCHEDULED: <2025-03-08 Sat>
 :PROPERTIES:
 :rating:   7.9
 :END:
+
+https://doctorwho.guide/bbc7_09.htm
 
 ***** CANCEL [#E] +2.4 - The Skull of Sobek+
 :PROPERTIES:
@@ -951,8 +954,8 @@ CLOSED: [2023-07-27 Thu 19:33] SCHEDULED: <2023-07-23 Sun>
 【【广播剧汉化】奥林匹斯超市开张啦 The War Master 战争法师 801 The Wrath of Medusa-哔哩哔哩】 https://b23.tv/nf4Yhuu
 
 **** [#D] 8.2 The Shadow Master
-**** HALF [#A] 8.3 The Adventure of the Deceased Doctor :Holmes:plot_cast:bilibili:dw2025_q1b_spinoffs:
-SCHEDULED: <2025-03-02 Sun>
+**** 3QTR [#A] 8.3 The Adventure of the Deceased Doctor :Holmes:plot_cast:scripted:bilibili:dw2025_q1b_spinoffs:
+CLOSED: <2025-02-26 Wed 09:55> SCHEDULED: <2025-03-02 Sun>
 
 【【广播剧汉化】福尔摩法历险记 The War Master 战争法师 803 The Adventure of the Deceased Doctor-哔哩哔哩】 https://b23.tv/p7QpEiz
 

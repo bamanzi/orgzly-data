@@ -731,12 +731,13 @@ SCHEDULED: <2023-06-24 Sat>
 :rating:   7.0
 :END:
 
-***** [#B] CC8.12 - Second Chances :The_Company:plot_cast:DW2025_Q1b_doctor:
+***** 3QTR [#B] CC8.12 - Second Chances :The_Company:plot_cast:scripted:dw2025_q1b_doctor:
+CLOSED: [2025-02-22 Sat 08:31] SCHEDULED: <2025-03-01 Sat>
 :PROPERTIES:
 :rating:   8.4
 :END:
 
-https://tardis.fandom.com/wiki/Zoe_Heriot#Life_after_the_Doctor
+https://tardis.breezewiki.com/wiki/Zoe_Heriot#Life_after_the_Doctor
 
 **** CC10 - The Second Doctor: Volume One :scripted:
 
