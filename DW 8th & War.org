@@ -249,6 +249,7 @@ SCHEDULED: <2022-08-31 Wed>
 
 ***** READY [#B] CDNM3.4 If I Should Die Before I Wake ↗ :plot_yes:bilibili:
 ***** [#C] SvsR #1. The Battle of Giant's Causeway :P2024_01:Crizz:
+***** TBR ST13.4 Ahead of Time :P2025_04:
 *** with Mary
 **** 123. The Company of Friends :short:
 ***** 2DONE [#B] 4. Mary's Story :plot_yes:Mary:½CD:
@@ -1154,28 +1155,28 @@ CLOSED: [2020-09-23 Wed 12:53]
 
 *** 📂Susan's War :Susan:🎧:Rasmus:
 **** Prequel
-**** HALF [#B] Susan1.1 Sphere of Influence :plot_yes:Ian:bilibili:P2020_04:DW2023_05_spinoffs:
+**** HALF [#C] Susan1.1 Sphere of Influence :plot_yes:Ian:bilibili:P2020_04:DW2023_05_spinoffs:
 SCHEDULED: <2023-05-21 Sun>
 
 【【神秘博士广播剧汉化】Susan's War 苏珊的战争 101 Sphere of Influence-哔哩哔哩】 https://b23.tv/qIYe1v0
 
-**** DONE [#C] _Susan1.2 - The Uncertain Shore_ :plot_yes:bilibili:P2020_04:DW2023_08_spinoffs:
+**** DONE [#D] Susan1.2 - The Uncertain Shore :plot_yes:bilibili:P2020_04:DW2023_08_spinoffs:
 CLOSED: [2023-09-28 Thu 18:43] SCHEDULED: <2023-09-03 Sun>
 
 【【神秘博士广播剧汉化】Susan's War 苏珊的战争 102 The Uncertain Shore-哔哩哔哩】https://b23.tv/WenJUb
 
-**** 3QTR [#C] 3. Assets of War :plot_yes:bilibili:P2020_04:DW2023_11_spinoffs:
+**** 3QTR [#D] 3. Assets of War :plot_yes:bilibili:P2020_04:DW2023_11_spinoffs:
 CLOSED: [2023-11-19 Sun 19:32] SCHEDULED: <2023-11-26 Sun>
 
 【【神秘博士广播剧汉化】Susan's War 苏珊的战争 103 Assets of War-哔哩哔哩】https://b23.tv/rjUz2u
 
-**** HALF [#A] 4. The Shoreditch Intervention :P2020_04:8th_Dr:plot_yes:
+**** HALF [#B] 4. The Shoreditch Intervention :P2020_04:8th_Dr:plot_yes:
 SCHEDULED: <2024-05-31 Fri>
 
 *** 📂Susan's War vol.2 :Susan:War_Dr:P2024_08:
 **** 2.1 The Lost Son :Rasmus:
 **** 2.2 The Golden Child
-*** TBR 📂Susan's War vol.3 Grandfather Time :P2025_03:War_Dr:Rasmus:
+*** 📂Susan's War vol.3 Grandfather Time :P2025_03:War_Dr:Rasmus:
 **** 3.1 The Last of the Kaleds
 **** 3.2 The Voord Alliance
 ** 6. Derilobia Lost

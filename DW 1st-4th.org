@@ -171,6 +171,7 @@ CLOSED: [2021-06-26 Sat 09:13]
 :END:
 
 ***** [#E] CC13.2 - Daybreak
+***** TBR CC15.1 The Temple of Light :P2025_04:
 **** [#C] ST2.1 - 1963 :Ian:Barbara:Vicki:
 *** with Vicki & Steven
 **** EA
@@ -292,6 +293,7 @@ Old Steven 2/3
 Old Steven 3/3
 
 **** [#C] CC13.3 - The Vardan Invasion of Mirth :Steven:Vardans:
+**** TBR CC15.3 The White Ship :P2025_04:
 **** [#B] ST7.12 - O Tannenbaum :Steven:
 *** with Steven & Dodo
 **** [#C] EA7.2 The Secrets of Det-Sen :Steven:Dodo:plot_yes:P2021_08:
@@ -321,8 +323,9 @@ CLOSED: [2024-06-05 Wed 08:25] SCHEDULED: <2024-06-15 Sat>
 
 这里的 Vicki 是老年 Vicki
 
+**** TBR CC15.4 The Y Factor :P2025_05:
 *** with Polly & Ben
-**** HALF [#D] CC11.3 The Bonfires of the Vanties :Polly:Ben:scripted:DW2025_Q1a_doctor:
+**** HALF [#D] CC11.3 The Bonfires of the Vanties :Polly:Ben:scripted:dw2025_q1a_doctor:
 SCHEDULED: <2025-01-18 Sat>
 :PROPERTIES:
 :rating:   7.1
@@ -340,20 +343,21 @@ CLOSED: <2023-05-30 Tue 21:34> SCHEDULED: <2023-05-27 Sat>
 :rating:   7.7
 :END:
 
-**** CC9. First Doctor - Volume One :P2015:
+**** 📂CC9. First Doctor - Volume One :P2015:
 
 https://tardis.wiki/wiki/The_First_Doctor:_Volume_One
 
 ***** [#D] CC9.1 - The Sleeping Blood :Susan:
-**** CC11. First Doctor - Volume Two :P2017:scripted:
+**** 📂CC11. First Doctor - Volume Two :P2017:scripted:
 
 https://tardis.wiki/wiki/The_First_Doctor:_Volume_Two
 
-**** CC13. First Doctor - Volume Three :P2019:
+**** 📂CC13. First Doctor - Volume Three :P2019:
 
 https://tardis.wiki/wiki/The_First_Doctor:_Volume_Three
 
-**** TBR CC15. First Doctor - Volume Four :P2025_05:
+**** TBR 📂CC15. First Doctor - Volume Four :P2025_04:
+***** 15.2 Stardust and Ashes :Susan:
 *** short trips
 
 /Short Trips: Companions/ #13
@@ -1490,8 +1494,8 @@ SCHEDULED: <2024-08-31 Sat>
 ***** [#D] 12.4 The Friendly Invasion :P2023_06:1CD:
 ***** [#D] 12.5 Stone Cold :Weeping_Angels:P2023_06:2CD:
 ***** [#B] 12.6 The Ghost of Margaret :P2023_06:1CD:
-**** TBR 📂4DA series 14
-***** 14.1 The Hellwood Inheritance :P2025_03:
+**** 📂4DA series 14
+***** 14.1 The Hellwood Inheritance :P2025_03:2CD:
 ***** 14.2 The Memory Thieves :P2025_03:
 **** 📂BF PHP
 
@@ -1568,7 +1572,10 @@ CLOSED: <2023-04-22 Sat 21:12> SCHEDULED: <2023-04-12 Wed 08:15>
 *** with Romana II :Romana_2:
 **** 4DA series 5 :4DA:P2016:1CD:
 ***** [#D] 5.1 - Wave of Destruction (7.1)
-***** [#D] 5.2 - The Labyrinth of Buda Castle (7.1)
+***** READY [#D] 5.2 - The Labyrinth of Buda Castle (7.1) :bilibili:
+
+【【神秘博士广播剧熟肉】The Fourth Doctor's Adventure 502-The Labyrinth of Buda Castle 布达迷宫城堡-哔哩哔哩】 https://b23.tv/Pz0qlap
+
 ***** [#C] 5.3 - The Paradox Planet (7.6) / 5.4 - Legacy of Death (7.6)
 ***** 2DONE [#A] 5.6 The Trouble with Drax (8.7) :D2021_06:
 CLOSED: <2021-07-01 Thu 16:39>
@@ -1587,6 +1594,10 @@ CLOSED: [2023-12-15 Fri 21:28] SCHEDULED: <2023-12-09 Sat>
 :END:
 
 ***** [#D] 6.6 - Subterranea (7.1)
+***** READY [#E] 6.7 The Movellan Grave :bilibili:
+
+【【神秘博士广播剧熟肉】The Fourth Doctor Adventure 607 The Movellan Grave-Movellan之墓-哔哩哔哩】 https://b23.tv/ODiP9FU
+
 ***** TODO [#D] 6.8 - The Skin of the Sleek / 6.9 - The Thief Who Stole Time
 **** 📂4DA series 9 :4DA:P2020:2CD:
 
@@ -1812,7 +1823,11 @@ CLOSED: [2020-07-19 Sun 23:00]
 取消原因：Iris
 
 ** novels :📔:novel:
-*** TODO [#A] Festival of Death (PDA35) 4.11 :Romana_2:已购:
+*** TODO [#A] Festival of Death (PDA35) :Romana_2:已购:
+:PROPERTIES:
+:goodreads: 4.11
+:END:
+
 *** [#A] Scratchman (4.06) :Sarah:
 **** Scratchman (audiobook) 网易云音乐 :audiobook:
 
@@ -1820,7 +1835,11 @@ CLOSED: [2020-07-19 Sun 23:00]
 
 *** [#C] The Romance of Crime (MA06) 3.88 :Romana_2:
 *** TODO [#C] The English Way Of Death (MA20) 3.87 :Romana_2:
-*** TODO [#A] The Well Mannered War (MA33) 4.00 :Romana_2:
+*** TODO [#A] The Well Mannered War (MA33) :Romana_2:
+:PROPERTIES:
+:goodreads: 4.0
+:END:
+
 **** novel adaptation 04 - The English Way of Death †7.9) :🎧:
 * special
 ** Doctor Who Unbound :P2003:
@@ -1970,7 +1989,7 @@ Susan Foremen学生和他的爷爷，神秘的博士，只想要一个平静的�
 
 【【神秘博士广播剧熟肉】The Stuff of Nightmares 304 If I Should Die Before I Wake 若我在沉睡中死去-哔哩哔哩】 https://b23.tv/TJmTSCZ
 
-*** CDNM vol.4 Broken Memories :P2024_03:
+*** 📂CDNM vol.4 Broken Memories :P2024_03:
 **** [#C] 4.1 Invasion of the Body Stealers :4th_Dr:Sarah:
 **** [#A] 4.2 The Queen of Clocks :6th_Dr:Clockwork_Droids:Mel:
 **** [#B] 4.3 The Silent City :Silents:8th_Dr:
@@ -2096,9 +2115,10 @@ https://www.bigfinish.com/releases/v/doctor-who-once-and-future-the-martian-inva
 *** 24. The Demons Within :10th_Dr:Martha:P2024_05:
 *** 25. Dark Contract :5th_Dr:Tegan:Nyssa:Adric:P2024_08:
 *** 26. The Force of Death :8th_Dr:P2024_10:
-*** 27. On Ghost Beach :15th_Dr:Ruby:
-*** 28. Sting of the Sasquatch :15th_Dr:Ruby:
-*** 29. House of Plastic :7th_Dr:Ace:Autons:
+*** 27. On Ghost Beach :15th_Dr:Ruby:P2024_11:
+*** 28. Sting of the Sasquatch :15th_Dr:Ruby:P2024_11:
+*** 29. House of Plastic :7th_Dr:Ace:Autons:P2025_01:
+*** 30. Agent of the Daleks :1st_Dr:Steven:Vicki:P2025_03:
 ** Sontarans vs Rutans
 *** [#C] 1. The Battle of Giant's Causeway :8th_Dr:Charley:Crizz:P2024_01:
 *** [#B] 2. The Children of the Future :3rd_Dr:Sarah:P2024_02:

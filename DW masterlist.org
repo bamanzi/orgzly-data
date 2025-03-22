@@ -1,4 +1,5 @@
 #+TITLE: Doctor Who - Masterlist
+#+TODO: TODO NEXT READY BLOCK TBR START DOING HALF 3QTR FIXME LATER 2DONE | 2DONE DONE CANCEL
 
 * TV / videos :📺:
 ** Classic TV Stories (Including Extras):
@@ -258,7 +259,7 @@ BTM 720p
 
 - Big Finish Listening Guide: https://pastebin.com/KUvM0Wqb
 
-*** download
+*** _download
 **** +Mediafire Mirror+
 
 https://www.mediafire.com/folder/73n63846vhew5/Audios#myfiles
@@ -353,9 +354,9 @@ since May 27, 2023
 
 **** 1DA
 
-The Firstst Doctor Adventures: https://mega.nz/#F!BuZjxSjA!YePujjODEMc0_kzATIBi0w
-
-S1-5: https://disk.yandex.ru/d/dtANLQVnlzDb1g
+- S1-5: https://disk.yandex.ru/d/dtANLQVnlzDb1g (FIXME: splitted)
+    - baidunetdisk
+- new 1DA (2022-)
 
 **** The Early Adventures (1D & 2D)
 
@@ -373,7 +374,7 @@ S1-5: https://disk.yandex.ru/d/dtANLQVnlzDb1g
 
 **** 2DA
 
-- S1 https://disk.yandex.ru/d/tpRB28rq2ml2Mw
+- S1 (2022) https://disk.yandex.ru/d/tpRB28rq2ml2Mw
 - S2 https://disk.yandex.ru/d/9r_kinmNCPN05g
 
 **** 3DA
@@ -396,6 +397,7 @@ S1-5: https://disk.yandex.ru/d/dtANLQVnlzDb1g
 - S8 https://disk.yandex.ru/d/3TYS1gt5W9dTXQ
 - Annihilators https://disk.yandex.ru/d/91AndeiqfR32Eg
 - Kaleidoscope https://disk.yandex.ru/d/NQvph2SBSQCPnw
+- 2023-
 
 **** 4DA + PHP
 
@@ -419,9 +421,9 @@ The 4th Doctor Adventures/Phillip Hinchcliffe Presents: https://mega.nz/#F!1iZmW
 - S9 https://disk.yandex.ru/d/FZFs08RHQosHZw + https://disk.yandex.ru/d/xQOhc5Hspu5K6g + https://disk.yandex.ru/d/eEUIZ7PHK1OtEA
 - S9 https://disk.yandex.ru/d/djitqgk-tJ9Zpg
 - S10 https://disk.yandex.ru/d/OhdtUjpJIxw7Xw +  https://disk.yandex.ru/d/X07n5lzTKsku5A
-- S11 https://disk.yandex.ru/d/b00a4nZxmbsq4g 
-- S12
-- S13 https://disk.yandex.ru/d/2wmXSs5DgAxZ-g
+- S11 (2022) https://disk.yandex.ru/d/b00a4nZxmbsq4g 
+- S12 (2023)
+- S13 (2024) https://disk.yandex.ru/d/2wmXSs5DgAxZ-g
 
 misc
 
@@ -432,12 +434,12 @@ misc
 
 **** 5DA
 
-- 2021. The Lost Resort and Other Stories 
-- 2022. Forty https://disk.yandex.ru/d/LOGDNBAC-hYm6Q
-- 2023A. Conflicts of Interest  https://disk.yandex.ru/d/ctiBFBoIIheG9w
-- 2023B. In The Night https://disk.yandex.ru/d/xygirjTWdvP_SA
-- 2024A. The Dream Team https://disk.yandex.ru/d/p0-q6e72jlfPEw
-- 2024B. The Great Beyond https://disk.yandex.ru/d/XOz7E5cHbB_MeA/
+- 2021. The Lost Resort and Other Stories
+- 2022. Forty :: https://disk.yandex.ru/d/LOGDNBAC-hYm6Q
+- 2023A. Conflicts of Interest ::  https://disk.yandex.ru/d/ctiBFBoIIheG9w
+- 2023B. In The Night :: https://disk.yandex.ru/d/xygirjTWdvP_SA
+- 2024A. The Dream Team :: https://disk.yandex.ru/d/p0-q6e72jlfPEw
+- 2024B. The Great Beyond :: https://disk.yandex.ru/d/XOz7E5cHbB_MeA/
 
 **** 6DA
 
@@ -446,16 +448,12 @@ misc
 - 6DLA 
 - The Sixth Doctor and Peri (2020) 
 - The Eleven (2021)
-- Water Worlds (2022) :: 
-- Purity Undreamed (2022) 
+- Water Worlds (2022) :: BT
+- Purity Undreamed (2022) :: BT
 - Purity Unleashed (2023) :: https://disk.yandex.ru/d/ZX4qnBZG8VwCcg
 - Purity Unbound (2023) :: https://disk.yandex.ru/d/zPOI6m6bLYroRA
 - The Quin Dilemma (2024) :: https://disk.yandex.ru/d/Xvh0ffygRx0h2Q
 - The Trials of a Time Lord (2024) :: https://disk.yandex.ru/d/SuNCETOd-xLsvw
-
-
-
-
 
 **** 7DA
 
@@ -527,13 +525,15 @@ https://disk.yandex.ru/d/wvIFTkwIBUEYcw
 - The Stuff of Legend (2024.09) :: https://disk.yandex.ru/d/IGm1LXUS5HQdVQ
 - Deadly Strangers (2024.12) :: https://disk.yandex.ru/d/WwWgQRpvAt7p_g
 
-
-**** The Companion Chronicles (1-4th Doctor)
+**** FIXME The Companion Chronicles (1-4th Doctor)
 
 : https://mega.nz/#F!g3hGjTLC!B3hvl82hWl2UKbrVcZwwYw
 
 Хроники спутников
 
+- S1-S9 ::
+    - [ ] (dwc_eu)
+    -  https://m.vk.com/page-105622878_55124167 (doctorwhoexterminate)
 - 5.1-5.6 :: https://disk.yandex.ru/d/ZZF9CjeaZalzoQ
 - 5.7-5.12 :: https://disk.yandex.ru/d/aYTykW9o6aBQQw
 - 6.1-6.6 https://disk.yandex.ru/d/np7ZgNXSTfPDjA
@@ -542,8 +542,6 @@ https://disk.yandex.ru/d/wvIFTkwIBUEYcw
 - 7.7-7.12 https://disk.yandex.ru/d/zX11WeIRbUe6Pg
 - 8.1-8.6 https://disk.yandex.ru/d/tDpmc9J9k3uLBA
 - 8.7-8.12 https://disk.yandex.ru/d/DZKItwwPxF3cVw
-
-
 
 ***** CC s9- (1st/2nd Doctor)
 
@@ -576,7 +574,8 @@ https://disk.yandex.ru/d/wvIFTkwIBUEYcw
 - S3 :: https://disk.yandex.ru/d/QGUkF9Zx2HWyBw
 - S4 :: https://disk.yandex.ru/d/zYbjVzeP9wd-wQ
 - S5 :: https://disk.yandex.ru/d/qIzsKhBdVwuUiA
-- 
+- 6.1 (2021)
+- 6.2 
 - 7.1 https://disk.yandex.ru/d/V3MGF6NY_zNznw
 - 7.2 https://disk.yandex.ru/d/gNTSMHA8AgpuNw
 - 8.1 https://disk.yandex.ru/d/cuUvozLTBOjzIg
@@ -645,7 +644,7 @@ vol.1-8: https://mega.nz/#F!oQQUzJCS!-N4H89xMqCaZfysjNzX5Dg
 
 - 9DC :: https://disk.yandex.ru/d/Ul-GFjAtXiVwmQ
 - 9DA S1 :: https://disk.yandex.ru/d/Q7CtiWjbR2Gkxw
-- 
+- 9DA 2.1-2.6 (2022) :: BT/baidunetdisk
 - 9DA 2.7-2.9 :: https://disk.yandex.ru/d/mJLOgBqTFLokXA
 - 9DA 2.10-2.12 :: https://disk.yandex.ru/d/9wXddoTN5j_ctQ
 - 9DA 3.1-3.3 :: https://disk.yandex.ru/d/8HHgZ6mEV6W8oQ
@@ -669,6 +668,7 @@ vol.1-8: https://mega.nz/#F!oQQUzJCS!-N4H89xMqCaZfysjNzX5Dg
 
 https://disk.yandex.ru/d/aw2B5eHBldsSFQ
 
+***** [ ] Out Of Time
 **** 11th Doctor
 ***** 11DC
 
@@ -741,7 +741,7 @@ https://mega.nz/#F!VKZQCDBK!HVF3dZfQp9G2rwFlRKHGbw
 - Treasury :: https://disk.yandex.ru/d/NfcMeB8HQJRkew
 - The Story So Far (vol.1 & vol.2) :: https://disk.yandex.ru/d/7LaXOrxU86Wilw
 
-**** Gallifrey
+**** FIXME Gallifrey
 
 Галлифрей
 
@@ -749,32 +749,38 @@ https://mega.nz/#F!VKZQCDBK!HVF3dZfQp9G2rwFlRKHGbw
 - S5 :: https://disk.yandex.ru/d/CBZ-V0teV4y4Mw
 - S6 :: https://disk.yandex.ru/d/5FxjWuYKe_S9Aw
 - S7-8 :: https://disk.yandex.ru/d/yfwsHFZTKATGRQ
+- [ ] special 2024
 
-**** Jago & Litefoot
+**** TODO Jago & Litefoot
 
 Джейго и Лайтфут
 
+- [ ] S1-S2
 - S3-S4 :: https://disk.yandex.ru/d/yNZ2_0_tZv6N6A
 - S6 :: https://disk.yandex.ru/d/DHV5ZujRNe1_XQ
 - S7 :: https://disk.yandex.ru/d/Rlz5IsFxqbrFgA
+- S8 :: https://m.vk.com/pages?oid=-105622878&p=JandL8&hash=5a3bc95c03e48f05ea
 
-**** The Robots
-***** Vol.1
+**** TODO The Robots
 
-https://disk.yandex.ru/d/922b6OgK6bUyig
+- vol.1 :: https://disk.yandex.ru/d/922b6OgK6bUyig
+- vol.2 :: https://disk.yandex.ru/d/lxXQRuTQwUOJRg
+- [ ] vol.3-4 (2020-2021)
+- [ ] vol.5-6 (2022-2023) : BT
 
-***** vol.2
+**** FIXME UNIT (classic)
 
-https://disk.yandex.ru/d/lxXQRuTQwUOJRg
+- UNIT https://disk.yandex.ru/d/nxdotaLJxYOWQQ
 
-**** UNIT Brave New World
+- Brave New World
+  - vol.1 (2022) :: https://disk.yandex.ru/d/HQAWmmw6WMy-zw
+  - [ ] vol.2 (2022)
+  - [ ] vol.3 (2025)
 
-https://disk.yandex.ru/d/HQAWmmw6WMy-zw
-
-**** Counter Measures
+**** TODO Counter Measures
 
 - CM 1-4: https://m.vk.com/page-105622878_54936850
-- TNCM: 
+- [ ] TNCM (2016-2020) : 
 
 **** Dalek Empire
 
@@ -790,10 +796,6 @@ https://disk.yandex.ru/d/HQAWmmw6WMy-zw
 https://disk.yandex.ru/d/fSvC128w35mULw
 
 **** misc
-
-- UNIT https://disk.yandex.ru/d/nxdotaLJxYOWQQ
-- I, Davros https://disk.yandex.ru/d/TM9Mxrqcy06RZQ
-
 *** spin-offs (new series)
 
 https://mega.nz/#F!A7w1kbbY!AtDL11OkwOCklwDy9TTvGg
@@ -806,8 +808,9 @@ https://mega.nz/#F!A7w1kbbY!AtDL11OkwOCklwDy9TTvGg
 
 **** Rose Tylor: Dimension Cannon
 
-https://disk.yandex.ru/d/4V-DJhyEf8S8nQ
-https://disk.yandex.ru/d/pIblzjaOETxckg
+- vol.1 :: https://disk.yandex.ru/d/4V-DJhyEf8S8nQ
+- vol.2 (2022) :: https://disk.yandex.ru/d/pIblzjaOETxckg
+- [X] vol.3 (2023) :: (BT)
 
 **** River Song
 
@@ -819,7 +822,8 @@ The Diary of River Song / Дневник Ривер Сонг
 - S12 https://disk.yandex.ru/d/N8-GTP9MTx2Ohw
 
 The Death and Life of River Song / Смерть и жизнь Ривер Сонг 
-_ S1 https://disk.yandex.ru/d/3q9zqhne4zuXdA
+- S1 (2024) https://disk.yandex.ru/d/3q9zqhne4zuXdA
+- S2 (2025) https://disk.yandex.ru/d/1ULuB5ElG9BikA
 
 **** UNIT: The New Series
 
@@ -829,30 +833,38 @@ _ S1 https://disk.yandex.ru/d/3q9zqhne4zuXdA
 - S2 :: https://disk.yandex.ru/d/rPZNrPqiC5Eopg
 - S3-4 :: https://disk.yandex.ru/d/umgMUBYSprEJdg
 - S5 :: https://disk.yandex.ru/d/sAxOTb9FY_waFg
+- S6-8 :: BT/baidunetdisk 
 
 ЮНИТ: Вражда
 
+- s1-s4 https://disk.yandex.ru/d/-_heCY4BnAtRQw
 - Nemesis S3 :: https://disk.yandex.ru/d/Z0NLeghwFh-H5Q
-- Nemesis S4 :: https://mega.nz/folder/fMR0xapC#Bqwm1YTP06RAaCZ9TeQNwg
+- Nemesis S4 :: https://disk.yandex.ru/d/es2CD38iu1PipA
 - 
 
 **** The Paternoster Gang
 
-- S1-4: https://disk.yandex.ru/d/Z9XnDde7WrUYPg
+- Heritage S1-4 :: https://disk.yandex.ru/d/Z9XnDde7WrUYPg
+- Trespassers (2023-) ::
 
 **** Jenny: The Doctor's Daughter
 
-https://disk.yandex.ru/d/xX8CAqMyp3WIjA
+- S1 (2020) :: https://disk.yandex.ru/d/xX8CAqMyp3WIjA
+- [X] S2 (2022) :: BT
+- [X] S3 (2024) :: BT
 
-**** The Missy Chronicles
+**** Missy
 
-https://disk.yandex.ru/d/ACgvc02eIyKsww
+- S1 (2019) :: https://disk.yandex.ru/d/ACgvc02eIyKsww
+- [X] S2 (2020) ::
+- [X] S3 (2021) ::
+- S4 (2024) :: BT
 
 **** The Lone Centurion
 
 Одинокий центурион
 
-https://disk.yandex.ru/d/FlccujfMlf5_vQ
+- S1-S2 (2021-2022) :: https://disk.yandex.ru/d/FlccujfMlf5_vQ
 
 **** The Churchill Years
 
@@ -865,11 +877,13 @@ https://disk.yandex.ru/d/FlccujfMlf5_vQ
 
 **** The Eighth Doctor: Time War
 
-- S1 :: https://mega.nz/folder/syZ2GaKa#JFZTFIywGxOfvi6Zx9Om6A
-- S1 :: https://disk.yandex.com/d/bcblHYHy3P9HBh
-- S1 w' scripts :: https://disk.yandex.ru/d/N9YHp0vo8ItdSQ
-- S2 :: https://mega.nz/folder/cvwDhZLQ#tVSW1wgeGU2-n_362uSx3w
-- S4 :: https://mega.nz/folder/Foh0lJZK#0zuXCkgsxaksFzndsWHVPA
+- S1 
+  - https://mega.nz/folder/syZ2GaKa#JFZTFIywGxOfvi6Zx9Om6A
+  - https://disk.yandex.com/d/bcblHYHy3P9HBh
+  - w' scripts :: https://disk.yandex.ru/d/N9YHp0vo8ItdSQ
+- [X] S2 :: https://mega.nz/folder/cvwDhZLQ#tVSW1wgeGU2-n_362uSx3w
+- [X] S3 ::
+- [X] S4 :: https://mega.nz/folder/Foh0lJZK#0zuXCkgsxaksFzndsWHVPA
 - S5 Cass (2023.01) :: https://disk.yandex.ru/d/TeAh269GNJR-IA
 - S6 Reflections (2024.10) :: https://disk.yandex.ru/d/q052fCzqDFqEmw
 
@@ -882,7 +896,7 @@ https://disk.yandex.ru/d/FlccujfMlf5_vQ
 
 - S5 Hearts of Darkness     
   - https://disk.yandex.ru/d/q2aqzcALisa-Aw 
-  -  https://mega.nz/folder/Ml4C0JyY#rqVt5yuJnaw4Qe_Fp4vTFQ
+  - https://mega.nz/folder/Ml4C0JyY#rqVt5yuJnaw4Qe_Fp4vTFQ
 
 - S6 Killing Time
   - https://disk.yandex.ru/d/ym5mAL0r3kEdPg
@@ -901,7 +915,8 @@ https://disk.yandex.ru/d/FlccujfMlf5_vQ
   - https://disk.yandex.ru/d/3N2GI71DABCAuA
   - https://disk.yandex.ru/d/irXqOkyDRyqFOg
   - https://mega.nz/folder/yQwTgazI#ZJVuEP-ynfzrbaKsa_j6zg
- 
+
+- [X] S10 Rogue Encounters :P2023: 
 - S11 Future Phantoms
   - https://disk.yandex.ru/d/8vMNTJpDsIeeXQ
 
@@ -913,29 +928,19 @@ https://disk.yandex.ru/d/9VdmlMBK70i8WA
 
 Военный Доктор: Начало
 
-
-
-
-
-
 **** Gallifrey: Time War
 
 - S1-S2 :: https://disk.yandex.ru/d/zZm4A5HtVHu3YA
 - S3-S4 :: https://disk.yandex.ru/d/3eyZMR20tWWh3A
-- S4 :: https://mega.nz/folder/UxQ0DJQb#8_E2pXpm2kDFylYCt_BrwA
+- [ ] S4 :: https://mega.nz/folder/UxQ0DJQb#8_E2pXpm2kDFylYCt_BrwA
 
 **** Susan's War
 
-- S1 https://mega.nz/folder/wUIXyKLC#HEiS289-hiSs5SM2mwwXMw
+- [X] S1 (2020) https://mega.nz/folder/wUIXyKLC#HEiS289-hiSs5SM2mwwXMw
 - S2 https://disk.yandex.ru/d/QkkgMoOoZAvVeA
 
 *** Torchwood
 **** monthly
-***** MR001-024
-
-https://mega.nz/#F!A7w1kbbY!AtDL11OkwOCklwDy9TTvGg
-
-***** disk.yandex.ru
 
 ежемесячной линейки Торчвуда
 
@@ -948,22 +953,22 @@ https://mega.nz/#F!A7w1kbbY!AtDL11OkwOCklwDy9TTvGg
 - 046-050 :: https://disk.yandex.ru/d/1U3A3Ro_rXAQDw
 - 051-055 :: https://disk.yandex.ru/d/Ba62pmjrq2V2pQ
 - 056-060 :: https://disk.yandex.ru/d/4wEgYbB4wBlPMw
+- 061- (2022-) :: BT
 
 **** Story Continues
-***** S5 Aliens Among Us
+***** S5 Aliens Among Us (2017-2018)
 
 https://mega.nz/#F!A7w1kbbY!AtDL11OkwOCklwDy9TTvGg
 
 https://disk.yandex.ru/d/Mjdp3-TxXEA8Jg
 
-***** S6 God Among Us
+***** S6 God Among Us (2018-2019)
 
 Бог среди нас
 
-
 https://disk.yandex.ru/d/qYIiPyzt6huseQ
 
-***** S7 Among Us
+***** S7 Among Us (2023)
 
 https://mega.nz/folder/DJgUDaYL#mR6kfvCOU74XwFfZcF82zg
 
@@ -971,15 +976,15 @@ https://mega.nz/folder/DJgUDaYL#mR6kfvCOU74XwFfZcF82zg
 - 7.5-7.8 https://disk.yandex.ru/d/zHBZ7IaYB9qe2Q
 - 7.9-7.12 https://disk.yandex.ru/d/bt9DdN9dmJ9r3A
 
-**** Torchwood One
+**** FIXME Torchwood One
 
 https://disk.yandex.ru/d/kAgSa_KsH-YVpg
 
-***** S1 Before the Fall
+***** [ ] S1 Before the Fall
 
 https://mega.nz/#F!A7w1kbbY!AtDL11OkwOCklwDy9TTvGg
 
-***** S2 Machines
+***** [ ] S2 Machines
 
 https://mega.nz/folder/NjIEkIBZ#dP03ZwE85ILBj6G8MdT_xw
 
@@ -1061,6 +1066,7 @@ https://mega.nz/#F!NHp3FTSD!agX4snZuzPZTAFWO8fkCBw
 - 1-5: https://disk.yandex.ru/d/83avG46skpRyAQ
 - 6-10: https://disk.yandex.ru/d/lYvFE44LrCLo0g
 - 11-15: https://disk.yandex.ru/d/7CSMKQ606DySqw
+- 16-20: https://disk.yandex.ru/d/kZG_suJpoOoLyg
 
 *** Audio Original Audiobooks
 
@@ -1225,11 +1231,24 @@ https://mega.nz/#F!NZJSnI4R!irDizKKFEfEcyNICKsPEAg
 
 *** Virgin Missing Adventures
 
-- VMA 1-5 https://disk.yandex.ru/d/3_QGfR7eWOFsLw
-- VMA 6-10 https://disk.yandex.ru/d/-mw_wcwiBK8X8w
-
+- 1-5 https://disk.yandex.ru/d/3_QGfR7eWOFsLw
+- 6-10 https://disk.yandex.ru/d/-mw_wcwiBK8X8w
+- 11-15 https://disk.yandex.ru/d/tNIf5gyhcGRa5g
+- 16-20 https://disk.yandex.ru/d/TqZnagu1fca2og
+- 21-25 https://disk.yandex.ru/d/Qj_EoRvakYgSZA
+- 26-30 https://disk.yandex.ru/d/bUkuU-_kGeq9lg
+- 31-33 https://disk.yandex.ru/d/54OsB1ZvXpGV4g
 
 *** Virgin New Adventures (VNA)
+
+- 01-05: https://disk.yandex.ru/d/DuYI35k6JdKg_g
+- 06-10: https://disk.yandex.ru/d/myGQDB2AN5dTNw
+- 11-15: https://disk.yandex.ru/d/WgDnWeAHJLdMAQ
+- 16-20: https://disk.yandex.ru/d/mTzUmlnbayiLsg
+- 21-25: https://disk.yandex.ru/d/0_tzHjqMsUSxdQ
+- 25-30: https://disk.yandex.ru/d/4pCX74962fQKcg
+
+*** BBC New Series Adventures
 ** Novel Illustrations:
 
  https://mega.nz/#F!MB5AHQ6C!-KhSold2JNr_eKn6om89dg | https://imgur.com/a/d6pJr

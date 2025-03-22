@@ -417,6 +417,9 @@ CLOSED: [2022-11-27 Sun 23:36] SCHEDULED: <2022-11-16 Wed>
 ***** The Merfolk Murders :1CD:
 ***** Dream Team :1CD:
 **** 2024B. The Great Beyond :Adric:Nyssa:Tegan:3CD:P2024_09:
+**** TBR 📂2025. Hooklight
+***** Hooklight 1 :P2025_04:
+***** Hooklight 2 :P2025_05:
 *** with Zara & Abby
 **** [#E] 117. The Judgement of Isskar :Zara:Abby:Ice_Warriors:
 **** [#D] 118. The Destroyer of Delights :Zara:Abby:
@@ -463,9 +466,9 @@ CLOSED: [2022-01-14 Fri 15:10]
 ***** LS3.2 Hexagora :Nyssa:Tegan:P2011:
 ***** [#D] LS3.3 - The Children of Seth :Nyssa:Tegan:2CD:P2011:
 ***** LS5.1 Nightmare Country :P2019:
-***** TBR LS9.1 Genesis of the Cybermen :Adric:Nyssa:Tegan:Cybermen:P2025_03:
+***** LS9.1 Genesis of the Cybermen :Adric:Nyssa:Tegan:Cybermen:P2025_03:
 **** NA12. Goth Opera :Nyssa:Tegan:P2024_07:3CD:
-*** audiobook
+*** short trips
 **** [#D] DotD #5 Smoke and Mirrors :Adric:Nyssa:Tegan:1CD:plot_yes:
 **** [#C] ST6.9 Gardens of the Dead :Tegan:Nyssa:Turlough:
 **** [#B] ST7.11. The Ingenious Gentleman Adric of Alzarius :Adric:Nyssa:Tegan:1CD:
@@ -482,6 +485,7 @@ Interludes #8
 
 Interludes #4
 
+**** TBR ST13.6 Dark is the Devil that Walks :Tegan:Toulough:P2025_04:
 ** short stories
 *** DONE Tip of the Tongue 舌尖 :Nyssa:
 CLOSED: [2022-12-28 Wed 21:19]
@@ -869,7 +873,7 @@ CLOSED: <2021-04-18 Sun 08:14>
 :END:
 
 **** [#B] 126. Blue Forgotten Planet (8.1) :Charley:Mila:plot_no:
-**** SvsR#3 - Born to Die :Sontarans:P2024_03:
+**** [#D] SvsR#3 - Born to Die :Sontarans:P2024_03:
 *** MR with Flip & Constance :scripted:2CD:
 **** 2DONE [#B] 156. The Curse of Davros (8.0) :Flip:plot_no:2buy:
 CLOSED: <2021-12-23 Thu 08:53>
@@ -984,12 +988,12 @@ animation: https://m.youtube.com/watch?v=q_syF24kYek
 
 This anthology marked the 40th anniversary of Baker's debut as the Doctor.
 
-***** 1. The Exaltation :Mel:½CD:
-***** 2. Escape from Holy Island :Peri:1CD:
-***** 3. Sibling Rivalry :Flip:Constance:Sontarans:½CD:
-***** 4. Children of the Revolution :Sontarans:1CD:
-***** 5. The Thousand Year Thaw :Peri:½CD:
-***** 6. The Firstborn :1CD:
+***** [#D] 1. The Exaltation :Mel:½CD:
+***** [#E] 2. Escape from Holy Island :Peri:1CD:
+***** [#C] 3. Sibling Rivalry :Flip:Constance:Sontarans:½CD:
+***** [#C] 4. Children of the Revolution :Sontarans:1CD:
+***** [#C] 5. The Thousand Year Thaw :Peri:½CD:
+***** [#B] 6. The Firstborn :1CD:
 **** 2024B. The Trials of a Time Lord :Peri:Mel:P2024_08:3CD:
 *** BF misc
 **** Jago and Litefoot: Series 4
@@ -1411,8 +1415,7 @@ CLOSED: [2023-11-17 Fri 08:22] SCHEDULED: <2023-11-18 Sat>
 **** CANCEL [#E] NA2 The Highest Science :Benny:
 **** [#D] CC4.6 BS and the Criminal Code :Benny:
 **** DONE BSNA 1.1 The Revolution
-*** 7DA :7DA:
-**** V. Return of the Daleks :Susan_Mendes:Kalendorf:P2006:
+*** with Raine
 **** [#B] UNIT - Dominion :UNIT:Klein:Raine:Master_bald:P2012:4CD:plot_yes:
 :PROPERTIES:
 :rating:   8.1
@@ -1427,9 +1430,14 @@ SCHEDULED: <2023-05-20 Sat 20:07>
 ***** HALF [#C] UNIT - Dominion p3 :DW2024_Q2a_doctor:
 SCHEDULED: <2024-03-16 Sat>
 
-***** HALF [#B] UNIT - Dominion p4 :DW2025_Q1a_doctor:
+***** HALF [#B] UNIT - Dominion p4 :dw2025_q1a_doctor:
 SCHEDULED: <2025-01-25 Sat>
 
+**** [#E] LS2.4 - Crime of the Century :Raine:
+**** [#D] LS2.5 Animal :Raine:
+**** [#D] LS2.6 Earth Aid :Raine:
+*** 7DA :7DA:
+**** V. Return of the Daleks :Susan_Mendes:Kalendorf:P2006:
 **** 📂2022A Silver and Ice :P2022_06:
 ***** CANCEL [#F] Bad Day in Tinseltown :Cybermen:Mel:1CD:
 CLOSED: [2022-10-08 Sat 09:05]
@@ -1452,23 +1460,20 @@ CLOSED: [2024-06-29 Sat 19:45] SCHEDULED: <2024-06-05 Wed 09:27>
 ***** 24B.2 The House
 ***** 24B.3 The Institute of Forgotten Souls
 *** misc
-**** [#B] NA9. Nightshade :Ace:
+**** [#D] LS2.3 - Thin Ice :Ace:P2011:
+**** HALF [#D] CC7.3 Project: Nirvana :Sally:Lysandra:P2012:plot_cast:DW2023_03_doctor:
+SCHEDULED: <2023-03-25 Sat>
+
+**** [#B] NA9. Nightshade :Ace:P2016:
 :PROPERTIES:
 :rating:   8.1
 :END:
-
-**** HALF [#D] CC7.3 Project: Nirvana :Sally:Lysandra:P2012:plot_cast:DW2023_03_doctor:
-SCHEDULED: <2023-03-25 Sat>
 
 **** CANCEL [#E] CDNM1.3 Harvest of Sycorax
 :PROPERTIES:
 :rating:   6.9
 :END:
 
-**** [#D] LS2.3 - Thin Ice :Ace:Raine:
-**** [#E] LS2.4 - Crime of the Century :Raine:
-**** [#D] LS2.5 Animal :Raine:
-**** [#D] LS2.6 Earth Aid :Raine:
 **** DONE [#C] River2.1 The Unknown :plot_yes:DW2023_07_doctor:
 CLOSED: [2023-07-04 Tue 08:31] SCHEDULED: <2023-07-08 Sat>
 
@@ -1477,6 +1482,7 @@ CLOSED: [2023-07-04 Tue 08:31] SCHEDULED: <2023-07-08 Sat>
 
 http://drwhoguide.com/bbv21.htm
 
+**** TBR ST13.5 Emerald Isle :Ace:P2025_04:
 ** comics
 *** DWM
 **** DWMGN: A Cold Day in Hell! (DWM 130-150)
