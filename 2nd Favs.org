@@ -23,6 +23,8 @@
 
 https://breezewiki.com/dc/wiki/Sandman_Vol_2
 
+**** _info
+
 先去看尼尔盖曼的《睡魔》，总共75期。然后去看《路西法》V1，也是75期。这两个算是必读的。
 
 睡魔还有庞杂的衍生短篇和图像小说，优先看尼尔盖曼亲自写的几部，其他人写的可以选着看。目录的话【http://t.cn/A6LsmKZl 】这里比较全
@@ -32,7 +34,10 @@ download:
 - https://getcomics.org/dc/the-sandman-book-1-4-tpb-2022/
 
 **** DONE 卷1：前奏与夜曲 (Preludes and Nocturnes)
-**** DONE 卷2：玩偶之家 (The Doll's House)
+**** DONE 卷2：玩偶之家 (The Doll's House,  #8-16)
+***** 8. The Sound of Her Wings
+***** 9. Tales in the Sand
+***** 13. Men of Good Fortune
 **** DONE 卷3：梦境国度 (Dream Country, #17-20) :short:
 
 - Sandman (Volume 2) #17 ("Calliope")
@@ -49,8 +54,7 @@ CLOSED: [2022-03-17 Thu 07:27]
 **** DONE 卷6：神话和倒影 (Fables and Reflections, #29-31, #38-40, #50) :short:
 CLOSED: [2023-04-13 Thu 13:08]
 
-Vertigo Preview #1 ("Fear of Falling")
-
+- Vertigo Preview #1 ("Fear of Falling")
 - Sandman (Volume 2) #31 ("Three Septembers and a January")
 - Sandman (Volume 2) #29 ("Thermidor")
 - Sandman (Volume 2) #38 ("The Hunt")
@@ -82,7 +86,6 @@ CLOSED: [2025-03-11 Tue 13:59]
 - Sandman (Volume 2) #74: "Exiles"
 - Sandman (Volume 2) #75: "The Tempest"
 
-
 *** Sandman Universe (2018- ) :📚:
 
 先看那本睡魔宇宙特刊，然后看《幻梦境》，算是主要故事。《路西法》刊稍微
@@ -113,6 +116,24 @@ CLOSED: [2023-04-18 Tue 23:17]
 
 水漫汉化联盟汉化了前21期
 
+***** [#D] vol.1 The Infernal Comedy (#1-6) :hanzify:
+:PROPERTIES:
+:goodreads: 3.69
+:END:
+
+故事情节很乱，
+
+***** [#A] vol.2 The Divine Tragedy (#7-13) :hanzify:
+:PROPERTIES:
+:goodreads: 4.15
+:END:
+
+***** [#B] vol.3 The Wild Hunt (#14-19) :hanzify:
+:PROPERTIES:
+:goodreads: 4.10
+:END:
+
+***** vol.4 The Devil at Heart (#20-24)
 **** Year Two :P2019:
 ***** The Sandman Universe Presents: Hellblazer
 ***** READY John Constantine: Hellblazer v1 (2020，12期全)
@@ -200,68 +221,71 @@ https://breezewiki.com/sandman/wiki/The_Sandman_(audio)
 https://sandman.fandom.com/wiki/The_Sandman_(audio)#Act_I_2
 
 ***** 1.01-1.07
-***** 1.08 The Sound of Her Wings
+***** TODO 1.08 The Sound of Her Wings
 
 https://dc.fandom.com/wiki/Sandman_Vol_2_8
 
-***** 1.09 Tales in the Sand
+***** TODO 1.09 Tales in the Sand
 
 https://dc.fandom.com/wiki/Sandman_Vol_2_9
 
-***** 1.10 Men of Good Fortune
+***** TODO 1.10 Men of Good Fortune
 
 https://dc.fandom.com/wiki/Sandman_Vol_2_13
 
 ***** 1.11-1.16 The Doll's House
-***** 1.17 Calliope   
-***** 1.18 A Dream of a Thousand Cats   
-***** 1.19 Façade   
-***** 1.20 A Midsummer Night's Dream   
-
+***** TODO 1.17 Calliope
+***** TODO 1.18 A Dream of a Thousand Cats
+***** TODO 1.19 Façade
+***** TODO 1.20 A Midsummer Night's Dream
 **** Act II
 
 https://sandman.fandom.com/wiki/The_Sandman_(audio)#Act_II_2
 
 ***** 1-8 Season of Mist
-***** 9 Fables & Reflections, Distant Mirrors - Thermidor   
-***** 10 Fables & Reflections, Distant Mirrors - August   
-***** 11 Fables & Reflections, Distant Mirrors - Three Septembers and  a January
+***** TODO 9 Fables & Reflections, Distant Mirrors - Thermidor
+***** TODO 10 Fables & Reflections, Distant Mirrors - August
+***** TODO 11 Fables & Reflections, Distant Mirrors - Three Septembers and  a January
 ***** 12-17 A Game of You
-***** 18 Convergence - The Hunt   
-***** 19 Convergence - Soft Places   
-***** 20 Convergence - The Parliament of Rooks   
-***** 21 Distant Mirrors - Ramadan
-
+***** TODO 18 Convergence - The Hunt
+***** TODO 19 Convergence - Soft Places
+***** TODO 20 Convergence - The Parliament of Rooks
+***** TODO 21 Distant Mirrors - Ramadan
 **** Act III
 
 https://sandman.fandom.com/wiki/The_Sandman_(audio)#Act_III_2
 
-***** 3.01 The Song of Orpheus
+***** TODO 3.01 The Song of Orpheus
 
 https://dc.fandom.com/wiki/Sandman_Special_Vol_1_1
 
-***** 3.02 Fear of Falling
+收录于 Vol 6 Fables and Reflections
+
+
+***** TODO 3.02 Fear of Falling
 
 https://dc.fandom.com/wiki/Vertigo_Preview_Vol_1_1
 
-***** 3.03 Flowers of Romance
+***** TODO 3.03 Flowers of Romance
 
 https://dc.fandom.com/wiki/Vertigo:_Winter%27s_Edge_Vol_1_1
 
 ***** 3.03-3.13 Brief Lives
-***** 3.13 How They Met Themselves
+***** TODO 3.13 How They Met Themselves
 
 https://dc.fandom.com/wiki/Vertigo:_Winter%27s_Edge_Vol_1_3
 
-***** 3.14 Worlds' End - A Tale of Two Cities
+***** TODO 3.14 Worlds' End - A Tale of Two Cities
 
 https://dc.fandom.com/wiki/Sandman_Vol_2_51
 
-***** 3.15 Worlds' End - Cluracan's Tale
-***** 3.16 Worlds' End - Hob's Leviathan
-***** 3.17 Worlds' End - The Golden Boy
-***** 3.18 Worlds' End - Cerements
-***** 3.19 Worlds' End - Worlds' Ends
+***** TODO 3.15 Worlds' End - Cluracan's Tale
+***** DONE 3.16 Worlds' End - Hob's Leviathan
+CLOSED: [2025-03-01 Sat 08:47]
+
+***** TODO 3.17 Worlds' End - The Golden Boy
+***** TODO 3.18 Worlds' End - Cerements
+***** TODO 3.19 Worlds' End - Worlds' Ends
 ** Lucifer
 *** Lucifer v1 (2000-2006, 75 issues) :📚:😈:lucifer:
 **** LATER vol.1 Devil in the Gateway
@@ -307,10 +331,7 @@ CLOSED: [2022-04-02 Sat 20:14]
 ***** DONE 1x13
 CLOSED: [2022-04-04 Mon 19:41]
 
-**** DONE Lucifer S2 (18 ep)
-
-18 episodes
-
+**** DONE Lucifer S2 (18 eps) :P2016:
 ***** DONE 2x01
 CLOSED: [2023-01-01 Sun 20:35]
 
@@ -365,7 +386,7 @@ CLOSED: [2023-03-25 Sat 19:03] SCHEDULED: <2023-03-29 Wed>
 ***** DONE 2x18
 CLOSED: [2023-03-25 Sat 20:59] SCHEDULED: <2023-03-29 Wed>
 
-**** HALF Lucifer S3 (26 eps) :P2017:
+**** DONE Lucifer S3 (26 eps) :P2017:
 ***** DONE 3x01
 CLOSED: [2024-02-24 Sat 12:04]
 
@@ -441,12 +462,39 @@ CLOSED: [2025-02-12 Wed 07:52] SCHEDULED: <2025-02-15 Sat>
 ***** DONE 3x25
 CLOSED: [2025-02-12 Wed 18:37] SCHEDULED: <2025-02-15 Sat>
 
-***** 3x26
-SCHEDULED: <2025-02-22 Sat>
+***** DONE 3x26
+CLOSED: [2025-02-25 Tue 08:08] SCHEDULED: <2025-02-22 Sat>
 
 **** Lucifer S4 (10 eps) :P2019:S2025_Q1:
-***** DONE 3x01
+***** DONE 4x01
 CLOSED: [2025-02-14 Fri 20:08]
+
+***** DONE 4x02
+CLOSED: <2025-02-17 Mon 08:11>
+
+***** DONE 4x03
+CLOSED: [2025-02-17 Mon 20:25]
+
+***** DONE 4x04
+CLOSED: [2025-02-23 Sun 16:35]
+
+***** DONE 4x05
+CLOSED: [2025-02-23 Sun 17:53]
+
+***** DONE 4x06
+CLOSED: [2025-02-27 Thu 07:46]
+
+***** DONE 4x07
+CLOSED: [2025-02-28 Fri 20:48]
+
+***** DONE 4x08
+CLOSED: <2025-03-02 Sun 22:37>
+
+***** DONE 4x09
+CLOSED: [2025-03-14 Fri 21:56]
+
+***** DONE 4x10
+CLOSED: [2025-03-15 Sat 17:28]
 
 **** Lucifer S5 (16 eps) :P2020:
 **** Lucifer S6 (10 eps) :P2021:
@@ -571,7 +619,39 @@ CLOSED: [2024-04-21 Sun 19:11]
 ***** DONE 3x10
 CLOSED: [2024-04-25 Thu 08:16]
 
-**** Preacher S4 :P2019:S2025_Q1:
+**** DONE Preacher S4 :P2019:
+CLOSED: [2025-03-12 Wed 18:32]
+
+***** DONE 4x01
+CLOSED: [2025-03-08 Sat 22:07]
+
+***** DONE 4x02
+CLOSED: [2025-03-08 Sat 22:49]
+
+***** DONE 4x03
+CLOSED: <2025-03-09 Sun 08:49>
+
+***** DONE 4x04
+CLOSED: [2025-03-09 Sun 09:35]
+
+***** DONE 4x05
+CLOSED: [2025-03-09 Sun 16:08]
+
+***** DONE 4x06
+CLOSED: [2025-03-09 Sun 20:43]
+
+***** DONE 4x07
+CLOSED: [2025-03-09 Sun 21:24]
+
+***** DONE 4x08
+CLOSED: [2025-03-10 Mon 22:07]
+
+***** DONE 4x09
+CLOSED: <2025-03-12 Wed 17:39>
+
+***** DONE 4x10
+CLOSED: [2025-03-12 Wed 18:32]
+
 ** V for Vendetta ...
 ** Fables :hanzify:
 
@@ -1017,7 +1097,7 @@ CLOSED: [2022-12-31 Sat 18:03]
 *** DONE 3x11 :Gabriel:
 CLOSED: [2022-12-31 Sat 21:06]
 
-** S4
+** S4 :P2019:
 *** 4x18 The Monster at the End of This Book :Chuck:
 *** DONE 4x19
 CLOSED: [2025-02-11 Tue 08:09]
@@ -1113,7 +1193,7 @@ CLOSED: [2023-03-16 Thu 19:29] SCHEDULED: <2023-03-18 Sat>
 *** DONE 13x23
 CLOSED: [2023-03-20 Mon 07:57] SCHEDULED: <2023-03-18 Sat>
 
-** DONE S14 :S2023_03:S2024_03:
+** DONE S14
 CLOSED: [2024-03-15 Fri 20:13]
 
 20 episodes
@@ -1178,7 +1258,8 @@ CLOSED: [2024-03-15 Fri 00:15]
 *** DONE [#A] 14x20 Moriah :Chuck:
 CLOSED: [2024-03-15 Fri 20:13]
 
-** S15 :S2025_Q1:
+** DONE S15
+CLOSED: [2025-03-04 Tue 22:58]
 
 20 episodes
 
@@ -1209,24 +1290,72 @@ CLOSED: [2025-02-10 Mon 20:13]
 *** DONE 15x09 :Chuck:
 CLOSED: [2025-02-14 Fri 20:10]
 
-*** 15x10
-*** 15x11
+*** DONE 15x10
+CLOSED: [2025-02-17 Mon 23:28]
+
+*** DONE 15x11
+CLOSED: [2025-02-18 Tue 08:10]
+
+*** DONE 15x12
+CLOSED: [2025-02-19 Wed 21:34]
+
+*** DONE 15x13
+CLOSED: [2025-02-20 Thu 21:37]
+
+*** DONE 15x14
+CLOSED: [2025-02-24 Mon 20:13]
+
+*** DONE 15x15
+CLOSED: [2025-02-24 Mon 21:29]
+
+*** DONE 15x16 :MotW:
+CLOSED: [2025-03-02 Sun 17:34]
+
+*** DONE 15x17 :Chuck:
+CLOSED: [2025-03-02 Sun 19:39]
+
+*** DONE 15x18
+CLOSED: [2025-03-02 Sun 20:36]
+
+*** DONE 15x19
+CLOSED: [2025-03-03 Mon 22:59]
+
+*** DONE 15x20
+CLOSED: [2025-03-04 Tue 22:58]
+
 * Stranger Things
-** S1 :P2016:
-** S2 :P2017_10:
+** DONE S1 :P2016:
+** DONE S2 :P2017_10:
+CLOSED: [2025-03-01 Sat 16:42]
+
 *** DONE 2x03
 CLOSED: [2025-02-15 Sat 20:46]
 
 *** DONE 2x04
 CLOSED: [2025-02-15 Sat 22:15]
 
+*** DONE 2x05
+CLOSED: [2025-02-21 Fri 20:29]
+
+*** DONE 2x06
+CLOSED: [2025-02-22 Sat 07:49]
+
+*** DONE 2x07
+CLOSED: [2025-02-26 Wed 20:16]
+
+*** DONE 2x08
+CLOSED: [2025-02-26 Wed 21:26]
+
+*** DONE 2x09
+CLOSED: [2025-03-01 Sat 16:42]
+
 ** S3 :P2019_07:
 ** comics
-*** The Other Side :P2018:
+*** TODO The Other Side :P2018:
 
 2018.09 - 2019.01, 4 issues
 
-*** Six :P2019:
+*** TODO Six :P2019:
 
 2019.05 - 2019.08
 
