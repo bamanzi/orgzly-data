@@ -85,7 +85,8 @@ CLOSED: [2021-07-27 Tue 23:10]
 :rating:   9.2
 :END:
 
-***** [#A] 2.2 The Barbarians and the Samurai :P2018:plot_yes:
+***** HALF [#A] 2.2 The Barbarians and the Samurai :P2018:plot_yes:dw2025_q2a_doctor:
+SCHEDULED: <2025-04-12 Sat>
 :PROPERTIES:
 :rating:   8.6
 :END:
@@ -735,7 +736,7 @@ SCHEDULED: <2023-06-24 Sat>
 :rating:   7.0
 :END:
 
-***** 3QTR [#B] CC8.12 - Second Chances :The_Company:plot_cast:scripted:dw2025_q1b_doctor:
+***** 3QTR [#B] CC8.12 - Second Chances :The_Company:plot_cast:dw2025_q1b_doctor:
 CLOSED: [2025-02-22 Sat 08:31] SCHEDULED: <2025-03-01 Sat>
 :PROPERTIES:
 :rating:   8.4
@@ -1173,7 +1174,9 @@ SCHEDULED: <2023-09-21 Thu>
 ***** CANCEL [#E] 2022B. Kaleidoscope :Harry:Brigadier:P2022_10:3CD:
 ***** [#D] 2024A. Revolution in Space :P2024_02:3CD:plot_yes:
 **** START [#D] CDNM3.1 The House that Hoxx Built :P2022:plot_yes:
-**** [#B] SvsR#2 The Children of the Future :P2024_02:
+**** [#B] SvsR#2 The Children of the Future :P2024_02:dw2025_q2a_doctor:
+SCHEDULED: <2025-04-19 Sat>
+
 **** CANCEL [#F] ST10.03 Decline of the Ancient Mariner
 :PROPERTIES:
 :rating:   4.5

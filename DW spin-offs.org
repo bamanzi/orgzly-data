@@ -468,22 +468,23 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 ***** HALF [#D] 62. Dead Plates :Bilis_Manger:DW2023_09_spinoffs:
       SCHEDULED: <2023-09-24 Sun>
 
-***** READY [#A] 63. Restricted Items Archive Entries 031–049 :Ianto:plot_yes:bilibili:
+***** READY [#A] 63. Restricted Items Archive Entries 031–049 :Ianto:plot_yes:bilibili:dw2025_q2a_spinoffs:
+      SCHEDULED: <2025-04-13 Sun>
 
 【【自译中字/火炬木小组广播剧】限制级物品档案条目031-049-哔哩哔哩】 https://b23.tv/4L3q8Ay
 
 ***** 3QTR [#B] 64. Suckers :Tosh:plot_yes:DW2024_01_spinoffs:
       CLOSED: <2024-01-18 Thu 08:52> SCHEDULED: <2024-01-21 Sun>
 
-***** [#B] 65X A Postcard from Mr Colchester :Colchester:plot_yes:DW2025_Q1b_spinoffs:
+***** [#B] 65X A Postcard from Mr Colchester :Colchester:plot_yes:
 ***** [#D] 65. Death in Venice :Colchester:Ace:plot_yes:
 ***** CANCEL [#E] 66. SUV :Ianto:Tosh:
-***** [#B] 67. The Lincolnshire Poacher :Ianto:plot_yes:
+***** [#A] 67. The Lincolnshire Poacher :Ianto:plot_yes:
 ***** CANCEL [#F] 68. The Empire Man :Queen:plot_yes:
-***** 3QTR [#C] 69. Double part1 :Autons:P2023_01:plot_yes:DW2024_Q4a_spinoffs:
+***** 3QTR [#B] 69. Double part1 :Autons:P2023_01:plot_yes:DW2024_Q4a_spinoffs:
       CLOSED: [2024-12-06 Fri 08:44] SCHEDULED: <2024-11-10 Sun>
 
-***** HALF [#A] 70. Double part2 :Autons:plot_yes:DW2024_Q4b_spinoffs:
+***** HALF [#B] 70. Double part2 :Autons:plot_yes:DW2024_Q4b_spinoffs:
       SCHEDULED: <2024-12-22 Sun>
       :PROPERTIES:
       :rating:   8.5
@@ -704,16 +705,22 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
       :rating:   8.4
       :END:
 
-***** HALF [#C] 7.4 Moderation :Tyler:DW2025_Q1a_spinoffs:
+***** HALF [#C] 7.4 Moderation :Tyler:dw2025_q1a_spinoffs:
       SCHEDULED: <2025-01-05 Sun>
 
 ***** [#E] 7.5 Propaganda :Orr:
 ***** 3QTR [#A] 7.6 At Her Majesty’s Pleasure :Yvonne:Andy:DW2024_Q4a_spinoffs:
       CLOSED: [2024-10-19 Sat 20:47] SCHEDULED: <2024-10-20 Sun>
 
-***** [#A] 7.7 Cuckoo (9.1) :Bilis_Manger:
+***** [#A] 7.7 Cuckoo (9.1) :Bilis_Manger:dw2025_q2a_spinoffs:
+      SCHEDULED: <2025-04-27 Sun>
+
 ***** [#A] 7.8 Pariahs :Yvonne:Colchester:Ng:
-***** [#A] 7.9 How I Conquered the World :Yvonne:Orr:Colchester:
+***** [#B] 7.9 How I Conquered the World :Yvonne:Orr:Colchester:
+      :PROPERTIES:
+      :rating:   8.8
+      :END:
+
 ***** [#B] 7.10 Doomscroll :Orr:Colchester:Tyler:
 ***** [#B] 7.11 Heistland :Yvonne:Orr:Tyler:
 ***** [#C] 7.12 The Apocalypse Starts at 6 PM :Yvonne:Orr:
@@ -977,13 +984,14 @@ But their mission is about to unleash hell upon the universe…
 
 With the Discordia on their tail, River and her friends run for their lives across time and space. But when your opponent can twist cause and effect to ensure victory at every turn, then escape may well be impossible.
 
-***** HALF [#B] 4.3 - Whodunnit? :DW2025_Q1a_spinoffs:
+***** HALF [#B] 4.3 - Whodunnit? :dw2025_q1a_spinoffs:
       SCHEDULED: <2025-01-19 Sun>
       :PROPERTIES:
       :rating:   8.0
       :END:
 
-***** START [#A] 4.4 - Someone I Once Knew :4th_Dr:DW2025_Q1b_doctor:
+***** HALF [#A] 4.4 - Someone I Once Knew :4th_Dr:dw2025_q1b_doctor:
+      SCHEDULED: <2025-03-22 Sat>
       :PROPERTIES:
       :rating:   8.6
       :END:
@@ -1253,7 +1261,8 @@ Roberts Master
     :rating:   7.5
     :END:
 
-*** [#D] 9.4 - Return of the Nightmare
+*** [#D] 9.4 - Return of the Nightmare :dw2025_q2a_spinoffs:
+    SCHEDULED: <2025-04-13 Sun>
     :PROPERTIES:
     :rating:   7.4
     :END:
@@ -1425,7 +1434,9 @@ Roberts Master
     :rating:   8.1
     :END:
 
-*** HALF [#B] 6.3 - Ascension :DW2025_Q1b_spinoffs:
+*** HALF [#B] 6.3 - Ascension :dw2025_q2a_spinoffs:
+    SCHEDULED: <2025-04-20 Sun>
+
 ** special: WoDW#4 Second Sight ↗
 ** [#B] 7.0 - Intervention Earth :P2015:
 ** [#A] 8.0 - Enemy Lines :P2016:
@@ -1705,8 +1716,10 @@ http://drwhoguide.com/bs_a18.htm
 Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor can't get to her, not this time. All Benny can do is stay alive for as long as possible. And, in a city full of Daleks, that's not going to be very long.
 
 *** vol.2 The Triumph of Sutekh :Sutekh:P2015:
-**** [#C] 2.1 - The Pyramid of Sutekh :7th_Dr:DW2025_Q2a_doctor:
-**** [#D] 2.2 - The Vaults of Osiris :Ace:
+**** HALF [#C] 2.1 - The Pyramid of Sutekh :7th_Dr:dw2025_q2a_spinoffs:
+     SCHEDULED: <2025-04-06 Sun>
+
+**** [#D] 2.2 - The Vaults of Osiris :Ace:dw2025_q2b_spinoffs:
 **** [#B] 2.3 - The Eye of Horus :7th_Dr:
 **** [#C] 2.4 - The Tears of Isis :7th_Dr:Ace:
 *** vol.3 The Unbound Universe :unbound_universe:Unbound_Dr:P2016:
@@ -1980,7 +1993,8 @@ https://tieba.baidu.com/p/5863165791
 **** [#E] 2.2 - Capture the Chronovore!
 **** [#F] 2.3 - Passion
 *** 📂Master! vol.3 Planet Doom :Vienna:P2024_02:
-**** READY [#E] 3.1 Basilisk :bilibili:
+**** READY [#E] 3.1 Basilisk :bilibili:dw2025_q2a_spinoffs:
+     SCHEDULED: <2025-05-04 Sun>
 
 【【神秘博士广播剧】MASTER！301 Basilisk 蛇怪计划-哔哩哔哩】 https://b23.tv/X4ikFVS
 
@@ -2473,8 +2487,8 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
     :rating:   7.2
     :END:
 
-*** [#D] 2.4 Ice Station Alpha :DW2025_Q1a_spinoffs:
-    SCHEDULED: <2025-01-26 Sun>
+*** [#D] 2.4 Ice Station Alpha :dw2025_q1a_spinoffs:
+    SCHEDULED: <2025-02-09 Sun>
     :PROPERTIES:
     :rating:   7.0
     :END:
@@ -2550,8 +2564,12 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
 ***+TBLFM: $1='(cond ((>= $3 8.5) "[#A]") ((>= $3 8.0) "[#B]") ((>= $3 7.5) "[#C]") ((>= $2 7.0) "[#D]") (t "[#E]"));N
 
 ** Nemesis 1: Between Two Worlds :plot_yes:P2021_11:
-*** HALF [#B] 1.1 The Enemy Beyond :The_Eleven:DW2025_Q1b_spinoffs:
-*** [#C] 1.2 Fire and Ice :Ice_Warriors:Harry:Naomi:
+*** 3QTR [#B] 1.1 The Enemy Beyond :The_Eleven:dw2025_q1b_spinoffs:
+    CLOSED: <2025-03-21 Fri 09:02> SCHEDULED: <2025-03-23 Sun>
+
+*** [#C] 1.2 Fire and Ice :Ice_Warriors:Harry:Naomi:dw2025_q2a_spinoffs:
+    SCHEDULED: <2025-04-27 Sun>
+
 *** [#C] 1.3 Eleven's Eleven :The_Eleven:
 *** [#B] 1.4 The Curator's Gambit :The_Eleven:
 ** Nemesis 2: Agents of the Vulpreen :P2022_03:
@@ -2728,7 +2746,7 @@ http://www.drwhoguide.com/kaldor03.htm
      :rating:   6.4
      :END:
 
-**** HALF [#D] 4.3 - Rulers of Earth :DW2025_Q1a_spinoffs:
+**** HALF [#D] 4.3 - Rulers of Earth :dw2025_q1a_spinoffs:
      SCHEDULED: <2025-01-12 Sun>
      :PROPERTIES:
      :rating:   7.4
@@ -2855,7 +2873,7 @@ http://www.drwhoguide.com/kaldor03.htm
 **** 5. Movers :P2003:
 **** 6. A Labyrinth of Histories :P2004:
 *** 📂The True History of Faction Paradox (MBP 2004-2009) :Sutekh:plot_yes_dwg:
-**** HALF [#C] 1. Coming to Dust :P2005:scripted:dw2025_q1b_spinoffs:
+**** HALF [#C] 1. Coming to Dust :P2005:dw2025_q1b_spinoffs:
      SCHEDULED: <2025-03-09 Sun>
 
 https://tardis.breezewiki.com/wiki/Coming_to_Dust_(audio_story)
@@ -3071,15 +3089,15 @@ https://doctorwho.guide/sj_06.htm
 
 【【神秘博士广播剧熟肉】The Dimension Cannon 201 Saltwater 盐水-哔哩哔哩】 https://b23.tv/M44oyPQ
 
-**** HALF [#B] 2.2 Now is the New Dark :bilibili:DW2024_Q4a_spinoffs:
-     SCHEDULED: <2024-11-10 Sun>
+**** DONE [#B] 2.2 Now is the New Dark :bilibili:DW2024_Q4a_spinoffs:
+     CLOSED: [2025-03-09 Sun 15:16] SCHEDULED: <2024-11-10 Sun>
      :PROPERTIES:
      :rating:   8.0
      :END:
 
 【【神秘博士广播剧熟肉】The Dimension Cannon 202 Now is the New Dark 新黑暗-哔哩哔哩】 https://b23.tv/DsxHEzn
 
-**** HALF [#A] 2.3 The Rogue Planet :plot_no:bilibili:DW2025_Q1a_spinoffs:
+**** HALF [#A] 2.3 The Rogue Planet :plot_no:bilibili:dw2025_q1a_spinoffs:
      SCHEDULED: <2025-02-09 Sun>
      :PROPERTIES:
      :rating:   8.8
@@ -3143,7 +3161,9 @@ From Donna's perspective, the anthology is set after /Forest of the Dead/.
      CLOSED: [2022-09-27 Tue 21:06] SCHEDULED: <2022-09-18 Sun>
 
 *** vol.2 :P2022_03:
-**** [#C] 2.1 The Once and Future Nurse
+**** FIXME [#C] 2.1 The Once and Future Nurse :dw2025_q2a_spinoffs:
+     SCHEDULED: <2025-05-11 Sun>
+
 **** [#B] 2.2 The Glowing Warrior
 **** [#B] 2.3 The Last King of Camelot
 ** Redacted :BBC:

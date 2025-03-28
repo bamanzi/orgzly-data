@@ -1790,49 +1790,80 @@ http://drwhoguide.com/who_bf33.htm
 *** [#C] CY2.4 - Churchill Victorious
 * DW 2025 :S2025:
 ** dw2025-q1a-doctor
+
+| 080 | MR104 The Bride of Peladon | 5th | Peri, Erimem |
+
 *** HALF [#D] CC11.3 The Bonfires of the Vanties :Polly:Ben:scripted:
-*** 3QTR [#C] 2023B Intelligence for War (part4~5) :3rd_Dr:Liz:3CD:DW2025_Q1a_doctor:
+*** 3QTR [#C] 2023B Intelligence for War (part4~5) :3rd_Dr:Liz:dw2025_q1a_doctor:
     CLOSED: [2025-02-08 Sat 09:02] SCHEDULED: <2025-01-11 Sat>
 
-*** HALF [#C] 2023B Intelligence for War (part6~7) :3rd_Dr:Liz:3CD:DW2025_Q1a_doctor:
+*** HALF [#C] 2023B Intelligence for War (part6~7) :3rd_Dr:Liz:dw2025_q1a_doctor:
     SCHEDULED: <2025-02-01 Sat>
 
-*** 3QTR [#B] MR104 The Bride of Peladon :5th_Dr:Peri:Erimem:
+*** 3QTR [#B] MR104 The Bride of Peladon :5th_Dr:Peri:Erimem:2CD:
 *** HALF [#B] UNIT: Dominion #4 :7th_Dr:Raine:Klein:Master_bald:
 *** 3QTR [#B] 9DA3.2.1 Below There :9th_Dr:bilibili:
 *** 3QTR [#A] 11DC 4.4 Broken Hearts :11th_Dr:Valarie:
 ** dw2025-q1a-spinoffs
 *** HALF [#C] TW7.4 Moderation :Tyler:
-*** HALF [#B] TW Soho #2: Ashenden (1~3) :Norton:Andy:Lizbeth:P2021:plot_yes:DW2025_Q1a_spinoffs:
+*** HALF [#B] TW Soho #2: Ashenden (1~3) :Norton:Andy:Lizbeth:P2021:plot_yes:dw2025_q1a_spinoffs:
     SCHEDULED: <2025-01-26 Sun>
 
 *** [#D] UNIT2.4 Ice Station Alpha
 *** HALF [#D] PG4.3 - Rulers of Earth
 *** 3QTR [#B] DoRS4.3 - Whodunnit?
 *** HALF [#A] Rose2.3 The Rogue Planet :Rose:
-*** SHFA1.2 The Star of the Adelphi :dw2025_q1a_spinoffs:
+** 2025-q1a-extra
+*** SHFA1.2 The Star of the Adelphi
     SCHEDULED: <2025-03-09 Sun>
 
-** DOING dw2025-q1b-doctor
+** dw2025-q1b-doctor
+
+| 081 | MR116 The Raincloud Man | 6th | Charley |
+
 *** 3QTR [#A] CC8.12 Second Chances :2nd_Dr:Zoe:
-*** FIXME [#A] DoRS4.4 - Someone I Once Knew :River:4th_Dr:
-*** HALF [#C] MR116. The Raincloud Man :6th_Dr:Charley:
+*** HALF [#A] DoRS4.4 - Someone I Once Knew :River:4th_Dr:
+*** HALF [#C] MR116. The Raincloud Man :6th_Dr:Charley:2CD:
 *** HALF [#C] 8DA2.3 - Brave New Town :8th_Dr:Lucie:
 *** DONE [#C] ST8.6 The Siege of Big Ben :Jackie:plot_yes:
-*** [#B] WDB4.1 The Mission :War_Dr:
-** DOING dw2025-q1b-spinoffs
-*** [#A] TW Soho #2: Ashenden (4~6) :Norton:Andy:Lizbeth:P2021:plot_yes:dw2025_q1b_spinoffs:
-    SCHEDULED: <2025-03-16 Sun>
+*** [#B] ST8.8 - Flight into Hull! :Jackie:plot_no:
+*** HALF [#B] WDB4.1 The Mission :War_Dr:Time_War:
+** dw2025-q1b-spinoffs
+*** 3QTR [#A] TW Soho #2: Ashenden (4~6) :Norton:Andy:Lizbeth:P2021:plot_yes:dw2025_q1b_spinoffs:
+    CLOSED: [2025-03-16 Sun 20:55] SCHEDULED: <2025-03-16 Sun>
 
 *** HALF [#B] UNEM1.1 The Enemy Beyond :The_Eleven:
 *** HALF [#C] CM3.2 - The Concrete Cage
 *** HALF [#C] JL9.3 - Island of Death
 *** 3QTR [#A] WM8.3 The Adventure of the Deceased Doctor :Master_war:Holmes:bilibili:
 *** HALF [#C] FP2.1 Coming to Dust :Sutekh:
-** FIXME dw2025-q1b-pending
-*** [#B] ST8.8 - Flight into Hull! :Jackie:plot_no:
-*** [#B] 65X A Postcard from Mr Colchester :Colchester:plot_yes:
-*** [#B] Gallifrey 6.3 -Ascension
+** 2025-q1b-extra
+*** Sandman 1.09 Tales in the Sand
+    SCHEDULED: <2025-04-06 Sun>
+
+** dw2025-q2a-doctor
+*** [#A] 1DA2.2 The Barbarians and the Samurai :1st_Dr:Susan:Ian:Barbara:2CD:
+*** [#B] SvsR#2 The Children of the Future :3rd_Dr:Sarah:Brigadier:
+*** [#C] MR270. Shadow of the Daleks 2a/b :5th_Dr:Daleks:
+*** FIXME [#C] NA07. Theatre of War (part1~2) :Ace:Benny:dw2025_q2a_doctor:
+    SCHEDULED: <2025-04-26 Sat>
+
+*** READY [#E] 9DA3.1.3 The Beautiful Game :bilibili:
+*** [#B] ST12.6 The Galois Group :11th_Dr:Valarie:plot_yes:
+** dw2025-q2a-spinoffs
+*** [#A] TW7.7 Cuckoo :Bilis_Manger:
+*** READY [#A] TW63. Restricted Items Archive Entries 031–049 :Ianto:bilibili:
+*** [#C] UNEM1.2 Fire and Ice :Ice_Warriors:Harry:Naomi:
+*** [#D] JL9.4 - Return of the Nightmare
+*** READY [#E] Master! 3.1 Basilisk :Master_roberts:bilibili:
+
+【【神秘博士广播剧】MASTER！301 Basilisk 蛇怪计划-哔哩哔哩】 https://b23.tv/X4ikFVS
+
+*** [#C] BSNA2.1 - The Pyramid of Sutekh :Benny:7th_Dr:Ace:Sutekh:
+*** [#B] Gallifrey 6.3 - Ascension
+*** [#C] Rory2.1 The Once and Future Nurse
+** 2025-q2a-extra
+*** [#C] BFSH2.1a The Empty House
 * FIXME pending
 ** special
 *** READY 4DA1303 - Metamorphosis :4th_Dr:Harry:Naomi:Master_decayed:bilibili:
@@ -1980,18 +2011,22 @@ Tales of Trenzalore - 01
 ***** [#C] Jack1.2 Wednesdays For Beginners (Jackie)
 ***** [#C] Jack1.4 Month 25
 ***** [#B] Jack2.1 Piece of Mind :Jack:
-**** Andy: [#B] 58. Cadoc Point
+**** [#C] TWBBC5.1 The Devil and Miss Carew :Jack:Gwen:Ianto:P2011:
+**** HALF [#A] TW16. torchwood_cascade_CDRIP.tor :Tosh:
 **** Andy + Owen: [#A] 49. Gooseberry :Owen:Andy:
      :PROPERTIES:
      :rating:   8.7
      :END:
 
+**** Andy: [#B] 58. Cadoc Point
 **** Yvvone+Ianto: [#C] TWO2.2 - Blind Summit / [#A] TWO2.3 - 9 to 5 :Yvonne:Ianto:
-**** READY Ianto: [#A] 63. Restricted Items Archive Entries 031–049
-**** [#B] 67. The Lincolnshire Poacher :Ianto:
 **** FIXME [#D] TW65. Death in Venice :Colchester:Ace:
+**** [#B] TW65X A Postcard from Mr Colchester :Colchester:plot_yes:
+**** [#B] 67. The Lincolnshire Poacher :Ianto:
 **** TW Soho #3 The Unbegotten :Norton:Andy:Lizbeth:P2022_10:plot_yes:
 *** Benny
+**** BSNA2.3 - The Eye of Horus :Sutekh:
+**** [#A] BSST.2 And Then Again :Benny:7th_Dr:
 **** FIXME [#C] BS6.2 The Kingdom of the Blind :Benny:
      :PROPERTIES:
      :rating:   7.7
@@ -2007,10 +2042,6 @@ http://drwhoguide.com/bs_a18.htm
 *** Master
 **** FIXME [#D] Missy3.1 Body and Soulless
 **** [#D] WM8.2 - The Shadow Master
-**** READY [#E] 3.1 Basilisk :bilibili:
-
-【【神秘博士广播剧】MASTER！301 Basilisk 蛇怪计划-哔哩哔哩】 https://b23.tv/X4ikFVS
-
 **** READY [#D] 3.2 Axos Rising :bilibili:
 
 【【神秘博士广播剧】MASTER! 302 Axos Rising Axos崛起-哔哩哔哩】 https://b23.tv/2KICAg4
