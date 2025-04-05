@@ -125,8 +125,8 @@ Mr Pugh doesn't believe the world needs Torchwood. Gwen sets out to prove him w
       :END:
 
 B站有字幕 
-https://b23.tv/AvT0wB
-https://b23.tv/Lv2q44
+https://b23.tv/BV1Hx411s7KF
+https://b23.tv/BV1nx411j7T9
 
 ***** 2DONE [#B] 12. Made You Look :Gwen:
       CLOSED: [2021-04-27 Tue 08:33]
@@ -469,9 +469,9 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
       SCHEDULED: <2023-09-24 Sun>
 
 ***** READY [#A] 63. Restricted Items Archive Entries 031–049 :Ianto:plot_yes:bilibili:dw2025_q2a_spinoffs:
-      SCHEDULED: <2025-04-13 Sun>
+      SCHEDULED: <2025-04-20 Sun>
 
-【【自译中字/火炬木小组广播剧】限制级物品档案条目031-049-哔哩哔哩】 https://b23.tv/4L3q8Ay
+【【自译中字/火炬木小组广播剧】限制级物品档案条目031-049-哔哩哔哩】 https://b23.tv/BV15N4y1e7Rk
 
 ***** 3QTR [#B] 64. Suckers :Tosh:plot_yes:DW2024_01_spinoffs:
       CLOSED: <2024-01-18 Thu 08:52> SCHEDULED: <2024-01-21 Sun>
@@ -1314,18 +1314,20 @@ Roberts Master
 *** [#A] Benjamin & Baxter (documentary)                     (8.8)
 * Gallifrey :🎧:Gallifrey:Romana_2:
 ** series 1 :plot_simple:P2004:
-*** HALF [#C] 1.1 Weapon of Choice :D2021_08_extra:
+*** HALF [#C] 1.1 Weapon of Choice :D2021_08_extra:bilibili:
     :PROPERTIES:
     :rating:   7.6
     :END:
-
+【神秘博士广播剧熟肉】Gallifrey 101 武器的选择-Weapon of Choice
+https://www.bilibili.com/video/BV11y421h7vR
 *** 3QTR [#C] 1.2 Square One :D2021_09_extra:overdue:bilibili:
     CLOSED: [2021-11-03 Wed 21:05] SCHEDULED: <2021-11-03 Wed>
     :PROPERTIES:
     :rating:   7.6
     :END:
 
-【【神秘博士广播剧熟肉】Gallifrey 102-Square One 最初的起点-哔哩哔哩】 https://b23.tv/ixQmCx6
+【【神秘博士广播剧熟肉】Gallifrey 102-Square One 最初的起点-哔哩哔哩】 
+https://www.bilibili.com/video/BV1tx4y1b7be
 
 *** HALF [#C] 1.3 The Inquiry :bilibili:D2021_11_extra:
     SCHEDULED: <2021-11-27 Sat>
@@ -1333,7 +1335,8 @@ Roberts Master
     :rating:   7.8
     :END:
 
-【【神秘博士衍生广播剧Gallifrey熟肉】The inquiry-调查103-哔哩哔哩】 https://b23.tv/W5Qawah
+【【神秘博士衍生广播剧Gallifrey熟肉】The inquiry-调查103-哔哩哔哩】 
+https://www.bilibili.com/video/BV1dT4y1b7mf
 
 *** 3QTR [#B] 1.4 A Blind Eye :D2021_12_extra:bilibili:
     CLOSED: [2021-12-21 Tue 21:39] SCHEDULED: <2021-12-15 Wed>
@@ -1341,7 +1344,8 @@ Roberts Master
     :rating:   8.4
     :END:
 
-【【神秘博士广播剧熟肉】Gallifrey 104 A Blind Eye 视而不见-哔哩哔哩】 https://b23.tv/9BezQgj
+【【神秘博士广播剧熟肉】Gallifrey 104 A Blind Eye 视而不见-哔哩哔哩】
+https://www.bilibili.com/video/BV1Ab421J7bg
 
 ** series 2 :P2005:
 *** 3QTR [#B] 2.1 - Lies :D2022_01_spinoffs:bilibili:
@@ -1350,7 +1354,8 @@ Roberts Master
     :rating:   8.4
     :END:
 
-【【神秘博士广播剧熟肉】Gallifrey 201 Lies-谎言-哔哩哔哩】 https://b23.tv/0LZkL5t
+【【神秘博士广播剧熟肉】Gallifrey 201 Lies-谎言-哔哩哔哩】
+https://www.bilibili.com/video/BV1F8DYYFEnQ
 
 *** 3QTR [#B] 2.2 - Spirit :D2022_01_spinoffs:
     SCHEDULED: <2022-01-16 Sun>
@@ -1725,7 +1730,8 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
 *** vol.3 The Unbound Universe :unbound_universe:Unbound_Dr:P2016:
 **** HALF Unbound #2: Sympathy for the Devil :bilibili:Master_unbound:
 
-【【神秘博士广播剧熟肉】Unbound: Sympathy for the Devil 怜悯恶魔-哔哩哔哩】 https://b23.tv/d9yBioC
+【【神秘博士广播剧熟肉】Unbound: Sympathy for the Devil 怜悯恶魔-哔哩哔哩】 
+https://www.bilibili.com/video/BV1QT41147a8
 
 **** Unbound #8: Masters of War
 **** 3QTR [#B] 3.1 - The Library In The Body :D2021_08_extra:plot_no:D2021_12_extra:week2:
@@ -1878,9 +1884,9 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
      :rating:   9.0
      :END:
 
-【「重製版熟肉神秘博士廣播劇」Missy 102 Divorced, Beheaded, Regenerated-哔哩哔哩】 https://b23.tv/imPAE6N
+【「重製版熟肉神秘博士廣播劇」Missy 102 Divorced, Beheaded, Regenerated-哔哩哔哩】 https://b23.tv/BV1P5411M7Li
 
-**** 3QTR [#A] 1.3 - The Broken Clock :D2021_10_extra:plot_no:bilibili:
+**** 3QTR [#A] 1.3 The Broken Clock :D2021_10_extra:plot_no:bilibili:
      CLOSED: [2021-11-27 Sat 08:52] DEADLINE: <2021-11-30 Tue> SCHEDULED: <2021-11-13 Sat>
      :PROPERTIES:
      :rating:   8.6
@@ -1901,7 +1907,8 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
      :rating:   8.8
      :END:
 
-【【神秘博士广播剧】Missy 201 The Lumiat-哔哩哔哩】 https://b23.tv/aeYuDl6
+【【神秘博士广播剧】Missy 201 The Lumiat-哔哩哔哩】 
+https://www.bilibili.com/video/BV1K94y1971F
 
 **** HALF [#E] +2.2 - Brimstone and Terror+ :plot_no:DW2022_08_spinoffs:
      SCHEDULED: <2022-08-13 Sat>
@@ -1944,11 +1951,14 @@ https://tieba.baidu.com/p/5863165791
 ** Masterful :🎧:
 *** READY Masterful :bilibili:
 
-【【神秘博士广播剧】Masterful 混乱之主 01-哔哩哔哩】 https://b23.tv/WSXHwtR
+【【神秘博士广播剧】Masterful 混乱之主 01-哔哩哔哩】 
+https://www.bilibili.com/video/BV1mM41167DL
 
-【【神秘博士广播剧】Masterful 混乱之主 02-哔哩哔哩】 https://b23.tv/zhK524Y
+【【神秘博士广播剧】Masterful 混乱之主 02-哔哩哔哩】 
+https://www.bilibili.com/video/BV1AG4y1m75H
 
-【【神秘博士广播剧】Masterful 混乱之主 03-哔哩哔哩】 https://b23.tv/cXQO9PZ
+【【神秘博士广播剧】Masterful 混乱之主 03-哔哩哔哩】 
+https://www.bilibili.com/video/BV1oY41197ms/
 
 *** 2DONE [#A] _ST8.10 - I Am The Master_ ⭐ :Master:bilibili:DW2023_06_spinoffs:
     CLOSED: [2023-05-23 Tue 22:12] SCHEDULED: <2023-06-25 Sun>
@@ -1996,15 +2006,14 @@ https://tieba.baidu.com/p/5863165791
 **** READY [#E] 3.1 Basilisk :bilibili:dw2025_q2a_spinoffs:
      SCHEDULED: <2025-05-04 Sun>
 
-【【神秘博士广播剧】MASTER！301 Basilisk 蛇怪计划-哔哩哔哩】 https://b23.tv/X4ikFVS
-
+【【神秘博士广播剧】MASTER！301 Basilisk 蛇怪计划-哔哩哔哩】 https://b23.tv/BV1oc1mY2Eea
 **** READY [#D] 3.2 Axos Rising :bilibili:
 
-【【神秘博士广播剧】MASTER! 302 Axos Rising Axos崛起-哔哩哔哩】 https://b23.tv/2KICAg4
+【【神秘博士广播剧】MASTER! 302 Axos Rising Axos崛起-哔哩哔哩】 https://b23.tv/BV1cR2RYmEhC
 
 **** READY [#D] 3.3 Hellbound :bilibili:
 
-【【神秘博士广播剧】MASTER! 303 Hellbound 地狱之旅-哔哩哔哩】 https://b23.tv/wytau8f
+【【神秘博士广播剧】MASTER! 303 Hellbound 地狱之旅-哔哩哔哩】 https://b23.tv/BV1pVDmYTEn9
 
 ** The War Master  ↗
 ** Call Me Master :Master_spy:
@@ -2862,12 +2871,10 @@ http://www.drwhoguide.com/kaldor03.htm
 *** 📂The Faction Paradox Protocols (BBV 2001-2004)
 **** READY 1. The Eleven-Day Empire :P2001:bilibili:
 
-【【神秘博士广播剧熟肉】Faction Paradox 101 The Eleven Day Empire 十一日帝国-哔哩哔哩】 https://b23.tv/yggpd5J
-
+【【神秘博士广播剧熟肉】Faction Paradox 101 The Eleven Day Empire 十一日帝国-哔哩哔哩】https://b23.tv/BV1Yf421B7Kv
 **** READY 2. The Shadow Play :P2001:bilibili:
 
-【【神秘博士广播剧熟肉】Faction Paradox 102 The Shadow Play 影子戏-哔哩哔哩】 https://b23.tv/MWqe754
-
+【【神秘博士广播剧熟肉】Faction Paradox 102 The Shadow Play 影子戏-哔哩哔哩】https://b23.tv/BV1k4421U7QQ
 **** 3. Sabbath Dei :P2003:
 **** 4. In the Year of the Cat :P2003:
 **** 5. Movers :P2003:
@@ -3087,7 +3094,7 @@ https://doctorwho.guide/sj_06.htm
      :rating:   7.9
      :END:
 
-【【神秘博士广播剧熟肉】The Dimension Cannon 201 Saltwater 盐水-哔哩哔哩】 https://b23.tv/M44oyPQ
+【【神秘博士广播剧熟肉】The Dimension Cannon 201 Saltwater 盐水-哔哩哔哩】 https://b23.tv/BV1g8411u77x
 
 **** DONE [#B] 2.2 Now is the New Dark :bilibili:DW2024_Q4a_spinoffs:
      CLOSED: [2025-03-09 Sun 15:16] SCHEDULED: <2024-11-10 Sun>
@@ -3095,7 +3102,7 @@ https://doctorwho.guide/sj_06.htm
      :rating:   8.0
      :END:
 
-【【神秘博士广播剧熟肉】The Dimension Cannon 202 Now is the New Dark 新黑暗-哔哩哔哩】 https://b23.tv/DsxHEzn
+【【神秘博士广播剧熟肉】The Dimension Cannon 202 Now is the New Dark 新黑暗-哔哩哔哩】 https://b23.tv/BV12o4y1i7iX
 
 **** HALF [#A] 2.3 The Rogue Planet :plot_no:bilibili:dw2025_q1a_spinoffs:
      SCHEDULED: <2025-02-09 Sun>
@@ -3103,21 +3110,19 @@ https://doctorwho.guide/sj_06.htm
      :rating:   8.8
      :END:
 
-【【神秘博士广播剧熟肉】The Dimension Cannon 203 The Rogue Planet 流浪行星-哔哩哔哩】 https://b23.tv/T3YU8OJ
-
+【【神秘博士广播剧熟肉】The Dimension Cannon 203 The Rogue Planet 流浪行星-哔哩哔哩】 https://b23.tv/BV1Hs4y187XU
 *** 📂RTDC vol.3 Trapped :P2023_09:
 **** READY [#E] 3.1 Sink or Swim :bilibili:
 
-【【神秘博士广播剧熟肉】The Dimension Cannon 301 Sink or Swim 听任沉浮-哔哩哔哩】 https://b23.tv/JxOvW0I
+【【神秘博士广播剧熟肉】The Dimension Cannon 301 Sink or Swim 听任沉浮-哔哩哔哩】 https://b23.tv/BV1384y1m7Dj
 
 **** READY [#C] 3.2 The Lower Road :bilibili:
 
-【【神秘博士广播剧熟肉】The Dimension Cannon 302 The Lower Road 黑暗之路-哔哩哔哩】 https://b23.tv/PqItLGk
+【【神秘博士广播剧熟肉】The Dimension Cannon 302 The Lower Road 黑暗之路-哔哩哔哩】https://b23.tv/BV1Lj411t7Lm
 
 **** READY [#B] 3.3 The Good Samaritan :bilibili:
 
-【【神秘博士广播剧熟肉】The Dimension Cannon 303 The Good Samaritan 好撒玛利亚人-哔哩哔哩】 https://b23.tv/WS4osiT
-
+【【神秘博士广播剧熟肉】The Dimension Cannon 303 The Good Samaritan 好撒玛利亚人-哔哩哔哩】 https://b23.tv/BV16j421Q7hs
 ** Donna Nobel - Kidnapped :Donna:P2020:
 
 From Donna's perspective, the anthology is set after /Forest of the Dead/.
@@ -3187,16 +3192,14 @@ From Donna's perspective, the anthology is set after /Forest of the Dead/.
 *** vol.1 Most Wanted :P2025_01:
 **** READY 1.1 Fast Times :bilibili:
 
-【【神秘博士广播剧熟肉】Most Wanted 101 Fast Times 疾速时刻-哔哩哔哩】 https://b23.tv/YrPIGZF
+【【神秘博士广播剧熟肉】Most Wanted 101 Fast Times 疾速时刻-哔哩哔哩】 https://b23.tv/BV1UXFieVEr9
 
 **** READY 1.2 The Legend of Baba Yaga :bilibili:
 
-【【神秘博士广播剧熟肉】Most Wanted 102 The Legend of Baba Yaga 芭芭·雅加的传说-哔哩哔哩】 https://b23.tv/F4pfJpk
-
+【【神秘博士广播剧熟肉】Most Wanted 102 The Legend of Baba Yaga 芭芭·雅加的传说-哔哩哔哩】https://b23.tv/BV1VLNaeDEBz
 **** READY 1.3 The Dimension of Lost Things :bilibili:
 
-【【神秘博士广播剧熟肉】Most Wanted 103 The Dimension of Lost Things 失落之物的维度-哔哩哔哩】 https://b23.tv/Jqhq8ys
-
+【【神秘博士广播剧熟肉】Most Wanted 103 The Dimension of Lost Things 失落之物的维度-哔哩哔哩】 https://b23.tv/BV16UAYeFEy8
 * BF spin-offs
 ** Charlotte Pollard
 *** series 1 :P2014:

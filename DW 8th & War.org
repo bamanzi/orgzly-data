@@ -21,7 +21,8 @@ CLOSED: [2020-08-11 Tue 08:46]
 :rating:   7.7
 :END:
 
-【【神秘博士广播剧熟肉】MR 016 Storm Warning 风暴预警-哔哩哔哩】 https://b23.tv/XYs7qbA
+【【神秘博士广播剧熟肉】MR 016 Storm Warning 风暴预警-哔哩哔哩】 
+https://b23.tv/BV1gT411z7Yu
 
 ***** DONE [#E] 017 - Sword Of Orion :Cybermen:
 CLOSED: [2020-08-18 Tue 08:19] SCHEDULED: <2022-08-30 Tue>
@@ -53,24 +54,28 @@ CLOSED: [2020-09-24 Thu 08:32]
 :rating:   9.4
 :END:
 
-【【神秘博士广播剧熟肉】MR029-The Chime of Midnight-午夜钟声-哔哩哔哩】 https://b23.tv/9ZVU3k8
+【【神秘博士广播剧熟肉】MR029-The Chime of Midnight-午夜钟声-哔哩哔哩】 
+https://b23.tv/BV1DM4m1m7iD
 
 ***** 2DONE [#B] 030 - Seasons of Fear (8.4). :bilibili:
 CLOSED: [2020-11-26 Thu 08:26]
 
-【【神秘博士广播剧熟肉】MR 030 Seasons of Fear 恐惧之季-哔哩哔哩】 https://b23.tv/Huubr5D
+【【神秘博士广播剧熟肉】MR 030 Seasons of Fear 恐惧之季-哔哩哔哩】 
+https://b23.tv/BV1JT411p7Wp
 
 ***** DONE [#D] _031 - Embrace the Darkness_ :plot_no:bilibili:DW2023_08_doctor:
 CLOSED: [2023-09-02 Sat 23:13] SCHEDULED: <2023-08-12 Sat>
 
-【【神秘博士广播剧熟肉】MR 031 Embrace the Darkness 拥抱黑暗-哔哩哔哩】 https://b23.tv/jwHXAsd
+【【神秘博士广播剧熟肉】MR 031 Embrace the Darkness 拥抱黑暗-哔哩哔哩】 
+https://b23.tv/BV1pa4y1G72m
 
 ***** READY [#E] +032 - The Time of the Daleks+ :bilibili:
 :PROPERTIES:
 :rating:   6.3
 :END:
 
-【【神秘博士广播剧熟肉】MR 032 The Time of the Daleks 戴立克之时-哔哩哔哩】 https://b23.tv/Wv6gLf7
+【【神秘博士广播剧熟肉】MR 032 The Time of the Daleks 戴立克之时-哔哩哔哩】 
+https://b23.tv/BV1Y24y1K7GQ
 
 ***** 3QTR [#B] 033 - Neverland :Romana_2:Rassilon:plot_yes_dwg:bilibili:DW2024_Q3b_doctor:
 CLOSED: [2024-08-10 Sat 20:04] SCHEDULED: <2024-08-10 Sat>
@@ -80,16 +85,20 @@ CLOSED: [2024-08-10 Sat 20:04] SCHEDULED: <2024-08-10 Sat>
 
 http://drwhoguide.com/who_bf33.htm
 
-【【神秘博士广播剧熟肉】MR 033 Neverland 永无乡-哔哩哔哩】 https://b23.tv/bjamVSy
+【【神秘博士广播剧熟肉】MR 033 Neverland 永无乡-哔哩哔哩】 
+https://b23.tv/BV1LP411Q7FU
 
 ***** BLOCK [#D] 50. Zegreus :Romana_2:5th_Dr:6th_Dr:7th_Dr:Rassilon:Leela:Charley:3CD:bilibili:
 :PROPERTIES:
 :rating:   7.3
 :END:
 
--【【DW广播剧/双语】MR 50a Zagreus 第一部 仙境-哔哩哔哩】 https://b23.tv/HgBPSgu
-- 【【神秘博士广播剧熟肉】MR 050b Zagreus - Heartland 腹地-哔哩哔哩】 https://b23.tv/Wdk0e1i
-- 【【神秘博士广播剧熟肉】MR 050c Zagreus - Wasteland 荒野-哔哩哔哩】 https://b23.tv/pHm5uJP
+- 【【DW广播剧/双语】MR 50a Zagreus 第一部 仙境-哔哩哔哩】 
+https://b23.tv/BV1QM4y1x7MT
+- 【【神秘博士广播剧熟肉】MR 050b Zagreus - Heartland 腹地-哔哩哔哩】 
+https://b23.tv/BV1114y1Q7zi
+- 【【神秘博士广播剧熟肉】MR 050c Zagreus - Wasteland 荒野-哔哩哔哩】 
+https://b23.tv/BV1Wh4y1y7xt
 
 ***** BLOCK [#A] 52. Scherzo :Charley:plot_yes:P2003:bilibili:
 :PROPERTIES:
@@ -98,7 +107,8 @@ http://drwhoguide.com/who_bf33.htm
 
  Most of the build-up of this story is done in /Zagreus/, since /Neverland/, /Zagreus/ and /Scherzo/ are basically one big 8-hour story. So if you're listening to /Scherzo/ on its own, it's just completely serious and it's rather odd.
 
-【【神秘博士广播剧熟肉】MR 052 Scherzo 诙谐曲-哔哩哔哩】 https://b23.tv/jMH25le
+【【神秘博士广播剧熟肉】MR 052 Scherzo 诙谐曲-哔哩哔哩】 
+https://b23.tv/BV1D94y1v7dB
 
 **** MR part2 :Crizz:scripted:2CD:
 ***** CANCEL [#F] +053. The Creed of the Kromon+
@@ -175,7 +185,7 @@ CLOSED: [2021-12-14 Tue 03:29] SCHEDULED: <2021-12-12 Sun>
 :rating:   6.5
 :END:
 
-【【神秘博士广播剧熟肉】MR83 Something Inside 头中之物-哔哩哔哩】 https://b23.tv/sHi6wQy
+【【神秘博士广播剧熟肉】MR83 Something Inside 头中之物-哔哩哔哩】 https://b23.tv/BV1DheKe1E7a
 
 ***** DONE [#C] 88. Memory Lane :Charley:underrated:已购:
 CLOSED: <2021-06-12 Sat 08:09>
@@ -229,7 +239,8 @@ SCHEDULED: <2022-08-31 Wed>
 :rating:   9.2
 :END:
 
-【【神秘博士广播剧】Companion Chronicles 412 Solitaire 无知游戏-哔哩哔哩】 https://b23.tv/rq4Mqk7
+【【神秘博士广播剧】Companion Chronicles 412 Solitaire 无知游戏-哔哩哔哩】 
+https://b23.tv/BV1j94y14786
 
 ***** [#C] DotD #8. Enemy Aliens :Charley:plot_yes:
 ***** [#B] ST2.8 - Letting Go :P2011:
@@ -248,6 +259,10 @@ SCHEDULED: <2022-08-31 Wed>
 :END:
 
 ***** READY [#B] CDNM3.4 If I Should Die Before I Wake ↗ :plot_yes:bilibili:
+
+【【神秘博士广播剧熟肉】The Stuff of Nightmares 304 If I Should Die Before I Wake 若我在沉睡中死去-哔哩哔哩】 
+https://b23.tv/BV1CA411Q7Yk
+
 ***** [#C] SvsR #1. The Battle of Giant's Causeway :P2024_01:Crizz:
 ***** TBR ST13.4 Ahead of Time :P2025_04:
 *** with Mary
@@ -412,14 +427,15 @@ CLOSED: <2021-10-17 Sun 10:44>
 CLOSED: [2021-10-17 Sun 15:11]
 
 **** misc
-***** READY [#C] An Earthly Child :Susan:Alex:P2009:bilibili:
+***** READY [#C] BR08. An Earthly Child :Susan:Alex:P2009:bilibili:
 :PROPERTIES:
 :rating:   7.5
 :END:
 
 This is the beginning of the arc about adventures of Susan and Alex with the Eighth Doctor, which continues in /Relative Dimensions/ (with /Quinnis/ serving as a prequel of sorts), /Lucie Miller/ and /To the Death/.
 
-【【神秘博士广播剧熟肉】Bonus Release 08 An Earthly Child 平凡男孩-哔哩哔哩】 https://b23.tv/eWtDl46
+【【神秘博士广播剧熟肉】Bonus Release 08 An Earthly Child 平凡男孩-哔哩哔哩】 
+https://b23.tv/BV1Mr49efEDZ
 
 ***** [#D] SST14. Late Night Shopping
 ***** CANCEL [#E] SST25. The Caves of Erith
@@ -443,8 +459,10 @@ CLOSED: [2020-10-30 Fri 18:15]
 
 ***** HALF [#C] 2.2 The White Room (7.6) :Molly:Viyrans:
 ***** [#B] 2.3 Time's Horizon (8.4) :Liv:Molly:Master_bald:
-***** DONE [#A] 2.4 Eyes of the Master (8.6) :Liv:Molly:Master_bald:D2021_07_extra:
+***** DONE [#A] 2.4 Eyes of the Master (8.6) :Liv:Molly:Master_bald:bilibili:D2021_07_extra:
 CLOSED: <2021-07-16 Fri 16:32>
+
+【【神秘博士广播剧】Dark Eyes 204 - Eyes of the Master 法师之眼-哔哩哔哩】 https://b23.tv/BV1SB4y1v7Bw
 
 **** Dark Eyes vol.3 :Master_bald:Liv:
 ***** 2DONE [#C] 3.1 The Death of Hope (7.5) :D2021_07_extra:
@@ -472,7 +490,8 @@ CLOSED: [2022-01-05 Wed 16:56] SCHEDULED: <2022-01-30 Sun>
 :thetimescales: 8.4
 :END:
 
-【【神秘博士广播剧汉化】欢迎新反派十一光荣登场 Doom Coalition 101 The Eleven-哔哩哔哩】 https://b23.tv/oIkDWd7
+【【神秘博士广播剧汉化】欢迎新反派十一光荣登场 Doom Coalition 101 The Eleven-哔哩哔哩】 
+https://b23.tv/BV1RY411b7Af
 
 ****** 2DONE [#A] 1.2 The Red Lady :Helen:D2022_01_doctor:bilibili:
 CLOSED: <2022-01-19 Wed 20:06> SCHEDULED: <2022-01-30 Sun>
@@ -480,7 +499,8 @@ CLOSED: <2022-01-19 Wed 20:06> SCHEDULED: <2022-01-30 Sun>
 :thetimescales: 9.3
 :END:
 
-【【神秘博士广播剧汉化】Helen小姐姐初登场，智斗神秘怪物红夫人 Doom Coalition 102 The Red Lady-哔哩哔哩】 https://b23.tv/kysZeqJ
+【【神秘博士广播剧汉化】Helen小姐姐初登场，智斗神秘怪物红夫人 Doom Coalition 102 The Red Lady-哔哩哔哩】 
+https://b23.tv/BV1sY411V7wF
 
 ****** HALF [#E] 1.3 - The Galileo Trap :Helen:D2022_02_doctor:
 SCHEDULED: <2022-02-24 Thu>
@@ -573,11 +593,13 @@ SCHEDULED: <2024-12-21 Sat>
 ***** Ravenous vol.1
 ****** READY [#D] 1.1 Their Finest Hour :bilibili:
 
-【【神秘博士广播剧汉化】博士与丘吉尔的再次相遇 Ravenous 101 Their Finest Hour-哔哩哔哩】 https://b23.tv/d59He2Z
+【【神秘博士广播剧汉化】博士与丘吉尔的再次相遇 Ravenous 101 Their Finest Hour-哔哩哔哩】 
+https://b23.tv/BV1L34y1t7oj
 
 ****** READY [#D] 1.2 How to Make a Killing in Time :bilibili:
 
-【【神秘博士广播剧汉化】如何在时间旅行中杀人 Ravenous 102 How to Make a Killing in Time Travel-哔哩哔哩】 https://b23.tv/Mk7EzIp
+【【神秘博士广播剧汉化】如何在时间旅行中杀人 Ravenous 102 How to Make a Killing in Time Travel-哔哩哔哩】 
+https://b23.tv/BV1yY411E7Ph
 
 ****** [#D] 1.3 - World of Damnation :Helen:
 :PROPERTIES:
@@ -600,14 +622,16 @@ SCHEDULED: <2024-12-21 Sat>
 :rating:   8.2
 :END:
 
-【【神秘博士广播剧汉化】恶魔降临之日 Ravenous 202 Better Watch Out-哔哩哔哩】 https://b23.tv/vpmqJSH
+【【神秘博士广播剧汉化】恶魔降临之日 Ravenous 202 Better Watch Out-哔哩哔哩】 
+https://b23.tv/BV1QS4y1w7Wq
 
 ****** READY [#B] 2.3 - Fairytale of Salzburg :bilibili:
 :PROPERTIES:
 :rating:   8.3
 :END:
 
-【【神秘博士广播剧汉化】童话成真 Ravenous 203 Fairytale of Salzburg-哔哩哔哩】 https://b23.tv/d8zLcw8
+【【神秘博士广播剧汉化】童话成真 Ravenous 203 Fairytale of Salzburg-哔哩哔哩】 
+https://b23.tv/BV14R4y1P7TC
 
 ****** [#C] 2.4 - Seizure
 :PROPERTIES:
@@ -625,7 +649,8 @@ SCHEDULED: <2024-12-21 Sat>
 :rating:   8.9
 :END:
 
-【【神秘博士广播剧中字】宋江智斗九 营救博士同伴-哔哩哔哩】 https://b23.tv/4XfytgQ
+【【神秘博士广播剧中字】宋江智斗九 营救博士同伴-哔哩哔哩】 
+https://b23.tv/BV1HbFVehEH2
 
 ****** CANCEL [#E] +3.3 - L.E.G.E.N.D+
 :PROPERTIES:
@@ -650,65 +675,71 @@ SCHEDULED: <2024-12-21 Sat>
 :rating:   8.9
 :END:
 
-【【神秘博士广播剧】Ravenous 402 Planet of Dust 尘土之星-哔哩哔哩】 https://b23.tv/3xZT5N3
+【【神秘博士广播剧】Ravenous 402 Planet of Dust 尘土之星-哔哩哔哩】 
+https://b23.tv/BV1Hu4y127Hb
 
 ****** READY [#A] 4.3/4.4 Day of the Master :Master_war:Master_missy:Master_decayed:Master_roberts:bilibili:
 :PROPERTIES:
 :rating:   9.3/9.6
 :END:
 
-【【神秘博士广播剧】Ravenous 403 Day of the Master 法师之日(上)-哔哩哔哩】 https://b23.tv/wZ8IlTS
-
-【【神秘博士广播剧】Ravenous 403 Day of the Master 法师之日(下)-哔哩哔哩】 https://b23.tv/fcWfPdy
+【【神秘博士广播剧】Ravenous 403 Day of the Master 法师之日(上)-哔哩哔哩】 
+https://b23.tv/BV1iz4y1s7He
+【【神秘博士广播剧】Ravenous 403 Day of the Master 法师之日(下)-哔哩哔哩】 
+【【神秘博士广播剧】Ravenous 403 Day of the Master 法师之日(下)-哔哩哔哩】 
 
 **** 📂Stranded
 ***** Stranded vol.1
 ****** READY [#C] 1.1. Lost Property :bilibili:
 
-【【神秘博士广播剧汉化】Stranded 101 Lost Property-哔哩哔哩】 https://b23.tv/PVpk0P3
+【【神秘博士广播剧汉化】Stranded 101 Lost Property-哔哩哔哩】 
+https://b23.tv/BV1fR4y1M7Qz
 
 ****** READY [#A] 1.2. Wild Animals :bilibili:
 
-【【神秘博士广播剧汉化】Stranded 102 Wild Animals-哔哩哔哩】 https://b23.tv/8ZlfnhS
+【【神秘博士广播剧汉化】Stranded 102 Wild Animals-哔哩哔哩】 
+https://b23.tv/BV1sb4y1n729
 
 ****** READY [#C] 1.3 Must-See TV :bilibili:
 
-【【神秘博士广播剧汉化】贝克街遭遇神秘外星人监视 Stranded 103 Must-see TV-哔哩哔哩】 https://b23.tv/LxB2dhM
+【【神秘博士广播剧汉化】贝克街遭遇神秘外星人监视 Stranded 103 Must-see TV-哔哩哔哩】 
+https://b23.tv/BV1AS4y157nP
 
 ****** READY [#C] 1.4 Divine Intervention :bilibili:
 
-【【神秘博士广播剧汉化】八任博士惨遭暗杀，到底是圣人还是暴君 Stranded 104 Divine Intervention-哔哩哔哩】 https://b23.tv/hp9RA9M
+【【神秘博士广播剧汉化】八任博士惨遭暗杀，到底是圣人还是暴君 Stranded 104 Divine Intervention-哔哩哔哩】 
+https://b23.tv/BV15a411y7o8
 
 ***** Stranded vol.2
 ****** READY [#D] 2.1 Dead Time :bilibili:
 
-【【神秘博士广播剧汉化】发生在在遥远未来的废土世界中的冒险 Stranded 201 Dead Time-哔哩哔哩】 https://b23.tv/j4y3Dku
+【【神秘博士广播剧汉化】发生在在遥远未来的废土世界中的冒险 Stranded 201 Dead Time-哔哩哔哩】 https://b23.tv/BV1rr4y1h7HG
 
 ****** READY [#A] 2.2 UNIT Dating :bilibili:
 
-【【神秘博士广播剧汉化】UNIT时期诡异二三事  Stranded 202 UNIT Dating-哔哩哔哩】 https://b23.tv/smrjqOU
+【【神秘博士广播剧汉化】UNIT时期诡异二三事  Stranded 202 UNIT Dating-哔哩哔哩】 https://b23.tv/BV1g3411s7N9
 
 ****** READY [#C] 2.3 Baker Street Irregulars :bilibili:
 
-【【神秘博士广播剧汉化】博士的007体验 Stranded 203 Baker Street Irregulars-哔哩哔哩】 https://b23.tv/9cZaGrx
+【【神秘博士广播剧汉化】博士的007体验 Stranded 203 Baker Street Irregulars-哔哩哔哩】 https://b23.tv/BV1QY411n7Qx
 
 ****** READY [#A] 2.4 The Long Way Round :bilibili:
 
-【【神秘博士广播剧汉化】“博士”到底是谁 Stranded 204 The Long Way Round-哔哩哔哩】 https://b23.tv/SGbYhvK
+【【神秘博士广播剧汉化】“博士”到底是谁 Stranded 204 The Long Way Round-哔哩哔哩】 https://b23.tv/BV1w34y147z4
 
 ***** Stranded vol.3
 ****** READY [#B] 3.1 - Patience :bilibili:
 
-【【广播剧汉化】老八秘制小课堂开讲啦 Stranded 301 Patience-哔哩哔哩】 https://b23.tv/p0BnRuG
+【【广播剧汉化】老八秘制小课堂开讲啦 Stranded 301 Patience-哔哩哔哩】 https://b23.tv/BV1rB4y1n7Nv
 
 ****** READY [#C] 3.2 - Twisted Folklore :bilibili:
 
-【【广播剧汉化】被扭曲的童谣 Stranded 302 Twisted Folklore-哔哩哔哩】 https://b23.tv/UnkdV67
+【【广播剧汉化】被扭曲的童谣 Stranded 302 Twisted Folklore-哔哩哔哩】 https://b23.tv/BV1pG4y1s7ep
 
 ****** [#A] 3.3 - Snow
 ****** READY [#A] 3.4 - What Just Happened? :bilibili:
 
-【【广播剧汉化】似曾相识的选择 Stranded 304 What Just Happened-哔哩哔哩】 https://b23.tv/VoZ3pUM
+【【广播剧汉化】似曾相识的选择 Stranded 304 What Just Happened-哔哩哔哩】 https://b23.tv/BV1AR4y1X7BU
 
 ***** Stranded vol.4 :P2022_04:
 ****** 4.1 Crossed Lines
@@ -718,9 +749,9 @@ SCHEDULED: <2024-12-21 Sat>
 **** 📂What Lies Inside :P2022_11:plot_yes:
 ***** READY [#A] Paradox of the Daleks :2CD:bilibili:
 
-【【广播剧汉化】 旋涡中的莫比乌斯环 Paradox of the Daleks 上-哔哩哔哩】 https://b23.tv/6iEGooT
+【【广播剧汉化】 旋涡中的莫比乌斯环 Paradox of the Daleks 上-哔哩哔哩】 https://b23.tv/BV1FG411T7SS
 
-【【广播剧汉化】 无头无尾的衔尾蛇 Paradox of the Daleks 下-哔哩哔哩】 https://b23.tv/4BN1Xdz
+【【广播剧汉化】 无头无尾的衔尾蛇 Paradox of the Daleks 下-哔哩哔哩】 https://b23.tv/BV1GG411M7eE
 
 ***** [#D] The Dalby Spook :1CD:
 **** 📂Connections :P2022_12:1CD:plot_yes:
@@ -735,7 +766,7 @@ SCHEDULED: <2024-12-21 Sat>
 **** 📂Audacity :P2023_11:plot_yes:Audacity:
 ***** READY [#D] The Devouring :1CD:bilibili:
 
-【【广播剧汉化】愤怒的纠缠 Audacity 101 The Devouring-哔哩哔哩】 https://b23.tv/j9alyHV
+【【广播剧汉化】愤怒的纠缠 Audacity 101 The Devouring-哔哩哔哩】 https://b23.tv/BV1qK411b7dy
 
 ***** [#B] The Great Cyber-War :2CD:Cybermen:Charley:
 **** 📂In the Bleak Midwinter :P2023_12:1CD:Audacity:Charley:
@@ -761,7 +792,8 @@ SCHEDULED: <2024-12-21 Sat>
 
 **** READY Lies in Ruins (The Legacy of Time) :8th_Dr:bilibili:Benny:🎧:
 
-【【自制字幕】神秘博士BF特辑宋江八叔历险记-哔哩哔哩】https://b23.tv/vLRN31
+【【自制字幕】神秘博士BF特辑宋江八叔历险记-哔哩哔哩】
+https://b23.tv/BV1eA411G76T
 
 **** DONE The Rulers of the Universe (DoRS #1.4) :🎧:
 CLOSED: [2020-09-23 Wed 12:53]
@@ -857,9 +889,9 @@ https://tardis.wiki/wiki/Theory:Timeline_-_Last_Great_Time_War
 https://www.youtube.com/watch?v=Ft-aZtM_qlo&t=533s
 
 
-【【神秘博士】时间之战故事解析(上)-哔哩哔哩】https://b23.tv/H3BQQa
+【【神秘博士】时间之战故事解析(上)-哔哩哔哩】https://b23.tv/BV1ya4y1Y7eh
 
-【【神秘博士】时间之战故事解析（下）-哔哩哔哩】 https://b23.tv/TTKWgUM 
+【【神秘博士】时间之战故事解析（下）-哔哩哔哩】 https://b23.tv/BV1X54y1B7iK
 
 ** 0. Catalysts
 *** TV: Genesis of the Daleks (12x04)
@@ -939,7 +971,8 @@ CLOSED: [2021-01-06 Wed 09:03]
 :rating:   8.5
 :END:
 
-【【神秘博士广播剧汉化】光与暗，善与恶，到底什么才是完美配比呢 The War Master 战争法师 304 Darkness and Light-哔哩哔哩】 https://b23.tv/BrsnX9D
+【【神秘博士广播剧汉化】光与暗，善与恶，到底什么才是完美配比呢 The War Master 战争法师 304 Darkness and Light-哔哩哔哩】 
+https://b23.tv/BV1X44y1s7T8
 
 *** HALF [#C] Concealed Weapon (Diary Of River Song 5.4) :🎧:River:Master_war:
 :PROPERTIES:
@@ -952,35 +985,42 @@ CLOSED: [2021-01-06 Wed 09:03]
 **** DONE [#A] _8.1 The Wrath of Medusa_ :bilibili:DW2023_07_spinoffs:
 CLOSED: [2023-07-27 Thu 19:33] SCHEDULED: <2023-07-23 Sun>
 
-【【广播剧汉化】奥林匹斯超市开张啦 The War Master 战争法师 801 The Wrath of Medusa-哔哩哔哩】 https://b23.tv/nf4Yhuu
+【【广播剧汉化】奥林匹斯超市开张啦 The War Master 战争法师 801 The Wrath of Medusa-哔哩哔哩】 
+https://b23.tv/BV1v84y147wr
 
 **** [#D] 8.2 The Shadow Master
 **** 3QTR [#A] 8.3 The Adventure of the Deceased Doctor :Holmes:plot_cast:bilibili:dw2025_q1b_spinoffs:
 CLOSED: <2025-02-26 Wed 09:55> SCHEDULED: <2025-03-02 Sun>
 
-【【广播剧汉化】福尔摩法历险记 The War Master 战争法师 803 The Adventure of the Deceased Doctor-哔哩哔哩】 https://b23.tv/p7QpEiz
+【【广播剧汉化】福尔摩法历险记 The War Master 战争法师 803 The Adventure of the Deceased Doctor-哔哩哔哩】 
+https://b23.tv/BV1Zc411P7L7
 
 **** READY [#C] 8.4 The Master of Dorian Gray :bilibili:
 
-【【广播剧汉化】 你也有今天啊 The War Master 战争法师 804 The Master of Dorian Gray-哔哩哔哩】 https://b23.tv/UiQZnNN
+【【广播剧汉化】 你也有今天啊 The War Master 战争法师 804 The Master of Dorian Gray-哔哩哔哩】 
+https://b23.tv/BV1ju411x7qo
 
 *** Master of Worlds (UNIT new #6.4) :Master_war:🎧:
 *** /📂The War Master series 9: Solitary Confinement/ :🎧:P2023_06:Master_war:plot_cast:
 **** READY [#A] 9.1 - The Walls of Absence :bilibili:
 
-【【广播剧汉化】燃烧的天空 The War Master 战争法师 901 The Walls of Absence-哔哩哔哩】 https://b23.tv/vQ364oL
+【【广播剧汉化】燃烧的天空 The War Master 战争法师 901 The Walls of Absence-哔哩哔哩】 
+https://b23.tv/BV1PP411h7Uw
 
 **** READY [#A] 9.2 - The Long Despair :bilibili:
 
-【【广播剧汉化】漫长的绝望 The War Master 战争法师 902 The Long Despair-哔哩哔哩】 https://b23.tv/ZP1QcKr
+【【广播剧汉化】漫长的绝望 The War Master 战争法师 902 The Long Despair-哔哩哔哩】 
+https://b23.tv/BV1Wj411k7xV
 
 **** READY [#A] 9.3 - The Life and Loves of Mr Alexander Bennett :bilibili:
 
-【【广播剧汉化】法师的画饼日常 The War Master 战争法师 903 The Life and Loves of Mr Alexander-哔哩哔哩】 https://b23.tv/W4xMLa7
+【【广播剧汉化】法师的画饼日常 The War Master 战争法师 903 The Life and Loves of Mr Alexander-哔哩哔哩】
+https://b23.tv/BV1Nu411u79c
 
 **** READY [#C] 9.4 - The Kicker :bilibili:
 
-【【广播剧汉化】真假法师 The War Master 战争法师 904 The Kicker-哔哩哔哩】 https://b23.tv/J1ytO0Z
+【【广播剧汉化】真假法师 The War Master 战争法师 904 The Kicker-哔哩哔哩】 
+https://b23.tv/BV1C841117ip
 
 *** /📂The War Master series 10: Rogue Encounters/ :P2023_11:🎧:
 **** [#C] 10.1 Runtime
@@ -1045,17 +1085,20 @@ CLOSED: [2021-09-24 Fri 18:50] SCHEDULED: <2021-09-04 Sat>
 **** DONE [#B] 7.1 The Forest of Penitence :bilibili:DW2024_Q2b_spinoffs:
 CLOSED: [2024-12-14 Sat 15:18] SCHEDULED: <2024-05-26 Sun>
 
-【【广播剧汉化】恶魔的低语 The War Master 战争法师 701 The Forest Penitence-哔哩哔哩】 https://b23.tv/fdIB3vT
+【【广播剧汉化】恶魔的低语 The War Master 战争法师 701 The Forest Penitence-哔哩哔哩】 
+https://b23.tv/BV1Pa411W7xi
 
 **** 2DONE [#D] 7.2 The Players :bilibili:DW2024_Q3a_spinoffs:
 CLOSED: [2024-07-09 Tue 13:25] SCHEDULED: <2024-06-23 Sun>
 
-【【广播剧汉化】蹩脚的自辩 The War Master 战争法师 702 The Players-哔哩哔哩】 https://b23.tv/X3fable
+【【广播剧汉化】蹩脚的自辩 The War Master 战争法师 702 The Players-哔哩哔哩】 
+https://b23.tv/BV1bS4y1p7jb
 
-**** 3QTR [#B] WM7.3 Boundaries :Cole:bilibili:DW2024_Q3b_spinoffs:
+**** 3QTR [#B] 7.3 Boundaries :Cole:bilibili:DW2024_Q3b_spinoffs:
 CLOSED: <2024-08-13 Tue 08:57> SCHEDULED: <2024-08-11 Sun>
 
-【【广播剧汉化】徒劳的挣扎 The War Master 战争法师 703 Boundaries-哔哩哔哩】 https://b23.tv/KX01zpP
+【【广播剧汉化】徒劳的挣扎 The War Master 战争法师 703 Boundaries-哔哩哔哩】 
+https://b23.tv/BV1RL4y1w7W3
 
 **** 3QTR [#A] 7.4 The Last Line :10th_Dr:bilibili:DW2024_Q4b_spinoffs:
 CLOSED: [2024-12-16 Mon 21:52] SCHEDULED: <2024-12-14 Sat>
@@ -1063,7 +1106,8 @@ CLOSED: [2024-12-16 Mon 21:52] SCHEDULED: <2024-12-14 Sat>
 :rating:   8.8
 :END:
 
-【【广播剧汉化】注定的未来 The War Master 战争法师 704 The Last Line-哔哩哔哩】 https://b23.tv/ZzLB3Ta
+【【广播剧汉化】注定的未来 The War Master 战争法师 704 The Last Line-哔哩哔哩】 
+https://b23.tv/BV1rt4y147Ys
 
 *** /📂The War Master series 6: Killing Time/ :Master_war:P2021:🎧:scripted:plot_cast:
 **** DONE [#B] 6.1 - The Sincerest Form of Flattery :DW2023_08_spinoffs:
@@ -1151,24 +1195,28 @@ CLOSED: [2020-09-23 Wed 12:53]
 *** DONE All Hands on Deck (Short Trips #7.10) :8th_Dr:bilibili:
 CLOSED: [2020-09-23 Wed 12:53]
 
-【【翻译】Big Finish神秘博士八叔Time War短篇有声书 - 严阵以待 第一部分-哔哩哔哩】https://b23.tv/zhgkAz 
+【【翻译】Big Finish神秘博士八叔Time War短篇有声书 - 严阵以待 第一部分-哔哩哔哩】https://b23.tv/BV1zW411p7B1
 
 *** 📂Susan's War :Susan:🎧:Rasmus:
 **** Prequel
 **** HALF [#C] Susan1.1 Sphere of Influence :plot_yes:Ian:bilibili:P2020_04:DW2023_05_spinoffs:
 SCHEDULED: <2023-05-21 Sun>
 
-【【神秘博士广播剧汉化】Susan's War 苏珊的战争 101 Sphere of Influence-哔哩哔哩】 https://b23.tv/qIYe1v0
+【【神秘博士广播剧汉化】Susan's War 苏珊的战争 101 Sphere of Influence-哔哩哔哩】 
+https://b23.tv/BV1J64y1B74Y
 
 **** DONE [#D] Susan1.2 - The Uncertain Shore :plot_yes:bilibili:P2020_04:DW2023_08_spinoffs:
 CLOSED: [2023-09-28 Thu 18:43] SCHEDULED: <2023-09-03 Sun>
 
-【【神秘博士广播剧汉化】Susan's War 苏珊的战争 102 The Uncertain Shore-哔哩哔哩】https://b23.tv/WenJUb
+【【神秘博士广播剧汉化】Susan's War 苏珊的战争 102 The Uncertain Shore-哔哩哔哩】
+https://b23.tv/BV1J3411z7uy
+
 
 **** 3QTR [#D] 3. Assets of War :plot_yes:bilibili:P2020_04:DW2023_11_spinoffs:
 CLOSED: [2023-11-19 Sun 19:32] SCHEDULED: <2023-11-26 Sun>
 
-【【神秘博士广播剧汉化】Susan's War 苏珊的战争 103 Assets of War-哔哩哔哩】https://b23.tv/rjUz2u
+【【神秘博士广播剧汉化】Susan's War 苏珊的战争 103 Assets of War-哔哩哔哩】
+https://b23.tv/BV1J64y1B74Y
 
 **** HALF [#B] 4. The Shoreditch Intervention :P2020_04:8th_Dr:plot_yes:
 SCHEDULED: <2024-05-31 Fri>
@@ -1229,14 +1277,20 @@ SCHEDULED: <2024-05-25 Sat>
 :rating:   9.0
 :END:
 
-【【广播剧翻译】Valeyard复活参战？时间大战 304 The War Valeyard-哔哩哔哩】 https://b23.tv/klLTjmK
+【【广播剧翻译】Valeyard复活参战？时间大战 304 The War Valeyard-哔哩哔哩】 
+https://b23.tv/BV18R4y1G78S
 
 *** 📂8D Time War vol.4 :Bliss:P2020:scripted:🎧:已购:
-**** 3QTR [#A] 4.1/4.2 The Palindrome [A⁺] :D2021_10_davros:Davros:
+**** 3QTR [#A] 4.1/4.2 The Palindrome [A⁺] :D2021_10_davros:Davros:bilibili:
 CLOSED: [2021-10-25 Mon 08:47]
 :PROPERTIES:
 :rating:   9.2
 :END:
+
+- 【广播剧翻译】Davros的逆向人生 时间大战 401 Palindrome 上
+https://b23.tv/BV1wv4y1w7t3
+- 【广播剧翻译】正向的时间，回不去的心 时间大战 Time War 401 Palindrome 下
+https://b23.tv/BV16a411T71i
 
 day 5: 博士来访，但 davros 并不认得，博士说不可能，昨天刚。。。；daleks 从 portal 过来，杀了他妻子
 day 4: davros 醒来，发现妻子还或者；博士和 bliss 才找他，说portal打开后他们一直在见面，davros 赶走了他们，带着妻子往城外逃，但车堵住了，天空出现了那种叫做 daleka 的
@@ -1247,7 +1301,7 @@ CLOSED: [2021-11-12 Fri 18:30] SCHEDULED: <2021-11-20 Sat>
 :rating:   7.9
 :END:
 
-**** 3QTR [#A] 8DTW4.4 Restoration of the Daleks :Alex:D2021_11_davros:
+**** 3QTR [#A] 4.4 Restoration of the Daleks           :Alex:D2021_11_davros:
 CLOSED: <2021-11-26 Fri 09:50> DEADLINE: <2021-11-26 Fri 21:54> SCHEDULED: <2021-11-20 Sat>
 :PROPERTIES:
 :rating:   8.9
@@ -1257,15 +1311,18 @@ CLOSED: <2021-11-26 Fri 09:50> DEADLINE: <2021-11-26 Fri 21:54> SCHEDULED: <2021
 *** 📂8D Time War vol.5 Cass :Cass:P2023_01:plot_yes:🎧:
 **** READY [#C] 5.1 Meanwhile, Elsewhere :bilibili:
 
-【【广播剧汉化】并进的时间线 Cass 101 Meanwhile Elsewhere-哔哩哔哩】 https://b23.tv/zBubJ4R
+【【广播剧汉化】并进的时间线 Cass 101 Meanwhile Elsewhere-哔哩哔哩】 
+https://b23.tv/BV1DX4y117Uw
 
 **** READY [#C] 5.2 Vespertine :bilibili:
 
-【【广播剧汉化】 沉重的遗产 Cass 102 Vespertine-哔哩哔哩】 https://b23.tv/m3b5hyL
+【【广播剧汉化】 沉重的遗产 Cass 102 Vespertine-哔哩哔哩】 
+https://b23.tv/BV1km4y1t7Jb
 
 **** READY [#B] 5.3 Previously, Next Time :bilibili:
 
-【【广播剧汉化】无限循环的死结 Cass 103 Previously, Next Time 上-哔哩哔哩】 https://b23.tv/dB3or7j
+【【广播剧汉化】无限循环的死结 Cass 103 Previously, Next Time 上-哔哩哔哩】 
+https://b23.tv/BV1eN4y1C7Kn
 
 *** 📂8D Time War vol.6 Reflections :Cass:Alex:P2024_10:
 **** 6.1 Nowhere, Never
@@ -1296,7 +1353,8 @@ CLOSED: <2020-12-17 Thu 19:57>
 *** 8D misc
 **** READY Lies in Ruins (The Legacy of Time) :8th_Dr:bilibili:Benny:🎧:
 
-【【自制字幕】神秘博士BF特辑宋江八叔历险记-哔哩哔哩】https://b23.tv/vLRN31
+【【自制字幕】神秘博士BF特辑宋江八叔历险记-哔哩哔哩】
+https://b23.tv/BV1eA411G76T
 
 **** DONE The Rulers of the Universe (DoRS #1.4) :🎧:
 CLOSED: [2020-09-23 Wed 12:53]
@@ -1414,15 +1472,18 @@ CLOSED: [2020-12-24 Thu 15:51] SCHEDULED: <2021-09-28 Tue>
 *** 📂The War Doctor vol.1 :scripted:🎧:P2015:已购:
 **** READY [#B] 1.1 - The Innocent :bilibili:
 
-【【神秘博士广播剧汉化】The War Doctor 战争博士 101 The Innocent-哔哩哔哩】 https://b23.tv/iEKp6pd
+【【神秘博士广播剧汉化】The War Doctor 战争博士 101 The Innocent-哔哩哔哩】 
+https://b23.tv/BV15M4y157yR
 
 **** READY [#C] 1.2 - The Thousand Worlds :bilibili:
 
-【【神秘博士广播剧汉化】 The War Doctor 战争博士 102 The Thousand Worlds-哔哩哔哩】 https://b23.tv/URKOOIY
+【【神秘博士广播剧汉化】 The War Doctor 战争博士 102 The Thousand Worlds-哔哩哔哩】 
+https://b23.tv/BV1xL411J7vL
 
 **** READY [#B] 1.3 - The Heart of the Battle :bilibili:
 
-【【神秘博士广播剧汉化】The War Doctor 战争博士 103 The Heart of the Battle-哔哩哔哩】 https://b23.tv/VlWXVCg
+【【神秘博士广播剧汉化】The War Doctor 战争博士 103 The Heart of the Battle-哔哩哔哩】 
+https://b23.tv/BV16T4y127sa
 
 *** 📂The War Doctor vol.2 :scripted:🎧:P2016:已购:
 **** 3QTR [#C] 2.1 - Legion of the Lost :bilibili:DW2023_10_doctor:
@@ -1431,7 +1492,8 @@ CLOSED: [2023-10-26 Thu 08:21] SCHEDULED: <2023-10-29 Sun>
 :rating:   7.7
 :END:
 
-【【神秘博士广播剧汉化】 战争博士 The War Doctor 201 Legion of the Lost-哔哩哔哩】 https://b23.tv/NJpCjOt
+【【神秘博士广播剧汉化】 战争博士 The War Doctor 201 Legion of the Lost-哔哩哔哩】 
+https://b23.tv/BV1jq4y1P75e
 
 **** 2DONE [#E] 2.2 - A Thing of Guile :bilibili:DW2024_Q3b_doctor:
 CLOSED: [2024-08-02 Fri 21:55] SCHEDULED: <2024-07-27 Sat>
@@ -1439,16 +1501,16 @@ CLOSED: [2024-08-02 Fri 21:55] SCHEDULED: <2024-07-27 Sat>
 :rating:   6 7
 :END:
 
-【【神秘博士广播剧翻译】战争博士 The War Doctor 202 a thing of guile-哔哩哔哩】 https://b23.tv/EhOYEfa
-
+【【神秘博士广播剧翻译】战争博士 The War Doctor 202 a thing of guile-哔哩哔哩】 
+https://b23.tv/BV1Cu411f751
 **** 3QTR [#A] 2.3 - The Neverwhen :DW2023_12_doctor:bilibili:
 CLOSED: [2023-12-13 Wed 08:37] SCHEDULED: <2023-12-16 Sat>
 :PROPERTIES:
 :rating:   8.5
 :END:
 
-【【神秘博士广播剧翻译】战争博士 The War Doctor 203 The Neverwhen-哔哩哔哩】 https://b23.tv/jkJamuv
-
+【【神秘博士广播剧翻译】战争博士 The War Doctor 203 The Neverwhen-哔哩哔哩】 
+https://b23.tv/BV1Tf4y1g7qT
 *** 📂The War Doctor vol.3 :scripted:🎧:P2016:已购:plot_cast:
 **** 3QTR [#C] 3.1 - The Shadow Vortex :bilibili:DW2024_Q4b_doctor:
 CLOSED: <2024-12-09 Mon 08:57> SCHEDULED: <2024-12-14 Sat>
@@ -1456,21 +1518,24 @@ CLOSED: <2024-12-09 Mon 08:57> SCHEDULED: <2024-12-14 Sat>
 :rating:   7.8
 :END:
 
-【【神秘博士广播剧汉化】The War Doctor 战争博士 301 The Shadow Vortex-哔哩哔哩】 https://b23.tv/uA4IMD3
+【【神秘博士广播剧汉化】The War Doctor 战争博士 301 The Shadow Vortex-哔哩哔哩】 
+https://b23.tv/BV12b4y1e7UV
 
 **** READY [#C] 3.2 - The Eternity Cage :bilibili:
 :PROPERTIES:
 :rating:   7.7
 :END:
 
-【【神秘博士广播剧汉化】The War Doctor 战争博士 302 The Eternity Cage-哔哩哔哩】 https://b23.tv/e4jM8H6
+【【神秘博士广播剧汉化】The War Doctor 战争博士 302 The Eternity Cage-哔哩哔哩】 
+https://b23.tv/BV1W44y1L7g5
 
 **** READY [#D] 3.3 - Eye of Harmony :bilibili:
 :PROPERTIES:
 :raring:   7.1
 :END:
 
-【【神秘博士广播剧汉化】The War Doctor 战争博士 303 The Eye of Harmony-哔哩哔哩】 https://b23.tv/ydAzkK1
+【【神秘博士广播剧汉化】The War Doctor 战争博士 303 The Eye of Harmony-哔哩哔哩】 
+https://b23.tv/BV1GS4y1o7bF
 
 *** 📂The War Doctor vol.4 :scripted:🎧:P2017:已购:
 **** READY [#C] 4.1 - Pretty Lies :bilibili:
@@ -1478,21 +1543,24 @@ CLOSED: <2024-12-09 Mon 08:57> SCHEDULED: <2024-12-14 Sat>
 :rating:   7.5
 :END:
 
-【【神秘博士广播剧翻译】战争博士 The War Doctor 401 Pretty Lies-哔哩哔哩】 https://b23.tv/v9ZM2Ds
+【【神秘博士广播剧翻译】战争博士 The War Doctor 401 Pretty Lies-哔哩哔哩】 
+https://b23.tv/BV1cr4y117Ys
 
 **** READY [#C] 4.2 - The Lady of Obsidian :bilibili:
 :PROPERTIES:
 :rating:   7.5
 :END:
 
-【【神秘博士广播剧翻译】 战争博士 The War Doctor 402 The Lady Of Obsidian-哔哩哔哩】 https://b23.tv/CzHAoeG
+【【神秘博士广播剧翻译】 战争博士 The War Doctor 402 The Lady Of Obsidian-哔哩哔哩】 
+https://b23.tv/BV1jF411a7bs
 
 **** READY [#D] 4.3 - The Enigma Dimension :bilibili:
 :PROPERTIES:
 :rating:   7.1
 :END:
 
-【【神秘博士广播剧翻译】战争博士 The War Doctor 403 The Enigma Dimension-哔哩哔哩】 https://b23.tv/JRehZlk
+【【神秘博士广播剧翻译】战争博士 The War Doctor 403 The Enigma Dimension-哔哩哔哩】 
+https://b23.tv/BV1Rh411x7Ew
 
 *** READY [#A] Engines of War /战争引擎 (novel) :📔:己购:
 :PROPERTIES:

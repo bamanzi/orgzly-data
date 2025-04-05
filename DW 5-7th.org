@@ -413,8 +413,10 @@ CLOSED: [2022-11-27 Sun 23:36] SCHEDULED: <2022-11-16 Wed>
 **** 📂2023B. In the Night :Nyssa:Tegan:P2023_09:
 ***** READY [#A] 1. Pursuit of the Nightjar :2CD:
 
-【【神秘博士广播剧熟肉】In the Night 101 Pursuit of the Nightjar (Part 1&2) 追捕夜鹰-哔哩哔哩】 https://b23.tv/WduWl6H
-【【神秘博士广播剧熟肉】In the Night 101 Pursuit of the Nightjar (Part 3&4) 追捕夜鹰-哔哩哔哩】 https://b23.tv/jiFxS86
+【【神秘博士广播剧熟肉】In the Night 101 Pursuit of the Nightjar (Part 1&2) 追捕夜鹰-哔哩哔哩】
+https://b23.tv/BV1gc411x72A
+【【神秘博士广播剧熟肉】In the Night 101 Pursuit of the Nightjar (Part 3&4) 追捕夜鹰-哔哩哔哩】
+https://b23.tv/BV14x4y1Z79k
 
 ***** CANCEL [#F] 2. Resistor :1CD:
 **** 📂2024A. The Dream Team :P2024_04:Adric:Nyssa:Tegan:
@@ -562,7 +564,7 @@ CLOSED: [2023-06-26 Mon 08:24] DEADLINE: <2023-06-28 Wed> SCHEDULED: <2023-06-14
 
 http://drwhoguide.com/who_bf09.htm
 
-**** DONE 11. The Apocalypse Element :Evelyn:Romana_2:Daleks:bilibili:已购:
+**** DONE [#D] 11. The Apocalypse Element :Evelyn:Romana_2:Daleks:bilibili:已购:
 
 【【神秘博士广播剧熟肉】MR011 The Apocalypse Element 末日元素-哔哩哔哩】 https://b23.tv/lFiGif9
 
@@ -612,7 +614,8 @@ CLOSED: <2021-06-09 Wed 08:10>
 ***** [#E] 100a. 100 BC
 ***** READY [#B] 100b. My Own Private Wolfgang (8.0) :plot_no:bilibili:
 
-【【DW广播剧翻译】MR 100b - 独属于我的沃尔夫冈-哔哩哔哩】 https://b23.tv/iDORqth
+【【DW广播剧翻译】MR 100b - 独属于我的沃尔夫冈-哔哩哔哩】 
+https://b23.tv/BV1LF411j7D5
 
 ***** [#C] 100c. Bedtime Story :short:
 :PROPERTIES:
@@ -672,12 +675,14 @@ SCHEDULED: <2022-01-14 Fri>
 ****** [#D] 188a. Breaking Bubbles
 ****** READY [#D] 188b. Of Chaos Time The :bilibili:
 
-【【神秘博士广播剧熟肉】MR 188b Of Chaos Time The 之混乱时-哔哩哔哩】 https://b23.tv/41dD0SO
+【【神秘博士广播剧熟肉】MR 188b Of Chaos Time The 之混乱时-哔哩哔哩】 
+https://b23.tv/BV1q2BKYJE2J
 
 ****** [#C] 188c. An Eye For Murder
 ****** READY [#A] 188d. The Curious Incident of the Doctor in the Night-Time (8.7) :plot_no:bilibili:
 
-【【神秘博士广播剧熟肉】MR 188d The Curious Incident of the Doctor in the Night-Time 深夜博士离奇事件-哔哩哔哩】 https://b23.tv/JrU0JQv
+【【神秘博士广播剧熟肉】MR 188d The Curious Incident of the Doctor in the Night-Time 深夜博士离奇事件-哔哩哔哩】 
+https://b23.tv/BV1yGAEetEdK
 
 ***** 3QTR [#A] 192. The Widow's Assassin (8.6) :Peri:plot_no:D2021_09_dr:已购:
 CLOSED: <2021-09-17 Fri 21:27> SCHEDULED: <2021-09-04 Sat>
@@ -732,7 +737,8 @@ Volume One
 :rating:   6.8
 :END:
 
-【【神秘博士广播剧熟肉】The Lost Story 101 The Nightmare Fair -梦魇游乐园-哔哩哔哩】 https://b23.tv/BCSkW8Z
+【【神秘博士广播剧熟肉】The Lost Story 101 The Nightmare Fair -梦魇游乐园-哔哩哔哩】 
+https://b23.tv/BV1Cb421H7vu
 
 ****** CANCEL [#F] +LS1.2 Mission to Magnus+ :ice_warriors:
 :PROPERTIES:
@@ -951,12 +957,13 @@ CLOSED: [2022-06-29 Wed 16:22] SCHEDULED: <2022-06-19 Sun>
 :rating:   7.6
 :END:
 
-***** READY [#A] XII - Trial of the Valeyard. :Valeyard:1CD:bilibili:
+***** READY [#A] BR12 - Trial of the Valeyard.     :Valeyard:1CD:bilibili:
 
- 【【神秘博士广播剧】Bonus Release 012 The Trial of Valeyard 黑暗博士的审判-哔哩哔哩】 https://b23.tv/BP98ck4
+ 【【神秘博士广播剧】Bonus Release 012 The Trial of Valeyard 黑暗博士的审判-哔哩哔哩】 
+https://b23.tv/BV1G14y1a7pA
 
 **** 📂The Sixth Doctor: The Last Adventure :Valeyard:P2015:1CD:scripted:plot_yes:
-***** 2DONE The End of the Line :Constance:Master:D2021_12_master:bilibili:
+***** 2DONE [#B] The End of the Line :Constance:Master:D2021_12_master:bilibili:
 CLOSED: [2021-12-03 Fri 23:22] SCHEDULED: <2021-12-05 Sun>
 
  【【广播剧翻译】六任：最后的冒险 01 The end of the line-哔哩哔哩】 https://b23.tv/r4FWpnN
@@ -967,7 +974,8 @@ SCHEDULED: <2022-02-17 Thu>
 :rating:   7.0
 :END:
 
- 【【广播剧翻译】照日光变成人的反向狼人 六任:最后的冒险 102 红房子-哔哩哔哩】 https://b23.tv/RLKffOm
+ 【【广播剧翻译】照日光变成人的反向狼人 六任:最后的冒险 102 红房子-哔哩哔哩】 
+https://b23.tv/BV1U44y1E7Q8
 
 ***** 3QTR [#B] Stage Fright :Flip:Jago:Litefoot:bilibili:DW2022_10_doctor:
 CLOSED: [2022-11-12 Sat 20:08] SCHEDULED: <2022-11-01 Tue>
@@ -1019,14 +1027,16 @@ CLOSED: [2024-05-21 Tue 16:37] SCHEDULED: <2024-05-11 Sat>
 
 ***** READY [#A] 3.3 Together in Eclectic Dreams :plot_yes:bilibili:
 
-【【神秘博士广播剧熟肉】The Stuff of Nightmares 303 Together in Eclectic Dreams 共做一梦-哔哩哔哩】 https://b23.tv/e3EmGiB
+【【神秘博士广播剧熟肉】The Stuff of Nightmares 303 Together in Eclectic Dreams 共做一梦-哔哩哔哩】 
+https://b23.tv/BV1CA411Q7Yk
 
 **** The Diary of River Song: Series 2
 ***** DONE [#B] 2.3 World Enough and Time
 ***** 3QTR [#C] 2.4 The Eye of the Storm :7th_Dr:
 **** READY [#D] ST13.X The Hoxteth Time Capsule :P2023_12:bilibili:
 
-【【神秘博士】短途旅行：霍克斯泰斯的时间胶囊 | Short Trips: The Hoxteth Time Capsule-哔哩哔哩】 https://b23.tv/D7MmQye
+【【神秘博士】短途旅行：霍克斯泰斯的时间胶囊 | Short Trips: The Hoxteth Time Capsule-哔哩哔哩】 
+https://b23.tv/BV1d6CdYNEkK
 
 *** BBC
 **** [#C] Fortunes of War :WW1:P2018:1CD:
@@ -1159,7 +1169,8 @@ CLOSED: [2021-06-24 Thu 12:31]
 
 ***** READY [#A] 74. Live 34 (8.5) :P2005:Ace:Hex:plot_no:bilibili:
 
-【【神秘博士广播剧熟肉】MR 074 LIVE 34-哔哩哔哩】 https://b23.tv/5OQlzQA
+【【神秘博士广播剧熟肉】MR 074 LIVE 34-哔哩哔哩】 
+https://b23.tv/BV1zG4y1L7Ph
 
 ***** 3QTR [#B] 79. Night Thoughts :Ace:Hex:plot_yes_dwg:bilibili:DW2022_09_doctor:
 CLOSED: [2022-09-27 Tue 19:48] SCHEDULED: <2022-09-18 Sun>
@@ -1204,7 +1215,8 @@ https://doctorwho.guide/who_bf115.htm
 
 ****** HALF [#A] 115d. The Word Lord (8.6) :Ace:Hex:Nobody_No_One:bilibili:
 
-【【神秘博士广播剧熟肉】MR 115d The Word Lord 词语领主-哔哩哔哩】 https://b23.tv/mZsVZy0
+【【神秘博士广播剧熟肉】MR 115d The Word Lord 词语领主-哔哩哔哩】 
+https://b23.tv/BV1DKAReMEbF
 
 ***** 3QTR [#A] 120. The Magic Mousetrap :P2009:Ace:Hex:Celestial_Toymaker:plot_yes_dwg:DW2024_01_doctor:
 CLOSED: [2024-02-13 Tue 15:21] SCHEDULED: <2024-01-06 Sat>
@@ -1407,7 +1419,8 @@ CLOSED: [2023-11-17 Fri 08:22] SCHEDULED: <2023-11-18 Sat>
 :rating:   9.0
 :END:
 
-【【神秘博士广播剧翻译】RTD早期作品 Damaged Goods-哔哩哔哩】 https://b23.tv/5a9c2Hb
+【【神秘博士广播剧翻译】RTD早期作品 Damaged Goods-哔哩哔哩】 
+https://b23.tv/BV19Y411t7fV
 
 **** TODO [#C] NA10 Original Sin :Benny:Roz:Chris:2CD:
 **** [#A] NA11. Cold Fusion ↗ :Roz:Chris:5th_Dr:plot_yes:

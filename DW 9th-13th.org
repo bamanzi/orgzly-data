@@ -138,35 +138,35 @@ CLOSED: [2024-07-16 Tue 08:34] SCHEDULED: <2024-06-22 Sat>
 ***** READY [#E] 3.1.3 The Beautiful Game :bilibili:dw2025_q2a_doctor:
 SCHEDULED: <2025-05-10 Sat>
 
-【【神秘博士广播剧熟肉】Pioneers 903 The Beautiful Game 美丽比赛-哔哩哔哩】 https://b23.tv/uzdEFYD
+【【神秘博士广播剧熟肉】Pioneers 903 The Beautiful Game 美丽比赛-哔哩哔哩】 https://b23.tv/BV1su41147YW
 
 **** 📂S3.2 Travel in Hope :P2023_08:
 ***** 3QTR [#B] 3.2.1 Below There :bilibili:dw2025_q1a_doctor:
 CLOSED: <2025-01-10 Fri 09:28> SCHEDULED: <2025-01-11 Sat>
 
-【【神秘博士广播剧熟肉】Travel in Hope 304 Below There 下面的人-哔哩哔哩】 https://b23.tv/56pYNb6
+【【神秘博士广播剧熟肉】Travel in Hope 304 Below There 下面的人-哔哩哔哩】 https://b23.tv/BV1Jz4y1W7sn
 
 ***** CANCEL [#F] 3.2.2 The Butler Did it
 ***** READY [#B] 3.2.3 Run :bilibili:
 
-【【神秘博士广播剧熟肉】Travel in Hope 306 Run 竞选-哔哩哔哩】 https://b23.tv/MeDKqt6
+【【神秘博士广播剧熟肉】Travel in Hope 306 Run 竞选-哔哩哔哩】 https://b23.tv/BV1bz4y1u7hr
 
 **** 📂S3.3 Buried Threats :P2024_02:
 ***** [#E] 3.3.1 A Theatre of Cruelty :scripted:
 ***** CANCEL [#F] 3.3.2 The Running Men
 ***** READY [#C] 3.3.3 Ancient History :Benny:bilibili:
 
-【【神秘博士广播剧熟肉】Buried Threats 309 Ancient History 古代史-哔哩哔哩】 https://b23.tv/0f5K9xm
+【【神秘博士广播剧熟肉】Buried Threats 309 Ancient History 古代史-哔哩哔哩】 https://b23.tv/BV1geSEYTEvn
 
 **** 📂S3.4 Star-Crossed :River:P2024_05:
 ***** READY 3.4.1 Swipe Right :bilibili:
 
-【【神秘博士广播剧熟肉】Star-Crossed 310 Swipe Right 右划-哔哩哔哩】 https://b23.tv/l5bWhl4
+【【神秘博士广播剧熟肉】Star-Crossed 310 Swipe Right 右划-哔哩哔哩】 https://b23.tv/BV1Nrq4YnEwL
 
 ***** 3.4.2 Face of the Apocalypse
 ***** READY 3.4.3 Archipelago :bilibili:
 
-【【神秘博士广播剧熟肉】Star-Crossed 312 Archipelago 群岛-哔哩哔哩】 https://b23.tv/cdCCTnJ
+【【神秘博士广播剧熟肉】Star-Crossed 312 Archipelago 群岛-哔哩哔哩】 https://b23.tv/BV159FJeBEFK
 
 *** 9DC :P2017:
 **** [#D] 1.1 The Bleeding Heart
@@ -431,7 +431,7 @@ SCHEDULED: <2024-05-04 Sat>
 :rating:   7.1
 :END:
 
-【[BF广播剧熟肉]Time Reaver时间掠夺-哔哩哔哩】https://b23.tv/8xQH7i
+【[BF广播剧熟肉]Time Reaver时间掠夺-哔哩哔哩】https://b23.tv/BV1Px41147F1
 
 ***** DONE [#A] 10DA 1.3 Death and the Queen. :D2021_05:bilibili:
 CLOSED: <2021-05-29 Sat 23:26>
@@ -535,16 +535,15 @@ SCHEDULED: <2024-10-12 Sat>
 ***** 2DONE [#C] 1. Splinters :Leela:bilibili:DW2023_12_doctor:
 CLOSED: [2023-12-29 Fri 22:07] SCHEDULED: <2023-12-23 Sat>
 
-【【神秘博士广播剧熟肉】Tenth Doctor Classic Companions 101 Splinters 碎片-哔哩哔哩】 https://b23.tv/SDB2uFD
+【【神秘博士广播剧熟肉】Tenth Doctor Classic Companions 101 Splinters 碎片-哔哩哔哩】 https://b23.tv/BV1AD4y127J1
 
 ***** READY [#E] 2. The Stuntman :Nyssa:bilibili:
 
-【【神秘博士广播剧熟肉】Tenth Doctor Classic Companions 102 The Stuntman 特技替身-哔哩哔哩】 https://b23.tv/hT2rOwk
+【【神秘博士广播剧熟肉】Tenth Doctor Classic Companions 102 The Stuntman 特技替身-哔哩哔哩】 https://b23.tv/BV1Fe411L7LA
 
 ***** READY [#D] 3. Quantum of Axos :Ace:bilibili:
 
-【【神秘博士广播剧熟肉】Tenth Doctor Classic Companions 103 Quantum of Axos 阿克索斯量子-哔哩哔哩】 https://b23.tv/M54MhC5
-
+【【神秘博士广播剧熟肉】Tenth Doctor Classic Companions 103 Quantum of Axos 阿克索斯量子-哔哩哔哩】 https://b23.tv/BV1DR4y1Q72p
 *** Dalek Universe :P2021:Anya:Mark_7:
 **** _intro
 
@@ -568,7 +567,7 @@ CLOSED: [2023-12-29 Fri 22:07] SCHEDULED: <2023-12-23 Sat>
 
 要理清情节顺序的话大概是这么个顺序
 
-**** READY The Dalek Protocol :4th_Dr:Leela:K9_1:plot_no:bilibili:
+**** READY [#D] The Dalek Protocol :4th_Dr:Leela:K9_1:plot_no:bilibili:
 SCHEDULED: <2021-11-08 Mon>
 
 【【神秘博士广播剧熟肉】Dalek Universe - The Dalek Protocol (Part 1&2)-哔哩哔哩】 https://b23.tv/FWNLkZc
@@ -634,21 +633,20 @@ SCHEDULED: <2024-07-27 Sat>
 :rating:   6.5
 :END:
 
-【【神秘博士广播剧熟肉】Dalek Universe 301 The First Son 第一子-哔哩哔哩】 https://b23.tv/ZcWe1OJ
-
+【【神秘博士广播剧熟肉】Dalek Universe 301 The First Son 第一子-哔哩哔哩】 https://b23.tv/BV1XZ4y147oB
 ***** READY [#C] DU3.2 - The Dalek Defense :Davros:bilibili:
 :PROPERTIES:
 :rating:   7.9
 :END:
 
-【【神秘博士广播剧熟肉】Dalek Universe 302 The Dalek Defence 戴立克防线-哔哩哔哩】 https://b23.tv/T41dr88
+【【神秘博士广播剧熟肉】Dalek Universe 302 The Dalek Defence 戴立克防线-哔哩哔哩】 https://b23.tv/BV1jL4y1T7Ny
 
 ***** READY [#B] DU3.3 - The Triumph of Davros :bilibili:
 :PROPERTIES:
 :rating:   8.3
 :END:
 
-【【神秘博士广播剧熟肉】Dalek Universe 303 The Triumph of Davros 戴沃斯的胜利-哔哩哔哩】 https://b23.tv/IaXGF3F
+【【神秘博士广播剧熟肉】Dalek Universe 303 The Triumph of Davros 戴沃斯的胜利-哔哩哔哩】 https://b23.tv/BV1BB4y1Q7Zi
 
 *** 10DC
 **** 10DC S1 :P2018:
@@ -719,7 +717,7 @@ https://doctorwho.guide/forevertrap.htm
 
 https://doctorwho.guide/deadair.htm
 
-【【神秘博士广播剧熟肉】New Series Adventures Audio 7 Dead Air 寂静无声-哔哩哔哩】 https://b23.tv/KSGTaTK
+【【神秘博士广播剧熟肉】New Series Adventures Audio 7 Dead Air 寂静无声-哔哩哔哩】 https://b23.tv/BV1Gy4y1f7PW
 
 *** fan-made
 **** READY DWAM: Empire of the Sun :bilibili:
@@ -861,7 +859,7 @@ SCHEDULED: <2022-03-30 Wed>
 
 https://tardis.fandom.com/wiki/Prequel_to_Geronimo!_(audio_story) 
 
-【【神秘博士广播剧】The Eleventh Doctor Chronicles: Geronimo! 先行篇-哔哩哔哩】 https://b23.tv/6zkqNzo
+【【神秘博士广播剧】The Eleventh Doctor Chronicles: Geronimo! 先行篇-哔哩哔哩】 https://b23.tv/BV1Jz421d7Dk
 
 **** 3QTR [#A] 3.1 The Inheritance :DW2023_05_doctor:bilibili:
 CLOSED: <2023-06-04 Sun 20:22> SCHEDULED: <2023-05-20 Sat>
@@ -894,7 +892,7 @@ SCHEDULED: <2024-04-06 Sat>
 :rating:   8.0
 :END:
 
-【【神秘博士广播剧熟肉】The Eleventh Doctor Chronicles 401 All of Time and Space 所有的时空-哔哩哔哩】 https://b23.tv/bWQOH1r
+【【神秘博士广播剧熟肉】The Eleventh Doctor Chronicles 401 All of Time and Space 所有的时空-哔哩哔哩】 https://b23.tv/BV1ewYdeRE9S
 
 **** HALF [#D] 4.2 The Yearn :P2023_02:DW2024_Q3a_doctor:bilibili:
 SCHEDULED: <2024-07-13 Sat>
@@ -902,7 +900,7 @@ SCHEDULED: <2024-07-13 Sat>
 :rating:   7.3
 :END:
 
-【【神秘博士广播剧熟肉】All of Time and Space 402 The Yearn 渴望-哔哩哔哩】 https://b23.tv/BPVZGsy
+【【神秘博士广播剧熟肉】All of Time and Space 402 The Yearn 渴望-哔哩哔哩】 https://b23.tv/BV16SWKeTEg9
 
 **** HALF [#A] 4.3 Curiosity Shop :P2023_02:bilibili:DW2024_Q4a_doctor:
 SCHEDULED: <2024-11-02 Sat>
@@ -910,7 +908,7 @@ SCHEDULED: <2024-11-02 Sat>
 :rating:   8.6
 :END:
 
-【【神秘博士广播剧熟肉】All of Time and Space 403 Curiosity Shop 古董店-哔哩哔哩】 https://b23.tv/bFj2VgO
+【【神秘博士广播剧熟肉】All of Time and Space 403 Curiosity Shop 古董店-哔哩哔哩】 https://b23.tv/BV1fGsWeJEPp
 
 **** 3QTR [#A] 4.4 Broken Hearts [A⁺] :P2023_11:bilibili:dw2025_q1a_doctor:
 CLOSED: [2025-01-24 Fri 12:58] SCHEDULED: <2025-01-25 Sat>
@@ -918,7 +916,7 @@ CLOSED: [2025-01-24 Fri 12:58] SCHEDULED: <2025-01-25 Sat>
 :rating:   9.1
 :END:
 
-【【神秘博士广播剧熟肉】All of Time and Space 404 Broken Hearts 破碎的心-哔哩哔哩】 https://b23.tv/g5LFC71
+【【神秘博士广播剧熟肉】All of Time and Space 404 Broken Hearts 破碎的心-哔哩哔哩】 https://b23.tv/BV1JD2EYyEkY
 
 *** 📂11DC vol.5 Everywhere and Anywhere :Valarie:P2023_12:
 **** [#A] 5.1 Spirit of the Season

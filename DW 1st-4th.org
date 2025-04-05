@@ -507,7 +507,7 @@ UNIT 和 准将第一次正式出场
 了，所以本作品在一定程度上得到了BBC的认可，并且BBC在2009年发行 /The War Games/
 的DVD版本的时候，附带了本作品的删减版本。
 
-- BBC版本(iCelery 熟肉): https://www.bilibili.com/video/av1780624/
+- BBC版本(iCelery 熟肉): https://b23.tv/av1780624/
 - 完整版本: http://www.doctorwho-devious.com/
 
 ** comics
@@ -1577,7 +1577,7 @@ CLOSED: <2023-04-22 Sat 21:12> SCHEDULED: <2023-04-12 Wed 08:15>
 ***** [#D] 5.1 - Wave of Destruction (7.1)
 ***** READY [#D] 5.2 - The Labyrinth of Buda Castle (7.1) :bilibili:
 
-【【神秘博士广播剧熟肉】The Fourth Doctor's Adventure 502-The Labyrinth of Buda Castle 布达迷宫城堡-哔哩哔哩】 https://b23.tv/Pz0qlap
+【【神秘博士广播剧熟肉】The Fourth Doctor's Adventure 502-The Labyrinth of Buda Castle 布达迷宫城堡-哔哩哔哩】 https://b23.tv/BV1h7RnYWExw
 
 ***** [#C] 5.3 - The Paradox Planet (7.6) / 5.4 - Legacy of Death (7.6)
 ***** 2DONE [#A] 5.6 The Trouble with Drax (8.7) :D2021_06:
@@ -1599,7 +1599,7 @@ CLOSED: [2023-12-15 Fri 21:28] SCHEDULED: <2023-12-09 Sat>
 ***** [#D] 6.6 - Subterranea (7.1)
 ***** READY [#E] 6.7 The Movellan Grave :bilibili:
 
-【【神秘博士广播剧熟肉】The Fourth Doctor Adventure 607 The Movellan Grave-Movellan之墓-哔哩哔哩】 https://b23.tv/ODiP9FU
+【【神秘博士广播剧熟肉】The Fourth Doctor Adventure 607 The Movellan Grave - Movellan之墓-哔哩哔哩】 https://b23.tv/BV1RB97YEEEk
 
 ***** TODO [#D] 6.8 - The Skin of the Sleek / 6.9 - The Thief Who Stole Time
 **** 📂4DA series 9 :4DA:P2020:2CD:
@@ -1621,20 +1621,23 @@ CLOSED: [2023-06-07 Wed 08:19] SCHEDULED: <2023-06-10 Sat>
 :rating:   8.9
 :END:
 
-【【神秘博士广播剧熟肉】The Lost Stories 602 The Doomsday Contract (Part 1&2) 末日合同-哔哩哔哩】 https://b23.tv/Ddqe3C1
-
-【【神秘博士广播剧熟肉】The Lost Stories 602 The Doomsday Contract (Part 3&4) 末日合同-哔哩哔哩】 https://b23.tv/yvSsm4b
+【【神秘博士广播剧熟肉】The Lost Stories 602 The Doomsday Contract (Part 1&2) 末日合同-哔哩哔哩】 
+https://b23.tv/BV1cG4y1e7DZ
+【【神秘博士广播剧熟肉】The Lost Stories 602 The Doomsday Contract (Part 3&4) 末日合同-哔哩哔哩】 
+https://b23.tv/BV1UB4y1675o
 
 ***** READY [#B] NA03 - The Romance of Crime :Romana_2:P2015:2CD:scripted:bilibili:
 :PROPERTIES:
 :rating:   8.0
 :END:
 
-【【神秘博士广播剧熟肉】Romance of Crime-犯罪的浪漫-哔哩哔哩】 https://b23.tv/N11f7Tx
+【【神秘博士广播剧熟肉】Romance of Crime-犯罪的浪漫-哔哩哔哩】 
+https://b23.tv/BV1dXKLe5EHb
 
-***** READY [#B] NA04 The English Way of Death :Romana_2:P2015:2CD:scripted:bilibili:
+***** READY [#B] NA04 - The English Way of Death :Romana_2:P2015:2CD:scripted:bilibili:
 
-【【神秘博士广播剧熟肉】The English Way of Death-英伦三岛的毁灭-哔哩哔哩】 https://b23.tv/gFeelFi
+【【神秘博士广播剧熟肉】The English Way of Death-英伦三岛的毁灭-哔哩哔哩】
+https://b23.tv/BV1ZZc3edExG
 
 ***** [#B] NA05 - The Well-Mannered War :Romana_2:2CD:P2015:
 :PROPERTIES:
@@ -1645,7 +1648,8 @@ CLOSED: [2023-06-07 Wed 08:19] SCHEDULED: <2023-06-10 Sat>
 **** short
 ***** READY [#A] ST6.9 - A Full Life (9.0) :Adric:Romana_2:bilibili:
 
-【【神秘博士广播剧熟肉】短途旅行：充实人生    Short trips: A full life-哔哩哔哩】 https://b23.tv/3ecUFly
+【【神秘博士广播剧熟肉】短途旅行：充实人生    Short trips: A full life-哔哩哔哩】 
+https://b23.tv/BV1sXkRY5EeY
 
 ***** [#C] ST4.4 The Old Rogue :Romana_2:2nd_Dr:Jamie:
 :PROPERTIES:
@@ -1701,7 +1705,8 @@ SCHEDULED: <2024-05-11 Sat>
 ***** 13.4 The Caged Assassin :P2024_06:
 ***** READY 13.5 Metamorphosis :Master_decayed:P2024_06:bilibili:
 
-【【神秘博士广播剧】The Fourth Doctor Adbenture 1303 - Metamorphosis 蜕变-哔哩哔哩】 https://b23.tv/2HuC49t
+【【神秘博士广播剧】The Fourth Doctor Adbenture 1303 - Metamorphosis 蜕变-哔哩哔哩】 
+https://b23.tv/BV1BFWFejE22
 
 ***** 13.6 The Face in the Storm :P2024_09:1CD:
 ***** 13.7 Dominant Species :P2024_09:2CD:
@@ -1722,9 +1727,6 @@ CLOSED: [2022-09-03 Sat 17:41] SCHEDULED: <2022-09-04 Sun>
 **** CANCEL [#E] LS7.1 The Ark :Harry:P2023_06:
 **** CANCEL [#F] LS7.2 Daleks! Genesis of Terror :Harry:P2023_05:
 **** [#C] CDNM4.1 Invasion of the Body Stealers
-**** READY [#D] Once and Future #1. Past Lives :P2023_05:Osgood:Monk:bilibili:
-
-【博士的作战记录-哔哩哔哩】 https://b23.tv/zGOAtiq
 
 **** The Curse of Time :P2024_12:Harry:2CD:
 *** BF misc :BigFinish:
@@ -1765,9 +1767,11 @@ SCHEDULED: <2024-02-28 Wed>
 
 **** READY The Dalek Protocol :Leela:K9_1:Anya:Mark_7:Daleks:P2021:2CD:plot_no:bilibili:
 
-【【神秘博士广播剧熟肉】Dalek Universe - The Dalek Protocol (Part 1&2)-哔哩哔哩】 https://b23.tv/FWNLkZc
+【【神秘博士广播剧熟肉】Dalek Universe - The Dalek Protocol (Part 1&2)-哔哩哔哩】 
+https://b23.tv/BV1KA4y1Q7sb
 
-【【神秘博士广播剧熟肉】Dalek Universe - The Dalek Protocol (Part 3&4)-哔哩哔哩】 https://b23.tv/MruDd4V
+【【神秘博士广播剧熟肉】Dalek Universe - The Dalek Protocol (Part 3&4)-哔哩哔哩】
+https://b23.tv/BV1iZ4y1y7bS
 
 *** BF shorts :🗣:
 **** TODO [#B] ST8.4 - Erasure (8.2) :Narvin:Adric:
@@ -1903,6 +1907,9 @@ CLOSED: [2021-07-27 Tue 23:10] SCHEDULED: <2021-12-03 Fri>
 :rating:   9.0
 :END:
 
+【神秘博士广播剧翻译】RTD早期作品 Damaged Goods
+https://b23.tv/BV19Y411t7fV
+
 *** [#C] 7. Theatre of War :7th_Dr:Benny:P2015:
 :PROPERTIES:
 :rating:   7.6
@@ -1931,7 +1938,8 @@ CLOSED: [2021-07-27 Tue 23:10] SCHEDULED: <2021-12-03 Fri>
 ** Destiny of the Doctor :P2013:plot_yes:
 *** READY [#D] 1. Hunters of Earth :1st_Dr:Susan:bilibili:
 
-【【神秘博士有声书】Destiny of The Doctor-Hunters of Earth 地球猎手-哔哩哔哩】 https://b23.tv/ruM6Riw
+【【神秘博士有声书】Destiny of The Doctor-Hunters of Earth 地球猎手-哔哩哔哩】 
+https://b23.tv/BV1o7aUeqE2F
 
 肖迪奇，伦敦，1963年，Beatles打败了John Smith和Common One成为第一，卫星也发射上天。视线回到地球，一件奇怪的事情发生了，煤山原本平静的孩子开始变得躁动，一个大盗偷窃了很多设备
 
@@ -1941,7 +1949,8 @@ Susan Foremen学生和他的爷爷，神秘的博士，只想要一个平静的�
 
 *** READY [#B] 2. Shadow of Death :2nd_Dr:Jamie:Zoe:bilibili:
 
-【【神秘博士有声书】Destiny of The Doctor-Shadow of Death 博士的命运 死亡之影-哔哩哔哩】 https://b23.tv/W2wKRKr
+【【神秘博士有声书】Destiny of The Doctor-Shadow of Death 博士的命运 死亡之影-哔哩哔哩】
+https://b23.tv/BV1Ez421B7pQ
 
 随着一次紧急迫降，塔迪斯降落在一个遥远的星球上，围绕着一个奇怪的星球运行——脉冲星，它的引力强到足够让时间发生扭曲。
 
@@ -1951,7 +1960,8 @@ Susan Foremen学生和他的爷爷，神秘的博士，只想要一个平静的�
 *** CANCEL [#E] 3. Vengeance of the Stones :3rd_Dr:
 *** READY [#C] 4. Babblesphere :4th_Dr:Romana_2:bilibili:
 
-【【有声书】Destiny of The Doctor-Babblesphere-哔哩哔哩】 https://b23.tv/41WSvrw
+【【有声书】Destiny of The Doctor-Babblesphere-哔哩哔哩】 
+https://b23.tv/BV1Yf421z7Q3
 
 神秘博士50周年有声纪念书
 
@@ -1986,11 +1996,13 @@ Susan Foremen学生和他的爷爷，神秘的博士，只想要一个平静的�
 **** [#C] 3.2 The Tivolian Who Knew Too Much :4th_Dr:Leela:
 **** READY [#A] 3.3 Together In Eclectic Dreams :6th_Dr:bilibili:Dream_crab:
 
-【【神秘博士广播剧熟肉】The Stuff of Nightmares 303 Together in Eclectic Dreams 共做一梦-哔哩哔哩】 https://b23.tv/GpP2NHZ
+【【神秘博士广播剧熟肉】The Stuff of Nightmares 303 Together in Eclectic Dreams 共做一梦-哔哩哔哩】 
+https://b23.tv/BV1CA411Q7Yk
 
 **** READY [#A] 3.4 If I Should Die Before I Wake :8th_Dr:Charley:bilibili:Dream_crab:
 
-【【神秘博士广播剧熟肉】The Stuff of Nightmares 304 If I Should Die Before I Wake 若我在沉睡中死去-哔哩哔哩】 https://b23.tv/TJmTSCZ
+【【神秘博士广播剧熟肉】The Stuff of Nightmares 304 If I Should Die Before I Wake 若我在沉睡中死去-哔哩哔哩】 
+https://b23.tv/BV1CA411Q7Yk
 
 *** 📂CDNM vol.4 Broken Memories :P2024_03:
 **** [#C] 4.1 Invasion of the Body Stealers :4th_Dr:Sarah:
@@ -2001,7 +2013,7 @@ Susan Foremen学生和他的爷爷，神秘的博士，只想要一个平静的�
 **** 5.1 The Krillitane Feint :2nd_Dr:Jamie:Zoe:
 **** 5.2 The Dying Breed :4th_Dr:Leela:K9:
 **** 5.3 The Krillitane Relic :7th_Dr:Zoe:
-**** 5.4 Five Hundred Ways to Leave Your Lover :8th_Dr:bilibili:
+**** READY 5.4 Five Hundred Ways to Leave Your Lover :8th_Dr:bilibili:
 
 
 【【神秘博士广播剧片段】博士反复被甩和被强吻的一天-哔哩哔哩】 https://b23.tv/SkNZjPX
@@ -2020,15 +2032,19 @@ https://disk.yandex.ru/d/n_i2CRgIJW0xOw
 ** Unbound: Doctor of War
 *** READY [#B] 1.1 - Dust Devil :bilibili:
 
-【【神秘博士广播剧汉化】破碎的时间线 Unbound: Doctor of War 101 Dust Devil-哔哩哔哩】 https://b23.tv/Pt8IRk8
+【【神秘博士广播剧汉化】破碎的时间线 Unbound: Doctor of War 101 Dust Devil-哔哩哔哩】 
+https://b23.tv/BV15Z4y117P9
 
 *** READY [#C] 1.2 - Aftershocks :bilibili:
 
-【【神秘博士广播剧汉化】无限循环的时间线 Unbound: Doctor of War 102 Aftershock-哔哩哔哩】 https://b23.tv/xIIb3VQ
+【【神秘博士广播剧汉化】无限循环的时间线 Unbound: Doctor of War 102 Aftershock-哔哩哔哩】 
+https://b23.tv/BV1NB4y1D7bR
 
 *** READY [#D] 1.3 - The Difference Office :bilibili:
 
-【【广播剧汉化】注定毁灭的未来  Unbound: Doctor of War 103 The Difference Office-哔哩哔哩】 https://b23.tv/hmRyVtB
+【【广播剧汉化】注定毁灭的未来  Unbound: Doctor of War 103 The Difference Office-哔哩哔哩】 
+
+https://b23.tv/BV1vT411c72m
 
 *** [#D] 2.1 Who Am I?
 *** [#E] 2.2 Time Killers
@@ -2047,7 +2063,8 @@ CLOSED: [2024-11-01 Fri 08:38] SCHEDULED: <2024-09-08 Sun>
 
 *** READY [#C] 2. The Artist at the End of Time :5th_Dr:Jenny:P2023_06:bilibili:
 
-【【神秘博士六十周年纪念特辑】Once and Future 02 The Artist at the End of Time 时间尽头的艺术家-哔哩哔哩】 https://b23.tv/BYDtIle
+【【神秘博士六十周年纪念特辑】Once and Future 02 The Artist at the End of Time 时间尽头的艺术家-哔哩哔哩】
+https://b23.tv/BV1hv421y7H4
 
 https://www.bigfinish.com/releases/v/doctor-who-once-and-future-the-artist-at-the-end-of-time-2775
 
@@ -2056,13 +2073,15 @@ https://www.bigfinish.com/releases/v/doctor-who-once-and-future-the-artist-at-th
 
 *** READY [#D] 3. A Genius For War :7th_Dr:Davros:P2023_07:bilibili:
 
-【【神秘博士六十周年纪念特辑】Once and Future 03 A Genius for War 战争天才-哔哩哔哩】 https://b23.tv/eNCVavv
+【【神秘博士六十周年纪念特辑】Once and Future 03 A Genius for War 战争天才-哔哩哔哩】 
+https://b23.tv/BV1dZ421N7uh
 
 在时间大战期间，时间领主收到了来自Skaro监狱卫星Falkus的消息。而其中唯一的囚犯，Davros，想给他们一个提议。他愿意帮助他们赢得时间大战... 但前提是博士来救他。
 
 *** READY [#E] 4. Two's Company :6th_Dr:Christina:P2023_08:bilibili:
 
-【【神秘博士六十周年纪念特辑】Once and Future 04 Two's Company 二人为伴-哔哩哔哩】 https://b23.tv/j7wOjk8
+【【神秘博士六十周年纪念特辑】Once and Future 04 Two's Company 二人为伴-哔哩哔哩】 
+https://b23.tv/BV1dr421M7f3
 
 https://www.bigfinish.com/releases/v/doctor-who-once-and-future-two-s-company-2777
 
@@ -2072,7 +2091,8 @@ https://www.bigfinish.com/releases/v/doctor-who-once-and-future-two-s-company-27
 
 *** READY [#D] 5. The Martian Invasion of Planetoid 50 :bilibili:10th_Dr:P2023_09:
 
-【【神秘博士六十周年纪念特辑】Once and Future 05 The Martian Invasion of Planetoid 50-哔哩哔哩】 https://b23.tv/qawlSXJ
+【【神秘博士六十周年纪念特辑】Once and Future 05 The Martian Invasion of Planetoid 50-哔哩哔哩】
+https://b23.tv/BV1Mp4y1P75j
 
 https://www.bigfinish.com/releases/v/doctor-who-once-and-future-the-martian-invasion-of-planetoid-50-2778
 
@@ -2081,15 +2101,17 @@ https://www.bigfinish.com/releases/v/doctor-who-once-and-future-the-martian-inva
 
 *** READY [#E] 6. TimeLord Immemorial :9th_Dr:Unbound_Dr:P2023_10:bilibili:
 
-【【神秘博士六十周年纪念特辑】Once and Future - TimeLord Immemorial 远古时间领主-哔哩哔哩】 https://b23.tv/TPEYe0X
+【【神秘博士六十周年纪念特辑】Once and Future - TimeLord Immemorial 远古时间领主-哔哩哔哩】 
+https://b23.tv/BV18w411w7SV
 
 *** READY [#B] 7. The Union :8th_Dr:Susan:River:P2023_10:bilibili:
 
-【【神秘博士六十周年纪念特辑】Once and Future 07 The Union 联合-哔哩哔哩】 https://b23.tv/XYQUxsR
+【【神秘博士六十周年纪念特辑】Once and Future 07 The Union 联合-哔哩哔哩】 https://b23.tv/BV1paYAesEeW
 
 *** READY 8. Coda: The Final Act :Fugitive_Dr:War_Dr:Benny:Vienna:Voord:P2024_11:bilibili:
 
-【【神秘博士六十周年纪念特辑】Once and Future 08 The Final Act 终幕-哔哩哔哩】 https://b23.tv/CtuXuvx
+【【神秘博士六十周年纪念特辑】Once and Future 08 The Final Act 终幕-哔哩哔哩】 
+https://b23.tv/BV1eE6FYwEYz
 
 ** BBC Audio Originals :BBC:
 *** TODO [#C] 01. The Thing from the Sea :4th_Dr:Wibbsey:P2018:
@@ -2141,7 +2163,8 @@ https://www.bigfinish.com/releases/v/doctor-who-once-and-future-the-martian-inva
 *** MR050. Zagreus :8th_Dr:5th_Dr:6th_Dr:7th_Dr:P2003:
 *** READY BR09. The Four Doctors :P2010:8th_Dr:5th_Dr:6th_Dr:7th_Dr:Daleks:bilibili:
 
-【【神秘博士广播剧熟肉】Bonus Release The Four Doctors 四位博士-哔哩哔哩】 https://b23.tv/dYrJYbh
+【【神秘博士广播剧熟肉】Bonus Release The Four Doctors 四位博士-哔哩哔哩】 
+https://b23.tv/BV1Pq4we6E16
 
 *** [#D] ST3.1 - Seven to One 🗣 :P2011:plot_yes:
 :PROPERTIES:
