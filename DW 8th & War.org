@@ -478,7 +478,7 @@ SCHEDULED: <2021-09-24 Fri>
 **** Dark Eyes vol.4 :Liv:
 ***** DONE [#A] 4.1 A Life in the Day (8.9)
 ***** HALF [#C] 4.2 The Monster of Montmartre (7.8)
-***** 2DONE 4.3 Master of the Daleks :Master_bald:D2021_10_master:
+***** 2DONE [#B] 4.3 Master of the Daleks :Master_bald:D2021_10_master:
 CLOSED: <2021-10-28 Thu 14:30>
 
 *** with Liv & Helen :Liv:Helen:

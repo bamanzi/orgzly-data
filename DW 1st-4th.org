@@ -1273,11 +1273,18 @@ https://tieba.baidu.com/p/2440478286?see_lz=1&pn=0&
 CLOSED: [2020-06-26 Fri 18:54]
 
 *** S13 :Sarah:
-**** DONE [#A] 13x01 - Terror of the Zygons (8.5) :Zygons:
+**** DONE [#A] 13x01 - Terror of the Zygons †8.5) :Zygons:
 **** DONE [#C] 13x02 - Planet of Evil †7.7) 重看
 CLOSED: [2020-07-16 Thu 19:10]
 
 **** DONE [#A] 13x03 - Pyramids of Mars †8.6) :Sutekh:
+***** DONE Tales of the TARDIS #7 :P2024:
+CLOSED: [2025-04-02 Wed 23:03]
+
+the seventh episode in the Tales of the TARDIS series, released on BBC iPlayer on 20 June 2024 by the BBC. 
+
+Distinct from the initial series of six, this episode, which aired on BBC Four in between the two-part finale of season 1, had the Fifteenth Doctor tell Ruby Sunday of the classic story's events
+
 **** [#C] 13x04 - The Android Invasion †7.6)
 **** DONE [#B] 13x05 - The Brain of Morbius †8.4)
 **** DONE [#A] 13x06 - The Seeds of Doom †8.7)

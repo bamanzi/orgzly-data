@@ -38,7 +38,7 @@ CLOSED: <2021-10-05 Tue 20:27>
 https://tardis.fandom.com/wiki/Fifth_Doctor_audio_stories
 
 *** MR with Peri & Erimeme :scripted:2CD:
-**** DONE 024. The Eye of the Scorpion :Peri:Erimem:D2021_04:
+**** DONE [#C] 024. The Eye of the Scorpion :Peri:Erimem:D2021_04:
 CLOSED: <2021-05-16 Sun 08:12>
 
 **** DONE [#C] 038. The Church and the Crown :Peri:Erimem:DW2022_07_doctor:Richelieu:已购:
@@ -423,9 +423,9 @@ https://b23.tv/BV14x4y1Z79k
 ***** The Merfolk Murders :1CD:
 ***** Dream Team :1CD:
 **** 2024B. The Great Beyond :Adric:Nyssa:Tegan:3CD:P2024_09:
-**** TBR 📂2025. Hooklight
+**** 📂2025. Hooklight
 ***** Hooklight 1 :P2025_04:
-***** Hooklight 2 :P2025_05:
+***** TBR Hooklight 2 :P2025_05:
 *** with Zara & Abby
 **** [#E] 117. The Judgement of Isskar :Zara:Abby:Ice_Warriors:
 **** [#D] 118. The Destroyer of Delights :Zara:Abby:
