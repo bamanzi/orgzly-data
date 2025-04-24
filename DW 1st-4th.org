@@ -85,8 +85,8 @@ CLOSED: [2021-07-27 Tue 23:10]
 :rating:   9.2
 :END:
 
-***** HALF [#A] 2.2 The Barbarians and the Samurai :P2018:plot_yes:dw2025_q2a_doctor:
-SCHEDULED: <2025-04-12 Sat>
+***** 3QTR [#A] 2.2 The Barbarians and the Samurai :P2018:plot_yes:dw2025_q2a_doctor:
+CLOSED: [2025-04-11 Fri 08:15] SCHEDULED: <2025-04-12 Sat>
 :PROPERTIES:
 :rating:   8.6
 :END:

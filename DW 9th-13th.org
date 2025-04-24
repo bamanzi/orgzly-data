@@ -940,10 +940,8 @@ CLOSED: [2024-01-28 Sun 07:16] SCHEDULED: <2024-01-28 Sun>
 
 【【神秘博士】短途旅行：世界树 | Short Trips: The World Tree-哔哩哔哩】 https://b23.tv/kE5PXA3
 
-**** [#B] ST12.6 The Galois Group :Valarie:plot_yes:dw2025_q2a_doctor:
-SCHEDULED: <2025-05-03 Sat>
-
-**** TBR ST13.3 Rise of the Eukaryans :P2025_04:
+**** [#B] ST12.6 The Galois Group :Valarie:plot_yes:
+**** ST13.3 Rise of the Eukaryans :P2025_04:
 *** misc :🗣:
 **** [#C] CY1.3 Living History ↗ :P2016:plot_yes:
 :PROPERTIES:
@@ -1181,8 +1179,10 @@ SCHEDULED: <2022-04-30 Sat>
 :rating:   7.0
 :END:
 
-*** 📂12DC vol.3 You Only Die Twice :P2024_03:Keira:
-**** [#B] 3.1 Sunstrike
+*** 📂12DC vol.3 You Only Die Twice :P2024_03:Keira:plot_no:
+**** HALF [#B] 3.1 Sunstrike :dw2025_q2a_doctor:
+SCHEDULED: <2025-04-19 Sat>
+
 **** [#B] 3.2 Never the End
 **** [#A] 3.3 You Only Die Twice
 *** Short Trips :🗣:

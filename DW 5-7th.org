@@ -346,10 +346,10 @@ CLOSED: <2024-06-29 Sat 16:46> SCHEDULED: <2024-06-29 Sat>
 SCHEDULED: <2024-06-29 Sat>
 
 **** 📂270. Shadow of the Daleks 2
-***** [#B] 270a. Echo Chamber :dw2025_q2a_doctor:
+***** HALF [#B] 270a. Echo Chamber :dw2025_q2a_doctor:
 SCHEDULED: <2025-04-05 Sat>
 
-***** [#D] 270b. Towards Zero :dw2025_q2a_doctor:
+***** HALF [#D] 270b. Towards Zero :dw2025_q2a_doctor:
 SCHEDULED: <2025-04-26 Sat>
 
 ***** [#E] 270c. Castle Hydra
@@ -865,8 +865,8 @@ http://www.drwhoguide.com/who_bf111.htm
 :rating:   7.6
 :END:
 
-**** HALF [#C] 116. The Raincloud Man :P2008:dw2025_q1b_doctor:
-SCHEDULED: <2025-03-15 Sat>
+**** 3QTR [#C] 116. The Raincloud Man :P2008:dw2025_q1b_doctor:
+CLOSED: <2025-03-28 Fri 20:51> SCHEDULED: <2025-03-15 Sat>
 
 https://doctorwho.guide/who_bf116.htm
 

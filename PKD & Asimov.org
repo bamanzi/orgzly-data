@@ -102,7 +102,8 @@ CLOSED: [2023-01-08 Sun 12:19]
 
  改编自短篇 The Second Type
 
-*** Next 预见未来
+*** DONE Next 预见未来 :P2007:
+CLOSED: [2024-12-28 Sat 21:32]
 
 改编自短篇 The Golden Man
 
@@ -221,7 +222,7 @@ CLOSED: [2024-01-07 Sun 10:25]
 :goodreads: 3.78
 :END:
 
-***** NEXT [#C] 火星时间穿越 （火星人的时光倒转） Martian Time-Slip :P1964:已购:S2025_Q1:
+***** NOW [#C] 火星时间穿越 （火星人的时光倒转） Martian Time-Slip :P1964:已购:S2025_Q1:
 :PROPERTIES:
 :goodreads: 3.76
 :END:
@@ -543,7 +544,9 @@ CLOSED: [2023-01-26 Thu 18:04]
 **** DONE 2x10
 CLOSED: <2023-01-27 Fri 20:13>
 
-*** Westworld S3 :P2020:
+*** DONE Westworld S3 :P2020:
+CLOSED: [2024-12-29 Sun 13:21]
+
 **** DONE 3x01
 CLOSED: [2024-12-22 Sun 15:31]
 
@@ -552,6 +555,21 @@ CLOSED: [2024-12-22 Sun 17:11]
 
 **** DONE 3x03
 CLOSED: [2024-12-24 Tue 18:50]
+
+**** DONE 3x04
+CLOSED: [2024-12-25 Wed 19:34]
+
+**** DONE 3x05
+CLOSED: [2024-12-26 Thu 18:49]
+
+**** DONE 3x06
+CLOSED: [2024-12-26 Thu 22:23]
+
+**** DONE 3x07
+CLOSED: [2024-12-27 Fri 21:23]
+
+**** DONE 3x08
+CLOSED: [2024-12-29 Sun 13:21]
 
 ** Terminator
 *** movie
@@ -571,7 +589,6 @@ https://terminator.fandom.com/wiki/Dark_Horse_Comics?so=search
 
 - omnibus #1 :: https://terminator.fandom.com/wiki/The_Terminator_Omnibus_Volume_1
 - omnibus #2 :: https://terminator.fandom.com/wiki/The_Terminator_Omnibus_Volume_2
-
 
 ***** The Terminator (1990)
 ****** Tempest
