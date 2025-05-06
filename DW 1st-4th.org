@@ -172,8 +172,13 @@ CLOSED: [2021-06-26 Sat 09:13]
 :END:
 
 ***** [#E] CC13.2 - Daybreak
-***** TBR CC15.1 The Temple of Light :P2025_04:
-**** [#C] ST2.1 - 1963 :Ian:Barbara:Vicki:
+***** CC15.1 The Temple of Light :P2025_04:
+**** READY [#C] ST2.1 - 1963 :Ian:Barbara:Vicki:bilibili:
+
+【【神秘博士广播剧熟肉】短途旅行：1963-哔哩哔哩】 https://b23.tv/BV1EDdhYvE7c
+
+20 min
+
 *** with Vicki & Steven
 **** EA
 ***** HALF [#C] EA1.3 The Bounty of Ceres :Vicki:Steven:plot_no:DW2023_07_doctor:
@@ -294,7 +299,7 @@ Old Steven 2/3
 Old Steven 3/3
 
 **** [#C] CC13.3 - The Vardan Invasion of Mirth :Steven:Vardans:
-**** TBR CC15.3 The White Ship :P2025_04:
+**** CC15.3 The White Ship :P2025_04:
 **** [#B] ST7.12 - O Tannenbaum :Steven:
 *** with Steven & Dodo
 **** [#C] EA7.2 The Secrets of Det-Sen :Steven:Dodo:plot_yes:P2021_08:
@@ -324,7 +329,7 @@ CLOSED: [2024-06-05 Wed 08:25] SCHEDULED: <2024-06-15 Sat>
 
 这里的 Vicki 是老年 Vicki
 
-**** TBR CC15.4 The Y Factor :P2025_05:
+**** CC15.4 The Y Factor :P2025_05:
 *** with Polly & Ben
 **** HALF [#D] CC11.3 The Bonfires of the Vanties :Polly:Ben:scripted:dw2025_q1a_doctor:
 SCHEDULED: <2025-01-18 Sat>
@@ -357,8 +362,8 @@ https://tardis.wiki/wiki/The_First_Doctor:_Volume_Two
 
 https://tardis.wiki/wiki/The_First_Doctor:_Volume_Three
 
-**** TBR 📂CC15. First Doctor - Volume Four :P2025_04:
-***** 15.2 Stardust and Ashes :Susan:
+**** 📂CC15. First Doctor - Volume Four :P2025_04:
+***** CC15.2 Stardust and Ashes :Susan:
 *** short trips
 
 /Short Trips: Companions/ #13
@@ -1484,8 +1489,10 @@ CLOSED: [2022-12-13 Tue 08:58] SCHEDULED: <2022-12-13 Tue>
 ***** HALF [#C] 7.7/7.8 - Kill the Doctor! / The Age of Sutekh :Sutekh:2CD:DW2024_Q4b_doctor:plot_no:
 SCHEDULED: <2024-12-07 Sat>
 
-**** DONE [#A] 9SP1 Shadow of the Sun (8.6) :4DA:1CD:
+**** DONE [#A] 9SP1 Shadow of the Sun (8.6) :4DA:1CD:bilibili:
 CLOSED: [2020-07-15 Wed 19:13]
+
+【【神秘博士广播剧熟肉】四任博士冒险 第九季特别篇 太阳阴影 Shadow of the Sun-哔哩哔哩】 https://b23.tv/BV1hEV5zCEVJ
 
 **** 📂4DA series 10 :4DA:P2021:2CD:
 ***** [#C] 10.1 The World Traders
@@ -1586,7 +1593,12 @@ CLOSED: <2023-04-22 Sat 21:12> SCHEDULED: <2023-04-12 Wed 08:15>
 
 【【神秘博士广播剧熟肉】The Fourth Doctor's Adventure 502-The Labyrinth of Buda Castle 布达迷宫城堡-哔哩哔哩】 https://b23.tv/BV1h7RnYWExw
 
-***** [#C] 5.3 - The Paradox Planet (7.6) / 5.4 - Legacy of Death (7.6)
+***** [#C] 5.3 - The Paradox Planet (7.6) / 5.4 - Legacy of Death (7.6) :bilibili:
+
+【【神秘博士广播剧熟肉】The Fourth Doctor's Adventure The Paradox Planet-悖论星球-哔哩哔哩】 https://b23.tv/BV1WrLkzJEWZ
+
+
+
 ***** 2DONE [#A] 5.6 The Trouble with Drax (8.7) :D2021_06:
 CLOSED: <2021-07-01 Thu 16:39>
 
@@ -2011,7 +2023,7 @@ https://b23.tv/BV1CA411Q7Yk
 【【神秘博士广播剧熟肉】The Stuff of Nightmares 304 If I Should Die Before I Wake 若我在沉睡中死去-哔哩哔哩】 
 https://b23.tv/BV1CA411Q7Yk
 
-*** 📂CDNM vol.4 Broken Memories :P2024_03:
+*** CDNM vol.4 Broken Memories :P2024_03:
 **** [#C] 4.1 Invasion of the Body Stealers :4th_Dr:Sarah:
 **** [#A] 4.2 The Queen of Clocks :6th_Dr:Clockwork_Droids:Mel:
 **** [#B] 4.3 The Silent City :Silents:8th_Dr:
@@ -2020,8 +2032,7 @@ https://b23.tv/BV1CA411Q7Yk
 **** 5.1 The Krillitane Feint :2nd_Dr:Jamie:Zoe:
 **** 5.2 The Dying Breed :4th_Dr:Leela:K9:
 **** 5.3 The Krillitane Relic :7th_Dr:Zoe:
-**** READY 5.4 Five Hundred Ways to Leave Your Lover :8th_Dr:bilibili:
-
+**** READY [#E] 5.4 Five Hundred Ways to Leave Your Lover :8th_Dr:bilibili:
 
 【【神秘博士广播剧片段】博士反复被甩和被强吻的一天-哔哩哔哩】 https://b23.tv/SkNZjPX
 
@@ -2128,7 +2139,7 @@ https://b23.tv/BV1eE6FYwEYz
 *** TODO [#B] 05. The Elysian Blade :2nd_Dr:Jamie:Victoria:P2019:
 *** [#F] 06. The Winged Coven :4th_Dr:Wibbsey:Yates:
 *** TODO [#C] 07. The Scent of Blood :8th_Dr:
-*** TODO [#B] 08. The Flight of the Sun God :6th_Dr:Peri:
+*** TODO [#B] 08. The Flight of the Sun God :6th_Dr:Peri:plot_yes:
 *** [#E] 09. Paradise Lost :11th_Dr:Clara:P2020:
 *** [#B] 10. TLV: The Minds of Magnox :10th_Dr:
 *** TODO [#C] 11. The Nightmare Realm :12th_Dr:Nardole:P2021:
@@ -2140,7 +2151,7 @@ https://b23.tv/BV1eE6FYwEYz
 *** 17. Doom's Day: Four From Doom's Day :12th_Dr:Ian:Barbara:
 *** 18. The Beast of Scar Hill :9th_Dr:Rose:P2023_09:
 *** 19. The Lagoon Monsters :10th_Dr:Martha:P2023_10:
-*** 20. The Romanov Project :13th_Dr:Yaz:Ryan:P2023_12:
+*** 20. The Romanov Project :13th_Dr:Yaz:Ryan:P2023_12:plot_yes:
 *** 21. The Cuckoo :12th_Dr:P2023_12:
 *** 22. Escape the Daleks! :3rd_Dr:Jo:Daleks:P2024_01:
 *** 23. River of Death :6th_Dr:Peri:P2024_03:

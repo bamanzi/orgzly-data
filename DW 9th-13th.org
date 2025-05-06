@@ -3,7 +3,7 @@
 
 * 9th Doctor :9th_Dr:
 ** tv :📺:
-*** S1
+*** 📂S1
 **** DONE 1x01 Rose
 CLOSED: [2022-06-30 Thu 08:12]
 
@@ -286,7 +286,8 @@ SCHEDULED: <2023-12-31 Sun>
 ***** DONE The Bidding War (#14-15)
 * 10th Doctor :10th_Dr:
 ** tv :📺:
-*** S02
+*** 167. The Christmas Invasion :P2005:Christmas_special:
+*** 📂S02
 **** DONE 2x01 New Earth
 CLOSED: [2022-05-08 Sun 16:38]
 
@@ -296,10 +297,11 @@ CLOSED: [2023-12-10 Sun 17:27]
 **** DONE 2x09 The Satan Pit
 CLOSED: [2023-12-10 Sun 17:27]
 
-*** S03
+*** 178. The Runaway Bride :P2006:Christmas_special:
+*** 📂S03
 **** 3x11/12/13 Utopia / The Sound of Drums / Last of the Time Lords :Master_saxon:
-*** The Infinite Quest :Martha:animated:
-*** S04
+*** 188. Voyage of the Damned :P2007:Christmas_special:
+*** 📂S04
 *** specials
 **** DONE 199. The Next Doctor :Cybermen:P2008:
 CLOSED: [2022-12-11 Sun 22:27]
@@ -308,8 +310,9 @@ CLOSED: [2022-12-11 Sun 22:27]
 CLOSED: [2023-02-06 Mon 20:34]
 
 **** 201. The Waters of Mars
-**** Dreamland :animated:P2009:
-**** 202. The End of Time :Rassilon:Master_saxon:
+**** 202. The End of Time :Rassilon:Master_saxon:Christmas_special:
+*** The Infinite Quest :Martha:animated:
+*** Dreamland :animated:P2009:
 ** comics :📚:
 *** IDW
 **** TODO Agent Provocateur
@@ -342,11 +345,17 @@ CLOSED: [2020-08-16 Sun 16:23]
 ***** DONE 10 Echo
 CLOSED: [2020-08-16 Sun 16:23]
 
-***** DONE 11-15 The Fountains of Forever
+***** DONE 11-12 The Fountains of Forever
 CLOSED: [2020-08-16 Sun 16:23]
 
+***** DONE 13-14 Spiral Staircase
+CLOSED: [2025-04-27 Sun 23:41]
+
+***** DONE 15. Sins of the Father :Anubis:
+CLOSED: [2025-04-30 Wed 12:49]
+
 **** 10DY2
-***** DONE 01-02 The Singer Not the Song :Gabby:Anubis:
+***** DONE 01-02 The Singer Not the Song :Gabby:
 CLOSED: [2020-08-16 Sun 16:23]
 
 ***** DONE 03 Cindy, Cleo and the Magic Sketchbook :Jack:
@@ -707,7 +716,7 @@ CLOSED: [2023-10-07 Sat 19:46] SCHEDULED: <2023-10-14 Sat>
 :rating:   7.5
 :END:
 
-**** TBR ST13.2 When I Say Run… :P2025_04:
+**** ST13.2 When I Say Run… :P2025_04:
 *** BBC
 **** [#C] NSA #2 The Forever Trap :plot_yes_dwg:
 
@@ -773,15 +782,15 @@ CLOSED: <2022-12-11 Sun>
 
 * 11th Doctor :11th_Dr:
 ** tv :📺:
-*** S5 (203-212)
+*** 📂S5 (203-212)
 **** DONE 5x07 The Hungry Earth /08 Cold Blood :Silurians:
 **** 5x10 Vincent and the Doctor
 **** DONE 5x12 Pandorica Opens
 **** DONE 5x13 The Big Bang :DW2022_07_extra:
 CLOSED: [2022-07-04 Mon 08:12]
 
-*** 213. A Christmas Carol :P2010_12:
-*** S6 (214-224)
+*** 213. A Christmas Carol :P2010:Christmas_special:
+*** 📂S6 (214-224)
 **** DONE 6x01 The Impossible Astronaut (214a) :Silents:
 CLOSED: <2022-12-16 Fri 22:50>
 
@@ -794,15 +803,15 @@ CLOSED: <2022-12-17 Sat 23:20>
 **** DONE 6x11 The God Complex
 CLOSED: [2024-02-05 Mon 20:32]
 
-*** 225. The Doctor, the Widow and the Wardrobe :P2011_12:
-*** S7 (226-230,232-239)
+*** 225. The Doctor, the Widow and the Wardrobe :P2011:Christmas_special:
+*** 📂S7 (226-230,232-239)
 **** DONE 7x12 Nightmare in Silver :Cybermen:
 CLOSED: [2022-12-04 Sun 00:05]
 
 **** 7x13 The Name of the Doctor :great_intelligence:
-*** 231. The Snowmen :great_intelligence:
+*** 231. The Snowmen :great_intelligence:Christmas_special:
 *** 240. The Day of the Doctor :Zygons:War_Dr:10th_Dr:UNIT:
-*** DONE 241. The Time of the Doctor
+*** DONE 241. The Time of the Doctor :Christmas_special:
 CLOSED: [2022-12-04 Sun 13:12]
 
 ** audio :🎧:
@@ -1111,33 +1120,60 @@ CLOSED: [2024-01-20 Sat 21:58] SCHEDULED: <2024-01-07 Sun>
 
 * 12th Doctor :12th_Dr:
 ** tv :📺:
-*** S8 (242-252)
+*** 📂S8 (242-252) :P2014:
+**** 8x03 Robot of Sherwood
 **** DONE 8x08 Mummy on the Orient Express
 CLOSED: [2022-11-30 Wed 23:34]
 
+**** 8x09 Flatline
+**** 8x10 In the Forest of the Night
 **** DONE 8x11 Dark Water :Cybermen:Master_missy:
 CLOSED: [2022-12-25 Sun 20:42]
 
 **** DONE 8x12 Death in Heaven :Cybermen:
 CLOSED: [2022-12-26 Mon 19:56]
 
-*** 253. Last Christmas :P2014_12:Clara:Danny_Pink:Dream_crab:
-*** S9 (254-262)
-**** 9x07 The Zygon Invasion
-**** 9x08 The Zygon Inversion
-*** 263. The Husbands of River Song :P2015_12:
-*** 264. The Return of Doctor Mysterio :P2016_12:
-*** S10 (265-275) :P2017:
-**** DONE 10x01 The Pilot
+*** 253. Last Christmas :P2014_12:Clara:Danny_Pink:Dream_crab:Christmas_special:
+*** 📂S9 (254-262) :P2015:
+**** DONE [#B] 9x01 The Magician's Apprentice / 9x02 The Witch's Familiar :Davros:Missy:UNIT:
+CLOSED: [2025-04-25 Fri 21:56]
+
+**** DONE [#B] 9x03 Under the Lake / 9x04 Before the Flood
+CLOSED: [2025-04-29 Tue 22:58]
+
+**** DONE [#D] 9x05 The Girl Who Died
+CLOSED: [2025-04-09 Wed 19:29]
+
+**** DONE [#D] 9x06 The Woman Who Lived
+CLOSED: <2025-04-11 Fri 20:52>
+
+**** [#B] 9x07 The Zygon Invasion / 9x08 The Zygon Inversion
+**** [#F] 9x09 Sleep No More
+**** DONE [#A] 9x10 Face the Raven
+CLOSED: <2025-04-14 Mon 20:13>
+
+**** [#A] 9x11 Heaven Sent
+:PROPERTIES:
+:imdb:     9.6
+:END:
+
+**** [#A] 9x12 Hell Bent
+*** 263. The Husbands of River Song :P2015_12:Christmas_special:
+*** 264. The Return of Doctor Mysterio :P2016_12:Christmas_special:
+*** 📂S10 (265-275) :P2017:
+**** DONE [#C] 10x01 The Pilot
 CLOSED: [2024-08-21 Wed 08:22]
 
-**** DONE 10x11 World Enough and Time :cybermen:Master_saxon:
+**** DONE 10x02 Smile
+CLOSED: [2025-04-30 Wed 21:39]
+
+**** DONE [#A] 10x11 World Enough and Time :cybermen:Master_saxon:
 CLOSED: <2021-09-23 Thu 11:39>
 
-**** DONE 10x12 The Doctor Falls :Cybermen:Master_saxon:
+**** DONE [#A] 10x12 The Doctor Falls :Cybermen:Master_saxon:
 CLOSED: [2021-09-24 Fri 08:10]
 
-*** 276. Twice Upon a Time :P2017_12:
+*** 276. Twice Upon a Time :P2017_12:Christmas_special:
 ** audio :🎧:
 *** 📂12DC vol.1 :P2020:plot_yes:
 **** HALF [#D] 1.1 The Charge of the Night Brigade :Mary_Seacole:D2022_06_doctor:
@@ -1218,7 +1254,7 @@ https://www.iiiff.com/article/404723
 
 **** [#D] ST12.3 The Three Flames :P2019:
 **** ST12.X War Stories :Bill:P2024_12:scripted:
-**** TBR ST13.1 Dark Watchers of California :Bill:P2025_04:
+**** ST13.1 Dark Watchers of California :Bill:P2025_04:
 *** misc
 **** [#C] The Nightmare Realm :BBC:P2021:Nardole:1CD:
 :PROPERTIES:
@@ -1302,10 +1338,10 @@ CLOSED: [2024-07-06 Sat 06:53]
 ***** DONE The Fourth Wall (12DY2 5) :Clara:
 CLOSED: [2024-07-07 Sun 13:24]
 
-***** DONE The Twist (12DY2 6-8)
+***** DONE The Twist (12DY2 6-8) :Hattie:
 CLOSED: [2024-07-03 Wed 22:16]
 
-***** DONE Playing House (12DY2 9-10)
+***** DONE Playing House (12DY2 9-10) :Hattie:
 CLOSED: [2024-07-04 Thu 17:25]
 
 ***** DONE Terror of the Cabinet Noir (12DY2 11-13) :Richelieu:
@@ -1315,7 +1351,7 @@ CLOSED: [2024-07-18 Thu 12:55]
 CLOSED: [2024-07-20 Sat 09:47]
 
 **** 12DY3 :P2017:
-***** Beneath the Waves (12DY3 1-4)
+***** Beneath the Waves (12DY3 1-4) :Hattie:
 ***** The Boy With the Displaced Smile (12DY3 2)
 ***** The Wolves of Winter (12DY3 5-7) :Bill:
 ***** The Lost Dimension: The Twelfth Doctor (12DY3 8)↗ :Bill:Nardole:
@@ -1427,6 +1463,8 @@ CLOSED: <2023-01-06 Fri 22:20>
 CLOSED: [2023-12-24 Sun 22:02] SCHEDULED: <2023-12-24 Sun>
 
 ** audio
+*** 13DA
+**** TBR 1. Vampire Weekend :P2025_07:
 ** comics :📚:
 *** Titan Comics :Titan_Comics:
 **** DONE The Many Lives of Doctor Who
@@ -1471,9 +1509,15 @@ SCHEDULED: <2024-01-07 Sun>
 
 ***** It's Behind You (DWM572) :Yaz:Dan:
 ***** Hydra's Gate (DWM574-577) :Yaz:Dan:
-**** DWMGN: (pending)
-***** Fear of the Future (DWM579) :Yaz:Dan:
-***** The Everlasting Summer (DWM580-583) :Yaz:Dan:
+**** DWM misc
+***** Fear of the Future :Yaz:Dan:
+
+DWM579
+
+***** The Everlasting Summer :Yaz:Dan:
+
+DWM580-583
+
 ** novels :📔:
 *** DONE [#B] 小说：美好博士 †3.97 :己购:Graham:Yaz:
 CLOSED: [2020-07-05 Sun 17:11]
@@ -1528,33 +1572,55 @@ CLOSED: [2024-07-26 Fri 13:30]
 DWM 584-597
 
 *** Untitled (DWM 598) :Donna:hanzify:
+** short stories
+*** Fleeting Faces
 * 15th Doctor :15th_Dr:
-** tv :Ruby:
-*** DONE 304. The Church On Ruby Road :Christmas_special:P2023:
+** tv
+*** DONE [#D] 304. The Church On Ruby Road :Christmas_special:P2023:Ruby:
 CLOSED: [2024-06-08 Sat 15:34]
 
-*** DONE [#F] 1x01 Space Babies
+*** 📂S1 :P2024:Ruby:
+**** DONE [#F] 1x01 Space Babies
 CLOSED: [2024-06-26 Wed 21:57] SCHEDULED: <2024-06-22 Sat>
 
-*** DONE [#E] 1x02 The Devil's Chord
+**** DONE [#E] 1x02 The Devil's Chord
 CLOSED: <2024-06-24 Mon 20:51>
 
-*** DONE [#C] 1x03 Boom
+**** DONE [#C] 1x03 Boom
 CLOSED: [2024-06-28 Fri 19:17]
 
-*** DONE [#B] 1x04 73 Yards
+**** DONE [#B] 1x04 73 Yards
 CLOSED: [2024-07-10 Wed 23:28]
 
-*** DONE [#D] 1x05 Dot and Bubble
+**** DONE [#D] 1x05 Dot and Bubble
 CLOSED: [2024-07-20 Sat 10:39]
 
-*** [#D] 1x06 Rogue
-*** [#B] 1x07 The Legend of Ruby Sunday
-*** [#E] 1x08 Empire of Death :Sutekh:
+**** DONE [#D] 1x06 Rogue
+CLOSED: [2025-04-04 Fri 11:17]
+
+**** DONE [#B] 1x07 The Legend of Ruby Sunday :UNIT:Sutekh:Mel:
+CLOSED: [2025-04-12 Sat 10:42]
+
+**** DONE [#E] 1x08 Empire of Death :Sutekh:Mel:
+CLOSED: [2025-04-13 Sun 09:54]
+
+*** DONE [#D] 312. Joy to the World :P2024_12:Christmas_special:
+CLOSED: [2025-04-20 Sun 16:15]
+
+*** 📂S2 (313-) :P2025:
+**** DONE 2x01 The Robot Revolution
+CLOSED: [2025-04-26 Sat 09:44]
+
+**** DONE 2x02 Lux
+CLOSED: [2025-05-01 Thu 10:03]
+
+**** 2x03 The Well
 ** comics
 *** DWM
 **** Mancopolis (#599-603)
-**** The Hans of Fear (#604-)
+**** The Hans of Fear (#604-607)
+**** The Monster Makers (#608-612)
+**** Run (#613)
 *** Titan
 **** FCBD 2024
 **** 15D #1-4 Everyone Must Go! :P2024:

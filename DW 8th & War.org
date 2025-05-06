@@ -264,7 +264,7 @@ https://b23.tv/BV1j94y14786
 https://b23.tv/BV1CA411Q7Yk
 
 ***** [#C] SvsR #1. The Battle of Giant's Causeway :P2024_01:Crizz:
-***** TBR ST13.4 Ahead of Time :P2025_04:
+***** ST13.4 Ahead of Time :P2025_04:
 *** with Mary
 **** 123. The Company of Friends :short:
 ***** 2DONE [#B] 4. Mary's Story :plot_yes:Mary:½CD:
@@ -1329,6 +1329,11 @@ https://b23.tv/BV1eN4y1C7Kn
 **** 6.2 The Road Untravelled
 **** 6.3 Cass-cade
 **** 6.4 Borrow or Rob
+*** TBR 📂8D Time War vol.7 Uncharted: Pursuit :P2025_06:
+**** 7.1 Spoil of War
+**** 7.2 The Tale of Alex
+**** 7.3 See-Saw
+**** 7.4 The First Forest
 ** 9. Fall of Romana
 *** DONE GTW3.2 Nevernor
 CLOSED: [2020-12-17 Thu 19:53]
@@ -1458,6 +1463,7 @@ SCHEDULED: <2025-03-22 Sat>
 *** 📂The War Doctor Rises
 **** WDR1: Morbius the Mighty :P2024_08:War_Dr:3CD:
 **** WDR2: Unknown Soldiers :P2024_12:3CD:
+**** TBR WDR3. Fallen Heroes :P2025_05:
 *** Ambush (comic)
 ** 12. The Master flees
 *** DONE [#A] WM1.4 The Heavenly Paradigm :Cole:🎧:D2021_09_extra:

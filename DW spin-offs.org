@@ -2022,7 +2022,10 @@ https://www.bilibili.com/video/BV1oY41197ms/
 ** The War Master  ↗
 ** Call Me Master :Master_spy:
 *** vol.1 Inner Demons :P2025_02:
-**** 1.1 Self-Help
+**** READY 1.1 Self-Help :bilibili:
+
+【【神秘博士广播剧】Call Me Master-101 Self-help 自救-哔哩哔哩】 https://b23.tv/BV18wLUzgEhL
+
 **** 1.2 The Clockwork Swan
 **** 1.3 The Good Life
 ** misc
@@ -2440,16 +2443,15 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
 **** [#E] 2.2 Haunt
 **** [#E] 2.3 The Last Line of Defence
 *** TBR 📂Fractures :P2025_06:
-** 3QTR [#C] CC6.1 Tales From the Vault :Ruth_Matheson:UNIT:Jo:Romana_1:Zoe:Steven:1st_Dr:2nd_Dr:3rd_Dr:4th_Dr:the_Vault:plot_yes:DW2023_04_spinoffs:
-   CLOSED: <2023-04-18 Tue 08:56> SCHEDULED: <2023-04-09 Sun>
-   :PROPERTIES:
-   :rating:   7.5
-   :END:
+** #Ruth_Matheson :Ruth_Matheson:
+*** 3QTR [#C] CC6.1 Tales From the Vault :Ruth_Matheson:UNIT:Jo:Romana_1:Zoe:Steven:1st_Dr:2nd_Dr:3rd_Dr:4th_Dr:the_Vault:plot_yes:DW2023_04_spinoffs:
+    CLOSED: <2023-04-18 Tue 08:56> SCHEDULED: <2023-04-09 Sun>
+    :PROPERTIES:
+    :rating:   7.5
+    :END:
 
-** #Ruth_Matheson
-*** CC6.1 Tales from the Vault
 *** CC8.1 Mastermind ↗ :Master_decayed:UNIT:Vault:
-*** [#B] CC12.4 - The Tactics of Defeat :Ruth_Matheson:Zoe:UNIT:
+*** [#B] CC12.4 - The Tactics of Defeat :Zoe:UNIT:
     :PROPERTIES:
     :rating:   8.1
     :END:
@@ -2897,13 +2899,17 @@ https://doctorwho.guide/paradox_a01.htm
 
 **** [#B] 2. The Ship of a Billion Years :P2006:
 **** [#B] 3. Body Politic :P2008:
-**** [#C] 4. Words from Nine Divinities :P2008:
-**** [#C] 5. Ozymandias :P2009:
-**** 6. The Judgment of Sutekh :P2009:
+**** [#D] 4. Words from Nine Divinities :P2008:
+**** [#D] 5. Ozymandias :P2009:
+**** [#E] 6. The Judgment of Sutekh :P2009:
 *** 📂Dionus's War (BBV) :P2021:
 *** 📂Rebirth (BBV) :P2021:
 *** 📂Hellscape Season 1 :P2022:
 *** 📂Hellscape Season 2 :P2023:
+** novels
+*** Mad Norwegian Press (2004-2006)
+**** The Book of the War
+*** Obverse Books (2013-)
 * P.R.O.B.E
 ** video :📺:Liz:
 *** DONE The Zero Imperative 
@@ -2951,27 +2957,54 @@ https://doctorwho.guide/sj_06.htm
 *** The Sarah Jane Adventures (BBC)
 * Class
 ** tv :📺:P2016:
-*** DONE 1x01 For Tonight We Might Die :12th_Dr:DW2023_Q4:
+*** DONE [#D] 1x01 For Tonight We Might Die :12th_Dr:DW2023_Q4:
     CLOSED: [2024-01-05 Fri 20:22]
 
-*** DONE 1x02 The Coach with the Dragon Tattoo :DW2023_Q4:
+*** DONE [#D] 1x02 The Coach with the Dragon Tattoo :DW2023_Q4:
     CLOSED: [2024-01-10 Wed 19:16]
 
-*** DONE 1x03 Nightvisiting :DW2023_Q4:
+*** DONE [#D] 1x03 Nightvisiting :DW2023_Q4:
     CLOSED: [2024-01-17 Wed 19:07]
 
-*** DONE 1x04 Co-Owner of a Lonely Heart :DW2023_Q4:
+*** DONE [#D] 1x04 Co-Owner of a Lonely Heart :DW2023_Q4:
     CLOSED: [2024-01-28 Sun 13:24] SCHEDULED: <2024-01-28 Sun>
+    :PROPERTIES:
+    :imdb:     7.1
+    :END:
 
-*** DONE 1x05 Brave-ish Heart
+*** DONE [#E] 1x05 Brave-ish Heart
     CLOSED: [2024-01-28 Sun 21:47]
+    :PROPERTIES:
+    :imdb:     6.8
+    :END:
 
-*** LATER 1x06 :S2024_Q4:
+*** DONE [#C] 1x06 Detained
+    CLOSED: [2025-04-08 Tue 20:51]
+    :PROPERTIES:
+    :imdb:     7.7
+    :END:
+
+*** DONE [#B] 1x07 The Metaphysical Engine, or What Quill Did
+    CLOSED: [2025-04-14 Mon 20:39]
+    :PROPERTIES:
+    :imdb:     7.9
+    :END:
+
+*** DONE [#B] 1x08 The Lost
+    CLOSED: [2025-04-15 Tue 08:13]
+    :PROPERTIES:
+    :imdb:     8.1
+    :END:
+
 ** audio
 *** vol.1 :P2018:
-**** 1.1 Gifted
-**** 1.2 Life Experience
-**** 1.3 Tell Me You Love Me
+**** [#C] 1.1 Gifted
+**** [#E] 1.2 Life Experience
+**** [#A] 1.3 Tell Me You Love Me
+     :PROPERTIES:
+     :rating:   9.0
+     :END:
+
 *** vol.2 :P2018:
 *** vol.3 :P2020:
 *** vol.4 :P2020:

@@ -420,8 +420,8 @@ https://b23.tv/BV14x4y1Z79k
 
 ***** CANCEL [#F] 2. Resistor :1CD:
 **** 📂2024A. The Dream Team :P2024_04:Adric:Nyssa:Tegan:
-***** The Merfolk Murders :1CD:
-***** Dream Team :1CD:
+***** [#A] The Merfolk Murders :1CD:
+***** [#C] Dream Team :1CD:
 **** 2024B. The Great Beyond :Adric:Nyssa:Tegan:3CD:P2024_09:
 **** 📂2025. Hooklight
 ***** Hooklight 1 :P2025_04:
@@ -476,6 +476,12 @@ CLOSED: [2022-01-14 Fri 15:10]
 **** NA12. Goth Opera :Nyssa:Tegan:P2024_07:3CD:
 *** short trips
 **** [#D] DotD #5 Smoke and Mirrors :Adric:Nyssa:Tegan:1CD:plot_yes:
+**** READY [#E] ST1.5 The Deep :Nyssa:P2010:bilibili:
+
+【【神秘博士广播剧】熟肉 短途旅行-卷1：深渊 Short Trips-Volume 1：The Deep-哔哩哔哩】 https://b23.tv/BV1mSR9Y6EKe
+ 
+15 min
+
 **** [#C] ST6.9 Gardens of the Dead :Tegan:Nyssa:Turlough:
 **** [#B] ST7.11. The Ingenious Gentleman Adric of Alzarius :Adric:Nyssa:Tegan:1CD:
 **** [#D] ST9.10 The Second Oldest Question :Nyssa:
@@ -491,7 +497,7 @@ Interludes #8
 
 Interludes #4
 
-**** TBR ST13.6 Dark is the Devil that Walks :Tegan:Toulough:P2025_04:
+**** ST13.6 Dark is the Devil that Walks :Tegan:Toulough:P2025_04:
 ** short stories
 *** DONE Tip of the Tongue 舌尖 :Nyssa:
 CLOSED: [2022-12-28 Wed 21:19]
@@ -990,7 +996,9 @@ CLOSED: [2023-04-11 Tue 21:15] SCHEDULED: <2023-04-15 Sat>
 
  【【广播剧翻译】在重生29年后补的重生集 六任：最后的冒险  104 The Brink of Death-哔哩哔哩】 https://b23.tv/4Ozoj0K
 
-animation: https://m.youtube.com/watch?v=q_syF24kYek
+animation: 
+- https://m.youtube.com/watch?v=q_syF24kYek
+- 中字 https://b23.tv/BV1vBYkeXENH
 
 **** 📂2021. The Eleven :P2021_09:The_Eleven:Constance:1CD:
 ***** [#D] 1. One for All
@@ -1007,6 +1015,10 @@ This anthology marked the 40th anniversary of Baker's debut as the Doctor.
 ***** [#C] 5. The Thousand Year Thaw :Peri:½CD:
 ***** [#B] 6. The Firstborn :1CD:
 **** 2024B. The Trials of a Time Lord :Peri:Mel:P2024_08:3CD:
+**** 2025A. The Cosmos and Mrs Clarke :P2025_05:Constance:
+***** 1. The Story Demon
+***** 2. The Key to Many Worlds
+***** 3. Inconstancy
 *** BF misc
 **** Jago and Litefoot: Series 4
 ***** 2DONE Jago in Love
@@ -1450,9 +1462,9 @@ SCHEDULED: <2024-03-16 Sat>
 ***** HALF [#B] UNIT - Dominion p4 :dw2025_q1a_doctor:
 SCHEDULED: <2025-01-25 Sat>
 
-**** [#E] LS2.4 - Crime of the Century :Raine:
-**** [#D] LS2.5 Animal :Raine:
-**** [#D] LS2.6 Earth Aid :Raine:
+**** [#E] LS2.4 - Crime of the Century :Raine:plot_yes:
+**** [#D] LS2.5 Animal :Raine:plot_yes:
+**** [#D] LS2.6 Earth Aid :Raine:plot_yes:
 *** 7DA :7DA:
 **** V. Return of the Daleks :Susan_Mendes:Kalendorf:P2006:
 **** 📂2022A Silver and Ice :P2022_06:
@@ -1466,16 +1478,17 @@ CLOSED: [2024-06-29 Sat 19:45] SCHEDULED: <2024-06-05 Wed 09:27>
 
 **** 📂2022B Sullivan and Cross - AWOL :Harry:Naomi:P2022_11:
 ***** [#E] 22B.1 London Orbital
-***** [#E] 22B.2 Scream of the Daleks :Daleks:
+***** [#F] 22B.2 Scream of the Daleks :Daleks:
 **** 📂2023A Far From Home :P2023_06:Harry:Naomi:
 ***** [#B] 23A.1 Operation Dusk
 ***** [#D] 23A.2 Naomi's Ark
 **** [#F] 2023B. The Last Day 1 :Ace:Mel:Beeny:Hex:Master_decayed:P2023_12:3CD:
-**** 2024A. The Last Day 2 :P2024_06:
+**** [#E] 2024A. The Last Day 2 :P2024_06:
 **** 📂2024B The Doctor and Carnacki :P2024_11:
 ***** 24B.1 The Haunter of the Shore
 ***** 24B.2 The House
 ***** 24B.3 The Institute of Forgotten Souls
+**** TBR 📂2025A. Past Forward :P2025_06:
 *** misc
 **** [#D] LS2.3 - Thin Ice :Ace:P2011:
 **** HALF [#D] CC7.3 Project: Nirvana :Sally:Lysandra:P2012:plot_cast:DW2023_03_doctor:
@@ -1499,7 +1512,7 @@ CLOSED: [2023-07-04 Tue 08:31] SCHEDULED: <2023-07-08 Sat>
 
 http://drwhoguide.com/bbv21.htm
 
-**** TBR ST13.5 Emerald Isle :Ace:P2025_04:
+**** ST13.5 Emerald Isle :Ace:P2025_04:
 ** comics
 *** DWM
 **** DWMGN: A Cold Day in Hell! (DWM 130-150)
