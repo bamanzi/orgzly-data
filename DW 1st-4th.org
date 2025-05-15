@@ -547,7 +547,8 @@ SCHEDULED: <2024-04-27 Sat>
 :rating:   7.6
 :END:
 
-***** [#C] EA4.2 The Outliers :Jamie:Polly:Ben:plot_yes:
+***** [#C] EA4.2 The Outliers :Jamie:Polly:Ben:plot_yes:dw2025_q2b_doctor:
+SCHEDULED: <2025-05-31 Sat>
 :PROPERTIES:
 :rating:   7.7
 :END:
@@ -1179,8 +1180,8 @@ SCHEDULED: <2023-09-21 Thu>
 ***** CANCEL [#E] 2022B. Kaleidoscope :Harry:Brigadier:P2022_10:3CD:
 ***** [#D] 2024A. Revolution in Space :P2024_02:3CD:plot_yes:
 **** START [#D] CDNM3.1 The House that Hoxx Built :P2022:plot_yes:
-**** [#B] SvsR#2 The Children of the Future :P2024_02:dw2025_q2a_doctor:
-SCHEDULED: <2025-04-19 Sat>
+**** 3QTR [#B] SvsR#2 The Children of the Future :P2024_02:dw2025_q2a_doctor:
+CLOSED: [2025-04-29 Tue 19:04] SCHEDULED: <2025-05-03 Sat>
 
 **** CANCEL [#F] ST10.03 Decline of the Ancient Mariner
 :PROPERTIES:
@@ -1495,7 +1496,9 @@ CLOSED: [2020-07-15 Wed 19:13]
 【【神秘博士广播剧熟肉】四任博士冒险 第九季特别篇 太阳阴影 Shadow of the Sun-哔哩哔哩】 https://b23.tv/BV1hEV5zCEVJ
 
 **** 📂4DA series 10 :4DA:P2021:2CD:
-***** [#C] 10.1 The World Traders
+***** TODO [#C] 10.1 The World Traders :dw2025_q2b_doctor:
+SCHEDULED: <2025-06-28 Sat>
+
 ***** [#C] 10.2 The Day of the Comet
 ***** [#C] 10.3 The Tribulations of Tahdeus Nook
 ***** [#E] 10.4 The Primeval Design
@@ -1700,7 +1703,8 @@ SCHEDULED: <2022-04-23 Sat>
 
 ***** [#D] 8.4 The False Guardian / 8.5 Time's Assassin
 ***** [#D] 8.6 - Fever Island (7.2)
-***** [#B] 8.7/8.8 - The Perfect Prisoners :2CD:
+***** [#B] 8.7/8.8 - The Perfect Prisoners :2CD:dw2025_q2b_pending:
+SCHEDULED: <2025-06-14 Sat>
 :PROPERTIES:
 :rating:   8.2
 :END:

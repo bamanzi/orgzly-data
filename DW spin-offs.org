@@ -468,7 +468,7 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 ***** HALF [#D] 62. Dead Plates :Bilis_Manger:DW2023_09_spinoffs:
       SCHEDULED: <2023-09-24 Sun>
 
-***** HALF [#A] 63. Restricted Items Archive Entries 031–049 :Ianto:plot_yes:bilibili:
+***** HALF [#A] 63. Restricted Items Archive Entries 031–049 :Ianto:plot_yes:bilibili:dw2025_q3a_spinoffs:
 
 【【自译中字/火炬木小组广播剧】限制级物品档案条目031-049-哔哩哔哩】 https://b23.tv/BV15N4y1e7Rk
 
@@ -714,18 +714,18 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
 ***** 3QTR [#A] 7.6 At Her Majesty’s Pleasure :Yvonne:Andy:DW2024_Q4a_spinoffs:
       CLOSED: [2024-10-19 Sat 20:47] SCHEDULED: <2024-10-20 Sun>
 
-***** HALF [#A] 7.7 Cuckoo (9.1) :Bilis_Manger:Ianto:dw2025_q2a_spinoffs:
-      SCHEDULED: <2025-04-20 Sun>
+***** 3QTR [#A] 7.7 Cuckoo (9.1) :Bilis_Manger:Ianto:dw2025_q2a_spinoffs:
+      CLOSED: <2025-04-23 Wed 15:53> SCHEDULED: <2025-04-20 Sun>
 
-***** [#A] 7.8 Pariahs :Yvonne:Colchester:Ng:
+***** TODO [#A] 7.8 Pariahs :Yvonne:Colchester:Ng:Tyler:Orr:dw2025_q2b_spinoffs:
 ***** [#B] 7.9 How I Conquered the World :Yvonne:Orr:Colchester:
       :PROPERTIES:
       :rating:   8.8
       :END:
 
-***** [#B] 7.10 Doomscroll :Orr:Colchester:Tyler:
+***** [#B] 7.10 Doomscroll :Orr:Colchester:Tyler:Ng:
 ***** [#B] 7.11 Heistland :Yvonne:Orr:Tyler:
-***** [#C] 7.12 The Apocalypse Starts at 6 PM :Yvonne:Orr:
+***** [#C] 7.12 The Apocalypse Starts at 6 PM :Yvonne:Og:
 *** 📂The Lives of Captain Jack :🎧:Jack:1CD:
 **** vol.1 :P2017:
 ***** HALF [#D] 1.1 The Year After I Died
@@ -744,7 +744,7 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
       :END:
 
 ***** DONE [#C] 1.4 Month 25 :dw2025_q2a_spinoffs:
-      CLOSED: <2018-08-19 Sun 21:58> SCHEDULED: <2025-05-04 Sun>
+      CLOSED: <2018-08-19 Sun 21:58> SCHEDULED: <2025-04-27 Sun>
       :PROPERTIES:
       :rating:   7.7
       :END:
@@ -1056,7 +1056,7 @@ Roberts Master
       :rating:   7.2
       :END:
 
-***** [#A] 7.3 Barrister to the Stars
+***** TODO [#A] 7.3 Barrister to the Stars :dw2025_q2b_spinoffs:
       SCHEDULED: <2024-05-31 Fri>
       :PROPERTIES:
       :rating:   8.9
@@ -1263,7 +1263,7 @@ Roberts Master
     :rating:   7.5
     :END:
 
-*** [#D] 9.4 - Return of the Nightmare
+*** TODO [#D] 9.4 - Return of the Nightmare :dw2025_q2b_spinoffs:
     :PROPERTIES:
     :rating:   7.4
     :END:
@@ -1441,7 +1441,7 @@ https://www.bilibili.com/video/BV1F8DYYFEnQ
     :END:
 
 *** HALF [#B] 6.3 - Ascension :dw2025_q2a_spinoffs:
-    SCHEDULED: <2025-04-20 Sun>
+    SCHEDULED: <2025-05-04 Sun>
 
 ** special: WoDW#4 Second Sight ↗
 ** [#B] 7.0 - Intervention Earth :P2015:
@@ -1722,13 +1722,15 @@ http://drwhoguide.com/bs_a18.htm
 Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor can't get to her, not this time. All Benny can do is stay alive for as long as possible. And, in a city full of Daleks, that's not going to be very long.
 
 *** vol.2 The Triumph of Sutekh :Sutekh:P2015:
-**** 3QTR [#C] 2.1 - The Pyramid of Sutekh :7th_Dr:dw2025_q2a_spinoffs:
-     CLOSED: <2025-04-10 Thu 12:58> SCHEDULED: <2025-04-06 Sun>
+**** 3QTR [#C] 2.1 - The Pyramid of Sutekh :7th_Dr:dw2025_q2a_doctor:
+     CLOSED: <2025-04-10 Thu 12:58> SCHEDULED: <2025-04-05 Sat>
      :PROPERTIES:
      :rating:   7.9
      :END:
 
-**** [#D] 2.2 - The Vaults of Osiris :Ace:dw2025_q2b_spinoffs:
+**** HALF [#D] 2.2 - The Vaults of Osiris :Benny:Ace:dw2025_q2a_spinoffs:
+     SCHEDULED: <2025-05-04 Sun>
+
 **** [#B] 2.3 - The Eye of Horus :7th_Dr:
 **** [#C] 2.4 - The Tears of Isis :7th_Dr:Ace:
 *** vol.3 The Unbound Universe :unbound_universe:Unbound_Dr:P2016:
@@ -2588,7 +2590,7 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
     :rating:   7.6
     :END:
 
-*** [#C] 1.3 Eleven's Eleven :The_Eleven:
+*** TODO [#C] 1.3 Eleven's Eleven :The_Eleven:dw2025_q2b_spinoffs:
 *** [#B] 1.4 The Curator's Gambit :The_Eleven:
 ** Nemesis 2: Agents of the Vulpreen :P2022_03:
 *** [#B] 2.1 The Man From Gallifrey
@@ -2675,7 +2677,7 @@ http://www.drwhoguide.com/kaldor03.htm
      :rating:   8.5
      :END:
 
-**** [#B] 3.3 - A Matter of Conscience
+**** [#B] 3.3 - A Matter of Conscience :dw2025_q2b_pending:
      :PROPERTIES:
      :rating:   8.3
      :END:
@@ -2845,7 +2847,7 @@ http://www.drwhoguide.com/kaldor03.htm
     :rating:   7.5
     :END:
 
-*** [#C] 3.3 - The Forgotten Village
+*** TODO [#C] 3.3 - The Forgotten Village :dw2025_q2b_spinoffs:
     :PROPERTIES:
     :rating:   7.8
     :END:
@@ -2877,27 +2879,32 @@ http://www.drwhoguide.com/kaldor03.htm
 *** [#C] 3.1. The Hollow King (7.5) :P2019:
 *** [#D] 3.2. The Movellan Manoeuvre (7.4) :P2020:
 *** [#D] 3.3. The Dalek Gambit (7.3) :2020:
-* Faction Paradox
+* Faction Paradox :Faction_Paradox:
 ** audio
-*** 📂The Faction Paradox Protocols (BBV 2001-2004)
-**** READY 1. The Eleven-Day Empire :P2001:bilibili:
+*** 📂The Faction Paradox Protocols (BBV 2001-2004) :scripted:Justine:Eliza:
+
+http://web.archive.org/web/20060212015459/http://www.factionparadox.co.uk/scripts.htm
+
+**** READY 1. The Eleven Day Empire :P2001:bilibili:
 
 【【神秘博士广播剧熟肉】Faction Paradox 101 The Eleven Day Empire 十一日帝国-哔哩哔哩】https://b23.tv/BV1Yf421B7Kv
+
 **** READY 2. The Shadow Play :P2001:bilibili:
 
 【【神秘博士广播剧熟肉】Faction Paradox 102 The Shadow Play 影子戏-哔哩哔哩】https://b23.tv/BV1k4421U7QQ
+
 **** 3. Sabbath Dei :P2003:
 **** 4. In the Year of the Cat :P2003:
 **** 5. Movers :P2003:
 **** 6. A Labyrinth of Histories :P2004:
-*** 📂The True History of Faction Paradox (MBP 2004-2009) :Sutekh:plot_yes_dwg:
+*** 📂The True History of Faction Paradox (MBP 2004-2009) :Sutekh:Justine:Eliza:plot_yes_dwg:
 **** HALF [#C] 1. Coming to Dust :P2005:dw2025_q1b_spinoffs:
      SCHEDULED: <2025-03-09 Sun>
 
 https://tardis.breezewiki.com/wiki/Coming_to_Dust_(audio_story)
 https://doctorwho.guide/paradox_a01.htm
 
-**** [#B] 2. The Ship of a Billion Years :P2006:
+**** TODO [#B] 2. The Ship of a Billion Years :P2006:dw2025_q2b_spinoffs:
 **** [#B] 3. Body Politic :P2008:
 **** [#D] 4. Words from Nine Divinities :P2008:
 **** [#D] 5. Ozymandias :P2009:
@@ -3272,7 +3279,7 @@ From Donna's perspective, the anthology is set after /Forest of the Dead/.
 *** DONE [#B] WoDW#3 - The Screaming Skull :UNIT:Ruth_Matheson:Charlie_Sato:Yates:DW2023_07_spinoffs:
     CLOSED: [2023-07-29 Sat 08:01] SCHEDULED: <2023-07-24 Mon 08:24>
 
-*** [#D] WoDW#4 - Second Sight :6th_Dr:Romana_2:Leela:Yates:
+*** [#D] WoDW#4 - Second Sight :6th_Dr:Romana_2:Leela:Yates:dw2025_q2b_pending:
     SCHEDULED: <2024-01-01 Mon>
 
 ** The Eighth of March :🎧:

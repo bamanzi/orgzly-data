@@ -195,6 +195,27 @@ CLOSED: [2025-04-23 Wed 16:44]
 *** DONE 4x12
 CLOSED: [2025-04-23 Wed 17:35]
 
+* Slow Horses
+
+https://breezewiki.com/slow-horses/wiki/Slow_Horses_Wiki
+
+** novels
+
+https://breezewiki.com/slow-horses/wiki/The_Slough_House_(Novels)
+
+*** START 01. Slow Horses 驽马
+*** 02. Dead Lions 亡狮
+*** 03. Real Tigers 猛虎
+:PROPERTIES:
+:Real :    
+:END:
+
+*** 04. Spook Street
+** tv
+*** DONE S1 :P2022:
+CLOSED: <2025-05-05 Mon 14:24>
+
+*** S2 :P2022:
 * Breaking Bad / Better Call Saul
 ** Breaking Bad
 ** Better Call Saul
@@ -557,4 +578,10 @@ CLOSED: [2025-04-22 Tue 00:14]
 
 *** DONE 9x03
 CLOSED: [2025-04-22 Tue 20:29]
+
+*** DONE 9x04
+CLOSED: [2025-04-29 Tue 23:40]
+
+*** DONE 9x05
+CLOSED: [2025-05-09 Fri 20:20]
 

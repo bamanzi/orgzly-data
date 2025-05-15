@@ -135,7 +135,7 @@ CLOSED: [2024-07-16 Tue 08:34] SCHEDULED: <2024-06-22 Sat>
 **** 📂S3.1 Pioneers :P2023_05:
 ***** [#E] 3.1.1 The Green Gift
 ***** [#E] 3.1.2 Northern Lights
-***** READY [#E] 3.1.3 The Beautiful Game :bilibili:dw2025_q2a_doctor:
+***** HALF [#E] 3.1.3 The Beautiful Game :bilibili:dw2025_q2a_doctor:
 SCHEDULED: <2025-05-10 Sat>
 
 【【神秘博士广播剧熟肉】Pioneers 903 The Beautiful Game 美丽比赛-哔哩哔哩】 https://b23.tv/BV1su41147YW
@@ -643,7 +643,9 @@ SCHEDULED: <2024-07-27 Sat>
 :END:
 
 【【神秘博士广播剧熟肉】Dalek Universe 301 The First Son 第一子-哔哩哔哩】 https://b23.tv/BV1XZ4y147oB
-***** READY [#C] DU3.2 - The Dalek Defense :Davros:bilibili:
+
+***** READY [#C] DU3.2 - The Dalek Defense :Davros:bilibili:dw2025_q2b_doctor:
+SCHEDULED: <2025-06-14 Sat>
 :PROPERTIES:
 :rating:   7.9
 :END:
@@ -1217,7 +1219,7 @@ SCHEDULED: <2022-04-30 Sat>
 
 *** 📂12DC vol.3 You Only Die Twice :P2024_03:Keira:plot_no:
 **** HALF [#B] 3.1 Sunstrike :dw2025_q2a_doctor:
-SCHEDULED: <2025-04-19 Sat>
+SCHEDULED: <2025-05-10 Sat>
 
 **** [#B] 3.2 Never the End
 **** [#A] 3.3 You Only Die Twice

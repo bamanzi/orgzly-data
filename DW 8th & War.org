@@ -1002,7 +1002,7 @@ https://b23.tv/BV1ju411x7qo
 
 *** Master of Worlds (UNIT new #6.4) :Master_war:🎧:
 *** /📂The War Master series 9: Solitary Confinement/ :🎧:P2023_06:Master_war:plot_cast:
-**** READY [#A] 9.1 - The Walls of Absence :bilibili:
+**** READY [#A] 9.1 - The Walls of Absence :bilibili:dw2025_q2b_spinoffs:
 
 【【广播剧汉化】燃烧的天空 The War Master 战争法师 901 The Walls of Absence-哔哩哔哩】 
 https://b23.tv/BV1PP411h7Uw
@@ -1309,12 +1309,14 @@ CLOSED: <2021-11-26 Fri 09:50> DEADLINE: <2021-11-26 Fri 21:54> SCHEDULED: <2021
 
 ** 8. The Doctor and Cass Fermazzi
 *** 📂8D Time War vol.5 Cass :Cass:P2023_01:plot_yes:🎧:
-**** READY [#C] 5.1 Meanwhile, Elsewhere :bilibili:
+**** READY [#C] 5.1 Meanwhile, Elsewhere :bilibili:dw2025_q2b_doctor:
+SCHEDULED: <2025-06-14 Sat>
 
 【【广播剧汉化】并进的时间线 Cass 101 Meanwhile Elsewhere-哔哩哔哩】 
 https://b23.tv/BV1DX4y117Uw
 
-**** READY [#C] 5.2 Vespertine :bilibili:
+**** READY [#C] 5.2 Vespertine :bilibili:dw2025_q2b_doctor:
+SCHEDULED: <2025-06-28 Sat>
 
 【【广播剧汉化】 沉重的遗产 Cass 102 Vespertine-哔哩哔哩】 
 https://b23.tv/BV1km4y1t7Jb
@@ -1450,7 +1452,9 @@ CLOSED: [2024-05-23 Thu 21:38] SCHEDULED: <2024-05-04 Sat>
 **** HALF [#B] 4.1 The Mission :dw2025_q1b_doctor:
 SCHEDULED: <2025-03-22 Sat>
 
-**** [#B] 4.2 The Abyss
+**** TODO [#B] 4.2 The Abyss :dw2025_q2b_doctor:
+SCHEDULED: <2025-06-14 Sat>
+
 **** [#B] 4.3 The Horror
 *** 📂WDB vol.5 Comrades-in-Arms :Case:P2023_05:🎧:
 **** [#D] 5.1 A Mother's Love

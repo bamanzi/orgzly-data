@@ -1844,62 +1844,56 @@
 *** HALF [#C] CM3.2 - The Concrete Cage
 *** HALF [#C] JL9.3 - Island of Death
 *** 3QTR [#A] WM8.3 The Adventure of the Deceased Doctor :Master_war:Holmes:bilibili:
-*** HALF [#C] FP2.1 Coming to Dust :Sutekh:
-** DOING 2025-q1b-extra
+*** HALF [#C] FP2.1 Coming to Dust :Sutekh:Faction_Paradox:
+** 2025-q1b-extra
 *** HALF Sandman 1.09 Tales in the Sand
     SCHEDULED: <2025-04-06 Sun>
 
-** DOING 2025-q2a-doctor
-*** HALF [#A] 1DA2.2 The Barbarians and the Samurai :1st_Dr:Susan:Ian:Barbara:2CD:
-*** [#B] SvsR#2 The Children of the Future :3rd_Dr:Sarah:Brigadier:
+** dw2025-q2a-doctor
+*** 2DONE [#A] 1DA2.2 The Barbarians and the Samurai :1st_Dr:Susan:Ian:Barbara:2CD:
+*** 3QTR [#B] SvsR#2 The Children of the Future :3rd_Dr:Sarah:Brigadier:UNIT:
 *** HALF [#C] MR270. Shadow of the Daleks 2a/b :5th_Dr:Daleks:
-*** [#C] NA07. Theatre of War (part1~2) :Ace:Benny:dw2025_q2a_doctor:
-    SCHEDULED: <2025-05-03 Sat>
-    :PROPERTIES:
-    :rating:   7.7
-    :END:
-
-*** READY [#E] 9DA3.1.3 The Beautiful Game :bilibili:
-*** HALF [#B] 12DC3.1 Sunstrike
-** DOING 2025-q2a-spinoffs
-*** HALF [#A] TW7.7 Cuckoo :Bilis_Manger:
-*** FIXME [#C] Jack1.4 Month 25
+*** 2DONE [#C] BSNA2.1 The Pyramid of Sutekh :Benny:7th_Dr:Sutekh:
+*** HALF [#D] BSNA2.2 The Vault of Osiris :Benny:Ace:
+*** HALF [#E] 9DA3.1.3 The Beautiful Game :9th_Dr:bilibili:
+*** HALF [#B] 12DC3.1 Sunstrike :12th_Dr:
+** dw2025-q2a-spinoffs
+*** 3QTR [#A] TW7.7 Cuckoo :Bilis_Manger:Ianto:
+*** DONE [#C] Jack1.4 Month 25 :Jack:
 *** HALF [#C] UNEM1.2 Fire and Ice :UNIT:Ice_Warriors:Harry:Naomi:
 *** HALF [#D] PGT1.2 Symmetry of Death
-*** READY [#E] Master! 3.1 Basilisk :Master_roberts:bilibili:
-*** HALF [#C] BSNA2.1 - The Pyramid of Sutekh :Benny:7th_Dr:Ace:Sutekh:
+*** HALF [#E] Master! 3.1 Basilisk :Master_roberts:bilibili:
 *** HALF [#B] Gallifrey 6.3 - Ascension
-*** FIXME [#C] Rory2.1 The Once and Future Nurse
+*** [#C] Rory2.1 The Once and Future Nurse
 ** 2025-q2a-extra
 *** [#C] BFSH2.1a The Empty House
-** 2025-q2b-doctor
+** dw2025-q2b-doctor
 *** [#C] EA4.2 The Outliers :2nd_Dr:Jamie:Polly:Ben:plot_yes:
-*** [#B] 4DA 8.7/8.8 The Perfect Prisoners :Ann:
-*** [#D] WoDW#4 Second Sight :6th_Dr:Romana_2:Leela:Yates:
+*** FIXME [#C] 4DA10.1 The World Traders :4th_Dr:Leela:
+*** FIXME [#C] 33½ - The Maltese Penguin :1CD:6th_Dr:Frobisher:
 *** READY [#C] 8DTW5.1 Meanwhile, Elsewhere :8th_Dr:Cass:Time_War:
-*** READY [#C] 8DTW5.2 Vespertine / :8th_Dr:Cass:Time_War:
+*** READY [#C] 8DTW5.2 Vespertine :8th_Dr:Cass:Time_War:
 *** READY [#C] DU3.2 The Dalek Defense :10th_Dr:Anya:Mark_7:Davros:bilibili:
-*** [#B] WDB4.2 The Abyss
-** 2025-q2b-spinoffs
+*** [#B] WDB4.2 The Abyss :War_Dr:
+** dw2025-q2b-spinoffs
 *** [#A] TW7.8 Pariahs :Yvonne:Colchester:Ng:Tyler:Orr:
 *** [#C] UNEM1.3 Eleven's Eleven :The_Eleven:
-*** [#C] CM3.3 - The Forgotten Village
-*** [#D] JL9.4 - Return of the Nightmare
-*** [#D] BSNA2.2 - The Vault of Osiris :Benny:Ace:
-*** READY [#A] WM9.1 - The Walls of Absence :Master_War:bilibili:
-
-【【广播剧汉化】燃烧的天空 The War Master 战争法师 901 The Walls of Absence-哔哩哔哩】 https://b23.tv/vQ364oL
-
-*** [#B] RBT3.3 - A Matter of Conscience
-** 2025-q2b-pending
+*** FIXME [#C] _CM3.3 The Forgotten Village_
+*** [#D] JL9.4 Return of the Nightmare
+*** [#A] DoRS7.3 Barrister to the Stars
+*** READY [#A] WM9.1 The Walls of Absence :Master_War:bilibili:
+*** [#B] FP2.2 The Ship of a Billion Years :P2006:Sutekh:Faction_Paradox:Justine:Eliza:
+** dw2025-q2b-pending
+*** [#D] WoDW#4 Second Sight :6th_Dr:Romana_2:Leela:Yates:
+*** Fleeting Faces #2: Under Control :P2024_09:14th_Dr:
 *** READY [#B] DU3.3 The Triumph of Davros :bilibili:10th_Dr:Anya:Mark_7:Davros:
-*** FIXME [#B] Rory2.2 The Glowing Warrior
+*** [#B] RBT3.3 A Matter of Conscience
 * FIXME pending
 ** special
 *** [#B] Jack 2.1 Piece of Mind :Jack:6th_Dr:
 ** odd
 *** 1st
-**** [#B] LS2.1b The Fragile Yellow Arc of Fragrance (Susan, Ian, Barbara) :plot_yes:
+**** [#B] LS2.1b The Fragile Yellow Arc of Fragrance :1st_Dr:Susan:Ian:Barbara:plot_yes:
 **** [#B] 1DA4.2 Last of the Romanovs :1st_Dr:Susan:Ian:Barbara:
 **** [#B] CC9.2 - The Unwinding World :1st_Dr:Vicki:
 **** START [#B] CC8.10 The War to End All Wars :D2022_02_doctor:Steven:
@@ -1909,8 +1903,8 @@ Old Steven 1/3
 **** [#C] EA7.2 The Secrets of Det-Sun :1st_Dr:Steven:Dodo:
 *** 3rd
 **** FIXME [#A] ST9.6 The Same Face :3rd_Dr:Jo:Master_nemesis:
-**** CC5.10 - The Sentinels of the New Dawn :3rd_Dr:Liz:
 **** CC2.3 - Old Soldiers (Brig) no_doctor?
+**** CC5.10 - The Sentinels of the New Dawn :3rd_Dr:Liz:
 **** [#B] CC8.4 - Ghost in the Machine :Jo:D2022_03_doctor:plot_yes:
 *** 5th
 **** MR142c. Doing Time + 142d Special Features :5th_Dr:Nyssa:
@@ -1919,6 +1913,7 @@ Old Steven 1/3
 **** [#B] ST7.11. The Ingenious Gentleman Adric of Alzarius :5th_Dr:Adric:Nyssa:
 **** MR266A. Ghost Station (no companion)
 **** READY [#A] 2023B.1 Pursuit of the Nightjar :5th_Dr:Nyssa:Tegan:
+**** READY [#C] O&F2. The Artist at the End of Time :5th_Dr:Jenny:P2023_06:bilibili:
 **** 2CD
 ***** MR20 Loups-Garoux :5th_Dr:Turlough:
 ***** READY [#C] MR047 Omega /
@@ -1930,10 +1925,11 @@ Old Steven 1/3
 **** FIXME [#A] BBV21 Punchline :plot_yes_dwg:
 **** [#C] 268B. Displaced :7th_Dr:Ace:Hex:plot_no:
 **** [#D] CC4.6 BS and and the Criminal Code :7th_Dr:Benny:
+**** READY [#D] O&F3. A Genius For War :7th_Dr:Davros:P2023_07:bilibili:
+**** [#C] NA07. Theatre of War :7th_Dr:Ace:Benny:
 **** 2CD
 ***** Klein [#E] MR175. Persuasion / [#C] 176. Starlight Robbery :7th_Dr:Klein:
 ***** Mel [#D] MR046 Filp-flop / [#C]  2022A.2  The Ribos Inheritance (Mel) :7th_Dr:Mel:
-***** [#D] MR85. Red :7th_Dr:Mel:
 ***** Ace: MR05. The Fearmonger (Ace) / MR180. The Assassination Games (7th, Ace, Counter-Measure) :7th_Dr:Ace:
 ***** MR013 The Shadow of the Scourge :7th_Dr:Benny:Ace:
 ***** [#C] MR243. The Quantum Possibility Engine :7th_Dr:Ace:Mel:
