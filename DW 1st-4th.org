@@ -187,7 +187,7 @@ SCHEDULED: <2023-07-22 Sat>
 :rating:   7.7
 :END:
 
-***** [#B] EA 3.3 The Ravelli Conspiracy (8.0) :Vicki:Steven:plot_cast:
+***** [#B] EA 3.3 The Ravelli Conspiracy :Vicki:Steven:plot_cast:
 ***** EA S5 :P2018:Vicki:Steven:
 ****** DONE [#A] EA5.1 The Dalek Occupation of Winter :Steven:Vicki:daleks:plot_yes:DW2022_11_doctor:
 CLOSED: [2022-11-04 Fri 13:26] SCHEDULED: <2022-11-01 Tue>
@@ -468,7 +468,7 @@ CLOSED: [2023-01-02 Mon 09:01]
 
 UNIT 和 准将第一次正式出场
 
-**** DONE 06x04 The Krotons :fan_edit:
+**** DONE 06x04 The Krotons :fan_edit:Krotons:
 **** DONE 06x05 The Seeds of Death :ice_warriors:fan_edit:
 
 寒冰勇士第二次出场, 试图入侵地球
@@ -809,6 +809,10 @@ SCHEDULED: <2024-08-10 Sat>
 https://m.vk.com/wall-205306392_49
 
 ** short stories
+*** TODO Save Yourself :Season6B:CIA:
+
+The Target Storybook #3
+
 *** 📂Doctor Who Audio Annual :scripted:🗣:
 **** 1.2 The King of Golden Death :Polly:
 **** 2.2 The Sour Note :Polly:
@@ -1046,15 +1050,9 @@ With Jo caught inside The Scorchies Show, can she save the day before the plane
 :rating:   8.6
 :END:
 
-Christmas 2010: Jo Grant finds herself stuck in a department store elevator with an alien creature called Huxley.
+https://tardis.breezewiki.com/wiki/Find_and_Replace_(audio_story)
 
-Huxley is a narrator from Verbatim Six. He is here to let Jo revisit the best time of her life — when she was the plucky companion to that eccentric Space/Time traveller known only as... Iris Wildthyme.
-
-Confronted with memories she knows nothing about, Jo agrees to a meeting with Iris inside her transdimensional bus. Together the three of them take a trip back in time: back to the 1970s, to UNIT HQ and a meeting with the only person who knows the whole truth...
-
-https://tardis.fandom.com/wiki/Find_and_Replace_(audio_story)
-
-***** HALF [#B] CC8.4 - Ghost in the Machine :D2022_03_doctor:week2:plot_yes:
+***** HALF [#B] CC8.4 - Ghost in the Machine :D2022_03_doctor:plot_yes:
 SCHEDULED: <2022-03-30 Wed>
 :PROPERTIES:
 :rating:   8.1
@@ -1517,6 +1515,9 @@ SCHEDULED: <2024-08-31 Sat>
 **** 📂4DA series 14
 ***** 14.1 The Hellwood Inheritance :P2025_03:2CD:
 ***** 14.2 The Memory Thieves :P2025_03:
+***** 14.3 The Remains of Kaerula
+***** 14.4 The Ruins of Kaerula
+***** 14.5 Cry of the Banshee
 **** 📂BF PHP
 
 Philip Hinchcliffe Presents
@@ -1564,11 +1565,13 @@ CLOSED: [2020-07-29 Wed 23:02]
 
 *** with Romana I :Romana_1:
 **** 📂4DA series 2 :4DA:P2013:scripted:1CD:
-***** DONE [#B] 2.1 The Auntie Matter
+***** DONE [#B] 2.1 The Auntie Matter :bilibili:
 CLOSED: <2021-05-27 Thu 21:05>
 :PROPERTIES:
 :rating:   8.1
 :END:
+
+【【神秘博士广播剧熟肉】四任博士冒险201 阿姨事件 Auntie Matter-哔哩哔哩】 https://b23.tv/BV1bAjpzqEE5
 
 ***** 3QTR [#B] 2.4 The Justice of Jalxar :Jago:Litefoot:D2022_01_doctor:
 CLOSED: [2022-01-18 Tue 15:32] SCHEDULED: <2022-01-30 Sun>
@@ -1724,9 +1727,9 @@ SCHEDULED: <2024-05-11 Sat>
 **** 📂4DA series 13 :Harry:Naomi:
 ***** [#D] 13.1 The Storm of the Sea Devils :P2024_03:
 ***** [#D] 13.2 Worlds Beyond :P2024_03:
-***** 13.3 Matryoshka :ToyMaker:P2024_06:
-***** 13.4 The Caged Assassin :P2024_06:
-***** READY 13.5 Metamorphosis :Master_decayed:P2024_06:bilibili:
+***** [#E] 13.3 Matryoshka :ToyMaker:P2024_06:
+***** [#E] 13.4 The Caged Assassin :P2024_06:
+***** READY [#D] 13.5 Metamorphosis :Master_decayed:P2024_06:bilibili:
 
 【【神秘博士广播剧】The Fourth Doctor Adbenture 1303 - Metamorphosis 蜕变-哔哩哔哩】 
 https://b23.tv/BV1BFWFejE22
@@ -2003,7 +2006,7 @@ https://b23.tv/BV1Yf421z7Q3
 ** Classic Doctors, New Monsters
 *** CDNM vol.1 :P2016:scripted:
 **** DONE [#B] 1.1 Fallen Angels :5th_Dr:
-**** DONE [#B] 1.2 Judoon in Chains :6th_Dr:
+**** DONE [#B] 1.2 Judoon in Chains :6th_Dr:Judoon:
 **** CANCEL [#E] 1.3 Harvest of the Sycorax :7th_Dr:
 **** DONE [#C] 1.4 The Sontaran Ordeal :8th_Dr:time_war:
 *** CDNM vol.2 :P2017:scripted:
@@ -2111,7 +2114,7 @@ https://www.bigfinish.com/releases/v/doctor-who-once-and-future-two-s-company-27
 
 与此同时，有一名叛逃的时间领主欺骗了Harry Sullivan，让他在博士的旅行开始前帮助他阻止他们——所有人的生命都危在旦夕。
 
-*** READY [#D] 5. The Martian Invasion of Planetoid 50 :bilibili:10th_Dr:P2023_09:
+*** READY [#C] 5. The Martian Invasion of Planetoid 50 :bilibili:10th_Dr:P2023_09:
 
 【【神秘博士六十周年纪念特辑】Once and Future 05 The Martian Invasion of Planetoid 50-哔哩哔哩】
 https://b23.tv/BV1Mp4y1P75j

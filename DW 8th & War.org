@@ -711,11 +711,11 @@ https://b23.tv/BV1AS4y157nP
 https://b23.tv/BV15a411y7o8
 
 ***** Stranded vol.2
-****** READY [#D] 2.1 Dead Time :bilibili:
+****** READY [#D] 2.1 Dead Time :Andy:bilibili:
 
 【【神秘博士广播剧汉化】发生在在遥远未来的废土世界中的冒险 Stranded 201 Dead Time-哔哩哔哩】 https://b23.tv/BV1rr4y1h7HG
 
-****** READY [#A] 2.2 UNIT Dating :bilibili:
+****** READY [#A] 2.2 UNIT Dating :Andy:bilibili:
 
 【【神秘博士广播剧汉化】UNIT时期诡异二三事  Stranded 202 UNIT Dating-哔哩哔哩】 https://b23.tv/BV1g3411s7N9
 
@@ -723,12 +723,12 @@ https://b23.tv/BV15a411y7o8
 
 【【神秘博士广播剧汉化】博士的007体验 Stranded 203 Baker Street Irregulars-哔哩哔哩】 https://b23.tv/BV1QY411n7Qx
 
-****** READY [#A] 2.4 The Long Way Round :bilibili:
+****** READY [#A] 2.4 The Long Way Round :Andy:The_Curator:bilibili:
 
 【【神秘博士广播剧汉化】“博士”到底是谁 Stranded 204 The Long Way Round-哔哩哔哩】 https://b23.tv/BV1w34y147z4
 
 ***** Stranded vol.3
-****** READY [#B] 3.1 - Patience :bilibili:
+****** READY [#B] 3.1 - Patience :Andy:Judoon:bilibili:
 
 【【广播剧汉化】老八秘制小课堂开讲啦 Stranded 301 Patience-哔哩哔哩】 https://b23.tv/BV1rB4y1n7Nv
 
@@ -736,15 +736,15 @@ https://b23.tv/BV15a411y7o8
 
 【【广播剧汉化】被扭曲的童谣 Stranded 302 Twisted Folklore-哔哩哔哩】 https://b23.tv/BV1pG4y1s7ep
 
-****** [#A] 3.3 - Snow
-****** READY [#A] 3.4 - What Just Happened? :bilibili:
+****** [#A] 3.3 - Snow :Andy:
+****** READY [#A] 3.4 - What Just Happened? :Andy:bilibili:
 
 【【广播剧汉化】似曾相识的选择 Stranded 304 What Just Happened-哔哩哔哩】 https://b23.tv/BV1AR4y1X7BU
 
 ***** Stranded vol.4 :P2022_04:
-****** 4.1 Crossed Lines
+****** 4.1 Crossed Lines :The_Curator:
 ****** 4.2 Get Andy
-****** 4.3 The Keys of Baker Street
+****** 4.3 The Keys of Baker Street :The_Curator:
 ****** 4.4 Best Year Ever
 **** 📂What Lies Inside :P2022_11:plot_yes:
 ***** READY [#A] Paradox of the Daleks :2CD:bilibili:
@@ -879,7 +879,12 @@ http://blog.sina.cn/dpool/blog/s/blog_6c777581010185u0.html?type=2
 ***** Bad Blood (DWM338-342) :Destrii:
 ***** Sins of the Fathers (DWM343-345) :Destrii:
 ***** The Flood (DWM346-353) :Destrii:Cybermen:
-*** DONE Titan: A Matter of Life and Death (#1-5) :P2016:Josie:Titan_Comics:
+*** Titan :Titan_Comics:
+**** DONE A Matter of Life and Death :P2016:Josie:
+
+5 issues
+
+**** Empire of the Wolf :P2022:11th_Dr:Rose:
 * Last Great Time War timeline :time_war:
 
 https://tardis.wiki/wiki/Theory:Timeline_-_Last_Great_Time_War
@@ -1301,7 +1306,7 @@ CLOSED: [2021-11-12 Fri 18:30] SCHEDULED: <2021-11-20 Sat>
 :rating:   7.9
 :END:
 
-**** 3QTR [#A] 4.4 Restoration of the Daleks           :Alex:D2021_11_davros:
+**** 3QTR [#A] 4.4 Restoration of the Daleks :Alex:D2021_11_davros:
 CLOSED: <2021-11-26 Fri 09:50> DEADLINE: <2021-11-26 Fri 21:54> SCHEDULED: <2021-11-20 Sat>
 :PROPERTIES:
 :rating:   8.9
@@ -1467,7 +1472,7 @@ SCHEDULED: <2025-06-14 Sat>
 *** 📂The War Doctor Rises
 **** WDR1: Morbius the Mighty :P2024_08:War_Dr:3CD:
 **** WDR2: Unknown Soldiers :P2024_12:3CD:
-**** TBR WDR3. Fallen Heroes :P2025_05:
+**** WDR3. Fallen Heroes :P2025_05:
 *** Ambush (comic)
 ** 12. The Master flees
 *** DONE [#A] WM1.4 The Heavenly Paradigm :Cole:🎧:D2021_09_extra:

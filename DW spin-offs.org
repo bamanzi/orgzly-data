@@ -496,15 +496,18 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 
 ***** [#D] 72. The Thirst Trap :Andy:Rhys:plot_yes:
 **** series 9 (73-84)
-***** [#E] 73. Launch Date :Ianto:P2023_04:
-***** [#C] 74. Sigil :Bilis_Manger:P2023_08:
-***** [#E] 75. Dog Hop :Andy:plot_yes:P2024_09:
-***** [#C] 76. Odyssey :plot_yes:Ood:P2024_10:
-***** [#D] 77. Oodunnit :Ood:Zack:P2024_11:
-***** [#D] 78. Oracle :Ood:P2023_12:
-***** [#B] 79. Poppet :Rhys:P2024_01:
-***** [#B] 80. Sabotage :Colchester:Ace:P2024_02:
-***** [#C] 80X. Another Postcard from Mr Colchester
+***** READY 73. Launch Date :Ianto:P2023_04:
+
+【【机翻】火炬木广播剧：发射日期（文本见评论）-哔哩哔哩】 https://b23.tv/BV1awJnz3EpZ
+
+***** 74. Sigil :Bilis_Manger:P2023_08:
+***** 75. Dog Hop :Andy:plot_yes:P2024_09:
+***** 76. Odyssey :plot_yes:Ood:P2024_10:
+***** 77. Oodunnit :Ood:Zack:P2024_11:
+***** 78. Oracle :Ood:P2023_12:
+***** 79. Poppet :Rhys:P2024_01:
+***** 80. Sabotage :Colchester:Ace:P2024_02:
+***** [#B] 80X. Another Postcard from Mr Colchester
 ***** 81. Tube Strike :Ianto:P2024_03:
 ***** 82. Missing Molly :Ianto:P2024_04:
 ***** 83. Disco :Ianto:P2024_05:
@@ -520,7 +523,7 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 ***** 91. Ianto's Inferno :P2025_01:
 ***** 92. Inseparable :Yvonne:P2025_02:
 ***** 93. Rictus :Zygons:P2025_03:
-***** TBR 94. The Boy Who Never Laughed :Tyler:P2025_05:
+***** 94. The Boy Who Never Laughed :Tyler:P2025_05:
 ***** TBR 95. Child Free :Suzie:P2025_06:
 ***** TBR 96. Salvage :P2025_09:
 *** specials
@@ -1111,7 +1114,7 @@ Roberts Master
 ***** [#A] part4. The Isle on the Shore
 **** 📂DoRS 12 - The Orphan Quartet :P2023_08:
 ***** [#E] 12.1 The Excise Men
-***** [#E] 12.2 Harvest of the Krotons
+***** [#E] 12.2 Harvest of the Krotons :Jackie:Krotons:
 ***** [#A] 12.3 Dead Man Talking
 ***** [#E] 12.4 The Wife of River Song
 *** The Death and Life of River Song
@@ -1358,11 +1361,13 @@ https://www.bilibili.com/video/BV1Ab421J7bg
 【【神秘博士广播剧熟肉】Gallifrey 201 Lies-谎言-哔哩哔哩】
 https://www.bilibili.com/video/BV1F8DYYFEnQ
 
-*** 3QTR [#B] 2.2 - Spirit :D2022_01_spinoffs:
+*** 3QTR [#B] 2.2 - Spirit :D2022_01_spinoffs:bilibili:
     SCHEDULED: <2022-01-16 Sun>
     :PROPERTIES:
     :rating:   8.4
     :END:
+
+【[AI字幕][神秘博士广播剧]Gallifrey 202 Spirit-哔哩哔哩】 https://b23.tv/BV18QjSzUE8k
 
 *** 3QTR [#B] 2.3 - Pandora :D2022_02_spinoffs:
     CLOSED: [2022-02-12 Sat 15:45] SCHEDULED: <2022-02-16 Wed>
@@ -1916,11 +1921,13 @@ https://www.bilibili.com/video/BV1QT41147a8
 【【神秘博士广播剧】Missy 201 The Lumiat-哔哩哔哩】 
 https://www.bilibili.com/video/BV1K94y1971F
 
-**** HALF [#E] +2.2 - Brimstone and Terror+ :plot_no:DW2022_08_spinoffs:
+**** HALF [#E] +2.2 - Brimstone and Terror+ :plot_no:DW2022_08_spinoffs:bilibili:
      SCHEDULED: <2022-08-13 Sat>
      :PROPERTIES:
      :rating:   6.8
      :END:
+
+【【神秘博士广播剧】Missy 202 - Brimstone and Terror 战火之惧-哔哩哔哩】 https://b23.tv/BV15K411f7J3
 
 **** HALF [#D] 2.3 - Treason and Plot :plot_cast:DW2023_04_spinoffs:
      SCHEDULED: <2023-04-16 Sun>
@@ -1954,6 +1961,7 @@ https://tieba.baidu.com/p/5863165791
 *** The Liar, the Glitch and the War Zone
 *** Girl Power! :12th_Dr:Nardole:
 *** Alit in Underland :Master_saxon:
+** The Master Plan (Titan Comics) :Missy:Master_nemesis:3rd_Dr:12th_Dr:Titan_Comics:P2021:
 ** Masterful :🎧:
 *** READY Masterful :bilibili:
 
@@ -2580,7 +2588,7 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
 
 ***+TBLFM: $1='(cond ((>= $3 8.5) "[#A]") ((>= $3 8.0) "[#B]") ((>= $3 7.5) "[#C]") ((>= $2 7.0) "[#D]") (t "[#E]"));N
 
-** Nemesis 1: Between Two Worlds :plot_yes:P2021_11:
+** 📂Nemesis 1: Between Two Worlds :plot_yes:P2021_11:
 *** 3QTR [#B] 1.1 The Enemy Beyond :The_Eleven:dw2025_q1b_spinoffs:
     CLOSED: <2025-03-21 Fri 09:02> SCHEDULED: <2025-03-23 Sun>
 
@@ -3119,6 +3127,9 @@ https://doctorwho.guide/sj_06.htm
 *** RTDC vol.1 :P2019:
 **** 3QTR [#A] 1.1 - The Endless Night       (8.3) :D2022_06_spinoffs:
      CLOSED: <2022-06-11 Sat 22:40> SCHEDULED: <2022-06-04 Sat>
+
+【【机翻】长达三小时！Rose Tyler 的广播剧（文本在评论）-哔哩哔哩】 https://b23.tv/BV1hwJuzrEbg
+
 
 **** 3QTR [#C] 1.2 - The Flood               (7.6) :D2022_06_spinoffs:
      CLOSED: <2022-06-23 Thu 19:09> SCHEDULED: <2022-06-25 Sat>

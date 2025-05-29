@@ -425,7 +425,7 @@ https://b23.tv/BV14x4y1Z79k
 **** 2024B. The Great Beyond :Adric:Nyssa:Tegan:3CD:P2024_09:
 **** 📂2025. Hooklight
 ***** Hooklight 1 :P2025_04:
-***** TBR Hooklight 2 :P2025_05:
+***** Hooklight 2 :P2025_05:
 *** with Zara & Abby
 **** [#E] 117. The Judgement of Isskar :Zara:Abby:Ice_Warriors:
 **** [#D] 118. The Destroyer of Delights :Zara:Abby:
@@ -469,11 +469,11 @@ CLOSED: [2022-01-14 Fri 15:10]
 :rating:   8.3
 :END:
 
-***** LS3.2 Hexagora :Nyssa:Tegan:P2011:
+***** [#E] LS3.2 Hexagora :Nyssa:Tegan:P2011:
 ***** [#D] LS3.3 - The Children of Seth :Nyssa:Tegan:2CD:P2011:
-***** LS5.1 Nightmare Country :P2019:
+***** [#D] LS5.1 Nightmare Country :P2019:
 ***** LS9.1 Genesis of the Cybermen :Adric:Nyssa:Tegan:Cybermen:P2025_03:
-**** NA12. Goth Opera :Nyssa:Tegan:P2024_07:3CD:
+**** [#B] NA12. Goth Opera :Nyssa:Tegan:P2024_07:3CD:
 *** short trips
 **** [#D] DotD #5 Smoke and Mirrors :Adric:Nyssa:Tegan:1CD:plot_yes:
 **** READY [#E] ST1.5 The Deep :Nyssa:P2010:bilibili:
@@ -482,9 +482,11 @@ CLOSED: [2022-01-14 Fri 15:10]
  
 15 min
 
-**** [#C] ST6.9 Gardens of the Dead :Tegan:Nyssa:Turlough:
+**** [#D] ST5.6 The Shadows of Serenity
+**** [#C] ST6.1 Gardens of the Dead :Turlough:Tegan:Nyssa:
 **** [#B] ST7.11. The Ingenious Gentleman Adric of Alzarius :Adric:Nyssa:Tegan:1CD:
 **** [#D] ST9.10 The Second Oldest Question :Nyssa:
+**** [#D] ST10.10 The Meaning of Red
 **** [#B] I, Kamelion :Turlough:Kamelion:P2022:
 
 Interludes #1
@@ -498,6 +500,10 @@ Interludes #8
 Interludes #4
 
 **** ST13.6 Dark is the Devil that Walks :Tegan:Toulough:P2025_04:
+**** READY The Paliament of Rats :bilibili:
+
+【【机翻】TARDIS降落在海上-广播剧（文本见评论）-哔哩哔哩】 https://b23.tv/BV18BJNzhE4g
+
 ** short stories
 *** DONE Tip of the Tongue 舌尖 :Nyssa:
 CLOSED: [2022-12-28 Wed 21:19]
@@ -670,13 +676,11 @@ SCHEDULED: <2022-01-14 Fri>
  http://www.drwhoguide.com/who_bf90.htm
 
 ***** 📂150. Recorded Time and Other Stories :Peri:
-****** [#D] 150c. A Most Excellent Match
-****** [#B] 150d. Question Marks
-***** 📂179. 1963: The Space Race
 ****** [#E] 150a. Recorded Time
 ****** [#E] 150b. Paradoxicide
-****** [#D] 150c. A Most Excellent Match :short:
-****** [#B] 150d. Question Marks (8.3) :plot_no:short:
+****** [#D] 150c. A Most Excellent Match
+****** [#B] 150d. Question Marks
+***** 179. 1963: The Space Race
 ***** 📂188. Breaking Bubbles and Other Stories :short:
 ****** [#D] 188a. Breaking Bubbles
 ****** READY [#D] 188b. Of Chaos Time The :bilibili:
@@ -690,15 +694,15 @@ https://b23.tv/BV1q2BKYJE2J
 【【神秘博士广播剧熟肉】MR 188d The Curious Incident of the Doctor in the Night-Time 深夜博士离奇事件-哔哩哔哩】 
 https://b23.tv/BV1yGAEetEdK
 
-***** 3QTR [#A] 192. The Widow's Assassin (8.6) :Peri:plot_no:D2021_09_dr:已购:
+***** 3QTR [#A] 192. The Widow's Assassin (8.6) :Peri_older:plot_no:D2021_09_dr:已购:
 CLOSED: <2021-09-17 Fri 21:27> SCHEDULED: <2021-09-04 Sat>
 
   与剧集23x02 Mindwrap联系紧密
 
-***** 2DONE [#A] 193. Masters of Earth (8.6) :Peri:plot_no:Daleks:D2021_10_daleks:
+***** 2DONE [#A] 193. Masters of Earth (8.6) :Peri_older:plot_no:Daleks:D2021_10_daleks:
 CLOSED: [2021-10-18 Mon 20:15]
 
-***** [#C] 194. The Rani Elite
+***** [#C] 194. The Rani Elite :Peri_older:
 :PROPERTIES:
 :rating:   7.8
 :END:
@@ -712,11 +716,12 @@ CLOSED: [2021-10-18 Mon 20:15]
 ****** [#D] I Wish It Could Be Christmas Every Day
 ****** [#D] Brightly Shone The Moon That Night
 ***** [#A] 271. Plight of the Pimpernel
-**** 📂The Sixth Doctor and Peri :Peri:1CD:plot_yes:P2020:
+**** 📂The Sixth Doctor and Peri :Peri_older:1CD:plot_yes:P2020:
 
 Volume One
 
-***** [#C] 6DnP1.1 - The Headless Ones
+***** HALF [#C] 1.1 - The Headless Ones :dw2025_q2b_doctor:
+SCHEDULED: <2025-05-24 Sat>
 :PROPERTIES:
 :rating:   7.5
 :END:
@@ -726,12 +731,12 @@ Volume One
 :rating:   6.6
 :END:
 
-***** [#D] The Vanity Trap
+***** [#D] 1.3 The Vanity Trap
 :PROPERTIES:
 :rating:   7.1
 :END:
 
-***** [#A] Conflict Theory
+***** [#A] 1.4 Conflict Theory
 :PROPERTIES:
 :rating:   9.0
 :END:
@@ -751,69 +756,72 @@ https://b23.tv/BV1Cb421H7vu
 :rating:   5.7
 :END:
 
-****** HALF [#B] 1.3 - Leviathan :DW2023_10_doctor:
+****** HALF [#B] LS1.3 - Leviathan :DW2023_10_doctor:
 SCHEDULED: <2023-11-01 Wed>
 :PROPERTIES:
 :rating:   8.1
 :END:
 
-****** CANCEL [#F] 1.4 - The Hollows of Time
+****** CANCEL [#F] LS1.4 - The Hollows of Time
 :PROPERTIES:
 :rating:   5.8
 :END:
 
-****** [#B] 1.5 - Paradise 5
+****** [#B] LS1.5 - Paradise 5
 :PROPERTIES:
 :rating:   8.1
 :END:
 
-****** [#D] 1.6 - Point of Entry
+****** [#D] LS1.6 - Point of Entry
 :PROPERTIES:
 :rating:   7.3
 :END:
 
-****** [#C] 1.7 - The Song of Megaptera
+****** [#C] LS1.7 - The Song of Megaptera
 :PROPERTIES:
 :rating:   7.5
 :END:
 
-****** CANCEL [#E] 1.8 - The Macros
+****** CANCEL [#E] LS1.8 - The Macros
 :PROPERTIES:
 :rating:   6.8
 :END:
 
-***** [#C] 3.4 - The Guardians of Prophecy :Peri:
+***** [#C] LS3.4 - The Guardians of Prophecy :Peri:2CD:
 :PROPERTIES:
 :rating:   7.9
 :END:
 
-***** CANCEL [#E] 3.5 - Power Play :Peri:
+***** CANCEL [#E] LS3.5 - Power Play :Peri:
 :PROPERTIES:
 :rating:   6.5
 :END:
 
-***** [#B] 3.6 - The First Sontarans :Peri:
+***** [#B] LS3.6 - The First Sontarans :Peri:2CD:
 :PROPERTIES:
 :rating:   8.2
 :END:
 
-***** CANCEL [#F] 5.2 - The Ultimate Evil :Peri:
+***** CANCEL [#F] LS5.2 - The Ultimate Evil :Peri:
 :PROPERTIES:
 :rating:   5.1
 :END:
 
-**** VII - Return of the Krotons :1CD:Peri:
+**** CANCEL [#E] BR08. Return of the Krotons :1CD:Peri:
 **** [#B] ST4.6 - To Cut a Blade of Grass :Peri:plot_no:
 **** [#C] DotD #6 Trouble in Paradise :Peri:plot_no:1CD:
+**** TODO [#B] 08. The Flight of the Sun God :6th_Dr:Peri:BBC:
 *** with Mel
 **** MR with Mel :Mel:scripted:2CD:
 ***** 3QTR [#A] 27. The One Doctor (9.0) :Mel:plot_no:D2022_04_doctor:
 CLOSED: [2022-04-22 Fri 08:22] SCHEDULED: <2022-04-30 Sat>
 
-***** [#A] 48. Davros [A⁺] :Mel:Davros:plot_yes:已购:
+***** [#A] 48. Davros [A⁺] :Mel:Davros:plot_yes:已购:bilibili:
 :PROPERTIES:
 :rating:   9.0
 :END:
+
+【[AI字幕][神秘博士广播剧] MR 048 - Davros-哔哩哔哩】 https://b23.tv/BV1ubj5zmEsV
 
 ***** DONE [#C] 065. The Juggernauts :Davros:
 ***** [#D] 066. Catch-1792
@@ -827,7 +835,7 @@ CLOSED: [2022-04-22 Fri 08:22] SCHEDULED: <2022-04-30 Sat>
 
 ***** [#D] 170. Spaceport Fear
 ***** CANCEL [#E] 171. The Seeds of War
-**** [#E] Lost Stories: Mind of the Hodiac :Mel:P2022_03:
+**** CANCEL [#E] Lost Stories: Mind of the Hodiac :Mel:P2022_03:
 **** 📂2022A. Water Worlds :P2022_05:Mel:Hebe:1CD:plot_yes:
 ***** HALF [#D] 1.1 The Rotting Deep :DW2023_12_doctor:
 SCHEDULED: <2023-12-30 Sat>
@@ -835,15 +843,15 @@ SCHEDULED: <2023-12-30 Sat>
 ***** HALF [#B] 1.2 - The Tides of the Moon :DW2024_Q4b_doctor:
 SCHEDULED: <2024-11-30 Sat>
 
-***** [#E] 1.3 - Maelstrom
+***** CANCEL [#E] 1.3 - Maelstrom
 **** 📂2022B. Purity Undreamed :P2022_08:Mel:Hebe:
-***** [#E] 2.1 The Mindless Ones
-***** [#F] 2.2 Reverse Engineering
+***** CANCEL [#E] 2.1 The Mindless Ones
+***** CANCEL [#F] 2.2 Reverse Engineering
 ***** [#D] 2.3 Chronomancer
 **** 📂2023A. Purity Unleashed :P2023_05:Mel:
-***** [#E] 1. Broadway Belongs to Me!
+***** CANCEL [#E] 1. Broadway Belongs to Me!
 ***** [#D] 2. Purification
-***** [#E] 3. Time-Burst
+***** CANCEL [#E] 3. Time-Burst
 **** 📂2023B. Purity Unbound :P2023_08:Mel:Hebe:
 ***** [#D] 1. Girl in a Bottle
 ***** CANCEL [#F] 2. The Corruptions
@@ -1015,8 +1023,8 @@ This anthology marked the 40th anniversary of Baker's debut as the Doctor.
 ***** [#C] 4. Children of the Revolution :Sontarans:1CD:
 ***** [#C] 5. The Thousand Year Thaw :Peri:½CD:
 ***** [#B] 6. The Firstborn :1CD:
-**** 2024B. The Trials of a Time Lord :Peri:Mel:P2024_08:3CD:
-**** 2025A. The Cosmos and Mrs Clarke :P2025_05:Constance:
+**** 2024B. The Trials of a Time Lord :Peri_older:Mel:P2024_08:3CD:
+**** TBR 2025A. The Cosmos and Mrs Clarke :P2025_05:Constance:
 ***** 1. The Story Demon
 ***** 2. The Key to Many Worlds
 ***** 3. Inconstancy
@@ -1027,7 +1035,7 @@ This anthology marked the 40th anniversary of Baker's debut as the Doctor.
 ***** 2DONE The Lonely Clock
 ***** 2DONE The Hourglass Killers
 **** Classic Doctors, New Monsters
-***** DONE [#B] 1.2 Judoon in Chains :scripted:plot_cast:DW2024_Q2b_doctor:
+***** DONE [#B] 1.2 Judoon in Chains :Judoon:scripted:plot_cast:DW2024_Q2b_doctor:
 CLOSED: [2024-05-21 Tue 16:37] SCHEDULED: <2024-05-11 Sat>
 :PROPERTIES:
 :rating:   8.3
@@ -1483,7 +1491,7 @@ CLOSED: [2024-06-29 Sat 19:45] SCHEDULED: <2024-06-05 Wed 09:27>
 **** 📂2023A Far From Home :P2023_06:Harry:Naomi:
 ***** [#B] 23A.1 Operation Dusk
 ***** [#D] 23A.2 Naomi's Ark
-**** [#F] 2023B. The Last Day 1 :Ace:Mel:Beeny:Hex:Master_decayed:P2023_12:3CD:
+**** [#F] 2023B. The Last Day 1 :Ace:Mel:Benny:Hex:Master_decayed:P2023_12:3CD:
 **** [#E] 2024A. The Last Day 2 :P2024_06:
 **** 📂2024B The Doctor and Carnacki :P2024_11:
 ***** 24B.1 The Haunter of the Shore
