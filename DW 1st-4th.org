@@ -1875,33 +1875,6 @@ CLOSED: [2020-07-19 Sun 23:00]
 
 **** novel adaptation 04 - The English Way of Death †7.9) :🎧:
 * special
-** Doctor Who Unbound :P2003:
-*** [#C] 1. Auld Mortality
-*** 2DONE [#B] DWUN2: Sympathy from the Devil :D2021_06:Master_unbound:
-CLOSED: [2021-06-17 Thu 23:09]
-
-*** [#C] 3. Full Fathom Five
-*** [#D] 4. He Jests at Scars...
-*** 3QTR [#A] 5. Deadline :bilibili:plot_cast:DW2024_Q3c_spinoffs:
-CLOSED: [2024-09-14 Sat 20:44] SCHEDULED: <2024-09-22 Sun>
-
-【【神秘博士广播剧翻译】Unbound:Deadline 假如世界上没有博士-哔哩哔哩】 https://b23.tv/tK7WtHA
-
-
-自从马丁 班尼斯特第一次遇到博士已经过去了四十年了。那时的他们很不一样。Martin年轻，才华横溢，还是时代评选的十大最有前途作家的第七名。博士神秘，脾气坏，还有点东方味。
-这场邂逅摧毁了他们的人生。
-
-可怜的马丁，生涯尽毁，被人遗忘。他离异的妻子们在错误的顺序死去，衣柜旁还有一滩可能是外星人脚印的绿色污渍，或者是霉菌。
-
-马丁的人生很快会遭受意外的改变，即兴诗歌阅读会，大象远征，强制的虫子眼怪物。还有获得爱的最后机会，在一切无法挽回前。
-
-是时候让博士回到马丁的生活了，并且让他吃点苦头，永远地。
-
-*** CANCEL [#F] 6. Exile
-*** [#D] 7. A Storm of Angels
-*** 2DONE [#B] DWUN8 - Masters of War :Davros:D2021_07_extra:D2021_12_extra:week1:
-CLOSED: [2021-07-27 Tue 23:10] SCHEDULED: <2021-12-03 Fri>
-
 ** Novel Adaptations
 *** [#C] 1. Love and War :7th_Dr:P2012:
 :PROPERTIES:
@@ -2054,26 +2027,6 @@ https://b23.tv/BV1CA411Q7Yk
 
 https://disk.yandex.ru/d/n_i2CRgIJW0xOw
 
-** Unbound: Doctor of War
-*** READY [#B] 1.1 - Dust Devil :bilibili:
-
-【【神秘博士广播剧汉化】破碎的时间线 Unbound: Doctor of War 101 Dust Devil-哔哩哔哩】 
-https://b23.tv/BV15Z4y117P9
-
-*** READY [#C] 1.2 - Aftershocks :bilibili:
-
-【【神秘博士广播剧汉化】无限循环的时间线 Unbound: Doctor of War 102 Aftershock-哔哩哔哩】 
-https://b23.tv/BV1NB4y1D7bR
-
-*** READY [#D] 1.3 - The Difference Office :bilibili:
-
-【【广播剧汉化】注定毁灭的未来  Unbound: Doctor of War 103 The Difference Office-哔哩哔哩】 
-
-https://b23.tv/BV1vT411c72m
-
-*** [#D] 2.1 Who Am I?
-*** [#E] 2.2 Time Killers
-*** [#B] 2.3 The Key To Key To Time
 ** Peladon :P2022_01:plot_yes:
 *** 3QTR [#B] 1. The Ordeal of Peladon :King_Peladon:14th_Dr:DW2024_Q3c_spinoffs:
 CLOSED: [2024-11-01 Fri 08:38] SCHEDULED: <2024-09-08 Sun>
