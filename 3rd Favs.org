@@ -1,3 +1,6 @@
+#+PRIORITIES: A F D
+#+TODO: TODO NEXT READY BLOCK TBR START DOING HALF 3QTR FIXME LATER 2DONE | 2DONE DONE CANCEL
+
 * Life on Mars
 ** Life on Mars (uk)
 *** DONE Life on Mars s1
@@ -203,19 +206,187 @@ https://breezewiki.com/slow-horses/wiki/Slow_Horses_Wiki
 
 https://breezewiki.com/slow-horses/wiki/The_Slough_House_(Novels)
 
-*** START 01. Slow Horses 驽马
-*** 02. Dead Lions 亡狮
-*** 03. Real Tigers 猛虎
+*** START [#B] 01. Slow Horses 驽马
 :PROPERTIES:
-:Real :    
+:goodreads: 4.03
+:douban:   8.2
 :END:
 
-*** 04. Spook Street
+*** [#B] 02. Dead Lions 亡狮
+:PROPERTIES:
+:goodreads: 4.12
+:douban:   8.3
+:END:
+
+*** [#A] 03. Real Tigers 猛虎
+:PROPERTIES:
+:goodreads: 4.29
+:douban:   8.0
+:END:
+
+*** [#A] 04. Spook Street 幽灵街区
+:PROPERTIES:
+:goodreads: 4.42
+:douban:   8.8
+:END:
+
+*** [#A] 05. London Rules
+:PROPERTIES:
+:goodreads: 4.35
+:END:
+
+*** [#A] 06. Joe Country
+:PROPERTIES:
+:goodreads: 4.31
+:END:
+
 ** tv
 *** DONE S1 :P2022:
 CLOSED: <2025-05-05 Mon 14:24>
 
 *** S2 :P2022:
+* John le Carré 约翰·勒卡雷
+** books
+*** LATER [#B] 3. The Spy Who Came In from the Cold 柏林谍影 :Smiley:
+:PROPERTIES:
+:douban:   8.5
+:goodreads: 4.09
+:END:
+
+*** DOING [#B] 5. Tinker, Tailor, Soldier, Spy 锅匠，裁缝，士兵，间谍 :Smiley:
+:PROPERTIES:
+:douban:   8.4
+:goodreads: 4.06
+:END:
+
+大都为著名翻译家董乐山翻译的版本，还不错
+
+据说台湾林子书的译版读起来更顺畅一点
+
+译林出版社的翻译最差
+
+*** [#B] 6. The Honourable Schoolboy 荣誉学生 :Smiley:
+:PROPERTIES:
+:douban:   7.2
+:goodreads: 3.99
+:END:
+
+*** LATER [#A] 7. Smiley's People 史迈利的人马 :Smiley:
+:PROPERTIES:
+:douban:   8.6
+:goodreads: 4.29
+:END:
+
+*** [#B] 8. The Secret Pilgrim 史迈利的告别 :Smiley:
+:PROPERTIES:
+:douban:   8.2
+:goodreads: 4.01
+:END:
+
+*** [#C] 9. A Legacy of Spies 间谍的遗产 :Smiley:
+:PROPERTIES:
+:douban:   8.4
+:goodreads: 3.88
+:END:
+
+*** CANCEL [#B] The Little Drummer Girl 危险角色/小鼓女/女鼓手
+:PROPERTIES:
+:douban:   8.7
+:goodreads: 3.99
+:douban_sh: 8.1
+:END:
+
+建议看珠海出版社1997年的版本（译名《危险角色》，译者王强、覃娆）
+
+上海译文出版社的版本（译者邹亚，2016年书名为《小鼓女》，2019《女鼓手》）据说翻译质量较差
+
+*** [#B] A Perfect Spy 完美的间谍
+:PROPERTIES:
+:douban:   7.8
+:goodreads: 3.99
+:END:
+
+*** [#C] A Small Town in Germany 德国小镇
+:PROPERTIES:
+:douban:   8.2
+:goodreads: 3.77
+:END:
+
+*** CANCEL [#C] The Night Manager 夜班经理
+:PROPERTIES:
+:douban:   7.3
+:goodreads: 3.84
+:END:
+
+*** [#C] A Delicate Truth 微妙的真相
+:PROPERTIES:
+:douban:   7.6
+:goodreads: 3.83
+:END:
+
+*** CANCEL [#C] The Constant Gardener 永恒的园丁
+:PROPERTIES:
+:douban:   7.2
+:goodreads: 3.83
+:END:
+
+** tv
+*** [#B] Tinker Tailor Soldier Spy 锅匠、裁缝、士兵、间谍 :P1979:Smiley:
+:PROPERTIES:
+:douban:   8.8
+:imdb:     8.4
+:END:
+
+*** [#A] Smiley's People 史迈利的人马 :P1982:Smiley:
+:PROPERTIES:
+:douban:   9.1
+:imdb:     8.5
+:END:
+
+*** DONE [#C] The Night Manager 夜班经理 :P2016:
+CLOSED: [2025-05-23 Fri 20:30]
+:PROPERTIES:
+:douban:   7.3
+:imdb:     8.0
+:END:
+
+*** LATER [#C] The Little Drummer Girl 女鼓手 :P2018:
+:PROPERTIES:
+:douban:   8.1
+:imdb:     7.4
+:END:
+
+** movies
+*** [#B] The Spy Who Came in from the Cold  柏林谍影 :P1965:
+:PROPERTIES:
+:douban:   8.4
+:imdb:     7.5
+:END:
+
+*** [#C] Tinker Tailor Soldier Spy 锅匠、裁缝、士兵、间谍 :P2011:Smiley:
+:PROPERTIES:
+:douban:   7.9
+:imdb:     7.0
+:END:
+
+*** TODO [#C] The Constant Gardener 不朽的园丁 :P2005:
+:PROPERTIES:
+:douban:   7.9
+:imdb:     7.3
+:END:
+
+*** TODO [#D] A Most Wanted Man 最高通缉犯 :P2014:
+:PROPERTIES:
+:douban:   6.9
+:imdb:     6.7
+:END:
+
+** [#D] The Pigeon Tunnel 鸽子隧道(记录片) :P2023:
+:PROPERTIES:
+:douban:   7.3
+:imdb:     6.9
+:END:
+
 * Breaking Bad / Better Call Saul
 ** Breaking Bad
 ** Better Call Saul

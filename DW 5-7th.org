@@ -966,8 +966,7 @@ CLOSED: [2022-06-29 Wed 16:22] SCHEDULED: <2022-06-19 Sun>
 **** special/bonus
 ***** [#E] The Ratings War
 ***** [#D] Real Time :2CD:
-***** TODO [#C] 33½ - The Maltese Penguin :1CD:Frobisher:dw2025_q2b_doctor:
-SCHEDULED: <2025-05-31 Sat>
+***** TODO [#C] 33½ - The Maltese Penguin :1CD:Frobisher:
 :PROPERTIES:
 :rating:   7.6
 :END:

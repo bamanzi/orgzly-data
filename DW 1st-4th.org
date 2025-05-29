@@ -85,7 +85,7 @@ CLOSED: [2021-07-27 Tue 23:10]
 :rating:   9.2
 :END:
 
-***** 3QTR [#A] 2.2 The Barbarians and the Samurai :P2018:plot_yes:dw2025_q2a_doctor:
+***** 2DONE [#A] 2.2 The Barbarians and the Samurai :P2018:plot_yes:dw2025_q2a_doctor:
 CLOSED: [2025-04-11 Fri 08:15] SCHEDULED: <2025-04-12 Sat>
 :PROPERTIES:
 :rating:   8.6
@@ -547,8 +547,8 @@ SCHEDULED: <2024-04-27 Sat>
 :rating:   7.6
 :END:
 
-***** [#C] EA4.2 The Outliers :Jamie:Polly:Ben:plot_yes:dw2025_q2b_doctor:
-SCHEDULED: <2025-05-31 Sat>
+***** 3QTR [#C] EA4.2 The Outliers :Jamie:Polly:Ben:plot_yes:dw2025_q2b_doctor:
+CLOSED: [2025-05-27 Tue 21:41] SCHEDULED: <2025-05-31 Sat>
 :PROPERTIES:
 :rating:   7.7
 :END:
@@ -1706,8 +1706,7 @@ SCHEDULED: <2022-04-23 Sat>
 
 ***** [#D] 8.4 The False Guardian / 8.5 Time's Assassin
 ***** [#D] 8.6 - Fever Island (7.2)
-***** [#B] 8.7/8.8 - The Perfect Prisoners :2CD:dw2025_q2b_pending:
-SCHEDULED: <2025-06-14 Sat>
+***** [#B] 8.7/8.8 - The Perfect Prisoners :2CD:
 :PROPERTIES:
 :rating:   8.2
 :END:

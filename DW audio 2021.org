@@ -680,11 +680,6 @@
  - <last play position> (00:38:52)
 
 *** DW 2021-10-extra
-**** HALF [#C] CC11.2. Dumb Waiter :2nd_Dr:Leela:Jamie:
-
- - <second to last play position> (00:21:51)
- - <last play position> (00:29:53)
-
 **** DONE [#C] DoRS6.1. An Unearthly Woman :River:Susan:1st_Dr:
 
  - <last play position> (00:00:00)
@@ -1856,7 +1851,6 @@
 *** 2DONE [#C] BSNA2.1 The Pyramid of Sutekh :Benny:7th_Dr:Sutekh:
 *** HALF [#D] BSNA2.2 The Vault of Osiris :Benny:Ace:
 *** HALF [#E] 9DA3.1.3 The Beautiful Game :9th_Dr:bilibili:
-*** HALF [#B] 12DC3.1 Sunstrike :12th_Dr:
 ** dw2025-q2a-spinoffs
 *** 3QTR [#A] TW7.7 Cuckoo :Bilis_Manger:Ianto:
 *** DONE [#C] Jack1.4 Month 25 :Jack:
@@ -1864,30 +1858,31 @@
 *** HALF [#D] PGT1.2 Symmetry of Death
 *** HALF [#E] Master! 3.1 Basilisk :Master_roberts:bilibili:
 *** HALF [#B] Gallifrey 6.3 - Ascension
-*** [#C] Rory2.1 The Once and Future Nurse
 ** 2025-q2a-extra
 *** [#C] BFSH2.1a The Empty House
 ** dw2025-q2b-doctor
 *** [#C] EA4.2 The Outliers :2nd_Dr:Jamie:Polly:Ben:plot_yes:
 *** FIXME [#C] 4DA10.1 The World Traders :4th_Dr:Leela:
-*** FIXME [#C] 33½ - The Maltese Penguin :1CD:6th_Dr:Frobisher:
+*** FIXME [#C] 6DnP1.1 - The Headless Ones :6th_Dr:Peri:
+    :PROPERTIES:
+    :rating:   7.5
+    :END:
+
 *** READY [#C] 8DTW5.1 Meanwhile, Elsewhere :8th_Dr:Cass:Time_War:
 *** READY [#C] 8DTW5.2 Vespertine :8th_Dr:Cass:Time_War:
 *** READY [#C] DU3.2 The Dalek Defense :10th_Dr:Anya:Mark_7:Davros:bilibili:
-*** [#B] WDB4.2 The Abyss :War_Dr:
+*** HALF [#B] 12DC3.1 Sunstrike :12th_Dr:
 ** dw2025-q2b-spinoffs
 *** [#A] TW7.8 Pariahs :Yvonne:Colchester:Ng:Tyler:Orr:
 *** [#C] UNEM1.3 Eleven's Eleven :The_Eleven:
-*** FIXME [#C] _CM3.3 The Forgotten Village_
+*** FIXME [#C] CM3.3 The Forgotten Village
 *** [#D] JL9.4 Return of the Nightmare
 *** [#A] DoRS7.3 Barrister to the Stars
 *** READY [#A] WM9.1 The Walls of Absence :Master_War:bilibili:
 *** [#B] FP2.2 The Ship of a Billion Years :P2006:Sutekh:Faction_Paradox:Justine:Eliza:
 ** dw2025-q2b-pending
-*** [#D] WoDW#4 Second Sight :6th_Dr:Romana_2:Leela:Yates:
 *** Fleeting Faces #2: Under Control :P2024_09:14th_Dr:
-*** READY [#B] DU3.3 The Triumph of Davros :bilibili:10th_Dr:Anya:Mark_7:Davros:
-*** [#B] RBT3.3 A Matter of Conscience
+*** [#C] Rory2.1 The Once and Future Nurse
 * FIXME pending
 ** special
 *** [#B] Jack 2.1 Piece of Mind :Jack:6th_Dr:
@@ -1913,7 +1908,6 @@ Old Steven 1/3
 **** [#B] ST7.11. The Ingenious Gentleman Adric of Alzarius :5th_Dr:Adric:Nyssa:
 **** MR266A. Ghost Station (no companion)
 **** READY [#A] 2023B.1 Pursuit of the Nightjar :5th_Dr:Nyssa:Tegan:
-**** READY [#C] O&F2. The Artist at the End of Time :5th_Dr:Jenny:P2023_06:bilibili:
 **** 2CD
 ***** MR20 Loups-Garoux :5th_Dr:Turlough:
 ***** READY [#C] MR047 Omega /
@@ -1937,66 +1931,54 @@ Old Steven 1/3
 ***** READY [#A] 74. Live 34 :7th_Dr:Ace:Hex:bilibili:
 ***** READY [#A] NA6 Damaged Goods :7th_Dr:Roz:Chris:bilibili:
 *** 9th
+**** START [#B] 4.3 The Forth Generation :Cybermen:plot_yes:DW2022_07_doctor:
 **** [#C] DotD#9. Night of the Whisper
-**** ST11.X The Lichyrwick Abomination :scripted:
 *** 11th
+**** [#B] ST12.6 The Galois Group :11th_Dr:Valarie:plot_yes:
+**** [#A] 11DC5.1 Spirit of the Season :11th_Dr:Valarie:
 **** Let it Snow :11th_Dr:
 
 Tales of Trenzalore - 01
 
 ** even
 *** 2nd
-**** [#A] CC14.1 The Death of the Daleks :2nd_Dr:Jamie:
 **** [#B] BBC #5 The Elysian Blade :2nd_Dr:Jamie:Victoria:
+**** START [#C] CC12.2 Dumb Waiter :Jamie:Leela:D2021_09_extra:plot_yes:
 *** 4th
 **** [#C] 4DA2.5 Pantoms of the Deep :4th_Dr:Romana_1:
 **** READY [#D] 5.2 - The Labyrinth of Buda Castle (7.1) :4th_Dr:Romana_2:bilibili:
-
-【【神秘博士广播剧熟肉】The Fourth Doctor's Adventure 502-The Labyrinth of Buda Castle 布达迷宫城堡-哔哩哔哩】 https://b23.tv/Pz0qlap
-
 **** [#D] 4DA6.2 - The Eternal Battle :Romana_2:plot_yes:
 **** READY [#E] 6.7 The Movellan Grave :Romana_2:bilibili:
-
-【【神秘博士广播剧熟肉】The Fourth Doctor Adventure 607 The Movellan Grave-Movellan之墓-哔哩哔哩】 https://b23.tv/ODiP9FU
-
 **** READY DotD #4 Babblesphere :4th_Dr:Romana_2:bilibili:
 **** [#C] CDNM3.2 The Tivolian Who Knew Too Much :4th_Dr:Leela:
 **** [#C] CDNM4.1 Invasion of the Body Stealers :4th_Dr:Sarah:
 **** BBC Demon Quest #1-5
+**** READY [#D] O&F1. Past Lives :P2023_05:4th_Dr:Sarah:Osgood:Monk:bilibili:
 **** 2CD
 ***** [#C] 4DA5.3 - The Paradox Planet (7.6) / 5.4 - Legacy of Death (7.6) :4th_Dr:Romana_2:
+***** [#B] 4DA 8.7/8.8 The Perfect Prisoners :4th_Dr:Ann:
 ***** [#C] 4DA9.1 - Purgatory 12 :4th_Dr:Romana_2:Adric:
 ***** READY [#A] LS6.2 - The Doomsday Contract :4th_Dr:Romana_2:bilibili:
 ***** READY DU0 The Dalek Protocol :4th_Dr:Daleks:
 ***** READY [#B] NA03 - The Romance of Crime :4th_Dr:Romana_2:P2015:2CD:scripted:bilibili:
-      :PROPERTIES:
-      :rating:   8.0
-      :END:
-
-【【神秘博士广播剧熟肉】Romance of Crime-犯罪的浪漫-哔哩哔哩】 https://b23.tv/N11f7Tx
-
 ***** READY [#B] NA04 The English Way of Death :Romana_2:P2015:2CD:scripted:bilibili:
-
-【【神秘博士广播剧熟肉】The English Way of Death-英伦三岛的毁灭-哔哩哔哩】 https://b23.tv/gFeelFi
-
 *** 6th
-**** [#C] 6DnP #1 The Headless Ones :6th_Dr:Peri:
+**** [#D] 6DnP 1.3 The Vanity Trap :6th_Dr:Peri:
+**** TODO [#B] BBC08. The Flight of the Sun God :6th_Dr:Peri:plot_yes:
+**** [#D] WoDW#4 Second Sight :6th_Dr:Romana_2:Leela:Yates:
+**** FIXME [#C] 33½ - The Maltese Penguin :1CD:6th_Dr:Frobisher:
 **** [#D] 6DA21.1 One for All :6th_Dr:Constance:
-**** READY [#B] 100b. My Own Private Wolfgang (Evelyn)
-**** READY [#A] Bonus12. Trial of the Valeyard
+**** READY [#B] 100b. My Own Private Wolfgang :Evelyn:
+**** READY [#A] BR12. Trial of the Valeyard
 **** READY [#A] CDNM3.3 Together in Eclectic Dreams
 **** READY [#D] ST13.X The Hoxteth Time Capsule :P2023_12:bilibili:
-
-【【神秘博士】短途旅行：霍克斯泰斯的时间胶囊 | Short Trips: The Hoxteth Time Capsule-哔哩哔哩】 https://b23.tv/D7MmQye
-
 **** 2CD
 ***** [#C] 73. Thicker than Water (Mel, Eyelyn)
 ***** [#C] 134. The Wreck of the Titan (Jamie)
-***** [#C] 157. The Fourth Wall (Flip) 2cd
 ***** [#C] 169. The Wrong Doctors (Mel)
-***** [#C] 194. The Rani Elite :6th_Dr:Peri:
+***** FIXME [#C] MR194. The Rani Elite :6th_Dr:Peri:
 ***** [#C] 204. Criss-Cross (Constance)
-***** READY [#E] LS1.1 The Nightmare Fair (Peri, ToyMaker)
+***** READY [#E] LS1.1 The Nightmare Fair :Peri:ToyMaker:
 *** 8th
 **** [#A] BBC #14. The Code of Flesh (James MacFarlane)
 **** Charley
@@ -2005,9 +1987,6 @@ Tales of Trenzalore - 01
 ***** READY CC4.12 Solitaire
 ***** READY [#D] 050 Zegreus :8th_Dr:Charley:
 ***** TODO [#D] 61. Faith Stealer
-      :PROPERTIES:
-      :rating:   7.4
-      :END:
 
  Faith Stealer: Fluffy and fun, with some very Douglas Adams-esque ideas. Not vital to the plot, but more enjoyable than most divergent universe stories.
 
@@ -2018,17 +1997,16 @@ Tales of Trenzalore - 01
 ***** READY RAV302 - Companion Piece :bilibili:
 ***** READY Stranded: 1.1-1.4, 2.1-2.4, 3.1/3.2/3.4
 ***** READY [#A] 8DA 2022:  Paradox of the Daleks :bilibili:
-***** READY [#D] 8DA2023.1  The Devouring :Audacity:bilibili:
 **** Time War
 ***** READY [#A] 3.4 The War Valeyard :Bliss:
 ***** READY [#B] 5.3 Previously, Next Time :Cass:
 *** 10th
 **** FIXME [#C] ST8.6 The Siege of Big Ben :10th_Dr:plot_yes:Jackie:
 **** TODO [#B] 10DC1.4 - Last Chance :10th_Dr:Christina:plot_cast:
-**** READY Donna: [#D] 10DA1.2 Time Reaver (Donna) /10DA 3.3 - The Creeping Death (Donna)
+**** READY 10DA 3.3 - The Creeping Death :Donna:10th_Dr:
 **** READY 10DCC [#E] 2. The Stuntman (Nyssa)  / [#D] 3. Quantum of Axos (Ace)
 **** READY ST: [#A] NSA #7: Dead Air
-**** READY [#D] O&F #5  The Martian Invasion of Planetoid 50
+**** READY [#C] O&F5. The Martian Invasion of Planetoid 50 :bilibili:10th_Dr:P2023_09:
 **** READY fan-made  Empire of the Sun
 *** 12th
 **** 12DC 3.1-3.3
@@ -2036,47 +2014,33 @@ Tales of Trenzalore - 01
 *** Torchwood
 **** Jack
 ***** [#C] Jack1.2 Wednesdays For Beginners (Jackie)
-***** [#C] Jack1.4 Month 25
-***** [#B] Jack2.1 Piece of Mind :Jack:
+***** [#B] Jack2.1 Piece of Mind :Jack:6th_Dr:
+**** Andy
+***** [#A] TW49. Gooseberry :Owen:Andy:
+***** [#B] TW58. Cadoc Point :Andy:
+***** TW Soho #3 The Unbegotten :Norton:Andy:Lizbeth:P2022_10:plot_yes:
+**** Ianto
+***** [#C] TWO2.2 - Blind Summit :Yvonne:Ianto:
+***** [#A] TWO2.3 - 9 to 5 :Yvonne:Ianto:
+***** FIXME [#D] TW65. Death in Venice :Colchester:Ace:
+***** [#B] 67. The Lincolnshire Poacher :Ianto:
 **** [#C] TWBBC5.1 The Devil and Miss Carew :Jack:Gwen:Ianto:P2011:
 **** HALF [#A] TW16. torchwood_cascade_CDRIP.tor :Tosh:
-**** Andy + Owen: [#A] 49. Gooseberry :Owen:Andy:
-     :PROPERTIES:
-     :rating:   8.7
-     :END:
-
-**** Andy: [#B] 58. Cadoc Point
-**** Yvvone+Ianto: [#C] TWO2.2 - Blind Summit / [#A] TWO2.3 - 9 to 5 :Yvonne:Ianto:
-**** FIXME [#D] TW65. Death in Venice :Colchester:Ace:
 **** [#B] TW65X A Postcard from Mr Colchester :Colchester:plot_yes:
-**** [#B] 67. The Lincolnshire Poacher :Ianto:
-**** TW Soho #3 The Unbegotten :Norton:Andy:Lizbeth:P2022_10:plot_yes:
 *** Benny
 **** [#C] BSNA2.3 - The Eye of Horus :Sutekh:
 **** [#A] BSST.2 And Then Again :Benny:7th_Dr:
 **** FIXME [#C] BS6.2 The Kingdom of the Blind :Benny:
-     :PROPERTIES:
-     :rating:   7.7
-     :END:
-
-http://drwhoguide.com/bs_a18.htm
-
 **** FIXME [#C] BSBOX 2.1 Brand Management :Benny:
 *** River
 **** [#C] DoRS6.4 The Talents of Grel :River:Jago:
 **** [#C] DoRS8.2 A Brave New World :River:10th_Dr:
+**** [#D] Peladon2. The Poison of Peladon :River:
 *** UNIT
 *** Master
-**** FIXME [#D] Missy3.1 Body and Soulless
 **** [#D] WM8.2 - The Shadow Master
 **** READY [#D] 3.2 Axos Rising :bilibili:
-
-【【神秘博士广播剧】MASTER! 302 Axos Rising Axos崛起-哔哩哔哩】 https://b23.tv/2KICAg4
-
 **** READY [#D] 3.3 Hellbound :bilibili:
-
-【【神秘博士广播剧】MASTER! 303 Hellbound 地狱之旅-哔哩哔哩】 https://b23.tv/wytau8f
-
 *** misc
 **** FIXME [#C] CY1.3 - Living History :Churchill:
 **** The Lone Centurion vol.2
