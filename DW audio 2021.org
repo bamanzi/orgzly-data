@@ -1856,39 +1856,52 @@
 *** DONE [#C] Jack1.4 Month 25 :Jack:
 *** HALF [#C] UNEM1.2 Fire and Ice :UNIT:Ice_Warriors:Harry:Naomi:
 *** HALF [#D] PGT1.2 Symmetry of Death
-*** HALF [#E] Master! 3.1 Basilisk :Master_roberts:bilibili:
+*** HALF [#E] Master! 3.1 Basilisk :Master_bruce:bilibili:
 *** HALF [#B] Gallifrey 6.3 - Ascension
 ** 2025-q2a-extra
 *** [#C] BFSH2.1a The Empty House
 ** dw2025-q2b-doctor
-*** [#C] EA4.2 The Outliers :2nd_Dr:Jamie:Polly:Ben:plot_yes:
-*** FIXME [#C] 4DA10.1 The World Traders :4th_Dr:Leela:
-*** FIXME [#C] 6DnP1.1 - The Headless Ones :6th_Dr:Peri:
-    :PROPERTIES:
-    :rating:   7.5
-    :END:
-
-*** READY [#C] 8DTW5.1 Meanwhile, Elsewhere :8th_Dr:Cass:Time_War:
+*** 3QTR [#C] EA4.2 The Outliers :2nd_Dr:Jamie:Polly:Ben:plot_yes:
+*** DONE [#C] 4DA12.3 The Wizard of Time :4th_Dr:Leela:Margaret:
+*** 2DONE [#C] 6DnP1.1 - The Headless Ones :6th_Dr:Peri:
+*** HALF [#C] 8DTW5.1 Meanwhile, Elsewhere :8th_Dr:Cass:Time_War:
 *** READY [#C] 8DTW5.2 Vespertine :8th_Dr:Cass:Time_War:
-*** READY [#C] DU3.2 The Dalek Defense :10th_Dr:Anya:Mark_7:Davros:bilibili:
-*** HALF [#B] 12DC3.1 Sunstrike :12th_Dr:
+*** HALF [#C] DU3.2 The Dalek Defense :10th_Dr:Anya:Mark_7:Davros:bilibili:
+*** 2DONE [#B] 12DC3.1 Sunstrike :12th_Dr:
 ** dw2025-q2b-spinoffs
 *** [#A] TW7.8 Pariahs :Yvonne:Colchester:Ng:Tyler:Orr:
-*** [#C] UNEM1.3 Eleven's Eleven :The_Eleven:
-*** FIXME [#C] CM3.3 The Forgotten Village
-*** [#D] JL9.4 Return of the Nightmare
-*** [#A] DoRS7.3 Barrister to the Stars
-*** READY [#A] WM9.1 The Walls of Absence :Master_War:bilibili:
+*** HALF [#C] UNEM1.3 Eleven's Eleven :The_Eleven:
+*** 2DONE [#C] CM3.3 The Forgotten Village
+*** DONE [#D] JL9.4 Return of the Nightmare
+*** HALF [#A] DoRS7.3 Barrister to the Stars
+*** HALF [#A] WM9.1 The Walls of Absence :Master_War:bilibili:
 *** [#B] FP2.2 The Ship of a Billion Years :P2006:Sutekh:Faction_Paradox:Justine:Eliza:
 ** dw2025-q2b-pending
 *** Fleeting Faces #2: Under Control :P2024_09:14th_Dr:
 *** [#C] Rory2.1 The Once and Future Nurse
+** dw2025-q3a-doctor
+*** [#B] 1DA2023.1 The Demon Song :1st_Dr:Dodo:1CD:
+*** [#B] 3DA6.1 Poison of the Daleks :3rd_Dr:Jo:
+*** [#B] MR174. Prisoners of Fate :5th_Dr:Nyssa:Tegan:plot_yes:
+*** [#B] BSNA2.3 The Eye of Horus :7th_Dr:Benny:Sutekh:
+*** FIXME [#C] ST11.X The Lichyrwick Abomination :9th_Dr:scripted:
+*** [#B] WDB4.2 The Abyss :War_Dr:
+** dw2025-q3a-spinoffs
+*** [#A] TW49. Gooseberry :Owen:Andy:
+*** READY [#A] TW63. Restricted Items Archive Entries 031–049 :Ianto:bilibili:
+*** [#B] UNEM1.4 The Curator's Gambit :The_Eleven:
+*** [#A] PGT1.3 Till Death Us Do Part :8th_Dr:
+*** READY [#A] WM9.2 The Long Despair :bilibili:
+*** [#B] ROB3.3 A Matter of Conscience
+*** FIXME [#B] Rory2.2 The Glowing Warrior
 * FIXME pending
 ** special
 *** [#B] Jack 2.1 Piece of Mind :Jack:6th_Dr:
+*** The Veiled Leopard (a) :Peri:Erimem:
+*** The Veiled Leopard (b) :Ace:Hex:
 ** odd
 *** 1st
-**** [#B] LS2.1b The Fragile Yellow Arc of Fragrance :1st_Dr:Susan:Ian:Barbara:plot_yes:
+**** [#B] LS2.1b The Fragile Yellow Arc of Fragrance :1st_Dr:Susan:Ian:Barbara:plot_yes:½CD:
 **** [#B] 1DA4.2 Last of the Romanovs :1st_Dr:Susan:Ian:Barbara:
 **** [#B] CC9.2 - The Unwinding World :1st_Dr:Vicki:
 **** START [#B] CC8.10 The War to End All Wars :D2022_02_doctor:Steven:

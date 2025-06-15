@@ -1,58 +1,136 @@
 * The X-Files :Ⓧ:
+
+https://breezewiki.com/x-files/wiki/Mythology
+
 ** tv :📺:
+
+https://breezewiki.com/x-files/wiki/Mythology#Episodes
+
 *** S1 (1993.10-1994.05)
-**** 1x01 Pilot :myth:
-**** 1x02 Deep Throat :myth:
-**** [#A] 1x03 Squeeze
-**** 1x04 Conduit
-**** 1x10 Fallen Angel :myth:
-**** 1x17 E.B.E :myth:
-**** 1x24 The Erlenmeyer Flask :myth:
+**** DONE 1x01 Pilot :Mytharc:
+**** DONE 1x02 Deep Throat :Mytharc:
+**** DONE [#A] 1x03 Squeeze
+**** DONE 1x04 Conduit
+**** [#A] 1x08 Ice
+**** DONE 1x10 Fallen Angel :Mytharc:
+**** DONE 1x17 E.B.E :Mytharc:
+**** DONE 1x24 The Erlenmeyer Flask :Mytharc:
 *** S2 (1994.09-1995.05)
-**** 2x01 Little Green Men :myth:
+**** DONE 2x01 Little Green Men :Mytharc:
 **** DONE 2x02 Host :👍:
-CLOSED: <2020-10-16 Fri 20:34>
 
-**** 2x05 Duane Barry :myth:
-**** 2x06 Ascension :myth:
-**** 2x08 One Breath :myth:
-**** 2x10 Red Museum :myth:
+CLOSEDONE D: <2020-10-16 Fri 20:34>
+     DONE 
+
+**** DONE 2x05 Duane Barry (1) :Mytharc:
+**** DONE 2x06 Ascension (2) :Mytharc:
+**** DONE 2x08 One Breath :Mytharc:
+**** DONE 2x10 Red Museum :Mytharc:
+**** DONE [#A] 2x16 Colony (I) :Mytharc:
+**** DONE [#A] 2x17 End Game (2) :Mytharc:
+**** [#A] 2x20 Humbug
+**** DONE 2x25 Anasazi (1) :Mytharc:
 *** S3 (1995.09-1996.05)
-**** 3x21 Avatar :Skinner:
+**** DONE 3x01 The Blessing Way (2) :Mytharc:
+**** DONE 3x02 Paper Clip (3) :Mytharc:
+**** [#A] 3x04 Clyde Bruckman's Final Repose
+**** DONE 3x09 Nisei (1) :Mytharc:
+**** DONE 3x10 731 (2) :Mytharc:
+**** DONE 3x15 Piper Maru (1) :Mytharc:
+**** DONE 3x16 Apocrypha (2) :Mytharc:
+**** [#A] 3x17 Pusher
+**** [#A] 3x20 José Chung's From Outer Space
+**** DONE 3x21 Avatar :Skinner:
+**** DONE 3x24 Talitha Cumi (1) :Mytharc:
 *** S4 (1996.10-1997.05)
-**** 4x07 Musings of a Cigarette Smoking Man :myth:
+**** DONE 4x01 Herrenvolk (2) :Mytharc:
+**** [#A] 4x02 Home
+**** DONE [#A] 4x07 Musings of a Cigarette Smoking Man :Mytharc:
+**** DONE 4x08 Tunguska (1) :Mytharc:
+**** DONE 4x09 Terma (2) :Mytharc:
+**** [#A] Paper Hears
 **** DONE 4x13 Never Again :Scally:
-CLOSED: [2022-02-21 Mon 12:24]
 
-**** 4x21 Zero Sum
+CLOSEDONE D: [2022-02-21 Mon 12:24]
+     DONE 
+
+**** DONE [#A] 4x14 Memento Mori :Mytharc:
+**** DONE 4x17 Tempus Fugit (1) :Mytharc:
+**** DONE 4x18 Max (2) :Mytharc:
+**** [#A] 4x20 Small Potatoes
+**** DONE 4x21 Zero Sum :Mytharc:
+**** DONE 4x23 Demons :Mytharc:
+**** DONE 4x24 Gethsemane (1) :Mytharc:
 *** S5 (1997.11-1998.05)
-**** 5x03 Unusual Suspects :Lone_Gunmen:
-*** movie: Fight the Future (1998.06) :P1998:
+**** DONE 5x01 Redux (2) :Mytharc:
+**** DONE 5x02 Redux II (3) :Mytharc:
+**** DONE 5x03 Unusual Suspects :Lone_Gunmen:
+**** [#A] Detour
+**** [#A] 5x05 The Post-Modern Prometheus
+**** DONE 5x06 Christmas Carol (1) :Mytharc:
+**** DONE 5x07 Emily (2) :Mytharc:
+**** [#A] 5x12 Bad Blood
+**** DONE 5x13 Patient X (1) :Mytharc:
+**** DONE 5x14 The Red and the Black (2) :Mytharc:
+**** DONE 5x20 The End :Mytharc:
+*** movie: Fight the Future (1998.06) :P1998:Mytharc:
 *** S6 (1998.11-1999.05)
-**** 6x09 S.R. 819 :Skinner:
+
+https://x-files.fandom.com/wiki/The_X-Files_(season_6)
+
+**** DONE 6x01 The Beginning :Mytharc:
+**** DONE [#A] 6x02 Drive
+**** DONE [#A] 6x03 Triangle
+**** DONE [#A] 6x04 Dreamland I :Area_51:
+CLOSED: <2025-06-04 Wed 08:16>
+
+**** DONE [#A] 6x05 Dreamland II :Area_51:
+CLOSED: [2025-06-04 Wed 18:55]
+
+**** DONE [#B] 6x06 How the Ghosts Stole Christmas
+CLOSED: [2025-06-09 Mon 08:06]
+
+**** DONE [#C] 6x07 Terms of Endearment
+**** DONE [#D] 6x08 The Rain King
+**** DONE [#B] 6x09 S.R. 819 :Skinner:Mytharc:
+**** DONE [#B] 6x10 Tithonus
+CLOSED: [2025-06-12 Thu 20:20]
+
+**** DONE 6x11 Two Fathers (1) :Mytharc:
+**** DONE 6x12 One Son (2) :Mytharc:
+**** [#C] 6x13 Agua Mala
+**** DONE [#A] 6x14 Monday :time_loop:
+**** [#A] 6x15 Arcadia
+**** [#E] 6x16 Alpha
+**** [#C] 6x17 Trevor
+**** [#B] 6x18 Milagro
+**** [#A] 6x19 The Unnatural
+**** DONE [#B] 6x20 Three of a Kind :Lone_Gunmen:
+**** [#A] 6x21 Field Trip
+**** DONE 6x22 Biogenesis (1) :Mytharc:
 *** S7 (1999.11-2000.05)
-**** DONE 7x01 The Sixth Extinction :myth:
+**** DONE 7x01 The Sixth Extinction (2) :Mytharc:
 CLOSED: <2020-10-08 Thu 09:30>
 
-**** DONE 7x02 The Sixth Extinction II: Amor Fati :myth:
+**** DONE 7x02 The Sixth Extinction II: Amor Fati (3) :Mytharc:
 CLOSED: <2020-10-08 Thu 10:30>
 
 **** DONE 7x03 Hungry
 CLOSED: <2020-10-09 Fri 22:31>
 
-**** 7x10 Sein Und Zeit :myth:
-**** 7x11 Closure :myth:
-**** DONE 7x15 En Ami :myth:CSM:
+**** DONE 7x10 Sein Und Zeit (1) :Mytharc:
+**** DONE 7x11 Closure (2) :Mytharc:
+**** DONE 7x15 En Ami :Mytharc:CSM:
 CLOSED: <2020-10-24 Sat 20:57>
 
-**** DONE 7x22 Requiem :myth:CSM:
+**** DONE 7x22 Requiem :Mytharc:CSM:
 CLOSED: <2020-10-18 Sun 23:20>
 
 *** S8 (2000.11-2001.05)
-**** DONE 8x01 Within (8.5) :myth:
+**** DONE 8x01 Within (1) :Mytharc:
 CLOSED: <2020-10-19 Mon 13:15>
 
-**** DONE 8x02 Without (8.5) :Gibson:myth:
+**** DONE 8x02 Without (2) :Gibson:Mytharc:
 CLOSED: [2020-10-19 Mon 20:28]
 
 **** DONE [#C] 8x03 Patience
@@ -575,26 +653,26 @@ CLOSED: [2023-05-31 Wed 21:19]
 *** DONE 2x23
 CLOSED: [2023-05-31 Wed 22:15]
 
-** Fringe S3 :P2010:
+** DONE Fringe S3 :P2010:
 
 22 episodes
 
-*** DONE [#A] 3x01
+*** DONE [#A] 3x01 Olivia
 CLOSED: <2024-04-14 Sun 09:59>
 
-*** DONE 3x02 The Box
+*** DONE [#B] 3x02 The Box
 CLOSED: [2024-04-14 Sun 12:09]
 
-*** DONE [#A] 3x03
+*** DONE [#A] 3x03 The Plateau
 CLOSED: [2024-04-16 Tue 00:51]
 
-*** DONE 3x04
+*** DONE [#A] 3x04 Do Shapeshifters Dream of Electric Sheep?
 CLOSED: [2024-04-18 Thu 08:17]
 
-*** DONE 3x05
+*** DONE [#B] 3x05 Amber 31422
 CLOSED: <2024-04-19 Fri 08:07>
 
-*** DONE 3x06
+*** DONE [#B] 3x06 6955 kHz
 CLOSED: [2024-04-19 Fri 21:51]
 
 *** DONE [#A] 3x07 The Abducted
@@ -633,12 +711,46 @@ CLOSED: [2024-05-25 Sat 08:07]
 *** DONE 3x18 Bloodline :Fauxlivia:
 CLOSED: [2024-06-03 Mon 08:06]
 
-*** 3x19 Lysergic Acid Diethylamide
-** Fringe S4 :S2025_Q2:
+*** DONE [#A] 3x19 Lysergic Acid Diethylamide
+CLOSED: [2025-05-30 Fri 20:16]
+
+*** DONE [#A] 3x20 6:02 AM EST
+CLOSED: [2025-06-03 Tue 08:02]
+
+*** DONE [#A] 3x21 The Last Sam Weiss
+CLOSED: [2025-06-03 Tue 08:49]
+
+*** DONE [#A] 3x22 The Day We Died
+CLOSED: [2025-06-03 Tue 22:06]
+
+** Fringe S4 :P2011:S2025_Q2:
 
 22 episodes
 
-** Fringe S5
+*** DONE [#B] 4x01 Neither Here Nor There :MotW:
+CLOSED: [2025-06-06 Fri 20:22]
+
+*** DONE [#B] 4x02 One Night in October :MotW:
+CLOSED: [2025-06-06 Fri 21:12]
+
+*** DONE [#C] 4x03 Alone in the World :MotW:
+CLOSED: [2025-06-08 Sun 16:00]
+
+*** DONE [#B] 4x04 Subject 9
+CLOSED: [2025-06-09 Mon 20:21]
+
+*** DONE [#B] 4x05 Novation
+CLOSED: [2025-06-11 Wed 22:50]
+
+*** DONE [#A] 4x06 And Those We've Left Behind
+CLOSED: [2025-06-13 Fri 20:46]
+
+*** [#C] 4x07 Wallflower
+*** [#A] 4x08 Back to Where You've Never Been
+*** [#A] 4x09 Enemy of My Enemy
+*** [#C] 4x10 Forced Perspective
+*** [#C] 4x11 Making Angels
+** Fringe S5 :P2012:
 
 13 episodes
 
@@ -646,8 +758,19 @@ CLOSED: [2024-06-03 Mon 08:06]
 *** DONE Fringe (vol.1)
 CLOSED: [2022-03-29 Tue 23:27]
 
+The series contained six issues that delved into the early history of Fringe in the Prime Universe.
+
 *** Tales from the Fringe (2010-2011)
+
+continued to delve into the history of Fringe's Prime Universe.
+
 *** Beyond the Fringe (2011-2012)
+
+The series is divided into two parts, Part A and Part B. 
+- Part A ties directly into the television show's mythology. 
+  - The first 3 chapters of Part A focused on the time Peter spent inside The Machine. It serves to bridge the Season Three finale with the Season Four premiere by explaining what happened to Peter and what he witnessed/experienced inside The Machine. In addition to this, these chapters were penned by Joshua Jackson.
+- The B series takes place in alternate universes within the Fringe multiverse, instead exploring "What-If's." They do not relate to the two universes that are shown on the television series. 
+
 * DONE Taken
 CLOSED: [2023-05-27 Sat 22:06]
 

@@ -1494,17 +1494,15 @@ CLOSED: [2020-07-15 Wed 19:13]
 【【神秘博士广播剧熟肉】四任博士冒险 第九季特别篇 太阳阴影 Shadow of the Sun-哔哩哔哩】 https://b23.tv/BV1hEV5zCEVJ
 
 **** 📂4DA series 10 :4DA:P2021:2CD:
-***** TODO [#C] 10.1 The World Traders :dw2025_q2b_doctor:
-SCHEDULED: <2025-06-28 Sat>
-
+***** [#C] 10.1 The World Traders
 ***** [#C] 10.2 The Day of the Comet
 ***** [#C] 10.3 The Tribulations of Tahdeus Nook
 ***** [#E] 10.4 The Primeval Design
 **** 📂4DA series 12 :4DA:Margaret:P2023:
 ***** [#D] 12.1 Ice Heist :Ice_Warriors:P2023_03:2CD:
 ***** CANCEL [#F] 12.2 Antillia the Lost :P2023_03:2CD:
-***** [#C] 12.3 The Wizard of Time :P2023_06:1CD:DW2024_Q3b_doctor:
-SCHEDULED: <2024-08-31 Sat>
+***** DONE [#C] 12.3 The Wizard of Time :P2023_06:1CD:dw2025_q2b_doctor:
+CLOSED: <2025-06-15 Sun 15:21> SCHEDULED: <2025-06-14 Sat>
 :PROPERTIES:
 :rating:   7.5
 :END:

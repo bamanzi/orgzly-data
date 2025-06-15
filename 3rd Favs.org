@@ -206,13 +206,15 @@ https://breezewiki.com/slow-horses/wiki/Slow_Horses_Wiki
 
 https://breezewiki.com/slow-horses/wiki/The_Slough_House_(Novels)
 
-*** START [#B] 01. Slow Horses 驽马
+*** DONE [#B] 01. Slow Horses 驽马
+CLOSED: <2025-05-17 Sat>
 :PROPERTIES:
 :goodreads: 4.03
 :douban:   8.2
 :END:
 
-*** [#B] 02. Dead Lions 亡狮
+*** DONE [#B] 02. Dead Lions 亡狮
+CLOSED: [2025-06-07 Sat 22:09]
 :PROPERTIES:
 :goodreads: 4.12
 :douban:   8.3
@@ -247,13 +249,14 @@ CLOSED: <2025-05-05 Mon 14:24>
 *** S2 :P2022:
 * John le Carré 约翰·勒卡雷
 ** books
-*** LATER [#B] 3. The Spy Who Came In from the Cold 柏林谍影 :Smiley:
+*** [#B] 3. The Spy Who Came In from the Cold 柏林谍影 :Smiley:
 :PROPERTIES:
 :douban:   8.5
 :goodreads: 4.09
 :END:
 
-*** DOING [#B] 5. Tinker, Tailor, Soldier, Spy 锅匠，裁缝，士兵，间谍 :Smiley:
+*** DONE [#B] 5. Tinker, Tailor, Soldier, Spy 锅匠，裁缝，士兵，间谍 :Smiley:
+CLOSED: [2025-06-04 Wed 22:53]
 :PROPERTIES:
 :douban:   8.4
 :goodreads: 4.06
@@ -265,13 +268,13 @@ CLOSED: <2025-05-05 Mon 14:24>
 
 译林出版社的翻译最差
 
-*** [#B] 6. The Honourable Schoolboy 荣誉学生 :Smiley:
+*** NEXT [#B] 6. The Honourable Schoolboy 荣誉学生 :Smiley:
 :PROPERTIES:
 :douban:   7.2
 :goodreads: 3.99
 :END:
 
-*** LATER [#A] 7. Smiley's People 史迈利的人马 :Smiley:
+*** [#A] 7. Smiley's People 史迈利的人马 :Smiley:
 :PROPERTIES:
 :douban:   8.6
 :goodreads: 4.29
@@ -289,7 +292,7 @@ CLOSED: <2025-05-05 Mon 14:24>
 :goodreads: 3.88
 :END:
 
-*** CANCEL [#B] The Little Drummer Girl 危险角色/小鼓女/女鼓手
+*** NEXT [#B] The Little Drummer Girl 危险角色/小鼓女/女鼓手
 :PROPERTIES:
 :douban:   8.7
 :goodreads: 3.99
@@ -304,12 +307,6 @@ CLOSED: <2025-05-05 Mon 14:24>
 :PROPERTIES:
 :douban:   7.8
 :goodreads: 3.99
-:END:
-
-*** [#C] A Small Town in Germany 德国小镇
-:PROPERTIES:
-:douban:   8.2
-:goodreads: 3.77
 :END:
 
 *** CANCEL [#C] The Night Manager 夜班经理
@@ -330,8 +327,14 @@ CLOSED: <2025-05-05 Mon 14:24>
 :goodreads: 3.83
 :END:
 
+*** [#C] A Small Town in Germany 德国小镇
+:PROPERTIES:
+:douban:   8.1
+:goodreads: 3.77
+:END:
+
 ** tv
-*** [#B] Tinker Tailor Soldier Spy 锅匠、裁缝、士兵、间谍 :P1979:Smiley:
+*** NEXT [#B] Tinker Tailor Soldier Spy 锅匠、裁缝、士兵、间谍 :P1979:Smiley:
 :PROPERTIES:
 :douban:   8.8
 :imdb:     8.4
@@ -369,13 +372,14 @@ CLOSED: [2025-05-23 Fri 20:30]
 :imdb:     7.0
 :END:
 
-*** TODO [#C] The Constant Gardener 不朽的园丁 :P2005:
+*** NEXT [#C] The Constant Gardener 不朽的园丁 :P2005:
 :PROPERTIES:
 :douban:   7.9
 :imdb:     7.3
 :END:
 
-*** TODO [#D] A Most Wanted Man 最高通缉犯 :P2014:
+*** DONE [#D] A Most Wanted Man 最高通缉犯 :P2014:
+CLOSED: <2025-05-25 Sun 16:01>
 :PROPERTIES:
 :douban:   6.9
 :imdb:     6.7

@@ -720,11 +720,13 @@ CLOSED: [2021-10-18 Mon 20:15]
 
 Volume One
 
-***** HALF [#C] 1.1 - The Headless Ones :dw2025_q2b_doctor:
-SCHEDULED: <2025-05-24 Sat>
+***** 2DONE [#C] 1.1 - The Headless Ones :dw2025_q2b_doctor:
+CLOSED: [2025-06-07 Sat 16:02] SCHEDULED: <2025-05-24 Sat>
 :PROPERTIES:
 :rating:   7.5
 :END:
+
+难度较大。旁白较多，而且用词有较多书面用语
 
 ***** CANCEL [#E] Like
 :PROPERTIES:

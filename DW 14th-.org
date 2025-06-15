@@ -161,113 +161,101 @@ https://b23.tv/BV1vT411c72m
 *** [#E] 2.2 Time Killers
 *** [#B] 2.3 The Key To Key To Time
 * Master
-** Missy :Master_missy:
-*** Missy (BF audio) :🎧:
-**** 📂Missy series 1
-***** START [#C] 1.1 A Spoonful of Mayhem :D2021_07_extra:
-      :PROPERTIES:
-      :rating:   7.7
-      :END:
 
-***** HALF [#A] 1.2 Divorced, Beheaded, Regenerated :Monk:D2021_08_extra:plot_no:bilibili:
-      :PROPERTIES:
-      :rating:   9.0
-      :END:
+https://tardis.wiki/wiki/The_Master/Appearances
 
- 【「重製版熟肉神秘博士廣播劇」Missy 102 Divorced, Beheaded, Regenerated-哔哩哔哩】 https://b23.tv/BV1P5411M7Li
+** The Master's early life
 
-***** 3QTR [#A] 1.3 The Broken Clock :D2021_10_extra:plot_no:bilibili:
-      CLOSED: [2021-11-27 Sat 08:52] DEADLINE: <2021-11-30 Tue> SCHEDULED: <2021-11-13 Sat>
-      :PROPERTIES:
-      :rating:   8.6
-      :END:
+https://tardis.wiki/wiki/The_Master%27s_early_life
 
- 【【神秘博士广播剧】Missy 103 The broken clock 破碎时钟-哔哩哔哩】 https://b23.tv/R2cqU0o
+**** [#D] STR1.1 The Toy :Master_early:5th_Dr:Nyssa:P2015:🗣:
+**** FIXME Celestial Intervention - A Gallifreyan Noir (Twelve Angels Weeping 4) :🗣:
+**** FIXME Tempered (Origin Stories #11) :Master_early:Master_missy:🗣:
+*** inventor master :Master_inventor:🎧:
 
-***** [#E] +1.4 - The Belly of the Beast+ :D2021_11_master:
-      SCHEDULED: <2021-11-20 Sat>
-      :PROPERTIES:
-      :rating:   6.8
-      :END:
+https://tardis.wiki/wiki/The_Master_(The_Destination_Wars)
 
-**** 📂Missy series 2
-***** HALF [#A] 2.1 - The Lumiat :D2022_05_spinoffs:plot_yes:bilibili:
-      SCHEDULED: <2022-05-21 Sat>
-      :PROPERTIES:
-      :rating:   8.8
-      :END:
+**** HALF [#C] 1DA1.1 The Destination Wars :plot_yes:
+**** HALF [#D] EA6.1 The Home Guard :2nd_Dr:Jamie:Polly:Ben:plot_half:
+**** 3QTR [#A] 4DA11.1 Blood of the Time Lords :4th_Dr:plot_yes:
+**** [#D] MR261. The Psychic Circus :7th_Dr:
+** UNIT era :Master_nemesis:
 
- 【【神秘博士广播剧】Missy 201 The Lumiat-哔哩哔哩】 
- https://www.bilibili.com/video/BV1K94y1971F
+https://tardis.wiki/wiki/The_Master_(Terror_of_the_Autons)
 
-***** HALF [#E] +2.2 - Brimstone and Terror+ :plot_no:DW2022_08_spinoffs:bilibili:
-      SCHEDULED: <2022-08-13 Sat>
-      :PROPERTIES:
-      :rating:   6.8
-      :END:
-
- 【【神秘博士广播剧】Missy 202 - Brimstone and Terror 战火之惧-哔哩哔哩】 https://b23.tv/BV15K411f7J3
-
-***** HALF [#D] 2.3 - Treason and Plot :plot_cast:DW2023_04_spinoffs:
-      SCHEDULED: <2023-04-16 Sun>
-      :PROPERTIES:
-      :rating:   7.2
-      :END:
-
-***** HALF [#B] 2.4 - Too Many Masters :Monk:plot_no:DW2024_Q4a_spinoffs:
-      SCHEDULED: <2024-10-12 Sat>
-      :PROPERTIES:
-      :rating:   8.2
-      :END:
-
-**** 📂Missy and the Monk :P2021:
-***** [#D] 3.1 Body and Soulless
-***** [#E] 3.2 War Seed
-***** [#D] 3.3 Two Monks, One Mistress
-**** 📂Bad Influence :P2024_05:
-***** 4.1 Missy and the Time Assassin
-***** 4.2 Bad Apple Brigade
-***** 4.3 The Baron Robbers
-*** The Missy Chronicles :anthology:📄:
-**** Dismemberment :hanzify:
-
- http://670641333.lofter.com/post/1dfa202c_efdc1153
-
- https://tieba.baidu.com/p/5863165791
-
-**** Lords and Masters
-**** Teddy Sparkles Must Die!
-**** The Liar, the Glitch and the War Zone
-**** Girl Power! :12th_Dr:Nardole:
-**** Alit in Underland :Master_saxon:
-*** Missy: The Master Plan (Titan Comics) :Missy:Master_nemesis:3rd_Dr:12th_Dr:Titan_Comics:P2021:
-** Master! :Master_roberts:🎧:
-*** HALF [#C] Vienna #0 The Memory Box :D2021_12_extra:week2:
-    SCHEDULED: <2021-12-10 Fri>
-    :PROPERTIES:
-    :rating:   7.9
-    :END:
-
-*** 📂Master! vol.1 :plot_yes:
-**** 3QTR [#B] 1.1 Faustian :DW2022_07_extra:
-     CLOSED: [2022-07-21 Thu 19:49] SCHEDULED: <2022-07-10 Sun>
+*** audio :🗣:
+**** [#A] ST9.6 The Same Face :Jo:P2019:
+**** [#D] STR2. 1 The Switching :3rd_Dr:
+**** [#C] TLV: Master Thief :Master_nemesis:
      :PROPERTIES:
-     :rating:   8.2
+     :rating:   7.6
      :END:
 
-**** HALF [#D] 1.2 Prey :Vienna:plot_yes:DW2022_10_spinoffs:
-     SCHEDULED: <2022-10-15 Sat>
+**** Terror of the Master :bilibili:Master_nemesis:
+
+  - 上： 【【有声书汉化】准将的困扰 Terror of the Master 上-哔哩哔哩】 https://b23.tv/BV1pa4y1g7VR
+
+**** [#B] ST11.3 The Threshold :3rd_Dr:
+*** comics
+**** Character Assassin (DWM311) :P2001:
+**** Doorway to Hell (DWM508-511) :12th_Dr:P2017:
+**** The Heralds of Destruction :Titan_Comics:3rd_Dr:Jo:Brig:P2016:
+** Decayed Master
+
+https://tardis.wiki/wiki/Decayed_Master
+
+脆皮法
+
+*** audio :🎧:
+**** HALF [#D] MR021. Dust Breeding :7th_Dr:Bev:
+**** 3QTR [#A] MR49. Master [A⁺] :P2003:Death:plot_yes:
+**** 3QTR [#C] MR212. Vampire of the Mind :Master_bald:plot_no:
+
+【【神秘博士广播剧汉化】法师三部曲之二 Vampire of the Mind 思维吸血鬼-哔哩哔哩】 https://b23.tv/BV1LS4y1K74U
+
+**** 2DONE [#D] 4DA 1.5 Trail of the White Worm / 1.6 The Oseidon Adventure :4th_Dr:
+**** 3QTR [#C] 4DA 4.3 Requiem for the Rocket Men /  4.4 Death Match :4th_Dr:
+**** READY [#D] 4DA13.5 Metamorphosis :P2024_06:bilibili:
+**** [#A] 8DRAV 4.2 Planet of Dust :8th_Dr:Liv:Helen:
+**** The Light at the End :4th_Dr:5th_Dr:6th_Dr:7th_Dr:8th_Dr:Leela:Nyssa:Peri:Ace:Charley:
+**** 3QTR [#B] CC8.1 Mastermind :Ruth_Matheson:the_Vault:UNIT:
+**** 📂Jago & Litefoot S10 :P2015:
+**** 2DONE [#A] ST8.10 I Am The Master ⭐ :bilibili:🗣:
+
+  【【神秘博士广播剧汉化】法师独白，关爱脆皮，人人有责 Short Trips: I am the Master-哔哩哔哩】 https://b23.tv/BV1Hr4y1S7en
+
+**** 2DONE [#D] DoRS5.2 Animal Instinct :plot_no:
+** Tremas Master :Master_tremas:
+
+https://tardis.wiki/wiki/Tremas_Master
+
+*** DONE 6DLA#1 The End of the Line :6th_Dr:Constance:🎧:
+*** [#B] TLV: Lesser Evils :P2020:TLV:🗣:
+*** [#E] STI#8: The Ultimate Poe :6th_Dr:Mel:🗣:
+*** [#E] 6DA2024B. The Trials of a Time Lord :Peri_older:Mel:P2024_08:3CD:Master_tremas:Davros:🎧:
+** Bruce Master :Master_bruce:🎧:
+
+https://tardis.wiki/wiki/The_Master_(The_TV_Movie)
+
+*** HALF [#C] Vienna #0 The Memory Box
+*** 📂Master! vol.1 :plot_yes:
+**** 3QTR [#B] 1.1 Faustian :bilibili:
+
+【神秘博士广播剧】MASTER! 101 - Faustian 浮士德 https://b23.tv/BV15W4y1J7kX
+
+**** HALF [#D] 1.2 Prey :Vienna:plot_yes:bilibili:
      :PROPERTIES:
      :rating:   7.4
      :END:
 
-**** HALF [#A] 1.3. Vengeance :DW2022_10_spinoffs:bilibili:
-     SCHEDULED: <2022-11-01 Tue>
+【神秘博士广播剧】MASTER! 102 - Prey 追猎 https://b23.tv/BV1ce4y1x7Nq
+
+**** HALF [#A] 1.3 Vengeance :bilibili:
      :PROPERTIES:
      :rating:   8.6
      :END:
 
-【【神秘博士广播剧】MASTER! 103 复仇-哔哩哔哩】 https://b23.tv/rYJARj9
+【【神秘博士广播剧】MASTER! 103 复仇-哔哩哔哩】 https://b23.tv/BV1QY411o7ut
 
 *** 📂Master! vol.2 Nemesis Express :Vienna:P2022_10:
 **** [#F] 2.1 - Nemesis Express
@@ -287,8 +275,81 @@ https://b23.tv/BV1vT411c72m
 
 【【神秘博士广播剧】MASTER! 303 Hellbound 地狱之旅-哔哩哔哩】 https://b23.tv/BV1pVDmYTEn9
 
-** Spy Master
-*** Call Me Master :Master_spy:
+*** misc
+**** 3QTR [#C] DoRS5.3 The Lifeboat and the Deathboat :plot_yes:plot_yes:bilibili:
+** Reborn Master :Master_reborn:🎧:
+
+https://tardis.wiki/wiki/Reborn_Master
+
+光头法
+
+*** 📂Dark Eyes vol.2/3/4
+*** 3QTR [#D] MR211. And You Will Obey Me :Master_decayed:
+*** [#D] 8DA: The Stuff of Legend :Charley:Master_bald:Daleks:2CD:P2024_09:
+** War Master ↗
+** Saxon Master
+
+https://tardis.wiki/wiki/Saxon_Master
+
+** Missy :Master_missy:
+*** audio :🎧:
+**** 📂Missy series 1
+***** START [#C] 1.1 A Spoonful of Mayhem
+***** HALF [#A] 1.2 Divorced, Beheaded, Regenerated :Monk:plot_no:bilibili:
+
+ 【「重製版熟肉神秘博士廣播劇」Missy 102 Divorced, Beheaded, Regenerated-哔哩哔哩】 https://b23.tv/BV1P5411M7Li
+
+***** 3QTR [#A] 1.3 The Broken Clock :plot_no:bilibili:
+      :PROPERTIES:
+      :rating:   8.6
+      :END:
+
+ 【【神秘博士广播剧】Missy 103 The broken clock 破碎时钟-哔哩哔哩】 https://b23.tv/BV1ce4y1x7Nq
+
+***** [#E] +1.4 - The Belly of the Beast+
+**** 📂Missy series 2
+***** HALF [#A] 2.1 - The Lumiat :plot_yes:bilibili:
+      :PROPERTIES:
+      :rating:   8.8
+      :END:
+
+ 【【神秘博士广播剧】Missy 201 The Lumiat-哔哩哔哩】 
+ https://www.bilibili.com/video/BV1K94y1971F
+
+***** HALF [#E] +2.2 - Brimstone and Terror+ :plot_no:bilibili:
+      :PROPERTIES:
+      :rating:   6.8
+      :END:
+
+ 【【神秘博士广播剧】Missy 202 - Brimstone and Terror 战火之惧-哔哩哔哩】 https://b23.tv/BV15K411f7J3
+
+***** HALF [#D] 2.3 - Treason and Plot :plot_cast:
+***** HALF [#B] 2.4 - Too Many Masters :Monk:plot_no:
+**** 📂Missy and the Monk :P2021:
+***** [#D] 3.1 Body and Soulless
+***** [#E] 3.2 War Seed
+***** [#D] 3.3 Two Monks, One Mistress
+**** 📂Bad Influence :P2024_05:
+***** 4.1 Missy and the Time Assassin
+***** 4.2 Bad Apple Brigade
+***** 4.3 The Baron Robbers
+**** 2DONE [#A] DoRS5.1 The Bekdel Test :Master_missy:plot_yes:bilibili:
+**** Dark Gallifrey - Missy :P2025_05:7th_Dr:
+*** The Missy Chronicles :anthology:📄:
+**** Dismemberment :hanzify:
+
+ http://670641333.lofter.com/post/1dfa202c_efdc1153
+
+ https://tieba.baidu.com/p/5863165791
+
+**** Lords and Masters
+**** Teddy Sparkles Must Die!
+**** The Liar, the Glitch and the War Zone
+**** Girl Power! :12th_Dr:Nardole:
+**** Alit in Underland :Master_saxon:
+*** Missy: The Master Plan (Titan Comics) :📚:Missy:Master_nemesis:3rd_Dr:12th_Dr:Titan_Comics:P2021:
+** Spy Master :Master_spy:
+*** 📂Call Me Master :🎧:
 **** vol.1 Inner Demons :P2025_02:
 ***** READY 1.1 Self-Help :bilibili:
 
@@ -296,10 +357,25 @@ https://b23.tv/BV1vT411c72m
 
 ***** 1.2 The Clockwork Swan
 ***** 1.3 The Good Life
-** The War Master  ↗
-** misc
-*** Masterful :🎧:
-**** READY Masterful :bilibili:
+** Unbound Master
+*** HALF [#B] Unbound #2: Sympathy for the Devil :bilibili:🎧:
+
+【【神秘博士广播剧熟肉】Unbound: Sympathy for the Devil 怜悯恶魔-哔哩哔哩】 
+https://www.bilibili.com/video/BV1QT41147a8
+
+*** 📂BSNA :Unbound_Dr:Benny:🎧:
+**** 3QTR [#B] 3.1 The Library In The Body :plot_no:
+**** HALF [#B] 3.4 - The Emporium At The End
+**** HALF [#A] 4.4 - The True Saviour Of The Universe
+*** 📂The War Master series 4: Anti-Genesis
+**** 2DONE [#A] 4.3 Shockwave :Master_war:
+**** 3QTR [#A] 4.4 He Who Wins :Master_war:
+** multiple masters
+*** HALF [#A] MR213. The Two Masters :P2016:Master_bald:Master_decayed:6th_Dr:plot_no:bilibili:🎧:
+
+【【神秘博士广播剧汉化】The Two Masters 两个法师-哔哩哔哩】https://b23.tv/BV1aA411P7U4
+
+*** READY Masterful :bilibili:🎧:scripted:
 
  【【神秘博士广播剧】Masterful 混乱之主 01-哔哩哔哩】 
  https://www.bilibili.com/video/BV1mM41167DL
@@ -310,16 +386,7 @@ https://b23.tv/BV1vT411c72m
  【【神秘博士广播剧】Masterful 混乱之主 03-哔哩哔哩】 
  https://www.bilibili.com/video/BV1oY41197ms/
 
-**** 2DONE [#A] ST8.10 - I Am The Master ⭐ :Master:bilibili:DW2023_06_spinoffs:
-     CLOSED: [2023-05-23 Tue 22:12] SCHEDULED: <2023-06-25 Sun>
-
- 【【神秘博士广播剧汉化】法师独白，关爱脆皮，人人有责 Short Trips: I am the Master-哔哩哔哩】 https://b23.tv/71Jon0F
-
-**** The Switching
-**** Terror of the Master :audiobook:bilibili:Master_nemesis:
-
- - 上： 【【有声书汉化】准将的困扰 Terror of the Master 上-哔哩哔哩】 https://b23.tv/7SioMBV
-
+*** READY [#A] 8DRAV4.3/4.4 Day of the Master :Master_war:Master_missy:Master_decayed:Master_bruce:bilibili:🎧:
 *** I am The Master :📄:anthology:
 **** 1. Anger Management :Master_nemesis:
 **** 2. The Dead Travel Fast :Master_decayed:
@@ -327,11 +394,18 @@ https://b23.tv/BV1vT411c72m
 **** 4. A Master of Disguise :Master_tremas:
 **** 5. The Night Harvest :Master_saxon:
 **** 6. The Master and Margarita :Master_spy:
-*** [#C] ST10.XA - Master Thief :Master_nemesis:
-    :PROPERTIES:
-    :rating:   7.6
-    :END:
+*** The Unwanted Gift of Prophecy :P2017:
+Myths & Legends #3
+- Saxon Master
+- "UNIT era" Master
+- Tremas Master
+- Missy
+** misc
+*** Scream of the Shalka
 
-*** 3QTR [#B] CC8.1 Mastermind :Master_decayed:Ruth_Matheson:the_Vault:UNIT:DW2024_02_spinoffs:
-    CLOSED: <2024-02-28 Wed 08:07> SCHEDULED: <2024-02-25 Sun>
+https://tardis.wiki/wiki/The_Master_(Scream_of_the_Shalka)
+
+*** [#D] WM8.2 The Shadow Master :🎧:Master_War:
+
+https://tardis.wiki/wiki/Shadow_Master
 

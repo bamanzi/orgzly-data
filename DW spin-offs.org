@@ -720,8 +720,8 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
 ***** 3QTR [#A] 7.7 Cuckoo (9.1) :Bilis_Manger:Ianto:dw2025_q2a_spinoffs:
       CLOSED: <2025-04-23 Wed 15:53> SCHEDULED: <2025-04-20 Sun>
 
-***** TODO [#A] 7.8 Pariahs :Yvonne:Colchester:Ng:Tyler:Orr:dw2025_q2b_spinoffs:
-      SCHEDULED: <2025-06-08 Sun>
+***** START [#A] 7.8 Pariahs :Colchester:Orr:Ng:Tyler:dw2025_q2b_spinoffs:
+      SCHEDULED: <2025-06-22 Sun>
 
 ***** [#B] 7.9 How I Conquered the World :Yvonne:Orr:Colchester:
       :PROPERTIES:
@@ -1061,7 +1061,7 @@ Roberts Master
       :rating:   7.2
       :END:
 
-***** TODO [#A] 7.3 Barrister to the Stars :dw2025_q2b_spinoffs:
+***** HALF [#A] 7.3 Barrister to the Stars :dw2025_q2b_spinoffs:
       SCHEDULED: <2025-06-01 Sun>
       :PROPERTIES:
       :rating:   8.9
@@ -1268,8 +1268,8 @@ Roberts Master
     :rating:   7.5
     :END:
 
-*** TODO [#D] 9.4 - Return of the Nightmare :dw2025_q2b_spinoffs:
-    SCHEDULED: <2025-06-15 Sun>
+*** DONE [#D] 9.4 - Return of the Nightmare :dw2025_q2b_spinoffs:
+    CLOSED: [2025-06-13 Fri 10:28] SCHEDULED: <2025-06-08 Sun>
     :PROPERTIES:
     :rating:   7.4
     :END:
@@ -2521,7 +2521,8 @@ http://www.drwhoguide.com/kaldor03.htm
      :rating:   8.5
      :END:
 
-**** [#B] 3.3 - A Matter of Conscience :dw2025_q2b_pending:
+**** [#B] 3.3 - A Matter of Conscience :dw2025_q2a_spinoffs:
+     SCHEDULED: <2025-06-30 Mon>
      :PROPERTIES:
      :rating:   8.3
      :END:
@@ -2691,8 +2692,8 @@ http://www.drwhoguide.com/kaldor03.htm
     :rating:   7.5
     :END:
 
-*** TODO [#C] 3.3 - The Forgotten Village :dw2025_q2b_spinoffs:
-    SCHEDULED: <2025-06-22 Sun>
+*** 2DONE [#C] 3.3 - The Forgotten Village :dw2025_q2b_spinoffs:
+    CLOSED: <2025-06-12 Thu 09:26> SCHEDULED: <2025-06-08 Sun>
     :PROPERTIES:
     :rating:   7.8
     :END:

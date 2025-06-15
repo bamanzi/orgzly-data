@@ -661,8 +661,8 @@ SCHEDULED: <2024-07-27 Sat>
 
 【【神秘博士广播剧熟肉】Dalek Universe 301 The First Son 第一子-哔哩哔哩】 https://b23.tv/BV1XZ4y147oB
 
-***** READY [#C] DU3.2 - The Dalek Defense :Davros:bilibili:dw2025_q2b_doctor:
-SCHEDULED: <2025-06-14 Sat>
+***** HALF [#C] DU3.2 - The Dalek Defense :Davros:bilibili:dw2025_q2b_doctor:
+SCHEDULED: <2025-06-07 Sat>
 :PROPERTIES:
 :rating:   7.9
 :END:
@@ -1284,8 +1284,8 @@ SCHEDULED: <2022-04-30 Sat>
 :END:
 
 *** 📂12DC vol.3 You Only Die Twice :P2024_03:Keira:plot_no:
-**** HALF [#B] 3.1 Sunstrike :dw2025_q2a_doctor:
-SCHEDULED: <2025-05-10 Sat>
+**** 3QTR [#B] 3.1 Sunstrike :dw2025_q2b_doctor:
+CLOSED: [2025-06-04 Wed 20:10] SCHEDULED: <2025-05-10 Sat>
 
 **** [#B] 3.2 Never the End
 **** [#A] 3.3 You Only Die Twice
