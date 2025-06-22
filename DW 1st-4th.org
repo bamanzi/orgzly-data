@@ -374,6 +374,19 @@ https://tardis.wiki/wiki/The_First_Doctor:_Volume_Three
 **** The War Machines :DW2023_11_doctor:
 SCHEDULED: <2023-11-18 Sat>
 
+*** fan-made :fan_made:
+**** Curse of the Blind Man's Stare :Weeping_Angels:
+
+Dulwich. 1895. When a man loses his son and prays every night that maybe one day he will see him again, perhaps his faith in God will answer his call. For one night his grief will be answered... 
+
+An angel is coming.
+
+Produced By: Hudson Media
+
+https://m.youtube.com/watch?v=u-2d0sQhKts&list=PLepBz_uI2k90NOGnituY08w1AuN82l_Vy&index=12&pp=iAQB0gcJCb4JAYcqIYzv
+
+
+
 ** novels
 *** An Unearthly Child
 
@@ -774,18 +787,21 @@ CLOSED: [2023-04-28 Fri 16:11] SCHEDULED: <2023-04-08 Sat>
 *** BBC
 **** [#B] The Elysian Blade (BBC) :P2019:Jamie:Victoria:1CD:
 **** [#A] The Resurrection Plant (BBC) :P2022_08:Jamie:Zoe:1CD:
-*** The Missing Adventures (fan-made)
+*** fan-made :fan_made:
+**** The Missing Adventures
 
-https://chriswalkerthomson.com/dwthemissingadventures/
+https://web.archive.org/web/20220331071756/https://chriswalkerthomson.com/dwthemissingadventures/
 
-**** START MA1. Red Snow :ice_warriors:D2022_01_extra:
+https://archive.org/details/christopher-j-thomson-doctor-who-the-red-snow-christmas-special
+
+***** START MA1. Red Snow :ice_warriors:D2022_01_extra:
 SCHEDULED: <2022-01-30 Sun>
 
 After a TARDIS malfunction carries the Doctor away from Jamie and Victoria, he's stuck in 2013 London that has been buried under ice by an invading force of Ice Warriors. Why are they invading Earth? Why do they need the Doctor?
 
 https://goingthroughdoctorwho.blogspot.com/2017/04/red-snow-2014-review.html?m=1
 
-**** 3QTR [#C] MA02. Freedom of the Daleks :DW2023_10_doctor:
+***** 3QTR [#C] MA02. Freedom of the Daleks :DW2023_10_doctor:
 CLOSED: [2023-10-10 Tue 08:13] SCHEDULED: <2023-10-07 Sat>
 
 The Doctor has been captured by the Thals and the Human Factor Daleks to gain access to a human colony, who have inadvertently rescued and nursed the Dalek Emperor. As mutual hatred and distrust between the three sides start boiling over, it's up to him to prevent or at least contain a terrible war...
@@ -1226,6 +1242,23 @@ CLOSED: [2020-06-18 Thu 14:24]
 **** BBC Short Trips
 ***** Freedom :Brigadier:Jo:
 ***** Degrees of Truth :Brigadier:
+*** fan-made
+**** Red Moon
+
+by On Fleak Productions
+
+https://onfleakproductions.bandcamp.com/album/doctor-who-red-moon
+
+https://archive.org/details/on-fleak-productions-doctor-who-red-moon
+
+**** The Final Game
+
+by Studio Seven
+
+https://dwexpanded.fandom.com/wiki/The_Final_Game
+
+https://m.youtube.com/playlist?list=PLGGaEVk48nE8wZ3SKuAtthHcBfL2h97LW
+
 ** short stories
 *** DW audio annual :🗣:
 **** 1.3 - Dark Intruders :Jo:
@@ -1829,6 +1862,23 @@ SCHEDULED: <2022-10-29 Sat>
 *** BBC :📄:
 **** [#C] The Thing From the Sea :Wibbsey:P2018:1CD:
 **** CANCEL [#F] The Winged Coven :Wibbsey:Yates:P2019:1CD:
+*** fan-mode :fan_made:
+**** Science Fair
+
+by On Fleak Productions
+
+https://onfleakproductions.bandcamp.com/album/doctor-who-science-fair
+
+https://archive.org/details/on-fleak-productions-doctor-who-science-fair
+
+**** Welcome to Dystopia
+
+This short trip adventure takes our Timelord and Sarah Jane Smith to a strange planet where they are met with two of his most evil adversaries, the Dalek and The Cybermen. Will The Doctor and Sarah Jane survive their latest ordeal. Make sure you listen in when this latest trip lands soon.
+
+by Studio Severn and Black Glove Studios
+
+https://m.youtube.com/watch?v=o6Qmh5sCAFk&list=PLepBz_uI2k90NOGnituY08w1AuN82l_Vy&index=27&pp=iAQB0gcJCb4JAYcqIYzv
+
 ** short stories
 *** new short stories
 **** DONE The Roots of Evil (12 Doctors, 12 Stories #4) (微信读书) :📔:Leela:
