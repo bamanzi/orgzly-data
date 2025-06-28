@@ -111,23 +111,29 @@ https://b23.tv/BV1Wh4y1y7xt
 https://b23.tv/BV1D94y1v7dB
 
 **** MR part2 :Crizz:scripted:2CD:
-***** CANCEL [#F] +053. The Creed of the Kromon+
+***** CANCEL [#F] 053. The Creed of the Kromon :bilibili:
 CLOSED: [2021-03-22 Mon 22:35]
 :PROPERTIES:
 :rating:   5.4
 :END:
 
-***** 2DONE [#A] 54. The Natural History of Fear :plot_no:Charley:D2021_07_dr:
+【[AI字幕][神秘博士广播剧] MR 053 The Creed of the Kromon-哔哩哔哩】 https://b23.tv/BV1Nc7ezaE9G
+
+***** 2DONE [#A] 54. The Natural History of Fear :plot_no:Charley:D2021_07_dr:bilibili:
 CLOSED: [2021-07-06 Tue 17:15]
 :PROPERTIES:
 :rating:   8.5
 :END:
 
-***** CANCEL [#F] +55. The Twilight Kingdom+
+【[AI字幕][神秘博士广播剧]MR 054 The Natural History of Fear-哔哩哔哩】 https://b23.tv/BV1CtMFzkEve
+
+***** CANCEL [#F] +55. The Twilight Kingdom+ :bilibili:
 CLOSED: [2021-03-22 Mon 22:38]
 :PROPERTIES:
 :rating:   6.0
 :END:
+
+【[AI字幕][神秘博士广播剧]MR 055 The Twilight Kingdom-哔哩哔哩】 https://b23.tv/BV1dHNdzVEgs
 
 ***** TODO [#D] 61. Faith Stealer
 :PROPERTIES:
@@ -148,11 +154,12 @@ CLOSED: [2021-03-22 Mon 22:38]
 
  It was essentially the "beginning of the end" of the Divergent Universe arc. The story began to "pay off" the Divergent Universe arc by explaining things like the Interzone, the Kro'ka's motivations and fears, how a universe without time worked and the Divergence itself.
 
-***** CANCEL [#E] 64. The Next Life
-CLOSED: [2021-04-13 Tue 09:11]
+***** CANCEL [#E] 64. The Next Life :bilibili:
 :PROPERTIES:
 :rating:   6.7
 :END:
+
+【[AI精校字幕][神秘博士广播剧]MR 064 The Next Life-哔哩哔哩】 https://b23.tv/BV1KKK3z6Emt
 
 **** MR part3 :scripted:2CD:
 ***** 3QTR [#C] 72. Terror Firma :Davros:D2021_09_dr:
@@ -273,25 +280,27 @@ CLOSED: [2021-03-22 Mon 22:31]
 :rating:   8.4
 :END:
 
-**** 2DONE [#A] 153 Silver Turk :Mary:Cybermen:plot_yes:已购:
+**** 2DONE [#A] 153 Silver Turk :P2011:Mary:Cybermen:plot_yes:已购:bilibili:
 CLOSED: <2021-03-20 Sat 21:30>
 :PROPERTIES:
 :rating:   8.6
 :END:
 
-**** TODO [#D] 154 - The Witch from the Well
+【【中字】MR153 The Silver Turk 银色的土耳其人 (1/4) 【神秘博士广播剧】【八叔】-哔哩哔哩】 https://b23.tv/BV1DsTezUE84
+
+**** TODO [#D] 154 - The Witch from the Well :Mary:P2011:
 :PROPERTIES:
 :rating:   7.2
 :END:
 
-**** CANCEL [#E] +155 - Army of Death+
+**** CANCEL [#E] +155 - Army of Death+ :P2011:
 CLOSED: [2021-06-04 Fri 07:34]
 :PROPERTIES:
 :rating:   6.8
 :END:
 
 *** with Lucie Miller :Lucie:8da:
-**** 8DA series 1 :scripted:
+**** 8DA series 1 :P2007:scripted:
 ***** HALF [#C] 1.1/1.2 Blood of the Daleks
 :PROPERTIES:
 :rating:   7.8
@@ -458,13 +467,13 @@ CLOSED: [2020-09-27 Sun 18:36]
 CLOSED: [2020-10-30 Fri 18:15]
 
 ***** HALF [#C] 2.2 The White Room (7.6) :Molly:Viyrans:
-***** [#B] 2.3 Time's Horizon (8.4) :Liv:Molly:Master_bald:
-***** DONE [#A] 2.4 Eyes of the Master (8.6) :Liv:Molly:Master_bald:bilibili:D2021_07_extra:
+***** [#B] 2.3 Time's Horizon (8.4) :Liv:Molly:Master_reborn:
+***** DONE [#A] 2.4 Eyes of the Master (8.6) :Liv:Molly:Master_reborn:bilibili:D2021_07_extra:
 CLOSED: <2021-07-16 Fri 16:32>
 
 【【神秘博士广播剧】Dark Eyes 204 - Eyes of the Master 法师之眼-哔哩哔哩】 https://b23.tv/BV1SB4y1v7Bw
 
-**** Dark Eyes vol.3 :Master_bald:Liv:
+**** Dark Eyes vol.3 :Master_reborn:Liv:
 ***** 2DONE [#C] 3.1 The Death of Hope (7.5) :D2021_07_extra:
 CLOSED: [2021-07-27 Tue 23:10]
 
@@ -478,7 +487,7 @@ SCHEDULED: <2021-09-24 Fri>
 **** Dark Eyes vol.4 :Liv:
 ***** DONE [#A] 4.1 A Life in the Day (8.9)
 ***** HALF [#C] 4.2 The Monster of Montmartre (7.8)
-***** 2DONE [#B] 4.3 Master of the Daleks :Master_bald:D2021_10_master:
+***** 2DONE [#B] 4.3 Master of the Daleks :Master_reborn:D2021_10_master:
 CLOSED: <2021-10-28 Thu 14:30>
 
 *** with Liv & Helen :Liv:Helen:
@@ -591,7 +600,7 @@ SCHEDULED: <2024-12-21 Sat>
 
 **** 📂Ravenous
 ***** Ravenous vol.1
-****** READY [#D] 1.1 Their Finest Hour :bilibili:
+****** READY [#D] 1.1 Their Finest Hour :Churchill:WW2:bilibili:
 
 【【神秘博士广播剧汉化】博士与丘吉尔的再次相遇 Ravenous 101 Their Finest Hour-哔哩哔哩】 
 https://b23.tv/BV1L34y1t7oj
@@ -678,7 +687,7 @@ https://b23.tv/BV1HbFVehEH2
 【【神秘博士广播剧】Ravenous 402 Planet of Dust 尘土之星-哔哩哔哩】 
 https://b23.tv/BV1Hu4y127Hb
 
-****** READY [#A] 4.3/4.4 Day of the Master :Master_war:Master_missy:Master_decayed:Master_roberts:bilibili:
+****** READY [#A] 4.3/4.4 Day of the Master :Master_war:Master_missy:Master_decayed:Master_bruce:bilibili:
 :PROPERTIES:
 :rating:   9.3/9.6
 :END:
@@ -690,7 +699,7 @@ https://b23.tv/BV1iz4y1s7He
 
 **** 📂Stranded
 ***** Stranded vol.1
-****** READY [#C] 1.1. Lost Property :bilibili:
+****** READY [#C] 1.1. Lost Property :The_Curator:bilibili:
 
 【【神秘博士广播剧汉化】Stranded 101 Lost Property-哔哩哔哩】 
 https://b23.tv/BV1fR4y1M7Qz
@@ -773,7 +782,7 @@ https://b23.tv/BV15a411y7o8
 ***** [#B] Twenty-Four Doors in December
 ***** [#D] The Empty Man
 ***** [#E] Winter of the Demon
-**** The Stuff of Legend :Charley:Master_bald:Daleks:2CD:P2024_09:
+**** The Stuff of Legend :Charley:Master_reborn:Daleks:2CD:P2024_09:
 **** 📂Deadly Strangers :P2024_12:Charley:Audacity:
 ***** 1. Puccini and the Doctor
 ***** 2. Woman's Day Off
@@ -813,7 +822,10 @@ CLOSED: [2020-09-23 Wed 12:53]
 *** misc :1CD:
 **** BR2 Shada :Romana_2:K9_2:P2003:scripted:
 **** [#D] MR123a. The Company of Friends - Benny's Story :Benny:
-**** [#D] MR123b. The Company of Friends - Fitz's Story
+**** READY [#D] MR123b. The Company of Friends - Fitz's Story :bilibili:
+
+【【神秘博士广播剧/熟肉】MR123b Fitz's Story 菲茨的故事-哔哩哔哩】 https://b23.tv/BV1E8MzzyEPC
+
 **** [#B] SST37 - Tuesday :Harry:
 :PROPERTIES:
 :rating:   8.3
@@ -828,15 +840,20 @@ CLOSED: [2020-09-23 Wed 12:53]
 http://blog.sina.cn/dpool/blog/s/blog_6c7775810101a2hb.html?type=2
 
 ** novels
-*** [#A] Alien Bodies :hanzify:DW2025:
-SCHEDULED: <2024-01-31 Wed>
+*** DONE [#A] Alien Bodies :hanzify:Faction_Paradox:Krotons:
+CLOSED: [2025-05-10 Sat 11:36] SCHEDULED: <2024-01-31 Wed>
 :PROPERTIES:
-:goodreads: 4.2
+:goodreads: 4.18
 :END:
 
 https://isaakfvkampfer.lofter.com/post/1cd1fea1_c3fb6e6
 
 http://blog.sina.cn/dpool/blog/s/blog_6c777581010185u0.html?type=2
+
+*** The Dying Days :Benny:Brigadier:Ice_Warriors:
+:PROPERTIES:
+:goodreads: 4.05
+:END:
 
 ** comics
 *** Radio Times
@@ -1217,7 +1234,6 @@ CLOSED: [2023-09-28 Thu 18:43] SCHEDULED: <2023-09-03 Sun>
 【【神秘博士广播剧汉化】Susan's War 苏珊的战争 102 The Uncertain Shore-哔哩哔哩】
 https://b23.tv/BV1J3411z7uy
 
-
 **** 3QTR [#D] 3. Assets of War :plot_yes:bilibili:P2020_04:DW2023_11_spinoffs:
 CLOSED: [2023-11-19 Sun 19:32] SCHEDULED: <2023-11-26 Sun>
 
@@ -1287,7 +1303,7 @@ SCHEDULED: <2024-05-25 Sat>
 https://b23.tv/BV18R4y1G78S
 
 *** 📂8D Time War vol.4 :Bliss:P2020:scripted:🎧:已购:
-**** 3QTR [#A] 4.1/4.2 The Palindrome [A⁺] :D2021_10_davros:Davros:bilibili:
+**** 3QTR [#A] 4.1/4.2 The Palindrome [A⁺] :Thal:Davros:bilibili:D2021_10_davros:
 CLOSED: [2021-10-25 Mon 08:47]
 :PROPERTIES:
 :rating:   9.2
@@ -1337,7 +1353,7 @@ https://b23.tv/BV1eN4y1C7Kn
 **** 6.2 The Road Untravelled
 **** 6.3 Cass-cade
 **** 6.4 Borrow or Rob
-*** TBR 📂8D Time War vol.7 Uncharted: Pursuit :P2025_06:
+*** 📂8D Time War vol.7 Uncharted: Pursuit :P2025_06:
 **** 7.1 Spoil of War
 **** 7.2 The Tale of Alex
 **** 7.3 See-Saw
@@ -1352,11 +1368,11 @@ CLOSED: [2020-12-17 Thu 19:53]
 *** DONE GTW3.4 Unity
 CLOSED: <2020-12-17 Thu 19:57>
 
-*** _📂Gallifrey: Time War vol.4_ :🎧:
-**** 4.1 Deception
-**** 4.2 Dissolution
-**** 4.3 Beyond
-**** 4.4 Homecoming
+*** _📂Gallifrey: Time War vol.4_ :🎧:P2021:
+**** [#D] 4.1 Deception :Leela:
+**** [#B] 4.2 Dissolution :Narvin:
+**** [#A] 4.3 Beyond :Romana_2:Braxiatel:
+**** [#A] 4.4 Homecoming :Romana_2:Narvin:Leela:
 ** 10. Universe on the brink
 *** _📂Gallifrey: War Room vol.1 Allegiance_ :🎧:P2022_08:
 **** [#B] 1.1 The Last Days of Freme
@@ -1450,7 +1466,7 @@ CLOSED: [2023-06-15 Thu 08:36] SCHEDULED: <2023-06-10 Sat>
 **** HALF [#D] 3.1 - The Keeper of Light :DW2024_02_doctor:
 SCHEDULED: <2024-02-10 Sat>
 
-**** [#E] 3.2 - Temmosus
+**** [#E] 3.2 - Temmosus :Thal:
 **** 3QTR [#B] 3.3 - Rewind :DW2024_Q2b_doctor:
 CLOSED: [2024-05-23 Thu 21:38] SCHEDULED: <2024-05-04 Sat>
 
@@ -1517,6 +1533,7 @@ CLOSED: [2024-08-02 Fri 21:55] SCHEDULED: <2024-07-27 Sat>
 
 【【神秘博士广播剧翻译】战争博士 The War Doctor 202 a thing of guile-哔哩哔哩】 
 https://b23.tv/BV1Cu411f751
+
 **** 3QTR [#A] 2.3 - The Neverwhen :DW2023_12_doctor:bilibili:
 CLOSED: [2023-12-13 Wed 08:37] SCHEDULED: <2023-12-16 Sat>
 :PROPERTIES:
@@ -1525,6 +1542,7 @@ CLOSED: [2023-12-13 Wed 08:37] SCHEDULED: <2023-12-16 Sat>
 
 【【神秘博士广播剧翻译】战争博士 The War Doctor 203 The Neverwhen-哔哩哔哩】 
 https://b23.tv/BV1Tf4y1g7qT
+
 *** 📂The War Doctor vol.3 :scripted:🎧:P2016:已购:plot_cast:
 **** 3QTR [#C] 3.1 - The Shadow Vortex :bilibili:DW2024_Q4b_doctor:
 CLOSED: <2024-12-09 Mon 08:57> SCHEDULED: <2024-12-14 Sat>
@@ -1621,3 +1639,4 @@ In the last days of The Last Great Time War, a single Dalek with only one missio
 https://www.youtube.com/watch?v=GZy-RviKGMs
 
 https://archive.org/details/doctor-who-the-lost-soldier-audio-drama
+

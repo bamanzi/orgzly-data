@@ -553,12 +553,7 @@ https://disk.yandex.ru/d/wvIFTkwIBUEYcw
 - S14 https://disk.yandex.ru/d/5K2nqrFO-rsHwg
 
 *** classic misc
-**** Bonus Releases
-
-- https://mega.nz/#F!RyQE2SSQ!wUYvVCwQHNp7Sexo4kj5KA
-
-- 1-6 https://disk.yandex.ru/d/GK24PCIrKYn3vw
-
+**** TODO Bonus Releases
 **** Special Releases
 
 : https://mega.nz/#F!EmYSwBhR!IkjZRyC-gqOtTQUCA3Nl3g
@@ -580,6 +575,7 @@ https://disk.yandex.ru/d/wvIFTkwIBUEYcw
 - 7.2 https://disk.yandex.ru/d/gNTSMHA8AgpuNw
 - 8.1 https://disk.yandex.ru/d/cuUvozLTBOjzIg
 - 8.2 https://disk.yandex.ru/d/LeRLAmS8idvnHQ
+- 4th Doctor https://disk.yandex.ru/d/Hw5j53JDDpvsVw
 
 **** Novel Adaptations
 
@@ -1086,13 +1082,20 @@ https://mega.nz/#F!VH5DjBwB!6qffo-fvH0xrn1PZWMkRwQ
 
 https://m.vk.com/page-5742320_44484076
 
+https://archive.org/details/bbv-audio-dramas
+
 **** Faction Paradox Protocols
 
 - https://mega.nz/#F!nCRjgQYD!2CRpqA-lgI2piMgwEnYM0Q
 - https://m.vk.com/page-105622878_54128145
 - https://m.vk.com/page-5742320_44218981
+- https://archive.org/details/1-the-eleven-day-empire
 
 *** Magic Bullet Productions
+
+https://archive.org/download/96true
+https://archive.org/download/bbv-audio-dramas/Magic%20Bullet%20Productions/
+
 **** Kaldor City
 
 - https://mega.nz/#F!VH5DjBwB!6qffo-fvH0xrn1PZWMkRwQ
@@ -1112,6 +1115,7 @@ The Minister of Chance is an audio podcast Doctor Who spin-off written and pr
 -  https://mega.nz/#F!VH5DjBwB!6qffo-fvH0xrn1PZWMkRwQ
 - https://m.vk.com/pages?oid=-105622878&p=Radio_Static_Ltd
 - https://archive.org/download/96true/Minister%20of%20Chance/
+- https://archive.org/download/bbv-audio-dramas/Minister%20of%20Chance/
 
 *** Bafflegab Productions
 
@@ -1120,7 +1124,6 @@ The Minister of Chance is an audio podcast Doctor Who spin-off written and pr
 
 https://archive.org/download/96true/Bafflegab%20Productions/
  https://mega.nz/#!7HBRVIqK!JRDHQubcNVGrNrKGvbWxZj3KsRBILOaYa6ob6zra9Qk
-
 
 *** The ArcHive Tapes
 

@@ -21,7 +21,7 @@ CLOSED: [2022-11-19 Sat 18:32] SCHEDULED: <2022-11-02 Wed>
 **** [#C] Mawdryn Undead (7.8) :Nyssa:
 **** CANCEL [#E] Terminus (6.4) :Nyssa:
 **** [#B] Enlightenment (8.1)
-**** CANCEL [#E] The King's Demons (6.6)
+**** CANCEL [#E] The King's Demons (6.6) :Master_tremas:
 *** 20th anniversary special
 **** [#B] The Five Doctors (8.1)
 *** Season 21
@@ -31,7 +31,7 @@ CLOSED: [2022-11-19 Sat 18:32] SCHEDULED: <2022-11-02 Wed>
 **** DONE [#B] Resurrection of the Daleks (7.9)
 CLOSED: <2021-10-05 Tue 20:27>
 
-**** [#C] Planet of Fire (7.5)
+**** [#C] Planet of Fire (7.5) :Master_tremas:
 **** [#A] The Caves of Androzani (8.7)
 ** audio :🎧:
 
@@ -99,7 +99,7 @@ CLOSED: [2025-02-14 Fri 20:43] SCHEDULED: <2025-02-08 Sat>
 :END:
 
 **** CANCEL [#E] 010. Winter for the Adept
-**** 2DONE 015. The Mutant Phase :Daleks:
+**** 2DONE 015. The Mutant Phase :Daleks:Thal:
 CLOSED: [2021-10-23 Sat 20:14]
 
 **** [#D] 026. Primeval
@@ -166,15 +166,15 @@ CLOSED: [2021-06-17 Thu 23:01]
 **** CANCEL [#E] 137. The Whispering Forest
 **** [#D] 138. The Cradle of the Snake :The_Mara:
 **** 📂142. The Demons of Red Lodge and Other Stories :Nyssa:short:
-***** The Demons of Red Lodge
-***** The Entropy Composition
-***** Doing Time
-***** Special Features
-**** [#D] 168. 1001 Nights
-***** [#D] 1001 Nights (7.2)
-***** [#E] The Interplanetarian (6.7)
-***** [#D] Smuggling Tales (7.1)
-***** [#D] My Brother's Keeper (7.4)
+***** [#E] The Demons of Red Lodge
+***** [#F] The Entropy Composition
+***** [#D] Doing Time
+***** [#B] Special Features
+**** [#D] 📂168. 1001 Nights
+***** [#D] 1001 Nights
+***** [#E] The Interplanetarian
+***** [#D] Smuggling Tales
+***** [#D] My Brother's Keeper
 **** 2DONE [#B] 178. 1963: Fanfare for the Common Men (8.2) :plot_yes:D2021_07_dr:
 CLOSED: [2021-07-01 Thu 22:54]
 
@@ -193,32 +193,33 @@ CLOSED: [2021-02-27 Sat 18:02]
 :rating:   8.5
 :END:
 
-*** MR with Nyssa & Tegan :Nyssa:Tegan:scripted:2CD:
-**** 2DONE [#B] 136. Cobwebs :D2021_08_dr:
+*** with Nyssa & Tegan
+**** MR with Nyssa & Tegan :Nyssa:Tegan:scripted:2CD:
+***** 2DONE [#B] 136. Cobwebs :D2021_08_dr:
 CLOSED: <2021-08-01 Sun 00:10>
 :PROPERTIES:
 :rating:   8.1
 :END:
 
-**** CANCEL [#E] 137. The Whispering Forest
-**** [#D] 138. The Cradle of the Snake
-**** [#D] 146. Heroes of Sontar
+***** CANCEL [#E] 137. The Whispering Forest
+***** [#D] 138. The Cradle of the Snake
+***** [#D] 146. Heroes of Sontar
 :PROPERTIES:
 :rating:   7.3
 :END:
 
-**** CANCEL [#E] 147. Kiss of Death
-**** CANCEL [#E] 148. Rat Trap
+***** CANCEL [#E] 147. Kiss of Death
+***** CANCEL [#E] 148. Rat Trap
 CLOSED: [2021-03-22 Mon 23:16]
 :PROPERTIES:
 :rating:   6.7
 :END:
 
-**** 3QTR [#B] 159. The Emerald Tiger (8.2) :plot_yes:DW2023_07_doctor:2buy:
+***** 3QTR [#B] 159. The Emerald Tiger (8.2) :plot_yes:DW2023_07_doctor:2buy:
 CLOSED: <2023-07-07 Fri 20:32> SCHEDULED: <2023-07-05 Wed>
 
-**** [#D] 160. The Jupiter Conjunction (7.3)
-**** HALF [#B] 161. The Butcher of Brisbane (8.0) :plot_yes:DW2024_Q2a_doctor:
+***** [#D] 160. The Jupiter Conjunction (7.3)
+***** HALF [#B] 161. The Butcher of Brisbane (8.0) :plot_yes:DW2024_Q2a_doctor:
 SCHEDULED: <2024-04-06 Sat>
 :PROPERTIES:
 :rating:   8.0
@@ -312,8 +313,12 @@ SCHEDULED: <2022-05-14 Sat>
 **** [#B] CC4.05 - Ringpullworld :1CD:DW2024_Q4a_doctor:
 SCHEDULED: <2024-11-16 Sat>
 
+**** [#D] CC? Freakshow (DWM419)
 *** MR alone :scripted:2CD:
-**** [#C] 047. Omega
+**** READY [#C] 047. Omega :bilibili:
+
+【【神秘博士广播剧熟肉】MR 047 Omega-哔哩哔哩】 https://b23.tv/BV1LB4y1n7kj
+
 **** [#C] 165. The Burning Prince (7.9)
 **** 3QTR [#D] 211. And You Will Obey Me (7.2) :Master_decayed:D2021_11_master:
 CLOSED: <2021-11-19 Fri 17:35> SCHEDULED: <2021-11-13 Sat>
@@ -409,7 +414,7 @@ CLOSED: [2022-11-27 Sun 23:36] SCHEDULED: <2022-11-16 Wed>
 ***** BLOCK [#A] 2. The Auton Infinity :Tegan:Turlough:Brigadier:Master_tremas:Autons:3CD:P2022_09:plot_yes:
 **** 📂2023A. Conflicts of Interests :Nyssa:Tegan:P2023_04:
 ***** [#D] Friendly Fire :1CD:3parts:
-***** [#E] The Edge of the War :1CD:3parts:
+***** CANCEL [#E] The Edge of the War :1CD:3parts:
 **** 📂2023B. In the Night :Nyssa:Tegan:P2023_09:
 ***** READY [#A] 1. Pursuit of the Nightjar :2CD:
 
@@ -462,18 +467,7 @@ CLOSED: [2022-01-14 Fri 15:10]
 ***** My Dinner with Andrew
 ***** The Furies
 **** [#E] VI. Return to the Web Planet :1CD:
-**** X. The Five Companions :1CD:
-**** The Lost Stories
-***** [#B] LS3.1 - The Elite :Nyssa:Tegan:Daleks:2CD:P2011:
-:PROPERTIES:
-:rating:   8.3
-:END:
-
-***** [#E] LS3.2 Hexagora :Nyssa:Tegan:P2011:
-***** [#D] LS3.3 - The Children of Seth :Nyssa:Tegan:2CD:P2011:
-***** [#D] LS5.1 Nightmare Country :P2019:
-***** LS9.1 Genesis of the Cybermen :Adric:Nyssa:Tegan:Cybermen:P2025_03:
-**** [#B] NA12. Goth Opera :Nyssa:Tegan:P2024_07:3CD:
+**** [#C] X. The Five Companions :1CD:Ian:Sara_Kingdom:Steven:Polly:Nyssa:
 *** short trips
 **** [#D] DotD #5 Smoke and Mirrors :Adric:Nyssa:Tegan:1CD:plot_yes:
 **** READY [#E] ST1.5 The Deep :Nyssa:P2010:bilibili:
@@ -549,7 +543,7 @@ part of /Short Trips: Monsters/
 CLOSED: [2022-12-15 Thu 08:21]
 
 **** DONE [#C] Vengeance on Varos (7.7)
-**** DONE [#D] The Mark of the Rani (6.9)
+**** DONE [#D] The Mark of the Rani (6.9) :Master_tremas:The_Rani:
 **** DONE [#C] The Two Doctors (7.5) :2nd_Dr:
 **** DONE [#E] Timelash (5.5)
 CLOSED: <2024-02-20 Tue 20:53>
@@ -591,6 +585,7 @@ http://drwhoguide.com/who_bf09.htm
 
 【【神秘博士广播剧熟肉】MR011 The Apocalypse Element 末日元素-哔哩哔哩】 https://b23.tv/lFiGif9
 
+**** [#D] 22. Bloodtied
 **** 2DONE [#C] 23. Project Twilight :The_Forge:D2021_07_dr:plot_yes:
 CLOSED: [2021-07-15 Thu 14:15]
 :PROPERTIES:
@@ -887,7 +882,7 @@ An excellent standalone romp from one of my favorite EU writers, featuring one o
 
 http://www.drwhoguide.com/who_bf111.htm
 
-**** [#C] 114 Brotherhood of the Daleks
+**** [#C] 114 Brotherhood of the Daleks :Daleks:Thal:
 :PROPERTIES:
 :rating:   7.6
 :END:
@@ -977,7 +972,10 @@ CLOSED: [2022-06-29 Wed 16:22] SCHEDULED: <2022-06-19 Sun>
 **** CANCEL [#E] 246. The Hunting Ground
 *** 6DA :6DA:
 **** special/bonus
-***** [#E] The Ratings War
+***** READY [#E] The Ratings War :bilibili:
+
+【【神秘博士广播剧熟肉】6DA 特别发布01 收视率之战-哔哩哔哩】 https://b23.tv/BV1ZWMUzzEaX
+
 ***** [#D] Real Time :2CD:
 ***** TODO [#C] 33½ - The Maltese Penguin :1CD:Frobisher:
 :PROPERTIES:
@@ -1030,13 +1028,13 @@ animation:
 This anthology marked the 40th anniversary of Baker's debut as the Doctor.
 
 ***** [#D] 1. The Exaltation :Mel:½CD:
-***** [#E] 2. Escape from Holy Island :Peri:1CD:
+***** CANCEL [#E] 2. Escape from Holy Island :Peri:1CD:
 ***** [#C] 3. Sibling Rivalry :Flip:Constance:Sontarans:½CD:
 ***** [#C] 4. Children of the Revolution :Sontarans:1CD:
 ***** [#C] 5. The Thousand Year Thaw :Peri:½CD:
 ***** [#B] 6. The Firstborn :1CD:
 **** 2024B. The Trials of a Time Lord :Peri_older:Mel:P2024_08:3CD:
-**** TBR 2025A. The Cosmos and Mrs Clarke :P2025_05:Constance:
+**** 📂2025A. The Cosmos and Mrs Clarke :P2025_05:Constance:
 ***** 1. The Story Demon
 ***** 2. The Key to Many Worlds
 ***** 3. Inconstancy
@@ -1403,9 +1401,9 @@ CLOSED: <2021-07-09 Fri 14:15>
 **** HALF [#A] 213. The Two Masters (8.8) :P2016:Master:plot_no:bilibili:D2021_12_master:
 SCHEDULED: <2021-12-04 Sat>
 
-【【神秘博士广播剧汉化】The Two Masters 两个法师-哔哩哔哩】https://b23.tv/FjTGsz 
+【【神秘博士广播剧汉化】The Two Masters 两个法师-哔哩哔哩】https://b23.tv/BV1aA411P7U4
 
-**** [#D] 261. The Psychic Circus
+**** [#D] 261. The Psychic Circus :Master_inventor:
 **** [#C] 262. Subterfuge :Churchill:Monk:
 :PROPERTIES:
 :rating:   7.8
@@ -1505,18 +1503,20 @@ CLOSED: [2024-06-29 Sat 19:45] SCHEDULED: <2024-06-05 Wed 09:27>
 需要先看剧集16x01 The Ribos Operation
 
 **** 📂2022B Sullivan and Cross - AWOL :Harry:Naomi:P2022_11:
-***** [#E] 22B.1 London Orbital
-***** [#F] 22B.2 Scream of the Daleks :Daleks:
+***** CANCEL [#E] 22B.1 London Orbital
+***** CANCEL [#F] 22B.2 Scream of the Daleks :Daleks:
 **** 📂2023A Far From Home :P2023_06:Harry:Naomi:
 ***** [#B] 23A.1 Operation Dusk
 ***** [#D] 23A.2 Naomi's Ark
-**** [#F] 2023B. The Last Day 1 :Ace:Mel:Benny:Hex:Master_decayed:P2023_12:3CD:
-**** [#E] 2024A. The Last Day 2 :P2024_06:
-**** 📂2024B The Doctor and Carnacki :P2024_11:
+**** CANCEL [#F] 2023B. The Last Day 1 :Ace:Mel:Benny:Hex:Master_decayed:P2023_12:3CD:
+**** CANCEL [#E] 2024A. The Last Day 2 :P2024_06:
+**** 📂2024B The Doctor and Carnacki :P2024_11:Carnacki:
 ***** 24B.1 The Haunter of the Shore
 ***** 24B.2 The House
 ***** 24B.3 The Institute of Forgotten Souls
-**** TBR 📂2025A. Past Forward :P2025_06:
+**** 📂2025A. Past Forward :P2025_06:Harry:Naomi:
+***** 1. With the Angels :Weeping_Angels:
+***** 2. Catastrophix
 *** misc
 **** [#D] LS2.3 - Thin Ice :Ace:P2011:
 **** HALF [#D] CC7.3 Project: Nirvana :Sally:Lysandra:P2012:plot_cast:DW2023_03_doctor:

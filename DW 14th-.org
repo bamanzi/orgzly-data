@@ -12,7 +12,7 @@
 *** DONE 303. The Giggle :ToyMaker:DW2023_Q4:
     CLOSED: <2024-01-28 Sun 21:37> SCHEDULED: <2024-01-31 Wed>
 
-** comics
+** comics :📚:
 *** DONE Liberation of the Daleks
     CLOSED: [2024-07-26 Fri 13:30]
 
@@ -73,7 +73,7 @@ DWM 584-597
 **** 2x06 The Interstellar Song Contest
 **** 2x07 Wish World
 **** 2x08 The Reality War
-** comics
+** comics :📚:
 *** DWM
 **** Mancopolis (#599-603) :Ruby:
 **** The Hans of Fear (#604-607) :Ruby:
@@ -83,7 +83,42 @@ DWM 584-597
 *** Titan
 **** FCBD 2024
 **** 15D #1-4 Everyone Must Go! :P2024:
+** novels :📔:
+*** Fear Death by Water
 * other doctors
+** Dr. Who
+*** movies
+**** Dr. Who and the Daleks :P1965:
+**** Daleks' Invasion Earth 2150 A.D. :P1966:
+*** comics
+**** Dr. Who and the Daleks :P1966:Dell:
+**** Daleks Versus the Martians :P1996:DWM:
+**** Dr. Who & the Mechonoids :P2022:DWM:
+** Shalka Doctor
+*** tv: Scream of the Shalka :P2003:
+** Meta-Crisis Doctor
+*** DONE [#C] ST8.6 The Siege of Big Ben :Jackie:plot_yes:dw2025_q1b_doctor:
+    CLOSED: [2025-02-19 Wed 20:30] SCHEDULED: <2025-02-22 Sat>
+    :PROPERTIES:
+    :rating:   7.9
+    :END:
+
+*** HALF [#B] ST8.8 - Flight into Hull! :Jackie:plot_cast:dw2025_q1b_maybe:
+    SCHEDULED: <2025-03-29 Sat>
+    :PROPERTIES:
+    :rating:   8.1
+    :END:
+
+(alt 10D + alt Jackie)
+
+** Unbound Doctor
+*** [#B] DWUN2 - Sympathy from the Devil :Master_unbound:
+
+【【神秘博士广播剧熟肉】Unbound: Sympathy for the Devil 怜悯恶魔-哔哩哔哩】 
+https://www.bilibili.com/video/BV1QT41147a8
+
+*** [#B] DWUN8 - Masters of War :Davros:
+** The Curator
 ** Fugitive Doctor
 *** audio
 **** vol.1 Most Wanted :P2025_01:
@@ -99,31 +134,26 @@ DWM 584-597
 
  【【神秘博士广播剧熟肉】Most Wanted 103 The Dimension of Lost Things 失落之物的维度-哔哩哔哩】 https://b23.tv/BV16UAYeFEy8
 
+**** TBR vol.2 Dead or Alive :P2025_07:
+***** 2.1 Flying Solo
+***** 2.2 The Junkyard Loop
+***** 2.3 Hereafter
 *** comics
 **** FCBD 2022 :Titan_Comics:P2022:
 **** Origins (#1-4) :Titan_Comics:
-** Shalka Doctor
-*** tv: Scream of the Shalka :P2003:
-** Unbound Doctor
-** Dr. Who
-*** movies
-**** Dr. Who and the Daleks :P1965:
-**** Daleks' Invasion Earth 2150 A.D. :P1966:
-*** comics
-**** Dr. Who and the Daleks :P1966:Dell:
-**** Daleks Versus the Martians :P1996:DWM:
-**** Dr. Who & the Mechonoids :P2022:DWM:
 ** Doctor Who Unbound :P2003:
 *** [#C] 1. Auld Mortality
-*** 2DONE [#B] DWUN2: Sympathy from the Devil :D2021_06:Master_unbound:
+*** 2DONE [#B] DWUN2: Sympathy from the Devil :Master_unbound:
     CLOSED: [2021-06-17 Thu 23:09]
+
+【【神秘博士广播剧熟肉】Unbound: Sympathy for the Devil 怜悯恶魔-哔哩哔哩】 
+https://www.bilibili.com/video/BV1QT41147a8
 
 *** [#C] 3. Full Fathom Five
 *** [#D] 4. He Jests at Scars...
-*** 3QTR [#A] 5. Deadline :bilibili:plot_cast:DW2024_Q3c_spinoffs:
-    CLOSED: [2024-09-14 Sat 20:44] SCHEDULED: <2024-09-22 Sun>
+*** 3QTR [#A] 5. Deadline :bilibili:plot_cast:
 
-【【神秘博士广播剧翻译】Unbound:Deadline 假如世界上没有博士-哔哩哔哩】 https://b23.tv/tK7WtHA
+【【神秘博士广播剧翻译】Unbound:Deadline 假如世界上没有博士-哔哩哔哩】 https://b23.tv/BV1gc411K7dh
 
 
 自从马丁 班尼斯特第一次遇到博士已经过去了四十年了。那时的他们很不一样。Martin年轻，才华横溢，还是时代评选的十大最有前途作家的第七名。博士神秘，脾气坏，还有点东方味。
@@ -137,10 +167,8 @@ DWM 584-597
 
 *** CANCEL [#F] 6. Exile
 *** [#D] 7. A Storm of Angels
-*** 2DONE [#B] DWUN8 - Masters of War :Davros:D2021_07_extra:D2021_12_extra:week1:
-    CLOSED: [2021-07-27 Tue 23:10] SCHEDULED: <2021-12-03 Fri>
-
-** Unbound: Doctor of War
+*** 2DONE [#B] DWUN8 - Masters of War :Davros:
+** Unbound: Doctor of War :Thal:
 *** READY [#B] 1.1 - Dust Devil :bilibili:
 
 【【神秘博士广播剧汉化】破碎的时间线 Unbound: Doctor of War 101 Dust Devil-哔哩哔哩】 
@@ -164,21 +192,27 @@ https://b23.tv/BV1vT411c72m
 
 https://tardis.wiki/wiki/The_Master/Appearances
 
-** The Master's early life
+** the Master's early life
 
 https://tardis.wiki/wiki/The_Master%27s_early_life
 
-**** [#D] STR1.1 The Toy :Master_early:5th_Dr:Nyssa:P2015:🗣:
-**** FIXME Celestial Intervention - A Gallifreyan Noir (Twelve Angels Weeping 4) :🗣:
-**** FIXME Tempered (Origin Stories #11) :Master_early:Master_missy:🗣:
-*** inventor master :Master_inventor:🎧:
+*** [#D] STR1.1 The Toy :Master_early:5th_Dr:Nyssa:P2015:🗣:
+*** FIXME [#B] Celestial Intervention - A Gallifreyan Noir :🗣:📄:
+
+Twelve Angels Weeping #4
+
+*** FIXME Tempered :Master_early:Master_missy:🗣:📄:
+
+Origin Stories #11
+
+** inventor master :Master_inventor:🎧:
 
 https://tardis.wiki/wiki/The_Master_(The_Destination_Wars)
 
-**** HALF [#C] 1DA1.1 The Destination Wars :plot_yes:
-**** HALF [#D] EA6.1 The Home Guard :2nd_Dr:Jamie:Polly:Ben:plot_half:
-**** 3QTR [#A] 4DA11.1 Blood of the Time Lords :4th_Dr:plot_yes:
-**** [#D] MR261. The Psychic Circus :7th_Dr:
+*** HALF [#C] 1DA1.1 The Destination Wars :plot_yes:
+*** HALF [#D] EA6.1 The Home Guard :2nd_Dr:Jamie:Polly:Ben:plot_half:
+*** 3QTR [#A] 4DA11.1 Blood of the Time Lords :4th_Dr:plot_yes:
+*** [#D] MR261. The Psychic Circus :7th_Dr:
 ** UNIT era :Master_nemesis:
 
 https://tardis.wiki/wiki/The_Master_(Terror_of_the_Autons)
@@ -197,9 +231,24 @@ https://tardis.wiki/wiki/The_Master_(Terror_of_the_Autons)
 
 **** [#B] ST11.3 The Threshold :3rd_Dr:
 *** comics
-**** Character Assassin (DWM311) :P2001:
-**** Doorway to Hell (DWM508-511) :12th_Dr:P2017:
-**** The Heralds of Destruction :Titan_Comics:3rd_Dr:Jo:Brig:P2016:
+**** Character Assassin :P2001:
+
+(DWM311)
+
+**** Doorway to Hell :12th_Dr:P2017:
+
+(DWM508-511)
+
+**** The Heralds of Destruction :Titan_Comics:3rd_Dr:Jo:Brigadier:P2016:
+*** short stories
+**** [#B] Anything You Can Do :🗣:
+
+/Twelve Angels Weeping/ 01
+
+**** Night Flight to Nowhere :🗣:
+
+DW annual 1983
+
 ** Decayed Master
 
 https://tardis.wiki/wiki/Decayed_Master
@@ -219,7 +268,7 @@ https://tardis.wiki/wiki/Decayed_Master
 **** [#A] 8DRAV 4.2 Planet of Dust :8th_Dr:Liv:Helen:
 **** The Light at the End :4th_Dr:5th_Dr:6th_Dr:7th_Dr:8th_Dr:Leela:Nyssa:Peri:Ace:Charley:
 **** 3QTR [#B] CC8.1 Mastermind :Ruth_Matheson:the_Vault:UNIT:
-**** 📂Jago & Litefoot S10 :P2015:
+**** 📂Jago & Litefoot S11 :P2016:
 **** 2DONE [#A] ST8.10 I Am The Master ⭐ :bilibili:🗣:
 
   【【神秘博士广播剧汉化】法师独白，关爱脆皮，人人有责 Short Trips: I am the Master-哔哩哔哩】 https://b23.tv/BV1Hr4y1S7en
@@ -229,10 +278,30 @@ https://tardis.wiki/wiki/Decayed_Master
 
 https://tardis.wiki/wiki/Tremas_Master
 
-*** DONE 6DLA#1 The End of the Line :6th_Dr:Constance:🎧:
-*** [#B] TLV: Lesser Evils :P2020:TLV:🗣:
-*** [#E] STI#8: The Ultimate Poe :6th_Dr:Mel:🗣:
-*** [#E] 6DA2024B. The Trials of a Time Lord :Peri_older:Mel:P2024_08:3CD:Master_tremas:Davros:🎧:
+*** audio :🎧:
+**** DONE 6DLA#1 The End of the Line :6th_Dr:Constance:
+**** [#B] TLV: Lesser Evils :P2020:TLV:🗣:
+**** [#E] STI#8: The Ultimate Poe :6th_Dr:Mel:🗣:
+**** [#E] 6DA2024B. The Trials of a Time Lord :Peri_older:Mel:P2024_08:3CD:Master_tremas:Davros:
+*** short stories :📄:
+**** The Time Savers :🗣:
+
+Doctor Who Annual 1985
+
+In 2024, this story was read by Dan Starkey for The Phaser Aliens & Other Stories.
+
+**** Omegamorphosis :7th_Dr:
+
+in the /Short Trips/ anthology /Short Trips: Destination Prague/
+
+**** A Handful of Stardust :6th_Dr:Peri:
+
+In /Time Trips/
+
+**** A Master of Disguise :Master_tremas:
+
+/I am the Master/ #4
+
 ** Bruce Master :Master_bruce:🎧:
 
 https://tardis.wiki/wiki/The_Master_(The_TV_Movie)
@@ -290,6 +359,10 @@ https://tardis.wiki/wiki/Reborn_Master
 ** Saxon Master
 
 https://tardis.wiki/wiki/Saxon_Master
+
+*** The Night Harvest :Master_saxon:
+
+/I am the Master)/ #5
 
 ** Missy :Master_missy:
 *** audio :🎧:
@@ -413,20 +486,14 @@ https://www.bilibili.com/video/BV1QT41147a8
  https://www.bilibili.com/video/BV1oY41197ms/
 
 *** READY [#A] 8DRAV4.3/4.4 Day of the Master :Master_war:Master_missy:Master_decayed:Master_bruce:bilibili:🎧:
-*** I am The Master :📄:anthology:
+** misc
+*** 📂I am The Master :📄:anthology:
 **** 1. Anger Management :Master_nemesis:
 **** 2. The Dead Travel Fast :Master_decayed:
 **** 3. Missy's Magical Mystery Mission :Master_missy:
 **** 4. A Master of Disguise :Master_tremas:
 **** 5. The Night Harvest :Master_saxon:
 **** 6. The Master and Margarita :Master_spy:
-*** The Unwanted Gift of Prophecy :P2017:
-Myths & Legends #3
-- Saxon Master
-- "UNIT era" Master
-- Tremas Master
-- Missy
-** misc
 *** Scream of the Shalka
 
 https://tardis.wiki/wiki/The_Master_(Scream_of_the_Shalka)
@@ -434,4 +501,10 @@ https://tardis.wiki/wiki/The_Master_(Scream_of_the_Shalka)
 *** [#D] WM8.2 The Shadow Master :🎧:Master_War:
 
 https://tardis.wiki/wiki/Shadow_Master
+
+*** The Creation of Camelot :📄:
+
+DW annual 1984
+
+https://tardis.wiki/wiki/The_Master_(The_Creation_of_Camelot)
 

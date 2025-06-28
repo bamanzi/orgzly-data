@@ -3,7 +3,7 @@
 
 * Torchwood :torchwood:
 ** tv :📺:
-** comics
+** comics :📚:
 *** Torchwood Magazine
 **** The Selkie
 **** Broken
@@ -142,7 +142,7 @@ https://b23.tv/BV1nx411j7T9
 
 ***** CANCEL [#E] +14. The Dollhouse+
       :PROPERTIES:
-      :rating:   6.3
+      :rating:   5.1
       :END:
 
 ***** 3QTR [#B] 15. Corpse Day :Andy:Owen:The_Commitee:DW2023_07_spinoffs:
@@ -184,7 +184,7 @@ LeDuc was a member of Torchwood in the early 1940s.
 
 half scripted https://www.pillowfort.social/posts/563376
 
-***** START [#A] 21. We Always Get Out Alive [A⁺] :Gwen:Rhys:DW2022_09_spinoffs:
+***** HALF [#A] 21. We Always Get Out Alive [A⁺] :Gwen:Rhys:DW2022_09_spinoffs:
       SCHEDULED: <2022-09-26 Mon>
       :PROPERTIES:
       :rating:   9.2
@@ -325,8 +325,8 @@ Sebastian Vaughan is the brightest, newest recruit to Torchwood. He's come fro
       :rating:   9.1
       :END:
 
-***** HALF [#B] 41. Red Base :Andy:plot_cast:DW2024_Q3a_spinoffs:
-      SCHEDULED: <2024-06-30 Sun>
+***** 2DONE [#B] 41. Red Base :Andy:plot_cast:DW2024_Q3a_spinoffs:
+      CLOSED: [2025-05-07 Wed 16:58] SCHEDULED: <2024-06-30 Sun>
       :PROPERTIES:
       :rating:   8.1
       :END:
@@ -378,10 +378,10 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
       :rating:   8.8
       :END:
 
-***** 3QTR [#D] 47. Drive :Tosh:DW2022_11_spinoffs:
+***** 3QTR [#C] 47. Drive :Tosh:DW2022_11_spinoffs:
       CLOSED: [2022-11-14 Mon 09:35] SCHEDULED: <2022-11-09 Wed>
       :PROPERTIES:
-      :rating:   7.3
+      :rating:   7.5
       :END:
 
 ***** 3QTR [#B] 48. Lease of Life :Owen:D2022_05_spinoffs:
@@ -881,21 +881,21 @@ https://tardis.fandom.com/wiki/Parasite_(audio_story)
 **** TW Soho #4: Ascension :P2024_07:
 * River Song :River:
 ** prose
+*** [#A] The Ruby's Curse :P2021:
+    :PROPERTIES:
+    :goodreads: 4.16
+    :END:
+
 *** DONE [#A] The Legends of River Song 瑞文·宋传奇 :P2016:己购:
     CLOSED: [2020-09-27 Sun 21:07]
     :PROPERTIES:
     :goodreads: 3.97
     :END:
 
-*** DONE [#C] novel: Angel's Kiss
+*** DONE [#C] Angel's Kiss
     CLOSED: <2020-09-24 Thu 21:08>
     :PROPERTIES:
     :goodreads: 3.7
-    :END:
-
-*** [#A] The Ruby's Curse :P2021:
-    :PROPERTIES:
-    :goodreads: 4.2
     :END:
 
 ** audio :🎧:
@@ -904,17 +904,17 @@ https://tardis.fandom.com/wiki/Parasite_(audio_story)
 ***** DONE [#E] 1.1 The Boundless Sea (6.6) :bilibili:
       CLOSED: <2020-09-12 Sat 21:11>
 
-【【神秘博士广播剧】The Diary of River Song 101 The Boundless Sea 无垠之海-哔哩哔哩】 https://b23.tv/j9Mtlpe
+【【神秘博士广播剧】The Diary of River Song 101 The Boundless Sea 无垠之海-哔哩哔哩】 https://b23.tv/BV1qa4y1g7Y6
 
 ***** DONE [#C] 1.2 I Went to a Marvellous Party (7.2) :bilibili:
       CLOSED: <2020-09-15 Tue 21:11>
 
-【【神秘博士广播剧】The Dairy of River Song 102 I Went to a Marvellous Party 我参加了个超棒的派对-哔哩哔哩】 https://b23.tv/onVG8Eh
+【【神秘博士广播剧】The Dairy of River Song 102 I Went to a Marvellous Party 我参加了个超棒的派对-哔哩哔哩】 https://b23.tv/BV1Lx4y1o7mS
 
 ***** 2DONE [#B] 1.3 Signs (8.0) :bilibili:
       CLOSED: <2020-09-18 Fri 21:11>
 
-【【神秘博士广播剧】The Dairy of River Song 103 Signs 蛛丝马迹-哔哩哔哩】 https://b23.tv/wujwoEt
+【【神秘博士广播剧】The Dairy of River Song 103 Signs 蛛丝马迹-哔哩哔哩】 https://b23.tv/BV1Lp4y1N7cs
 
 ***** DONE [#B] 1.4 The Rulers of the Universe (8.4) :8th_Dr:
       CLOSED: [2020-09-21 Mon 21:06]
@@ -983,7 +983,7 @@ Professor Jemima Still has picked up a signal from an impossible source and ta
 
 But their mission is about to unleash hell upon the universe…
 
-***** START [#C] 4.2 - Kings of Infinite Space :DW2024_Q4a_spinoffs:
+***** HALF [#C] 4.2 - Kings of Infinite Space :DW2024_Q4a_spinoffs:
       SCHEDULED: <2024-11-03 Sun>
       :PROPERTIES:
       :rating:   7.7
@@ -1020,7 +1020,7 @@ With the Discordia on their tail, River and her friends run for their lives 
 
 Beevers Master
 
-***** 3QTR [#C] 5.3 The Lifeboat and the Deathboat :Master_roberts:plot_yes:D2021_09_extra:plot_yes:bilibili:
+***** 3QTR [#C] 5.3 The Lifeboat and the Deathboat :Master_bruce:plot_yes:D2021_09_extra:plot_yes:bilibili:
       SCHEDULED: <2021-09-21 Tue>
       :PROPERTIES:
       :rating:   7.7
@@ -1065,7 +1065,10 @@ Roberts Master
       SCHEDULED: <2025-06-01 Sun>
       :PROPERTIES:
       :rating:   8.9
+      :difficulty: H-
       :END:
+
+难度：较高，因为有很多法庭上的专业名词
 
 ***** [#D] 7.4 Carnival of Angels :plot_yes:
       :PROPERTIES:
@@ -1125,7 +1128,7 @@ Roberts Master
 ***** 1.2 Fate & Fatality
 ***** 1.3 The Black Hours
 ***** 1.4 Book of the Dead
-**** DLRS2: Ace and Tegan :Ace:Tegan:P2025_03
+**** DLRS2: Ace and Tegan :Tegan:Ace:P2025_03:
 ***** 2.1 Castaways
 ***** 2.2 Driftwood
 ***** 2.3 Dead Rising
@@ -1156,7 +1159,7 @@ Roberts Master
 *** [#D] 3.1 Dead Men's Tales                  (7.3)
 *** [#D] 3.2 The Man at the End of the Garden  (7.4)
 *** [#B] 3.3 Swan Song                         (8.2)
-*** [#C] 3.4 Chronoclasm                       (7.9)
+*** [#C] 3.4 Chronoclasm                       (7.9) :Tesla:
 ** J&L series 4 :P2012:6th_Dr:
 *** START [#C] 4.1 - Jago in Love (7.6)
 *** START [#C] 4.2 - Beautiful Things (7.9)
@@ -1325,8 +1328,10 @@ Roberts Master
     :PROPERTIES:
     :rating:   7.6
     :END:
+
 【神秘博士广播剧熟肉】Gallifrey 101 武器的选择-Weapon of Choice
 https://www.bilibili.com/video/BV11y421h7vR
+
 *** 3QTR [#C] 1.2 Square One :D2021_09_extra:overdue:bilibili:
     CLOSED: [2021-11-03 Wed 21:05] SCHEDULED: <2021-11-03 Wed>
     :PROPERTIES:
@@ -1372,23 +1377,31 @@ https://www.bilibili.com/video/BV1F8DYYFEnQ
 
 【[AI字幕][神秘博士广播剧]Gallifrey 202 Spirit-哔哩哔哩】 https://b23.tv/BV18QjSzUE8k
 
-*** 3QTR [#B] 2.3 - Pandora :D2022_02_spinoffs:
+*** 3QTR [#B] 2.3 - Pandora :D2022_02_spinoffs:bilibili:
     CLOSED: [2022-02-12 Sat 15:45] SCHEDULED: <2022-02-16 Wed>
     :PROPERTIES:
     :rating:   8.4
     :END:
 
-*** 3QTR [#C] 2.4 - Insurgency :D2022_02_spinoffs:
+【[AI字幕][神秘博士广播剧]Gallifrey 203 Pandora-哔哩哔哩】 https://b23.tv/BV1mET2zGEL6
+
+*** 3QTR [#C] 2.4 - Insurgency :D2022_02_spinoffs:bilibili:
     CLOSED: [2022-03-29 Tue 21:39] SCHEDULED: <2022-02-28 Mon>
     :PROPERTIES:
     :rating:   7.6
     :END:
 
-*** 3QTR [#B] 2.5 - Imperiatrix :D2022_03_spinoffs:week3:
+【[AI字幕][神秘博士广播剧]Gallifrey 204 Insurgency-哔哩哔哩】 https://b23.tv/BV1kfMxz7Ex2
+
+*** 3QTR [#B] 2.5 - Imperiatrix :2CD:D2022_03_spinoffs:bilibili:
     CLOSED: [2022-06-27 Mon 18:16] SCHEDULED: <2022-03-12 Sat>
     :PROPERTIES:
     :rating:   8.4
     :END:
+
+【[AI字幕][神秘博士广播剧]Gallifrey 205 Imperiatrix Part 1-哔哩哔哩】 https://b23.tv/BV1KqKDzQEpz
+
+【[AI字幕][神秘博士广播剧]Gallifrey 205 Imperiatrix Part 2-哔哩哔哩】 https://b23.tv/BV1PLKiz6EWm
 
 ** series 3 :P2006:plot_yes:
 *** HALF [#B] 3.1 - Fractures (8.0) :DW2022_07_spinoffs:
@@ -1902,7 +1915,7 @@ https://www.bilibili.com/video/BV1QT41147a8
      CLOSED: <2021-11-01 Mon 19:54>
 
 *** audio :🎧:
-**** I, Davros :plot_yes_dwg:
+**** I, Davros :Thal:plot_yes_dwg:
 ***** HALF [#A] 1. Innocence
       SCHEDULED: <2021-12-05 Sun>
       :PROPERTIES:
@@ -2273,7 +2286,7 @@ rating 8.7/8.3
 *** [#B] special: Dominion :7th_Dr:Klein:Ace:Master_bald:P2012:
 ** UNIT: Brave New World
 
-Brave New World was a subseries of the UNIT audio series produced by Big Finish Productions. Beginning in 2022, it focused on the exploits of UNIT under the command of /Winifred Bambera/ (TV: Battlefield) along with her new team: /Sergeant Jean-Paul Savarin/ and /Dr Louise Rix/.
+/Brave New World/ was a subseries of the UNIT audio series produced by Big Finish Productions. Beginning in 2022, it focused on the exploits of UNIT under the command of /Winifred Bambera/ (TV: Battlefield) along with her new team: /Sergeant Jean-Paul Savarin/ and /Dr Louise Rix/.
 
 *** 📂Seabird One :P2022_07:
 **** [#D] 1.1 Rogue State
@@ -2283,7 +2296,10 @@ Brave New World was a subseries of the UNIT audio series produced by Big Fin
 **** [#D] 2.1 The Frequency
 **** [#E] 2.2 Haunt
 **** [#E] 2.3 The Last Line of Defence
-*** TBR 📂Fractures :P2025_06:
+*** 📂Fractures :P2025_06:
+**** 3.1 Kaiju
+**** 3.2 Debrief
+**** 3.3 Shatterpoint
 ** #Ruth_Matheson :Ruth_Matheson:
 *** 3QTR [#C] CC6.1 Tales From the Vault :Ruth_Matheson:UNIT:Jo:Romana_1:Zoe:Steven:1st_Dr:2nd_Dr:3rd_Dr:4th_Dr:the_Vault:plot_yes:DW2023_04_spinoffs:
     CLOSED: <2023-04-18 Tue 08:56> SCHEDULED: <2023-04-09 Sun>
@@ -2555,7 +2571,12 @@ http://www.drwhoguide.com/kaldor03.htm
 ** audio :🎧:
 *** PG: Heritage 1 :P2019:
 **** [#D] (Eight of March #3) Inside Every Warrior (7.2)
-**** [#D] 1.1 - The Cars That Ate London! (7.2)
+**** [#D] 1.1 - The Cars That Ate London! (7.2) :bilibili:
+
+【The Paternoster Gang - The Cars that Ate London! (Full Audio Episode) Doctor Who-哔哩哔哩】 https://b23.tv/BV1pg4y1677N
+
+外挂字幕
+
 **** HALF [#B] 1.2 - A Photograph to Remember :DW2023_12_spinoffs:plot_cast:
      SCHEDULED: <2023-12-10 Sun>
      :PROPERTIES:
@@ -2572,7 +2593,7 @@ http://www.drwhoguide.com/kaldor03.htm
      :rating:   6.8
      :END:
 
-**** 3QTR [#C] 2.2 - The Screaming Ceiling :DW2022_11_spinoffs:
+**** 3QTR [#C] 2.2 - The Screaming Ceiling :Carnacki:DW2022_11_spinoffs:
      CLOSED: [2022-11-20 Sun 19:43] SCHEDULED: <2022-11-20 Sun>
      :PROPERTIES:
      :rating:   7.6
@@ -2722,9 +2743,9 @@ http://www.drwhoguide.com/kaldor03.htm
 *** [#C] TNCM 2.3 - My Enemy's Enemy (7.5)
 *** [#E] TNCM 2.4 - Time of the Intelligence (6.5) :great_intelligence:
 ** The New Counter-Measures: Series 3
-*** [#C] 3.1. The Hollow King (7.5) :P2019:
-*** [#D] 3.2. The Movellan Manoeuvre (7.4) :P2020:
-*** [#D] 3.3. The Dalek Gambit (7.3) :2020:
+*** [#C] 3.1. The Hollow King :P2019:
+*** [#D] 3.2. The Movellan Manoeuvre :P2020:Movellan:
+*** [#D] 3.3. The Dalek Gambit :P2020:Movellan:
 * Faction Paradox :Faction_Paradox:
 ** audio
 *** 📂The Faction Paradox Protocols (BBV 2001-2004) :scripted:Justine:Eliza:
@@ -2760,8 +2781,21 @@ https://doctorwho.guide/paradox_a01.htm
 *** 📂Hellscape Season 1 :P2022:
 *** 📂Hellscape Season 2 :P2023:
 ** novels
+*** DONE [#A] 8DA06. Alien Bodies 外星遗体 :hanzify:Faction_Paradox:Krotons:
+    CLOSED: [2025-05-10 Sat 11:36]
+    :PROPERTIES:
+    :goodreads: 4.2
+    :END:
+
+https://isaakfvkampfer.lofter.com/post/1cd1fea1_c3fb6e6
+
+http://blog.sina.cn/dpool/blog/s/blog_6c777581010185u0.html?type=2
+
 *** Mad Norwegian Press (2004-2006)
 **** The Book of the War
+
+https://archive.org/details/faction-paradox-the-book-of-the-war
+
 *** Obverse Books (2013-)
 * P.R.O.B.E
 ** video :📺:Liz:
@@ -2867,6 +2901,16 @@ https://doctorwho.guide/sj_06.htm
 *** DONE A Girl's Best Friend :P1981:
     CLOSED: [2024-07-15 Mon 20:32]
 
+** Space Security Service
+*** vol.1 The Voord in London :P2025_06:Anya:Mark_7:
+**** 1.1 The Voord in London :Voord:
+**** 1.2 The Thal from G.R.A.C.E :Thal:
+**** 1.3 Allegiance
+** Smith & Sullivan :Sarah:Harry:
+*** TBR vol.1 Reunited :P2025_07:
+**** 1.1 The Caller
+**** 1.2 Union of the Snake
+**** 1.3 Blood Type
 ** (^)
 *** UNIT
 *** Bernice Summerfield
@@ -2907,7 +2951,6 @@ https://doctorwho.guide/sj_06.htm
      :END:
 
 /Really if I had to boil this story down in a sentence, it would be "Winston Churchill can't find happiness amidst all the excitement of the VE celebration so he goes undercover as a bank manager and is then promptly captured by a bounty hunter and does some stuff and then we cut to credits."/
-
 
 ** Tales from New Earth :P2018:
 *** START [#D] 1.1 Escape From New New York (7.3) :D2022_05_spinoffs:
@@ -2963,16 +3006,17 @@ https://doctorwho.guide/sj_06.htm
 **** 3.4 Reboot
 ** Rose Tyler - The Dimension Cannon :Rose:
 *** RTDC vol.1 :P2019:
-**** 3QTR [#A] 1.1 - The Endless Night       (8.3) :D2022_06_spinoffs:
+**** 3QTR [#B] 1.1 - The Endless Night :D2022_06_spinoffs:bilibili:
      CLOSED: <2022-06-11 Sat 22:40> SCHEDULED: <2022-06-04 Sat>
 
-【【机翻】长达三小时！Rose Tyler 的广播剧（文本在评论）-哔哩哔哩】 https://b23.tv/BV1hwJuzrEbg
+【（机器听写）【神秘博士广播剧】Rose Tyler - The Dimension Cannon-哔哩哔哩】 https://b23.tv/BV1iR4y1479q
 
-
-**** 3QTR [#C] 1.2 - The Flood               (7.6) :D2022_06_spinoffs:
+**** 3QTR [#C] 1.2 - The Flood :D2022_06_spinoffs:bilibili:
      CLOSED: <2022-06-23 Thu 19:09> SCHEDULED: <2022-06-25 Sat>
 
-**** 3QTR [#D] 1.3 - Ghost Machines   (7.5) :DW2022_07_spinoffs:bilibili:
+【（机器听写）【神秘博士广播剧】Rose Tyler - The Dimension Cannon-哔哩哔哩】 https://b23.tv/BV1iR4y1479q
+
+**** 3QTR [#D] 1.3 - Ghost Machines :DW2022_07_spinoffs:bilibili:
      CLOSED: [2022-07-15 Fri 05:40] SCHEDULED: <2022-07-10 Sun>
 
 【【神秘博士广播剧熟肉】The Dimension Cannon 103 Ghost Machines 幽灵机器-哔哩哔哩】 https://b23.tv/iSSh5YP
@@ -3009,6 +3053,7 @@ https://doctorwho.guide/sj_06.htm
      :END:
 
 【【神秘博士广播剧熟肉】The Dimension Cannon 203 The Rogue Planet 流浪行星-哔哩哔哩】 https://b23.tv/BV1Hs4y187XU
+
 *** 📂RTDC vol.3 Trapped :P2023_09:
 **** READY [#E] 3.1 Sink or Swim :bilibili:
 
@@ -3021,6 +3066,7 @@ https://doctorwho.guide/sj_06.htm
 **** READY [#B] 3.3 The Good Samaritan :bilibili:
 
 【【神秘博士广播剧熟肉】The Dimension Cannon 303 The Good Samaritan 好撒玛利亚人-哔哩哔哩】 https://b23.tv/BV16j421Q7hs
+
 ** Donna Nobel - Kidnapped :Donna:P2020:
 
 From Donna's perspective, the anthology is set after /Forest of the Dead/.

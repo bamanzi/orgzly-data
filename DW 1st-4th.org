@@ -5,7 +5,7 @@
 ** tv :📺:
 *** Season 1 :1963:
 **** DONE [#D] An Unearthly Child
-**** DONE [#C] The Daleks :Daleks:
+**** DONE [#C] The Daleks :Daleks:Thal:
 **** DONE [#D] The Edge of Destruction
 **** [#D] /Marco Polo/ :missing:
 
@@ -38,11 +38,13 @@ CLOSED: [2021-06-21 Mon 06:13]
 
 **** DONE [#C] The Time Meddler :Monk:
 *** Season 3 :1965:
-**** [#E] /Galaxy 4/ :missing:
+**** [#E] /Galaxy 4/ :missing:animated:
 
-Episode 2, 4 missing.
+Episode 1, 2, 4 missing.
 
-**** DONE [#D] Mission to the Unknown :animated:missing:srt_full:
+The story was released on DVD, Blu-Ray and Limited Edition Steelbook on 15 November 2021, with all four episodes animated in both black-and-white and colour, including the surviving episode three.
+
+**** DONE [#D] Mission to the Unknown :animated:missing:
 **** [#C] /The Myth Makers/ :missing:
 **** DONE [#B] The Daleks' Master Plan :daleks:missing:
 **** [#C] /The Massacre/ :missing:
@@ -65,6 +67,22 @@ CLOSED: [2024-01-03 Wed 21:56] SCHEDULED: <2023-11-30 Thu>
 Episode 4 missing (but animated in 2013).
 
 ** audio :🎧:
+*** with Susan
+**** [#D] CC5.6 Quinnis
+**** [#C] CC8.2 The Alchemists :Susan:
+**** [#D] CC9.1 The Sleeping Blood
+**** CC15.2 Stardust and Ashes :Susan:
+**** READY [#D] DotD01. Hunters of Earth :1st_Dr:Susan:bilibili:
+
+【【神秘博士有声书】Destiny of The Doctor-Hunters of Earth 地球猎手-哔哩哔哩】 
+https://b23.tv/BV1o7aUeqE2F
+
+肖迪奇，伦敦，1963年，Beatles打败了John Smith和Common One成为第一，卫星也发射上天。视线回到地球，一件奇怪的事情发生了，煤山原本平静的孩子开始变得躁动，一个大盗偷窃了很多设备
+
+Susan Foremen学生和他的爷爷，神秘的博士，只想要一个平静的生活，她想要融入Cedric等其他学生的圈子中，但是有什么事情在街道和托特尔路的爆炸现场发生
+
+年轻人变得很危险。他们的任务就是消灭不同的人或者是外星人，Susan的平静生活被打破了，自己被别人注意到了，她发现自己处于一个被孤立的状态，突然一场追捕开始了，她和她的爷爷成为了狩猎对象
+
 *** with Susan, Ian, Barbara :Ian:Susan:Barbara:
 **** HALF [#C] EA1.1 Domain of the Voord :Susan:Ian:Barbara:Voord:plot_yes:DW2024_Q2a_doctor:
 SCHEDULED: <2024-03-09 Sat>
@@ -73,7 +91,7 @@ SCHEDULED: <2024-03-09 Sat>
 
 **** CANCEL [#F] EA3.1 The Age of Endurance
 **** 1DA vol.1-5 :Susan:Ian:Barbara:2CD:1DA:
-***** HALF [#C] 1.1 The Destination Wars :Master_early:D2021_08_dr:plot_yes:
+***** HALF [#C] 1.1 The Destination Wars :Master_inventor:D2021_08_dr:plot_yes:
 :PROPERTIES:
 :rating:   7.8
 :END:
@@ -98,7 +116,7 @@ SCHEDULED: <2022-03-12 Sat>
 :rating:   8.5
 :END:
 
-***** [#E] +4.1 Return to Skaro+ (6.6)
+***** [#E] +4.1 Return to Skaro+ (6.6) :Thal:
 ***** [#B] 4.2 Last of the Romanovs :P2020:plot_yes:
 :PROPERTIES:
 :rating:   8.1
@@ -147,6 +165,7 @@ CLOSED: [2023-09-13 Wed 09:05] SCHEDULED: <2023-09-16 Sat>
 **** ST
 ***** [#B] ST1.1 Rise and Fall
 ***** [#C] ST8.9 - A Small Semblance of Home :Susan:Ian:Barbara:
+***** [#A] SST43 Home Again, Home Again :P2020:
 *** with Ian, Barbara, Vicki
 **** [#D] EA1.2 The Doctor's Tale :Ian:Barbara:Vicki:plot_yes:
 :PROPERTIES:
@@ -232,6 +251,7 @@ CLOSED: [2022-05-27 Fri 11:35] SCHEDULED: <2022-05-28 Sat>
 
 ***** [#D] CC11.1 Fields of Terror :Vicki:Steven:scripted:
 ***** NEXT [#A] CC11.2 Across the Darkened City :Steven:Vicki:Daleks:scripted:
+**** ST25.1 - A Forest of All Seasons
 *** with Steven & Sara
 **** DONE [#C] EA1.4 - An Ordinary Life :Steven:Sara_Kingdom:plot_yes:DW2022_07_doctor:
 CLOSED: [2022-07-31 Sun 08:14] SCHEDULED: <2022-07-16 Sat>
@@ -314,6 +334,7 @@ Old Steven 3/3
 :END:
 
 **** 1DA2025. The Living Darkness :P2025_01:3CD:scripted:
+**** ST25.2 - The Doctor's Gambit.
 *** with Dodo
 **** 📂1DA2022. The Outlaws :Dodo:P2022_04:plot_yes:
 ***** 3QTR [#D] 22.1 The Outlaws :Dodo:Monk:P2022_04:DW2023_03_doctor:
@@ -342,8 +363,7 @@ CLOSED: <2023-05-30 Tue 21:34> SCHEDULED: <2023-05-27 Sat>
 
 **** [#D] CC13.4 - The Crumbling Magician :Ben:Polly:
 **** ST7.5 - Falling :Ben:Polly:
-*** misc
-*** CC :🗣:
+*** CC misc :🗣:
 **** [#C] CC7.1 - The Time Museum :Ian:
 :PROPERTIES:
 :rating:   7.7
@@ -363,7 +383,6 @@ https://tardis.wiki/wiki/The_First_Doctor:_Volume_Two
 https://tardis.wiki/wiki/The_First_Doctor:_Volume_Three
 
 **** 📂CC15. First Doctor - Volume Four :P2025_04:
-***** CC15.2 Stardust and Ashes :Susan:
 *** short trips
 
 /Short Trips: Companions/ #13
@@ -400,7 +419,7 @@ https://www.bilibili.com/read/cv16029955
 * 2nd Doctor :2nd_Dr:
 ** tv :📺:
 *** Season 4 :1967:
-**** DONE [#A] 04x03 The Power of the Daleks :daleks:animated:srt_full:missing:P2016:P1966:
+**** DONE [#A] 04x03 The Power of the Daleks :Daleks:animated:missing:P2016:P1966:
 :PROPERTIES:
 :rating:   8.4
 :END:
@@ -418,7 +437,7 @@ SCHEDULED: <2023-12-30 Sat>
 :rating:   6.1
 :END:
 
-**** DONE [#C] 04x06 The Moonbase :Cybermen:fan_edit:animated:P2014:P1966:
+**** DONE [#C] 04x06 The Moonbase :Cybermen:missing:animated:P2014:P1966:
 :PROPERTIES:
 :rating:   7.3
 :END:
@@ -427,36 +446,36 @@ Episode 1, 3 missing (but animated in 2014)
 
 赛博人第二次出场
 
-**** DONE [#C] 04x07 The Macra Terror :animated:srt_full:2019:
+**** DONE [#C] 04x07 The Macra Terror :missing:animated:P2019:
 :PROPERTIES:
 :rating:   7.2
 :END:
 
-**** DONE [#C] 04x08 The Faceless Ones :animated:srt_full:
+**** DONE [#C] 04x08 The Faceless Ones :animated:
 :PROPERTIES:
 :rating:   7.4
 :END:
 
 Episode 2,4,5,6 missing (but all episodes animated in 2020)
 
-**** DONE [#A] 04x09 The Evil of the Daleks :daleks:srt_full:missing:Victoria:
+**** DONE [#A] 04x09 The Evil of the Daleks :Daleks:Victoria:missing:animated:
 :PROPERTIES:
 :rating:   8.4
 :END:
 
 *** Season 5 :1968:
-**** DONE 05x01 The Tomb of the Cybermen :Cybermen:fan_edit:
+**** DONE 05x01 The Tomb of the Cybermen :Cybermen:
 **** DONE [#C] /The Abominable Snowmen/ (7.5) :great_intelligence:missing:animated:DW2022_10_extra:
 SCHEDULED: <2022-11-02 Wed>
 
 Great Intelligence (大智慧/超级智能）和 Yeti (雪怪）的首次出场
 
-**** DONE 05x03 The Ice Warriros :ice_warriors:srt_full:
+**** DONE 05x03 The Ice Warriros :ice_warriors:missing:animated:
 
 寒冰勇士首次出场。不过真正的敌人其实是”电脑“(或者说把一切留给电脑来决定的这种心态）
 
-**** DONE 05x04 The Enemy of the World :fan_edit:
-**** DONE 05x05 The Web of Fear :great_intelligence:fan_edit:
+**** DONE 05x04 The Enemy of the World
+**** DONE 05x05 The Web of Fear :great_intelligence:missing:animated:
 
 Great Intelligence (大智慧/超级智能）和 Yeti (雪怪）的第二次出场。
 
@@ -469,20 +488,18 @@ CLOSED: <2021-03-25 Thu 07:29>
 
 2020年BBC制作发行了动画重制版本
 
-**** DONE /05x07 The Wheel in Space/ :Cybermen:missing:Zoe:
+**** DONE /05x07 The Wheel in Space/ :Cybermen:Zoe:missing:
 CLOSED: [2023-01-02 Mon 09:01]
 
-(总6集, 仅幸存3、6，未做中文字幕)
-
 *** Season 6 :1969:Zoe:
-**** DONE 06x01 The Dominators :fan_edit:
-**** DONE 06x02 The Mind Robber :fan_edit:
-**** DONE 06x03 The Invasion (of the Cybermen) :Cybermen:fan_edit:
+**** DONE 06x01 The Dominators
+**** DONE 06x02 The Mind Robber :land_of_fiction:
+**** DONE 06x03 The Invasion (of the Cybermen) :Cybermen:missing:animated:
 
 UNIT 和 准将第一次正式出场
 
-**** DONE 06x04 The Krotons :fan_edit:Krotons:
-**** DONE 06x05 The Seeds of Death :ice_warriors:fan_edit:
+**** DONE 06x04 The Krotons :Krotons:
+**** DONE 06x05 The Seeds of Death :ice_warriors:
 
 寒冰勇士第二次出场, 试图入侵地球
 
@@ -501,7 +518,7 @@ UNIT 和 准将第一次正式出场
 士先被逼迫替CIA执行任务（一个典型特征是他可以控制住TARDIS的目的地了），
 后又被流放于地球。详细说明：https://tardis.fandom.com/wiki/Season_6B
 
-**** DONE The Dark Tower :fan_edit:
+**** DONE The Dark Tower
 
 《五个博士》的二爷部分（粉丝剪辑版本）
 
@@ -509,7 +526,7 @@ UNIT 和 准将第一次正式出场
 
 目前仅做了英文字幕
 
-**** DONE The Dastari Experiment :fan_edit:
+**** DONE The Dastari Experiment
 
 《两个博士》的二爷部分（粉丝剪辑版本）
 
@@ -571,7 +588,7 @@ CLOSED: [2025-05-27 Tue 21:41] SCHEDULED: <2025-05-31 Sat>
 :rating:   6.7
 :END:
 
-***** HALF [#D] EA6.1 The Home Guard :Jamie:Polly:Ben:Master_early:D2021_12_master:plot_half:week3:
+***** HALF [#D] EA6.1 The Home Guard :Jamie:Polly:Ben:Master_inventor:D2021_12_master:plot_half:
 SCHEDULED: <2021-12-15 Wed>
 :PROPERTIES:
 :rating:   7.1
@@ -811,18 +828,26 @@ https://goingthroughdoctorwho.blogspot.com/2017/07/freedom-of-daleks-2014-review
 
 https://thetimescales.com/Story/story.php?audioid=7519
 
-**** MA03. Her House
-**** HALF [#B] MA04. The Patient Menace :Cybermen:DW2022_12_doctor:
+***** MA03. Her House
+***** HALF [#B] MA04. The Patient Menace :Cybermen:DW2022_12_doctor:
 SCHEDULED: <2022-12-14 Wed>
 
 mp3val -f 
 
 https://m.vk.com/wall-205306392_48
 
-**** HALF [#C] MA05. The Enemy of the Universe :DW2024_Q3b_doctor:
+***** HALF [#C] MA05. The Enemy of the Universe :DW2024_Q3b_doctor:
 SCHEDULED: <2024-08-10 Sat>
 
 https://m.vk.com/wall-205306392_49
+
+**** Servants of Eve :Jamie:Zoe:
+
+by On Fleak Productions
+
+https://onfleakproductions.bandcamp.com/album/doctor-who-servants-of-eve
+
+https://archive.org/details/on-fleak-productions-doctor-who-servants-of-eve-02-servants-of-eve
 
 ** short stories
 *** TODO Save Yourself :Season6B:CIA:
@@ -930,7 +955,7 @@ CLOSED: [2020-07-20 Mon 20:15]
 :rating:   7.6
 :END:
 
-**** DONE [#C] 10x04 - Planet of the Daleks
+**** DONE [#C] 10x04 - Planet of the Daleks :Thal:
 :PROPERTIES:
 :rating:   7.5
 :END:
@@ -1024,10 +1049,9 @@ CLOSED: [2022-02-12 Sat 15:45] SCHEDULED: <2022-02-13 Sun>
 :rating:   7.1
 :END:
 
-***** CANCEL [#D] 8.1 Conspiracy in Space :Jo:draconians:plot_yes:DW2023_05_doctor:
-SCHEDULED: <2023-05-27 Sat>
+***** [#D] 8.1 Conspiracy in Space :Jo:draconians:plot_yes:
 :PROPERTIES:
-:rating:   7.1
+:rating:   7.0
 :END:
 
 ***** 📂2023A. The Return of Jo Jones :Jo:P2023_02:1CD:P2023_02:
@@ -1074,8 +1098,11 @@ SCHEDULED: <2022-03-30 Wed>
 :rating:   8.1
 :END:
 
-***** [#D] CC6.0b - The Mists of Time (7.4)
-***** [#D] CC6.4 - The Many Deaths of Jo Grant (7.2)
+***** [#D] CC6.0b - The Mists of Time
+
+DWM411
+
+***** [#D] CC6.4 - The Many Deaths of Jo Grant
 **** ST
 ***** [#A] STS 39 Still Life :Jo:P2019:
 :PROPERTIES:
@@ -1251,13 +1278,16 @@ https://onfleakproductions.bandcamp.com/album/doctor-who-red-moon
 
 https://archive.org/details/on-fleak-productions-doctor-who-red-moon
 
-**** The Final Game
+**** FIXME [#A] The Final Game :Sarah:Master_nemesis:Brigadier:
 
 by Studio Seven
 
 https://dwexpanded.fandom.com/wiki/The_Final_Game
 
 https://m.youtube.com/playlist?list=PLGGaEVk48nE8wZ3SKuAtthHcBfL2h97LW
+(7 episodes)
+
+based on novella  https://web.archive.org/web/20160910100315/http://doctorwhoreviews.altervista.org:80/Fan%20Fiction_files/The%20Final%20Game.pdf
 
 ** short stories
 *** DW audio annual :🗣:
@@ -1305,7 +1335,7 @@ https://tieba.baidu.com/p/2440478286?see_lz=1&pn=0&
 **** DONE 12x01 Robot (7.4)
 **** DONE 12x02 The Ark in Space (8.2)
 **** DONE 12x03 - The Sontaran Experiment (7.4)
-**** DONE 12x04 Genesis of the Daleks :Best_of_Tom_Baker:
+**** DONE 12x04 Genesis of the Daleks :Thal:Best_of_Tom_Baker:
 **** DONE [#D] 12x05 - Revenge of the Cybermen †7.3)
 CLOSED: [2020-06-26 Fri 18:54]
 
@@ -1354,10 +1384,12 @@ CLOSED: [2024-02-04 Sun 20:31] SCHEDULED: <2024-01-27 Sat>
 **** CANCEL [#E] 15x05 - Underworld †6.2)
 **** DONE [#C] 15x06 - The Invasion of Time †7.7)
 *** S16 :Romana_1:
-**** DONE [#C] 16x01 - The Ribos Operation (7.7) :DW2023_Q4:
+**** DONE [#C] 16x01 - The Ribos Operation (7.7)
 CLOSED: [2023-12-12 Tue 08:15] SCHEDULED: <2023-12-17 Sun>
 
-**** [#C] 16x02 - The Pirate Planet (7.9)
+**** DONE [#C] 16x02 - The Pirate Planet (7.9)
+CLOSED: [2025-05-19 Mon 20:11]
+
 **** [#C] 16x03 - The Stones of Blood (7.8) 吸血之石
 **** [#C] 16x04 - The Androids of Tara (7.6)
 **** [#E] 16x05 - The Power of Kroll (6.9)
@@ -1365,11 +1397,11 @@ CLOSED: [2023-12-12 Tue 08:15] SCHEDULED: <2023-12-17 Sun>
 CLOSED: [2021-06-01 Tue 21:03]
 
 *** S17 :Romana_2:
-**** DONE [#C] 17x01 Destiny of the Daleks :Daleks:Davros:
+**** DONE [#C] 17x01 Destiny of the Daleks :Daleks:Davros:Skaro:Movellan:
 CLOSED: [2021-09-26 Sun 08:19]
 
 **** DONE [#A] 17x02 City of Death
-**** [#D] 17x03 The Creature from the Pit
+**** TODO [#D] 17x03 The Creature from the Pit
 **** [#D] 17x04 Nightmare of Eden
 **** [#E] 17x05 The Horns of Nimon
 **** DONE 17x06 Shada
@@ -1546,18 +1578,18 @@ CLOSED: <2025-06-15 Sun 15:21> SCHEDULED: <2025-06-14 Sat>
 **** 📂4DA series 14
 ***** 14.1 The Hellwood Inheritance :P2025_03:2CD:
 ***** 14.2 The Memory Thieves :P2025_03:
-***** 14.3 The Remains of Kaerula
-***** 14.4 The Ruins of Kaerula
-***** 14.5 Cry of the Banshee
+***** 14.3 The Remains of Kaerula :P2025_06:
+***** 14.4 The Ruins of Kaerula :P2025_06:
+***** 14.5 Cry of the Banshee :P2025_06:
 **** 📂BF PHP
 
 Philip Hinchcliffe Presents
 
-***** [#B] 1.1 The Ghosts of Gralstead :plot_no:3CD:
-***** [#C] 1.2 - The Devil's Armada :2CD:
-***** [#D] 2. The Genesis Chamber :3CD:
-***** [#D] 3. The Helm of Awe :3CD:
-***** [#D] 4. The God of Phantoms :3CD:
+***** [#B] 1.1 The Ghosts of Gralstead :plot_no:3CD:P2014:
+***** [#C] 1.2 - The Devil's Armada :2CD:P2014:
+***** [#D] 2. The Genesis Chamber :3CD:P2016:
+***** [#D] 3. The Helm of Awe :3CD:P2017:
+***** [#D] 4. The God of Phantoms :3CD:P2021:
 **** misc
 ***** DONE [#C] Night of the Stormcrow (Bonus Release #11) :P2014:scripted:1CD:
 CLOSED: [2020-07-29 Wed 23:02]
@@ -1604,6 +1636,7 @@ CLOSED: <2021-05-27 Thu 21:05>
 
 【【神秘博士广播剧熟肉】四任博士冒险201 阿姨事件 Auntie Matter-哔哩哔哩】 https://b23.tv/BV1bAjpzqEE5
 
+***** CANCEL [#E] 2.2 The Sands of Life / 2.3 War Against the Laan
 ***** 3QTR [#B] 2.4 The Justice of Jalxar :Jago:Litefoot:D2022_01_doctor:
 CLOSED: [2022-01-18 Tue 15:32] SCHEDULED: <2022-01-30 Sun>
 :PROPERTIES:
@@ -1630,11 +1663,11 @@ CLOSED: <2023-04-22 Sat 21:12> SCHEDULED: <2023-04-12 Wed 08:15>
 
 【【神秘博士广播剧熟肉】The Fourth Doctor's Adventure 502-The Labyrinth of Buda Castle 布达迷宫城堡-哔哩哔哩】 https://b23.tv/BV1h7RnYWExw
 
-***** [#C] 5.3 - The Paradox Planet (7.6) / 5.4 - Legacy of Death (7.6) :bilibili:
+***** READY [#C] 5.3 - The Paradox Planet (7.6) / 5.4 - Legacy of Death (7.6) :bilibili:
 
 【【神秘博士广播剧熟肉】The Fourth Doctor's Adventure The Paradox Planet-悖论星球-哔哩哔哩】 https://b23.tv/BV1WrLkzJEWZ
 
-
+【【神秘博士广播剧熟肉】The Fourth Doctor's Adventure Legacy of Death-逝者的遗产-哔哩哔哩】 https://b23.tv/BV1ThMbzPERn
 
 ***** 2DONE [#A] 5.6 The Trouble with Drax (8.7) :D2021_06:
 CLOSED: <2021-07-01 Thu 16:39>
@@ -1653,7 +1686,7 @@ CLOSED: [2023-12-15 Fri 21:28] SCHEDULED: <2023-12-09 Sat>
 :END:
 
 ***** [#D] 6.6 - Subterranea (7.1)
-***** READY [#E] 6.7 The Movellan Grave :bilibili:
+***** READY [#E] 6.7 The Movellan Grave :Movellan:bilibili:
 
 【【神秘博士广播剧熟肉】The Fourth Doctor Adventure 607 The Movellan Grave - Movellan之墓-哔哩哔哩】 https://b23.tv/BV1RB97YEEEk
 
@@ -1743,19 +1776,19 @@ SCHEDULED: <2022-04-23 Sat>
 :END:
 
 **** 📂4DA series 11 :P2022:2CD:
-***** 3QTR [#A] 11.1 Blood of the Time Lords :Master_early:plot_yes:DW2023_10_doctor:
+***** 3QTR [#A] 11.1 Blood of the Time Lords :Master_inventor:plot_yes:DW2023_10_doctor:
 CLOSED: <2023-10-18 Wed 12:57> SCHEDULED: <2023-10-14 Sat>
 
 ***** 3QTR [#C] 11.2 The Ravencliff Witch :Margaret:plot_yes:DW2023_02_doctor:
 CLOSED: <2023-02-10 Fri 14:02> SCHEDULED: <2023-02-06 Mon 08:42>
 
-***** [#C] 11.3 The Dreams of Avaice :The_Nine:
+***** [#C] 11.3 The Dreams of Avarice :The_Nine:
 ***** [#D] 11.4 Shellshock
 ***** HALF [#D] 11.5 Peake Season :1CD:DW2024_Q2b_doctor:
 SCHEDULED: <2024-05-11 Sat>
 
 **** 📂4DA series 13 :Harry:Naomi:
-***** [#D] 13.1 The Storm of the Sea Devils :P2024_03:
+***** [#D] 13.1 The Storm of the Sea Devils :P2024_03:2CD:
 ***** [#D] 13.2 Worlds Beyond :P2024_03:
 ***** [#E] 13.3 Matryoshka :ToyMaker:P2024_06:
 ***** [#E] 13.4 The Caged Assassin :P2024_06:
@@ -1834,7 +1867,7 @@ https://b23.tv/BV1iZ4y1y7bS
 **** CANCEL [#E] ST9.8 #HarrySullivan †6.8
 CLOSED: [2020-06-25 Thu 21:56]
 
-*** 📂BBC 4DA :scripted:DA:BBC:
+*** 📂The Nest Cottage Chronicles :scripted:BBC:
 **** 📂Hornets' Nest
 **** 📂Demon Quest
 ***** HALF [#C] 2.1. The Relics of Time :plot_yes:DW2022_10_doctor:
@@ -1859,6 +1892,7 @@ SCHEDULED: <2022-10-29 Sat>
 :rating:   8.1
 :END:
 
+**** 📂Baker's End :P2016:
 *** BBC :📄:
 **** [#C] The Thing From the Sea :Wibbsey:P2018:1CD:
 **** CANCEL [#F] The Winged Coven :Wibbsey:Yates:P2019:1CD:
@@ -1914,6 +1948,9 @@ CLOSED: [2020-07-19 Sun 23:00]
 分享了#Doctor Who Audiobooks#的节目《2019-01 - Scratchman (BBC Physical Audio - Baker)》:  http://music.163.com/program/2065027170/89011524/?userid=88763995  (来自@网易云音乐)
 
 *** [#C] The Romance of Crime (MA06) 3.88 :Romana_2:
+
+有 BF 改编的广播剧
+
 *** TODO [#C] The English Way Of Death (MA20) 3.87 :Romana_2:
 *** TODO [#A] The Well Mannered War (MA33) :Romana_2:
 :PROPERTIES:
@@ -2023,7 +2060,7 @@ https://b23.tv/BV1Yf421z7Q3
 *** [#C] 9. Night of the Whisper :9th_Dr:Rose:Jack:
 *** [#D] 10. Death's Deal :10th_Dr:Donna:
 *** [#D] 11. The Time Machine :11th_Dr:Alice:
-** Classic Doctors, New Monsters
+** Classic Doctors, New Monsters :CDNM:
 *** CDNM vol.1 :P2016:scripted:
 **** DONE [#B] 1.1 Fallen Angels :5th_Dr:
 **** DONE [#B] 1.2 Judoon in Chains :6th_Dr:Judoon:
@@ -2065,7 +2102,7 @@ https://b23.tv/BV1CA411Q7Yk
 
 ** The Legacy of Time :P2019:
 *** HALF [#B] Lies in Ruins :8th_Dr:River:Benny:
-*** CANCEL [#E] The Split Infinitive :7th_Dr:Ace:CM:
+*** CANCEL [#E] The Split Infinitive :7th_Dr:Ace:ICMG:
 *** DONE [#A] The Sacrifice of Jo Grant :3rd_Dr:Jo:UNIT_new:Brigadier:
 *** [#D] Relative Time :5th_Dr:Jenny:the_Nine:
 *** [#C] The Avenues of Possibility :6th_Dr:Charley:
@@ -2171,13 +2208,17 @@ https://b23.tv/BV1eE6FYwEYz
 *** 30. Agent of the Daleks :1st_Dr:Steven:Vicki:P2025_03:
 ** Sontarans vs Rutans
 *** [#C] 1. The Battle of Giant's Causeway :8th_Dr:Charley:Crizz:P2024_01:
-*** [#B] 2. The Children of the Future :3rd_Dr:Sarah:P2024_02:
+*** 3QTR [#B] 2. The Children of the Future :3rd_Dr:Sarah:P2024_02:
 *** [#D] 3. Born to Die :6th_Dr:Charley:P2024_03:
 *** [#C] 4. In Name Only :War_Dr:P2024_04:
-** Dark Gallifrey
-*** Morbius
-*** The War Master ↗ :Master_War:Unbound_Dr:War_Dr:Benny:Captain_John:P2024_08:
-*** Missy :P2025_05:7th_Dr:
+** Dark Gallifrey :3CD:
+*** [#B] Morbius :P2024_06:
+
+【【神秘博士广播剧熟肉】Dark Gallifrey 101 Morbius Part 1-哔哩哔哩】 https://b23.tv/BV1rRM2z6E89
+
+*** The War Master ↗ :Master_War:Unbound_Dr:War_Dr:Benny:Captain_John:P2024_09:
+*** Missy :P2025_06:7th_Dr:
+*** TBR Master! :P2025_09:
 * multi-doctor story
 ** tv
 *** 10x01 The Three Doctors :P1973:
@@ -2196,7 +2237,7 @@ https://b23.tv/BV1Pq4we6E16
 :rating:   7.4
 :END:
 
-*** The Light at the End :P2013:
+*** The Light at the End :4th_Dr:5th_Dr:6th_Dr:7th_Dr:8th_Dr:Leela:Nyssa:Peri:Ace:Charley:P2013:
 *** MR275. The End of the Beginning :5th_Dr:6th_Dr:7th_Dr:8th_Dr:P2021:
 *** 3QTR [#A] NA11. Cold Fusion :5th_Dr:7th_Dr:Roz:Chris:Adric:Nyssa:Tegan:plot_simple:DW2024_Q3c_doctor:
 CLOSED: <2024-09-25 Wed 22:22> SCHEDULED: <2024-09-07 Sat>

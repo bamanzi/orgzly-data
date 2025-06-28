@@ -1,4 +1,4 @@
-#+TODO: TODO NEXT READY BLOCK TBR START HALF 3QTR | 2DONE DONE CANCEL
+#+TODO: TODO NEXT READY BLOCK TBR START FIXME HALF 3QTR | 2DONE DONE CANCEL
 #+PRIORITIES: A F C
 
 * 9th Doctor :9th_Dr:
@@ -39,13 +39,13 @@ SCHEDULED: <2021-11-04 Thu>
 :rating:   6.6
 :END:
 
-***** 3QTR [#A] 3.3 Monsters in Metropolis :Cybermen:plot_yes:bilibili:D2022_05_doctor:
-CLOSED: [2022-05-19 Thu 08:51] SCHEDULED: <2022-05-07 Sat>
+***** DONE [#A] 3.3 Monsters in Metropolis :Cybermen:plot_yes:bilibili:D2022_05_doctor:
+CLOSED: [2025-06-21 Sat 20:42] SCHEDULED: <2022-05-07 Sat>
 :PROPERTIES:
 :rating:   8.8
 :END:
 
-【【广播剧翻译】大都会电影里出现了赛博人？九任冒险集 303 Monsters in Metropolis-哔哩哔哩】 https://b23.tv/ayLbFDQ
+【【广播剧翻译】大都会电影里出现了赛博人？九任冒险集 303 Monsters in Metropolis-哔哩哔哩】 https://b23.tv/BV1S44y1j74U
 
 **** 📂S1.4 Old Friends :P2021_11:
 ***** HALF [#C] 4.1 Fond Farewell :bilibili:DW2022_09_doctor:
@@ -62,10 +62,10 @@ CLOSED: [2022-07-03 Sun 17:05] SCHEDULED: <2022-07-06 Wed>
 :rating:   8.2
 :END:
 
-【【广播剧翻译】九叔与老年准将 九任冒险集：老朋友 402 Way of the Burryman-哔哩哔哩】 https://b23.tv/HfJuOyt
+【【广播剧翻译】九叔与老年准将 九任冒险集：老朋友 402 Way of the Burryman-哔哩哔哩】 https://b23.tv/BV1fS4y1u7n1
 
-***** START [#B] 4.3 The Forth Generation :Cybermen:plot_yes:DW2022_07_doctor:
-SCHEDULED: <2022-07-23 Sat>
+***** START [#B] 4.3 The Forth Generation :Cybermen:plot_yes:dw2025_q3a_doctor:
+SCHEDULED: <2025-08-09 Sat>
 :PROPERTIES:
 :rating:   8.2
 :END:
@@ -100,7 +100,6 @@ SCHEDULED: <2023-09-24 Sun>
 ***** [#E] +7.1 The Seas of Titan+
 ***** START [#D] 7.2 Lay Down Your Arms :DW2024_Q4a_doctor:
 SCHEDULED: <2024-10-26 Sat>
-
 
 贝尔塔·冯·苏特纳（Bertha von Suttner1843年6月9日—1914年6月21日），生於布拉格，逝世於维也纳，是一位奥地利小说家，激进的和平主义者。
 
@@ -159,12 +158,12 @@ CLOSED: <2025-01-10 Fri 09:28> SCHEDULED: <2025-01-11 Sat>
 【【神秘博士广播剧熟肉】Buried Threats 309 Ancient History 古代史-哔哩哔哩】 https://b23.tv/BV1geSEYTEvn
 
 **** 📂S3.4 Star-Crossed :River:P2024_05:
-***** READY 3.4.1 Swipe Right :bilibili:
+***** READY [#B] 3.4.1 Swipe Right :bilibili:
 
 【【神秘博士广播剧熟肉】Star-Crossed 310 Swipe Right 右划-哔哩哔哩】 https://b23.tv/BV1Nrq4YnEwL
 
-***** 3.4.2 Face of the Apocalypse
-***** READY 3.4.3 Archipelago :bilibili:
+***** [#E] 3.4.2 Face of the Apocalypse
+***** READY [#A] 3.4.3 Archipelago :bilibili:
 
 【【神秘博士广播剧熟肉】Star-Crossed 312 Archipelago 群岛-哔哩哔哩】 https://b23.tv/BV159FJeBEFK
 
@@ -213,6 +212,10 @@ SCHEDULED: <2022-11-29 Tue>
 
 https://m.youtube.com/playlist?list=PLNV15iMem-R9lJVaFL6zgdkm54UYm722d
 
+***** 0.1 The Ninth To Remember
+
+https://m.youtube.com/watch?v=3idUQ9rfBzs&list=PLNV15iMem-R9lJVaFL6zgdkm54UYm722d&index=9&pp=iAQB
+
 ***** 0.2 A Town Called Malus 🗣 :bilibili:
 
 【【机翻】广播剧：一个叫做马卢斯的小镇（文本见评论）-哔哩哔哩】 https://b23.tv/BV1EkECzEEbN
@@ -245,32 +248,36 @@ The Doctor is forced to confront one of the most infamous crime families. Bribes
 The Doctor - Pete Walsh 
 Kayla - Isabella McCarthy Somerville
 
-**** A Town Called Malus 🗣 :bilibili:
+**** The End of The World is Nigh :P2021:
 
-【【机翻】广播剧：一个叫做马卢斯的小镇（文本见评论）-哔哩哔哩】 https://b23.tv/BV1EkECzEEbN
+https://m.youtube.com/watch?v=JqPt55KYAQg&pp=ygUcVGhlIEVuZCBPZiBUaGUgV29ybGQgSXMgTmlnaNIHCQm-CQGHKiGM7w%3D%3D
 
+Studio Severn Productions presents 'The End of the world is nigh', the first chronicle of our Ninth Doctor Adventures. Newly regenerated and still struggling to come to terms with it, our Doctor has no time to heal as he is thrown immediately into a chase through time to track down a dangerous gang of alien criminals intent on harvesting the human race for their own gains. In the midst of this story, The Doctor is joined by a new companion but is everything as exciting onboard the TARDIS as the Doctor believes. Find out more by listening and subscribing to our Youtube channel.
+
+
+https://archive.org/details/doctor-who-the-end-of-the-world-is-nigh
 
 ** novels :📔:
-*** DONE [#B] The Stealers of Dreams 盗梦贼 :Rose:Jack:己购:DW2023_Q4:ebook:
+*** DONE [#B] Only Human 人类唯一 :已购:Rose:Jack:ebook:
+:PROPERTIES:
+:rating:   3.9
+:END:
+
+*** DONE [#C] The Stealers of Dreams 盗梦贼 :Rose:Jack:己购:DW2023_Q4:ebook:
 CLOSED: <2023-12-17 Sun 22:44> SCHEDULED: <2023-12-31 Sun>
 :PROPERTIES:
 :rating:   3.88
 :todo:     buy
 :END:
 
-*** DONE [#B] Only Human 人类唯一 :已购:Rose:Jack:ebook:
-:PROPERTIES:
-:rating:   3.9
-:END:
-
-*** [#C] Winner Takes All 赢家通吃
+*** CANCEL [#D] Winner Takes All 赢家通吃
 :PROPERTIES:
 :goodreads: 3.78
 :END:
 
-*** [#E] Deviant Strain 异种
+*** CANCEL [#E] Deviant Strain 异种
 :PROPERTIES:
-:rating:   3.6
+:rating:   3.56
 :END:
 
 ** short stories
@@ -580,6 +587,7 @@ CLOSED: [2023-12-29 Fri 22:07] SCHEDULED: <2023-12-23 Sat>
 ***** READY [#D] 3. Quantum of Axos :Ace:bilibili:
 
 【【神秘博士广播剧熟肉】Tenth Doctor Classic Companions 103 Quantum of Axos 阿克索斯量子-哔哩哔哩】 https://b23.tv/BV1DR4y1Q72p
+
 *** Dalek Universe :P2021:Anya:Mark_7:
 **** _intro
 
@@ -657,7 +665,7 @@ SCHEDULED: <2023-06-23 Fri 19:51>
 
 【【神秘博士广播剧熟肉】Dalek Universe 203 The Lost 迷失-哔哩哔哩】 https://b23.tv/HGdsWE3
 
-**** Dalek Universe 3
+**** Dalek Universe 3 :Movellan:
 
 第三季是The Destiny of the Daleks 的续作
 
@@ -716,20 +724,6 @@ SCHEDULED: <2024-03-02 Sat>
 ***** [#F] 2.4 The Siege of Shackleton
 *** CC & ST :🗣:
 **** [#D] DotD #10 Death's Deal :Donna:
-**** DONE [#C] ST8.6 The Siege of Big Ben :Jackie:plot_yes:dw2025_q1b_doctor:
-CLOSED: [2025-02-19 Wed 20:30] SCHEDULED: <2025-02-22 Sat>
-:PROPERTIES:
-:rating:   7.9
-:END:
-
-**** HALF [#B] ST8.8 - Flight into Hull! :Jackie:plot_cast:dw2025_q1b_maybe:
-SCHEDULED: <2025-03-29 Sat>
-:PROPERTIES:
-:rating:   8.1
-:END:
-
-(alt 10D + alt Jackie)
-
 **** DONE [#D] ST10.X Free Speech :scripted:bilibili:DW2023_10_doctor:
 CLOSED: [2023-10-07 Sat 19:46] SCHEDULED: <2023-10-14 Sat>
 
@@ -790,8 +784,9 @@ https://www.youtube.com/watch?v=L8p0fF0Rv6g
 
 【【机翻熟肉】广播剧：小10和Donna在鬼屋的惊魂一夜（文本见评论）-哔哩哔哩】 https://b23.tv/BV1xQEvzgEfT
 
-**** READY At King's Reclusion :Cybermen:
+https://archive.org/details/doctor-who-the-lost-stories-century-house
 
+**** READY At King's Reclusion :Cybermen:
 
 https://m.youtube.com/watch?v=3mA9DlRV-GA&pp=0gcJCdgAo7VqN5tD
 
@@ -801,10 +796,10 @@ https://m.youtube.com/watch?v=3mA9DlRV-GA&pp=0gcJCdgAo7VqN5tD
 *** DONE [#A] Prisoner of the Daleks 戴立克之囚 :已购:ebook:
 CLOSED: <2021-10-16 Sat 10:18>
 :PROPERTIES:
-:rating:   4.1
+:rating:   4.10
 :END:
 
-*** DONE [#B] 美丽的混沌 Beautiful Chaos :已购:ebook:Donna:
+*** DONE [#B] Beautiful Chaos 美丽的混沌 :已购:ebook:Donna:
 :PROPERTIES:
 :rating:   3.95
 :END:
@@ -816,26 +811,31 @@ CLOSED: [2024-07-27 Sat 13:35]
 :todo:     buy
 :END:
 
-*** DONE [#B] The Story of Martha 玛莎的故事 :Martha:Master_saxon:ebook:己购:DW2022_Q4:
+*** DONE [#C] The Story of Martha 玛莎的故事 (3.89) :Martha:Master_saxon:ebook:己购:DW2022_Q4:
 CLOSED: [2022-12-10 Sat 21:48]
 :PROPERTIES:
 :rating:   3.89
-:END:
-
-*** [#B] Martha in the Mirror 镜中玛莎
-:PROPERTIES:
-:goodreads: 3.85
-:END:
-
-*** [#C] Resurrection Cask 复活棺
-:PROPERTIES:
-:goodreads: 3.81
 :END:
 
 *** DONE [#C] Shining Darkness 耀眼的黑暗 :Donna:
 CLOSED: <2022-12-11 Sun>
 :PROPERTIES:
 :rating:   3.84
+:END:
+
+*** [#C] Martha in the Mirror 镜中玛莎
+:PROPERTIES:
+:goodreads: 3.83
+:END:
+
+*** [#C] Resurrection Cask 复活棺
+:PROPERTIES:
+:goodreads: 3.83
+:END:
+
+*** READY [#D] In the Blood :hanzify:
+:PROPERTIES:
+:goodreads: 3.74
 :END:
 
 * 11th Doctor :11th_Dr:
@@ -852,7 +852,7 @@ CLOSED: [2022-07-04 Mon 08:12]
 **** DONE 6x01 The Impossible Astronaut (214a) :Silents:
 CLOSED: <2022-12-16 Fri 22:50>
 
-**** DONE 6x02 Day of the Moon (214b) :Silents:
+**** DONE 6x02 Day of the Moon (214b) :Silents:Area_51:
 CLOSED: <2022-12-17 Sat 23:20>
 
 **** 6x03 The Curse of the Black Spot
@@ -1148,30 +1148,31 @@ SCHEDULED: <2024-01-28 Sun>
 ***** Pay the Piper (DWM468-469) :Clara:
 ***** The Blood of Azrael (DWM470-474) :Clara:
 ** novels :📔:
-*** DONE [#A] 天使之触 Touched by Angles :已购:ebook:
+*** DONE [#A] Touched by Angles 天使之触 :已购:ebook:
 :PROPERTIES:
 :rating:   4.10
 :END:
 
-*** READY [#B] Borrowed Time 时间捕手 (3.98) :已购:
+*** READY [#B] Borrowed Time 时间捕手 :已购:S2026_Q1:
 :PROPERTIES:
 :rating:   3.98
 :END:
 
-*** DONE [#B] The Silent Stars Go By 寂静星辰飞过 (3.95) :已购:ebook:DW2023_Q4:
+*** DONE [#B] The Silent Stars Go By 寂静星辰飞过 :已购:ebook:DW2023_Q4:
 CLOSED: [2024-01-20 Sat 21:58] SCHEDULED: <2024-01-07 Sun>
 :PROPERTIES:
 :rating:   3.95
 :END:
 
-*** [#B] Dead of Winter 死亡寒冬 (3.85)
+*** TODO [#C] Paradox Lost 悖论迷失 (3.88)
 :PROPERTIES:
-:goodreads: 3.85
+:goodreads: 3.88
+:douban:   9.0
 :END:
 
-*** [#B] Paradox Lost 悖论迷失
+*** [#C] Dead of Winter 死亡寒冬
 :PROPERTIES:
-:rating:   3.88
+:goodreads: 3.82
 :END:
 
 *** [#C] Apollo 23 阿波罗23号 :ebook:
@@ -1179,7 +1180,7 @@ CLOSED: [2024-01-20 Sat 21:58] SCHEDULED: <2024-01-07 Sun>
 :rating:   3.81
 :END:
 
-*** [#E] Shroud of Sorrow 噬悲者 :ebook:
+*** CANCEL [#E] Shroud of Sorrow 噬悲者 :ebook:
 :PROPERTIES:
 :rating:   3.65
 :END:
@@ -1442,13 +1443,19 @@ CLOSED: [2024-07-20 Sat 09:47]
 ***** A Confusion of Angels (12DY3 10-13) :Bill:Nardole:
 **** Ghost Stories :P2017:
 ** novels :📔:
-*** DONE [#B] Deep Time 四维深渊 (3.91) :已购:
-CLOSED: <2022-11-06 Sun>
+*** FIXME [#B] Plague City :Bill:Nardole:
 :PROPERTIES:
-:rating:   3.9
+:goodreads: 3.95
 :END:
 
-*** LATER [#B] The Shining Man 闪光的人 (3.87) :己购:S2024_Q4:
+*** DONE [#B] Deep Time 四维深渊 :已购:
+CLOSED: <2022-11-06 Sun>
+:PROPERTIES:
+:goodreads: 3.90
+:douban:   8.4
+:END:
+
+*** TODO [#C] The Shining Man 闪光的人 (3.87) :己购:S2024_Q4:
 :PROPERTIES:
 :rating:   3.87
 :END:
@@ -1482,13 +1489,13 @@ CLOSED: [2020-06-30 Tue 22:52]
 :rating:   4.1
 :END:
 
-**** DONE [#C] 12x4 Nikola Tesla's Night of Terror
+**** DONE [#C] 12x4 Nikola Tesla's Night of Terror :Tesla:
 CLOSED: [2020-07-01 Wed 21:35]
 :PROPERTIES:
 :rating:   6.5
 :END:
 
-**** DONE [#A] 12x5 Fugitive of the Judoon :Fugitive_Dr:
+**** DONE [#A] 12x5 Fugitive of the Judoon :Fugitive_Dr:Judoon:
 CLOSED: [2020-07-09 Thu 22:59]
 :PROPERTIES:
 :rating:   7.6
@@ -1549,7 +1556,7 @@ CLOSED: [2023-12-24 Sun 22:02] SCHEDULED: <2023-12-24 Sun>
 *** 13DA
 **** TBR 1. Vampire Weekend :P2025_07:
 *** fan-made :fan_made:
-**** Running Home
+**** Running Home :P2025_04:
 
 https://m.soundcloud.com/overtonaudios/sets/doctor-who-the-thirteenth
 
@@ -1564,6 +1571,27 @@ https://m.soundcloud.com/overtonaudios/sets/doctor-who-the-thirteenth
 ***** READY 1.3 The Worshippers :bilibili:
 
 【【机翻】保护时间结构！13和时间特工的冒险（文本见评论）-哔哩哔哩】 https://b23.tv/BV1KhEozPEky
+
+**** 13DC vol.1 Then and Back (VocaLAB Productions)
+
+https://vocalabproductions.bandcamp.com/album/doctor-who-the-thirteenth-doctor-chronicles-volume-1-then-and-back-boxset
+
+***** 1.1 High Voltage :Tesla:P2024_05:
+
+- part 1 https://m.youtube.com/watch?v=uuvT5ZeSWlg
+- part 2 https://m.youtube.com/watch?v=L9h6kIAk3YE
+
+**** The March of Mons :WW1:P2021:
+
+https://m.youtube.com/watch?v=41IfcuPmpAU&list=PLepBz_uI2k90NOGnituY08w1AuN82l_Vy&index=18&pp=iAQB
+
+Something is lurking in the shadows of Mons as the TARDIS accidentally lands in the middle of World War I! The British army faces a major threat and the Doctor and Yaz will have to use everything they've got to save them! :o 
+
+**** The Collateral of Ivanhoe :Yaz:P2020:
+
+The Doctor, Yaz, Graham and Ryan decide to take a breather on the recreation planet of Caros Obsono. Once there, they get caught up in an attempted heist at the Ivanhoe bank engineered by a trio of robbers. Can the Doctor keep her reluctant friends and terrified staff at Ivanhoe safe and just what secrets at hiding in the under-belly at Ivanhoe? 
+
+https://m.youtube.com/watch?v=eOQW7n5Wt-U&list=PLepBz_uI2k90NOGnituY08w1AuN82l_Vy&index=46&pp=iAQB
 
 ** comics :📚:
 *** Titan Comics :Titan_Comics:
@@ -1604,7 +1632,7 @@ CLOSED: [2023-12-14 Thu 13:48] SCHEDULED: <2023-12-17 Sun>
 ***** DONE The White Dragon (DWM559-562) :Graham:Yaz:Ryan:DW2023_Q4:
 CLOSED: [2023-12-19 Tue 13:12] SCHEDULED: <2023-12-23 Sat>
 
-***** LATER The Forest Bride (DWM570-571) :Yaz:DW2025:
+***** LATER The Forest Bride (DWM570-571) :Yaz:
 SCHEDULED: <2024-01-07 Sun>
 
 ***** It's Behind You (DWM572) :Yaz:Dan:
@@ -1619,21 +1647,25 @@ DWM579
 DWM580-583
 
 ** novels :📔:
-*** DONE [#B] 小说：美好博士 †3.97 :己购:Graham:Yaz:
+*** DONE [#B] 美好博士 †3.97 :己购:Graham:Yaz:
 CLOSED: [2020-07-05 Sun 17:11]
 :PROPERTIES:
 :rating:   3.98
 :END:
 
-*** TODO [#A] At Childhood’s End :Ace:Graham:Yaz:
+*** FIXME [#B] At Childhood’s End :Ace:Graham:Yaz:
 :PROPERTIES:
 :rating:   4.02
 :END:
 
-*** [#C] Combat Magicks 战斗魔法
-SCHEDULED: <2024-01-13 Sat>
+*** CANCEL [#D] Molten Heart
 :PROPERTIES:
-:goodreads: 3.72
+:goodreads: 3.74
+:END:
+
+*** CANCEL [#D] Combat Magicks 战斗魔法
+:PROPERTIES:
+:goodreads: 3.70
 :END:
 
 ** short stories
@@ -1651,88 +1683,3 @@ https://tieba.baidu.com/p/6592330173
 
 http://tieba.baidu.com/p/6610135518?share=9105&fr=share&see_lz=0&sfc=copy&client_type=2&client_version=11.1.8.2&st=1593736160&unique=58A318B2D019E66209DFAEB93AC228AE
 
-* 14th Doctor :14th_Dr:
-** tv
-*** DONE Destination: Skaro (short) :P2023_11:
-CLOSED: [2023-11-26 Sun 08:15]
-
-*** DONE 301. The Star Beast :P2023_11:DW2023_Q4:
-CLOSED: <2023-12-30 Sat 19:51> SCHEDULED: <2024-01-01 Mon>
-
-*** DONE 302. Wild Blue Yonder :DW2023_Q4:
-CLOSED: [2024-01-21 Sun 12:28] SCHEDULED: <2024-01-07 Sun>
-
-*** DONE 303. The Giggle :ToyMaker:DW2023_Q4:
-CLOSED: <2024-01-28 Sun 21:37> SCHEDULED: <2024-01-31 Wed>
-
-** comics
-*** DONE Liberation of the Daleks
-CLOSED: [2024-07-26 Fri 13:30]
-
-DWM 584-597
-
-*** Untitled (DWM 598) :Donna:hanzify:
-** short stories
-*** Fleeting Faces (Puffin eshort #14) :P2024_09:
-**** Destination: Skaro :Davros:
-**** Under Control
-* 15th Doctor :15th_Dr:
-** tv
-*** DONE [#D] 304. The Church On Ruby Road :Christmas_special:P2023:Ruby:
-CLOSED: [2024-06-08 Sat 15:34]
-
-*** 📂S1 :P2024:Ruby:
-**** DONE [#F] 1x01 Space Babies
-CLOSED: [2024-06-26 Wed 21:57] SCHEDULED: <2024-06-22 Sat>
-
-**** DONE [#E] 1x02 The Devil's Chord
-CLOSED: <2024-06-24 Mon 20:51>
-
-**** DONE [#C] 1x03 Boom
-CLOSED: [2024-06-28 Fri 19:17]
-
-**** DONE [#B] 1x04 73 Yards
-CLOSED: [2024-07-10 Wed 23:28]
-
-**** DONE [#D] 1x05 Dot and Bubble
-CLOSED: [2024-07-20 Sat 10:39]
-
-**** DONE [#D] 1x06 Rogue
-CLOSED: [2025-04-04 Fri 11:17]
-
-**** DONE [#B] 1x07 The Legend of Ruby Sunday :UNIT:Sutekh:Mel:
-CLOSED: [2025-04-12 Sat 10:42]
-
-**** DONE [#E] 1x08 Empire of Death :Sutekh:Mel:
-CLOSED: [2025-04-13 Sun 09:54]
-
-*** DONE [#D] 312. Joy to the World :P2024_12:Christmas_special:
-CLOSED: [2025-04-20 Sun 16:15]
-
-*** 📂S2 (313-) :P2025:Belinda:
-**** DONE 2x01 The Robot Revolution
-CLOSED: [2025-04-26 Sat 09:44]
-
-**** DONE 2x02 Lux
-CLOSED: [2025-05-01 Thu 10:03]
-
-**** DONE 2x03 The Well
-CLOSED: [2025-05-12 Mon 14:58]
-
-**** DONE 2x04 Lucky Day :Ruby:UNIT:
-CLOSED: [2025-05-18 Sun 21:47]
-
-**** 2x05 The Story & the Engine
-**** 2x06 The Interstellar Song Contest
-**** 2x07 Wish World
-**** 2x08 The Reality War
-** comics
-*** DWM
-**** Mancopolis (#599-603) :Ruby:
-**** The Hans of Fear (#604-607) :Ruby:
-**** The Monster Makers (#608-612) :Ruby:
-**** Run (#613)
-**** Dance Till You Drop (#614)
-*** Titan
-**** FCBD 2024
-**** 15D #1-4 Everyone Must Go! :P2024:
