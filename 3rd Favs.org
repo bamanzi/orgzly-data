@@ -246,7 +246,9 @@ CLOSED: [2025-06-07 Sat 22:09]
 *** DONE S1 :P2022:
 CLOSED: <2025-05-05 Mon 14:24>
 
-*** S2 :P2022:
+*** DONE S2 :P2022:
+CLOSED: <2025-06-21 Sat 10:17>
+
 * John le Carré 约翰·勒卡雷
 ** books
 *** [#B] 3. The Spy Who Came In from the Cold 柏林谍影 :Smiley:
@@ -759,4 +761,13 @@ CLOSED: [2025-04-29 Tue 23:40]
 
 *** DONE 9x05
 CLOSED: [2025-05-09 Fri 20:20]
+
+*** DONE 9x06
+CLOSED: [2025-06-21 Sat 23:58]
+
+*** DONE 9x07
+CLOSED: [2025-06-22 Sun 15:15]
+
+*** DONE 9x08
+CLOSED: [2025-06-23 Mon 20:39]
 

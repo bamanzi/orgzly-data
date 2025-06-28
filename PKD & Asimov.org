@@ -24,10 +24,7 @@ https://bladerunner.fandom.com/wiki/Do_Androids_Dream_of_Electric_Sheep%3F_(comi
 
 download: https://www.zipcomic.com/do-androids-dream-of-electric-sheep
 
-**** BLOCK Dust to Dust :Boom:
-:PROPERTIES:
-:todo:     download
-:END:
+**** Dust to Dust :Boom:
 
 prequel to /Do Androids Dream of Electric Sheep/
 
@@ -56,7 +53,7 @@ December 16, 2020 – February 9, 2022
 
 download: https://comics.codes/blade-runner-2029/
 
-**** READY /Blade Runner 2039/ :P2023:S2025_Q1:
+**** READY /Blade Runner 2039/ :P2023:S2026_Q1:
 
 https://comics.codes/blade-runner-2039/
 
@@ -89,15 +86,8 @@ https://bladerunner.fandom.com/wiki/Blade_Runner:_Black_Lotus
 **** DONE S2
 **** DONE S3
 **** DONE S4
-** Total Recall
-*** DONE Total Recall (1990)
-CLOSED: [2023-01-22 Sun 22:12]
-
-*** DONE Total Recall (2012)
-CLOSED: [2023-01-08 Sun 12:19]
-
-** movies
-*** Paycheck （记忆裂痕/致命报酬） :🎦:
+** movies :🎦:
+*** Paycheck （记忆裂痕/致命报酬）
 *** Screamers
 
  改编自短篇 The Second Type
@@ -107,9 +97,16 @@ CLOSED: [2024-12-28 Sat 21:32]
 
 改编自短篇 The Golden Man
 
-** novels :📔:
-*** 译林出版社
-**** DONE [#B] 流吧，我的眼泪 :已购:
+*** Total Recall
+**** DONE Total Recall (1990)
+CLOSED: [2023-01-22 Sun 22:12]
+
+**** DONE Total Recall (2012)
+CLOSED: [2023-01-08 Sun 12:19]
+
+** novels :📔:pkd:
+*** 译林出版社 :ebook:
+**** DONE [#B] 流吧，我的眼泪 (3.91) :已购:
 :PROPERTIES:
 :goodreads: 3.91
 :END:
@@ -119,7 +116,7 @@ CLOSED: [2024-12-28 Sat 21:32]
 :goodreads: 4.08
 :END:
 
-**** DONE [#A] 尤比克 :已购:
+**** DONE 尤比克 :已购:
 :PROPERTIES:
 :goodreads: 4.07
 :END:
@@ -136,18 +133,24 @@ CLOSED: [2024-12-28 Sat 21:32]
 ***** 少数派报告 :anthology:
 ***** 高城堡里的人
 ***** KR-3 之谜 (流吧，我的眼泪)
-***** [#C] 阿尔法卫星上的家族Clans of the Alphane Moon :P1964:
+***** DONE 幻觉（时间脱节） Time Out of Joint :P1959:已购:
+CLOSED: [2023-02-12 Sun 19:44]
+:PROPERTIES:
+:goodreads: 3.86
+:END:
+
+***** 阿尔法卫星上的家族Clans of the Alphane Moon :P1964:
 :PROPERTIES:
 :goodreads: 3.74
 :END:
 
-***** [#C] 火星人的时光倒转 Martian Time-Slip :P1964:
-***** [#B] 末日危机 Now Wait for Last Year :P1966:
-***** [#A] 遮蔽的眼睛 （黑暗扫描仪） :P1977:
+***** 火星人的时光倒转 Martian Time-Slip :P1964:
+***** 末日危机 Now Wait for Last Year :P1966:
+***** 遮蔽的眼睛 （黑暗扫描仪） :P1977:
 
 英国科幻协会奖（BSFA）获奖
 
-***** [#B] ¹瓦利斯 (神圣秘密) :P1981:
+***** ¹瓦利斯 (神圣秘密) :P1981:
 
 菲利普·迪克小说三部曲的第一部。讲述患有精神分裂症的男主角的一次神秘经历。
 
@@ -159,12 +162,6 @@ CLOSED: [2024-12-28 Sat 21:32]
 星云奖提名
 
 《主教的轮回》是三部曲的最后一部（其他两部为《瓦利斯》和《神的入侵》）。小说讲述一位温文尔雅的主教蒂莫西·阿彻的故事。儿子与情妇的自杀痛苦的折磨着他，最终使他踏上了探索基督真实身份的奇异旅途。作品从学术的高度对宗教信仰的种种迷思进行了痛苦的探索，感人至深。
-
-**** DONE [#B] 幻觉（时间脱节） Time Out of Joint :P1959:已购:
-CLOSED: [2023-02-12 Sun 19:44]
-:PROPERTIES:
-:goodreads: 3.86
-:END:
 
 **** [#D] 一个废物艺术家的自白 Confessions of a Crap Artist
 :PROPERTIES:
@@ -222,7 +219,7 @@ CLOSED: [2024-01-07 Sun 10:25]
 :goodreads: 3.78
 :END:
 
-***** NOW [#C] 火星时间穿越 （火星人的时光倒转） Martian Time-Slip :P1964:已购:S2025_Q1:
+***** NOW [#C] 火星时间穿越 （火星人的时光倒转） Martian Time-Slip :P1964:已购:S2026_Q1:
 :PROPERTIES:
 :goodreads: 3.76
 :END:
@@ -237,7 +234,7 @@ CLOSED: [2024-01-07 Sun 10:25]
 :goodreads: 3.65
 :END:
 
-***** DONE [#A] 帕莫·艾德里奇的三处圣痕 The Three Stigmata of Palmer Eldritch :P1965:已购:
+***** DONE [#A] 帕莫·艾德里奇的三处圣痕 The Three Stigmata of Palmer Eldritch (4.01) :P1965:已购:
 CLOSED: [2022-03-06 Sun 11:46]
 :PROPERTIES:
 :douban:   8.5
@@ -255,11 +252,11 @@ CLOSED: [2022-03-06 Sun 11:46]
 
 星云奖提名
 
-***** DONE [#B] 等待去年来临 （末日危机）Now Wait for Last Year :P1966:已购:ebook:
+***** DONE [#B] 等待去年来临 （末日危机）Now Wait for Last Year (3.90) :P1966:已购:ebook:
 CLOSED: [2024-12-20 Fri 23:23]
 :PROPERTIES:
 :douban:   8.4
-:goodreads: 3.89
+:goodreads: 3.90
 :END:
 
 2055年，埃里克·斯威特森特成为了联合国秘书长莫利纳里的私人器官移植医师。看似平步青云，实则险象环生。 地球被拖入了一场旷日持久的星际战争，人类和利利星结盟，与雷格人为敌。作为秘书长的亲信，埃里克也被卷入了云谲波诡的星际政治斗争中。同时，新型毒品JJ-180诞生，赋予了人穿梭于过去与未来的能力。由于糟糕的婚姻关系，埃里克的妻子在毒品中寻求精神的寄托。她和埃里克都在偶然间发现了JJ-180的神奇作用。 险恶的政治环境，岌岌可危的婚姻，埃里克会怎么巧用JJ-180，来应对人生危机呢？
@@ -271,7 +268,7 @@ CLOSED: [2024-12-20 Fri 23:23]
 
 ***** DONE [#A] ↗Do Androids Dream of Electric Sheep? :P1968:
 **** 1969-1976
-***** DONE ↗Ubik :P1969:
+***** DONE [#A] ↗Ubik :P1969:
 ***** DONE [#C] 死亡迷局  A Maze of Death :P1970:已购:S2024_02:
 CLOSED: [2024-05-17 Fri 23:26] SCHEDULED: <2024-05-25 Sat>
 :PROPERTIES:
@@ -282,15 +279,15 @@ CLOSED: [2024-05-17 Fri 23:26] SCHEDULED: <2024-05-25 Sat>
 十四个移民被送到了未经开发的德尔马克-欧星，却因设备故障与外界失去了联系。面对荒凉而陌生的环境，他们各怀心事、满腹猜疑，只能通过信号向神祈祷，但死亡随时可能降临……德尔马克-欧星上满是奇特的原生生物，还有早在移民到来之前就已存在的神秘大楼——它诱惑着所有人进入，却在各人眼中呈现出不同的模样……探索这颗星球的过程中，移民们接连遇害，是人们控制不住自己的癫狂，还是恶神在悄悄逼近？ 在这里，上帝要么不存在，要么是在蓄意毁灭它的造物……
 
 ***** DONE [#B] ↗Flow My Tears, the Policeman Said :P1974:
-***** READY [#A] 黑暗扫描仪 A Scanner Darkly :P1977:已购:ebook:
+***** READY [#A] 黑暗扫描仪 A Scanner Darkly :P1977:已购:ebook:S2026_Q1:
 :PROPERTIES:
-:goodreads: 4.0
+:goodreads: 4.03
 :END:
 
 英国科幻协会奖（BSFA）获奖
 
 **** 1977-1982
-***** READY [#B] ¹神圣秘密 （瓦利斯） VALIS :P1981:已购:ebook:
+***** READY [#B] ¹神圣秘密 （瓦利斯） VALIS (3.93) :P1981:已购:ebook:
 :PROPERTIES:
 :goodreads: 3.93
 :END:
@@ -317,7 +314,7 @@ CLOSED: [2024-05-17 Fri 23:26] SCHEDULED: <2024-05-25 Sat>
 
 微信读书里有
 
-**** [#B] Radio Free Albemuth
+**** [#B] Radio Free Albemuth :P1985:
 :PROPERTIES:
 :goodreads: 3.81
 :END:
@@ -662,3 +659,4 @@ CLOSED: [2024-12-20 Fri 20:25]
 **** DONE 1x08
 CLOSED: [2024-12-20 Fri 21:23]
 
+*** S2 :S2026_Q1:

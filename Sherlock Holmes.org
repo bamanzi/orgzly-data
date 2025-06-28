@@ -9,7 +9,7 @@ CLOSED: [2024-10-01 Tue 11:29]
 :goodreads: 4.14
 :END:
 
-*** [#B] 四签名 The Sign of the Four :P1890:
+*** [#C] 四签名 The Sign of the Four :P1890:
 :PROPERTIES:
 :goodreads: 3.89
 :END:

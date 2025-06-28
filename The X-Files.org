@@ -100,9 +100,13 @@ CLOSED: [2025-06-12 Thu 20:20]
 **** DONE 6x12 One Son (2) :Mytharc:
 **** [#C] 6x13 Agua Mala
 **** DONE [#A] 6x14 Monday :time_loop:
-**** [#A] 6x15 Arcadia
+**** DONE [#A] 6x15 Arcadia
+CLOSED: [2025-06-24 Tue 08:09]
+
 **** [#E] 6x16 Alpha
-**** [#C] 6x17 Trevor
+**** DONE [#C] 6x17 Trevor
+CLOSED: [2025-06-27 Fri 08:20]
+
 **** [#B] 6x18 Milagro
 **** [#A] 6x19 The Unnatural
 **** DONE [#B] 6x20 Three of a Kind :Lone_Gunmen:
@@ -177,7 +181,7 @@ CLOSED: <2020-11-28 Sat 18:53>
 :rating:   7.3
 :END:
 
-**** DONE [#B] 8x11 The Gift :myth:
+**** DONE [#A] 8x11 The Gift :Mytharc:
 CLOSED: [2020-12-02 Wed 22:47]
 :PROPERTIES:
 :rating:   8.1
@@ -189,22 +193,22 @@ CLOSED: <2020-12-08 Tue 20:00>
 :rating:   7.7
 :END:
 
-**** DONE [#B] 8x13 Per Manum :myth:super-soldier:
+**** DONE [#B] 8x13 Per Manum :Mytharc:super_soldier:
 CLOSED: [2020-12-27 Sun 17:50]
 :PROPERTIES:
 :rating:   8.2
 :END:
 
-**** DONE [#A] 8x14 This Is Not Happening (8.5) :myth:
+**** DONE [#A] 8x14 This Is Not Happening (1) :Mytharc:
 CLOSED: [2020-12-27 Sun 17:50]
 
-**** DONE [#B] 8x15 DeadAlive :myth:super-soldier:
+**** DONE [#B] 8x15 DeadAlive (2) :Mytharc:super_soldier:
 CLOSED: [2020-12-27 Sun 17:50]
 :PROPERTIES:
 :rating:   8.4
 :END:
 
-**** DONE [#B] 8x16 Three Words :myth:super-soldier:
+**** DONE [#B] 8x16 Three Words :Mytharc:super_soldier:
 CLOSED: <2022-02-15 Tue 22:12>
 :PROPERTIES:
 :rating:   8.3
@@ -216,7 +220,7 @@ CLOSED: [2020-12-27 Sun 17:50]
 :rating:   7.4
 :END:
 
-**** DONE 8x18 Vienen :myth:
+**** DONE 8x18 Vienen :Mytharc:
 CLOSED: [2022-02-18 Fri 19:12]
 
 **** DONE [#B] 8x19 Alone :👍:
@@ -225,19 +229,19 @@ CLOSED: <2020-12-30 Wed 22:40>
 :rating:   8.1
 :END:
 
-**** DONE 8x20 Essence :myth:super-soldier:
+**** DONE 8x20 Essence (1) :Mytharc:super_soldier:
 CLOSED: <2022-02-22 Tue 20:27>
 
 与 8x13 Per Manum 紧密衔接
 
-**** DONE 8x21 Existence :myth:super-soldier:
+**** DONE 8x21 Existence (2) :Mytharc:super_soldier:
 CLOSED: [2022-02-23 Wed 19:43]
 
 *** S9 (2001.11-2002.05)
-**** DONE 9x01 Nothing Important Happened Today :myth:super-soldier:
+**** DONE 9x01 Nothing Important Happened Today (1) :Mytharc:super_soldier:
 CLOSED: <2022-02-28 Mon 23:23>
 
-**** DONE 9x02 Nothing Important Happened Today II :myth:super-soldier:
+**** DONE 9x02 Nothing Important Happened Today II (2) :Mytharc:super_soldier:
 CLOSED: [2022-03-01 Tue 19:01]
 
 **** DONE 9x03 Dæmonicus
@@ -249,7 +253,7 @@ CLOSED: [2022-03-07 Mon 08:17]
 **** DONE 9x05 Lord of the Flies
 CLOSED: [2022-03-11 Fri 20:18]
 
-**** DONE 9x06 Trust No 1 :myth:super-soldier:
+**** DONE 9x06 Trust No 1 :Mytharc:super_soldier:
 CLOSED: [2022-03-24 Thu 19:09]
 
 **** 9x07 John Doe
@@ -258,10 +262,10 @@ CLOSED: [2022-03-19 Sat 10:25]
 
 轮回转世
 
-**** DONE 9x09 Provenance :myth:
+**** DONE 9x09 Provenance (1) :Mytharc:
 CLOSED: <2022-03-25 Fri 18:15>
 
-**** DONE 9x10 Providence :myth:super-soldier:
+**** DONE 9x10 Providence (2) :Mytharc:super_soldier:
 CLOSED: [2022-03-25 Fri 19:11]
 
 **** DONE 9x11 Audrey Pauley
@@ -274,38 +278,37 @@ CLOSED: [2022-04-09 Sat 22:57]
 
 **** 9x13 Improbable
 **** 9x14 Scary Monsters
-**** DONE 9x15 Jump the Shark :myth:Lone_Gunmen:
+**** DONE 9x15 Jump the Shark :Mytharc:Lone_Gunmen:
 CLOSED: [2022-04-12 Tue 20:14]
 
-**** DONE 9x16 William :myth:
+**** DONE 9x16 William :Mytharc:
 CLOSED: [2022-04-18 Mon 08:06]
 
 **** [#A] 9x17 Release :👍:
-**** 9x18 Sunshine Days
-**** DONE 9x19 The Truth
+**** [#A] 9x18 Sunshine Days
+**** DONE 9x19 The Truth :Mytharc:
 CLOSED: [2022-04-23 Sat 13:29]
 
 *** movie 2: I Want to Believe (2008.07) :P2008:
 *** S10 (2016.01-02)
-**** 10x01 My Struggle :myth:
+**** 10x01 My Struggle :Mytharc:
 **** 10x02 Founder's Mutation
 **** [#B] 10x03 Mulder & Scully Meet the Were-Monster :👍:
 **** 10x04 Home Again
 **** 10x05 Babylon
-**** 10x06 My Struggle II :myth:
+**** 10x06 My Struggle II :Mytharc:
 *** S11 (2018.01-03)
-**** 11x01 My Struggle III :myth:
+**** 11x01 My Struggle III :Mytharc:
 **** [#B] 11x04 The Lost Art of Forehead Sweat
-**** 11x05 Ghouli
+**** 11x05 Ghouli :Mytharc:
 **** 11x06 Kitten :Skinner:Vietnam_War:
-**** 11x10 My Struggle IV :myth:
-*** The Lone Gunmen
+**** 11x10 My Struggle IV :Mytharc:
 ** comics :📚:
 
 https://x-files.fandom.com/wiki/Comics
 
 *** Topps (1995-1998) :topps:
-**** 01-12 :myth:P1995:
+**** 01-12 :Mytharc:P1995:
 ***** HALF 01. Not to be Opened Until X-Mas (1995-01)
 ***** DONE 02. The Dismemberance of Things Past
 CLOSED: <2022-04-06 Wed 12:40>
@@ -333,6 +336,7 @@ CLOSED: [2020-12-02 Wed 22:47]
 
 **** vol.4 30-41 (1997-1998) :已购:
 **** specials: -1,-2, Digest 1/2/3
+**** Afterflight :P1997:
 *** Wildstorm (2008-2009)
 **** DONE 00-02 :myth:
 CLOSED: <2020-10-10 Sat 13:59>
@@ -343,22 +347,22 @@ CLOSED: <2020-10-13 Tue 13:10>
 **** 05-06
 *** IDW (2013-2018) :IDW:
 **** Season 10 (2013-2015) :已购:🎧:
-***** DONE 01-05 Believers :myth:
+***** DONE 01-05 Believers :Mytharc:
 CLOSED: [2020-11-07 Sat 10:40]
 
 ***** DONE 06-07 Hosts
 CLOSED: [2020-10-14 Wed 23:05]
 
-***** DONE 08 Being for the Benefit of Mr. X :Mr.X:myth:
+***** DONE 08 Being for the Benefit of Mr. X :Mr.X:Mytharc:
 CLOSED: [2020-10-10 Sat 19:51]
 
 ***** DONE 09 Chitter
 CLOSED: <2020-12-28 Mon 08:50>
 
-***** DONE 10 More Musings of a Cigarette Smoking Man :CSM:myth:
+***** DONE 10 More Musings of a Cigarette Smoking Man :CSM:Mytharc:
 CLOSED: [2020-10-10 Sat 19:51]
 
-***** DONE 11-15 Pilgrims :myth:
+***** DONE 11-15 Pilgrims :Mytharc:
 CLOSED: <2020-12-17 Thu 22:36>
 
 ***** DONE 16-17 Immaculate
@@ -370,7 +374,7 @@ CLOSED: <2020-12-14 Mon 22:38>
 ***** 2DONE 19-20 G-23
 CLOSED: [2020-10-23 Fri 13:05]
 
-***** 2DONE 21-25 Elders :myth:
+***** 2DONE 21-25 Elders :Mytharc:
 CLOSED: [2020-10-23 Fri 13:05]
 
 **** Season 11 (2015-2016)
@@ -378,7 +382,7 @@ CLOSED: [2020-10-23 Fri 13:05]
 ***** 2DONE 02-04 Home Again
 CLOSED: [2020-10-23 Fri 13:05]
 
-***** 2DONE 05 My Name is Gibson
+***** 2DONE 05 My Name is Gibson :Gibson:
 CLOSED: [2020-10-23 Fri 13:05]
 
 ***** 2DONE 06-08 Endgames
@@ -416,22 +420,29 @@ CLOSED: <2023-05-12 Fri 13:20>
 ***** DONE Case Files: Florida Man (2018)
 CLOSED: [2023-05-16 Tue 13:20]
 
-***** Case Files: Hoot Goes There (2018)
+***** DONE Case Files: Hoot Goes There (2018)
+CLOSED: [2025-06-24 Tue 13:39]
+
 **** crossover
 ***** OVERDUE Conspiracy (2014)
 ** audio :🎧:
-*** Cold Cases (#01-16)
+*** Cold Cases (#01-15)
 
-http://xfiles.news/index.php/news/reviews/131-the-x-files-cold-cases-recap-and-review
+http://xfiles.news/index.php/news/reviews/the-x-files-cold-cases-recap-and-review
 
-*** Stolen Lives (comics 17-25)
+*** Stolen Lives (comics 16-25)
 
-http://www.xfiles.news/index.php/news/reviews/1432-recap-and-review-the-x-files-stolen-lives
 
-** prose :📄:
+https://www.xfiles.news/index.php/news/reviews/recap-and-review-the-x-files-stolen-lives
+
+** anthology :🎧:
+*** _audio
+
+https://audiobookbay.lu/abss/x-files-maberry-jonathan-maberry-editorauthor/
+
 *** vol.1 Trust No One :ebook:
 
-book review: https://is.gd/TyY4hb (coldbananas.com)
+book review: https://bamanzi.github.io/scrapbook2022/data/20220309210248/index.html
 
 **** DONE The Beast of Little Hill
 CLOSED: [2023-05-01 Mon 07:12]
@@ -444,8 +455,7 @@ CLOSED: <2020-10-10 Sat 16:40>
 
 *** vol.2 The Truth is Out There :已购:
 
-book review: https://is.gd/LXpZZR (coldbananas.com)
- http://coldbananas.com/2016/05/books/the-truth-is-out-there-serves-up-another-mixed-bag-of-x-files-short-stories/
+book review: https://bamanzi.github.io/scrapbook2022/data/20220308213410/index.html
 
 **** DONE [#C] Dead Ringer
 CLOSED: [2022-03-13 Sun 14:23]
@@ -456,6 +466,9 @@ CLOSED: [2022-03-13 Sun 14:23]
 
 翻查二十年前档案后他们去精神病院访谈了其中一个涉案人员，后者混乱的话语带他们找到了 Heidi 的si体，依稀仍然是当年那个小女孩的模样 ...[/cp]
 
+**** [#C] Drive Time
+**** [#A] Black Hole Son
+**** [#C] We Should Listen to Some Shostakovich
 **** DONE [#B] Mummiya
 CLOSED: [2022-03-06 Sun 21:26]
 
@@ -468,13 +481,20 @@ Scully 查明死者是个身患绝症的大学生后，Mulder 去埃及文化专
 急于探明真相的 Mulder 根据线索夜探 Bryan 住宅，不料却被打晕，醒来后 Bryan 疯狂地问他要他女友的木乃伊，原来他为了挽救患上绝症的女友，疯狂研究从导师那里找到的典籍Book of the Dead，把女友做成了一具木乃伊，指望后面回魂之术能发挥作用。问题在于，他从昏迷中醒来后，木乃伊却不见了....[/cp]
 
 **** DONE Phase Shift
+**** [#B] Heart
+**** Male Privilege
+**** [#C] Pilot
+**** Rosetta
 **** DONE [#C] Snowman :Doggett:
 CLOSED: <2019-11-29 Fri 13:13>
 
-**** Voice of Experience
+**** [#B] Voice of Experience
+**** [#A] XXX
+**** Founding
+**** When the Cows Come Home
 *** vol.3 Secret Agendas :已购:ebook:
 
-book review: https://is.gd/Xv3hBF (coldbananas.com)
+book review: https://bamanzi.github.io/scrapbook2022/data/20220309210238/index.html
 
 **** DONE [#C] Seek and You Will Find
 CLOSED: [2020-12-13 Sun 21:04]
@@ -500,6 +520,7 @@ DEADLINE: <2022-03-31 Thu> SCHEDULED: <2022-03-31 Thu>
 
 Topps 漫画#22也是“鬼压床”这个主题
 
+** prose :📄:
 *** [#F] #1. Goblins
 :PROPERTIES:
 :goodreads: 3.32
@@ -525,10 +546,17 @@ Topps 漫画#22也是“鬼压床”这个主题
 :goodreads: 3.68
 :END:
 
+*** #8. I Want to Believe :P2008:
 * The Lone Gunmen (12 eps)
-** DONE 1. Pilot
+** tv :P2001:
+*** DONE 1. Pilot
 CLOSED: [2020-11-13 Fri 19:34]
 
+*** DONE 1x02 Bond, Jimmy Bond
+CLOSED: [2025-06-25 Wed 20:35]
+
+*** 1x03 Eine Kleine Frohike
+*** 1x04 Like Water for Octane
 * Fringe :fringe:
 ** DONE Fringe S1 (20 ep) :📺:P2008:
 SCHEDULED: <2022-03-31 Thu>
@@ -736,20 +764,36 @@ CLOSED: [2025-06-06 Fri 21:12]
 *** DONE [#C] 4x03 Alone in the World :MotW:
 CLOSED: [2025-06-08 Sun 16:00]
 
-*** DONE [#B] 4x04 Subject 9
+*** DONE [#B] 4x04 Subject 9 :MotW:
 CLOSED: [2025-06-09 Mon 20:21]
 
-*** DONE [#B] 4x05 Novation
+*** DONE [#B] 4x05 Novation :MotW:
 CLOSED: [2025-06-11 Wed 22:50]
 
-*** DONE [#A] 4x06 And Those We've Left Behind
+*** DONE [#A] 4x06 And Those We've Left Behind :MotW:
 CLOSED: [2025-06-13 Fri 20:46]
 
-*** [#C] 4x07 Wallflower
-*** [#A] 4x08 Back to Where You've Never Been
-*** [#A] 4x09 Enemy of My Enemy
-*** [#C] 4x10 Forced Perspective
-*** [#C] 4x11 Making Angels
+*** DONE [#C] 4x07 Wallflower :MotW:
+CLOSED: [2025-06-17 Tue 19:56]
+
+*** DONE [#A] 4x08 Back to Where You've Never Been :Jones:
+CLOSED: [2025-06-19 Thu 19:18]
+
+*** DONE [#A] 4x09 Enemy of My Enemy :Jones:
+CLOSED: [2025-06-23 Mon 08:11]
+
+*** DONE [#C] 4x10 Forced Perspective
+CLOSED: [2025-06-23 Mon 20:18]
+
+*** DONE [#C] 4x11 Making Angels
+CLOSED: [2025-06-26 Thu 20:50]
+
+*** 4x12 Welcome to Westfield
+*** 4x13 A Better Human Being
+*** 4x14 The End of All Things :Jones:
+*** 4x18 The Consultant :Jones:
+*** 4x21 Brave New World, part 1
+*** 4x22 Brave New World, part 2
 ** Fringe S5 :P2012:
 
 13 episodes
