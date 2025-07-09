@@ -391,7 +391,8 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
       :END:
 
 **** series 7 (49-60) :P2021:
-***** [#A] 49. Gooseberry :Owen:Andy:
+***** [#A] 49. Gooseberry :Owen:Andy:dw2025_q3a_spinoffs:
+      SCHEDULED: <2025-07-27 Sun>
       :PROPERTIES:
       :rating:   8.7
       :END:
@@ -468,9 +469,15 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 ***** HALF [#D] 62. Dead Plates :Bilis_Manger:DW2023_09_spinoffs:
       SCHEDULED: <2023-09-24 Sun>
 
-***** HALF [#A] 63. Restricted Items Archive Entries 031–049 :Ianto:plot_yes:bilibili:dw2025_q3a_spinoffs:
+***** HALF [#A] 63. Restricted Items Archive Entries 031-049 :Ianto:plot_yes:bilibili:dw2025_q3a_spinoffs:
+      SCHEDULED: <2025-07-06 Sun>
+      :PROPERTIES:
+      :difficulty: H-
+      :END:
 
 【【自译中字/火炬木小组广播剧】限制级物品档案条目031-049-哔哩哔哩】 https://b23.tv/BV15N4y1e7Rk
+
+难度：较高，因为这不是常规的故事型，比较有意思的点也在后半
 
 ***** 3QTR [#B] 64. Suckers :Tosh:plot_yes:DW2024_01_spinoffs:
       CLOSED: <2024-01-18 Thu 08:52> SCHEDULED: <2024-01-21 Sun>
@@ -720,8 +727,13 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
 ***** 3QTR [#A] 7.7 Cuckoo (9.1) :Bilis_Manger:Ianto:dw2025_q2a_spinoffs:
       CLOSED: <2025-04-23 Wed 15:53> SCHEDULED: <2025-04-20 Sun>
 
-***** START [#A] 7.8 Pariahs :Colchester:Orr:Ng:Tyler:dw2025_q2b_spinoffs:
-      SCHEDULED: <2025-06-22 Sun>
+***** 3QTR [#A] 7.8 Pariahs :Colchester:Orr:Ng:Tyler:dw2025_q2b_spinoffs:
+      CLOSED: [2025-06-19 Thu 20:51] SCHEDULED: <2025-06-22 Sun>
+      :PROPERTIES:
+      :difficulty: H
+      :END:
+
+难度：高。人物较多（而且火炬木小组的成员全出场了），而且没有直接提前交待故事背景，需要慢慢根据对话来采集
 
 ***** [#B] 7.9 How I Conquered the World :Yvonne:Orr:Colchester:
       :PROPERTIES:
@@ -1752,7 +1764,9 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
 **** HALF [#D] 2.2 - The Vaults of Osiris :Benny:Ace:dw2025_q2a_spinoffs:
      SCHEDULED: <2025-05-04 Sun>
 
-**** [#B] 2.3 - The Eye of Horus :7th_Dr:
+**** [#B] 2.3 - The Eye of Horus :7th_Dr:dw2025_q3a_doctor:
+     SCHEDULED: <2025-08-09 Sat>
+
 **** [#C] 2.4 - The Tears of Isis :7th_Dr:Ace:
 *** vol.3 The Unbound Universe :unbound_universe:Unbound_Dr:P2016:
 **** HALF Unbound #2: Sympathy for the Devil :bilibili:Master_unbound:
@@ -2451,7 +2465,9 @@ rating 8.7/8.3
     :rating:   7.4
     :END:
 
-*** [#B] 1.4 The Curator's Gambit :The_Eleven:The_Curator:
+*** [#B] 1.4 The Curator's Gambit :The_Eleven:The_Curator:dw2025_q3a_spinoffs:
+    SCHEDULED: <2025-07-27 Sun>
+
 ** 📂Nemesis 2: Agents of the Vulpreen :P2022_03:
 *** [#B] 2.1 The Man From Gallifrey
 *** [#C] 2.2 Power of the Dominators
@@ -2537,8 +2553,8 @@ http://www.drwhoguide.com/kaldor03.htm
      :rating:   8.5
      :END:
 
-**** [#B] 3.3 - A Matter of Conscience :dw2025_q2a_spinoffs:
-     SCHEDULED: <2025-06-30 Mon>
+**** [#B] 3.3 - A Matter of Conscience :dw2025_q3a_spinoffs:
+     SCHEDULED: <2025-07-13 Sun>
      :PROPERTIES:
      :rating:   8.3
      :END:
@@ -2645,15 +2661,17 @@ http://www.drwhoguide.com/kaldor03.htm
 **** HALF [#D] 1.2 Symmetry of Death :dw2025_q2a_spinoffs:
      SCHEDULED: <2025-04-13 Sun>
 
-**** [#A] 1.3 Till Death Us Do Part :8th_Dr:
+**** [#A] 1.3 Till Death Us Do Part :8th_Dr:dw2025_q3a_spinoffs:
+     SCHEDULED: <2025-07-20 Sun>
+
 *** 📂PG: Trespassers 2 - The Casebook of Paternoster Row :P2024_04:
-**** 2.1 Anne of a Thousand Light Years :4th_Dr:
-**** [#C] 2.2 Pater Noster
-**** 2.3 The Gentleman Theives
+**** [#E] 2.1 Anne of a Thousand Light Years :4th_Dr:
+**** [#D] 2.2 Pater Noster
+**** [#B] 2.3 The Gentleman Theives
 *** 📂PG: Trespassers 3 - No Place Like Home :P2024_12:
-**** 3.1 Doppelgängers :Zygons:
-**** 3.2 Jellyfish!
-**** 3.3 The Houseguest :2nd_Dr:Zygons:
+**** [#E] 3.1 Doppelgängers :Zygons:
+**** CANCEL [#F] 3.2 Jellyfish!
+**** [#E] 3.3 The Houseguest :2nd_Dr:Zygons:
 *** 📂PG: Trespassers 4 - Last Stand :P2025_03:
 **** 4.1 I Married a Shapeshifter
 **** 4.2 A Passion for Fashion
@@ -2771,15 +2789,20 @@ http://web.archive.org/web/20060212015459/http://www.factionparadox.co.uk/script
 https://tardis.breezewiki.com/wiki/Coming_to_Dust_(audio_story)
 https://doctorwho.guide/paradox_a01.htm
 
-**** TODO [#B] 2. The Ship of a Billion Years :P2006:dw2025_q2b_spinoffs:
+**** HALF [#B] 2. The Ship of a Billion Years :P2006:dw2025_q2b_spinoffs:
+     SCHEDULED: <2025-06-29 Sun>
+
+https://web.archive.org/web/20220524090323/http://drwhoguide.com/paradox_a02.htm
+
 **** [#B] 3. Body Politic :P2008:
 **** [#D] 4. Words from Nine Divinities :P2008:
 **** [#D] 5. Ozymandias :P2009:
 **** [#E] 6. The Judgment of Sutekh :P2009:
 *** 📂Dionus's War (BBV) :P2021:
 *** 📂Rebirth (BBV) :P2021:
-*** 📂Hellscape Season 1 :P2022:
-*** 📂Hellscape Season 2 :P2023:
+*** spin-offs
+**** 📂Hellscape Season 1 :P2022:
+**** 📂Hellscape Season 2 :P2023:
 ** novels
 *** DONE [#A] 8DA06. Alien Bodies 外星遗体 :hanzify:Faction_Paradox:Krotons:
     CLOSED: [2025-05-10 Sat 11:36]

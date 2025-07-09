@@ -227,72 +227,94 @@ SCHEDULED: <2024-04-06 Sat>
 
 需要先看剧集 14x06 The Talons of Weng-Chiang
 
-**** CANCEL [#E] 172. Eldrad Must Die! (6.5)
+***** CANCEL [#E] 172. Eldrad Must Die! (6.5)
 CLOSED: [2021-02-27 Sat 18:02]
 
-**** [#C] 173. The Lady of Mercia (7.7)
-**** [#B] 174. Prisoners of Fate (8.2) :plot_yes:Nyssa:Tegan:
+***** [#C] 173. The Lady of Mercia (7.7)
+***** [#B] 174. Prisoners of Fate (8.2) :plot_yes:Nyssa:Tegan:dw2025_q3a_doctor:
+SCHEDULED: <2025-08-02 Sat>
 
 应该先听 MR136 Cobwebs
 
-**** CANCEL [#E] 195. Mistfall (6.4)
+***** CANCEL [#E] 195. Mistfall (6.4)
 CLOSED: [2021-02-27 Sat 18:02]
 
-**** [#C] 196. Equilibrium (7.7)
-**** [#B] 197. The Entropy Plague (8.1) :plot_no:
+***** [#C] 196. Equilibrium (7.7)
+***** [#B] 197. The Entropy Plague (8.1) :plot_no:
 :PROPERTIES:
 :rating:   8.1
 :END:
 
-**** [#C] 208. The Waters of Amsterdam (7.9)
-**** DONE [#A] 209. Aquitaine (8.8) :Tegan:Nyssa:P2016:plot_yes:已购:
+***** [#C] 208. The Waters of Amsterdam (7.9)
+***** DONE [#A] 209. Aquitaine (8.8) :Tegan:Nyssa:P2016:plot_yes:已购:
 CLOSED: <2021-03-12 Fri 19:58>
 :PROPERTIES:
 :rating:   8.8
 :END:
 
-**** BLOCK [#B] 210. The Peterloo Massacre (8.2) :P2016:plot_yes:
-**** [#D] 221. The Star Men (7.2)
-**** CANCEL [#E] 222. The Contingency Club (6.9)
+***** BLOCK [#B] 210. The Peterloo Massacre (8.2) :P2016:plot_yes:
+***** [#D] 221. The Star Men (7.2)
+***** CANCEL [#E] 222. The Contingency Club (6.9)
 CLOSED: [2021-02-27 Sat 18:02]
 
-**** [#D] 223. Zaltys (7.1)
-**** [#D] 234. Kingdom of Lies (7.4)
+***** [#D] 223. Zaltys (7.1)
+***** [#D] 234. Kingdom of Lies (7.4)
 :PROPERTIES:
 :rating:   7.4
 :END:
 
-**** [#A] 235. Ghost Walk (8.5) :plot_yes:
+***** [#A] 235. Ghost Walk (8.5) :plot_yes:
 :PROPERTIES:
 :rating:   8.5
 :END:
 
-**** [#A] 236. Serpent in the Silver Mask (8.5) :plot_yes:
+***** [#A] 236. Serpent in the Silver Mask (8.5) :plot_yes:
 :PROPERTIES:
 :rating:   8.5
 :END:
 
-**** [#D] 256. Tartarus :Marc:
-**** CANCEL [#F] 257a. Interstitial :Marc:short:
-**** CANCEL [#F] 257b. Feast of Fear :Marc:
-**** 2DONE [#B] 258a. Warzone :Marc:Cybermen:D2022_05_doctor:
+***** [#D] 256. Tartarus :Marc:
+***** CANCEL [#F] 257a. Interstitial :Marc:short:
+***** CANCEL [#F] 257b. Feast of Fear :Marc:
+***** 2DONE [#B] 258a. Warzone :Marc:Cybermen:D2022_05_doctor:
 CLOSED: [2022-05-20 Fri 08:12] SCHEDULED: <2022-05-07 Sat>
 :PROPERTIES:
 :rating:   8.1
 :END:
 
-**** HALF [#D] 258b. Conversion :Marc:Cybermen:D2022_05_doctor:
+***** HALF [#D] 258b. Conversion :Marc:Cybermen:D2022_05_doctor:
 SCHEDULED: <2022-05-14 Sat>
 :PROPERTIES:
 :rating:   7.4
 :END:
 
-**** CANCEL [#E] 267b. Madquake :Marc:plot_yes:
+***** CANCEL [#E] 267b. Madquake :Marc:plot_yes:
 :PROPERTIES:
 :rating:   6.8
 :END:
 
-*** MR with Turlough :Turlough:scripted:2CD:
+**** The Lost Stories
+***** [#B] LS3.1 - The Elite :Nyssa:Tegan:Daleks:2CD:P2011:
+:PROPERTIES:
+:rating:   8.3
+:END:
+
+***** [#E] LS3.2 Hexagora :Nyssa:Tegan:P2011:
+***** [#D] LS3.3 - The Children of Seth :Nyssa:Tegan:2CD:P2011:
+***** [#D] LS5.1 Nightmare Country :P2019:
+***** READY LS9.1 Genesis of the Cybermen :Adric:Nyssa:Tegan:Cybermen:P2025_03:bilibili:
+
+【【iCelery】赛博人的起源 - Genesis of the Cybermen P1【神秘博士广播剧】-哔哩哔哩】
+- P1 :: https://b23.tv/BV1t8grzgEYE
+- P2 :: https://b23.tv/BV1nn3Wz7ESk
+- P3 :: https://b23.tv/BV17i38z8Eqd
+- P4 :: BV1ep3MzfEoQ
+
+
+
+
+**** [#B] NA12. Goth Opera :Nyssa:Tegan:P2024_07:3CD:
+*** with Turlough :Turlough:scripted:2CD:
 **** CANCEL [#E] 002. Phantasmagoria
 **** LATER [#C] 020. Loups-Garoux :Turlough:underrated:
 :PROPERTIES:

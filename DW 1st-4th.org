@@ -344,7 +344,9 @@ CLOSED: [2023-03-29 Wed 08:54] SCHEDULED: <2023-03-04 Sat>
 CLOSED: [2024-06-05 Wed 08:25] SCHEDULED: <2024-06-15 Sat>
 
 **** 📂1DA2023. The Demon Song :Dodo:P2023_02:
-***** [#B] 23.1 The Demon Song :1CD:
+***** TODO [#B] 23.1 The Demon Song :1CD:dw2025_q3a_doctor:
+SCHEDULED: <2025-07-26 Sat>
+
 ***** [#E] 23.2 The Incherton Incident :2CD:
 **** [#B] 1DA2024. Fugitive of the Daleks :3CD:P2024_01:Dodo:Vicki:
 
@@ -1039,7 +1041,8 @@ CLOSED: [2022-02-12 Sat 15:45] SCHEDULED: <2022-02-13 Sun>
 :rating:   7.3
 :END:
 
-***** [#B] 6.1 Poison of the Daleks (8.0) :Jo:UNIT:P2020:plot_no:
+***** HALF [#B] 6.1 Poison of the Daleks (8.0) :Jo:UNIT:P2020:plot_no:dw2025_q3a_doctor:
+SCHEDULED: <2025-07-12 Sat>
 :PROPERTIES:
 :rating:   8.0
 :END:

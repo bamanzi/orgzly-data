@@ -1865,17 +1865,17 @@
 *** DONE [#C] 4DA12.3 The Wizard of Time :4th_Dr:Leela:Margaret:
 *** 2DONE [#C] 6DnP1.1 - The Headless Ones :6th_Dr:Peri:
 *** HALF [#C] 8DTW5.1 Meanwhile, Elsewhere :8th_Dr:Cass:Time_War:
-*** READY [#C] 8DTW5.2 Vespertine :8th_Dr:Cass:Time_War:
+*** HALF [#C] 8DTW5.2 Vespertine :8th_Dr:Cass:Time_War:
 *** HALF [#C] DU3.2 The Dalek Defense :10th_Dr:Anya:Mark_7:Davros:bilibili:
 *** 2DONE [#B] 12DC3.1 Sunstrike :12th_Dr:
 ** dw2025-q2b-spinoffs
-*** [#A] TW7.8 Pariahs :Yvonne:Colchester:Ng:Tyler:Orr:
+*** DONE [#A] TW7.8 Pariahs :Yvonne:Colchester:Ng:Tyler:Orr:
 *** HALF [#C] UNEM1.3 Eleven's Eleven :The_Eleven:
 *** 2DONE [#C] CM3.3 The Forgotten Village
 *** DONE [#D] JL9.4 Return of the Nightmare
 *** HALF [#A] DoRS7.3 Barrister to the Stars
-*** HALF [#A] WM9.1 The Walls of Absence :Master_War:bilibili:
-*** [#B] FP2.2 The Ship of a Billion Years :P2006:Sutekh:Faction_Paradox:Justine:Eliza:
+*** 2DONE [#A] WM9.1 The Walls of Absence :Master_War:bilibili:
+*** HALF [#B] FP2.2 The Ship of a Billion Years :P2006:Sutekh:Faction_Paradox:Justine:Eliza:
 ** dw2025-q2b-pending
 *** Fleeting Faces #2: Under Control :P2024_09:14th_Dr:
 *** [#C] Rory2.1 The Once and Future Nurse
@@ -1884,7 +1884,10 @@
 *** [#B] 3DA6.1 Poison of the Daleks :3rd_Dr:Jo:
 *** [#B] MR174. Prisoners of Fate :5th_Dr:Nyssa:Tegan:plot_yes:
 *** [#B] BSNA2.3 The Eye of Horus :7th_Dr:Benny:Sutekh:
-*** FIXME [#C] ST11.X The Lichyrwick Abomination :9th_Dr:scripted:
+*** 3QTR [#B] 9DA4.2 Way of the Burryman :Cybermen:UNIT:Brigadier:plot_yes:bilibili:dw2025_q3a_doctor:
+    CLOSED: [2025-07-08 Tue 16:06] SCHEDULED: <2025-07-05 Sat>
+
+*** START [#B] 9DA4.3 The Forth Generation :Cybermen:plot_yes:
 *** [#B] WDB4.2 The Abyss :War_Dr:
 ** dw2025-q3a-spinoffs
 *** [#A] TW49. Gooseberry :Owen:Andy:
@@ -1944,10 +1947,9 @@ Old Steven 1/3
 ***** READY [#A] 74. Live 34 :7th_Dr:Ace:Hex:bilibili:
 ***** READY [#A] NA6 Damaged Goods :7th_Dr:Roz:Chris:bilibili:
 *** 9th
-**** START [#B] 4.3 The Forth Generation :Cybermen:plot_yes:DW2022_07_doctor:
+**** READY [#B] 9DA3.2.3 Run :9th_Dr:bilibili:
 **** [#C] DotD#9. Night of the Whisper
 *** 11th
-**** [#B] ST12.6 The Galois Group :11th_Dr:Valarie:plot_yes:
 **** [#A] 11DC5.1 Spirit of the Season :11th_Dr:Valarie:
 **** Let it Snow :11th_Dr:
 

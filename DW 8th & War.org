@@ -1024,13 +1024,14 @@ https://b23.tv/BV1ju411x7qo
 
 *** Master of Worlds (UNIT new #6.4) :Master_war:🎧:
 *** /📂The War Master series 9: Solitary Confinement/ :🎧:P2023_06:Master_war:plot_cast:
-**** HALF [#A] 9.1 - The Walls of Absence :bilibili:dw2025_q2b_spinoffs:
-SCHEDULED: <2025-06-15 Sun>
+**** 2DONE [#A] 9.1 - The Walls of Absence :bilibili:dw2025_q2b_spinoffs:
+CLOSED: [2025-06-29 Sun 06:52] SCHEDULED: <2025-06-15 Sun>
 
 【【广播剧汉化】燃烧的天空 The War Master 战争法师 901 The Walls of Absence-哔哩哔哩】 
 https://b23.tv/BV1PP411h7Uw
 
-**** READY [#A] 9.2 - The Long Despair :bilibili:
+**** READY [#A] 9.2 - The Long Despair :bilibili:dw2025_q3a_spinoffs:
+SCHEDULED: <2025-08-03 Sun>
 
 【【广播剧汉化】漫长的绝望 The War Master 战争法师 902 The Long Despair-哔哩哔哩】 
 https://b23.tv/BV1Wj411k7xV
@@ -1337,13 +1338,13 @@ SCHEDULED: <2025-06-07 Sat>
 【【广播剧汉化】并进的时间线 Cass 101 Meanwhile Elsewhere-哔哩哔哩】 
 https://b23.tv/BV1DX4y117Uw
 
-**** READY [#C] 5.2 Vespertine :bilibili:dw2025_q2b_doctor:
-SCHEDULED: <2025-06-28 Sat>
+**** HALF [#C] 5.2 Vespertine :bilibili:dw2025_q2b_doctor:
+SCHEDULED: <2025-06-21 Sat>
 
 【【广播剧汉化】 沉重的遗产 Cass 102 Vespertine-哔哩哔哩】 
 https://b23.tv/BV1km4y1t7Jb
 
-**** READY [#B] 5.3 Previously, Next Time :bilibili:
+**** READY [#B] 5.3 Previously, Next Time :2CD:bilibili:
 
 【【广播剧汉化】无限循环的死结 Cass 103 Previously, Next Time 上-哔哩哔哩】 
 https://b23.tv/BV1eN4y1C7Kn
@@ -1474,7 +1475,9 @@ CLOSED: [2024-05-23 Thu 21:38] SCHEDULED: <2024-05-04 Sat>
 **** HALF [#B] 4.1 The Mission :dw2025_q1b_doctor:
 SCHEDULED: <2025-03-22 Sat>
 
-**** TODO [#B] 4.2 The Abyss :dw2025_q3a_doctor:
+**** HALF [#B] 4.2 The Abyss :dw2025_q3a_doctor:
+SCHEDULED: <2025-07-19 Sat>
+
 **** [#B] 4.3 The Horror
 *** 📂WDB vol.5 Comrades-in-Arms :Case:P2023_05:🎧:
 **** [#D] 5.1 A Mother's Love

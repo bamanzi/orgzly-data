@@ -64,48 +64,51 @@ CLOSED: [2022-07-03 Sun 17:05] SCHEDULED: <2022-07-06 Wed>
 
 【【广播剧翻译】九叔与老年准将 九任冒险集：老朋友 402 Way of the Burryman-哔哩哔哩】 https://b23.tv/BV1fS4y1u7n1
 
-***** START [#B] 4.3 The Forth Generation :Cybermen:plot_yes:dw2025_q3a_doctor:
+年轻的Sam Bishop和他的女朋友产生了大分歧：他想游历世界，而她只想呆在苏格兰。在Burryman庆典开始后，福斯大桥被鬼魂缠绕，Lethbridge-Stewart准将开始了自己的调查——而博士也一样......
+
+****** START [#B] 4.3 The Forth Generation :Cybermen:Brigadier:Sam_Bishop:plot_yes:dw2025_q3a_doctor:
 SCHEDULED: <2025-08-09 Sat>
 :PROPERTIES:
 :rating:   8.2
 :END:
 
-**** 📂S2.1 Back to Earth :P2022_05:
-***** 2DONE [#B] 5.1 Station to Station :bilibili:DW2023_01_doctor:
+**** S2
+***** 📂S2.1 Back to Earth :P2022_05:
+****** 2DONE [#B] 5.1 Station to Station :bilibili:DW2023_01_doctor:
 CLOSED: [2023-01-23 Mon 08:22] SCHEDULED: <2023-01-10 Tue 08:39>
 
 【【神秘博士广播剧熟肉】Back to Earth 101 Station to Station 车站之间-哔哩哔哩】 https://b23.tv/ueI1ubC
 
-***** CANCEL [#F] 5.2 The False Dimitry
+****** CANCEL [#F] 5.2 The False Dimitry
 CLOSED: [2022-07-02 Sat 23:47]
 
-***** 2DONE [#A] 5.3 Auld Lang Syne :bilibili:DW2023_03_doctor:
+****** 2DONE [#A] 5.3 Auld Lang Syne :bilibili:DW2023_03_doctor:
 CLOSED: [2023-03-21 Tue 08:07] SCHEDULED: <2023-03-11 Sat>
 
 【【神秘博士广播剧熟肉】Back to Earth 503 Auld Lang Syne 逝去已久的时光-哔哩哔哩】 https://b23.tv/1NrKKIN
 
-**** 📂S2.2 Into the Stars :P2022_08:
-***** DONE [#A] _6.1 Salvation Nine_ :Sontarans:bilibili:plot_yes:DW2023_07_doctor:
+***** 📂S2.2 Into the Stars :P2022_08:
+****** DONE [#A] _6.1 Salvation Nine_ :Sontarans:bilibili:plot_yes:DW2023_07_doctor:
 CLOSED: [2023-07-23 Sun 12:02] SCHEDULED: <2023-07-21 Fri 13:17>
 
 【【神秘博士广播剧熟肉】Into the Stars 601 Salvation Nine 救赎九号-哔哩哔哩】 https://b23.tv/ORzh7WU
 
-***** CANCEL [#F] +6.2 Last of the Zetacene+
-***** HALF [#B] _6.3 Break the Ice_ :bilibili:DW2023_09_spinoffs:
+****** CANCEL [#F] +6.2 Last of the Zetacene+
+****** HALF [#B] _6.3 Break the Ice_ :bilibili:DW2023_09_spinoffs:
 SCHEDULED: <2023-09-24 Sun>
 
 【【神秘博士广播剧熟肉】Into the Stars 603 Break the Ice 破冰-哔哩哔哩】 https://b23.tv/FgizL7a
 
-**** 📂S2.3 Hidden Depth :P2022_11:
-***** [#E] +7.1 The Seas of Titan+
-***** START [#D] 7.2 Lay Down Your Arms :DW2024_Q4a_doctor:
+***** 📂S2.3 Hidden Depth :P2022_11:
+****** [#E] +7.1 The Seas of Titan+
+****** START [#D] 7.2 Lay Down Your Arms :DW2024_Q4a_doctor:
 SCHEDULED: <2024-10-26 Sat>
 
 贝尔塔·冯·苏特纳（Bertha von Suttner1843年6月9日—1914年6月21日），生於布拉格，逝世於维也纳，是一位奥地利小说家，激进的和平主义者。
 
 苏特纳1889年发表了小说《Die Waffen nieder!（放下武器！）》，此后就成为了奥地利和平运动的象征，1891年她创立了奥地利和平主义组织，在1905年獲得諾貝爾和平獎
 
-***** 2DONE [#A] 7.3 Flatpack :Liv:Tania:bilibili:DW2023_11_doctor:
+****** 2DONE [#A] 7.3 Flatpack :Liv:Tania:bilibili:DW2023_11_doctor:
 SCHEDULED: <2023-11-11 Sat>
 :PROPERTIES:
 :rating:   8.6
@@ -131,42 +134,45 @@ CLOSED: [2024-07-16 Tue 08:34] SCHEDULED: <2024-06-22 Sat>
 
 【【神秘博士广播剧熟肉】Shades of Fear 803 Red Darkness 赤红黑暗-哔哩哔哩】 https://b23.tv/RPnCOqH
 
-**** 📂S3.1 Pioneers :P2023_05:
-***** [#E] 3.1.1 The Green Gift
-***** [#E] 3.1.2 Northern Lights
-***** HALF [#E] 3.1.3 The Beautiful Game :bilibili:dw2025_q2a_doctor:
+**** S3
+***** 📂S3.1 Pioneers :P2023_05:
+****** [#E] 3.1.1 The Green Gift
+****** [#E] 3.1.2 Northern Lights
+****** HALF [#E] 3.1.3 The Beautiful Game :bilibili:dw2025_q2a_doctor:
 SCHEDULED: <2025-05-10 Sat>
 
 【【神秘博士广播剧熟肉】Pioneers 903 The Beautiful Game 美丽比赛-哔哩哔哩】 https://b23.tv/BV1su41147YW
 
-**** 📂S3.2 Travel in Hope :P2023_08:
-***** 3QTR [#B] 3.2.1 Below There :bilibili:dw2025_q1a_doctor:
+***** 📂S3.2 Travel in Hope :P2023_08:
+****** 3QTR [#B] 3.2.1 Below There :bilibili:dw2025_q1a_doctor:
 CLOSED: <2025-01-10 Fri 09:28> SCHEDULED: <2025-01-11 Sat>
 
 【【神秘博士广播剧熟肉】Travel in Hope 304 Below There 下面的人-哔哩哔哩】 https://b23.tv/BV1Jz4y1W7sn
 
-***** CANCEL [#F] 3.2.2 The Butler Did it
-***** READY [#B] 3.2.3 Run :bilibili:
+****** CANCEL [#F] 3.2.2 The Butler Did it
+****** READY [#B] 3.2.3 Run :bilibili:
 
 【【神秘博士广播剧熟肉】Travel in Hope 306 Run 竞选-哔哩哔哩】 https://b23.tv/BV1bz4y1u7hr
 
-**** 📂S3.3 Buried Threats :P2024_02:
-***** [#E] 3.3.1 A Theatre of Cruelty :scripted:
-***** CANCEL [#F] 3.3.2 The Running Men
-***** READY [#C] 3.3.3 Ancient History :Benny:bilibili:
+***** 📂S3.3 Buried Threats :P2024_02:
+****** [#E] 3.3.1 A Theatre of Cruelty :scripted:
+****** CANCEL [#F] 3.3.2 The Running Men
+****** READY [#C] 3.3.3 Ancient History :Benny:bilibili:
 
 【【神秘博士广播剧熟肉】Buried Threats 309 Ancient History 古代史-哔哩哔哩】 https://b23.tv/BV1geSEYTEvn
 
-**** 📂S3.4 Star-Crossed :River:P2024_05:
-***** READY [#B] 3.4.1 Swipe Right :bilibili:
+***** 📂S3.4 Star-Crossed :River:P2024_05:
+****** READY [#B] 3.4.1 Swipe Right :bilibili:
 
 【【神秘博士广播剧熟肉】Star-Crossed 310 Swipe Right 右划-哔哩哔哩】 https://b23.tv/BV1Nrq4YnEwL
 
-***** [#E] 3.4.2 Face of the Apocalypse
-***** READY [#A] 3.4.3 Archipelago :bilibili:
+****** [#E] 3.4.2 Face of the Apocalypse
+****** READY [#A] 3.4.3 Archipelago :bilibili:
 
 【【神秘博士广播剧熟肉】Star-Crossed 312 Archipelago 群岛-哔哩哔哩】 https://b23.tv/BV159FJeBEFK
 
+**** S4 :Rose:
+***** 4.1 Snare
 *** 9DC :P2017:
 **** [#D] 1.1 The Bleeding Heart
 :PROPERTIES:
@@ -679,8 +685,8 @@ SCHEDULED: <2024-07-27 Sat>
 
 【【神秘博士广播剧熟肉】Dalek Universe 301 The First Son 第一子-哔哩哔哩】 https://b23.tv/BV1XZ4y147oB
 
-***** HALF [#C] DU3.2 - The Dalek Defense :Davros:bilibili:dw2025_q2b_doctor:
-SCHEDULED: <2025-06-07 Sat>
+***** 3QTR [#C] DU3.2 - The Dalek Defense :Davros:bilibili:dw2025_q2b_doctor:
+CLOSED: [2025-06-17 Tue 20:26] SCHEDULED: <2025-06-07 Sat>
 :PROPERTIES:
 :rating:   7.9
 :END:
