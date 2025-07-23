@@ -1,5 +1,3 @@
-#+TITLE: Read It Later list exported from Pocket service
-
 * 2025
 ** 2025-06
 *** GitHub - wojciech-kulik/FlashSpace: FlashSpace is a blazingly fast virtual 	:osx:
@@ -116,7 +114,7 @@ https://addons.mozilla.org/zh-CN/firefox/addon/bookmarkshome/
   This is the WebExtensions version of the add-on that had been published as "MyBookmarks" so far.
 #+end_quote
 
-*** [#B] Other Audios | Reference Guide Discussion Forum	:fan-made:
+*** [#B] Other Audios | Reference Guide Discussion Forum	:fan_made:
 https://drwhoguide.proboards.com/board/43/audios
 *** Doctor Who | The Celestial Toymaker | The Celestial Toyroom | Part 1 - YouT	
 https://www.youtube.com/watch?v=nCkftxej5yg&list=PLepBz_uI2k90NOGnituY08w1AuN82l_Vy&index=42
@@ -143,7 +141,7 @@ https://www.howtogeek.com/thanks-to-this-new-feature-i-can-finally-switch-from-c
   A few years ago, I switched back to Firefox for personal use, but I’ve kept using Chrome for work because I couldn’t let go of tab groups, an indispensable part of my workflow. Now that Firefox has tab groups as well, I can ditch Chrome and make Firefox my one and only browser.
 #+end_quote
 
-*** [#B] Fan Audio Archive - Digital Library of Free & Borrowable Texts, Movies, Mus	:doctor.who:fan-made:
+*** [#B] Fan Audio Archive - Digital Library of Free & Borrowable Texts, Movies, Mus	:doctor_who:fan_made:
 https://archive.org/details/@employee_426
 *** 基于 Readeck 搭建个人稍后读/书签服务 - 少数派	
 https://sspai.com/post/89289
@@ -282,7 +280,7 @@ https://audiobookbay.lu/abss/x-files-maberry-jonathan-maberry-editorauthor/
 
 *** The X-Files Bks 1-8 - Charles Grant, Kevin J. Anderson, Max Allan Collins E	
 https://audiobookbay.lu/abss/the-x-files-bks-1-8-charles-grant-kevin-j-anderson-max-allan-collins-elizabeth-hand-chris-carter-ben-mezrich/
-*** X-Files: The Truth Is Out There (The X-Files (Prose))  - Preview Only	:x-files:
+*** X-Files: The Truth Is Out There (The X-Files (Prose))  - Preview Only	:x_files:
 https://openlibrary.org/works/OL20102334W/X-Files_The_Truth_Is_Out_There_%28The_X-Files_%28Prose%29%29
 
 #+begin_quote
@@ -298,7 +296,7 @@ https://archive.org/details/computercodingpy0000caro/page/112/mode/1up
   The Internet Archive keeps the record straight by preserving government websites, news publications, historical documents, and more.
 #+end_quote
 
-*** [#B] Coding Projects in Python	:benben:kids-coding:
+*** [#B] Coding Projects in Python	:benben:kids_coding:
 https://www.dk.com/us/book/9781465461889-coding-projects-in-python/
 
 #+begin_quote
@@ -420,7 +418,7 @@ https://github.com/hkslover/ximalaya
   喜马拉雅专辑批量下载 界面布局使用https://www.pytk.net/tkinter-helper/ xm-sign生成算法 def xm_md5(): url = 'https://www.ximalaya.com/revision/time' headrer = {'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.
 #+end_quote
 
-*** ssokolow/quicktile - An analogue to WinSplit Revolution for X11 desktop	:x11-de:
+*** ssokolow/quicktile - An analogue to WinSplit Revolution for X11 desktop	:x11_de:
 https://github.com/ssokolow/quicktile
 
 #+begin_quote
@@ -543,7 +541,7 @@ https://github.com/buxuku/SmartSub
   它保留了之前 VideoSubtitleGenerator 这个命令行工具的全部特性，并新增了以下功能: 因为本人使用的是苹果芯片，缺少 window CUDA 的开发环境，对于 CUDA 的支持，开发测试都存在较多场景无法兼顾的情况。
 #+end_quote
 
-*** Subtitle Composer	:x11-apps:
+*** Subtitle Composer	:x11_apps:
 https://subtitlecomposer.kde.org/
 
 #+begin_quote
@@ -1069,7 +1067,7 @@ https://conemu.github.io/en/LaunchNewTab.html
   When you run something from Win+R or shortcut from your Desktop, you may use -run or -runlist to run your application. Remember, -run or -runlist will be the last ConEmu’s GUI interpreted switch. The rest of command line will be used to start your application. Read more in the wiki. Example:
 #+end_quote
 
-*** 神秘博士:伯尼斯·萨莫菲尔德的新冒险广播剧第二季第一集(神秘博士衍生广播剧系列)	:big.finish:doctor.who:
+*** 神秘博士:伯尼斯·萨莫菲尔德的新冒险广播剧第二季第一集(神秘博士衍生广播剧系列)	:big_finish:doctor_who:
 https://www.bilibili.com/video/BV1zYCgYVEVM/
 
 #+begin_quote
@@ -1439,9 +1437,9 @@ https://gitee.com/ying32/govcl/wikis/pages?sort_id=2645001&doc_id=102420
   请选择文档打开!
 #+end_quote
 
-*** 最新M4版本的Mac，尝试本地部署deepseek的话，32b的模型哪个版本的Mac可以跑起来？	:deepseek:mac-mini:
+*** 最新M4版本的Mac，尝试本地部署deepseek的话，32b的模型哪个版本的Mac可以跑起来？	:deepseek:mac_mini:
 https://www.zhihu.com/question/12967196761/answer/117626012777
-*** 苹果电脑移动存储伴侣	:mac-mini:
+*** 苹果电脑移动存储伴侣	:mac_mini:
 https://zhuanlan.zhihu.com/p/145485524
 *** [#B] Crossing the uncanny valley of conversational voice	:2ai:benben:
 https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice
@@ -1457,7 +1455,7 @@ https://github.com/TypesettingTools/Aegisub/releases/
   Releases Tags Releases · TypesettingTools/Aegisub 3.4.2 Release 13 Jan 03:11 CoffeeFlux v3.4.2 f437ba4 Compare Choose a tag to compare Could not load tags Nothing to show {{ refName }} default 3.4.1 Release 01 Jan 21:05 CoffeeFlux v3.4.
 #+end_quote
 
-*** OrgExtended : Packages : Package Control - Sublime Text OrgMode Extension 	:org-mode:
+*** OrgExtended : Packages : Package Control - Sublime Text OrgMode Extension 	:org_mode:
 https://packagecontrol.io/packages/OrgExtended
 
 #+begin_quote
@@ -1835,7 +1833,7 @@ https://github.com/shipurjan/subtitle-to-lrc
 
 *** Emoji picker - IT Tools	
 https://it-tools.tech/emoji-picker
-*** mlx-community/DeepSeek-R1-Distill-Qwen-14B-4bit at main	:deepseek:mac-mini:
+*** mlx-community/DeepSeek-R1-Distill-Qwen-14B-4bit at main	:deepseek:mac_mini:
 https://hf-mirror.com/mlx-community/DeepSeek-R1-Distill-Qwen-14B-4bit/tree/main
 
 #+begin_quote
@@ -1950,7 +1948,7 @@ https://www.macobserver.com/tips/how-to/fixing-macos-cannot-verify-app-free-malw
   A rather common error crops up when you try to run apps that aren’t from the Mac App Store. “macOS cannot verify that this app is free from malware” displays when you try to certain third-party applications.
 #+end_quote
 
-*** 百分之千/定制版应用收藏	:android-apps:
+*** 百分之千/定制版应用收藏	:android_apps:
 https://gitee.com/ww3w/dzb
 
 #+begin_quote
@@ -2217,7 +2215,7 @@ https://meta.appinn.net/t/topic/60314
   LM Studio 是一款将目前主流大模型 LLM 元素打包在一起​的工具，可以让你在自己的电脑上，“0门槛”运行本地大语言模型 LLM，并且用起来就像 ChatGPT 那样。支持 Windows、macOS、Linux。@Appinn​
 #+end_quote
 
-*** 图拉鼎 on X: "因为下单了入门款 Mac mini，内置存储只有 256GB，扩容是必须的。 于是我开始研究用什么方案，我倾向于使用不影响原机保	:mac-mini:
+*** 图拉鼎 on X: "因为下单了入门款 Mac mini，内置存储只有 256GB，扩容是必须的。 于是我开始研究用什么方案，我倾向于使用不影响原机保	:mac_mini:
 https://x.com/tualatrix/status/1878276214210871634
 *** What is the cheapest LLM to use for the translations #397	:2todo:deepseek:
 https://github.com/yihong0618/bilingual_book_maker/issues/397
@@ -2240,14 +2238,14 @@ https://github.com/DrewThomasson/ebook2audiobook
   Convert eBooks to audiobooks with chapters and metadata using Calibre and Coqui XTTS. Supports optional voice cloning and multiple languages! Install Python 3.x from Python.org.
 #+end_quote
 
-*** GitHub - runtipi/runtipi: Runtipi is a homeserver for everyone! One command	:self-hosted:
+*** GitHub - runtipi/runtipi: Runtipi is a homeserver for everyone! One command	:self_hosted:
 https://github.com/runtipi/runtipi
 
 #+begin_quote
   Tipi is built with TypeScript, Next.js app router and Drizzle ORM! If you want to collaborate on a cool project, join the discussion on Discord! Tipi is built and maintained by volunteers. There is no guarantee of support or security when you use Tipi.
 #+end_quote
 
-*** GitHub - liriliri/aya: a GUI wrapper for ADB	:adb:android:front-end:
+*** GitHub - liriliri/aya: a GUI wrapper for ADB	:adb:android:front_end:
 https://github.com/liriliri/aya
 
 #+begin_quote
@@ -2342,7 +2340,7 @@ https://github.com/Byaidu/PDFMathTranslate
   PDF scientific paper translation and bilingual comparison. Execute the translation command in the command line to generate the translated document example-zh.pdf and the bilingual document example-dual.pdf in the current directory.
 #+end_quote
 
-*** GitHub - zadam/trilium: Build your personal knowledge base with Trilium Not	:note-taking:
+*** GitHub - zadam/trilium: Build your personal knowledge base with Trilium Not	:note_taking:
 https://github.com/zadam/trilium?tab=readme-ov-file
 
 #+begin_quote
@@ -2356,7 +2354,7 @@ https://github.com/jianchang512/pyvideotrans
   这是一个视频翻译配音工具，可将一种语言的视频翻译为指定语言的视频，自动生成和添加该语言的字幕和配音。 302.AI是一个汇集全球顶级品牌的AI超市，按需付费，零月费，零门槛使用各种类型AI。
 #+end_quote
 
-*** 我理想中的笔记软件-trilium	:note-taking:
+*** 我理想中的笔记软件-trilium	:note_taking:
 https://zhuanlan.zhihu.com/p/579485506
 *** Google Deep Research，学习与研究利器，彻底颠覆主题研究这件事：详细上手教程，5 个深度案例，全面场景介绍，10 倍提升大脑信息处理	
 https://b23.tv/sPwdVYO
@@ -2388,7 +2386,7 @@ https://postgres-internals.cn/
   内容导航 关于此书 PostgreSQL 的发展势头蒸蒸日上，正在经历一场慢热的崛起。PostgreSQL 是世界上最先进的开源数据库，不仅功能强大丰富，而且一专多长，除了内置的多种高级数据类型之外，还提供了丰富的扩展，融汇百家之
 #+end_quote
 
-*** LITERA Reader	:online-tools:
+*** LITERA Reader	:online_tools:
 https://litera-reader.com/
 
 #+begin_quote
@@ -2708,7 +2706,7 @@ https://github.com/ninehills/blog/issues/100
   之前参考了一些基于 GitHub Issues 的博客，基本分为两种： 使用 Javascripts 动态生成博客页面。缺点是对 SEO 不友好，而且加载速度较慢。 抓取 issue 然后用 hugo 之类的生成静态站点。找到两三个均过于复杂，且长时间不维护已经无法运行。 所以自己简单实现了一个，基本流程如下： 创建、编辑 Issue。 触发 Github Action。 拉取代码。 使用 gh（Github CLI）获取全部 issue 以及 issue 内容，过滤指...
 #+end_quote
 
-*** 编程真好玩 (豆瓣)	:kids-coding:
+*** 编程真好玩 (豆瓣)	:kids_coding:
 https://book.douban.com/subject/27116976/
 *** [#B] Multi-Account Containers | Firefox Help	
 https://support.mozilla.org/en-US/kb/containers
@@ -2738,11 +2736,11 @@ https://uniqoda.sourceforge.net/
   uniqoda About Have you ever been frustrated that the whole Unicode repertoire is there, but you don't have any convenient way to use it? How much time did you waste searching for the right character, digging through large tables or searching the web? Do you use a Unicode palette you copy characters
 #+end_quote
 
-*** [#B] DK编程真好玩：9岁开始学Python (豆瓣)	:kids-coding:
+*** [#B] DK编程真好玩：9岁开始学Python (豆瓣)	:kids_coding:
 https://book.douban.com/subject/34859869/
-*** 编程很简单（Scratch + Python) - 图书	:kids-coding:
+*** 编程很简单（Scratch + Python) - 图书	:kids_coding:
 https://book.douban.com/subject/35219658/
-*** Coding for Kids | Game-Based Programming | CodeMonkey	:benben:kids-coding:
+*** Coding for Kids | Game-Based Programming | CodeMonkey	:benben:kids_coding:
 https://www.codemonkey.com/
 
 #+begin_quote
@@ -2837,7 +2835,7 @@ https://www.oreilly.com.cn/ideas/?p=1165
   在本博文里我们会着眼于Jupyter项目回答下面三个问题： 1.为什么这个项目会存在？也就是说，我们的动机、目标和愿景是什么？
 #+end_quote
 
-*** Road 2 Coding - Road To Coding，意为编程自学之路，是自学编程以来所用资源和分享内容的大聚合	:kids-coding:
+*** Road 2 Coding - Road To Coding，意为编程自学之路，是自学编程以来所用资源和分享内容的大聚合	:kids_coding:
 https://www.r2coding.com/#/
 
 #+begin_quote
@@ -2872,7 +2870,7 @@ https://github.com/leafOfTree/WindowTabs?tab=readme-ov-file
   It was originally developed by Maurice Flanagan in 2009 and was provided as free and paid versions. The author who no longer has time to maintain it has open-sourced it. See the original repository: mauricef/WindowTabs. This repository is a fork of payaneco's repository which is from redgis'.
 #+end_quote
 
-*** howie.serious on X: "让孩子少读“正经书”，是爱上阅读的前提｜内驱式阅读" / X	:kids-reading:
+*** howie.serious on X: "让孩子少读“正经书”，是爱上阅读的前提｜内驱式阅读" / X	:kids_reading:
 https://x.com/howie_serious/status/1843493652355825971
 *** 划词翻译 – 下载 ? Firefox 扩展（zh-CN）	:bing:chrome:firefox:pdf:yandex:youdao:
 https://addons.mozilla.org/zh-CN/firefox/addon/hcfy/
@@ -2960,7 +2958,7 @@ https://mysterytam.com/HongKongMysteryBookList.html
 #+end_quote
 
 ** 2024-08
-*** yetone/avante.nvim: Use your Neovim like using Cursor AI IDE!	:ai-coding:llm:
+*** yetone/avante.nvim: Use your Neovim like using Cursor AI IDE!	:ai_coding:llm:
 https://github.com/yetone/avante.nvim
 
 #+begin_quote
@@ -3064,7 +3062,7 @@ https://www.linuxuprising.com/2021/03/how-to-get-sound-pulseaudio-to-work-on.htm
 https://audiobookbay.is/abss/the-x-tfiles-origins-01-02-kami-garcia-jonathan-maberry/
 *** X-Files (Maberry) - Jonathan Maberry - editor/author Audiobook Online Downl	
 https://audiobookbay.is/abss/x-files-maberry-jonathan-maberry-editorauthor/
-*** The Missy Chronoicles 汉化	:doctor.who:
+*** The Missy Chronoicles 汉化	:doctor_who:
 http://670641333.lofter.com/post/1dfa202c_efdc1153?continueFlag=bf6ce2d1a5e462559d46e20024540ec7
 *** GitHub - ChrisTitusTech/winutil: Chris Titus Tech's Windows Utility - Insta	:tweaking:winsoft:
 https://github.com/christitustech/winutil
@@ -3150,7 +3148,7 @@ https://github.com/Alvin9999/new-pac/wiki/%E4%B8%8D%E7%BF%BB%E5%A2%99%E4%B8%8Agi
   不翻墙上github
 #+end_quote
 
-*** robocode-dev/tank-royale	:kids-coding:
+*** robocode-dev/tank-royale	:kids_coding:
 https://github.com/robocode-dev/tank-royale
 
 #+begin_quote
@@ -3406,7 +3404,7 @@ https://github.com/MartinLwx/pdb-tutorial
   这篇教程的目的是教你基本的 pdb 用法，它是 Python2 和 Python3 的调试器。这篇教程也会涉及到一些有用的小技巧，让你在调试程序的时候轻松很多。 这篇教程最好搭配 Python 2.7 或者 Python 3.
 #+end_quote
 
-*** Star Wars: Epic Collection - Progress in Collecting All Legends Comics : st	:star.wars:
+*** Star Wars: Epic Collection - Progress in Collecting All Legends Comics : st	:star_wars:
 https://old.reddit.com/r/starwarscomics/comments/fd0rvm/star_wars_epic_collection_progress_in_collecting/
 *** 5 Best Ways to Use the Python Debugger PDB – Be on the Right Side of Change	
 https://blog.finxter.com/5-best-ways-to-use-the-python-debugger-pdb/
@@ -3485,16 +3483,16 @@ https://emacs-china.org/t/topic/20216
   最近在首页看到有关字体的讨论比较热烈，因此萌生了开个贴让大家分享、安利一下自己所使用过的字体的想法，希望大家可以聊聊用过的这些字体有什么优点、缺点。
 #+end_quote
 
-*** Star Wars Legends Collection - Timothy Zahn, James Luceno, Alan Dean Foster	:star.wars:
+*** Star Wars Legends Collection - Timothy Zahn, James Luceno, Alan Dean Foster	:star_wars:
 https://audiobookbay.is/abss/star-wars-legends-collection-various-2/
-*** The 50  Must-Read Star Wars Comic Series, Ranked By Fans	:star.wars:
+*** The 50  Must-Read Star Wars Comic Series, Ranked By Fans	:star_wars:
 https://www.ranker.com/list/best-star-wars-comics/ranker-comics
 
 #+begin_quote
   A galaxy of Star Wars comic books awaits fans who crave more adventures from this beloved universe. These series delve into the untold stories of classic characters, reveal tales from the past, and even introducing new heroes and villains. Star Wars comics offer something for everyone. The world...
 #+end_quote
 
-*** split every single org headline in a org file to separate md/org files	:org-mode:
+*** split every single org headline in a org file to separate md/org files	:org_mode:
 https://emacs.stackexchange.com/questions/54937/split-every-single-org-headline-in-a-org-file-to-separate-md-org-files
 
 #+begin_quote
@@ -3591,7 +3589,7 @@ https://bookfere.com/post/39.html
   作为可选步骤，你还可以安装 KPVBooklet，其用途是在 Kindle 中直接显示原生系统不支持的 EPUB 等格式，并将其打开方式自动关联到 KOReader（还可通过 KUAL 菜单关联更多格式）。
 #+end_quote
 
-*** imputnet/cobalt: save what you love - youtube, bilibili, twitter, vk, vimeo	:online-tools:
+*** imputnet/cobalt: save what you love - youtube, bilibili, twitter, vk, vimeo	:online_tools:
 https://github.com/imputnet/cobalt
 
 #+begin_quote
@@ -3662,7 +3660,7 @@ https://www.goodreads.com/book/show/176501327-star-trek
   Two years after the USS Voyager’s return from the Delta Quadrant, Seven of Nine finds herself rejected for a position in Starfleet…and instead finds a new home with the interstellar rogue law enforcement corps known as the Fenris Rangers.
 #+end_quote
 
-*** koreader - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and 	:2version:ebook-reader:
+*** koreader - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and 	:2version:ebook_reader:
 https://github.com/koreader/koreader
 
 #+begin_quote
@@ -3760,7 +3758,7 @@ https://github.com/David-GaTre/Invent-your-games-with-Python
   Exercises and games solved with Al Sweigart's book "Invent your own computer games with python".
 #+end_quote
 
-*** 1. Python游戏编程快速上手 第4版 (豆瓣)	:benben:kids-coding:pygame:python:
+*** 1. Python游戏编程快速上手 第4版 (豆瓣)	:benben:kids_coding:pygame:python:
 https://book.douban.com/subject/27195063/
 
 #+begin_quote
@@ -3774,7 +3772,7 @@ https://mp.weixin.qq.com/s/olTWUG0p0DqJYHVOqn_wcQ
   微信号 addvon 功能介绍 云计算泥石流，数据库老司机。 如今，软件开发中最大的趋势之一，是 PostgreSQL 正在成为事实上的数据库标准。已经有一些博客阐述了如何做到 万物皆用 PostgreSQL，但还没有多少文章能解释这一现象背后
 #+end_quote
 
-*** RetroArch	:gaming:retro-gaming:
+*** RetroArch	:gaming:retro_gaming:
 https://zh.gamedb.eth.sucks/retroarch/
 
 #+begin_quote
@@ -4372,7 +4370,7 @@ https://github.com/barry-far/V2ray-Configs/blob/main/Chinese-README.md
   {"payload":{"allShortcutsEnabled":false,"fileTree":{"":{"items":[{"name":".github","path":".
 #+end_quote
 
-*** GitHub - ndleah/python-mini-project: ? Welcome open-source Python mini-proj	:kids-coding:
+*** GitHub - ndleah/python-mini-project: ? Welcome open-source Python mini-proj	:kids_coding:
 https://github.com/ndleah/python-mini-project
 
 #+begin_quote
@@ -4685,7 +4683,7 @@ http://www.laohuabao.com/
   老画报 连环画 漫画欣赏和交流 山村小店绘画：冯远原著：根据伍元新同名小说 黄道婆绘画：徐有武原著：上海人民美术出版社供稿 编绘：叶毓中原著：根据《解放军报》同名故事 哪吒闹海绘画：上海美术电影制片厂 钟源
 #+end_quote
 
-*** How would a theoretical Season 23B function?	:*non-tech:doctor.who:
+*** How would a theoretical Season 23B function?	:*non_tech:doctor_who:
 https://www.reddit.com/r/gallifrey/comments/18onxv0/how_would_a_theoretical_season_23b_function/
 
 #+begin_quote
@@ -4747,7 +4745,7 @@ https://frostming.com/2019/03-13/where-do-your-packages-go/
   写这篇文章是因为最近在 Python 社区看到，有几个求助频率非常高的问题：
 #+end_quote
 
-*** 扣哒世界|CodeCombat中国|AI世青赛|少儿编程等级认证	:kids-coding:
+*** 扣哒世界|CodeCombat中国|AI世青赛|少儿编程等级认证	:kids_coding:
 https://codecombat.cn/
 
 #+begin_quote
@@ -4882,7 +4880,7 @@ https://andreyor.st/posts/2023-11-17-overcolorization/
   Tree-sitter became more widespread and Emacs took notice and included a bunch of <lang>-ts-mode as alternatives to <lang>-mode into the core. This is good news and a welcome change, but I have some concerns about the approach.
 #+end_quote
 
-*** JSRobot	:*my:kids-coding:
+*** JSRobot	:*my:kids_coding:
 https://lab.reaal.me/jsrobot/
 *** Mario Jason Braganza: Getting Emacs Windows to Not Be Shy	:emacs:inoreader:
 https://janusworx.com/blog/getting-emacs-windows-to-not-be-shy/
@@ -5303,7 +5301,7 @@ https://linux.cn/article-16168-1.html
   当你的桌面系统缺乏网络摄像头和专用麦克风时，你可以考虑使用智能手机。这里将教你如何在 Ubuntu Linux 中完成这个设置。 我和许多 Linux 用户一样，使用的是台式机。相较于笔记本电脑，并没有预装摄像头和麦克风。
 #+end_quote
 
-*** A breakdown of Big Finish's output growth.	:*non-tech:inoreader:
+*** A breakdown of Big Finish's output growth.	:*non_tech:inoreader:
 https://www.reddit.com/r/gallifrey/comments/169ai6f/a_breakdown_of_big_finishs_output_growth/
 
 #+begin_quote
@@ -5469,7 +5467,7 @@ https://www.makeuseof.com/android-games-windows-11-google-play-games/
   While unofficial Android app emulators can give you a decent experience, they also require a lot of system resources. Eventually, Google took notice of this and now offers its own solution to play Android games on a Windows 11 PC.
 #+end_quote
 
-*** 7 Tips and Tweaks to Get More Out of Thunar File Manager of Xfce	:linux:x11-apps:
+*** 7 Tips and Tweaks to Get More Out of Thunar File Manager of Xfce	:linux:x11_apps:
 https://itsfoss.com/thunar-tweaks/
 
 #+begin_quote
@@ -5616,7 +5614,7 @@ https://gitee.com/linpure/qtranslate-services
   QTranslate翻译软件的Services。由于官方更新不是很及时且并未开源，想自己修复失效接口只有修改Service.js这唯一的办法了。通过此仓库大家可以分享自己可用的Services
 #+end_quote
 
-*** 星球大战传说宇宙的完整历史	:2scrapbook:star.wars:
+*** 星球大战传说宇宙的完整历史	:2scrapbook:star_wars:
 https://zhuanlan.zhihu.com/p/138199497
 *** The Intel NUC PC, a Popular Plex Solution, Is Entering Retirement – Review 	
 https://www.reviewgeek.com/158801/the-intel-nuc-pc-a-popular-plex-solution-is-entering-retirement/
@@ -6109,7 +6107,7 @@ https://man7.org/tlpi/index.html
   The Linux Programming Interface (published in October 2010, No Starch Press, ISBN 978-1-59327-220-3) is a detailed guide and reference for Linux and UNIX system programming.
 #+end_quote
 
-*** apachecn/pyda-2e-zh - 利用 Python 进行数据分析 · 第 2 版 	:data-science:python:
+*** apachecn/pyda-2e-zh - 利用 Python 进行数据分析 · 第 2 版 	:data_science:python:
 https://github.com/apachecn/pyda-2e-zh
 
 #+begin_quote
@@ -6134,7 +6132,7 @@ https://github.com/Cerlancism/chatgpt-subtitle-translator
   ChatGPT has also demonstrated its capabilities as a robust translator, capable of handling not just common languages, but also unconventional forms of writing like emojis and .
 #+end_quote
 
-*** ggerganov/whisper.cpp	:2todo:core-ml:llm:openvino:
+*** ggerganov/whisper.cpp	:2todo:core_ml:llm:openvino:
 https://github.com/ggerganov/whisper.cpp
 
 #+begin_quote
@@ -6152,7 +6150,7 @@ https://mirrors.quickso.cn/
   快点软件镜像站由欢哥科技建立，提供提供开源软件国内镜像信息服务，欢迎使用！
 #+end_quote
 
-*** brakmic/Data-Science-for-Losers: Articles on Data Science, Jupyter, and Pan	:data-science:
+*** brakmic/Data-Science-for-Losers: Articles on Data Science, Jupyter, and Pan	:data_science:
 https://github.com/brakmic/Data-Science-for-Losers
 
 #+begin_quote
@@ -6275,7 +6273,7 @@ https://linux.cn/article-15749-1.html
 
 *** https://medium.com/microsoft-design/behind-the-design-meet-copilot-2c68182a0e70	
 https://medium.com/microsoft-design/behind-the-design-meet-copilot-2c68182a0e70
-*** [#B] Musicolet Music Player - 个人已知安卓下最省心的音乐播放器 - 小众软件	:android-apps:
+*** [#B] Musicolet Music Player - 个人已知安卓下最省心的音乐播放器 - 小众软件	:android_apps:
 https://www.appinn.com/musicolet-music-player/
 
 #+begin_quote
@@ -6570,7 +6568,7 @@ http://xahlee.info/emacs/emacs/emacs_unicode_fonts.html
 
 *** Huawei Matebook X Pro Fingerprint - Linux - let us make it working! : Mateb	
 https://old.reddit.com/r/MatebookXPro/comments/apsxw8/huawei_matebook_x_pro_fingerprint_linux_let_us/
-*** How to Type Accented Characters in Linux	:x11-apps:
+*** How to Type Accented Characters in Linux	:x11_apps:
 https://www.makeuseof.com/how-to-type-accented-characters-in-linux/
 
 #+begin_quote
@@ -6751,7 +6749,7 @@ https://ghisler.ch/board/viewtopic.php?p=252125
   Please, leave your comments, suggestions and bug reports in the plugin discussion page. Linux installation in DoubleCommander: 1. Install the adb.wfx plugin 2. Delete the adb.wfx file and rename adb_rename.wfx to adb.
 #+end_quote
 
-*** [#B] Tree-sitter Starter Guide	:emacs:tree-sitter:
+*** [#B] Tree-sitter Starter Guide	:emacs:tree_sitter:
 https://archive.casouri.cc/note/2023/tree-sitter-starter-guide/
 
 #+begin_quote
@@ -6800,7 +6798,7 @@ https://www.makeuseof.com/downgrade-android-app-with-adb/
   Downgrading an Android app can be useful if the latest update introduces bugs or changes you don't like. Sometimes, the newer version of an app might no longer be compatible with your Android version, so you have to get the older version to make it work.
 #+end_quote
 
-*** Orgro	:android:emacs:org-mode:
+*** Orgro	:android:emacs:org_mode:
 https://f-droid.org/packages/com.madlonkay.orgro/
 
 #+begin_quote
@@ -6887,14 +6885,14 @@ https://www.ghacks.net/2023/02/20/save-ram-and-power-with-these-new-chrome-featu
   Google is rolling out Memory Saver and Energy Saver modes in Chrome 110 for the desktop. Memory Saver is designed to limit the Chrome web browser's memory usage by unloading inactive tabs. Energy Saver on the other hand is designed to reduce the browser's power use by conserving power.
 #+end_quote
 
-*** Live Captions：Linux 上的开源视频字幕应用	:subtitles:x11-apps:
+*** Live Captions：Linux 上的开源视频字幕应用	:subtitles:x11_apps:
 https://linux.cn/article-15554-1.html
 
 #+begin_quote
   Live Captions 是一个用于 Linux 桌面的应用程序，为视频提供即时、本地和开源的字幕。 在一个完美的世界里，所有的视频都会有文字说明，直播视频也会有字幕。这不仅是没有听力的人能够参与流行文化和视频聊天的要求，对于
 #+end_quote
 
-*** 三体再引巨大争议, 刘慈欣: 我们社会的真正灾难是科学精神严重缺失｜文化纵横	:sci-fi:
+*** 三体再引巨大争议, 刘慈欣: 我们社会的真正灾难是科学精神严重缺失｜文化纵横	:sci_fi:
 https://c.m.163.com/news/a/HRPBBLVV052100BV.html?spss=newsapp&spsnuid=JX%2FBsEu0MhSHXt7xXQG%2Fo6lyorXc%2F6gpWHEH1XWfz24%3D&spsdevid=FBF5A11A-9E49-4E48-9FDA-99AD42D6FBB5&spsvid=&spsshare=default&spsts=1674530895151&spstoken=kxRdfry90LRQewC%2F%2FAc9abM3FzZ1v0p5aYzGgDEo1%2B5922FjZJ9Je1eJxfhRS%2BRJpeQq3chqjsdWPH3Vfh54ZA%3D%3D
 
 #+begin_quote
@@ -6938,14 +6936,14 @@ https://www.askvg.com/tip-disable-or-turn-off-any-desired-key-in-your-computer-k
 
 *** [#B] 将外文电子书翻译成双语对照版本，并在任何设备上阅读	:diy:
 https://utgd.net/article/10001
-*** Tree Sitter and the Complications of Parsing Languages - Mastering Emacs	:emacs:parser:tree-sitter:
+*** Tree Sitter and the Complications of Parsing Languages - Mastering Emacs	:emacs:parser:tree_sitter:
 https://www.masteringemacs.org/article/tree-sitter-complications-of-parsing-languages
 
 #+begin_quote
   I talk about tree sitter, CEDET, and Combobulate – my "paredit-style" package that's designed to work with most programming languages.
 #+end_quote
 
-*** Combobulate: Structured Movement and Editing with Tree-Sitter - Mastering E	:2el:emacs:tree-sitter:
+*** Combobulate: Structured Movement and Editing with Tree-Sitter - Mastering E	:2el:emacs:tree_sitter:
 https://www.masteringemacs.org/article/combobulate-structured-movement-editing-treesitter
 
 #+begin_quote
@@ -6995,7 +6993,7 @@ http://www.makeuseof.com/tag/google-chrome-ram-memory-usage/
   Why does it always seem like Chrome is using too much memory? The web has changed in recent years. Applications that would only run on desktop computers now run in the browser, but this comes at a cost. Modern browsers use a lot of RAM, and Chrome is among the worst offenders.
 #+end_quote
 
-*** Tree-sitter starter guide	:emacs:parser:tree-sitter:
+*** Tree-sitter starter guide	:emacs:parser:tree_sitter:
 https://www.reddit.com/r/emacs/comments/10epgz4/treesitter_starter_guide/
 
 #+begin_quote
@@ -7051,7 +7049,7 @@ https://raspberrypi.stackexchange.com/questions/40501/run-armv6-software-on-rasp
   Yes, in fact all of the software from Raspbian except the kernel falls into this category (i.e., the entire userland). It's compiled for ARMv6 so it works on all models, because ARMv7 is backward compatible.
 #+end_quote
 
-*** An Overview of ARM64, ARMel and ARMhf Processor Architectures | Baeldung on	:2work:arm-cpu:
+*** An Overview of ARM64, ARMel and ARMhf Processor Architectures | Baeldung on	:2work:arm_cpu:
 https://www.baeldung.com/linux/arm64-armel-armhf-overview
 *** Tree-edit: Structural editing for Java, Python, C, and beyond!	
 https://emacsconf.org/2021/talks/structural/
@@ -7060,7 +7058,7 @@ https://emacsconf.org/2021/talks/structural/
   If you have questions and the speaker has not indicated public contact information on this page, please feel free to e-mail us at emacsconf-submit@gnu.org and we'll forward your question to the speaker.
 #+end_quote
 
-*** EmacsConf 2022: Tree-sitter beyond syntax highlighting - Abin Simon - YouTu	:emacs:parser:tree-sitter:
+*** EmacsConf 2022: Tree-sitter beyond syntax highlighting - Abin Simon - YouTu	:emacs:parser:tree_sitter:
 https://www.youtube.com/watch?v=MZPR_SC9LzE
 
 #+begin_quote
@@ -7153,7 +7151,7 @@ https://jackstromberg.com/2021/07/how-to-add-buster-backports-to-a-raspberry-pi/
   What are backports? Debian has a really good write up here on what backports are. Copying directly from their introduction paragraph: You are running Debian stable, because you prefer the Debian stable tree.
 #+end_quote
 
-*** 为了 Android 不被「卡脖子」，Google 正在酝酿一个大计划	:android:arm-cpu:
+*** 为了 Android 不被「卡脖子」，Google 正在酝酿一个大计划	:android:arm_cpu:
 https://www.ifanr.com/1530347
 
 #+begin_quote
@@ -7183,7 +7181,7 @@ https://github.com/slashbaseide/slashbase
   Slashbase is an open-source modern database IDE for your dev/data workflows. Use Slashbase to connect to any of your database, browse data and schema, write, run and save queries, create charts. Supports MySQL, PostgreSQL and MongoDB. It is in beta (v0.
 #+end_quote
 
-*** Data Science for Losers, Part 2 – Coding	:data-science:
+*** Data Science for Losers, Part 2 – Coding	:data_science:
 http://web.archive.org/web/20180422200021/http://blog.brakmic.com/data-science-for-losers-part-2
 
 #+begin_quote
@@ -7197,7 +7195,7 @@ https://github.com/arch1t3cht/Aegisub
   Download release builds here, or the latest CI builds here. The release page also has detailed list of all changes and new features. If you're interested in the technical details or want to compile yourself, read on.
 #+end_quote
 
-*** Experimenting With the Built-in Tree-sitter Support in Emacs	:emacs:parser:tree-sitter:
+*** Experimenting With the Built-in Tree-sitter Support in Emacs	:emacs:parser:tree_sitter:
 https://blog.markhepburn.com/posts/experimenting-with-the-built-in-treesitter-support-in-emacs/
 
 #+begin_quote
@@ -7211,14 +7209,14 @@ https://www.n16f.net/blog/replacing-projectile-by-project/
   I have been using Projectile for years, and it served me well. While Projectile is really useful, it is a third party package made of more than 8000 lines of code. Since the built-in Project module has received lots of improvements since Emacs 28.
 #+end_quote
 
-*** A Guide to Big Finish [Updated 2023]	:2evernote:2scrapbook:doctor.who:
+*** A Guide to Big Finish [Updated 2023]	:2evernote:2scrapbook:doctor_who:
 https://www.reddit.com/r/gallifrey/comments/103fj01/a_guide_to_big_finish_updated_2023/
 
 #+begin_quote
   I made a post a couple years ago as a guide to Big Finish for new listeners. Based on posts from the last week or two it looks like we're in another p
 #+end_quote
 
-*** How to Bring Back the Classic Taskbar on Windows 11	:win-tips:win11:
+*** How to Bring Back the Classic Taskbar on Windows 11	:win_tips:win11:
 https://lifehacker.com/how-to-bring-back-the-classic-taskbar-on-windows-11-1849933317
 
 #+begin_quote
@@ -7243,7 +7241,7 @@ https://justinyan.me/post/5401
   读书是我很喜欢的娱乐活动，小时候作为“盗版软件的受害者”也习惯了阅读电子书。这段圆鼓鼓的CRT显示器的阅读训练使我后来很容易适应各类电子阅读器，普通的电脑屏幕、手机、平板和Kindle，来者不拒。
 #+end_quote
 
-*** 科幻故事为何总发生在2077年？	:sci-fi:
+*** 科幻故事为何总发生在2077年？	:sci_fi:
 https://mp.weixin.qq.com/s/g1S2QzyBuXdy_RR22ll8LQ
 
 #+begin_quote
@@ -7275,7 +7273,7 @@ https://github.com/adafruit/Adafruit-Pi-Finder
 https://www.raspberrypi.com/news/the-latest-update-to-raspberry-pi-os/
 *** [2022.04] An update to Raspberry Pi OS Bullseye - Raspberry Pi	:raspbian:whatsnew:
 https://www.raspberrypi.com/news/raspberry-pi-bullseye-update-april-2022/
-*** [#B] Raspberry Pi App Store for Open Source Projects 	:raspi:x11-apps:
+*** [#B] Raspberry Pi App Store for Open Source Projects 	:raspi:x11_apps:
 https://github.com/Botspot/pi-apps
 
 #+begin_quote
@@ -7333,7 +7331,7 @@ https://github.com/qwj/python-proxy
   HTTP/HTTP2/HTTP3/Socks4/Socks5/Shadowsocks/SSH/Redirect/Pf/QUIC TCP/UDP asynchronous tunnel proxy implemented in Python3 asyncio. pycryptodome is an optional library to enable faster (C version) cipher. pproxy has many built-in pure python ciphers.
 #+end_quote
 
-*** Install cherrytree on Raspberry Pi using the Snap Store | Snapcraft	:x11-apps:
+*** Install cherrytree on Raspberry Pi using the Snap Store | Snapcraft	:x11_apps:
 https://snapcraft.io/install/cherrytree/raspbian#install
 
 #+begin_quote
@@ -7347,7 +7345,7 @@ https://github.com/manateelazycat/popweb
   I always wanted a fast and responsive pop-up window to display multimedia content in Emacs, this includes web translation tooltip, LaTeX preview for math equations, code completion, color picker, etc.
 #+end_quote
 
-*** Multi-boot tool Ventoy adds support for 32GB Fat32 and multi-languages	:pc-boot:
+*** Multi-boot tool Ventoy adds support for 32GB Fat32 and multi-languages	:pc_boot:
 https://www.ghacks.net/2022/12/05/multi-boot-tool-ventoy-adds-support-for-32gb-fat32-and-multi-languages/
 
 #+begin_quote
@@ -7676,7 +7674,7 @@ http://noeld.com/programs.asp?cat=misc#display
   The Locked Files Wizard, formerly known as CopyLock, is an assistant that allows you to either delete, move or rename files or folders used by the system or any other application or process.
 #+end_quote
 
-*** [#B] Musicolet Music Player	:2bookmark:android-apps:audiobook:
+*** [#B] Musicolet Music Player	:2bookmark:android_apps:audiobook:
 https://play.google.com/store/apps/details?id=in.krosbits.musicolet
 
 #+begin_quote
@@ -7791,7 +7789,7 @@ https://linux.cn/article-13612-1.html
 #+end_quote
 
 ** 2022-06
-*** Use `org-extra-emphasis’ , when you need more Emphasis Markers in Emacs Org	:2022:org-mode:
+*** Use `org-extra-emphasis’ , when you need more Emphasis Markers in Emacs Org	:2022:org_mode:
 https://emacsnotes.wordpress.com/2022/06/29/use-org-extra-emphasis-when-you-need-more-emphasis-markers-in-emacs-org-mode/
 
 #+begin_quote
@@ -7929,14 +7927,14 @@ https://itsfoss.com/thonny-python-ide/
   Running a Python program in Linux is as simple as executing the Python file in the terminal. But that’s not very convenient for everyone and it doesn’t help you debug your programs. Too raw.
 #+end_quote
 
-*** Live Long And Prosper: The 10 Best 'Spock' Episodes - TREKNEWS.NET | Your d	:2evernote:star.trek:
+*** Live Long And Prosper: The 10 Best 'Spock' Episodes - TREKNEWS.NET | Your d	:2evernote:star_trek:
 https://treknews.net/2015/03/06/best-spock-leonard-nimoy-star-trek-episodes/
 
 #+begin_quote
   It’s been a week since the passing of Leonard Nimoy and we’ve all dealt with his loss in a multitude of ways and through our own stages of grief. However, I think it is safe to say that through this difficult process, we as Star Trek fans, can pay no better homage to Mr.
 #+end_quote
 
-*** linuxmint/timeshift: System restore tool for Linux. Creates filesystem snap	:sysadmin:x11-apps:
+*** linuxmint/timeshift: System restore tool for Linux. Creates filesystem snap	:sysadmin:x11_apps:
 https://github.com/linuxmint/timeshift
 
 #+begin_quote
@@ -7958,7 +7956,7 @@ https://github.com/stefankueng/demohelper
   DemoHelper is an annotation and screen zoom tool you can use for technical presentations that include application demonstrations. It can also show an overlay indicating which key-shortcut you entered or which mousebutton you clicked, which is also useful when recording screencasts.
 #+end_quote
 
-*** Foliate - The Best eBook Reader for Linux	:2versions:epub:x11-apps:
+*** Foliate - The Best eBook Reader for Linux	:2versions:epub:x11_apps:
 https://johnfactotum.github.io/foliate/
 
 #+begin_quote
@@ -8037,7 +8035,7 @@ http://www.masteringemacs.org/article/the-emacs-28-edition-of-mastering-emacs-ou
 
 *** Converseen - A Free Batch Image Converter and More - Converseen	:pyqt:
 https://converseen.fasterland.net/
-*** Go for Python Programmers — Go for Python Programmers 0.1a documentation	:golang:prog.lang:rant:versus:
+*** Go for Python Programmers — Go for Python Programmers 0.1a documentation	:golang:prog_lang:rant:versus:
 https://golang-for-python-programmers.readthedocs.io/en/latest/
 
 #+begin_quote
@@ -8065,7 +8063,7 @@ http://dualmonitortool.sourceforge.net/dualwallpaper.html
   Dual Wallpaper simplifies the process of using images as wallpaper on multiple monitor setups.
 #+end_quote
 
-*** Kano tries to make learning code magical with its new Harry Potter Coding k	:kids-coding:
+*** Kano tries to make learning code magical with its new Harry Potter Coding k	:kids_coding:
 https://www.theverge.com/2018/7/24/17604924/harry-potter-kano-coding-kit-learn-wand-accelerometer-motiono-controls-wizarding
 
 #+begin_quote
@@ -8094,9 +8092,9 @@ https://www.ghacks.net/2021/11/22/how-to-get-chrome-extensions-on-android/
   Whether you’re a student or work from home or an office, Chrome has some great extensions that help with organization, productivity, learning, and entertainment. You’ve probably discovered quite a few of these handy extensions and plugins on your computer.
 #+end_quote
 
-*** 《星球大战》入坑指南	:2022:2scrapbook:star.wars:
+*** 《星球大战》入坑指南	:2022:2scrapbook:star_wars:
 https://zhuanlan.zhihu.com/p/152241171
-*** https://zhuanlan.zhihu.com/p/59469785	:2022:2scrapbook:star.wars:
+*** https://zhuanlan.zhihu.com/p/59469785	:2022:2scrapbook:star_wars:
 https://zhuanlan.zhihu.com/p/59469785
 *** GitHub - hmgle/graftcp: A flexible tool for redirecting a given program's T	
 https://github.com/hmgle/graftcp
@@ -8292,42 +8290,42 @@ https://www.squarefree.com/bookmarklets/
   Bookmarklets are free tools to help with repetitive or otherwise impossible tasks in your web browser. To use a bookmarklet from this site on another web page: 1. Drag the bookmarklet (e.g. zoom images in or zap colors) to your Bookmarks Toolbar or Links Bar. 2.
 #+end_quote
 
-*** The Mandalorian: 4 Star Wars Comics To Read While You Wait For Season 2 | C	:star.wars:
+*** The Mandalorian: 4 Star Wars Comics To Read While You Wait For Season 2 | C	:star_wars:
 https://www.cinemablend.com/television/2554609/the-mandalorian-4-star-wars-comics-to-read-while-you-wait-for-season-2
 
 #+begin_quote
   Star Wars fans didn’t know how much they wanted, nay, needed The Mandalorian when it debuted back in November of last year until we actually got it.
 #+end_quote
 
-*** Rebellion era | Wookieepedia | Fandom	:star.wars:
+*** Rebellion era | Wookieepedia | Fandom	:star_wars:
 https://starwars.fandom.com/wiki/Rebellion_era
 
 #+begin_quote
   The Rebellion era, sometimes referred to as the Classic era, takes place between 0 BBY (the Battle of Toprawa) and 4 ABY (the Battle of Endor), and into events after the battle until 5 ABY.[1] The events of the original trilogy (Episode IV A New Hope, Episode V The Empire Strikes Back, and...
 #+end_quote
 
-*** Star Wars Legends Timeline - All Timelines	:star.wars:
+*** Star Wars Legends Timeline - All Timelines	:star_wars:
 https://alltimelines.com/star-wars-legends-timeline/
 
 #+begin_quote
   A massive universe with hundreds of stories spread out across thousands of years, this Star Wars Legends timeline attempts to share it all in chronological order.
 #+end_quote
 
-*** Star Wars Canon Comics: The Ultimate Getting Started Guide	:star.wars:
+*** Star Wars Canon Comics: The Ultimate Getting Started Guide	:star_wars:
 https://youtini.com/guide/star-wars-canon-comics-the-ultimate-getting-started-guide
 
 #+begin_quote
   Books  Discover Books STAR WARS BOOK HQ Reading Collections Youtini Reading Order CANON Chronological Order Legends Chronological Order Publishing Order Popular Guides Getting Started: The Best Star Wars Books to Read First Star Wars Canon vs Legends The Ultimate Guide to Star Wars Ca
 #+end_quote
 
-*** [#B] Best Star Wars Comics: An Expert Guide	:star.wars:topn:
+*** [#B] Best Star Wars Comics: An Expert Guide	:star_wars:topn:
 https://youtini.com/guide/best-star-wars-comics-an-expert-guide
 
 #+begin_quote
   Books  Discover Books STAR WARS BOOK HQ Reading Collections Youtini Reading Order CANON Chronological Order Legends Chronological Order Publishing Order Popular Guides Getting Started: The Best Star Wars Books to Read First Star Wars Canon vs Legends The Ultimate Guide to Star Wars Ca
 #+end_quote
 
-*** Which stories, in your opinion, portray the Cybermen at their best and why?	:audio-drama:big.finish:doctor.who:
+*** Which stories, in your opinion, portray the Cybermen at their best and why?	:audio_drama:big_finish:doctor_who:
 https://www.reddit.com/r/gallifrey/comments/ttau7j/which_stories_in_your_opinion_portray_the/
 
 #+begin_quote
@@ -8351,7 +8349,7 @@ https://www.cnblogs.com/ztguang/p/12644530.html
 
 *** PanDownload - PanDownload	
 http://pandownload.net/index.html
-*** [#B] The Star Wars TV Episodes to Watch Before The Mandalorian | Digital Trends	:star.wars:
+*** [#B] The Star Wars TV Episodes to Watch Before The Mandalorian | Digital Trends	:star_wars:
 https://www.digitaltrends.com/movies/star-wars-clone-wars-and-rebels-episodes-to-watch-to-better-understand-the-mandalorian/
 
 #+begin_quote
@@ -8365,7 +8363,7 @@ https://web.archive.org/web/20191110173006/https://legacycollector.org/firefox-a
   Note: this archive will be shut down in December 2019. See the main index.
 #+end_quote
 
-*** Star Wars Comics You Should Read After The Mandalorian	:star.wars:
+*** Star Wars Comics You Should Read After The Mandalorian	:star_wars:
 https://screenrant.com/mandalorian-best-star-wars-comics-read/
 
 #+begin_quote
@@ -8394,7 +8392,7 @@ https://gwolf.org/2019/02/debian-on-the-raspberryscape-great-news.html
 https://www.raspberrypi.com/news/raspberry-pi-os-64-bit/
 *** [2021.11] Bullseye - the new version of Raspberry Pi OS - Raspberry Pi	:raspi:
 https://www.raspberrypi.com/news/raspberry-pi-os-debian-bullseye/
-*** 使用 Python 5 年后，我转向了Go_编程语言_Elad Leev_InfoQ精选文章	:golang:prog.lang:rant:
+*** 使用 Python 5 年后，我转向了Go_编程语言_Elad Leev_InfoQ精选文章	:golang:prog_lang:rant:
 https://www.infoq.cn/article/G-cfduQWKy3ROfx5p6US
 *** Chromebook/Chrome OS折腾汇总 - 知乎	
 https://zhuanlan.zhihu.com/p/67395570
@@ -8497,7 +8495,7 @@ https://github.com/go-task/task
   Task is a task runner / build tool that aims to be simpler and easier to use than, for example, GNU Make.
 #+end_quote
 
-*** GitHub - chai2010/advanced-go-programming-book: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言	:2022:golang:prog.lang:
+*** GitHub - chai2010/advanced-go-programming-book: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言	:2022:golang:prog_lang:
 https://github.com/chai2010/advanced-go-programming-book
 
 #+begin_quote
@@ -8575,7 +8573,7 @@ https://rr-project.org/
   Start by using rr to record your application: $ rr record /your/application --args ... FAIL: oh no! The entire execution, including the failure, was saved to disk. That recording can now be debugged. $ rr replay GNU gdb (GDB) ... ... 0x4cee2050 in _start () from /lib/ld-linux.so.
 #+end_quote
 
-*** The Best Coding Toys for Kids of All Ages	:kids-coding:
+*** The Best Coding Toys for Kids of All Ages	:kids_coding:
 https://www.reviewgeek.com/lp/the-best-coding-toys-for-kids-of-all-ages/
 *** 每天早上有多少人在“假装刷牙”！（附牙医正解刷牙图鉴）	:benben:
 https://mp.weixin.qq.com/s?__biz=MzA5MTYzODI4NQ==&mid=2650169132&idx=1&sn=fb4874680984a10db0dc3bd99f16f9fa&chksm=887ba04ebf0c2958be09353feb35ca9f529dca7120ff065a77a4e0c6cf7ceddd73a74a699996&scene=21#wechat_redirect
@@ -8601,7 +8599,7 @@ https://linux.cn/article-14235-shareweibo.html
 #+end_quote
 
 ** 2022-01
-*** Dealing with APIs, JSONs and databases in org-mode	:lit.prog:org-mode:
+*** Dealing with APIs, JSONs and databases in org-mode	:lit_prog:org_mode:
 https://isamert.net/2022/01/04/dealing-with-apis-jsons-and-databases-in-org-mode.html
 
 #+begin_quote
@@ -8629,7 +8627,7 @@ https://github.com/Gadgetoid/pi400kb
   Hook your Pi 400 up to your PC somehow, using a USB Type-C cable into the power port. Anker make good ones- I used a 3m white one for my tests. Thank you to all the people who dropped by with kind words, suggestions and improvements.
 #+end_quote
 
-*** How to Convert MP4 or Any Video to MP3 (Extract Audio from Video) » Winhelp	:2scrapbook:audio-tools:
+*** How to Convert MP4 or Any Video to MP3 (Extract Audio from Video) » Winhelp	:2scrapbook:audio_tools:
 https://www.winhelponline.com/blog/convert-mp4-or-any-video-to-mp3-windows/
 * 2021
 ** 2021-12
@@ -8718,7 +8716,7 @@ https://addons.mozilla.org/en-US/firefox/addon/tab-stash/
   Tab Stash is a no-fuss way to save and organize batches of tabs as bookmarks. Sweep your browser clean with one click of the Tab Stash icon (if configured). Your open tabs will be stashed away in your bookmarks, conveniently organized into groups.
 #+end_quote
 
-*** Linux 上的顶级安卓模拟器	:android:android-emu:emulator:
+*** Linux 上的顶级安卓模拟器	:android:android_emu:emulator:
 https://linux.cn/article-13629-1.html
 
 #+begin_quote
@@ -8771,7 +8769,7 @@ https://linux.cn/article-13422-1.html
   所有大量使用 Git 的人都会用到某种形式的上下文切换。有时这只会给你的工作流程增加少量的开销，但有时，这可能是一段痛苦的经历。
 #+end_quote
 
-*** Bpuzzle v1.2	:games:kids-games:
+*** Bpuzzle v1.2	:games:kids_games:
 https://www.sordum.org/8058/bpuzzle-v1-2/
 
 #+begin_quote
@@ -8879,14 +8877,14 @@ https://arnav.jain.se/2017/windows-10-rdp-to-local-user/
 
 *** 安利一款神器-教你轻松下载百度网盘超大文件 - 51CTO.COM	
 https://os.51cto.com/art/202103/649458.htm
-*** 在 Linux 上安装官方 Evernote 客户端	:evernote:linux:x11-apps:
+*** 在 Linux 上安装官方 Evernote 客户端	:evernote:linux:x11_apps:
 https://linux.cn/article-13195-1.html
 
 #+begin_quote
   Evernote 是一款流行的笔记应用。它在推出时是一个革命性的产品。从那时起，已经有好几个这样的应用，可以将网络剪报、笔记等保存为笔记本格式。
 #+end_quote
 
-*** Doctor Who: Top Ten Master Stories On Audio	:2bookmark:audio-drama:doctor.who:topn:
+*** Doctor Who: Top Ten Master Stories On Audio	:2bookmark:audio_drama:doctor_who:topn:
 http://www.warpedfactor.com/2021/01/doctor-who-top-ten-master-stories-on.html
 
 #+begin_quote
@@ -8958,7 +8956,7 @@ https://www.xmodulo.com/write-raspberry-pi-image-sd-card.html
   Raspberry Pi (RPi) is a cheap and tiny single-board computer powered by ARM processor.
 #+end_quote
 
-*** Raspberry Pi OS for arm64 finally released! : raspberry_pi	:arm-cpu:raspi:
+*** Raspberry Pi OS for arm64 finally released! : raspberry_pi	:arm_cpu:raspi:
 https://old.reddit.com/r/raspberry_pi/comments/gs6omd/raspberry_pi_os_for_arm64_finally_released/
 *** Micro SD, SD-HC, SD-XC differences explained. | Overclock.net	
 https://www.overclock.net/threads/micro-sd-sd-hc-sd-xc-differences-explained.739577/
@@ -9025,7 +9023,7 @@ https://www.cnblogs.com/haoyifei/p/5687235.html
   作为在中国工作的程序员，不懂得英语似乎也不妨碍找到好工作，升职加薪。但程序员这个工种则稍有不同，因为程序，尤其是高级语言，基本上都是由英语和数字表达式构成的。英语对于程序员十分重要。我的大学本科全部采
 #+end_quote
 
-*** Here is how you download any Windows 10 version ISO from Microsoft	:pc-boot:win10:
+*** Here is how you download any Windows 10 version ISO from Microsoft	:pc_boot:win10:
 https://www.ghacks.net/2020/10/31/here-is-how-you-download-any-windows-10-version-iso-from-microsoft/
 
 #+begin_quote
@@ -9047,7 +9045,7 @@ https://extensionworkshop.com/documentation/develop/temporary-installation-in-fi
   This article describes how you can temporarily install an extension in Firefox for testing and debugging. The extension stays installed until you remove it or restart Firefox. For extension development, automate the processes described on this page by using web-ext.
 #+end_quote
 
-*** 从Evernote 到 Bear，笔记工具「被偷走的十年」 – Dailyio	:evernote:note-taking:
+*** 从Evernote 到 Bear，笔记工具「被偷走的十年」 – Dailyio	:evernote:note_taking:
 https://iois.me/archives/8462.html
 
 #+begin_quote
@@ -9173,7 +9171,7 @@ https://github.com/klaussinani/tusk
   Sponsored by: Spot, Resolve, and Prevent Downtime. Tusk is an unofficial, featureful, open source, community-driven, free Evernote app used by people in more than 140 countries. Tusk is indicated by Evernote as an alternative client for Linux environments trusted by the open source community.
 #+end_quote
 
-*** How to install Microsoft OneNote on Linux | FOSS Linux	:note-taking:x11:
+*** How to install Microsoft OneNote on Linux | FOSS Linux	:note_taking:x11:
 https://www.fosslinux.com/20382/how-to-install-microsoft-onenote-on-linux.htm
 
 #+begin_quote
@@ -9541,7 +9539,7 @@ https://ruleoftech.com/2018/generating-documentation-as-code-with-mermaid-and-pl
   Writing documentation is always a task which isn’t much liked and especially with diagrams and flowcharts there’s the problem of which tools to use. One crafty tool is Draw.
 #+end_quote
 
-*** Design Patterns in Dynamic Languages	:2office:patterns:prog.lang:
+*** Design Patterns in Dynamic Languages	:2office:patterns:prog_lang:
 http://norvig.com/design-patterns/
 
 #+begin_quote
@@ -9690,7 +9688,7 @@ https://feeding.cloud.geek.nz/posts/sharing-wifi-connection-with-network-manager
   In-flight and hotel WiFi can be quite expensive and often insist on charging users extra to connect multiple devices. In order to avoid that, it's possible to easily create a WiFi hotspot using NetworkManager and a external USB WiFi adapter.
 #+end_quote
 
-*** [#B] Mytharc Primer « EatTheCorn.com	:x-files:
+*** [#B] Mytharc Primer « EatTheCorn.com	:x_files:
 http://www.eatthecorn.com/mytharc-primer/
 
 #+begin_quote
@@ -9882,7 +9880,7 @@ https://steemit.com/utopian-io/@ivysrono/the-best-redirector-for-chinese-problem
   Some times we Chinese have some problem for the resources (fonts, scripts, etc.) at google. Redirect them to a local mirror may be a good idea, like jiacai2050/gooreplacer I'm using gooreplacer on Firefox for Android too, but not on PC.
 #+end_quote
 
-*** X-Files - Antibodies - Аудиокниги/Audiobooks	:audiobook:x-files:
+*** X-Files - Antibodies - Аудиокниги/Audiobooks	:audiobook:x_files:
 https://m.vk.com/audio?act=audio_playlist-3450_19139787&from=audios-3450
 
 #+begin_quote
@@ -10077,7 +10075,7 @@ https://github.com/genymobile/copydeps
 #+end_quote
 
 ** 2019-11
-*** Electric Dreams (2017 TV series) - Wikipedia	:pkd:sci.fi:
+*** Electric Dreams (2017 TV series) - Wikipedia	:pkd:sci_fi:
 https://en.wikipedia.org/wiki/Electric_Dreams_(2017_TV_series)
 
 #+begin_quote
@@ -10100,7 +10098,7 @@ https://www.worthe-it.co.za/programming/2017/09/19/quick-introduction-to-graphvi
   "Graph" is unfortunately an ambiguous word. When I hear it, I can't help but think of a chart with an X axis and a Y axis. That is not what I mean by graph in this post. This simple data structure, when drawn out on paper, can convey many different situations.
 #+end_quote
 
-*** The 10 highest rated Doctor Who novels from various series (as ranked by Go	:books:doctor.who:
+*** The 10 highest rated Doctor Who novels from various series (as ranked by Go	:books:doctor_who:
 https://old.reddit.com/r/gallifrey/comments/2vwawh/the_10_highest_rated_doctor_who_novels_from/
 *** Turn Your Charts Into xkcd-Style Charts With These Tools	
 https://lifehacker.com/turn-your-charts-into-xkcd-style-charts-with-these-tool-1839923118
@@ -10123,7 +10121,7 @@ https://www.makeuseof.com/tag/5-awesome-free-printable-board-games/
   If you're on the lookout for a new hobby you've probably considered exploring the world of printable board games and printable card games. And it turns out that it's both easy and free to make your own games. There are lots of games available to download and print out at home.
 #+end_quote
 
-*** Season 6B: Officially an Unofficial Seas	:doctor.who:
+*** Season 6B: Officially an Unofficial Seas	:doctor_who:
 http://morgue-of-intrigue.blogspot.com/2012/02/season-6b-officially-unofficial-season.html
 
 #+begin_quote
@@ -10242,7 +10240,7 @@ http://www.makeuseof.com/tag/3-websites-to-download-virtual-disk-images-for-virt
 #+end_quote
 
 ** 2019-08
-*** The 5 Best Docks To Use On Linux	:x11-de:
+*** The 5 Best Docks To Use On Linux	:x11_de:
 https://www.addictivetips.com/ubuntu-linux-tips/best-docks-to-use-on-linux/
 
 #+begin_quote
@@ -10303,7 +10301,7 @@ http://blog.lujun9972.win/blog/2018/06/03/emacs%E5%B8%AE%E4%BD%A0%E8%BF%9B%E8%A1
 
 *** Teach Your Kids To Roleplay With These $3-ish Games | Geek and Sundry	
 https://geekandsundry.com/teach-your-kids-to-roleplay-with-these-3-ish-games/
-*** [#B] 23 Toys That Will Occupy Your Kid at a Restaurant (That Are Not an iPad)	:kids-pg:
+*** [#B] 23 Toys That Will Occupy Your Kid at a Restaurant (That Are Not an iPad)	:kids_pg:
 http://offspring.lifehacker.com/23-toys-that-will-occupy-your-kid-at-a-restaurant-that-1800009916
 *** Make Your Own Mario Game! Scratch Basics for Kids and Adults	:scratch:
 https://www.makeuseof.com/tag/make-mario-game-scratch-basics-kids-adults/
@@ -10319,7 +10317,7 @@ https://www.makeuseof.com/tag/cult-movies-watch-netflix/
   Unless and until you have watched at least a few cult classics you really can't call yourself a serious film buff. However, there are so many cult movies to choose from it's hard to know where to begin. Thankfully, Netflix has some choice selections to get you started.
 #+end_quote
 
-*** The 11 Best Coding Games for Kids to Learn Programming	:kids-coding:
+*** The 11 Best Coding Games for Kids to Learn Programming	:kids_coding:
 https://www.makeuseof.com/tag/best-coding-games-for-kids-learn-programming/
 
 #+begin_quote
@@ -10443,7 +10441,7 @@ https://www.makeuseof.com/tag/linux-software-for-kids/
   Kids love a bit of tech, especially if it lets them play games or watch their favorite YouTubers safely. Getting them to enjoy the kind of tech that helps them to learn, however, is a whole tougher challenge, but who said educational software had to be boring?
 #+end_quote
 
-*** 7 Best Coding Apps for Kids to Learn Programming	:kids-coding:
+*** 7 Best Coding Apps for Kids to Learn Programming	:kids_coding:
 https://www.makeuseof.com/tag/best-coding-apps-kids-learn-programming/
 
 #+begin_quote
@@ -10485,7 +10483,7 @@ http://wiki.nxez.com/rpi:list-of-oses
   本页面将以较高频率更新，以确保您可以通过它及时获得可玩性好、安全性高的树莓派系统。树莓派实验室强烈推荐您将页面加入到收藏夹，居家玩Pi必备~
 #+end_quote
 
-*** Org-mode website | John’s Blog	:org-mode:
+*** Org-mode website | John’s Blog	:org_mode:
 http://www.johnborwick.com/2019/02/13/org-mode-website.html
 
 #+begin_quote
@@ -10594,7 +10592,7 @@ https://www.bravotv.com/blogs/best-games-for-families-kids
   Create a free profile to get unlimited access to exclusive videos, sweepstakes, and more! As a mom of six kids, ages 11-16, I know how it is.
 #+end_quote
 
-*** The 2016 Toy Buying Guide For Kids Learning How To Code	:kids-coding:
+*** The 2016 Toy Buying Guide For Kids Learning How To Code	:kids_coding:
 https://www.forbes.com/sites/jennchoi/2016/12/17/the-2016-toy-buying-guide-for-kids-learning-how-to-code/
 
 #+begin_quote
@@ -10636,7 +10634,7 @@ https://www.addictivetips.com/ubuntu-linux-tips/use-linuxbrew-package-manager/
   The Linuxbrew package manager is your ticket to Homebrew on Linux, and by installing it, you’ll gain access to dozens of unique, useful Unix-based programs and tools that aren’t usually offered to users through the traditional sources (DEB/RPM, Repos, as well as Flatpak/Snap and AppImage).
 #+end_quote
 
-*** ◆◆◆◆◆有声书 - 知乎	:doctor.who:
+*** ◆◆◆◆◆有声书 - 知乎	:doctor_who:
 https://zhuanlan.zhihu.com/p/31143820
 *** [#B] Read Movie Scripts With Your Kid	:kids:
 https://offspring.lifehacker.com/read-movie-scripts-with-your-kid-1834542679
@@ -10719,7 +10717,7 @@ https://github.com/jesseduffield/lazygit
   Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster. Visit warp.dev to learn more. Maintenance of this project is made possible by all the and sponsors.
 #+end_quote
 
-*** 【书单推荐】史上最好的蜘蛛侠故事（10-1名） - 微博	:comics:spider-man:
+*** 【书单推荐】史上最好的蜘蛛侠故事（10-1名） - 微博	:comics:spider_man:
 https://media.weibo.cn/article?id=2309404290381901639618&jumpfrom=weibocom
 *** zdict/zdict: The last online dictionary framework you need. (?)	:python:wiktionary:yahoo:
 https://github.com/zdict/zdict
@@ -10801,7 +10799,7 @@ https://offspring.lifehacker.com/start-your-kids-high-school-graduation-gift-in-
   When my son was in preschool, I saw an idea floating around my parenting circles: Choose a sentimental book and, starting in kindergarten, have his teacher write him a note on a page in the book. Do this every year through high school. On graduation day, give him the book.
 #+end_quote
 
-*** How to Introduce Your Kid to Coding Without a Computer	:kids-coding:
+*** How to Introduce Your Kid to Coding Without a Computer	:kids_coding:
 https://offspring.lifehacker.com/how-to-introduce-your-kid-to-coding-without-a-computer-1833914886
 
 #+begin_quote
@@ -10846,7 +10844,7 @@ https://linux.cn/article-10666-1.html
 
 *** Book Review: SSH Mastery – OpenSSH, PuTTY, Tunnels & Keys	:2020:2scrapbook:ssh:
 https://www.cyberciti.biz/reviews/book-review-ssh-mastery/
-*** The Many Uses of Org Mode | Hacker News	:emacs:org-mode:
+*** The Many Uses of Org Mode | Hacker News	:emacs:org_mode:
 https://news.ycombinator.com/item?id=17032885
 *** PPT - Qemu Libvirt & KVM PowerPoint Presentation - ID:6027731	
 https://www.slideserve.com/chester-tyler/qemu-libvirt-kvm
@@ -10927,7 +10925,7 @@ https://www.cnblogs.com/CraryPrimitiveMan/p/4944982.html
   最近双十一抢红包的活动比较火，我也就去玩了一下，在一个小活动里，需要不停的点击左箭头和右箭头，让红包不停的跑，但自己点的比较慢，老是出现下面的图片
 #+end_quote
 
-*** http://spidermanfans.lofter.com/post/1e3e23dc_12d5b0637	:marvel:spider-man:
+*** http://spidermanfans.lofter.com/post/1e3e23dc_12d5b0637	:marvel:spider_man:
 http://spidermanfans.lofter.com/post/1e3e23dc_12d5b0637
 *** antonmedv/xx: ? fx-like command-line JSON processing tool	
 https://github.com/antonmedv/xx
@@ -10978,7 +10976,7 @@ https://www.raspberrypi.org/blog/scratch-3-resource-upgrades/
   On 2 January, MIT released the latest version of their incredible visual programming language: Scratch 3!
 #+end_quote
 
-*** Programming for Kids: Scratch 3.0 launches	:kids-coding:scratch:
+*** Programming for Kids: Scratch 3.0 launches	:kids_coding:scratch:
 https://www.ghacks.net/2019/01/05/programming-for-kids-scratch-3-0-launches/
 
 #+begin_quote
@@ -11030,14 +11028,14 @@ https://pbskids.org/learn/scratchjr
   With PBS KIDS ScratchJr, kids can create their own interactive stories and games featuring their favorite PBS KIDS characters. The storytelling possibilities are endless with this creative coding app for children ages 5-8.
 #+end_quote
 
-*** 10 things to try right now with your child on Scratch and ScratchJr	:kids-coding:scratch:
+*** 10 things to try right now with your child on Scratch and ScratchJr	:kids_coding:scratch:
 https://medium.com/scratchteam-blog/10-things-to-try-right-now-with-your-child-on-scratch-and-scratchjr-defd7f8ad0d1
 
 #+begin_quote
   Creating projects with Scratch and ScratchJr can be a way to reflect on experiences that you and your family have shared. Here are 10 things to try with your Scratchers right now before you get ready for the next school year.
 #+end_quote
 
-*** Nemo 的 三门编程语言之旅	:kids-coding:lego:
+*** Nemo 的 三门编程语言之旅	:kids_coding:lego:
 https://zhuanlan.zhihu.com/p/20933269?refer=parenting
 *** The Best Cheap Bluetooth Speaker	
 https://gizmodo.com/the-best-cheap-bluetooth-speaker-1830186582
@@ -11046,7 +11044,7 @@ https://gizmodo.com/the-best-cheap-bluetooth-speaker-1830186582
   https://customer-nhvwvbjwj56khszr.cloudflarestream.com/fc5928c3a50129a77c61d642752a976c/iframe
 #+end_quote
 
-*** [#B] What non-programming books should programmers read? [closed]	:book:non-tech:
+*** [#B] What non-programming books should programmers read? [closed]	:book:non_tech:
 http://stackoverflow.com/questions/38210/what-non-programming-books-should-programmers-read
 ** 2018-10
 *** GitHub - dominis/ansible-shell: Interactive ansible shell	
@@ -11089,7 +11087,7 @@ https://www.howtogeek.com/225333/18-things-you-may-not-have-known-google-photos-
   Google Photos may seem like a simple image hosting service, but it's actually quite powerful. Google Photos bridges the gap between cloud storage, image hosting, and image sharing services, giving stiff competition to Flickr, iCloud, Dropbox, and OneDrive.
 #+end_quote
 
-*** The 10 Best Free Toolbox Apps for Android	:android-apps:
+*** The 10 Best Free Toolbox Apps for Android	:android_apps:
 https://www.makeuseof.com/tag/7-best-free-android-apps-digital-toolbox/
 
 #+begin_quote
@@ -11103,10 +11101,10 @@ https://blog.simos.info/how-to-easily-run-graphics-accelerated-gui-apps-in-lxd-c
   UPDATE June 2020: See newer post at https://blog.simos.info/running-x11-software-in-lxd-containers/ for simplified instructions. They require a recent LXD (version 4.0 or newer), and snap packages work. Note: This post is about LXD containers.
 #+end_quote
 
-*** [#B] 快看，神秘老博士又摔倒了 - 知乎	:2020:2bookmark:2scrapbook:doctor.who:
+*** [#B] 快看，神秘老博士又摔倒了 - 知乎	:2020:2bookmark:2scrapbook:doctor_who:
 https://zhuanlan.zhihu.com/c_141296682
 ** 2018-09
-*** [#B] Humble Comics Bundle: Doctor Who 2018 by Titan (pay what you want and help 	:comics:doctor.who:
+*** [#B] Humble Comics Bundle: Doctor Who 2018 by Titan (pay what you want and help 	:comics:doctor_who:
 https://www.humblebundle.com/books/doctor-who-comics-2018?hmb_source=humble_home&hmb_medium=product_tile&hmb_campaign=mosaic_section_2_layout_index_2_layout_type_twos_tile_index_2
 
 #+begin_quote
@@ -11192,7 +11190,7 @@ https://www.appinn.com/maoxian-web-clipper/
 #+end_quote
 
 ** 2018-07
-*** 值得假期在家品读的10部经典科幻小说_搜狐文化_搜狐网	:2evernote:sci.fi:
+*** 值得假期在家品读的10部经典科幻小说_搜狐文化_搜狐网	:2evernote:sci_fi:
 http://www.sohu.com/a/126352036_183345
 *** Restore VHD Image to Disk/Partition with Linux dd - Kernel Manic	
 https://kernelmanic.com/2017/06/14/restore-vhd-image-diskpartition-linux-dd/
@@ -11278,7 +11276,7 @@ https://www.zabkat.com/blog/xplorer2-top-10-tips.htm
   xplorer² has the commands and might for heavy file lifting, but it also contais lots of easy to use small touches that assist your everyday file management without taxing your brain. Here are some I use all the time, in no particular order: 1.
 #+end_quote
 
-*** 9 of the Best Ways to Read Comics Online for Free	:comic-reader:
+*** 9 of the Best Ways to Read Comics Online for Free	:comic_reader:
 https://www.makeuseof.com/tag/best-read-comics-online-free/
 
 #+begin_quote
@@ -11344,14 +11342,14 @@ https://www.ghacks.net/2018/05/19/how-to-download-google-chrome-offline-installe
   A net installer is downloaded to your system when you hit the download Chrome button on the official Google Chrome download page.
 #+end_quote
 
-*** Python Doctests, Literate Programming, and Org Mode | Irreal	:lit.prog:
+*** Python Doctests, Literate Programming, and Org Mode | Irreal	:lit_prog:
 http://irreal.org/blog/?p=7211
 
 #+begin_quote
   If you’re a Python programmer and like to have built-in tests for your functions, you probably know about doctest, a way of embedding one or more tests in the docstring of a Python function.
 #+end_quote
 
-*** Literate programming with python doctests	:lit.prog:
+*** Literate programming with python doctests	:lit_prog:
 http://kitchingroup.cheme.cmu.edu/blog/2018/05/17/Literate-programming-with-python-doctests/
 
 #+begin_quote
@@ -11409,7 +11407,7 @@ https://www.appinn.com/airdroid-airmirror/
   Airdroid 是是一款著名的电脑与手机间无限传输与管理工具，它能够让你在电脑上接收通知、回复短信、传输文件，适合于 Android 与 iOS，而最近则推出一款可以远程控制 Android 的应用 AirMirror，可以让你在远程完全控制另外一台安
 #+end_quote
 
-*** 「将手机当做电脑用？」这个说法不新鲜，但锤子似乎搞错了方式	:phone-as-pc:
+*** 「将手机当做电脑用？」这个说法不新鲜，但锤子似乎搞错了方式	:phone_as_pc:
 http://www.ifanr.com/1031451
 
 #+begin_quote
@@ -11478,7 +11476,7 @@ https://greasyfork.org/zh-CN/scripts/22590-%E4%B8%80%E9%94%AE%E7%A6%BB%E7%BA%BF%
 #+end_quote
 
 ** 2018-03
-*** GitHub - alim0x/Awesome-Linux-Software-zh_CN: ? 一个 Linux 上超赞的应用，软件，工具以及其它资源	:x11-apps:
+*** GitHub - alim0x/Awesome-Linux-Software-zh_CN: ? 一个 Linux 上超赞的应用，软件，工具以及其它资源	:x11_apps:
 https://github.com/alim0x/Awesome-Linux-Software-zh_CN
 
 #+begin_quote
@@ -11506,7 +11504,7 @@ https://github.com/maciej-izak/generics.collections
   CRITICAL: 26030 25918, 25620, 24283 IMPORTANT: 24097, 24285, 24286 (Similar to? 24285), 24098, 24534, 25614, 26195 OTHER: 26484, 25593, 26181
 #+end_quote
 
-*** Linux 下最好的图片截取和视频截录工具	:x11-apps:
+*** Linux 下最好的图片截取和视频截录工具	:x11_apps:
 https://linux.cn/article-9427-1.html
 
 #+begin_quote
@@ -11537,7 +11535,7 @@ https://github.com/jhawthorn/fzy
 #+end_quote
 
 ** 2018-02
-*** Here's How to Get Android Apps Running on Your Laptop	:android-emu:
+*** Here's How to Get Android Apps Running on Your Laptop	:android_emu:
 https://fieldguide.gizmodo.com/heres-how-to-get-android-apps-running-on-your-laptop-1823353447
 *** The Best Sandbox Tools to Safely Test Windows Programs	:sandbox:winsoft:
 https://www.makeuseof.com/tag/windows-sandbox-tools/
@@ -11581,14 +11579,14 @@ https://github.com/transcode-open/apt-cyg
   install Install package(s). remove Remove package(s) from the system. update Download a fresh copy of the master package list (setup.ini) from the server defined in setup.rc. download Retrieve package(s) from the server, but do not install/upgrade anything.
 #+end_quote
 
-*** Create Your Own Android PC With Phoenix OS	:android-pc:
+*** Create Your Own Android PC With Phoenix OS	:android_pc:
 https://www.makeuseof.com/tag/android-pc-phoenix-os/
 
 #+begin_quote
   Want to make an Android PC? It's easy. Phoenix OS, based on the Android-x86 project, can install Android on a desktop (or laptop). On the downside, it won't run the full version of Chrome browser (Chrome is really fast). This is, after all, a mobile operating system.
 #+end_quote
 
-*** The Best Android Emulator for Windows 10	:android-emu:
+*** The Best Android Emulator for Windows 10	:android_emu:
 https://www.makeuseof.com/tag/best-android-emulator-windows-10/
 
 #+begin_quote
@@ -11633,7 +11631,7 @@ https://linux.cn/article-9269-1.html
   许多人喜欢用图形化的工具来管理电脑，但也有很多人不喜欢这样做。如果你比较喜欢命令行工具，管理 WiFi 会是件很痛苦的事情。然而，事情本不该如此。
 #+end_quote
 
-*** GitHub - anbox/anbox: Anbox is a container-based approach to boot a full An	:android:android-on-linux:dual:
+*** GitHub - anbox/anbox: Anbox is a container-based approach to boot a full An	:android:android_on_linux:dual:
 https://github.com/anbox/anbox
 
 #+begin_quote
@@ -11647,7 +11645,7 @@ https://github.com/greymd/tmux-xpanes
   If you prefer older tmux versions (1.6 and 1.7), Use version v2.2.3. Please refer to wiki > Installation in further details. Here is the some examples for installing.
 #+end_quote
 
-*** 运行 Anbox | WolfcsTech	:android-on-linux:
+*** 运行 Anbox | WolfcsTech	:android_on_linux:
 https://www.wolfcstech.com/2017/11/28/run_anbox/
 *** GitHub - spencertipping/cd: A better &quot;cd&quot; for bash	:2blog:
 https://github.com/spencertipping/cd
@@ -11679,7 +11677,7 @@ https://www.makeuseof.com/tag/different-uses-raspberry-pi/
   Wondering what to do with that Raspberry Pi you bought? Can this little device really act as a desktop PC? As a server? As a radio station? Yes, it can! To get you started, we've curated this list of things to do with a Raspberry Pi, each with its own detailed tutorial on MakeUseOf.
 #+end_quote
 
-*** Python: Using Turtles for Drawing Circles | The Mouse Vs. The Python	:kids-coding:
+*** Python: Using Turtles for Drawing Circles | The Mouse Vs. The Python	:kids_coding:
 http://www.blog.pythonlibrary.org/2012/08/06/python-using-turtles-for-drawing
 
 #+begin_quote
@@ -11750,7 +11748,7 @@ https://github.com/xxfelixxx/perl-term-colormap
   Term::Colormap - Colormaps for ANSI 256 Color Terminals! Perl library providing colormaps and functions to simplify rendering colored text using ANSI 256 colors.
 #+end_quote
 
-*** Pan Download – 百度盘第三方下载工具 [Win]	:download-tool:
+*** Pan Download – 百度盘第三方下载工具 [Win]	:download_tool:
 https://www.appinn.com/pan-download-for-win/
 
 #+begin_quote
@@ -11772,7 +11770,7 @@ http://www.makeuseof.com/tag/lightweight-operating-systems-raspberry-pi/
   Your Raspberry Pi isn't like a standard PC. Sure, it can act as a desktop replacement, but generally speaking, it's a more versatile device. One of the trade-offs is that it doesn't have massive resources. Raspberry Pi OS is more compact than most distros, with some features missing.
 #+end_quote
 
-*** Use Evernote on Linux with These Tools	:note-taking:
+*** Use Evernote on Linux with These Tools	:note_taking:
 https://itsfoss.com/evernote-on-linux/
 
 #+begin_quote
@@ -11786,7 +11784,7 @@ https://www.addictivetips.com/ubuntu-linux-tips/set-up-x2go-on-linux/
   Looking for an easy way to remotely access your Linux desktop? Consider installing X2Go. It’s much more user friendly than something like VNC, and it doesn’t need a web browser like Chrome remote desktop.
 #+end_quote
 
-*** 下载地址加密/解密,迅雷,快车,旋风,fs2you下载地址转换器-URL转换工具	:download-tool:
+*** 下载地址加密/解密,迅雷,快车,旋风,fs2you下载地址转换器-URL转换工具	:download_tool:
 http://www.msxindl.com/tools/downloadurl.asp
 *** How To Install OpenSSH On Windows 10	:2020:2scrapbook:ssh:unixer:
 https://www.addictivetips.com/windows-tips/install-openssh-on-windows-10/
@@ -11908,14 +11906,14 @@ http://transformers.wikia.com/wiki/Dreamwave_continuity
   The Dreamwave continuity is a rebooted Generation One universe, begun in 2002 by . It freely combines elements of the cartoon and comics with new storylines, portraying events on Earth and Cybertron simultaneously.
 #+end_quote
 
-*** Forget the SNES Classic: 5 Retro Consoles You Can Emulate on the Raspberry 	:2022:retro-gaming:
+*** Forget the SNES Classic: 5 Retro Consoles You Can Emulate on the Raspberry 	:2022:retro_gaming:
 http://www.makeuseof.com/tag/retro-consoles-emulate-raspberry-pi/
 
 #+begin_quote
   The trend among console companies for releasing tiny versions of their classic gaming systems shows no sign of stopping. In fact, given how successful Nintendo's classic re-releases have been, it could be set to expand beyond consoles and into the world of retro home computers.
 #+end_quote
 
-*** 堪称脑洞最大的科幻动画剧集，疯狂而发人深省	:2020:2evernote:sci.fi:tv:
+*** 堪称脑洞最大的科幻动画剧集，疯狂而发人深省	:2020:2evernote:sci_fi:tv:
 http://www.ifanr.com/923714
 
 #+begin_quote
@@ -12004,7 +12002,7 @@ https://bbs.archlinux.org/viewtopic.php?id=199193
   You are not logged in. I have been looking for a tool similar to gtk-theme-switch2 - i.e., just a simple program to switch GTK3 themes. However, I can find nothing in the forums, AUR or the internet. Does such a program even exist?
 #+end_quote
 
-*** Stupid Geek Tricks: Convince Your Friends You’re a Hollywood-Style Hacker w	:cli-fun:
+*** Stupid Geek Tricks: Convince Your Friends You’re a Hollywood-Style Hacker w	:cli_fun:
 https://www.howtogeek.com/323558/stupid-geek-tricks-convince-your-friends-youre-a-hollywood-style-hacker-with-these-tools/
 
 #+begin_quote
@@ -12056,7 +12054,7 @@ http://www.makeuseof.com/tag/archive-evernote-notes/
   Are you still using Evernote? Kudos! The company has been through some major trials and tribulations over the last 12 months, and many users have jumped ship to OneNote. But alas, OneNote isn't right for everyone.
 #+end_quote
 
-*** How Do I Find Missing Software On Ubuntu?	:ubuntu:x11-apps:
+*** How Do I Find Missing Software On Ubuntu?	:ubuntu:x11_apps:
 https://www.addictivetips.com/ubuntu-linux-tips/find-missing-software-on-ubuntu/
 
 #+begin_quote
@@ -12128,7 +12126,7 @@ http://www.playpcesor.com/2017/08/drawio-desktop-version-download.html
   1.心智圖軟體： 2.動態視覺圖表： 3.
 #+end_quote
 
-*** The Complete Guide to Parental Controls	:kids-pg:
+*** The Complete Guide to Parental Controls	:kids_pg:
 http://www.makeuseof.com/tag/guide-parental-controls/
 
 #+begin_quote
@@ -12262,7 +12260,7 @@ https://www.howtogeek.com/314522/how-to-set-up-and-use-google-photos-new-shared-
 
 *** I Learned to Speak Four Languages in a Few Years: Here's How	:anki:
 http://lifehacker.com/5903288/i-learned-to-speak-four-languages-in-a-few-years-heres-how
-*** GitHub - konarev/wine-launcher-creator: Automatically exported from code.go	:2017:wine:x11-apps:
+*** GitHub - konarev/wine-launcher-creator: Automatically exported from code.go	:2017:wine:x11_apps:
 https://github.com/konarev/wine-launcher-creator
 
 #+begin_quote
@@ -12270,7 +12268,7 @@ https://github.com/konarev/wine-launcher-creator
 #+end_quote
 
 ** 2017-06
-*** [#B] How to Install Android in VirtualBox	:android-emu:android-pc:
+*** [#B] How to Install Android in VirtualBox	:android_emu:android_pc:
 https://www.howtogeek.com/164570/how-to-install-android-in-virtualbox/
 
 #+begin_quote
@@ -12314,7 +12312,7 @@ https://help.ubuntu.com/community/MountingWindowsPartitions
 
 *** Simple Bash script to Fabric fabfile.py - Freelance Job in Web Development 	:freelancer:
 https://www.upwork.com/mobile/amp/jobs/~0143077be4b2d1e909
-*** Run Android Apps Natively In Ubuntu Using Anbox (video) - Geeky Gadgets	:android-on-linux:
+*** Run Android Apps Natively In Ubuntu Using Anbox (video) - Geeky Gadgets	:android_on_linux:
 http://www.geeky-gadgets.com/run-android-apps-natively-in-ubuntu-using-anbox-12-04-2017/
 
 #+begin_quote
@@ -12363,7 +12361,7 @@ http://offspring.lifehacker.com/5-useful-items-you-can-build-with-your-kids-lego
   So, you’ve been coerced into what seems like another no-win parenting scenario: it’s Lego time, and your aspiring Frank Lloyd Wright doesn’t want your help in building an amphibious rainbow tank with 16 axles (plus wings).
 #+end_quote
 
-*** How To Run Android Apps On Linux	:android-on-linux:
+*** How To Run Android Apps On Linux	:android_on_linux:
 http://www.addictivetips.com/ubuntu-linux-tips/run-android-apps-on-linux/
 
 #+begin_quote
@@ -12377,14 +12375,14 @@ http://www.unixmen.com/sslh-a-sslssh-multiplexer-for-linux/
   What is sslh? sslh accepts connections in HTTP, HTTPS, SSH, OpenVPN, tinc, XMPP, or any other protocol that can be tested using a regular expression, on the same port. This makes it possible to connect to any of these servers on port 443 while still serving HTTPS on that port.
 #+end_quote
 
-*** 基地系列 - 维基百科，自由的百科全书	:sci.fi:
+*** 基地系列 - 维基百科，自由的百科全书	:sci_fi:
 https://zh.m.wikipedia.org/wiki/%E5%9F%BA%E5%9C%B0%E7%B3%BB%E5%88%97
 
 #+begin_quote
   基地系列 作者 以撒·艾西莫夫 类型 科幻 语言 English 發行信息 出版机构 Astounding Magazine, Gnome Press, Spectra, Doubleday 出版時間 1942–1993 出版地點 United States 媒介 Print 系列作品 基地前奏 基地締造者 基地 基地與帝國 第二基地 基地
 #+end_quote
 
-*** Android apps on Linux PCs: Now Anbox tool runs smartphone software natively	:android-on-linux:
+*** Android apps on Linux PCs: Now Anbox tool runs smartphone software natively	:android_on_linux:
 http://www.zdnet.com/article/android-apps-on-linux-pcs-now-anbox-tool-runs-smartphone-software-natively/
 
 #+begin_quote
@@ -12461,7 +12459,7 @@ https://linux.cn/article-8519-1.html
 
 *** 国内开发加速方法合集	:antigfw:
 http://www.jianshu.com/p/f92951328d9d
-*** HOWTO: Create hotkeys to set predefined font and H1, H2, H3 styles	:2evernote:note-taking:
+*** HOWTO: Create hotkeys to set predefined font and H1, H2, H3 styles	:2evernote:note_taking:
 https://discussion.evernote.com/topic/36202-howto-create-hotkeys-to-set-predefined-font-and-h1-h2-h3-styles/
 
 #+begin_quote
@@ -12482,7 +12480,7 @@ http://www.thegeekstuff.com/2017/05/putty-plink-examples/
   Plink stands for PuTTY Link. Plink is a companion command-line utility for PuTTY.
 #+end_quote
 
-*** Best GIF Recorder Tools For Linux In 2017	:2versions:x11-apps:
+*** Best GIF Recorder Tools For Linux In 2017	:2versions:x11_apps:
 https://itsfoss.com/best-gif-recorder-linux/
 
 #+begin_quote
@@ -12554,7 +12552,7 @@ http://www.hi-linux.com/posts/48321.html
 #+end_quote
 
 ** 2017-04
-*** 5 Best Parental Control Apps for Android	:android-apps:kids-pg:
+*** 5 Best Parental Control Apps for Android	:android_apps:kids_pg:
 http://www.makeuseof.com/tag/5-best-parental-control-apps-android/
 
 #+begin_quote
@@ -12628,7 +12626,7 @@ http://www.makeuseof.com/tag/search-tools-google-photos/
   One of the lesser-known facts about Google Photos is that its search parameters have powerful algorithms that are on par with Google's main search engine. Just as Google Lens can detect different images, Google uses similar AI-driven technology to categorize your personal pictures.
 #+end_quote
 
-*** Use These OneNote Features to Organize Your Notes	:note-taking:
+*** Use These OneNote Features to Organize Your Notes	:note_taking:
 http://www.makeuseof.com/tag/organize-microsoft-onenote/
 
 #+begin_quote
@@ -12659,14 +12657,14 @@ http://www.playpcesor.com/2017/03/onenote-outline-tips.html
   以 Windows 電腦軟體版為例，我在筆記內撰寫大綱，過程中想要調整內容的段落位置，這時候內文左方開頭處，就會浮現一個［］。 如果在 OneNote 筆記中建立了待辦清單，那麼要調整任務執行的前後順序時，也可以這樣直接拖曳
 #+end_quote
 
-*** The 5 Best Android Emulators Ranked	:android-emu:
+*** The 5 Best Android Emulators Ranked	:android_emu:
 http://www.addictivetips.com/android/5-best-android-emulators/
 
 #+begin_quote
   Android emulators are a good way to test apps while they are in development. Once people realized they could use these environments to play android games on a PC/Mac, they became a craze, of sorts. Some emulators can only run apps, while others can emulate the entire operating system.
 #+end_quote
 
-*** 8 Picasa Alternatives Made for Linux	:2016:2scrapbook:x11-apps:
+*** 8 Picasa Alternatives Made for Linux	:2016:2scrapbook:x11_apps:
 http://www.makeuseof.com/tag/7-picasa-alternatives-made-linux/
 
 #+begin_quote
@@ -12732,7 +12730,7 @@ http://www.ghacks.net/2017/02/15/local-cdn-for-chrome/
   Local CDN is a browser extension for the Google Chrome browser that will load certain libraries from the local system instead of content distribution networks.
 #+end_quote
 
-*** 彩云小译 – 出国神器，中英文「同声翻译」工具[iOS/Android]	:android-apps:
+*** 彩云小译 – 出国神器，中英文「同声翻译」工具[iOS/Android]	:android_apps:
 http://www.appinn.com/caiyun-interpreter/
 
 #+begin_quote
@@ -12855,7 +12853,7 @@ http://asciidoctor.org/news/2014/02/18/plain-text-diagrams-in-asciidoctor/
   You write in plain text. You code in plain text. How about creating diagrams in plain text too? Now you can using Asciidoctor Diagram! Asciidoctor is a fantastic tool to use when writing technical documentation.
 #+end_quote
 
-*** Teach Your Kids How to Code with Minecraft or Star Wars Tutorials	:kids-coding:
+*** Teach Your Kids How to Code with Minecraft or Star Wars Tutorials	:kids_coding:
 http://lifehacker.com/teach-your-kids-how-to-code-with-minecraft-or-star-wars-1743019747
 
 #+begin_quote
@@ -12904,7 +12902,7 @@ http://www.makeuseof.com/tag/simple-phone-parents-grandparents/
   The young rule the digital age. It's fascinating to watch children born in the last few years take to a tablet like it's nothing, and most folks in their 20s and below know how to work a smartphone with little help. However, this isn't always true for those of older generations.
 #+end_quote
 
-*** Developing programming skills with Minecraft and Python - Computational Mod	:kids-coding:play:
+*** Developing programming skills with Minecraft and Python - Computational Mod	:kids_coding:play:
 http://cmg.soton.ac.uk/research/projects/developing-programming-skills-with-minecraft-and-python/
 
 #+begin_quote
@@ -12958,14 +12956,14 @@ http://lifehacker.com/an-age-by-age-guide-to-teaching-your-children-financial-17
 
 *** [#B] 免除信息碎片化时代的焦虑，你需要这方法	:km:
 http://36kr.com/p/5056871.html
-*** 9个实用又有趣的心理学技巧	:non-tech:
+*** 9个实用又有趣的心理学技巧	:non_tech:
 http://rss-cdn.flipchina.cn/LinkedIn-China/d03c09e768e139fd527fad0b2a1a4aa6.html
 
 #+begin_quote
   生活中难免会碰到一些不顺或者令人紧张的事，如何通过心理学技巧来自我调整，让自己的状态变得更好呢？ 接下来就为大家介绍9个非常实用且有趣的小技巧。
 #+end_quote
 
-*** Learn to Jump Rope Like a Pro	:non-tech:
+*** Learn to Jump Rope Like a Pro	:non_tech:
 http://vitals.lifehacker.com/learn-to-jump-rope-like-a-pro-1788952805
 *** 时间图的语法和功能	:diagram:
 http://plantuml.com/sequence-diagram
@@ -12983,7 +12981,7 @@ http://www.howtogeek.com/279069/how-to-use-an-android-device-as-a-second-monitor
   Key Takeaways Use the Second Screen Quick Settings toggle on Samsung tablets to wirelessly mirror or extend your computer’s display. For non-Samsung tablets, third-party apps like Spacedesk can turn your Android tablet into a second monitor.
 #+end_quote
 
-*** How to Develop a Better Eye for Taking Good Photos	:g:non-tech:
+*** How to Develop a Better Eye for Taking Good Photos	:g:non_tech:
 http://www.howtogeek.com/277468/how-to-develop-a-better-eye-for-taking-good-photos/
 
 #+begin_quote
@@ -13021,9 +13019,9 @@ http://www.ilovefreesoftware.com/04/android-2/how-to-use-android-phone-as-pc-spe
   Here, is a quick tutorial to use Android phone as PC speakers. Many a times it happens that you want to listen the sound played on your desktop which doesn’t have the speakers connected to it.
 #+end_quote
 
-*** How to rip audio from video (avidemux) | Techblissonline.com	:2versions:x11-apps:xplatform:
+*** How to rip audio from video (avidemux) | Techblissonline.com	:2versions:x11_apps:xplatform:
 http://techblissonline.com/rip-audio-from-video/
-*** How To Raise Healthy Human Beings In A World Of Screens | Fast Company | Bu	:kids-pg:
+*** How To Raise Healthy Human Beings In A World Of Screens | Fast Company | Bu	:kids_pg:
 https://www.fastcompany.com/3064905/pov/how-to-build-a-healthy-media-diet-for-your-kids
 *** 11 Fun Halloween Projects (Beyond Jack O'Lanterns) You Can Do With Your Kid	:fun:kids:
 http://mentalfloss.com/article/87621/11-fun-halloween-projects-beyond-jack-olanterns-you-can-do-your-kids
@@ -13114,7 +13112,7 @@ http://www.howtogeek.com/269093/how-to-cast-your-windows-or-android-display-to-a
   Windows 10's Anniversary Update brings an interesting new feature: Any PC can now function as a wireless receiver for Miracast, allowing you to view the display from another Windows PC, an Android smartphone or tablet, or a Windows phone. Related: What is Miracast and Why Should I Care?
 #+end_quote
 
-*** 9 Hidden Features in Gmail for Android You Should Be Using	:android-apps:
+*** 9 Hidden Features in Gmail for Android You Should Be Using	:android_apps:
 http://www.makeuseof.com/tag/9-hidden-features-gmail-android-using/
 
 #+begin_quote
@@ -13143,7 +13141,7 @@ http://www.techrepublic.com/blog/australian-technology/using-your-browser-as-a-t
   Every time I use a Windows machine for any decent period of time, the moment will invariably arrive when I have to install a copy of the venerable PuTTY program to allow for SSH usage.
 #+end_quote
 
-*** How to Use Your iPad as a Second Monitor for Your PC or Mac	:2nd-monitor:dual:
+*** How to Use Your iPad as a Second Monitor for Your PC or Mac	:2nd_monitor:dual:
 http://www.howtogeek.com/100886/how-to-use-your-ipad-as-a-second-monitor-for-your-pc-or-mac/
 
 #+begin_quote
@@ -13167,7 +13165,7 @@ http://www.makeuseof.com/tag/8-search-tricks-work-duckduckgo-not-google/
   Google Search is king. It has many cool features that will wow you, but it's not your only good option when it comes to search engines. Bing is getting better. StartPage gives you Google Search results without compromising on your privacy.
 #+end_quote
 
-*** 5 useful apps to teach your kids coding right now | SoyaCincau.com - Part 2	:kids-coding:
+*** 5 useful apps to teach your kids coding right now | SoyaCincau.com - Part 2	:kids_coding:
 http://www.soyacincau.com/2016/07/25/5-useful-apps-to-teach-your-kids-coding-right-now/2/
 
 #+begin_quote
@@ -13221,21 +13219,21 @@ http://lifehacker.com/why-i-killed-my-standing-desk-and-what-i-do-instead-156555
 
 *** http://lifehacker.com/what-productivity-systems-won-t-solve-1782442772	:mindset:
 http://lifehacker.com/what-productivity-systems-won-t-solve-1782442772
-*** Dot Source Code Blocks in Org Mode	:org-mode:
+*** Dot Source Code Blocks in Org Mode	:org_mode:
 http://orgmode.org/worg/org-contrib/babel/languages/ob-doc-dot.html
 
 #+begin_quote
   A typical use of a dot source code block is to produce a graph visualization of a data set.
 #+end_quote
 
-*** http://www.appinn.com/instant-email-address/	:android-apps:
+*** http://www.appinn.com/instant-email-address/	:android_apps:
 http://www.appinn.com/instant-email-address/
 
 #+begin_quote
   是一款智能手机上的临时邮箱应用，支持 iOS、Android、网页端，类似 10 分钟邮箱，你可以用来接收临时邮件，也可以直接发送匿名邮件。@Appinn
 #+end_quote
 
-*** Box Island on iOS Teaches Kids Coding Fundamentals Through Fun Puzzles	:kids-coding:
+*** Box Island on iOS Teaches Kids Coding Fundamentals Through Fun Puzzles	:kids_coding:
 http://lifehacker.com/box-island-on-ios-teaches-kids-coding-fundamentals-thro-1782126414
 
 #+begin_quote
@@ -13258,7 +13256,7 @@ http://www.ghacks.net/2016/06/16/all-in-one-system-rescue-toolkit/
   All In One System Rescue Toolkit is a collection of tools for running administrative and troubleshooting tasks on Windows machines.
 #+end_quote
 
-*** 10個免費 P2P 傳檔工具，解決各種電腦手機傳檔需求	:android:android-apps:
+*** 10個免費 P2P 傳檔工具，解決各種電腦手機傳檔需求	:android:android_apps:
 http://www.playpcesor.com/2016/06/10-p2p.html
 
 #+begin_quote
@@ -13294,7 +13292,7 @@ https://github.com/dotphiles/dotphiles/
   A community driven framework of dotfiles, for the usual terminal apps and shells, designed to work across multiple platforms and degrade for older versions of software or O/S, allowing you to use the same settings on all your machines.
 #+end_quote
 
-*** 有了 MenuMe 这个应用，看英文菜单再不会一脸尴尬了	:android-apps:travel:
+*** 有了 MenuMe 这个应用，看英文菜单再不会一脸尴尬了	:android_apps:travel:
 http://www.ifanr.com/659376
 
 #+begin_quote
@@ -13348,7 +13346,7 @@ http://www.howtogeek.com/114667/how-to-install-android-apps-to-the-sd-card-by-de
 #+end_quote
 
 ** 2016-02
-*** 11 Android Apps You Need for Traveling the World	:android-apps:travel:
+*** 11 Android Apps You Need for Traveling the World	:android_apps:travel:
 http://www.makeuseof.com/tag/11-android-apps-need-traveling-world/
 
 #+begin_quote
@@ -13386,7 +13384,7 @@ http://donkirkby.blogspot.ca/2012/11/live-coding-in-python-v2.html
   I've built a tool that lets you run your Python code as you type it. For example, this code draws a 100x100 pixel square. When I change the forward distance to 50, the square immediately changes. I don't even have to save the file.
 #+end_quote
 
-*** 13 Fun Mobile Games When You Have NO Data or Wi-Fi	:android-apps:
+*** 13 Fun Mobile Games When You Have NO Data or Wi-Fi	:android_apps:
 http://www.makeuseof.com/tag/fun-mobile-games-no-data-wi-fi/
 
 #+begin_quote
@@ -13401,14 +13399,14 @@ http://stackoverflow.com/questions/9224298/how-do-i-fix-certificate-errors-when-
   This question does not appear to be about a specific programming problem, a software algorithm, or software tools primarily used by programmers.
 #+end_quote
 
-*** http://www.wisebread.com/7-parenting-mistakes-everyone-makes-but-no-one-talks-about	:kids:non-tech:
+*** http://www.wisebread.com/7-parenting-mistakes-everyone-makes-but-no-one-talks-about	:kids:non_tech:
 http://www.wisebread.com/7-parenting-mistakes-everyone-makes-but-no-one-talks-about
 
 #+begin_quote
   As parents, we all want the best for our kids. But we all make mistakes. And while parenting mistakes may not be brought up at birthday parties and playdates, you can be reasonably sure most parents have struggled with at least a few of these.
 #+end_quote
 
-*** http://lifehacker.com/5989419/ten-things-i-wish-i-had-known-before-becoming-a-parent/1732134321	:kids:non-tech:
+*** http://lifehacker.com/5989419/ten-things-i-wish-i-had-known-before-becoming-a-parent/1732134321	:kids:non_tech:
 http://lifehacker.com/5989419/ten-things-i-wish-i-had-known-before-becoming-a-parent/1732134321
 ** 2015-08
 *** http://www.instructables.com/id/My-old-phone-arduino-phonoduino/	:arduino:maker:
@@ -13418,7 +13416,7 @@ http://www.instructables.com/id/My-old-phone-arduino-phonoduino/
   Hi, this is a project of my old Nokia 1100 phone and arduino mega. By using this many arduino and gsm based project is possible. The phone will work like a gsm module and you can sent message or call someone by using this phonoduino. You can also receive DTMF signal and control anything remotely.
 #+end_quote
 
-*** The 6 Best Android Apps to Remote Control Your Linux PC	:2todo:android-apps:geek:
+*** The 6 Best Android Apps to Remote Control Your Linux PC	:2todo:android_apps:geek:
 http://www.makeuseof.com/tag/15-android-apps-remote-control-linux-pc/
 
 #+begin_quote
