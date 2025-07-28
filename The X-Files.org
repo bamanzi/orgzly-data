@@ -107,7 +107,9 @@ CLOSED: [2025-06-24 Tue 08:09]
 **** DONE [#C] 6x17 Trevor
 CLOSED: [2025-06-27 Fri 08:20]
 
-**** [#B] 6x18 Milagro
+**** DONE [#B] 6x18 Milagro
+CLOSED: [2025-07-21 Mon 21:07]
+
 **** [#A] 6x19 The Unnatural
 **** DONE [#B] 6x20 Three of a Kind :Lone_Gunmen:
 **** [#A] 6x21 Field Trip
@@ -308,6 +310,9 @@ CLOSED: [2022-04-23 Sat 13:29]
 https://x-files.fandom.com/wiki/Comics
 
 *** Topps (1995-1998) :topps:
+
+http://goodreadergonebad.net/x-files/
+
 **** 01-12 :Mytharc:P1995:
 ***** HALF 01. Not to be Opened Until X-Mas (1995-01)
 ***** DONE 02. The Dismemberance of Things Past
@@ -334,7 +339,19 @@ CLOSED: <2020-11-14 Sat 22:47>
 **** DONE vol.3 20-29 (1996-1997)
 CLOSED: [2020-12-02 Wed 22:47]
 
+***** Family Portrait (#20-21)
+***** The Kanashibari  (#22)
+***** Donor (#23)
+***** Silver Lining  (#24)
+***** Be Prepared (#25-26)
+***** Remote Control (#27-29)
 **** vol.4 30-41 (1997-1998) :已购:
+***** DONE Surrounded (#30-31)
+CLOSED: [2025-07-15 Tue 13:17]
+
+***** Crop Duster (#32)
+***** Soma (#33)
+***** Skybuster (#34)
 **** specials: -1,-2, Digest 1/2/3
 **** Afterflight :P1997:
 *** Wildstorm (2008-2009)
@@ -435,7 +452,7 @@ http://xfiles.news/index.php/news/reviews/the-x-files-cold-cases-recap-and-revie
 
 https://www.xfiles.news/index.php/news/reviews/recap-and-review-the-x-files-stolen-lives
 
-** anthology :🎧:
+** anthology :📄:🎧:
 *** _audio
 
 https://audiobookbay.lu/abss/x-files-maberry-jonathan-maberry-editorauthor/
@@ -444,20 +461,32 @@ https://audiobookbay.lu/abss/x-files-maberry-jonathan-maberry-editorauthor/
 
 book review: https://bamanzi.github.io/scrapbook2022/data/20220309210248/index.html
 
-**** DONE The Beast of Little Hill
+**** 1.01 CATATONIA
+**** DONE 1.02 The Beast of Little Hill
 CLOSED: [2023-05-01 Mon 07:12]
 
-**** DONE [#C] Oversight :Skinner:
+**** DONE 1.03 [#C] Oversight :Skinner:
 CLOSED: <2020-10-30 Fri 23:12>
 
-**** DONE [#C] Non Gratum Anus Rodentum :Skinner:Vietnam_War:
+**** 1.04 Dusk
+**** 1.05 Loving the Alien
+**** DONE [#C] 1.06 Non Gratum Anus Rodentum :Skinner:Vietnam_War:
 CLOSED: <2020-10-10 Sat 16:40>
 
+**** 1.07 Back in El Paso My Life Will Be Worthless
+**** 1.08 Paranormal Quest
+**** 1.09 KING OF THE WATERY DEEP
+**** 1.10 Sewers
+**** 1.11 Clair de Lune
+**** 1.12 It's All in the Eyes
+**** 1.13 The House on Hickory Hill
+**** 1.14 TIME AND TIDE
+**** 1.15 STATUES
 *** vol.2 The Truth is Out There :已购:
 
 book review: https://bamanzi.github.io/scrapbook2022/data/20220308213410/index.html
 
-**** DONE [#C] Dead Ringer
+**** DONE [#C] 2.01 Dead Ringer
 CLOSED: [2022-03-13 Sun 14:23]
 
 [cp]#X档案# 短篇集 The Truth is Out There 中第一个故事 Dead Ringer ：一个小男孩夜里从床上突然消失，几小时后被几十里外露营的人遇到，但小男孩已经失去了记忆，身上还多了新的胎记，医生还发现小孩有几根肋骨断裂并愈合的痕迹。Mulder 和 Scully 前来调查，孩子的父亲却坚决地说回来的那位并不是他的孩子...
@@ -466,10 +495,10 @@ CLOSED: [2022-03-13 Sun 14:23]
 
 翻查二十年前档案后他们去精神病院访谈了其中一个涉案人员，后者混乱的话语带他们找到了 Heidi 的si体，依稀仍然是当年那个小女孩的模样 ...[/cp]
 
-**** [#C] Drive Time
-**** [#A] Black Hole Son
-**** [#C] We Should Listen to Some Shostakovich
-**** DONE [#B] Mummiya
+**** HALF [#C] 2.02 Drive Time
+**** [#A] 2.03 Black Hole Son
+**** [#C] 2.04 We Should Listen to Some Shostakovich
+**** DONE [#B] 2.05 Mummiya
 CLOSED: [2022-03-06 Sun 21:26]
 
 [cp]补记：Mummiya 是上周看的，也收录于短篇集 The Truth is Out There
@@ -480,47 +509,59 @@ Scully 查明死者是个身患绝症的大学生后，Mulder 去埃及文化专
 
 急于探明真相的 Mulder 根据线索夜探 Bryan 住宅，不料却被打晕，醒来后 Bryan 疯狂地问他要他女友的木乃伊，原来他为了挽救患上绝症的女友，疯狂研究从导师那里找到的典籍Book of the Dead，把女友做成了一具木乃伊，指望后面回魂之术能发挥作用。问题在于，他从昏迷中醒来后，木乃伊却不见了....[/cp]
 
-**** DONE Phase Shift
-**** [#B] Heart
-**** Male Privilege
-**** [#C] Pilot
-**** Rosetta
-**** DONE [#C] Snowman :Doggett:
+**** DONE 2.06 Phase Shift
+**** [#B] 2.07 Heart
+**** 2.08 Male Privilege
+**** DONE [#C] 2.09 Pilot 试播集
+CLOSED: [2025-07-18 Fri 14:54]
+
+
+一个写科幻小说的少年给了 Mulder 和 Scully 两张照片，内容是 Mulder 和 Scully 参与案子时的抓拍，照片是近景，非常清晰，而且 M&S 觉得当时附近不曾有摄像头。一周过后，少年的家爆炸了。就在他们以为少年已经身亡时，Mulder 却在不久后接到了少年的电话，对方说要给他们看一份视频，这是一部电视剧的试播集，主角是 Mulder 和 Scully, 里面还有老烟枪和 Krycek...
+
+**** 2.10 Rosetta
+**** DONE [#C] 2.11 Snowman :Doggett:
 CLOSED: <2019-11-29 Fri 13:13>
 
-**** [#B] Voice of Experience
-**** [#A] XXX
-**** Founding
-**** When the Cows Come Home
+**** [#B] 2.12 Voice of Experience
+**** [#A] 2.13 XXX
+**** 2.14 Founding
+**** 2.15 When the Cows Come Home
 *** vol.3 Secret Agendas :已购:ebook:
 
 book review: https://bamanzi.github.io/scrapbook2022/data/20220309210238/index.html
 
-**** DONE [#C] Seek and You Will Find
+**** DONE [#C] 3.01 Seek and You Will Find
 CLOSED: [2020-12-13 Sun 21:04]
 
-**** DONE Perithecia
+**** DONE 3.02 Perithecia
 CLOSED: <2020-12-16 Wed 23:05>
 
-**** DONE [#E] Desperately Seeking Mothman
+**** 3.03 Give Up the Ghost
+**** 3.04 Transmissions
+**** DONE [#E] 3.05 Desperately Seeking Mothman
 CLOSED: <2020-10-24 Sat 20:11>
 
-**** DONE [#A] Love Lost
+**** DONE [#A] 3.06 Love Lost
 CLOSED: <2020-11-22 Sun 19:05>
 
-**** START [#C] Thanks and Praise :Gibson:
+**** START [#C] 3.07 Thanks and Praise :Gibson:
 
 NOTE: This story is set prior to the events of The X-Files: Season 10 comics series, published by IDW in advance of the show’s 20th anniversary, long before any television reunion was being considered.
 
-**** DONE [#E] An Eye for an Eye
+**** 3.08 Border Time
+**** 3.09 A Scandal in Moreauvia
+**** 3.10 Stryzga
+**** DONE [#E] 3.11 An Eye for an Eye
 CLOSED: [2020-10-10 Sat 19:27]
 
-**** OVERDUE Kanashibari 鬼压床
+**** OVERDUE 3.12 Kanashibari 鬼压床
 DEADLINE: <2022-03-31 Thu> SCHEDULED: <2022-03-31 Thu>
 
 Topps 漫画#22也是“鬼压床”这个主题
-
-** prose :📄:
+**** 3.13 All Choked Up
+**** 3.14 Along the Scenic Route
+**** 3.15 Granmother Black Hands
+** prose :📕:
 *** [#F] #1. Goblins
 :PROPERTIES:
 :goodreads: 3.32
@@ -776,11 +817,14 @@ CLOSED: [2025-06-13 Fri 20:46]
 *** DONE [#C] 4x07 Wallflower :MotW:
 CLOSED: [2025-06-17 Tue 19:56]
 
-*** DONE [#A] 4x08 Back to Where You've Never Been :Jones:
+*** DONE [#A] 4x08 Back to Where You've Never Been
 CLOSED: [2025-06-19 Thu 19:18]
 
-*** DONE [#A] 4x09 Enemy of My Enemy :Jones:
+*** DONE [#A] 4x09 Enemy of My Enemy
 CLOSED: [2025-06-23 Mon 08:11]
+
+*** DONE 4x12 Welcome to Westfield
+CLOSED: [2025-06-28 Sat 20:21]
 
 *** DONE [#C] 4x10 Forced Perspective
 CLOSED: [2025-06-23 Mon 20:18]
@@ -788,10 +832,20 @@ CLOSED: [2025-06-23 Mon 20:18]
 *** DONE [#C] 4x11 Making Angels
 CLOSED: [2025-06-26 Thu 20:50]
 
-*** 4x12 Welcome to Westfield
-*** 4x13 A Better Human Being
-*** 4x14 The End of All Things :Jones:
-*** 4x18 The Consultant :Jones:
+*** DONE 4x13 A Better Human Being
+CLOSED: [2025-07-01 Tue 08:32]
+
+*** 4x14 The End of All Things :Observer:
+*** DONE 4x15 A Short Story About Love :Observer:
+CLOSED: [2025-07-06 Sun 10:25]
+
+*** DONE 4x16 Nothing As It Seems :MotW:
+CLOSED: [2025-07-16 Wed 21:35]
+
+*** 4x17
+*** 4x18 The Consultant
+*** 4x19
+*** 4x20
 *** 4x21 Brave New World, part 1
 *** 4x22 Brave New World, part 2
 ** Fringe S5 :P2012:

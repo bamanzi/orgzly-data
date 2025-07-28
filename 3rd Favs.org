@@ -771,3 +771,18 @@ CLOSED: [2025-06-22 Sun 15:15]
 *** DONE 9x08
 CLOSED: [2025-06-23 Mon 20:39]
 
+*** DONE 9x09
+CLOSED: [2025-07-01 Tue 11:50]
+
+*** DONE 9x10 :star_wars:
+CLOSED: [2025-07-03 Thu 17:58]
+
+*** DONE 9x11 :star_wars:
+CLOSED: [2025-07-04 Fri 13:53]
+
+*** DONE 9x12
+CLOSED: [2025-07-09 Wed 15:26]
+
+*** DONE 9x13
+CLOSED: [2025-07-10 Thu 00:09]
+

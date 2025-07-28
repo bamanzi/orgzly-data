@@ -1,3 +1,5 @@
+Marvel, Vertigo
+
 * DC
 ** Watchmen :Watchmen:
 *** DONE movie
@@ -969,13 +971,40 @@ CLOSED: [2024-08-13 Tue 08:05]
 ***** DONE 5x22
 CLOSED: [2024-08-13 Tue 18:47]
 
-**** LATER 📂S6 :S2025_Q3:
+**** DOING 📂S6 :S2025_Q3:
+***** DONE 6x01
+CLOSED: <2025-07-07 Mon 16:45>
+
+***** DONE 6x02
+CLOSED: [2025-07-12 Sat 19:46]
+
+***** DONE 6x03
+CLOSED: [2025-07-12 Sat 20:38]
+
+***** DONE 6x04
+CLOSED: [2025-07-14 Mon 20:58]
+
+***** DONE 6x05
+CLOSED: [2025-07-15 Tue 11:31]
+
+***** DONE 6x06
+CLOSED: [2025-07-16 Wed 15:25]
+
+***** DONE 6x07
+CLOSED: [2025-07-16 Wed 16:53]
+
+***** DONE 6x08
+CLOSED: [2025-07-18 Fri 21:28]
+
+***** DONE 6x09
+CLOSED: [2025-07-18 Fri 22:21]
+
 *** phase 2
 **** DONE Avengers 2: Age of Ultron
 CLOSED: [2024-08-10 Sat 10:01]
 
 *** phase 4
-**** DONE Loki S1 :S2024_08:
+**** DONE Loki S1 :P2021:S2024_08:
 ***** DONE 1x01
 CLOSED: [2024-08-12 Mon 08:32]
 
@@ -994,7 +1023,6 @@ CLOSED: [2024-08-20 Tue 22:03]
 ***** DONE 1x06
 CLOSED: [2024-08-24 Sat 21:57]
 
-**** Loki S2 :S2025_Q3:
 **** DONE WandaVision 旺达幻视 :P2021:S2024_08:
 ***** DONE 1x01
 CLOSED: [2024-07-29 Mon 20:08]
@@ -1023,9 +1051,14 @@ CLOSED: [2024-08-10 Sat 15:30]
 ***** DONE 1x09
 CLOSED: [2024-08-10 Sat 16:16]
 
+**** DONE Moon Knight 月光骑士 :P2022:
+CLOSED: [2025-07-16 Wed 20:52]
+
 **** TODO The Falcon and the Winter Soldier 猎鹰与冬兵 :S2025_Q3:
-*** Daredevil / The Pulisher
-**** DONE Daredevil S1
+*** phase 5
+**** HALF Loki S2 :P2023:S2025_Q3:
+*** Netflix series in MCU
+**** DONE [#A] Marvel's Daredevil S1 夜魔侠/超胆侠 :P2015:
 ***** DONE 1x01
 CLOSED: [2024-08-19 Mon 20:56]
 
@@ -1065,6 +1098,14 @@ CLOSED: [2024-09-12 Thu 20:18]
 ***** DONE 1x13
 CLOSED: [2024-09-12 Thu 22:35]
 
+**** [#A] Marvel's Daredevil S2 :P2016:
+**** [#A] Marvel's Daredevil S3 :P2018:
+**** TODO [#C] Marvel's Jessica Jones S1 :P2015:
+**** [#C] Marvel's Jessica Jones S2 :P2018:
+**** CANCEL [#D] Marvel's Luke Cage 卢克·凯奇
+**** CANCEL [#F] Marvel's Iron Fist
+**** CANCEL [#E] Marvel's The Defenders 捍卫者联盟
+**** [#B] Marvel's The Punisher :P2017:
 * Supernatural :📺:spn:
 ** comics
 *** Origins  :P2007:
