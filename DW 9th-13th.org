@@ -1,6 +1,14 @@
 #+TODO: TODO NEXT READY BLOCK TBR START FIXME HALF 3QTR | 2DONE DONE CANCEL
 #+PRIORITIES: A F C
 
+* _novels rating
+
+- A :: 4.05-
+- B :: 3.90-4.05
+- C :: 3.80-3.90
+- D :: 3.70-3.80
+- E ::
+
 * 9th Doctor :9th_Dr:
 ** tv :📺:
 *** 📂S1
@@ -9,37 +17,38 @@ CLOSED: [2022-06-30 Thu 08:12]
 
 ** audio :🎧:
 *** 9DA :9DA:
-**** 📂S1.1 Ravagers :P2021_05:已购:
-***** START 1.1 Sphere of Freedom (7.2)
-***** START 1.2 Cataclysm (7.0)
-***** START 1.3 Food Fight (6.8)
-**** 📂S1.2 Respond to All Calls :P2021_05:
-***** HALF [#C] 9DA 2.1 Girl, Deconstructed :D2021_08_dr:plot_yes:bilibili:
+**** S1 :P2021:
+***** 📂S1.1 Ravagers :P2021_05:已购:
+****** START 1.1 Sphere of Freedom (7.2)
+****** START 1.2 Cataclysm (7.0)
+****** START 1.3 Food Fight (6.8)
+***** 📂S1.2 Respond to All Calls :P2021_05:
+****** HALF [#C] 9DA 2.1 Girl, Deconstructed :D2021_08_dr:plot_yes:bilibili:
 
 【【神秘博士广播剧翻译】女孩离奇失踪，九叔英雄救美 九任冒险集 201 被解构的女孩-哔哩哔哩】 https://b23.tv/dXGOnq7
 
-***** HALF [#D] 9DA 2.2. Fright Motif :D2021_09_dr:plot_yes:bilibili:
+****** HALF [#D] 9DA 2.2. Fright Motif :D2021_09_dr:plot_yes:bilibili:
 SCHEDULED: <2021-10-01 Fri>
 
 【【神秘博士广播剧翻译】如何打败无形且食人的声音？九任冒险集 202 Fright Motif-哔哩哔哩】 https://b23.tv/n9maru4
 
-***** HALF [#B] 9DA 2.3. Planet of the End :D2021_10_dr:plot_yes:bilibili:
+****** HALF [#B] 9DA 2.3. Planet of the End :D2021_10_dr:plot_yes:bilibili:
 SCHEDULED: <2021-11-04 Thu>
 
 【【广播剧翻译】墓地星球中针对博士的阴谋 九任冒险集 203 Planet of the End-哔哩哔哩】 https://b23.tv/uwJY0f7
 
-**** 📂S1.3 Lost Warriors :P2021_11:
-***** [#E] 3.1. The Hunting Season
+***** 📂S1.3 Lost Warriors :P2021_11:
+****** [#E] 3.1. The Hunting Season
 :PROPERTIES:
 :rating:   6.8
 :END:
 
-***** [#E] 3.2 The Curse of Lady Macbeth
+****** [#E] 3.2 The Curse of Lady Macbeth
 :PROPERTIES:
 :rating:   6.6
 :END:
 
-***** DONE [#A] 3.3 Monsters in Metropolis :Cybermen:plot_yes:bilibili:D2022_05_doctor:
+****** DONE [#A] 3.3 Monsters in Metropolis :Cybermen:plot_yes:bilibili:D2022_05_doctor:
 CLOSED: [2025-06-21 Sat 20:42] SCHEDULED: <2022-05-07 Sat>
 :PROPERTIES:
 :rating:   8.8
@@ -47,8 +56,8 @@ CLOSED: [2025-06-21 Sat 20:42] SCHEDULED: <2022-05-07 Sat>
 
 【【广播剧翻译】大都会电影里出现了赛博人？九任冒险集 303 Monsters in Metropolis-哔哩哔哩】 https://b23.tv/BV1S44y1j74U
 
-**** 📂S1.4 Old Friends :P2021_11:
-***** HALF [#C] 4.1 Fond Farewell :bilibili:DW2022_09_doctor:
+***** 📂S1.4 Old Friends :P2021_11:
+****** HALF [#C] 4.1 Fond Farewell :bilibili:DW2022_09_doctor:
 SCHEDULED: <2022-09-21 Wed>
 :PROPERTIES:
 :rating:   7.6
@@ -56,7 +65,7 @@ SCHEDULED: <2022-09-21 Wed>
 
 【【广播剧翻译】死者复活参加自己的葬礼？九任冒险集：老朋友 401 Fond Farewell-哔哩哔哩】 https://b23.tv/TSaPh4d
 
-***** 3QTR [#B] 4.2 Way of the Burryman :Cybermen:UNIT:Brigadier:plot_yes:bilibili:DW2022_07_doctor:
+****** 3QTR [#B] 4.2 Way of the Burryman :Cybermen:Sam_Bishop:Brigadier:plot_yes:bilibili:DW2022_07_doctor:
 CLOSED: [2022-07-03 Sun 17:05] SCHEDULED: <2022-07-06 Wed>
 :PROPERTIES:
 :rating:   8.2
@@ -116,8 +125,8 @@ SCHEDULED: <2023-11-11 Sat>
 
 【【神秘博士广播剧熟肉】Hidden Depths 703 Flatpack 平板家居-哔哩哔哩】 https://b23.tv/ElXr5Mq
 
-**** 📂S2.4 Shades of Fear :P2023_02:
-***** 3QTR [#D] 8.1 The Colour of Terror :plot_cast:bilibili:DW2024_Q2a_doctor:
+***** 📂S2.4 Shades of Fear :P2023_02:
+****** 3QTR [#D] 8.1 The Colour of Terror :plot_cast:bilibili:DW2024_Q2a_doctor:
 CLOSED: [2024-04-02 Tue 07:41] SCHEDULED: <2024-03-30 Sat>
 :PROPERTIES:
 :rating:   7.4
@@ -125,8 +134,8 @@ CLOSED: [2024-04-02 Tue 07:41] SCHEDULED: <2024-03-30 Sat>
 
 【【神秘博士广播剧熟肉】Shades of Fear 801 The Colour of Terror 恐怖之色-哔哩哔哩】 https://b23.tv/upXcyWs
 
-***** [#E] +8.2 The Blooming Menace+
-***** DONE [#A] 8.3 Red Darkness :Vashta_Nerada:plot_cast:bilibili:DW2024_Q3a_doctor:
+****** [#E] +8.2 The Blooming Menace+
+****** DONE [#A] 8.3 Red Darkness :Vashta_Nerada:plot_cast:bilibili:DW2024_Q3a_doctor:
 CLOSED: [2024-07-16 Tue 08:34] SCHEDULED: <2024-06-22 Sat>
 :PROPERTIES:
 :rating:   8.9
@@ -172,7 +181,7 @@ CLOSED: <2025-01-10 Fri 09:28> SCHEDULED: <2025-01-11 Sat>
 【【神秘博士广播剧熟肉】Star-Crossed 312 Archipelago 群岛-哔哩哔哩】 https://b23.tv/BV159FJeBEFK
 
 **** S4 :Rose:
-***** 4.1 Snare
+***** TBR 4.1 Snare :P2025_08:
 *** 9DC :P2017:
 **** [#D] 1.1 The Bleeding Heart
 :PROPERTIES:
@@ -254,6 +263,12 @@ The Doctor is forced to confront one of the most infamous crime families. Bribes
 The Doctor - Pete Walsh 
 Kayla - Isabella McCarthy Somerville
 
+**** Warrior No More :P2015:🗣:
+
+https://m.youtube.com/watch?v=M2p4DYjOS8I
+
+This is my take on what happened to the 9th Doctor immediately after his regeneration from the War Doctor.
+
 **** The End of The World is Nigh :P2021:
 
 https://m.youtube.com/watch?v=JqPt55KYAQg&pp=ygUcVGhlIEVuZCBPZiBUaGUgV29ybGQgSXMgTmlnaNIHCQm-CQGHKiGM7w%3D%3D
@@ -314,6 +329,7 @@ SCHEDULED: <2023-12-31 Sun>
 ***** DONE Sin-Eaters (#11-12)
 ***** DONE Secret Agent Man (#13)
 ***** DONE The Bidding War (#14-15)
+**** Hacked (FCBD 2016 #4)
 **** Once Upon a Time Lord #2: Rhyme or Reason :9th_Dr:Rose:P2023:
 * 10th Doctor :10th_Dr:
 ** tv :📺:
@@ -423,6 +439,8 @@ CLOSED: [2025-05-23 Fri 13:51]
 ***** 05 Revolving Doors
 ***** 06-08,10 Vortex Butterflies
 ***** 11-14 The Good Companion
+**** Laundro-Room of Doom (FCBD 2015 #3)
+**** Lady of the Blue Box (FCBD 2016 #3)
 **** Once Upon a Time Lord #1: Firelight :10th_Dr:Martha:P2023:
 *** DWM
 **** DWMGN: The Betrothal of Sontar
@@ -1104,6 +1122,9 @@ CLOSED: [2023-02-20 Mon 13:48]
 ***** DONE 12-13. Hungry Thirsty Roots
 CLOSED: [2023-02-22 Wed 13:49]
 
+**** Give Free or Die (FCBD 2015 #2)
+**** Obsessions (FCBD 2016 #2) :Abslom_Daak:
+**** Midnight Feast (FCBD 2018 #3)
 *** DWM
 **** DWMGN: The Child of Time
 
@@ -1448,6 +1469,8 @@ CLOSED: [2024-07-20 Sat 09:47]
 ***** The Great Shopping Bill (12DY3 9) :Bill:Nardole:
 ***** A Confusion of Angels (12DY3 10-13) :Bill:Nardole:
 **** Ghost Stories :P2017:
+**** The Body Electric (FCBD 2015 #1)
+**** Robo Rampage (FCBD 2016 #1) :Osgood:
 ** novels :📔:
 *** FIXME [#B] Plague City :Bill:Nardole:
 :PROPERTIES:
@@ -1560,7 +1583,19 @@ CLOSED: [2023-12-24 Sun 22:02] SCHEDULED: <2023-12-24 Sun>
 
 ** audio
 *** 13DA
-**** TBR 1. Vampire Weekend :P2025_07:
+**** READY 1. Vampire Weekend :P2025_07:bilibili:
+
+【【神秘博士广播剧熟肉】The Thirteenth Doctor Adventures 101 Vampire Weekend 吸血鬼周末-哔哩哔哩】 https://b23.tv/BV1azGnz8E1C
+
+https://www.bigfinish.com/releases/v/doctor-who-the-thirteenth-doctor-adventures-vampire-weekend-3126
+
+今天是Gina的单身派对，她的伴娘在峰区预订了一座大庄园。她所有的朋友都要过来——包括Yasmin Khan，不过她在自己旅行中一直安静得神秘。
+
+但Yaz带了一位没有受到邀请的客人，她的到来可能会造成一些混乱。
+
+博士加入了派对。但不幸的是，还有一个古老的敌人...
+
+**** TBR 2. The Return of the Doctor :P2025_09:
 *** fan-made :fan_made:
 **** Running Home :P2025_04:
 
@@ -1570,7 +1605,7 @@ https://m.soundcloud.com/overtonaudios/sets/doctor-who-the-thirteenth
 
 【【机翻】时间特工学院的飞船来咯！13和学员一起对抗外星阴谋（文本见评论）-哔哩哔哩】 https://b23.tv/BV1jWE9zGEnz
 
-***** READY 1.2 Sins of an Angel
+***** READY 1.2 Sins of an Angel :bilibili:
 
 【【机翻】村民神秘失踪，13和时间特工一起对抗哭泣天使（文本见评论）-哔哩哔哩】 https://b23.tv/BV1gJEozrEmA
 
@@ -1593,6 +1628,9 @@ https://m.youtube.com/watch?v=41IfcuPmpAU&list=PLepBz_uI2k90NOGnituY08w1AuN82l_V
 
 Something is lurking in the shadows of Mons as the TARDIS accidentally lands in the middle of World War I! The British army faces a major threat and the Doctor and Yaz will have to use everything they've got to save them! :o 
 
+
+https://archive.org/download/viva-cut-video-1627931971566/Fanmade%20%28Audio%29%20-%20The%20March%20of%20Mons%20-%20The%20Doctor%20Adventures.mp4
+
 **** The Collateral of Ivanhoe :Yaz:P2020:
 
 The Doctor, Yaz, Graham and Ryan decide to take a breather on the recreation planet of Caros Obsono. Once there, they get caught up in an attempted heist at the Ivanhoe bank engineered by a trio of robbers. Can the Doctor keep her reluctant friends and terrified staff at Ivanhoe safe and just what secrets at hiding in the under-belly at Ivanhoe? 
@@ -1608,7 +1646,7 @@ CLOSED: [2020-07-19 Sun 22:59]
 **** DONE A New Beginning (13D 1-4) :13D:
 CLOSED: [2020-06-20 Sat 20:37]
 
-**** DONE 13DY1 5-8 Hidden Human History
+**** DONE Hidden Human History (13DY1 #5-8)
 CLOSED: [2020-06-26 Fri 15:37]
 
 **** DONE Old Friends (13D 9-12)
@@ -1617,8 +1655,10 @@ CLOSED: [2020-07-01 Wed 18:45]
 **** DONE holiday specials
 CLOSED: [2020-08-02 Sun 16:17]
 
-**** TODO 13DY2 1-4 A Little Help from My Friends :10th_Dr:
-**** DWC20 #1-4 Alternating Current
+**** TODO A Little Help from My Friends (13DY2 1-4) :10th_Dr:
+**** Alternating Current (DWC20 #1-4)
+**** And Introducing... (FCBD 2018 #4)
+**** Meet the Fam! (FCBD 2019)
 *** DWM
 **** DWMGN: Mistress of Chaos
 ***** DONE The Warmonger (531-534) :Graham:Yaz:Ryan:

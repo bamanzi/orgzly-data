@@ -47,10 +47,16 @@ https://youtu.be/NQCeMIQpFBc | https://mega.nz/#!WqhTjYAb!pHQOdUN3QOBCPzPLa5nY4U
 
 Coming soon.
 
-*** Narrated Soundtracks (The Lost TV Episodes)
+*** TV soundtracks
+
+https://tardis.wiki/wiki/Doctor_Who_TV_soundtrack_releases
+
+**** The Lost TV Episodes
 
 https://mega.nz/#F!VTh3gCjL!E6TqsPJUN5Xx0n6y5spoGg
 
+**** The Missing Episodes
+**** Classic TV Adventures
 ** NuWho TV Stories:
 *** 9th Doctor
 
@@ -664,7 +670,10 @@ vol.1-8: https://mega.nz/#F!oQQUzJCS!-N4H89xMqCaZfysjNzX5Dg
 
 https://disk.yandex.ru/d/aw2B5eHBldsSFQ
 
-***** [ ] Out Of Time
+***** Out Of Time
+
+https://disk.yandex.ru/d/dAJrcOiaONIBJg
+
 **** 11th Doctor
 ***** 11DC
 
@@ -728,7 +737,8 @@ https://mega.nz/#F!VKZQCDBK!HVF3dZfQp9G2rwFlRKHGbw
 
 - S1-2 :: https://disk.yandex.ru/d/5ilJRddUzxsldA
 - S3 :: https://disk.yandex.ru/d/q_fzLXBU93szBQ
-- The Eternity Club
+- S4 :: https://disk.yandex.ru/d/_cMYfo4KczY-NA
+- S8 The Eternity Club
   - vol.1 https://disk.yandex.ru/d/rF4hKuuXt5TuMw
   - vol.2 https://disk.yandex.ru/d/BydhJu7NXfdcDg
 
@@ -737,7 +747,7 @@ https://mega.nz/#F!VKZQCDBK!HVF3dZfQp9G2rwFlRKHGbw
 - Treasury :: https://disk.yandex.ru/d/NfcMeB8HQJRkew
 - The Story So Far (vol.1 & vol.2) :: https://disk.yandex.ru/d/7LaXOrxU86Wilw
 
-**** FIXME Gallifrey
+**** Gallifrey
 
 Галлифрей
 
@@ -755,7 +765,8 @@ https://mega.nz/#F!VKZQCDBK!HVF3dZfQp9G2rwFlRKHGbw
 - S3-S4 :: https://disk.yandex.ru/d/yNZ2_0_tZv6N6A
 - S6 :: https://disk.yandex.ru/d/DHV5ZujRNe1_XQ
 - S7 :: https://disk.yandex.ru/d/Rlz5IsFxqbrFgA
-- S8 :: https://m.vk.com/pages?oid=-105622878&p=JandL8&hash=5a3bc95c03e48f05ea
+- S8 :: https://disk.yandex.ru/d/cG3mPY1UumlyiQ
+- 
 
 **** TODO The Robots
 
@@ -1051,11 +1062,13 @@ https://disk.yandex.ru/d/n_i2CRgIJW0xOw
 
 ** BBC / AudioGo
 *** Full Cast BBC Plays
+**** BBC 4DA (The Nest Cottage Chronicles)
 
-https://mega.nz/#F!NHp3FTSD!agX4snZuzPZTAFWO8fkCBw
+ https://audiobookbay.lu/abss/qdoctor-who-the-nest-chronicles-4th-doctor-bonus-material-paul-magrs/
 
-- BBC 4DA (The Nest Cottage Chronicles)
-- Torchwood
+**** Torchwood
+
+https://audiobookbay.lu/abss/thorchwood-bbc-audiobooks-and-audio-dramas/
 
 *** Audio Original
 
@@ -1067,7 +1080,7 @@ https://mega.nz/#F!NHp3FTSD!agX4snZuzPZTAFWO8fkCBw
 *** Audio Original Audiobooks
 
 NSA audio series
-https://tardis.fandom.com/wiki/BBC_New_Series_Adventures
+https://tardis.fandom.com/wiki/BBC_New_Series_Adventures#Audiobooks
 
  https://mega.nz/#F!SSQACS4S!aJtZhz9VbQq5dYU-ToD1aA 
 
@@ -1078,7 +1091,7 @@ https://tardis.fandom.com/wiki/BBC_New_Series_Adventures
 ** other producers
 *** BBV Productions
 
-https://mega.nz/#F!VH5DjBwB!6qffo-fvH0xrn1PZWMkRwQ
+https://audiobookbay.lu/abss/bbxv-doctor-who-spinoff-complete-collection-includes-faction-paradox-episodes-bill-bens-video/
 
 https://m.vk.com/page-5742320_44484076
 
@@ -1086,15 +1099,16 @@ https://archive.org/details/bbv-audio-dramas
 
 **** Faction Paradox Protocols
 
-- https://mega.nz/#F!nCRjgQYD!2CRpqA-lgI2piMgwEnYM0Q
+- https://audiobookbay.lu/abss/faction-paradox-complete-series-2001-2024-faction-paradox-complete-series-2001-2022-lawrence-miles-james-hornby-jt-mulholland-bill-baggs-lance-parkin-aristide-twain-michael-gilroy-si/
 - https://m.vk.com/page-105622878_54128145
 - https://m.vk.com/page-5742320_44218981
 - https://archive.org/details/1-the-eleven-day-empire
 
 *** Magic Bullet Productions
 
-https://archive.org/download/96true
-https://archive.org/download/bbv-audio-dramas/Magic%20Bullet%20Productions/
+- https://archive.org/download/96true
+- https://archive.org/download/bbv-audio-dramas/Magic%20Bullet%20Productions/
+- https://audiobookbay.lu/abss/magic-hbullet-productions-various/
 
 **** Kaldor City
 
@@ -1112,7 +1126,7 @@ The True History of Faction Paradox
 
 The Minister of Chance is an audio podcast Doctor Who spin-off written and produced by Dan Freeman of Radio Static. Freeman first created the Minister (then played by Stephen Fry) in the award-winning Doctor Who drama Death Comes To Time.
 
--  https://mega.nz/#F!VH5DjBwB!6qffo-fvH0xrn1PZWMkRwQ
+-  https://audiobookbay.lu/abss/tehe-minister-of-chance-radio-static/
 - https://m.vk.com/pages?oid=-105622878&p=Radio_Static_Ltd
 - https://archive.org/download/96true/Minister%20of%20Chance/
 - https://archive.org/download/bbv-audio-dramas/Minister%20of%20Chance/
@@ -1160,6 +1174,16 @@ https://twitter.com/9thDrAdventures
 
 https://mega.nz/#F!VH5DjBwB!6qffo-fvH0xrn1PZWMkRwQ
 
+*** DWAS (Doctor Who Appreciation Society)
+
+http://www.dwasonline.co.uk/
+
+https://en.m.wikipedia.org/wiki/Doctor_Who_Appreciation_Society
+
+**** Cosmic Fugue
+
+https://audiobookbay.lu/abss/doctzor-who-cosmic-fugue-12-dwas/
+
 ** unofficial (other doctors)
 
 https://dwexpanded.fandom.com/wiki/Category:Audio_Production_Groups
@@ -1177,8 +1201,11 @@ https://dwexpanded.fandom.com/wiki/Audio_Visuals
 - https://mega.nz/#F!nCRjgQYD!2CRpqA-lgI2piMgwEnYM0Q
 - https://mega.nz/#F!VH5DjBwB!6qffo-fvH0xrn1PZWMkRwQ
 - https://archive.org/download/96true/Audio%20Visuals/
+- https://audiobookbay.lu/abss/doctojr-who-audio-visual-plays-gary-russel-doctor-who-fans/
 
 *** DWAD (Doctor Who Audio Dramas)
+
+https://dwad.net/
 
 https://dwexpanded.fandom.com/wiki/The_Doctor_Who_Audio_Dramas
 
@@ -1199,16 +1226,14 @@ https://dwexpanded.fandom.com/wiki/The_Doctor_Who_Audio_Dramas
 - 2005-2010 The James K. Flynn Years
 - 2010- The R. Douglas Barbier Years
 
-*** DWAS (Doctor Who Appreciation Society)
-**** Cosmic Fugue
-
-- https://mega.nz/#F!nCRjgQYD!2CRpqA-lgI2piMgwEnYM0Q
-- https://mega.nz/#F!VH5DjBwB!6qffo-fvH0xrn1PZWMkRwQ
-
-*** BLOCK DWFAA (Doctor Who Fan Audio Adventures)
+*** DWFAA (Doctor Who Fan Audio Adventures)
 :PROPERTIES:
 :todo:     download
 :END:
+
+https://dwexpanded.fandom.com/wiki/Doctor_Who_Fan_Audio_Adventures
+
+https://audiobookbay.lu/abss/deoctor-who-fan-made-audio-adventures-dwfaa-parsec-award-nominated-excellent-wesley-mccammon-colin-nossek/
 
 *** City Park Radio: Doctor Audio Adventures
 
@@ -1237,7 +1262,7 @@ https://mega.nz/#F!VH5DjBwB!6qffo-fvH0xrn1PZWMkRwQ
 https://www.facebook.com/NthDoc/
 Years active: 2013 - 2016
 
-https://mega.nz/#F!VH5DjBwB!6qffo-fvH0xrn1PZWMkRwQ
+https://audiobookbay.lu/abss/nxth-doctor-adventures-parsec-award-winning-doctor-who-fan-produced-various/
 
 *** Piices
 
@@ -1246,6 +1271,8 @@ https://mega.nz/#F!VH5DjBwB!6qffo-fvH0xrn1PZWMkRwQ
 *** Plymouth Who Productions
 
 https://plymouthwhoproduct.wixsite.com/pwp2014/biography
+
+https://audiobookbay.lu/abss/plsymouth-who-productions-fan-madeamateur-audio-dramas-steve-green-and-others/
 
 *** Tales of a Timelord
 

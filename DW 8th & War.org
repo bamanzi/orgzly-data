@@ -57,8 +57,11 @@ CLOSED: [2020-09-24 Thu 08:32]
 【【神秘博士广播剧熟肉】MR029-The Chime of Midnight-午夜钟声-哔哩哔哩】 
 https://b23.tv/BV1DM4m1m7iD
 
-***** 2DONE [#B] 030 - Seasons of Fear (8.4). :bilibili:
+***** 2DONE [#B] 030 - Seasons of Fear :bilibili:
 CLOSED: [2020-11-26 Thu 08:26]
+:PROPERTIES:
+:rating:   8.0
+:END:
 
 【【神秘博士广播剧熟肉】MR 030 Seasons of Fear 恐惧之季-哔哩哔哩】 
 https://b23.tv/BV1JT411p7Wp
@@ -80,7 +83,7 @@ https://b23.tv/BV1Y24y1K7GQ
 ***** 3QTR [#B] 033 - Neverland :Romana_2:Rassilon:plot_yes_dwg:bilibili:DW2024_Q3b_doctor:
 CLOSED: [2024-08-10 Sat 20:04] SCHEDULED: <2024-08-10 Sat>
 :PROPERTIES:
-:rating:   8.5
+:rating:   8.4
 :END:
 
 http://drwhoguide.com/who_bf33.htm
@@ -135,24 +138,49 @@ CLOSED: [2021-03-22 Mon 22:38]
 
 【[AI字幕][神秘博士广播剧]MR 055 The Twilight Kingdom-哔哩哔哩】 https://b23.tv/BV1dHNdzVEgs
 
-***** TODO [#D] 61. Faith Stealer
+***** READY [#D] 61. Faith Stealer :bilibili:
 :PROPERTIES:
 :rating:   7.4
 :END:
 
  Faith Stealer: Fluffy and fun, with some very Douglas Adams-esque ideas. Not vital to the plot, but more enjoyable than most divergent universe stories.
 
-***** BLOCK [#C] 62. The Last
+https://www.bigfinish.com/releases/v/doctor-who-faith-stealer-227
+
+当医生、Charley和C'rizz发现他们穿越Interzone的旅程被噩梦般的幻象打断时，他们惊讶地发现Kro'ka提供了完美的解决方案。
+Multihaven是一个和谐的社区，拥有众多宗教和信仰，似乎为康复提供了完美的庇护所。但在魅力非凡的拉安·卡德尔的指导下，一个宗教似乎正以惊人的速度聚集信徒。
+医生和查理瞥见一位老朋友和C'rizz正在接受一些非正统的宗教活动，他们的信仰、希望和信念即将受到极限的考验。
+
+【[AI字幕][神秘博士广播剧]MR 061 Faith Stealer-哔哩哔哩】 https://b23.tv/BV1Fn3YzMEBF
+
+***** READY [#C] 62. The Last :bilibili:
 :PROPERTIES:
 :rating:   7.6
 :END:
 
-***** BLOCK [#C] 63. Caerdroia :plot_yes:underrated:week2:
+【[AI精校字幕][神秘博士广播剧]MR 062 The Last-哔哩哔哩】 https://b23.tv/BV1vUG4zmET9
+
+转自https://www.bigfinish.com/releases/v/doctor-who-the-last-228
+
+在这个濒临灭绝的世界上，博士和Charley与战争终结者面对面，而C'rizz则试图了解发生了什么，并得知了可怕的真相。强大的力量正在博特雷索耶发生作用，即使是核浩劫也无法驯服；这些自然力量激起了自称是其人民救世主的Excelsior的兴趣。Charley无法动弹，C'rizz只能和一些战争受害者一起与大自然搏斗，最后一个绝望的逃生希望出现在旅行者面前。但谁会是最后一个离开地球的人？谁将不得不留下？博士、查理和 C'rizz 还能活到最后吗？
+
+***** BLOCK [#C] 63. Caerdroia :plot_yes:underrated:bilibili:
 :PROPERTIES:
 :rating:   7.7
 :END:
 
  It was essentially the "beginning of the end" of the Divergent Universe arc. The story began to "pay off" the Divergent Universe arc by explaining things like the Interzone, the Kro'ka's motivations and fears, how a universe without time worked and the Divergence itself.
+
+
+【[AI字幕][神秘博士广播剧]MR 063 Caerdroia-哔哩哔哩】 https://b23.tv/BV1Dfuhz1EEy
+
+https://www.bigfinish.com/releases/v/doctor-who-caerdroia-229
+
+自我放逐到一个全新的宇宙，与自己的塔迪斯TARDIS分离，还要面对 Divergence及其代理人Kro'ka的阻挠与操纵 —— 博士一直挣扎着想要弄清这场宇宙游戏的本质，而他自己不过是这场游戏中身不由己的棋子。如今，他终于有机会找到答案，并重获塔迪斯！
+
+在威胁与绝望的驱使下，克罗卡放弃了幕后的阴谋诡计，选择直接与博士对峙。但两人是否会在这个陌生世界的迷宫中迷失方向？这个世界里，时钟或许有布谷鸟却没有指针，迷宫囚禁着一个悖论，而 “奇珍园” 则展露出博士从未见过的事物。
+
+当博士直面这些挑战时，Charley和克里兹C'rizz提供了宝贵的帮助。但鉴于塔迪斯本身已岌岌可危，博士向内心深处探寻，竟找到了一些令人意想不到的新盟友……
 
 ***** CANCEL [#E] 64. The Next Life :bilibili:
 :PROPERTIES:
@@ -162,11 +190,23 @@ CLOSED: [2021-03-22 Mon 22:38]
 【[AI精校字幕][神秘博士广播剧]MR 064 The Next Life-哔哩哔哩】 https://b23.tv/BV1KKK3z6Emt
 
 **** MR part3 :scripted:2CD:
-***** 3QTR [#C] 72. Terror Firma :Davros:D2021_09_dr:
+***** 3QTR [#C] 72. Terror Firma :Davros:D2021_09_dr:bilibili:
 CLOSED: <2021-09-25 Sat 21:28> SCHEDULED: <2021-09-11 Sat>
 :PROPERTIES:
 :rating:   7.8
 :END:
+
+【[AI字幕][神秘博士广播剧]MR 072 Terror Firma-哔哩哔哩】 https://b23.tv/BV1Nkg3zSE3i
+
+
+https://www.bigfinish.com/releases/v/doctor-who-terror-firma-238
+“欢迎回来，博士……”
+
+几个世纪前，在饱经战火蹂躏的斯卡罗星球上，一位伟大的科学家创造出了宇宙中最邪恶的生物 —— 戴立克。就在这些生物诞生之际，这位名叫戴沃斯的科学家第一次遇见了博士，并且被博士击败。
+
+多年来，跨越无数星系，他们不断交锋，这场争斗最终以博士摧毁斯卡罗星球和戴立克一族告终。只是
+
+戴沃斯活了下来。孤身一人，在黑暗之中，唯有复仇的执念支撑着他活下去。如今博士归来，戴沃斯已然等候多时。他们的宿命，就在此刻。
 
 ***** CANCEL [#F] +75. Scaredy Cat+
 CLOSED: [2021-03-22 Mon 22:44]

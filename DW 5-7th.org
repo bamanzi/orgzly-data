@@ -169,6 +169,10 @@ CLOSED: [2021-06-17 Thu 23:01]
 ***** [#E] The Demons of Red Lodge
 ***** [#F] The Entropy Composition
 ***** [#D] Doing Time
+:PROPERTIES:
+:rating:   7.4
+:END:
+
 ***** [#B] Special Features
 **** [#D] 📂168. 1001 Nights
 ***** [#D] 1001 Nights
@@ -188,9 +192,9 @@ CLOSED: [2021-02-27 Sat 18:02]
 :rating:   6.6
 :END:
 
-**** [#A] 224b. Dalek Soul (8.5) :plot_no:short:
+**** [#B] 224b. Dalek Soul :plot_no:short:
 :PROPERTIES:
-:rating:   8.5
+:rating:   8.4
 :END:
 
 *** with Nyssa & Tegan
@@ -198,7 +202,7 @@ CLOSED: [2021-02-27 Sat 18:02]
 ***** 2DONE [#B] 136. Cobwebs :D2021_08_dr:
 CLOSED: <2021-08-01 Sun 00:10>
 :PROPERTIES:
-:rating:   8.1
+:rating:   8.0
 :END:
 
 ***** CANCEL [#E] 137. The Whispering Forest
@@ -219,7 +223,7 @@ CLOSED: [2021-03-22 Mon 23:16]
 CLOSED: <2023-07-07 Fri 20:32> SCHEDULED: <2023-07-05 Wed>
 
 ***** [#D] 160. The Jupiter Conjunction (7.3)
-***** HALF [#B] 161. The Butcher of Brisbane (8.0) :plot_yes:DW2024_Q2a_doctor:
+***** HALF [#B] 161. The Butcher of Brisbane :Greel:plot_yes:DW2024_Q2a_doctor:
 SCHEDULED: <2024-04-06 Sat>
 :PROPERTIES:
 :rating:   8.0
@@ -263,9 +267,9 @@ CLOSED: [2021-02-27 Sat 18:02]
 :rating:   7.4
 :END:
 
-***** [#A] 235. Ghost Walk (8.5) :plot_yes:
+***** [#B] 235. Ghost Walk :plot_yes:
 :PROPERTIES:
-:rating:   8.5
+:rating:   8.0
 :END:
 
 ***** [#A] 236. Serpent in the Silver Mask (8.5) :plot_yes:
@@ -325,9 +329,9 @@ SCHEDULED: <2022-05-14 Sat>
 **** 📂217. The Memory Bank and Other Stories :short:
 ***** [#D] The Memory Bank (7.2)
 ***** [#E] The Last Fairy Tale (6.9)
-***** BLOCK [#B] 217c. Repeat Offender (8.1) :plot_yes:½CD:
+***** BLOCK [#C] 217c. Repeat Offender :plot_yes:½CD:
 :PROPERTIES:
-:rating:   8.1
+:rating:   7.9
 :END:
 
 ***** [#D] The Becoming (7.0)
@@ -341,7 +345,11 @@ SCHEDULED: <2024-11-16 Sat>
 
 【【神秘博士广播剧熟肉】MR 047 Omega-哔哩哔哩】 https://b23.tv/BV1LB4y1n7kj
 
-**** [#C] 165. The Burning Prince (7.9)
+**** [#C] 165. The Burning Prince
+:PROPERTIES:
+:rating:   7.9
+:END:
+
 **** 3QTR [#D] 211. And You Will Obey Me (7.2) :Master_decayed:D2021_11_master:
 CLOSED: <2021-11-19 Fri 17:35> SCHEDULED: <2021-11-13 Sat>
 :PROPERTIES:
@@ -349,25 +357,40 @@ CLOSED: <2021-11-19 Fri 17:35> SCHEDULED: <2021-11-13 Sat>
 :END:
 
 **** 📂266. Time Apart :short:
-***** 266a. Ghost Station
+***** [#B] 266a. Ghost Station
+:PROPERTIES:
+:rating:   8.1
+:END:
+
 ***** [#D] 266b. The Bridge Master
-***** [#B] 266c. What Lurks Down Under
+***** [#C] 266c. What Lurks Down Under
+:PROPERTIES:
+:rating:   7.9
+:END:
+
 ***** CANCEL [#F] 266d. The Dancing Plague
-**** HALF [#C] 267a. Thin Time :underrated:P2020:1CD:11th_Dr:DW2023_01_doctor:
+**** HALF [#B] 267a. Thin Time :underrated:P2020:1CD:11th_Dr:DW2023_01_doctor:
 SCHEDULED: <2023-01-06 Fri 08:38>
 :PROPERTIES:
-:rating:   7.8
+:rating:   8.0
 :END:
 
 **** 📂269. Shadow of the Daleks 1 :½CD:
-***** DONE [#C] 269a. Aimed at the Body :DW2023_09_spinoffs:
+***** DONE [#D] 269a. Aimed at the Body :DW2023_09_spinoffs:
 CLOSED: <2024-06-29 Sat 14:55> SCHEDULED: <2023-09-09 Sat>
+:PROPERTIES:
+:rating:   7.4
+:END:
 
 ***** DONE [#E] 269b. Lightspeed :DW2023_09_spinoffs:
 CLOSED: <2024-06-29 Sat 16:42> SCHEDULED: <2023-09-24 Sun>
 
-***** DONE [#E] 269c. The Bookshop at the End of the World :DW2024_Q3a_doctor:
+***** DONE [#B] 269c. The Bookshop at the End of the World :DW2024_Q3a_doctor:
 CLOSED: <2024-06-29 Sat 16:46> SCHEDULED: <2024-06-29 Sat>
+
+:PROPERTIES:
+:rating:   8.4
+:END:
 
 ***** HALF [#B] 269d. Interlude :DW2024_Q3a_doctor:
 SCHEDULED: <2024-06-29 Sat>
@@ -375,6 +398,10 @@ SCHEDULED: <2024-06-29 Sat>
 **** 📂270. Shadow of the Daleks 2
 ***** HALF [#B] 270a. Echo Chamber :dw2025_q2a_doctor:
 SCHEDULED: <2025-04-05 Sat>
+
+:PROPERTIES:
+:rating:   8.1
+:END:
 
 ***** HALF [#D] 270b. Towards Zero :dw2025_q2a_doctor:
 SCHEDULED: <2025-04-26 Sat>
@@ -390,19 +417,24 @@ CLOSED: [2022-03-27 Sun 12:08] SCHEDULED: <2022-03-30 Wed>
 
 CLOSED: [2021-03-22 Mon 23:23]
 
-**** CANCEL [#E] 095. Exotron / Urban Myths :Peri:
+**** CANCEL [#E] 095a. Exotron :Peri:
 :PROPERTIES:
 :rating:   6.2
+:END:
+
+**** [#D] 095b. Urban Myths
+:PROPERTIES:
+:rating:   7.4
 :END:
 
 **** START [#E] 102b. Mission of the Viyrans :Viyrans:Peri:D2021_04:
 **** HALF [#B] 200. The Secret History (8.2) :5th_Dr:plot_yes:Steven:Vicki:Monk:D2021_09_extra:
 SCHEDULED: <2021-09-15 Wed>
 
-**** DONE [#A] 230.Time in Office (9.0) :P2017:Tegan:Leela:Gallifrey:plot_yes:已购:
+**** DONE [#A] 230.Time in Office :P2017:Tegan:Leela:Gallifrey:plot_yes:已购:
 CLOSED: [2021-04-13 Tue 17:47]
 :PROPERTIES:
-:rating:   9.0
+:rating:   8.6
 :END:
 
 **** CANCEL [#F] 237. The Helliax Rift (5.8)
@@ -451,8 +483,8 @@ https://b23.tv/BV14x4y1Z79k
 ***** [#C] Dream Team :1CD:
 **** 2024B. The Great Beyond :Adric:Nyssa:Tegan:3CD:P2024_09:
 **** 📂2025. Hooklight
-***** Hooklight 1 :P2025_04:
-***** Hooklight 2 :P2025_05:
+***** Hooklight 1 :P2025_04:3CD:
+***** Hooklight 2 :P2025_05:3CD:
 *** with Zara & Abby
 **** [#E] 117. The Judgement of Isskar :Zara:Abby:Ice_Warriors:
 **** [#D] 118. The Destroyer of Delights :Zara:Abby:
@@ -594,11 +626,16 @@ SCHEDULED: <2024-01-14 Sun>
 
 https://tardis.fandom.com/wiki/Sixth_Doctor_audio_stories
 
-*** MR with Evelyn :Evelyn:scripted:2CD:
-**** 3QTR [#A] 6. The Marian Conspiracy (8.6) :Evelyn:plot_yes:DW2022_08_doctor:
+*** with Evelyn :Evelyn:scripted:2CD:
+**** 3QTR [#A] 6. The Marian Conspiracy :Evelyn:plot_yes:DW2022_08_doctor:
 CLOSED: [2022-08-03 Wed 21:45] SCHEDULED: <2022-08-03 Wed>
 
-**** 3QTR [#B] 009 - The Spectre of Lanyon Moor (8.0) :Evelyn:Brigadier:plot_yes_dwg:DW2023_06_doctor:
+:PROPERTIES:
+:rating:   8.6
+:END:
+
+
+**** 3QTR [#B] 9. The Spectre of Lanyon Moor (8.0) :Evelyn:Brigadier:plot_yes_dwg:DW2023_06_doctor:
 CLOSED: [2023-06-26 Mon 08:24] DEADLINE: <2023-06-28 Wed> SCHEDULED: <2023-06-14 Wed 08:34>
 
 http://drwhoguide.com/who_bf09.htm
@@ -608,6 +645,10 @@ http://drwhoguide.com/who_bf09.htm
 【【神秘博士广播剧熟肉】MR011 The Apocalypse Element 末日元素-哔哩哔哩】 https://b23.tv/lFiGif9
 
 **** [#D] 22. Bloodtied
+:PROPERTIES:
+:rating:   7.4
+:END:
+
 **** 2DONE [#C] 23. Project Twilight :The_Forge:D2021_07_dr:plot_yes:
 CLOSED: [2021-07-15 Thu 14:15]
 :PROPERTIES:
@@ -630,7 +671,7 @@ CLOSED: [2021-07-23 Fri 12:43]
 **** 3QTR [#A] 57. Arrangements for War :plot_yes_dwg:DW2024_Q3b_doctor:
 CLOSED: [2024-08-15 Thu 21:40] SCHEDULED: <2024-08-03 Sat>
 :PROPERTIES:
-:rating:   8.5
+:rating:   8.6
 :END:
 
 https://doctorwho.guide/who_bf57.htm
@@ -652,7 +693,10 @@ CLOSED: <2021-06-09 Wed 08:10>
 
 **** 100. 100
 ***** [#E] 100a. 100 BC
-***** READY [#B] 100b. My Own Private Wolfgang (8.0) :plot_no:bilibili:
+***** READY [#B] 100b. My Own Private Wolfgang :plot_no:bilibili:
+:PROPERTIES:
+:rating:   8.1
+:END:
 
 【【DW广播剧翻译】MR 100b - 独属于我的沃尔夫冈-哔哩哔哩】 
 https://b23.tv/BV1LF411j7D5
@@ -673,9 +717,9 @@ https://b23.tv/BV1LF411j7D5
 :rating:   7.4
 :END:
 
-**** [#C] 144. The Feast of Axos :Evelyn:
+**** [#D] 144. The Feast of Axos :Evelyn:
 :PROPERTIES:
-:rating:   7.6
+:rating:   7.4
 :END:
 
 **** CANCEL [#E] 145. Industrial Evolution :Evelyn:
@@ -683,6 +727,9 @@ https://b23.tv/BV1LF411j7D5
 :rating:   6.9
 :END:
 
+**** [#D] Real Time :2CD:
+**** [#E] CC5.5 A Town Called Fortune
+**** [#D] SST34 Mission Improbable
 *** with Peri :Peri:
 **** MR with Peri :scripted:2CD:
 ***** [#D] 003. Whispers of Terror
@@ -716,19 +763,35 @@ SCHEDULED: <2022-01-14 Fri>
 【【神秘博士广播剧熟肉】MR 188b Of Chaos Time The 之混乱时-哔哩哔哩】 
 https://b23.tv/BV1q2BKYJE2J
 
-****** [#C] 188c. An Eye For Murder
-****** READY [#A] 188d. The Curious Incident of the Doctor in the Night-Time (8.7) :plot_no:bilibili:
+****** [#D] 188c. An Eye For Murder
+:PROPERTIES:
+:rating:   7.4
+:END:
+
+****** READY [#A] 188d. The Curious Incident of the Doctor in the Night-Time :plot_no:bilibili:
+:PROPERTIES:
+:rating:   8.6
+:END:
 
 【【神秘博士广播剧熟肉】MR 188d The Curious Incident of the Doctor in the Night-Time 深夜博士离奇事件-哔哩哔哩】 
 https://b23.tv/BV1yGAEetEdK
 
-***** 3QTR [#A] 192. The Widow's Assassin (8.6) :Peri_older:plot_no:D2021_09_dr:已购:
+***** 3QTR [#A] 192. The Widow's Assassin :Peri_older:plot_no:D2021_09_dr:已购:
 CLOSED: <2021-09-17 Fri 21:27> SCHEDULED: <2021-09-04 Sat>
+:PROPERTIES:
+:rating:   8.6
+:END:
+
 
   与剧集23x02 Mindwrap联系紧密
 
-***** 2DONE [#A] 193. Masters of Earth (8.6) :Peri_older:plot_no:Daleks:D2021_10_daleks:
+***** 2DONE [#B] 193. Masters of Earth :Peri_older:plot_no:Daleks:D2021_10_daleks:
 CLOSED: [2021-10-18 Mon 20:15]
+
+:PROPERTIES:
+:rating:   8.4
+:END:
+
 
 ***** [#C] 194. The Rani Elite :Peri_older:
 :PROPERTIES:
@@ -781,10 +844,22 @@ CLOSED: [2025-06-07 Sat 16:02] SCHEDULED: <2025-05-24 Sat>
 【【神秘博士广播剧熟肉】The Lost Story 101 The Nightmare Fair -梦魇游乐园-哔哩哔哩】 
 https://b23.tv/BV1Cb421H7vu
 
-****** CANCEL [#F] +LS1.2 Mission to Magnus+ :ice_warriors:
+
+【【iCelery】神秘博士1963版 OS23E01 梦魇乐园 - The Nightmare Fair P1【S23废案改编广播剧】-哔哩哔哩】 
+- https://b23.tv/BV13DKhz3EZL
+- https://b23.tv/BV1H1KDzjErM
+- https://b23.tv/BV1juKUzAESE
+- https://b23.tv/BV1jYg9zdEsS
+
+****** CANCEL [#F] +LS1.2 Mission to Magnus+ :ice_warriors:bilibili:
 :PROPERTIES:
 :rating:   5.7
 :END:
+
+【【神秘博士广播剧熟肉】The Lost Stories 102 Mission to Magnus-Magnus任务-哔哩哔哩】 https://b23.tv/BV1HF3LzZE1s
+
+博士和Peri在Magnus遇到强敌。时间领主恶霸曾让博士在学院中的生活如同地狱。还有Rana Zandusia，这个星球的掌权者，想从这些外星访客中，探索时间旅行技术的秘密。
+还有在Magnus还有一个像懒虫一样的人Sil，在Varos被击败，从最可怕的地方获利。还有在星球的深处，有什么东西。还有一个博士的老对手。还有这里的未来变得越来越冷。
 
 ****** HALF [#B] LS1.3 - Leviathan :DW2023_10_doctor:
 SCHEDULED: <2023-11-01 Wed>
@@ -841,6 +916,9 @@ SCHEDULED: <2023-11-01 Wed>
 **** [#B] ST4.6 - To Cut a Blade of Grass :Peri:plot_no:
 **** [#C] DotD #6 Trouble in Paradise :Peri:plot_no:1CD:
 **** TODO [#B] 08. The Flight of the Sun God :6th_Dr:Peri:BBC:
+**** TBR 📂6DA2025B. Bad Terms :P2025_08:
+***** 1. Saiorse of the Seven Seas
+***** 2. Red for Danger
 *** with Mel
 **** MR with Mel :Mel:scripted:2CD:
 ***** 3QTR [#A] 27. The One Doctor (9.0) :Mel:plot_no:D2022_04_doctor:
@@ -856,6 +934,10 @@ CLOSED: [2022-04-22 Fri 08:22] SCHEDULED: <2022-04-30 Sat>
 ***** DONE [#C] 065. The Juggernauts :Davros:
 ***** [#D] 066. Catch-1792
 ***** [#C] 073. Thicker Than Water
+:PROPERTIES:
+:rating:   7.9
+:END:
+
 ***** CANCEL [#E] 097a The Wishing Beast
 ***** [#C] 097b. The Vanity Box
 ***** [#C] 169. The Wrong Doctors :Mel:
@@ -926,11 +1008,19 @@ CLOSED: <2021-04-18 Sun 08:14>
 :rating:   7.0
 :END:
 
-**** [#B] 126. Blue Forgotten Planet (8.1) :Charley:Mila:plot_no:
+**** [#B] 126. Blue Forgotten Planet :Charley:Mila:plot_no:
+:PROPERTIES:
+:rating:   8.1
+:END:
+
 **** [#D] SvsR#3 - Born to Die :Sontarans:P2024_03:
 *** MR with Flip & Constance :scripted:2CD:
-**** 2DONE [#B] 156. The Curse of Davros (8.0) :Flip:plot_no:2buy:
+**** 2DONE [#C] 156. The Curse of Davros :Flip:plot_no:2buy:
 CLOSED: <2021-12-23 Thu 08:53>
+:PROPERTIES:
+:rating:   7.9
+:END:
+
 
 **** [#C] 157. The Fourth Wall :Flip:
 SCHEDULED: <2023-03-01 Wed>
@@ -951,7 +1041,11 @@ SCHEDULED: <2023-03-01 Wed>
 :rating:   8.4
 :END:
 
-**** [#A] 233. Static (8.6) :Flip:Constance:
+**** [#A] 233. Static :Flip:Constance:
+:PROPERTIES:
+:rating:   8.5
+:END:
+
 **** [#C] 263. Cry of the Vultriss :Flip:Con:Ice_Warriors:
 **** [#B] 264. Scorched Earth :Flip:Constance:
 **** CANCEL [#E] 265. The Lovecraft Invasion :Flip:Constance:
@@ -975,7 +1069,13 @@ CLOSED: [2021-03-22 Mon 20:39]
 SCHEDULED: <2022-12-24 Sat 22:41>
 
 **** [#C] 134. The Wreck of the Titan (7.6) :Jamie:
-**** LATER [#A] 135. Legend of the Cybermen (8.5) :Cybermen:Jamie:Zoe:plot_yes:
+**** LATER [#B] 135. Legend of the Cybermen :Cybermen:Jamie:Zoe:plot_yes:bilibili:
+:PROPERTIES:
+:rating:   8.4
+:END:
+
+【【神秘博士广播剧熟肉】MR 135 Legend of the Cybermen-赛博人的传说-哔哩哔哩】 https://b23.tv/BV1yCgoz1EQo
+
 **** [#D] 199. Last of the Cybermen :Jamie:Zoe:
 :PROPERTIES:
 :rating:   7.1
@@ -987,18 +1087,21 @@ CLOSED: <2021-11-26 Fri 14:14> SCHEDULED: <2021-11-20 Sat>
 :rating:   7.5
 :END:
 
-**** [#C] 239. Iron Bright (7.5)
+**** [#C] 239. Iron Bright
+:PROPERTIES:
+:rating:   7.4
+:END:
+
 **** 3QTR [#C] 240. Hour of the Cybermen (7.8) :UNIT:Cybermen:D2022_06_doctor:
 CLOSED: [2022-06-29 Wed 16:22] SCHEDULED: <2022-06-19 Sun>
 
 **** CANCEL [#E] 246. The Hunting Ground
-*** 6DA :6DA:
+*** 6DA misc :6DA:
 **** special/bonus
-***** READY [#E] The Ratings War :bilibili:
+***** READY [#E] The Ratings War :bilibili:Beep_the_Meep:
 
 【【神秘博士广播剧熟肉】6DA 特别发布01 收视率之战-哔哩哔哩】 https://b23.tv/BV1ZWMUzzEaX
 
-***** [#D] Real Time :2CD:
 ***** TODO [#C] 33½ - The Maltese Penguin :1CD:Frobisher:
 :PROPERTIES:
 :rating:   7.6
@@ -1172,10 +1275,11 @@ https://tardis.fandom.com/wiki/Seventh_Doctor_audio_stories
 |   | 164. Gods and Monsters         | 8.4 | 7th | 2012 | Ace, Hex, Sally, Lysandra, Fenric, the Forge | Mike Maddox and Alan Barnes          |
 |   | 213. The Two Masters           | 8.8 | 7th | 2016 | The Old Master, The New Master               | John Dorney                          |
 
-*** MR with Ace :Ace:scripted:2CD:
-***** [#C] 5. Fearmonger :Ace:plot_yes:
+*** with Ace :Ace:scripted:2CD:
+**** MR
+***** [#B] 5. Fearmonger :Ace:plot_yes:
 :PROPERTIES:
-:rating:   7.9
+:rating:   8.0
 :END:
 
 ***** HALF [#D] 7. The Genocide Machine :Ace:Daleks:Dalek_Empire:Bev:
@@ -1217,17 +1321,52 @@ CLOSED: <2021-08-11 Wed 17:21>
 :rating:   7.5
 :END:
 
-***** [#C] 260. Dark Universe :Ace:The_Eleven:
+***** [#D] 260. Dark Universe :Ace:The_Eleven:
 :PROPERTIES:
-:rating:   7.8
+:rating:   7.4
 :END:
 
-***** [#D] 272. The Grey Man of the Mountain :Ace:Brigadier:
+***** [#C] 272. The Grey Man of the Mountain :Ace:Brigadier:
+:PROPERTIES:
+:rating:   7.5
+:END:
+
+**** [#D] LS2.3 - Thin Ice :Ace:P2011:bilibili:
+
+【【7th广播剧熟肉】The Lost Stories 2.3. Thin Ice 薄冰-哔哩哔哩】 https://b23.tv/BV1kS8GzaE96
+
+简介翻译
+莫斯科，1967年。博士和Ace穿越铁幕，而苏联正在寻找一种能使其在冷战中取得决定性优势的新型武器。
+那些火星遗物究竟隐藏着什么秘密？当传说中的战争元帅Sezhyr死而复生，博士将直面他最古老、最危险的敌人之一。
+此刻，地球的命运与Ace的未来已然紧密交织......
+
+补充几句
+虽然老版在s26播完后就被砍了，但编剧们其实是计划过s27的剧情走向的。这个故事来自s27e2，原标题Ice Time，作者是Marc Platt（他也是鬼舍之光的编剧）。这是Ace原定的谢幕集，原结局是她进入了学院，成为了一个时间领主。
+
+一些碎碎念
+up英语水平很一般，这几天7th上头了试着翻的，打轴不熟练观感可能不太好……有错我立马滑跪 欢迎老师们捉虫orzorz
+最后十几分钟是下集预告＋本集小采访 没有翻
+以及想说常年烤广播剧的老师们太伟大了……
+
+**** [#B] NA9. Nightshade :Ace:P2016:
+:PROPERTIES:
+:rating:   8.1
+:END:
+
+**** [#B] ST6.X - Forever Fallen :Ace:plot_yes:
+**** ST13.5 Emerald Isle :Ace:P2025_04:
 *** MR with Ace & Hex :Ace:Max:scripted:2CD:
-***** DONE [#B] 58. The Harvest (8.4) :P2004:Ace:Hex:Cybermen:plot_yes:D2021_06:
+***** DONE [#B] 58. The Harvest :P2004:Ace:Hex:Cybermen:plot_yes:D2021_06:
 CLOSED: [2021-06-24 Thu 12:31]
 
-***** READY [#A] 74. Live 34 (8.5) :P2005:Ace:Hex:plot_no:bilibili:
+:PROPERTIES:
+:rating:   8.3
+:END:
+
+***** READY [#A] 74. Live 34 :P2005:Ace:Hex:plot_no:bilibili:
+:PROPERTIES:
+:rating:   8.5
+:END:
 
 【【神秘博士广播剧熟肉】MR 074 LIVE 34-哔哩哔哩】 
 https://b23.tv/BV1zG4y1L7Ph
@@ -1273,7 +1412,10 @@ https://doctorwho.guide/who_bf115.htm
 :rating:   7.4
 :END:
 
-****** HALF [#A] 115d. The Word Lord (8.6) :Ace:Hex:Nobody_No_One:bilibili:
+****** HALF [#A] 115d. The Word Lord :Ace:Hex:Nobody_No_One:bilibili:
+:PROPERTIES:
+:rating:   8.6
+:END:
 
 【【神秘博士广播剧熟肉】MR 115d The Word Lord 词语领主-哔哩哔哩】 
 https://b23.tv/BV1DKAReMEbF
@@ -1281,13 +1423,21 @@ https://b23.tv/BV1DKAReMEbF
 ***** 3QTR [#A] 120. The Magic Mousetrap :P2009:Ace:Hex:Celestial_Toymaker:plot_yes_dwg:DW2024_01_doctor:
 CLOSED: [2024-02-13 Tue 15:21] SCHEDULED: <2024-01-06 Sat>
 :PROPERTIES:
-:rating:   8.6
+:rating:   8.5
 :END:
 
 http://www.drwhoguide.com/who_bf120.htm
 
+***** [#B] 122. Angel of Scutari :Ace:Hex:P2008:
+:PROPERTIES:
+:rating:   8.1
+:END:
+
 ***** 3QTR [#B] 139. Project: Destiny :Ace:Hex:The_Forge:Lysandra:P2010:DW2024_Q4a_doctor:
 CLOSED: <2024-10-31 Thu 21:22> SCHEDULED: <2024-11-02 Sat>
+:PROPERTIES:
+:rating:   8.0
+:END:
 
 ***** [#A] 140. A Death in the Family [A⁺] :P2010:Ace:Hex:Evelyn:Nobody_No_One:the_Forge:plot_no:
 ***** DONE [#A] 162. Protect and Survive (8.7) :P2012:Ace:Hex:plot_yes:WW3:Old_Ones:已购:
@@ -1298,7 +1448,11 @@ CLOSED: [2021-03-22 Mon 20:20]
 :rating:   7.7
 :END:
 
-***** [#B] 164. Gods and Monsters (8.4) :P2012:Ace:Hex:Sally:Lysandra:Fenric:the_Forge:plot_no:
+***** [#B] 164. Gods and Monsters :P2012:Ace:Hex:Sally:Lysandra:Fenric:the_Forge:plot_no:
+:PROPERTIES:
+:rating:   8.4
+:END:
+
 ***** [#C] 226b. World Apart :Ace:Hex:plot_no:1CD:
 :PROPERTIES:
 :rating:   7.7
@@ -1315,10 +1469,10 @@ CLOSED: [2021-03-22 Mon 20:20]
 :END:
 
 *** MR Klein line :Klein:scripted:2CD:
-***** DONE [#C] 25. Colditz :plot_yes:Klein:Ace:已购:
+***** DONE [#B] 25. Colditz :plot_yes:Klein:Ace:已购:
 CLOSED: <2021-03-26 Fri 11:25>
 :PROPERTIES:
-:rating:   7.9
+:rating:   8.0
 :END:
 
 ***** DONE [#A] 130. A Thousand Tiny Wings (8.8) :P2010:Klein:plot_no:
@@ -1330,7 +1484,7 @@ CLOSED: <2021-05-26 Wed 08:10>
 ***** DONE [#C] 131b. Survival of the Fittest :plot_no:Klein:D2021_05:
 CLOSED: <2021-05-31 Mon 08:10>
 :PROPERTIES:
-:rating:   7.8
+:rating:   7.9
 :END:
 
 ***** HALF [#A] 132. The Architects of History (8.7) :P2010:Klein:Selachians:plot_no:D2021_09_dr:2buy:
@@ -1382,7 +1536,8 @@ SCHEDULED: <2022-01-30 Sun>
 ***** [#E] 202. The Warehouse
 ***** CANCEL [#F] 203. Terror of the Sontarans
 ***** CANCEL [#F] 214. A Life of Crime
-*** MR with Ace & Mel
+*** with Ace & Mel
+**** MR with Ace & Mel
 ***** [#E] 215. Fiesta of the Damned
 ***** CANCEL [#F] 216. Maker of Demons
 ***** [#E] 229. The Silurian Candidate
@@ -1393,6 +1548,8 @@ SCHEDULED: <2022-01-30 Sun>
 :thetimescales: 7.6
 :END:
 
+**** CANCEL [#F] 2023B. The Last Day 1 :Ace:Mel:Benny:Hex:Master_decayed:P2023_12:3CD:
+**** CANCEL [#E] 2024A. The Last Day 2 :P2024_06:
 *** MR misc :scripted:2CD:
 **** HALF [#D] 021. Dust Breeding :Master_decayed:Bev:D2021_10_master:
 SCHEDULED: <2021-11-07 Sun>
@@ -1530,8 +1687,6 @@ CLOSED: [2024-06-29 Sat 19:45] SCHEDULED: <2024-06-05 Wed 09:27>
 **** 📂2023A Far From Home :P2023_06:Harry:Naomi:
 ***** [#B] 23A.1 Operation Dusk
 ***** [#D] 23A.2 Naomi's Ark
-**** CANCEL [#F] 2023B. The Last Day 1 :Ace:Mel:Benny:Hex:Master_decayed:P2023_12:3CD:
-**** CANCEL [#E] 2024A. The Last Day 2 :P2024_06:
 **** 📂2024B The Doctor and Carnacki :P2024_11:Carnacki:
 ***** 24B.1 The Haunter of the Shore
 ***** 24B.2 The House
@@ -1540,14 +1695,8 @@ CLOSED: [2024-06-29 Sat 19:45] SCHEDULED: <2024-06-05 Wed 09:27>
 ***** 1. With the Angels :Weeping_Angels:
 ***** 2. Catastrophix
 *** misc
-**** [#D] LS2.3 - Thin Ice :Ace:P2011:
 **** HALF [#D] CC7.3 Project: Nirvana :Sally:Lysandra:P2012:plot_cast:DW2023_03_doctor:
 SCHEDULED: <2023-03-25 Sat>
-
-**** [#B] NA9. Nightshade :Ace:P2016:
-:PROPERTIES:
-:rating:   8.1
-:END:
 
 **** CANCEL [#E] CDNM1.3 Harvest of Sycorax
 :PROPERTIES:
@@ -1557,22 +1706,16 @@ SCHEDULED: <2023-03-25 Sat>
 **** DONE [#C] River2.1 The Unknown :plot_yes:DW2023_07_doctor:
 CLOSED: [2023-07-04 Tue 08:31] SCHEDULED: <2023-07-08 Sat>
 
-**** [#B] ST6.X - Forever Fallen :Ace:plot_yes:
+*** unofficial
 **** [#A] BBV 21 Punchline :plot_yes_dwg:
 
 http://drwhoguide.com/bbv21.htm
 
-**** ST13.5 Emerald Isle :Ace:P2025_04:
-*** fan-made :fan_made:
-**** Eye Eye
+**** Eye Eye :fan_made:
 
 Bonnie Freeman is just your everyday person... Or is she? When she is abducted by two bizarre aliens. She is taken on a journey across time and space. But where are they going? What for? What awaits them on the other side? 
 
 https://m.youtube.com/watch?v=X1ff4lCMCR4&list=PLepBz_uI2k90NOGnituY08w1AuN82l_Vy&index=11&pp=iAQB
-
-
-
-
 
 ** comics
 *** DWM
@@ -1853,7 +1996,10 @@ DWCC 1993 Autumn Special
 ***** (DWM167) Darkness, Falling :no_doctor:Brigadier:Mandragora_Helix:
 ***** (DWM168) Distractions :Ace:Mandragora_Helix:
 ***** (DWM169-172) The Mark of Mandragora :Ace:Brigadier:Mandragora_Helix:
-*** Operation Volcano (Titan Comics)
+*** Titan Comics
+**** Operation Volcano :Ace:ICMG:P2018:
+**** Hill of Beans :P2018:
+**** The Armageddon Gambit (FCBD 2018 #2)
 ** novels
 *** [#A] The Also People
 :PROPERTIES:

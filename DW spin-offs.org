@@ -507,12 +507,12 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 
 【【机翻】火炬木广播剧：发射日期（文本见评论）-哔哩哔哩】 https://b23.tv/BV1awJnz3EpZ
 
-***** 74. Sigil :Bilis_Manger:P2023_08:
+***** [#C] 74. Sigil :Bilis_Manger:P2023_08:
 ***** 75. Dog Hop :Andy:plot_yes:P2024_09:
 ***** 76. Odyssey :plot_yes:Ood:P2024_10:
 ***** 77. Oodunnit :Ood:Zack:P2024_11:
 ***** 78. Oracle :Ood:P2023_12:
-***** 79. Poppet :Rhys:P2024_01:
+***** [#B] 79. Poppet :Rhys:P2024_01:
 ***** 80. Sabotage :Colchester:Ace:P2024_02:
 ***** [#B] 80X. Another Postcard from Mr Colchester
 ***** 81. Tube Strike :Ianto:P2024_03:
@@ -889,7 +889,15 @@ https://tardis.fandom.com/wiki/Parasite_(audio_story)
 - 2.5. Now is the Time for All Good Men
 - 2.6. The Hour of the Hollow Man
 
-**** TW Soho #3 The Unbegotten :Norton:Andy:Lizbeth:P2022_10:plot_yes:
+**** [#A] TW Soho #3 The Unbegotten :Norton:Andy:Lizbeth:P2022_10:plot_yes:
+
+- 1. A First Breath
+- 2. The Ghost Wall
+- 3. The Taken
+- 4. Afterwards They Came
+- 5. Confessions
+- 6. Mandeville Walks
+
 **** TW Soho #4: Ascension :P2024_07:
 * River Song :River:
 ** prose
@@ -1054,12 +1062,12 @@ Roberts Master
 ***** 3QTR [#D] 6.2 The Web of Time             (7.0) :great_intelligence:DW2022_07_spinoffs:
       CLOSED: [2022-07-06 Wed 21:50] SCHEDULED: <2022-07-16 Sat>
 
-***** CANCEL [#E] +6.3 Peepshow+
+***** CANCEL [#E] +6.3 Peepshow+ :3rd_Dr:Ogrons:Sontarans:
       :PROPERTIES:
       :rating:   6.5
       :END:
 
-***** START [#C] 6.4 The Talents of Greel        (7.8) :Jago:plot_yes:
+***** START [#C] 6.4 The Talents of Greel :Jago:Greel:plot_yes:
 **** DoRS 7 :P2020:
 ***** HALF [#C] 7.1 Colony of Strangers :DW2022_12_spinoffs:
       SCHEDULED: <2022-12-24 Sat>
@@ -1082,7 +1090,7 @@ Roberts Master
 
 难度：较高，因为有很多法庭上的专业名词
 
-***** [#D] 7.4 Carnival of Angels :plot_yes:
+***** [#D] 7.4 Carnival of Angels :plot_yes:Weeping_Angels:
       :PROPERTIES:
       :rating:   7.0
       :END:
@@ -1093,7 +1101,7 @@ Roberts Master
 
 ***** [#C] 8.2 A Brave New World (7.6) :10th_Dr:
 ***** [#C] 8.3 A Forever Home (7.5) :K9:
-***** HALF [#E] 8.4 Queen of the Mechonoids     (6.5) :Anya:Mark_7:
+***** HALF [#E] 8.4 Queen of the Mechonoids     (6.5) :Anya:Mark_7:Mechanoids:
 **** 📂DoRS 9 - New Recruit :P2021_10:2buy:
 ***** 3QTR [#B] 9.1 The Blood Woods :Liz:Brigadier:D2022_01_spinoffs:
       CLOSED: [2022-01-14 Fri 08:37] SCHEDULED: <2022-01-26 Wed>
@@ -1145,6 +1153,7 @@ Roberts Master
 ***** 2.2 Driftwood
 ***** 2.3 Dead Rising
 ***** 2.4 The End is the Beginning is the End
+**** TBR DLRS3. The Dissolution of Time :P2025_08:
 *** misc
 **** DONE R&J (The Lives of Captain Jack #3.3) :Jack:
      CLOSED: <2020-09-14 Mon 21:12>
@@ -1186,10 +1195,10 @@ Roberts Master
 *** 3QTR [#E] +5.2 - The Case of the Gluttonous Guru (6.8)+ :D2021_09_extra:plot_no:
     CLOSED: [2021-09-13 Mon 10:10] SCHEDULED: <2021-09-04 Sat>
 
-*** HALF [#C] 5.3 - The Bloodchild Codex            (7.9) :D2021_09_extra:
+*** HALF [#C] 5.3 - The Bloodchild Codex :D2021_09_extra:
     SCHEDULED: <2021-09-10 Fri>
 
-*** HALF [#C] 5.4 - The Last Act (7.8) :D2021_11_extra:
+*** HALF [#C] 5.4 - The Final Act :Greel:D2021_11_extra:
     DEADLINE: <2021-11-24 Wed 22:32> SCHEDULED: <2021-11-27 Sat>
     :PROPERTIES:
     :rating:   7.8
@@ -1416,14 +1425,37 @@ https://www.bilibili.com/video/BV1F8DYYFEnQ
 【[AI字幕][神秘博士广播剧]Gallifrey 205 Imperiatrix Part 2-哔哩哔哩】 https://b23.tv/BV1PLKiz6EWm
 
 ** series 3 :P2006:plot_yes:
-*** HALF [#B] 3.1 - Fractures (8.0) :DW2022_07_spinoffs:
+*** HALF [#B] 3.1 - Fractures :bilibili:DW2022_07_spinoffs:
     SCHEDULED: <2022-07-16 Sat>
 
-*** 3QTR [#B] 3.2 - Warfare (8.3) :DW2022_08_spinoffs:
+【[AI字幕][神秘博士广播剧]Gallifrey 301 Fractures-哔哩哔哩】 https://b23.tv/BV1Q93XzjEX5
+
+转自https://www.bigfinish.com/releases/v/gallifrey-fractures-383
+
+“它学习。它进化了。它想要。它饿了。现在Romana已经把自己送到了它的门口。
+
+Gallifrey是一个与自己交战的世界。潘多拉实体身着罗马纳总统第一次化身的身体，试图通过心灵控制和操纵来控制民众。真正的罗马娜诉诸于摧毁国会大厦的关键部分，希望削弱潘多拉的权力基础。
+但是，当一次这样的攻击出了可怕的错误时，Leela受伤了，Romana的行动基地也暴露了。被他们的敌人追捕
+
+*** 3QTR [#B] 3.2 - Warfare :bilibili:DW2022_08_spinoffs:
     CLOSED: [2022-08-12 Fri 21:10] SCHEDULED: <2022-08-13 Sat>
 
-*** 3QTR [#C] 3.3 - Appropriation (7.9) :DW2024_02_spinoffs:
+【[AI字幕][神秘博士广播剧]Gallifrey 302 Warfare-哔哩哔哩】 https://b23.tv/BV1ivuwzzEG8
+
+转自https://www.bigfinish.com/releases/v/gallifrey-warfare-384
+
+“你根本就不该存在。你是个异常。而我们时间领主，会将异类彻底铲除。”
+
+黑暗时代再度降临。伽里弗雷的末日已至。这个宇宙中最博学的文明，已然陷入战火。国会大厦化为废墟；激战成了家常便饭；未来正被肆意篡改。死而复生的初代女君主篡夺了权力，她的野心无人能挡。
+
+或许，唯有一小股反抗势力能与之抗衡 —— 他们坚信，是时候停止逃亡，奋起反击了。但战争总要付出代价，要将潘多拉彻底逐出伽里弗雷， Romana 必将做出巨大牺牲。前提是，她能记起自己究竟是哪个 “Romana”。因为有些战争，比其他任何冲突都更无孔不入……
+
+*** 3QTR [#C] 3.3 - Appropriation :DW2024_02_spinoffs:bilibili:
     CLOSED: <2024-02-26 Mon 08:28> SCHEDULED: <2024-02-25 Sun>
+
+【[AI字幕][神秘博士广播剧]Gallifrey 303 Appropriation-哔哩哔哩】 https://b23.tv/BV18NuozUE6E
+
+转自https://www.bigfinish.com/releases/v/gallifrey-appropriate-385
 
 *** 3QTR [#A] 3.4 - Mindbomb (8.9) :DW2024_Q2b_spinoffs:
     CLOSED: [2024-05-24 Fri 08:48] SCHEDULED: <2024-05-12 Sun>
@@ -2289,7 +2321,7 @@ rating 8.7/8.3
 *** vol.1 Infiltration :P2025_01:scripted:
 **** 1.1 1901: The Unknown Mirror
 **** 1.2 1935: The Miracle of Pendour Cove
-**** 1.3 1957: Double Agent :2nd_Dr:
+**** 1.3 1957: Double Agent :2nd_Dr:Season6B:
 * UNIT :UNIT:
 ** UNIT
 *** [#E] 0. The Coup (6.6) :P2004:
@@ -2503,10 +2535,10 @@ http://www.drwhoguide.com/kaldor03.htm
 *** KC6. Storm Mine
 ** The Robots (Big Finish, 2019-)
 *** The Robots vol.1 :P2019_12:
-**** 3QTR [#D] 1.1 - The Robots of Life :D2022_04_spinoffs:
+**** 3QTR [#C] 1.1 - The Robots of Life :D2022_04_spinoffs:
      CLOSED: [2022-04-24 Sun 21:31] SCHEDULED: <2022-04-17 Sun>
      :PROPERTIES:
-     :rating:   7.4
+     :rating:   7.7
      :END:
 
 **** HALF [#B] 1.2 - The Sentient :D2022_05_spinoffs:
@@ -2515,10 +2547,10 @@ http://www.drwhoguide.com/kaldor03.htm
      :rating:   8.2
      :END:
 
-**** 3QTR [#A] 1.3 - Love Me Not :DW2022_07_spinoffs:
+**** 3QTR [#B] 1.3 - Love Me Not :DW2022_07_spinoffs:
      CLOSED: [2022-07-19 Tue 21:48] SCHEDULED: <2022-07-23 Sat>
      :PROPERTIES:
-     :rating:   8.8
+     :rating:   8.4
      :END:
 
 *** The Robots vol.2 :P2020_07:
@@ -2570,19 +2602,19 @@ http://www.drwhoguide.com/kaldor03.htm
      :rating:   7.9
      :END:
 
-**** [#B] 4.3 - The Janus Deception
+**** [#C] 4.3 - The Janus Deception
      :PROPERTIES:
-     :rating:   8.4
+     :rating:   7.8
      :END:
 
 *** The Robots vol.5 :P2022_05:
-**** [#D] 5.1 The Enhancement
-**** [#B] 5.2 Machines Like Us
-**** [#B] 5.3 Kaldor Nights
-*** 📂The Robots: vol.6 :P2023_05:
-**** [#C] 6.1 Force of Nature
-**** [#B] 6.2 Face to Face
-**** [#E] 6.3 The Final Hour
+**** [#D] 5.1 - The Enhancement
+**** [#C] 5.2 - Machines Like Us
+**** [#B] 5.3 - Kaldor Nights
+*** The Robots: vol.6 :P2023_05:
+**** [#C] 6.1 - Force of Nature
+**** [#B] 6.2 - Face to Face
+**** [#D] 6.3 - The Final Hour
 * The Paternoster Gang :TPG:Vastra:Jenny_Flint:Strax:
 ** audio :🎧:
 *** PG: Heritage 1 :P2019:
