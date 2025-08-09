@@ -235,28 +235,37 @@ SCHEDULED: <2024-04-06 Sat>
 CLOSED: [2021-02-27 Sat 18:02]
 
 ***** [#C] 173. The Lady of Mercia (7.7)
-***** [#B] 174. Prisoners of Fate (8.2) :plot_yes:Nyssa:Tegan:dw2025_q3a_doctor:
-SCHEDULED: <2025-08-02 Sat>
+***** 3QTR [#B] 174. Prisoners of Fate :plot_yes:Toulough:dw2025_q3a_doctor:
+CLOSED: [2025-07-25 Fri 20:30] SCHEDULED: <2025-07-26 Sat>
+:PROPERTIES:
+:rating:   8.1
+:END:
 
-应该先听 MR136 Cobwebs
+是 MR136 Cobwebs 的续集
+
+最后一小节与悖论相关的情节略微复杂
 
 ***** CANCEL [#E] 195. Mistfall (6.4)
 CLOSED: [2021-02-27 Sat 18:02]
 
 ***** [#C] 196. Equilibrium (7.7)
-***** [#B] 197. The Entropy Plague (8.1) :plot_no:
+***** [#C] 197. The Entropy Plague :plot_no:
 :PROPERTIES:
-:rating:   8.1
+:rating:   7.9
 :END:
 
 ***** [#C] 208. The Waters of Amsterdam (7.9)
-***** DONE [#A] 209. Aquitaine (8.8) :Tegan:Nyssa:P2016:plot_yes:已购:
+***** DONE [#A] 209. Aquitaine (8.6) :Tegan:Nyssa:P2016:plot_yes:已购:
 CLOSED: <2021-03-12 Fri 19:58>
 :PROPERTIES:
-:rating:   8.8
+:rating:   8.6
 :END:
 
-***** BLOCK [#B] 210. The Peterloo Massacre (8.2) :P2016:plot_yes:
+***** BLOCK [#B] 210. The Peterloo Massacre :P2016:plot_yes:
+:PROPERTIES:
+:rating:   8.0
+:END:
+
 ***** [#D] 221. The Star Men (7.2)
 ***** CANCEL [#E] 222. The Contingency Club (6.9)
 CLOSED: [2021-02-27 Sat 18:02]
@@ -1021,9 +1030,8 @@ CLOSED: <2021-12-23 Thu 08:53>
 :rating:   7.9
 :END:
 
-
-**** [#C] 157. The Fourth Wall :Flip:
-SCHEDULED: <2023-03-01 Wed>
+**** [#C] 157. The Fourth Wall :Flip:dw2025_q3b_doctor:
+SCHEDULED: <2025-09-13 Sat>
 
 **** CANCEL [#E] 182. Antidote to Oblivion :Flip:
 **** CANCEL [#E] 183. The Brood of Erys :Flip:

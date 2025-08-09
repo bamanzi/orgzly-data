@@ -372,9 +372,12 @@ CLOSED: [2023-03-29 Wed 08:54] SCHEDULED: <2023-03-04 Sat>
 ***** 3QTR [#C] 22.2 The Miniaturist :Dodo:P2022_04:1CD:DW2024_Q3a_doctor:
 CLOSED: [2024-06-05 Wed 08:25] SCHEDULED: <2024-06-15 Sat>
 
-**** 📂1DA2023. The Demon Song :Dodo:P2023_02:
-***** TODO [#B] 23.1 The Demon Song :1CD:dw2025_q3a_doctor:
-SCHEDULED: <2025-07-26 Sat>
+**** 📂1DA2023. The Demon Song :Dodo:P2023_02:plot_yes:
+***** 3QTR [#C] 23.1 The Demon Song :1CD:dw2025_q3a_doctor:
+CLOSED: [2025-07-30 Wed 21:21] SCHEDULED: <2025-07-19 Sat>
+:PROPERTIES:
+:rating:   7.8
+:END:
 
 ***** [#E] 23.2 The Incherton Incident :2CD:
 **** [#B] 1DA2024. Fugitive of the Daleks :3CD:P2024_01:Dodo:Vicki:
@@ -762,7 +765,8 @@ SCHEDULED: <2022-06-05 Sun>
 :rating:   7.4
 :END:
 
-***** [#D] CC12.3 The Iron Maid :Zoe:Jamie:
+***** [#D] CC12.3 The Iron Maid :Zoe:Jamie:dw2025_q3b_doctor:
+SCHEDULED: <2025-09-27 Sat>
 :PROPERTIES:
 :rating:   7.3
 :END:
@@ -1128,13 +1132,13 @@ CLOSED: [2022-02-12 Sat 15:45] SCHEDULED: <2022-02-13 Sun>
 :rating:   7.3
 :END:
 
-***** HALF [#B] 6.1 Poison of the Daleks (8.0) :Jo:UNIT:P2020:plot_no:dw2025_q3a_doctor:
+***** HALF [#C] 6.1 Poison of the Daleks :Jo:UNIT:P2020:plot_no:dw2025_q3a_doctor:
 SCHEDULED: <2025-07-12 Sat>
 :PROPERTIES:
-:rating:   8.0
+:rating:   7.6
 :END:
 
-***** CANCEL [#D] 6.2 Operation: Hellfire :Jo:Churchill:P2020:plot_yes:
+***** [#D] 6.2 Operation: Hellfire :Jo:Churchill:P2020:plot_yes:
 :PROPERTIES:
 :rating:   7.1
 :END:
@@ -1898,7 +1902,9 @@ CLOSED: <2023-02-10 Fri 14:02> SCHEDULED: <2023-02-06 Mon 08:42>
 SCHEDULED: <2024-05-11 Sat>
 
 **** 📂4DA series 13 :Harry:Naomi:
-***** [#D] 13.1 The Storm of the Sea Devils :P2024_03:2CD:
+***** [#D] 13.1 The Storm of the Sea Devils :P2024_03:2CD:dw2025_q3b_doctor:
+SCHEDULED: <2025-08-30 Sat>
+
 ***** [#D] 13.2 Worlds Beyond :P2024_03:1CD:
 ***** [#E] 13.3 Matryoshka :ToyMaker:P2024_06:1CD:
 ***** [#E] 13.4 The Caged Assassin :P2024_06:1CD:

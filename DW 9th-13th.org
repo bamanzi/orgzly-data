@@ -75,8 +75,8 @@ CLOSED: [2022-07-03 Sun 17:05] SCHEDULED: <2022-07-06 Wed>
 
 年轻的Sam Bishop和他的女朋友产生了大分歧：他想游历世界，而她只想呆在苏格兰。在Burryman庆典开始后，福斯大桥被鬼魂缠绕，Lethbridge-Stewart准将开始了自己的调查——而博士也一样......
 
-****** START [#B] 4.3 The Forth Generation :Cybermen:Brigadier:Sam_Bishop:plot_yes:dw2025_q3a_doctor:
-SCHEDULED: <2025-08-09 Sat>
+****** HALF [#B] 4.3 The Forth Generation :Cybermen:Brigadier:Sam_Bishop:plot_yes:dw2025_q3a_doctor:
+SCHEDULED: <2025-08-02 Sat>
 :PROPERTIES:
 :rating:   8.2
 :END:
@@ -711,7 +711,8 @@ CLOSED: [2025-06-17 Tue 20:26] SCHEDULED: <2025-06-07 Sat>
 
 【【神秘博士广播剧熟肉】Dalek Universe 302 The Dalek Defence 戴立克防线-哔哩哔哩】 https://b23.tv/BV1jL4y1T7Ny
 
-***** READY [#B] DU3.3 - The Triumph of Davros :bilibili:
+***** READY [#B] DU3.3 - The Triumph of Davros :bilibili:dw2025_q3b_doctor:
+SCHEDULED: <2025-08-30 Sat>
 :PROPERTIES:
 :rating:   8.3
 :END:
@@ -1325,7 +1326,9 @@ SCHEDULED: <2022-04-30 Sat>
 **** 3QTR [#B] 3.1 Sunstrike :dw2025_q2b_doctor:
 CLOSED: [2025-06-04 Wed 20:10] SCHEDULED: <2025-05-10 Sat>
 
-**** [#B] 3.2 Never the End
+**** [#B] 3.2 Never the End :dw2025_q3b_doctor:
+SCHEDULED: <2025-09-27 Sat>
+
 **** [#A] 3.3 You Only Die Twice
 *** Short Trips :🗣:
 **** 3QTR [#B] 9.2 - The Astrea Conspiracy :DW2023_08_doctor:

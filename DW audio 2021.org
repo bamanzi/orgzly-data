@@ -1880,23 +1880,40 @@
 *** Fleeting Faces #2: Under Control :P2024_09:14th_Dr:
 *** [#C] Rory2.1 The Once and Future Nurse
 ** dw2025-q3a-doctor
-*** [#B] 1DA2023.1 The Demon Song :1st_Dr:Dodo:1CD:
-*** [#B] 3DA6.1 Poison of the Daleks :3rd_Dr:Jo:
-*** [#B] MR174. Prisoners of Fate :5th_Dr:Nyssa:Tegan:plot_yes:
-*** [#B] BSNA2.3 The Eye of Horus :7th_Dr:Benny:Sutekh:
+
+| 083 | MR174 Prisoners of Fate | 5th | Nyssa,Tegan,Toulough |
+
+*** 3QTR [#C] 1DA2023.1 The Demon Song :1st_Dr:Dodo:1CD:
+*** HALF [#C] 3DA6.1 Poison of the Daleks :3rd_Dr:Jo:
+*** 3QTR [#B] MR174. Prisoners of Fate :5th_Dr:Nyssa:Tegan:plot_yes:
+*** HALF [#B] BSNA2.3 The Eye of Horus :7th_Dr:Benny:Sutekh:
 *** 3QTR [#B] 9DA4.2 Way of the Burryman :Cybermen:UNIT:Brigadier:plot_yes:bilibili:dw2025_q3a_doctor:
     CLOSED: [2025-07-08 Tue 16:06] SCHEDULED: <2025-07-05 Sat>
 
-*** START [#B] 9DA4.3 The Forth Generation :Cybermen:plot_yes:
-*** [#B] WDB4.2 The Abyss :War_Dr:
+*** HALF [#B] 9DA4.3 The Forth Generation :Cybermen:plot_yes:
+*** HALF [#B] WDB4.2 The Abyss :War_Dr:
 ** dw2025-q3a-spinoffs
-*** [#A] TW49. Gooseberry :Owen:Andy:
-*** READY [#A] TW63. Restricted Items Archive Entries 031–049 :Ianto:bilibili:
-*** [#B] UNEM1.4 The Curator's Gambit :The_Eleven:
-*** [#A] PGT1.3 Till Death Us Do Part :8th_Dr:
-*** READY [#A] WM9.2 The Long Despair :bilibili:
-*** [#B] ROB3.3 A Matter of Conscience
-*** FIXME [#B] Rory2.2 The Glowing Warrior
+*** 3QTR [#A] TW49. Gooseberry :Owen:Andy:
+*** HALF [#A] TW63. Restricted Items Archive Entries 031–049 :Ianto:bilibili:
+*** HALF [#B] UNEM1.4 The Curator's Gambit :UNIT_new:The_Eleven:The_Curator:
+*** HALF [#A] PGT1.3 Till Death Us Do Part :8th_Dr:
+*** [#A] WM9.2 The Long Despair :bilibili:
+*** HALF [#B] ROB3.3 A Matter of Conscience
+** dw2025-q3b-doctor
+*** [#D] CC12.3 The Iron Maid :Zoe:Jamie:
+*** FIXME [#D] 4DA13.1 The Storm of the Sea Devils :P2024_03:2CD:Harry:Naomi:
+*** [#C] MR157. The Fourth Wall :6th_Dr:Flip:
+*** READY [#D] 8DA2023.1 The Devouring :Audacity:bilibili:
+*** READY [#B] DU3.3 The Triumph of Davros :bilibili:10th_Dr:Anya:Mark_7:Davros:
+*** [#B] 12DC3.2 Never the End Is :12th_Dr:Keira:
+** dw2025-q3b-spinoffs
+*** [#B] TW7.9 How I Conquered the World :Yvonne:Orr:Colchester:
+*** [#B] EoM1.4 Narcisus :UNIT_new:
+*** [#D] CM4.1 New Horizons :ICMG:
+*** [#C] J&L10.1 The Case of the Missing Gasogene
+*** [#C] BSNA2.4 The Tears of Isis :7th_Dr:Benny:Ace:Sutekh:
+*** [#D] Missy3.1 Body and Soulless :Master_Missy:Monk:
+*** [#D] GTW4.1 Deception :Leela:
 * FIXME pending
 ** special
 *** [#B] Jack 2.1 Piece of Mind :Jack:6th_Dr:

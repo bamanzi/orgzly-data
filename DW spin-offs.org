@@ -391,8 +391,8 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
       :END:
 
 **** series 7 (49-60) :P2021:
-***** [#A] 49. Gooseberry :Owen:Andy:dw2025_q3a_spinoffs:
-      SCHEDULED: <2025-07-27 Sun>
+***** 3QTR [#A] 49. Gooseberry :Owen:Andy:dw2025_q3a_spinoffs:
+      CLOSED: [2025-07-29 Tue 20:25] SCHEDULED: <2025-08-03 Sun>
       :PROPERTIES:
       :rating:   8.7
       :END:
@@ -735,7 +735,8 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
 
 难度：高。人物较多（而且火炬木小组的成员全出场了），而且没有直接提前交待故事背景，需要慢慢根据对话来采集
 
-***** [#B] 7.9 How I Conquered the World :Yvonne:Orr:Colchester:
+***** [#B] 7.9 How I Conquered the World :Yvonne:Orr:Colchester:dw2025_q3b_spinoffs:
+      SCHEDULED: <2025-08-31 Sun>
       :PROPERTIES:
       :rating:   8.8
       :END:
@@ -1299,15 +1300,32 @@ Roberts Master
     :END:
 
 ** J&L series 10 :P2015:
-*** [#C] 10.1 - The Case of the Missing Gasogene (7.9)
-*** [#C] 10.2 - The Year of the Bat              (7.7)
-*** [#B] 10.3 - The Mourning After               (8.2)
+*** [#C] 10.1 - The Case of the Missing Gasogene :dw2025_q3b_spinoffs:
+    SCHEDULED: <2025-09-28 Sun>
+    :PROPERTIES:
+    :rating:   7.9
+    :END:
+
+*** [#C] 10.2 - The Year of the Bat
+    :PROPERTIES:
+    :rating:   7.7
+    :END:
+
+*** [#B] 10.3 - The Mourning After
+    :PROPERTIES:
+    :rating:   8.2
+    :END:
+
 *** [#A] 10.4 - The Museum of Curiosities
     :PROPERTIES:
     :rating:   8.5
     :END:
 
-*** [#A] 10.X Jago & Litefoot & Strax - The Haunting  (8.7)
+*** [#A] 10.X Jago & Litefoot & Strax - The Haunting
+    :PROPERTIES:
+    :rating:   8.7
+    :END:
+
 ** J&L series 11 :P2016:
 *** [#C] 11.1 - Jago and Son (7.6)
 *** [#D] 11.2 - Maurice (7.2)
@@ -1796,10 +1814,12 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
 **** HALF [#D] 2.2 - The Vaults of Osiris :Benny:Ace:dw2025_q2a_spinoffs:
      SCHEDULED: <2025-05-04 Sun>
 
-**** [#B] 2.3 - The Eye of Horus :7th_Dr:dw2025_q3a_doctor:
-     SCHEDULED: <2025-08-09 Sat>
+**** HALF [#B] 2.3 - The Eye of Horus :7th_Dr:dw2025_q3a_doctor:
+     SCHEDULED: <2025-08-02 Sat>
 
-**** [#C] 2.4 - The Tears of Isis :7th_Dr:Ace:
+**** [#C] 2.4 - The Tears of Isis :7th_Dr:Ace:dw2025_q3b_spinoffs:
+     SCHEDULED: <2025-09-28 Sun>
+
 *** vol.3 The Unbound Universe :unbound_universe:Unbound_Dr:P2016:
 **** HALF Unbound #2: Sympathy for the Devil :bilibili:Master_unbound:
 
@@ -2497,8 +2517,8 @@ rating 8.7/8.3
     :rating:   7.4
     :END:
 
-*** [#B] 1.4 The Curator's Gambit :The_Eleven:The_Curator:dw2025_q3a_spinoffs:
-    SCHEDULED: <2025-07-27 Sun>
+*** HALF [#B] 1.4 The Curator's Gambit :The_Eleven:The_Curator:dw2025_q3a_spinoffs:
+    SCHEDULED: <2025-08-03 Sun>
 
 ** 📂Nemesis 2: Agents of the Vulpreen :P2022_03:
 *** [#B] 2.1 The Man From Gallifrey
@@ -2576,25 +2596,25 @@ http://www.drwhoguide.com/kaldor03.htm
 **** HALF [#D] 3.1 - The Mystery of Sector 13 :DW2024_Q3a_spinoffs:
      SCHEDULED: <2024-06-21 Fri 09:27>
      :PROPERTIES:
-     :rating:   7.2
+     :rating:   7.0
      :END:
 
 **** HALF [#B] 3.2 - Circuit Breaker :Toos:Poul:DW2024_Q4b_spinoffs:
      SCHEDULED: <2024-12-15 Sun>
      :PROPERTIES:
-     :rating:   8.5
-     :END:
-
-**** [#B] 3.3 - A Matter of Conscience :dw2025_q3a_spinoffs:
-     SCHEDULED: <2025-07-13 Sun>
-     :PROPERTIES:
      :rating:   8.3
      :END:
 
-*** The Robots vol.4 :P2021_06:
-**** [#A] 4.1 - Closed Loop :Toos:Poul:
+**** HALF [#C] 3.3 - A Matter of Conscience :dw2025_q3a_spinoffs:
+     SCHEDULED: <2025-07-13 Sun>
      :PROPERTIES:
-     :rating:   8.6
+     :rating:   7.8
+     :END:
+
+*** The Robots vol.4 :P2021_06:
+**** [#B] 4.1 - Closed Loop :Toos:Poul:
+     :PROPERTIES:
+     :rating:   8.2
      :END:
 
 **** [#C] 4.2 - Off Grid
@@ -2690,10 +2710,10 @@ http://www.drwhoguide.com/kaldor03.htm
 
 *** 📂PG: Trespassers 1 :P2023_10:plot_no:
 **** [#E] +1.1 The Ghost and the Potato Man+
-**** HALF [#D] 1.2 Symmetry of Death :dw2025_q2a_spinoffs:
+**** HALF [#E] 1.2 Symmetry of Death :dw2025_q2a_spinoffs:
      SCHEDULED: <2025-04-13 Sun>
 
-**** [#A] 1.3 Till Death Us Do Part :8th_Dr:dw2025_q3a_spinoffs:
+**** HALF [#A] 1.3 Till Death Us Do Part :8th_Dr:dw2025_q3a_spinoffs:
      SCHEDULED: <2025-07-20 Sun>
 
 *** 📂PG: Trespassers 2 - The Casebook of Paternoster Row :P2024_04:
@@ -2775,7 +2795,9 @@ http://www.drwhoguide.com/kaldor03.htm
     :END:
 
 ** CM series 4 :P2015:
-*** [#D] 4.1 - New Horizons (7.3)
+*** [#D] 4.1 - New Horizons (7.3) :dw2025_q3b_spinoffs:
+    SCHEDULED: <2025-08-31 Sun>
+
 *** [#C] 4.2 - The Keep (7.9)
 *** [#C] 4.3 - Rise and Shine (7.7)
 *** [#A] 4.4 - Clean Sweep (8.5)
@@ -3228,7 +3250,9 @@ From Donna's perspective, the anthology is set after /Forest of the Dead/.
      :rating:   7.2
      :END:
 
-**** [#B] 1.4 Narcisus :UNIT_new:
+**** [#B] 1.4 Narcisus :UNIT_new:dw2025_q3b_spinoffs:
+     SCHEDULED: <2025-09-14 Sun>
+
 *** 📂vol.2 Protectors of Time :P2022_03:
 **** [#D] 2.1 Stolen Futures :Romana_2:K9:Biroc:
 **** [#E] 2.2 Prism :Christina:Jenny:
