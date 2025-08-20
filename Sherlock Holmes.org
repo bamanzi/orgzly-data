@@ -59,7 +59,8 @@ Note: In America, this story was removed from Memoirs and placed instead in /His
 (Mycroft appears for the first time)
 
 **** The Adventure of the Naval Treaty
-**** The Adventure of the Final Problem
+**** DONE The Adventure of the Final Problem :Moriarty:
+CLOSED: [2025-08-19 Tue 21:27]
 
 (Watson reports the death of Holmes)
 
@@ -68,7 +69,7 @@ Note: In America, this story was removed from Memoirs and placed instead in /His
 :goodreads: 4.13
 :END:
 
-*** [#A] 归来记（短篇集）The Return of Sherlock Holmes [A⁺] :P1903:
+*** [#A] 归来记（短篇集）The Return of Sherlock Holmes [A⁺] :P1903:anthology:
 :PROPERTIES:
 :goodreads: 4.28
 :END:
@@ -86,12 +87,14 @@ Note: In America, this story was removed from Memoirs and placed instead in /His
 **** The Adventure of the Missing Three-Quarter
 **** The Adventure of the Abbey Grange
 **** The Adventure of the Second Stain
-*** [#B] 恐怖谷 The Valley of Fear :P1915:
+*** TODO [#B] 恐怖谷 The Valley of Fear :P1915:Moriarty:
 :PROPERTIES:
 :goodreads: 3.96
 :END:
 
-*** [#A] 最后致意（短篇集）His Last Bow: Some Reminiscences of Sherlock Holmes [A⁺] :P1917:
+Moriarty
+
+*** [#A] 最后致意（短篇集）His Last Bow: Some Reminiscences of Sherlock Holmes [A⁺] :P1917:anthology:
 :PROPERTIES:
 :goodreads: 4.20
 :END:
@@ -104,7 +107,7 @@ Note: In America, this story was removed from Memoirs and placed instead in /His
 **** The Disappearance of Lady Frances Carfax
 **** The Adventure of the Devil's Foot
 **** His Last Bow
-*** [#A] 新探案（短篇集）The Case-Book of Sherlock Holmes :P1927:
+*** [#A] 新探案（短篇集）The Case-Book of Sherlock Holmes :P1927:anthology:
 :PROPERTIES:
 :goodreads: 4.13
 :END:
@@ -121,14 +124,12 @@ Note: In America, this story was removed from Memoirs and placed instead in /His
 **** The Adventure of the Retired Colourman
 **** The Adventure of the Veiled Lodger
 **** The Adventure of Shoscombe Old Place
-** audio
+** audio :🎧:
 *** BBC Radio 4 (1989-1998)
 
 https://bakerstreet.fandom.com/wiki/Sherlock_Holmes_(BBC_Radio_series)
 
 https://en.m.wikipedia.org/wiki/Sherlock_Holmes_(1989_radio_series)
-
-https://archive.org/details/SherlockHolmes-CliveMerrissonBBCAudiodramas/
 
 **** _download
 
@@ -137,7 +138,13 @@ https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas
 https://audiobookbay.is/abss/bbc-sherlock-holmes-the-complete-series-as-audio-drams-bbc-4-sir-arthur-conan-doyle-bert-coules/
 
 **** 📂The Adventures of Sherlock Holmes
+
+cover arts: https://m.vk.com/pages?oid=-141525352&p=The_Adventures_of_Sherlock_Holmes_%28Clive_Merrison%29
+
 **** 📂The Memoirs of Sherlock Holmes
+
+cover arts: https://m.vk.com/pages?oid=-141525352&p=The_Memoirs_of_Sherlock_Holmes_%28Clive_Merrison%29
+
 ***** 01. Silver Blaze :S2024_10:
 ***** 02. The Yellow Face
 ***** 03. The Stock-Broker's Clerk
@@ -157,11 +164,14 @@ https://audiobookbay.is/abss/bbc-sherlock-holmes-the-complete-series-as-audio-dr
 (Mycroft appears for the first time)
 
 ***** 10. The Naval Treaty
-***** 11. The Final Problem
+***** HALF 11. The Final Problem
 
 (Watson reports the death of Holmes)
 
 **** 📂The Return of Sherlock Holmes
+
+cover arts: https://m.vk.com/pages?oid=-141525352&p=The_Return_of_Sherlock_Holmes_%28Clive_Merrison%29
+
 **** 📂His Last Bow: Some Reminiscences of Sherlock Holmes
 **** 📂The Case-Book of Sherlock Holmes
 **** 📂The Further Adventures of Sherlock Holmes (#65-80) :plot_yes:
@@ -249,6 +259,7 @@ Dramatic reading of Doyle's 1892 short story
 ***** [#C] 2.1a The Empty House :canon:
 :PROPERTIES:
 :thetimescales: 7.7
+:difficulty: H
 :END:
 
 ***** [#C] 2.1b The Final Problem :canon:
@@ -311,7 +322,12 @@ In /The Worlds of Big Finish/.
 
 https://www.douban.com/doulist/889918/
 
+https://bakerstreet.fandom.com/wiki/The_Adventures_of_Sherlock_Holmes_and_Dr_Watson
+
 *** Jeremy Brett 版 (1984-1994)
+
+https://bakerstreet.fandom.com/wiki/Sherlock_Holmes_(Granada)
+
 **** The Adventures of SH
 ***** DONE 1x01 A Scandal in Bohemia 波希米亚丑闻
 CLOSED: [2021-07-31 Sat 23:49]
@@ -336,11 +352,20 @@ CLOSED: <2022-10-20 Thu 22:19> SCHEDULED: <2022-10-14 Fri>
 ***** 9. The Greek Interpreter 希腊译员
 ***** 10. The Norwood Builder 诺伍德的建筑师
 ***** 11. The Resident Patient 住院病人
-***** 12. The Red-Headed League 红发会
-***** 13. The Final Problem 最后一案
+***** TODO 12. The Red-Headed League 红发会 :Moriarty:
+
+In a certain divergence from the Canon, professor Moriarty is set up as the villain behind the criminal events of "The Red-Headed League".
+
+***** TODO 13. The Final Problem 最后一案 :Moriarty:
 **** The Return of SH
 ***** DONE 4x06 The Hound of the Baskervilles
 CLOSED: [2022-08-26 Fri 22:02]
+
+*** The Adventures of Shirley Holmes (加拿大) :P1997:
+
+*The Adventures of Shirley Holmes* is a Canadian mystery TV series that ran for four seasons from 1996-1999.
+
+https://bakerstreet.fandom.com/wiki/The_Adventures_of_Shirley_Holmes
 
 *** Sherlock 神探夏洛克 (2010-2017)
 
@@ -353,13 +378,20 @@ CLOSED: [2024-09-26 Thu 18:56]
 ***** DONE 1x02 The Blind Banker
 CLOSED: [2024-10-02 Wed 14:38]
 
-***** DONE 1x03 The Great Game
+***** DONE 1x03 The Great Game :Moriarty:
 CLOSED: [2024-10-27 Sun 15:52]
 
-**** S2 :P2012:
+**** TODO S2 :P2012:Moriarty:
 *** Elementary (2012-2019)
 **** DONE S1
+***** 1x20 M :Moriarty:
+***** 1x21 A Landmark Story :Moriarty:
+***** 1x22 Risk Management :Moriarty:
+***** 1x23 The Woman :Moriarty:
+***** 1x24 Heroine :Moriarty:
 **** DONE S2
+***** 2x03 We Are Everyone :Moriarty:
+***** 2x20 The Diabolical Kind :Moriarty:
 **** DONE S3
 ***** DONE [#B] 3x08 End of Watch
 :PROPERTIES:
@@ -572,8 +604,12 @@ CLOSED: [2024-09-30 Mon 22:19]
 
 21 episodes
 
-***** 6x01
-***** 6x02
+***** DONE 6x01
+CLOSED: [2025-08-16 Sat 16:14]
+
+***** DONE 6x02
+CLOSED: [2025-08-17 Sun 10:51]
+
 ***** 6x03
 **** S7 :P2019:
 
@@ -582,6 +618,8 @@ CLOSED: [2024-09-30 Mon 22:19]
 *** 俄版福尔摩斯（2013）
 
 https://m.douban.com/movie/subject/20451142/
+
+https://bakerstreet.fandom.com/wiki/Sherlock_Holmes_(2013_TV_series)
 
 ** movies
 *** Without a Clue :P1988:
@@ -597,7 +635,8 @@ https://sherlockholmes.fandom.com/de/wiki/Sherlock-Holmes-Comics
 
 https://bakerstreet.breezewiki.com/wiki/Dynamite_Entertainment
 
-**** TODO [#A] Volume 1: The Trial of Sherlock Holmes :P2010:S2024_09:
+**** DONE [#B] Volume 1: The Trial of Sherlock Holmes :P2010:S2024_09:
+CLOSED: [2025-08-17 Sun 15:35]
 :PROPERTIES:
 :goodreads: 4.00
 :END:
@@ -605,7 +644,13 @@ https://bakerstreet.breezewiki.com/wiki/Dynamite_Entertainment
 Holmes himself is the prime suspect in a murder mystery, and while he fights to save his very life, Watson must assemble the pieces of the puzzle in his stead. Will Watson's efforts save his friend or condemn him?
 
 **** [#E] Volume 2: The Liverpool Demon :P2013:
-**** [#D] Volume 3: Majority Lives :P2016:
+**** [#C] Volume 3: Moriarty Lives :P2016:
+:PROPERTIES:
+:goodreads: 3.8
+:END:
+
+https://www.arthur-conan-doyle.com/index.php/Sherlock_Holmes:_Moriarty_Lives
+
 **** [#D] Year One :P2011:
 **** Sherlock Holmes vs. Harry Houdidi :P2015:
 **** [#D] The Vanishing Man :P2018:
@@ -616,6 +661,8 @@ Holmes himself is the prime suspect in a murder mystery, and while he fights to 
 *** Soleil Comics
 **** Sherlock Holmes & The Time Travelers  (2014-2016)
 **** Sherlock Holmes Society  (2015-2016) :P2015:
+*** misc
+**** Victorian Knights :P2012:
 * Agatha Christie 阿加莎·克里斯蒂 :阿婆:
 ** Hercule Poirot 波洛系列 :poirot:
 *** books

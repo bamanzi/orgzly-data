@@ -1,24 +1,5 @@
-Marvel, Vertigo
+#+Title: Marvel, Vertigo, Stranger Things
 
-* DC
-** Watchmen :Watchmen:
-*** DONE movie
-*** comics
-**** DONE Watchmen (1986-1987) :hanzify:
-**** DONE Before Watchmen (2012-2013) :hanzify:
-***** Minutemen
-***** Silk Spectre
-***** Comedian
-***** Nite Owl
-***** Rorschach
-***** Doctor Manhattan
-***** Ozymandias
-***** Dollar Bill
-***** Moloh
-**** LATER Doomsday Clock 末日钟声 (2018-2020) :P2018:hanzify:S2025_Q4:
-**** Rorschach :P2020:hanzify:
-*** tv
-**** LATER Watchmen S1 (2019, 9 eps) :P2019:S2025_Q4:
 * Vertigo
 ** Sandman
 *** Sandman v2 (1989-1996) :📚:Neil_Gaiman:
@@ -468,7 +449,7 @@ CLOSED: [2025-02-12 Wed 18:37] SCHEDULED: <2025-02-15 Sat>
 ***** DONE 3x26
 CLOSED: [2025-02-25 Tue 08:08] SCHEDULED: <2025-02-22 Sat>
 
-**** Lucifer S4 (10 eps) :P2019:S2025_Q1:
+**** DONE Lucifer S4 (10 eps) :P2019:S2025_Q1:
 ***** DONE 4x01
 CLOSED: [2025-02-14 Fri 20:08]
 
@@ -745,7 +726,172 @@ https://fables.fandom.com/wiki/Fables_Wiki
 **** Batman Vs. Bigby! A Wolf In Gotham
 ** Y: The Last Man
 ** Swamp Thing
-* Marvel
+* Marvel MCU
+** Marvel's Agents of S.H.I.E.L.D.
+*** DONE S5 :S2024_08:
+CLOSED: [2024-08-13 Tue 18:47]
+
+**** DONE 5x11
+CLOSED: [2024-07-28 Sun 20:24]
+
+**** DONE 5x12
+CLOSED: [2024-07-29 Mon 08:08]
+
+**** DONE 5x13
+CLOSED: [2024-08-01 Thu 08:05]
+
+**** DONE 5x14
+CLOSED: [2024-08-02 Fri 08:55]
+
+**** DONE 5x15
+CLOSED: [2024-08-03 Sat 14:49]
+
+**** DONE 5x16
+CLOSED: <2024-08-04 Sun 12:03>
+
+**** DONE 5x17
+CLOSED: [2024-08-03 Sat 15:35]
+
+**** DONE 5x18
+CLOSED: [2024-08-05 Mon 21:31]
+
+**** DONE 5x19
+CLOSED: [2024-08-07 Wed 20:26]
+
+**** DONE 5x20
+CLOSED: [2024-08-09 Fri 21:28]
+
+**** DONE 5x21
+CLOSED: [2024-08-13 Tue 08:05]
+
+**** DONE 5x22
+CLOSED: [2024-08-13 Tue 18:47]
+
+*** DONE 📂S6 :S2025_Q3:
+**** DONE 6x01
+CLOSED: <2025-07-07 Mon 16:45>
+
+**** DONE 6x02
+CLOSED: [2025-07-12 Sat 19:46]
+
+**** DONE 6x03
+CLOSED: [2025-07-12 Sat 20:38]
+
+**** DONE 6x04
+CLOSED: [2025-07-14 Mon 20:58]
+
+**** DONE 6x05
+CLOSED: [2025-07-15 Tue 11:31]
+
+**** DONE 6x06
+CLOSED: [2025-07-16 Wed 15:25]
+
+**** DONE 6x07
+CLOSED: [2025-07-16 Wed 16:53]
+
+**** DONE 6x08
+CLOSED: [2025-07-18 Fri 21:28]
+
+**** DONE 6x09
+CLOSED: [2025-07-18 Fri 22:21]
+
+**** DONE 6x10
+CLOSED: [2025-07-31 Thu 21:48]
+
+**** DONE 6x11
+CLOSED: [2025-08-03 Sun 21:26]
+
+**** DONE 6x12
+CLOSED: [2025-08-06 Wed 22:01]
+
+**** DONE 6x13
+CLOSED: [2025-08-10 Sun 10:01]
+
+** phase 2
+*** DONE Avengers 2: Age of Ultron
+CLOSED: [2024-08-10 Sat 10:01]
+
+** phase 4
+*** DONE Loki S1 :P2021:S2024_08:
+**** DONE 1x01
+CLOSED: [2024-08-12 Mon 08:32]
+
+**** DONE 1x02
+CLOSED: [2024-08-15 Thu 08:12]
+
+**** DONE 1x03
+CLOSED: [2024-08-16 Fri 22:24]
+
+**** DONE 1x04
+CLOSED: [2024-08-17 Sat 23:08]
+
+**** DONE 1x05
+CLOSED: [2024-08-20 Tue 22:03]
+
+**** DONE 1x06
+CLOSED: [2024-08-24 Sat 21:57]
+
+*** DONE WandaVision 旺达幻视 :P2021:S2024_08:
+**** DONE 1x01
+CLOSED: [2024-07-29 Mon 20:08]
+
+**** DONE 1x02
+CLOSED: [2024-07-29 Mon 20:41]
+
+**** DONE 1x03
+CLOSED: <2024-07-31 Wed 19:57>
+
+**** DONE 1x04
+CLOSED: [2024-08-02 Fri 23:30]
+
+**** DONE 1x05
+CLOSED: <2024-08-04 Sun 16:26>
+
+**** DONE 1x06
+CLOSED: <2024-08-04 Sun 22:59>
+
+**** DONE 1x07
+CLOSED: <2024-08-08 Thu 11:01>
+
+**** DONE 1x08
+CLOSED: [2024-08-10 Sat 15:30]
+
+**** DONE 1x09
+CLOSED: [2024-08-10 Sat 16:16]
+
+*** DONE Moon Knight 月光骑士 :P2022:
+CLOSED: [2025-07-16 Wed 20:52]
+
+*** TODO The Falcon and the Winter Soldier 猎鹰与冬兵 :S2026_Q4:
+** phase 5
+*** DONE [#A] Loki S2 :P2023:S2025_Q3:
+CLOSED: [2025-07-26 Sat 15:45]
+
+** Netflix series in MCU
+*** DONE [#A] Marvel's Daredevil S1 夜魔侠/超胆侠 :P2015:
+**** DONE 1x01
+CLOSED: [2024-08-19 Mon 20:56]
+
+**** DONE ...
+**** DONE 1x13
+CLOSED: [2024-09-12 Thu 22:35]
+
+*** [#A] Marvel's Daredevil S2 :P2016:
+*** [#A] Marvel's Daredevil S3 :P2018:
+*** DONE [#C] Marvel's Jessica Jones S1 :P2015:
+**** DONE 1x01
+CLOSED: <2025-07-20 Sun 11:47>
+
+**** DONE ...
+**** DONE 1x13
+CLOSED: [2025-08-02 Sat 17:45]
+
+*** [#C] Marvel's Jessica Jones S2 :P2018:
+*** CANCEL [#D] Marvel's Luke Cage 卢克·凯奇
+*** CANCEL [#F] Marvel's Iron Fist
+*** CANCEL [#E] Marvel's The Defenders 捍卫者联盟
+*** [#B] Marvel's The Punisher :P2017:
+* Marvel Comics
 ** Spider-Man
 *** The Amazing Spider-Man 神奇蜘蛛侠
 **** v1 (1963-1998, #001-441)
@@ -839,7 +985,21 @@ It was replaced by The Superior Spider-Man as part of the Marvel NOW! relaun
 - Spider-Gwen: Ghost Spider #4
 
 ** Ultimate Marvel
-*** LATER 📂The Ultimates :S2025_Q3:
+*** DONE 📂The Ultimates :S2025_Q3:
+**** DONE The Ultimtes (2002-2004) :P2002:
+CLOSED: [2025-08-06 Wed 13:47]
+
+https://marvel.fandom.com/wiki/Ultimates_Vol_1
+
+13 issues
+
+**** DONE The Ultimates 2 (2005-2007) :P2005:
+CLOSED: [2025-08-14 Thu 21:34]
+
+https://marvel.fandom.com/wiki/Ultimates_2_Vol_1
+
+13 issues
+
 *** Ultimate Spider-Man
 
 https://en.m.wikipedia.org/wiki/List_of_Ultimate_Spider-Man_story_arcs
@@ -880,7 +1040,7 @@ Ultimate Spider-Man #129–133, Annual #3
 ***** vol.4 Death of Spider-Man (#156-160)
 ***** vol.5 Death Spider-Man Fallout
 **** Ultimate Comics Spider-Man (Miles Morales)
-*** LATER 📂Ultimate X-Men :S2025_Q3:
+*** LATER 📂Ultimate X-Men :S2026_Q4:
 
 https://ultimate-marvel.fandom.com/wiki/Ultimate_X-Men
 
@@ -930,182 +1090,88 @@ CLOSED: [2024-08-19 Mon 16:04]
 **** DONE Ultimate Comics Thor
 CLOSED: [2024-08-27 Tue 13:24]
 
-** Marvel MCU
-*** Marvel's Agents of S.H.I.E.L.D.
-**** DONE S5 :S2024_08:
-CLOSED: [2024-08-13 Tue 18:47]
+** Moon Knight
+*** DONE Moon Knight v7 (2014)
 
-***** DONE 5x11
-CLOSED: [2024-07-28 Sun 20:24]
+17 issues
 
-***** DONE 5x12
-CLOSED: [2024-07-29 Mon 08:08]
+以“夜游人的守护者”为题展开，讲述月骑各种“行侠仗义”之事，未涉及月骑自身
 
-***** DONE 5x13
-CLOSED: [2024-08-01 Thu 08:05]
+**** DONE [#B] 1. From the Dead (#1-6)
+CLOSED: <2025-07-17 Thu 08:31>
+:PROPERTIES:
+:goodreads: 4.13
+:END:
 
-***** DONE 5x14
-CLOSED: [2024-08-02 Fri 08:55]
+各集独立
 
-***** DONE 5x15
-CLOSED: [2024-08-03 Sat 14:49]
+**** DONE [#C] 2. Dead Will Rise (#7-12)
+CLOSED: [2025-07-20 Sun 19:17]
+:PROPERTIES:
+:goodreads: 3.89
+:END:
 
-***** DONE 5x16
-CLOSED: <2024-08-04 Sun 12:03>
+6期构成一整个故事
 
-***** DONE 5x17
-CLOSED: [2024-08-03 Sat 15:35]
+**** DONE [#D] 3. In the Night (#13-17)
+CLOSED: [2025-07-20 Sun 20:07]
+:PROPERTIES:
+:goodreads: 3.56
+:END:
 
-***** DONE 5x18
-CLOSED: [2024-08-05 Mon 21:31]
+各期独立
 
-***** DONE 5x19
-CLOSED: [2024-08-07 Wed 20:26]
+*** DONE [#B] Moon Knight v8 (2016)
 
-***** DONE 5x20
-CLOSED: [2024-08-09 Fri 21:28]
+14 issues
 
-***** DONE 5x21
-CLOSED: [2024-08-13 Tue 08:05]
+整体是一个故事，主要讲述月骑自己，算是电视剧的故事简版。
 
-***** DONE 5x22
-CLOSED: [2024-08-13 Tue 18:47]
+**** DONE 1. Lunatic (#1-5)
+CLOSED: <2025-07-17 Thu 17:45>
 
-**** DOING 📂S6 :S2025_Q3:
-***** DONE 6x01
-CLOSED: <2025-07-07 Mon 16:45>
+**** DONE 2. Reincarnations (#6-9)
+CLOSED: <2025-07-17 Thu 22:40>
 
-***** DONE 6x02
-CLOSED: [2025-07-12 Sat 19:46]
+**** DONE 3. Birth and Death (#10-14)
+CLOSED: <2025-07-18 Fri 08:30>
 
-***** DONE 6x03
-CLOSED: [2025-07-12 Sat 20:38]
+*** Moon Knight v1
+**** DONE [#E] Crazy Runs in the Family (v1 #188-193) :P2018:
+CLOSED: [2025-07-29 Tue 23:18]
+:PROPERTIES:
+:goodreads: 3.46
+:END:
 
-***** DONE 6x04
-CLOSED: [2025-07-14 Mon 20:58]
+**** CANCEL [#F] Phases (v1 #194-200)
+:PROPERTIES:
+:goodreads: 3.08
+:END:
 
-***** DONE 6x05
-CLOSED: [2025-07-15 Tue 11:31]
+*** LATER Moon Knight v9 (2021)
 
-***** DONE 6x06
-CLOSED: [2025-07-16 Wed 15:25]
+30 issues
 
-***** DONE 6x07
-CLOSED: [2025-07-16 Wed 16:53]
+*** Vengeance of the Moon Knight (2024)
 
-***** DONE 6x08
-CLOSED: [2025-07-18 Fri 21:28]
+10 issues
 
-***** DONE 6x09
-CLOSED: [2025-07-18 Fri 22:21]
+** misc
+*** DONE Death of Captain America
 
-*** phase 2
-**** DONE Avengers 2: Age of Ultron
-CLOSED: [2024-08-10 Sat 10:01]
+Captain America (Vol. 5) #25-42
 
-*** phase 4
-**** DONE Loki S1 :P2021:S2024_08:
-***** DONE 1x01
-CLOSED: [2024-08-12 Mon 08:32]
+March 2007 - September 2008
 
-***** DONE 1x02
-CLOSED: [2024-08-15 Thu 08:12]
+**** DONE v01. The Death of the Dream (#25-30)
+CLOSED: [2025-07-21 Mon 00:22]
 
-***** DONE 1x03
-CLOSED: [2024-08-16 Fri 22:24]
+**** DONE v02. The Burden of Dreams (#31-36)
+CLOSED: <2025-07-22 Tue 08:27>
 
-***** DONE 1x04
-CLOSED: [2024-08-17 Sat 23:08]
+**** DONE v03. The Man Who Bought America (#37-42)
+CLOSED: [2025-07-26 Sat 09:32]
 
-***** DONE 1x05
-CLOSED: [2024-08-20 Tue 22:03]
-
-***** DONE 1x06
-CLOSED: [2024-08-24 Sat 21:57]
-
-**** DONE WandaVision 旺达幻视 :P2021:S2024_08:
-***** DONE 1x01
-CLOSED: [2024-07-29 Mon 20:08]
-
-***** DONE 1x02
-CLOSED: [2024-07-29 Mon 20:41]
-
-***** DONE 1x03
-CLOSED: <2024-07-31 Wed 19:57>
-
-***** DONE 1x04
-CLOSED: [2024-08-02 Fri 23:30]
-
-***** DONE 1x05
-CLOSED: <2024-08-04 Sun 16:26>
-
-***** DONE 1x06
-CLOSED: <2024-08-04 Sun 22:59>
-
-***** DONE 1x07
-CLOSED: <2024-08-08 Thu 11:01>
-
-***** DONE 1x08
-CLOSED: [2024-08-10 Sat 15:30]
-
-***** DONE 1x09
-CLOSED: [2024-08-10 Sat 16:16]
-
-**** DONE Moon Knight 月光骑士 :P2022:
-CLOSED: [2025-07-16 Wed 20:52]
-
-**** TODO The Falcon and the Winter Soldier 猎鹰与冬兵 :S2025_Q3:
-*** phase 5
-**** HALF Loki S2 :P2023:S2025_Q3:
-*** Netflix series in MCU
-**** DONE [#A] Marvel's Daredevil S1 夜魔侠/超胆侠 :P2015:
-***** DONE 1x01
-CLOSED: [2024-08-19 Mon 20:56]
-
-***** DONE 1x02
-CLOSED: [2024-08-20 Tue 18:56]
-
-***** DONE 1x03
-CLOSED: <2024-08-21 Wed 20:44>
-
-***** DONE 1x04
-CLOSED: [2024-08-23 Fri 19:34]
-
-***** DONE 1x05
-CLOSED: [2024-08-26 Mon 07:49]
-
-***** DONE 1x06
-CLOSED: [2024-08-26 Mon 08:37]
-
-***** DONE 1x07
-CLOSED: [2024-08-29 Thu 21:28]
-
-***** DONE 1x08
-CLOSED: [2024-08-30 Fri 18:55]
-
-***** DONE 1x09
-CLOSED: [2024-09-02 Mon 20:36]
-
-***** DONE 1x10
-CLOSED: [2024-09-05 Thu 07:43]
-
-***** DONE 1x11
-CLOSED: <2024-09-08 Sun 21:18>
-
-***** DONE 1x12
-CLOSED: [2024-09-12 Thu 20:18]
-
-***** DONE 1x13
-CLOSED: [2024-09-12 Thu 22:35]
-
-**** [#A] Marvel's Daredevil S2 :P2016:
-**** [#A] Marvel's Daredevil S3 :P2018:
-**** TODO [#C] Marvel's Jessica Jones S1 :P2015:
-**** [#C] Marvel's Jessica Jones S2 :P2018:
-**** CANCEL [#D] Marvel's Luke Cage 卢克·凯奇
-**** CANCEL [#F] Marvel's Iron Fist
-**** CANCEL [#E] Marvel's The Defenders 捍卫者联盟
-**** [#B] Marvel's The Punisher :P2017:
 * Supernatural :📺:spn:
 ** comics
 *** Origins  :P2007:
