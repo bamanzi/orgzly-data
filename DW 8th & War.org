@@ -24,11 +24,13 @@ CLOSED: [2020-08-11 Tue 08:46]
 【【神秘博士广播剧熟肉】MR 016 Storm Warning 风暴预警-哔哩哔哩】 
 https://b23.tv/BV1gT411z7Yu
 
-***** DONE [#E] 017 - Sword Of Orion :Cybermen:
+***** DONE [#E] 017 - Sword Of Orion :Cybermen:bilibili:
 CLOSED: [2020-08-18 Tue 08:19] SCHEDULED: <2022-08-30 Tue>
 :PROPERTIES:
 :rating:   6.9
 :END:
+
+【[AI速译][神秘博士广播剧]MR 017 Sword of Orion-哔哩哔哩】 https://b23.tv/BV1yahWzqEXX
 
 ***** DONE [#D] 018 - The Stones of Venice
 CLOSED: [2020-09-23 Wed 13:56]
@@ -208,11 +210,21 @@ https://www.bigfinish.com/releases/v/doctor-who-terror-firma-238
 
 戴沃斯活了下来。孤身一人，在黑暗之中，唯有复仇的执念支撑着他活下去。如今博士归来，戴沃斯已然等候多时。他们的宿命，就在此刻。
 
-***** CANCEL [#F] +75. Scaredy Cat+
+***** CANCEL [#F] +75. Scaredy Cat+ :bilibili:1CD:
 CLOSED: [2021-03-22 Mon 22:44]
 :PROPERTIES:
 :rating:   5.5
 :END:
+
+【[AI精校字幕][神秘博士广播剧]MR 075 Scaredy Cat-哔哩哔哩】 https://b23.tv/BV1Veh3zmEAj
+
+https://www.bigfinish.com/releases/v/doctor-who-scaredy-cat-241
+
+Yaranaa —— 其字面意思是 “复仇之魂”，指那些生命被过早斩断、怀着空虚之心死去的人。
+
+数千年前，Caludaar星球的人们发誓永远不踏足他们的姊妹星球Endara。但这颗星球隐藏着怎样的秘密？有些法则即便是博士也不会去打破。当克里兹明白有些悲剧无法避免时，查莉却必须判定真正的敌人是谁。
+
+因为死亡在Endara游荡，而这一次，她绝不会空手而归。
 
 ***** 3QTR [#C] 77. Other Lives :D2021_12_doctor:week2:
 CLOSED: [2021-12-14 Tue 03:29] SCHEDULED: <2021-12-12 Sun>
@@ -220,12 +232,25 @@ CLOSED: [2021-12-14 Tue 03:29] SCHEDULED: <2021-12-12 Sun>
 :rating:   7.8
 :END:
 
-***** TODO [#C] 80. Time Works
+【[AI精校字幕][神秘博士广播剧]MR 077 Other Lives-哔哩哔哩】 https://b23.tv/BV12YbwzzEEq
+
+https://bigfinish.com/releases/v/doctor-who-other-lives-243
+
+伦敦，1851年。万国工业博览会的场景。也是一个旨在颠覆政府、推翻君主并建立共和国的阴谋的场景。如果韦灵顿公爵本人值得相信的话……当医生和查理被卷入十九世纪政治的阴暗世界时，C'rizz在不断增加的逆境中努力保持自己的尊严。最开始的一个阻止谋杀的尝试迅速变成了一场避免革命的绝望竞赛。脱离了时间机器，旅行者们不得不猜测他们是否会恢复自己的生活，还是永远被他人的生活纠缠。那么乔治娜·马洛夫人是谁？她觉得医生能满足她什么需求？
+
+***** READY [#C] 80. Time Works :bilibili:
 :PROPERTIES:
 :rating:   7.5
 :END:
 
  Time Works: Skippable and standalone, but I’m rather fond of it all the same. Very fairy-tale.
+
+【[AI精校字幕][神秘博士广播剧]MR 080 Time Works-哔哩哔哩】 https://b23.tv/BV1fdY9zJEXf
+
+https://www.bigfinish.com/releases/v/doctor-who-time-works-246
+
+“你想知道时间守护者吗？”“我们生活在他们的阴影中，每一秒每一刻。我们在大钟的运转中听到他们。我们努力工作，转动我们的指针——但我们最终都会随着时间而耗尽，而这就是他们来找我们的时刻：当我们的时间用尽时。”TARDIS降落在时间之间，在一个没有时间的时刻。一个不可能存在任何事物的时刻。但某些东西却在……博士、查莉和C’rizz就像轮子里的老鼠，威胁着一个时间至关重要的世界的时间表。而秒针正在倒计时，通向一个已经发生的命运未来。除非他们能战胜时间。滴答，滴答。
+
 
 ***** READY [#E] +83. Something Inside+ :bilibili:
 :PROPERTIES:
@@ -234,18 +259,39 @@ CLOSED: [2021-12-14 Tue 03:29] SCHEDULED: <2021-12-12 Sun>
 
 【【神秘博士广播剧熟肉】MR83 Something Inside 头中之物-哔哩哔哩】 https://b23.tv/BV1DheKe1E7a
 
-***** DONE [#C] 88. Memory Lane :Charley:underrated:已购:
+***** DONE [#C] 88. Memory Lane :Charley:underrated:已购:bilibili:
 CLOSED: <2021-06-12 Sat 08:09>
 :PROPERTIES:
 :rating:   7.9
 :goodreads: 3.7
 :END:
 
-***** CANCEL [#F] +101. Absolution+
+【[AI精校字幕][神秘博士广播剧]MR 088 Memory Lane-哔哩哔哩】 https://b23.tv/BV1WCawzCED4
+
+https://www.bigfinish.com/releases/v/doctor-who-memory-lane-254
+
+没有哪个夏天能像你年轻时记得的那样辉煌，那时一个阳光明媚的下午似乎永远持续下去，你所要做的就是骑自行车、吃冰棍和玩乐高。Tom Braudy正享受着这样一个下午，TARDIS降落在他楠的起居室，在斯诺克比赛中途打断了她。
+在他们道歉后，医生和他的朋友们很快发现了比他们的时间机器阻碍了布劳迪夫人对激动人心的世纪转折的看法更令人担忧的事情。汤姆愉快地来回骑行的街道似乎没有起点或终点，上面的每一栋房子都是一样的。
+
+这是郊区的未来，还是更险恶的东西？为什么汤姆看起来不像他的行为那么年轻？有人记得TARDIS在哪栋房子里吗？
+
+***** CANCEL [#F] +101. Absolution+ :bilibili:
 CLOSED: [2021-03-22 Mon 22:48]
 :PROPERTIES:
 :rating:   6.2
 :END:
+
+【[AI精校字幕][神秘博士广播剧]MR 101 Absolution-哔哩哔哩】 https://b23.tv/BV1jsaSzwEvd
+
+https://www.bigfinish.com/releases/v/doctor-who-absolution-267
+
+忏悔 赎罪 赦免 
+
+Tardis在太空的禁域中发生故障。幽灵般的声音呼喊着救赎，只有博士的尤特梅桑人同伴 C'rizz 能回应他们的呼唤 —— 因为只有他知道 “赦免者” 的秘密。但他会用它来拯救他的朋友还是拯救宇宙呢？
+
+博士的罪孽正在向他逼近，地狱之兽博拉鲁斯饥肠辘辘。时间不多了，审判日即将来临。
+欢迎来到地狱。
+
 
 ***** 3QTR [#B] 103. The Girl Who Never Was :P2007:Charley:Cybermen:plot_yes:DW2022_10_doctor:
 CLOSED: [2022-11-03 Thu 16:31] SCHEDULED: <2022-10-16 Sun>
@@ -661,7 +707,7 @@ https://b23.tv/BV1yY411E7Ph
 :END:
 
 ***** Ravenous vol.2
-****** [#D] 2.1 - Escape from Kaldor
+****** [#D] 2.1 - Escape from Kaldor :Kaldor_androids:
 :PROPERTIES:
 :rating:   7.2
 :END:
@@ -804,7 +850,7 @@ https://b23.tv/BV15a411y7o8
 
 ***** [#D] The Dalby Spook :1CD:
 **** 📂Connections :P2022_12:1CD:plot_yes:
-***** [#B] Here Lies Drax
+***** [#B] Here Lies Drax :Drax:
 ***** [#C] The Love Vampires
 ***** [#A] Albie's Angels [A†]
 **** 📂Echoes :P2024_05:
@@ -1067,22 +1113,40 @@ https://b23.tv/BV1ju411x7qo
 *** /📂The War Master series 9: Solitary Confinement/ :🎧:P2023_06:Master_war:plot_cast:
 **** 2DONE [#A] 9.1 - The Walls of Absence :bilibili:dw2025_q2b_spinoffs:
 CLOSED: [2025-06-29 Sun 06:52] SCHEDULED: <2025-06-15 Sun>
+:PROPERTIES:
+:rating:   8.6
+:END:
 
 【【广播剧汉化】燃烧的天空 The War Master 战争法师 901 The Walls of Absence-哔哩哔哩】 
 https://b23.tv/BV1PP411h7Uw
 
-**** READY [#A] 9.2 - The Long Despair :bilibili:dw2025_q3a_spinoffs:
-SCHEDULED: <2025-08-10 Sun>
+**** 3QTR [#A] 9.2 - The Long Despair :bilibili:dw2025_q3a_spinoffs:
+CLOSED: <2025-08-16 Sat 17:56> SCHEDULED: <2025-08-23 Sat>
+:PROPERTIES:
+:difficulty: H
+:rating:   8.8
+:END:
 
 【【广播剧汉化】漫长的绝望 The War Master 战争法师 902 The Long Despair-哔哩哔哩】 
 https://b23.tv/BV1Wj411k7xV
 
+难点：
+1. 注意跟这个系列前面几个故事相似，故事有内外两层，外层是 Master 在给另外一个人(Bartholom) 讲述内层那个故事；
+2. 内层故事一开始那个旅馆女老板（与 Vastra 是同一个演员）口音有点重，容易听不清（但其实她的话并不太影响剧情）；
+3. 后面的剧情其实并不多，很多时候都是法师在跟外层跟 Bartholom 在进行讨论；
+
 **** READY [#A] 9.3 - The Life and Loves of Mr Alexander Bennett :bilibili:
+:PROPERTIES:
+:rating:   8.7
+:END:
 
 【【广播剧汉化】法师的画饼日常 The War Master 战争法师 903 The Life and Loves of Mr Alexander-哔哩哔哩】
 https://b23.tv/BV1Nu411u79c
 
 **** READY [#C] 9.4 - The Kicker :bilibili:
+:PROPERTIES:
+:rating:   7.8
+:END:
 
 【【广播剧汉化】真假法师 The War Master 战争法师 904 The Kicker-哔哩哔哩】 
 https://b23.tv/BV1C841117ip
@@ -1463,7 +1527,7 @@ CLOSED: <2019-10-29 Tue 13:59>
 *** DONE The Night of the Doctor
 CLOSED: [2020-09-23 Wed 14:01]
 
-*** _📂WDB vol.1 Forged in Fire_ :P2021_06:🎧:
+*** 📂WDB vol.1 Forged in Fire :P2021_06:🎧:
 **** 2DONE [#B] 1.1 - Light the Flame :D2022_06_doctor:
 CLOSED: [2022-07-15 Fri 21:16] SCHEDULED: <2022-06-25 Sat>
 :PROPERTIES:
@@ -1487,7 +1551,7 @@ CLOSED: [2022-11-12 Sat 19:31] SCHEDULED: <2022-10-16 Sun>
 The young looking War Doctor makes a decision. In one outcome, he ends up a Dalek spy.
 
 *** DONE The Clockwise War (comic) :12th_Dr:
-*** _📂WDB vol.2 Warbringer_ :Case:P2021_12:🎧:
+*** 📂WDB vol.2 Warbringer :Case:P2021_12:🎧:
 **** START [#E] 2.1 - Consequences :DW2023_01_doctor:
 SCHEDULED: <2023-01-31 Tue>
 :PROPERTIES:
@@ -1506,7 +1570,7 @@ CLOSED: [2023-06-15 Thu 08:36] SCHEDULED: <2023-06-10 Sat>
 :rating:   7.3
 :END:
 
-*** _📂WDB vol.3 Battlegrounds_ :P2022_05:🎧:
+*** 📂WDB vol.3 Battlegrounds :P2022_05:🎧:
 **** HALF [#D] 3.1 - The Keeper of Light :DW2024_02_doctor:
 SCHEDULED: <2024-02-10 Sat>
 
@@ -1681,6 +1745,27 @@ CLOSED: [2020-09-23 Wed 12:53]
 CLOSED: [2020-09-23 Wed 12:53]
 
 *** 8th Doctor: Time War
+*** 📂The War Master series 11 Future Phantoms :P2024_11:
+**** [#E] 11.1 His Close Companions
+:PROPERTIES:
+:rating:   6.3
+:END:
+
+**** [#D] 11.2 The Foxglove Cylinders
+:PROPERTIES:
+:rating:   7.1
+:END:
+
+**** [#A] 11.3 The Sitter
+:PROPERTIES:
+:rating:   8.6
+:END:
+
+**** [#B] 11.4 Signal and I'll Come to You
+:PROPERTIES:
+:rating:   8.1
+:END:
+
 ** unofficial
 *** Seasons of War (anthology) :War_Dr:
 

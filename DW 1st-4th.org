@@ -116,10 +116,20 @@ SCHEDULED: <2024-03-09 Sat>
 
 **** CANCEL [#F] EA3.1 The Age of Endurance
 **** 1DA vol.1-5 :Susan:Ian:Barbara:2CD:1DA:
-***** HALF [#C] 1.1 The Destination Wars :Master_inventor:D2021_08_dr:plot_yes:
+***** HALF [#C] 1.1 The Destination Wars :Master_inventor:D2021_08_dr:plot_yes:bilibili:
 :PROPERTIES:
 :rating:   7.8
 :END:
+
+【【神秘博士广播剧熟肉】一任博士冒险 101 The Destination War 目的地之战-哔哩哔哩】 https://b23.tv/BV14sa8z8E4Z
+
+在太空纪元2003，TARDIS抵达了一个闪闪发光的星球。博士真的将Ian和Barbara带回了家，让他们一窥未来的景象吗？
+
+世界在很大程度上得益于这位传奇发明家，Susan发现自己与这位伟大的发明家面对面。
+
+但很快，时间旅行者身处一个战火纷飞的世界，而博士必须面对他的过去
+
+带有#的句子翻译存在问题
 
 ***** [#C] 1.2 The Great White Hurricane (7.5) :plot_yes:
 ***** 2DONE [#A] 2.1 The Invention of Death :D2021_07_dr:P2018:plot_yes:
@@ -1480,7 +1490,7 @@ CLOSED: [2020-06-19 Fri 13:10]
 **** DONE [#C] 14x04 - The Face of Evil †7.6) :Leela:
 CLOSED: [2020-07-09 Thu 20:10]
 
-**** DONE [#A] 14x05 - The Robots of Death †8.6) :Leela:
+**** DONE [#A] 14x05 - The Robots of Death †8.6) :Leela:Kaldor_androids:Uvanov:
 CLOSED: [2020-07-29 Wed 23:03]
 
 **** DONE [#A] 14x06 - The Talons of Weng-Chiang †8.8 :Leela:Best_of_Tom_Baker:
@@ -1507,7 +1517,7 @@ CLOSED: [2025-05-19 Mon 20:11]
 **** [#C] 16x03 - The Stones of Blood (7.8) 吸血之石
 **** [#C] 16x04 - The Androids of Tara (7.6)
 **** [#E] 16x05 - The Power of Kroll (6.9)
-**** DONE [#D] 16x06 - The Armageddon Factor (7.2)
+**** DONE [#D] 16x06 - The Armageddon Factor (7.2) :Drax:
 CLOSED: [2021-06-01 Tue 21:03]
 
 *** S17 :Romana_2:
@@ -1590,6 +1600,15 @@ CLOSED: [2020-06-23 Tue 09:05]
 :rating:   8.4
 :END:
 
+***** READY [#E] 1.4 Energy of the Daleks :bilibili:
+:PROPERTIES:
+:rating:   6.5
+:END:
+
+【[神秘博士广播剧熟肉]The Fourth Doctor Adventure 104 Energy of the Daleks戴立克的能量（1/2）-哔哩哔哩】 https://b23.tv/BV1aStHziEWX
+
+【[神秘博士广播剧熟肉]The Fourth Doctor Adventures 104 Energy of the Daleks戴立克的能量（2/2）-哔哩哔哩】 https://b23.tv/BV1pMY9zpErj
+
 ***** DONE [#D] 1.5 - Trail of the White Worm :Master_decayed:bilibili:
 CLOSED: <2020-08-17 Mon 10:54>
 :PROPERTIES:
@@ -1659,7 +1678,7 @@ SCHEDULED: <2022-06-16 Thu>
 CLOSED: [2020-08-20 Thu 13:56]
 
 **** 4DA series 7 :4DA:P2018:1CD:
-***** 3QTR [#C] 7.1 The Sons of Kaldor (7.7) :Kaldor:Robots:DW2022_12_doctor:
+***** 3QTR [#C] 7.1 The Sons of Kaldor (7.7) :Kaldor_androids:DW2022_12_doctor:
 CLOSED: [2022-12-13 Tue 08:58] SCHEDULED: <2022-12-13 Tue>
 
 ***** [#C] 7.2 The Crowmarsh Experiment (7.6)
@@ -1695,6 +1714,8 @@ CLOSED: <2025-06-15 Sun 15:21> SCHEDULED: <2025-06-14 Sat>
 ***** 14.3 The Remains of Kaerula :P2025_06:
 ***** 14.4 The Ruins of Kaerula :P2025_06:
 ***** 14.5 Cry of the Banshee :P2025_06:
+***** 14.6 Conspiracy of Silence :P2025_09:
+***** 14.7 The Last Queen of the Nile :P2025_09:
 **** 📂BF PHP
 
 Philip Hinchcliffe Presents
@@ -1783,7 +1804,7 @@ CLOSED: <2023-04-22 Sat 21:12> SCHEDULED: <2023-04-12 Wed 08:15>
 
 【【神秘博士广播剧熟肉】The Fourth Doctor's Adventure Legacy of Death-逝者的遗产-哔哩哔哩】 https://b23.tv/BV1ThMbzPERn
 
-***** 2DONE [#A] 5.6 The Trouble with Drax (8.7) :D2021_06:
+***** 2DONE [#A] 5.6 The Trouble with Drax (8.7) :Drax:D2021_06:
 CLOSED: <2021-07-01 Thu 16:39>
 
 ***** [#D] 5.7 - The Pursuit of History (7.2)
@@ -2322,6 +2343,7 @@ https://b23.tv/BV1eE6FYwEYz
 *** 28. Sting of the Sasquatch :15th_Dr:Ruby:P2024_11:
 *** 29. House of Plastic :7th_Dr:Ace:Autons:P2025_01:
 *** 30. Agent of the Daleks :1st_Dr:Steven:Vicki:P2025_03:
+*** 31. What Still Remains :7th_Dr:Ace:P2025_08:
 ** Sontarans vs Rutans
 *** [#C] 1. The Battle of Giant's Causeway :8th_Dr:Charley:Crizz:P2024_01:
 *** 3QTR [#B] 2. The Children of the Future :3rd_Dr:Sarah:P2024_02:
@@ -2374,6 +2396,9 @@ CLOSED: <2024-09-25 Wed 22:22> SCHEDULED: <2024-09-07 Sat>
 * no doctor :no_doctor:
 ** comics
 *** DWM backup comics :📚:
+
+https://tardis.wiki/wiki/DWM_backup_comic_stories
+
 **** DWMGN: The Return of the Daleks
 
 collected in /The Complete Doctor Who Back-Up Tales Volume 1 (2024)/
@@ -2396,6 +2421,25 @@ CLOSED: <2018-07-13 Fri 08:03>
 ***** Ship of Fools
 ***** The Outsider
 ***** Star Tigers
+**** DWMGN: Black Sun Rising (2024)
+***** Yonder... The Yeti
+***** Black Legacy
+***** Business as Usual
+***** Star Death
+***** The Touchdown on Deneb-7
+***** Voyage to the Edge of the Universe
+***** Crisis on Kaldor
+***** 4-D War
+***** The Greatest Gamble
+***** Black Sun Rising
+***** Skywatch-7
+***** Minatorius
+***** The Gods Walk Among Us
+***** Devil of the Deep
+***** The Fires Down Below
+***** The Fabulous Idiot
+***** A Ship Called Sudden Death
+***** City of Devils
 ** short stories
 ** audio :🎧:
 *** BF

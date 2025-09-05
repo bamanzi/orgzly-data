@@ -181,7 +181,16 @@ CLOSED: <2025-01-10 Fri 09:28> SCHEDULED: <2025-01-11 Sat>
 【【神秘博士广播剧熟肉】Star-Crossed 312 Archipelago 群岛-哔哩哔哩】 https://b23.tv/BV159FJeBEFK
 
 **** S4 :Rose:
-***** TBR 4.1 Snare :P2025_08:
+***** READY 4.1 Snare :P2025_08:bilibili:
+
+【【神秘博士广播剧熟肉】The Ninth Doctor Adventures 401 Snare 陷阱-哔哩哔哩】 https://b23.tv/BV1mXb5z5Ec6
+
+https://www.bigfinish.com/releases/v/doctor-who-the-ninth-doctor-adventures-snare-3242
+
+Kevin在很早以前就离开了Powell小区。他不想被困在那。但多年后，他再次回到这里，清理他爸爸的旧公寓。至少他的邻居，Tyler一家还在。
+
+但Rose的身边多了一名神秘的男人。这个博士将让Kevin看到一个他未曾幻想过的世界。不幸的是，还有一些古老的邪恶在小区里潜伏。或许Kevin终究还是会被困在这...
+
 *** 9DC :P2017:
 **** [#D] 1.1 The Bleeding Heart
 :PROPERTIES:
@@ -612,7 +621,7 @@ CLOSED: [2023-12-29 Fri 22:07] SCHEDULED: <2023-12-23 Sat>
 
 【【神秘博士广播剧熟肉】Tenth Doctor Classic Companions 103 Quantum of Axos 阿克索斯量子-哔哩哔哩】 https://b23.tv/BV1DR4y1Q72p
 
-*** Dalek Universe :P2021:Anya:Mark_7:
+*** Dalek Universe :P2021:Anya:Mark_7:Daleks:
 **** _intro
 
 前两季基本就是The Dalek's Master Plan的续作
@@ -689,7 +698,7 @@ SCHEDULED: <2023-06-23 Fri 19:51>
 
 【【神秘博士广播剧熟肉】Dalek Universe 203 The Lost 迷失-哔哩哔哩】 https://b23.tv/HGdsWE3
 
-**** Dalek Universe 3 :Movellan:
+**** Dalek Universe 3 :Movellan:plot_cast:
 
 第三季是The Destiny of the Daleks 的续作
 
@@ -1011,8 +1020,25 @@ CLOSED: [2025-01-24 Fri 12:58] SCHEDULED: <2025-01-25 Sat>
 【【神秘博士广播剧熟肉】All of Time and Space 404 Broken Hearts 破碎的心-哔哩哔哩】 https://b23.tv/BV1JD2EYyEkY
 
 *** 📂11DC vol.5 Everywhere and Anywhere :Valarie:P2023_12:
-**** [#A] 5.1 Spirit of the Season
-**** [#B] 5.2 All’s Fair
+**** READY [#A] 5.1 Spirit of the Season :bilibili:
+
+【【神秘博士广播剧熟肉】Everywhere and Anywhere 501 Spirit of the Season 圣诞精神-哔哩哔哩】 https://b23.tv/BV1Pw82zYES7
+
+https://www.bigfinish.com/releases/v/doctor-who-the-eleventh-doctor-chronicles-volume-05-everywhere-and-anywhere-2730
+
+这是个圣诞奇迹！博士和Valarie终于又找到一位Clara，只可惜她想杀了他们。
+
+**** READY [#B] 5.2 All’s Fair :bilibili:
+
+【【神秘博士广播剧熟肉】Everywhere and Anywhere 502 All's Fair 不择手段-哔哩哔哩】 https://b23.tv/BV156ePz3ECJ
+
+https://www.bigfinish.com/releases/v/doctor-who-the-eleventh-doctor-chronicles-volume-05-everywhere-and-anywhere-2730
+
+1893年，芝加哥世界博览会。一对热恋工程师情侣的理想约会。
+
+但总有些事不该在约会时发生。一场不可能的重逢打乱了局面。怪物在街头潜行。你的情侣终将死去...
+
+
 **** [#A] 5.3 Sins of the Flesh :Cybermen:
 *** 📂11DC vol.6 Victory of the Doctor :Valarie:P2024_02:
 **** [#B] 6.1 Didn’t You Kill My Mother?

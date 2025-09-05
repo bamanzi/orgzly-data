@@ -3,7 +3,7 @@
 *** DONE Destination: Skaro (short) :P2023_11:
     CLOSED: [2023-11-26 Sun 08:15]
 
-*** DONE 301. The Star Beast :P2023_11:DW2023_Q4:
+*** DONE 301. The Star Beast :P2023_11:Beep_the_Meep:DW2023_Q4:
     CLOSED: <2023-12-30 Sat 19:51> SCHEDULED: <2024-01-01 Mon>
 
 *** DONE 302. Wild Blue Yonder :DW2023_Q4:
@@ -334,7 +334,6 @@ https://tardis.wiki/wiki/The_Master_(The_TV_Movie)
 **** [#F] 2.3 - Passion
 *** 📂Master! vol.3 Planet Doom :Vienna:P2024_02:
 **** HALF [#E] 3.1 Basilisk :bilibili:dw2025_q2a_spinoffs:
-     SCHEDULED: <2025-05-04 Sun>
 
 【【神秘博士广播剧】MASTER！301 Basilisk 蛇怪计划-哔哩哔哩】 https://b23.tv/BV1oc1mY2Eea
 
@@ -346,6 +345,7 @@ https://tardis.wiki/wiki/The_Master_(The_TV_Movie)
 
 【【神秘博士广播剧】MASTER! 303 Hellbound 地狱之旅-哔哩哔哩】 https://b23.tv/BV1pVDmYTEn9
 
+*** Dark Gallifrey: Master!  :P2025_09:
 *** misc
 **** 3QTR [#C] DoRS5.3 The Lifeboat and the Deathboat :plot_yes:plot_yes:bilibili:
 ** Reborn Master :Master_reborn:🎧:
@@ -411,7 +411,14 @@ https://tardis.wiki/wiki/Saxon_Master
 ***** 4.2 Bad Apple Brigade
 ***** 4.3 The Baron Robbers
 **** 2DONE [#A] DoRS5.1 The Bekdel Test :Master_missy:plot_yes:bilibili:
-**** Dark Gallifrey - Missy :P2025_05:7th_Dr:3CD:
+**** Dark Gallifrey - Missy :P2025_05:7th_Dr:3CD:bilibili:
+
+【【神秘博士广播剧】Dark Gallifrey 401 Missy Part1-哔哩哔哩】 https://b23.tv/BV1zf82zWEGG
+
+【【神秘博士广播剧】Dark Gallifrey 402 Missy Part2-哔哩哔哩】 https://b23.tv/BV1SotdzfE81
+
+
+
 **** fan-made :fan_made:
 ***** The Missy Adventures
 
@@ -460,6 +467,10 @@ I am the Master #3
 
 ***** 1.2 The Clockwork Swan
 ***** 1.3 The Good Life
+**** TBR vol.2 Monsters :P2025_09:
+***** 2.1 The Craft of Corruption
+***** 2.2 The Ideal Quarry
+***** 2.3 Reformation
 ** Unbound Master
 *** HALF [#B] Unbound #2: Sympathy for the Devil :bilibili:🎧:
 
@@ -490,6 +501,7 @@ https://www.bilibili.com/video/BV1QT41147a8
  https://www.bilibili.com/video/BV1oY41197ms/
 
 *** READY [#A] 8DRAV4.3/4.4 Day of the Master :Master_war:Master_missy:Master_decayed:Master_bruce:bilibili:🎧:
+*** The Unwanted Gift of Prophecy (myths & legends #3) :📄:
 ** misc
 *** 📂I am The Master :📄:anthology:
 **** 1. Anger Management :Master_nemesis:

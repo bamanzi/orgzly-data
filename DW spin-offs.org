@@ -531,7 +531,7 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 ***** 92. Inseparable :Yvonne:P2025_02:
 ***** 93. Rictus :Zygons:P2025_03:
 ***** 94. The Boy Who Never Laughed :Tyler:P2025_05:
-***** TBR 95. Child Free :Suzie:P2025_06:
+***** 95. Child Free :Suzie:P2025_07:
 ***** TBR 96. Salvage :P2025_09:
 *** specials
 **** 2DONE [#B] special 1: The Torchwood Archive :P2016:The_Commitee:2CD:plot_yes:
@@ -1154,7 +1154,14 @@ Roberts Master
 ***** 2.2 Driftwood
 ***** 2.3 Dead Rising
 ***** 2.4 The End is the Beginning is the End
-**** TBR DLRS3. The Dissolution of Time :P2025_08:
+**** DLRS3. The Dissolution of Time :P2025_08:
+
+1. The Armageddon Game
+2. Anne Boleyn Must Die
+3. A Good Woman Goes to War
+4. Schism Bloom
+
+
 *** misc
 **** DONE R&J (The Lives of Captain Jack #3.3) :Jack:
      CLOSED: <2020-09-14 Mon 21:12>
@@ -1475,24 +1482,51 @@ Gallifrey是一个与自己交战的世界。潘多拉实体身着罗马纳总�
 
 转自https://www.bigfinish.com/releases/v/gallifrey-appropriate-385
 
-*** 3QTR [#A] 3.4 - Mindbomb (8.9) :DW2024_Q2b_spinoffs:
+*** 3QTR [#A] 3.4 - Mindbomb :DW2024_Q2b_spinoffs:bilibili:
     CLOSED: [2024-05-24 Fri 08:48] SCHEDULED: <2024-05-12 Sun>
+    :PROPERTIES:
+    :rating:   8.9
+    :END:
 
-*** HALF [#B] 3.5 - Panacea (8.1) :DW2024_Q3c_spinoffs:
+【[英文字幕]Gallifrey 304 Mindbomb-哔哩哔哩】 https://b23.tv/9qLYsks
+
+
+
+*** HALF [#B] 3.5 - Panacea :DW2024_Q3c_spinoffs:bilibili:
     SCHEDULED: <2024-10-13 Sun>
+    :PROPERTIES:
+    :rating:   8.1
+    :END:
+
+【[AI未较核字幕][神秘博士广播剧]Gallifrey 305 Panacea-哔哩哔哩】 https://b23.tv/BV1itbkzKEhR
 
 ** series 4 :P2011:plot_yes:2buy:
 *** HALF [#B] 4.1 - Reborn       (8.0) :DW2022_09_spinoffs:
     SCHEDULED: <2022-09-18 Sun>
 
-*** 3QTR [#A] 4.2 - Disassembled (9.1) :DW2022_10_spinoffs:
+*** 3QTR [#A] 4.2 - Disassembled (9.1) :DW2022_10_spinoffs:bilibili:
     CLOSED: [2022-10-30 Sun 19:57] SCHEDULED: <2022-10-15 Sat>
 
-*** 3QTR [#B] 4.3 - Annihilation (8.0) :DW2022_11_spinoffs:
+【[机翻字幕][神秘博士广播剧]Gallifrey 402 Disassembled-哔哩哔哩】 https://b23.tv/BV1cHenzbEGd
+
+https://www.bigfinish.com/releases/v/gallifrey-series-04-389
+Gallifrey杀人
+
+高等议会主席想要罗曼娜的命。时间干预局已被派遣去追捕她。其任务是：将她从时间线上永远抹去。就好像她从未存在过一样
+只有一位老朋友才能给罗曼娜带来生存的希望。这位朋友是她和莉拉曾经相识的，他们已经多年未见了。
+
+但时间不多了。死亡正在迅速逼近。而这一次，无论有没有博士，并非每个人都能幸存。
+
+*** 3QTR [#B] 4.3 - Annihilation (8.0) :DW2022_11_spinoffs:bilibili:
     CLOSED: [2022-11-18 Fri 08:56] SCHEDULED: <2022-11-20 Sun>
 
-*** 3QTR [#C] 4.4 - Forever      (7.9) :DW2022_12_spinoffs:
+【[机翻字幕][神秘博士广播剧]Gallifrey 403 Annihilation-哔哩哔哩】 https://b23.tv/BV1MeexzREG1
+
+*** 3QTR [#C] 4.4 - Forever      (7.9) :DW2022_12_spinoffs:bilibili:
     CLOSED: [2023-02-14 Tue 23:04] SCHEDULED: <2022-12-28 Wed 08:50>
+
+【[机翻字幕][神秘博士广播剧]Gallifrey 404 Forever-哔哩哔哩】 https://b23.tv/BV1ZKvNzjEYX
+
 
 ** series 5 :P2013:plot_yes:
 *** HALF [#E] 5.1 - Emancipation :DW2023_02_spinoffs:
@@ -1578,6 +1612,13 @@ Gallifrey是一个与自己交战的世界。潘多拉实体身着罗马纳总�
      :PROPERTIES:
      :rating:   7.0
      :END:
+
+**** 2.4 The Skymines Of Karthos :bilibili:
+
+【【神秘博士广播剧熟肉】Bernice Summerfield 204 The Skymines Of Karthos卡索斯的矿场-哔哩哔哩】 https://b23.tv/BV1PYt5zNEbQ
+
+当柏妮斯的旧友凯特琳给她发了一条信息，告诉她，自己在一颗名为卡索斯的星球上的矿场附近发现了某种古老文明的痕迹，这位教授第一时间就被深深的吸引了，要知道，这颗星球是如此的贫瘠，没有诞生生命的可能。
+当柏妮斯抵达了卡索斯，她发现自己的好友失踪了，而矿场被一种似乎是星球原住民的怪物袭击。柏妮斯没有选择，她只得深入卡索斯的核心地带，去探寻一切的真相…
 
 *** Series 3 :P2002:plot_yes_dwg:
 **** [#D] 3.1 - The Greatest Shop in the Galaxy
@@ -1941,6 +1982,9 @@ https://www.bilibili.com/video/BV1QT41147a8
 **** 8.6 Mr Pym has an Adventure :P2024_11:
 **** 8.7 Sanctuary :P2024_12:
 **** 8.8 Liturgy of Death :P2024_12:
+*** TBR vol.9 The Dalek Eternity
+**** 9.1 The Lonely Bomb :P2025_09:
+**** 9.2 Satrap :P2025_09:
 ** Treasury :P2018:🗣:plot_yes:
 *** [#B] The Evacuation of Bernice Summerfield Considered as a Short Film by Terry Gilliam
 *** [#A] And Then Again :7th_Dr:
@@ -2498,9 +2542,6 @@ rating 8.7/8.3
 *** [#C] 8.3 - The Power of River Song - Part 1 (7.7)
 *** [#D] 8.4 - The Power of River Song - Part 2 (7.2)
 *** Narcissus (Eighth of March #4)
-
-***+TBLFM: $1='(cond ((>= $3 8.5) "[#A]") ((>= $3 8.0) "[#B]") ((>= $3 7.5) "[#C]") ((>= $2 7.0) "[#D]") (t "[#E]"));N
-
 ** 📂Nemesis 1: Between Two Worlds :plot_yes:P2021_11:
 *** 3QTR [#B] 1.1 The Enemy Beyond :The_Eleven:dw2025_q1b_spinoffs:
     CLOSED: <2025-03-21 Fri 09:02> SCHEDULED: <2025-03-23 Sun>
@@ -2550,8 +2591,8 @@ Synopsis:  http://www.drwhoguide.com/kaldor01.htm
 
 http://www.drwhoguide.com/kaldor03.htm
 
-*** KC4. Taren Capel
-*** KC5. Checkmate
+*** KC4. Taren Capel :Uvanov:
+*** KC5. Checkmate :Uvanov:
 *** KC6. Storm Mine
 ** The Robots (Big Finish, 2019-)
 *** The Robots vol.1 :P2019_12:
@@ -2593,7 +2634,7 @@ http://www.drwhoguide.com/kaldor03.htm
      :END:
 
 *** The Robots vol.3 :P2020_12:plot_no:
-**** HALF [#D] 3.1 - The Mystery of Sector 13 :DW2024_Q3a_spinoffs:
+**** HALF [#D] 3.1 - The Mystery of Sector 13 :DW2024_Q3a_spinoffs:Uvanov:
      SCHEDULED: <2024-06-21 Fri 09:27>
      :PROPERTIES:
      :rating:   7.0
@@ -2617,24 +2658,24 @@ http://www.drwhoguide.com/kaldor03.htm
      :rating:   8.2
      :END:
 
-**** [#C] 4.2 - Off Grid
+**** [#C] 4.2 - Off Grid :Uvanov:
      :PROPERTIES:
      :rating:   7.9
      :END:
 
-**** [#C] 4.3 - The Janus Deception
+**** [#C] 4.3 - The Janus Deception :Uvanov:
      :PROPERTIES:
      :rating:   7.8
      :END:
 
 *** The Robots vol.5 :P2022_05:
 **** [#D] 5.1 - The Enhancement
-**** [#C] 5.2 - Machines Like Us
-**** [#B] 5.3 - Kaldor Nights
+**** [#C] 5.2 - Machines Like Us :Uvanov:
+**** [#B] 5.3 - Kaldor Nights :Uvanov:
 *** The Robots: vol.6 :P2023_05:
-**** [#C] 6.1 - Force of Nature
+**** [#C] 6.1 - Force of Nature :Uvanov:
 **** [#B] 6.2 - Face to Face
-**** [#D] 6.3 - The Final Hour
+**** [#D] 6.3 - The Final Hour :Uvanov:
 * The Paternoster Gang :TPG:Vastra:Jenny_Flint:Strax:
 ** audio :🎧:
 *** PG: Heritage 1 :P2019:
@@ -2795,15 +2836,38 @@ http://www.drwhoguide.com/kaldor03.htm
     :END:
 
 ** CM series 4 :P2015:
-*** [#D] 4.1 - New Horizons (7.3) :dw2025_q3b_spinoffs:
-    SCHEDULED: <2025-08-31 Sun>
+*** [#D] 4.1 - New Horizons :dw2025_q3b_spinoffs:
+    SCHEDULED: <2025-09-07 Sun>
+    :PROPERTIES:
+    :rating:   7.3
+    :END:
 
-*** [#C] 4.2 - The Keep (7.9)
-*** [#C] 4.3 - Rise and Shine (7.7)
-*** [#A] 4.4 - Clean Sweep (8.5)
+*** [#B] 4.2 - The Keep
+    :PROPERTIES:
+    :rating:   7.9
+    :END:
+
+*** [#C] 4.3 - Rise and Shine
+    :PROPERTIES:
+    :rating:   7.7
+    :END:
+
+*** [#A] 4.4 - Clean Sweep
+    :PROPERTIES:
+    :rating:   8.5
+    :END:
+
 ** special: Who Killed Toby Kinsella? :P2016:
-*** [#A] NCM0.1 - Who Killed Toby Kinsella? (8.5)
-*** [#B] NCM0.2 - The Dead Don't Rise (8.4)
+*** [#A] NCM0.1 - Who Killed Toby Kinsella?
+    :PROPERTIES:
+    :rating:   8.5
+    :END:
+
+*** [#B] NCM0.2 - The Dead Don't Rise
+    :PROPERTIES:
+    :rating:   8.4
+    :END:
+
 ** The New Counter-Measures: Series 1 :P2016:
 *** [#D] TNCM 1.1 - Nothing to See Here (7.1)
 *** [#D] TNCM 1.2 - Troubled Waters (7.3)

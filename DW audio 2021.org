@@ -567,7 +567,7 @@
  - part4 (01:29:15)
  - <last play position> (01:34:18)
 
-**** DONE [#C] Dark Eyes 3.4 Rule of the Eminence :Master_bald:
+**** DONE [#C] Dark Eyes 3.4 Rule of the Eminence :Master_reborn:
 
  - <second to last play position> (00:25:17)
  - <last play position> (00:40:26)
@@ -702,7 +702,7 @@
  - <last play position> (00:51:09)
 
 *** DW 2021-10-master
-**** DONE [#B] 8DDE4.3 Master of the Daleks :Master_bald:8th_Dr:Liv:
+**** DONE [#B] 8DDE4.3 Master of the Daleks :Master_reborn:8th_Dr:Liv:
 
  - <second to last play position> (00:35:23)
  - <last play position> (00:35:31)
@@ -992,7 +992,7 @@
  - <last play position> (00:27:32)
  - <second to last play position> (00:27:37)
 
-**** HALF [#A] BF213 - The Two Masters :7th_Dr:Master:Master_bald:
+**** HALF [#A] BF213 - The Two Masters :7th_Dr:Master:Master_reborn:
 
  - part2 (00:29:10)
  - part3 (01:04:58)
@@ -1491,7 +1491,7 @@
 *** 3QTR [#B] CC11.4 - The Plague of Dreams :Polly:Ben:
 *** [#C] 3DA1.2 - The Havoc of Empires :3rd_Dr:Jo:Yates:plot_yes:2cd:
 *** HALF [#B] 5DWS1.1 - The Garden of Storms :5th_Dr:Leela:Zara:Abby:
-*** HALF [#B] UNIT: Dominion p1-2 :7th_Dr:Klein:UNIT:Master_bald:Ace:2cd:
+*** HALF [#B] UNIT: Dominion p1-2 :7th_Dr:Klein:UNIT:Master_reborn:Ace:2cd:
 *** 3QTR [#D] 9DC1.3 - The Other Side :9th_Dr:
 *** HALF [#A] 11DC3.1 - The Inheritance :11th_Dr:
 ** dw2023-05-spinoffs
@@ -1661,7 +1661,7 @@
 *** HALF [#C] EA1.1 - Domain of the Voord :1st_Dr:Susan:Ian:Barbara:2CD:
 *** 3QTR [#B] ST12.2 AWOL :3rd_Dr:Brigadier:
 *** HALF [#B] MR161 The Butcher of Brisbane :5th_Dr:Nyssa:Tegan:Toulough:2CD:
-*** HALF [#B] UNIT: Dominion #3 :7th_Dr:Klein:Master_bald:UNIT:
+*** HALF [#B] UNIT: Dominion #3 :7th_Dr:Klein:Master_reborn:UNIT:
 *** 3QTR [#D] 9DA8.1 The Colour of Terror :9th_Dr:
 *** [#B] 11DC4.1 All of Time and Space :11th_Dr:bilibili:
 ** dw2024-q2a-spinoffs
@@ -1804,7 +1804,7 @@
     SCHEDULED: <2025-02-01 Sat>
 
 *** 3QTR [#B] MR104 The Bride of Peladon :5th_Dr:Peri:Erimem:2CD:
-*** HALF [#B] UNIT: Dominion #4 :7th_Dr:Raine:Klein:Master_bald:
+*** HALF [#B] UNIT: Dominion #4 :7th_Dr:Raine:Klein:Master_reborn:
 *** 3QTR [#B] 9DA3.2.1 Below There :9th_Dr:bilibili:
 *** 3QTR [#A] 11DC 4.4 Broken Hearts :11th_Dr:Valarie:
 ** dw2025-q1a-spinoffs
@@ -1814,7 +1814,7 @@
 
 *** [#D] UNIT2.4 Ice Station Alpha
 *** HALF [#D] PG4.3 - Rulers of Earth
-*** 3QTR [#B] DoRS4.3 - Whodunnit?
+*** 3QTR [#B] DoRS4.3 - Whodunnit? :River:
 *** HALF [#A] Rose2.3 The Rogue Planet :Rose:
 ** 2025-q1a-extra
 *** SHFA1.2 The Star of the Adelphi
@@ -1832,11 +1832,13 @@
 *** HALF [#B] ST8.8 - Flight into Hull! :Jackie:plot_no:
 *** HALF [#B] WDB4.1 The Mission :War_Dr:Time_War:
 ** dw2025-q1b-spinoffs
-*** 3QTR [#A] TW Soho #2: Ashenden (4~6) :Norton:Andy:Lizbeth:P2021:plot_yes:dw2025_q1b_spinoffs:
+*** 3QTR [#A] TW Soho - Ashenden (p4-6): :Norton:Andy:Lizbeth:P2021:plot_yes:dw2025_q1b_spinoffs:
+
+Ashenden (4~6)
     CLOSED: [2025-03-16 Sun 20:55] SCHEDULED: <2025-03-16 Sun>
 
-*** 3QTR [#B] UNEM1.1 The Enemy Beyond :The_Eleven:
-*** HALF [#C] CM3.2 - The Concrete Cage
+*** 3QTR [#B] UNEM1.1 The Enemy Beyond :UNIT_new:The_Eleven:
+*** HALF [#C] CM3.2 - The Concrete Cage :ICMG:
 *** HALF [#C] JL9.3 - Island of Death
 *** 3QTR [#A] WM8.3 The Adventure of the Deceased Doctor :Master_war:Holmes:bilibili:
 *** HALF [#C] FP2.1 Coming to Dust :Sutekh:Faction_Paradox:
@@ -1854,7 +1856,7 @@
 ** dw2025-q2a-spinoffs
 *** 3QTR [#A] TW7.7 Cuckoo :Bilis_Manger:Ianto:
 *** DONE [#C] Jack1.4 Month 25 :Jack:
-*** HALF [#C] UNEM1.2 Fire and Ice :UNIT:Ice_Warriors:Harry:Naomi:
+*** HALF [#C] UNEM1.2 Fire and Ice :UNIT_new:Ice_Warriors:Harry:Naomi:
 *** HALF [#D] PGT1.2 Symmetry of Death
 *** HALF [#E] Master! 3.1 Basilisk :Master_bruce:bilibili:
 *** HALF [#B] Gallifrey 6.3 - Ascension

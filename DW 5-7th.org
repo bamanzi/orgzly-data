@@ -495,11 +495,28 @@ https://b23.tv/BV14x4y1Z79k
 ***** Hooklight 1 :P2025_04:3CD:
 ***** Hooklight 2 :P2025_05:3CD:
 *** with Zara & Abby
-**** [#E] 117. The Judgement of Isskar :Zara:Abby:Ice_Warriors:
-**** [#D] 118. The Destroyer of Delights :Zara:Abby:
+**** READY [#E] 117. The Judgement of Isskar :Zara:Abby:Ice_Warriors:bilibili:
+
+【【神秘博士广播剧熟肉】MR 117 The Judgement of Isskar 再寻时间的钥匙（1）-Isskar的审判-哔哩哔哩】 https://b23.tv/BV14ieUzQEzZ
+
+在一颗星球上时间暂停，博士遇到了一个岁数只有几分钟的女孩。她是一位追踪者，送入我们的宇宙，定位时间的钥匙碎片。这个生物没有名字，但是希望博士成为她的助手，但是她不想告诉他全部真相。不是一开始。
+
+第一个地方是火星，那里曾经是冰雪战士美好、和平的家园。但是博士的到来改变了一切，宇宙濒临死亡，需要做出选择。还有Isskar的审判宣布了，必须要付出的代价，哪怕需要几个世纪。
+
+**** READY [#D] 118. The Destroyer of Delights :Zara:Abby:bilibili:
 :PROPERTIES:
 :rating:   7.0
 :END:
+
+【[AI精校字幕][神秘博士广播剧]MR 118 The Key 2 Time - The Destroyer of Delights-哔哩哔哩】 https://b23.tv/BV1A3hRzpEYZ
+
+
+https://www.bigfinish.com/releases/v/doctor-who-the-key-2-time-the-destroyer-of-delights-284
+
+“你总是找错地方。我一直在找，但找不到。”
+寻找时间的关键已经停滞：下一个片段似乎不存在于宇宙的任何地方。被迫与他最大的敌人之一暂时结盟，博士提出了一个行动方案，这是对混乱本身的验证
+
+博士和艾米被随机抛向时空，抵达9世纪的苏丹，贪婪的卡西姆勋爵正在那里从哈里发使者那里囤积黄金。但为什么卡西姆看起来如此熟悉？住在沙漠里的神秘精灵是什么？为什么它需要这么多宝藏？
 
 **** [#F] 119. The Chaos Pool :Zara:Abby:
 **** Wicked Sisters :1CD:P2020:Leela:Zara:Abby:
@@ -876,10 +893,20 @@ SCHEDULED: <2023-11-01 Wed>
 :rating:   8.1
 :END:
 
-****** CANCEL [#F] LS1.4 - The Hollows of Time
+****** CANCEL [#F] LS1.4 - The Hollows of Time :bilibili:
 :PROPERTIES:
 :rating:   5.8
 :END:
+
+【【神秘博士广播剧熟肉】The Lost Stories 104 The Hollows of Time-时间空洞-哔哩哔哩】 https://b23.tv/BV1z5t1zmEHi
+
+博士和Peri在度假，探望住在英国村庄Hollowdean的老朋友Foxwell牧师，但是为什么记忆会这么乱？
+
+他们回忆起了一个奇怪的司机，但是似乎他的身份没有这么简单，还有Foxwell的实验可以改变现实本质，大量的沙生物出现了，这里的人为一个名为“Stream 教授的人工作”
+
+但是谁是Stream教授，在时间空洞之中究竟有什么？
+
+博士发现不是每个问题都去有确切的答案。
 
 ****** [#B] LS1.5 - Paradise 5
 :PROPERTIES:
@@ -1089,11 +1116,13 @@ SCHEDULED: <2022-12-24 Sat 22:41>
 :rating:   7.1
 :END:
 
-**** 3QTR [#C] 212. Vampire of the Mind :Master_bald:D2021_11_master:plot_no:
+**** 3QTR [#C] 212. Vampire of the Mind :Master_bald:D2021_11_master:plot_no:bilibili:
 CLOSED: <2021-11-26 Fri 14:14> SCHEDULED: <2021-11-20 Sat>
 :PROPERTIES:
 :rating:   7.5
 :END:
+
+【【神秘博士广播剧汉化】法师三部曲之二 Vampire of the Mind 思维吸血鬼-哔哩哔哩】 https://b23.tv/BV1LS4y1K74U
 
 **** [#C] 239. Iron Bright
 :PROPERTIES:
@@ -1283,8 +1312,8 @@ https://tardis.fandom.com/wiki/Seventh_Doctor_audio_stories
 |   | 164. Gods and Monsters         | 8.4 | 7th | 2012 | Ace, Hex, Sally, Lysandra, Fenric, the Forge | Mike Maddox and Alan Barnes          |
 |   | 213. The Two Masters           | 8.8 | 7th | 2016 | The Old Master, The New Master               | John Dorney                          |
 
-*** with Ace :Ace:scripted:2CD:
-**** MR
+*** with Ace :Ace:
+**** MR :scripted:2CD:
 ***** [#B] 5. Fearmonger :Ace:plot_yes:
 :PROPERTIES:
 :rating:   8.0
@@ -1339,7 +1368,7 @@ CLOSED: <2021-08-11 Wed 17:21>
 :rating:   7.5
 :END:
 
-**** [#D] LS2.3 - Thin Ice :Ace:P2011:bilibili:
+**** READY [#D] LS2.3 - Thin Ice :Ace:P2011:bilibili:Cold_War:
 
 【【7th广播剧熟肉】The Lost Stories 2.3. Thin Ice 薄冰-哔哩哔哩】 https://b23.tv/BV1kS8GzaE96
 
@@ -1675,7 +1704,24 @@ SCHEDULED: <2024-03-16 Sat>
 ***** HALF [#B] UNIT - Dominion p4 :dw2025_q1a_doctor:
 SCHEDULED: <2025-01-25 Sat>
 
-**** [#E] LS2.4 - Crime of the Century :Raine:plot_yes:
+**** READY [#E] LS2.4 - Crime of the Century :Raine:plot_yes:bilibili:
+
+【【7th广播剧熟肉】The Lost Stories 2.4. Crime of the Century 世纪犯罪-哔哩哔哩】 https://b23.tv/BV1NxYCzcE7A
+
+1989年。伦敦，开锁专家Raine Creevy潜入一座豪宅 ——却发现比传家宝更惊人的东西。
+中东，Sayf Udeen王子的王国正遭受苏联侵略者与外星怪物的双重威胁。
+苏格兰边境，重兵把守的设施里藏着外星高科技武器。
+这一切都是博士宏伟计划的一部分。但再完美的计划也可能失控……
+--------
+203和204(其实还有205)是连贯的，可以一起食用
+203见BV1kS8GzaE96
+--------
+本集作者是Andrew Cartmel，七任时期的剧本编辑，他大概是最了解7和Ace的人之一了。他和其他编剧们为7规划的剧情路线被粉丝们称为Cartmel总计划，比如在他的设想中博士是三位时间领主创世神之一的the other。当然这最终因为停播而没有呈现在荧幕上。总之老版真的停播得很不是时候......
+Raine就是当时计划中Ace下车后的新同伴。不过现在就是这三个小人一起搞事情了（笑
+--------
+最后半小时是下集预告＋采访 没有翻
+欢迎老师们捉虫orz
+
 **** [#D] LS2.5 Animal :Raine:plot_yes:
 **** [#D] LS2.6 Earth Aid :Raine:plot_yes:
 *** 7DA :7DA:
@@ -1692,7 +1738,7 @@ CLOSED: [2024-06-29 Sat 19:45] SCHEDULED: <2024-06-05 Wed 09:27>
 **** 📂2022B Sullivan and Cross - AWOL :Harry:Naomi:P2022_11:
 ***** CANCEL [#E] 22B.1 London Orbital
 ***** CANCEL [#F] 22B.2 Scream of the Daleks :Daleks:
-**** 📂2023A Far From Home :P2023_06:Harry:Naomi:
+**** 📂2023A Far From Home :P2023_06:Harry:Naomi:1CD:
 ***** [#B] 23A.1 Operation Dusk
 ***** [#D] 23A.2 Naomi's Ark
 **** 📂2024B The Doctor and Carnacki :P2024_11:Carnacki:
