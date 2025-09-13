@@ -934,7 +934,8 @@ https://onfleakproductions.bandcamp.com/album/doctor-who-servants-of-eve
 https://archive.org/details/on-fleak-productions-doctor-who-servants-of-eve-02-servants-of-eve
 
 ** short stories
-*** TODO Save Yourself :Season6B:CIA:
+*** DONE Save Yourself :Season6B:CIA:
+CLOSED: [2025-07-25 Fri 06:33]
 
 The Target Storybook #3
 
@@ -1922,9 +1923,9 @@ CLOSED: <2023-02-10 Fri 14:02> SCHEDULED: <2023-02-06 Mon 08:42>
 ***** HALF [#D] 11.5 Peake Season :1CD:DW2024_Q2b_doctor:
 SCHEDULED: <2024-05-11 Sat>
 
-**** 📂4DA series 13 :Harry:Naomi:
-***** [#D] 13.1 The Storm of the Sea Devils :P2024_03:2CD:dw2025_q3b_doctor:
-SCHEDULED: <2025-08-30 Sat>
+**** 📂4DA series 13 :Harry:Naomi:plot_yes:
+***** HALF [#D] 13.1 The Storm of the Sea Devils :P2024_03:2CD:UNIT:dw2025_q3b_doctor:
+SCHEDULED: <2025-09-13 Sat>
 
 ***** [#D] 13.2 Worlds Beyond :P2024_03:1CD:
 ***** [#E] 13.3 Matryoshka :ToyMaker:P2024_06:1CD:

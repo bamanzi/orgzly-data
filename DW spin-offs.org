@@ -881,7 +881,8 @@ https://tardis.fandom.com/wiki/Parasite_(audio_story)
 ***** part 3-6 :DW2023_04_spinoffs:
       CLOSED: [2023-04-21 Fri 09:00] DEADLINE: <2023-04-23 Sun>
 
-**** [#B] TW Soho #2: Ashenden :Norton:Andy:Lizbeth:P2021:plot_yes:
+**** 3QTR [#B] TW Soho #2: Ashenden :Norton:Andy:Lizbeth:P2021:plot_yes:
+     CLOSED: [2025-03-16 Sun 20:55] SCHEDULED: <2025-03-16 Sun>
 
 - 2.1. Pimlico
 - 2.2. O Little Town Of Ashenden
@@ -1855,8 +1856,8 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
 **** HALF [#D] 2.2 - The Vaults of Osiris :Benny:Ace:dw2025_q2a_spinoffs:
      SCHEDULED: <2025-05-04 Sun>
 
-**** HALF [#B] 2.3 - The Eye of Horus :7th_Dr:dw2025_q3a_doctor:
-     SCHEDULED: <2025-08-02 Sat>
+**** 3QTR [#B] 2.3 - The Eye of Horus :7th_Dr:dw2025_q3a_doctor:
+     CLOSED: <2025-08-12 Tue 23:02> SCHEDULED: <2025-08-02 Sat>
 
 **** [#C] 2.4 - The Tears of Isis :7th_Dr:Ace:dw2025_q3b_spinoffs:
      SCHEDULED: <2025-09-28 Sun>
@@ -2558,8 +2559,8 @@ rating 8.7/8.3
     :rating:   7.4
     :END:
 
-*** HALF [#B] 1.4 The Curator's Gambit :The_Eleven:The_Curator:dw2025_q3a_spinoffs:
-    SCHEDULED: <2025-08-03 Sun>
+*** DONE [#B] 1.4 The Curator's Gambit :The_Eleven:The_Curator:dw2025_q3a_spinoffs:
+    CLOSED: [2025-08-24 Sun 11:20] SCHEDULED: <2025-08-23 Sat>
 
 ** 📂Nemesis 2: Agents of the Vulpreen :P2022_03:
 *** [#B] 2.1 The Man From Gallifrey
@@ -2646,8 +2647,8 @@ http://www.drwhoguide.com/kaldor03.htm
      :rating:   8.3
      :END:
 
-**** HALF [#C] 3.3 - A Matter of Conscience :dw2025_q3a_spinoffs:
-     SCHEDULED: <2025-07-13 Sun>
+**** 3QTR [#C] 3.3 - A Matter of Conscience :dw2025_q3a_spinoffs:Uvanov:
+     CLOSED: [2025-08-12 Tue 11:05] SCHEDULED: <2025-07-13 Sun>
      :PROPERTIES:
      :rating:   7.8
      :END:
@@ -2754,8 +2755,8 @@ http://www.drwhoguide.com/kaldor03.htm
 **** HALF [#E] 1.2 Symmetry of Death :dw2025_q2a_spinoffs:
      SCHEDULED: <2025-04-13 Sun>
 
-**** HALF [#A] 1.3 Till Death Us Do Part :8th_Dr:dw2025_q3a_spinoffs:
-     SCHEDULED: <2025-07-20 Sun>
+**** 3QTR [#A] 1.3 Till Death Us Do Part :8th_Dr:dw2025_q3a_spinoffs:
+     CLOSED: <2025-07-16 Wed 21:50> SCHEDULED: <2025-07-20 Sun>
 
 *** 📂PG: Trespassers 2 - The Casebook of Paternoster Row :P2024_04:
 **** [#E] 2.1 Anne of a Thousand Light Years :4th_Dr:
@@ -3251,7 +3252,7 @@ From Donna's perspective, the anthology is set after /Forest of the Dead/.
      CLOSED: [2022-09-27 Tue 21:06] SCHEDULED: <2022-09-18 Sun>
 
 *** vol.2 :P2022_03:
-**** FIXME [#C] 2.1 The Once and Future Nurse :dw2025_q2a_spinoffs:
+**** HALF [#C] 2.1 The Once and Future Nurse :dw2025_q3a_spinoffs:
      SCHEDULED: <2025-05-11 Sun>
      :PROPERTIES:
      :rating:   7.9

@@ -713,14 +713,14 @@ SCHEDULED: <2024-07-27 Sat>
 【【神秘博士广播剧熟肉】Dalek Universe 301 The First Son 第一子-哔哩哔哩】 https://b23.tv/BV1XZ4y147oB
 
 ***** 3QTR [#C] DU3.2 - The Dalek Defense :Davros:bilibili:dw2025_q2b_doctor:
-CLOSED: [2025-06-17 Tue 20:26] SCHEDULED: <2025-06-07 Sat>
+CLOSED: <2025-08-30 Sat 08:07> SCHEDULED: <2025-06-07 Sat>
 :PROPERTIES:
 :rating:   7.9
 :END:
 
 【【神秘博士广播剧熟肉】Dalek Universe 302 The Dalek Defence 戴立克防线-哔哩哔哩】 https://b23.tv/BV1jL4y1T7Ny
 
-***** READY [#B] DU3.3 - The Triumph of Davros :bilibili:dw2025_q3b_doctor:
+***** HALF [#B] DU3.3 - The Triumph of Davros :bilibili:dw2025_q3b_doctor:
 SCHEDULED: <2025-08-30 Sat>
 :PROPERTIES:
 :rating:   8.3

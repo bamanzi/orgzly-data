@@ -401,8 +401,8 @@ https://tardis.wiki/wiki/Saxon_Master
 ***** HALF [#D] 2.3 - Treason and Plot :plot_cast:
 ***** HALF [#B] 2.4 - Too Many Masters :Monk:plot_no:
 **** 📂Missy and the Monk :P2021:
-***** [#D] 3.1 Body and Soulless :dw2025_q3b_spinoffs:
-      SCHEDULED: <2025-09-14 Sun>
+***** HALF [#D] 3.1 Body and Soulless :dw2025_q3b_spinoffs:plot_cast:
+      SCHEDULED: <2025-08-24 Sun>
 
 ***** [#E] 3.2 War Seed
 ***** [#D] 3.3 Two Monks, One Mistress

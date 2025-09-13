@@ -1736,13 +1736,13 @@
     :rating:   8.7
     :END:
 
-*** [#B] Out of Time #3 Wink :10th_Dr:6th_Dr:Weeping_Angels:P2022_06:bilibili:
+*** HALF [#B] Out of Time #3 Wink :10th_Dr:6th_Dr:Weeping_Angels:P2022_06:bilibili:
     :PROPERTIES:
     :rating:   8.0
     :END:
 
-*** [#B] ST11.4 Death Will Not Part Us 🗣 :8th_Dr:War_Dr:9th_Dr:time_war:
-*** [#C] 12DC1.4 Field Trip 🗣 :12th_Dr:Osgood:plot_yes:
+*** HALF [#B] ST11.4 Death Will Not Part Us 🗣 :8th_Dr:War_Dr:9th_Dr:time_war:
+*** HALF [#C] 12DC1.4 Field Trip 🗣 :12th_Dr:Osgood:plot_yes:
 ** dw2024-q3c-spinoffs
 *** DONE [#A] TW special 3: Believe (part1-2) :P2018:plot_yes:
     :PROPERTIES:
@@ -1866,21 +1866,20 @@ Ashenden (4~6)
 *** 3QTR [#C] EA4.2 The Outliers :2nd_Dr:Jamie:Polly:Ben:plot_yes:
 *** DONE [#C] 4DA12.3 The Wizard of Time :4th_Dr:Leela:Margaret:
 *** 2DONE [#C] 6DnP1.1 - The Headless Ones :6th_Dr:Peri:
-*** HALF [#C] 8DTW5.1 Meanwhile, Elsewhere :8th_Dr:Cass:Time_War:
+*** 3QTR [#C] 8DTW5.1 Meanwhile, Elsewhere :8th_Dr:Cass:Time_War:
 *** HALF [#C] 8DTW5.2 Vespertine :8th_Dr:Cass:Time_War:
 *** HALF [#C] DU3.2 The Dalek Defense :10th_Dr:Anya:Mark_7:Davros:bilibili:
 *** 2DONE [#B] 12DC3.1 Sunstrike :12th_Dr:
 ** dw2025-q2b-spinoffs
 *** DONE [#A] TW7.8 Pariahs :Yvonne:Colchester:Ng:Tyler:Orr:
-*** HALF [#C] UNEM1.3 Eleven's Eleven :The_Eleven:
-*** 2DONE [#C] CM3.3 The Forgotten Village
+*** HALF [#C] UNEM1.3 Eleven's Eleven :UNIT_new:The_Eleven:
+*** 2DONE [#C] CM3.3 The Forgotten Village :ICMG:
 *** DONE [#D] JL9.4 Return of the Nightmare
-*** HALF [#A] DoRS7.3 Barrister to the Stars
+*** HALF [#A] DoRS7.3 Barrister to the Stars :River:
 *** 2DONE [#A] WM9.1 The Walls of Absence :Master_War:bilibili:
 *** HALF [#B] FP2.2 The Ship of a Billion Years :P2006:Sutekh:Faction_Paradox:Justine:Eliza:
 ** dw2025-q2b-pending
 *** Fleeting Faces #2: Under Control :P2024_09:14th_Dr:
-*** [#C] Rory2.1 The Once and Future Nurse
 ** dw2025-q3a-doctor
 
 | 083 | MR174 Prisoners of Fate | 5th | Nyssa,Tegan,Toulough |
@@ -1897,14 +1896,15 @@ Ashenden (4~6)
 ** dw2025-q3a-spinoffs
 *** 3QTR [#A] TW49. Gooseberry :Owen:Andy:
 *** HALF [#A] TW63. Restricted Items Archive Entries 031–049 :Ianto:bilibili:
-*** HALF [#B] UNEM1.4 The Curator's Gambit :UNIT_new:The_Eleven:The_Curator:
-*** HALF [#A] PGT1.3 Till Death Us Do Part :8th_Dr:
-*** [#A] WM9.2 The Long Despair :bilibili:
-*** HALF [#B] ROB3.3 A Matter of Conscience
+*** DONE [#B] UNEM1.4 The Curator's Gambit :UNIT_new:The_Eleven:The_Curator:
+*** 3QTR [#A] PGT1.3 Till Death Us Do Part :8th_Dr:
+*** HALF [#A] WM9.2 The Long Despair :bilibili:
+*** 3QTR [#B] ROB3.3 A Matter of Conscience
+*** HALF [#C] Rory2.1 The Once and Future Nurse
 ** dw2025-q3b-doctor
 *** [#D] CC12.3 The Iron Maid :Zoe:Jamie:
 *** FIXME [#D] 4DA13.1 The Storm of the Sea Devils :P2024_03:2CD:Harry:Naomi:
-*** [#C] MR157. The Fourth Wall :6th_Dr:Flip:
+*** [#C] MR157. The Fourth Wall :6th_Dr:Flip:2CD:
 *** READY [#D] 8DA2023.1 The Devouring :Audacity:bilibili:
 *** READY [#B] DU3.3 The Triumph of Davros :bilibili:10th_Dr:Anya:Mark_7:Davros:
 *** [#B] 12DC3.2 Never the End Is :12th_Dr:Keira:

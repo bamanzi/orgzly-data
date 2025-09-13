@@ -1,4 +1,4 @@
-* Sherlock Holmes
+* Sherlock Holmes :Holmes:
 ** books
 
 https://breezewiki.com/bakerstreet/wiki/List_of_Sherlock_Holmes_Short_Stories_and_Novels
@@ -141,6 +141,7 @@ https://audiobookbay.is/abss/bbc-sherlock-holmes-the-complete-series-as-audio-dr
 
 cover arts: https://m.vk.com/pages?oid=-141525352&p=The_Adventures_of_Sherlock_Holmes_%28Clive_Merrison%29
 
+***** 1.5 The Five Orange Pips
 **** 📂The Memoirs of Sherlock Holmes
 
 cover arts: https://m.vk.com/pages?oid=-141525352&p=The_Memoirs_of_Sherlock_Holmes_%28Clive_Merrison%29
@@ -381,8 +382,17 @@ CLOSED: [2024-10-02 Wed 14:38]
 ***** DONE 1x03 The Great Game :Moriarty:
 CLOSED: [2024-10-27 Sun 15:52]
 
-**** TODO S2 :P2012:Moriarty:
-*** Elementary (2012-2019)
+**** TODO S2 :P2012:
+***** DONE 2x01 A Scandal in Belgravia
+CLOSED: [2025-08-31 Sun 11:29] SCHEDULED: <2025-08-31 Sun>
+
+***** TODO 2x02 The Hounds of Baskerville :Moriarty:
+SCHEDULED: <2025-09-14 Sun>
+
+***** TODO 2x03 The Reichenbach Fall
+SCHEDULED: <2025-09-28 Sun>
+
+*** Elementary 基本演绎法 (2012-2019)
 **** DONE S1
 ***** 1x20 M :Moriarty:
 ***** 1x21 A Landmark Story :Moriarty:
@@ -610,7 +620,28 @@ CLOSED: [2025-08-16 Sat 16:14]
 ***** DONE 6x02
 CLOSED: [2025-08-17 Sun 10:51]
 
-***** 6x03
+***** DONE 6x03
+CLOSED: [2025-08-23 Sat 16:50] SCHEDULED: <2025-08-31 Sun>
+
+***** DONE 6x04
+CLOSED: [2025-08-29 Fri 21:38] SCHEDULED: <2025-08-31 Sun>
+
+***** DONE 6x05
+CLOSED: [2025-09-08 Mon 23:06] SCHEDULED: <2025-09-07 Sun>
+
+***** DONE 6x06
+CLOSED: [2025-09-13 Sat 22:46] SCHEDULED: <2025-09-07 Sun>
+
+***** TODO 6x07
+SCHEDULED: <2025-09-14 Sun>
+
+***** TODO 6x08
+SCHEDULED: <2025-09-14 Sun>
+
+***** TODO 6x09
+***** TODO 6x10
+***** TODO 6x11
+***** TODO 6x12
 **** S7 :P2019:
 
 13 episodes
@@ -678,7 +709,8 @@ https://www.arthur-conan-doyle.com/index.php/Sherlock_Holmes:_Moriarty_Lives
 :douban:   9.0
 :END:
 
-**** TODO [#A] 罗杰疑案 [A⁺] :已购:
+**** DONE [#A] 罗杰疑案 [A⁺] :已购:
+CLOSED: [2025-09-03 Wed 23:02]
 :PROPERTIES:
 :goodreads: 4.27
 :douban:   9.2
@@ -735,6 +767,15 @@ tv 2x01
 :douban:   6.4
 :END:
 
+**** [#C] 📂Poirot's Early Cases 蒙面女人 :anthology:
+:PROPERTIES:
+:goodreads: 3.90
+:douban:   7.1
+:END:
+
+
+18部短篇：舞会谜案、克拉珀姆厨师奇遇记、康沃尔谜案、约翰尼·韦弗利历险记、双重线索、梅花K之谜、勒梅热勒遗产、失去的矿井、普利茅斯快车上的谋杀案、巧克力盒谜案、潜艇图纸、第三层套间中的疑案、双重罪恶、贝辛市场奇案、蜂窝谜案、蒙面女人、海上谜案、花园疑案
+
 **** [#B] Murder in Mesopotamia 古墓之谜
 :PROPERTIES:
 :goodreads: 3.93
@@ -747,7 +788,7 @@ tv 2x01
 :douban:   9.1
 :END:
 
-*** 大侦探波罗 Agatha Christie's Poirot :📺:
+*** tv: Agatha Christie's Poirot 大侦探波罗 :📺:
 
 https://breezewiki.com/agathachristie/wiki/List_of_Agatha_Christie's_Poirot_episodes
 
@@ -814,9 +855,27 @@ CLOSED: [2024-09-27 Fri 20:20]
 CLOSED: [2024-10-02 Wed 17:55]
 
 **** series 3 :P1991:
-***** 3x01 The Mysterious Affair at Styles 斯泰尔斯庄园奇案
+***** TODO [#B] 3x01 The Mysterious Affair at Styles 斯泰尔斯庄园奇案
+:PROPERTIES:
+:imdb:     7.9
+:END:
 
 《斯泰尔斯庄园奇案》是1990年9月ITV为了纪念阿婆诞辰100周年推出的特别篇，改编自阿婆的第一部长篇小说，也是时间顺序上波洛的第一案，适宜作为全剧首集观看。
+
+***** DONE [#C] 3x02 How Does Your Garden Grow?
+CLOSED: [2025-08-23 Sat 20:47]
+
+***** DONE [#C] 3x03 The Million Dollar Bond Robbery
+CLOSED: [2025-09-12 Fri 08:31] SCHEDULED: <2025-08-28 Thu>
+
+***** TODO [#C] 3x04 The Plymouth Express
+SCHEDULED: <2025-09-02 Tue>
+
+***** TODO [#C] 3x05 Wasps' Nest
+SCHEDULED: <2025-09-07 Sun>
+
+***** TODO 3x06
+SCHEDULED: <2025-09-12 Fri>
 
 **** series 4 :P1992:
 
@@ -831,6 +890,11 @@ CLOSED: [2024-09-16 Mon 17:46]
 **** series 5 :P1993:
 
 8 episodes
+
+**** series 6 (1994-1996)
+**** series 7 :P2000:
+***** TODO [#D] 7x01 The Murder of Roger Ackroyd  罗杰疑案
+SCHEDULED: <2025-09-14 Sun>
 
 **** ...
 **** series 13 :P2013:
@@ -880,7 +944,7 @@ CLOSED: [2024-09-16 Mon 17:46]
 
 https://agathachristie.fandom.com/wiki/Miss_Marple_(BBC_television_series)
 
-*** 玛普尔小姐 Agatha Christie's Marple (ITV) :📺:
+*** tv: Agatha Christie's Marple (ITV) 玛普尔小姐 :📺:
 
 https://agathachristie.fandom.com/wiki/Agatha_Christie's_Marple
 
@@ -903,6 +967,19 @@ CLOSED: [2024-10-08 Tue 08:12]
 
 ***** DONE 2x02 The Moving Finger
 CLOSED: [2024-10-19 Sat 17:04]
+
+***** TODO 2x03
+SCHEDULED: <2025-08-31 Sun>
+
+***** TODO 2x04
+SCHEDULED: <2025-09-10 Wed>
+
+**** season 3
+***** TODO 3x01 At Bertram's Hotel :P2007:
+SCHEDULED: <2025-09-20 Sat>
+
+***** TODO 3x02 Ordeal By Innocence :P2007:
+SCHEDULED: <2025-09-30 Tue>
 
 **** Season 6 :P2013:
 ** misc
@@ -945,4 +1022,9 @@ CLOSED: [2024-02-18 Sun 15:26]
 *** DONE 红楼案/红亭子
 CLOSED: [2024-02-23 Fri 18:40]
 
+* misc
+** DONE [#B] 喜鹊谋杀案 :P2022:
+CLOSED: <2025-08-22 Fri 23:00>
+
+** 猫头鹰谋杀案 :P2024:
 * Monk 神探阿蒙
