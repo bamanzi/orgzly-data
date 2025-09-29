@@ -225,7 +225,7 @@ SCHEDULED: <2022-11-29 Tue>
 :rating:   7.8
 :END:
 
-**** [#C] ST11.X The Lichyrwick Abomination :P2021:scripted:plot_yes:
+**** NEXT [#C] ST11.X The Lichyrwick Abomination :P2021:scripted:plot_yes:dw2025_q4a_doctor:
 :PROPERTIES:
 :rating:   7.6
 :END:
@@ -1352,8 +1352,8 @@ SCHEDULED: <2022-04-30 Sat>
 **** 3QTR [#B] 3.1 Sunstrike :dw2025_q2b_doctor:
 CLOSED: [2025-06-04 Wed 20:10] SCHEDULED: <2025-05-10 Sat>
 
-**** [#B] 3.2 Never the End :dw2025_q3b_doctor:
-SCHEDULED: <2025-09-27 Sat>
+**** 3QTR [#B] 3.2 Never the End Is :Discordia:dw2025_q3b_doctor:
+CLOSED: [2025-09-28 Sun 08:47] SCHEDULED: <2025-09-27 Sat>
 
 **** [#A] 3.3 You Only Die Twice
 *** Short Trips :🗣:

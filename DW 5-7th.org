@@ -1057,8 +1057,8 @@ CLOSED: <2021-12-23 Thu 08:53>
 :rating:   7.9
 :END:
 
-**** [#C] 157. The Fourth Wall :Flip:dw2025_q3b_doctor:
-SCHEDULED: <2025-09-13 Sat>
+**** START [#C] 157. The Fourth Wall :Flip:dw2025_q3b_doctor:
+SCHEDULED: <2025-10-04 Sat>
 
 **** CANCEL [#E] 182. Antidote to Oblivion :Flip:
 **** CANCEL [#E] 183. The Brood of Erys :Flip:
@@ -1559,7 +1559,7 @@ http://www.drwhoguide.com/who_bf12.htm
 :END:
 
 ***** CANCEL [#F] 70. Unregenerate!
-***** [#D] 85. Red
+***** NEXT [#D] 85. Red :dw2025_q4a_doctor:
 :PROPERTIES:
 :rating:   7.3
 :END:
@@ -1602,7 +1602,7 @@ SCHEDULED: <2021-11-07 Sun>
 **** 3QTR [#A] 49. Master [A⁺] :P2003:Master:Death:plot_yes:D2021_09_extra:
 CLOSED: <2021-09-23 Thu 21:27> SCHEDULED: <2021-09-04 Sat>
 
-**** 2DONE [#B] 149. Robophobia (8.4) :P2011:Liv:Kaldor_androids:plot_no:D2022_03_doctor :2buy:
+**** 2DONE [#B] 149. Robophobia (8.4) :2buy:P2011:Liv:Kaldor_androids:plot_no:D2022_03_doctor:
 CLOSED: <2022-03-31 Thu 21:41> SCHEDULED: <2022-03-12 Sat>
 :PROPERTIES:
 :rating:   8.4

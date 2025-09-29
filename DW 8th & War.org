@@ -859,8 +859,8 @@ https://b23.tv/BV15a411y7o8
 ***** [#D] 3. Slot Beasts
 *** 8DA (2023- )
 **** 📂Audacity :P2023_11:plot_yes:Audacity:
-***** READY [#D] The Devouring :1CD:bilibili:dw2025_q3b_doctor:
-SCHEDULED: <2025-09-13 Sat>
+***** TODO [#D] The Devouring :1CD:bilibili:dw2025_q3b_doctor:
+SCHEDULED: <2025-10-04 Sat>
 
 【【广播剧汉化】愤怒的纠缠 Audacity 101 The Devouring-哔哩哔哩】 https://b23.tv/BV1qK411b7dy
 
@@ -1135,7 +1135,7 @@ https://b23.tv/BV1Wj411k7xV
 2. 内层故事一开始那个旅馆女老板（与 Vastra 是同一个演员）口音有点重，容易听不清（但其实她的话并不太影响剧情）；
 3. 后面的剧情其实并不多，很多时候都是法师在跟外层跟 Bartholom 在进行讨论；
 
-**** READY [#A] 9.3 - The Life and Loves of Mr Alexander Bennett :bilibili:
+**** NEXT [#A] 9.3 - The Life and Loves of Mr Alexander Bennett :bilibili:dw2025_q4a_spinoffs:
 :PROPERTIES:
 :rating:   8.7
 :END:
@@ -1437,13 +1437,13 @@ CLOSED: <2021-11-26 Fri 09:50> DEADLINE: <2021-11-26 Fri 21:54> SCHEDULED: <2021
 
 ** 8. The Doctor and Cass Fermazzi
 *** 📂8D Time War vol.5 Cass :Cass:P2023_01:plot_yes:🎧:
-**** HALF [#C] 5.1 Meanwhile, Elsewhere :bilibili:dw2025_q2b_doctor:
-SCHEDULED: <2025-06-07 Sat>
+**** 3QTR [#C] 5.1 Meanwhile, Elsewhere :bilibili:dw2025_q2b_doctor:
+CLOSED: [2025-07-19 Sat 20:11] SCHEDULED: <2025-06-07 Sat>
 
 【【广播剧汉化】并进的时间线 Cass 101 Meanwhile Elsewhere-哔哩哔哩】 
 https://b23.tv/BV1DX4y117Uw
 
-**** HALF [#C] 5.2 Vespertine :bilibili:dw2025_q2b_doctor:
+**** HALF [#D] 5.2 Vespertine :bilibili:dw2025_q2b_doctor:
 SCHEDULED: <2025-06-21 Sat>
 
 【【广播剧汉化】 沉重的遗产 Cass 102 Vespertine-哔哩哔哩】 
@@ -1591,7 +1591,7 @@ SCHEDULED: <2025-08-09 Sat>
 :rating:   8.1
 :END:
 
-**** [#B] 4.3 The Horror
+**** NEXT [#B] 4.3 The Horror :dw2025_q4a_doctor:
 :PROPERTIES:
 :rating:   8.2
 :END:

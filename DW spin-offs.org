@@ -37,7 +37,7 @@ Torchwood India
 
 【John Barrowman字幕组-火炬木广播剧中字-无人来电-哔哩哔哩】 https://b23.tv/PmtaVMU
 
-**** [#C] 5.1 The Devil and Miss Carew :Jack:Gwen:Ianto:P2011:
+**** NEXT [#C] 5.1 The Devil and Miss Carew :Jack:Gwen:Ianto:P2011:dw2025_q4a_spinoffs:
 **** CANCEL [#E] 5.2 Submission :P2011:
 **** 2DONE [#B] 5.3 The House of the Dead :Jack:Ianto:bilibili:P2011:DW2024_Q4b_spinoffs:
      CLOSED: [2024-12-05 Thu 06:35] SCHEDULED: <2024-12-01 Sun>
@@ -457,7 +457,7 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
       :rating:   8.9
       :END:
 
-***** CANCEL [#E] 60. Infidel Places :Queen:
+***** NEXT [#E] 60. Infidel Places :Queen:dw2025_q4a_spinoffs:
       :PROPERTIES:
       :rating:   6.7
       :END:
@@ -735,13 +735,13 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
 
 难度：高。人物较多（而且火炬木小组的成员全出场了），而且没有直接提前交待故事背景，需要慢慢根据对话来采集
 
-***** [#B] 7.9 How I Conquered the World :Yvonne:Orr:Colchester:dw2025_q3b_spinoffs:
-      SCHEDULED: <2025-08-31 Sun>
+***** TODO [#B] 7.9 How I Conquered the World :Yvonne:Orr:Colchester:dw2025_q3b_spinoffs:
+      SCHEDULED: <2025-10-05 Sun>
       :PROPERTIES:
       :rating:   8.8
       :END:
 
-***** [#B] 7.10 Doomscroll :Orr:Colchester:Tyler:Ng:
+***** NEXT [#B] 7.10 Doomscroll :Orr:Colchester:Tyler:Ng:dw2025_q4a_spinoffs:
 ***** [#B] 7.11 Heistland :Yvonne:Orr:Tyler:
 ***** [#C] 7.12 The Apocalypse Starts at 6 PM :Yvonne:Og:
 *** 📂The Lives of Captain Jack :🎧:Jack:1CD:
@@ -1092,7 +1092,7 @@ Roberts Master
 
 难度：较高，因为有很多法庭上的专业名词
 
-***** [#D] 7.4 Carnival of Angels :plot_yes:Weeping_Angels:
+***** NEXT [#D] 7.4 Carnival of Angels :plot_yes:Weeping_Angels:dw2025_q4a_spinoffs:
       :PROPERTIES:
       :rating:   7.0
       :END:
@@ -1308,8 +1308,8 @@ Roberts Master
     :END:
 
 ** J&L series 10 :P2015:
-*** [#C] 10.1 - The Case of the Missing Gasogene :dw2025_q3b_spinoffs:
-    SCHEDULED: <2025-09-28 Sun>
+*** DONE [#C] 10.1 - The Case of the Missing Gasogene :dw2025_q3b_spinoffs:plot_cast:
+    CLOSED: [2025-09-21 Sun 16:59] SCHEDULED: <2025-08-31 Sun>
     :PROPERTIES:
     :rating:   7.9
     :END:
@@ -1859,8 +1859,8 @@ Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor 
 **** 3QTR [#B] 2.3 - The Eye of Horus :7th_Dr:dw2025_q3a_doctor:
      CLOSED: <2025-08-12 Tue 23:02> SCHEDULED: <2025-08-02 Sat>
 
-**** [#C] 2.4 - The Tears of Isis :7th_Dr:Ace:dw2025_q3b_spinoffs:
-     SCHEDULED: <2025-09-28 Sun>
+**** 3QTR [#C] 2.4 - The Tears of Isis :7th_Dr:Ace:dw2025_q3b_spinoffs:
+     CLOSED: [2025-09-24 Wed 20:00] SCHEDULED: <2025-09-21 Sun>
 
 *** vol.3 The Unbound Universe :unbound_universe:Unbound_Dr:P2016:
 **** HALF Unbound #2: Sympathy for the Devil :bilibili:Master_unbound:
@@ -2400,7 +2400,7 @@ rating 8.7/8.3
 /Brave New World/ was a subseries of the UNIT audio series produced by Big Finish Productions. Beginning in 2022, it focused on the exploits of UNIT under the command of /Winifred Bambera/ (TV: Battlefield) along with her new team: /Sergeant Jean-Paul Savarin/ and /Dr Louise Rix/.
 
 *** 📂Seabird One :P2022_07:
-**** [#D] 1.1 Rogue State
+**** NEXT [#D] 1.1 Rogue State :dw2025_q4a_spinoffs:
 **** [#D] 1.2 Time Flies
 **** [#C] 1.3 Dark Side of the Moon
 *** 📂Visitants :P2022_12:
@@ -2760,7 +2760,7 @@ http://www.drwhoguide.com/kaldor03.htm
 
 *** 📂PG: Trespassers 2 - The Casebook of Paternoster Row :P2024_04:
 **** [#E] 2.1 Anne of a Thousand Light Years :4th_Dr:
-**** [#D] 2.2 Pater Noster
+**** NEXT [#D] 2.2 Pater Noster :dw2025_q4a_spinoffs:
 **** [#B] 2.3 The Gentleman Theives
 *** 📂PG: Trespassers 3 - No Place Like Home :P2024_12:
 **** [#E] 3.1 Doppelgängers :Zygons:
@@ -2837,7 +2837,7 @@ http://www.drwhoguide.com/kaldor03.htm
     :END:
 
 ** CM series 4 :P2015:
-*** [#D] 4.1 - New Horizons :dw2025_q3b_spinoffs:
+*** HALF [#D] 4.1 - New Horizons :dw2025_q3b_spinoffs:
     SCHEDULED: <2025-09-07 Sun>
     :PROPERTIES:
     :rating:   7.3
@@ -3258,7 +3258,7 @@ From Donna's perspective, the anthology is set after /Forest of the Dead/.
      :rating:   7.9
      :END:
 
-**** [#B] 2.2 The Glowing Warrior
+**** NEXT [#B] 2.2 The Glowing Warrior :dw2025_q4a_spinoffs:
 **** [#B] 2.3 The Last King of Camelot
 ** Redacted :BBC:
 *** Redacted :P2022_04:scripted:
@@ -3315,8 +3315,8 @@ From Donna's perspective, the anthology is set after /Forest of the Dead/.
      :rating:   7.2
      :END:
 
-**** [#B] 1.4 Narcisus :UNIT_new:dw2025_q3b_spinoffs:
-     SCHEDULED: <2025-09-14 Sun>
+**** TODO [#B] 1.4 Narcisus :UNIT_new:dw2025_q3b_spinoffs:
+     SCHEDULED: <2025-09-30 Tue>
 
 *** 📂vol.2 Protectors of Time :P2022_03:
 **** [#D] 2.1 Stolen Futures :Romana_2:K9:Biroc:

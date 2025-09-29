@@ -1847,6 +1847,9 @@ Ashenden (4~6)
     SCHEDULED: <2025-04-06 Sun>
 
 ** dw2025-q2a-doctor
+
+| 082 | MR270 Shadow of the Daleks | 5th | Daleks |
+
 *** 2DONE [#A] 1DA2.2 The Barbarians and the Samurai :1st_Dr:Susan:Ian:Barbara:2CD:
 *** 3QTR [#B] SvsR#2 The Children of the Future :3rd_Dr:Sarah:Brigadier:UNIT:
 *** HALF [#C] MR270. Shadow of the Daleks 2a/b :5th_Dr:Daleks:
@@ -1902,20 +1905,38 @@ Ashenden (4~6)
 *** 3QTR [#B] ROB3.3 A Matter of Conscience
 *** HALF [#C] Rory2.1 The Once and Future Nurse
 ** dw2025-q3b-doctor
-*** [#D] CC12.3 The Iron Maid :Zoe:Jamie:
-*** FIXME [#D] 4DA13.1 The Storm of the Sea Devils :P2024_03:2CD:Harry:Naomi:
+*** HALF [#D] CC12.3 The Iron Maid :Zoe:Jamie:
+*** HALF [#D] 4DA13.1 The Storm of the Sea Devils :P2024_03:2CD:Harry:Naomi:
 *** [#C] MR157. The Fourth Wall :6th_Dr:Flip:2CD:
 *** READY [#D] 8DA2023.1 The Devouring :Audacity:bilibili:
-*** READY [#B] DU3.3 The Triumph of Davros :bilibili:10th_Dr:Anya:Mark_7:Davros:
+*** HALF [#B] DU3.3 The Triumph of Davros :bilibili:10th_Dr:Anya:Mark_7:Davros:
 *** [#B] 12DC3.2 Never the End Is :12th_Dr:Keira:
 ** dw2025-q3b-spinoffs
 *** [#B] TW7.9 How I Conquered the World :Yvonne:Orr:Colchester:
 *** [#B] EoM1.4 Narcisus :UNIT_new:
-*** [#D] CM4.1 New Horizons :ICMG:
-*** [#C] J&L10.1 The Case of the Missing Gasogene
-*** [#C] BSNA2.4 The Tears of Isis :7th_Dr:Benny:Ace:Sutekh:
-*** [#D] Missy3.1 Body and Soulless :Master_Missy:Monk:
+*** HALF [#D] CM4.1 New Horizons :ICMG:
+*** DONE [#C] J&L10.1 The Case of the Missing Gasogene
+*** 3QTR [#C] BSNA2.4 The Tears of Isis :7th_Dr:Benny:Ace:Sutekh:
+*** HALF [#D] Missy3.1 Body and Soulless :Master_Missy:Monk:
 *** [#D] GTW4.1 Deception :Leela:
+** 2025-q3b-extra
+*** SH2.5 The Five Orange Pips
+*** SH3.11 The Final Problem :Moriarty:
+** dw2025-q4a-doctor
+*** [#B] EA 3.3 The Ravelli Conspiracy :1st_Dr:Vicki:Steven:plot_cast:
+*** [#C] CC7.12 Council of War :3rd_Dr:Benton:Brigadier:
+*** READY [#C] O&F2. The Artist at the End of Time :5th_Dr:Jenny:P2023_06:bilibili:
+*** [#D] MR85. Red :7th_Dr:Mel:
+*** FIXME [#C] ST11.X The Lichyrwick Abomination :9th_Dr:scripted:
+*** [#B] WDB4.3 The Horror :War_Dr:
+** dw2025-q4a-spinoffs
+*** [#B] TW7.10 Doomscroll :Orr:Colchester:Tyler:
+*** [#E] TW60. Infidel Places :Queen:
+*** FIXME [#D] UBNW1.1 Rogue State :UNIT:
+*** [#D] PGT2.2 Pater Noster
+*** [#D] River7.4 Carnival of Angels :plot_yes:
+*** FIXME [#A] WM9.3 The Life and Loves of Mr Alexander Bennett :Master_war:
+*** FIXME [#B] Rory2.2 The Glowing Warrior
 * FIXME pending
 ** special
 *** [#B] Jack 2.1 Piece of Mind :Jack:6th_Dr:
@@ -1954,8 +1975,9 @@ Old Steven 1/3
 **** FIXME [#A] BBV21 Punchline :plot_yes_dwg:
 **** [#C] 268B. Displaced :7th_Dr:Ace:Hex:plot_no:
 **** [#D] CC4.6 BS and and the Criminal Code :7th_Dr:Benny:
-**** READY [#D] O&F3. A Genius For War :7th_Dr:Davros:P2023_07:bilibili:
 **** [#C] NA07. Theatre of War :7th_Dr:Ace:Benny:
+**** READY [#D] O&F3. A Genius For War :7th_Dr:Davros:P2023_07:bilibili:
+**** [#B] 7DA23A.1 Operation Dusk :7th_Dr:Harry:Naomi:
 **** 2CD
 ***** Klein [#E] MR175. Persuasion / [#C] 176. Starlight Robbery :7th_Dr:Klein:
 ***** Mel [#D] MR046 Filp-flop / [#C]  2022A.2  The Ribos Inheritance (Mel) :7th_Dr:Mel:
@@ -1980,21 +2002,21 @@ Tales of Trenzalore - 01
 **** START [#C] CC12.2 Dumb Waiter :Jamie:Leela:D2021_09_extra:plot_yes:
 *** 4th
 **** [#C] 4DA2.5 Pantoms of the Deep :4th_Dr:Romana_1:
-**** READY [#D] 5.2 - The Labyrinth of Buda Castle (7.1) :4th_Dr:Romana_2:bilibili:
+**** READY [#D] 4DA5.2 - The Labyrinth of Buda Castle (7.1) :4th_Dr:Romana_2:bilibili:
 **** [#D] 4DA6.2 - The Eternal Battle :Romana_2:plot_yes:
 **** READY [#E] 6.7 The Movellan Grave :Romana_2:bilibili:
 **** READY DotD #4 Babblesphere :4th_Dr:Romana_2:bilibili:
 **** [#C] CDNM3.2 The Tivolian Who Knew Too Much :4th_Dr:Leela:
 **** [#C] CDNM4.1 Invasion of the Body Stealers :4th_Dr:Sarah:
+**** READY 4DA13.5 Metamorphosis :4th_Dr:Harry:Naomi:Master_decayed:bilibili:
 **** BBC Demon Quest #1-5
 **** READY [#D] O&F1. Past Lives :P2023_05:4th_Dr:Sarah:Osgood:Monk:bilibili:
 **** 2CD
 ***** [#C] 4DA5.3 - The Paradox Planet (7.6) / 5.4 - Legacy of Death (7.6) :4th_Dr:Romana_2:
-***** [#B] 4DA 8.7/8.8 The Perfect Prisoners :4th_Dr:Ann:
 ***** [#C] 4DA9.1 - Purgatory 12 :4th_Dr:Romana_2:Adric:
+***** FIXME [#C] 4DA10.1 The World Traders :4th_Dr:Leela:
 ***** READY [#A] LS6.2 - The Doomsday Contract :4th_Dr:Romana_2:bilibili:
 ***** READY DU0 The Dalek Protocol :4th_Dr:Daleks:
-***** READY [#B] NA03 - The Romance of Crime :4th_Dr:Romana_2:P2015:2CD:scripted:bilibili:
 ***** READY [#B] NA04 The English Way of Death :Romana_2:P2015:2CD:scripted:bilibili:
 *** 6th
 **** [#D] 6DnP 1.3 The Vanity Trap :6th_Dr:Peri:
@@ -2017,10 +2039,10 @@ Tales of Trenzalore - 01
 **** [#A] BBC #14. The Code of Flesh (James MacFarlane)
 **** Charley
 ***** READY [#D] MR031 - Embrace the Darkness
-***** READY [#E] 032 - The Time of the Daleks
+***** READY [#E] MR032 - The Time of the Daleks
 ***** READY CC4.12 Solitaire
-***** READY [#D] 050 Zegreus :8th_Dr:Charley:
-***** TODO [#D] 61. Faith Stealer
+***** READY [#D] MR050 Zegreus :8th_Dr:Charley:
+***** TODO [#D] MR61. Faith Stealer
 
  Faith Stealer: Fluffy and fun, with some very Douglas Adams-esque ideas. Not vital to the plot, but more enjoyable than most divergent universe stories.
 
@@ -2035,37 +2057,30 @@ Tales of Trenzalore - 01
 ***** READY [#A] 3.4 The War Valeyard :Bliss:
 ***** READY [#B] 5.3 Previously, Next Time :Cass:
 *** 10th
-**** FIXME [#C] ST8.6 The Siege of Big Ben :10th_Dr:plot_yes:Jackie:
-**** TODO [#B] 10DC1.4 - Last Chance :10th_Dr:Christina:plot_cast:
 **** READY 10DA 3.3 - The Creeping Death :Donna:10th_Dr:
 **** READY 10DCC [#E] 2. The Stuntman (Nyssa)  / [#D] 3. Quantum of Axos (Ace)
-**** READY ST: [#A] NSA #7: Dead Air
+**** READY [#A] NSA #7: Dead Air
 **** READY [#C] O&F5. The Martian Invasion of Planetoid 50 :bilibili:10th_Dr:P2023_09:
-**** READY fan-made  Empire of the Sun
+**** READY Empire of the Sun :fan_made:
 *** 12th
 **** 12DC 3.1-3.3
 ** spinoffs
 *** Torchwood
 **** Jack
-***** [#C] Jack1.2 Wednesdays For Beginners (Jackie)
 ***** [#B] Jack2.1 Piece of Mind :Jack:6th_Dr:
 **** Andy
-***** [#A] TW49. Gooseberry :Owen:Andy:
 ***** [#B] TW58. Cadoc Point :Andy:
 ***** TW Soho #3 The Unbegotten :Norton:Andy:Lizbeth:P2022_10:plot_yes:
 **** Ianto
 ***** [#C] TWO2.2 - Blind Summit :Yvonne:Ianto:
 ***** [#A] TWO2.3 - 9 to 5 :Yvonne:Ianto:
-***** FIXME [#D] TW65. Death in Venice :Colchester:Ace:
 ***** [#B] 67. The Lincolnshire Poacher :Ianto:
-**** [#C] TWBBC5.1 The Devil and Miss Carew :Jack:Gwen:Ianto:P2011:
 **** HALF [#A] TW16. torchwood_cascade_CDRIP.tor :Tosh:
+**** FIXME [#D] TW65. Death in Venice :Colchester:Ace:
 **** [#B] TW65X A Postcard from Mr Colchester :Colchester:plot_yes:
 *** Benny
-**** [#C] BSNA2.3 - The Eye of Horus :Sutekh:
 **** [#A] BSST.2 And Then Again :Benny:7th_Dr:
 **** FIXME [#C] BS6.2 The Kingdom of the Blind :Benny:
-**** FIXME [#C] BSBOX 2.1 Brand Management :Benny:
 *** River
 **** [#C] DoRS6.4 The Talents of Grel :River:Jago:
 **** [#C] DoRS8.2 A Brave New World :River:10th_Dr:

@@ -245,7 +245,7 @@ SCHEDULED: <2023-07-22 Sat>
 :rating:   7.7
 :END:
 
-***** [#B] EA 3.3 The Ravelli Conspiracy :Vicki:Steven:plot_cast:
+***** NEXT [#B] EA 3.3 The Ravelli Conspiracy :Vicki:Steven:plot_cast:dw2025_q4a_doctor:
 ***** EA S5 :P2018:Vicki:Steven:
 ****** DONE [#A] EA5.1 The Dalek Occupation of Winter :Steven:Vicki:daleks:plot_yes:DW2022_11_doctor:
 CLOSED: [2022-11-04 Fri 13:26] SCHEDULED: <2022-11-01 Tue>
@@ -775,8 +775,8 @@ SCHEDULED: <2022-06-05 Sun>
 :rating:   7.4
 :END:
 
-***** [#D] CC12.3 The Iron Maid :Zoe:Jamie:dw2025_q3b_doctor:
-SCHEDULED: <2025-09-27 Sat>
+***** HALF [#D] CC12.3 The Iron Maid :Zoe:Jamie:dw2025_q3b_doctor:
+SCHEDULED: <2025-08-30 Sat>
 :PROPERTIES:
 :rating:   7.3
 :END:
@@ -1924,8 +1924,11 @@ CLOSED: <2023-02-10 Fri 14:02> SCHEDULED: <2023-02-06 Mon 08:42>
 SCHEDULED: <2024-05-11 Sat>
 
 **** 📂4DA series 13 :Harry:Naomi:plot_yes:
-***** HALF [#D] 13.1 The Storm of the Sea Devils :P2024_03:2CD:UNIT:dw2025_q3b_doctor:
+***** HALF [#D] 13.1 Storm of the Sea Devils :P2024_03:2CD:UNIT:dw2025_q3b_doctor:
 SCHEDULED: <2025-09-13 Sat>
+:PROPERTIES:
+:rating:   7.1
+:END:
 
 ***** [#D] 13.2 Worlds Beyond :P2024_03:1CD:
 ***** [#E] 13.3 Matryoshka :ToyMaker:P2024_06:1CD:
@@ -2261,7 +2264,7 @@ CLOSED: [2024-11-01 Fri 08:38] SCHEDULED: <2024-09-08 Sun>
 
 【博士的作战记录-哔哩哔哩】 https://b23.tv/zGOAtiq
 
-*** READY [#C] 2. The Artist at the End of Time :5th_Dr:Jenny:P2023_06:bilibili:
+*** NEXT [#C] 2. The Artist at the End of Time :5th_Dr:Jenny:P2023_06:bilibili:dw2025_q4a_doctor:
 
 【【神秘博士六十周年纪念特辑】Once and Future 02 The Artist at the End of Time 时间尽头的艺术家-哔哩哔哩】
 https://b23.tv/BV1hv421y7H4
@@ -2452,7 +2455,7 @@ CLOSED: <2018-07-13 Fri 08:03>
 http://www.drwhoguide.com/chronicles07.htm
 
 **** CC7.1 The Time Museum :Ian:
-**** [#C] CC7.12 - Council of War :Benton:Brigadier:
+**** NEXT [#C] CC7.12 - Council of War :Benton:Brigadier:dw2025_q4a_doctor:
 :PROPERTIES:
 :rating:   7.7
 :END:
