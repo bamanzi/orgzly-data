@@ -484,41 +484,41 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 
 ***** [#B] 65X A Postcard from Mr Colchester :Colchester:plot_yes:
 ***** [#D] 65. Death in Venice :Colchester:Ace:plot_yes:
-***** CANCEL [#E] 66. SUV :Ianto:Tosh:
+***** [#D] 66. SUV :Ianto:Tosh:
 ***** [#A] 67. The Lincolnshire Poacher :Ianto:plot_yes:
 ***** CANCEL [#F] 68. The Empire Man :Queen:plot_yes:
-***** 3QTR [#B] 69. Double part1 :Autons:P2023_01:plot_yes:DW2024_Q4a_spinoffs:
+***** 3QTR [#C] 69. Double part1 :Autons:P2023_01:plot_yes:DW2024_Q4a_spinoffs:
       CLOSED: [2024-12-06 Fri 08:44] SCHEDULED: <2024-11-10 Sun>
 
-***** HALF [#B] 70. Double part2 :Autons:plot_yes:DW2024_Q4b_spinoffs:
+***** HALF [#C] 70. Double part2 :Autons:plot_yes:DW2024_Q4b_spinoffs:
       SCHEDULED: <2024-12-22 Sun>
       :PROPERTIES:
       :rating:   8.5
       :END:
 
-***** [#E] 71. The Last Love Song of Suzie Costello :Suzie:plot_yes:
+***** [#C] 71. The Last Love Song of Suzie Costello :Suzie:plot_yes:
       :PROPERTIES:
       :rating:   6.6
       :END:
 
 ***** [#D] 72. The Thirst Trap :Andy:Rhys:plot_yes:
 **** series 9 (73-84)
-***** READY 73. Launch Date :Ianto:P2023_04:
+***** READY [#E] 73. Launch Date :Ianto:P2023_04:
 
 【【机翻】火炬木广播剧：发射日期（文本见评论）-哔哩哔哩】 https://b23.tv/BV1awJnz3EpZ
 
 ***** [#C] 74. Sigil :Bilis_Manger:P2023_08:
-***** 75. Dog Hop :Andy:plot_yes:P2024_09:
-***** 76. Odyssey :plot_yes:Ood:P2024_10:
-***** 77. Oodunnit :Ood:Zack:P2024_11:
-***** 78. Oracle :Ood:P2023_12:
+***** [#D] 75. Dog Hop :Andy:plot_yes:P2024_09:
+***** [#C] 76. Odyssey :plot_yes:Ood:P2024_10:
+***** [#C] 77. Oodunnit :Ood:Zack:P2024_11:
+***** [#D] 78. Oracle :Ood:P2023_12:
 ***** [#B] 79. Poppet :Rhys:P2024_01:
-***** 80. Sabotage :Colchester:Ace:P2024_02:
+***** [#D] 80. Sabotage :Colchester:Ace:P2024_02:
 ***** [#B] 80X. Another Postcard from Mr Colchester
-***** 81. Tube Strike :Ianto:P2024_03:
-***** 82. Missing Molly :Ianto:P2024_04:
-***** 83. Disco :Ianto:P2024_05:
-***** 84. The Restoration of Catherine :Andy:Norton:P2024_06:
+***** [#D] 81. Tube Strike :Ianto:P2024_03:
+***** [#A] 82. Missing Molly :Ianto:P2024_04:
+***** [#A] 83. Disco :Ianto:P2024_05:
+***** [#C] 84. The Restoration of Catherine :Andy:Norton:P2024_06:
 **** series 10
 ***** 85. Art Decadence :The_Mara:P2024_07:
 ***** 86. End Game :Tosh:P2024_08:
@@ -1502,8 +1502,20 @@ Gallifrey是一个与自己交战的世界。潘多拉实体身着罗马纳总�
 【[AI未较核字幕][神秘博士广播剧]Gallifrey 305 Panacea-哔哩哔哩】 https://b23.tv/BV1itbkzKEhR
 
 ** series 4 :P2011:plot_yes:2buy:
-*** HALF [#B] 4.1 - Reborn       (8.0) :DW2022_09_spinoffs:
+*** HALF [#B] 4.1 - Reborn       (8.0) :DW2022_09_spinoffs:bilibili:
     SCHEDULED: <2022-09-18 Sun>
+
+【[机翻字幕][神秘博士广播剧]Gallifrey 401 Reborn-哔哩哔哩】 https://b23.tv/BV1x4e7ztEgG
+
+https://www.bigfinish.com/releases/v/gallifrey-series-04-389
+
+加利弗雷幸存下来......
+
+罗曼纳德回到了她的家乡，寻求治愈肆虐全球的空闲时间病毒的方法。Sevateem 的 Leela 和她的同伴 K9 被尊为英雄。纳尔文是一个叛徒。布拉克夏特尔知道的比他透露的要多。
+
+在所有的混乱中，时间领主高级委员会准备将地球带入一场与宇宙的全面战争。他们正在将自己的秘密卖给出价最高的人，为宇宙配备不应该被允许的时间技术。
+
+罗曼娜的儿子将带领他们投入战斗......
 
 *** 3QTR [#A] 4.2 - Disassembled (9.1) :DW2022_10_spinoffs:bilibili:
     CLOSED: [2022-10-30 Sun 19:57] SCHEDULED: <2022-10-15 Sat>
@@ -1528,13 +1540,22 @@ Gallifrey杀人
 
 【[机翻字幕][神秘博士广播剧]Gallifrey 404 Forever-哔哩哔哩】 https://b23.tv/BV1ZKvNzjEYX
 
-
 ** series 5 :P2013:plot_yes:
-*** HALF [#E] 5.1 - Emancipation :DW2023_02_spinoffs:
+*** HALF [#E] 5.1 - Emancipation :DW2023_02_spinoffs:bilibili:
     SCHEDULED: <2023-02-15 Wed 08:48>
     :PROPERTIES:
     :rating:   6.9
     :END:
+
+【【神秘博士广播剧熟肉】Gallifrey 501 Emancipation解放-哔哩哔哩】 https://b23.tv/BV1FgxJzBEPi
+
+Gallifrey最高领导人，Romana总统正在做出一些列决定，消耗着内阁的同盟。
+
+大法官Narvin试着保护真相
+
+Leela大使尝试捍卫她的盟友的权力，城外人，摆脱了几代人的主人，那些Gallifrey的重生者。
+
+但是他们的敌人正在计划揭露真相，试着让这个社会起起伏伏，通过一系列事情。
 
 *** HALF [#E] 5.2 - Evolution :DW2023_03_spinoffs:
     SCHEDULED: <2023-03-05 Sun>
@@ -1549,21 +1570,50 @@ Gallifrey杀人
     :END:
 
 ** series 6 :P2013:plot_yes:
-*** 3QTR [#C] 6.1 - Extermination :DW2023_07_spinoffs:
+*** 3QTR [#C] 6.1 - Extermination :DW2023_07_spinoffs:bilibili:
     CLOSED: [2023-07-26 Wed 09:08] SCHEDULED: <2023-07-16 Sun>
 
-*** HALF [#B] 6.2 - Renaissance :Romana_3:DW2023_09_spinoffs:
+【[英文字幕][神秘博士广播剧]Gallifrey 601 Extermination-哔哩哔哩】 https://b23.tv/BV1oXH1zFERt
+
+*** HALF [#B] 6.2 - Renaissance :Romana_3:DW2023_09_spinoffs:bilibili:
     SCHEDULED: <2023-09-24 Sun>
     :PROPERTIES:
     :rating:   8.1
     :END:
 
-*** HALF [#B] 6.3 - Ascension :dw2025_q2a_spinoffs:
+【[AI字幕][神秘博士广播剧]Gallifrey 602 Renaissance-哔哩哔哩】 https://b23.tv/BV1rAx4zxECL
+
+
+
+
+*** HALF [#B] 6.3 - Ascension :dw2025_q2a_spinoffs:bilibili:
     SCHEDULED: <2025-05-04 Sun>
 
+【[AI字幕][神秘博士广播剧]Gallifrey 603 Ascension-哔哩哔哩】 https://b23.tv/BV1aNxDzGErY
+
+** READY CC8.7 Luna Romana :Romana_2:Romana_3:P2014:bilibili:
+
+【[AI精校字幕][神秘博士广播剧]Companion Chronicles 807 Luna Romana-哔哩哔哩】 https://b23.tv/BV1TTHkzNEyu
+
 ** special: WoDW#4 Second Sight ↗
-** [#B] 7.0 - Intervention Earth :P2015:
-** [#A] 8.0 - Enemy Lines :P2016:
+** [#B] 7.0 - Intervention Earth :P2015:2CD:Omega:
+** READY [#A] 8.0 - Enemy Lines :P2016:bilibili:3CD:
+
+【[神秘博士广播剧]Gallifrey 8 Enemy Lines Part 1-哔哩哔哩】 https://b23.tv/BV18e4UzBECQ
+
+
+https://www.bigfinish.com/releases/v/gallifrey-enemy-lines-1205
+
+在遥远的未来，总统Romanadvoratrelundar将不惜一切代价拯救她的世界，即使这意味着牺牲她的盟友和朋友。.. 
+
+在遥远的过去，Romanadvoratrelundar总统也会尽一切努力拯救她的世界，即使这意味着在这个过程中牺牲自己的生命。..
+
+不幸的是，对于Romana来说，没有简单的选择。 
+
+随着战争的威胁迫在眉睫，谈判仍在进行中，世俗大国越来越焦躁不安。每一天，他们都发现自己的未来从他们身边溜走了。他们做出的每一个决定都至关重要。没有人能逃避这样一个事实，即必须做出牺牲。..
+
+时间不多了……它正直奔Gallifrey。
+
 ** 📂Echoes Through Eternity :P2024_11:
 *** 1. Damned if You Do :Narvin:
 *** 2. The Questing Beast :Braxiatel:
@@ -2527,14 +2577,33 @@ rating 8.7/8.3
     :rating:   7.0
     :END:
 
-*** HALF [#C] 6.3 - Code Silver      (7.8) :Cybermen:plot_half:DW2022_09_spinoffs:
+*** HALF [#C] 6.3 - Code Silver :Cybermen:plot_half:DW2022_09_spinoffs:
     SCHEDULED: <2022-09-13 Tue>
+    :PROPERTIES:
+    :rating:   7.8
+    :END:
 
-*** HALF [#B] 6.4 - Master of Worlds                 (8.4) :Cybermen:Master_War:DW2022_09_spinoffs:
+*** HALF [#B] 6.4 - Master of Worlds :Cybermen:Master_War:DW2022_09_spinoffs:bilibili:
     SCHEDULED: <2022-09-30 Fri>
+    :PROPERTIES:
+    :rating:   8.4
+    :END:
+
+【【中英】【神秘博士广播剧】法师说是我拯救世界你不满意？ UNIT广播剧604-哔哩哔哩】 https://b23.tv/BV1bXxTzHEwc
+
+偶然间发现还有如此萌的一集jacobi master遂烤之，老头实在过于贱萌，jacobi老师也太会了
+和UNIT以及Kate的互动也非常好吃，还提了点准将更是美死我了。。。
+
+总之欢迎大家品尝……
+
+如有错漏敬请指出！其实是我校ai听写/翻译 但是也烤了一个多礼拜TT
 
 ** UNIT 7: Revisitations :P2018:
-*** [#C] 7.1/7.2 - Hosts of the Wirrn           (7.6)
+*** [#C] 7.1/7.2 - Hosts of the Wirrn
+    :PROPERTIES:
+    :rating:   7.6
+    :END:
+
 *** [#A] 7.3 - Breach of Trust                  (8.6)
 *** [#D] 7.4 - Open the Box                     (7.3)
 ** UNIT 8: Incursions :P2019:
@@ -2577,14 +2646,14 @@ rating 8.7/8.3
 *** [#E] 4.2 Traitors' Gate
 *** [#C] 4.3 The Destiny Labyrinth
 *** [#C] 4.4 True Nemesis :Master_missy:
-* Kaldor City / The Robots :🎧:Kaldor:
+* Kaldor City / The Robots :🎧:Kaldor_androids:
 ** Kaldor City :plot_yes_dwg:
-*** HALF [#B] KC1. Occam's Razor :D2022_06_spinoffs:
+*** HALF [#B] KC1. Occam's Razor :D2022_06_spinoffs:Uvanov:
     SCHEDULED: <2022-06-19 Sun>
 
 Synopsis:  http://www.drwhoguide.com/kaldor01.htm
 
-*** HALF [#B] KC2. Death's Head :DW2022_08_spinoffs:
+*** HALF [#B] KC2. Death's Head :DW2022_08_spinoffs:Uvanov:
     SCHEDULED: <2022-09-04 Sun>
 
 *** HALF [#B] KC3. Hidden Persuaders :DW2022_10_spinoffs:

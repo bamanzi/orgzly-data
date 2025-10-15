@@ -32,11 +32,20 @@ CLOSED: [2020-08-18 Tue 08:19] SCHEDULED: <2022-08-30 Tue>
 
 【[AI速译][神秘博士广播剧]MR 017 Sword of Orion-哔哩哔哩】 https://b23.tv/BV1yahWzqEXX
 
-***** DONE [#D] 018 - The Stones of Venice
+***** DONE [#D] 018 - The Stones of Venice :bilibili:
 CLOSED: [2020-09-23 Wed 13:56]
 :PROPERTIES:
 :rating:   7.0
 :END:
+
+【[AI精校字幕][神秘博士广播剧]MR 018 The Stone of Venice-哔哩哔哩】 https://b23.tv/BV1Mvp9zBEGc
+
+
+https://www.bigfinish.com/releases/v/doctor-who-the-stones-of-venice-643
+
+博士和查莉决定好好休息一下 —— 毕竟一直被人追捕、枪击，还总遭人以各种反社会行径对待，这样的日子实在单调乏味。最终，他们来到了威尼斯，而这里已是查莉所处时代的遥远未来 —— 这座伟大的城市正准备最后一次沉入水下……
+
+这本就是件重大却又令人沮丧的事件。然而，一位害了相思病的贵族、一位高傲的艺术史学家，还有某个声名狼藉的邪教里狂热的大祭司，三人各自的阴谋算计交织在一起，让威尼斯的这场 “绝唱” 变成了一个令人难忘的夜晚。更有长着蹼足的两栖底层阶级发动叛乱、一具尸体神秘消失，以及一段比寻常诅咒更为古老的诅咒背后所隐藏的真相。博士和查莉不禁开始怀疑，这次他们到底卷入了怎样的麻烦之中……
 
 ***** DONE [#F] 019 - Minuet in Hell :Brigadier:
 CLOSED: <2020-08-24 Mon 16:30>
@@ -292,12 +301,21 @@ Tardis在太空的禁域中发生故障。幽灵般的声音呼喊着救赎，�
 博士的罪孽正在向他逼近，地狱之兽博拉鲁斯饥肠辘辘。时间不多了，审判日即将来临。
 欢迎来到地狱。
 
-
-***** 3QTR [#B] 103. The Girl Who Never Was :P2007:Charley:Cybermen:plot_yes:DW2022_10_doctor:
+***** 3QTR [#B] 103. The Girl Who Never Was :P2007:Charley:Cybermen:plot_yes:DW2022_10_doctor:bilibili:
 CLOSED: [2022-11-03 Thu 16:31] SCHEDULED: <2022-10-16 Sun>
 :PROPERTIES:
 :rating:   8.4
 :END:
+
+【[AI精校字幕][神秘博士广播剧]MR 103 The Girl Who Never Was-哔哩哔哩】 https://b23.tv/BV1baYMzuEQ9
+
+https://www.bigfinish.com/releases/v/doctor-who-the-girl-who-never-was-269
+
+“滴滴滴， 哒哒哒，滴滴滴。有人在听。在某个地方。”
+
+一艘幽灵船。一个失去记忆、在时间中漂泊的女孩。一个宿敌。这或许会是夏洛特・波拉德最辉煌的时刻 —— 也可能是她的终局。
+
+设定航向，前往 1931 年的新加坡。旅程终点已至。
 
 **** 📂Charlotte Pollard: The Further Adventuress :P2022_01:
 ***** [#E] CPFA 1.1 The Mummy Speaks!
@@ -859,12 +877,11 @@ https://b23.tv/BV15a411y7o8
 ***** [#D] 3. Slot Beasts
 *** 8DA (2023- )
 **** 📂Audacity :P2023_11:plot_yes:Audacity:
-***** TODO [#D] The Devouring :1CD:bilibili:dw2025_q3b_doctor:
-SCHEDULED: <2025-10-04 Sat>
+***** TODO [#D] The Devouring :1CD:bilibili:
 
 【【广播剧汉化】愤怒的纠缠 Audacity 101 The Devouring-哔哩哔哩】 https://b23.tv/BV1qK411b7dy
 
-***** [#B] The Great Cyber-War :2CD:Cybermen:Charley:
+***** [#B] The Great Cyber-War :2CD:Cybermen:
 **** 📂In the Bleak Midwinter :P2023_12:1CD:Audacity:Charley:
 ***** [#B] Twenty-Four Doors in December
 ***** [#D] The Empty Man
@@ -1474,13 +1491,28 @@ CLOSED: [2020-12-17 Thu 19:53]
 *** DONE GTW3.4 Unity
 CLOSED: <2020-12-17 Thu 19:57>
 
-*** _📂Gallifrey: Time War vol.4_ :🎧:P2021:
-**** [#D] 4.1 Deception :Leela:dw2025_q3b_spinoffs:
-SCHEDULED: <2025-09-28 Sun>
+*** _📂Gallifrey: Time War vol.4_ :🎧:P2021:plot_yes:
+**** TODO [#D] 4.1 Deception :Leela:dw2025_q3b_spinoffs:
+SCHEDULED: <2025-10-12 Sun>
+:PROPERTIES:
+:rating:   7.2
+:END:
 
 **** [#B] 4.2 Dissolution :Narvin:
+:PROPERTIES:
+:rating:   8.0
+:END:
+
 **** [#A] 4.3 Beyond :Romana_2:Braxiatel:
+:PROPERTIES:
+:rating:   8.7
+:END:
+
 **** [#A] 4.4 Homecoming :Romana_2:Narvin:Leela:
+:PROPERTIES:
+:rating:   8.7
+:END:
+
 ** 10. Universe on the brink
 *** _📂Gallifrey: War Room vol.1 Allegiance_ :🎧:P2022_08:
 **** [#B] 1.1 The Last Days of Freme
@@ -1766,6 +1798,11 @@ CLOSED: [2020-09-23 Wed 12:53]
 :rating:   8.1
 :END:
 
+*** 📂The War Master series 12: His Greatest Trick :P2025_10:
+**** 12.1 The Grievance Bureau
+**** 12.2 Last Girl Standing
+**** 12.3 The Worst of All Evils
+**** 12.4 The Blue Shift Ritual
 ** unofficial
 *** Seasons of War (anthology) :War_Dr:
 

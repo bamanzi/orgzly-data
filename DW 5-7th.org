@@ -518,7 +518,16 @@ https://www.bigfinish.com/releases/v/doctor-who-the-key-2-time-the-destroyer-of-
 
 博士和艾米被随机抛向时空，抵达9世纪的苏丹，贪婪的卡西姆勋爵正在那里从哈里发使者那里囤积黄金。但为什么卡西姆看起来如此熟悉？住在沙漠里的神秘精灵是什么？为什么它需要这么多宝藏？
 
-**** [#F] 119. The Chaos Pool :Zara:Abby:
+**** READY [#F] 119. The Chaos Pool :Zara:Abby:bilibili:
+
+【【神秘博士广播剧熟肉】MR 119 The Chaos Pool 再寻时间的钥匙（3）混沌之湖-哔哩哔哩】 https://b23.tv/BV1m5HUzXE8W
+
+一个濒临灭绝的种族有一位永生的领导者确信粘液可以找到混沌之湖，这个地方甚至连时间守护者都无法定位。当Hectocot指挥官和他的Teuthoidian追随者进入诱杀，一次又一次。
+
+两个来自时间尽头的不同种族，所以他们如何共存？
+
+在搜寻最后一块时间的钥匙时，五叔和Amy在交叉火力中被抓，在一切终结到来之时，老朋友和老敌人都出现了，最后一场混沌与秩序力量之间的大战爆发了
+
 **** Wicked Sisters :1CD:P2020:Leela:Zara:Abby:
 ***** 3QTR [#C] 5DWS1.1 The Garden of Storms :DW2023_05_doctor:
 CLOSED: <2024-01-15 Mon 21:35> SCHEDULED: <2023-05-20 Sat>
@@ -652,49 +661,48 @@ SCHEDULED: <2024-01-14 Sun>
 
 https://tardis.fandom.com/wiki/Sixth_Doctor_audio_stories
 
-*** with Evelyn :Evelyn:scripted:2CD:
-**** 3QTR [#A] 6. The Marian Conspiracy :Evelyn:plot_yes:DW2022_08_doctor:
+*** with Evelyn :Evelyn:
+**** MR with Evelyn :scripted:2CD:
+***** 3QTR [#A] 6. The Marian Conspiracy :Evelyn:plot_yes:DW2022_08_doctor:
 CLOSED: [2022-08-03 Wed 21:45] SCHEDULED: <2022-08-03 Wed>
-
 :PROPERTIES:
 :rating:   8.6
 :END:
 
-
-**** 3QTR [#B] 9. The Spectre of Lanyon Moor (8.0) :Evelyn:Brigadier:plot_yes_dwg:DW2023_06_doctor:
+***** 3QTR [#B] 9. The Spectre of Lanyon Moor (8.0) :Evelyn:Brigadier:plot_yes_dwg:DW2023_06_doctor:
 CLOSED: [2023-06-26 Mon 08:24] DEADLINE: <2023-06-28 Wed> SCHEDULED: <2023-06-14 Wed 08:34>
 
 http://drwhoguide.com/who_bf09.htm
 
-**** DONE [#D] 11. The Apocalypse Element :Evelyn:Romana_2:Daleks:bilibili:已购:
+***** DONE [#D] 11. The Apocalypse Element :Evelyn:Romana_2:Daleks:bilibili:已购:
 
 【【神秘博士广播剧熟肉】MR011 The Apocalypse Element 末日元素-哔哩哔哩】 https://b23.tv/lFiGif9
 
-**** [#D] 22. Bloodtied
+***** [#D] 22. Bloodtied
 :PROPERTIES:
 :rating:   7.4
 :END:
 
-**** 2DONE [#C] 23. Project Twilight :The_Forge:D2021_07_dr:plot_yes:
+***** 2DONE [#C] 23. Project Twilight :The_Forge:D2021_07_dr:plot_yes:
 CLOSED: [2021-07-15 Thu 14:15]
 :PROPERTIES:
 :rating:   7.8
 :END:
 
-**** DONE [#A] 40. Jubilee [A⁺] :Daleks:plot_yes_dwg:已购:
+***** DONE [#A] 40. Jubilee [A⁺] :Daleks:plot_yes_dwg:已购:
 CLOSED: [2021-03-30 Tue 17:52]
 
-**** [#A] 43. Doctor Who and The Pirates (8.8) :plot_yes:
+***** [#A] 43. Doctor Who and The Pirates (8.8) :plot_yes:
 
 or The Lass that Lost a Sailor 
 
-**** 2DONE [#C] 45. Project: Lazarus :7th_Dr:D2021_08_dr:2buy:
+***** 2DONE [#C] 45. Project: Lazarus :7th_Dr:D2021_08_dr:2buy:
 CLOSED: [2021-07-23 Fri 12:43]
 :PROPERTIES:
 :rating:   7.7
 :END:
 
-**** 3QTR [#A] 57. Arrangements for War :plot_yes_dwg:DW2024_Q3b_doctor:
+***** 3QTR [#A] 57. Arrangements for War :plot_yes_dwg:DW2024_Q3b_doctor:
 CLOSED: [2024-08-15 Thu 21:40] SCHEDULED: <2024-08-03 Sat>
 :PROPERTIES:
 :rating:   8.6
@@ -704,20 +712,40 @@ https://doctorwho.guide/who_bf57.htm
 
 Taking place immediately after the first half of /Project: Lazarus/
 
-**** [#D] 60. Medicinal Purposes
+***** [#D] 60. Medicinal Purposes
 :PROPERTIES:
 :rating:   7.1
 :END:
 
-**** [#C] 73. Thicker than Water ↗ :Mel:Evelyn:
-**** DONE [#C] 084. The Nowhere Place :D2021_06:underrated:
+***** [#C] 73. Thicker than Water ↗ :Mel:Evelyn:
+***** DONE [#C] 084. The Nowhere Place :D2021_06:underrated:
 CLOSED: <2021-06-09 Wed 08:10>
 :PROPERTIES:
 :rating:   7.6
 :goodreads: 3.6
 :END:
 
-**** 100. 100
+***** CANCEL [#E] 108. Assassin in the Limelight
+:PROPERTIES:
+:rating:   6.8
+:END:
+
+***** [#D] 143. The Crimes of Thomas Brewster :Evelyn:
+:PROPERTIES:
+:rating:   7.4
+:END:
+
+***** [#D] 144. The Feast of Axos :Evelyn:
+:PROPERTIES:
+:rating:   7.4
+:END:
+
+***** CANCEL [#E] 145. Industrial Evolution :Evelyn:
+:PROPERTIES:
+:rating:   6.9
+:END:
+
+**** MR100. 100
 ***** [#E] 100a. 100 BC
 ***** READY [#B] 100b. My Own Private Wolfgang :plot_no:bilibili:
 :PROPERTIES:
@@ -727,32 +755,20 @@ CLOSED: <2021-06-09 Wed 08:10>
 【【DW广播剧翻译】MR 100b - 独属于我的沃尔夫冈-哔哩哔哩】 
 https://b23.tv/BV1LF411j7D5
 
-***** [#C] 100c. Bedtime Story :short:
+***** READY [#C] 100c. Bedtime Story :short:bilibili:
 :PROPERTIES:
 :rating:   7.8
 :END:
 
+【【神秘博士广播剧熟肉】MR100c 睡前故事 Bedtime Story-哔哩哔哩】 https://b23.tv/BV129nKzAEW6
+
+从前有个故事……
+
+Jacob Williams将讲述《睡美人》的故事，但他意识到他已经讲过这个故事太多次了，于是转而讲述自己曾经遇到过一个叫“博士”的人的故事。
+
+这是一个关于爱与死亡的故事，以及一个有着可怕秘密的家庭……
+
 ***** [#D] 100d. The 100 Days of the Doctor
-**** CANCEL [#E] 108. Assassin in the Limelight
-:PROPERTIES:
-:rating:   6.8
-:END:
-
-**** [#D] 143. The Crimes of Thomas Brewster :Evelyn:
-:PROPERTIES:
-:rating:   7.4
-:END:
-
-**** [#D] 144. The Feast of Axos :Evelyn:
-:PROPERTIES:
-:rating:   7.4
-:END:
-
-**** CANCEL [#E] 145. Industrial Evolution :Evelyn:
-:PROPERTIES:
-:rating:   6.9
-:END:
-
 **** [#D] Real Time :2CD:
 **** [#E] CC5.5 A Town Called Fortune
 **** [#D] SST34 Mission Improbable
@@ -952,7 +968,7 @@ SCHEDULED: <2023-11-01 Wed>
 **** [#B] ST4.6 - To Cut a Blade of Grass :Peri:plot_no:
 **** [#C] DotD #6 Trouble in Paradise :Peri:plot_no:1CD:
 **** TODO [#B] 08. The Flight of the Sun God :6th_Dr:Peri:BBC:
-**** TBR 📂6DA2025B. Bad Terms :P2025_08:
+**** 📂2025B. Bad Terms :P2025_08:2CD:
 ***** 1. Saiorse of the Seven Seas
 ***** 2. Red for Danger
 *** with Mel
@@ -1004,13 +1020,27 @@ SCHEDULED: <2024-11-30 Sat>
 ***** [#D] 1. Girl in a Bottle
 ***** CANCEL [#F] 2. The Corruptions
 ***** CANCEL [#F] 3. The Wrong Side of History
-*** MR with Charley :Charley:scripted:2CD:
-**** 3QTR [#B] 105. The Condemned (8.4) :Charley:plot_yes_dwg:DW2023_02_doctor:
+*** with Charley :Charley:scripted:2CD:
+**** 3QTR [#B] 105. The Condemned (8.4) :Charley:plot_yes_dwg:DW2023_02_doctor:bilibili:
 CLOSED: <2023-01-31 Tue 08:52> SCHEDULED: <2023-02-04 Sat>
 
 Six and Charley meet, and an enjoyable, weird adventure results.
 
 http://www.drwhoguide.com/who_bf105.htm
+
+【[AI精校字幕][神秘博士广播剧]MR 105 The Condemned-哔哩哔哩】 https://b23.tv/BV1dGnUzcEBJ
+
+
+https://www.bigfinish.com/releases/v/doctor-who-the-condemned-271
+
+“约翰·史密斯博士——你被逮捕了。你不必说什么，但如果你在被问到时不提及你后来在法庭上所依赖的事情，可能会损害你的辩护......”
+
+曼彻斯特，2008 年。TARDIS 降落在一栋破旧的塔楼内，旁边是一具尸体——当警察发现博士时，这引发了一些尴尬的问题。成为主要嫌疑人，博士如何向严肃的 DI 帕特里夏·孟席斯证明这不是看起来的公开和关闭的案件，她实际上是在调查一个外星人的死亡？
+
+在阿克利公寓的较高处，一个名叫Maxine的女孩看着博士被一辆警车带走。有人想让她找出那个房间里发生的事情，如果她不拿出货物，她就不会高兴。但她找到了一个认识的人——一个对博士来说非常重要的人。
+
+一个致命的阴谋正在发挥作用——其影响将远远超出阿克利之家的围墙......
+
 
 **** HALF [#D] 111 The Doomwood Curse :plot_yes_dwg:DW2024_02_doctor:
 SCHEDULED: <2024-02-24 Sat>
@@ -1337,11 +1367,20 @@ animation: https://m.youtube.com/watch?v=X1bsGF0BlGU
 :END:
 
 ***** 📂207. You Are the Doctor and Other Stories :Ace:short:
-****** DONE [#B] 207a. You Are the Doctor :D2021_08_dr:
+****** DONE [#B] 207a. You Are the Doctor :D2021_08_dr:bilibili:
 CLOSED: <2021-08-11 Wed 17:21>
 :PROPERTIES:
 :rating:   8.1
 :END:
+
+【【神秘博士广播剧熟肉】MR 207a You Are the Doctor 你是博士-哔哩哔哩 https://b23.tv/BV1tySRYKE2e
+
+https://www.bigfinish.com/releases/v/doctor-who-you-are-the-doctor-and-other-stories-879
+
+你是博士，一位神秘的时空旅行者。你能成功地击败可怕猪人的邪恶计划吗？他们是全宇宙最无能的入侵者。还是你会让自己一次又一次地被他们杀害？
+
+互动版本：【【神秘博士广播剧 | 互动】你是博士, 你会怎么做? MR 207a You Are the Doctor-哔哩哔哩】 https://b23.tv/BV1dbSRYLEyv
+
 
 ****** 3QTR [#C] 207b. Come Die With Me :D2021_08_dr:Ace:
 :PROPERTIES:
@@ -1705,6 +1744,9 @@ SCHEDULED: <2024-03-16 Sat>
 SCHEDULED: <2025-01-25 Sat>
 
 **** READY [#E] LS2.4 - Crime of the Century :Raine:plot_yes:bilibili:
+:PROPERTIES:
+:rating:   6.8
+:END:
 
 【【7th广播剧熟肉】The Lost Stories 2.4. Crime of the Century 世纪犯罪-哔哩哔哩】 https://b23.tv/BV1NxYCzcE7A
 
@@ -1723,6 +1765,10 @@ Raine就是当时计划中Ace下车后的新同伴。不过现在就是这三个
 欢迎老师们捉虫orz
 
 **** [#D] LS2.5 Animal :Raine:plot_yes:
+:PROPERTIES:
+:rating:   7.0
+:END:
+
 **** [#D] LS2.6 Earth Aid :Raine:plot_yes:
 *** 7DA :7DA:
 **** V. Return of the Daleks :Susan_Mendes:Kalendorf:P2006:

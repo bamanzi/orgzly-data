@@ -1733,13 +1733,14 @@ CLOSED: [2020-07-29 Wed 23:02]
 :rating:   7.7
 :END:
 
-***** BLOCK [#A] LS 2.07 - The Foe from the Future  (8.9) P2012:plot_yes:3CD:
-***** [#C] LS 2.08 - The Valley of Death 2CD:P2012:plot_no:
+***** BLOCK [#A] LS 2.07 - The Foe from the Future  (8.9) :P2012:plot_yes:3CD:
+***** [#C] LS 2.08 - The Valley of Death :2CD:P2012:plot_no:
 :PROPERTIES:
 :rating:   7.7
 :END:
 
-***** [#D] CDNM3.2 The Tivolian Who Knew Too Much :P2022plot_yes:1CD:
+***** [#D] CDNM3.2 The Tivolian Who Knew Too Much :P2022:plot_yes:1CD:
+***** [#C] MAR8 3.1 - A Ghost of Alchemy :4th_Dr:Leela:P2024:
 **** short
 ***** [#C] CC2.4 - The Catalyst
 :PROPERTIES:
@@ -1794,7 +1795,14 @@ CLOSED: <2023-04-22 Sat 21:12> SCHEDULED: <2023-04-12 Wed 08:15>
 
 *** with Romana II :Romana_2:
 **** 4DA series 5 :4DA:P2016:1CD:
-***** [#D] 5.1 - Wave of Destruction (7.1)
+***** READY [#D] 5.1 - Wave of Destruction (7.1) :bilibili:
+
+【【神秘博士广播剧熟肉】4DA 501 Wave of Destruction毁灭波-哔哩哔哩】 https://b23.tv/BV1J8Hxz5Etd
+
+调制频率波消除信号并不是Romana和博士应该在20世纪60年代的伦敦检测到的。但是他们并没有想到Lanchester教授会发明出来，但是他处于昏迷之中。还有军情五处也在调查。有了军情五处探员的帮助，Lanchester的女儿Jill和他的侄子有一个海盗电台打碟叫做Mark，这是博士、Romana、K9调查的结果。他们很快就可以发现有更加危险的存在，外星入侵开始了。
+
+ 博士可以发现、打败外星人吗？Romana能不能在一切太晚之前找到卧式传送器？K9如何处理好新的工作？
+
 ***** READY [#D] 5.2 - The Labyrinth of Buda Castle (7.1) :bilibili:
 
 【【神秘博士广播剧熟肉】The Fourth Doctor's Adventure 502-The Labyrinth of Buda Castle 布达迷宫城堡-哔哩哔哩】 https://b23.tv/BV1h7RnYWExw
@@ -1957,8 +1965,7 @@ CLOSED: [2022-09-03 Sat 17:41] SCHEDULED: <2022-09-04 Sun>
 **** CANCEL [#E] LS7.1 The Ark :Harry:P2023_06:
 **** CANCEL [#F] LS7.2 Daleks! Genesis of Terror :Harry:P2023_05:
 **** [#C] CDNM4.1 Invasion of the Body Stealers
-
-**** The Curse of Time :P2024_12:Harry:2CD:
+**** The Curse of Time :P2024_12:Harry:2CD:Harry:
 *** BF misc :BigFinish:
 **** DONE [#C] Night of the Vashta Nerada (7.8) (CDNM #2.1) :P2017:Vashta_Nerada:scripted:no_companion:bilibili:1CD:
 CLOSED: [2020-07-29 Wed 23:03]
@@ -2360,7 +2367,7 @@ https://b23.tv/BV1eE6FYwEYz
 
 *** The War Master ↗ :Master_War:Unbound_Dr:War_Dr:Benny:Captain_John:P2024_09:
 *** Missy :P2025_06:7th_Dr:
-*** TBR Master! :P2025_09:
+*** Master! :P2025_09:
 * multi-doctor story
 ** tv
 *** 10x01 The Three Doctors :P1973:
@@ -2377,6 +2384,11 @@ https://b23.tv/BV1Pq4we6E16
 *** [#D] ST3.1 - Seven to One 🗣 :P2011:plot_yes:
 :PROPERTIES:
 :rating:   7.4
+:END:
+
+*** [#C] ST4.4 The Old Rogue :4th_Dr:Romana_2:2nd_Dr:Jamie:
+:PROPERTIES:
+:rating:   7.9
 :END:
 
 *** The Light at the End :4th_Dr:5th_Dr:6th_Dr:7th_Dr:8th_Dr:Leela:Nyssa:Peri:Ace:Charley:P2013:
