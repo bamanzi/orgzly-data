@@ -37,7 +37,7 @@ Torchwood India
 
 【John Barrowman字幕组-火炬木广播剧中字-无人来电-哔哩哔哩】 https://b23.tv/PmtaVMU
 
-**** NEXT [#C] 5.1 The Devil and Miss Carew :Jack:Gwen:Ianto:P2011:dw2025_q4a_spinoffs:
+**** [#C] 5.1 The Devil and Miss Carew :Jack:Gwen:Ianto:P2011:dw2025_q4b_spinoffs:
 **** CANCEL [#E] 5.2 Submission :P2011:
 **** 2DONE [#B] 5.3 The House of the Dead :Jack:Ianto:bilibili:P2011:DW2024_Q4b_spinoffs:
      CLOSED: [2024-12-05 Thu 06:35] SCHEDULED: <2024-12-01 Sun>
@@ -446,7 +446,8 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
       :rating:   8.3
       :END:
 
-***** [#B] 58. Cadoc Point :Andy:
+***** TODO [#B] 58. Cadoc Point :Andy:dw2025_q4a_spinoffs:
+      SCHEDULED: <2025-11-09 Sun>
       :PROPERTIES:
       :rating:   8.4
       :END:
@@ -457,7 +458,7 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
       :rating:   8.9
       :END:
 
-***** NEXT [#E] 60. Infidel Places :Queen:dw2025_q4a_spinoffs:
+***** TODO [#E] 60. Infidel Places :Queen:
       :PROPERTIES:
       :rating:   6.7
       :END:
@@ -735,13 +736,15 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
 
 难度：高。人物较多（而且火炬木小组的成员全出场了），而且没有直接提前交待故事背景，需要慢慢根据对话来采集
 
-***** TODO [#B] 7.9 How I Conquered the World :Yvonne:Orr:Colchester:dw2025_q3b_spinoffs:
-      SCHEDULED: <2025-10-05 Sun>
+***** HALF [#B] 7.9 How I Conquered the World :Yvonne:Orr:Colchester:dw2025_q3b_spinoffs:
+      DEADLINE: <2025-10-12 Sun>
       :PROPERTIES:
       :rating:   8.8
       :END:
 
-***** NEXT [#B] 7.10 Doomscroll :Orr:Colchester:Tyler:Ng:dw2025_q4a_spinoffs:
+***** TODO [#B] 7.10 Doomscroll :Orr:Colchester:Tyler:Ng:dw2025_q4b_spinoffs:
+      SCHEDULED: <2025-11-02 Sun>
+
 ***** [#B] 7.11 Heistland :Yvonne:Orr:Tyler:
 ***** [#C] 7.12 The Apocalypse Starts at 6 PM :Yvonne:Og:
 *** 📂The Lives of Captain Jack :🎧:Jack:1CD:
@@ -823,10 +826,17 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
 
 超级电脑 WOTAN 最早出现于老版3x10 The War Machines 
 
-***** [#C] 2.2 - Blind Summit
+***** HALF [#C] 2.2 - Blind Summit :plot_cast:dw2025_q4a_spinoffs:
+      SCHEDULED: <2025-10-19 Sun>
       :PROPERTIES:
       :rating:   7.7
       :END:
+
+https://breezewiki.com/tardis/wiki/Ianto_Jones#Life_in_London
+
+---
+
+Blind Summit was a company run by Pascal Babich. They developed Excellium from information from the Brett Archive with the intention of creating super-soldiers. They were thwarted in their plans by Yvonne Hartman and Ianto Jones. (AUDIO: Blind Summit) They later formed Temporary Solutions, which again was stopped by Torchwood London. (AUDIO: 9 to 5)
 
 ***** [#A] 2.3 - 9 to 5
       :PROPERTIES:
@@ -1092,7 +1102,8 @@ Roberts Master
 
 难度：较高，因为有很多法庭上的专业名词
 
-***** NEXT [#D] 7.4 Carnival of Angels :plot_yes:Weeping_Angels:dw2025_q4a_spinoffs:
+***** HALF [#D] 7.4 Carnival of Angels :plot_yes:Weeping_Angels:dw2025_q4a_spinoffs:
+      SCHEDULED: <2025-11-02 Sun>
       :PROPERTIES:
       :rating:   7.0
       :END:
@@ -2829,7 +2840,9 @@ http://www.drwhoguide.com/kaldor03.htm
 
 *** 📂PG: Trespassers 2 - The Casebook of Paternoster Row :P2024_04:
 **** [#E] 2.1 Anne of a Thousand Light Years :4th_Dr:
-**** NEXT [#D] 2.2 Pater Noster :dw2025_q4a_spinoffs:
+**** HALF [#D] 2.2 Pater Noster :dw2025_q4a_spinoffs:
+     SCHEDULED: <2025-10-12 Sun>
+
 **** [#B] 2.3 The Gentleman Theives
 *** 📂PG: Trespassers 3 - No Place Like Home :P2024_12:
 **** [#E] 3.1 Doppelgängers :Zygons:
@@ -2906,7 +2919,7 @@ http://www.drwhoguide.com/kaldor03.htm
     :END:
 
 ** CM series 4 :P2015:
-*** HALF [#D] 4.1 - New Horizons :dw2025_q3b_spinoffs:
+*** START [#D] 4.1 - New Horizons :dw2025_q3b_spinoffs:
     SCHEDULED: <2025-09-07 Sun>
     :PROPERTIES:
     :rating:   7.3
@@ -3327,7 +3340,7 @@ From Donna's perspective, the anthology is set after /Forest of the Dead/.
      :rating:   7.9
      :END:
 
-**** NEXT [#B] 2.2 The Glowing Warrior :dw2025_q4a_spinoffs:
+**** TODO [#B] 2.2 The Glowing Warrior :dw2025_q4a_spinoffs:
 **** [#B] 2.3 The Last King of Camelot
 ** Redacted :BBC:
 *** Redacted :P2022_04:scripted:
@@ -3384,8 +3397,8 @@ From Donna's perspective, the anthology is set after /Forest of the Dead/.
      :rating:   7.2
      :END:
 
-**** TODO [#B] 1.4 Narcisus :UNIT_new:dw2025_q3b_spinoffs:
-     SCHEDULED: <2025-09-30 Tue>
+**** HALF [#B] 1.4 Narcisus :UNIT_new:dw2025_q3b_spinoffs:plot_yes:
+     SCHEDULED: <2025-10-12 Sun>
 
 *** 📂vol.2 Protectors of Time :P2022_03:
 **** [#D] 2.1 Stolen Futures :Romana_2:K9:Biroc:

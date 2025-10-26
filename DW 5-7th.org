@@ -1087,8 +1087,8 @@ CLOSED: <2021-12-23 Thu 08:53>
 :rating:   7.9
 :END:
 
-**** START [#C] 157. The Fourth Wall :Flip:dw2025_q3b_doctor:
-SCHEDULED: <2025-10-04 Sat>
+**** HALF [#C] 157. The Fourth Wall :Flip:dw2025_q3b_doctor:plot_no:
+SCHEDULED: <2025-10-15 Wed>
 
 **** CANCEL [#E] 182. Antidote to Oblivion :Flip:
 **** CANCEL [#E] 183. The Brood of Erys :Flip:

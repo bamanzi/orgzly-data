@@ -159,7 +159,8 @@ CLOSED: <2025-01-10 Fri 09:28> SCHEDULED: <2025-01-11 Sat>
 【【神秘博士广播剧熟肉】Travel in Hope 304 Below There 下面的人-哔哩哔哩】 https://b23.tv/BV1Jz4y1W7sn
 
 ****** CANCEL [#F] 3.2.2 The Butler Did it
-****** READY [#B] 3.2.3 Run :bilibili:
+****** READY [#B] 3.2.3 Run :bilibili:dw2025_q4a_doctor:
+SCHEDULED: <2025-11-08 Sat>
 
 【【神秘博士广播剧熟肉】Travel in Hope 306 Run 竞选-哔哩哔哩】 https://b23.tv/BV1bz4y1u7hr
 
@@ -233,7 +234,7 @@ SCHEDULED: <2022-11-29 Tue>
 :rating:   7.8
 :END:
 
-**** NEXT [#C] ST11.X The Lichyrwick Abomination :P2021:scripted:plot_yes:dw2025_q4a_doctor:
+**** TODO [#C] ST11.X The Lichyrwick Abomination :P2021:scripted:plot_yes:
 :PROPERTIES:
 :rating:   7.6
 :END:

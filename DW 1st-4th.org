@@ -245,7 +245,11 @@ SCHEDULED: <2023-07-22 Sat>
 :rating:   7.7
 :END:
 
-***** NEXT [#B] EA 3.3 The Ravelli Conspiracy :Vicki:Steven:plot_cast:dw2025_q4a_doctor:
+***** HALF [#B] EA3.3 The Ravelli Conspiracy :Vicki:Steven:plot_cast:historical:dw2025_q4a_doctor:
+SCHEDULED: <2025-11-01 Sat>
+
+尼可罗·马基亚维利（Niccolò Machiavelli，1469年5月3日—1527年6月21日），意大利佛罗伦萨人，文艺复兴时期政治思想家、历史学家、剧作家、诗人。毕业于佛罗伦萨大学，曾任佛罗伦萨共和国第二国务厅长官、执政委员会秘书，主导建立国民军并参与比萨战争。1513年因美第奇家族复辟遭监禁，后隐居乡间完成《君主论》《论李维》等著作，提出以权力为核心的现实主义政治理论，主张国家至上并将政治学与伦理学分离，奠定近代资产阶级政治学基础[
+
 ***** EA S5 :P2018:Vicki:Steven:
 ****** DONE [#A] EA5.1 The Dalek Occupation of Winter :Steven:Vicki:daleks:plot_yes:DW2022_11_doctor:
 CLOSED: [2022-11-04 Fri 13:26] SCHEDULED: <2022-11-01 Tue>
@@ -775,8 +779,8 @@ SCHEDULED: <2022-06-05 Sun>
 :rating:   7.4
 :END:
 
-***** HALF [#D] CC12.3 The Iron Maid :Zoe:Jamie:dw2025_q3b_doctor:
-SCHEDULED: <2025-08-30 Sat>
+***** 3QTR [#D] CC12.3 The Iron Maid :Zoe:Jamie:dw2025_q3b_doctor:
+CLOSED: [2025-10-06 Mon 08:31] SCHEDULED: <2025-08-30 Sat>
 :PROPERTIES:
 :rating:   7.3
 :END:
@@ -1363,6 +1367,14 @@ SCHEDULED: <2023-11-11 Sat>
 :PROPERTIES:
 :rating:   7.5
 :END:
+
+***** HALF [#C] CC7.12 - Council of War :Benton:Brigadier:plot_cast:dw2025_q4a_doctor:
+SCHEDULED: <2025-10-18 Sat>
+:PROPERTIES:
+:rating:   7.7
+:END:
+
+https://tardis.wiki/wiki/Margery_Phipps
 
 **** Short Trips
 ***** DONE [#C] ST7.X Landbound :scripted:no_companion:bilibili:DW2023_03_doctor:
@@ -2271,7 +2283,8 @@ CLOSED: [2024-11-01 Fri 08:38] SCHEDULED: <2024-09-08 Sun>
 
 【博士的作战记录-哔哩哔哩】 https://b23.tv/zGOAtiq
 
-*** NEXT [#C] 2. The Artist at the End of Time :5th_Dr:Jenny:P2023_06:bilibili:dw2025_q4a_doctor:
+*** HALF [#C] 2. The Artist at the End of Time :5th_Dr:Jenny:The_Curator:P2023_06:bilibili:dw2025_q4a_doctor:
+SCHEDULED: <2025-10-25 Sat>
 
 【【神秘博士六十周年纪念特辑】Once and Future 02 The Artist at the End of Time 时间尽头的艺术家-哔哩哔哩】
 https://b23.tv/BV1hv421y7H4
@@ -2467,11 +2480,6 @@ CLOSED: <2018-07-13 Fri 08:03>
 http://www.drwhoguide.com/chronicles07.htm
 
 **** CC7.1 The Time Museum :Ian:
-**** NEXT [#C] CC7.12 - Council of War :Benton:Brigadier:dw2025_q4a_doctor:
-:PROPERTIES:
-:rating:   7.7
-:END:
-
 **** [#A] ST7.6 - How to Win Planets and Influence People [A⁺] :Monk:Sarah:Harry:
 **** 2DONE [#C] EA7.1 After the Daleks :P2021_08:Dalek_War_1st:Susan:D2021_10_daleks:
 CLOSED: [2021-11-01 Mon 22:54] SCHEDULED: <2021-11-01 Mon>
