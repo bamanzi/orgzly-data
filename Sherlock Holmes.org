@@ -313,6 +313,16 @@ The 2021 release, /Sherlock Holmes – The Seamstress of Peckham Rye/ won ‘Bes
 :goodreads: 4.00
 :END:
 
+**** TBR vol.8 Untold :P2025_12:
+
+https://www.bigfinish.com/releases/v/sherlock-holmes-untold-2908
+
+***** 1. The Remarkable Worm :2CD:
+***** 2. The Music Hall Hearties
+***** 3. The Amateur Mendicant Society
+***** 4. The Strange Disappearance of James Phillimore
+***** 5. The Body in the Barrow
+***** 6. The Politician, the Lighthouse and the Trained Cormorant
 **** misc
 ***** The Adventure of the Bloomsbury Bomber :P2015:
 
@@ -382,16 +392,18 @@ CLOSED: [2024-10-02 Wed 14:38]
 ***** DONE 1x03 The Great Game :Moriarty:
 CLOSED: [2024-10-27 Sun 15:52]
 
-**** TODO S2 :P2012:
+**** DONE S2 :P2012:
 ***** DONE 2x01 A Scandal in Belgravia
 CLOSED: [2025-08-31 Sun 11:29] SCHEDULED: <2025-08-31 Sun>
 
-***** TODO 2x02 The Hounds of Baskerville :Moriarty:
-SCHEDULED: <2025-09-14 Sun>
+***** DONE 2x02 The Hounds of Baskerville :benben:
+CLOSED: [2025-09-14 Sun 10:29] SCHEDULED: <2025-09-14 Sun>
 
-***** TODO 2x03 The Reichenbach Fall
-SCHEDULED: <2025-09-28 Sun>
+***** DONE 2x03 The Reichenbach Fall :Moriarty:
+CLOSED: [2025-09-27 Sat 15:16] SCHEDULED: <2025-09-28 Sun>
 
+**** Many Happy Returns :P2013:
+**** S3 :P2014:
 *** Elementary 基本演绎法 (2012-2019)
 **** DONE S1
 ***** 1x20 M :Moriarty:
@@ -632,13 +644,15 @@ CLOSED: [2025-09-08 Mon 23:06] SCHEDULED: <2025-09-07 Sun>
 ***** DONE 6x06
 CLOSED: [2025-09-13 Sat 22:46] SCHEDULED: <2025-09-07 Sun>
 
-***** TODO 6x07
-SCHEDULED: <2025-09-14 Sun>
+***** DONE 6x07
+CLOSED: <2025-09-21 Sun 10:51> SCHEDULED: <2025-09-14 Sun>
 
-***** TODO 6x08
-SCHEDULED: <2025-09-14 Sun>
+***** DONE 6x08
+CLOSED: [2025-09-21 Sun 14:47] SCHEDULED: <2025-09-14 Sun>
 
-***** TODO 6x09
+***** DONE 6x09
+CLOSED: [2025-09-29 Mon 22:29]
+
 ***** TODO 6x10
 ***** TODO 6x11
 ***** TODO 6x12
@@ -868,14 +882,14 @@ CLOSED: [2025-08-23 Sat 20:47]
 ***** DONE [#C] 3x03 The Million Dollar Bond Robbery
 CLOSED: [2025-09-12 Fri 08:31] SCHEDULED: <2025-08-28 Thu>
 
-***** TODO [#C] 3x04 The Plymouth Express
-SCHEDULED: <2025-09-02 Tue>
+***** DONE [#C] 3x04 The Plymouth Express
+CLOSED: [2025-09-23 Tue 20:41] SCHEDULED: <2025-09-02 Tue>
 
-***** TODO [#C] 3x05 Wasps' Nest
-SCHEDULED: <2025-09-07 Sun>
+***** DONE [#C] 3x05 Wasps' Nest
+CLOSED: [2025-09-24 Wed 22:34] SCHEDULED: <2025-09-07 Sun>
 
-***** TODO 3x06
-SCHEDULED: <2025-09-12 Fri>
+***** DONE 3x06 The Tragedy at Marsdon Manor
+CLOSED: [2025-10-06 Mon 10:03] SCHEDULED: <2025-09-12 Fri>
 
 **** series 4 :P1992:
 
@@ -897,6 +911,9 @@ CLOSED: [2024-09-16 Mon 17:46]
 SCHEDULED: <2025-09-14 Sun>
 
 **** ...
+**** series 12
+***** 12x03 Murder on the Orient Express :P2010:
+***** 12x04 The Clocks :P2011:
 **** series 13 :P2013:
 ** Miss Marple 系列 :marple:
 *** books

@@ -29,7 +29,7 @@ CLOSED: [2021-03-10 Wed 22:38]
 **** DONE [#C] 1x16. The Galileo Seven               (7.8)
 **** DONE [#D] 1x17. The Squire of Gothos            (7.4)
 **** DONE [#B] 1x18. Arena (8.1)
-**** DONE [#B] 1x19. Tomorrow Is Yesterday (8.0)
+**** DONE [#B] 1x19. Tomorrow Is Yesterday (8.0) :alternate_timeline:
 **** DONE [#C] 1x20. Court Martial                   (7.5)
 **** DONE [#D] 1x21. The Return of the Archons       (7.3)
 **** DONE [#A] 1x22. Space Seed (8.9) :Khan:genetically_engineered:
@@ -38,7 +38,7 @@ CLOSED: [2021-03-10 Wed 22:38]
 **** DONE [#B] 1x25. The Devil in the Dark           (8.4)
 **** DONE [#B] 1x26. Errand of Mercy                 (8.3)
 **** CANCEL [#E] 1x27. The Alternative Factor          (5.8)
-**** DONE [#A] 1x28 The City on the Edge of Forever (9.3)
+**** DONE [#A] 1x28 The City on the Edge of Forever (9.3) :alternate_timeline:
 **** DONE [#C] 1x29. Operation - Annihilate!         (7.6)
 *** TOS S2
 
@@ -63,7 +63,7 @@ CLOSED: [2022-05-17 Tue 13:08]
 :rating:   8.8
 :END:
 
-**** CANCEL [#E] 2x07. Catspaw  (6.4)
+**** CANCEL [#E] 2x07. Catspaw  (6.4) :Halloween:
 **** DONE [#C] 2x08. I, Mudd  (7.5)
 **** DONE [#D] 2x09. Metamorphosis (7.4)
 **** DONE [#A] 2x10 Journey to Babel (8.6)
@@ -116,7 +116,7 @@ CLOSED: [2021-02-26 Fri 19:38]
 :rating:   7.7
 :END:
 
-*** 📂TOS S3
+*** TOS S3
 
 24 episodes
 
@@ -173,7 +173,7 @@ CLOSED: [2022-06-26 Sun 10:44] SCHEDULED: <2022-06-18 Sat>
 
 一颗小行星，其实是艘飞船。但里面的人却懵然不知
 
-**** 2DONE [#B] 3x09 The Tholian Web
+**** 2DONE [#B] 3x09 The Tholian Web :mirror_universe:
 :PROPERTIES:
 :rating:   8.2
 :END:
@@ -222,10 +222,17 @@ CLOSED: [2025-01-24 Fri 08:20] SCHEDULED: <2025-01-25 Sat>
 CLOSED: [2022-06-12 Sun 23:15]
 
 **** CANCEL [#E] 3x20. The Way to Eden                   (5.6)
-**** [#D] 3x21. The Cloud Minders                 (7.2)
-**** TODO [#E] 3x22. The Savage Curtain                (6.9) :Kahless:ST2024_06:
-**** [#B] 3x23. All Our Yesterdays (8.4)
-**** [#D] 3x24. Turnabout Intruder                (7.0)
+**** DONE [#D] 3x21. The Cloud Minders                 (7.2) :S2025_Q4:
+CLOSED: [2025-10-19 Sun 09:23] SCHEDULED: <2025-10-11 Sat>
+
+**** TODO [#E] 3x22. The Savage Curtain                (6.9) :Kahless:S2025_Q4:
+SCHEDULED: <2025-10-18 Sat>
+
+**** TODO [#B] 3x23. All Our Yesterdays (8.4) :S2025_Q4:
+SCHEDULED: <2025-10-25 Sat>
+
+**** TODO [#D] 3x24. Turnabout Intruder                (7.0) :S2025_Q4:
+SCHEDULED: <2025-10-31 Fri>
 
 #+TBLFM: $2='(cond ((> $4 8.5) "[#A]") ((>= $4 8.0) "[#B]") ((>= $4 7.5) "[#C]") ((>= $4 7.0) "[#D]") (t "[#E]"));N
 #+TBLFM: $1='(cond ((< $4 7.0) "CANCEL") (t ""));N
@@ -238,7 +245,7 @@ CLOSED: [2022-06-12 Sun 23:15]
 **** DONE 1x01 Beyond the Farthest Star (6.7)
 CLOSED: [2021-03-21 Sun 18:50]
 
-**** DONE [#B] 1x02 Yesteryear (8.2) :Spock:
+**** DONE [#B] 1x02 Yesteryear (8.2) :Spock:alternate_timeline:
 CLOSED: [2021-03-27 Sat 08:00]
 
 **** DONE 1x03 One of Our Planets Is Missing (6.7)
@@ -321,6 +328,14 @@ CLOSED: [2025-02-03 Mon 11:03] SCHEDULED: <2025-02-02 Sun>
 
 **** [#A] 10. To Boldly Go: Part I  (9.1)
 **** [#A] 11. To Boldly Go: Part II  (9.4)
+*** Star Trek: New Voyage
+
+https://en.wikipedia.org/wiki/Star_Trek:_New_Voyages
+
+download: 
+- https://archive.org/details/star-trek-new-voyages-complete
+- 
+
 ** movies :🎦:
 *** 2DONE 1. Star Trek: The Motion Picture 无限太空 :P1979:
 *** 2DONE 2. The Wrath of Khan 可汗怒吼 :P1982:Khan:genetically_engineered:
@@ -464,7 +479,9 @@ CLOSED: [2021-02-22 Mon 13:04]
 ***** DONE Leonard McCoy Frontier Doctor
 ***** Burden of Knowledge.
 ***** Star Trek: Harlan Ellison's Original The City on the Edge of Forever Teleplay :tv_based:
-**** 📂Year Five (2019-) :hanzify:
+**** crossover
+***** Star Trek/Planet of the Apes: The Primate Directive
+**** 📂Year Five (2019-2021) :hanzify:
 ***** DONE 01-02 :Tholian:
 CLOSED: <2021-01-12 Tue 13:08>
 
@@ -544,7 +561,7 @@ CLOSED: [2021-01-12 Tue 19:43]
 ****** TODO DC TOS vol.1 #31-32 Maggie's world / Judgement day :dc_tos_vol1:ST2024_06:
 SCHEDULED: <2024-06-02 Sun>
 
-***** TODO [#B] STCvol.5 Who Killed Captain Kirk (DC TOS vol.1 48-55) :dc_tos_vol1:ST2024_06:
+***** TODO [#B] STCvol.5 Who Killed Captain Kirk (DC TOS vol.1 49-55) :dc_tos_vol1:ST2024_06:
 ***** [#B] Debt of Honor :DC:P1992:
 
 Captain Kirk and the crew of the USS Enterprise find themselves teamed with the Klingons and Romulans to fight a the galactic threat that no government dares admit exists…
@@ -764,9 +781,9 @@ CLOSED: [2022-07-01 Fri 06:21]
 **** DONE [#B] 2x08. A Matter of Honor      (8.2)
 **** DONE [#A] 2x09. The Measure of a Man   (9.1)
 **** CANCEL [#E] 2x10. The Dauphin            (6.3)
-**** DONE [#C] 2x11. Contagion              (7.7)
+**** DONE [#C] 2x11. Contagion              (7.7) :Iconian_Gateway:
 **** [#E] 2x12. The Royale             (6.7) :ST2023_12:
-**** DONE [#C] 2x13. Time Squared           (7.6)
+**** DONE [#C] 2x13. Time Squared           (7.6) :alternate_universe:
 **** CANCEL [#E] 2x14. The Icarus Factor      (6.4)
 **** [#E] 2x15. Pen Pals               (6.9) :ST2023_12:
 **** DONE [#A] 2x16. Q Who                  (9.0) :Q:Borg:ST2023_06:
@@ -797,7 +814,7 @@ first appearance of Borg
 SCHEDULED: <2023-06-09 Fri>
 
 **** [#E] 3x14. A Matter of Perspective  (6.9)
-**** DONE [#A] 3x15. Yesterday's Enterprise   (9.2) :Guinan:ST2023_06:
+**** DONE [#A] 3x15. Yesterday's Enterprise   (9.2) :Guinan:alternate_timeline:
 SCHEDULED: <2023-06-11 Sun>
 
 **** DONE [#A] 3x16. The Offspring            (8.6) :Data:
@@ -987,7 +1004,7 @@ CLOSED: [2021-02-19 Fri 19:42]
 :rating:   6.2
 :END:
 
-**** TODO [#A] 6x15 Tapestry :Picard:Q:alternate_universe:
+**** TODO [#A] 6x15 Tapestry :Picard:Q:alternate_timeline:
 SCHEDULED: <2023-07-01 Sat>
 :PROPERTIES:
 :rating:   9.0
@@ -1060,7 +1077,7 @@ CLOSED: [2021-04-07 Wed 20:13]
 :rating:   7.6
 :END:
 
-**** DONE [#A] 6x25 Timescape
+**** DONE [#A] 6x25 Timescape :alternate_timeline:
 CLOSED: <2022-06-22 Wed 22:40>
 :PROPERTIES:
 :rating:   8.6
@@ -1099,7 +1116,7 @@ CLOSED: [2024-05-07 Tue 21:46]
 
 Data meets Juliana Tainer, former wife of Dr. Noonien Soong and Data's "mother," but she holds a shocking secret that even she doesn't know she carries.
 
-**** DONE [#A] 7x11. Parallels           (8.8) :alternate_universe:
+**** DONE [#A] 7x11. Parallels           (8.8) :alternate_universe:Stargazer:Worf:
 CLOSED: [2024-05-10 Fri 19:10]
 
 **** DONE [#A] 7x12. The Pegasus         (8.6) :Romulans:
@@ -1112,12 +1129,14 @@ CLOSED: [2024-05-20 Mon 20:14]
 **** DONE [#A] 7x15. Lower Decks         (8.7)
 CLOSED: [2024-06-02 Sun 19:38]
 
-**** [#C] 7x16. Thine Own Self      (7.9)
+**** DONE [#C] 7x16. Thine Own Self      (7.9) :Data:
+CLOSED: [2025-10-04 Sat 17:18]
+
 **** CANCEL [#E] 7x17. Masks               (6.1)
 **** [#E] 7x18. Eye of the Beholder (6.8)
 **** [#D] 7x19. Genesis             (7.2)
 **** CANCEL [#E] 7x20. Journey's End       (6.5)
-**** [#E] 7x21. Firstborn           (6.9)
+**** [#E] 7x21. Firstborn           (6.9) :alternate_timeline:
 **** CANCEL [#E] 7x22. Bloodlines          (6.6)
 **** CANCEL [#E] 7x23. Emergence           (6.7)
 **** [#B] 7x24. Preemptive Strike   (8.0)
@@ -1128,7 +1147,7 @@ CLOSED: [2024-06-02 Sun 19:38]
 :imdb:     6.6
 :END:
 
-*** 2DONE 08. First Contact 第一类接触 :Y2373:P1996:Borg:Borg_Queen:Data:
+*** 2DONE 08. First Contact 第一类接触 :Y2373:P1996:Borg:Borg_Queen:Data:alternate_timeline:
 :PROPERTIES:
 :imdb:     7.6
 :END:
@@ -1150,8 +1169,9 @@ CLOSED: [2022-05-23 Mon 20:25]
 ** comics :📚:
 *** DC Comics (1988-1996)
 **** TNG vol.1 (1988)
-***** 3. Q Factor / 4. Q's Day / Q Affects! :Q:
+***** DONE 3. Q Factor / 4. Q's Day / Q Affects! :Q:
 **** TNG vol.2 (1989-1996)
+***** TODO 01-12 :S2025_Q4:
 ***** DONE The Gift (1990 annual) :Q:hanzify:
 CLOSED: [2023-06-15 Thu 08:02] SCHEDULED: <2023-06-18 Sun>
 
@@ -1172,9 +1192,9 @@ CLOSED: [2023-06-15 Thu 06:35] SCHEDULED: <2023-06-18 Sun>
 IDW best of star trek vol.2
 
 *** Marvel Paramount (1996-1998)
-**** Star Trek The Movie - First Contact :movie_adaptation:
+**** Star Trek The Movie - First Contact :movie_adaptation:Borg:
 **** Second Contact (crossover with X-Men) :crossover:
-**** Star Trek TNG - Riker - The Enemy of My Enemy :Riker:
+**** Star Trek TNG - Riker - The Enemy of My Enemy :Riker:S2025_Q4:
 **** DONE Operation Assimilation :P1997:Romulans:Borg:Borg_Queen:
 *** WildStorm (1999-2001)
 **** DONE [#B] The Gorn Crisis :2001:TNG:best:
@@ -1205,7 +1225,7 @@ The series was set bewtween /The Next Phase/  (5x24) and /The Inner Light/ (5
 CLOSED: [2022-07-19 Tue 06:55] SCHEDULED: <2022-07-23 Sat>
 
 ***** NEXT Ghosts :Y2367:
-SCHEDULED: <2025-02-01 Sat>
+SCHEDULED: <2025-02-05 Wed>
 
 ***** DONE [#B] Hive :Borg_Queen:Y2382:ST2023_06:
 CLOSED: [2023-06-18 Sun 07:31] SCHEDULED: <2023-06-18 Sun>
@@ -1227,7 +1247,9 @@ CLOSED: [2022-07-15 Fri 13:18] SCHEDULED: <2022-07-17 Sun>
 SCHEDULED: <2022-07-31 Sun>
 
 **** DONE Deviations :alternate_universe:
-**** Holo-ween :P2023:S2025_Q1:
+**** DONE [#D] Holo-ween :Halloween:Jack_the_Ripper:P2023:
+CLOSED: [2025-02-21 Fri 13:31] SCHEDULED: <2025-02-05 Wed>
+
 *** _best :⭐️:
 **** DONE Best of Star Trek TNG (DC) :DC:
 ***** DONE [#B] v2 #05-06 Serafin's Survivors :Geordi:P1990:
@@ -1440,7 +1462,9 @@ CLOSED: [2023-06-25 Sun 18:54] SCHEDULED: <2023-06-25 Sun>
 CLOSED: [2025-01-29 Wed 16:27]
 
 **** DONE [#C] 1x06. Captive Pursuit (7.7)
-**** LATER [#E] 1x07. Q-Less (6.9) :Q:
+**** DONE [#E] 1x07. Q-Less (6.9) :Q:
+CLOSED: [2025-10-19 Sun 10:07]
+
 **** DONE [#D] 1x08. Dax (7.2) :Curzon_Dax:
 CLOSED: [2025-01-27 Mon 08:15]
 
@@ -1475,7 +1499,7 @@ CLOSED: [2025-01-27 Mon 08:15]
 **** [#D] 2x16. Shadowplay (7.4)
 **** CANCEL [#E] 2x17. Playing God (6.5)
 **** [#D] 2x18. Profit and Loss (7.3)
-**** DONE [#B] 2x19. Blood Oath (8.0) :Jadzia:Klingons:Kang:Curzon:Koloth:
+**** DONE [#B] 2x19. Blood Oath (8.0) :Jadzia:Klingons:Kang:Curzon_Dax:Koloth:
 **** DONE [#C] 2x20. The Maquis: Part I (7.9)
 **** DONE [#B] 2x21. The Maquis: Part II (8.0)
 **** DONE [#B] 2x22. The Wire (8.3)
@@ -1494,13 +1518,13 @@ CLOSED: [2025-01-27 Mon 08:15]
 **** CANCEL [#E] 3x08. Meridian (5.7)
 **** DONE [#B] 3x09. Defiant (8.1) :Maquis:
 **** CANCEL [#E] 3x10. Fascination (6.3)
-**** DONE [#B] 3x11. Past Tense: Part I (8.0) :alternate_universe:
-**** DONE [#B] 3x12. Past Tense: Part II (8.0) :alternate_universe:
+**** DONE [#B] 3x11. Past Tense: Part I (8.0) :alternate_timeline:
+**** DONE [#B] 3x12. Past Tense: Part II (8.0) :alternate_timeline:
 **** CANCEL [#E] 3x13. Life Support (6.8)
 **** [#D] 3x14. Heart of Stone (7.4)
 **** DONE [#C] 3x15. Destiny (7.5)
 **** CANCEL [#E] 3x16. Prophet Motive (6.9)
-**** DONE [#C] 3x17. Visionary (7.9) :alternate_universe:
+**** DONE [#C] 3x17. Visionary (7.9) :alternate_timeline:
 **** CANCEL [#E] 3x18. Distant Voices (6.6)
 **** DONE [#C] 3x19. Through the Looking Glass (7.5) :mirror_universe:
 **** DONE [#A] 3x20. Improbable Cause (8.7)
@@ -1508,7 +1532,7 @@ CLOSED: [2025-01-27 Mon 08:15]
 **** [#D] 3x22. Explorers (7.4)
 **** [#D] 3x23. Family Business (7.3)
 **** [#D] 3x24. Shakaar (7.0)
-**** [#D] 3x25. Facets (7.3)
+**** [#D] 3x25. Facets (7.3) :Curzon_Dax:
 **** DONE [#B] 3x26. The Adversary (8.3)
 *** DS9 S4 (Sep.95 - Jun.96) :Y2372:
 **** DONE [#A] 4x01. The Way of the Warrior (9.1)
@@ -1532,7 +1556,7 @@ CLOSED: [2025-01-27 Mon 08:15]
 **** [#D] 4x19. Shattered Mirror (7.3) :mirror_universe:
 **** CANCEL [#E] 4x20. The Muse (5.7)
 **** DONE [#C] 4x21. For the Cause (7.9)
-**** DONE [#B] 4x22. To the Death (8.2)
+**** DONE [#B] 4x22. To the Death (8.2) :Iconian_Gateway:
 **** DONE [#C] 4x23. The Quickening (7.7)
 **** DONE [#C] 4x24. Body Parts (7.6)
 **** DONE [#B] 4x25. Broken Link (8.3) :Changelings:
@@ -1898,7 +1922,7 @@ CLOSED: [2021-02-20 Sat 13:13]
 
 丑哭了
 
-**** LATER Divided We Fall :TNG:DS9:P2001:crossover:
+**** LATER Divided We Fall :TNG:DS9:P2001:crossover:S2025_Q4:
 *** IDW :IDW:
 **** 2DONE Fool's Gold :2010:
 **** DONE Too Long a Sacrifice (2020) :hanzify:
@@ -1983,6 +2007,23 @@ Connections
 - VOY episode: "Life Line" (6x24)
 
 **** Signal to Noise
+** fan fiction
+*** Alone Together: A Deep Space 9 Companion :Y2396:
+
+https://breezewiki.com/stexpanded/wiki/Alone_Together:_A_Deep_Space_9_Companion
+
+**** 1. These Days :P2020:bilibili:
+
+【【自译DS9短剧】Alone Together S1E1-哔哩哔哩】 https://b23.tv/Y2VNxuv
+
+**** 2. Sources :P2020:bilibili:
+
+【【自译DS9短剧】Alone Together S1E2-哔哩哔哩】 https://b23.tv/pRS8Lnl
+
+**** 3. Tango :bilibili:P2020:
+
+【【自译DS9短剧】Alone Together S1E3-哔哩哔哩】 https://b23.tv/kWhmMH8
+
 * VOY - Voyager :VOY:
 ** tv (1995-2001) :📺:
 *** VOY S1 :Y2371:
@@ -1998,7 +2039,7 @@ CLOSED: [2021-03-19 Fri 19:43]
 :rating:   7.3
 :END:
 
-**** DONE [#D] 1x04 Time and Again :alternate_universe:
+**** DONE [#D] 1x04 Time and Again :alternate_timeline:
 CLOSED: [2021-03-23 Tue 19:37]
 :PROPERTIES:
 :rating:   7.2
@@ -2081,7 +2122,7 @@ CLOSED: [2022-07-16 Sat 10:36] SCHEDULED: <2022-07-30 Sat>
 EMH 玩了一回“全息小说”，陷入了自己到底是全息投影还是真人的迷惑。很有庄周梦蝶的感觉
 
 **** CANCEL [#F] 2x04 Elogium (6.1)
-**** DONE [#D] 2x05 Non Sequitur (7.0) :alternate_universe:
+**** DONE [#D] 2x05 Non Sequitur (7.0) :alternate_timeline:
 CLOSED: [2022-07-18 Mon 21:54]
 
 **** DONE [#D] 2x06. Twisted               (7.2)
@@ -2164,7 +2205,7 @@ CLOSED: [2025-01-12 Sun 22:28] SCHEDULED: <2025-01-12 Sun>
 CLOSED: [2025-01-17 Fri 20:15] SCHEDULED: <2025-01-19 Sun>
 
 **** CANCEL [#E] 3x07. Sacred Ground		   (5.9)
-**** DONE [#B] 3x08. Future's End		   (8.4) :alternate_timeline:
+**** DONE [#B] 3x08. Future's End	   (8.4) :alternate_timeline:
 CLOSED: <2025-01-19 Sun 15:56> SCHEDULED: <2025-01-19 Sun>
 
 **** DONE [#B] 3x09. Future's End: Part II (8.3) :alternate_timeline:
@@ -2176,20 +2217,44 @@ CLOSED: [2025-01-18 Sat 21:00] SCHEDULED: <2025-01-19 Sun>
 **** DONE [#D] 3x11. The Q and the Grey   (7.4) :Q:S2025:
 CLOSED: [2025-01-26 Sun 20:19] SCHEDULED: <2025-01-26 Sun>
 
-**** [#D] 3x12. Macrocosm			   (7.3)
-**** [#E] 3x13. Fair Trade		   (6.8)
-**** [#E] 3x14. Alter Ego			   (6.8)
-**** [#D] 3x15. Coda				   (7.2)
-**** [#D] 3x16. Blood Fever		   (7.4)
-**** [#C] 3x17. Unity				   (7.9)
+**** DONE [#D] 3x12. Macrocosm			   (7.3) :S2025_Q4:
+CLOSED: [2025-10-11 Sat 19:23] SCHEDULED: <2025-10-11 Sat>
+
+**** DONE [#E] 3x13. Fair Trade		   (6.8) :S2025_Q4:
+CLOSED: [2025-10-17 Fri 06:53] SCHEDULED: <2025-10-12 Sun>
+
+**** DONE [#E] 3x14. Alter Ego			   (6.8) :S2025_Q4:
+CLOSED: [2025-10-19 Sun 23:20] SCHEDULED: <2025-10-19 Sun>
+
+**** DONE [#D] 3x15. Coda				   (7.2) :time_loop:S2025_Q4:
+CLOSED: [2025-10-22 Wed 20:29] SCHEDULED: <2025-10-26 Sun>
+
+**** DONE [#D] 3x16. Blood Fever		   (7.4) :S2025_Q4:
+CLOSED: [2025-10-25 Sat 18:42] SCHEDULED: <2025-10-26 Sun>
+
+**** TODO [#C] 3x17. Unity				   (7.9) :S2025_Q4:
+SCHEDULED: <2025-11-02 Sun>
+
 **** CANCEL [#E] 3x18. Darkling			   (6.5)
-**** [#E] 3x19. Rise				   (6.8)
+**** TODO [#E] 3x19. Rise				   (6.8)
+SCHEDULED: <2025-11-02 Sun>
+
 **** CANCEL [#E] 3x20. Favorite Son		   (6.2)
-**** [#C] 3x21. Before and After	   (7.9) :alternate_universe:
-**** [#C] 3x22. Real Life			   (7.5)
-**** [#A] 3x23. Distant Origin	   (8.6)
-**** [#C] 3x24. Displaced			   (7.6)
-**** [#B] 3x25. Worst Case Scenario  (8.2)
+**** TODO [#C] 3x21. Before and After	   (7.9) :alternate_universe:
+SCHEDULED: <2025-11-09 Sun>
+
+**** TODO [#C] 3x22. Real Life			   (7.5)
+SCHEDULED: <2025-11-09 Sun>
+
+**** TODO [#A] 3x23. Distant Origin	   (8.6)
+SCHEDULED: <2025-11-16 Sun>
+
+**** TODO [#C] 3x24. Displaced			   (7.6)
+SCHEDULED: <2025-11-16 Sun>
+
+**** TODO [#B] 3x25. Worst Case Scenario  (8.2)
+SCHEDULED: <2025-11-16 Sun>
+
 **** DONE [#A] 3x26. Scorpion			   (8.9) :Borg:
 CLOSED: <2022-05-24 Tue 20:12> SCHEDULED: <2022-05-27 Fri>
 
@@ -2503,7 +2568,7 @@ CLOSED: [2022-08-02 Tue 06:20] SCHEDULED: <2022-07-24 Sun>
 **** 2DONE 25-28 The Khitomer Conflict ↗
 **** DONE Star Trek: Manifest Destiny
 *** Star Trek: Starfleet Academy
-** novels
+** novels :📔:
 *** Starfleet Academy
 **** The Delta Anomaly
 **** The Edge
@@ -2512,8 +2577,13 @@ CLOSED: [2022-08-02 Tue 06:20] SCHEDULED: <2022-07-24 Sun>
 CLOSED: [2022-07-24 Sun 10:45]
 
 * DSC - Discovery :DSC:
-** Discovery (2017- ) :📺:
+** Discovery (2017-2024) :📺:
 *** 📂DSC S1 :P2017:
+**** 1x09 Into the Forest I Go :mirror_universe:
+**** 1x10 Despite Yourself
+**** 1x11 The Wolf Inside
+**** 1x12 Vaulting Ambition
+**** 1x13 What's Past Is Prologue :mirror_universe:
 *** 📂DSC S2 :P2019:Pike:Section_31:
 **** 2x01 Brother :Spock:
 **** 2x07 Light and Shadows :Spock:
@@ -2570,10 +2640,10 @@ CLOSED: [2022-06-18 Sat 11:51]
 :imdb:     5.7
 :END:
 
-**** DONE [#E] 3x09 Terra Firma, Part 1
+**** DONE [#E] 3x09 Terra Firma, Part 1 :mirror_universe:
 CLOSED: [2022-06-21 Tue 22:39]
 
-**** DONE [#E] 3x10 Terra Firma, Part 2
+**** DONE [#E] 3x10 Terra Firma, Part 2 :mirror_universe:
 CLOSED: [2022-06-21 Tue 23:56]
 
 **** DONE [#F] 3x11 Su'Kal
@@ -2666,7 +2736,37 @@ CLOSED: [2022-06-25 Sat 23:46]
 **** DONE 1x10 Et in Arcadia Ego, Part 2
 CLOSED: [2022-06-26 Sun 22:27]
 
-*** LATER 📂Picard S2 :P2022:Y2400:S2025_Q1:
+*** DOING 📂Picard S2 :P2022:Y2400:S2025_Q4:Q:
+**** DONE 2x01 :Borg_Queen:
+CLOSED: <2025-10-08 Wed 11:01>
+
+**** DONE 2x02 :alternate_timeline:Borg_Queen:
+CLOSED: [2025-10-08 Wed 19:31]
+
+**** DONE 2x03
+CLOSED: [2025-10-09 Thu 22:58]
+
+**** DONE 2x04 :Guinan:
+CLOSED: [2025-10-12 Sun 15:56] SCHEDULED: <2025-10-12 Sun>
+
+**** DONE 2x05
+CLOSED: <2025-10-14 Tue 22:17> SCHEDULED: <2025-10-12 Sun>
+
+**** DONE 2x06
+CLOSED: [2025-10-16 Thu 22:33]
+
+**** DONE 2x07
+CLOSED: [2025-10-18 Sat 22:30]
+
+**** DONE 2x08
+CLOSED: [2025-10-23 Thu 23:21] SCHEDULED: <2025-10-25 Sat>
+
+**** TODO 2x09
+SCHEDULED: <2025-10-25 Sat>
+
+**** TODO 2x10
+SCHEDULED: <2025-10-31 Fri>
+
 ** comics :📚:
 *** DONE Picard: Countdown
 CLOSED: <2022-06-04 Sat 17:14> SCHEDULED: <2022-06-03 Fri>
@@ -2677,7 +2777,7 @@ CLOSED: <2022-06-04 Sat 17:14> SCHEDULED: <2022-06-03 Fri>
 
 set between seasons two and three of the Paramount+ hit series /Star Trek: Picard/
 
-** audio
+** audio :🎧:
 *** No Man's Land :P2022:Seven_of_Nine:Raffi:
 ** novels :📔:
 *** [#B] #1. The Last Best Hope :Picard:ebook:
@@ -2759,6 +2859,13 @@ CLOSED: [2025-01-22 Wed 14:00] SCHEDULED: <2025-01-25 Sat>
 *** DONE 2x05 An Embarrassment Of Dooplers
 CLOSED: [2025-01-31 Fri 15:34] SCHEDULED: <2025-01-29 Wed>
 
+*** DONE 2x06
+CLOSED: [2025-03-31 Mon 19:58]
+
+*** TODO 2x07 :S2025_Q4:
+*** TODO 2x08 :S2025_Q4:
+*** TODO 2x09 :S2025_Q4:
+*** TODO 2x10 :S2025_Q4:
 ** 📂Lower Decks S3 (2022)
 *** 3x01 :P2022_08:
 ** 📂Lower Decks S4 (2023)
@@ -2778,43 +2885,43 @@ CLOSED: [2025-01-31 Fri 15:34] SCHEDULED: <2025-01-29 Wed>
 
 10 episodes
 
-**** DONE 1x01 Strange New Worlds
+**** DONE [#B] 1x01 Strange New Worlds
 CLOSED: [2022-06-08 Wed 08:32]
 
-**** DONE 1x02 Children of the Comet
+**** DONE [#B] 1x02 Children of the Comet
 CLOSED: [2022-07-02 Sat 23:03]
 
-**** DONE 1x03 Ghosts of Illyria :genetically_engineered:
+**** DONE [#C] 1x03 Ghosts of Illyria :genetically_engineered:
 CLOSED: [2022-07-10 Sun 19:03] SCHEDULED: <2022-07-09 Sat>
 
-**** DONE 1x04 Momento Mori
+**** DONE [#B] 1x04 Momento Mori
 CLOSED: [2022-07-16 Sat 14:49] SCHEDULED: <2022-07-16 Sat>
 
-**** DONE 1x05 Spock Amok
+**** DONE [#B] 1x05 Spock Amok
 CLOSED: [2022-07-23 Sat 09:30] SCHEDULED: <2022-07-23 Sat>
 
-**** DONE 1x06 Lift Us Where Suffering Cannot Reach
+**** DONE [#C] 1x06 Lift Us Where Suffering Cannot Reach
 CLOSED: [2022-07-31 Sun 20:34] SCHEDULED: <2022-07-30 Sat>
 
-**** DONE [#D] 1x07 The Serene Squall 宁静风暴号 :ST2023_06:
+**** DONE [#D] 1x07 The Serene Squall 宁静风暴号
 CLOSED: [2023-06-10 Sat 17:00] SCHEDULED: <2023-06-11 Sun>
 :PROPERTIES:
 :imdb:     7.2
 :END:
 
-**** DONE [#E] 1x08 The Elysian Kingdom :ST2023_06:
+**** DONE [#E] 1x08 The Elysian Kingdom
 CLOSED: [2023-06-17 Sat 17:14] SCHEDULED: <2023-06-18 Sun>
 :PROPERTIES:
 :imdb:     6.1
 :END:
 
-**** DONE [#B] 1x09 All Those Who Wander 那些漂泊之人 :Gorn:ST2023_06:
+**** DONE [#B] 1x09 All Those Who Wander 那些漂泊之人 :Gorn:
 CLOSED: [2023-06-26 Mon 20:23] SCHEDULED: <2023-06-24 Sat>
 :PROPERTIES:
 :imdb:     8.1
 :END:
 
-**** DONE [#A] 1x10 A Quality of Mercy :Kirk:ST2023_06:
+**** DONE [#A] 1x10 A Quality of Mercy :Kirk:alternate_timeline:
 CLOSED: [2023-07-01 Sat 12:02] SCHEDULED: <2023-07-01 Sat>
 :PROPERTIES:
 :imdb:     9.1
@@ -2822,7 +2929,7 @@ CLOSED: [2023-07-01 Sat 12:02] SCHEDULED: <2023-07-01 Sat>
 
 an alternate timeline of TOS episode: /Balance of Terror/
 
-*** DOING 📂SNW S2 :P2023:Y2259:S2025_Q1:
+*** DOING SNW S2 :P2023:Y2259:
 
 新世界第二季整季：
 百度网盘：https://pan.baidu.com/s/1onWnu2wUZd5YZFDD0uDCWg?pwd=stcn 提取码：stcn
@@ -2860,6 +2967,10 @@ CLOSED: [2025-02-02 Sun 13:24] SCHEDULED: <2025-02-02 Sun>
 :and:      8.2
 :END:
 
+**** DONE 2x06
+CLOSED: [2025-10-01 Wed 12:19]
+
+*** SNW S3 :P2025:
 ** comics :📚:
 *** Early Voyages (Marvel)
 
@@ -2889,10 +3000,11 @@ CLOSED: [2022-07-16 Sat 07:50] SCHEDULED: <2022-07-24 Sun>
 **** DONE 09. One of a Kind
 CLOSED: <2022-07-20 Wed 01:04> SCHEDULED: <2022-07-31 Sun>
 
-**** TODO 10-11. The Fallen :ST2024_06:
-**** TODO 12. Futures :Una:
-**** ...
-**** 17.
+**** TODO 10-11. The Fallen :S2025_Q4:
+**** TODO 12-14. Futures :Una:S2025_Q4:
+**** 15. Now and Then
+**** 16. Thanatos
+**** 17. Nemesis
 *** IDW
 **** Star Trek: Crew :Una:P2009:
 
@@ -2915,7 +3027,11 @@ CLOSED: [2022-07-07 Thu 22:46]
 **** DONE The Illyrian Enigma :Y2259:
 CLOSED: [2024-05-18 Sat 20:40]
 
-**** LATER The Scorpius Run :P2023:S2025_Q4:
+**** LATER The Scorpius Run :P2023:
+
+This five-issue series is set following /Star Trek: Strange New Worlds/'s second season finale,
+
+**** The Seeds of Salvation :P2025:
 * _others
 ** movies :🎦:
 *** DONE Star Trek: Section 31 :P2025:
@@ -2944,10 +3060,11 @@ CLOSED: [2021-01-21 Thu 19:34]
 **** New Frontier: Double Time :NF:
 **** Special :hanzify:mix:
 *** 6. IDW :idw:
-**** Star Trek (IDW 2022) :Y2378:hanzify:
-***** _info
+**** Star Trek (IDW 2022) :Y2378:
 
 https://memory-beta.breezewiki.com/wiki/Star_Trek_(IDW_2022)
+
+***** _info
 
 the second ongoing series from IDW to simply bear the name "Star Trek" (IDW's first Star Trek series was centered around the TOS cast of the Kelvin timeline)
 
@@ -2965,25 +3082,30 @@ https://intl.startrek.com/news/new-era-star-trek-comics
 
 故事发生在电影9之后，希斯科回到常态世界接任了新船“忒休斯号”指挥权，在这艘船上，数据（带着他的猫）担任大副，派瑞斯担任舵手，贝芙莉担任医官，以及，斯考提担任轮机长！
 
-***** DONE #1-6 Godshock :ST2024_06:
+***** DONE #1-6 Godshock :ST2024_06:hanzify:
 CLOSED: [2024-06-05 Wed 09:02]
 
-***** DONE #7-10 The Red Path :ST2024_06:
+***** DONE #7-10 The Red Path :ST2024_06:hanzify:
 CLOSED: [2024-06-06 Thu 08:44] SCHEDULED: <2024-06-09 Sun>
 
-***** #13-18 A Savage World of Glass and Bone
+***** TODO #13-18 A Savage World of Glass and Bone :S2025_Q4:
+SCHEDULED: <2025-10-25 Sat>
+
 ***** #19-24 Pleroma
-**** Defiant (2023) :Y2378:hanzify:
+**** Defiant (2023) :Y2378:
 
  漫画新系列《挑战号》第1期发布！本刊是正在连载的新主刊的衍生故事，故事紧接在主刊第5期之后，又是全明星阵容，集结了史波克、沃尔夫、罗·拉伦、贝拉娜和Lore，为了完成一项特殊的任务。
 
-***** TODO Defiant vol.1 (#1-5) :ST2024_12:
+***** TODO Defiant vol.1 (#1-5) :S2025_Q4:hanzify:
 SCHEDULED: <2024-06-09 Sun>
 
-***** #8-11 Another Piece of the Action
+***** TODO #8-11 Another Piece of the Action :S2025_Q4:
+SCHEDULED: <2025-10-25 Sat>
+
 ***** #12-16 Hell Is Only a Word
 ***** #17-21 The Stars of Home
-**** READY Day of Blood :crossover:hanzify:ST2024_12:
+**** READY Day of Blood :crossover:hanzify:S2025_Q4:
+SCHEDULED: <2025-10-18 Sat>
 
 漫画《鲜血之日 Day of Blood》第1期发布，本刊故事承接新主刊第10期和《挑战号》第5期。
 
@@ -3038,7 +3160,6 @@ CLOSED: [2021-01-13 Wed 12:45]
 ***** DONE Assignment Earth :Gary_Seven:P2008:
 **** crossovers
 ***** The Next Generation/Doctor Who: Assimilation2 :doctor_who:11th_Dr:tng:
-***** Star Trek/Planet of the Apes
 ***** Star Trek/Green Lantern: The Spectrum War （光谱战争） :hanzify:
 ***** Star Trek/Green Lantern Volume 2: Stranger Worlds (陌界生人)
 ***** Star Trek vs. Transformers :tas:
@@ -3064,7 +3185,12 @@ CLOSED: [2022-05-27 Fri 08:46]
 ****** Alien Spotlight, Volume 2: Romulans
 ****** Alien Spotlight, Volume 2: Klingons
 ****** Mirror Images #1
-**** Star Trek Classics
+**** Star Trek Archives
+
+https://memory-beta.breezewiki.com/wiki/Star_Trek_Archives
+
+download: https://getcomics.org/other-comics/star-trek-classics-vol-1-5-2011-2013/
+
 ***** DONE [#B] vol.1 The Gorn Crisis :Wildstorm:TNG:
 :PROPERTIES:
 :rating:   4.0
@@ -3096,7 +3222,7 @@ CLOSED: [2022-05-27 Fri 08:46]
 :END:
 
 **** misc
-** novels
+** novels :📔:
 *** Myriad Universe
 **** LATER Infinity's Prism
 *** Section 31
@@ -3213,7 +3339,7 @@ CLOSED: [2021-03-26 Fri 19:13]
 
  A time distortion brings someone from the past to the Orville.
 
-**** DONE [#A] 2x14 The Road Not Taken
+**** DONE [#A] 2x14 The Road Not Taken :alternate_timeline:
 CLOSED: [2021-03-26 Fri 23:23]
 :PROPERTIES:
 :rating:   8.7
@@ -3274,15 +3400,18 @@ CLOSED: [2025-02-03 Mon 22:17] SCHEDULED: <2025-02-04 Tue>
 CLOSED: [2025-01-05 Sun 22:57]
 
 ** novels :📔:
-*** Sympathy for the Devil
+*** Sympathy for the Devil :S2025_Q4:
 
 翻译：
 - 前两章  https://m.weibo.cn/6420838648/4837290571210950
 - 全文： https://wu-danielle.bearblog.dev/myrutxdrpq/?continueFlag=5dbaf60ab342f4c66f75fcac04bb192d
 
-* For All Mankind
-** S1
-*** DONE 1x06
+* For All Mankind :FAM:📺:
+** DONE S1 :P2019:
+
+season timeframe: 26 June 1969 - end of 1974
+
+*** DONE 1x06 :Y1974:
 CLOSED: <2023-08-16 Wed 19:13>
 
 *** DONE 1x07
