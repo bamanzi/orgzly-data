@@ -1457,7 +1457,9 @@ during Starfleet's battle against the Borg cube in Sector 001.
 **** DONE [#D] 1x03. Past Prologue (7.1) :ST2023_06:
 CLOSED: [2023-06-25 Sun 18:54] SCHEDULED: <2023-06-25 Sun>
 
-**** CANCEL [#E] 1x04. A Man Alone (6.9)
+**** DONE [#E] 1x04. A Man Alone (6.9)
+CLOSED: [2025-10-26 Sun 15:51]
+
 **** DONE [#D] 1x05. Babel (7.0)
 CLOSED: [2025-01-29 Wed 16:27]
 
@@ -1470,11 +1472,15 @@ CLOSED: [2025-01-27 Mon 08:15]
 
 **** CANCEL [#E] 1x09. The Passenger (6.5)
 **** CANCEL [#E] 1x10. Move Along Home (6.0)
-**** [#D] 1x11. The Nagus (7.2) :Ferengi:
-**** [#D] 1x12. Vortex (7.1)
+**** DONE [#D] 1x11. The Nagus (7.2) :Ferengi:
+CLOSED: [2025-11-15 Sat 20:33]
+
+**** DONE [#D] 1x12. Vortex (7.1) :Odo:
+CLOSED: [2025-11-02 Sun 11:33]
+
 **** CANCEL [#E] 1x13. Battle Lines (6.7)
 **** CANCEL [#E] 1x14. The Storyteller (6.1)
-**** CANCEL [#E] 1x15. Progress (6.9)
+**** [#E] 1x15. Progress (6.9)
 **** CANCEL [#E] 1x16. If Wishes Were Horses (6.6)
 **** [#D] 1x17. The Forsaken (7.0)
 **** [#D] 1x18. Dramatis Personae (7.2)
@@ -2026,7 +2032,7 @@ https://breezewiki.com/stexpanded/wiki/Alone_Together:_A_Deep_Space_9_Companion
 
 * VOY - Voyager :VOY:
 ** tv (1995-2001) :📺:
-*** VOY S1 :Y2371:
+*** DONE VOY S1 :Y2371:
 **** DONE [#C] 1x01/02 Caretaker
 CLOSED: [2021-03-18 Thu 22:56]
 :PROPERTIES:
@@ -2108,7 +2114,7 @@ CLOSED: [2022-07-08 Fri 19:57] SCHEDULED: <2022-07-09 Sat>
 **** DONE [#D] 1x16 Learning Curve
 CLOSED: [2022-07-09 Sat 12:06] SCHEDULED: <2022-07-16 Sat>
 
-*** VOY S2 :Y2372:ST2024_06:
+*** DONE VOY S2 :Y2372:ST2024_06:
 
 26 issues
 
@@ -2183,7 +2189,7 @@ CLOSED: [2024-05-27 Mon 21:17]
 **** DONE [#C] 2x26. Basics: Part I		(7.9)
 CLOSED: [2024-05-31 Fri 20:15]
 
-*** LATER 📂VOY S3 :Y2373:
+*** DONE VOY S3 :Y2373:
 **** DONE [#B] 3x01. Basics: Part II       (8.0)
 CLOSED: [2024-05-31 Fri 21:03]
 
@@ -2214,46 +2220,48 @@ CLOSED: [2025-01-19 Sun 16:50] SCHEDULED: <2025-01-19 Sun>
 **** DONE [#E] 3x10. Warlord		   (6.8)
 CLOSED: [2025-01-18 Sat 21:00] SCHEDULED: <2025-01-19 Sun>
 
-**** DONE [#D] 3x11. The Q and the Grey   (7.4) :Q:S2025:
+**** DONE [#D] 3x11. The Q and the Grey   (7.4) :Q:
 CLOSED: [2025-01-26 Sun 20:19] SCHEDULED: <2025-01-26 Sun>
 
-**** DONE [#D] 3x12. Macrocosm			   (7.3) :S2025_Q4:
+**** DONE [#D] 3x12. Macrocosm			   (7.3)
 CLOSED: [2025-10-11 Sat 19:23] SCHEDULED: <2025-10-11 Sat>
 
-**** DONE [#E] 3x13. Fair Trade		   (6.8) :S2025_Q4:
+**** DONE [#E] 3x13. Fair Trade		   (6.8)
 CLOSED: [2025-10-17 Fri 06:53] SCHEDULED: <2025-10-12 Sun>
 
-**** DONE [#E] 3x14. Alter Ego			   (6.8) :S2025_Q4:
+**** DONE [#E] 3x14. Alter Ego			   (6.8)
 CLOSED: [2025-10-19 Sun 23:20] SCHEDULED: <2025-10-19 Sun>
 
-**** DONE [#D] 3x15. Coda				   (7.2) :time_loop:S2025_Q4:
+**** DONE [#D] 3x15. Coda				   (7.2) :time_loop:
 CLOSED: [2025-10-22 Wed 20:29] SCHEDULED: <2025-10-26 Sun>
 
-**** DONE [#D] 3x16. Blood Fever		   (7.4) :S2025_Q4:
+**** DONE [#D] 3x16. Blood Fever		   (7.4)
 CLOSED: [2025-10-25 Sat 18:42] SCHEDULED: <2025-10-26 Sun>
 
-**** TODO [#C] 3x17. Unity				   (7.9) :S2025_Q4:
-SCHEDULED: <2025-11-02 Sun>
+**** DONE [#C] 3x17. Unity				   (7.9) :Borg:
+CLOSED: [2025-11-01 Sat 23:36] SCHEDULED: <2025-11-02 Sun>
 
 **** CANCEL [#E] 3x18. Darkling			   (6.5)
-**** TODO [#E] 3x19. Rise				   (6.8)
-SCHEDULED: <2025-11-02 Sun>
+**** DONE [#E] 3x19. Rise				   (6.8)
+CLOSED: [2025-11-03 Mon 21:22] SCHEDULED: <2025-11-02 Sun>
 
 **** CANCEL [#E] 3x20. Favorite Son		   (6.2)
-**** TODO [#C] 3x21. Before and After	   (7.9) :alternate_universe:
-SCHEDULED: <2025-11-09 Sun>
+**** DONE [#C] 3x21. Before and After	   (7.9) :alternate_timeline:
+CLOSED: [2025-11-04 Tue 23:06] SCHEDULED: <2025-11-09 Sun>
 
-**** TODO [#C] 3x22. Real Life			   (7.5)
-SCHEDULED: <2025-11-09 Sun>
+**** DONE [#C] 3x22. Real Life			   (7.5)
+CLOSED: [2025-11-12 Wed 23:17] SCHEDULED: <2025-11-09 Sun>
 
-**** TODO [#A] 3x23. Distant Origin	   (8.6)
-SCHEDULED: <2025-11-16 Sun>
+**** DONE [#A] 3x23. Distant Origin	   (8.6)
+CLOSED: [2025-11-09 Sun 17:36] SCHEDULED: <2025-11-16 Sun>
 
-**** TODO [#C] 3x24. Displaced			   (7.6)
-SCHEDULED: <2025-11-16 Sun>
+An alien scientist finds evidence linking his species' ancestry to Earth, but government officials refuse to accept his evidence because it conflicts with existing doctrine.
 
-**** TODO [#B] 3x25. Worst Case Scenario  (8.2)
-SCHEDULED: <2025-11-16 Sun>
+**** DONE [#C] 3x24. Displaced			   (7.6)
+CLOSED: [2025-11-19 Wed 21:56] SCHEDULED: <2025-11-16 Sun>
+
+**** DONE [#B] 3x25. Worst Case Scenario  (8.2) :Holodeck:
+CLOSED: [2025-11-16 Sun 12:17] SCHEDULED: <2025-11-16 Sun>
 
 **** DONE [#A] 3x26. Scorpion			   (8.9) :Borg:
 CLOSED: <2022-05-24 Tue 20:12> SCHEDULED: <2022-05-27 Fri>
@@ -2300,7 +2308,9 @@ CLOSED: [2022-07-20 Wed 21:01] SCHEDULED: <2022-07-21 Thu>
 **** DONE [#C] 4x13 Waking Moments			   (7.7)
 CLOSED: [2022-07-29 Fri 20:17] SCHEDULED: <2022-07-30 Sat>
 
-**** [#A] 4x14 Message in a Bottle	   (8.7)
+**** DONE [#A] 4x14 Message in a Bottle	   (8.7) :EMH:
+CLOSED: [2025-11-09 Sun 16:49]
+
 **** [#C] 4x15 Hunters				   (7.9)
 **** [#B] 4x16 Prey					   (8.2)
 **** [#E] 4x17 Retrospect				   (6.9)
@@ -2736,7 +2746,7 @@ CLOSED: [2022-06-25 Sat 23:46]
 **** DONE 1x10 Et in Arcadia Ego, Part 2
 CLOSED: [2022-06-26 Sun 22:27]
 
-*** DOING 📂Picard S2 :P2022:Y2400:S2025_Q4:Q:
+*** DONE 📂Picard S2 :P2022:Y2401:Y2024:S2025_Q4:Q:
 **** DONE 2x01 :Borg_Queen:
 CLOSED: <2025-10-08 Wed 11:01>
 
@@ -2755,17 +2765,17 @@ CLOSED: <2025-10-14 Tue 22:17> SCHEDULED: <2025-10-12 Sun>
 **** DONE 2x06
 CLOSED: [2025-10-16 Thu 22:33]
 
-**** DONE 2x07
+**** DONE 2x07 :Guinan:
 CLOSED: [2025-10-18 Sat 22:30]
 
-**** DONE 2x08
+**** DONE 2x08 :Guinan:
 CLOSED: [2025-10-23 Thu 23:21] SCHEDULED: <2025-10-25 Sat>
 
-**** TODO 2x09
-SCHEDULED: <2025-10-25 Sat>
+**** DONE 2x09
+CLOSED: [2025-10-25 Sat 23:25] SCHEDULED: <2025-10-25 Sat>
 
-**** TODO 2x10
-SCHEDULED: <2025-10-31 Fri>
+**** DONE 2x10 :Q:
+CLOSED: [2025-10-26 Sun 09:25] SCHEDULED: <2025-10-31 Fri>
 
 ** comics :📚:
 *** DONE Picard: Countdown
@@ -2806,72 +2816,75 @@ set between seasons two and three of the Paramount+ hit series /Star Trek
 :END:
 
 * LD - Lower Decks :LD:animated:
-** DONE 📂Lower Decks S1 (2020)
+** tv :📺:
+*** DONE 📂Lower Decks S1 (2020)
 
 https://breezewiki.com/memory-alpha/wiki/LD_Season_1
 
-*** DONE 1x01 Second Contact
+**** DONE 1x01 Second Contact
 CLOSED: <2021-01-12 Tue 19:10>
 
-*** DONE 1x02 Envoys
+**** DONE 1x02 Envoys
 CLOSED: [2021-02-28 Sun 09:08]
 
-*** DONE 1x03 Temporal Edict
+**** DONE 1x03 Temporal Edict
 CLOSED: [2021-03-06 Sat 09:09]
 
-*** DONE 1x04 Moist Vessel
+**** DONE 1x04 Moist Vessel
 CLOSED: [2021-04-02 Fri 19:43]
 
-*** DONE 1x05 Cupid's Errant Arrow
+**** DONE 1x05 Cupid's Errant Arrow
 CLOSED: <2022-05-28 Sat 19:18>
 
-*** DONE 1x06 Terminal Provocations
+**** DONE 1x06 Terminal Provocations
 CLOSED: [2022-06-25 Sat 00:45]
 
-*** DONE 1x07 Much Ado About Boimler
+**** DONE 1x07 Much Ado About Boimler
 CLOSED: [2022-07-09 Sat 21:01] SCHEDULED: <2022-07-09 Sat>
 
-*** DONE 1x08 Veritas
+**** DONE 1x08 Veritas
 CLOSED: [2022-07-14 Thu 21:45] SCHEDULED: <2022-07-16 Sat>
 
-*** DONE 1x09 Crisis Point
+**** DONE 1x09 Crisis Point
 CLOSED: [2022-07-22 Fri 19:07] SCHEDULED: <2022-07-23 Sat>
 
-*** DONE 1x10 No Small Parts
+**** DONE 1x10 No Small Parts
 CLOSED: [2022-07-29 Fri 21:16] SCHEDULED: <2022-07-30 Sat>
 
-** DOING 📂Lower Decks S2 (2021)
+*** DOING 📂Lower Decks S2 (2021)
 
 https://breezewiki.com/memory-alpha/wiki/LD_Season_2
 
-*** DONE 2x01 Strange Energies
+**** DONE 2x01 Strange Energies
 CLOSED: [2025-01-01 Wed 22:12]
 
-*** DONE 2x02 Kayshon, His Eyes Open :Riker:
+**** DONE 2x02 Kayshon, His Eyes Open :Riker:
 CLOSED: [2025-01-09 Thu 08:36]
 
-*** DONE 2x03 We'll Always Have Tom Paris
+**** DONE 2x03 We'll Always Have Tom Paris
 CLOSED: [2025-01-16 Thu 23:38]
 
-*** DONE 2x04 Mugato, Gumato
+**** DONE 2x04 Mugato, Gumato
 CLOSED: [2025-01-22 Wed 14:00] SCHEDULED: <2025-01-25 Sat>
 
-*** DONE 2x05 An Embarrassment Of Dooplers
+**** DONE 2x05 An Embarrassment Of Dooplers
 CLOSED: [2025-01-31 Fri 15:34] SCHEDULED: <2025-01-29 Wed>
 
-*** DONE 2x06
+**** DONE 2x06
 CLOSED: [2025-03-31 Mon 19:58]
 
-*** TODO 2x07 :S2025_Q4:
-*** TODO 2x08 :S2025_Q4:
-*** TODO 2x09 :S2025_Q4:
-*** TODO 2x10 :S2025_Q4:
-** 📂Lower Decks S3 (2022)
-*** 3x01 :P2022_08:
-** 📂Lower Decks S4 (2023)
-** 📂Lower Decks S5 (2024)
+**** DONE 2x07 :S2025_Q4:
+CLOSED: [2025-11-11 Tue 23:27]
+
+**** TODO 2x08 :S2025_Q4:
+**** TODO 2x09 :S2025_Q4:
+**** TODO 2x10 :S2025_Q4:
+*** 📂Lower Decks S3 (2022)
+**** 3x01 :P2022_08:
+*** 📂Lower Decks S4 (2023)
+*** 📂Lower Decks S5 (2024)
 ** comics
-*** LATER All in a Sea of Wonders :P2022_09:S2025_Q4:
+*** LATER All in a Sea of Wonders :P2022_09:S2026_Q3:
 
 3 issues
 
@@ -3033,7 +3046,15 @@ This five-issue series is set following /Star Trek: Strange New Worlds/'s seco
 
 **** The Seeds of Salvation :P2025:
 * _others
+** audio
+*** Star Trek: Khan :P2025:
 ** movies :🎦:
+*** TODO Star Trek: Renegades (fan film) :Section_31:P2015:S2025_Q4:
+
+https://en.wikipedia.org/wiki/Star_Trek:_Renegades
+
+https://m.youtube.com/watch?v=eE2Wgop9VLM
+
 *** DONE Star Trek: Section 31 :P2025:
 CLOSED: [2025-02-04 Tue 12:25]
 
@@ -3109,11 +3130,12 @@ SCHEDULED: <2025-10-18 Sat>
 
 漫画《鲜血之日 Day of Blood》第1期发布，本刊故事承接新主刊第10期和《挑战号》第5期。
 
-***** Day of Blood
-***** Defiant #6
-***** Star Trek (2023) #11
-***** Defiant #7
-***** Star Trek (2023) #12
+- Day of Blood
+- Defiant #6
+- Star Trek #11
+- Defiant #7
+- Star Trek #12
+
 **** _mix
 ***** Alien Spotlight 聚焦外星人 :hanzify:
 ****** DONE Klingons: Four Thousand Throats... :Kang:Klingons:ST2023_06:
@@ -3400,7 +3422,7 @@ CLOSED: [2025-02-03 Mon 22:17] SCHEDULED: <2025-02-04 Tue>
 CLOSED: [2025-01-05 Sun 22:57]
 
 ** novels :📔:
-*** Sympathy for the Devil :S2025_Q4:
+*** Sympathy for the Devil :S2026_Q3:
 
 翻译：
 - 前两章  https://m.weibo.cn/6420838648/4837290571210950
@@ -3458,6 +3480,39 @@ CLOSED: <2025-01-30 Thu 10:43> SCHEDULED: <2025-01-31 Fri>
 
 *** DONE 2x10
 CLOSED: [2025-02-01 Sat 23:53] SCHEDULED: <2025-01-31 Fri>
+
+** DONE S3
+CLOSED: [2025-11-08 Sat 23:36]
+
+*** DONE 3x01 :Y1992:
+CLOSED: [2025-10-26 Sun 11:39]
+
+*** DONE 3x02 :Y1992:
+CLOSED: [2025-10-29 Wed 22:34]
+
+*** DONE 3x02 :Y1992:
+CLOSED: [2025-10-31 Fri 22:27]
+
+*** DONE 3x04 :Y1994:
+CLOSED: [2025-11-01 Sat 09:34]
+
+*** DONE 3x05 :Y1995:
+CLOSED: <2025-11-01 Sat 10:29>
+
+*** DONE 3x06 :Y1995:
+CLOSED: [2025-11-02 Sun 10:11]
+
+*** DONE 3x07
+CLOSED: [2025-11-03 Mon 17:40]
+
+*** DONE 3x08
+CLOSED: [2025-11-05 Wed 23:50]
+
+*** DONE 3x09
+CLOSED: [2025-11-07 Fri 22:46]
+
+*** DONE 3x10
+CLOSED: [2025-11-08 Sat 23:28]
 
 * footnotes
 

@@ -5,12 +5,30 @@
 *** golden age
 *** 1985-1993
 **** 1987
-***** DONE [#A] Batman: Year One :hanzify:origin:P1987:
+***** DONE [#A] Batman: Year One :hanzify:origin:P1987:bilibili:
 
  讲述了布鲁斯·韦恩作为蝙蝠侠和吉姆·戈登警长的“起源故事”，他是GCPD中唯一的新警察。被许多人认为是有史
  以来最伟大的蝙蝠侠故事之一。
 
  - Batman #404-407
+ 
+---
+-【【中字】官方有声漫画  | 蝙蝠侠 : 元年 1-哔哩哔哩】 https://b23.tv/BV1YPETzBEeT
+-【【中字】官方有声漫画  | 蝙蝠侠 : 元年 2-哔哩哔哩】 https://b23.tv/BV1nrEVzqEqe
+-【【中字】官方有声漫画  | 蝙蝠侠 : 元年 3-哔哩哔哩】 https://b23.tv/BV1HkELzyEfc
+-【【中字】官方有声漫画  | 蝙蝠侠 : 元年 4-哔哩哔哩】 https://b23.tv/BV18YE7zbEV8
+
+DC新出的High Volume系列 转载自：
+
+DC Youtube Channel：https://www.youtube.com/watch?v=oVIDtRwOLls&t=5s
+DC官网：https://www.dc.com/highvolume
+
+随着布鲁斯·韦恩蜕变成黑暗骑士的历程，深入哥谭市的阴影之中。多年来首次重返故土的布鲁斯，一边与内心的恶魔抗争，一边努力推翻笼罩这座城市的腐败政治体系。与此同时，年轻的警官吉姆·戈登也来到哥谭市，肩负着类似的使命。
+
+本集改编自《蝙蝠侠》第404期（1987年2月），由弗兰克·米勒创作，大卫·马祖切利作画。© & ™ DC。
+
+ 
+
 
 ***** DONE Second Chance :P1987:
 
@@ -628,7 +646,7 @@ Batman (Volume 3) #45-50
 ***** Vol. 10: Knightmares
 ***** Vol. 11: The Fall and the Fallen
 ***** Vol. 12/13 City of Bane
-**** Detective Comics: Rebirth vol.1-7 ↗
+**** DONE Detective Comics: Rebirth vol.1-7 ↗
 **** crossover
 ***** DONE (2016)	Night of the Monster Men :Dr_Strange:
 CLOSED: [2023-11-10 Fri 13:52] SCHEDULED: <2023-09-23 Sat>
@@ -663,18 +681,15 @@ A Backup Story
 Detective Comics #950		
 A Backup Story
 
-**** [#B] Batman: White Knight vol.1 (8 issues) :P2017:
 **** [#B] Rules of Engagement :P2017:
 
 Batman Confidential #1-6
 
-**** [#C] Dark Nights: Metal :P2017:
-
-- Dark Nights: Metal #1-6
-
 **** DONE Batman: Preludes to the Wedding :P2018:
 CLOSED: [2024-10-24 Thu 13:48]
 
+**** mini
+***** Batman: Universe :P2019:
 *** pending
 **** 阿克汉姆疯人院：严肃地球上的严肃的屋宅
 
@@ -692,7 +707,6 @@ CLOSED: [2024-10-24 Thu 13:48]
 
 这个令人难以置信的系列讲述了GCPD的重大犯罪部，他们试图在一个由腐败，怪胎和蒙面义警统治的城市中工作。
 
-*** elseworlds
 ** comics (batfamily) :📚:
 *** DONE [#B] Batman: A Lonely Place of Dying :Jason:Tim:P1989:
 
@@ -736,11 +750,31 @@ CLOSED: [2024-10-24 Thu 13:48]
 
 It begain in 2018, following the canceled wedding of Catwoman and Batman in Batman (Volume 3) #50.
 
-***** Vol.1: Copycats :P2018:
-***** Vol.2: Far From Gotham :P2019:
-***** Vol.3: Friend or Foe? :P2019:
-***** Vol.4: Come Home, Alley Cat :P2020:
-***** Vol.5: Valley of the Shadow of Death :P2020:
+***** [#C] Vol.1: Copycats :P2018:
+:PROPERTIES:
+:goodreads: 3.75
+:END:
+
+***** [#D] Vol.2: Far From Gotham :P2019:
+:PROPERTIES:
+:goodreads: 3.48
+:END:
+
+***** [#D] Vol.3: Friend or Foe? :P2019:
+:PROPERTIES:
+:goodreads: 3.52
+:END:
+
+***** [#D] Vol.4: Come Home, Alley Cat :P2020:
+:PROPERTIES:
+:goodreads: 3.57
+:END:
+
+***** [#C] Vol.5: Valley of the Shadow of Death :P2020:
+:PROPERTIES:
+:goodreads: 3.67
+:END:
+
 *** Dick Greyson
 **** DONE [#B] Robin: Year One (4 issues) :hanzify:Grayson:Two_Face:origin:
 
@@ -901,6 +935,101 @@ SCHEDULED: <2022-09-25 Sun>
 **** DONE Pain and Prejudice :P2011:
 CLOSED: [2022-09-25 Sun 15:27] SCHEDULED: <2022-09-25 Sun>
 
+** comics (elseworlds)
+
+- https://en.wikipedia.org/wiki/List_of_Elseworlds_publications
+- https://screenrant.com/10-best-elseworlds-batman-stories/
+- https://gamerant.com/best-batman-elseworld-comics-dc/
+- https://www.msn.com/en-us/entertainment/news/10-best-elseworlds-batman-comics-since-2020-so-far/ar-AA1CXdnE
+
+*** DONE [#A] Batman: The Dark Knight Returns :P1986:
+*** Batman: Gotham by Gaslight :P1990:
+**** Batman: Gotham by Gaslight: The Kryptonian Age :P2024:
+**** TBR Batman: Gotham by Gaslight: A League for Justice :P2025:
+*** Batman: Holy Terror :P1991:
+*** Batman & Dracula: Red Rain :P1992:
+*** Batman: In Darkest Knight :P1994:
+*** Batman: Castle Of The Bat :P1994:
+*** Batman: Bloodstorm :P1995:
+*** Batman: Brotherhood Of The Bat :P1995:
+*** Batman: Two Faces :P1998:Two_Face:
+*** Batman: The Doom That Came to Gotham :P2000:
+*** Batman/Lobo :P2000:
+*** Batman: Gotham Noir :P2001:
+*** Batman: Nine Lives :P2002:
+*** Batman: Year 100 :P2006:
+** comics (other continuation)
+*** Batman: Earth One :P2012:
+*** White Knight universe (Murphyverse) :S2025_Q4:
+**** [#B] Batman: White Knight vol.1 (8 issues) :P2017:
+**** Batman: Curse of the White Knight :P2019:
+**** Batman: White Knight Presents Harley Quinn :P2020:
+**** Batman: White Knight Presents Von Freeze :P2020:
+**** Batman: Beyond the White Knight :P2022:
+**** Batman White Knight Presents: Red Hood :P2022:
+**** Batman: White Knight Presents: Generation Joker :P2023:
+*** Dark Multiverse
+**** [#C] Dark Nights: Metal :P2017:
+
+- Dark Nights: Metal #1-6
+
+*** Batman: Creature of the Night :P2017:
+*** Batman: Last Knight on Earth :P2019:
+*** Batman: The Imposter :P2021:
+** audio
+*** DC High Volume: Batman
+
+https://dc.fandom.com/wiki/DC_High_Volume:_Batman_(Podcast)
+
+
+
+**** READY 01-04. Batman: Year One :bilibili:
+
+ 讲述了布鲁斯·韦恩作为蝙蝠侠和吉姆·戈登警长的“起源故事”，他是GCPD中唯一的新警察。被许多人认为是有史以来最伟大的蝙蝠侠故事之一。
+
+-【【中字】官方有声漫画  | 蝙蝠侠 : 元年 1-哔哩哔哩】 https://b23.tv/BV1YPETzBEeT
+-【【中字】官方有声漫画  | 蝙蝠侠 : 元年 2-哔哩哔哩】 https://b23.tv/BV1nrEVzqEqe
+-【【中字】官方有声漫画  | 蝙蝠侠 : 元年 3-哔哩哔哩】 https://b23.tv/BV1HkELzyEfc
+-【【中字】官方有声漫画  | 蝙蝠侠 : 元年 4-哔哩哔哩】 https://b23.tv/BV18YE7zbEV8
+
+DC新出的High Volume系列 转载自：
+
+DC Youtube Channel：https://www.youtube.com/watch?v=oVIDtRwOLls&t=5s
+DC官网：https://www.dc.com/highvolume
+
+随着布鲁斯·韦恩蜕变成黑暗骑士的历程，深入哥谭市的阴影之中。多年来首次重返故土的布鲁斯，一边与内心的恶魔抗争，一边努力推翻笼罩这座城市的腐败政治体系。与此同时，年轻的警官吉姆·戈登也来到哥谭市，肩负着类似的使命。
+
+改编自《蝙蝠侠》第404期（1987年2月）-407期，由弗兰克·米勒创作，大卫·马祖切利作画。© & ™ DC。
+
+ 
+
+
+**** 05-17. The Long Halloween
+**** 18-30. Dark Victory
+**** READY 31-32 Batman: Ego :bilibili:
+
+一个探索蝙蝠侠内心思想和怀疑的短篇小说
+
+【蝙蝠侠：自我 1【中字】-哔哩哔哩】 https://b23.tv/BV1DQ1gB4ENt
+【蝙蝠侠：自我 2【中字完结】-哔哩哔哩】 https://b23.tv/BV1su1fBnEBJ
+
+https://www.youtube.com/watch?v=Q9stzrwOLZc
+这个故事设定在蝙蝠侠职业生涯早期，探讨了驱使这位黑暗骑士的心理压力，以及他必须如何面对自己内心的魔鬼。
+
+本集改编自达尔文·库克创作并绘制的漫画《蝙蝠侠：自我》（2000年8月）。© & ™ DC。
+
+**** READY 33. The Gauntlet :bilibili:
+
+
+【罗宾首秀！| 蝙蝠侠 : 腹背受敌【中字】-哔哩哔哩】 https://b23.tv/BV1RhCvBcEYp
+
+https://www.youtube.com/watch?v=UcS-axT7IH4
+迪克·格雷森要成为蝙蝠侠的搭档罗宾，穿上罗宾的制服之前，必须通过一项最终挑战：在哥谭市内躲避蝙蝠侠一整夜。然而，这场捉迷藏游戏却因这位少年英雄阻止了一起看似普通的抢劫案而变得危机四伏，他无意间截获了关键情报。如今，他成了冷酷无情的黑帮老大、他手下凶残的暴徒团伙、哥谭市警察局，当然还有蝙蝠侠本人——蝙蝠侠必须争分夺秒地找到他的年轻门徒，以免为时已晚。
+
+本集改编自布鲁斯·坎威尔和李·威克斯创作的漫画《蝙蝠侠编年史：腹背受敌》（1997年7月出版）。© & ™ DC。
+https://dc.fandom.com/wiki/Batman_Chronicles:_The_Gauntlet
+
+**** 33.
 ** movie
 *** Nolan verse
 **** Batman: Gotham Knight :animated:P2008:
@@ -1283,10 +1412,20 @@ CLOSED: [2023-11-08 Wed 19:25]
 ****** 1x12
 ****** 1x13
 ** LATER The Batman Saga :S2025_Q4:
-*** The Batman 新蝙蝠侠 (2022) :🎥:P2022:
+
+https://dc.breezewiki.com/wiki/The_Batman_Saga
+
+*** DONE The Batman 新蝙蝠侠 (2022) :🎥:P2022:
+CLOSED: [2025-11-15 Sat 13:27]
+
+*** TODO [#D] comics: The Riddler: Year One :P2023:📚:
+
+主要讲述 Edward 如何发现 Renewal 背后的黑幕的。作者是2022电影中谜语人扮演者 Paul Dano （他也没有写过其它作品）。故事有点单调。画风还不错，比较贴合人物性格
+
+/written by Dano based on notes he'd taken about his character during the film's production./
+
+*** TODO tv: The Penguin :P2024:📺:
 *** TBR The Batman part2 :P2026:
-*** tv: The Penguin :P2024:📺:
-*** comics: The Riddler: Year One :P2023:
 * Superman :Superman:
 ** comics :📚:
 
@@ -1334,8 +1473,12 @@ CLOSED: [2024-11-04 Mon 23:33]
 ***** DONE Vol.5 Hopes and Fears
 CLOSED: [2024-11-06 Wed 23:26]
 
-***** NOW Vol.6 Imperius Lex
-***** NEXT Vol.7 Bizarroverse
+***** DONE Vol.6 Imperius Lex
+CLOSED: [2024-11-11 Mon 13:41]
+
+***** DONE Vol.7 Bizarroverse
+CLOSED: [2024-11-15 Fri 19:45]
+
 **** Superman Smashes the Klan 超人恶斗3K党 :P2019:
 *** greatest hits
 **** LATER Superman: For All Seasons 四季 :P1998:已购:
@@ -1934,11 +2077,29 @@ CLOSED: <2024-09-25 Wed 23:18> SCHEDULED: <2024-10-05 Sat>
 :douban:   8.1
 :END:
 
-*** LATER [#A] The Suicide Squad (2021) X特遣队：全员集结 :S2025_Q4:
+*** TODO [#A] The Suicide Squad (2021) X特遣队：全员集结 :S2025_Q4:
 *** CANCEL [#F] Black Adam (2022)
 *** CANCEL [#F] Shazam! Fury of the Gods (2023)
 *** [#B] The Flash (2023) 闪电侠
 *** CANCEL [#F] Blue Beetle (2023)
 *** CANCEL [#E] Aquaman and the Lost Kingdom (2023)
 ** tv :📺:
-*** LATER [#A] Peacemaker 和平使者 :S2025_Q4:
+*** TODO [#A] Peacemaker 和平使者 :S2025_Q4:
+* Watchmen :Watchmen:
+** DONE movie
+** comics
+*** DONE Watchmen (1986-1987) :hanzify:
+*** DONE Before Watchmen (2012-2013) :hanzify:
+**** Minutemen
+**** Silk Spectre
+**** Comedian
+**** Nite Owl
+**** Rorschach
+**** Doctor Manhattan
+**** Ozymandias
+**** Dollar Bill
+**** Moloh
+*** LATER Doomsday Clock 末日钟声 (2018-2020) :P2018:hanzify:S2025_Q4:
+*** Rorschach :P2020:hanzify:
+** tv
+*** LATER Watchmen S1 (2019, 9 eps) :P2019:S2025_Q4:
