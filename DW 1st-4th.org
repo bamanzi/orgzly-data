@@ -89,7 +89,7 @@ Episode 4 missing (but animated in 2013).
 **** [#D] CC5.6 Quinnis
 **** [#C] CC8.2 The Alchemists :Susan:
 **** [#D] CC9.1 The Sleeping Blood
-**** READY CC15.2 Stardust and Ashes :Susan:bilibili:
+**** READY [#C] CC15.2 Stardust and Ashes :Susan:bilibili:
 
 【【神秘博士广播剧熟肉】Families 1502 Stardust and Ashes 归于星尘-哔哩哔哩】 https://b23.tv/BV1wVg4zREFb
 
@@ -189,7 +189,7 @@ SCHEDULED: <2022-09-26 Mon>
 
 http://drwhoguide.com/chronicles15.htm
 
-***** [#C] CC7.7 The Flames of Cadiz :Ian:Susan:plot_yes:
+***** [#C] CC7.7 The Flames of Cadiz :Ian:Susan:plot_yes:2CD:
 :PROPERTIES:
 :rating:   7.8
 :END:
@@ -223,21 +223,21 @@ CLOSED: [2021-06-26 Sat 09:13]
 :rating:   8.3
 :END:
 
-***** CC8.9 Starborn :Vicki:Ian:Barbara:
+***** [#D] CC8.9 Starborn :Vicki:Ian:Barbara:
 ***** [#B] CC9.2 - The Unwinding World :Vicki:Ian:Barbara:
 :PROPERTIES:
 :rating:   8.0
 :END:
 
 ***** [#E] CC13.2 - Daybreak
-***** CC15.1 The Temple of Light :P2025_04:
+***** [#B] CC15.1 The Temple of Light :P2025_04:
 **** READY [#C] ST2.1 - 1963 :Ian:Barbara:Vicki:bilibili:
 
 【【神秘博士广播剧熟肉】短途旅行：1963-哔哩哔哩】 https://b23.tv/BV1EDdhYvE7c
 
 20 min
 
-*** with Vicki & Steven
+*** with Vicki & Steven :Steven:Vicki:
 **** EA
 ***** HALF [#C] EA1.3 The Bounty of Ceres :Vicki:Steven:plot_no:DW2023_07_doctor:
 SCHEDULED: <2023-07-22 Sat>
@@ -328,7 +328,7 @@ SCHEDULED: <2021-11-06 Sat>
 :END:
 
 **** [#D] SST4 The Little Drummer Boy :Steven:Sara_Kingdom:scripted:
-*** with Steven
+*** with Steven :Steven:
 **** HALF [#C] CC5.8 - The Perpetual Bond :Oliver:plot_no:DW2024_01_doctor:
 SCHEDULED: <2024-01-20 Sat>
 
@@ -362,7 +362,7 @@ Old Steven 2/3
 Old Steven 3/3
 
 **** [#C] CC13.3 - The Vardan Invasion of Mirth :Steven:Vardans:
-**** CC15.3 The White Ship :P2025_04:
+**** CANCEL [#F] CC15.3 The White Ship :P2025_04:
 **** [#B] ST7.12 - O Tannenbaum :Steven:
 *** with Steven & Dodo
 **** [#C] EA7.2 The Secrets of Det-Sen :Steven:Dodo:plot_yes:P2021_08:
@@ -377,7 +377,7 @@ Old Steven 3/3
 :END:
 
 **** 1DA2025. The Living Darkness :P2025_01:3CD:scripted:
-**** ST25.2 - The Doctor's Gambit.
+**** ST25.2 - The Doctor's Gambit
 *** with Dodo
 **** 📂1DA2022. The Outlaws :Dodo:P2022_04:plot_yes:
 ***** 3QTR [#D] 22.1 The Outlaws :Dodo:Monk:P2022_04:DW2023_03_doctor:
@@ -398,7 +398,7 @@ CLOSED: [2025-07-30 Wed 21:21] SCHEDULED: <2025-07-19 Sat>
 
 这里的 Vicki 是老年 Vicki
 
-**** CC15.4 The Y Factor :P2025_05:
+**** [#B] CC15.4 The Y Factor :P2025_05:Dodo:
 *** with Polly & Ben
 **** HALF [#D] CC11.3 The Bonfires of the Vanties :Polly:Ben:scripted:dw2025_q1a_doctor:
 SCHEDULED: <2025-01-18 Sat>
@@ -421,7 +421,6 @@ CLOSED: <2023-05-30 Tue 21:34> SCHEDULED: <2023-05-27 Sat>
 
 https://tardis.wiki/wiki/The_First_Doctor:_Volume_One
 
-***** [#D] CC9.1 - The Sleeping Blood :Susan:
 **** 📂CC11. First Doctor - Volume Two :P2017:scripted:
 
 https://tardis.wiki/wiki/The_First_Doctor:_Volume_Two
@@ -451,8 +450,6 @@ An angel is coming.
 Produced By: Hudson Media
 
 https://m.youtube.com/watch?v=u-2d0sQhKts&list=PLepBz_uI2k90NOGnituY08w1AuN82l_Vy&index=12&pp=iAQB0gcJCb4JAYcqIYzv
-
-
 
 ** novels
 *** An Unearthly Child
@@ -1259,7 +1256,6 @@ SCHEDULED: <2023-01-17 Tue 08:51>
 ***** HALF [#A] 2022A. The Annihilators :P2022_02:2nd_Dr:Jamie:3CD:DW2024_01_doctor:
 SCHEDULED: <2024-01-13 Sat>
 
-
 /The Annihilators/ was the first 7 part story made by Big Finish
 
 ****** 3QTR part1-3
@@ -1276,7 +1272,12 @@ SCHEDULED: <2024-02-17 Sat>
 :rating:   7.6
 :END:
 
-***** 2025A. Doctor Who and the Brain Drain :P2025_02:3CD:plot_yes:
+***** [#D] 2025A. Doctor Who and the Brain Drain :P2025_02:3CD:plot_yes:
+:PROPERTIES:
+:tardis.guide: 3.31
+:thetimescales: 7.7
+:END:
+
 **** CC (Liz)
 ***** DONE [#A] CC7.4 - The Last Post :P2012:no_doctor:
 CLOSED: [2020-08-07 Fri 18:25]
@@ -1345,6 +1346,7 @@ SCHEDULED: <2023-09-21 Thu>
 :rating:   7.1
 :END:
 
+***** 2025B. Operation: Vengeance :P2025_10:Brigadier:3CD:
 **** START [#D] CDNM3.1 The House that Hoxx Built :P2022:plot_yes:
 **** 3QTR [#B] SvsR#2 The Children of the Future :P2024_02:dw2025_q2a_doctor:
 CLOSED: [2025-04-29 Tue 19:04] SCHEDULED: <2025-05-03 Sat>
@@ -2337,27 +2339,111 @@ https://b23.tv/BV18w411w7SV
 https://b23.tv/BV1eE6FYwEYz
 
 ** BBC Audio Originals :BBC:
-*** TODO [#C] 01. The Thing from the Sea :4th_Dr:Wibbsey:P2018:
-*** [#E] 02. Men of War :1st_Dr:Steven:Sara_Kingdom:
-*** [#D] 03. Horrors of War :3rd_Dr:Jo:
-*** TODO [#B] 04. Fortunes of War :6th_Dr:
-*** TODO [#B] 05. The Elysian Blade :2nd_Dr:Jamie:Victoria:P2019:
-*** [#F] 06. The Winged Coven :4th_Dr:Wibbsey:Yates:
+*** [#D] 01. The Thing from the Sea :4th_Dr:Wibbsey:P2018:
+:PROPERTIES:
+:tardis.guide: 3.07
+:thetimescales: 7.4
+:END:
+
+*** [#C] 02. Men of War :1st_Dr:Steven:Sara_Kingdom:
+:PROPERTIES:
+:tardis.guide: 3.83
+:thetimescales: 
+:END:
+
+*** [#C] 03. Horrors of War :3rd_Dr:Jo:
+:PROPERTIES:
+:tardis.guide: 3.73
+:thetimescales: 7.0
+:END:
+
+*** [#B] 04. Fortunes of War :6th_Dr:
+:PROPERTIES:
+:tardis.guide: 4.06
+:thetimescales: 
+:END:
+
+*** TODO [#C] 05. The Elysian Blade :2nd_Dr:Jamie:Victoria:P2019:
+:PROPERTIES:
+:tardis.guide: 3.59
+:thetimescales: 8.4
+:END:
+
+*** CANCEL [#F] 06. The Winged Coven :4th_Dr:Wibbsey:Yates:
+:PROPERTIES:
+:tardis.guide: 3.39
+:END:
+
 *** TODO [#C] 07. The Scent of Blood :8th_Dr:
-*** TODO [#B] 08. The Flight of the Sun God :6th_Dr:Peri:plot_yes:
-*** [#E] 09. Paradise Lost :11th_Dr:Clara:P2020:
+:PROPERTIES:
+:tardis.guide: 3.77
+:thetimescales: 7.8
+:END:
+
+*** TODO [#C] 08. The Flight of the Sun God :6th_Dr:Peri:plot_yes:
+:PROPERTIES:
+:tardis.guide: 3.45
+:thetimescales: 8.0
+:END:
+
+*** CANCEL [#E] 09. Paradise Lost :11th_Dr:Clara:P2020:
+:PROPERTIES:
+:tardis.guide: 3.42
+:END:
+
 *** [#B] 10. TLV: The Minds of Magnox :10th_Dr:
 *** TODO [#C] 11. The Nightmare Realm :12th_Dr:Nardole:P2021:
-*** TODO [#B] 12. The Ashes of Eternity :9th_Dr:Rose:
-*** TODO [#A] 13. The Resurrection Plant :2nd_Dr:Jamie:Zoe:
-*** TODO [#A] 14. The Code of Flesh :8th_Dr:P2022:
+:PROPERTIES:
+:tardis.guide: 3.75
+:thetimescales: 7.8
+:END:
+
+*** TODO [#C] 12. The Ashes of Eternity :9th_Dr:Rose:
+:PROPERTIES:
+:tardis.guide: 3.48
+:END:
+
+*** TODO [#C] 13. The Resurrection Plant :2nd_Dr:Jamie:Zoe:
+:PROPERTIES:
+:tardis.guide: 3.60
+:END:
+
+*** TODO [#C] 14. The Code of Flesh :8th_Dr:P2022:
+:PROPERTIES:
+:tardis.guide: 3.61
+:END:
+
 *** [#D] 15. The Ice King :12th_Dr:P2023_01:
-*** 16. The Teeth of Ice :8th_Dr:P2023_08:
+:PROPERTIES:
+:tardis.guide: 3.64
+:END:
+
+*** [#D] 16. The Teeth of Ice :8th_Dr:P2023_08:
+:PROPERTIES:
+:tardis.guide: 
+:END:
+
 *** 17. Doom's Day: Four From Doom's Day :12th_Dr:Ian:Barbara:
-*** 18. The Beast of Scar Hill :9th_Dr:Rose:P2023_09:
-*** 19. The Lagoon Monsters :10th_Dr:Martha:P2023_10:
-*** 20. The Romanov Project :13th_Dr:Yaz:Ryan:P2023_12:plot_yes:
-*** 21. The Cuckoo :12th_Dr:P2023_12:
+*** [#E] 18. The Beast of Scar Hill :9th_Dr:Rose:P2023_09:
+:PROPERTIES:
+:tardis.guide: 3.31
+:END:
+
+*** [#E] 19. The Lagoon Monsters :10th_Dr:Martha:P2023_10:
+:PROPERTIES:
+:tardis.guide: 3.21
+:END:
+
+*** [#C] 20. The Romanov Project :13th_Dr:Yaz:Ryan:P2023_12:plot_yes:
+:PROPERTIES:
+:tardis.guide: 3.84
+:END:
+
+*** [#C] 21. The Cuckoo :12th_Dr:P2023_12:
+:PROPERTIES:
+:tardis.guide: 3.88
+:END:
+
 *** 22. Escape the Daleks! :3rd_Dr:Jo:Daleks:P2024_01:
 *** 23. River of Death :6th_Dr:Peri:P2024_03:
 *** 24. The Demons Within :10th_Dr:Martha:P2024_05:
@@ -2366,8 +2452,14 @@ https://b23.tv/BV1eE6FYwEYz
 *** 27. On Ghost Beach :15th_Dr:Ruby:P2024_11:
 *** 28. Sting of the Sasquatch :15th_Dr:Ruby:P2024_11:
 *** 29. House of Plastic :7th_Dr:Ace:Autons:P2025_01:
-*** 30. Agent of the Daleks :1st_Dr:Steven:Vicki:P2025_03:
+*** [#B] 30. Agent of the Daleks :1st_Dr:Steven:Vicki:P2025_03:
+:PROPERTIES:
+:tardis.guide: 3.95
+:END:
+
 *** 31. What Still Remains :7th_Dr:Ace:P2025_08:
+*** 32. Firefall :15th_Dr:Belinda:
+*** 33. Counterstrike :15th_Dr:Belinda:
 ** Sontarans vs Rutans
 *** [#C] 1. The Battle of Giant's Causeway :8th_Dr:Charley:Crizz:P2024_01:
 *** 3QTR [#B] 2. The Children of the Future :3rd_Dr:Sarah:P2024_02:
@@ -2412,7 +2504,7 @@ CLOSED: <2024-09-25 Wed 22:22> SCHEDULED: <2024-09-07 Sat>
 :rating:   8.7
 :END:
 
-*** ST11.4 Death Will Not Part Us :8th_Dr:War_Dr:9th_Dr:time_war:P2022:
+*** HALF ST11.4 Death Will Not Part Us :8th_Dr:War_Dr:9th_Dr:time_war:P2022:
 *** LS8.2 Deathworld :1st_Dr:2nd_Dr:3rd_Dr:Jamie:Jo:Brigadier:3CD:P2024_08:
 ** comics
 *** IDW :IDW:
@@ -2488,11 +2580,12 @@ CLOSED: [2021-11-01 Mon 22:54] SCHEDULED: <2021-11-01 Mon>
 :END:
 
 *** Beyond the Doctor (BBC)
-**** 1. The Kairos Ring :P2021:Romana_2:
-**** 2. Bessie Come Home :P2021:
-**** [#A] 3. London, 1965 :P2022:Ian:Barbara:
-**** 4. Sleeper Agents :P2022:Ben:Polly:
-**** 5. The Penumbra Affair :P2022:Wibbsey:Polly:Yates:
+**** [#E] 1. The Kairos Ring :P2021:Romana_2:
+**** [#D] 2. Bessie Come Home :P2021:
+**** [#B] 3. London, 1965 :P2022:Ian:Barbara:
+**** [#D] 4. Sleeper Agents :P2022:Ben:Polly:
+**** [#C] 5. The Penumbra Affair :P2022:Wibbsey:Polly:Yates:
+**** TBR 6. Harry Sullivan's War
 ** novels
 *** [#A] Who Killed Kennedy (4.1) :novel:
 *** DONE [#B] 敌人的脸孔 The Face of the Enemy (PDA top #5) †3. 83 :📔:UNIT:Master_nemesis:

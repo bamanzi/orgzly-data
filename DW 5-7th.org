@@ -596,8 +596,6 @@ https://onfleakproductions.bandcamp.com/album/doctor-who-contact-2
 
 https://archive.org/details/on-fleak-productions-doctor-who-contact-02-contact
 
-
-
 ** short stories
 *** DONE Tip of the Tongue 舌尖 :Nyssa:
 CLOSED: [2022-12-28 Wed 21:19]
@@ -824,16 +822,13 @@ CLOSED: <2021-09-17 Fri 21:27> SCHEDULED: <2021-09-04 Sat>
 :rating:   8.6
 :END:
 
-
   与剧集23x02 Mindwrap联系紧密
 
 ***** 2DONE [#B] 193. Masters of Earth :Peri_older:plot_no:Daleks:D2021_10_daleks:
 CLOSED: [2021-10-18 Mon 20:15]
-
 :PROPERTIES:
 :rating:   8.4
 :END:
-
 
 ***** [#C] 194. The Rani Elite :Peri_older:
 :PROPERTIES:
@@ -1013,7 +1008,12 @@ SCHEDULED: <2024-11-30 Sat>
 ***** CANCEL [#F] 2.2 Reverse Engineering
 ***** [#D] 2.3 Chronomancer
 **** 📂2023A. Purity Unleashed :P2023_05:Mel:
-***** CANCEL [#E] 1. Broadway Belongs to Me!
+***** [#D] 1. Broadway Belongs to Me!
+:PROPERTIES:
+:tardis.guide: 3.77
+:thetimescales: 6.7
+:END:
+
 ***** [#D] 2. Purification
 ***** CANCEL [#E] 3. Time-Burst
 **** 📂2023B. Purity Unbound :P2023_08:Mel:Hebe:
@@ -1431,10 +1431,10 @@ up英语水平很一般，这几天7th上头了试着翻的，打轴不熟练观
 
 **** [#B] ST6.X - Forever Fallen :Ace:plot_yes:
 **** ST13.5 Emerald Isle :Ace:P2025_04:
+**** LS9.2 Alixion :P2025_09:2CD:
 *** MR with Ace & Hex :Ace:Max:scripted:2CD:
 ***** DONE [#B] 58. The Harvest :P2004:Ace:Hex:Cybermen:plot_yes:D2021_06:
 CLOSED: [2021-06-24 Thu 12:31]
-
 :PROPERTIES:
 :rating:   8.3
 :END:

@@ -446,9 +446,10 @@ It was set between series 1 and series 2 of the Eighth Doctor Adventures a
 :rating:   7.6
 :END:
 
-***** [#B] 1.4 Island of the Fendahl
+***** [#C] 1.4 Island of the Fendahl
 :PROPERTIES:
-:rating:   8.0
+:thetimescales: 8.0
+:tardis.guide: 3.66
 :END:
 
 **** 8DA series 2 :scripted:plot_yes_dwg:
@@ -504,12 +505,20 @@ http://www.drwhoguide.com/bbc7_13.htm
 **** 8DA series 3 :scripted:
 ***** [#D] 3.1 Orbis (7.1)
 ***** CANCEL [#E] +3.2 Hothouse+ (6.8)
-***** [#C] 3.3 The Beast of Orlok (7.5)
+***** [#D] 3.3 The Beast of Orlok (7.5)
+:PROPERTIES:
+:thetimescales: 7.5
+:tardis.guide: 3.05
+:END:
+
 ***** [#D] 3.4 Wirrn Dawn (7.1)
 ***** [#D] 3.5 The Scapegoat     (7.2)
 ***** [#C] 3.6 The Cannibalists  (7.5)
 ***** [#C] 3.7 The Eight Truths  (7.7)
-***** [#C] 3.8 Worldwide Web (7.5)
+***** READY [#C] 3.8 Worldwide Web (7.5) :bilibili:
+
+【假面骑士：重生广播剧特别篇——隼的冒险：蛛网遍布-哔哩哔哩】 https://b23.tv/BV1ahsfzeEE2
+
 **** 8DA series 4 :P2010:scripted:
 ***** 2DONE [#B] 4.1 _Death in Blackpool_ :Zygons:D2021_08_dr:
 :PROPERTIES:
@@ -892,6 +901,9 @@ https://b23.tv/BV15a411y7o8
 ***** 1. Puccini and the Doctor
 ***** 2. Woman's Day Off
 ***** 3. The Gloaming :The_Mara:
+**** 📂Causeway :P2025_11:Charley:Audacity:
+***** Lost Amongst the Stars :1CD:
+***** The Time You Never Had :2CD:
 *** 8D Time War ↗
 **** DONE SST01 Museum Peace
 **** DONE [#C] ST7.9 - A Heart on Both Sides :Nyssa:
@@ -904,7 +916,7 @@ https://b23.tv/BV15a411y7o8
 :rating:   7.8
 :END:
 
-**** READY Lies in Ruins (The Legacy of Time) :8th_Dr:bilibili:Benny:🎧:
+**** READY Lies in Ruins (The Legacy of Time) :8th_Dr:bilibili:Benny:River:
 
 【【自制字幕】神秘博士BF特辑宋江八叔历险记-哔哩哔哩】
 https://b23.tv/BV1eA411G76T
@@ -926,10 +938,19 @@ CLOSED: [2020-09-23 Wed 12:53]
 
 *** misc :1CD:
 **** BR2 Shada :Romana_2:K9_2:P2003:scripted:
-**** [#D] MR123a. The Company of Friends - Benny's Story :Benny:
+**** READY [#D] MR123a. The Company of Friends - Benny's Story :Benny:
+
+【[神秘博士广播剧]MR 123a Benny's Story-哔哩哔哩】 https://b23.tv/BV1Jqs5zDEKJ
+
 **** READY [#D] MR123b. The Company of Friends - Fitz's Story :bilibili:
 
 【【神秘博士广播剧/熟肉】MR123b Fitz's Story 菲茨的故事-哔哩哔哩】 https://b23.tv/BV1E8MzzyEPC
+
+**** READY MR123c. Izzy's Story
+
+【[神秘博士广播剧]MR 123c Izzy's Story-哔哩哔哩】 https://b23.tv/BV1wksnzkEDM
+
+
 
 **** [#B] SST37 - Tuesday :Harry:
 :PROPERTIES:
@@ -1065,11 +1086,20 @@ CLOSED: [2020-12-27 Sun 08:30]
 
 *** TODO MR269/270 Shadow of the Daleks :5th_Dr:🎧:
 ** 2. War is declared
-*** DONE GTW1.1 Celestial Intervention :🎧:
+*** DONE [#C] GTW1.1 Celestial Intervention :🎧:bilibili:
 CLOSED: <2020-11-06 Fri 20:12>
 
-*** DONE GTW1.2 Soldier Obscura (Gallifrey: Time War #1.2) :🎧:
+【[神秘博士广播剧]Gallifrey: Time War 101 Celetial Intervention-哔哩哔哩】 https://b23.tv/BV1UMWsz4E17
+
+时间领主与Dalek在千年间势不两立。但现在，他们的冲突升级为全面的时间战争，时空宇宙中没有任何地方是安全的。战斗计划将被制定，盟友将被招募，无辜者将被卷入战火。加利弗雷将走向战争，宇宙将再也不同以往。
+
+
+*** DONE [#B] GTW1.2 Soldier Obscura (Gallifrey: Time War #1.2) :🎧:bilibili:
 CLOSED: <2020-11-07 Sat 10:33>
+
+【[神秘博士广播剧]Gallifrey: Time War 102 Soldier Obscura-哔哩哔哩】 https://b23.tv/BV1wM1RBiEgK
+
+
 
 *** PROSE: Natural Regression (The Scientific Secrets of Doctor Who #9)
 *** Father of the Daleks (short story)
@@ -1206,8 +1236,11 @@ CLOSED: [2020-12-18 Fri 12:30]
 :rating:   8.1
 :END:
 
-*** DONE GTW1.3 The Devil You Know (Gallifrey: Time War #1.3) :Master_war:🎧:
+*** DONE [#B] GTW1.3 The Devil You Know (Gallifrey: Time War #1.3) :Master_war:🎧:bilibili:
 CLOSED: <2020-11-09 Mon 10:30>
+
+【[神秘博士广播剧]Gallifrey: Time War 103  The Devil You Know-哔哩哔哩】 https://b23.tv/BV1BrC3BKE4Q
+
 
 *** Damaged Goods
 
@@ -1215,7 +1248,7 @@ The N-Forms receive an activation call, setting this after /Desperate Measures/
 
 *** PROSE: The Stranger :War_Dr:
 ** 3. Rassilon resurrected
-*** DONE GTW1.4 Desperate Measures (Gallifrey: Time War #1.4) :Rassilon:🎧:
+*** DONE [#C] GTW1.4 Desperate Measures (Gallifrey: Time War #1.4) :Rassilon:🎧:
 CLOSED: [2020-11-09 Mon 18:14]
 
 *** 2DONE [#C] WM1.2 The Good Master :Master_war:Cole:D2021_08_extra:🎧:
@@ -1270,7 +1303,7 @@ SCHEDULED: <2023-11-19 Sun>
 **** HALF [#A] 6.4 - Unfinished Business :DW2023_12_spinoffs:
 SCHEDULED: <2023-12-24 Sun>
 
-*** Dark Gallifrey 2: The War Master :Master_war:War_Dr:Benny:Unbound_Dr:Captain_John:P2024_08:plot_yes:🎧:
+*** Dark Gallifrey 2: The War Master :Master_war:War_Dr:Benny:Unbound_Dr:Captain_John:P2024_08:plot_yes:🎧:3CD:
 *** /📂The War Master series 5: Hearts of Darkness/ :Master_War:🎧:
 **** 2DONE [#B] 5.1 - The Edge of Redemption :plot_yes:DW2022_11_spinoffs:
 CLOSED: [2022-11-07 Mon 20:49] SCHEDULED: <2022-11-09 Wed>
@@ -1369,11 +1402,21 @@ https://b23.tv/BV1J64y1B74Y
 SCHEDULED: <2024-05-31 Fri>
 
 *** 📂Susan's War vol.2 :Susan:War_Dr:P2024_08:
-**** 2.1 The Lost Son :Rasmus:
-**** 2.2 The Golden Child
+**** [#E] 2.1 The Lost Son :Rasmus:
+:PROPERTIES:
+:tardis.guide: 3.32
+:thetimescales: 6.8
+:END:
+
+**** [#D] 2.2 The Golden Child
+:PROPERTIES:
+:tardis.guide: 3.74
+:thetimescales: 6.7
+:END:
+
 *** 📂Susan's War vol.3 Grandfather Time :P2025_03:War_Dr:Rasmus:
-**** 3.1 The Last of the Kaleds
-**** 3.2 The Voord Alliance
+**** [#E] 3.1 The Last of the Kaleds
+**** [#E] 3.2 The Voord Alliance
 ** 6. Derilobia Lost
 *** 📂8D Time War vol.2 :Bliss:P2018:scripted:🎧:
 **** 2DONE [#C] 2.1 The Lords of Terror

@@ -1049,9 +1049,25 @@ https://www.bigfinish.com/releases/v/doctor-who-the-eleventh-doctor-chronicles-v
 但总有些事不该在约会时发生。一场不可能的重逢打乱了局面。怪物在街头潜行。你的情侣终将死去...
 
 
-**** [#A] 5.3 Sins of the Flesh :Cybermen:
+**** READY [#A] 5.3 Sins of the Flesh :Cybermen:bilibili:
+
+【【神秘博士广播剧熟肉】Everywhere and Anywhere 503 Sins of the Flesh 肉体之罪-哔哩哔哩】 https://b23.tv/BV1qGWxzCEP5
+
+https://www.bigfinish.com/releases/v/doctor-who-the-eleventh-doctor-chronicles-volume-05-everywhere-and-anywhere-2730#tab5
+
+您的孩子有没有表现出罪恶的行为？他们是否已经踏上通往永恒诅咒的道路？您尝试的所有方法是不是都失败了？感觉您已经无计可施？
+不用担心。我们能帮上忙。今天就带他们来新生组织。让他们接受转化。
+
 *** 📂11DC vol.6 Victory of the Doctor :Valarie:P2024_02:
-**** [#B] 6.1 Didn’t You Kill My Mother?
+**** READY [#B] 6.1 Didn’t You Kill My Mother?
+
+【【神秘博士广播剧熟肉】Victory of the Doctor 601 Didn't You Kill My Mother? 你是不是杀了我母亲-哔哩哔哩】 https://b23.tv/BV1Wv1EB3Eky
+
+https://www.bigfinish.com/releases/v/doctor-who-the-eleventh-doctor-chronicles-volume-06-victory-of-the-doctor-2731
+
+又是新的一天，又来了几位需要仲裁的客户，不过这次有些特别。这件案子能成就你的职业生涯，绝对能让你升职。你问什么案件？Lockwood诉讼Hendricks。
+
+
 **** [#B] 6.2 Daleks Victorious
 **** [#A] 6.3 The Last Stand of Miss Valarie Lockwood
 **** [#A] 6.4 Victory of the Doctor
@@ -1359,13 +1375,27 @@ SCHEDULED: <2022-04-30 Sat>
 :END:
 
 *** 📂12DC vol.3 You Only Die Twice :P2024_03:Keira:plot_no:
-**** 3QTR [#B] 3.1 Sunstrike :dw2025_q2b_doctor:
+**** 3QTR [#C] 3.1 Sunstrike :dw2025_q2b_doctor:
 CLOSED: [2025-06-04 Wed 20:10] SCHEDULED: <2025-05-10 Sat>
+:PROPERTIES:
+:thetimescales: 8.4
+:tardis.guide: 3.40
+:END:
 
-**** 3QTR [#B] 3.2 Never the End Is :Discordia:dw2025_q3b_doctor:
+**** 3QTR [#C] 3.2 Never the End Is :Discordia:dw2025_q3b_doctor:
 CLOSED: [2025-09-28 Sun 08:47] SCHEDULED: <2025-09-27 Sat>
+:PROPERTIES:
+:thetimescales: 8.1
+:tardis.guide: 3.49
+:END:
 
-**** [#A] 3.3 You Only Die Twice
+**** [#B] 3.3 You Only Die Twice :dw2025_q4b_doctor:
+SCHEDULED: <2025-12-27 Sat>
+:PROPERTIES:
+:tardis.guide: 3.62
+:thetimescales: 9.0
+:END:
+
 *** Short Trips :🗣:
 **** 3QTR [#B] 9.2 - The Astrea Conspiracy :DW2023_08_doctor:
 CLOSED: [2023-09-03 Sun 11:45] SCHEDULED: <2023-09-03 Sun>
@@ -1402,7 +1432,17 @@ https://www.iiiff.com/article/404723
 :END:
 
 **** [#D] ST12.3 The Three Flames :P2019:
-**** ST14.X War Stories :Bill:P2024_12:scripted:
+**** READY [#C] ST14.X War Stories :Bill:P2024_12:scripted:
+:PROPERTIES:
+:thetimescales: 7.5
+:tardis.guide: 3.95
+:END:
+
+【【神秘博士广播剧熟肉】短途旅行13X24 War Story 战争故事-哔哩哔哩】 https://b23.tv/BV1wp1gB7EBk
+
+星际边缘艺术节覆盖了整个Fringe星球。节日提供了数百万场演出，因此博士和比尔可以从反重力杂技表演到量子歌舞表演等各种内容中进行选择
+但当博士观看一部关于时间大战的戏剧时，他感到震惊。这不仅是因为这部剧讲述了他个人的历史，还因为这场表演可能会揭示一个影响整个宇宙的秘密……
+
 **** ST13.1 Dark Watchers of California :Bill:P2025_04:
 *** misc
 **** [#C] The Nightmare Realm :BBC:P2021:Nardole:1CD:
@@ -1638,6 +1678,7 @@ https://www.bigfinish.com/releases/v/doctor-who-the-thirteenth-doctor-adventures
 
 【【神秘博士广播剧熟肉】The Thirteenth Doctor Adventures 102 The Return of the Doctor 博士的回归-哔哩哔哩】 https://b23.tv/BV1wjpzzsE5k
 
+**** 3. Lionesses in Winter :P2025_11:
 *** fan-made :fan_made:
 **** Running Home :P2025_04:
 

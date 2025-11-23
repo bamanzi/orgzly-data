@@ -533,7 +533,11 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 ***** 93. Rictus :Zygons:P2025_03:
 ***** 94. The Boy Who Never Laughed :Tyler:P2025_05:
 ***** 95. Child Free :Suzie:P2025_07:
-***** TBR 96. Salvage :P2025_09:
+***** 96. Salvage :P2025_09:
+**** TBR 97. The Flawless Man :Andy:P2025_11:
+**** TBR 98. Everyone's Dead on Floor 3 :Norton:P2026_01:
+**** TBR 99. Curtain :Bilis_Manger:P2026_03:
+**** TBR 100. Fare Well :Ianto:Tommy:Cybermen:P2026_05:
 *** specials
 **** 2DONE [#B] special 1: The Torchwood Archive :P2016:The_Commitee:2CD:plot_yes:
      CLOSED: [2020-11-19 Thu 18:33]
@@ -829,7 +833,8 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
 ***** HALF [#C] 2.2 - Blind Summit :plot_cast:dw2025_q4a_spinoffs:
       SCHEDULED: <2025-10-19 Sun>
       :PROPERTIES:
-      :rating:   7.7
+      :thetimescales: 7.7
+      :tardis.guide: 4.08
       :END:
 
 https://breezewiki.com/tardis/wiki/Ianto_Jones#Life_in_London
@@ -1002,7 +1007,7 @@ Kovarian knows the universe’s greatest threat, the Doctor must be eliminate
 
 But if Melody Pond has failed, Kovarian will simply have to try again...
 
-**** DoRS 4 :P2018:
+**** DoRS 4 :P2018:Discordia:
 ***** HALF [#D] 4.1 - Time in a Bottle :DW2024_Q2b_spinoffs:
       SCHEDULED: <2024-04-28 Sun>
       :PROPERTIES:
@@ -1568,11 +1573,17 @@ Leela大使尝试捍卫她的盟友的权力，城外人，摆脱了几代人的
 
 但是他们的敌人正在计划揭露真相，试着让这个社会起起伏伏，通过一系列事情。
 
-*** HALF [#E] 5.2 - Evolution :DW2023_03_spinoffs:
+*** HALF [#E] 5.2 - Evolution :DW2023_03_spinoffs:bilibili:
     SCHEDULED: <2023-03-05 Sun>
     :PROPERTIES:
     :rating:   6.5
     :END:
+
+【【神秘博士广播剧熟肉】Gallifrey 502 Evolution 科学发展-哔哩哔哩】 https://b23.tv/BV1SXCaBEE3V
+
+在Rassilon项目撤销之前，Gallifrey的重生者以科学的名义犯下累累暴行。Leela发现了这个可怕的事件，Romana和Narvin继续寻找时间旅行的秘密，并且完成Gallifrey新的科技发展。
+
+然而科学并不总是往前进的，在一个放弃道德底线、充满恐惧的社会基础下，退步也许是唯一的结果。
 
 *** HALF [#D] 5.3 - Arbitration :Daleks:DW2023_04_spinoffs:
     DEADLINE: <2023-04-23 Sun> SCHEDULED: <2023-04-17 Mon 09:51>
@@ -1612,6 +1623,7 @@ Leela大使尝试捍卫她的盟友的权力，城外人，摆脱了几代人的
 
 【[神秘博士广播剧]Gallifrey 8 Enemy Lines Part 1-哔哩哔哩】 https://b23.tv/BV18e4UzBECQ
 
+【[神秘博士广播剧]Gallifrey 8 Enemy Lines Part 2-哔哩哔哩】 https://b23.tv/BV18ZWJzUEq8
 
 https://www.bigfinish.com/releases/v/gallifrey-enemy-lines-1205
 
@@ -1626,10 +1638,10 @@ https://www.bigfinish.com/releases/v/gallifrey-enemy-lines-1205
 时间不多了……它正直奔Gallifrey。
 
 ** 📂Echoes Through Eternity :P2024_11:
-*** 1. Damned if You Do :Narvin:
-*** 2. The Questing Beast :Braxiatel:
-*** 3. In Search of Lost Time :Ace:
-*** 4. Damned if You Don't :Narvin:
+*** [#C] 1. Damned if You Do :Narvin:
+*** [#D] 2. The Questing Beast :Braxiatel:
+*** [#C] 3. In Search of Lost Time :Ace:
+*** [#B] 4. Damned if You Don't :Narvin:
 * Bernice Summerfield :Benny:
 ** Bernice Summerfield :🎧:
 *** Series 1 :P1999:
@@ -2044,9 +2056,15 @@ https://www.bilibili.com/video/BV1QT41147a8
 **** 8.6 Mr Pym has an Adventure :P2024_11:
 **** 8.7 Sanctuary :P2024_12:
 **** 8.8 Liturgy of Death :P2024_12:
-*** TBR vol.9 The Dalek Eternity
-**** 9.1 The Lonely Bomb :P2025_09:
-**** 9.2 Satrap :P2025_09:
+*** TBR vol.9 The Dalek Eternity :P2025_12:
+**** 9.1 The Lonely Bomb
+**** 9.2 Satrap
+**** 9.3 The Winner's Tale
+**** 9.4 Oversoul
+**** 9.5 Quisling
+**** 9.6 We Don't Talk About Mavic Chen
+**** TBR 9.7 Vizier
+**** TBR 9.8 Emperor
 ** Treasury :P2018:🗣:plot_yes:
 *** [#B] The Evacuation of Bernice Summerfield Considered as a Short Film by Terry Gilliam
 *** [#A] And Then Again :7th_Dr:
