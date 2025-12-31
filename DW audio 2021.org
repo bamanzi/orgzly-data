@@ -1925,34 +1925,64 @@ Ashenden (4~6)
 ** dw2025-q4a-doctor
 *** HALF [#B] EA 3.3 The Ravelli Conspiracy :1st_Dr:Vicki:Steven:plot_cast:2CD:
 *** HALF [#C] CC7.12 Council of War :3rd_Dr:Benton:Brigadier:
-*** HALF [#C] O&F2. The Artist at the End of Time :5th_Dr:Jenny:P2023_06:bilibili:
-*** [#D] MR85. Red :7th_Dr:Mel:2CD:
-*** READY [#B] 9DA3.2.3 Run :9th_Dr:bilibili:
+*** 3QTR [#C] O&F2. The Artist at the End of Time :5th_Dr:Jenny:P2023_06:bilibili:
+*** HALF [#D] MR85. Red :7th_Dr:Mel:2CD:
+*** HALF [#C] ST11.X The Lichyrwick Abomination :9th_Dr:scripted:
 *** HALF [#B] WDB4.3 The Horror :War_Dr:
 ** dw2025-q4a-spinoffs
-*** HALF [#C] TW1 2.2 - Blind Summit :Yvonne:Ianto:
-*** [#B] TW58. Cadoc Point :Andy:
-*** [#D] UBNW1.1 Rogue State :UNIT:
+*** 3QTR [#C] TW1 2.2 - Blind Summit :Yvonne:Ianto:
+*** 3QTR [#B] TW58. Cadoc Point :Andy:
 *** HALF [#D] PGT2.2 Pater Noster
 *** HALF [#D] River7.4 Carnival of Angels :plot_yes:
 *** HALF [#A] WM9.3 The Life and Loves of Mr Alexander Bennett :Master_war:
-*** FIXME [#B] Rory2.2 The Glowing Warrior
 ** dw2025-q4b-doctor
-*** [#A] CC14.1 The Death of the Daleks :2nd_Dr:Jamie:
-*** FIXME [#C] NCC3.1 Tsar Wars :4th_Dr:Wibbsey:
-*** [#E] MR100a. 100 BC :6th_Dr:Evelyn:
-*** READY [#B] MR100b. My Own Private Wolfgang :6th_Dr:Evelyn:plot_no:bilibili:
-*** [#D] MR61. Faith Stealer :8th_Dr:Charley:Crizz:
+*** HALF [#A] CC14.1 The Death of the Daleks :2nd_Dr:Jamie:
+*** [#D] 4DA5.2 - The Labyrinth of Buda Castle :Romana_2:bilibili:
+*** HALF [#E] MR100a. 100 BC :6th_Dr:Evelyn:
+*** HALF [#B] MR100b. My Own Private Wolfgang :6th_Dr:Evelyn:plot_no:bilibili:
+    :PROPERTIES:
+    :rating:   8.1
+    :END:
+
+【【DW广播剧翻译】MR 100b - 独属于我的沃尔夫冈-哔哩哔哩】 
+https://b23.tv/BV1LF411j7D5
+
+*** HALF [#D] MR61. Faith Stealer :8th_Dr:Charley:Crizz:
 *** [#D] 10DA1.2 Time Reaver :10th_Dr:Donna:
 *** [#A] 12DC3.3 You Only Die Twice :12th_Dr:Keira:
 ** dw2025-q4b-spinoffs
-*** [#C] TWBBC5.1 The Devil and Miss Carew :Jack:Gwen:Ianto:P2011:
-*** [#D] UBNW1.2 Time Flies
-*** [#C] CM4.2 The Keep
-*** [#C] J&L10.2 The Year of the Bat
-*** [#C] BSBOX 2.1 Brand Management :Benny:
+*** HALF [#C] TWBBC5.1 The Devil and Miss Carew       :Jack:Gwen:Ianto:P2011:
+*** [#D] UBNW1.1 Rogue State :UNIT:
+*** HALF [#C] J&L10.2 The Year of the Bat
+*** HALF [#C] BSBOX 2.1 Brand Management :Benny:
 *** [#C] WM9.4 The Kicker :Master_war:bilibili:
-*** FIXME [#B] FP2.3 Body Politic :P2008:Sutekh:Justine:Eliza:
+*** HALF [#B] Rory2.2 The Glowing Warrior
+* DW 2026
+** dw2026-q1a-doctor
+*** FIXME [#B] CC4.1 - The Drowned World :1st_Dr:Sara:
+*** [#D] 3DA2025A. Doctor Who and the Brain Drain :P2025_02:3CD:plot_yes:
+    :PROPERTIES:
+    :tardis.guide: 3.31
+    :thetimescales: 7.7
+    :END:
+
+*** READY [#C] MR047. Omega :5th_Dr:Omega:
+*** FIXME [#B] 7DA23A.1 Operation Dusk :7th_Dr:Harry:Naomi:
+*** [#B] 9DA3.2.3 Run :9th_Dr:
+*** [#B] ST12.6 The Galois Group :11th_Dr:Valarie:plot_yes:
+*** FIXME [#D] CC5.10 - The Sentinels of the New Dawn :3rd_Dr:Liz:
+*** FIXME [#B] DWUN2 Sympathy from the Devil :Unbound_Dr:Master_unbound:bilibili:
+** dw2026-q1a-spinoffs
+*** [#B] TW7.10 Doomscroll :Orr:Colchester:Tyler:
+*** [#B] UNEM2.1 The Man From Gallifrey :The_Eleven:
+*** [#B] PGT2.3 The Gentleman Theives
+*** [#C] BSBOX2.2 Bad Habits
+    :PROPERTIES:
+    :rating:   7.9
+    :END:
+
+*** READY [#D] MAS3.2 Axos Rising :Master_bruce:
+*** [#B] FP2.3 Body Politic :P2008:Sutekh:Justine:Eliza:
 
 * FIXME pending
 ** special
@@ -1968,11 +1998,11 @@ Ashenden (4~6)
 
 Old Steven 1/3
 
+**** [#C] CC2.1 - Mother Russia :Steven:Dodo:
 **** [#C] EA7.2 The Secrets of Det-Sun :1st_Dr:Steven:Dodo:
 *** 3rd
 **** FIXME [#A] ST9.6 The Same Face :3rd_Dr:Jo:Master_nemesis:
 **** CC2.3 - Old Soldiers (Brig) no_doctor?
-**** CC5.10 - The Sentinels of the New Dawn :3rd_Dr:Liz:
 **** [#B] CC8.4 - Ghost in the Machine :Jo:D2022_03_doctor:plot_yes:
 *** 5th
 **** Nyssa only
@@ -1986,7 +2016,6 @@ Old Steven 1/3
 ***** READY [#A] 2023B.1 Pursuit of the Nightjar :5th_Dr:Nyssa:Tegan:
 **** misc
 ***** MR20 Loups-Garoux :5th_Dr:Turlough:
-***** READY [#C] MR047 Omega /
 ***** [#C] MR165. The Burning Prince (no companion) :5th_Dr:
 ***** MR266A. Ghost Station (no companion)
 ***** [#B] ST7.11. The Ingenious Gentleman Adric of Alzarius :5th_Dr:Adric:Nyssa:
@@ -2007,17 +2036,16 @@ Old Steven 1/3
 ***** [#C] NA07. Theatre of War :7th_Dr:Ace:Benny:
 ***** [#D] CC4.6 BS and and the Criminal Code :7th_Dr:Benny:
 **** Harry + Neomi
-***** [#B] 7DA23A.1 Operation Dusk :7th_Dr:Harry:Naomi:
 ***** [#D] 23A.2 Naomi's Ark :7th_Dr:Harry:Naomi:
 **** Roz+Chris / Raine
 ***** READY [#A] NA6 Damaged Goods :7th_Dr:Roz:Chris:bilibili:
 **** misc
+***** [#B] CDNM4.4 The Silent Priest :Silents:7th_Dr:
 ***** Klein [#E] MR175. Persuasion / [#C] 176. Starlight Robbery :7th_Dr:Klein:
 ***** FIXME [#A] BBV21 Punchline :plot_yes_dwg:
 ***** READY [#D] O&F3. A Genius For War :7th_Dr:Davros:P2023_07:bilibili:
 *** 9th
 **** [#C] DotD#9. Night of the Whisper
-**** FIXME [#C] ST11.X The Lichyrwick Abomination :9th_Dr:scripted:
 *** 11th
 **** Let it Snow :11th_Dr:
 
@@ -2090,13 +2118,15 @@ Tales of Trenzalore - 01
 ***** READY Ravenous 1.1/1.2 / 2.2/2.3  / 4.1/4.2/4.3
 ***** READY RAV302 - Companion Piece :bilibili:
 ***** READY Stranded: 1.1-1.4, 2.1-2.4, 3.1/3.2/3.4
+***** [#B] 8DA22.3 Here Lies Drax :Liv:Helen:Drax:
 ***** READY [#A] 8DA 2022:  Paradox of the Daleks :bilibili:
 **** Time War
 ***** READY [#A] 3.4 The War Valeyard :Bliss:
 ***** READY [#B] 5.3 Previously, Next Time :Cass:
+**** READY [#D] 8DA2023.1 The Devouring :Audacity:bilibili:
 *** 10th
 **** READY 10DA 3.3 - The Creeping Death :Donna:10th_Dr:
-**** READY 10DCC [#E] 2. The Stuntman (Nyssa)  / [#D] 3. Quantum of Axos (Ace)
+**** READY [#D] 10DCC3. Quantum of Axos (Ace) :Ace:
 **** READY [#A] NSA #7: Dead Air
 **** READY [#C] O&F5. The Martian Invasion of Planetoid 50 :bilibili:10th_Dr:P2023_09:
 **** READY Empire of the Sun :fan_made:
@@ -2107,11 +2137,9 @@ Tales of Trenzalore - 01
 **** Jack
 ***** [#B] Jack2.1 Piece of Mind :Jack:6th_Dr:
 **** Andy
-***** [#B] TW58. Cadoc Point :Andy:
 ***** TW Soho #3 The Unbegotten :Norton:Andy:Lizbeth:P2022_10:plot_yes:
 **** Ianto
-***** [#C] TWO2.2 - Blind Summit :Yvonne:Ianto:
-***** [#A] TWO2.3 - 9 to 5 :Yvonne:Ianto:
+***** [#A] TW1 2.3 - 9 to 5 :Yvonne:Ianto:
 ***** [#B] 67. The Lincolnshire Poacher :Ianto:
 **** HALF [#A] TW16. torchwood_cascade_CDRIP.tor :Tosh:
 **** FIXME [#D] TW65. Death in Venice :Colchester:Ace:

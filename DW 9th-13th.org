@@ -159,8 +159,7 @@ CLOSED: <2025-01-10 Fri 09:28> SCHEDULED: <2025-01-11 Sat>
 【【神秘博士广播剧熟肉】Travel in Hope 304 Below There 下面的人-哔哩哔哩】 https://b23.tv/BV1Jz4y1W7sn
 
 ****** CANCEL [#F] 3.2.2 The Butler Did it
-****** READY [#B] 3.2.3 Run :bilibili:dw2025_q4a_doctor:
-SCHEDULED: <2025-11-08 Sat>
+****** READY [#B] 3.2.3 Run :bilibili:dw2026_q1a_doctor:
 
 【【神秘博士广播剧熟肉】Travel in Hope 306 Run 竞选-哔哩哔哩】 https://b23.tv/BV1bz4y1u7hr
 
@@ -234,7 +233,8 @@ SCHEDULED: <2022-11-29 Tue>
 :rating:   7.8
 :END:
 
-**** TODO [#C] ST11.X The Lichyrwick Abomination :P2021:scripted:plot_yes:
+**** HALF [#C] ST11.X The Lichyrwick Abomination :P2021:scripted:plot_yes:dw2025_q4a_doctor:
+SCHEDULED: <2025-11-08 Sat>
 :PROPERTIES:
 :rating:   7.6
 :END:
@@ -510,8 +510,8 @@ CLOSED: [2021-08-01 Sun 15:54]
 
 【[BF广播剧熟肉]Technophobia科技恐惧症-哔哩哔哩】https://b23.tv/nq0u5s
 
-***** READY [#D] 10DA 1.2 - Time Reaver :bilibili:DW2024_Q2b_doctor:
-SCHEDULED: <2024-05-04 Sat>
+***** READY [#D] 10DA 1.2 - Time Reaver :bilibili:dw2025_q4b_doctor:
+SCHEDULED: <2026-01-10 Sat>
 :PROPERTIES:
 :rating:   7.1
 :END:
@@ -1390,7 +1390,7 @@ CLOSED: [2025-09-28 Sun 08:47] SCHEDULED: <2025-09-27 Sat>
 :END:
 
 **** [#B] 3.3 You Only Die Twice :dw2025_q4b_doctor:
-SCHEDULED: <2025-12-27 Sat>
+SCHEDULED: <2026-01-03 Sat>
 :PROPERTIES:
 :tardis.guide: 3.62
 :thetimescales: 9.0

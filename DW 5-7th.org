@@ -743,9 +743,15 @@ CLOSED: <2021-06-09 Wed 08:10>
 :rating:   6.9
 :END:
 
-**** MR100. 100
-***** [#E] 100a. 100 BC
-***** READY [#B] 100b. My Own Private Wolfgang :plot_no:bilibili:
+**** MR100. 100 :plot_yes_dwg:
+
+https://web.archive.org/web/20230402015811/http://drwhoguide.com/who_bf100.htm
+
+***** 3QTR [#E] 100a. 100 BC :historical:dw2025_q4b_doctor:
+CLOSED: [2025-12-03 Wed 07:15] SCHEDULED: <2025-11-22 Sat>
+
+***** HALF [#B] 100b. My Own Private Wolfgang :plot_cast:bilibili:dw2025_q4b_doctor:
+SCHEDULED: <2025-12-27 Sat>
 :PROPERTIES:
 :rating:   8.1
 :END:
@@ -1598,7 +1604,8 @@ http://www.drwhoguide.com/who_bf12.htm
 :END:
 
 ***** CANCEL [#F] 70. Unregenerate!
-***** NEXT [#D] 85. Red :dw2025_q4a_doctor:
+***** HALF [#D] 85. Red :dw2025_q4a_doctor:
+SCHEDULED: <2025-11-01 Sat>
 :PROPERTIES:
 :rating:   7.3
 :END:

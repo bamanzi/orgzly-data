@@ -245,8 +245,12 @@ SCHEDULED: <2023-07-22 Sat>
 :rating:   7.7
 :END:
 
-***** HALF [#B] EA3.3 The Ravelli Conspiracy :Vicki:Steven:plot_cast:historical:dw2025_q4a_doctor:
+***** HALF [#C] EA3.3 The Ravelli Conspiracy :Vicki:Steven:plot_cast:historical:dw2025_q4a_doctor:
 SCHEDULED: <2025-11-01 Sat>
+:PROPERTIES:
+:thetimescales: 8.1
+:tardis.guide: 3.88
+:END:
 
 尼可罗·马基亚维利（Niccolò Machiavelli，1469年5月3日—1527年6月21日），意大利佛罗伦萨人，文艺复兴时期政治思想家、历史学家、剧作家、诗人。毕业于佛罗伦萨大学，曾任佛罗伦萨共和国第二国务厅长官、执政委员会秘书，主导建立国民军并参与比萨战争。1513年因美第奇家族复辟遭监禁，后隐居乡间完成《君主论》《论李维》等著作，提出以权力为核心的现实主义政治理论，主张国家至上并将政治学与伦理学分离，奠定近代资产阶级政治学基础[
 
@@ -722,7 +726,13 @@ SCHEDULED: <2021-10-03 Sun>
 :rating:   7.8
 :END:
 
-**** [#A] CC14.1 The Death of the Daleks :Jamie:Daleks:
+**** HALF [#B] CC14.1 The Death of the Daleks :Jamie:Daleks:dw2025_q4b_doctor:
+SCHEDULED: <2025-11-29 Sat>
+:PROPERTIES:
+:thetimescales: 8.3
+:tardis.guide: 3.99
+:END:
+
 **** [#C] CC14.2 The Phantom Piper :Jamie:
 **** [#B] ST8.X - The Last Day At Work :Jamie:
 :PROPERTIES:
@@ -1817,7 +1827,8 @@ CLOSED: <2023-04-22 Sat 21:12> SCHEDULED: <2023-04-12 Wed 08:15>
 
  博士可以发现、打败外星人吗？Romana能不能在一切太晚之前找到卧式传送器？K9如何处理好新的工作？
 
-***** READY [#D] 5.2 - The Labyrinth of Buda Castle (7.1) :bilibili:
+***** READY [#D] 5.2 - The Labyrinth of Buda Castle :plot_cast:bilibili:dw2025_q4b_doctor:
+SCHEDULED: <2026-01-03 Sat>
 
 【【神秘博士广播剧熟肉】The Fourth Doctor's Adventure 502-The Labyrinth of Buda Castle 布达迷宫城堡-哔哩哔哩】 https://b23.tv/BV1h7RnYWExw
 
@@ -2280,13 +2291,13 @@ CLOSED: [2024-11-01 Fri 08:38] SCHEDULED: <2024-09-08 Sun>
 *** [#D] 2. The Poison of Peladon :River:
 *** CANCEL [#E] 3. The Death of Peladon :6th_Dr:Mel:
 *** [#A] 4. The Truth of Peladon :8th_Dr:
-** Once and Future
+** 📂Once and Future
 *** READY [#D] 1. Past Lives :P2023_05:4th_Dr:Sarah:Osgood:Monk:bilibili:
 
 【博士的作战记录-哔哩哔哩】 https://b23.tv/zGOAtiq
 
-*** HALF [#C] 2. The Artist at the End of Time :5th_Dr:Jenny:The_Curator:P2023_06:bilibili:dw2025_q4a_doctor:
-SCHEDULED: <2025-10-25 Sat>
+*** 3QTR [#C] 2. The Artist at the End of Time :5th_Dr:Jenny:The_Curator:P2023_06:bilibili:dw2025_q4a_doctor:
+CLOSED: [2025-10-29 Wed 21:27] SCHEDULED: <2025-10-25 Sat>
 
 【【神秘博士六十周年纪念特辑】Once and Future 02 The Artist at the End of Time 时间尽头的艺术家-哔哩哔哩】
 https://b23.tv/BV1hv421y7H4

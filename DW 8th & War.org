@@ -149,12 +149,21 @@ CLOSED: [2021-03-22 Mon 22:38]
 
 【[AI字幕][神秘博士广播剧]MR 055 The Twilight Kingdom-哔哩哔哩】 https://b23.tv/BV1dHNdzVEgs
 
-***** READY [#D] 61. Faith Stealer :bilibili:
+***** HALF [#D] 61. Faith Stealer :plot_yes_dwg:bilibili:dw2025_q4b_doctor:
+SCHEDULED: <2025-12-06 Sat>
 :PROPERTIES:
 :rating:   7.4
+:difficulty: H-
 :END:
 
- Faith Stealer: Fluffy and fun, with some very Douglas Adams-esque ideas. Not vital to the plot, but more enjoyable than most divergent universe stories.
+Faith Stealer: Fluffy and fun, with some very Douglas Adams-esque ideas. Not vital to the plot, but more enjoyable than most divergent universe stories.
+
+---
+
+难度：略高，因为人物很多，宗教也有好几派
+
+另：C'rizz 的状况与前面他的出场集 /The Creed of the Kromon/ 紧密相关（考虑到该集评分较低，可以只阅读一下该集剧情或者 C'rizz 的简介）
+---
 
 https://www.bigfinish.com/releases/v/doctor-who-faith-stealer-227
 
@@ -1192,7 +1201,8 @@ SCHEDULED: <2025-10-26 Sun>
 【【广播剧汉化】法师的画饼日常 The War Master 战争法师 903 The Life and Loves of Mr Alexander-哔哩哔哩】
 https://b23.tv/BV1Nu411u79c
 
-**** READY [#C] 9.4 - The Kicker :bilibili:
+**** READY [#C] 9.4 - The Kicker :bilibili:dw2025_q4b_spinoffs:
+SCHEDULED: <2026-01-11 Sun>
 :PROPERTIES:
 :rating:   7.8
 :END:
