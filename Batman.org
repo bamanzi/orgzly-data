@@ -1,3 +1,4 @@
+#+TITLE: Batman, Superman
 #+TODO: TODO BLOCK READY NOW NEXT NEXT2 DOING LATER | 2DONE DONE CANCEL
 
 * Batman :🦇:
@@ -957,31 +958,108 @@ CLOSED: [2022-09-25 Sun 15:27] SCHEDULED: <2022-09-25 Sun>
 *** Batman/Lobo :P2000:
 *** Batman: Gotham Noir :P2001:
 *** Batman: Nine Lives :P2002:
-*** Batman: Year 100 :P2006:
+*** Batman: Year 100 :P2006:hanzify:
+*** Batman: Nightfire :P2024:
+*** Batman/Static: Beyond :P2025:
+*** Immortal Legend Batman :P2025:
+
+不灭传说蝙蝠侠，汉化 by Maxxx_Karl
+
 ** comics (other continuation)
 *** Batman: Earth One :P2012:
-*** White Knight universe (Murphyverse) :S2025_Q4:
-**** [#B] Batman: White Knight vol.1 (8 issues) :P2017:
-**** Batman: Curse of the White Knight :P2019:
-**** Batman: White Knight Presents Harley Quinn :P2020:
-**** Batman: White Knight Presents Von Freeze :P2020:
-**** Batman: Beyond the White Knight :P2022:
+*** DOING White Knight universe (Murphyverse) :S2025_Q4:DC_Black_Label:
+**** DONE [#B] Batman: White Knight vol.1 (8 issues) :P2017:Joker:Harley:hanzify:
+CLOSED: [2025-11-30 Sun 09:42]
+
+**** DONE Batman: White Knight Presents Von Freeze :P2020:oneshot:hanzify:
+CLOSED: [2025-12-02 Tue 13:04]
+
+**** DONE Batman: Curse of the White Knight :P2019:hanzify:Joker:Azrael:Harley:
+CLOSED: <2025-12-25 Thu 13:48>
+
+8 issues
+
+**** Harley Quinn: Black + White + Red Vol 1 6
+
+ #哈莉·奎因-黑白红# 第六期，十月份的苍白骑士宇宙哈莉衍生刊的前奏，一个发生在苍白骑士的诅咒之后的小故事，没想到是一颗惊天动地的超大蝙哈糖。在情人节这一天，单身母亲哈莉带着龙凤胎孩子一起为监狱中的布鲁斯叔叔写信，而在回忆了两人的往日故事后，哈莉在信中发出了炽烈的告白：你愿意做我的情人吗？
+
+https://weibo.com/3214549521/4532812764158400
+
+**** Batman: White Knight Presents Harley Quinn :P2020:Harley:hanzify:
+
+6 issues
+
+**** Batman: Beyond the White Knight :P2022:hanzify:
+
+8 issues
+
 **** Batman White Knight Presents: Red Hood :P2022:
+
+2 issues
+
 **** Batman: White Knight Presents: Generation Joker :P2023:
+
+6 issues
+
 *** Dark Multiverse
 **** [#C] Dark Nights: Metal :P2017:
 
 - Dark Nights: Metal #1-6
 
-*** Batman: Creature of the Night :P2017:
-*** Batman: Last Knight on Earth :P2019:
-*** Batman: The Imposter :P2021:
+*** [#B] Batman: Creature of the Night :P2017:hanzify:
+*** Batman: Damned :DC_Black_Label:P2019:hanzify:
+*** Batman: Last Knight on Earth :P2019:DC_Black_Label:hanzify:
+*** Batman: Three Jokers :P2020:hanzify:
+*** [#B] Batman: The Imposter :P2021:DC_Black_Label:hanzify:
+*** The Boy Wonder :Damian_Wayne:P2024:DC_Black_Label:hanzify:
+
+5 issues
+
 ** audio
+*** Batman: No Man's Land :P2011:
+
+
+
+http://audiobookbay.fi/abss/batmqan-no-mans-land-parts-1-2graphic-audio-greg-rucka/
+https://audiobookbay.lu/abss/batmnan-no-mans-land-by-graphic-audio-dc-comics/
+
+-【【双语字幕】蝙蝠侠 英文广播剧 无主之地  第1-4集-哔哩哔哩】 https://b23.tv/BV1bx411X7Pb
+-【【DC/生肉】无主之地 第5集 No Man's Land – 英文有声书-哔哩哔哩】 https://b23.tv/BV19v4y1A7k6
+-【【DC/生肉】无主之地第二部 No Man's Land – 英文有声书-哔哩哔哩】 https://b23.tv/BV1yR4y1w7c8
+
+*** READY Wayne of Gotham :P2013:
+
+【【中英双语】DC有声书蝙蝠侠：哥谭的韦恩Batman:Wayne of Gotham Ep1-1-哔哩哔哩】 https://b23.tv/BV1oG4y1m7jv
+
+https://www.graphicaudiointernational.net/
+by Tracy Hickman
+这个故事应该并不算正传，而是从另一个更加黑暗的角度进行发散思维，讲述了韦恩家族的建立和巩固。
+
+故事包括当年那场著名的凶杀案，哥谭市大大小小罪犯的传说和起因，以及大量对蝙蝠侠道具、装甲、蝙蝠车设计原理和应用的介绍。
+
+随着事态的发展，蝙蝠侠会发现背后的真相远比他想象的要更加复杂。本作同时也算是另一种对蝙蝠侠存在意义的诘问和考验。
+
+【自制字幕若有误，欢迎指正】
+
+【【中英双语/完结】DC有声书蝙蝠侠：哥谭的韦恩Batman:Wayne of Gotham Ep6-2-哔哩哔哩】 https://b23.tv/BV1NM4m1z7KG
+
+
+*** Batman: The Audio Adventures
+
+2 seasons, 20 episodes in total
+
+https://dc.fandom.com/wiki/Batman:_The_Audio_Adventures_(Podcast)
+https://en.wikipedia.org/wiki/Batman:_The_Audio_Adventures
+https://audiobookbay.lu/abss/biatman-the-audio-adventures-seasons-1-and-2-dennis-mcnicholas/
+
+**** S1 :P2021:
+
+【【广播剧】蝙蝠侠：音频大冒险第一季  Batman: The Audio Adventures S1-哔哩哔哩】 https://b23.tv/BV1Hp4y1R75T （机器翻译）
+
+**** S2 :P2022:
 *** DC High Volume: Batman
 
 https://dc.fandom.com/wiki/DC_High_Volume:_Batman_(Podcast)
-
-
 
 **** READY 01-04. Batman: Year One :bilibili:
 
@@ -1411,20 +1489,48 @@ CLOSED: [2023-11-08 Wed 19:25]
 ****** 1x11
 ****** 1x12
 ****** 1x13
-** LATER The Batman Saga :S2025_Q4:
+** DOING The Batman Saga :S2025_Q4:
 
 https://dc.breezewiki.com/wiki/The_Batman_Saga
 
 *** DONE The Batman 新蝙蝠侠 (2022) :🎥:P2022:
 CLOSED: [2025-11-15 Sat 13:27]
 
-*** TODO [#D] comics: The Riddler: Year One :P2023:📚:
+*** DOING [#D] comics: The Riddler: Year One :P2023:📚:DC_Black_Label:
 
 主要讲述 Edward 如何发现 Renewal 背后的黑幕的。作者是2022电影中谜语人扮演者 Paul Dano （他也没有写过其它作品）。故事有点单调。画风还不错，比较贴合人物性格
 
 /written by Dano based on notes he'd taken about his character during the film's production./
 
-*** TODO tv: The Penguin :P2024:📺:
+*** DONE tv: The Penguin :P2024:📺:Penguin:Falcone_Crime_Family:
+CLOSED: [2025-12-12 Fri 23:28]
+
+共8集
+
+**** DONE 1x01
+CLOSED: [2025-11-24 Mon 19:08]
+
+**** DONE 1x02
+CLOSED: [2025-11-24 Mon 20:34]
+
+**** DONE 1x03
+CLOSED: [2025-11-27 Thu 08:29]
+
+**** DONE 1x04
+CLOSED: [2025-11-30 Sun 16:03]
+
+**** DONE 1x05
+CLOSED: [2025-12-04 Thu 12:49]
+
+**** DONE 1x06
+CLOSED: [2025-12-06 Sat 13:05]
+
+**** DONE 1x07
+CLOSED: [2025-12-07 Sun 11:10]
+
+**** DONE 1x08
+CLOSED: [2025-12-12 Fri 23:28]
+
 *** TBR The Batman part2 :P2026:
 * Superman :Superman:
 ** comics :📚:
@@ -1480,38 +1586,127 @@ CLOSED: [2024-11-11 Mon 13:41]
 CLOSED: [2024-11-15 Fri 19:45]
 
 **** Superman Smashes the Klan 超人恶斗3K党 :P2019:
+**** out-of-continuity
+***** Superman: Secret Identity 秘密身份↗ :P2004:已购:
+
+out-of-continuity
+
+***** Superman: Earth One 一号地球 ↗ :P2010:已购:
+
+a new modern version of the Superman story taking place in a separate continuity.
+
 *** greatest hits
 **** LATER Superman: For All Seasons 四季 :P1998:已购:
-**** DONE All-star Superman :P2005:Grant_Morrison:已购:
+**** DONE All-star Superman ↗
 **** BLOCK Superman: Kryptonite :P2006:
 
 SUPERMAN CONFIDENTIAL #1-5 and #11.
 
-**** DOING _/Superman/, by Kurt Busiek_ :P2006:
+**** DOING Geoff Johns and Kurt Busiek Era (2006.09-2009.03) :P2006:
 
-#654-675, 712, Annual #13
+- /Superman/, by Kurt Busiek, #654-675, 712, Annual #13
+- /Action Comics/, by Geoff Johns,#844–846, 850–851, 855–873
+ 
+https://getcomics.org/dc/superman-geoff-johns-and-kurt-busiek-era-collection/
 
-***** DONE Camelot Falls (#654-658)
+***** DONE [#A] 1. Up, Up, and Away 一飞冲天↗ :P2006:hanzify:
+CLOSED: [2022-10-20 Thu 23:12] SCHEDULED: <2022-10-07 Fri>
+
+- Superman #650
+- Action Comics #837
+- Superman #651
+- Action Comics #838
+- Superman #652
+- Action Comics #839
+- Superman #653
+- Action Comics #840
+
+***** DONE [#D] 2. Back In Action :hanzify:
+CLOSED: [2025-12-07 Sun 15:49]
+
+Action Comics 841-843
+
+汉化组翻译得很很很烂
+
+***** DONE [#C] 3. Camelot Falls :hanzify:
 CLOSED: [2022-11-01 Tue 13:54]
 
-***** The Third Kryptonian (#668-670)
-**** /Action Comics/, by Geoff Johns :P2006:Geoff_Johns:
+Superman #654-658
 
-#844–846, 850–851, 855–873
-https://dc.fandom.com/wiki/Superman:_Last_Son_of_Krypton_(Collected)?so=search
+#654 是独立一篇
 
-***** Last Son (#844-846,0#851) ↗
+***** DONE 4. Redemption  :hanzify:
+CLOSED: [2025-12-17 Wed 19:18]
 
-#844-846, #851, annual #11
+- Superman #659 (独立）
+- Action Comics #848-849
+- Superman #666
 
-***** Superman and the Legion of Super-Heroes (#858-863)
-***** misc #855-856,#864-865
-***** Brainiac (#866-870) ↗
+***** DONE [#A] 5. Last Son :hanzify:
+CLOSED: [2025-12-27 Sat 22:06]
 
-#866-870, 
-Superman: New Krypton Special #1 pages 1-9
+- Action Comics #844-846, #851
+- Action Comics annual #11
 
-***** misc #871-873
+https://dc.fandom.com/wiki/Superman:_Last_Son
+
+***** DONE [#C] 6. Camelot Falls v2 :P2007:
+CLOSED: [2025-12-23 Tue 00:09]
+
+汉化：
+- [X] Superman #662
+- [X] Superman #663
+- [ ] Superman #664
+- [ ] Superman #667
+- [ ] Superman Annual #13
+
+***** DONE [#D] 7. 3-2-1 Action :Jimmy_Olsen:
+CLOSED: [2025-12-28 Sun 23:34]
+
+主角为 Jimmy Olsen
+
+- [ ] Superman #665 (吉米的起源故事(如何加入报社）)
+- [ ] Action Comics #852-854
+
+
+
+***** DONE [#B] 7.5 Escape from Bizarro World ↗ :Bizarro:
+CLOSED: [2025-12-30 Tue 22:56]
+
+Action Comics #855-857
+
+https://dc.fandom.com/wiki/Superman:_Escape_from_Bizarro_World
+
+***** READY [#B] 8. The Third Kryptonian :hanzify:
+
+- Action Comics #847 (Intermezzo)
+- Superman #668 (The Third Kryptonian, Part One: The Hunt)
+- Superman #669 (The Third Kryptonian, Part Two: The Escape)
+- Superman #670 (The Third Kryptonian, Finale: The Stand)
+- Superman Annual #13 (The Best Day)
+
+***** BLOCK 9. Shadows Linger (#671-676)
+***** READY [#B] 10. Superman and the Legion of Super-Heroes :hanzify:
+
+AC#858-863
+
+***** READY [#B] 11. The Coming of Atlas :hanzify:
+
+Superman #677-680
+
+***** READY [#B] 12. Brainiac
+
+- Action Comics #866-870, 
+- Superman: New Krypton Special #1 pages 1-9
+
+***** BLOCK [#B] 13. New Krypton ↗
+
+新氪星
+- New Krypton special
+- Superman #681-683
+- Action Comics #871-873
+- Supergirl V5 #34-36
+
 **** /Action Comics/, by Grant Morrison :P2011:Grant_Morrison:new52:
 
 Action Comics (2011-2016) #1-18
@@ -1856,6 +2051,33 @@ CLOSED: [2024-10-18 Fri 20:49]
 **** DONE 3x13
 CLOSED: [2024-10-20 Sun 19:43]
 
+*** Superman and Lois S4
+**** DONE 4x01
+CLOSED: [2025-11-23 Sun 15:41]
+
+**** DONE 4x02
+CLOSED: <2025-12-14 Sun 10:09>
+
+**** DONE 4x03
+CLOSED: [2025-12-14 Sun 10:55]
+
+**** DONE 4x04
+CLOSED: [2025-12-17 Wed 17:52]
+
+**** DONE 4x05
+CLOSED: [2025-12-21 Sun 10:03]
+
+**** DONE 4x06
+CLOSED: <2025-12-26 Fri 00:09>
+
+**** DONE [#A] 4x07 A Regular Guy
+CLOSED: [2025-12-26 Fri 20:29]
+
+ Kent 向世人公开了他的超人身份
+
+**** DONE 4x08
+CLOSED: [2025-12-31 Wed 09:37]
+
 ** movies
 *** DCEU
 **** Man of Steel :P2013:
@@ -1928,8 +2150,13 @@ CLOSED: [2024-10-15 Tue 21:44]
 CLOSED: [2024-10-16 Wed 21:17]
 
 **** 6. Crisis on Infinite Earths 无限地球危机 :S2025_Q4:
+***** TODO Supergirl 5x09
+***** TODO Batwoman 1x09
+***** TODO The Flash 6x09
+***** TODO Arrow 8x08
+***** TODO Legends of Tomorrow 5x01
 ** Doom Patrol (tv series)
-*** DOING S1 :S2024_10:
+*** DONE S1 :S2024_10:
 **** DONE 1x01
 CLOSED: <2024-10-12 Sat 22:58>
 
@@ -1972,6 +2199,30 @@ CLOSED: <2024-11-04 Mon 22:49>
 **** DONE 1x15
 CLOSED: [2024-11-04 Mon 23:12]
 
+*** S2
+**** DONE 2x01
+CLOSED: [2025-12-13 Sat 23:11]
+
+**** DONE 2x02
+CLOSED: <2025-12-16 Tue 23:41>
+
+**** DONE 2x03
+CLOSED: [2025-12-20 Sat 23:44]
+
+**** DONE 2x04
+CLOSED: [2025-12-28 Sun 10:10]
+
+** Harley Quinn (TAS)
+*** DONE S1 :P2019:
+
+13 episodes
+
+*** DONE S2 :P2020:
+*** S3 :P2022:
+**** DONE 3x01
+CLOSED: [2025-12-19 Fri 23:49]
+
+*** S4 :P2023:
 * DCAMU :🎦:DCAMU:
 
 The DC Animated Movie Universe is a shared universe consisting of a number of movies, shorts and digital-first comics, originally conceived as an "animated New 52", but later expanding into older and original stories. 
