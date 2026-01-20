@@ -708,6 +708,16 @@ SCHEDULED: <2023-02-07 Tue 21:50>
 
 *** with Jamie & Victoria :2CD:
 **** HALF [#B] EA2.3 The Black Hole (8.1) :Jamie:Victoria:P2015:D2021_06:Monk:
+
+【神秘博士广播剧：The Black Hole-哔哩哔哩】 https://b23.tv/BV1Z4ixB4EWy
+
+在黑洞附近的一个研究站里，时间仿佛静止了。为了调查这一现象，博士、杰米和维多利亚发现了一种远比他们旅途中遇到的任何怪物都强大的力量……那就是博士自己的族人。
+
+为了数千人的安全，博士不得不冒险逃亡。与此同时，他的家乡星球上的一名警察也在他身边协助他。博士不情愿地卷入了一场与时间赛跑的行动中。
+
+但事情远没有表面看起来那么简单。如果你能利用医生的同情心来对付他，你就设下了一个完美的陷阱……
+
+
 **** CC
 ***** START [#C] CC12.2 Dumb Waiter :Jamie:Leela:D2021_09_extra:plot_yes:ovedue:
 SCHEDULED: <2021-10-03 Sun>
@@ -726,12 +736,14 @@ SCHEDULED: <2021-10-03 Sun>
 :rating:   7.8
 :END:
 
-**** HALF [#B] CC14.1 The Death of the Daleks :Jamie:Daleks:dw2025_q4b_doctor:
-SCHEDULED: <2025-11-29 Sat>
+**** 3QTR [#B] CC14.1 The Death of the Daleks :Jamie:Daleks:plot_no:dw2025_q4b_doctor:
+CLOSED: <2026-01-18 Sun 21:19> SCHEDULED: <2025-11-29 Sat>
 :PROPERTIES:
 :thetimescales: 8.3
 :tardis.guide: 3.99
 :END:
+
+There is a creature loose on the war-torn planet of Tersimmon. It has just destroyed an entire race, and following its arrival, others are dying too. Only one person will defend this killer, this murderer, this destroyer: because Jamie McCrimmon knows the Doctor isn't himself...
 
 **** [#C] CC14.2 The Phantom Piper :Jamie:
 **** [#B] ST8.X - The Last Day At Work :Jamie:
@@ -769,12 +781,20 @@ SCHEDULED: <2022-06-05 Sun>
 
 **** BLOCK [#D] LS8.1 Operation Werewolf :P2024_07:Jamie:Zoe:WW2:3CD:
 **** CC
-***** HALF [#B] CC4.2 - The Glorious Revolution :Jamie:D2022_01_doctor:plot_no:
+***** READY [#B] CC4.2 - The Glorious Revolution :Jamie:plot_no:
 :PROPERTIES:
 :rating:   8.1
 :END:
 
-与 Highlanders 相关
+与 /Highlanders/ 那集 相关
+
+【神秘博士广播剧：The Companion Chronicles-The Glorious Revolution-光荣革命-哔哩哔哩】 https://b23.tv/BV1PVixBTExv
+
+在多年作为第二任博士的伙伴后，杰米·麦克里蒙被送回了自己的世界和时代，他对旅行的记忆也被抹去，直到现在。
+
+来自星际之外的访客需要探索杰米的过去，找出出了什么问题。1688年，当TARDIS降落伦敦，博士、杰米和佐伊被詹姆斯二世国王的宫廷欢迎时，发生了什么。
+
+那是光荣革命的一年。还有一段全新的历史的诞生......
 
 ***** CANCEL [#E] CC10.3 The Integral :plot_no:scripted:
 :PROPERTIES:
@@ -847,6 +867,10 @@ SCHEDULED: <2024-12-21 Sat>
 ***** [#E] 24.1 Kippers
 ***** [#E] 24.2 Catastrophe Theory :Zoe:
 ***** [#E] 24.3 The Vanishing Point :Zoe:
+**** 📂2025. The Potential Daleks :P2025_12:Jamie:Zoe:Raven:
+***** 25.1 Humpty Dumpty
+***** 25.2 Secret of the Daleks
+***** 25.3 War of the Morai
 *** BF misc :🗣:
 **** #The_Company :Zoe:
 ***** 2DONE [#D] CC5.02 - Echoes of Grey :Zoe:D2021_07_dr:
@@ -1186,7 +1210,12 @@ SCHEDULED: <2025-07-12 Sat>
 :rating:   6.9
 :END:
 
-***** 2024B. The Quintessence :Jo:3CD:P2024_10:
+***** [#A] 2024B. The Quintessence :Jo:3CD:P2024_10:
+:PROPERTIES:
+:thetimescales: 8.4
+:tardis.guide: 4.50
+:END:
+
 **** misc
 ***** DONE [#A] The Sacrifice of Jo Grant (The Legacy of Time #3) :Jo:P2019:
 CLOSED: [2020-08-07 Fri 18:25]
@@ -1990,7 +2019,12 @@ CLOSED: [2022-09-03 Sat 17:41] SCHEDULED: <2022-09-04 Sun>
 **** CANCEL [#E] LS7.1 The Ark :Harry:P2023_06:
 **** CANCEL [#F] LS7.2 Daleks! Genesis of Terror :Harry:P2023_05:
 **** [#C] CDNM4.1 Invasion of the Body Stealers
-**** The Curse of Time :P2024_12:Harry:2CD:Harry:
+**** [#D] The Curse of Time :P2024_12:Harry:2CD:Harry:
+:PROPERTIES:
+:thetimescales: 7.0
+:tardis.guide: 3.58
+:END:
+
 *** BF misc :BigFinish:
 **** DONE [#C] Night of the Vashta Nerada (7.8) (CDNM #2.1) :P2017:Vashta_Nerada:scripted:no_companion:bilibili:1CD:
 CLOSED: [2020-07-29 Wed 23:03]
@@ -2234,20 +2268,20 @@ https://b23.tv/BV1Yf421z7Q3
 *** [#D] 10. Death's Deal :10th_Dr:Donna:
 *** [#D] 11. The Time Machine :11th_Dr:Alice:
 ** Classic Doctors, New Monsters :CDNM:
-*** CDNM vol.1 :P2016:scripted:
+*** 📂CDNM vol.1 :P2016:scripted:
 **** DONE [#B] 1.1 Fallen Angels :5th_Dr:
 **** DONE [#B] 1.2 Judoon in Chains :6th_Dr:Judoon:
 **** CANCEL [#E] 1.3 Harvest of the Sycorax :7th_Dr:
 **** DONE [#C] 1.4 The Sontaran Ordeal :8th_Dr:time_war:
-*** CDNM vol.2 :P2017:scripted:
-**** DONE [#C] 2.1 Night of the Vashta Nerada :4th_Dr:
+*** 📂CDNM vol.2 :P2017:scripted:
+**** DONE [#C] 2.1 Night of the Vashta Nerada :4th_Dr:Vashta_Nerada:
 **** CANCEL [#F] 2.2 Empire of the Racnoss :5th_Dr:
 **** [#D] 2.3 The Carrionite Curse :6th_Dr:
-**** DONE [#C] 2.4 Day of the Vashta Nerada :8th_Dr:time_war:bilibili:
+**** DONE [#C] 2.4 Day of the Vashta Nerada :8th_Dr:Vashta_Nerada:time_war:bilibili:
 
 【【神秘博士广播剧熟肉】Classic Doctors New Monsters 204 Day of the Vashta Nerada 老博士新怪物 影魔之日-哔哩哔哩】 https://b23.tv/DDjZMQ7
 
-*** CDNM vol.3 The Stuff of Nightmares :P2022_07:
+*** 📂CDNM vol.3 The Stuff of Nightmares :P2022_07:
 **** HALF [#D] 3.1 The House That Hoxx Built :3rd_Dr:Sarah:
 **** [#C] 3.2 The Tivolian Who Knew Too Much :4th_Dr:Leela:
 **** READY [#A] 3.3 Together In Eclectic Dreams :6th_Dr:bilibili:Dream_crab:
@@ -2260,7 +2294,7 @@ https://b23.tv/BV1CA411Q7Yk
 【【神秘博士广播剧熟肉】The Stuff of Nightmares 304 If I Should Die Before I Wake 若我在沉睡中死去-哔哩哔哩】 
 https://b23.tv/BV1CA411Q7Yk
 
-*** CDNM vol.4 Broken Memories :P2024_03:
+*** 📂CDNM vol.4 Broken Memories :P2024_03:
 **** [#C] 4.1 Invasion of the Body Stealers :4th_Dr:Sarah:
 **** [#A] 4.2 The Queen of Clocks :6th_Dr:Clockwork_Droids:Mel:
 **** [#B] 4.3 The Silent City :Silents:8th_Dr:
@@ -2285,11 +2319,11 @@ https://b23.tv/BV1CA411Q7Yk
 https://disk.yandex.ru/d/n_i2CRgIJW0xOw
 
 ** Peladon :P2022_01:plot_yes:
-*** 3QTR [#B] 1. The Ordeal of Peladon :King_Peladon:14th_Dr:DW2024_Q3c_spinoffs:
+*** 3QTR [#B] 1. The Ordeal of Peladon :King_Peladon:Alpha_Centauri:14th_Dr:DW2024_Q3c_spinoffs:
 CLOSED: [2024-11-01 Fri 08:38] SCHEDULED: <2024-09-08 Sun>
 
-*** [#D] 2. The Poison of Peladon :River:
-*** CANCEL [#E] 3. The Death of Peladon :6th_Dr:Mel:
+*** [#D] 2. The Poison of Peladon :River:Alpha_Centauri:
+*** CANCEL [#E] 3. The Death of Peladon :6th_Dr:Mel:Alpha_Centauri:
 *** [#A] 4. The Truth of Peladon :8th_Dr:
 ** 📂Once and Future
 *** READY [#D] 1. Past Lives :P2023_05:4th_Dr:Sarah:Osgood:Monk:bilibili:
@@ -2344,7 +2378,11 @@ https://b23.tv/BV18w411w7SV
 
 【【神秘博士六十周年纪念特辑】Once and Future 07 The Union 联合-哔哩哔哩】 https://b23.tv/BV1paYAesEeW
 
-*** READY 8. Coda: The Final Act :Fugitive_Dr:War_Dr:Benny:Vienna:Voord:P2024_11:bilibili:
+*** READY [#D] 8. Coda: The Final Act :Fugitive_Dr:War_Dr:Benny:Vienna:Voord:P2024_11:bilibili:
+:PROPERTIES:
+:tardis.guide: 3.68
+:thetimescales: 6.0
+:END:
 
 【【神秘博士六十周年纪念特辑】Once and Future 08 The Final Act 终幕-哔哩哔哩】 
 https://b23.tv/BV1eE6FYwEYz
@@ -2471,7 +2509,8 @@ https://b23.tv/BV1eE6FYwEYz
 *** 31. What Still Remains :7th_Dr:Ace:P2025_08:
 *** 32. Firefall :15th_Dr:Belinda:
 *** 33. Counterstrike :15th_Dr:Belinda:
-** Sontarans vs Rutans
+*** 34. The Mind Trap :P2026_01:2nd_Dr:Jamie:Zoe:
+** 📂Sontarans vs Rutans
 *** [#C] 1. The Battle of Giant's Causeway :8th_Dr:Charley:Crizz:P2024_01:
 *** 3QTR [#B] 2. The Children of the Future :3rd_Dr:Sarah:P2024_02:
 *** [#D] 3. Born to Die :6th_Dr:Charley:P2024_03:
@@ -2484,6 +2523,16 @@ https://b23.tv/BV1eE6FYwEYz
 *** The War Master ↗ :Master_War:Unbound_Dr:War_Dr:Benny:Captain_John:P2024_09:
 *** Missy :P2025_06:7th_Dr:
 *** Master! :P2025_09:
+** 📂Sea Smoke and Other Stories :P2025_10:
+*** 1. Sea Smoke :1st_Dr:Dodo:
+*** 2. Party Favours :UNIT_new:
+*** 3. Bramble King :8th_Dr:Audacity:
+*** 4. Merlin's Trap :12th_Dr:
+** 📂It's a Wonderful War and Other Stories :P2025_12:
+*** 1. Unholy Night :Missy:
+*** 2. Legacy of Blood :6th_Dr:Leela:Ellie:
+*** 3. Presents of Mind :Sarah:Harry:
+*** 4. It's a Wonderful War :8th_Dr:Daleks:
 * multi-doctor story
 ** tv
 *** 10x01 The Three Doctors :P1973:
@@ -2516,7 +2565,12 @@ CLOSED: <2024-09-25 Wed 22:22> SCHEDULED: <2024-09-07 Sat>
 :END:
 
 *** HALF ST11.4 Death Will Not Part Us :8th_Dr:War_Dr:9th_Dr:time_war:P2022:
-*** LS8.2 Deathworld :1st_Dr:2nd_Dr:3rd_Dr:Jamie:Jo:Brigadier:3CD:P2024_08:
+*** [#B] LS8.2 Deathworld :1st_Dr:2nd_Dr:3rd_Dr:Jamie:Jo:Brigadier:3CD:P2024_08:
+:PROPERTIES:
+:thetimescales: 7.5
+:tardis.guide: 4.10
+:END:
+
 ** comics
 *** IDW :IDW:
 **** Prisoners of Time
@@ -2597,6 +2651,7 @@ CLOSED: [2021-11-01 Mon 22:54] SCHEDULED: <2021-11-01 Mon>
 **** [#D] 4. Sleeper Agents :P2022:Ben:Polly:
 **** [#C] 5. The Penumbra Affair :P2022:Wibbsey:Polly:Yates:
 **** TBR 6. Harry Sullivan's War
+*** Presents of Mind :Sarah:Harry:P2025_12:
 ** novels
 *** [#A] Who Killed Kennedy (4.1) :novel:
 *** DONE [#B] 敌人的脸孔 The Face of the Enemy (PDA top #5) †3. 83 :📔:UNIT:Master_nemesis:

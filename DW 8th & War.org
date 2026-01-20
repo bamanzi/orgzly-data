@@ -114,6 +114,7 @@ https://b23.tv/BV1114y1Q7zi
 - 【【神秘博士广播剧熟肉】MR 050c Zagreus - Wasteland 荒野-哔哩哔哩】 
 https://b23.tv/BV1Wh4y1y7xt
 
+**** MR part2 :Crizz:scripted:2CD:
 ***** BLOCK [#A] 52. Scherzo :Charley:plot_yes:P2003:bilibili:
 :PROPERTIES:
 :rating:   8.6
@@ -124,7 +125,6 @@ https://b23.tv/BV1Wh4y1y7xt
 【【神秘博士广播剧熟肉】MR 052 Scherzo 诙谐曲-哔哩哔哩】 
 https://b23.tv/BV1D94y1v7dB
 
-**** MR part2 :Crizz:scripted:2CD:
 ***** CANCEL [#F] 053. The Creed of the Kromon :bilibili:
 CLOSED: [2021-03-22 Mon 22:35]
 :PROPERTIES:
@@ -172,6 +172,9 @@ Multihaven是一个和谐的社区，拥有众多宗教和信仰，似乎为康�
 医生和查理瞥见一位老朋友和C'rizz正在接受一些非正统的宗教活动，他们的信仰、希望和信念即将受到极限的考验。
 
 【[AI字幕][神秘博士广播剧]MR 061 Faith Stealer-哔哩哔哩】 https://b23.tv/BV1Fn3YzMEBF
+
+---
+https://web.archive.org/web/20210424045813/http://www.drwhoguide.com/who_bf61.htm
 
 ***** READY [#C] 62. The Last :bilibili:
 :PROPERTIES:
@@ -386,8 +389,7 @@ https://b23.tv/BV1CA411Q7Yk
 ***** [#C] SvsR #1. The Battle of Giant's Causeway :P2024_01:Crizz:
 ***** ST13.4 Ahead of Time :P2025_04:
 *** with Mary
-**** 123. The Company of Friends :short:
-***** 2DONE [#B] 4. Mary's Story :plot_yes:Mary:½CD:
+**** 2DONE [#B] MR123d. Mary's Story :plot_yes:Mary:½CD:
 CLOSED: [2021-03-22 Mon 22:31]
 :PROPERTIES:
 :rating:   8.4
@@ -536,7 +538,10 @@ http://www.drwhoguide.com/bbc7_13.htm
 
 ***** [#C] 4.2  Situation Vacant    (7.6) :Tamsin:
 ***** CANCEL +4.3  Nevermore+ (6.6) :Tamsin:
-***** DONE [#B] 4.4 The Book of Kells (8.1) :Tamsin:Monk:Lucie:
+***** DONE [#B] 4.4 The Book of Kells (8.1) :Tamsin:Monk:Lucie:bilibili:
+
+【神秘博士广播剧：8DA -凯鲁斯之书-哔哩哔哩】 https://b23.tv/BV1DDySBqEYZ
+
 ***** 2DONE [#C] 4.5 Deimos :ice_warriors:2CD:
 CLOSED: [2021-06-17 Thu 23:27]
 :PROPERTIES:
@@ -894,6 +899,9 @@ https://b23.tv/BV15a411y7o8
 ***** [#B] 1. Birdsong
 ***** [#D] 2. Lost Hearts
 ***** [#D] 3. Slot Beasts
+**** 📂Empty Vessels :P2025_12:
+***** Eos Falling :1CD:
+***** Lure of the Zygons :2CD:
 *** 8DA (2023- )
 **** 📂Audacity :P2023_11:plot_yes:Audacity:
 ***** TODO [#D] The Devouring :1CD:bilibili:
@@ -905,11 +913,31 @@ https://b23.tv/BV15a411y7o8
 ***** [#B] Twenty-Four Doors in December
 ***** [#D] The Empty Man
 ***** [#E] Winter of the Demon
-**** The Stuff of Legend :Charley:Master_reborn:Daleks:2CD:P2024_09:
+**** [#D] The Stuff of Legend :Charley:Master_reborn:Daleks:2CD:P2024_09:
+:PROPERTIES:
+:thetimescales: 6.7
+:tardis.guide: 3.88
+:END:
+
 **** 📂Deadly Strangers :P2024_12:Charley:Audacity:
-***** 1. Puccini and the Doctor
-***** 2. Woman's Day Off
-***** 3. The Gloaming :The_Mara:
+***** [#C] 1. Puccini and the Doctor
+:PROPERTIES:
+:tardis.guide: 4.01
+:thetimescales: 7.0
+:END:
+
+***** [#E] 2. Woman's Day Off
+:PROPERTIES:
+:tardis.guide: 3.31
+:thetimescales: 5.0
+:END:
+
+***** [#D] 3. The Gloaming :The_Mara:
+:PROPERTIES:
+:tardis.guide: 3.77
+:thetimescales: 7.0
+:END:
+
 **** 📂Causeway :P2025_11:Charley:Audacity:
 ***** Lost Amongst the Stars :1CD:
 ***** The Time You Never Had :2CD:
@@ -1258,8 +1286,12 @@ The N-Forms receive an activation call, setting this after /Desperate Measures/
 
 *** PROSE: The Stranger :War_Dr:
 ** 3. Rassilon resurrected
-*** DONE [#C] GTW1.4 Desperate Measures (Gallifrey: Time War #1.4) :Rassilon:🎧:
+*** DONE [#C] GTW1.4 Desperate Measures (Gallifrey: Time War #1.4) :Rassilon:🎧:bilibili:
 CLOSED: [2020-11-09 Mon 18:14]
+
+【[神秘博士广播剧]Gallifrey: Time War 104  Desperate Measures-哔哩哔哩】 https://b23.tv/BV13MSqBjEyM
+
+
 
 *** 2DONE [#C] WM1.2 The Good Master :Master_war:Cole:D2021_08_extra:🎧:
 :PROPERTIES:
@@ -1313,7 +1345,12 @@ SCHEDULED: <2023-11-19 Sun>
 **** HALF [#A] 6.4 - Unfinished Business :DW2023_12_spinoffs:
 SCHEDULED: <2023-12-24 Sun>
 
-*** Dark Gallifrey 2: The War Master :Master_war:War_Dr:Benny:Unbound_Dr:Captain_John:P2024_08:plot_yes:🎧:3CD:
+*** [#C] Dark Gallifrey 2: The War Master :Master_war:War_Dr:Benny:Unbound_Dr:Captain_John:P2024_08:plot_yes:🎧:3CD:
+:PROPERTIES:
+:tardis.guide: 3.58/4.03/3.37
+:thetimescales: 7.5/7.8/6.3
+:END:
+
 *** /📂The War Master series 5: Hearts of Darkness/ :Master_War:🎧:
 **** 2DONE [#B] 5.1 - The Edge of Redemption :plot_yes:DW2022_11_spinoffs:
 CLOSED: [2022-11-07 Mon 20:49] SCHEDULED: <2022-11-09 Wed>
@@ -1340,17 +1377,25 @@ CLOSED: [2023-02-19 Sun 16:18] SCHEDULED: <2023-02-17 Fri 08:20>
 :END:
 
 *** 📂Gallifrey: Time War vol.2 :P2019:🎧:
-**** DONE Havoc
+**** DONE 2.1 Havoc :bilibili:
 CLOSED: [2020-11-12 Thu 07:48]
 
-**** DONE Partisans
+【[神秘博士广播剧]Gallifrey: Time War 201 Havoc-哔哩哔哩】 https://b23.tv/BV1JF2pByESi
+
+**** DONE 2.2 Partisans :bilibili:
 CLOSED: [2020-11-12 Thu 07:48]
 
-**** DONE Collateral
+【[神秘博士广播剧]Gallifrey: Time War 202 Partisans-哔哩哔哩】 https://b23.tv/BV1bRmwBgERx
+
+**** DONE 2.3 Collateral :bilibili:
 CLOSED: [2020-11-12 Thu 07:48]
 
-**** DONE Assassins
+【[神秘博士广播剧]Gallifrey: Time War 203 Collateral-哔哩哔哩】 https://b23.tv/BV1mjqsBuEGo
+
+**** DONE 2.4 Assassins :bilibili:
 CLOSED: [2020-11-12 Thu 07:48]
+
+【[神秘博士广播剧]Gallifrey: Time War 204 Assassins-哔哩哔哩】 https://b23.tv/BV1EV6dBpEC3
 
 *** DONE GTW3.1 Hostiles
 CLOSED: [2020-12-17 Thu 19:53]
@@ -1408,8 +1453,20 @@ CLOSED: [2023-11-19 Sun 19:32] SCHEDULED: <2023-11-26 Sun>
 【【神秘博士广播剧汉化】Susan's War 苏珊的战争 103 Assets of War-哔哩哔哩】
 https://b23.tv/BV1J64y1B74Y
 
-**** HALF [#B] 4. The Shoreditch Intervention :P2020_04:8th_Dr:plot_yes:
+**** HALF [#B] 4. The Shoreditch Intervention :P2020_04:8th_Dr:plot_yes:bilibili:
 SCHEDULED: <2024-05-31 Fri>
+
+【【神秘博士广播剧熟肉】Susan's War 104 The Shoreditch Intervention 肖尔迪奇干预-哔哩哔哩】 https://b23.tv/BV1ZU2fB2EkW
+
+当Susan的TARDIS被截获时，她被指派了一项高度机密的任务。
+
+1963年的地球是时间大战中的一个关键节点，但相关时间线必须经过谨慎的协商。
+
+在肖尔迪奇区的街道上，除了摩登歌迷和摇滚乐手之外，还存在着其他种种危险。
+
+在Susan的过去，Dalek正在等着她，博士同样也在那里！
+
+带有#的句子翻译存在问题
 
 *** 📂Susan's War vol.2 :Susan:War_Dr:P2024_08:
 **** [#E] 2.1 The Lost Son :Rasmus:
@@ -1527,10 +1584,30 @@ https://b23.tv/BV1km4y1t7Jb
 https://b23.tv/BV1eN4y1C7Kn
 
 *** 📂8D Time War vol.6 Reflections :Cass:Alex:P2024_10:
-**** 6.1 Nowhere, Never
-**** 6.2 The Road Untravelled
-**** 6.3 Cass-cade
-**** 6.4 Borrow or Rob
+**** [#D] 6.1 Nowhere, Never
+:PROPERTIES:
+:thetimescales: 6.8
+:tardis.guide: 3.83
+:END:
+
+**** [#C] 6.2 The Road Untravelled
+:PROPERTIES:
+:thetimescales: 7.4
+:tardis.guide: 3.89
+:END:
+
+**** [#C] 6.3 Cass-cade
+:PROPERTIES:
+:thetimescales: 7.2
+:tardis.guide: 3.86
+:END:
+
+**** [#C] 6.4 Borrow or Rob
+:PROPERTIES:
+:thetimescales: 7.2
+:tardis.guide: 4.09
+:END:
+
 *** 📂8D Time War vol.7 Uncharted: Pursuit :P2025_06:
 **** 7.1 Spoil of War
 **** 7.2 The Tale of Alex
@@ -1693,9 +1770,25 @@ SCHEDULED: <2025-10-11 Sat>
 **** [#E] 6.2 Fear Nothing
 **** [#B] 6.3 Exit Strategy :8th_Dr:
 *** 📂The War Doctor Rises
-**** WDR1: Morbius the Mighty :P2024_08:War_Dr:3CD:
-**** WDR2: Unknown Soldiers :P2024_12:3CD:
-**** WDR3. Fallen Heroes :P2025_05:
+**** [#C] WDR1: Morbius the Mighty :P2024_08:War_Dr:3CD:
+:PROPERTIES:
+:tardis.guide: 3.97
+:thetimescales: 7.8
+:END:
+
+**** [#C] WDR2: Unknown Soldiers :P2024_12:3CD:
+:PROPERTIES:
+:tardis.guide: 3.75
+:thetimescales: 8.1
+:END:
+
+**** WDR3. Fallen Heroes :P2025_05:3CD:
+**** WDR4. Cybergene :P2025_12:3CD:
+
+- part 1 Crucible
+- part 2 Firebreak
+- part 3 Sepulchre
+
 *** Ambush (comic)
 ** 12. The Master flees
 *** DONE [#A] WM1.4 The Heavenly Paradigm :Cole:🎧:D2021_09_extra:
@@ -1806,6 +1899,10 @@ https://b23.tv/BV1Rh411x7Ew
 :PROPERTIES:
 :rating:   4.04
 :END:
+
+*** The Children :fan_made:bilibili:
+
+【【神秘博士】孩童【同人动画】-哔哩哔哩】 https://b23.tv/BV1drUkBNEYX
 
 *** The Bidding War (comic) :9th_Dr:
 ** 15. The Final Day

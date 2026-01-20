@@ -490,7 +490,12 @@ https://b23.tv/BV14x4y1Z79k
 **** 📂2024A. The Dream Team :P2024_04:Adric:Nyssa:Tegan:
 ***** [#A] The Merfolk Murders :1CD:
 ***** [#C] Dream Team :1CD:
-**** 2024B. The Great Beyond :Adric:Nyssa:Tegan:3CD:P2024_09:
+**** [#E] 2024B. The Great Beyond :Adric:Nyssa:Tegan:3CD:P2024_09:
+:PROPERTIES:
+:tardis.guide: 3.27
+:thetimescalea: 6.7
+:END:
+
 **** 📂2025. Hooklight
 ***** Hooklight 1 :P2025_04:3CD:
 ***** Hooklight 2 :P2025_05:3CD:
@@ -556,7 +561,14 @@ CLOSED: [2022-01-14 Fri 15:10]
 ***** My Dinner with Andrew
 ***** The Furies
 **** [#E] VI. Return to the Web Planet :1CD:
-**** [#C] X. The Five Companions :1CD:Ian:Sara_Kingdom:Steven:Polly:Nyssa:
+**** READY [#C] X. The Five Companions :1CD:Ian:Sara_Kingdom:Steven:Polly:Nyssa:bilibili:
+
+【【神秘博士广播剧熟肉】The Five Companions-五位同伴-哔哩哔哩】 https://b23.tv/BV1dwmPBsE6a
+
+在一艘飞船中，博士的4位老朋友和1位新朋友都迷失了方向都很困惑，他们不知道自己到这里，来这里有什么意义，但是这个地方戴立克、桑塔人和恐龙都来了，最要紧的问题是活下去。
+
+他们共同的想法，博士来了，有一个很合理的方法了解发生的事情，如果他们6个可以齐心协力，也许可以逃出这个地方，然后回家，但是，没料到的是，别人也在联合，确保置他们于死地
+
 *** short trips
 **** [#D] DotD #5 Smoke and Mirrors :Adric:Nyssa:Tegan:1CD:plot_yes:
 **** READY [#E] ST1.5 The Deep :Nyssa:P2010:bilibili:
@@ -984,7 +996,15 @@ CLOSED: [2022-04-22 Fri 08:22] SCHEDULED: <2022-04-30 Sat>
 
 【[AI字幕][神秘博士广播剧] MR 048 - Davros-哔哩哔哩】 https://b23.tv/BV1ubj5zmEsV
 
-***** DONE [#C] 065. The Juggernauts :Davros:
+***** DONE [#C] 065. The Juggernauts :Davros:bilibili:
+
+【【神秘博士】广播剧：The Juggernauts 【AI作画】-哔哩哔哩】 
+
+- P1 https://b23.tv/BV17Z2QBtEgX
+- P2 https://b23.tv/BV1jZ2QBtEDZ
+- P3 https://b23.tv/BV17d2QBfERq
+- P4 https://b23.tv/BV1Ed2QBfEM5
+
 ***** [#D] 066. Catch-1792
 ***** [#C] 073. Thicker Than Water
 :PROPERTIES:
@@ -1231,7 +1251,7 @@ This anthology marked the 40th anniversary of Baker's debut as the Doctor.
 ***** [#C] 4. Children of the Revolution :Sontarans:1CD:
 ***** [#C] 5. The Thousand Year Thaw :Peri:½CD:
 ***** [#B] 6. The Firstborn :1CD:
-**** 2024B. The Trials of a Time Lord :Peri_older:Mel:P2024_08:3CD:
+**** [#E] 2024B. The Trials of a Time Lord :Peri_older:Mel:P2024_08:3CD:
 **** 📂2025A. The Cosmos and Mrs Clarke :P2025_05:Constance:
 ***** 1. The Story Demon
 ***** 2. The Key to Many Worlds
@@ -1714,7 +1734,7 @@ CLOSED: [2023-11-17 Fri 08:22] SCHEDULED: <2023-11-18 Sat>
 :rating:   8.6
 :END:
 
-**** READY [#A] NA6 Damaged Goods :Roz:Chris:plot_no:2CD:bilibili:
+**** READY [#A] NA06 Damaged Goods :Roz:Chris:plot_no:2CD:bilibili:
 :PROPERTIES:
 :rating:   9.0
 :END:
@@ -1791,13 +1811,34 @@ CLOSED: [2024-06-29 Sat 19:45] SCHEDULED: <2024-06-05 Wed 09:27>
 **** 📂2022B Sullivan and Cross - AWOL :Harry:Naomi:P2022_11:
 ***** CANCEL [#E] 22B.1 London Orbital
 ***** CANCEL [#F] 22B.2 Scream of the Daleks :Daleks:
-**** 📂2023A Far From Home :P2023_06:Harry:Naomi:1CD:
-***** [#B] 23A.1 Operation Dusk
-***** [#D] 23A.2 Naomi's Ark
+**** 📂2023A Far From Home :P2023_06:Harry:Naomi:1CD:plot_yes:
+***** HALF [#C] 23A.1 Operation Dusk :Vashta_Nerada:The_Forge:dw2026_q1a_doctor:
+SCHEDULED: <2026-01-17 Sat>
+:PROPERTIES:
+:thetimescales: 7.8
+:tardis.guide: 3.79
+:END:
+
+***** [#D] 23A.2 Naomi's Ark :*blogs:
 **** 📂2024B The Doctor and Carnacki :P2024_11:Carnacki:
-***** 24B.1 The Haunter of the Shore
-***** 24B.2 The House
-***** 24B.3 The Institute of Forgotten Souls
+***** [#D] 24B.1 The Haunter of the Shore
+:PROPERTIES:
+:thetimescales: 6.3
+:tardis.guide: 3.68
+:END:
+
+***** [#C] 24B.2 The House
+:PROPERTIES:
+:thetimescales: 8.3
+:tardis.guide: 3.75
+:END:
+
+***** [#D] 24B.3 The Institute of Forgotten Souls
+:PROPERTIES:
+:thetimescales: 7.2
+:tardis.guide: 3.52
+:END:
+
 **** 📂2025A. Past Forward :P2025_06:Harry:Naomi:
 ***** 1. With the Angels :Weeping_Angels:
 ***** 2. Catastrophix
@@ -2108,12 +2149,12 @@ DWCC 1993 Autumn Special
 **** Hill of Beans :P2018:
 **** The Armageddon Gambit (FCBD 2018 #2)
 ** novels
-*** [#A] The Also People
+*** [#A] VNA44. The Also People
 :PROPERTIES:
 :goodreads: 4.14
 :END:
 
-*** OVERDUE [#A] /Human Nature/ :📔:Benny:D2021_12:
+*** OVERDUE [#A] VNA38. /Human Nature/ :📔:Benny:D2021_12:
 SCHEDULED: <2021-12-03 Fri>
 :PROPERTIES:
 :rating:   4.10
@@ -2125,19 +2166,24 @@ SCHEDULED: <2021-12-03 Fri>
 12月9日：第六章
 12月18-19日：第七-九章
 
-*** [#A] Just War
+*** [#A] VNA46. Just War
 :PROPERTIES:
 :rating:   4.13
 :END:
 
 https://doctorwho.guide/who_na46.htm
 
-*** [#A] Damaged Goods
+*** [#B] VNA55. Damaged Goods
 :PROPERTIES:
 :goodreads: 4.02
 :END:
 
 https://doctorwho.guide/who_na55.htm
+
+*** [#B] VNA60. Lungbarrow :Chris:
+:PROPERTIES:
+:goodreads: 4.03
+:END:
 
 ** short stories
 *** How You Get There :Benny:

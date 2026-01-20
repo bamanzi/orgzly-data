@@ -85,6 +85,7 @@ DWM 584-597
 *** Titan
 **** FCBD 2024
 **** 15D #1-4 Everyone Must Go! :P2024:
+**** The Prison Paradox :P2025_12:
 ** novels :📔:
 *** Fear Death by Water
 * other doctors
@@ -120,6 +121,7 @@ DWM 584-597
 https://www.bilibili.com/video/BV1QT41147a8
 
 *** [#B] DWUN8 - Masters of War :Davros:
+*** 📂BSNA vol.3-7
 ** The Curator
 ** Fugitive Doctor
 *** audio
@@ -136,7 +138,7 @@ https://www.bilibili.com/video/BV1QT41147a8
 
  【【神秘博士广播剧熟肉】Most Wanted 103 The Dimension of Lost Things 失落之物的维度-哔哩哔哩】 https://b23.tv/BV16UAYeFEy8
 
-**** TBR vol.2 Dead or Alive :P2025_07:
+**** vol.2 Dead or Alive :P2025_07:
 ***** 2.1 Flying Solo
 ***** 2.2 The Junkyard Loop
 ***** 2.3 Hereafter
@@ -348,6 +350,7 @@ https://tardis.wiki/wiki/The_Master_(The_TV_Movie)
 *** Dark Gallifrey: Master!  :P2025_09:
 *** misc
 **** 3QTR [#C] DoRS5.3 The Lifeboat and the Deathboat :plot_yes:plot_yes:bilibili:
+**** TBR ST14.1 Impeccable :P2026_02:
 ** Reborn Master :Master_reborn:🎧:
 
 https://tardis.wiki/wiki/Reborn_Master
@@ -461,12 +464,16 @@ I am the Master #3
 ** Spy Master :Master_spy:
 *** 📂Call Me Master :🎧:
 **** vol.1 Inner Demons :P2025_02:
-***** READY 1.1 Self-Help :bilibili:
+***** READY [#D] 1.1 Self-Help :bilibili:
+      :PROPERTIES:
+      :tardis.guide: 3.96
+      :thetimescales: 6.1
+      :END:
 
  【【神秘博士广播剧】Call Me Master-101 Self-help 自救-哔哩哔哩】 https://b23.tv/BV18wLUzgEhL
 
-***** 1.2 The Clockwork Swan
-***** 1.3 The Good Life
+***** [#F] 1.2 The Clockwork Swan
+***** [#E] 1.3 The Good Life
 **** vol.2 Monsters :P2025_09:
 ***** 2.1 The Craft of Corruption
 ***** 2.2 The Ideal Quarry

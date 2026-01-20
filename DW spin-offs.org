@@ -24,11 +24,11 @@
 **** The Culling
 ** audio :🎧:
 *** BBC audio dramas :🎧:scripted:plot_yes:
-**** [#D] 1. Lost Souls :Martha:P2008:
+**** [#D] 1. Lost Souls :Jack:Gwen:Ianto:Martha:P2008:
 **** 3QTR [#B] 2. Asylum :Jack:Gwen:Ianto:Andy:P2009:DW2023_05_spinoffs:
      CLOSED: [2023-05-08 Mon 20:28] SCHEDULED: <2023-05-07 Sun>
 
-**** DONE [#B] 3. Golden Age :P2009:
+**** DONE [#B] 3. Golden Age :Jack:Gwen:Ianto:P2009:
 
 Torchwood India
 
@@ -285,7 +285,7 @@ Sebastian Vaughan is the brightest, newest recruit to Torchwood. He's come fro
 
 第三个被掳的人，后来得救的那个Zoe Blake，她口音比较重，难以听懂
 
-***** CANCEL [#F] +34. Expectant+ :Jack:Ianto:bilibili:
+***** READY [#F] +34. Expectant+ :Jack:Ianto:bilibili:
       :PROPERTIES:
       :rating:   5.8
       :END:
@@ -503,9 +503,10 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
       :rating:   8.5
       :END:
 
-***** [#C] 71. The Last Love Song of Suzie Costello :Suzie:plot_yes:
+***** [#D] 71. The Last Love Song of Suzie Costello :Suzie:plot_yes:
       :PROPERTIES:
-      :rating:   6.6
+      :thetimescales: 6.6
+      :tardis.guide: 3.93
       :END:
 
 ***** [#D] 72. The Thirst Trap :Andy:Rhys:plot_yes:
@@ -520,27 +521,97 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 ***** [#C] 77. Oodunnit :Ood:Zack:P2024_11:
 ***** [#D] 78. Oracle :Ood:P2023_12:
 ***** [#B] 79. Poppet :Rhys:P2024_01:
-***** [#D] 80. Sabotage :Colchester:Ace:P2024_02:
-***** [#B] 80X. Another Postcard from Mr Colchester
+      :PROPERTIES:
+      :tardis.guide: 4.10
+      :thetimescales: 8.0
+      :END:
+
+***** [#C] 80. Sabotage :Colchester:Ace:P2024_02:
+      :PROPERTIES:
+      :tardis.guide: 3.51
+      :thetimescales: 8.0
+      :END:
+
+***** [#C] 80X. Another Postcard from Mr Colchester
+      :PROPERTIES:
+      :thetimescales: 7.9
+      :tardis.guide: 3.74
+      :END:
+
 ***** [#D] 81. Tube Strike :Ianto:P2024_03:
+      :PROPERTIES:
+      :tardis.guide: 3.62
+      :thetimescales: 7.0
+      :END:
+
 ***** [#A] 82. Missing Molly :Ianto:P2024_04:
+      :PROPERTIES:
+      :tardis.guide: 4.40
+      :thetimescales: 9.6
+      :END:
+
 ***** [#A] 83. Disco :Ianto:P2024_05:
+      :PROPERTIES:
+      :tardis.guide: 4.48
+      :thetimescales: 9.6
+      :END:
+
 ***** [#C] 84. The Restoration of Catherine :Andy:Norton:P2024_06:
+      :PROPERTIES:
+      :tardis.guide: 3.82
+      :thetimescales: 7.2
+      :END:
+
 **** series 10
-***** 85. Art Decadence :The_Mara:P2024_07:
-***** 86. End Game :Tosh:P2024_08:
-***** 87. The Hollow Choir :Rhys:P2024_09:
-***** 88. Widdershins :P2024_10:
-***** 89. Bad Connection :Suzie:P2024_11:
-***** 90. Reflect :Colchester:Ace:P2024_12:
-***** 90X. A Christmas Card from Mr Colchester :Colchester:P2024_12:
+***** [#B] 85. Art Decadence :The_Mara:P2024_07:
+      :PROPERTIES:
+      :thetimescales: 8.8
+      :tardis.guide: 3.96
+      :END:
+
+***** [#B] 86. End Game :Tosh:P2024_08:
+      :PROPERTIES:
+      :thetimescales: 8.7
+      :tardis.guide: 4.15
+      :END:
+
+***** [#B] 87. The Hollow Choir :Rhys:P2024_09:
+      :PROPERTIES:
+      :thetimescales: 8.2
+      :tardis.guide: 4.13
+      :END:
+
+***** [#D] 88. Widdershins :P2024_10:
+      :PROPERTIES:
+      :thetimescales: 6.5
+      :tardis.guide: 3.74
+      :END:
+
+***** [#B] 89. Bad Connection :Suzie:P2024_11:
+      :PROPERTIES:
+      :thetimescales: 8.5
+      :tardis.guide: 3.87
+      :END:
+
+***** [#C] 90. Reflect :Colchester:Ace:P2024_12:
+      :PROPERTIES:
+      :thetimescales: 7.3
+      :tardis.guide: 4.31
+      :END:
+
+***** [#C] 90X. A Christmas Card from Mr Colchester :Colchester:P2024_12:
+      :PROPERTIES:
+      :thetimescales: 7.7
+      :tardis.guide: 3.70
+      :END:
+
 ***** 91. Ianto's Inferno :P2025_01:
 ***** 92. Inseparable :Yvonne:P2025_02:
 ***** 93. Rictus :Zygons:P2025_03:
 ***** 94. The Boy Who Never Laughed :Tyler:P2025_05:
 ***** 95. Child Free :Suzie:P2025_07:
 ***** 96. Salvage :P2025_09:
-**** TBR 97. The Flawless Man :Andy:P2025_11:
+**** 97. The Flawless Man :Andy:P2025_11:
 **** TBR 98. Everyone's Dead on Floor 3 :Norton:P2026_01:
 **** TBR 99. Curtain :Bilis_Manger:P2026_03:
 **** TBR 100. Fare Well :Ianto:Tommy:Cybermen:P2026_05:
@@ -818,7 +889,7 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
 【【神秘博士/火炬木广播剧翻译】R&J（博士、上校和宋江的超时空三角恋情！）-哔哩哔哩】https://b23.tv/IZfO0B
 
 *** Torchwood One :tw1:🎧:1CD:
-**** TW1 vol.1: Before the Fall :P2017:
+**** 📂TW1 vol.1: Before the Fall :P2017:
 ***** 3QTR [#B] 1.1 New Girl :D2022_06_spinoffs:
       CLOSED: [2022-06-19 Sun 09:27] SCHEDULED: <2022-06-04 Sat>
       :PROPERTIES:
@@ -854,7 +925,7 @@ Blind Summit was a company run by Pascal Babich. They developed Excellium 
       :rating:   8.6
       :END:
 
-**** TW1 vol.3: Latter Days :P2019:
+**** 📂TW1 vol.3: Latter Days :P2019:
 ***** 3QTR [#B] 3.1 - Retirement Plan :DW2023_06_spinoffs:
       CLOSED: [2023-06-29 Thu 08:29] SCHEDULED: <2023-06-25 Sun>
       :PROPERTIES:
@@ -873,17 +944,31 @@ Blind Summit was a company run by Pascal Babich. They developed Excellium 
       :rating:   8.6
       :END:
 
-**** TW1 vol.4: Nightmares :P2022_04:
+**** 📂TW1 vol.4: Nightmares :P2022_04:
 ***** [#A] 4.1 My Guest Tonight
 ***** [#C] 4.2 Lola
 ***** [#A] 4.3 Less Majesty
-**** TW1 vol.5: I Hate Mondays :P2024_05:plot_yes:
-***** 5.1 Dinner for Yvonne
+**** 📂TW1 vol.5: I Hate Mondays :P2024_05:plot_yes:
+***** [#B] 5.1 Dinner for Yvonne
+      :PROPERTIES:
+      :thetimescales: 8.0
+      :tardis.guide: 4.02
+      :END:
 
 https://tardis.wiki/wiki/Dinner_for_Yvonne_(audio_story)
 
-***** 5.2 By Royal Appointment
-***** 5.3 Nerves
+***** [#D] 5.2 By Royal Appointment
+      :PROPERTIES:
+      :thetimescales: 7.3
+      :tardis.guide: 3.61
+      :END:
+
+***** [#A] 5.3 Nerves
+      :PROPERTIES:
+      :thetimescales: 9.3
+      :tardis.guide: 4.30
+      :END:
+
 *** Torchwood Soho
 **** DONE [#A] TW Soho #1: Parasite :3CD:P2020:plot_yes:Norton:Andy:Lizbeth:
 
@@ -921,7 +1006,7 @@ https://tardis.fandom.com/wiki/Parasite_(audio_story)
 - 5. Confessions
 - 6. Mandeville Walks
 
-**** TW Soho #4: Ascension :P2024_07:
+**** [#B] TW Soho #4: Ascension :P2024_07:
 * River Song :River:
 ** prose
 *** [#A] The Ruby's Curse :P2021:
@@ -1167,11 +1252,11 @@ Roberts Master
 ***** [#A] 12.3 Dead Man Talking
 ***** [#E] 12.4 The Wife of River Song
 *** The Death and Life of River Song
-**** DLRS1: Last Words :P2024_08:
-***** 1.1 Apokalypsis
-***** 1.2 Fate & Fatality
-***** 1.3 The Black Hours
-***** 1.4 Book of the Dead
+**** 📂DLRS1: Last Words :P2024_08:
+***** [#D] 1.1 Apokalypsis
+***** [#D] 1.2 Fate & Fatality
+***** [#D] 1.3 The Black Hours
+***** [#D] 1.4 Book of the Dead
 **** DLRS2: Ace and Tegan :Tegan:Ace:P2025_03:
 ***** 2.1 Castaways
 ***** 2.2 Driftwood
@@ -1183,7 +1268,6 @@ Roberts Master
 2. Anne Boleyn Must Die
 3. A Good Woman Goes to War
 4. Schism Bloom
-
 
 *** misc
 **** DONE R&J (The Lives of Captain Jack #3.3) :Jack:
@@ -1514,8 +1598,6 @@ Gallifrey是一个与自己交战的世界。潘多拉实体身着罗马纳总�
 
 【[英文字幕]Gallifrey 304 Mindbomb-哔哩哔哩】 https://b23.tv/9qLYsks
 
-
-
 *** HALF [#B] 3.5 - Panacea :DW2024_Q3c_spinoffs:bilibili:
     SCHEDULED: <2024-10-13 Sun>
     :PROPERTIES:
@@ -1611,9 +1693,6 @@ Leela大使尝试捍卫她的盟友的权力，城外人，摆脱了几代人的
     :END:
 
 【[AI字幕][神秘博士广播剧]Gallifrey 602 Renaissance-哔哩哔哩】 https://b23.tv/BV1rAx4zxECL
-
-
-
 
 *** HALF [#B] 6.3 - Ascension :dw2025_q2a_spinoffs:bilibili:
     SCHEDULED: <2025-05-04 Sun>
@@ -2056,14 +2135,53 @@ https://www.bilibili.com/video/BV1QT41147a8
      CLOSED: [2023-03-23 Thu 21:40] SCHEDULED: <2023-03-25 Sat>
 
 *** vol.8 The Eternity Club :½CD:
-**** 8.1 The Armageddon Chair :P2024_09:
-**** 8.2 Triumph of the Drahvin :P2024_09:
-**** 8.3 Rhubarb :P2024_10:
-**** 8.4 Please Retain Your Ticket for the Cloakroom :P2024_10:
-**** 8.5 The Terrible Shame of a Tree :P2024_11:
-**** 8.6 Mr Pym has an Adventure :P2024_11:
-**** 8.7 Sanctuary :P2024_12:
-**** 8.8 Liturgy of Death :P2024_12:
+**** [#D] 8.1 The Armageddon Chair :P2024_09:
+     :PROPERTIES:
+     :tardis.guide: 3.75
+     :thetimescales: 6.3
+     :END:
+
+**** [#E] 8.2 Triumph of the Drahvin :P2024_09:
+     :PROPERTIES:
+     :tardis.guide: 3.59
+     :thetimescales: 6.1
+     :END:
+
+**** [#C] 8.3 Rhubarb :P2024_10:
+     :PROPERTIES:
+     :tardis.guide: 4.12
+     :thetimescales: 7.0
+     :END:
+
+**** [#C] 8.4 Please Retain Your Ticket for the Cloakroom :P2024_10:
+     :PROPERTIES:
+     :tardis.guide: 3.82
+     :END:
+
+**** [#D] 8.5 The Terrible Shame of a Tree :P2024_11:
+     :PROPERTIES:
+     :tardis.guide: 3.87
+     :thetimescales: 6.0
+     :END:
+
+**** [#C] 8.6 Mr Pym has an Adventure :P2024_11:
+     :PROPERTIES:
+     :tardis.guide: 4.13
+     :thetimescales: 7.2
+     :END:
+
+**** [#B] 8.7 Sanctuary :P2024_12:
+     :PROPERTIES:
+     :tardis.guide: 3.90
+     :thetimescales: 8.0
+     :END:
+
+**** [#C] 8.8 Liturgy of Death :P2024_12:
+     :PROPERTIES:
+     :tardis.guide: 3.85
+     :thetimescales: 7.7
+     :END:
+
 *** TBR vol.9 The Dalek Eternity :P2025_12:
 **** 9.1 The Lonely Bomb
 **** 9.2 Satrap
@@ -2071,8 +2189,8 @@ https://www.bilibili.com/video/BV1QT41147a8
 **** 9.4 Oversoul
 **** 9.5 Quisling
 **** 9.6 We Don't Talk About Mavic Chen
-**** TBR 9.7 Vizier
-**** TBR 9.8 Emperor
+**** 9.7 Vizier
+**** 9.8 Emperor
 ** Treasury :P2018:🗣:plot_yes:
 *** [#B] The Evacuation of Bernice Summerfield Considered as a Short Film by Terry Gilliam
 *** [#A] And Then Again :7th_Dr:
@@ -2487,8 +2605,12 @@ rating 8.7/8.3
 /Brave New World/ was a subseries of the UNIT audio series produced by Big Finish Productions. Beginning in 2022, it focused on the exploits of UNIT under the command of /Winifred Bambera/ (TV: Battlefield) along with her new team: /Sergeant Jean-Paul Savarin/ and /Dr Louise Rix/.
 
 *** 📂Seabird One :P2022_07:plot_yes:
-**** TODO [#D] 1.1 Rogue State :dw2025_q4b_spinoffs:
-     SCHEDULED: <2025-11-23 Sun>
+**** HALF [#D] 1.1 Rogue State :dw2025_q4b_spinoffs:
+     SCHEDULED: <2026-01-15 Thu>
+     :PROPERTIES:
+     :tardis.guide: 3.63
+     :thetimescales: 7.1
+     :END:
 
 **** [#D] 1.2 Time Flies
 **** [#C] 1.3 Dark Side of the Moon
@@ -3016,14 +3138,18 @@ http://web.archive.org/web/20060212015459/http://www.factionparadox.co.uk/script
      SCHEDULED: <2025-03-09 Sun>
 
 https://tardis.breezewiki.com/wiki/Coming_to_Dust_(audio_story)
-https://doctorwho.guide/paradox_a01.htm
+https://web.archive.org/web/20220524090323/http://drwhoguide.com/paradox_a01.htm
 
 **** HALF [#B] 2. The Ship of a Billion Years :P2006:dw2025_q2b_spinoffs:
      SCHEDULED: <2025-06-29 Sun>
 
 https://web.archive.org/web/20220524090323/http://drwhoguide.com/paradox_a02.htm
 
-**** [#B] 3. Body Politic :P2008:
+**** [#B] 3. Body Politic :P2008:dw2026_q1a_spinoffs:
+     SCHEDULED: <2026-02-08 Sun>
+
+https://web.archive.org/web/20220524090323/http://drwhoguide.com/paradox_a03.htm
+
 **** [#D] 4. Words from Nine Divinities :P2008:
 **** [#D] 5. Ozymandias :P2009:
 **** [#E] 6. The Judgment of Sutekh :P2009:
@@ -3237,25 +3363,45 @@ https://doctorwho.guide/sj_06.htm
 **** [#D] 2.2 - Walkabout (7.0?)
 **** [#D] 2.3 - Long Shot (7.0?)
 ** Jenny - the Doctor's Daughter
-*** series 1 :P2018:
+*** 📂series 1 :P2018:
 **** HALF [#D] 1.1 - Stolen Goods (7.1) :D2022_02_spinoffs:plot_yes:
      SCHEDULED: <2022-02-17 Thu>
 
 **** [#E] +1.2 - Prisoner of the Ood+ (6.9)
 **** [#F] +1.3 - Neon Reign+ (5.6)
 **** [#D] 1.4 - Zero Space (7.0)
-*** series 2: Still Running :P2021:
+*** 📂series 2: Still Running :P2021:
 **** [#E] +2.1 - Inside the Maldorvarium+ (6.5?)
 **** HALF [#E] +2.2 - Altered Status+ (6.8?) :Cybermen:D2022_06_spinoffs:
      SCHEDULED: <2022-06-16 Thu>
 
 **** [#E] +2.3 - Calamity Jenny+ (6.6)
 **** [#D] 2.4 - Her Own Wrost Enemy (7.0)
-*** series 3: Saving Time :P2024_10:
-**** 3.1 Florence O'Connor and the Sandwich of Doom
-**** 3.2 A Beginner's Guide to Monsters (and How to Slay Them)
-**** 3.3 Genesis of the Humans :Dorium:
-**** 3.4 Reboot
+*** 📂series 3: Saving Time :P2024_10:
+**** [#C] 3.1 Florence O'Connor and the Sandwich of Doom
+     :PROPERTIES:
+     :thetimescales: 7.0
+     :tardis.guide: 4.28
+     :END:
+
+**** [#D] 3.2 A Beginner's Guide to Monsters (and How to Slay Them)
+     :PROPERTIES:
+     :thetimescales: 6.0
+     :tardis.guide: 3.72
+     :END:
+
+**** [#E] 3.3 Genesis of the Humans :Dorium:
+     :PROPERTIES:
+     :thetimescales: 5.0
+     :tardis.guide: 3.66
+     :END:
+
+**** [#E] 3.4 Reboot
+     :PROPERTIES:
+     :thetimescales: 6.0
+     :tardis.guide: 3.56
+     :END:
+
 ** Rose Tyler - The Dimension Cannon :Rose:
 *** RTDC vol.1 :P2019:
 **** 3QTR [#B] 1.1 - The Endless Night :D2022_06_spinoffs:bilibili:
@@ -3362,16 +3508,26 @@ From Donna's perspective, the anthology is set after /Forest of the Dead/.
      CLOSED: [2022-09-27 Tue 21:06] SCHEDULED: <2022-09-18 Sun>
 
 *** vol.2 :P2022_03:plot_cast:
-**** HALF [#C] 2.1 The Once and Future Nurse :dw2025_q3a_spinoffs:
+**** HALF [#B] 2.1 The Once and Future Nurse :dw2025_q3a_spinoffs:
      SCHEDULED: <2025-05-11 Sun>
      :PROPERTIES:
-     :rating:   7.9
+     :thetimescales: 7.9
+     :tardis.guide: 3.96
      :END:
 
-**** HALF [#B] 2.2 The Glowing Warrior :dw2025_q4b_spinoffs:
+**** HALF [#C] 2.2 The Glowing Warrior :dw2025_q4b_spinoffs:
      SCHEDULED: <2025-11-23 Sun>
+     :PROPERTIES:
+     :thetimescales: 7.9
+     :tardis.guide: 3.77
+     :END:
 
-**** [#B] 2.3 The Last King of Camelot
+**** [#C] 2.3 The Last King of Camelot
+     :PROPERTIES:
+     :thetimescales: 7.9
+     :tardis.guide: 3.71
+     :END:
+
 ** Redacted :BBC:
 *** Redacted :P2022_04:scripted:
 **** HALF [#C] Redacted 01: SOS :D2022_05_doctor:bilibili:
@@ -3427,8 +3583,12 @@ From Donna's perspective, the anthology is set after /Forest of the Dead/.
      :rating:   7.2
      :END:
 
-**** HALF [#B] 1.4 Narcisus :UNIT_new:dw2025_q3b_spinoffs:plot_yes:
+**** HALF [#C] EoM1.4 Narcisus :UNIT_new:dw2025_q3b_spinoffs:plot_yes:
      SCHEDULED: <2025-10-12 Sun>
+     :PROPERTIES:
+     :thetimescales: 7.9
+     :tardis.guide: 3.71
+     :END:
 
 *** 📂vol.2 Protectors of Time :P2022_03:
 **** [#D] 2.1 Stolen Futures :Romana_2:K9:Biroc:
