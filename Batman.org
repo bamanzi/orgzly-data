@@ -3,7 +3,19 @@
 
 * Batman :🦇:
 ** comics :📚:
-*** golden age
+*** golden/silver/bronze age
+**** Batman v1 #1-403
+**** Detective Comics v1 #1-573
+***** (1986-12) DC #569–574
+
+ 571,574有汉化
+
+ 这一阶段的故事是白银时代与80年代的完美结合。其中可以看到杰森作为罗宾的生涯的早期，甚至还有与夏洛克福尔摩斯的联动。
+
+The first six issues of Mike W. Barr's run on Detective Comics (#569–574) have a strange position in continuity. It's clear that they take place in /Post-Crisis continuity/ (following the /Crisis on Infinite Earths/), because the book switches over at the Legends crossover in #568. However, they were written prior to Frank Miller's reboot of Batman's origins in /Year One/ and Max Allan Collins' reboot of Robin's origins in Batman #408. These stories are technically no longer part of /Pre-Crisis/ continuity, but they're also missing some elements of the Post-Crisis reboots.
+
+The story in Detective Comics #574 acts as an unofficial prelude to this storyline /Batman: Year Two/.
+
 *** 1985-1993
 **** 1987
 ***** DONE [#A] Batman: Year One :hanzify:origin:P1987:bilibili:
@@ -27,9 +39,6 @@ DC官网：https://www.dc.com/highvolume
 随着布鲁斯·韦恩蜕变成黑暗骑士的历程，深入哥谭市的阴影之中。多年来首次重返故土的布鲁斯，一边与内心的恶魔抗争，一边努力推翻笼罩这座城市的腐败政治体系。与此同时，年轻的警官吉姆·戈登也来到哥谭市，肩负着类似的使命。
 
 本集改编自《蝙蝠侠》第404期（1987年2月），由弗兰克·米勒创作，大卫·马祖切利作画。© & ™ DC。
-
- 
-
 
 ***** DONE Second Chance :P1987:
 
@@ -67,10 +76,6 @@ Legends of The Dark Knight: Norm Breyfogle
  蝙蝠侠：邪教
 
  杰森·托德担任罗宾时期的少数著名漫画之一，蝙蝠侠被迫吸毒并被拉入一个决定接管哥谭市的地下邪教组织。
-
-***** READY [#C] Batman and the Monster Men :Hugo_Strange:hanzify:蝠影:
-
- 这是布鲁斯与蝙蝠侠最早的反派之一：雨果·斯特兰奇教授的初次交手的现代版重写。也引入了朱莉·麦迪逊，布鲁斯·韦恩的第一任恋人
 
 ***** READY [#B] Batman: Dark Knight, Dark City (#452-454) :P1990:Riddler:蝠影:
 
@@ -118,14 +123,6 @@ Legends of The Dark Knight: Norm Breyfogle
 
 **** Knightfall (vol.1 & vol.3) :P1993:
 **** misc
-***** (1986-12) DC #569–574
-
- 571,574有汉化
-
- 这一阶段的故事是白银时代与80年代的完美结合。其中可以看到杰森作为罗宾的生涯的早期，甚至还有与夏洛克福尔摩斯的联动。
-
-The first six issues of Mike W. Barr's run on Detective Comics (#569–574) have a strange position in continuity. It's clear that they take place in /Post-Crisis continuity/ (following the /Crisis on Infinite Earths/), because the book switches over at the Legends crossover in #568. However, they were written prior to Frank Miller's reboot of Batman's origins in /Year One/ and Max Allan Collins' reboot of Robin's origins in Batman #408. These stories are technically no longer part of /Pre-Crisis/ continuity, but they're also missing some elements of the Post-Crisis reboots.
-
 **** singles
 ***** Mortal Clay (Batman Annual #11 part1) :P1987:Clayface:
 
@@ -165,7 +162,7 @@ The first six issues of Mike W. Barr's run on Detective Comics (#569–574) h
  一个非常黑暗的侦探故事，很大程度上聚焦于戈登局长，他试图追查一系列与虐待儿童有关的谋杀案，同时处理他自己陷入困境的家庭生活。
 
 *** 1993-1999
-**** DONE [#A] The Long Halloween :hanzify:P1997:
+**** DONE [#A] The Long Halloween :Falcone_Crime_Family:P1997:hanzify:
 **** 2DONE [#B] Cataclysm :P1998:无汉化:
 **** [#A] No Man's Land :P1999:
 
@@ -174,7 +171,7 @@ The first six issues of Mike W. Barr's run on Detective Comics (#569–574) h
 这场大规模的联动事件涉及到了蝙蝠家族的每个成员。一场大地震摧毁了哥谭市，让它成为了一个无法无天的废土。
 蝙蝠侠和GCPD则努力将秩序带回哥谭。这些故事还介绍了卡珊德拉·该隐，第二任蝙蝠女郎。
 
-**** 2DONE [#B] Dark Victory :P2000:
+**** 2DONE [#B] Dark Victory :P2000:Falcone_Crime_Family:
 CLOSED: [2021-07-09 Fri 17:25]
 
  《漫长的万圣节》的续集，延续了许多故事情节。这个故事同时也详细介绍了初代罗宾迪克·格雷森。
@@ -201,11 +198,6 @@ CLOSED: [2021-07-09 Fri 17:25]
 **** DONE Batman: Under the Hood :P2005:Jason:
 
 一个被称为红头罩的蒙面男子开始在哥谭市打击犯罪，并以致命的武力接管它。他与蝙蝠侠最大的错误之一：杰森·托德的死有什么联系呢？
-
-**** 2DONE [#C] Batman and the Mad Monk :P2006:Hugo_Strange:
-
-《蝙蝠侠与 怪物军团》的续集，以1939年的故事《蝙蝠侠与吸血鬼》为基础，发生在侦探漫画＃31-32中。这个故
-事还进一步深入发展了布鲁斯韦恩和猫女之间的关系。
 
 **** DONE [#A] Batman: The Man Who Laughs :Joker:hanzify:P2005:
 
@@ -332,7 +324,7 @@ written by Paul Cornell
 ***** DONE 23-26. The Streets Run Red
 CLOSED: [2022-09-11 Sun 07:46]
 
-**** LATER [#A] The Black Mirror :已购:Snyder:Grayson:P2010:
+**** TODO [#A] The Black Mirror :已购:Snyder:Grayson:P2010:
 
  作为蝙蝠侠的迪克·格雷森不得不与小詹姆斯·戈登抗争，后者作为连环杀手归来，同时也是对哥谭市和迪克·格雷森本人的黑暗面的反映。
 
@@ -367,6 +359,10 @@ CLOSED: [2022-09-07 Wed 18:38]
 2011 Jan-Oct
 
 **** misc
+***** [#B] Rules of Engagement :P2007:Lex_Luthor:
+
+Batman Confidential #1-6
+
 ***** DONE [#B] Gotham City Sirens (2009-2010)
 
  猫女决定与毒藤女及哈莉奎因合作，希望她能控制住她们的邪恶倾向。
@@ -457,14 +453,14 @@ SCHEDULED: <2022-09-30 Fri>
 ***** DONE Azrael: Judgment on Gotham (crossover)
 CLOSED: [2022-10-04 Tue 07:18] SCHEDULED: <2022-09-30 Fri>
 
-***** LATER [#B] Gates of Gotham :P2011:
+***** TODO [#B] Gates of Gotham :P2011:
 **** singles
 ***** DC #821-845
 
 保罗·迪尼（Paul Dini）在这个系列中的表现出色，虽然有时因其他刊物中发生的重大事件而被蒙上阴影，却完美地讲述了蝙蝠侠历史上的小故事。
 
 ****** DONE DC #821-826 Detective
-****** LATER DC #827-834 Death and the City
+****** TODO DC #827-834 Death and the City
 SCHEDULED: <2022-09-30 Fri>
 
 ****** DC #841-845 Private Casebook (2008)
@@ -560,11 +556,11 @@ CLOSED: [2022-09-14 Wed 22:39]
 - Batgirl #18
 - Red Hood and the Outlaws #18
 
-**** LATER 蝙蝠侠和罗宾 V2＃1-8 为杀而生
+**** TODO 蝙蝠侠和罗宾 V2＃1-8 为杀而生
 
 布鲁斯必须学会成为他儿子兼罗宾：达米安的父亲和搭档。
 
-**** LATER 罗宾：蝙蝠侠之子 ＃1-6
+**** TODO 罗宾：蝙蝠侠之子 ＃1-6
 
 前往天启星并返回之后，达米安被父亲复活了。现在他必须继续救赎他在训练期间犯下的罪行。
 
@@ -575,7 +571,7 @@ CLOSED: [2022-09-14 Wed 22:39]
 ****** Death of the Family (#14-19)
 ****** [#B] Wanted (#19-26)
 ****** [#C] Deadline (#27-34)
-***** LATER Nightwing v3
+***** TODO Nightwing v3
 ***** 2DONE 格雷森 ＃1-20
 CLOSED: <2021-05-23 Sun 17:27>
 
@@ -599,7 +595,7 @@ collected in: DC Universe Rebirth
 
 Announces Rebirth
 
-**** DOING Batman v3 :S2024_10:
+**** Batman v3
 
 #1-85 Written by: Tom King
 Art by: David Finch, Mikel Janin, Clay Mann, Joëlle Jones, et al.
@@ -682,15 +678,20 @@ A Backup Story
 Detective Comics #950		
 A Backup Story
 
-**** [#B] Rules of Engagement :P2017:
-
-Batman Confidential #1-6
-
 **** DONE Batman: Preludes to the Wedding :P2018:
 CLOSED: [2024-10-24 Thu 13:48]
 
 **** mini
 ***** Batman: Universe :P2019:
+***** DONE Batman: Killing Time :P2022:
+CLOSED: [2026-01-12 Mon 10:58]
+
+https://weibo.com/3214549521/5245293960364252
+
+#蝙蝠侠-杀时戮分# 第1-6期汉化合集。本刊来自2022年，由汤姆王和David Marquez强强联手带来的六期蝙蝠侠短篇故事。也是当时大受好评的一个篇章，不只是一部超级英雄故事，更是一个精彩的心灵惊悚犯罪故事。剧情发生在蝙蝠侠生涯早期，哥谭市三位臭名昭著的反派联手偷窃了布鲁斯·韦恩珍视的一件文物，蝙蝠侠从此踏上与时间赛跑的征程。他不仅要夺回失窃之物，更要直面这起盗窃案重新撕开的旧日伤疤。随着猫女、谜语人以及企鹅人在日益加剧的绝境中反目成仇、互相算计，蝙蝠侠也不得不冲破愤怒的枷锁，在暴怒中探寻自己的极限。
+
+本刊同样是我们在做的汤姆王《企鹅人》故事的前传，企鹅人中有重要戏份的帮手和嘴臭探员都在本刊中首先登场。
+
 *** pending
 **** 阿克汉姆疯人院：严肃地球上的严肃的屋宅
 
@@ -744,7 +745,10 @@ CLOSED: [2024-10-24 Thu 13:48]
 ***** 25-32. (singles)
 ***** 33-37. Batman: War Games
 **** Catwoman v4 :new52:
-***** vol.6 Keeper of the Castle
+***** vol.6 Keeper of the Castle :Falcone_Crime_Family:
+
+#35-40
+
 ***** vol.7 Inheritance
 **** DONE Batman: Heart of Hush ↗
 **** Catwoman v5
@@ -785,6 +789,13 @@ It begain in 2018, following the canceled wedding of Catwoman and Batman in B
 
 迪克·格雷森终于准备好单飞，在蝙蝠侠的阴影之外为自己扬名。当然随着迪克的离去，又出现了一个新的罗宾。
 
+**** The Gauntlet :P1997:bilibili:
+
+Batman Chronicles: The Gauntlet
+蝙蝠侠编年史：腹背受敌
+
+https://dc.fandom.com/wiki/Batman_Chronicles:_The_Gauntlet
+
 *** Jason Todd
 **** DONE [#B] A Death in the Family (Batman #426-429) ↗ :Jason:P1988:
 **** DONE Under the Red Hood :P2005:
@@ -820,7 +831,7 @@ CLOSED: <2021-06-18 Fri 22:14>
 
 *** Damian Wayne
 *** Batwoman
-**** Batwoman by Greg Rucka and J.H. Williams (TPB) :P2017:
+**** DONE Batwoman by Greg Rucka and J.H. Williams (TPB) :P2017:
 
 https://dc.fandom.com/wiki/Batwoman_by_Greg_Rucka_and_J.H._Williams_III_(Collected)?so=search
 
@@ -850,7 +861,7 @@ SCHEDULED: <2023-11-05 Sun>
 ***** vol.4 Batwoman: This Blood is Thick (#18-24)
 SCHEDULED: <2023-11-12 Sun>
 
-**** Detective Comics: Rebirth vol.1-7 ↗
+**** DONE Detective Comics: Rebirth vol.1-7 ↗
 **** 📂Batwomen v3, by Marguerite Bennett (2017-2018)
 *** GCPD
 **** Gotham Central
@@ -932,9 +943,70 @@ CLOSED: [2022-08-14 Sun 07:54] SCHEDULED: <2022-08-14 Sun>
 SCHEDULED: <2022-09-25 Sun>
 
 ** comics (villains) :📚:
+*** The Joker
+**** DONE Batman: The Killing Joke
+**** DONE Batman: The Man Who Laughs
+**** Arkham Asylum: A Serious House on Serious Earth
+**** The Joker: The Man Who Stopped Laughing (Volume 1)
+**** Superman: Emperor Joker ↗
+**** Joker (graphic novel) :P2008:
+**** The Joker's Last Laugh (event) :P2001:
+*** Two-Face
+**** The Eye of the Beholder :P1990:
+
+Batman Annual #14
+
+**** Batman: Two-Face Strikes Twice :P1993:
+**** Two-Face: Year One :P2008:
+**** Batman: Faces
+**** Batman: Face the Face
+**** Joker's Asylum: Two-Face #1
+**** Two-Face (Volume 1) :P2025:
+
+6 issues
+
 *** Penguin
+**** Penguin Triumphant :P1992:
 **** DONE Pain and Prejudice :P2011:
 CLOSED: [2022-09-25 Sun 15:27] SCHEDULED: <2022-09-25 Sun>
+
+**** Batman: One Bad Day - Penguin #1 :P2022:
+**** DONE The Penguin :P2023:S2025_Q4:
+CLOSED: [2026-01-19 Mon 13:46]
+
+13 issues
+
+https://weibo.com/3214549521/5241337849057779
+
+#UA汉化组##企鹅人# 汉化。来自2023年的企鹅人个连载，衍生自蝙蝠侠个人刊的故事，大家可能会疑惑，为什么我们要开这样一个冷门角色的冷门连载，但是只用这几个词来形容就好了——人类的好朋友汤姆王，十二期限定，三线角色个人故事。
+
+本刊的开头，企鹅人离开了哥谭，并决定金盆洗手远离犯罪世界，但出人意料的事，来自联邦政府的特工找上了他，而他们的目的很简单：哥谭市里需要一个掌控暴徒们的白手套。当他们把目光投向企鹅人的时候，我们的疑问也会随之产生：长久以来，奥斯瓦尔德·科波特似乎只是蝙蝠侠反派阵容中一个脸谱化的背景板，但一个疯疯癫癫的鸟人，又是如何在长久以来成为了蝙蝠侠甩不掉的困扰？也许这只暴戾之鸟，有着被我们忽视的一面……
+
+P.S. /Batman: Killing Time/ 是《企鹅人》故事的前传，同样由汤姆王撰写，企鹅人中有重要戏份的帮手和嘴臭探员都在本刊中首先登场。
+
+**** 📂The Penguin Special #1 :P2024:
+***** Mr. Cobb
+***** One of the Most Perfect Frame-Ups
+
+Detective Comics #58
+
+***** The Killing Peck
+
+Secret Origins Special (Volume 2) #1
+
+***** He Who Laughs Last...! :P2008:
+
+Joker's Asylum: Penguin #1
+
+*** Hugo Strange
+**** READY [#C] Batman and the Monster Men :Hugo_Strange:hanzify:蝠影:
+
+ 这是布鲁斯与蝙蝠侠最早的反派之一：雨果·斯特兰奇教授的初次交手的现代版重写。也引入了朱莉·麦迪逊，布鲁斯·韦恩的第一任恋人
+
+**** 2DONE [#C] Batman and the Mad Monk :P2006:Hugo_Strange:
+
+《蝙蝠侠与 怪物军团》的续集，以1939年的故事《蝙蝠侠与吸血鬼》为基础，发生在侦探漫画＃31-32中。这个故
+事还进一步深入发展了布鲁斯韦恩和猫女之间的关系。
 
 ** comics (elseworlds)
 
@@ -944,21 +1016,22 @@ CLOSED: [2022-09-25 Sun 15:27] SCHEDULED: <2022-09-25 Sun>
 - https://www.msn.com/en-us/entertainment/news/10-best-elseworlds-batman-comics-since-2020-so-far/ar-AA1CXdnE
 
 *** DONE [#A] Batman: The Dark Knight Returns :P1986:
-*** Batman: Gotham by Gaslight :P1990:
+*** [#B] Batman: Gotham by Gaslight :P1990:
 **** Batman: Gotham by Gaslight: The Kryptonian Age :P2024:
 **** TBR Batman: Gotham by Gaslight: A League for Justice :P2025:
-*** Batman: Holy Terror :P1991:
+*** [#C] Batman: Holy Terror :P1991:
 *** Batman & Dracula: Red Rain :P1992:
 *** Batman: In Darkest Knight :P1994:
 *** Batman: Castle Of The Bat :P1994:
 *** Batman: Bloodstorm :P1995:
 *** Batman: Brotherhood Of The Bat :P1995:
+*** Thrillkiller :P1997:
 *** Batman: Two Faces :P1998:Two_Face:
-*** Batman: The Doom That Came to Gotham :P2000:
+*** [#B] Batman: The Doom That Came to Gotham :P2000:
 *** Batman/Lobo :P2000:
 *** Batman: Gotham Noir :P2001:
 *** Batman: Nine Lives :P2002:
-*** Batman: Year 100 :P2006:hanzify:
+*** [#C] Batman: Year 100 :P2006:hanzify:
 *** Batman: Nightfire :P2024:
 *** Batman/Static: Beyond :P2025:
 *** Immortal Legend Batman :P2025:
@@ -966,7 +1039,7 @@ CLOSED: [2022-09-25 Sun 15:27] SCHEDULED: <2022-09-25 Sun>
 不灭传说蝙蝠侠，汉化 by Maxxx_Karl
 
 ** comics (other continuation)
-*** Batman: Earth One :P2012:
+*** [#B] Batman: Earth One :P2012:
 *** DOING White Knight universe (Murphyverse) :S2025_Q4:DC_Black_Label:
 **** DONE [#B] Batman: White Knight vol.1 (8 issues) :P2017:Joker:Harley:hanzify:
 CLOSED: [2025-11-30 Sun 09:42]
@@ -979,25 +1052,27 @@ CLOSED: <2025-12-25 Thu 13:48>
 
 8 issues
 
-**** Harley Quinn: Black + White + Red Vol 1 6
+**** DONE Harley Quinn: Black + White + Red #6 :P2020:
+CLOSED: [2026-01-02 Fri 23:39]
 
  #哈莉·奎因-黑白红# 第六期，十月份的苍白骑士宇宙哈莉衍生刊的前奏，一个发生在苍白骑士的诅咒之后的小故事，没想到是一颗惊天动地的超大蝙哈糖。在情人节这一天，单身母亲哈莉带着龙凤胎孩子一起为监狱中的布鲁斯叔叔写信，而在回忆了两人的往日故事后，哈莉在信中发出了炽烈的告白：你愿意做我的情人吗？
 
 https://weibo.com/3214549521/4532812764158400
 
-**** Batman: White Knight Presents Harley Quinn :P2020:Harley:hanzify:
+**** DONE Batman: White Knight Presents Harley Quinn :P2020:Harley:hanzify:
+CLOSED: [2026-01-03 Sat 22:27]
 
 6 issues
 
-**** Batman: Beyond the White Knight :P2022:hanzify:
+**** Batman: Beyond the White Knight :P2022:hanzify:S2026_Q4:
 
 8 issues
 
-**** Batman White Knight Presents: Red Hood :P2022:
+**** Batman White Knight Presents: Red Hood :P2022:S2026_Q4:
 
 2 issues
 
-**** Batman: White Knight Presents: Generation Joker :P2023:
+**** Batman: White Knight Presents: Generation Joker :P2023:S2026_Q4:
 
 6 issues
 
@@ -1008,7 +1083,7 @@ https://weibo.com/3214549521/4532812764158400
 
 *** [#B] Batman: Creature of the Night :P2017:hanzify:
 *** Batman: Damned :DC_Black_Label:P2019:hanzify:
-*** Batman: Last Knight on Earth :P2019:DC_Black_Label:hanzify:
+*** [#C] Batman: Last Knight on Earth :P2019:DC_Black_Label:hanzify:
 *** Batman: Three Jokers :P2020:hanzify:
 *** [#B] Batman: The Imposter :P2021:DC_Black_Label:hanzify:
 *** The Boy Wonder :Damian_Wayne:P2024:DC_Black_Label:hanzify:
@@ -1017,8 +1092,6 @@ https://weibo.com/3214549521/4532812764158400
 
 ** audio
 *** Batman: No Man's Land :P2011:
-
-
 
 http://audiobookbay.fi/abss/batmqan-no-mans-land-parts-1-2graphic-audio-greg-rucka/
 https://audiobookbay.lu/abss/batmnan-no-mans-land-by-graphic-audio-dc-comics/
@@ -1043,7 +1116,6 @@ by Tracy Hickman
 
 【【中英双语/完结】DC有声书蝙蝠侠：哥谭的韦恩Batman:Wayne of Gotham Ep6-2-哔哩哔哩】 https://b23.tv/BV1NM4m1z7KG
 
-
 *** Batman: The Audio Adventures
 
 2 seasons, 20 episodes in total
@@ -1059,7 +1131,11 @@ https://audiobookbay.lu/abss/biatman-the-audio-adventures-seasons-1-and-2-dennis
 **** S2 :P2022:
 *** DC High Volume: Batman
 
-https://dc.fandom.com/wiki/DC_High_Volume:_Batman_(Podcast)
+DC新出的High Volume系列：
+
+- DC Youtube Channel：https://www.youtube.com/watch?v=oVIDtRwOLls&t=5s
+- DC官网：https://www.dc.com/highvolume
+- https://dc.fandom.com/wiki/DC_High_Volume:_Batman_(Podcast)
 
 **** READY 01-04. Batman: Year One :bilibili:
 
@@ -1070,20 +1146,12 @@ https://dc.fandom.com/wiki/DC_High_Volume:_Batman_(Podcast)
 -【【中字】官方有声漫画  | 蝙蝠侠 : 元年 3-哔哩哔哩】 https://b23.tv/BV1HkELzyEfc
 -【【中字】官方有声漫画  | 蝙蝠侠 : 元年 4-哔哩哔哩】 https://b23.tv/BV18YE7zbEV8
 
-DC新出的High Volume系列 转载自：
-
-DC Youtube Channel：https://www.youtube.com/watch?v=oVIDtRwOLls&t=5s
-DC官网：https://www.dc.com/highvolume
-
 随着布鲁斯·韦恩蜕变成黑暗骑士的历程，深入哥谭市的阴影之中。多年来首次重返故土的布鲁斯，一边与内心的恶魔抗争，一边努力推翻笼罩这座城市的腐败政治体系。与此同时，年轻的警官吉姆·戈登也来到哥谭市，肩负着类似的使命。
 
 改编自《蝙蝠侠》第404期（1987年2月）-407期，由弗兰克·米勒创作，大卫·马祖切利作画。© & ™ DC。
 
- 
-
-
-**** 05-17. The Long Halloween
-**** 18-30. Dark Victory
+**** 05-17. The Long Halloween :bilibili:
+**** 18-30. Dark Victory :bilibili:
 **** READY 31-32 Batman: Ego :bilibili:
 
 一个探索蝙蝠侠内心思想和怀疑的短篇小说
@@ -1098,16 +1166,35 @@ https://www.youtube.com/watch?v=Q9stzrwOLZc
 
 **** READY 33. The Gauntlet :bilibili:
 
-
 【罗宾首秀！| 蝙蝠侠 : 腹背受敌【中字】-哔哩哔哩】 https://b23.tv/BV1RhCvBcEYp
 
 https://www.youtube.com/watch?v=UcS-axT7IH4
 迪克·格雷森要成为蝙蝠侠的搭档罗宾，穿上罗宾的制服之前，必须通过一项最终挑战：在哥谭市内躲避蝙蝠侠一整夜。然而，这场捉迷藏游戏却因这位少年英雄阻止了一起看似普通的抢劫案而变得危机四伏，他无意间截获了关键情报。如今，他成了冷酷无情的黑帮老大、他手下凶残的暴徒团伙、哥谭市警察局，当然还有蝙蝠侠本人——蝙蝠侠必须争分夺秒地找到他的年轻门徒，以免为时已晚。
 
 本集改编自布鲁斯·坎威尔和李·威克斯创作的漫画《蝙蝠侠编年史：腹背受敌》（1997年7月出版）。© & ™ DC。
+
 https://dc.fandom.com/wiki/Batman_Chronicles:_The_Gauntlet
 
-**** 33.
+**** 34-39 Nightwing: Year One :bilibili:
+
+【夜翼：元年 1-哔哩哔哩】 https://b23.tv/iI7N71d
+
+https://www.youtube.com/watch?v=k624I86u3WQ&t=8s
+在迪克·格雷森能够继续他的人生之前，他必须回顾自己的早年经历，从他作为黑暗骑士的搭档——神奇小子罗宾——的最后一次冒险开始！
+
+本集改编自查克·迪克森和斯科特·比蒂编剧、斯科特·麦克丹尼尔作画的《夜翼》第101-106期（2005年1月-3月），以及改编自达斯汀·阮编剧并作画的《蝙蝠侠：黑与白》第4期的《漫长的一天》。© & ™ DC。
+
+**** 40-41. The Killing Joke :bilibili:
+**** 42-45. Oracle: Year One :bilibili:
+
+【逆境重生 | 神谕：元年-哔哩哔哩】 https://b23.tv/BV1r5rRBdEVs
+
+https://www.youtube.com/watch?v=I7_tpftILz4
+
+芭芭拉·戈登从小丑造成的恐怖暴力中恢复过来后，拒绝放弃，她塑造了新的身份，开辟了一条新的道路，最终成为网络侦探大师“神谕”。
+
+本集改编自约翰·奥斯特兰德和金·耶尔编剧、布莱恩·斯特尔弗里兹和卡尔·斯托里绘制的《蝙蝠侠编年史》第5期（1996年5月），© & ™ DC。
+
 ** movie
 *** Nolan verse
 **** Batman: Gotham Knight :animated:P2008:
@@ -1116,7 +1203,7 @@ https://dc.fandom.com/wiki/Batman_Chronicles:_The_Gauntlet
 **** DONE Batman: Year One :P2011:
 **** DONE Batman: The Dark Knight Returns :P2012:
 ** tv :📺:
-*** DONE Gotham S1
+*** DONE Gotham S1 :Maroni_Crime_Family:
 *** DONE Gotham S2
 *** DONE Gotham S3
 *** DONE Gotham S4 (22 eps)
@@ -1412,6 +1499,7 @@ CLOSED: [2023-11-02 Thu 19:17] SCHEDULED: <2023-10-31 Tue>
 **** Kiteman: Hell Yeah :P2024:
 ** DCAU :dcau:
 *** Batman Adventures
+**** comics
 **** movies
 ***** Batman: Mask of the Phantasm
 ***** Batman & Mr. Freeze: SubZero
@@ -1420,6 +1508,35 @@ CLOSED: [2023-11-01 Wed 19:50]
 
 ***** Batman and Harley Quinn
 ***** Justice League vs. the Fatal Five
+**** tv
+***** Batman: The Animated Series (1992-1995)
+****** [#A] 1x03 Heart of Ice :Mr_Freezer:
+****** [#B] 1x07 Joker's Favor :Joker:
+****** [#A] 1x17-18 Two-Face :Two_Face:
+****** [#A] 1x26 Perchance to Dream :Mad_Hatter:
+****** [#A] 1x32 Beware the Gray Ghost
+****** [#B] 1x34 I'm the Night
+****** [#A] 1x35 Almost Got 'Im :Harley:Joker:
+****** [#B] 1x46 The Laughing Fish :Joker:
+****** [#B] 1x47 Harley and Ivy :Harley:Poison_Ivy:
+****** [#B] 1x49 The Man Who Killed Batman
+****** [#B] 1x51/53 Robin's Reckoning
+****** [#A] 2x04 Trial
+****** [#B] 2x05 Harlequinade
+****** [#B] 2x07 Second Chance :Two_Face:
+****** DONE [#B] 2x11 Harley's Holiday :Harley:
+CLOSED: <2025-11-28 Fri 23:05>
+
+****** [#A] 2x15 Deep Freeze :Mr_Freezer:
+***** The New Batman Adventures (1997-1999)
+****** [#B] 1x08 Growing Pains
+****** [#A] 1x12 Over the Edge
+****** [#A] 2x05 Old Wounds
+****** DONE [#B] 2x06 Legends of the Dark Knight
+CLOSED: [2025-12-21 Sun 23:05]
+
+****** [#B] 2x09 Judgment Day
+****** [#A] 2x11 Mad Love :Harley:
 *** Batman Beyond :beyond:
 **** comics
 ***** DONE Batman Beyond vol1 (1999)
@@ -1489,14 +1606,14 @@ CLOSED: [2023-11-08 Wed 19:25]
 ****** 1x11
 ****** 1x12
 ****** 1x13
-** DOING The Batman Saga :S2025_Q4:
+** DOING 📂The Batman Saga
 
 https://dc.breezewiki.com/wiki/The_Batman_Saga
 
 *** DONE The Batman 新蝙蝠侠 (2022) :🎥:P2022:
 CLOSED: [2025-11-15 Sat 13:27]
 
-*** DOING [#D] comics: The Riddler: Year One :P2023:📚:DC_Black_Label:
+*** HALF [#D] comics: The Riddler: Year One :P2023:📚:DC_Black_Label:
 
 主要讲述 Edward 如何发现 Renewal 背后的黑幕的。作者是2022电影中谜语人扮演者 Paul Dano （他也没有写过其它作品）。故事有点单调。画风还不错，比较贴合人物性格
 
@@ -1531,16 +1648,20 @@ CLOSED: [2025-12-07 Sun 11:10]
 **** DONE 1x08
 CLOSED: [2025-12-12 Fri 23:28]
 
-*** TBR The Batman part2 :P2026:
+*** TBR The Batman part2 :P2026:S2026_Q4:
 * Superman :Superman:
 ** comics :📚:
 
 https://www.reddit.com/r/DCcomics/wiki/recommended/superman/
 
 *** starting points
-**** The Man of Steel v1 :P1986:
+**** The Man of Steel v1 :P1986:hanzify:
+
+汉化：Daily Star 汉化组
 
 上世纪80年代DC最火的作者约翰·伯恩自编自绘，用6个小故事重写了《无限地球危机》后，新地球上超人的全新起源故事，许多我们现在所熟知的设定（P超）都是出自于此，例如他的童年，他与蝙蝠侠的初遇，他与莱克斯·卢瑟的结仇……
+
+/The Man of Steel/ is John Byrne's Post-Crisis update of the Superman origin story, the mini-series that established his mythos during the 1986-2000 period.
 
 **** DONE Birthright 天赋使命 :P2003:
 CLOSED: [2022-10-02 Sun 18:08] SCHEDULED: <2022-10-07 Fri>
@@ -1548,14 +1669,19 @@ CLOSED: [2022-10-02 Sun 18:08] SCHEDULED: <2022-10-07 Fri>
 **** DONE Up, Up, and Away 一飞冲天 :P2006:
 CLOSED: [2022-10-20 Thu 23:12] SCHEDULED: <2022-10-07 Fri>
 
+- Superman #650
+- Action Comics #837
+- Superman #651
+- Action Comics #838
+- Superman #652
+- Action Comics #839
+- Superman #653
+- Action Comics #840
+
 **** DONE [#B] Superman: Secret Origin 秘密起源 :P2009:已购:Geoff_Johns:
 CLOSED: [2022-10-25 Tue 12:54]
 
-**** READY _Superman: Earth One_ 一号地球 :P2010:已购:
-
-a new modern version of the Superman story taking place in a separate continuity.
-
-**** 📂Superman v4 :P2016:
+**** DONE Superman v4 :P2016:
 
 vol.1 - 7
 by Peter J. Tomasi and Patrick Gleason
@@ -1668,8 +1794,6 @@ CLOSED: [2025-12-28 Sun 23:34]
 - [ ] Superman #665 (吉米的起源故事(如何加入报社）)
 - [ ] Action Comics #852-854
 
-
-
 ***** DONE [#B] 7.5 Escape from Bizarro World ↗ :Bizarro:
 CLOSED: [2025-12-30 Tue 22:56]
 
@@ -1677,7 +1801,7 @@ Action Comics #855-857
 
 https://dc.fandom.com/wiki/Superman:_Escape_from_Bizarro_World
 
-***** READY [#B] 8. The Third Kryptonian :hanzify:
+***** READY [#B] 8. The Third Kryptonian :hanzify:S2026_Q4:
 
 - Action Comics #847 (Intermezzo)
 - Superman #668 (The Third Kryptonian, Part One: The Hunt)
@@ -1694,7 +1818,7 @@ AC#858-863
 
 Superman #677-680
 
-***** READY [#B] 12. Brainiac
+***** READY [#B] 12. Brainiac :S2026_Q4:
 
 - Action Comics #866-870, 
 - Superman: New Krypton Special #1 pages 1-9
@@ -1750,7 +1874,7 @@ SCHEDULED: <2023-11-15 Wed>
 ***** Funeral for a Friend
 ***** Reign of the Supermen
 ***** Return of Superman
-**** Superman/Batman, by Jeph Loeb :P2003:
+**** TODO Superman/Batman, by Jeph Loeb :P2003:
 
 Superman/Batman v1 #1-26
 
@@ -1758,7 +1882,7 @@ Superman/Batman v1 #1-26
 
 Superman/Batman v1 #1-6
 
-***** The Supergirl from Krypton :P2004:
+***** TODO The Supergirl from Krypton :P2004:
 
 Superman/Batman v1 #8-13
 
@@ -1769,6 +1893,24 @@ Superman/Batman v1 #14-18
 ***** Vengeance
 
 Superman/Batman v1 #20-25
+
+**** READY New Krypton (2008-2010) :hanzify:
+
+汉化：全85期 https://weibo.com/6135693122/4755967339662378
+
+- 序曲
+    - Last Son
+    - Brainiac
+- 1. 新氪星 Superman: New Krypton
+- 2. 没有超人的世界 World Without Superman
+- 2.5 代号：爱国者 Codename: Patriot
+- 3. 反对超人的世界 World Against Superman
+- 4. 新氪星最后一战 Superman: Last Stand of New Krypton
+- 5. 超人总攻战 War of the Supermen
+
+
+《超人：新氪星》书单列表 阅读顺序指南
+https://weibo.com/ttarticle/x/m/show/id/2309404426281474195539?_wb_client_=1
 
 **** Superman Unchained :P2013:
 
@@ -1861,8 +2003,20 @@ to the re-imagined Earth-22 reality.
 
 https://dc.fandom.com/wiki/Thy_Kingdom_Come
 
-**** READY Superman: Secret Identity 秘密身份 :P2004:已购:
 **** Superman: Red Son :P2003:
+**** READY Superman: Secret Identity 秘密身份 :P2004:已购:
+**** DONE All-star Superman :P2005:Grant_Morrison:已购:
+**** READY Superman: Earth One 一号地球 ↗ :P2010:已购:
+
+a new modern version of the Superman story taking place in a separate continuity.
+
+**** Superman: Year One :DC_Black_Label:P2019:
+
+Earth-31
+
+3 issues
+
+**** TBR Superman: The Kryptonite Spectrum :P2025:
 *** singles
 **** /Superman: Whatever Happened to the Man of Tomorrow?/, by Alan Moore and Curt Swan
 **** /What's So Funny About Truth, Justice, and the American Way?/, by Joe Kelly, Doug Mahnke, and Lee Bermejo
@@ -1883,10 +2037,25 @@ Hitman #34
 https://dc.fandom.com/wiki/Superman_Recommended_Reading#Post-Crisis_(1986-2011)
 
 **** #Batzarro world
-***** Emperor Joker :crossover:P2000:
-***** Escape from Bizarro World :P2007:
+***** NOW [#C] Emperor Joker :crossover:P2000:Joker:S2025_Q4:
 
-Action Comics #855-857
+个人不喜欢画风
+
+***** DONE Escape from Bizarro World (TPB) :P2007:S2025_Q4:
+CLOSED: [2026-01-07 Wed 23:45]
+
+https://dc.fandom.com/wiki/Superman:_Escape_from_Bizarro_World_(Collected)
+
+- Action Comics #855-857
+
+also included in TPB:
+- Superman #140: "The Son of Bizarro"
+- DC Comics Presents #71: "The Mark of Bizarro!"
+- The Man of Steel #5: "The Mirror, Crack'd"
+
+前两个故事属于古早漫画，剧情比较幼稚，不看也罢；第三个诞生于1986年，比较有意思一点，不过其实与 Bizarro 没什么关系，只能算是一个“真假超人”的故事
+
+
 
 ***** Bizarrogirl :P2010:
 
@@ -1898,17 +2067,16 @@ Superman/Batman v1 #20-25
 
 **** Lex Luthor: Man of Steel :P2005:
 **** Superman/Supergirl: Maelstorm :P2009:
-**** Superman: New Krypton :crossover:
+**** Superman: New Krypton :crossover:S2026_Q4:
 
 https://dc.fandom.com/wiki/Superman:_New_Krypton
 
-***** Coming of Atlas (#677-680) :P2008:
-***** Brainiac (#866-870)
+***** Coming of Atlas (#677-680)↗ :P2008:
+***** Brainiac (#866-870)↗
 
 #866-870, 
 Superman: New Krypton Special #1 pages 1-9
 
-***** New Krypton
 **** Region of Doomsday :crossover:P2011:
 *** pending 2011-?
 **** Supergirl, by Mike Johnson...
@@ -1917,6 +2085,14 @@ Superman: New Krypton Special #1 pages 1-9
 **** The Final Days of Superman
 **** Revenge
 ** tv :📺:
+*** Superman: The Animated Series (1996-2000) :DCAU:
+**** [#B] 1x01-03 The Last Son of Krypton
+**** [#A] 2x12 Brave New Metropolis
+**** [#A] 2x16-18 World's Finest
+**** [#A] 2x22 The Late Mr. Kent
+**** [#A] 2x25-26 Apokolips... Now!
+**** [#A] 3x02 Knight Time
+**** [#A] 3x12-13 Legacy
 *** DONE Superman and Lois S1 (15 eps) :P2021:
 CLOSED: [2022-10-02 Sun 20:58]
 
@@ -2051,7 +2227,7 @@ CLOSED: [2024-10-18 Fri 20:49]
 **** DONE 3x13
 CLOSED: [2024-10-20 Sun 19:43]
 
-*** Superman and Lois S4
+*** DONE Superman and Lois S4 :S2025_Q4:
 **** DONE 4x01
 CLOSED: [2025-11-23 Sun 15:41]
 
@@ -2077,6 +2253,12 @@ CLOSED: [2025-12-26 Fri 20:29]
 
 **** DONE 4x08
 CLOSED: [2025-12-31 Wed 09:37]
+
+**** DONE 4x09
+CLOSED: [2026-01-02 Fri 15:15]
+
+**** DONE 4x10
+CLOSED: [2026-01-03 Sat 16:55]
 
 ** movies
 *** DCEU
@@ -2149,7 +2331,7 @@ CLOSED: [2024-10-15 Tue 21:44]
 ***** DONE Supergirl 4x09
 CLOSED: [2024-10-16 Wed 21:17]
 
-**** 6. Crisis on Infinite Earths 无限地球危机 :S2025_Q4:
+**** 6. Crisis on Infinite Earths 无限地球危机 :S2026_Q4:
 ***** TODO Supergirl 5x09
 ***** TODO Batwoman 1x09
 ***** TODO The Flash 6x09
@@ -2212,6 +2394,12 @@ CLOSED: [2025-12-20 Sat 23:44]
 **** DONE 2x04
 CLOSED: [2025-12-28 Sun 10:10]
 
+**** DONE 2x05
+CLOSED: [2026-01-12 Mon 10:07]
+
+**** DONE 2x06
+CLOSED: [2026-01-20 Tue 20:53]
+
 ** Harley Quinn (TAS)
 *** DONE S1 :P2019:
 
@@ -2270,8 +2458,8 @@ CLOSED: [2024-10-25 Fri 19:51] SCHEDULED: <2024-10-20 Sun>
 :douban:   8.7
 :END:
 
-*** NEXT [#A] Justice League: War :P2014:
-SCHEDULED: <2024-10-20 Sun>
+*** DONE [#A] Justice League: War :P2014:
+CLOSED: [2024-11-10 Sun 21:38] SCHEDULED: <2024-10-20 Sun>
 :PROPERTIES:
 :douban:   8.1
 :END:
@@ -2328,14 +2516,14 @@ CLOSED: <2024-09-25 Wed 23:18> SCHEDULED: <2024-10-05 Sat>
 :douban:   8.1
 :END:
 
-*** TODO [#A] The Suicide Squad (2021) X特遣队：全员集结 :S2025_Q4:
+*** TODO [#A] The Suicide Squad (2021) X特遣队：全员集结 :S2026_Q4:
 *** CANCEL [#F] Black Adam (2022)
 *** CANCEL [#F] Shazam! Fury of the Gods (2023)
 *** [#B] The Flash (2023) 闪电侠
 *** CANCEL [#F] Blue Beetle (2023)
 *** CANCEL [#E] Aquaman and the Lost Kingdom (2023)
 ** tv :📺:
-*** TODO [#A] Peacemaker 和平使者 :S2025_Q4:
+*** TODO [#A] Peacemaker 和平使者 :S2026_Q4:
 * Watchmen :Watchmen:
 ** DONE movie
 ** comics
@@ -2350,7 +2538,7 @@ CLOSED: <2024-09-25 Wed 23:18> SCHEDULED: <2024-10-05 Sat>
 **** Ozymandias
 **** Dollar Bill
 **** Moloh
-*** LATER Doomsday Clock 末日钟声 (2018-2020) :P2018:hanzify:S2025_Q4:
+*** LATER Doomsday Clock 末日钟声 (2018-2020) :P2018:hanzify:S2026_Q4:
 *** Rorschach :P2020:hanzify:
 ** tv
-*** LATER Watchmen S1 (2019, 9 eps) :P2019:S2025_Q4:
+*** LATER Watchmen S1 (2019, 9 eps) :P2019:S2026_Q4:
