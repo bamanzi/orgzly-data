@@ -159,9 +159,16 @@ CLOSED: <2025-01-10 Fri 09:28> SCHEDULED: <2025-01-11 Sat>
 【【神秘博士广播剧熟肉】Travel in Hope 304 Below There 下面的人-哔哩哔哩】 https://b23.tv/BV1Jz4y1W7sn
 
 ****** CANCEL [#F] 3.2.2 The Butler Did it
-****** READY [#B] 3.2.3 Run :bilibili:dw2026_q1a_doctor:
+****** HALF [#B] 3.2.3 Run :Alpha_Centauri:bilibili:dw2026_q1a_doctor:
+SCHEDULED: <2026-01-24 Sat>
 
 【【神秘博士广播剧熟肉】Travel in Hope 306 Run 竞选-哔哩哔哩】 https://b23.tv/BV1bz4y1u7hr
+
+https://www.bigfinish.com/releases/v/doctor-who-the-ninth-doctor-adventures-travel-in-hope-2825
+
+在可怕的煽动者Bellatrix Vega威胁银河系联邦的稳定时，博士说服新当选的代表人Alpha Centauri与她竞选总统。
+
+Vega的团队用着卑鄙的手段竞选，博士和Alpha必须击败一场凶残的阴谋， 否则他们将看到银河系最伟大的民主政权变成残酷的独裁统治。
 
 ***** 📂S3.3 Buried Threats :P2024_02:
 ****** [#E] 3.3.1 A Theatre of Cruelty :scripted:
@@ -1097,7 +1104,15 @@ CLOSED: [2024-01-28 Sun 07:16] SCHEDULED: <2024-01-28 Sun>
 
 【【神秘博士】短途旅行：世界树 | Short Trips: The World Tree-哔哩哔哩】 https://b23.tv/kE5PXA3
 
-**** [#B] ST12.6 The Galois Group :Valarie:plot_yes:
+**** HALF [#B] ST12.6 The Galois Group :Valarie:plot_yes:dw2026_q1a_doctor:
+SCHEDULED: <2026-02-02 Mon 19:53>
+
+埃瓦里斯特·伽罗瓦（Évariste Galois，1811年10月25日－1832年5月31日），法国数学家，群论创立者。
+
+出生于巴黎近郊，12岁（1823年）入读巴黎路易皇家中学，16岁开始跟随范涅尔老师学习数学展露数学天赋，1829年因父亲自杀遭受重大打击。三次向法国科学院提交代数方程论文均遭遗失或拒稿，包括柯西未发表的方程论研究、傅里叶去世遗失的论文以及泊松以'难以理解'为由退回的研究。1830年参与七月革命后遭高等师范学院退学，次年因政治活动两次入狱。1832年5月30日在决斗中腹部中枪，次日身亡，决斗前夜整理完成包含群论核心思想的手稿，提出伽罗瓦群、正规子群和有限域等概念。其成果通过刘维尔整理于1846年发表，证明五次以上方程无根式解并解决倍立方和三等分角尺规作图问题。
+
+【伽罗瓦的数学遗产：群论 是什么？有什么用？-哔哩哔哩】 https://b23.tv/BV1Hs6CB4E2b
+
 **** ST13.3 Rise of the Eukaryans :P2025_04:
 *** misc :🗣:
 **** [#C] CY1.3 Living History ↗ :P2016:plot_yes:

@@ -315,7 +315,8 @@ SCHEDULED: <2023-01-14 Sat 08:16>
 
 http://www.drwhoguide.com/chronicles13.htm
 
-***** TODO [#B] CC4.1 - The Drowned World
+***** FIXME [#B] CC4.1 - The Drowned World :plot_yes:dw2026_q1a_doctor:
+SCHEDULED: <2026-02-14 Sat>
 :PROPERTIES:
 :rating:   8.1
 :END:
@@ -1311,7 +1312,8 @@ SCHEDULED: <2024-02-17 Sat>
 :rating:   7.6
 :END:
 
-***** [#D] 2025A. Doctor Who and the Brain Drain :P2025_02:3CD:plot_yes:
+***** [#D] 2025A. Doctor Who and the Brain Drain :P2025_02:3CD:plot_yes:dw2026_q1a_doctor:
+SCHEDULED: <2026-02-21 Sat>
 :PROPERTIES:
 :tardis.guide: 3.31
 :thetimescales: 7.7

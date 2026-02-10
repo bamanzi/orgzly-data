@@ -464,7 +464,8 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
       :rating:   8.9
       :END:
 
-***** TODO [#E] 60. Infidel Places :Queen:
+***** TODO [#E] 60. Infidel Places :Queen:dw2026_q1a_spinoffs:
+      SCHEDULED: <2026-02-22 Sun>
       :PROPERTIES:
       :rating:   6.7
       :END:
@@ -823,8 +824,8 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
       :rating:   8.8
       :END:
 
-***** TODO [#B] 7.10 Doomscroll :Orr:Colchester:Tyler:Ng:
-      SCHEDULED: <2025-11-02 Sun>
+***** HALF [#B] 7.10 Doomscroll :Orr:Colchester:Tyler:Ng:dw2026_q1a_spinoffs:
+      SCHEDULED: <2026-01-18 Sun>
 
 ***** [#B] 7.11 Heistland :Yvonne:Orr:Tyler:
 ***** [#C] 7.12 The Apocalypse Starts at 6 PM :Yvonne:Og:
@@ -1951,7 +1952,8 @@ http://drwhoguide.com/bs_a18.htm
      :rating:   7.7
      :END:
 
-**** [#C] 2.2 Bad Habits
+**** HALF [#C] 2.2 Bad Habits :dw2026_q1a_spinoffs:
+     SCHEDULED: <2026-02-01 Sun>
      :PROPERTIES:
      :rating:   7.9
      :END:
@@ -2793,7 +2795,9 @@ rating 8.7/8.3
     CLOSED: [2025-08-24 Sun 11:20] SCHEDULED: <2025-08-23 Sat>
 
 ** 📂Nemesis 2: Agents of the Vulpreen :P2022_03:
-*** [#B] 2.1 The Man From Gallifrey
+*** [#B] 2.1 The Man From Gallifrey :The_Eleven:dw2026_q1a_spinoffs:
+    SCHEDULED: <2026-03-01 Sun>
+
 *** [#C] 2.2 Power of the Dominators
 *** [#C] 2.3 The War Factory
 *** [#C] 2.4 Ten Minutes in Hell
@@ -2993,11 +2997,31 @@ http://www.drwhoguide.com/kaldor03.htm
 **** HALF [#D] 2.2 Pater Noster :dw2025_q4a_spinoffs:
      SCHEDULED: <2025-10-12 Sun>
 
-**** [#B] 2.3 The Gentleman Theives
+**** 3QTR [#B] 2.3 The Gentleman Theives :dw2026_q1a_spinoffs:
+     CLOSED: [2026-02-07 Sat 08:25] SCHEDULED: <2026-02-08 Sun>
+
 *** 📂PG: Trespassers 3 - No Place Like Home :P2024_12:
-**** [#E] 3.1 Doppelgängers :Zygons:
-**** CANCEL [#F] 3.2 Jellyfish!
-**** [#E] 3.3 The Houseguest :2nd_Dr:Zygons:
+**** [#D] 3.1 Doppelgängers :Zygons:
+     :PROPERTIES:
+     :thetimescales: 6.8
+     :tardis.guide: 3.71
+     :difficulty: H
+     :END:
+
+**** CANCEL [#E] 3.2 Jellyfish!
+     :PROPERTIES:
+     :thetimescales: 5.7
+     :tardis.guide: 3.48
+     :difficulty: H
+     :END:
+
+**** [#D] 3.3 The Houseguest :2nd_Dr:Zygons:
+     :PROPERTIES:
+     :thetimescales: 6.5
+     :tardis.guide: 3.70
+     :difficulty: H
+     :END:
+
 *** 📂PG: Trespassers 4 - Last Stand :P2025_03:
 **** 4.1 I Married a Shapeshifter
 **** 4.2 A Passion for Fashion
@@ -3063,13 +3087,13 @@ http://www.drwhoguide.com/kaldor03.htm
     :rating:   7.8
     :END:
 
-*** [#A] 3.4 - Unto the Breach :dw2026_q1a_spinoffs:
+*** [#A] 3.4 - Unto the Breach :dw2026_q2a_spinoffs:
     :PROPERTIES:
     :rating:   8.9
     :END:
 
 ** CM series 4 :P2015:
-*** HALF [#D] 4.1 - New Horizons :dw2025_q4b_spinoffs:
+*** HALF [#D] 4.1 - New Horizons :dw2025_q4a_spinoffs:
     SCHEDULED: <2025-12-28 Sun>
     :PROPERTIES:
     :rating:   7.3
@@ -3140,13 +3164,13 @@ http://web.archive.org/web/20060212015459/http://www.factionparadox.co.uk/script
 https://tardis.breezewiki.com/wiki/Coming_to_Dust_(audio_story)
 https://web.archive.org/web/20220524090323/http://drwhoguide.com/paradox_a01.htm
 
-**** HALF [#B] 2. The Ship of a Billion Years :P2006:dw2025_q2b_spinoffs:
-     SCHEDULED: <2025-06-29 Sun>
+**** DONE [#B] 2. The Ship of a Billion Years :P2006:dw2025_q2b_spinoffs:
+     CLOSED: <2026-02-10 Tue 20:05> SCHEDULED: <2025-06-29 Sun>
 
 https://web.archive.org/web/20220524090323/http://drwhoguide.com/paradox_a02.htm
 
 **** [#B] 3. Body Politic :P2008:dw2026_q1a_spinoffs:
-     SCHEDULED: <2026-02-08 Sun>
+     SCHEDULED: <2026-02-15 Sun>
 
 https://web.archive.org/web/20220524090323/http://drwhoguide.com/paradox_a03.htm
 

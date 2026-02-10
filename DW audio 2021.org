@@ -1948,42 +1948,65 @@ Ashenden (4~6)
 https://b23.tv/BV1LF411j7D5
 
 *** HALF [#D] MR61. Faith Stealer :8th_Dr:Charley:Crizz:
-*** [#D] 10DA1.2 Time Reaver :10th_Dr:Donna:
-*** [#A] 12DC3.3 You Only Die Twice :12th_Dr:Keira:
+*** HALF [#D] 10DA1.2 Time Reaver :10th_Dr:Donna:
+*** HALF [#C] 12DC3.3 You Only Die Twice :12th_Dr:Keira:
 ** dw2025-q4b-spinoffs
-*** HALF [#C] TWBBC5.1 The Devil and Miss Carew       :Jack:Gwen:Ianto:P2011:
-*** [#D] UBNW1.1 Rogue State :UNIT:
+*** HALF [#C] TWBBC5.1 The Devil and Miss Carew :Jack:Gwen:Ianto:P2011:
+*** HALF [#D] UBNW1.1 Rogue State :UNIT:
 *** HALF [#C] J&L10.2 The Year of the Bat
 *** HALF [#C] BSBOX 2.1 Brand Management :Benny:
-*** [#C] WM9.4 The Kicker :Master_war:bilibili:
+*** 3QTR [#C] WM9.4 The Kicker :Master_war:bilibili:
+    CLOSED: <2026-01-07 Wed 08:46>
+
 *** HALF [#B] Rory2.2 The Glowing Warrior
 * DW 2026
 ** dw2026-q1a-doctor
-*** FIXME [#B] CC4.1 - The Drowned World :1st_Dr:Sara:
+*** [#B] CC4.1 - The Drowned World :1st_Dr:Sara:
 *** [#D] 3DA2025A. Doctor Who and the Brain Drain :P2025_02:3CD:plot_yes:
     :PROPERTIES:
     :tardis.guide: 3.31
     :thetimescales: 7.7
     :END:
 
-*** READY [#C] MR047. Omega :5th_Dr:Omega:
-*** FIXME [#B] 7DA23A.1 Operation Dusk :7th_Dr:Harry:Naomi:
-*** [#B] 9DA3.2.3 Run :9th_Dr:
-*** [#B] ST12.6 The Galois Group :11th_Dr:Valarie:plot_yes:
-*** FIXME [#D] CC5.10 - The Sentinels of the New Dawn :3rd_Dr:Liz:
-*** FIXME [#B] DWUN2 Sympathy from the Devil :Unbound_Dr:Master_unbound:bilibili:
+*** HALF [#C] MR047. Omega :5th_Dr:Omega:
+*** HALF [#B] 7DA23A.1 Operation Dusk :7th_Dr:Harry:Naomi:
+*** HALF [#B] 9DA3.2.3 Run :9th_Dr:
+*** HALF [#B] ST12.6 The Galois Group :11th_Dr:Valarie:plot_yes:
 ** dw2026-q1a-spinoffs
-*** [#B] TW7.10 Doomscroll :Orr:Colchester:Tyler:
+*** HALF [#B] TW7.10 Doomscroll :Orr:Colchester:Tyler:
+*** [#E] TW60. Infidel Places :Queen:
 *** [#B] UNEM2.1 The Man From Gallifrey :The_Eleven:
-*** [#B] PGT2.3 The Gentleman Theives
-*** [#C] BSBOX2.2 Bad Habits
+*** HALF [#B] PGT2.3 The Gentleman Theives
+*** HALF [#C] BSBOX2.2 Bad Habits
     :PROPERTIES:
     :rating:   7.9
     :END:
 
 *** READY [#D] MAS3.2 Axos Rising :Master_bruce:
 *** [#B] FP2.3 Body Politic :P2008:Sutekh:Justine:Eliza:
+** dw2026-q1b-doctor
+*** FIXME TV4.4 The Highlanders :2nd_Dr:Polly:Ben:
+*** [#B] 4DA 8.7/8.8 The Perfect Prisoners :4th_Dr:Ann:
+*** [#C] MR169. The Wrong Doctors :6th:Mel:
+    :PROPERTIES:
+    :rating:   7.9
+    :END:
 
+*** [#C] 8DA3.7 The Eight Truths :8th_Dr:Lucie:
+*** FIXME [#E] 10DCC.2 The Stuntman :Nyssa:
+*** [#C] WD3.2 The Eternity Cage :War_Dr:
+** dw2026-q1b-spinoffs
+*** FIXME [#B] TW86. End Game :Tosh:P2024_08:
+    :PROPERTIES:
+    :thetimescales: 8.7
+    :tardis.guide: 4.15
+    :END:
+
+*** [#A] CM3.4 - Unto the Breach
+*** [#C] UNEM2.2 Power of the Dominators
+*** [#B] J&L10.3 - The Mourning After
+*** [#A] DoRS11.1. The Rules of the House :River:
+*** [#D] Missy3.3 Two Monks, One Mistress
 * FIXME pending
 ** special
 *** [#B] Jack 2.1 Piece of Mind :Jack:6th_Dr:
