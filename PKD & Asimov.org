@@ -53,7 +53,7 @@ December 16, 2020 – February 9, 2022
 
 download: https://comics.codes/blade-runner-2029/
 
-**** READY /Blade Runner 2039/ :P2023:S2026_Q1:
+**** READY /Blade Runner 2039/ :P2023:S2026_Q2:
 
 https://comics.codes/blade-runner-2039/
 
@@ -221,7 +221,7 @@ CLOSED: [2024-01-07 Sun 10:25]
 :goodreads: 3.78
 :END:
 
-***** NOW [#C] 火星时间穿越 （火星人的时光倒转） Martian Time-Slip :P1964:已购:S2026_Q1:
+***** NOW [#C] 火星时间穿越 （火星人的时光倒转） Martian Time-Slip :P1964:已购:S2026_Q2:
 :PROPERTIES:
 :goodreads: 3.76
 :END:
@@ -281,7 +281,7 @@ CLOSED: [2024-05-17 Fri 23:26] SCHEDULED: <2024-05-25 Sat>
 十四个移民被送到了未经开发的德尔马克-欧星，却因设备故障与外界失去了联系。面对荒凉而陌生的环境，他们各怀心事、满腹猜疑，只能通过信号向神祈祷，但死亡随时可能降临……德尔马克-欧星上满是奇特的原生生物，还有早在移民到来之前就已存在的神秘大楼——它诱惑着所有人进入，却在各人眼中呈现出不同的模样……探索这颗星球的过程中，移民们接连遇害，是人们控制不住自己的癫狂，还是恶神在悄悄逼近？ 在这里，上帝要么不存在，要么是在蓄意毁灭它的造物……
 
 ***** DONE [#B] ↗Flow My Tears, the Policeman Said :P1974:
-***** READY [#A] 黑暗扫描仪 A Scanner Darkly :P1977:已购:ebook:S2026_Q1:
+***** READY [#A] 黑暗扫描仪 A Scanner Darkly :P1977:已购:ebook:S2026_Q2:
 :PROPERTIES:
 :goodreads: 4.03
 :END:
@@ -665,4 +665,4 @@ CLOSED: [2024-12-20 Fri 20:25]
 **** DONE 1x08
 CLOSED: [2024-12-20 Fri 21:23]
 
-*** S2 :S2026_Q1:
+*** S2 :S2026_Q2:

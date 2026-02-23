@@ -386,7 +386,7 @@ CLOSED: [2024-12-09 Mon 20:08]
 **** DONE [#A] 6x22 Full Circle (Part 1 of 3)
 CLOSED: [2026-01-02 Fri 16:12]
 
-*** SG-1 S7 :P2003:S2026_Q1:
+*** DONE SG-1 S7 :P2003:S2026_Q1:
 **** DONE [#B] 7x01 Fallen (Part 2 of 3)
 CLOSED: [2026-01-02 Fri 20:31]
 
@@ -411,42 +411,42 @@ CLOSED: [2026-01-16 Fri 23:43] SCHEDULED: <2026-01-16 Fri>
 **** DONE 7x08
 CLOSED: [2026-01-18 Sun 10:38] SCHEDULED: <2026-01-18 Sun>
 
-**** 7x09
-SCHEDULED: <2026-01-18 Sun>
+**** DONE 7x09
+CLOSED: <2026-01-23 Fri 08:52> SCHEDULED: <2026-01-18 Sun>
 
-**** 7x10
-SCHEDULED: <2026-01-21 Wed>
+**** DONE 7x10
+CLOSED: [2026-01-24 Sat 21:03] SCHEDULED: <2026-01-21 Wed>
 
 **** DONE [#B] 7x11-12 Evolution
 CLOSED: [2026-01-20 Tue 17:41] SCHEDULED: <2026-01-23 Fri>
 
-**** 7x13
-SCHEDULED: <2026-01-25 Sun>
+**** DONE 7x13
+CLOSED: [2026-01-27 Tue 08:47] SCHEDULED: <2026-01-25 Sun>
 
-**** 7x14
-SCHEDULED: <2026-01-28 Wed>
+**** DONE 7x14
+CLOSED: [2026-01-30 Fri 22:53] SCHEDULED: <2026-01-28 Wed>
 
-**** 7x15
-SCHEDULED: <2026-01-30 Fri>
+**** DONE 7x15
+CLOSED: [2026-01-31 Sat 23:48] SCHEDULED: <2026-01-30 Fri>
 
-**** 7x16 Death Knell
-SCHEDULED: <2026-02-01 Sun>
+**** DONE 7x16 Death Knell
+CLOSED: [2026-02-05 Thu 19:48] SCHEDULED: <2026-02-01 Sun>
 
-**** [#B] 7x17-18 Heroes
-SCHEDULED: <2026-02-01 Sun>
+**** DONE [#B] 7x17-18 Heroes
+CLOSED: [2026-02-08 Sun 21:49] SCHEDULED: <2026-02-01 Sun>
 
-**** 7x19
-SCHEDULED: <2026-02-04 Wed>
+**** DONE 7x19
+CLOSED: [2026-02-10 Tue 19:12] SCHEDULED: <2026-02-04 Wed>
 
-**** 7x20
-SCHEDULED: <2026-02-05 Thu>
+**** DONE 7x20
+CLOSED: [2026-02-15 Sun 14:38] SCHEDULED: <2026-02-05 Thu>
 
-**** [#B] 7x21-22 Lost City
-SCHEDULED: <2026-02-07 Sat>
+**** DONE [#B] 7x21-22 Lost City
+CLOSED: [2026-02-17 Tue 17:54] SCHEDULED: <2026-02-07 Sat>
 
-*** SG-1 S8
+*** SG-1 S8 :P2004:
 **** [#A] 8x01/02 New Order
-*** ...
+*** SG-1 S9 :P2005:
 *** SG-1 S10 :P2006:
 *** Stargate: The Ark of Truth :P2008:
 *** Stargate: Continuum :P2008:
@@ -538,33 +538,37 @@ CLOSED: [2024-12-16 Mon 08:24]
 ***** DONE [#B] 1x10/11 The Storm/The Eye
 CLOSED: [2026-01-17 Sat 23:04] SCHEDULED: <2026-01-17 Sat>
 
-***** [#B] 1x15 Before I Sleep
-SCHEDULED: <2026-01-25 Sun>
+***** DONE [#B] 1x15 Before I Sleep
+CLOSED: [2026-01-24 Sat 10:46] SCHEDULED: <2026-01-25 Sun>
 
-***** 1x18 The Gift
-SCHEDULED: <2026-01-25 Sun>
+***** DONE 1x18 The Gift
+CLOSED: [2026-01-30 Fri 18:50] SCHEDULED: <2026-01-25 Sun>
 
-***** [#B] 1x19-20 The Siege
-SCHEDULED: <2026-02-01 Sun>
+***** DONE [#B] 1x19-20 The Siege
+CLOSED: [2026-02-02 Mon 18:44] SCHEDULED: <2026-02-01 Sun>
 
 **** SGA S2 :P2005:
-***** [#A] 2x01 The Siege (part 3)
-SCHEDULED: <2026-02-01 Sun>
+***** DONE [#A] 2x01 The Siege (part 3)
+CLOSED: [2026-02-02 Mon 19:39] SCHEDULED: <2026-02-01 Sun>
 
-***** 2x03 Runner
-SCHEDULED: <2026-02-08 Sun>
+***** DONE 2x03 Runner
+CLOSED: [2026-02-05 Thu 23:22] SCHEDULED: <2026-02-08 Sun>
 
-***** [#B] 2x04 Duet
-SCHEDULED: <2026-02-08 Sun>
+Ronon Dex 首次出场集
 
-***** 2x07 Instinct
-SCHEDULED: <2026-02-15 Sun>
+***** DONE [#B] 2x04 Duet
+CLOSED: [2026-02-15 Sun 15:57] SCHEDULED: <2026-02-08 Sun>
 
-***** [#B] 2x09 Aurora
-SCHEDULED: <2026-02-15 Sun>
+***** DONE 2x07 Instinct
+CLOSED: [2026-02-10 Tue 16:34] SCHEDULED: <2026-02-10 Tue>
+
+***** DONE [#B] 2x09 Aurora
+CLOSED: [2026-02-23 Mon 12:21] SCHEDULED: <2026-02-15 Sun>
 
 ***** 2x10 The Lost Boys
 ***** 2x11 The Hive
+***** 2x17 Coup D’etat
+***** 2x18 Michael
 ***** [#B] 2x19 Inferno
 ***** [#B] 2x20 Allies
 **** SGA S3 :P2006:
@@ -806,7 +810,9 @@ https://www.boom-studios.com/archives/the-expanse-dragon-tooth-series-announceme
 
 ** comics: A Little Death :P2025:
 
-The Expanse has always been about big moves, and this might be the biggest yet; Wes Chatham, the man behind Amos Burton, isn’t just stepping back into the universe — he’s shaping its future as co-writer of the next epic installment!
+https://breezewiki.com/expanse/wiki/The_Expanse:_A_Little_Death
+
+/The Expanse: A Little Death/ is a 4-issue comic book series set after /The Expanse: Dragon Tooth/,[2] specifically in the thirty year gap between /Babylon's Ashes/ (book 6) and /Persepolis Rising/ (book 7). Following the events of Dragon Tooth, the Rocinante crew is plunged into a high stakes conspiracy when an old acquaintance of Amos Burton comes to him for aid.[2] It released on September 3, 2025.[1]
 
 * Battlestar Galactica :bsg:
 ** tv :📺:
@@ -1178,7 +1184,7 @@ CLOSED: <2023-07-22 Sat 17:50>
 
 22BBY
 
-**** Star Wars: Episode III Revenge of the Sith :P2005:19BBY:
+**** Star Wars: Episode III Revenge of the Sith :P2005:19BBY:S2026_Q1:
 
 19BBY
 
@@ -1210,13 +1216,68 @@ CLOSED: [2024-06-23 Sun 16:33]
 10 BBY, with a prologue set in 13 BBY
 
 **** TBR A Droid Story 机器人故事 :P2025:
-**** TBR Rogue Squadron 侠盗中队 :P2028:
 *** movies (legends)
 **** Holiday Special :P1978:
 **** Caravan of Courage :P1984:
 **** Ewoks The Battle for Endor :P1985:
 ** tv :📺:
 *** tv (canon, live-action)
+**** The Acolyte :132BBY:P2024:
+**** Obi-Wan Kenobi 欧比旺
+
+9 BBY
+
+https://starwars.fandom.com/wiki/Obi-Wan_Kenobi_(television_series)?so=search
+
+***** [#D] season 1 (6 eps) :P2022:
+**** Andor 安多
+
+5 BBY - 0 BBY
+
+https://starwars.fandom.com/wiki/Andor_(television_series)?so=search
+
+***** DONE [#A] 📂season 1 (12 eps) :P2022_09:S2024_07:
+****** DONE 1x01
+CLOSED: [2024-06-12 Wed 20:09]
+
+****** DONE 1x02
+CLOSED: [2024-06-14 Fri 20:22]
+
+****** DONE 1x03
+CLOSED: [2024-06-15 Sat 23:44]
+
+****** DONE 1x04
+CLOSED: <2024-06-16 Sun 10:08>
+
+****** DONE 1x05
+CLOSED: [2024-06-16 Sun 12:04]
+
+****** DONE 1x06
+CLOSED: [2024-06-18 Tue 08:45]
+
+****** DONE 1x07
+CLOSED: <2024-06-22 Sat 10:18>
+
+****** DONE 1x08
+CLOSED: <2024-06-22 Sat 12:07>
+
+****** DONE 1x09
+CLOSED: [2024-06-22 Sat 19:30]
+
+****** DONE 1x10
+CLOSED: [2024-06-25 Tue 08:12]
+
+****** DONE 1x11
+CLOSED: [2024-06-28 Fri 20:05]
+
+****** DONE 1x12
+CLOSED: [2024-06-30 Sun 09:55]
+
+***** TODO season 2 :S2026_Q1:
+****** DONE 2x01-03 :4BBY:
+CLOSED: [2026-02-20 Fri 20:19]
+
+****** 2x04-06 :3BBY:
 **** The Mandalorian 曼达洛人 (2019- ) :9ABY:
 
 9 ABY
@@ -1274,7 +1335,7 @@ CLOSED: [2023-07-18 Tue 22:33] SCHEDULED: <2023-07-23 Sun>
 ****** DONE 2x08 The Rescue :Boba_Fett:Bo_Katan:
 CLOSED: [2023-07-25 Tue 18:48] SCHEDULED: <2023-07-30 Sun>
 
-***** LATER season 3 (8 eps) :P2023_03:
+***** TODO season 3 (8 eps) :P2023_03:S2026_Q1:
 **** The Book of Boba Fett 波巴费特之书 :Boba_Fett:
 ***** DONE [#C] 📂season 1 (7 eps) :P2021:9ABY:
 
@@ -1313,60 +1374,35 @@ Set after the fall of the Empire, /Ahsoka/ follows the former Jedi knight 
 CLOSED: [2024-06-10 Mon 22:07]
 
 ***** 1x04 Fallen Jedi :World_Between_Worlds:
-**** Obi-Wan Kenobi 欧比旺
-
-9 BBY
-
-https://starwars.fandom.com/wiki/Obi-Wan_Kenobi_(television_series)?so=search
-
-***** [#D] season 1 (6 eps) :P2022:
-**** Andor 安多
-
-5 BBY - 0 BBY
-
-https://starwars.fandom.com/wiki/Andor_(television_series)?so=search
-
-***** DONE [#A] 📂season 1 (12 eps) :P2022_09:S2024_07:
-****** DONE 1x01
-CLOSED: [2024-06-12 Wed 20:09]
-
-****** DONE 1x02
-CLOSED: [2024-06-14 Fri 20:22]
-
-****** DONE 1x03
-CLOSED: [2024-06-15 Sat 23:44]
-
-****** DONE 1x04
-CLOSED: <2024-06-16 Sun 10:08>
-
-****** DONE 1x05
-CLOSED: [2024-06-16 Sun 12:04]
-
-****** DONE 1x06
-CLOSED: [2024-06-18 Tue 08:45]
-
-****** DONE 1x07
-CLOSED: <2024-06-22 Sat 10:18>
-
-****** DONE 1x08
-CLOSED: <2024-06-22 Sat 12:07>
-
-****** DONE 1x09
-CLOSED: [2024-06-22 Sat 19:30]
-
-****** DONE 1x10
-CLOSED: [2024-06-25 Tue 08:12]
-
-****** DONE 1x11
-CLOSED: [2024-06-28 Fri 20:05]
-
-****** DONE 1x12
-CLOSED: [2024-06-30 Sun 09:55]
-
-***** season 2
-**** The Acolyte :132BBY:P2024:
 **** Rangers of the New Republic
 *** tv (canon, animated) :animated:
+**** DOING Tales of the Jedi (2022-)
+
+68 BBY - 5 BBY
+
+***** DONE 1x01 Life and Death :Ahsoka:
+CLOSED: [2023-08-18 Fri 22:28]
+
+***** DONE 1x02 Justice :Dooku:Qui_Gon_Jinn:
+CLOSED: [2023-08-27 Sun 13:09]
+
+***** DONE 1x03 Choices :Dooku:
+CLOSED: [2023-08-27 Sun 13:22]
+
+***** DONE 1x04 The Sith Lord :Dooku:Qui_Gon_Jinn:32BBY:
+CLOSED: [2023-08-27 Sun 18:03]
+
+***** DONE 1x05 Practice Makes Perfect :Ahsoka:21BBY:
+CLOSED: [2026-02-22 Sun 12:48]
+
+21 BBY
+
+末尾那幕 The scene where Rex and Tano confront the 332nd Division is continued in the /Victory and Death/ (7x12) episode of the /The Clone Wars/
+
+***** 1x06 Resolve :Ahsoka:
+
+Between 18 BBY and 5 BBY
+
 **** The Clone Wars (2008-2014)
 
 7 seasons
@@ -1466,7 +1502,7 @@ CLOSED: [2024-06-09 Sun 23:59]
 ****** DONE 2x11
 CLOSED: <2024-06-04 Tue 18:29>
 
-****** DONE 2x12/13/14 The Mandalore Plot / Voyage of Temptation / Duchess of Mandalore :Mandalorian:
+****** DONE 2x12/13/14 The Mandalore Plot / Voyage of Temptation / Duchess of Mandalore :Mandalorian:Death_Watch:
 CLOSED: [2024-06-09 Sun 11:46]
 
 ****** DONE 2x20 Death Trap :Boba_Fett:
@@ -1478,7 +1514,7 @@ CLOSED: [2024-06-11 Tue 08:12]
 ****** DONE 2x22 :Boba_Fett:Aurra_Sing:
 CLOSED: [2024-06-11 Tue 08:40]
 
-***** DONE 📂TCW season 3 (22 eps) :P2010:21BBY:20BBY:S2024_07:
+***** DONE 📂season 3 (22 eps) :P2010:21BBY:20BBY:S2024_07:
 
 22–21–20 BBY
 
@@ -1533,12 +1569,31 @@ CLOSED: [2024-07-22 Mon 20:19]
 ****** DONE 4x07-10 Carnage of Krell :Clone_Soldiers:
 CLOSED: [2024-07-27 Sat 08:30]
 
-****** ...
-****** 4x14 A Friend in Need :Bo_Katan:
+ a four-part storyline that focuses on a Jedi General the clones express concern about while on a mission on planet Umbara
+
+****** DONE 4x11-13 Kidnapped / Slaves of the Republic / Escape from Kadavo
+CLOSED: [2026-02-17 Tue 22:13]
+
+a three-part storyline about the slavers of Zygerria and the missing people of Kiros
+
+****** DONE 4x14 A Friend in Need :Mandalorian:Death_Watch:
+CLOSED: [2026-02-22 Sun 12:08]
+
+****** DONE 4x15-18 :Cad_Bane:Dooku:
+CLOSED: [2026-02-23 Mon 10:35]
+
+in a four-part storyline about Obi-Wan Kenobi's undercover story to unveil the assassination plot against Chancellor Palpatine
+
 ****** 4x19/20 Massacre / Bounty :Nightsisters:
+****** 4x21 Brothers
 ****** 4x22 Revenge :Maul:
 ***** 📂season 5 (20 eps) :P2012:19BBY:
-****** 5x14 Eminence :Bo_Katan:
+****** 5x02 A War on Two Fronts
+****** 5x03 Front Runners
+****** ...
+****** 5x13 Point of No Return
+****** 5x01 Revival
+****** 5x14 Eminence :Death_Watch:
 ****** 5x15 Shades of Reason :Bo_Katan:
 ****** 5x16 The Lawless :Bo_Katan:
 ****** 5x20 The Wrong Jedi :Ahsoka:
@@ -1556,6 +1611,10 @@ CLOSED: [2024-07-27 Sat 08:30]
 ***** The Bad Batch s2 :P2023:
 
 (16 eps)
+
+**** TBR Maul - Shadow Lord :P2026:
+
+During or after 17 BBY
 
 **** Rebels (2014-2018) 义军崛起
 
@@ -1740,7 +1799,7 @@ https://starwars.fandom.com/wiki/Old_Wounds
 ****** DONE 3x21/22 Zero Hour :Bendu:
 CLOSED: [2024-07-30 Tue 08:07]
 
-***** season 4 (16 eps) :P2017:
+***** season 4 (16 eps) :P2017:S2026_Q1:
 ****** 4x07 Kindred :World_Between_Worlds:
 ****** 4x13 A World Between Worlds :World_Between_Worlds:
 **** CANCEL [#E] Forces of Destiny (2017-2018)
@@ -1767,30 +1826,6 @@ CANCEL: 低幼向
 **** Galaxy of Creatures (2021- )
 
 34 ABY
-
-**** DOING Tales of the Jedi (2022-)
-
-68 BBY - 5 BBY
-
-***** DONE 1x01 Life and Death :Ahsoka:
-CLOSED: [2023-08-18 Fri 22:28]
-
-***** DONE 1x02 Justice :Dooku:Qui_Gon_Jinn:
-CLOSED: [2023-08-27 Sun 13:09]
-
-***** DONE 1x03 Choices :Dooku:
-CLOSED: [2023-08-27 Sun 13:22]
-
-***** DONE 1x04 The Sith Lord :Dooku:Qui_Gon_Jinn:32BBY:
-CLOSED: [2023-08-27 Sun 18:03]
-
-***** 1x05 Practice Makes Perfect :Ahsoka:
-
-21 BBY - 19 BBY
-
-***** 1x06 Resolve :Ahsoka:
-
-Between 18 BBY and 5 BBY
 
 **** Tales of the Empire (2024)
 *** tv (legends)
@@ -2042,7 +2077,15 @@ CLOSED: [2023-08-29 Tue 14:02]
 - Republic #55-67
 - Darth Maul — Death Sentence #1-4
 
-****** [#B] The Battle of Jabiim 贾毕姆之战 (Star Wars: Republic #55-58) :hanzify:
+****** DONE [#B] The Battle of Jabiim 贾毕姆之战 (Star Wars: Republic #55-58) :P2003:hanzify:
+CLOSED: [2026-02-19 Thu 20:47]
+
+****** DONE [#B] Star Wars: Republic #59-62 :P2004:hanzify:
+CLOSED: [2026-02-19 Thu 22:22]
+
+这几期故事对整体剧情比较重要
+
+****** Darth Maul: Death Sentence :20BBY:
 ***** epic collection: The Clone Wars vol.3
 ****** General Grievous :20BBY:hanzify:
 ****** Obsession :hanzify:19BBY:
@@ -2227,8 +2270,8 @@ CLOSED: [2023-07-08 Sat 09:03] SCHEDULED: <2023-07-09 Sun>
 c. 32 BBY
 
 ***** between movie 1-2
-****** TODO Obi-Wan and Anakin
-SCHEDULED: <2024-06-22 Sat>
+****** DONE Obi-Wan and Anakin
+CLOSED: [2026-02-20 Fri 21:26] SCHEDULED: <2024-06-22 Sat>
 
 29 BBY
 
@@ -2520,6 +2563,18 @@ The story is set prior to the events of /Star Wars: Episode IX The Rise of Skywa
 
 c.232 BBY
 
+***** Qi'ra trilogy (Crimson Dawn)
+****** War of the Bounty Hunters :3ABY:
+
+一群在银河系谋生的普通人——简评正史漫画《赏金猎人》
+
+https://weibo.com/2217652064/5021385619933760
+
+****** Crimson Reign :3ABY:
+****** Hidden Empire :3ABY:
+
+Between 3 ABY and 4 ABY
+
 *** IDW
 ** novels :📔:
 *** Darth Bane trilogy
@@ -2529,9 +2584,12 @@ c.232 BBY
 
 *** NOW Catalyst 催化剂 :hanzify:
 
-prequel novel to the Anthology film /Rogue One: A Star Wars Story./
+prequel novel to the Anthology film 
+/Rogue One: A Star Wars Story/
 
 21 BBY-17BBY
+
+https://starwars.fandom.com/wiki/Catalyst:_A_Rogue_One_Novel
 
 *** DONE Tarkin 塔金 :Tarkin:Vader:canon:hanzify:已购:S2024_07:
 CLOSED: [2024-07-28 Sun 21:21]
