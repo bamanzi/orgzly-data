@@ -74,13 +74,25 @@ CLOSED: [2021-06-15 Tue 08:16]
 **** 3QTR [#C] 071. The Council of Nicaea :Peri:Erimem:DW2023_03_doctor:
 CLOSED: [2023-03-17 Fri 08:26] SCHEDULED: <2023-03-18 Sat>
 
-**** 3QTR [#A] 081. The Kingmaker :Peri:Erimem:Shakespeare:4th_Dr:plot_yes_dwg:DW2023_11_doctor:已购:
+**** 3QTR [#A] 081. The Kingmaker :Peri:Erimem:Shakespeare:4th_Dr:plot_yes_dwg:DW2023_11_doctor:已购:bilibili:
 CLOSED: [2023-11-26 Sun 14:44] SCHEDULED: <2023-11-29 Wed>
 :PROPERTIES:
 :rating:   8.8
 :END:
 
 http://www.drwhoguide.com/who_bf81.htm
+
+【【神秘博士广播剧熟肉】MR 81 The Kingmaker -造王者-哔哩哔哩】 https://b23.tv/BV1jmzeBdE8S
+
+神秘博士在时空旅行中遇到了最声名狼藉的历史事件之一，需要解开这一事件之谜。
+
+并不意外，博士卷入了理查三世的事件，而他试着解开是何人杀害了塔中王子。
+
+Peri和Erimem也遇到了一位可以的时间旅行者，这个人是博士的旧相识，但是这个人不属于这个时代。
+
+所以是谁杀害了塔中王子？也许最好不要问这个问题。
+
+也许这个答案并不好
 
 **** DONE [#B] 99. Son of the Dragon :plot_yes:D2021_05:Peri:Erimem:D2021_05:
 CLOSED: <2021-05-29 Sat 08:11>
@@ -197,6 +209,7 @@ CLOSED: [2021-02-27 Sat 18:02]
 :rating:   8.4
 :END:
 
+**** ST14.2 Hard Feelings :Cybermen:P2026_02:
 *** with Nyssa & Tegan
 **** MR with Nyssa & Tegan :Nyssa:Tegan:scripted:2CD:
 ***** 2DONE [#B] 136. Cobwebs :D2021_08_dr:
@@ -322,9 +335,6 @@ SCHEDULED: <2022-05-14 Sat>
 - P2 :: https://b23.tv/BV1nn3Wz7ESk
 - P3 :: https://b23.tv/BV17i38z8Eqd
 - P4 :: BV1ep3MzfEoQ
-
-
-
 
 **** [#B] NA12. Goth Opera :Nyssa:Tegan:P2024_07:3CD:
 *** with Turlough :Turlough:scripted:2CD:
@@ -1168,10 +1178,18 @@ SCHEDULED: <2022-12-24 Sat 22:41>
 
 【【神秘博士广播剧熟肉】MR 135 Legend of the Cybermen-赛博人的传说-哔哩哔哩】 https://b23.tv/BV1yCgoz1EQo
 
-**** [#D] 199. Last of the Cybermen :Jamie:Zoe:
+**** READY [#D] 199. Last of the Cybermen :Jamie:Zoe:bilibili:
 :PROPERTIES:
 :rating:   7.1
 :END:
+
+【【神秘博士广播剧熟肉】MR 199 Last of the Cybermen 最后的赛博人-哔哩哔哩】 https://b23.tv/BV11DF6z6ENY
+
+距离Telos最后一次巡逻已经过去十年，这是赛博大战的最后行动。多亏了金枪、人性优势，还有半赛博人的鼎力相助。
+
+然而在最远的星系，它们留下了足迹，有一个巨大的赛博头，几百英尺之高。是纪念碑、纪念塔还是一座墓碑？赛博人最麻烦的敌人——博士，正在开展调查，但是他无法回到塔迪斯上。在飞船里面，就是他的两个同伴——勇敢的高地人Jamie McCrimmon和拥有超高智慧的Zoe Heriot却在博士失踪的地方找到了一个陌生人，穿着五颜六色的衣服，坚称自己是博士，与过去的自己交换了位置。
+
+但为什么是这里？为何是如今？宇宙中真的看到了最后的赛博人？
 
 **** 3QTR [#C] 212. Vampire of the Mind :Master_bald:D2021_11_master:plot_no:bilibili:
 CLOSED: <2021-11-26 Fri 14:14> SCHEDULED: <2021-11-20 Sat>
@@ -1792,12 +1810,33 @@ Raine就是当时计划中Ace下车后的新同伴。不过现在就是这三个
 最后半小时是下集预告＋采访 没有翻
 欢迎老师们捉虫orz
 
-**** [#D] LS2.5 Animal :Raine:plot_yes:
+**** READY [#D] LS2.5 Animal :Raine:plot_yes:bilibili:
 :PROPERTIES:
 :rating:   7.0
 :END:
 
-**** [#D] LS2.6 Earth Aid :Raine:plot_yes:
+【【7th广播剧熟肉】The Lost Stories 2.5. Animal 动物-哔哩哔哩】 https://b23.tv/BV1p1Z9BeEN8
+
+2001年的玛格瑞夫大学，Raine Creevy正享受着她的首次未来之旅。
+而对博士来说，这里有重重谜团正待解开：囚禁在科学实验室里的外星生物究竟是什么？学生Scobie及其追随者的真实目的又是什么？
+面对四面楚歌的境地，博士与老朋友Bambera准将及UNIT联手，为整个世界的未来而战。
+------------
+203-206剧情是连贯的可以一起食用！
+203 BV1kS8GzaE96
+204 BV1NxYCzcE7A
+
+**** READY [#D] LS2.6 Earth Aid :Raine:plot_yes:bilibili:
+
+【【7th广播剧熟肉】The Lost Stories 2.6. Earth Aid 地球援助-哔哩哔哩】 https://b23.tv/BV1WYfHBjEs5
+
+欢迎登上太空飞船温哥华号。它的使命：护送一批从地球运往安宁乡的巨量粮食。
+
+船长名叫Ace，她似乎有些缺乏自信。实际上，有人甚至会以为她是新手…
+
+医务官的名字很简单，就叫“博士”，而他本人似乎也并非表面所见的那么简单。
+
+当神秘飞船盯上温哥华号，Ace和博士被逼到了极限。与此同时，粮舱里藏着某种令人不安的东西——而且它可不太高兴…
+
 *** 7DA :7DA:
 **** V. Return of the Daleks :Susan_Mendes:Kalendorf:P2006:
 **** 📂2022A Silver and Ice :P2022_06:

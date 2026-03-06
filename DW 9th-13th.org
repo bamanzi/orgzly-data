@@ -206,7 +206,7 @@ https://www.bigfinish.com/releases/v/doctor-who-the-ninth-doctor-adventures-the-
 
 南伦敦，2036年。博士和Rose与一位都市探险家联合，调查传说中的"手指先生"，一名出没于这座城市废弃角落的隐形杀手。如果你感觉到有一只手搭在你的肩上，千万不要回头...
 
-***** READY 4.3 Dare You
+***** READY 4.3 Dare You :P2025_12:
 
 【【神秘博士广播剧熟肉】The Ninth Doctor Adventures 403 Dare You 赌你不敢-哔哩哔哩】 https://b23.tv/BV1nprBBjEZ7
 
@@ -215,6 +215,16 @@ https://www.bigfinish.com/releases/v/doctor-who-the-ninth-doctor-adventures-dare
 有人，或者说有什么，跟Powell小区里的人们赌上了一场真心话大冒险。但和时间领主玩游戏是一件非常危险的事。
 
 棍棒和石头只能打断你的骨头，但言语却能真正伤害你。
+
+***** READY 4.4 Cloud Eight :P2026_02:bilibili:
+
+【【神秘博士广播剧熟肉】The Ninth Doctor Adventures 404 Cloud Eight 云上八号-哔哩哔哩】 https://b23.tv/BV167ZtBoE8v
+
+https://www.bigfinish.com/releases/v/doctor-who-the-ninth-doctor-adventures-cloud-eight-3245
+
+博士和Rose来到了47世纪，也是地球的"第二个黑暗时代"，但当他们抵达浮空城市高高威科姆时，却发现这里更像是天堂。居民们终日享受无尽的休闲时光，夜晚沉入无梦的甜美睡眠。
+
+但在完美无瑕的表面之下，裂纹逐渐显现，而少女Elsa的脑海深处，似乎有什么古老又饥饿的东西正在酝酿，那听起来像是噩梦之物。
 
 *** 9DC :P2017:
 **** [#D] 1.1 The Bleeding Heart
@@ -235,10 +245,15 @@ SCHEDULED: <2022-11-29 Tue>
 :END:
 
 *** ST (audiobooks) :🗣:
-**** FIXME [#C] DotD#9. Night of the Whisper :plot_yes:1CD:DW2023_11_maybe:
+**** READY [#C] DotD#9. Night of the Whisper :plot_yes:1CD:bilibili:
 :PROPERTIES:
 :thetimescales: 7.6
 :END:
+
+【【神秘博士广播剧熟肉】Destiny of the Doctor 09 Night of the Whisper -Whisper之夜-哔哩哔哩】 https://b23.tv/BV122f3BoEMM
+
+新拉斯维加斯，23世纪，一座建立在遥远的卫星，盖在人工大气圈之中。整个星球爱寻欢作乐的人都跑到了这里的赌场，但是罪恶也在这里滋生。
+Rose Tyler在满月酒吧伪装成服务员，Jack Hackness则在《每日星系》担任记者，同时博士在帮助警察局调查Whisper，一个奇怪的警员，在城市当中发动袭击。但是博士也有自己的任务——不惜任何代价保住警务处处长McNeil的命。
 
 **** HALF [#B] ST9.7 Battle Scars :D2021_08_dr:
 :PROPERTIES:
@@ -257,6 +272,7 @@ SCHEDULED: <2025-11-08 Sat>
 :END:
 
 **** [#B] ST12.4 Identity Check :P2023_02:Rose:
+**** ST14.6 Is Anybody There? :P2026_02:
 *** fan-made :fan_made:
 **** Ninth Doctor Audio Adventure (Pete Walsh)
 
@@ -525,12 +541,13 @@ CLOSED: [2021-08-01 Sun 15:54]
 :rating:   7.7
 :END:
 
-【[BF广播剧熟肉]Technophobia科技恐惧症-哔哩哔哩】https://b23.tv/nq0u5s
+【[BF广播剧熟肉]Technophobia科技恐惧症-哔哩哔哩】https://b23.tv/BV1HJ411x7Ra
 
-***** READY [#D] 10DA 1.2 - Time Reaver :bilibili:dw2025_q4b_doctor:
+***** HALF [#D] 10DA 1.2 - Time Reaver :bilibili:dw2025_q4b_doctor:
 SCHEDULED: <2026-01-10 Sat>
 :PROPERTIES:
-:rating:   7.1
+:thetimescales: 7.1
+:tardiis.guide: 3.49
 :END:
 
 【[BF广播剧熟肉]Time Reaver时间掠夺-哔哩哔哩】https://b23.tv/BV1Px41147F1
@@ -541,7 +558,7 @@ CLOSED: <2021-05-29 Sat 23:26>
 :rating:   8.5
 :END:
 
-【[BF广播剧熟肉]Death And The Queen死亡与女王-哔哩哔哩】https://b23.tv/qfRlhV
+【[BF广播剧熟肉]Death And The Queen死亡与女王-哔哩哔哩】https://b23.tv/BV1vW411b7a7
 
 **** 10DA vol.2 :P2017:Rose:
 ***** HALF [#C] 10DA 2.1 - Infamy of the Zaross :D2021_08_dr:plot_no:Jackie:bilibili:
@@ -549,13 +566,17 @@ CLOSED: <2021-05-29 Sat 23:26>
 :rating:   7.5
 :END:
 
-【【神秘博士广播剧 | 自制动画 | 中文字幕】Infamy of the Zaross(上) | 十任博士和Rose的冒险-哔哩哔哩】 https://b23.tv/HnN1VZh
+【【神秘博士广播剧 | 自制动画 | 中文字幕】Infamy of the Zaross(上) | 十任博士和Rose的冒险-哔哩哔哩】 https://b23.tv/BV1AY41137Me
 
-***** HALF [#D] 10DA 2.2 - The Sword of the Chevalier :DW2022_12_doctor:
+***** HALF [#D] 10DA 2.2 - The Sword of the Chevalier :DW2022_12_doctor:bilibili:
 SCHEDULED: <2022-12-28 Wed 08:53>
 :PROPERTIES:
 :rating:   7.1
 :END:
+
+【【神秘博士广播剧熟肉】10DA the Sword of the Chevalier - 骑士之剑-哔哩哔哩】 https://b23.tv/BV1dgf2BMELD
+
+1791年，博士和Rose见到了历史上最神秘，最重要的人：德翁爵士，见到他令人兴奋。她之前以间谍为人熟知，但是然后她以其他事情被人们了解。如果有一件事情博士知道这是个人认识所构成。为自己选择一种生活，使自己自豪。提醒一下，如果Obsidian Asp逃走了，就是生命的终结
 
 ***** CANCEL [#E] 10DA 2.3 - Cold Vengeance :ice_warriors:
 CLOSED: [2021-06-18 Fri 10:22]
@@ -570,7 +591,7 @@ SCHEDULED: <2022-01-16 Sun>
 :rating:   8.3
 :END:
 
-【【神秘博士广播剧熟肉】The 10th Doctor Adventures 301 No Place-哔哩哔哩】 https://b23.tv/ID4AEtu
+【【神秘博士广播剧熟肉】The 10th Doctor Adventures 301 No Place-哔哩哔哩】 https://b23.tv/BV1GT4y1e7MR
 
 ***** DONE [#C] 10DA 3.2 - One Mile Down :Judoon:bilibili:DW2022_08_doctor:
 CLOSED: [2022-08-11 Thu 21:18] SCHEDULED: <2022-08-10 Wed>
@@ -578,7 +599,7 @@ CLOSED: [2022-08-11 Thu 21:18] SCHEDULED: <2022-08-10 Wed>
 :rating:   7.6
 :END:
 
-【【神秘博士广播剧熟肉】The 10th Doctor Adventures 302 One Mile Down-哔哩哔哩】 https://b23.tv/4UM8Y1U
+【【神秘博士广播剧熟肉】The 10th Doctor Adventures 302 One Mile Down-哔哩哔哩】 https://b23.tv/BV1DS4y1h7Fu
 
 ***** HALF [#D] 10DA 3.3 - The Creeping Death :bilibili:DW2023_08_doctor:
 SCHEDULED: <2023-08-26 Sat>
@@ -586,7 +607,7 @@ SCHEDULED: <2023-08-26 Sat>
 :rating:   7.2
 :END:
 
-【【神秘博士广播剧熟肉】The 10th Doctor Adventures 303 The Creeping Death-哔哩哔哩】 https://b23.tv/ZYY4jz7
+【【神秘博士广播剧熟肉】The 10th Doctor Adventures 303 The Creeping Death 雾中死神 - 哔哩哔哩】 https://b23.tv/BV1hF411u7AA
 
 **** 10D and RS :P2020:
 
@@ -595,7 +616,8 @@ SCHEDULED: <2023-08-26 Sat>
 ***** 2DONE [#B] 10D&RS 1.1 Expiry Dating :D2021_06:bilibili:
 CLOSED: <2021-07-09 Fri 23:11>
 
-【【David Tennant】Big Finish广播剧The Tenth Doctor and River Song - Expiry Dating双语字幕-哔哩哔哩】 https://b23.tv/pEl4yPK
+【【David Tennant】Big Finish广播剧The Tenth Doctor and River Song - Expiry Dating双语字幕-哔哩哔哩】 https://b23.tv/BV1t84y1c7pP
+
 
 ***** CANCEL [#E] 10D&RS 2. Precious Annihilation :bilibili:
 CLOSED: [2021-06-18 Fri 10:25]
@@ -603,7 +625,7 @@ CLOSED: [2021-06-18 Fri 10:25]
 :rating:   6.5
 :END:
 
-【【David Tennant】BigFinish广播剧The Tenth Doctor and River Song-Precious Annihilation-哔哩哔哩】 https://b23.tv/ACUaNVw
+【【David Tennant】BigFinish广播剧The Tenth Doctor and River Song-Precious Annihilation-哔哩哔哩】 https://b23.tv/BV1WU4y1t7Ck
 
 ***** 3QTR [#B] 10D&RS 3. Ghosts :bilibili:DW2022_10_doctor:
 CLOSED: [2022-10-19 Wed 19:24] SCHEDULED: <2022-10-16 Sun>
@@ -611,7 +633,7 @@ CLOSED: [2022-10-19 Wed 19:24] SCHEDULED: <2022-10-16 Sun>
 :rating:   8.3
 :END:
 
-【【David Tennant】Big Finish广播剧熟肉the Tenth Doctor and River Song - Ghosts-哔哩哔哩】https://b23.tv/84jHoJ
+【【David Tennant】Big Finish广播剧熟肉the Tenth Doctor and River Song - Ghosts-哔哩哔哩】https://b23.tv/BV1fo4y127z8
 
 **** Out of Time
 ***** HALF [#C] Out of Time 1 :P2020:bilibili:4th_Dr:scripted:
@@ -619,11 +641,25 @@ CLOSED: [2022-10-19 Wed 19:24] SCHEDULED: <2022-10-16 Sun>
 :rating:   7.8
 :END:
 
+【【David Tennant】Big Finish广播剧熟肉 Out of Time-哔哩哔哩】 https://b23.tv/BV1jV411E7Yu
+
+【【Big Finish】【神秘博士】小十与四爷的联合冒险 Out of Time 超越时空广播剧+饭制动画字幕版-哔哩哔哩】 https://b23.tv/BV1ge4y1i7QA
+
 ***** HALF [#C] Out of Time 2 - The Gates of Hell :P2021:Cybermen:5th_Dr:scripted:D2022_04_doctor:
 SCHEDULED: <2022-04-29 Fri>
 :PROPERTIES:
 :rating:   7.5
 :END:
+
+【【神秘博士广播剧熟肉】Out of Time 2 The Gates of Hell 地狱之门-哔哩哔哩】 https://b23.tv/BV1QY411N7Pz
+
+https://www.bigfinish.com/releases/v/doctor-who-out-of-time-2-the-gates-of-hell-2296
+
+巴黎，1809年，第五任博士在参观地下墓穴时遇见了时间特工Tina...
+
+巴黎，1944年，第十任博士错误的降落在被占领的法国，他前往地下墓穴躲避纳粹...
+
+两人的相遇造成了一场时空大灾难，赛博人占据了整个地球。博士们必须回到过去，找到赛博入侵的源头，并且关闭地狱之门...
 
 ***** HALF [#B] Out of Time #3 Wink :6th_Dr:Weeping_Angels:P2022_06:bilibili:DW2024_Q3c_doctor:
 SCHEDULED: <2024-10-12 Sat>
@@ -631,7 +667,17 @@ SCHEDULED: <2024-10-12 Sat>
 :rating:   8.0
 :END:
 
-【【神秘博士广播剧熟肉】Out of Time 3 Wink 眨眼-哔哩哔哩】 https://b23.tv/Zgi9tmr
+【【神秘博士广播剧熟肉】Out of Time 3 Wink 眨眼-哔哩哔哩】 https://b23.tv/BV1d34y157Sa
+
+https://www.bigfinish.com/releases/v/doctor-who-out-of-time-3-wink-2297
+
+小十 六胖战天使 不管你眨几只眼 你得先看得见...  
+
+当第六任博士到Lucidus Silvara参观时，他突然发现自己到了一个什么都看不见的地方，到处都是光。
+
+十任博士被时空异常吸引于此，两位博士遇到了一群没有视觉的生物，生活在一个被哭泣天使包围的城市里。
+
+为了拯救一个文明，他们必须看着天使，不要眨眼，甚至一只眼都不要眨...
 
 **** 📂Tenth Doctor Classic Companions :P2022_09:
 ***** 2DONE [#C] 1. Splinters :Leela:bilibili:DW2023_12_doctor:
@@ -1469,6 +1515,7 @@ https://www.iiiff.com/article/404723
 但当博士观看一部关于时间大战的戏剧时，他感到震惊。这不仅是因为这部剧讲述了他个人的历史，还因为这场表演可能会揭示一个影响整个宇宙的秘密……
 
 **** ST13.1 Dark Watchers of California :Bill:P2025_04:
+**** ST14.4 Bring Me the Head of Dorium Maldovar :Dorium:P2026_02:
 *** BBC
 **** NSA#22 The Gods of Winter :Clara:
 
@@ -1724,8 +1771,22 @@ https://www.bigfinish.com/releases/v/doctor-who-the-thirteenth-doctor-adventures
 
 英格兰，1183年，亨利二世的宫廷。博士和Yaz闯入了一场不太正常的皇家圣诞家庭宴会，与Henry分居两地的妻子Eleanor回来和家人共度圣诞。博士和Yaz发现他们中间有一个冒牌货，但这个人究竟是谁？他又有什么阴谋？
 
-**** 4. Ride or Die :P2026_01:
-*** ST14.X The Wednesday That Wasn't :P2025_12:
+**** READY 4. Ride or Die :P2026_01:
+
+【【神秘博士广播剧熟肉】The Thirteenth Doctor Adventures 104 Ride or Die 生死与共-哔哩哔哩】 https://b23.tv/BV158F7zdEbq
+
+https://www.bigfinish.com/releases/v/doctor-who-the-thirteenth-doctor-adventures-ride-or-die-3129
+
+博士和Yaz收到了一组时空坐标，在每个时空都会有人离奇失踪—为什么会这样？线索将她们引向一个战火纷飞的世界，被征入伍的人类正在与恐怖的报丧女妖相互厮杀。
+
+博士能否在失去她最好的朋友前，阻止这一切？
+
+*** ST14.X The Wednesday That Wasn't :P2025_12:scripted:bilibili:
+
+【【神秘博士广播剧熟肉】短期旅行：不存在的星期三-哔哩哔哩】 https://b23.tv/BV1WjffBXEfR
+
+
+
 *** fan-made :fan_made:
 **** Running Home :P2025_04:
 

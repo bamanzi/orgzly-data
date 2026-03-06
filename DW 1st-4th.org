@@ -164,7 +164,7 @@ SCHEDULED: <2022-03-12 Sat>
 
 plot: https://breezewiki.com/tardis/wiki/For_the_Glory_of_Urth_(audio_story)#Plot
 
-***** [#A] 5.2 The Hollow Crown :Shakespeare:plot_yes:P2021:
+***** [#A] 5.2 The Hollow Crown :Shakespeare:P2021:plot_yes:historical:
 :PROPERTIES:
 :rating:   9.0?
 :END:
@@ -180,6 +180,9 @@ plot: https://breezewiki.com/tardis/wiki/The_Hollow_Crown_(audio_story)#Plot
 ***** HALF [#C] LS2.1b The Fragile Yellow Arc of Fragrance :½CD:plot_yes:
 SCHEDULED: <2023-09-30 Sat>
 
+**** The First Doctor Unbound
+***** 1. Knights of the Round TARDIS :P2025_09:
+***** 2. Return to Marinus :P2026_01:
 **** CC
 ***** HALF [#B] CC3.7 - The Transit of Venus :plot_yes_dwg:DW2022_09_doctor:
 SCHEDULED: <2022-09-26 Mon>
@@ -306,7 +309,7 @@ CLOSED: [2022-07-31 Sun 08:14] SCHEDULED: <2022-07-16 Sat>
 **** HALF [#B] EA3.4 - The Sontarans (8.0) :D2021_09_dr:Sara_Kingdom:Steven:plot_yes:
 SCHEDULED: <2021-09-22 Wed>
 
-**** Sara Kingdom trilogy :Sara_Kingdom:
+**** old Sara Kingdom trilogy :Sara_Kingdom:
 ***** HALF [#A] CC3.5 - Home Truths :plot_yes_dwg:DW2023_01_doctor:
 SCHEDULED: <2023-01-14 Sat 08:16>
 :PROPERTIES:
@@ -315,10 +318,11 @@ SCHEDULED: <2023-01-14 Sat 08:16>
 
 http://www.drwhoguide.com/chronicles13.htm
 
-***** FIXME [#B] CC4.1 - The Drowned World :plot_yes:dw2026_q1a_doctor:
-SCHEDULED: <2026-02-14 Sat>
+***** [#C] CC4.1 - The Drowned World :plot_yes:dw2026_q1a_doctor:
+SCHEDULED: <2026-02-21 Sat>
 :PROPERTIES:
-:rating:   8.1
+:thetimescales: 8.1
+:tardis.guide: 3.73
 :END:
 
 ***** HALF [#A] CC5.1 - The Guardian of the Solar System :plot_yes:D2021_11:
@@ -327,7 +331,7 @@ SCHEDULED: <2021-11-06 Sat>
 :rating:   8.5
 :END:
 
-***** [#C] CC6.7 - The Anachronauts :Steven:
+**** [#C] CC6.7 - The Anachronauts :Steven:P2012:
 :PROPERTIES:
 :rating:   7.9
 :END:
@@ -707,8 +711,8 @@ SCHEDULED: <2023-02-07 Tue 21:50>
 :rating:   7.7
 :END:
 
-*** with Jamie & Victoria :2CD:
-**** HALF [#B] EA2.3 The Black Hole (8.1) :Jamie:Victoria:P2015:D2021_06:Monk:
+*** with Jamie & Victoria
+**** HALF [#B] EA2.3 The Black Hole (8.1) :Jamie:Victoria:P2015:2CD:D2021_06:Monk:
 
 【神秘博士广播剧：The Black Hole-哔哩哔哩】 https://b23.tv/BV1Z4ixB4EWy
 
@@ -747,10 +751,16 @@ CLOSED: <2026-01-18 Sun 21:19> SCHEDULED: <2025-11-29 Sat>
 There is a creature loose on the war-torn planet of Tersimmon. It has just destroyed an entire race, and following its arrival, others are dying too. Only one person will defend this killer, this murderer, this destroyer: because Jamie McCrimmon knows the Doctor isn't himself...
 
 **** [#C] CC14.2 The Phantom Piper :Jamie:
-**** [#B] ST8.X - The Last Day At Work :Jamie:
+**** [#B] ST8.X - The Last Day At Work :Jamie:bilibili:
 :PROPERTIES:
 :rating:   8.1
 :END:
+
+【【神秘博士广播剧熟肉】短途旅行 工作的最后一天-哔哩哔哩】 https://b23.tv/BV1W7zZBeEMG
+
+警员伯纳德·惠特姆即将迎来一个特别的夜晚。他终于结束了毕生的警务生涯，光荣退休，与亲朋好友和心爱的女人一起庆祝。一切都完美无瑕。除了他脑海中挥之不去的噪音，还有那伴随他一生的喘息、呻吟声（the wheezing, groaning noise ）。还有那些不速之客。
+
+这将是一个令人难忘的夜晚……
 
 **** [#C] ST10.2 - Deleted Scenes :Jamie:
 :PROPERTIES:
@@ -964,6 +974,8 @@ https://m.vk.com/wall-205306392_49
 **** Servants of Eve :Jamie:Zoe:
 
 by On Fleak Productions
+
+45 min
 
 https://onfleakproductions.bandcamp.com/album/doctor-who-servants-of-eve
 
@@ -1267,7 +1279,12 @@ DWM411
 :rating:   9.3
 :END:
 
-***** [#A] ST9.6 The Same Face (8.6, top #4 in ST) :Jo:Master_nemesis:P2019:
+***** [#C] ST9.6 The Same Face :Jo:Master_nemesis:P2019:
+:PROPERTIES:
+:tardis.guide: 3.48
+:thetimescales: 7.8
+:END:
+
 ***** [#B] ST6.8 Damascus (8.3, top #7 in ST) :Jo:UNIT:
 
 As the decade in English history which attracts the greatest quantity of alien invasions per annum, the 1970s are not the easiest time in which to steer the great British ship of state. The Prime Minister, nonetheless, is doing the very best job he can. Still, at least he has UNIT to rely on — their eccentric, bouffant-haired scientific adviser in particular. Or does he?
@@ -1388,6 +1405,7 @@ SCHEDULED: <2023-09-21 Thu>
 :END:
 
 ***** 2025B. Operation: Vengeance :P2025_10:Brigadier:3CD:
+***** 2026A. The Imposters :P2026_02:Sarah:Liz:Brigadier:3CD:
 **** START [#D] CDNM3.1 The House that Hoxx Built :P2022:plot_yes:
 **** 3QTR [#B] SvsR#2 The Children of the Future :P2024_02:dw2025_q2a_doctor:
 CLOSED: [2025-04-29 Tue 19:04] SCHEDULED: <2025-05-03 Sat>
@@ -1428,12 +1446,17 @@ CLOSED: [2023-04-11 Tue 18:48] SCHEDULED: <2023-03-18 Sat>
 
 【【神秘博士】短途旅行：以陆为牢 | Short Trips: Landbound-哔哩哔哩】 https://b23.tv/hbxNYVJ
 
-***** HALF [#A] ST11.3 The Threshold :Master_nemesis:P2022_02:DW2022_07_doctor:
+***** HALF [#B] ST11.3 The Threshold :Master_nemesis:P2022_02:DW2022_07_doctor:
 SCHEDULED: <2022-07-16 Sat>
+:PROPERTIES:
+:tardis.guide: 3.76
+:thetimescales: 8.2
+:END:
 
 ***** 3QTR [#B] ST12.2 AWOL :Brigadier:DW2024_Q2a_doctor:
 CLOSED: <2024-03-15 Fri 08:16> SCHEDULED: <2024-03-09 Sat>
 
+***** ST14.5 The Tip of the Mind :Zoe:P2026_02:
 *** BBC :BBC:📄:
 **** [#C] Horrors of War :Jo:Annie:WW1:P2018:1CD:
 **** new short stories
@@ -1869,6 +1892,15 @@ SCHEDULED: <2026-01-03 Sat>
 
 【【神秘博士广播剧熟肉】The Fourth Doctor's Adventure Legacy of Death-逝者的遗产-哔哩哔哩】 https://b23.tv/BV1ThMbzPERn
 
+***** READY 5.5 Gallery of Ghouls :bilibili:
+
+【【神秘博士广播剧熟肉】4DA 505 Gallery of Ghouls 遇难者画廊-哔哩哔哩】 https://b23.tv/BV1v9cLzxEp5
+
+当塔迪斯降落于布莱顿，博士和Romana有机会可以在海边度假。但是要去看布莱顿行宫的开幕式时间还是太长了一点，他们决定去看点别的打发时间，也许是Tissot夫人最近在镇里新开的蜡像展。
+但是他们并非是唯一对此感兴趣的人。当一名不寻常的小偷犯下了不寻常的罪名，时间旅行者们也在现场。
+
+Goole的美术馆中到底有何秘密？Tissot夫人真要走向崩溃，要对玛丽·安托瓦内特的头做什么
+
 ***** 2DONE [#A] 5.6 The Trouble with Drax (8.7) :Drax:D2021_06:
 CLOSED: <2021-07-01 Thu 16:39>
 
@@ -2301,11 +2333,30 @@ https://b23.tv/BV1CA411Q7Yk
 **** [#A] 4.2 The Queen of Clocks :6th_Dr:Clockwork_Droids:Mel:
 **** [#B] 4.3 The Silent City :Silents:8th_Dr:
 **** [#B] 4.4 The Silent Priest :Silents:7th_Dr:
-*** CDNM vol.5 Faithful Friends :P2025_01:
-**** 5.1 The Krillitane Feint :2nd_Dr:Jamie:Zoe:
-**** 5.2 The Dying Breed :4th_Dr:Leela:K9:
-**** 5.3 The Krillitane Relic :7th_Dr:Zoe:
-**** READY [#E] 5.4 Five Hundred Ways to Leave Your Lover :8th_Dr:bilibili:
+*** 📂CDNM vol.5 Faithful Friends :P2025_01:
+**** [#C] 5.1 The Krillitane Feint :2nd_Dr:Jamie:Zoe:
+:PROPERTIES:
+:tardis.guide: 4.20
+:thetimesclaes: 7.4
+:END:
+
+**** [#D] 5.2 The Dying Breed :4th_Dr:Leela:K9:
+:PROPERTIES:
+:tardis.guide: 3.68
+:thetimesclaes: 7.0
+:END:
+
+**** [#C] 5.3 The Krillitane Relic :7th_Dr:Zoe:
+:PROPERTIES:
+:tardis.guide: 3.78
+:thetimesclaes: 7.8
+:END:
+
+**** READY [#D] 5.4 Five Hundred Ways to Leave Your Lover :8th_Dr:bilibili:
+:PROPERTIES:
+:tardis.guide: 4.04
+:thetimesclaes: 6.7
+:END:
 
 【【神秘博士广播剧片段】博士反复被甩和被强吻的一天-哔哩哔哩】 https://b23.tv/SkNZjPX
 
@@ -2316,6 +2367,8 @@ https://b23.tv/BV1CA411Q7Yk
 *** [#D] Relative Time :5th_Dr:Jenny:the_Nine:
 *** [#C] The Avenues of Possibility :6th_Dr:Charley:
 *** [#B] Collision Course :4th_Dr:
+*** The Kraken of Hagwell :1st_Dr:P2026_02:
+*** The Heartless Sea :2nd_Dr:Harry:Naomi:P2026_02:
 ** Time Lord Victorious
 
 https://disk.yandex.ru/d/n_i2CRgIJW0xOw
@@ -2525,12 +2578,13 @@ https://b23.tv/BV1eE6FYwEYz
 *** The War Master ↗ :Master_War:Unbound_Dr:War_Dr:Benny:Captain_John:P2024_09:
 *** Missy :P2025_06:7th_Dr:
 *** Master! :P2025_09:
-** 📂Sea Smoke and Other Stories :P2025_10:
+*** TBR The Meddling Monks :P2026_05:
+** 📂Halloween: Sea Smoke and Other Stories :P2025_10:
 *** 1. Sea Smoke :1st_Dr:Dodo:
 *** 2. Party Favours :UNIT_new:
 *** 3. Bramble King :8th_Dr:Audacity:
 *** 4. Merlin's Trap :12th_Dr:
-** 📂It's a Wonderful War and Other Stories :P2025_12:
+** 📂Christmas: It's a Wonderful War and Other Stories :P2025_12:
 *** 1. Unholy Night :Missy:
 *** 2. Legacy of Blood :6th_Dr:Leela:Ellie:
 *** 3. Presents of Mind :Sarah:Harry:
@@ -2573,6 +2627,7 @@ CLOSED: <2024-09-25 Wed 22:22> SCHEDULED: <2024-09-07 Sat>
 :tardis.guide: 4.10
 :END:
 
+*** ST14.3 Cut-out :4th_Dr:5th_Dr:6th_Dr:7th_Dr:P2026_02:
 ** comics
 *** IDW :IDW:
 **** Prisoners of Time

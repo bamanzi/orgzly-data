@@ -352,10 +352,14 @@ SCHEDULED: <2022-08-31 Wed>
 :END:
 
 **** misc
-***** [#D] Living Legend :P2003:plot_yes:
+***** READY [#D] Living Legend :P2003:plot_yes:bilibili:
 :PROPERTIES:
 :rating:   7.4
 :END:
+
+【【神秘博士广播剧熟肉】Living Legend 当代传奇-哔哩哔哩】 https://b23.tv/BV1oD6bBGEMB
+
+当意大利赢得世界杯时，世界面临迫在眉睫的毁灭!传说中的时间女士Charleyostiantayshius将会从可怕的Threllips帝国手中拯救人类，还是她那愚蠢的助手博士会毁掉一切?
 
 ***** READY [#A] CC4.12 Solitaire :ToyMaker:P2010:plot_yes:bilibili:
 :PROPERTIES:
@@ -1130,13 +1134,10 @@ CLOSED: <2020-11-06 Fri 20:12>
 
 时间领主与Dalek在千年间势不两立。但现在，他们的冲突升级为全面的时间战争，时空宇宙中没有任何地方是安全的。战斗计划将被制定，盟友将被招募，无辜者将被卷入战火。加利弗雷将走向战争，宇宙将再也不同以往。
 
-
 *** DONE [#B] GTW1.2 Soldier Obscura (Gallifrey: Time War #1.2) :🎧:bilibili:
 CLOSED: <2020-11-07 Sat 10:33>
 
 【[神秘博士广播剧]Gallifrey: Time War 102 Soldier Obscura-哔哩哔哩】 https://b23.tv/BV1wM1RBiEgK
-
-
 
 *** PROSE: Natural Regression (The Scientific Secrets of Doctor Who #9)
 *** Father of the Daleks (short story)
@@ -1176,13 +1177,15 @@ https://b23.tv/BV1X44y1s7T8
 1 out of 25 (4.0%) raters say this story requires a previous story.
 
 *** /📂The War Master series 8: Escape from Reality/ :P2022_12:Master_war:🎧:2buy:
-**** DONE [#A] _8.1 The Wrath of Medusa_ :bilibili:DW2023_07_spinoffs:
+**** DONE [#A] 8.1 The Wrath of Medusa :bilibili:DW2023_07_spinoffs:
 CLOSED: [2023-07-27 Thu 19:33] SCHEDULED: <2023-07-23 Sun>
 
 【【广播剧汉化】奥林匹斯超市开张啦 The War Master 战争法师 801 The Wrath of Medusa-哔哩哔哩】 
 https://b23.tv/BV1v84y147wr
 
-**** [#D] 8.2 The Shadow Master
+**** [#D] 8.2 The Shadow Master :dw2026_q1b_spinoffs:
+SCHEDULED: <2026-03-15 Sun>
+
 **** 3QTR [#A] 8.3 The Adventure of the Deceased Doctor :Holmes:plot_cast:bilibili:dw2025_q1b_spinoffs:
 CLOSED: <2025-02-26 Wed 09:55> SCHEDULED: <2025-03-02 Sun>
 
@@ -1229,8 +1232,8 @@ SCHEDULED: <2025-10-26 Sun>
 【【广播剧汉化】法师的画饼日常 The War Master 战争法师 903 The Life and Loves of Mr Alexander-哔哩哔哩】
 https://b23.tv/BV1Nu411u79c
 
-**** READY [#C] 9.4 - The Kicker :bilibili:dw2025_q4b_spinoffs:
-SCHEDULED: <2026-01-11 Sun>
+**** 2DONE [#C] 9.4 - The Kicker :bilibili:dw2025_q4b_spinoffs:
+CLOSED: [2026-01-07 Wed 08:35] SCHEDULED: <2026-01-11 Sun>
 :PROPERTIES:
 :rating:   7.8
 :END:
@@ -1290,8 +1293,6 @@ The N-Forms receive an activation call, setting this after /Desperate Measures/
 CLOSED: [2020-11-09 Mon 18:14]
 
 【[神秘博士广播剧]Gallifrey: Time War 104  Desperate Measures-哔哩哔哩】 https://b23.tv/BV13MSqBjEyM
-
-
 
 *** 2DONE [#C] WM1.2 The Good Master :Master_war:Cole:D2021_08_extra:🎧:
 :PROPERTIES:
@@ -1397,8 +1398,18 @@ CLOSED: [2020-11-12 Thu 07:48]
 
 【[神秘博士广播剧]Gallifrey: Time War 204 Assassins-哔哩哔哩】 https://b23.tv/BV1EV6dBpEC3
 
-*** DONE GTW3.1 Hostiles
+*** DONE GTW3.1 Hostiles :bilibili:
 CLOSED: [2020-12-17 Thu 19:53]
+
+【[神秘博士广播剧]Gallifrey: Time War 301 Hostiles-哔哩哔哩】 https://b23.tv/BV1H46FBKEvs
+
+https://www.bigfinish.com/releases/v/gallifrey-time-war-3-1795
+
+Romana and Narvin are exiles, driven from Gallifrey by Rassilon’s regime and cut adrift amid the horrors of the Time War. Their one remaining hope is that they can find their friend: Leela was also lost in the maelstrom of battle, but she is fighting to survive...
+
+3.1 Hostiles by David Llewellyn
+
+Exiled from Gallifrey, Romana and Narvin are fleeing from their own people and the Time War. Seeking refuge on a derelict wreck they find they are not alone. And that Time Lords have enemies everywhere...
 
 ** 4. The Doctor avoids the conflict
 *** 📂8D Time War vol.1 :Bliss:P2017:scripted:🎧:
@@ -1614,8 +1625,15 @@ https://b23.tv/BV1eN4y1C7Kn
 **** 7.3 See-Saw
 **** 7.4 The First Forest
 ** 9. Fall of Romana
-*** DONE GTW3.2 Nevernor
+*** DONE GTW3.2 Nevernor :bilibili:
 CLOSED: [2020-12-17 Thu 19:53]
+
+【[神秘博士广播剧]Gallifrey: Time War 302 Nevernor-哔哩哔哩】 https://b23.tv/BV1NEcjzuEEj
+
+https://www.bigfinish.com/releases/v/gallifrey-time-war-3-1795
+
+3.2 Nevernor by Lou Morgan
+Narvin and Romana reach the distant, rural world of Njagilheim. But even here the Time War follows – and there are more things to fear in the Vortex than warships and weapons. The Orrovix have caught a scent and they are hunting...
 
 *** DONE GTW3.3 Mother Tongue
 CLOSED: [2020-12-17 Thu 19:53]
@@ -1635,15 +1653,19 @@ SCHEDULED: <2025-10-12 Sun>
 :rating:   8.0
 :END:
 
-**** [#A] 4.3 Beyond :Romana_2:Braxiatel:
+**** READY [#A] 4.3 Beyond :Romana_2:Braxiatel:bilibili:
 :PROPERTIES:
 :rating:   8.7
 :END:
 
-**** [#A] 4.4 Homecoming :Romana_2:Narvin:Leela:
+【[神秘博士广播剧]Gallifrey: Time War 403 Beyond-哔哩哔哩】 https://b23.tv/BV12gfwB8EZ8
+
+**** READY [#A] 4.4 Homecoming :Romana_2:Narvin:Leela:bilibili:
 :PROPERTIES:
 :rating:   8.7
 :END:
+
+【[神秘博士广播剧]Gallifrey: Time War 404 Homecoming-哔哩哔哩】 https://b23.tv/BV1gbfqBNEAN
 
 ** 10. Universe on the brink
 *** _📂Gallifrey: War Room vol.1 Allegiance_ :🎧:P2022_08:
