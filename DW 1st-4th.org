@@ -928,6 +928,9 @@ https://tardis.wiki/wiki/The_Second_Doctor:_Volume_Three
 :END:
 
 *** TV Soundtracks
+**** LTV3.4 The Highlanders :Polly:Ben:Jamie:dw2026_q1b_doctor:
+SCHEDULED: <2026-04-04 Sat>
+
 **** 3QTR LTV4.4 The Abominable Snowmen :Jamie:Victoria:DW2023_04_doctor:
 CLOSED: [2023-04-28 Fri 16:11] SCHEDULED: <2023-04-08 Sat>
 
@@ -1329,8 +1332,8 @@ SCHEDULED: <2024-02-17 Sat>
 :rating:   7.6
 :END:
 
-***** [#D] 2025A. Doctor Who and the Brain Drain :P2025_02:3CD:plot_yes:dw2026_q1a_doctor:
-SCHEDULED: <2026-02-21 Sat>
+***** 3QTR [#D] 2025A. Doctor Who and the Brain Drain :P2025_02:3CD:plot_yes:dw2026_q1a_doctor:
+CLOSED: [2026-02-27 Fri 00:13] SCHEDULED: <2026-02-28 Sat>
 :PROPERTIES:
 :tardis.guide: 3.31
 :thetimescales: 7.7
@@ -2002,7 +2005,8 @@ SCHEDULED: <2022-04-23 Sat>
 
 ***** [#D] 8.4 The False Guardian / 8.5 Time's Assassin
 ***** [#D] 8.6 - Fever Island (7.2)
-***** [#B] 8.7/8.8 - The Perfect Prisoners :2CD:
+***** HALF [#B] 8.7/8.8 - The Perfect Prisoners :2CD:dw2026_q1b_doctor:
+SCHEDULED: <2026-03-14 Sat>
 :PROPERTIES:
 :rating:   8.2
 :END:

@@ -598,7 +598,8 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
       :tardis.guide: 3.96
       :END:
 
-***** [#B] 86. End Game :Tosh:P2024_08:
+***** [#B] 86. End Game :Tosh:P2024_08:dw2026_q1b_spinoffs:
+      SCHEDULED: <2026-03-22 Sun>
       :PROPERTIES:
       :thetimescales: 8.7
       :tardis.guide: 4.15
@@ -1308,7 +1309,9 @@ Roberts Master
 ***** [#E] 10.3 Black Friday :Autons:
 ***** [#E] 10.4 Firewall
 **** 📂DoRS 11 - Friend of the Family :P2023_01:
-***** [#A] part1. The Rules of the House
+***** HALF [#A] part1. The Rules of the House :dw2026_q1b_spinoffs:
+      SCHEDULED: <2026-03-08 Sun>
+
 ***** [#A] part2. The Key to the Door
 ***** [#A] part3. The Bird from the Nest
 ***** [#A] part4. The Isle on the Shore
@@ -1492,7 +1495,8 @@ Roberts Master
     :rating:   7.7
     :END:
 
-*** [#B] 10.3 - The Mourning After
+*** [#B] 10.3 - The Mourning After :dw2026_q1b_spinoffs:
+    SCHEDULED: <2026-04-12 Sun>
     :PROPERTIES:
     :rating:   8.2
     :END:
@@ -2860,10 +2864,12 @@ rating 8.7/8.3
     CLOSED: [2025-08-24 Sun 11:20] SCHEDULED: <2025-08-23 Sat>
 
 ** 📂Nemesis 2: Agents of the Vulpreen :P2022_03:
-*** [#B] 2.1 The Man From Gallifrey :The_Eleven:dw2026_q1a_spinoffs:
-    SCHEDULED: <2026-03-01 Sun>
+*** HALF [#B] 2.1 The Man From Gallifrey :The_Eleven:dw2026_q1a_spinoffs:
+    SCHEDULED: <2026-02-22 Sun>
 
-*** [#C] 2.2 Power of the Dominators
+*** [#C] 2.2 Power of the Dominators :dw2026_q1b_spinoffs:
+    SCHEDULED: <2026-03-29 Sun>
+
 *** [#C] 2.3 The War Factory
 *** [#C] 2.4 Ten Minutes in Hell
 ** 📂Nemesis 3: Objective: Earth :P2022_11:
@@ -3152,7 +3158,8 @@ http://www.drwhoguide.com/kaldor03.htm
     :rating:   7.8
     :END:
 
-*** [#A] 3.4 - Unto the Breach :dw2026_q2a_spinoffs:
+*** HALF [#A] 3.4 - Unto the Breach :dw2026_q1b_spinoffs:
+    SCHEDULED: <2026-03-15 Sun>
     :PROPERTIES:
     :rating:   8.9
     :END:
@@ -3210,7 +3217,10 @@ http://www.drwhoguide.com/kaldor03.htm
 
 http://web.archive.org/web/20060212015459/http://www.factionparadox.co.uk/scripts.htm
 
-**** READY 1. The Eleven Day Empire :P2001:bilibili:
+**** READY [#D] 1. The Eleven Day Empire :P2001:bilibili:dw2026_q1a_spinoffs:
+     SCHEDULED: <2026-03-01 Sun>
+
+https://web.archive.org/web/20210126082141/http://www.drwhoguide.com/bbv31.htm
 
 【【神秘博士广播剧熟肉】Faction Paradox 101 The Eleven Day Empire 十一日帝国-哔哩哔哩】https://b23.tv/BV1Yf421B7Kv
 
@@ -3234,8 +3244,7 @@ https://web.archive.org/web/20220524090323/http://drwhoguide.com/paradox_a01.htm
 
 https://web.archive.org/web/20220524090323/http://drwhoguide.com/paradox_a02.htm
 
-**** [#B] 3. Body Politic :P2008:dw2026_q1a_spinoffs:
-     SCHEDULED: <2026-02-15 Sun>
+**** 3. Body Politic :P2008:
 
 https://web.archive.org/web/20220524090323/http://drwhoguide.com/paradox_a03.htm
 

@@ -360,7 +360,7 @@ SCHEDULED: <2024-11-16 Sat>
 
 **** [#D] CC? Freakshow (DWM419)
 *** MR alone :scripted:2CD:
-**** READY [#C] 047. Omega :bilibili:dw2026_q1a_doctor:
+**** HALF [#C] 047. Omega :bilibili:dw2026_q1a_doctor:
 SCHEDULED: <2026-02-14 Sat>
 
 【【神秘博士广播剧熟肉】MR 047 Omega-哔哩哔哩】 https://b23.tv/BV1LB4y1n7kj
@@ -1024,7 +1024,8 @@ CLOSED: [2022-04-22 Fri 08:22] SCHEDULED: <2022-04-30 Sat>
 
 ***** CANCEL [#E] 097a The Wishing Beast
 ***** [#C] 097b. The Vanity Box
-***** [#C] 169. The Wrong Doctors :Mel:
+***** [#C] 169. The Wrong Doctors :Mel:dw2026_q1b_doctor:
+SCHEDULED: <2026-03-21 Sat>
 :PROPERTIES:
 :rating:   7.9
 :END:

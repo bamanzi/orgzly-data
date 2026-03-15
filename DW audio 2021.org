@@ -1932,12 +1932,13 @@ Ashenden (4~6)
 ** dw2025-q4a-spinoffs
 *** 3QTR [#C] TW1 2.2 - Blind Summit :Yvonne:Ianto:
 *** 3QTR [#B] TW58. Cadoc Point :Andy:
+*** HALF [#D] CM4.1 New Horizons :ICMG:
 *** HALF [#D] PGT2.2 Pater Noster
 *** HALF [#D] River7.4 Carnival of Angels :plot_yes:
 *** HALF [#A] WM9.3 The Life and Loves of Mr Alexander Bennett :Master_war:
 ** dw2025-q4b-doctor
-*** HALF [#A] CC14.1 The Death of the Daleks :2nd_Dr:Jamie:
-*** [#D] 4DA5.2 - The Labyrinth of Buda Castle :Romana_2:bilibili:
+*** 3QTR [#B] CC14.1 The Death of the Daleks :2nd_Dr:Jamie:
+*** HALF [#D] 4DA5.2 - The Labyrinth of Buda Castle :Romana_2:bilibili:
 *** HALF [#E] MR100a. 100 BC :6th_Dr:Evelyn:
 *** HALF [#B] MR100b. My Own Private Wolfgang :6th_Dr:Evelyn:plot_no:bilibili:
     :PROPERTIES:
@@ -1961,13 +1962,8 @@ https://b23.tv/BV1LF411j7D5
 *** HALF [#B] Rory2.2 The Glowing Warrior
 * DW 2026
 ** dw2026-q1a-doctor
-*** [#B] CC4.1 - The Drowned World :1st_Dr:Sara:
-*** [#D] 3DA2025A. Doctor Who and the Brain Drain :P2025_02:3CD:plot_yes:
-    :PROPERTIES:
-    :tardis.guide: 3.31
-    :thetimescales: 7.7
-    :END:
-
+*** [#B] CC4.1 The Drowned World :1st_Dr:Sara:
+*** HALF [#D] 3DA2025A. Doctor Who and the Brain Drain :3rd_Dr:Liz:Brigadier:
 *** HALF [#C] MR047. Omega :5th_Dr:Omega:
 *** HALF [#B] 7DA23A.1 Operation Dusk :7th_Dr:Harry:Naomi:
 *** HALF [#B] 9DA3.2.3 Run :9th_Dr:
@@ -1975,38 +1971,31 @@ https://b23.tv/BV1LF411j7D5
 ** dw2026-q1a-spinoffs
 *** HALF [#B] TW7.10 Doomscroll :Orr:Colchester:Tyler:
 *** [#E] TW60. Infidel Places :Queen:
-*** [#B] UNEM2.1 The Man From Gallifrey :The_Eleven:
+*** HALF [#B] UNEM2.1 The Man From Gallifrey :The_Eleven:
 *** HALF [#B] PGT2.3 The Gentleman Theives
-*** HALF [#C] BSBOX2.2 Bad Habits
-    :PROPERTIES:
-    :rating:   7.9
-    :END:
-
+*** HALF [#C] BSBOX2.2 Bad Habits :Benny:
 *** READY [#D] MAS3.2 Axos Rising :Master_bruce:
-*** [#B] FP2.3 Body Politic :P2008:Sutekh:Justine:Eliza:
+*** HALF FP1.1 The Eleven Day Empire
 ** dw2026-q1b-doctor
-*** FIXME TV4.4 The Highlanders :2nd_Dr:Polly:Ben:
-*** [#B] 4DA 8.7/8.8 The Perfect Prisoners :4th_Dr:Ann:
+*** LTV3.4 The Highlanders :2nd_Dr:Polly:Ben:
+*** HALF [#B] 4DA 8.7/8.8 The Perfect Prisoners :4th_Dr:Ann:
 *** [#C] MR169. The Wrong Doctors :6th:Mel:
-    :PROPERTIES:
-    :rating:   7.9
-    :END:
-
 *** [#C] 8DA3.7 The Eight Truths :8th_Dr:Lucie:
-*** FIXME [#E] 10DCC.2 The Stuntman :Nyssa:
+*** 3QTR [#D] 8DA23.1 The Devouring :8th_Dr:Audacity:bilibili:
+*** [#E] 10DCC.2 The Stuntman :Nyssa:
 *** [#C] WD3.2 The Eternity Cage :War_Dr:
 ** dw2026-q1b-spinoffs
-*** FIXME [#B] TW86. End Game :Tosh:P2024_08:
+*** [#B] TW86. End Game :Tosh:P2024_08:
     :PROPERTIES:
     :thetimescales: 8.7
     :tardis.guide: 4.15
     :END:
 
-*** [#A] CM3.4 - Unto the Breach
+*** HALF [#A] CM3.4 Unto the Breach
 *** [#C] UNEM2.2 Power of the Dominators
-*** [#B] J&L10.3 - The Mourning After
-*** [#A] DoRS11.1. The Rules of the House :River:
-*** [#D] Missy3.3 Two Monks, One Mistress
+*** [#B] J&L10.3 The Mourning After
+*** HALF [#A] DoRS11.1. The Rules of the House :River:
+*** HALF [#D] WM8.2 The Shadow Master
 * FIXME pending
 ** special
 *** [#B] Jack 2.1 Piece of Mind :Jack:6th_Dr:
@@ -2052,7 +2041,6 @@ Old Steven 1/3
 ***** Ace: MR05. The Fearmonger :7th_Dr:Ace:
 ***** MR180. The Assassination Games (7th, Ace, Counter-Measure)
 **** Ace + Hex
-***** [#C] MR082 The Settling :7th_Dr:Ace:Hex:
 ***** READY [#A] 74. Live 34 :7th_Dr:Ace:Hex:bilibili:
 **** Benny
 ***** MR013 The Shadow of the Scourge :7th_Dr:Benny:Ace:
@@ -2077,7 +2065,6 @@ Tales of Trenzalore - 01
 ** even
 *** 2nd
 **** [#B] BBC #5 The Elysian Blade :2nd_Dr:Jamie:Victoria:
-**** START [#C] CC12.2 Dumb Waiter :Jamie:Leela:D2021_09_extra:plot_yes:
 *** 4th
 **** Romana II
 ***** [#D] 4DA6.2 - The Eternal Battle :Romana_2:plot_yes:
@@ -2146,12 +2133,11 @@ Tales of Trenzalore - 01
 **** Time War
 ***** READY [#A] 3.4 The War Valeyard :Bliss:
 ***** READY [#B] 5.3 Previously, Next Time :Cass:
-**** READY [#D] 8DA2023.1 The Devouring :Audacity:bilibili:
 *** 10th
 **** READY 10DA 3.3 - The Creeping Death :Donna:10th_Dr:
-**** READY [#D] 10DCC3. Quantum of Axos (Ace) :Ace:
+**** READY [#D] 10DCC3. Quantum of Axos :Ace:
 **** READY [#A] NSA #7: Dead Air
-**** READY [#C] O&F5. The Martian Invasion of Planetoid 50 :bilibili:10th_Dr:P2023_09:
+**** READY [#C] O&F5. The Martian Invasion of Planetoid 50 :bilibili:10th_Dr:Missy:TPG:P2023_09:
 **** READY Empire of the Sun :fan_made:
 *** 12th
 **** 12DC 3.1-3.3
@@ -2176,11 +2162,79 @@ Tales of Trenzalore - 01
 **** [#D] Peladon2. The Poison of Peladon :River:
 *** UNIT
 *** Master
-**** [#D] WM8.2 - The Shadow Master
-**** READY [#D] 3.2 Axos Rising :bilibili:
 **** READY [#D] 3.3 Hellbound :bilibili:
 *** misc
 **** FIXME [#C] CY1.3 - Living History :Churchill:
-**** The Lone Centurion vol.2
-**** The Robots vol.3
-**** Rose Tyler: The Dimension Cannon vol.3
+**** [#B] FP2.3 Body Politic :P2008:Sutekh:Justine:Eliza:
+**** 📂The Lone Centurion vol.2
+**** 📂The Robots vol.4
+**** 📂Rose Tyler: The Dimension Cannon vol.3
+** pending
+*** [#C] CC7.7 The Flames of Cadiz :1st_Dr:Ian:Susan:plot_yes:2CD:
+*** FIXME [#D] CC5.10 - The Sentinels of the New Dawn :3rd_Dr:Liz:
+*** FIXME [#B] DWUN2 Sympathy from the Devil :Unbound_Dr:Master_unbound:bilibili:
+** q2a-doctor
+*** [#A] 1DA5.2 The Hollow Crown :1st_Dr:Susan:Ian:Barbara:Shakespeare:P2021:plot_yes:historical:
+    :PROPERTIES:
+    :rating:   9.0?
+    :END:
+
+plot: https://breezewiki.com/tardis/wiki/The_Hollow_Crown_(audio_story)#Plot
+
+*** [#D] 3DA2025A. Doctor Who and the Brain Drain (part 6-7) :3rd_Dr:Liz:Brigadier:
+*** [#B] MR224b. Dalek Soul :5th_Dr:Nyssa:
+    :PROPERTIES:
+    :rating:   8.4
+    :END:
+
+*** [#C] MR163. Black and White :7th_Dr:Ace:Hex:Sally:Lysandra:plot_yes:
+    :PROPERTIES:
+    :rating:   7.7
+    :END:
+
+*** [#B] ST12.4 Identity Check :9th_Dr:Rose:
+*** [#A] 11DC5.1 Spirit of the Season :11th_Dr:Valarie:
+*** 13/fugi?
+** q2a-spinoffs
+*** [#B] TW7.11 Heistland :Yvonne:Orr:Tyler:
+*** [#B] Jack1.2 Wednesdays For Beginners :Jack:Jackie:
+*** [#D] UBNW1.2 Time Flies :UNIT:
+*** [#D] PGT3.1 Doppelgängers :TPG:Zygons:
+*** [#A] DoRS11.2. The Key to the Door :River:
+*** [#D] Missy3.3 Two Monks, One Mistress
+*** READY FP1.2 The Shadow Play :P2001:bilibili:
+** q2b-doctor
+*** START [#C] CC12.2 Dumb Waiter :Jamie:Leela:D2021_09_extra:plot_yes:
+*** FIXME [#C] NCC3.1 Tsar Wars :4th_Dr:Wibbsey:
+*** [#D] SvsR#3 Born to Die :6th_Dr:Charley:Sontarans:P2024_03:
+*** READY [#B] 5.3 Previously, Next Time :8th_Dr:Cass:2CD:bilibili:
+*** [#B] 10DA1.4 Last Chance :10th_Dr:Christina:
+*** READY [#D] WD3.3 Eye of Harmony :bilibili:
+    :PROPERTIES:
+    :raring:   7.1
+    :END:
+
+【【神秘博士广播剧汉化】The War Doctor 战争博士 303 The Eye of Harmony-哔哩哔哩】 
+https://b23.tv/BV1GS4y1o7bF
+
+** q2b-spinoffs
+*** [#B] TW79. Poppet :Rhys:P2024_01:
+*** [#C] UNEM2.3 The War Factory :UNIT:
+*** [#C] CM4.2 The Keep :ICMG:
+*** [#A] JL10.4 The Museum of Curiosities
+*** [#C] BSBox2.3 Paradise Frost :Jack_McSpringheel:
+*** FIXME Tempered :Master_early:Master_missy:🗣:📄:
+
+Origin Stories #11
+
+** q3
+*** [#B] CC9.2 - The Unwinding World :1st_Dr:Vicki:
+*** BLOCK [#A] 2. The Auton Infinity :5th_Dr:Tegan:Turlough:Brigadier:Master_tremas:Autons:3CD:P2022_09:plot_yes:
+*** FIXME [#C] WM10.1 Runtime :Master_War:
+*** FIXME [#D] CC12.1 - The Curator's Egg :2nd_Dr:Polly:Ben:
+** q4
+*** [#C] EA7.2 The Secrets of Det-Sen :Steven:Dodo:plot_yes:P2021_08:
+    :PROPERTIES:
+    :rating:   7.8
+    :END:
+
