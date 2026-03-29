@@ -231,7 +231,7 @@ SCHEDULED: <2025-10-18 Sat>
 **** TODO [#B] 3x23. All Our Yesterdays (8.4) :S2025_Q4:
 SCHEDULED: <2025-10-25 Sat>
 
-**** TODO [#D] 3x24. Turnabout Intruder                (7.0) :S2025_Q4:
+**** TODO [#D] 3x24. Turnabout Intruder                (7.0) :S2026_Q3:
 SCHEDULED: <2025-10-31 Fri>
 
 #+TBLFM: $2='(cond ((> $4 8.5) "[#A]") ((>= $4 8.0) "[#B]") ((>= $4 7.5) "[#C]") ((>= $4 7.0) "[#D]") (t "[#E]"));N
@@ -1498,10 +1498,10 @@ CLOSED: [2025-11-02 Sun 11:33]
 **** CANCEL [#E] 2x09. Second Sight (6.3)
 **** CANCEL [#E] 2x10. Sanctuary (6.6)
 **** CANCEL [#E] 2x11. Rivals (6.7)
-**** CANCEL [#E] 2x12. The Alternate (6.9)
+**** [#E] 2x12. The Alternate (6.9)
 **** DONE [#C] 2x13. Armageddon Game (7.5)
 **** DONE [#B] 2x14. Whispers (8.3)
-**** CANCEL [#E] 2x15. Paradise (6.8)
+**** [#E] 2x15. Paradise (6.8)
 **** [#D] 2x16. Shadowplay (7.4)
 **** CANCEL [#E] 2x17. Playing God (6.5)
 **** [#D] 2x18. Profit and Loss (7.3)
@@ -1517,7 +1517,7 @@ CLOSED: [2025-11-02 Sun 11:33]
 **** DONE [#B] 3x01. The Search: Part I (8.4)
 **** DONE [#B] 3x02. The Search: Part II (8.3)
 **** DONE [#B] 3x03. The House of Quark (8.1)
-**** CANCEL [#E] 3x04. Equilibrium (6.8)
+**** [#E] 3x04. Equilibrium (6.8)
 **** DONE [#C] 3x05. Second Skin (7.9)
 **** [#D] 3x06. The Abandoned (7.0)
 **** DONE [#B] 3x07. Civil Defense (8.0)
@@ -1526,10 +1526,10 @@ CLOSED: [2025-11-02 Sun 11:33]
 **** CANCEL [#E] 3x10. Fascination (6.3)
 **** DONE [#B] 3x11. Past Tense: Part I (8.0) :alternate_timeline:
 **** DONE [#B] 3x12. Past Tense: Part II (8.0) :alternate_timeline:
-**** CANCEL [#E] 3x13. Life Support (6.8)
+**** [#E] 3x13. Life Support (6.8)
 **** [#D] 3x14. Heart of Stone (7.4)
 **** DONE [#C] 3x15. Destiny (7.5)
-**** CANCEL [#E] 3x16. Prophet Motive (6.9)
+**** [#E] 3x16. Prophet Motive (6.9)
 **** DONE [#C] 3x17. Visionary (7.9) :alternate_timeline:
 **** CANCEL [#E] 3x18. Distant Voices (6.6)
 **** DONE [#C] 3x19. Through the Looking Glass (7.5) :mirror_universe:
@@ -1928,7 +1928,7 @@ CLOSED: [2021-02-20 Sat 13:13]
 
 丑哭了
 
-**** LATER Divided We Fall :TNG:DS9:P2001:crossover:S2025_Q4:
+**** LATER Divided We Fall :TNG:DS9:P2001:crossover:S2026_Q3:
 *** IDW :IDW:
 **** 2DONE Fool's Gold :2010:
 **** DONE Too Long a Sacrifice (2020) :hanzify:
@@ -2311,11 +2311,13 @@ CLOSED: [2022-07-29 Fri 20:17] SCHEDULED: <2022-07-30 Sat>
 **** DONE [#A] 4x14 Message in a Bottle	   (8.7) :EMH:
 CLOSED: [2025-11-09 Sun 16:49]
 
-**** [#C] 4x15 Hunters				   (7.9)
-**** [#B] 4x16 Prey					   (8.2)
+**** DONE [#C] 4x15 Hunters				   (7.9) :Hirogen:
+CLOSED: [2025-11-24 Mon 17:25]
+
+**** [#B] 4x16 Prey					   (8.2) :Hirogen:
 **** [#E] 4x17 Retrospect				   (6.9)
-**** [#C] 4x18 The Killing Game		   (7.8)
-**** [#C] 4x19 The Killing Game: Part II (7.8)
+**** [#C] 4x18 The Killing Game		   (7.8) :Hirogen:
+**** [#C] 4x19 The Killing Game: Part II (7.8) :Hirogen:
 **** CANCEL [#E] 4x20 Vis À Vis				   (6.7)
 **** [#C] 4x21 The Omega Directive	   (7.6)
 **** CANCEL [#E] 4x22 Unforgettable			   (6.4)
@@ -2326,11 +2328,11 @@ CLOSED: [2025-11-09 Sun 16:49]
 *** VOY S5 :Y2375:
 **** [#C] 5x01 Night                    (7.9)
 **** [#A] 5x02 Drone                    (8.6)
-**** CANCEL [#E] 5x03 Extreme Risk             (6.9)
+**** [#E] 5x03 Extreme Risk             (6.9)
 **** [#B] 5x04 In the Flesh             (8.0)
 **** CANCEL [#E] 5x05 Once Upon a Time         (6.4)
 **** [#A] 5x06 Timeless                 (8.7) :alternate_universe:
-**** [#C] 5x07 Infinite Regress         (7.8)
+**** [#C] 5x07 Infinite Regress         (7.8) :Seven_of_Nine:
 **** [#D] 5x08 Nothing Human            (7.3)
 **** [#D] 5x09 Thirty Days              (7.3)
 **** [#B] 5x10 Counterpoint             (8.0)
@@ -2344,7 +2346,7 @@ CLOSED: [2025-11-09 Sun 16:49]
 **** [#C] 5x18 Course: Oblivion         (7.7)
 **** CANCEL [#E] 5x19 The Fight                (5.3)
 **** [#C] 5x20 Think Tank               (7.7)
-**** CANCEL [#E] 5x21 Juggernaut               (6.9)
+**** [#E] 5x21 Juggernaut               (6.9)
 **** [#B] 5x22 Someone to Watch Over Me (8.2)
 **** CANCEL [#E] 5x23 11:59                    (6.7)
 **** [#A] 5x24 Relativity               (8.6) :alternate_universe:
@@ -2372,7 +2374,7 @@ CLOSED: [2025-11-09 Sun 16:49]
 **** [#C] 6x19. Child's Play                (7.6)
 **** [#D] 6x20. Good Shepherd               (7.3)
 **** [#D] 6x21. Live Fast and Prosper       (7.3)
-**** CANCEL [#E] 6x22. Muse                        (6.9)
+**** [#E] 6x22. Muse                        (6.9)
 **** [#E] 6x23. Fury                        (6.4) :alternate_universe:
 **** [#B] 6x24. Life Line                   (8.3)
 **** [#D] 6x25. The Haunting of Deck Twelve (7.3)
@@ -3013,8 +3015,8 @@ CLOSED: [2022-07-16 Sat 07:50] SCHEDULED: <2022-07-24 Sun>
 **** DONE 09. One of a Kind
 CLOSED: <2022-07-20 Wed 01:04> SCHEDULED: <2022-07-31 Sun>
 
-**** TODO 10-11. The Fallen :S2025_Q4:
-**** TODO 12-14. Futures :Una:S2025_Q4:
+**** TODO 10-11. The Fallen :S2026_Q3:
+**** TODO 12-14. Futures :Una:S2026_Q3:
 **** 15. Now and Then
 **** 16. Thanatos
 **** 17. Nemesis
@@ -3045,11 +3047,12 @@ CLOSED: [2024-05-18 Sat 20:40]
 This five-issue series is set following /Star Trek: Strange New Worlds/'s second season finale,
 
 **** The Seeds of Salvation :P2025:
+* SA - Starfleet Academy (2026-)
 * _others
 ** audio
 *** Star Trek: Khan :P2025:
 ** movies :🎦:
-*** TODO Star Trek: Renegades (fan film) :Section_31:P2015:S2025_Q4:
+*** TODO Star Trek: Renegades (fan film) :Section_31:P2015:S2026_Q4:
 
 https://en.wikipedia.org/wiki/Star_Trek:_Renegades
 

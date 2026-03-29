@@ -432,7 +432,7 @@ CLOSED: [2026-01-31 Sat 23:48] SCHEDULED: <2026-01-30 Fri>
 **** DONE 7x16 Death Knell
 CLOSED: [2026-02-05 Thu 19:48] SCHEDULED: <2026-02-01 Sun>
 
-**** DONE [#B] 7x17-18 Heroes
+**** DONE [#B] 7x17-18 Heroes :Fraiser:
 CLOSED: [2026-02-08 Sun 21:49] SCHEDULED: <2026-02-01 Sun>
 
 **** DONE 7x19
@@ -467,7 +467,7 @@ This audiobook is set during season 3 of Stargate SG-1, before Fair Game.
 
 https://breezewiki.com/stargate/wiki/Stargate_SG-1:_Gift_of_the_Gods
 
-**** [#A] 1.2 Shell Game
+**** LATER [#A] 1.2 Shell Game
 :PROPERTIES:
 :rating:   9.1
 :END:
@@ -488,32 +488,37 @@ This story is set during the fourth season of Stargate SG-1
 
 https://breezewiki.com/stargate/wiki/Stargate_SG-1:_First_Prime
 
-**** [#A] 2.2 Pathogen
+**** [#A] 2.2 Pathogen :Fraiser:
 :PROPERTIES:
 :rating:   9.0
 :END:
 
 This story is around season 7 of Stargate SG-1, some time between /Fragile Balance/ and /Heroes, Part 1/
 
-**** [#A] 2.3 Lines of Communication
+**** LATER [#A] 2.3 Lines of Communication
 :PROPERTIES:
 :rating:   9.3
 :END:
 
 It is supposedly set in one of the last two seasons of Stargate SG-1
 
-**** [#C] 3.1.1 Half Life
+**** LATER [#C] 3.1.1 Half Life
 
 the best placement of this entire series appears to be sometime after season 10
 
-**** [#B] 3.1.2 An Eye for an Eye
-**** [#B] 3.1.3 Infiltration
-**** 3.2.1 Excision
-**** 4.1 Duplicity
+**** LATER [#B] 3.1.2 An Eye for an Eye
+
+This adventure is set during season 10 of Stargate SG-1. It's sequel to audio Stargate SG-1: Half Life.
+
+**** LATER [#B] 3.1.3 Infiltration
+**** LATER 3.2.1 Excision
+**** LATER 3.2.2 Duplicity
+**** LATER 3.2.3 Time's Wheel
+**** LATER 4.1 Duplicity
 
 This adventure is set during season 10 of Stargate SG-1.
 
-**** 4.2 Time's Wheel
+**** LATER 4.2 Time's Wheel
 
 This adventure is set during season 10 of Stargate SG-1
 
@@ -565,8 +570,7 @@ CLOSED: [2026-02-10 Tue 16:34] SCHEDULED: <2026-02-10 Tue>
 ***** DONE [#B] 2x09 Aurora
 CLOSED: [2026-02-23 Mon 12:21] SCHEDULED: <2026-02-15 Sun>
 
-***** 2x10 The Lost Boys
-***** 2x11 The Hive
+***** HALF 2x10/11 The Lost Boys / The Hive
 ***** 2x17 Coup D’etat
 ***** 2x18 Michael
 ***** [#B] 2x19 Inferno
@@ -581,12 +585,20 @@ CLOSED: [2026-02-23 Mon 12:21] SCHEDULED: <2026-02-15 Sun>
 **** Singularity :P2018:
 *** audio
 **** [#C] Perchance to Dream
+
+This story takes place during season two. 
+
 **** [#B] The Kindness of Strangers
 :PROPERTIES:
 :rating:   8.4
 :END:
 
+This story is set sometime during season 2 or season 3 of Stargate Atlantis (before /Sunday/ (3.17)), 
+
 **** [#D] Meltdown
+
+This story is set during season 2 of Stargate Atlantis, shortly before /Coup D'etat/ (2.17). 
+
 ** Stargate Universe (SGU) :sgu:
 *** DONE SGU S1 (20 episodes) :P2009:
 **** DONE ep1x01-02
@@ -1277,7 +1289,12 @@ CLOSED: [2024-06-30 Sun 09:55]
 ****** DONE 2x01-03 :4BBY:
 CLOSED: [2026-02-20 Fri 20:19]
 
-****** 2x04-06 :3BBY:
+****** DONE 2x04-06 :3BBY:Saw_Gerrera:
+CLOSED: [2026-03-01 Sun 19:17]
+
+****** DONE 2x07-09 :2BBY:
+CLOSED: [2026-03-08 Sun 09:17]
+
 **** The Mandalorian 曼达洛人 (2019- ) :9ABY:
 
 9 ABY
@@ -1336,6 +1353,24 @@ CLOSED: [2023-07-18 Tue 22:33] SCHEDULED: <2023-07-23 Sun>
 CLOSED: [2023-07-25 Tue 18:48] SCHEDULED: <2023-07-30 Sun>
 
 ***** TODO season 3 (8 eps) :P2023_03:S2026_Q1:
+****** DONE 3x01 The Apostate
+CLOSED: [2026-03-15 Sun 10:53]
+
+****** DONE 3x02 The Mines of Mandalore
+CLOSED: [2026-03-15 Sun 11:33]
+
+****** DONE 3x03 The Convert
+CLOSED: [2026-03-17 Tue 17:50]
+
+****** DONE 3x04 The Foundling
+CLOSED: [2026-03-25 Wed 22:25]
+
+****** DONE 3x05 The Pirate
+CLOSED: [2026-03-28 Sat 17:22]
+
+****** 3x06 Guns to Hire
+****** 3x07 The Spies
+****** 3x08 The Return
 **** The Book of Boba Fett 波巴费特之书 :Boba_Fett:
 ***** DONE [#C] 📂season 1 (7 eps) :P2021:9ABY:
 
@@ -1374,35 +1409,9 @@ Set after the fall of the Empire, /Ahsoka/ follows the former Jedi knight 
 CLOSED: [2024-06-10 Mon 22:07]
 
 ***** 1x04 Fallen Jedi :World_Between_Worlds:
+**** The Skeleton Crew :P2024:9ABY:
 **** Rangers of the New Republic
 *** tv (canon, animated) :animated:
-**** DOING Tales of the Jedi (2022-)
-
-68 BBY - 5 BBY
-
-***** DONE 1x01 Life and Death :Ahsoka:
-CLOSED: [2023-08-18 Fri 22:28]
-
-***** DONE 1x02 Justice :Dooku:Qui_Gon_Jinn:
-CLOSED: [2023-08-27 Sun 13:09]
-
-***** DONE 1x03 Choices :Dooku:
-CLOSED: [2023-08-27 Sun 13:22]
-
-***** DONE 1x04 The Sith Lord :Dooku:Qui_Gon_Jinn:32BBY:
-CLOSED: [2023-08-27 Sun 18:03]
-
-***** DONE 1x05 Practice Makes Perfect :Ahsoka:21BBY:
-CLOSED: [2026-02-22 Sun 12:48]
-
-21 BBY
-
-末尾那幕 The scene where Rex and Tano confront the 332nd Division is continued in the /Victory and Death/ (7x12) episode of the /The Clone Wars/
-
-***** 1x06 Resolve :Ahsoka:
-
-Between 18 BBY and 5 BBY
-
 **** The Clone Wars (2008-2014)
 
 7 seasons
@@ -1502,7 +1511,7 @@ CLOSED: [2024-06-09 Sun 23:59]
 ****** DONE 2x11
 CLOSED: <2024-06-04 Tue 18:29>
 
-****** DONE 2x12/13/14 The Mandalore Plot / Voyage of Temptation / Duchess of Mandalore :Mandalorian:Death_Watch:
+****** DONE 2x12/13/14 The Mandalore Plot / Voyage of Temptation / Duchess of Mandalore :Satine_Kryze:Mandalorian:Death_Watch:
 CLOSED: [2024-06-09 Sun 11:46]
 
 ****** DONE 2x20 Death Trap :Boba_Fett:
@@ -1539,10 +1548,10 @@ CLOSED: [2023-08-10 Thu 08:14]
 ****** DONE 3x09 Hunt for Ziro :Cad_Bane:Quinlan_Vos:
 CLOSED: [2024-06-15 Sat 20:55]
 
-****** DONE 3x10/3x11/2x15 Heroes on Both Sides / Pursuit of Peace / Senate Murders :Padme:
+****** DONE 3x10/3x11/2x15 Heroes on Both Sides / Pursuit of Peace / Senate Murders :Padme:21BBY:
 CLOSED: [2024-06-16 Sun 17:48]
 
-****** DONE 3x12/13/14 Nightsister / Monster / Witches of the Mist :Ventress:Dooku:Nightsisters:
+****** DONE 3x12/13/14 Nightsister / Monster / Witches of the Mist :Ventress:Dooku:Nightsisters:Savage_Opress:20BBY:
 CLOSED: [2024-06-18 Tue 07:47]
 
 ****** DONE 3x15/16/17 Overlords / Altar of Mortis / Ghosts of Mortis :Anakin:
@@ -1556,7 +1565,7 @@ CLOSED: [2024-06-27 Thu 08:05]
 ****** DONE 3x21/22 Padawan Lost / Wookiee Hunt :Chewie:
 CLOSED: <2024-06-28 Fri 08:08>
 
-***** 📂season 4 (22 eps) :P2011:20BBY:
+***** DONE 📂season 4 (22 eps) :P2011:20BBY:
 ****** DONE 4x01/02/03 Water War / Gungan Attack / Prisoners :Ackbar:
 CLOSED: [2024-07-17 Wed 19:55]
 
@@ -1584,18 +1593,34 @@ CLOSED: [2026-02-23 Mon 10:35]
 
 in a four-part storyline about Obi-Wan Kenobi's undercover story to unveil the assassination plot against Chancellor Palpatine
 
-****** 4x19/20 Massacre / Bounty :Nightsisters:
-****** 4x21 Brothers
-****** 4x22 Revenge :Maul:
+****** DONE 4x19 Massacre :Nightsisters:Ventress:Maul:
+CLOSED: <2026-02-27 Fri 22:08>
+
+a four-part storyline about the fate of Asajj Ventress, the Nightsisters, and two of the Nightbrothers
+
+****** DONE 4x20 Bounty :Ventress:Boba_Fett:
+CLOSED: [2026-02-27 Fri 22:35]
+
+****** DONE 4x21 Brothers / Revenge :Maul:Savage_Opress:Ventress:
+CLOSED: [2026-02-28 Sat 22:51]
+
 ***** 📂season 5 (20 eps) :P2012:19BBY:
-****** 5x02 A War on Two Fronts
-****** 5x03 Front Runners
+****** DONE 5x02-05 A War on Two Fronts / Front Runners / The Soft War / Tipping Points :Saw_Gerrera:
+CLOSED: [2026-03-03 Tue 22:53]
+
+****** DONE 5x06-09 The Gathering / A Test of Strength / Bound for Rescue / A Necessary Bond
+CLOSED: [2026-03-06 Fri 22:39]
+
+Jedi younglings
+
+****** DONE 5x10/11/12/13 :R2_D2:Droids:20BBY:
+CLOSED: [2026-03-07 Sat 23:52]
+
+****** 5x01 Revival :Savage_Opress:19BBY:
+****** 5x14 Eminence :Death_Watch:Savage_Opress:
+****** 5x15 Shades of Reason :Bo_Katan:Savage_Opress:
+****** 5x16 The Lawless :Satine_Kryze:Bo_Katan:Savage_Opress:
 ****** ...
-****** 5x13 Point of No Return
-****** 5x01 Revival
-****** 5x14 Eminence :Death_Watch:
-****** 5x15 Shades of Reason :Bo_Katan:
-****** 5x16 The Lawless :Bo_Katan:
 ****** 5x20 The Wrong Jedi :Ahsoka:
 ***** 📂season 6 (13 eps) :P2014:19BBY:
 ***** 📂season 7 (12 eps) :P2020:19BBY:
@@ -1650,13 +1675,13 @@ CLOSED: [2022-05-01 Sun 18:31]
 ****** DONE 1x06 Out of Darkness
 CLOSED: [2022-05-16 Mon 21:08]
 
-****** DONE 1x07 Empire Day
+****** DONE 1x07 Empire Day :Lothal:
 CLOSED: [2022-05-11 Wed 08:17]
 
 ****** DONE [#B] 1x08 Gathering Forces
 CLOSED: [2022-05-12 Thu 21:09]
 
-****** DONE [#B] 1x09 Path of the Jedi :World_Between_Worlds:
+****** DONE [#B] 1x09 Path of the Jedi :Lothal:World_Between_Worlds:
 CLOSED: [2022-05-20 Fri 23:34]
 
 ****** DONE 1x10 :Lando:
@@ -1714,7 +1739,7 @@ CLOSED: [2023-08-12 Sat 13:02]
 ****** DONE 2x13 The Protector of Concord Dawn :Mandalorian:
 CLOSED: [2023-08-13 Sun 08:16]
 
-****** DONE 2x14
+****** DONE 2x14 Duchess of Mandalore :Satine_Kryze:
 CLOSED: [2023-08-13 Sun 10:28]
 
 ****** DONE 2x15
@@ -1726,7 +1751,7 @@ CLOSED: <2023-08-17 Thu 07:53>
 ****** DONE [#B] 2x17 The Honorable Ones
 CLOSED: [2023-08-17 Thu 08:20]
 
-****** DONE [#A] 2x18 Shroud of Darkness :Ahsoka:Yoda:Vader:World_Between_Worlds:
+****** DONE [#A] 2x18 Shroud of Darkness :Lothal:Ahsoka:Yoda:Vader:World_Between_Worlds:
 CLOSED: [2023-08-18 Fri 20:43]
 
 ****** DONE 2x19 :Droids:
@@ -1771,7 +1796,7 @@ CLOSED: [2024-07-14 Sun 16:14]
 ****** DONE [#A] 3x11 Visions and Voices :Maul:Bendu:Nightsisters:Darksaber:
 CLOSED: [2024-07-15 Mon 08:25]
 
-****** DONE 3x12/13 Ghosts of Geonosis
+****** DONE 3x12/13 Ghosts of Geonosis :Saw_Gerrera:
 CLOSED: [2024-07-18 Thu 08:13]
 
 ****** DONE 3x14
@@ -1800,8 +1825,33 @@ https://starwars.fandom.com/wiki/Old_Wounds
 CLOSED: [2024-07-30 Tue 08:07]
 
 ***** season 4 (16 eps) :P2017:S2026_Q1:
-****** 4x07 Kindred :World_Between_Worlds:
+****** DONE 4x01/02 Heroes of Mandalore :Mandalorian:Bo_Katan:Darksaber:
+CLOSED: [2026-03-11 Wed 22:48]
+
+****** DONE 4x03/04 In the Name of the Rebellion :Saw_Gerrera:
+CLOSED: [2026-03-15 Sun 08:55]
+
+****** DONE 4x05/06 The Occupation / Flight of the Defender :Lothal:
+CLOSED: [2026-03-17 Tue 23:39]
+
+****** DONE 4x07 Kindred :World_Between_Worlds:Lothal:
+CLOSED: [2026-03-20 Fri 00:00]
+
+****** DONE 4x08 Crawler Commandeers :Thrawn:Lothal:
+CLOSED: [2026-03-20 Fri 00:21]
+
+****** DONE 4x09 Rebel Assault :Thrawn:Lothal:
+CLOSED: [2026-03-23 Mon 22:53]
+
+****** DONE 4x10/11 Jedi Night / DUME
+CLOSED: [2026-03-24 Tue 23:38]
+
+These two episode s originally went under the title "Ascension: Part One." & Part Two.
+
+****** 4x12 Wolves and a Door :Lothal:
 ****** 4x13 A World Between Worlds :World_Between_Worlds:
+****** 4x14 A Fool's Hope
+****** 4x15 Family Reunion – and Farewell
 **** CANCEL [#E] Forces of Destiny (2017-2018)
 
 TIMELINE: Across the prequel trilogy, original trilogy, and sequel trilogy[1]
@@ -1810,6 +1860,12 @@ CANCEL: 低幼向
 
 ***** season 1 (18 eps) :P2017:
 ***** season 2 (18 eps) :P2018:
+**** Galaxy of Adventures (2018-2020)
+
+32 BBY–35 ABY
+
+***** season 1 (36 eps) :P2018:
+***** season 2 (18 eps) :P2019:
 **** CANCEL [#E] Resistance (2018-2020) 抵抗组织
 
 34ABY-35ABY
@@ -1817,17 +1873,54 @@ CANCEL: 低幼向
 ***** shorts (12 eps)
 ***** season 1 (21 eps)
 ***** season 2 (19 eps)
-**** Galaxy of Adventures (2018-2020)
-
-32 BBY–35 ABY
-
-***** season 1 (36 eps) :P2018:
-***** season 2 (18 eps) :P2019:
 **** Galaxy of Creatures (2021- )
 
 34 ABY
 
+**** DOING Tales of the Jedi (2022)
+
+68 BBY - 5 BBY
+
+***** DONE 1x01 Life and Death :Ahsoka:
+CLOSED: [2023-08-18 Fri 22:28]
+
+***** DONE 1x02 Justice :Dooku:Qui_Gon_Jinn:
+CLOSED: [2023-08-27 Sun 13:09]
+
+***** DONE 1x03 Choices :Dooku:
+CLOSED: [2023-08-27 Sun 13:22]
+
+***** DONE 1x04 The Sith Lord :Dooku:Qui_Gon_Jinn:32BBY:
+CLOSED: [2023-08-27 Sun 18:03]
+
+***** DONE 1x05 Practice Makes Perfect :Ahsoka:21BBY:
+CLOSED: [2026-02-22 Sun 12:48]
+
+21 BBY
+
+末尾那幕 The scene where Rex and Tano confront the 332nd Division is continued in the /Victory and Death/ (7x12) episode of the /The Clone Wars/
+
+***** 1x06 Resolve :Ahsoka:
+
+Between 18 BBY and 5 BBY
+
 **** Tales of the Empire (2024)
+***** 1. The Path of Fear :20BBY:Morgan_Elsbeth:Grievous:
+***** 2. The Path of Anger :Morgan_Elsbeth:
+
+between 9 BBY and 2 BBY
+
+***** 3. The Path of Hate :Morgan_Elsbeth:Bo_Katan:
+
+Between 5 ABY and 9 ABY
+
+***** 4. Devoted :19BBY:
+***** 5. Realization :19BBY:
+***** 6. The Way Out
+
+
+Between 9 BBY and 0 ABY
+
 *** tv (legends)
 **** Droids :P1985:
 **** Eworks :P1985:
@@ -2069,7 +2162,8 @@ https://starwars.fandom.com/wiki/Star_Wars_Legends_Epic_Collection:_The_Clone_Wa
 ******* DONE Dooku :Dooku:
 CLOSED: [2023-08-29 Tue 14:02]
 
-***** epic collection: The Clone Wars vol.2 :21BBY:
+***** DONE epic collection: The Clone Wars vol.2 :21BBY:S2026_Q1:
+CLOSED: [2026-02-27 Fri 13:23]
 
 22 BBY - 20 BBY
 
@@ -2080,19 +2174,71 @@ CLOSED: [2023-08-29 Tue 14:02]
 ****** DONE [#B] The Battle of Jabiim 贾毕姆之战 (Star Wars: Republic #55-58) :P2003:hanzify:
 CLOSED: [2026-02-19 Thu 20:47]
 
-****** DONE [#B] Star Wars: Republic #59-62 :P2004:hanzify:
+****** DONE [#B] Star Wars: Republic #59-62 :P2004:22BBY:hanzify:
 CLOSED: [2026-02-19 Thu 22:22]
 
 这几期故事对整体剧情比较重要
 
-****** Darth Maul: Death Sentence :20BBY:
-***** epic collection: The Clone Wars vol.3
-****** General Grievous :20BBY:hanzify:
+****** DONE Darth Maul: Death Sentence :20BBY:P2012:Maul:Savage_Opress:
+CLOSED: [2026-02-27 Fri 13:22]
+
+/The Clone Wars: The Sith Hunters/ and /Star Wars: Darth Maul — Death Sentence/ are set between the episodes "Revenge" (TCW4x22) and "Revival,"(TCW5x01) both of which occur during 20 BBY per the /2014 Official Star Wars Fact File/.
+
+***** NOW epic collection: The Clone Wars vol.3 :S2026_Q1:
+
+- Star Wars: Republic #68-73
+- Obsession (5 issues)
+- General Grievous (4 issues)
+- misc
+
+****** DONE General Grievous :20BBY:hanzify:P2005:
+CLOSED: [2026-03-28 Sat 18:33]
+
+****** DONE Star Wars Republic #68-73 :Quinlan_Vos:
+CLOSED: [2026-03-23 Mon 23:59]
+
+  - #68 Armor
+  - #69-71 Dreadnoughts
+  - #72-73 Trackdown
+  
+最后这两期很无聊，讲得乱七八糟
+
 ****** Obsession :hanzify:19BBY:
-***** epic collection: The Clone Wars vol.4 :19BBY:
+***** epic collection: The Clone Wars vol.4 :19BBY:S2026_Q1:
 ****** Darth Maul — Son of Dathomir :hanzify:canon:
 ****** Star Wars: Episode III — Revenge of the Sith
 ****** Star Wars Republic #74-77, #80-82
+
+- #72-77 讲述 Quinlan Vos 发现 Sora Bulq 堕入黑暗面（并以为他是除 Dooku 之外的另一名西斯），追杀他
+
+***** The Clone Wars (comic series)
+
+https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(comic_series)
+
+****** #1-6 Slaves of the Republic :P2008:20BBY:
+****** #7-9 In Service of the Republic :22BBY:
+****** #10-12 Hero of the Confederacy :22BBY:
+***** The Clone Wars (graphic novellas)
+
+https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(graphic_novellas)
+
+****** 1. Shipyards of Doom :22BBY:
+****** 2. Crash Course :22BBY:P2008:
+****** 3. The Wind Raiders of Taloraan
+****** 4. The Colossus of Destiny :22BBY:
+****** 5. Deadly Hands of Shon-Ju :21BBY:
+****** 6. The Starcrusher Trap :20BBY:
+****** 7. Strange Allies :20BBY:
+****** DONE 8. The Enemy Within :Clone_Soldiers:20BBY:
+CLOSED: <2026-03-27 Fri 13:49>
+
+****** DONE 9. The Sith Hunters :20BBY:P2012:Maul:
+CLOSED: [2026-03-28 Sat 18:03]
+
+This story takes place shortly after the events in "Revenge" (episode 22 of season 4 of /The Clone Wars).
+
+****** 10. Defenders of the Lost Temple :20BBY:P2013:
+****** 11. The Smuggler's Code :20BBY:P2013:
 **** 4. The Empire
 ***** epic collection: The Empire Vol. 1 :19BBY:
 ****** [#A] Purge (2005) :hanzify:
@@ -2159,8 +2305,19 @@ CLOSED: [2024-06-29 Sat 13:57]
 ****** Droids (1994) #0-6
 ****** Droids (1995) #1-8
 ***** epic collection: The Empire Vol. 6
+
+3 BBY - 1 BBY
+
 ****** Agents of the Empire: Iron Eclipse (2011)
 ****** Agents of the Empire: Hard Targets (2012)
+***** epic collection: The Empire Vol. 7
+
+2 BBY - 0ABY
+
+***** epic collection: The Empire Vol. 8
+
+2 BBY - 0 BBY
+
 ***** misc
 ****** Blood Ties: A Tale of Jango and Boba Fett (2010)
 
@@ -2275,8 +2432,8 @@ CLOSED: [2026-02-20 Fri 21:26] SCHEDULED: <2024-06-22 Sat>
 
 29 BBY
 
-****** TODO Jedi of the Republic – Mace Windu :hanzify:
-SCHEDULED: <2024-06-22 Sat>
+****** DONE Jedi of the Republic – Mace Windu :hanzify:
+CLOSED: [2026-02-24 Tue 22:50] SCHEDULED: <2024-06-22 Sat>
 
 22 BBY
 
@@ -2293,7 +2450,7 @@ a prequel to the Respawn Entertainment video game /Star Wars Jedi: Fallen Order/
 
 14 BBY
 
-****** TODO Vader - Dark Visions :P2019:hanzify:
+****** TODO Vader - Dark Visions 黑暗幻象 :P2019:hanzify:
 SCHEDULED: <2022-06-03 Fri>
 
 Between 2 BBY and 0 BBY
@@ -2301,15 +2458,17 @@ Between 2 BBY and 0 BBY
 https://www.manhuaren.com/manhua-xingqiudazhan-weidayuheianhuanxiang/
 
 ***** Age of Republic
-**** Star Wars Rebels
+**** rebels
 
 link: https://www.starwars.com/news/a-guide-to-star-wars-rebels-books-and-comics
 
-***** Inquisitors
+***** Inquisitors :P2024:
 
 https://starwars.fandom.com/wiki/Star_Wars:_Inquisitors
 
 14 BBY - 9 BBY
+
+4 issues
 
 ***** DONE Han Solo - Imperial Cadet :P2018:Han_Solo:S2024_07:
 CLOSED: [2024-06-24 Mon 12:16]
@@ -2355,20 +2514,25 @@ It depicts Kanan's first foray into the Clone Wars
 
 /Star Wars: Thrawn/ is a canon comic book miniseries adapting the novel of the same name (2017开始的新三部曲小说，与原三部曲不是一回事）. 
 
-****** LATER Thrawn :P2018:2BBY:hanzify:
+****** DONE Thrawn :P2018:hanzify:S2026_Q1:
+CLOSED: [2026-03-13 Fri 00:37]
 
 It was written by Jody Houser, illustrated by Luke Ross, and published by Marvel Comics on February 14, 2018, running until July 11, 2018. 
 
 The limited comic series takes place between /Star Wars: Episode III Revenge of the Sith/ and /Star Wars: Episode IV A New Hope/, _it leads right into /Star Wars: Rebels season 3/ with /Steps Into Shadow (episodes 3.01 and 3.02)/_,
 and follows the life of /Mitth'raw'nuruodo/, Thrawn as he rises through the ranks of the Galactic Empire and makes many friends---and foes---alike.
 
-****** LATER Thrawn - Alliances :P2024:2BBY:hanzify:
+****** TODO Thrawn - Alliances :P2024:2BBY:19BBY:hanzify:Anakin:Vader:S2026_Q1:
 
 Set between the third and fourth seasons of the animated television show /Star Wars Rebels/.
+
+不过与 Star Wars Rebels 剧情毫无关联
 
 ****** TBR Thrawn: Treason :1BBY:
 
 set between the /Star Wars Rebels/ episodes "Rebel Assault"(4x09) and "Family Reunion – and Farewell."(4x15)
+
+漫画改编版本尚未出版
 
 ***** LATER Rogue One Adaptation
 
@@ -2480,6 +2644,15 @@ CLOSED: [2022-04-22 Fri 23:31]
 
 网友汉化版翻译比较烂
 
+****** Target Vader :P2019:1ABY:
+
+Prior to the Battle of Hoth in 3 ABY
+
+
+focusing on the character Beilert Valance during his time as a bounty hunter. 
+
+Beilert Valance first appeared in Solo: A Star Wars Story Adaptation 1
+
 ***** between movie 5-6
 ****** Star Wars v2 (2020- ) :ongoing:
 
@@ -2508,6 +2681,10 @@ https://starwars.fandom.com/wiki/Star_Wars:_Crimson_Reign
 https://starwars.fandom.com/wiki/Star_Wars:_Hidden_Empire?so=search
 
 ****** crossover: Dark Droids :hanzify:
+****** TIE Fighter :P2019:
+
+3 ABY–4 ABY
+
 ***** between movie 6-7
 ****** DONE [#B] Shattered Empire (2015) :hanzify:
 CLOSED: [2022-05-28 Sat 13:48] SCHEDULED: <2022-05-29 Sun>
@@ -2518,19 +2695,7 @@ The series is set immediately after the events of the 1983 film Star Wars: Episo
 
 The four issues focus on Rebel pilot Shara Bey; her husband, Kes Dameron; and a cast of supporting characters, including Star Wars original trilogy heroes Luke Skywalker, Han Solo, and Leia Organa. 
 
-****** TIE Fighter :P2019:
-
-3 ABY–4 ABY
-
-****** Target Vader :P2019:
-
-Prior to the Battle of Hoth in 3 ABY
-
-
-focusing on the character Beilert Valance during his time as a bounty hunter. 
-
-Beilert Valance first appeared in Solo: A Star Wars Story Adaptation 1
-
+****** Star Wars v3 (2025)
 ***** Age of Rebellion
 **** 后传三部曲相关
 ***** before movie 7
@@ -2564,7 +2729,7 @@ The story is set prior to the events of /Star Wars: Episode IX The Rise of Skywa
 c.232 BBY
 
 ***** Qi'ra trilogy (Crimson Dawn)
-****** War of the Bounty Hunters :3ABY:
+****** War of the Bounty Hunters :3ABY:hanzify:
 
 一群在银河系谋生的普通人——简评正史漫画《赏金猎人》
 
