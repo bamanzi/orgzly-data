@@ -385,27 +385,42 @@ Old Steven 3/3
 :rating:   8.2
 :END:
 
-**** 1DA2025. The Living Darkness :P2025_01:3CD:scripted:
 **** ST25.2 - The Doctor's Gambit
 *** with Dodo
-**** 📂1DA2022. The Outlaws :Dodo:P2022_04:plot_yes:
-***** 3QTR [#D] 22.1 The Outlaws :Dodo:Monk:P2022_04:DW2023_03_doctor:
+**** 📂1DNA1. The Outlaws :Dodo:P2022_04:plot_yes:
+***** 3QTR [#D] 1.1 The Outlaws :Dodo:Monk:P2022_04:DW2023_03_doctor:
 CLOSED: [2023-03-29 Wed 08:54] SCHEDULED: <2023-03-04 Sat>
 
-***** 3QTR [#C] 22.2 The Miniaturist :Dodo:P2022_04:1CD:DW2024_Q3a_doctor:
+***** 3QTR [#C] 1.2 The Miniaturist :Dodo:P2022_04:1CD:DW2024_Q3a_doctor:
 CLOSED: [2024-06-05 Wed 08:25] SCHEDULED: <2024-06-15 Sat>
 
-**** 📂1DA2023. The Demon Song :Dodo:P2023_02:plot_yes:
-***** 3QTR [#C] 23.1 The Demon Song :1CD:dw2025_q3a_doctor:
+**** 📂1DNA2. The Demon Song :Dodo:P2023_02:plot_yes:
+***** 3QTR [#C] 2.1 The Demon Song :1CD:dw2025_q3a_doctor:
 CLOSED: [2025-07-30 Wed 21:21] SCHEDULED: <2025-07-19 Sat>
 :PROPERTIES:
 :rating:   7.8
 :END:
 
-***** [#E] 23.2 The Incherton Incident :2CD:
-**** [#B] 1DA2024. Fugitive of the Daleks :3CD:P2024_01:Dodo:Vicki:
+***** [#E] 2.2 The Incherton Incident :2CD:
+**** [#B] 1DNA3. Fugitive of the Daleks :3CD:P2024_01:Dodo:Vicki:
+:PROPERTIES:
+:thetimescales: 8.4
+:tardis.guide: 3.88
+:END:
 
 这里的 Vicki 是老年 Vicki
+
+**** [#D] 1DNA4. The Living Darkness :P2025_01:3CD:scripted:
+:PROPERTIES:
+:tardid.guide: 3.57
+:thetimescales: 7.0
+:END:
+
+老年 Steven
+
+**** 1DNA5. Beware the City of Illusions :Dodo:Polly:P2026_03:3CD:
+
+老年 Polly
 
 **** [#B] CC15.4 The Y Factor :P2025_05:Dodo:
 *** with Polly & Ben
@@ -694,7 +709,7 @@ SCHEDULED: <2021-12-15 Wed>
 
 中文解说 【广播剧 - Resistance 抵抗 (剧情解说)-哔哩哔哩】 https://b23.tv/eL2dEEG
 
-***** [#C] CC5.9 - The Forbidden Time :Polly:plot_yes:
+***** [#C] CC5.9 - The Forbidden Time :Polly:Jamie:plot_yes:
 :PROPERTIES:
 :rating:   7.5
 :END:
@@ -1970,15 +1985,19 @@ https://b23.tv/BV1ZZc3edExG
 
 ***** [#C] DotD#4. Babblesphere :4th_Dr:Romana_2:
 **** short
-***** READY [#A] ST6.9 - A Full Life (9.0) :Adric:Romana_2:bilibili:
-
-【【神秘博士广播剧熟肉】短途旅行：充实人生    Short trips: A full life-哔哩哔哩】 
-https://b23.tv/BV1sXkRY5EeY
-
 ***** [#C] ST4.4 The Old Rogue :Romana_2:2nd_Dr:Jamie:
 :PROPERTIES:
 :rating:   7.9
 :END:
+
+***** CC5.4 The Invasion of E-space :Romana_2:Adric:bilibili:
+
+【Companion Chronicles 504:  The Invasion of E-Space-哔哩哔哩】 https://b23.tv/BV1KqXCBaEWm
+
+***** READY [#A] ST6.9 - A Full Life (9.0) :Adric:Romana_2:bilibili:
+
+【【神秘博士广播剧熟肉】短途旅行：充实人生    Short trips: A full life-哔哩哔哩】 
+https://b23.tv/BV1sXkRY5EeY
 
 *** BF 4DA misc :4DA:BigFinish:
 **** 📂4DA series 8 :P2019:Ann:1CD:
@@ -2063,6 +2082,9 @@ CLOSED: [2022-09-03 Sat 17:41] SCHEDULED: <2022-09-04 Sun>
 :tardis.guide: 3.58
 :END:
 
+**** 📂4DA series 15
+***** 15.1 The Ministry of Death :2CD:P2026_03:
+***** 15.2 The Inhuman Empire :1CD:P2026_03:
 *** BF misc :BigFinish:
 **** DONE [#C] Night of the Vashta Nerada (7.8) (CDNM #2.1) :P2017:Vashta_Nerada:scripted:no_companion:bilibili:1CD:
 CLOSED: [2020-07-29 Wed 23:03]
@@ -2459,7 +2481,7 @@ https://b23.tv/BV1eE6FYwEYz
 :thetimescales: 
 :END:
 
-*** [#C] 03. Horrors of War :3rd_Dr:Jo:
+*** [#C] 03. Horrors of War ↗ :3rd_Dr:Jo:
 :PROPERTIES:
 :tardis.guide: 3.73
 :thetimescales: 7.0
@@ -2569,6 +2591,7 @@ https://b23.tv/BV1eE6FYwEYz
 *** 32. Firefall :15th_Dr:Belinda:
 *** 33. Counterstrike :15th_Dr:Belinda:
 *** 34. The Mind Trap :P2026_01:2nd_Dr:Jamie:Zoe:
+*** 35. Star Flight :1st_Dr:Susan:Ian:Barbara:
 ** 📂Sontarans vs Rutans
 *** [#C] 1. The Battle of Giant's Causeway :8th_Dr:Charley:Crizz:P2024_01:
 *** 3QTR [#B] 2. The Children of the Future :3rd_Dr:Sarah:P2024_02:
@@ -2593,6 +2616,11 @@ https://b23.tv/BV1eE6FYwEYz
 *** 2. Legacy of Blood :6th_Dr:Leela:Ellie:
 *** 3. Presents of Mind :Sarah:Harry:
 *** 4. It's a Wonderful War :8th_Dr:Daleks:
+** 📂Rutans vs Sontarans :P2026:Sontarans:
+*** 2.1 Betrayal at the House of Sontar :Fugitive_Dr:P2026_04:
+*** TBR 2.2 Rendition :2nd_Dr:8th_Dr:Jamie:Zoe:
+*** TBR 2.3 Grave Moon :6th_Dr:Peri:
+*** TBR 2.4 Peace at Last :8th_Dr:Charley:Crizz:
 * multi-doctor story
 ** tv
 *** 10x01 The Three Doctors :P1973:
@@ -2630,6 +2658,10 @@ CLOSED: <2024-09-25 Wed 22:22> SCHEDULED: <2024-09-07 Sat>
 :thetimescales: 7.5
 :tardis.guide: 4.10
 :END:
+
+*** [#B] 5DA2025. Hooklight :5th_Dr:8th_Dr:Adric:Nyssa:Tegan:P2025_05:
+
+6CD, 12 parts
 
 *** ST14.3 Cut-out :4th_Dr:5th_Dr:6th_Dr:7th_Dr:P2026_02:
 ** comics

@@ -37,85 +37,19 @@ CLOSED: <2021-10-05 Tue 20:27>
 
 https://tardis.fandom.com/wiki/Fifth_Doctor_audio_stories
 
-*** MR with Peri & Erimeme :scripted:2CD:
-**** DONE [#C] 024. The Eye of the Scorpion :Peri:Erimem:D2021_04:
-CLOSED: <2021-05-16 Sun 08:12>
-
-**** DONE [#C] 038. The Church and the Crown :Peri:Erimem:DW2022_07_doctor:Richelieu:已购:
-CLOSED: [2022-07-14 Thu 06:48] SCHEDULED: <2022-07-10 Sun>
-:PROPERTIES:
-:rating:   7.7
-:END:
-
-**** CANCEL [#F] 41. Nekromanteia :Erimem:
-CLOSED: [2021-03-22 Mon 23:17]
-:PROPERTIES:
-:rating:   4.5
-:END:
-
-**** CANCEL [#F] 056. The Axis of Insanity :Erimem:
-CLOSED: [2021-03-22 Mon 23:22]
-:PROPERTIES:
-:rating:   6.2
-:END:
-
-**** CANCEL [#E] 059. The Roof of the World :Erimem:
-CLOSED: [2021-03-22 Mon 23:24]
-:PROPERTIES:
-:rating:   6.3
-:END:
-
-**** CANCEL [#E] 069. Three's a Crowd :Erimem:
-CLOSED: [2021-06-15 Tue 08:16]
-:PROPERTIES:
-:rating:   6.4
-:END:
-
-**** 3QTR [#C] 071. The Council of Nicaea :Peri:Erimem:DW2023_03_doctor:
-CLOSED: [2023-03-17 Fri 08:26] SCHEDULED: <2023-03-18 Sat>
-
-**** 3QTR [#A] 081. The Kingmaker :Peri:Erimem:Shakespeare:4th_Dr:plot_yes_dwg:DW2023_11_doctor:已购:bilibili:
-CLOSED: [2023-11-26 Sun 14:44] SCHEDULED: <2023-11-29 Wed>
-:PROPERTIES:
-:rating:   8.8
-:END:
-
-http://www.drwhoguide.com/who_bf81.htm
-
-【【神秘博士广播剧熟肉】MR 81 The Kingmaker -造王者-哔哩哔哩】 https://b23.tv/BV1jmzeBdE8S
-
-神秘博士在时空旅行中遇到了最声名狼藉的历史事件之一，需要解开这一事件之谜。
-
-并不意外，博士卷入了理查三世的事件，而他试着解开是何人杀害了塔中王子。
-
-Peri和Erimem也遇到了一位可以的时间旅行者，这个人是博士的旧相识，但是这个人不属于这个时代。
-
-所以是谁杀害了塔中王子？也许最好不要问这个问题。
-
-也许这个答案并不好
-
-**** DONE [#B] 99. Son of the Dragon :plot_yes:D2021_05:Peri:Erimem:D2021_05:
-CLOSED: <2021-05-29 Sat 08:11>
-:PROPERTIES:
-:rating:   8.4
-:END:
-
-**** [#E] 102a. The Mind's Eye :Erimem:Peri:D2021_04:
-**** 3QTR [#C] 104. The Bride of Peladon :Peri:Erimem:dw2025_q1a_doctor:
-CLOSED: [2025-02-14 Fri 20:43] SCHEDULED: <2025-02-08 Sat>
-
-*** MR with Nyssa :Nyssa:scripted:2CD:
-**** CANCEL [#F] 4. The Land of the Dead
+*** with Nyssa :Nyssa:
+**** MR with Nyssa :scripted:2CD:
+***** CANCEL [#F] 4. The Land of the Dead
 :PROPERTIES:
 :rating:   5.8
 :END:
 
-**** CANCEL [#E] 010. Winter for the Adept
-**** 2DONE 015. The Mutant Phase :Daleks:Thal:
+***** CANCEL [#E] 010. Winter for the Adept
+***** 2DONE 015. The Mutant Phase :Daleks:Thal:
 CLOSED: [2021-10-23 Sat 20:14]
 
-**** [#D] 026. Primeval
-**** DONE [#A] 034. Spare Parts [A⁺] :Mondas:Cybermen:plot_yes:已购:
+***** [#D] 026. Primeval
+***** DONE [#A] 034. Spare Parts [A⁺] :Mondas:Cybermen:plot_yes:已购:
 CLOSED: [2021-03-15 Mon 20:29]
 :PROPERTIES:
 :rating:   9.2
@@ -123,93 +57,100 @@ CLOSED: [2021-03-15 Mon 20:29]
 
 Genesis of the Cyberman (Mondas)
 
-**** HALF [#B] 44. Creatures of Beauty :Nyssa:plot_no:D2022_02_doctor:
+***** HALF [#B] 44. Creatures of Beauty :Nyssa:plot_no:D2022_02_doctor:
 SCHEDULED: <2022-02-24 Thu>
 :PROPERTIES:
 :rating:   8.2
 :END:
 
-**** [#D] 066. The Game
-**** 📂91. Circular Time :plot_yes:Nyssa:short:已购:
-***** [#E] 91a. Spring
-***** [#C] 91b. Summer
-***** [#A] 91c.Autumn
+***** [#D] 066. The Game
+***** 📂91. Circular Time :plot_yes:Nyssa:short:已购:
+****** [#E] 91a. Spring
+****** [#C] 91b. Summer
+****** [#A] 91c.Autumn
 :PROPERTIES:
 :rating:   8.6
 :END:
 
-***** [#A] 91d. Winter
+****** [#A] 91d. Winter
 :PROPERTIES:
 :rating:   8.5
 :END:
 
-**** CANCEL [#F] 93. Renaissance of the Daleks
+***** CANCEL [#F] 93. Renaissance of the Daleks
 CLOSED: [2021-03-22 Mon 23:19]
 :PROPERTIES:
 :rating:   5.8
 :END:
 
-**** 3QTR [#C] 107. The Haunting of Thomas Brewster :D2021_12_doctor
+***** 3QTR [#C] 107. The Haunting of Thomas Brewster :D2021_12_doctor
 CLOSED: [2021-12-28 Tue 14:32] SCHEDULED: <2021-12-26 Sun>
 :PROPERTIES:
 :rating:   7.9
 :END:
 
-**** CANCEL [#E] 110. The Boy That Time Forgot :Nyssa:Adric:
-**** CANCEL [#E] 113a. Time Reef
+***** CANCEL [#E] 110. The Boy That Time Forgot :Nyssa:Adric:
+***** CANCEL [#E] 113a. Time Reef
 CLOSED: [2021-03-22 Mon 23:20]
 :PROPERTIES:
 :rating:   6.1
 :END:
 
-**** [#D] 113b. A Perfect World
+***** [#D] 113b. A Perfect World
 :PROPERTIES:
 :rating:   7.0
 :END:
 
-**** [#C] 127. Castle of Fear :Nyssa:
-**** 2DONE [#B] 128. The Eternal Summer :plot_yes:Nyssa:❤:
+***** [#C] 127. Castle of Fear :Nyssa:
+***** 2DONE [#B] 128. The Eternal Summer :plot_yes:Nyssa:❤:
 CLOSED: [2021-06-17 Thu 23:01]
 :PROPERTIES:
 :rating:   8.4
 :END:
 
-**** [#D] 129. Plague of the Daleks
-**** CANCEL [#E] 137. The Whispering Forest
-**** [#D] 138. The Cradle of the Snake :The_Mara:
-**** 📂142. The Demons of Red Lodge and Other Stories :Nyssa:short:
-***** [#E] The Demons of Red Lodge
-***** [#F] The Entropy Composition
-***** [#D] Doing Time
+***** [#D] 129. Plague of the Daleks
+***** CANCEL [#E] 137. The Whispering Forest
+***** [#D] 138. The Cradle of the Snake :The_Mara:
+***** 📂142. The Demons of Red Lodge and Other Stories :Nyssa:short:
+****** [#E] The Demons of Red Lodge
+****** [#F] The Entropy Composition
+****** [#D] Doing Time
 :PROPERTIES:
 :rating:   7.4
 :END:
 
-***** [#B] Special Features
-**** [#D] 📂168. 1001 Nights
-***** [#D] 1001 Nights
-***** [#E] The Interplanetarian
-***** [#D] Smuggling Tales
-***** [#D] My Brother's Keeper
-**** 2DONE [#B] 178. 1963: Fanfare for the Common Men (8.2) :plot_yes:D2021_07_dr:
+****** [#B] Special Features
+***** [#D] 📂168. 1001 Nights
+****** [#D] 1001 Nights
+****** [#E] The Interplanetarian
+****** [#D] Smuggling Tales
+****** [#D] My Brother's Keeper
+***** 2DONE [#B] 178. 1963: Fanfare for the Common Men (8.2) :plot_yes:D2021_07_dr:
 CLOSED: [2021-07-01 Thu 22:54]
 
-**** CANCEL [#E] 185. Moonflesh (6.1)
-**** CANCEL [#E] 186. Tomb Ship (6.8)
+***** CANCEL [#E] 185. Moonflesh (6.1)
+***** CANCEL [#E] 186. Tomb Ship (6.8)
 CLOSED: [2021-02-27 Sat 18:02]
 
-**** CANCEL [#E] 187. Masquerade (6.2)
-**** CANCEL [#E] 224a. Alien Heart (6.6)
+***** CANCEL [#E] 187. Masquerade (6.2)
+***** CANCEL [#E] 224a. Alien Heart (6.6)
 :PROPERTIES:
 :rating:   6.6
 :END:
 
-**** [#B] 224b. Dalek Soul :plot_no:short:
+***** [#B] 224b. Dalek Soul :plot_no:short:
 :PROPERTIES:
 :rating:   8.4
 :END:
 
 **** ST14.2 Hard Feelings :Cybermen:P2026_02:
+**** READY [#E] ST1.5 The Deep :Nyssa:P2010:bilibili:
+
+【【神秘博士广播剧】熟肉 短途旅行-卷1：深渊 Short Trips-Volume 1：The Deep-哔哩哔哩】 https://b23.tv/BV1mSR9Y6EKe
+ 
+15 min
+
+**** [#D] ST9.10 The Second Oldest Question :Nyssa:
 *** with Nyssa & Tegan
 **** MR with Nyssa & Tegan :Nyssa:Tegan:scripted:2CD:
 ***** 2DONE [#B] 136. Cobwebs :D2021_08_dr:
@@ -337,6 +278,77 @@ SCHEDULED: <2022-05-14 Sat>
 - P4 :: BV1ep3MzfEoQ
 
 **** [#B] NA12. Goth Opera :Nyssa:Tegan:P2024_07:3CD:
+*** 5DA with Nyssa & Tegan :5DA:
+**** The Fifth Doctor Box Set :2CD:Nyssa:Tegan:Adric:P2014:
+***** [#A] Psychodrome :Adric:Nyssa:Tegan:plot_yes:
+***** [#A] Iterations of I :Adric:Nyssa:Tegan:plot_yes:
+**** 📂2021. The Lost Resort and Other Stories :Nyssa:Tegan:Marc:plot_yes:P2021_09:
+***** [#A] The Lost Resort :2CD:plot_yes:
+***** CANCEL [#E] The Perils of Nellie Bly
+***** [#C] Nightmare of the Daleks :1CD:plot_yes:
+**** 📂2022. Forty
+***** 3QTR [#D] 1.1 Secrets of Telos :Nyssa:Tegan:Cybermen:2CD:P2022_01:DW2022_11_maybe:
+CLOSED: [2022-11-27 Sun 23:36] SCHEDULED: <2022-11-16 Wed>
+
+***** [#D] 1.2 God of War :Nyssa:Tegan:Adric:ice_warriors:1CD:P2022_01:
+**** 📂2023A. Conflicts of Interests :Nyssa:Tegan:P2023_04:
+***** [#D] Friendly Fire :1CD:3parts:
+***** CANCEL [#E] The Edge of the War :1CD:3parts:
+**** 📂2023B. In the Night :Nyssa:Tegan:P2023_09:
+***** READY [#A] 1. Pursuit of the Nightjar :2CD:
+
+【【神秘博士广播剧熟肉】In the Night 101 Pursuit of the Nightjar (Part 1&2) 追捕夜鹰-哔哩哔哩】
+https://b23.tv/BV1gc411x72A
+【【神秘博士广播剧熟肉】In the Night 101 Pursuit of the Nightjar (Part 3&4) 追捕夜鹰-哔哩哔哩】
+https://b23.tv/BV14x4y1Z79k
+
+***** CANCEL [#F] 2. Resistor :1CD:
+**** 📂2024A. The Dream Team :P2024_04:Adric:Nyssa:Tegan:
+***** [#A] The Merfolk Murders :1CD:
+***** [#C] Dream Team :1CD:
+**** [#E] 2024B. The Great Beyond :Adric:Nyssa:Tegan:3CD:P2024_09:
+:PROPERTIES:
+:tardis.guide: 3.27
+:thetimescalea: 6.7
+:END:
+
+**** 📂2025. Hooklight :Adric:Nyssa:Tegan:8th_Dr:
+***** [#A] Hooklight 1 :P2025_04:3CD:plot_yes:
+:PROPERTIES:
+:tardis.guide: 4.46
+:thetimescales: 8.4
+:END:
+
+***** [#B] Hooklight 2 :P2025_05:3CD:plot_yes:
+:PROPERTIES:
+:tardis.guide: 4.37
+:thetimescales: 8.0
+:END:
+
+*** with Tegan & Toulough
+**** CANCEL [#F] 247. Devil in the Mist (6.2)
+CLOSED: [2021-02-27 Sat 18:02]
+
+**** CANCEL [#E] 248a. Black Thursday (6.4)
+CLOSED: [2021-02-27 Sat 18:02]
+
+**** CANCEL [#F] 248b. Power Game (6.0)
+CLOSED: [2021-02-27 Sat 18:02]
+
+**** CANCEL [#E] 249 The Kamelion Empire (6.6)
+CLOSED: [2021-02-27 Sat 18:02]
+
+**** [#D] LS5.1 Nightmare Country :Tegan:Turlough:P2019:
+**** [#E] ST13.6 Dark is the Devil that Walks :Tegan:Turlough:P2025_04:
+**** [#C] Meanwhile, Turlough :Tegan:Turlough:P2024_04:
+
+Interludes #8
+
+**** BLOCK [#A] 5DA2022.2 The Auton Infinity :Tegan:Turlough:Brigadier:Master_tremas:Autons:3CD:P2022_09:plot_yes:
+**** 📂5DA2026. Helter Skelter :Tegan:Turlough:P2026_04:
+***** 1. Field of Miracles
+***** 2. Helter Skelter
+***** 3. Land of Fools
 *** with Turlough :Turlough:scripted:2CD:
 **** CANCEL [#E] 002. Phantasmagoria
 **** LATER [#C] 020. Loups-Garoux :Turlough:underrated:
@@ -359,6 +371,131 @@ SCHEDULED: <2022-05-14 Sat>
 SCHEDULED: <2024-11-16 Sat>
 
 **** [#D] CC? Freakshow (DWM419)
+*** with Peri
+**** CANCEL [#E] 095a. Exotron :Peri:
+:PROPERTIES:
+:rating:   6.2
+:END:
+
+**** [#D] 095b. Urban Myths
+:PROPERTIES:
+:rating:   7.4
+:END:
+
+**** START [#E] 102b. Mission of the Viyrans :Viyrans:Peri:D2021_04:
+**** [#E] SST12. A Room With No View :P2014:
+**** [#E] ST3.5 Wet Walls :P2011:
+**** [#E] ST6.10 Rulebook :P2016:
+**** [#D] ST10.10 The Meaning of Red :Peri:P2020:
+*** with Peri & Erimeme :scripted:2CD:
+**** DONE [#C] 024. The Eye of the Scorpion :Peri:Erimem:D2021_04:
+CLOSED: <2021-05-16 Sun 08:12>
+
+**** DONE [#C] 038. The Church and the Crown :Peri:Erimem:DW2022_07_doctor:Richelieu:已购:
+CLOSED: [2022-07-14 Thu 06:48] SCHEDULED: <2022-07-10 Sun>
+:PROPERTIES:
+:rating:   7.7
+:END:
+
+**** CANCEL [#F] 41. Nekromanteia :Erimem:
+CLOSED: [2021-03-22 Mon 23:17]
+:PROPERTIES:
+:rating:   4.5
+:END:
+
+**** CANCEL [#F] 056. The Axis of Insanity :Erimem:
+CLOSED: [2021-03-22 Mon 23:22]
+:PROPERTIES:
+:rating:   6.2
+:END:
+
+**** CANCEL [#E] 059. The Roof of the World :Erimem:
+CLOSED: [2021-03-22 Mon 23:24]
+:PROPERTIES:
+:rating:   6.3
+:END:
+
+**** CANCEL [#E] 069. Three's a Crowd :Erimem:
+CLOSED: [2021-06-15 Tue 08:16]
+:PROPERTIES:
+:rating:   6.4
+:END:
+
+**** 3QTR [#C] 071. The Council of Nicaea :Peri:Erimem:DW2023_03_doctor:
+CLOSED: [2023-03-17 Fri 08:26] SCHEDULED: <2023-03-18 Sat>
+
+**** 3QTR [#A] 081. The Kingmaker :Peri:Erimem:Shakespeare:4th_Dr:plot_yes_dwg:DW2023_11_doctor:已购:bilibili:
+CLOSED: [2023-11-26 Sun 14:44] SCHEDULED: <2023-11-29 Wed>
+:PROPERTIES:
+:rating:   8.8
+:END:
+
+http://www.drwhoguide.com/who_bf81.htm
+
+【【神秘博士广播剧熟肉】MR 81 The Kingmaker -造王者-哔哩哔哩】 https://b23.tv/BV1jmzeBdE8S
+
+神秘博士在时空旅行中遇到了最声名狼藉的历史事件之一，需要解开这一事件之谜。
+
+并不意外，博士卷入了理查三世的事件，而他试着解开是何人杀害了塔中王子。
+
+Peri和Erimem也遇到了一位可以的时间旅行者，这个人是博士的旧相识，但是这个人不属于这个时代。
+
+所以是谁杀害了塔中王子？也许最好不要问这个问题。
+
+也许这个答案并不好
+
+**** DONE [#B] 99. Son of the Dragon :plot_yes:D2021_05:Peri:Erimem:D2021_05:
+CLOSED: <2021-05-29 Sat 08:11>
+:PROPERTIES:
+:rating:   8.4
+:END:
+
+**** [#E] 102a. The Mind's Eye :Erimem:Peri:D2021_04:
+**** 3QTR [#C] 104. The Bride of Peladon :Peri:Erimem:Alpha_Centauri:dw2025_q1a_doctor:
+CLOSED: [2025-02-14 Fri 20:43] SCHEDULED: <2025-02-08 Sat>
+
+*** with Zara & Abby
+**** READY [#E] 117. The Judgement of Isskar :Zara:Abby:Ice_Warriors:bilibili:
+
+【【神秘博士广播剧熟肉】MR 117 The Judgement of Isskar 再寻时间的钥匙（1）-Isskar的审判-哔哩哔哩】 https://b23.tv/BV14ieUzQEzZ
+
+在一颗星球上时间暂停，博士遇到了一个岁数只有几分钟的女孩。她是一位追踪者，送入我们的宇宙，定位时间的钥匙碎片。这个生物没有名字，但是希望博士成为她的助手，但是她不想告诉他全部真相。不是一开始。
+
+第一个地方是火星，那里曾经是冰雪战士美好、和平的家园。但是博士的到来改变了一切，宇宙濒临死亡，需要做出选择。还有Isskar的审判宣布了，必须要付出的代价，哪怕需要几个世纪。
+
+**** READY [#D] 118. The Destroyer of Delights :Zara:Abby:bilibili:
+:PROPERTIES:
+:rating:   7.0
+:END:
+
+【[AI精校字幕][神秘博士广播剧]MR 118 The Key 2 Time - The Destroyer of Delights-哔哩哔哩】 https://b23.tv/BV1A3hRzpEYZ
+
+
+https://www.bigfinish.com/releases/v/doctor-who-the-key-2-time-the-destroyer-of-delights-284
+
+“你总是找错地方。我一直在找，但找不到。”
+寻找时间的关键已经停滞：下一个片段似乎不存在于宇宙的任何地方。被迫与他最大的敌人之一暂时结盟，博士提出了一个行动方案，这是对混乱本身的验证
+
+博士和艾米被随机抛向时空，抵达9世纪的苏丹，贪婪的卡西姆勋爵正在那里从哈里发使者那里囤积黄金。但为什么卡西姆看起来如此熟悉？住在沙漠里的神秘精灵是什么？为什么它需要这么多宝藏？
+
+**** READY [#F] 119. The Chaos Pool :Zara:Abby:bilibili:
+
+【【神秘博士广播剧熟肉】MR 119 The Chaos Pool 再寻时间的钥匙（3）混沌之湖-哔哩哔哩】 https://b23.tv/BV1m5HUzXE8W
+
+一个濒临灭绝的种族有一位永生的领导者确信粘液可以找到混沌之湖，这个地方甚至连时间守护者都无法定位。当Hectocot指挥官和他的Teuthoidian追随者进入诱杀，一次又一次。
+
+两个来自时间尽头的不同种族，所以他们如何共存？
+
+在搜寻最后一块时间的钥匙时，五叔和Amy在交叉火力中被抓，在一切终结到来之时，老朋友和老敌人都出现了，最后一场混沌与秩序力量之间的大战爆发了
+
+**** Wicked Sisters :1CD:P2020:Leela:Zara:Abby:
+***** 3QTR [#C] 5DWS1.1 The Garden of Storms :DW2023_05_doctor:
+CLOSED: <2024-01-15 Mon 21:35> SCHEDULED: <2023-05-20 Sat>
+
+***** 3QTR [#B] The Moonrakers :Sontarans:plot_yes:DW2024_01_doctor:
+CLOSED: <2024-01-16 Tue 19:35> SCHEDULED: <2024-01-20 Sat>
+
+***** CANCEL [#E] The People Made of Smoke
 *** MR alone :scripted:2CD:
 **** HALF [#C] 047. Omega :bilibili:dw2026_q1a_doctor:
 SCHEDULED: <2026-02-14 Sat>
@@ -428,8 +565,9 @@ SCHEDULED: <2025-04-26 Sat>
 
 ***** [#E] 270c. Castle Hydra
 ***** [#D] 270d. Effect and Cause
-*** MR misc :scripted:2CD:
-**** 2DONE [#D] 087. The Gathering :Cybermen:Tegan:plot_no:D2022_03_doctor
+*** misc
+**** MR misc :scripted:2CD:
+***** 2DONE [#D] 087. The Gathering :Cybermen:Tegan:plot_no:D2022_03_doctor:
 CLOSED: [2022-03-27 Sun 12:08] SCHEDULED: <2022-03-30 Wed>
 :PROPERTIES:
 :rating:   7.0
@@ -437,122 +575,18 @@ CLOSED: [2022-03-27 Sun 12:08] SCHEDULED: <2022-03-30 Wed>
 
 CLOSED: [2021-03-22 Mon 23:23]
 
-**** CANCEL [#E] 095a. Exotron :Peri:
-:PROPERTIES:
-:rating:   6.2
-:END:
-
-**** [#D] 095b. Urban Myths
-:PROPERTIES:
-:rating:   7.4
-:END:
-
-**** START [#E] 102b. Mission of the Viyrans :Viyrans:Peri:D2021_04:
-**** HALF [#B] 200. The Secret History (8.2) :5th_Dr:plot_yes:Steven:Vicki:Monk:D2021_09_extra:
+***** HALF [#B] 200. The Secret History (8.2) :5th_Dr:plot_yes:Steven:Vicki:Monk:D2021_09_extra:
 SCHEDULED: <2021-09-15 Wed>
 
-**** DONE [#A] 230.Time in Office :P2017:Tegan:Leela:Gallifrey:plot_yes:已购:
+***** DONE [#A] 230.Time in Office :P2017:Tegan:Leela:Gallifrey:plot_yes:已购:
 CLOSED: [2021-04-13 Tue 17:47]
 :PROPERTIES:
 :rating:   8.6
 :END:
 
-**** CANCEL [#F] 237. The Helliax Rift (5.8)
+***** CANCEL [#F] 237. The Helliax Rift (5.8)
 CLOSED: [2021-02-27 Sat 18:02]
 
-**** CANCEL [#F] 247. Devil in the Mist (6.2)
-CLOSED: [2021-02-27 Sat 18:02]
-
-**** CANCEL [#E] 248a. Black Thursday (6.4)
-CLOSED: [2021-02-27 Sat 18:02]
-
-**** CANCEL [#F] 248b. Power Game (6.0)
-CLOSED: [2021-02-27 Sat 18:02]
-
-**** CANCEL [#E] 249 The Kamelion Empire (6.6)
-CLOSED: [2021-02-27 Sat 18:02]
-
-*** 5DA with Nyssa & Tegan :5DA:
-**** The Fifth Doctor Box Set :2CD:Nyssa:Tegan:Adric:P2014:
-***** [#A] Psychodrome :Adric:Nyssa:Tegan:plot_yes:
-***** [#A] Iterations of I :Adric:Nyssa:Tegan:plot_yes:
-**** 📂2021. The Lost Resort and Other Stories :Nyssa:Tegan:Marc:plot_yes:P2021_09:
-***** [#A] The Lost Resort :2CD:plot_yes:
-***** CANCEL [#E] The Perils of Nellie Bly
-***** [#C] Nightmare of the Daleks :1CD:plot_yes:
-**** 📂2022. Forty
-***** 3QTR [#D] 1.1 Secrets of Telos :Nyssa:Tegan:Cybermen:2CD:P2022_01:DW2022_11_maybe:
-CLOSED: [2022-11-27 Sun 23:36] SCHEDULED: <2022-11-16 Wed>
-
-***** [#D] 1.2 God of War :Nyssa:Tegan:Adric:ice_warriors:1CD:P2022_01:
-***** BLOCK [#A] 2. The Auton Infinity :Tegan:Turlough:Brigadier:Master_tremas:Autons:3CD:P2022_09:plot_yes:
-**** 📂2023A. Conflicts of Interests :Nyssa:Tegan:P2023_04:
-***** [#D] Friendly Fire :1CD:3parts:
-***** CANCEL [#E] The Edge of the War :1CD:3parts:
-**** 📂2023B. In the Night :Nyssa:Tegan:P2023_09:
-***** READY [#A] 1. Pursuit of the Nightjar :2CD:
-
-【【神秘博士广播剧熟肉】In the Night 101 Pursuit of the Nightjar (Part 1&2) 追捕夜鹰-哔哩哔哩】
-https://b23.tv/BV1gc411x72A
-【【神秘博士广播剧熟肉】In the Night 101 Pursuit of the Nightjar (Part 3&4) 追捕夜鹰-哔哩哔哩】
-https://b23.tv/BV14x4y1Z79k
-
-***** CANCEL [#F] 2. Resistor :1CD:
-**** 📂2024A. The Dream Team :P2024_04:Adric:Nyssa:Tegan:
-***** [#A] The Merfolk Murders :1CD:
-***** [#C] Dream Team :1CD:
-**** [#E] 2024B. The Great Beyond :Adric:Nyssa:Tegan:3CD:P2024_09:
-:PROPERTIES:
-:tardis.guide: 3.27
-:thetimescalea: 6.7
-:END:
-
-**** 📂2025. Hooklight
-***** Hooklight 1 :P2025_04:3CD:
-***** Hooklight 2 :P2025_05:3CD:
-*** with Zara & Abby
-**** READY [#E] 117. The Judgement of Isskar :Zara:Abby:Ice_Warriors:bilibili:
-
-【【神秘博士广播剧熟肉】MR 117 The Judgement of Isskar 再寻时间的钥匙（1）-Isskar的审判-哔哩哔哩】 https://b23.tv/BV14ieUzQEzZ
-
-在一颗星球上时间暂停，博士遇到了一个岁数只有几分钟的女孩。她是一位追踪者，送入我们的宇宙，定位时间的钥匙碎片。这个生物没有名字，但是希望博士成为她的助手，但是她不想告诉他全部真相。不是一开始。
-
-第一个地方是火星，那里曾经是冰雪战士美好、和平的家园。但是博士的到来改变了一切，宇宙濒临死亡，需要做出选择。还有Isskar的审判宣布了，必须要付出的代价，哪怕需要几个世纪。
-
-**** READY [#D] 118. The Destroyer of Delights :Zara:Abby:bilibili:
-:PROPERTIES:
-:rating:   7.0
-:END:
-
-【[AI精校字幕][神秘博士广播剧]MR 118 The Key 2 Time - The Destroyer of Delights-哔哩哔哩】 https://b23.tv/BV1A3hRzpEYZ
-
-
-https://www.bigfinish.com/releases/v/doctor-who-the-key-2-time-the-destroyer-of-delights-284
-
-“你总是找错地方。我一直在找，但找不到。”
-寻找时间的关键已经停滞：下一个片段似乎不存在于宇宙的任何地方。被迫与他最大的敌人之一暂时结盟，博士提出了一个行动方案，这是对混乱本身的验证
-
-博士和艾米被随机抛向时空，抵达9世纪的苏丹，贪婪的卡西姆勋爵正在那里从哈里发使者那里囤积黄金。但为什么卡西姆看起来如此熟悉？住在沙漠里的神秘精灵是什么？为什么它需要这么多宝藏？
-
-**** READY [#F] 119. The Chaos Pool :Zara:Abby:bilibili:
-
-【【神秘博士广播剧熟肉】MR 119 The Chaos Pool 再寻时间的钥匙（3）混沌之湖-哔哩哔哩】 https://b23.tv/BV1m5HUzXE8W
-
-一个濒临灭绝的种族有一位永生的领导者确信粘液可以找到混沌之湖，这个地方甚至连时间守护者都无法定位。当Hectocot指挥官和他的Teuthoidian追随者进入诱杀，一次又一次。
-
-两个来自时间尽头的不同种族，所以他们如何共存？
-
-在搜寻最后一块时间的钥匙时，五叔和Amy在交叉火力中被抓，在一切终结到来之时，老朋友和老敌人都出现了，最后一场混沌与秩序力量之间的大战爆发了
-
-**** Wicked Sisters :1CD:P2020:Leela:Zara:Abby:
-***** 3QTR [#C] 5DWS1.1 The Garden of Storms :DW2023_05_doctor:
-CLOSED: <2024-01-15 Mon 21:35> SCHEDULED: <2023-05-20 Sat>
-
-***** 3QTR [#B] The Moonrakers :Sontarans:plot_yes:DW2024_01_doctor:
-CLOSED: <2024-01-16 Tue 19:35> SCHEDULED: <2024-01-20 Sat>
-
-***** CANCEL [#E] The People Made of Smoke
-*** misc
 **** Classic Doctors, New Monsters :1CD:
 ***** 3QTR [#B] 1.1 Fallen Angles :Weeping_Angels:scripted:DW2022_09_doctor:
 CLOSED: [2022-09-23 Fri 08:27] SCHEDULED: <2022-09-08 Thu>
@@ -582,30 +616,16 @@ CLOSED: [2022-01-14 Fri 15:10]
 
 *** short trips
 **** [#D] DotD #5 Smoke and Mirrors :Adric:Nyssa:Tegan:1CD:plot_yes:
-**** READY [#E] ST1.5 The Deep :Nyssa:P2010:bilibili:
-
-【【神秘博士广播剧】熟肉 短途旅行-卷1：深渊 Short Trips-Volume 1：The Deep-哔哩哔哩】 https://b23.tv/BV1mSR9Y6EKe
- 
-15 min
-
-**** [#D] ST5.6 The Shadows of Serenity
 **** [#C] ST6.1 Gardens of the Dead :Turlough:Tegan:Nyssa:
 **** [#B] ST7.11. The Ingenious Gentleman Adric of Alzarius :Adric:Nyssa:Tegan:1CD:
-**** [#D] ST9.10 The Second Oldest Question :Nyssa:
-**** [#D] ST10.10 The Meaning of Red
 **** [#B] I, Kamelion :Turlough:Kamelion:P2022:
 
 Interludes #1
-
-**** [#C] Meanwhile, Turlough :Toulough:P2024_04:
-
-Interludes #8
 
 **** [#D] Gobbledegook :P2023_04:
 
 Interludes #4
 
-**** ST13.6 Dark is the Devil that Walks :Tegan:Toulough:P2025_04:
 **** READY The Paliament of Rats :bilibili:
 
 【【机翻】TARDIS降落在海上-广播剧（文本见评论）-哔哩哔哩】 https://b23.tv/BV18BJNzhE4g
@@ -990,8 +1010,9 @@ SCHEDULED: <2023-11-01 Wed>
 
 **** CANCEL [#E] BR08. Return of the Krotons :1CD:Peri:
 **** [#B] ST4.6 - To Cut a Blade of Grass :Peri:plot_no:
+**** [#D] ST5.6 The Shadows of Serenity :Peri:
 **** [#C] DotD #6 Trouble in Paradise :Peri:plot_no:1CD:
-**** TODO [#B] 08. The Flight of the Sun God :6th_Dr:Peri:BBC:
+**** TODO [#B] BBC08. The Flight of the Sun God :6th_Dr:Peri:BBC:
 **** 📂2025B. Bad Terms :P2025_08:2CD:
 ***** 1. Saiorse of the Seven Seas
 ***** 2. Red for Danger
@@ -1370,24 +1391,6 @@ CLOSED: [2022-12-01 Thu 23:49]
 
 https://tardis.fandom.com/wiki/Seventh_Doctor_audio_stories
 
-*** main range top :scripted:2CD:
-**** top
-
-|   | 12. The Fires of Vulcan        | 8.4 | 7th | 2000 | Mel                                          | Steve Lyons                          |
-|   | 49. Master                     | 9.0 | 7th | 2003 | The Master, Death                            | Joseph Lidster                       |
-|   | 58. The Harvest                | 8.4 | 7th | 2004 | Ace, Hex, Cybermen                           | Dan Abnett                           |
-|   | 74. Live 34                    | 8.5 | 7th | 2005 | Ace, Hex                                     | James Parson / Andrew Stirling-Brown |
-|   | 115d. The Word Lord            | 8.6 | 7th | 2008 | Ace, Hex, Nobody No-One                      | Steven Hall                          |
-|   | 120. The Magic Mousetrap       | 8.6 | 7th | 2009 | Ace, Hex, Celestial Toymaker                 | Matthew Sweet                        |
-|   | 130. A Thousand Tiny Wings     | 8.8 | 7th | 2010 | Klein                                        | Andy Lane                            |
-|   | 131a. Klein's Story            | 8.6 | 7th | 2010 | Klein                                        | John Ainsworth / Lee Mansfield       |
-|   | 132. The Architects of History | 8.7 | 7th | 2010 | Klein, Selachians                            | Steve Lyons                          |
-|   | 140. A Death in the Family     | 9.5 | 7th | 2010 | Ace, Hex, Evelyn, Nobody No-One, the Forge   | Steven Hall                          |
-|   | 149. Robophobia                | 8.4 | 7th | 2011 | Liv, Kaldor androids                         | Nicholas Briggs                      |
-|   | 162. Protect and Survive       | 8.7 | 7th | 2012 | Ace, Hex                                     | Jonathan Morris                      |
-|   | 164. Gods and Monsters         | 8.4 | 7th | 2012 | Ace, Hex, Sally, Lysandra, Fenric, the Forge | Mike Maddox and Alan Barnes          |
-|   | 213. The Two Masters           | 8.8 | 7th | 2016 | The Old Master, The New Master               | John Dorney                          |
-
 *** with Ace :Ace:
 **** MR :scripted:2CD:
 ***** [#B] 5. Fearmonger :Ace:plot_yes:
@@ -1479,11 +1482,13 @@ up英语水平很一般，这几天7th上头了试着翻的，打轴不熟练观
 **** ST13.5 Emerald Isle :Ace:P2025_04:
 **** LS9.2 Alixion :P2025_09:2CD:
 *** MR with Ace & Hex :Ace:Max:scripted:2CD:
-***** DONE [#B] 58. The Harvest :P2004:Ace:Hex:Cybermen:plot_yes:D2021_06:
+***** DONE [#B] 58. The Harvest :P2004:Ace:Hex:Cybermen:plot_yes:D2021_06:bilibili:
 CLOSED: [2021-06-24 Thu 12:31]
 :PROPERTIES:
 :rating:   8.3
 :END:
+
+【【7th广播剧翻译】MR058 The Harvest 收割计划-哔哩哔哩】 https://b23.tv/BV1EfXsBeE9o
 
 ***** READY [#A] 74. Live 34 :P2005:Ace:Hex:plot_no:bilibili:
 :PROPERTIES:
@@ -1561,7 +1566,15 @@ CLOSED: <2024-10-31 Thu 21:22> SCHEDULED: <2024-11-02 Sat>
 :rating:   8.0
 :END:
 
-***** [#A] 140. A Death in the Family [A⁺] :P2010:Ace:Hex:Evelyn:Nobody_No_One:the_Forge:plot_no:
+***** READY [#A] 140. A Death in the Family [A⁺] :P2010:Ace:Hex:Evelyn:Nobody_No_One:the_Forge:plot_no:bilibili:
+
+【【神秘博士广播剧熟肉】 MR 140 A Death in the Family - 故人已去-哔哩哔哩】 
+https://b23.tv/BV1v2DsBRE8P
+
+未来折入过去，无家可归的英雄陨落了。现在有三个故事：Herald的故事，躲起来女人的故事，最后颂事者的故事，当这些故事讲完，所有的灯都会暗下，世界将会终止。
+
+21世纪的伦敦：Nobody No One，来自外维度的单词领主，又一次蠢蠢欲动。这一次，无法打败，一个悲剧也即将上演。
+
 ***** DONE [#A] 162. Protect and Survive (8.7) :P2012:Ace:Hex:plot_yes:WW3:Old_Ones:已购:
 CLOSED: [2021-03-22 Mon 20:20]
 
@@ -1627,7 +1640,8 @@ SCHEDULED: <2021-09-26 Sun>
 :rating:   6.8
 :END:
 
-*** MR with Mel :Mel:scripted:2CD:
+*** with Mel :Mel:scripted:2CD:
+**** MR with Mel
 ***** HALF [#B] 12. The Fires of Vulcan (8.2) :P2000:Mel:plot_yes_dwg:DW2023_01_doctor:
 SCHEDULED: <2023-01-09 Mon 21:19>
 
@@ -1659,6 +1673,15 @@ SCHEDULED: <2022-01-30 Sun>
 ***** [#E] 202. The Warehouse
 ***** CANCEL [#F] 203. Terror of the Sontarans
 ***** CANCEL [#F] 214. A Life of Crime
+**** 📂2022A Silver and Ice :P2022_06:
+***** CANCEL [#F] Bad Day in Tinseltown :Cybermen:Mel:1CD:
+CLOSED: [2022-10-08 Sat 09:05]
+
+***** 3QTR [#D] The Ribos Inheritance :Mel:2CD:plot_yes:DW2024_Q3a_doctor:
+CLOSED: [2024-06-29 Sat 19:45] SCHEDULED: <2024-06-05 Wed 09:27>
+
+需要先看剧集16x01 The Ribos Operation
+
 *** with Ace & Mel
 **** MR with Ace & Mel
 ***** [#E] 215. Fiesta of the Damned
@@ -1838,17 +1861,7 @@ Raine就是当时计划中Ace下车后的新同伴。不过现在就是这三个
 
 当神秘飞船盯上温哥华号，Ace和博士被逼到了极限。与此同时，粮舱里藏着某种令人不安的东西——而且它可不太高兴…
 
-*** 7DA :7DA:
-**** V. Return of the Daleks :Susan_Mendes:Kalendorf:P2006:
-**** 📂2022A Silver and Ice :P2022_06:
-***** CANCEL [#F] Bad Day in Tinseltown :Cybermen:Mel:1CD:
-CLOSED: [2022-10-08 Sat 09:05]
-
-***** 3QTR [#D] The Ribos Inheritance :Mel:2CD:plot_yes:DW2024_Q3a_doctor:
-CLOSED: [2024-06-29 Sat 19:45] SCHEDULED: <2024-06-05 Wed 09:27>
-
-需要先看剧集16x01 The Ribos Operation
-
+*** with Harry & Naomi :7DA:
 **** 📂2022B Sullivan and Cross - AWOL :Harry:Naomi:P2022_11:
 ***** CANCEL [#E] 22B.1 London Orbital
 ***** CANCEL [#F] 22B.2 Scream of the Daleks :Daleks:
@@ -1860,8 +1873,24 @@ SCHEDULED: <2026-01-17 Sat>
 :tardis.guide: 3.79
 :END:
 
-***** [#D] 23A.2 Naomi's Ark :*blogs:
-**** 📂2024B The Doctor and Carnacki :P2024_11:Carnacki:
+***** [#D] 23A.2 Naomi's Ark
+**** 📂2025A. Past Forward :P2025_06:Harry:Naomi:
+***** 1. With the Angels :Weeping_Angels:
+***** 2. Catastrophix
+*** misc
+**** V. Return of the Daleks :Susan_Mendes:Kalendorf:P2006:
+**** HALF [#D] CC7.3 Project: Nirvana :Sally:Lysandra:P2012:plot_cast:DW2023_03_doctor:
+SCHEDULED: <2023-03-25 Sat>
+
+**** CANCEL [#E] CDNM1.3 Harvest of Sycorax
+:PROPERTIES:
+:rating:   6.9
+:END:
+
+**** DONE [#C] River2.1 The Unknown :plot_yes:DW2023_07_doctor:
+CLOSED: [2023-07-04 Tue 08:31] SCHEDULED: <2023-07-08 Sat>
+
+**** 📂7DA2024B The Doctor and Carnacki :P2024_11:Carnacki:
 ***** [#D] 24B.1 The Haunter of the Shore
 :PROPERTIES:
 :thetimescales: 6.3
@@ -1879,21 +1908,6 @@ SCHEDULED: <2026-01-17 Sat>
 :thetimescales: 7.2
 :tardis.guide: 3.52
 :END:
-
-**** 📂2025A. Past Forward :P2025_06:Harry:Naomi:
-***** 1. With the Angels :Weeping_Angels:
-***** 2. Catastrophix
-*** misc
-**** HALF [#D] CC7.3 Project: Nirvana :Sally:Lysandra:P2012:plot_cast:DW2023_03_doctor:
-SCHEDULED: <2023-03-25 Sat>
-
-**** CANCEL [#E] CDNM1.3 Harvest of Sycorax
-:PROPERTIES:
-:rating:   6.9
-:END:
-
-**** DONE [#C] River2.1 The Unknown :plot_yes:DW2023_07_doctor:
-CLOSED: [2023-07-04 Tue 08:31] SCHEDULED: <2023-07-08 Sat>
 
 *** unofficial
 **** [#A] BBV 21 Punchline :plot_yes_dwg:
@@ -2221,10 +2235,14 @@ https://doctorwho.guide/who_na46.htm
 
 https://doctorwho.guide/who_na55.htm
 
-*** [#B] VNA60. Lungbarrow :Chris:
+*** READY [#B] VNA60. Lungbarrow :Chris:hanzify:
 :PROPERTIES:
 :goodreads: 4.03
 :END:
+
+【《神秘博士：隆巴罗》中文译版-哔哩哔哩】 https://b23.tv/BV197PfzSERv
+
+
 
 ** short stories
 *** How You Get There :Benny:

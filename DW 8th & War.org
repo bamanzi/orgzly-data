@@ -47,11 +47,16 @@ https://www.bigfinish.com/releases/v/doctor-who-the-stones-of-venice-643
 
 这本就是件重大却又令人沮丧的事件。然而，一位害了相思病的贵族、一位高傲的艺术史学家，还有某个声名狼藉的邪教里狂热的大祭司，三人各自的阴谋算计交织在一起，让威尼斯的这场 “绝唱” 变成了一个令人难忘的夜晚。更有长着蹼足的两栖底层阶级发动叛乱、一具尸体神秘消失，以及一段比寻常诅咒更为古老的诅咒背后所隐藏的真相。博士和查莉不禁开始怀疑，这次他们到底卷入了怎样的麻烦之中……
 
-***** DONE [#F] 019 - Minuet in Hell :Brigadier:
+***** DONE [#F] 019 - Minuet in Hell :Brigadier:bilibili:
 CLOSED: <2020-08-24 Mon 16:30>
 :PROPERTIES:
 :rating:   5.8
 :END:
+
+【[神秘博士广播剧]MR 019 Minuet in Hell-哔哩哔哩】 https://b23.tv/BV1SwwnzbE6Z
+
+
+
 
 ***** DONE [#E] 028 - Invaders from Mars
 CLOSED: <2020-09-19 Sat 13:56>
@@ -1040,14 +1045,14 @@ http://blog.sina.cn/dpool/blog/s/blog_6c777581010185u0.html?type=2
 **** The Glorious Dead
 ***** Happy Deathday (DWM272) :Izzy:
 ***** The Fallen (DWM273-276) :Izzy:Grace:Master:
-***** Unnatural Born Killers (DWM277) :Kroton:Sontarans:no_doctor:
+***** Unnatural Born Killers (DWM277) :Krotons:Sontarans:no_doctor:
 ***** The Road to Hell (DWM278-282) :Izzy:
 ***** TV Action! (DWM283) :Izzy:
-***** The Company of Thieves (DWM284-286) :Izzy:Kroton:
-***** The Glorious Dead (DWM287-296) :Izzy:Kroton:Master:
+***** The Company of Thieves (DWM284-286) :Izzy:Krotons:
+***** The Glorious Dead (DWM287-296) :Izzy:Krotons:Master:
 ***** The Autonomy Bug (DWM297-299) :Izzy:
-***** Ship of Fools (DWM23-24) :Kroton:no_doctor:
-***** Throwback: The Soul of a Cybermen :Kroton:Cybermen:no_doctor:
+***** Ship of Fools (DWM23-24) :Krotons:no_doctor:
+***** Throwback: The Soul of a Cybermen :Krotons:Cybermen:no_doctor:
 **** Oblivion
 ***** DONE Ophidius (DWM300-303) :Izzy:Destrii:
 ***** Beautiful Freak (DWM304) :Izzy:
@@ -1276,17 +1281,20 @@ CLOSED: [2021-11-16 Tue 19:56] SCHEDULED: <2021-11-13 Sat>
 :rating:   9.4
 :END:
 
-*** DONE [#B] WM1.1 Beneath the Viscoid :Master_war:🎧:plot_yes:D2021_07_extra:
+*** DONE [#B] WM1.1 Beneath the Viscoid :Master_war:🎧:plot_yes:D2021_07_extra:bilibili:
 CLOSED: [2020-12-18 Fri 12:30]
 :PROPERTIES:
 :rating:   8.1
 :END:
 
+【[神秘博士广播剧] The War Master 101: Beneath the Viscoid-哔哩哔哩】 https://b23.tv/BV17vQBBeEmz
+
+
+
 *** DONE [#B] GTW1.3 The Devil You Know (Gallifrey: Time War #1.3) :Master_war:🎧:bilibili:
 CLOSED: <2020-11-09 Mon 10:30>
 
 【[神秘博士广播剧]Gallifrey: Time War 103  The Devil You Know-哔哩哔哩】 https://b23.tv/BV1BrC3BKE4Q
-
 
 *** Damaged Goods
 
@@ -1304,11 +1312,13 @@ CLOSED: [2020-11-09 Mon 18:14]
 :rating:   7.8
 :END:
 
-*** 2DONE [#A] WM1.3 The Sky Man :Cole:D2021_09_extra:🎧:
+*** 2DONE [#A] WM1.3 The Sky Man :Cole:D2021_09_extra:🎧:bilibili:
 CLOSED: [2021-09-24 Fri 18:50] SCHEDULED: <2021-09-04 Sat>
 :PROPERTIES:
 :rating:   9.2
 :END:
+
+【[神秘博士广播剧] The War Master 103: The Sky Man-哔哩哔哩】 https://b23.tv/BV1vSSXBYErS
 
 *** /📂The War Master series 7: Self-Defence/ :Master_war:🎧:P2022_06:plot_cast:
 **** DONE [#B] 7.1 The Forest of Penitence :bilibili:DW2024_Q2b_spinoffs:
@@ -1599,6 +1609,8 @@ https://b23.tv/BV1km4y1t7Jb
 【【广播剧汉化】无限循环的死结 Cass 103 Previously, Next Time 上-哔哩哔哩】 
 https://b23.tv/BV1eN4y1C7Kn
 
+【[神秘博士广播剧] Doctor Who: Time War 503 Previously, Next Time Part 2-哔哩哔哩】 https://b23.tv/BV1SnSXBpEXP
+
 *** 📂8D Time War vol.6 Reflections :Cass:Alex:P2024_10:
 **** [#D] 6.1 Nowhere, Never
 :PROPERTIES:
@@ -1629,6 +1641,11 @@ https://b23.tv/BV1eN4y1C7Kn
 **** 7.2 The Tale of Alex
 **** 7.3 See-Saw
 **** 7.4 The First Forest
+*** TBR 📂8D Time War vol.8 Branches :P2026_05:Alex:
+**** 8.1 The Only Girl in the World
+**** 8.2 False Dawn
+**** 8.3 Council of Susan
+**** 8.4 All Over
 ** 9. Fall of Romana
 *** DONE GTW3.2 Nevernor :bilibili:
 CLOSED: [2020-12-17 Thu 19:53]
