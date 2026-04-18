@@ -534,12 +534,8 @@ http://www.drwhoguide.com/bbc7_13.htm
 ***** [#D] 3.4 Wirrn Dawn (7.1)
 ***** [#D] 3.5 The Scapegoat     (7.2)
 ***** [#C] 3.6 The Cannibalists
-***** [#C] 3.7 The Eight Truths :dw2026_q1b_doctor:
-SCHEDULED: <2026-03-28 Sat>
-
-***** READY [#C] 3.8 Worldwide Web :bilibili:
-
-【假面骑士：重生广播剧特别篇——隼的冒险：蛛网遍布-哔哩哔哩】 https://b23.tv/BV1ahsfzeEE2
+***** [#C] 3.7/3.8 The Eight Truths / Worldwide Web
+SCHEDULED: <2026-04-18 Sat>
 
 **** 8DA series 4 :P2010:scripted:
 ***** 2DONE [#B] 4.1 _Death in Blackpool_ :Zygons:D2021_08_dr:
@@ -1898,7 +1894,7 @@ CLOSED: <2024-12-09 Mon 08:57> SCHEDULED: <2024-12-14 Sat>
 【【神秘博士广播剧汉化】The War Doctor 战争博士 301 The Shadow Vortex-哔哩哔哩】 
 https://b23.tv/BV12b4y1e7UV
 
-**** READY [#C] 3.2 - The Eternity Cage :bilibili:dw2026_q1b_doctor:
+**** HALF [#C] 3.2 - The Eternity Cage :bilibili:dw2026_q1b_doctor:
 SCHEDULED: <2026-04-04 Sat>
 :PROPERTIES:
 :rating:   7.7

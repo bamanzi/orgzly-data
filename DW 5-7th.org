@@ -138,7 +138,8 @@ CLOSED: [2021-02-27 Sat 18:02]
 :rating:   6.6
 :END:
 
-***** [#B] 224b. Dalek Soul :plot_no:short:
+***** [#B] 224b. Dalek Soul :plot_no:short:dw2026_q2a_doctor:
+SCHEDULED: <2026-05-09 Sat>
 :PROPERTIES:
 :rating:   8.4
 :END:
@@ -1045,7 +1046,7 @@ CLOSED: [2022-04-22 Fri 08:22] SCHEDULED: <2022-04-30 Sat>
 
 ***** CANCEL [#E] 097a The Wishing Beast
 ***** [#C] 097b. The Vanity Box
-***** [#C] 169. The Wrong Doctors :Mel:dw2026_q1b_doctor:
+***** HALF [#C] 169. The Wrong Doctors :Mel:dw2026_q1b_doctor:
 SCHEDULED: <2026-03-21 Sat>
 :PROPERTIES:
 :rating:   7.9
@@ -1578,7 +1579,8 @@ https://b23.tv/BV1v2DsBRE8P
 ***** DONE [#A] 162. Protect and Survive (8.7) :P2012:Ace:Hex:plot_yes:WW3:Old_Ones:已购:
 CLOSED: [2021-03-22 Mon 20:20]
 
-***** LATER [#C] 163. Black and White :Ace:Hex:Sally:Lysandra:plot_yes:
+***** LATER [#C] 163. Black and White :Ace:Hex:Sally:Lysandra:plot_yes:dw2026_q2a_doctor:
+SCHEDULED: <2026-04-25 Sat>
 :PROPERTIES:
 :rating:   7.7
 :END:

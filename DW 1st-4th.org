@@ -164,7 +164,8 @@ SCHEDULED: <2022-03-12 Sat>
 
 plot: https://breezewiki.com/tardis/wiki/For_the_Glory_of_Urth_(audio_story)#Plot
 
-***** [#A] 5.2 The Hollow Crown :Shakespeare:P2021:plot_yes:historical:
+***** [#A] 5.2 The Hollow Crown :Shakespeare:P2021:plot_yes:historical:dw2026_q2a_doctor:
+SCHEDULED: <2026-05-09 Sat>
 :PROPERTIES:
 :rating:   9.0?
 :END:
@@ -659,7 +660,8 @@ UNIT 和 准将第一次正式出场
 **** Bringer of Darkness (DWMS 1993) :Jamie:Victoria:Daleks:
 ** audio :🎧:
 *** with Polly & Ben
-**** [#D] CC12.1 - The Curator's Egg :Polly:Ben:
+**** HALF [#D] CC12.1 - The Curator's Egg :Polly:Ben:dw2026_q1b_doctor:
+SCHEDULED: <2026-04-04 Sat>
 :PROPERTIES:
 :rating:   7.2
 :END:
@@ -943,9 +945,7 @@ https://tardis.wiki/wiki/The_Second_Doctor:_Volume_Three
 :END:
 
 *** TV Soundtracks
-**** LTV3.4 The Highlanders :Polly:Ben:Jamie:dw2026_q1b_doctor:
-SCHEDULED: <2026-04-04 Sat>
-
+**** LTV3.4 The Highlanders :Polly:Ben:Jamie:
 **** 3QTR LTV4.4 The Abominable Snowmen :Jamie:Victoria:DW2023_04_doctor:
 CLOSED: [2023-04-28 Fri 16:11] SCHEDULED: <2023-04-08 Sat>
 

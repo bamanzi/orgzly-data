@@ -598,8 +598,8 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
       :tardis.guide: 3.96
       :END:
 
-***** [#B] 86. End Game :Tosh:P2024_08:dw2026_q1b_spinoffs:
-      SCHEDULED: <2026-03-22 Sun>
+***** HALF [#B] 86. End Game :Tosh:P2024_08:dw2026_q1b_spinoffs:
+      SCHEDULED: <2026-04-05 Sun>
       :PROPERTIES:
       :thetimescales: 8.7
       :tardis.guide: 4.15
@@ -864,7 +864,9 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
 ***** HALF [#B] 7.10 Doomscroll :Orr:Colchester:Tyler:Ng:dw2026_q1a_spinoffs:
       SCHEDULED: <2026-01-18 Sun>
 
-***** [#B] 7.11 Heistland :Yvonne:Orr:Tyler:
+***** [#B] 7.11 Heistland :Yvonne:Orr:Tyler:dw2026_q2a_spinoffs:
+      SCHEDULED: <2026-04-26 Sun>
+
 ***** [#C] 7.12 The Apocalypse Starts at 6 PM :Yvonne:Og:
 *** 📂The Lives of Captain Jack :🎧:Jack:1CD:
 **** vol.1 :P2017:
@@ -873,7 +875,8 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
       :rating:   7.2
       :END:
 
-***** HALF [#C] 1.2 Wednesdays For Beginners :Jackie:
+***** HALF [#C] 1.2 Wednesdays For Beginners :Jackie:dw2026_q2a_spinoffs:
+      SCHEDULED: <2026-05-24 Sun>
       :PROPERTIES:
       :rating:   7.6
       :END:
@@ -1332,7 +1335,9 @@ Roberts Master
 ***** HALF [#A] part1. The Rules of the House :dw2026_q1b_spinoffs:
       SCHEDULED: <2026-03-08 Sun>
 
-***** [#A] part2. The Key to the Door
+***** [#A] part2. The Key to the Door :dw2026_q2a_spinoffs:
+      SCHEDULED: <2026-05-10 Sun>
+
 ***** [#A] part3. The Bird from the Nest
 ***** [#A] part4. The Isle on the Shore
 **** 📂DoRS 12 - The Orphan Quartet :P2023_08:
@@ -1515,8 +1520,8 @@ Roberts Master
     :rating:   7.7
     :END:
 
-*** [#B] 10.3 - The Mourning After :dw2026_q1b_spinoffs:
-    SCHEDULED: <2026-04-12 Sun>
+*** HALF [#B] 10.3 - The Mourning After :dw2026_q1b_spinoffs:
+    SCHEDULED: <2026-04-05 Sun>
     :PROPERTIES:
     :rating:   8.2
     :END:
@@ -2703,7 +2708,9 @@ rating 8.7/8.3
      :thetimescales: 7.1
      :END:
 
-**** [#D] 1.2 Time Flies
+**** [#D] 1.2 Time Flies :dw2026_q2a_spinoffs:
+     SCHEDULED: <2026-05-10 Sun>
+
 **** [#C] 1.3 Dark Side of the Moon
 *** 📂Visitants :P2022_12:
 **** [#D] 2.1 The Frequency
@@ -2892,7 +2899,7 @@ rating 8.7/8.3
     SCHEDULED: <2026-02-22 Sun>
 
 *** [#C] 2.2 Power of the Dominators :dw2026_q1b_spinoffs:
-    SCHEDULED: <2026-03-29 Sun>
+    SCHEDULED: <2026-04-19 Sun>
 
 *** [#C] 2.3 The War Factory
 *** [#C] 2.4 Ten Minutes in Hell
@@ -3096,7 +3103,8 @@ http://www.drwhoguide.com/kaldor03.htm
      CLOSED: [2026-02-07 Sat 08:25] SCHEDULED: <2026-02-08 Sun>
 
 *** 📂PG: Trespassers 3 - No Place Like Home :P2024_12:
-**** [#D] 3.1 Doppelgängers :Zygons:
+**** [#D] 3.1 Doppelgängers :Zygons:dw2026_q2a_spinoffs:
+     SCHEDULED: <2026-04-26 Sun>
      :PROPERTIES:
      :thetimescales: 6.8
      :tardis.guide: 3.71
@@ -3254,17 +3262,33 @@ https://web.archive.org/web/20210126082141/http://www.drwhoguide.com/bbv31.htm
 
 【【神秘博士广播剧熟肉】Faction Paradox 101 The Eleven Day Empire 十一日帝国-哔哩哔哩】https://b23.tv/BV1Yf421B7Kv
 
-**** READY 2. The Shadow Play :P2001:bilibili:
+残暴者在晚餐时讨论未来；Sontaran决定在正确的方向上推动灭绝；Justine失去了“最亲密的朋友”却得到了一个机会；Morlock教父最后一次出席议会，即时发现了陷阱并走入其中；家族的创始人留下了遗产；当教派为战争做准备时，灭亡之人将在墙上舞蹈。
+——————————————
+螺旋政治入门指南（战后版）
+1：悖论派
+时期：非确切
+科技：后线性（轻微），时间活跃
+甚至在“天堂之战”爆发前，悖论派就被公认为是最不可预测（而且是机会主义者）的时间活跃势力。他们知道历史的不稳定性——但没有义务保护时间线——其他家族仍在尽力维护“宇宙的秩序”，教派则遵循他们自己更加模糊的协议。无情，神秘，有时令人难以理解，教派最终发现自己正处于敌对势力的围攻下，也在是意料之中...
+
+**** READY [#D] 2. The Shadow Play :P2001:bilibili:dw2026_q2a_spinoffs:
+     SCHEDULED: <2026-05-31 Sun>
 
 【【神秘博士广播剧熟肉】Faction Paradox 102 The Shadow Play 影子戏-哔哩哔哩】https://b23.tv/BV1k4421U7QQ
 
-**** 3. Sabbath Dei :P2003:
-**** 4. In the Year of the Cat :P2003:
-**** 5. Movers :P2003:
-**** 6. A Labyrinth of Histories :P2004:
+Justine明白了她的水晶鞋有多合脚；烈火的洗礼变成了外交的痛苦；Lolita女士上了一堂如何正确使用武器的课，Kine将军发现要解除Sontaran的武装比解除教派信徒的武装更容易；Eliza成为一场飞船盗窃事件的帮凶（大规模）；一个大家族的覆灭，却是另一个的崛起。
+——————————————
+螺旋政治入门指南（战后版）
+2：桑塔人
+时期：持续1300万年
+科技：军事（公然），有限的时间意识
+或许把桑塔人看作是一个物种并不明智。它们是大量孵化出来的矮人种族，为全面交战而生，桑塔人的军事机器被很多时间活跃文化视为一种“职业危害”：自然的力量，而不是种族，它们由责任和基因驱使，必须为无休止的战争获取新技术。然而，需要记住的是，在更高势力的协助下，即使是最原始的种族也可能变得不同寻常。
+
+**** [#E] 3. Sabbath Dei :P2003:
+**** [#D] 4. In the Year of the Cat :P2003:
+**** [#D] 5. Movers :P2003:
+**** [#D] 6. A Labyrinth of Histories :P2004:
 *** 📂The True History of Faction Paradox (MBP 2004-2009) :Sutekh:Justine:Eliza:plot_yes_dwg:
-**** HALF [#C] 1. Coming to Dust :P2005:dw2025_q1b_spinoffs:
-     SCHEDULED: <2025-03-09 Sun>
+**** [#C] 1. Coming to Dust :P2005:
 
 https://tardis.breezewiki.com/wiki/Coming_to_Dust_(audio_story)
 https://web.archive.org/web/20220524090323/http://drwhoguide.com/paradox_a01.htm
