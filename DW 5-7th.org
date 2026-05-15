@@ -269,8 +269,11 @@ SCHEDULED: <2022-05-14 Sat>
 
 ***** [#E] LS3.2 Hexagora :Nyssa:Tegan:P2011:
 ***** [#D] LS3.3 - The Children of Seth :Nyssa:Tegan:2CD:P2011:
-***** [#D] LS5.1 Nightmare Country :P2019:
-***** READY LS9.1 Genesis of the Cybermen :Adric:Nyssa:Tegan:Cybermen:P2025_03:bilibili:
+***** READY [#B] LS9.1 Genesis of the Cybermen :Adric:Nyssa:Tegan:Cybermen:P2025_03:bilibili:
+:PROPERTIES:
+:tardis.guide: 4.27
+:thetimescales: 8.2
+:END:
 
 【【iCelery】赛博人的起源 - Genesis of the Cybermen P1【神秘博士广播剧】-哔哩哔哩】
 - P1 :: https://b23.tv/BV1t8grzgEYE
@@ -1010,13 +1013,22 @@ SCHEDULED: <2023-11-01 Wed>
 :END:
 
 **** CANCEL [#E] BR08. Return of the Krotons :1CD:Peri:
-**** [#B] ST4.6 - To Cut a Blade of Grass :Peri:plot_no:
+**** READY [#B] ST4.6 - To Cut a Blade of Grass :Peri:plot_no:bilibili:
+
+【【神秘博士广播剧熟肉】短途旅行 406 To Cut a Blade of Grass 割草一茎-哔哩哔哩】 https://b23.tv/BV1dNdZB8E8m
+
+博士最后一次前往探望一位老朋友—Walter Wibberley，而此时他正躺在医院的病床上...
+
 **** [#D] ST5.6 The Shadows of Serenity :Peri:
 **** [#C] DotD #6 Trouble in Paradise :Peri:plot_no:1CD:
 **** TODO [#B] BBC08. The Flight of the Sun God :6th_Dr:Peri:BBC:
 **** 📂2025B. Bad Terms :P2025_08:2CD:
 ***** 1. Saiorse of the Seven Seas
 ***** 2. Red for Danger
+**** 📂2026A. Expulsion :P2026_04:Peri:Turlough:
+***** 1. The Reckoning
+***** 2. A Crucible of Queens
+***** 3. The Curse of the Duergar
 *** with Mel
 **** MR with Mel :Mel:scripted:2CD:
 ***** 3QTR [#A] 27. The One Doctor (9.0) :Mel:plot_no:D2022_04_doctor:
@@ -1295,9 +1307,24 @@ This anthology marked the 40th anniversary of Baker's debut as the Doctor.
 ***** [#B] 6. The Firstborn :1CD:
 **** [#E] 2024B. The Trials of a Time Lord :Peri_older:Mel:P2024_08:3CD:
 **** 📂2025A. The Cosmos and Mrs Clarke :P2025_05:Constance:
-***** 1. The Story Demon
-***** 2. The Key to Many Worlds
-***** 3. Inconstancy
+***** [#C] 1. The Story Demon
+:PROPERTIES:
+:tardis.guide: 3.97
+:thetimescales: 7.5
+:END:
+
+***** [#D] 2. The Key to Many Worlds
+:PROPERTIES:
+:tardis.guide: 3.63
+:thetimescales: 5.9
+:END:
+
+***** [#E] 3. Inconstancy
+:PROPERTIES:
+:tardis.guide: 3.33
+:thetimescales: 6.7
+:END:
+
 *** BF misc
 **** Jago and Litefoot: Series 4
 ***** 2DONE Jago in Love
@@ -1480,8 +1507,12 @@ up英语水平很一般，这几天7th上头了试着翻的，打轴不熟练观
 :END:
 
 **** [#B] ST6.X - Forever Fallen :Ace:plot_yes:
-**** ST13.5 Emerald Isle :Ace:P2025_04:
+**** [#E] ST13.5 Emerald Isle :Ace:P2025_04:
 **** LS9.2 Alixion :P2025_09:2CD:
+**** 📂7DA2025B. Wicked! :P2025_10:
+***** 1. Backwards and in Heels
+***** 2. The Price of Snow
+***** 3. The Ingenious Gentlemen
 *** MR with Ace & Hex :Ace:Max:scripted:2CD:
 ***** DONE [#B] 58. The Harvest :P2004:Ace:Hex:Cybermen:plot_yes:D2021_06:bilibili:
 CLOSED: [2021-06-24 Thu 12:31]
@@ -1793,8 +1824,8 @@ https://b23.tv/BV19Y411t7fV
 :rating:   8.7
 :END:
 
-*** with Benny :2CD:
-**** CANCEL [#E] NA2 The Highest Science :Benny:
+*** with Benny
+**** CANCEL [#E] NA2 The Highest Science :Benny:2CD:
 **** [#D] CC4.6 BS and the Criminal Code :Benny:
 **** DONE BSNA 1.1 The Revolution
 *** with Raine

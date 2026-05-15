@@ -206,7 +206,21 @@ CLOSED: [2023-09-13 Wed 09:05] SCHEDULED: <2023-09-16 Sat>
 
 ***** [#F] CC13.1 - E is For...
 **** ST
-***** [#B] ST1.1 Rise and Fall
+***** READY [#B] ST1.1 Rise and Fall :bilibili:
+
+【【神秘博士有声书熟肉】短途旅行 101 Rise and Fall 起落-哔哩哔哩】 https://b23.tv/BV1iZRZBcEbF
+
+
+在一个遥远的星球上，那些面孔会在空气中短暂地出现片刻，随即消失
+
+博士和Ian能解开这个谜团吗？
+
+而他们又与这个文明有着什么样的关系？
+
+时间转子仍旧起落不停，而那两位观察者却屹然不动……
+
+有错误欢迎各位指正
+
 ***** [#C] ST8.9 - A Small Semblance of Home :Susan:Ian:Barbara:
 ***** [#A] SST43 Home Again, Home Again :P2020:
 *** with Ian, Barbara, Vicki
@@ -781,7 +795,8 @@ There is a creature loose on the war-torn planet of Tersimmon. It has just
 
 **** [#C] ST10.2 - Deleted Scenes :Jamie:
 :PROPERTIES:
-:rating:   7.8
+:thetimescales: 8.0
+:tardis.guide: 3.85
 :END:
 
 *** with Jamie & Zoe
@@ -1419,7 +1434,8 @@ SCHEDULED: <2023-09-21 Thu>
 ***** CANCEL [#E] 2022B. Kaleidoscope :Harry:Brigadier:P2022_10:3CD:
 ***** [#D] 2024A. Revolution in Space :P2024_02:3CD:plot_yes:
 :PROPERTIES:
-:rating:   7.1
+:thetimescales: 7.1
+:tardis.guide: 3.48
 :END:
 
 ***** 2025B. Operation: Vengeance :P2025_10:Brigadier:3CD:
@@ -1806,12 +1822,22 @@ CLOSED: <2025-06-15 Sun 15:21> SCHEDULED: <2025-06-14 Sat>
 ***** [#D] 12.5 Stone Cold :Weeping_Angels:P2023_06:2CD:
 ***** [#B] 12.6 The Ghost of Margaret :P2023_06:1CD:
 **** 📂4DA series 14
-***** 14.1 The Hellwood Inheritance :P2025_03:2CD:
-***** 14.2 The Memory Thieves :P2025_03:
+***** [#E] 14.1 The Hellwood Inheritance :P2025_03:2CD:
+***** [#E] 14.2 The Memory Thieves :P2025_03:
 ***** 14.3 The Remains of Kaerula :P2025_06:
 ***** 14.4 The Ruins of Kaerula :P2025_06:
 ***** 14.5 Cry of the Banshee :P2025_06:
-***** 14.6 Conspiracy of Silence :P2025_09:
+***** READY 14.6 Conspiracy of Silence :Silents:P2025_09:bilibili:
+
+【【神秘博士广播剧熟肉】四任博士冒险 1406 Conspiracy of Silence 寂静阴谋-哔哩哔哩】 https://b23.tv/BV1t99DBoE8B
+
+石油钻井平台发生了某种变故。这一变故发生得如此迅速且出人意料，以至于平台上的 150 名员工根本无法寻求救援。所有曾试图进行调查的人都已消失无踪。
+
+如今，准将正派遣博士和Leela前去执行任务。但那里究竟能找到些什么呢？抑或说那里根本毫无可寻之物？钻井平台上空无一人……只有寂静
+
+带有#的句子翻译存在问题
+有错误欢迎各位指正
+
 ***** 14.7 The Last Queen of the Nile :P2025_09:
 **** 📂BF PHP
 
@@ -2058,7 +2084,7 @@ SCHEDULED: <2025-09-13 Sat>
 https://b23.tv/BV1BFWFejE22
 
 ***** [#D] 13.6 The Face in the Storm :P2024_09:1CD:
-***** [#C] 13.7 Dominant Species :P2024_09:2CD:
+***** [#C] 13.7 Dominant Species :P2024_09:2CD:Dominators:
 *** with Sarah (& Harry) :Sarah:
 **** 2DONE [#B] LS6.1 - Return of the Cybermen :Cybermen:plot_half:DW2022_08_doctor:bilibili:
 CLOSED: [2022-09-03 Sat 17:41] SCHEDULED: <2022-09-04 Sun>
@@ -2588,10 +2614,11 @@ https://b23.tv/BV1eE6FYwEYz
 :END:
 
 *** 31. What Still Remains :7th_Dr:Ace:P2025_08:
-*** 32. Firefall :15th_Dr:Belinda:
-*** 33. Counterstrike :15th_Dr:Belinda:
-*** 34. The Mind Trap :P2026_01:2nd_Dr:Jamie:Zoe:
-*** 35. Star Flight :1st_Dr:Susan:Ian:Barbara:
+*** 32. Firefall :15th_Dr:Belinda:P2025_10:
+*** 33. Counterstrike :15th_Dr:Belinda:P2025_10:
+*** 34. The Mind Trap :P2026_01:2nd_Dr:Jamie:Zoe:P2026_01:
+*** 35. Star Flight :1st_Dr:Susan:Ian:Barbara:P2026_03:
+*** 36. Circle of Memory :11th_Dr:Amy:Rory:P2026_05:
 ** 📂Sontarans vs Rutans
 *** [#C] 1. The Battle of Giant's Causeway :8th_Dr:Charley:Crizz:P2024_01:
 *** 3QTR [#B] 2. The Children of the Future :3rd_Dr:Sarah:P2024_02:
@@ -2618,7 +2645,7 @@ https://b23.tv/BV1eE6FYwEYz
 *** 4. It's a Wonderful War :8th_Dr:Daleks:
 ** 📂Rutans vs Sontarans :P2026:Sontarans:
 *** 2.1 Betrayal at the House of Sontar :Fugitive_Dr:P2026_04:
-*** TBR 2.2 Rendition :2nd_Dr:8th_Dr:Jamie:Zoe:
+*** TBR 2.2 Rendition :2nd_Dr:8th_Dr:Jamie:Zoe:P2026_05:
 *** TBR 2.3 Grave Moon :6th_Dr:Peri:
 *** TBR 2.4 Peace at Last :8th_Dr:Charley:Crizz:
 * multi-doctor story

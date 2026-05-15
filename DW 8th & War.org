@@ -396,7 +396,7 @@ https://b23.tv/BV1j94y14786
 https://b23.tv/BV1CA411Q7Yk
 
 ***** [#C] SvsR #1. The Battle of Giant's Causeway :P2024_01:Crizz:
-***** ST13.4 Ahead of Time :P2025_04:
+***** [#F] ST13.4 Ahead of Time :P2025_04:
 *** with Mary
 **** 2DONE [#B] MR123d. Mary's Story :plot_yes:Mary:½CD:
 CLOSED: [2021-03-22 Mon 22:31]
@@ -461,6 +461,8 @@ SCHEDULED: <2022-04-29 Fri>
 
 It was set between series 1 and series 2 of the Eighth Doctor Adventures audio series
 
+***** [#E] 1.1 The Dalek Trap
+***** [#E] 1.2 The Revolution Game
 ***** [#C] 1.3 The House on the Edge of Chaos
 :PROPERTIES:
 :rating:   7.6
@@ -1117,17 +1119,24 @@ Narvin�from the future (AUDIO: Desperate Measures) attempts to prevent the War
 
 ** 1. Tensions rising
 *** /📂The War Master series 2: The Master of Callous/ :Master_war:scripted:🎧:
-**** DONE Call for the Dead
+**** DONE 2.1 Call for the Dead :bilibili:
 CLOSED: <2020-10-08 Thu 10:49>
 
-**** DONE The Glittering Prize
+【[神秘博士广播剧] The War Master 201: Call for the Dead 死亡来电-哔哩哔哩】 https://b23.tv/BV1UndGBXErn
+
+**** DONE 2.2 The Glittering Prize :bilibili:
 CLOSED: [2020-12-26 Sat 18:56]
 
-**** DONE The Persistence of Dreams
+【[神秘博士广播剧] The War Master 202: The Glittering Prize 璀璨殊荣-哔哩哔哩】 https://b23.tv/BV1ShRZBUE95
+
+
+**** DONE 2.3 The Persistence of Dreams
 CLOSED: [2020-12-26 Sat 09:41]
 
-**** DONE Sins of the Father
+**** DONE 2.4 Sins of the Father :bilibili:
 CLOSED: [2020-12-27 Sun 08:30]
+
+【[神秘博士广播剧] The War Master 204: Sins of the Father 父债女偿-哔哩哔哩】 https://b23.tv/BV18p5T6rE27
 
 *** TODO MR269/270 Shadow of the Daleks :5th_Dr:🎧:
 ** 2. War is declared
@@ -1574,17 +1583,22 @@ https://b23.tv/BV16a411T71i
 day 5: 博士来访，但 davros 并不认得，博士说不可能，昨天刚。。。；daleks 从 portal 过来，杀了他妻子
 day 4: davros 醒来，发现妻子还或者；博士和 bliss 才找他，说portal打开后他们一直在见面，davros 赶走了他们，带着妻子往城外逃，但车堵住了，天空出现了那种叫做 daleka 的
 
-**** 2DONE [#C] 4.3 Dreadshade :D2021_11_davros:
+**** 2DONE [#C] 4.3 Dreadshade :D2021_11_davros:bilibili:
 CLOSED: [2021-11-12 Fri 18:30] SCHEDULED: <2021-11-20 Sat>
 :PROPERTIES:
 :rating:   7.9
 :END:
 
-**** 3QTR [#A] 4.4 Restoration of the Daleks :Alex:D2021_11_davros:
+【[神秘博士广播剧] Doctor Who: Time War 402 Dreadshade-哔哩哔哩】 https://b23.tv/BV1Sco9B6E82
+
+
+**** 3QTR [#A] 4.4 Restoration of the Daleks :Alex:D2021_11_davros:bilibili:
 CLOSED: <2021-11-26 Fri 09:50> DEADLINE: <2021-11-26 Fri 21:54> SCHEDULED: <2021-11-20 Sat>
 :PROPERTIES:
 :rating:   8.9
 :END:
+
+【[神秘博士广播剧] Doctor Who: Time War 403 Restoration of the Daleks-哔哩哔哩】 https://b23.tv/BV1g99XBvEQN
 
 ** 8. The Doctor and Cass Fermazzi
 *** 📂8D Time War vol.5 Cass :Cass:P2023_01:plot_yes:🎧:
@@ -1637,10 +1651,10 @@ https://b23.tv/BV1eN4y1C7Kn
 **** 7.2 The Tale of Alex
 **** 7.3 See-Saw
 **** 7.4 The First Forest
-*** TBR 📂8D Time War vol.8 Branches :P2026_05:Alex:
+*** 📂8D Time War vol.8 Branches :P2026_05:Alex:
 **** 8.1 The Only Girl in the World
 **** 8.2 False Dawn
-**** 8.3 Council of Susan
+**** 8.3 Council of Susan :Susan:
 **** 8.4 All Over
 ** 9. Fall of Romana
 *** DONE GTW3.2 Nevernor :bilibili:
@@ -1686,7 +1700,7 @@ SCHEDULED: <2025-10-12 Sun>
 【[神秘博士广播剧]Gallifrey: Time War 404 Homecoming-哔哩哔哩】 https://b23.tv/BV1gbfqBNEAN
 
 ** 10. Universe on the brink
-*** _📂Gallifrey: War Room vol.1 Allegiance_ :🎧:P2022_08:
+*** 📂Gallifrey: War Room vol.1 Allegiance :🎧:P2022_08:
 **** [#B] 1.1 The Last Days of Freme
 **** [#D] 1.2 The Passenger
 **** [#B] 1.3 Collateral Victim
@@ -1719,11 +1733,12 @@ SCHEDULED: <2024-09-28 Sat>
 :rating:   8.0
 :END:
 
-*** _📂Gallifrey: War Room vol.2 Manoeuvres_ :P2023_09:🎧:
+*** 📂Gallifrey: War Room vol.2 Manoeuvres :P2023_09:🎧:
 **** [#B] 2.1 Collaborators
 **** [#D] 2.2 Remnants
 **** [#A] 2.3 Transference
 **** [#B] 2.4 Ambition's Debt
+*** TBR 📂Gallifrey: War Room vol.3 Loyalties :P2026_06:
 *** DONE PROSE: The Third Wise Man :War_Dr:
 CLOSED: <2019-10-29 Tue 13:59>
 
@@ -1822,20 +1837,29 @@ SCHEDULED: <2025-10-11 Sat>
 :thetimescales: 8.1
 :END:
 
-**** WDR3. Fallen Heroes :P2025_05:3CD:
+**** [#B] WDR3. Fallen Heroes :P2025_05:3CD:
+:PROPERTIES:
+:thetimescales: 8.4/8.1/8.4
+:tardis.guide: 4.41
+:END:
+
 **** WDR4. Cybergene :P2025_12:3CD:
 
 - part 1 Crucible
 - part 2 Firebreak
 - part 3 Sepulchre
 
+**** TBR WDR5. Fear of the Light :P2026_05:The_Rani:
 *** Ambush (comic)
 ** 12. The Master flees
-*** DONE [#A] WM1.4 The Heavenly Paradigm :Cole:🎧:D2021_09_extra:
+*** DONE [#A] WM1.4 The Heavenly Paradigm :Cole:🎧:D2021_09_extra:bilibili:
 CLOSED: [2020-12-24 Thu 15:51] SCHEDULED: <2021-09-28 Tue>
 :PROPERTIES:
 :rating:   9.0
 :END:
+
+【[神秘博士广播剧] The War Master 104: The Heavenly Paradigm-哔哩哔哩】  https://b23.tv/BV1PJQsBMECu
+
 
 ** 13. The Malignant threat
 *** 11DY2 (comics)
