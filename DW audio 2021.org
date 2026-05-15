@@ -468,7 +468,7 @@
  - <second to last play position> (00:13:10)
  - <last play position> (00:15:01)
 
-**** DONE [#C] WM1.2 - The Good Master :Master_war:
+**** DONE [#C] WM1.2 - The Good Master :Master_war:bilibili:
 
  - <second to last play position> (00:00:02)
  - <last play position> (00:12:10)
@@ -1962,7 +1962,7 @@ https://b23.tv/BV1LF411j7D5
 * DW 2026
 ** dw2026-q1a-doctor
 *** [#B] CC4.1 The Drowned World :1st_Dr:Sara:
-*** HALF [#D] 3DA2025A. Doctor Who and the Brain Drain :3rd_Dr:Liz:Brigadier:
+*** 3QTR [#D] 3DA2025A. Doctor Who and the Brain Drain :3rd_Dr:Liz:Brigadier:
 *** HALF [#C] MR047. Omega :5th_Dr:Omega:
 *** HALF [#B] 7DA23A.1 Operation Dusk :7th_Dr:Harry:Naomi:
 *** HALF [#B] 9DA3.2.3 Run :9th_Dr:
@@ -1991,19 +1991,18 @@ https://b23.tv/BV1LF411j7D5
 *** HALF [#D] WM8.2 The Shadow Master
 ** dw2026-q2a-doctor
 *** [#A] 1DA5.2 The Hollow Crown :1st_Dr:Susan:Ian:Barbara:Shakespeare:P2021:plot_yes:historical:
-*** [#D] 3DA2025A. Doctor Who and the Brain Drain (part 6-7) :3rd_Dr:Liz:Brigadier:dw2026_q2a_doctor:
+*** 3QTR [#D] 3DA2025A. Doctor Who and the Brain Drain (part 6-7) :3rd_Dr:Liz:Brigadier:dw2026_q2a_doctor:
     SCHEDULED: <2026-04-25 Sat>
 
-*** [#B] MR224b. Dalek Soul :5th_Dr:Nyssa:
-*** [#C] MR163. Black and White :7th_Dr:Ace:Hex:Sally:Lysandra:plot_yes:
+*** DONE [#B] MR224b. Dalek Soul :5th_Dr:Nyssa:
+*** HALF [#C] MR163. Black and White :7th_Dr:Ace:Hex:Sally:Lysandra:plot_yes:
 *** [#B] ST12.4 Identity Check :9th_Dr:Rose:
 *** [#A] 11DC5.1 Spirit of the Season :11th_Dr:Valarie:
-*** 13/fugi?
 ** dw2026-q2a-spinoffs
-*** [#B] TW7.11 Heistland :Yvonne:Orr:Tyler:
+*** HALF [#B] TW7.11 Heistland :Yvonne:Orr:Tyler:
 *** [#B] Jack1.2 Wednesdays For Beginners :Jack:Jackie:
-*** [#D] UBNW1.2 Time Flies :UNIT:
-*** [#D] PGT3.1 Doppelgängers :TPG:Zygons:
+*** HALF [#D] UBNW1.2 Time Flies :UNIT:
+*** HALF [#D] PGT3.1 Doppelgängers :TPG:Zygons:
 *** [#A] DoRS11.2. The Key to the Door :River:
 *** [#D] Missy3.3 Two Monks, One Mistress
 *** READY FP1.2 The Shadow Play :P2001:bilibili:
@@ -2024,8 +2023,8 @@ Old Steven 1/3
 **** [#C] EA7.2 The Secrets of Det-Sun :1st_Dr:Steven:Dodo:
 *** 3rd
 **** FIXME [#A] ST9.6 The Same Face :3rd_Dr:Jo:Master_nemesis:
-**** CC2.3 - Old Soldiers (Brig) no_doctor?
 **** [#B] CC8.4 - Ghost in the Machine :Jo:D2022_03_doctor:plot_yes:
+**** [#D] 3DA2024A. Revolution in Space :P2024_02:3CD:plot_yes:
 *** 5th
 **** Nyssa only
 ***** MR142c. Doing Time + 142d Special Features :5th_Dr:Nyssa:
@@ -2059,7 +2058,6 @@ Old Steven 1/3
 **** Harry + Neomi
 ***** [#D] 23A.2 Naomi's Ark :7th_Dr:Harry:Naomi:
 **** Roz+Chris / Raine
-***** READY [#A] NA6 Damaged Goods :7th_Dr:Roz:Chris:bilibili:
 **** misc
 ***** [#B] CDNM4.4 The Silent Priest :Silents:7th_Dr:
 ***** Klein [#E] MR175. Persuasion / [#C] 176. Starlight Robbery :7th_Dr:Klein:
@@ -2069,12 +2067,12 @@ Old Steven 1/3
 **** [#C] DotD#9. Night of the Whisper :9th_Dr:
 *** 11th
 **** Let it Snow :11th_Dr:
-
-Tales of Trenzalore - 01
-
 ** even
 *** 2nd
 **** [#B] BBC #5 The Elysian Blade :2nd_Dr:Jamie:Victoria:
+**** [#C] CDNM5.1 The Krillitane Feint :P2025_01:Jamie:Zoe:
+**** [#C] CC3.9 - Resistance :Polly:
+**** [#B] ST8.X - The Last Day At Work :Jamie:bilibili:
 *** 4th
 **** Romana II
 ***** [#D] 4DA6.2 - The Eternal Battle :Romana_2:plot_yes:
@@ -2108,10 +2106,6 @@ Tales of Trenzalore - 01
 ***** [#D] 6DA21.1 One for All :6th_Dr:Constance:
 **** Evelyn
 ***** [#D] 22. Bloodtied
-      :PROPERTIES:
-      :rating:   7.4
-      :END:
-
 ***** [#C] 73. Thicker than Water (Mel, Eyelyn)
 ***** FIXME [#D] SST34 Mission Improbable :6th_Dr:Evelyn:
 **** misc
@@ -2125,10 +2119,6 @@ Tales of Trenzalore - 01
 **** [#A] BBC #14. The Code of Flesh (James MacFarlane)
 **** Lucie
 ***** FIXME [#C] FALM1.3 The House on the Edge of Chaos :8th_Dr:Lucie:
-      :PROPERTIES:
-      :rating:   7.6
-      :END:
-
 ***** [#C] 8DA3.7/3.8 The Eight Truths :8th_Dr:Lucie:
 **** Charley
 ***** READY [#D] MR031 - Embrace the Darkness
@@ -2136,9 +2126,6 @@ Tales of Trenzalore - 01
 ***** READY CC4.12 Solitaire
 ***** READY [#D] MR050 Zegreus :8th_Dr:Charley:
 ***** TODO [#D] MR61. Faith Stealer
-
- Faith Stealer: Fluffy and fun, with some very Douglas Adams-esque ideas. Not vital to the plot, but more enjoyable than most divergent universe stories.
-
 ***** READY [#A] CDNM3.4 If I Should Die Before I Wake
 ***** SvsR#1. The Battle of Giant's Causeway :8th_Dr:Charley:Crizz:
 **** Liv & Helen
@@ -2149,7 +2136,7 @@ Tales of Trenzalore - 01
 ***** READY [#A] 8DA 2022:  Paradox of the Daleks :bilibili:
 **** Time War
 ***** READY [#A] 3.4 The War Valeyard :Bliss:
-***** READY [#B] 5.3 Previously, Next Time :Cass:
+***** READY [#B] 5.3 Previously, Next Time :Cass:2CD:
 *** 10th
 **** READY 10DA 3.3 - The Creeping Death :Donna:10th_Dr:
 **** READY [#D] 10DCC3. Quantum of Axos :Ace:
@@ -2166,7 +2153,7 @@ Tales of Trenzalore - 01
 ***** TW Soho #3 The Unbegotten :Norton:Andy:Lizbeth:P2022_10:plot_yes:
 **** Ianto
 ***** [#A] TW1 2.3 - 9 to 5 :Yvonne:Ianto:
-***** [#B] 67. The Lincolnshire Poacher :Ianto:
+***** [#B] TW67. The Lincolnshire Poacher :Ianto:
 **** HALF [#A] TW16. torchwood_cascade_CDRIP.tor :Tosh:
 **** FIXME [#D] TW65. Death in Venice :Colchester:Ace:
 **** [#B] TW65X A Postcard from Mr Colchester :Colchester:plot_yes:
@@ -2181,7 +2168,6 @@ Tales of Trenzalore - 01
 *** Master
 **** READY [#D] 3.3 Hellbound :bilibili:
 *** misc
-**** FIXME [#C] CY1.3 - Living History :Churchill:
 **** [#B] FP2.3 Body Politic :P2008:Sutekh:Justine:Eliza:
 **** 📂The Lone Centurion vol.2
 **** 📂The Robots vol.4
@@ -2191,7 +2177,7 @@ Tales of Trenzalore - 01
 *** FIXME [#D] CC5.10 - The Sentinels of the New Dawn :3rd_Dr:Liz:
 *** FIXME [#B] DWUN2 Sympathy from the Devil :Unbound_Dr:Master_unbound:bilibili:
 ** q2b-doctor
-*** START [#C] CC12.2 Dumb Waiter :Jamie:Leela:D2021_09_extra:plot_yes:
+*** BLOCK [#B] LS4.3 - Lords of the Red Planet :Jamie:Zoe:ice_warriors:3CD:plot_yes:
 *** FIXME [#C] NCC3.1 Tsar Wars :4th_Dr:Wibbsey:
 *** [#D] SvsR#3 Born to Die :6th_Dr:Charley:Sontarans:P2024_03:
 *** READY [#B] 8DTW5.3 Previously, Next Time :8th_Dr:Cass:2CD:bilibili:
@@ -2204,15 +2190,27 @@ Tales of Trenzalore - 01
 *** [#A] JL10.4 The Museum of Curiosities
 *** [#C] BSBox2.3 Paradise Frost :Jack_McSpringheel:
 *** FIXME Origin Stories #11 - Tempered :Master_early:Master_missy:🗣:📄:
-** q3
-*** [#B] CC9.2 - The Unwinding World :1st_Dr:Vicki:
-*** BLOCK [#A] 2. The Auton Infinity :5th_Dr:Tegan:Turlough:Brigadier:Master_tremas:Autons:3CD:P2022_09:plot_yes:
+** q3a-doctor
+*** [#B] CC9.2 The Unwinding World :1st_Dr:Vicki:
+*** [#D] CC2.3 Old Soldiers (Brig) no_doctor?
+*** BLOCK [#A] 5DA2. The Auton Infinity :5th_Dr:Tegan:Turlough:Brigadier:Master_tremas:Autons:3CD:P2022_09:plot_yes:
+*** [#D] 7DA24B.1 The Haunter of the Shore
 *** READY [#C] 9DA3.3.3 Ancient History :9th_Dr:Benny:bilibili:
+*** [#C] SvR4. In Name Only :War_Dr:P2024_04:
+*** READY 13DA1.1. Vampire Weekend :P2025_07:bilibili:
+** q3a-spinoffs
+*** [#C] TW7.12 The Apocalypse Starts at 6 PM :Yvonne:Og:
+*** TW?
+*** [#C] UNEM2.4 Ten Minutes in Hell
+*** [#D] PGT3.3 The Houseguest :2nd_Dr:Zygons:
 *** FIXME [#C] WM10.1 Runtime :Master_War:
-*** LTV3.4 The Highlanders :2nd_Dr:Polly:Ben:
+*** [#B] BSNA5.2 Clear History :Benny:Unbound_Dr:
+*** FIXME [#C] CY1.3 - Living History :Churchill:
+** q3b
+*** LTV3.4 The Highlanders :2nd_Dr:Polly:Ben:Jamie:
+*** [#C] CM4.3 - Rise and Shine
 ** q4
 *** [#C] EA7.2 The Secrets of Det-Sen :Steven:Dodo:plot_yes:P2021_08:
-    :PROPERTIES:
-    :rating:   7.8
-    :END:
-
+*** READY [#A] NA6 Damaged Goods :7th_Dr:Roz:Chris:bilibili:
+*** START [#C] CC12.2 Dumb Waiter :2nd_Dr:Jamie:Leela:D2021_09_extra:plot_yes:
+*** TODO BSNA[#B] 5.3 Dead and Breakfast

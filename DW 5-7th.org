@@ -133,13 +133,13 @@ CLOSED: [2021-07-01 Thu 22:54]
 CLOSED: [2021-02-27 Sat 18:02]
 
 ***** CANCEL [#E] 187. Masquerade (6.2)
-***** CANCEL [#E] 224a. Alien Heart (6.6)
+***** CANCEL [#E] 224a. Alien Heart
 :PROPERTIES:
 :rating:   6.6
 :END:
 
-***** [#B] 224b. Dalek Soul :plot_no:short:dw2026_q2a_doctor:
-SCHEDULED: <2026-05-09 Sat>
+***** DONE [#B] 224b. Dalek Soul :plot_no:short:dw2026_q2a_doctor:
+CLOSED: [2026-05-08 Fri 22:39] SCHEDULED: <2026-05-09 Sat>
 :PROPERTIES:
 :rating:   8.4
 :END:
@@ -1610,8 +1610,8 @@ https://b23.tv/BV1v2DsBRE8P
 ***** DONE [#A] 162. Protect and Survive (8.7) :P2012:Ace:Hex:plot_yes:WW3:Old_Ones:已购:
 CLOSED: [2021-03-22 Mon 20:20]
 
-***** LATER [#C] 163. Black and White :Ace:Hex:Sally:Lysandra:plot_yes:dw2026_q2a_doctor:
-SCHEDULED: <2026-04-25 Sat>
+***** HALF [#C] 163. Black and White :Ace:Hex:Sally:Lysandra:plot_yes:dw2026_q2a_doctor:
+SCHEDULED: <2026-05-02 Sat>
 :PROPERTIES:
 :rating:   7.7
 :END:

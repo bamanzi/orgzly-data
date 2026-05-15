@@ -164,8 +164,8 @@ SCHEDULED: <2022-03-12 Sat>
 
 plot: https://breezewiki.com/tardis/wiki/For_the_Glory_of_Urth_(audio_story)#Plot
 
-***** [#A] 5.2 The Hollow Crown :Shakespeare:P2021:plot_yes:historical:dw2026_q2a_doctor:
-SCHEDULED: <2026-05-09 Sat>
+***** HALF [#A] 5.2 The Hollow Crown :Shakespeare:P2021:plot_yes:historical:dw2026_q2a_doctor:
+SCHEDULED: <2026-05-16 Sat>
 :PROPERTIES:
 :rating:   9.0?
 :END:
@@ -333,7 +333,7 @@ SCHEDULED: <2023-01-14 Sat 08:16>
 
 http://www.drwhoguide.com/chronicles13.htm
 
-***** [#C] CC4.1 - The Drowned World :plot_yes:dw2026_q1a_doctor:
+***** HALF [#C] CC4.1 - The Drowned World :plot_yes:dw2026_q1a_doctor:
 SCHEDULED: <2026-02-21 Sat>
 :PROPERTIES:
 :thetimescales: 8.1
