@@ -68,7 +68,7 @@ CLOSED: [2024-11-20 Wed 13:30]
 没看懂讲了个什么故事，更没搞懂设定在那个时间点。大胡子是Mal 吗（前几页也没胡子没那么老啊），那个戴眼镜的大妈又是谁，几乎所有人物都不容易辨识
 
 *** 2023-2024
-**** The Fall Guys (#1-6) :S2026_Q1:
+**** NEXT The Fall Guys (#1-6) :S2026_Q1:
 **** Firefly ‘Verses :oneshot:
 **** Firefly – Malcolm Reynolds Year One #1 (2024)
 * Stargate
@@ -570,7 +570,9 @@ CLOSED: [2026-02-10 Tue 16:34] SCHEDULED: <2026-02-10 Tue>
 ***** DONE [#B] 2x09 Aurora
 CLOSED: [2026-02-23 Mon 12:21] SCHEDULED: <2026-02-15 Sun>
 
-***** HALF 2x10/11 The Lost Boys / The Hive
+***** DONE 2x10/11 The Lost Boys / The Hive
+CLOSED: [2026-03-29 Sun 22:37]
+
 ***** 2x17 Coup D’etat
 ***** 2x18 Michael
 ***** [#B] 2x19 Inferno
@@ -814,7 +816,7 @@ CLOSED: [2024-11-14 Thu 22:34]
 *** DONE 6x06
 CLOSED: [2024-11-16 Sat 13:50]
 
-** TODO comics: The Expanse – The Dragon Tooth :P2023:S2026_Q1:
+** NOW comics: The Expanse – The Dragon Tooth :P2023:S2026_Q1:
 
 BOOMS! 工作室打算给 #浩瀚苍穹 出一个12期的系列，设定在原著第六本与第七本之间（也就是在电视剧之后）
 
@@ -1196,7 +1198,7 @@ CLOSED: <2023-07-22 Sat 17:50>
 
 22BBY
 
-**** Star Wars: Episode III Revenge of the Sith :P2005:19BBY:S2026_Q1:
+**** Star Wars: Episode III Revenge of the Sith :P2005:19BBY:S2027_Q3:
 
 19BBY
 
@@ -1285,7 +1287,7 @@ CLOSED: [2024-06-28 Fri 20:05]
 ****** DONE 1x12
 CLOSED: [2024-06-30 Sun 09:55]
 
-***** TODO season 2 :S2026_Q1:
+***** season 2 :S2026_Q1:
 ****** DONE 2x01-03 :4BBY:
 CLOSED: [2026-02-20 Fri 20:19]
 
@@ -1295,6 +1297,7 @@ CLOSED: [2026-03-01 Sun 19:17]
 ****** DONE 2x07-09 :2BBY:
 CLOSED: [2026-03-08 Sun 09:17]
 
+****** NEXT 2x10-12 :S2027_Q3:
 **** The Mandalorian 曼达洛人 (2019- ) :9ABY:
 
 9 ABY
@@ -1352,7 +1355,7 @@ CLOSED: [2023-07-18 Tue 22:33] SCHEDULED: <2023-07-23 Sun>
 ****** DONE 2x08 The Rescue :Boba_Fett:Bo_Katan:
 CLOSED: [2023-07-25 Tue 18:48] SCHEDULED: <2023-07-30 Sun>
 
-***** TODO season 3 (8 eps) :P2023_03:S2026_Q1:
+***** season 3 (8 eps) :P2023_03:S2026_Q1:
 ****** DONE 3x01 The Apostate
 CLOSED: [2026-03-15 Sun 10:53]
 
@@ -1368,9 +1371,9 @@ CLOSED: [2026-03-25 Wed 22:25]
 ****** DONE 3x05 The Pirate
 CLOSED: [2026-03-28 Sat 17:22]
 
-****** 3x06 Guns to Hire
-****** 3x07 The Spies
-****** 3x08 The Return
+****** NEXT 3x06 Guns to Hire
+****** NEXT 3x07 The Spies
+****** NEXT 3x08 The Return
 **** The Book of Boba Fett 波巴费特之书 :Boba_Fett:
 ***** DONE [#C] 📂season 1 (7 eps) :P2021:9ABY:
 
@@ -1848,10 +1851,10 @@ CLOSED: [2026-03-24 Tue 23:38]
 
 These two episode s originally went under the title "Ascension: Part One." & Part Two.
 
-****** 4x12 Wolves and a Door :Lothal:
-****** 4x13 A World Between Worlds :World_Between_Worlds:
-****** 4x14 A Fool's Hope
-****** 4x15 Family Reunion – and Farewell
+****** NEXT 4x12 Wolves and a Door :Lothal:
+****** NEXT 4x13 A World Between Worlds :World_Between_Worlds:
+****** NEXT 4x14 A Fool's Hope
+****** NEXT 4x15 Family Reunion – and Farewell
 **** CANCEL [#E] Forces of Destiny (2017-2018)
 
 TIMELINE: Across the prequel trilogy, original trilogy, and sequel trilogy[1]
@@ -2184,7 +2187,7 @@ CLOSED: [2026-02-27 Fri 13:22]
 
 /The Clone Wars: The Sith Hunters/ and /Star Wars: Darth Maul — Death Sentence/ are set between the episodes "Revenge" (TCW4x22) and "Revival,"(TCW5x01) both of which occur during 20 BBY per the /2014 Official Star Wars Fact File/.
 
-***** NOW epic collection: The Clone Wars vol.3 :S2026_Q1:
+***** DOING epic collection: The Clone Wars vol.3
 
 - Star Wars: Republic #68-73
 - Obsession (5 issues)
@@ -2199,17 +2202,19 @@ CLOSED: [2026-03-23 Mon 23:59]
 
   - #68 Armor
   - #69-71 Dreadnoughts
-  - #72-73 Trackdown
-  
-最后这两期很无聊，讲得乱七八糟
+  - #72-73 Trackdown :: 讲述 Quinlan Vos 发现 Sora Bulq 堕入黑暗面（并以为他是除 Dooku 之外的另一名西斯）
 
-****** Obsession :hanzify:19BBY:
-***** epic collection: The Clone Wars vol.4 :19BBY:S2026_Q1:
-****** Darth Maul — Son of Dathomir :hanzify:canon:
-****** Star Wars: Episode III — Revenge of the Sith
-****** Star Wars Republic #74-77, #80-82
+****** NEXT Obsession :hanzify:19BBY:S2027_Q3:
+***** epic collection: The Clone Wars vol.4 :19BBY:
+****** NEXT Darth Maul — Son of Dathomir :hanzify:canon:S2027_Q3:
+****** NOW Star Wars Republic #74-77 :S2026_Q1:
 
-- #72-77 讲述 Quinlan Vos 发现 Sora Bulq 堕入黑暗面（并以为他是除 Dooku 之外的另一名西斯），追杀他
+- #74-77 Siege of Saleucami
+
+****** NEXT Star Wars: Episode III — Revenge of the Sith :S2027_Q3:
+****** NEXT Star Wars Republic #81-83
+
+- #81-83 Hidden Enemy
 
 ***** The Clone Wars (comic series)
 
@@ -2227,8 +2232,8 @@ https://starwars.fandom.com/wiki/Star_Wars:_The_Clone_Wars_(graphic_novellas)
 ****** 3. The Wind Raiders of Taloraan
 ****** 4. The Colossus of Destiny :22BBY:
 ****** 5. Deadly Hands of Shon-Ju :21BBY:
-****** 6. The Starcrusher Trap :20BBY:
-****** 7. Strange Allies :20BBY:
+****** NOW 6. The Starcrusher Trap :22BBY:
+****** NOW 7. Strange Allies :22BBY:
 ****** DONE 8. The Enemy Within :Clone_Soldiers:20BBY:
 CLOSED: <2026-03-27 Fri 13:49>
 
@@ -2237,8 +2242,8 @@ CLOSED: [2026-03-28 Sat 18:03]
 
 This story takes place shortly after the events in "Revenge" (episode 22 of season 4 of /The Clone Wars).
 
-****** 10. Defenders of the Lost Temple :20BBY:P2013:
-****** 11. The Smuggler's Code :20BBY:P2013:
+****** NOW 10. Defenders of the Lost Temple :20BBY:P2013:
+****** NOW 11. The Smuggler's Code :20BBY:P2013:
 **** 4. The Empire
 ***** epic collection: The Empire Vol. 1 :19BBY:
 ****** [#A] Purge (2005) :hanzify:

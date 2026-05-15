@@ -57,7 +57,7 @@ download: https://comics.codes/blade-runner-2029/
 
 https://comics.codes/blade-runner-2039/
 
-**** BLOCK Blade Runner Origins :P2021:
+**** Blade Runner Origins :P2021:
 :PROPERTIES:
 :todo:     download
 :END:
@@ -501,9 +501,39 @@ CLOSED: [2024-02-22 Thu 22:31]
 **** DONE 2x10
 CLOSED: [2024-02-25 Sun 21:52] SCHEDULED: <2024-02-25 Sun>
 
-*** Foundation S3
+*** DONE Foundation S3
 
 故事设定在第二季事件的152年后。
+
+**** DONE 3x01
+CLOSED: [2026-04-11 Sat 22:09]
+
+**** DONE 3x02
+CLOSED: [2026-04-18 Sat 22:29]
+
+**** DONE 3x03
+CLOSED: [2026-04-19 Sun 22:06]
+
+**** DONE 3x04
+CLOSED: [2026-04-24 Fri 22:35]
+
+**** DONE 3x05
+CLOSED: [2026-04-26 Sun 15:53]
+
+**** DONE 3x06
+CLOSED: <2026-05-01 Fri 09:31>
+
+**** DONE 3x07
+CLOSED: [2026-05-01 Fri 10:29]
+
+**** DONE 3x08
+CLOSED: [2026-05-10 Sun 11:21]
+
+**** DONE 3x09
+CLOSED: [2026-05-10 Sun 21:38]
+
+**** DONE 3x10
+CLOSED: [2026-05-11 Mon 22:26]
 
 ** movies
 *** DONE 永恒国度的终焉
@@ -665,4 +695,10 @@ CLOSED: [2024-12-20 Fri 20:25]
 **** DONE 1x08
 CLOSED: [2024-12-20 Fri 21:23]
 
-*** S2 :S2026_Q2:
+*** DONE S2 :S2026_Q2:
+CLOSED: [2026-04-27 Mon 08:09]
+
+*** S3
+**** DONE 3x01
+CLOSED: [2026-05-02 Sat 18:33]
+
