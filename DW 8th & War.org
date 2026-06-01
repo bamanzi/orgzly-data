@@ -1614,7 +1614,8 @@ SCHEDULED: <2025-06-21 Sat>
 【【广播剧汉化】 沉重的遗产 Cass 102 Vespertine-哔哩哔哩】 
 https://b23.tv/BV1km4y1t7Jb
 
-**** READY [#B] 5.3 Previously, Next Time :2CD:bilibili:
+**** READY [#B] 5.3 Previously, Next Time :2CD:bilibili:dw2026_q2b_doctor:
+SCHEDULED: <2026-06-13 Sat>
 
 【【广播剧汉化】无限循环的死结 Cass 103 Previously, Next Time 上-哔哩哔哩】 
 https://b23.tv/BV1eN4y1C7Kn
@@ -1927,7 +1928,8 @@ SCHEDULED: <2026-04-04 Sat>
 【【神秘博士广播剧汉化】The War Doctor 战争博士 302 The Eternity Cage-哔哩哔哩】 
 https://b23.tv/BV1W44y1L7g5
 
-**** READY [#D] 3.3 - Eye of Harmony :bilibili:
+**** READY [#D] 3.3 - Eye of Harmony :bilibili:dw2026_q2b_doctor:
+SCHEDULED: <2026-07-11 Sat>
 :PROPERTIES:
 :raring:   7.1
 :END:

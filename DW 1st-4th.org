@@ -817,7 +817,8 @@ SCHEDULED: <2022-06-05 Sun>
 :rating:   7.4
 :END:
 
-**** BLOCK [#B] LS4.3 - Lords of the Red Planet :Jamie:Zoe:ice_warriors:3CD:plot_yes:
+**** BLOCK [#B] LS4.3 - Lords of the Red Planet :Jamie:Zoe:ice_warriors:3CD:plot_yes:dw2026_q2b_doctor:
+SCHEDULED: <2026-06-27 Sat>
 :PROPERTIES:
 :rating:   8.2
 :END:
@@ -1925,8 +1926,8 @@ CLOSED: <2023-04-22 Sat 21:12> SCHEDULED: <2023-04-12 Wed 08:15>
 
  博士可以发现、打败外星人吗？Romana能不能在一切太晚之前找到卧式传送器？K9如何处理好新的工作？
 
-***** READY [#D] 5.2 - The Labyrinth of Buda Castle :plot_cast:bilibili:dw2025_q4b_doctor:
-SCHEDULED: <2026-01-03 Sat>
+***** HALF [#D] 5.2 - The Labyrinth of Buda Castle :plot_cast:bilibili:dw2025_q4b_doctor:
+SCHEDULED: <2026-01-15 Thu>
 
 【【神秘博士广播剧熟肉】The Fourth Doctor's Adventure 502-The Labyrinth of Buda Castle 布达迷宫城堡-哔哩哔哩】 https://b23.tv/BV1h7RnYWExw
 
@@ -2172,7 +2173,9 @@ SCHEDULED: <2022-10-29 Sat>
 ***** [#D] 2.2 The Demon of Paris
 ***** [#D] 2.3. A Shard of Ice
 **** 📂Serpent Crest
-***** [#C] 3.1. Tsar Wars
+***** [#C] 3.1. Tsar Wars :dw2026_q2b_doctor:
+SCHEDULED: <2026-06-27 Sat>
+
 ***** [#C] 3.2. The Broken Crown
 ***** [#C] 3.3. Aladdin Time
 ***** [#B] 3.4 The Hexford Invasion
@@ -2619,20 +2622,27 @@ https://b23.tv/BV1eE6FYwEYz
 *** 34. The Mind Trap :P2026_01:2nd_Dr:Jamie:Zoe:P2026_01:
 *** 35. Star Flight :1st_Dr:Susan:Ian:Barbara:P2026_03:
 *** 36. Circle of Memory :11th_Dr:Amy:Rory:P2026_05:
+*** TBR 37. The Deadliest Weapon :Fugitive_Dr:Cybermen:P2026_07:
+*** TBR 38. Shard of Life :2nd_Dr:Jamie:Zoe:P2026_10:
 ** 📂Sontarans vs Rutans
 *** [#C] 1. The Battle of Giant's Causeway :8th_Dr:Charley:Crizz:P2024_01:
 *** 3QTR [#B] 2. The Children of the Future :3rd_Dr:Sarah:P2024_02:
-*** [#D] 3. Born to Die :6th_Dr:Charley:P2024_03:
+*** [#D] 3. Born to Die :6th_Dr:Charley:P2024_03:dw2026_q2b_doctor:
+SCHEDULED: <2026-07-11 Sat>
+
 *** [#C] 4. In Name Only :War_Dr:P2024_04:
-** Dark Gallifrey :3CD:
+** 📂Dark Gallifrey :3CD:
 *** [#B] Morbius :P2024_06:
 
 【【神秘博士广播剧熟肉】Dark Gallifrey 101 Morbius Part 1-哔哩哔哩】 https://b23.tv/BV1rRM2z6E89
 
 *** The War Master ↗ :Master_War:Unbound_Dr:War_Dr:Benny:Captain_John:P2024_09:
-*** Missy :P2025_06:7th_Dr:
-*** Master! :P2025_09:
+*** Missy ↗ :P2025_06:7th_Dr:
+*** Master! ↗ :P2025_09:
 *** TBR The Meddling Monks :P2026_05:
+
+【【神秘博士广播剧熟肉】Dark Gallifrey 501 The Meddling Monks Part 1-哔哩哔哩】 https://b23.tv/BV1ym5f6LEMd
+
 ** 📂Halloween: Sea Smoke and Other Stories :P2025_10:
 *** 1. Sea Smoke :1st_Dr:Dodo:
 *** 2. Party Favours :UNIT_new:

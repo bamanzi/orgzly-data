@@ -277,8 +277,8 @@ SCHEDULED: <2025-11-08 Sat>
 :rating:   7.6
 :END:
 
-**** [#B] ST12.4 Identity Check :P2023_02:Rose:dw2026_q2a_doctor:
-SCHEDULED: <2026-05-23 Sat>
+**** DONE [#B] ST12.4 Identity Check :P2023_02:Rose:dw2026_q2a_doctor:
+CLOSED: [2026-05-28 Thu 15:18] SCHEDULED: <2026-05-23 Sat>
 
 **** ST14.6 Is Anybody There? :P2026_02:
 *** fan-made :fan_made:
@@ -593,8 +593,8 @@ CLOSED: [2021-06-18 Fri 10:22]
 :END:
 
 **** 10DA vol.3 :P2019:Donna:
-***** HALF [#B] 10DA 3.1 - No Place :plot_yes:D2022_01_doctor:bilibili:
-SCHEDULED: <2022-01-16 Sun>
+***** HALF [#B] 10DA 3.1 - No Place :plot_yes:D2022_01_doctor:bilibili:dw2026_q2b_doctor:
+SCHEDULED: <2026-06-13 Sat>
 :PROPERTIES:
 :rating:   8.3
 :END:
@@ -1069,8 +1069,12 @@ SCHEDULED: <2026-02-02 Mon 19:53>
 【伽罗瓦的数学遗产：群论 是什么？有什么用？-哔哩哔哩】 https://b23.tv/BV1Hs6CB4E2b
 
 **** 📂11DC vol.5 Everywhere and Anywhere :Valarie:P2023_12:
-***** READY [#A] 5.1 Spirit of the Season :bilibili:dw2026_q2a_doctor:
+***** READY [#B] 5.1 Spirit of the Season :bilibili:dw2026_q2a_doctor:
 SCHEDULED: <2026-05-30 Sat>
+:PROPERTIES:
+:thetimescales: 8.6
+:tardis.guide: 3.93
+:END:
 
 【【神秘博士广播剧熟肉】Everywhere and Anywhere 501 Spirit of the Season 圣诞精神-哔哩哔哩】 https://b23.tv/BV1Pw82zYES7
 
