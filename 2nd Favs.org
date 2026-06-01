@@ -480,7 +480,7 @@ CLOSED: [2025-03-14 Fri 21:56]
 ***** DONE 4x10
 CLOSED: [2025-03-15 Sat 17:28]
 
-**** Lucifer S5 (16 eps) :P2020:
+**** NEXT Lucifer S5 (16 eps) :P2020:S2026_Q2:
 **** Lucifer S6 (10 eps) :P2021:
 ** Preacher
 *** comics :📚:
@@ -1459,13 +1459,23 @@ CLOSED: [2025-02-26 Wed 21:26]
 *** DONE 2x09
 CLOSED: [2025-03-01 Sat 16:42]
 
-** S3 :P2019_07:
+** NEXT 怪奇物语 S3 :P2019_07:S2026_Q2:
+*** DONE 3x01
+CLOSED: [2026-05-31 Sun 19:57]
+
+*** DONE 3x02
+CLOSED: [2026-05-31 Sun 20:44]
+
 ** comics
-*** TODO The Other Side :P2018:
+*** DONE The Other Side :P2018:
+CLOSED: [2026-05-21 Thu 17:18]
 
 2018.09 - 2019.01, 4 issues
 
-*** TODO Six :P2019:
+只是将第一季的故事从 Will 的角度讲了一遍
+
+*** DONE Six :P2019:S2026_Q2:
+CLOSED: [2026-05-21 Thu 16:50]
 
 2019.05 - 2019.08
 

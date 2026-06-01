@@ -281,7 +281,7 @@ CLOSED: [2024-05-17 Fri 23:26] SCHEDULED: <2024-05-25 Sat>
 十四个移民被送到了未经开发的德尔马克-欧星，却因设备故障与外界失去了联系。面对荒凉而陌生的环境，他们各怀心事、满腹猜疑，只能通过信号向神祈祷，但死亡随时可能降临……德尔马克-欧星上满是奇特的原生生物，还有早在移民到来之前就已存在的神秘大楼——它诱惑着所有人进入，却在各人眼中呈现出不同的模样……探索这颗星球的过程中，移民们接连遇害，是人们控制不住自己的癫狂，还是恶神在悄悄逼近？ 在这里，上帝要么不存在，要么是在蓄意毁灭它的造物……
 
 ***** DONE [#B] ↗Flow My Tears, the Policeman Said :P1974:
-***** READY [#A] 黑暗扫描仪 A Scanner Darkly :P1977:已购:ebook:S2026_Q2:
+***** LATER [#A] 黑暗扫描仪 A Scanner Darkly :P1977:已购:ebook:S2026_Q2:
 :PROPERTIES:
 :goodreads: 4.03
 :END:
@@ -394,7 +394,7 @@ CLOSED: [2024-12-23 Mon 07:50] SCHEDULED: <2024-01-31 Wed>
 ***** DONE part5: Epilogue
 CLOSED: [2024-12-23 Mon 08:10]
 
-**** [#A] 6.基地边缘 :P1982:
+**** NOW [#A] 6.基地边缘 :P1982:S2026_Q2:
 :PROPERTIES:
 :goodreads: 4.15
 :END:
@@ -501,7 +501,7 @@ CLOSED: [2024-02-22 Thu 22:31]
 **** DONE 2x10
 CLOSED: [2024-02-25 Sun 21:52] SCHEDULED: <2024-02-25 Sun>
 
-*** DONE Foundation S3
+*** DONE Foundation S3 :S2026_Q2:
 
 故事设定在第二季事件的152年后。
 
@@ -698,7 +698,7 @@ CLOSED: [2024-12-20 Fri 21:23]
 *** DONE S2 :S2026_Q2:
 CLOSED: [2026-04-27 Mon 08:09]
 
-*** S3
-**** DONE 3x01
-CLOSED: [2026-05-02 Sat 18:33]
+*** HALF S3 :S2026_Q2:
+**** DONE 3x05
+CLOSED: [2026-05-21 Thu 17:54]
 
