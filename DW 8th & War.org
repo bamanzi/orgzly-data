@@ -55,9 +55,6 @@ CLOSED: <2020-08-24 Mon 16:30>
 
 【[神秘博士广播剧]MR 019 Minuet in Hell-哔哩哔哩】 https://b23.tv/BV1SwwnzbE6Z
 
-
-
-
 ***** DONE [#E] 028 - Invaders from Mars
 CLOSED: <2020-09-19 Sat 13:56>
 :PROPERTIES:
@@ -276,7 +273,6 @@ https://bigfinish.com/releases/v/doctor-who-other-lives-243
 https://www.bigfinish.com/releases/v/doctor-who-time-works-246
 
 “你想知道时间守护者吗？”“我们生活在他们的阴影中，每一秒每一刻。我们在大钟的运转中听到他们。我们努力工作，转动我们的指针——但我们最终都会随着时间而耗尽，而这就是他们来找我们的时刻：当我们的时间用尽时。”TARDIS降落在时间之间，在一个没有时间的时刻。一个不可能存在任何事物的时刻。但某些东西却在……博士、查莉和C’rizz就像轮子里的老鼠，威胁着一个时间至关重要的世界的时间表。而秒针正在倒计时，通向一个已经发生的命运未来。除非他们能战胜时间。滴答，滴答。
-
 
 ***** READY [#E] +83. Something Inside+ :bilibili:
 :PROPERTIES:
@@ -997,8 +993,6 @@ CLOSED: [2020-09-23 Wed 12:53]
 
 【[神秘博士广播剧]MR 123c Izzy's Story-哔哩哔哩】 https://b23.tv/BV1wksnzkEDM
 
-
-
 **** [#B] SST37 - Tuesday :Harry:
 :PROPERTIES:
 :rating:   8.3
@@ -1256,35 +1250,55 @@ CLOSED: [2026-01-07 Wed 08:35] SCHEDULED: <2026-01-11 Sun>
 【【广播剧汉化】真假法师 The War Master 战争法师 904 The Kicker-哔哩哔哩】 
 https://b23.tv/BV1C841117ip
 
-*** /📂The War Master series 10: Rogue Encounters/ :P2023_11:🎧:
-**** [#C] 10.1 Runtime
+*** /📂The War Master series 10: Rogue Encounters/ :P2023_11:🎧:Master_war:
+**** [#C] 10.1 Runtime :dw2026_q2b_spinoffs:
+SCHEDULED: <2026-07-12 Sun>
+
 **** [#B] 10.2 Manhunt
-**** [#A] 10.3 The Sublime Porte
+**** [#A] 10.3 The Sublime Porte :Bilis_Manger:
 **** [#A] 10.4 Alone
 *** /📂The War Master series 4: Anti-Genesis/ :Master_war:scripted:🎧:
-**** DONE [#B] 4.1 From the Flames :has_plot:D2021_10_master:
+**** DONE [#B] 4.1 From the Flames :has_plot:D2021_10_master:bilibili:
 CLOSED: <2021-01-16 Sat 22:52>
 :PROPERTIES:
 :rating:   8.2
 :END:
 
-**** DONE [#A] 4.2 The Master's Dalek Plan :D2021_10_master:
+4.1 /From the Flames/ by /Nicholas Briggs/
+
+After the Master's TARDIS returns his remains to Gallifrey, in accordance with his final wishes, an intricate plot begins to change the nature of the universe forever. But even in death the Master threatens life. And only CIA Coordinator Narvin can hope to stop him.
+
+【[神秘博士广播剧] The War Master 401: From the Flames 浴火重生-哔哩哔哩】 https://b23.tv/BV15j5r6CEHt
+
+**** DONE [#A] 4.2 The Master's Dalek Plan :D2021_10_master:bilibili:
 CLOSED: <2021-01-18 Mon 22:53>
 :PROPERTIES:
 :rating:   8.7
 :END:
 
-**** 2DONE [#A] 4.3 Shockwave :Master_unbound:D2021_11_master:
+https://www.bigfinish.com/releases/v/the-war-master-anti-genesis-1871
+
+4.2 /The Master's Dalek Plan/ by /Alan Barnes/
+
+As the Master inflitrates the Kaled scientific elite, the Time Lords seek to counter his interference. But while Narvin and President Livia try to stabilise the past, a new and horrifying future dawns in the wastelands of ancient Skaro.
+
+【[神秘博士广播剧] The War Master 402: The Master's Dalek Plan 法师的戴立克-哔哩哔哩】 https://b23.tv/BV14iGJ6eEqv
+
+**** 2DONE [#A] 4.3 Shockwave :Master_unbound:D2021_11_master:bilibili:
 CLOSED: <2021-11-16 Tue 14:35> SCHEDULED: <2021-11-13 Sat>
 :PROPERTIES:
 :rating:   4.3
 :END:
 
-**** 3QTR [#A] 4.4 He Who Wins :🎧:Master_unbound:D2021_11_master:
+【[神秘博士广播剧] The War Master 403: Shockwave 时空冲击波.-哔哩哔哩】 https://b23.tv/BV1ctVP6mEs3
+
+**** 3QTR [#A] 4.4 He Who Wins :Master_unbound:D2021_11_master:bilibili:
 CLOSED: [2021-11-16 Tue 19:56] SCHEDULED: <2021-11-13 Sat>
 :PROPERTIES:
 :rating:   9.4
 :END:
+
+【[神秘博士广播剧] The War Master 404: He Who Wins 他赢了吗-哔哩哔哩】 https://b23.tv/BV1itVa6nENE
 
 *** DONE [#B] WM1.1 Beneath the Viscoid :Master_war:🎧:plot_yes:D2021_07_extra:bilibili:
 CLOSED: [2020-12-18 Fri 12:30]
@@ -1293,8 +1307,6 @@ CLOSED: [2020-12-18 Fri 12:30]
 :END:
 
 【[神秘博士广播剧] The War Master 101: Beneath the Viscoid-哔哩哔哩】 https://b23.tv/BV17vQBBeEmz
-
-
 
 *** DONE [#B] GTW1.3 The Devil You Know (Gallifrey: Time War #1.3) :Master_war:🎧:bilibili:
 CLOSED: <2020-11-09 Mon 10:30>
@@ -1850,7 +1862,7 @@ SCHEDULED: <2025-10-11 Sat>
 - part 2 Firebreak
 - part 3 Sepulchre
 
-**** TBR WDR5. Fear of the Light :P2026_05:The_Rani:
+**** WDR5. Fear of the Light :P2026_05:The_Rani:3CD:
 *** Ambush (comic)
 ** 12. The Master flees
 *** DONE [#A] WM1.4 The Heavenly Paradigm :Cole:🎧:D2021_09_extra:bilibili:
@@ -1860,7 +1872,6 @@ CLOSED: [2020-12-24 Thu 15:51] SCHEDULED: <2021-09-28 Tue>
 :END:
 
 【[神秘博士广播剧] The War Master 104: The Heavenly Paradigm-哔哩哔哩】  https://b23.tv/BV1PJQsBMECu
-
 
 ** 13. The Malignant threat
 *** 11DY2 (comics)
@@ -1997,7 +2008,7 @@ CLOSED: [2020-09-23 Wed 12:53]
 CLOSED: [2020-09-23 Wed 12:53]
 
 *** 8th Doctor: Time War
-*** 📂The War Master series 11 Future Phantoms :P2024_11:
+*** 📂The War Master series 11 Future Phantoms :P2024_11:Master_war:
 **** [#E] 11.1 His Close Companions
 :PROPERTIES:
 :rating:   6.3
@@ -2018,7 +2029,7 @@ CLOSED: [2020-09-23 Wed 12:53]
 :rating:   8.1
 :END:
 
-*** 📂The War Master series 12: His Greatest Trick :P2025_10:
+*** 📂The War Master series 12: His Greatest Trick :P2025_10:Master_war:
 **** 12.1 The Grievance Bureau
 **** 12.2 Last Girl Standing
 **** 12.3 The Worst of All Evils

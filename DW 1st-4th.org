@@ -1806,8 +1806,8 @@ CLOSED: [2020-07-15 Wed 19:13]
 【【神秘博士广播剧熟肉】四任博士冒险 第九季特别篇 太阳阴影 Shadow of the Sun-哔哩哔哩】 https://b23.tv/BV1hEV5zCEVJ
 
 **** 📂4DA series 10 :4DA:P2021:2CD:
-***** [#C] 10.1 The World Traders
-***** [#C] 10.2 The Day of the Comet
+***** [#C] 10.1 The World Traders :2CD:
+***** [#C] 10.2 The Day of the Comet :2CD:
 ***** [#C] 10.3 The Tribulations of Tahdeus Nook
 ***** [#E] 10.4 The Primeval Design
 **** 📂4DA series 12 :4DA:Margaret:P2023:
@@ -2112,6 +2112,9 @@ CLOSED: [2022-09-03 Sat 17:41] SCHEDULED: <2022-09-04 Sun>
 **** 📂4DA series 15
 ***** 15.1 The Ministry of Death :2CD:P2026_03:
 ***** 15.2 The Inhuman Empire :1CD:P2026_03:
+***** 15.3 Green and Pleasant Planet :P2026_06:
+***** 15.4 The Continuum :P2026_06:
+***** 15.5 The Audience :P2026_06:
 *** BF misc :BigFinish:
 **** DONE [#C] Night of the Vashta Nerada (7.8) (CDNM #2.1) :P2017:Vashta_Nerada:scripted:no_companion:bilibili:1CD:
 CLOSED: [2020-07-29 Wed 23:03]
