@@ -393,6 +393,80 @@ CLOSED: <2025-05-25 Sun 16:01>
 :imdb:     6.9
 :END:
 
+* Frederick Forsyth
+** [#A] The Day of the Jackal 豺狼的日子 :P1983:
+:PROPERTIES:
+:goodreads: 4.27
+:douban:   8.6
+:END:
+
+- 1979年11月，中国电影出版社出版“外国影片研究丛书”《豺狼的日子》，译者陈笃忱；
+- 1981年2月，江苏人民出版社出版《贾克尔的末日》，译者：包振南；
+- 1981年2月，群众出版社出版《职业刺客》，译者：陈静先；
+- 2000年9月，珠海出版社出版《豺狼的日子》，译者：胡兵；
+- 2009年6月，新星出版社出版姜焜译本《豺狼的日子》，2012年5月新星出版社、2013年3月同心出版社、2019年5月上海文艺出版社再版该译本。
+
+** [#A] The Devil's Alternative 魔鬼的抉择 :P1979:
+:PROPERTIES:
+:goodreads: 4.09
+:douban:   9.1
+:END:
+
+1983年6月，内蒙古人民出版社出版《魔鬼的抉择》，译者：包振南 张良银，
+2001年9月，珠海出版社采用该译本；
+1986年12月，昆仑出版社出版《魔鬼的选择》，译者：王爰飞；
+2012年7月，黄山书社采用丁剑译本。
+
+** [#B] The Fist of God 上帝的拳头 (4.07) :P1994:
+:PROPERTIES:
+:goodreads: 4.07
+:douban:   8.7
+:END:
+
+** [#B] The Fourth Protocol 第四秘密议定书 :P1984:
+:PROPERTIES:
+:goodreads: 4.05
+:douban:   8.9
+:END:
+
+1986年7月，北方妇女儿童出版社出版《死亡勋章》，译者：郝启成；
+2001年9月，珠海出版社采用该译本，改名《第四秘密议定书》；
+1987年4月，陕西人民出版社出版包振南译本《第四份议定书》；
+1991年1月，上海古籍出版社出版黄星亮译本《伸向伦敦的黑手》；
+2012年7月，黄山书社出版丁剑译本《第四秘密议定书》。
+
+** [#B] The Negotiator 谈判专家 :P1989:
+:PROPERTIES:
+:goodreads: 4.02
+:douban:   8.4
+:END:
+
+** [#B] The Deceiver 谍海生涯 :P1991:
+:PROPERTIES:
+:goodreads: 4.05
+:douban:   8.6
+:END:
+
+** [#B] Avenger 复仇者 :P2003:
+:PROPERTIES:
+:goodreads: 4.07
+:douban:   8.7
+:END:
+
+** The Veteran 最精妙的骗局（中短篇集）
+*** DONE 最精妙的骗局
+CLOSED: [2025-06-19 Thu 22:39]
+
+*** DONE 老兵
+CLOSED: [2025-06-15 Sun 22:00]
+
+*** DONE 奇迹
+CLOSED: [2025-06-08 Sun 23:13]
+
+*** 公民
+*** DONE 轻柔说话的风
+CLOSED: [2025-06-21 Sat 22:38]
+
 * Breaking Bad / Better Call Saul
 ** Breaking Bad
 ** Better Call Saul
@@ -967,7 +1041,7 @@ CLOSED: [2026-02-23 Mon 21:25]
 *** DONE 11x24
 CLOSED: [2026-02-23 Mon 21:47]
 
-** S12
+** DONE S12
 *** DONE 12x01
 CLOSED: [2026-05-23 Sat 21:33]
 
@@ -985,4 +1059,58 @@ CLOSED: [2026-05-27 Wed 21:24]
 
 *** DONE 12x06
 CLOSED: [2026-05-28 Thu 22:45]
+
+*** DONE 12x07
+CLOSED: [2026-06-01 Mon 23:49]
+
+*** DONE 12x08
+CLOSED: [2026-06-02 Tue 23:35]
+
+*** DONE 12x09
+CLOSED: [2026-06-03 Wed 23:59]
+
+*** DONE 12x10
+CLOSED: [2026-06-07 Sun 23:37]
+
+*** DONE 12x11
+CLOSED: [2026-06-08 Mon 23:32]
+
+*** DONE 12x12
+CLOSED: [2026-06-09 Tue 23:54]
+
+*** DONE 12x13
+CLOSED: [2026-06-10 Wed 23:22]
+
+*** DONE 12x14
+CLOSED: [2026-06-11 Thu 22:40]
+
+*** DONE 12x15
+CLOSED: [2026-06-13 Sat 22:00]
+
+*** DONE 12x16
+CLOSED: [2026-06-16 Tue 22:55]
+
+*** DONE 12x17
+CLOSED: [2026-06-17 Wed 23:27]
+
+*** DONE 12x18
+CLOSED: [2026-06-18 Thu 23:38]
+
+*** DONE 12x19
+CLOSED: [2026-06-20 Sat 23:28]
+
+*** DONE 12x20
+CLOSED: [2026-06-24 Wed 22:13]
+
+*** DONE 12x21
+CLOSED: [2026-06-25 Thu 23:45]
+
+*** DONE 12x22
+CLOSED: [2026-06-27 Sat 06:56]
+
+*** DONE 12x23
+CLOSED: [2026-06-29 Mon 22:26]
+
+*** DONE 12x24
+CLOSED: [2026-06-29 Mon 22:49]
 

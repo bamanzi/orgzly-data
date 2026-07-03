@@ -1,4 +1,4 @@
-#+Title: Marvel, Vertigo, Stranger Things
+#+Title: 2nd Favorites: Marvel, Vertigo, Stranger Things
 
 * Vertigo
 ** Sandman
@@ -16,8 +16,8 @@ download:
 - https://getcomics.org/dc/the-sandman-v01-v10-free-download/
 - https://getcomics.org/dc/the-sandman-book-1-4-tpb-2022/
 
-**** DONE 卷1：前奏与夜曲 (Preludes and Nocturnes)
-**** DONE 卷2：玩偶之家 (The Doll's House,  #8-16)
+**** DONE 卷1：前奏与夜曲 (Preludes and Nocturnes) :已购:
+**** DONE 卷2：玩偶之家 (The Doll's House,  #8-16) :已购:
 ***** 8. The Sound of Her Wings
 ***** 9. Tales in the Sand
 ***** 13. Men of Good Fortune
@@ -31,11 +31,13 @@ download:
 **** DONE 卷4：迷雾季节 (Season of Mists, #21-#28)
 CLOSED: <2022-02-05 Sat 17:17>
 
-**** DONE 卷五：一场游戏一场梦 (A Game of You, #32-37)
+**** DONE 卷5：一场游戏一场梦 (A Game of You, #32-37)
 CLOSED: [2022-03-17 Thu 07:27]
 
-**** DONE 卷6：神话和倒影 (Fables and Reflections, #29-31, #38-40, #50) :short:
+**** DONE 卷6：神话和倒影 (Fables and Reflections, #29-31, #38-40, #50) :short:已购:
 CLOSED: [2023-04-13 Thu 13:08]
+
+bought https://breezewiki.com/dc/wiki/The_Sandman,_Book_Three_(Collected) (#38-56)
 
 - Vertigo Preview #1 ("Fear of Falling")
 - Sandman (Volume 2) #31 ("Three Septembers and a January")
@@ -47,8 +49,11 @@ CLOSED: [2023-04-13 Thu 13:08]
 - Sandman (Volume 2) #40 ("The Parliament of Rooks")
 - Sandman (Volume 2) #50 ("Ramadan")
 
-**** DONE TPB.7 Brief Lives (#41-49) :S2024_04:
-**** TPB.8 Worlds' End (#51-56) :short:S2025_Q1:
+**** DONE TPB.7 Brief Lives (#41-49) :S2024_04:已购:
+
+bought https://breezewiki.com/dc/wiki/The_Sandman,_Book_Three_(Collected) (#38-56)
+
+**** TPB.8 Worlds' End (#51-56) :short:S2025_Q1:已购:
 
 - Sandman (Volume 2) #51: "A Tale of Two Cities"
 - Sandman (Volume 2) #52: "Cluracan's Tale"
@@ -57,10 +62,16 @@ CLOSED: [2023-04-13 Thu 13:08]
 - Sandman (Volume 2) #55: "Cerements"
 - Sandman (Volume 2) #56: "World's End"
 
-**** DONE TPB.9 The Kindly Ones (#57-69) :S2025_Q1:
+bought https://breezewiki.com/dc/wiki/The_Sandman,_Book_Three_(Collected) (#38-56)
+
+
+**** DONE TPB.9 The Kindly Ones (#57-69) :S2025_Q1:已购:
 CLOSED: [2025-03-11 Tue 13:59]
 
-**** TPB.10 The Wake (#70-75)
+bought https://breezewiki.com/dc/wiki/The_Sandman,_Book_Four_(Collected) (#57-75)
+
+**** DONE TPB.10 The Wake (#70-75) :已购:
+CLOSED: [2026-06-23 Tue 22:19]
 
 - Sandman (Volume 2) #70: "The Wake: Chapter 1"
 - Sandman (Volume 2) #71: "The Wake: Chapter 2"
@@ -68,6 +79,36 @@ CLOSED: [2025-03-11 Tue 13:59]
 - Sandman (Volume 2) #73: "The Wake: An Epilogue"
 - Sandman (Volume 2) #74: "Exiles"
 - Sandman (Volume 2) #75: "The Tempest"
+
+bought https://breezewiki.com/dc/wiki/The_Sandman,_Book_Four_(Collected) (#57-75)
+
+
+**** Death (TPB) :Death:
+
+https://breezewiki.com/dc/wiki/Death_(Collected)
+
+- Sandman (Volume 2) #8 - "The Sound of Her Wings"
+- Sandman (Volume 2) #20 - "Façade"
+- [X] Vertigo: Winter's Edge #2 - "A Winter's Tale"
+- [X] Death: The High Cost of Living #1 - "The Spirit of the Stairway"
+- [X] Death: The High Cost of Living #2 - "A Night To Remember"
+- [X] Death: The High Cost of Living #3 - "The High Cost of Living"
+- [X] 9-11 #2 - "The Wheel"
+- Death: The Time of Your Life #1 - "Things You Just Do When You're Bored"
+- Death: The Time of Your Life #2 - "Imaginary Solutions"
+- Death: The Time of Your Life #3 - "The Time of Your Life"
+- Sandman: Endless Nights - "Death and Venice"
+- A Death Gallery
+- Death Talks About Life #1
+
+***** DONE Death: The High Cost of Living
+CLOSED: [2026-07-01 Wed 13:49]
+
+3 issues
+
+***** Death: The Time of Your Life
+
+3 issues
 
 *** Sandman Universe (2018- ) :📚:
 
@@ -196,6 +237,33 @@ CLOSED: [2025-03-07 Fri 21:58]
 - #17 "Calliope"
 
 **** S2 :P2025:
+***** DONE Chapter 12: Season of Mists
+CLOSED: [2026-06-19 Fri 11:28]
+
+ch12-14 adapted from comics #21-28 /Season of Mists/
+
+***** DONE Chapter 13: The Ruler of Hell
+CLOSED: [2026-06-19 Fri 15:52]
+
+***** DONE Chapter 14: More Devils Than Vast Hell Can Hold
+CLOSED: [2026-06-19 Fri 16:42]
+
+***** DONE Chapter 15: Brief Lives
+CLOSED: <2026-06-28 Sun 10:20>
+
+ch15-17 adapted from comics #41-47 /Brief Lives/
+
+***** DONE Chapter 16: The Song of Orpheus :Orpheus:
+CLOSED: [2026-06-28 Sun 11:30]
+
+***** DONE Chapter 17: Family Blood :Orpheus:
+CLOSED: [2026-06-28 Sun 22:16]
+
+***** Chapter 18: Time and Night
+
+ch18-21 adapted from comcs #57-69 /The Kindly Ones/
+
+***** Chapter 23: Death: The High Cost of Living
 *** Sandman (audio)
 
 https://breezewiki.com/sandman/wiki/The_Sandman_(audio)
@@ -205,11 +273,11 @@ https://breezewiki.com/sandman/wiki/The_Sandman_(audio)
 https://sandman.fandom.com/wiki/The_Sandman_(audio)#Act_I_2
 
 ***** 1.01-1.07
-***** 1.08 The Sound of Her Wings
+***** 1.08 The Sound of Her Wings :Death:
 
 https://dc.fandom.com/wiki/Sandman_Vol_2_8
 
-***** TODO 1.09 Tales in the Sand
+***** 1.09 Tales in the Sand
 
 https://dc.fandom.com/wiki/Sandman_Vol_2_9
 
@@ -220,31 +288,34 @@ https://dc.fandom.com/wiki/Sandman_Vol_2_13
 ***** 1.11-1.16 The Doll's House
 ***** TODO 1.17 Calliope
 ***** TODO 1.18 A Dream of a Thousand Cats
-***** TODO 1.19 Façade
+***** 3QTR 1.19 Façade :Death:
+CLOSED: [2026-07-03 Fri 21:26]
+
+Sandman (Volume 2) #20
+
 ***** TODO 1.20 A Midsummer Night's Dream
 **** Act II
 
 https://sandman.fandom.com/wiki/The_Sandman_(audio)#Act_II_2
 
-***** 1-8 Season of Mist
-***** TODO 9 Fables & Reflections, Distant Mirrors - Thermidor
-***** TODO 10 Fables & Reflections, Distant Mirrors - August
-***** TODO 11 Fables & Reflections, Distant Mirrors - Three Septembers and  a January
-***** 12-17 A Game of You
-***** TODO 18 Convergence - The Hunt
-***** TODO 19 Convergence - Soft Places
-***** TODO 20 Convergence - The Parliament of Rooks
-***** TODO 21 Distant Mirrors - Ramadan
+***** 2.1-8 Season of Mist
+***** HALF 2.9 Thermidor 热月 (#29) :Orpheus:
+***** NOW 2.10 August (#30)
+***** TODO 2.11 Three Septembers and a January (#31)
+***** 2.12-17 A Game of You
+***** TODO 2.18 The Hunt (#38)
+***** TODO 2.19 Convergence - Soft Places (#39)
+***** TODO 2.20 Convergence - The Parliament of Rooks (#40)
+***** TODO 2.21 Distant Mirrors - Ramadan (#50)
 **** Act III
 
 https://sandman.fandom.com/wiki/The_Sandman_(audio)#Act_III_2
 
-***** TODO 3.01 The Song of Orpheus
+***** TODO 3.01 The Song of Orpheus :Orpheus:
 
-https://dc.fandom.com/wiki/Sandman_Special_Vol_1_1
+https://dc.breezewiki.com/wiki/Sandman_Special_Vol_1_1
 
 收录于 Vol 6 Fables and Reflections
-
 
 ***** TODO 3.02 Fear of Falling
 
@@ -259,7 +330,7 @@ https://dc.fandom.com/wiki/Vertigo:_Winter%27s_Edge_Vol_1_1
 
 https://dc.fandom.com/wiki/Vertigo:_Winter%27s_Edge_Vol_1_3
 
-***** TODO 3.14 Worlds' End - A Tale of Two Cities
+***** HALF 3.14 Worlds' End - A Tale of Two Cities
 
 https://dc.fandom.com/wiki/Sandman_Vol_2_51
 
@@ -267,18 +338,18 @@ https://dc.fandom.com/wiki/Sandman_Vol_2_51
 ***** DONE 3.16 Worlds' End - Hob's Leviathan
 CLOSED: [2025-03-01 Sat 08:47]
 
-***** TODO 3.17 Worlds' End - The Golden Boy
+***** NOW 3.17 Worlds' End - The Golden Boy
 ***** TODO 3.18 Worlds' End - Cerements
 ***** TODO 3.19 Worlds' End - Worlds' Ends
 ** Lucifer
 *** Lucifer v1 (2000-2006, 75 issues) :📚:😈:lucifer:
-**** LATER vol.1 Devil in the Gateway
+**** LATER vol.1 Devil in the Gateway :hanzify:
 DEADLINE: <2022-02-28 Mon>
 
-- [ ] The Sandman Presents - Lucifer #1-3
+- [ ] Lucifer: The Morningstar Option #1-3
 - [ ] Lucifer v1 #1-4
 
-**** vol.2 Children and Monsters (#5-13)
+**** vol.2 Children and Monsters (#5-13) :hanzify:
 **** book two (#14-28, Nirvana)
 **** ?
 *** 路西法 Lucifer (tv) :📺:lucifer:😈:
@@ -480,7 +551,25 @@ CLOSED: [2025-03-14 Fri 21:56]
 ***** DONE 4x10
 CLOSED: [2025-03-15 Sat 17:28]
 
-**** NEXT Lucifer S5 (16 eps) :P2020:S2026_Q2:
+**** DOING Lucifer S5 (16 eps) :P2020:S2026_Q2:
+***** DONE 5x01
+CLOSED: [2026-06-18 Thu 20:27]
+
+***** DONE 5x02
+CLOSED: [2026-06-19 Fri 22:15]
+
+***** DONE 5x03
+CLOSED: [2026-06-21 Sun 09:46]
+
+***** DONE 5x04
+CLOSED: [2026-06-21 Sun 20:00]
+
+***** DONE 5x05
+CLOSED: [2026-06-25 Thu 08:44]
+
+***** DONE 5x06
+CLOSED: [2026-07-03 Fri 19:03]
+
 **** Lucifer S6 (10 eps) :P2021:
 ** Preacher
 *** comics :📚:
@@ -767,7 +856,7 @@ CLOSED: [2024-08-13 Tue 08:05]
 **** DONE 5x22
 CLOSED: [2024-08-13 Tue 18:47]
 
-*** DONE 📂S6 :S2025_Q3:
+*** DONE S6 :S2025_Q3:
 **** DONE 6x01
 CLOSED: <2025-07-07 Mon 16:45>
 
@@ -807,6 +896,7 @@ CLOSED: [2025-08-06 Wed 22:01]
 **** DONE 6x13
 CLOSED: [2025-08-10 Sun 10:01]
 
+*** S7
 ** phase 2
 *** DONE Avengers 2: Age of Ultron
 CLOSED: [2024-08-10 Sat 10:01]
@@ -1459,13 +1549,34 @@ CLOSED: [2025-02-26 Wed 21:26]
 *** DONE 2x09
 CLOSED: [2025-03-01 Sat 16:42]
 
-** NEXT 怪奇物语 S3 :P2019_07:S2026_Q2:
+** DONE 怪奇物语 S3 :P2019_07:S2026_Q2:
+CLOSED: [2026-06-14 Sun 23:18]
+
 *** DONE 3x01
 CLOSED: [2026-05-31 Sun 19:57]
 
 *** DONE 3x02
 CLOSED: [2026-05-31 Sun 20:44]
 
+*** DONE 3x03
+CLOSED: [2026-06-07 Sun 22:33]
+
+*** DONE 3x04
+CLOSED: [2026-06-12 Fri 22:50]
+
+*** DONE 3x05
+CLOSED: [2026-06-13 Sat 20:36]
+
+*** DONE 3x06
+CLOSED: [2026-06-14 Sun 09:23]
+
+*** DONE 3x07
+CLOSED: [2026-06-14 Sun 20:43]
+
+*** DONE 3x08
+CLOSED: [2026-06-14 Sun 23:17]
+
+** 怪奇物语 S4 :P2022:
 ** comics
 *** DONE The Other Side :P2018:
 CLOSED: [2026-05-21 Thu 17:18]
@@ -1479,6 +1590,14 @@ CLOSED: [2026-05-21 Thu 16:50]
 
 2019.05 - 2019.08
 
-*** Zombie Boys :P2020_01:oneshot:
-*** Into the Fire :P2020_07:
-*** Science Camp :P2020_09:
+*** DONE Zombie Boys :P2020_01:oneshot:
+CLOSED: <2026-06-17 Wed 08:19>
+
+设定在第一二季之间
+
+*** DONE The Bully :oneshot:
+CLOSED: [2026-06-16 Tue 04:35]
+
+*** TODO Into the Fire :P2020_07:S2026_Q2:
+*** TODO Science Camp :P2020_09:S2026_Q2:
+*** The Tomb of Ybwen :P2021:

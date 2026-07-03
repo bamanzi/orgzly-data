@@ -39,7 +39,7 @@ CLOSED: <2021-07-29 Thu 12:48>
 **** DONE Blue Sun Rising #0-1, Firefly #21-24
 CLOSED: [2021-08-15 Sun 22:10]
 
-*** GN: Watch How I Soar
+*** TODO GN: Watch How I Soar
 *** 2021
 **** DONE Return to Earth That Was (#25-30) :ongoing:
 CLOSED: [2022-11-03 Thu 18:43]
@@ -68,8 +68,20 @@ CLOSED: [2024-11-20 Wed 13:30]
 没看懂讲了个什么故事，更没搞懂设定在那个时间点。大胡子是Mal 吗（前几页也没胡子没那么老啊），那个戴眼镜的大妈又是谁，几乎所有人物都不容易辨识
 
 *** 2023-2024
-**** NEXT The Fall Guys (#1-6) :S2026_Q1:
-**** Firefly ‘Verses :oneshot:
+**** DONE [#C] The Fall Guys (#1-6) :S2026_Q1:
+CLOSED: [2026-06-13 Sat 23:00]
+
+没什么意思
+
+**** DONE [#B] Firefly ‘Verses :oneshot:alternate_universe:P2024:
+CLOSED: [2026-06-14 Sun 19:21]
+
+In this one-shot special detailing a collection of pivotal moments of the much-beloved crew of the spaceship Serenity, witness the alternate thrilling origins of their introductions and intertwinings. Because in this case… there’s a twist. What if the Browncoats had won the war against the Alliance?
+
+属于平行宇宙类型：这次在Unifications War 中获得胜利的是 Reynolds 和 Zoe 这方，战后她俩都为为政府打击犯罪。他们新接到一个任务，这个任务的对手就是Kaylee、布克神父、Jayne 、River、Simon等人，他们的遭遇让Reynolds 和 Zoe 重新思考他们的选择是否是正确的
+
+
+
 **** Firefly – Malcolm Reynolds Year One #1 (2024)
 * Stargate
 ** DONE Stargate movie :P1994:
@@ -1287,7 +1299,7 @@ CLOSED: [2024-06-28 Fri 20:05]
 ****** DONE 1x12
 CLOSED: [2024-06-30 Sun 09:55]
 
-***** season 2 :S2026_Q1:
+***** Andor season 2 :S2026_Q1:
 ****** DONE 2x01-03 :4BBY:
 CLOSED: [2026-02-20 Fri 20:19]
 
@@ -1355,7 +1367,7 @@ CLOSED: [2023-07-18 Tue 22:33] SCHEDULED: <2023-07-23 Sun>
 ****** DONE 2x08 The Rescue :Boba_Fett:Bo_Katan:
 CLOSED: [2023-07-25 Tue 18:48] SCHEDULED: <2023-07-30 Sun>
 
-***** season 3 (8 eps) :P2023_03:S2026_Q1:
+***** Mando season 3 (8 eps) :P2023_03:S2026_Q1:
 ****** DONE 3x01 The Apostate
 CLOSED: [2026-03-15 Sun 10:53]
 
@@ -1827,7 +1839,7 @@ https://starwars.fandom.com/wiki/Old_Wounds
 ****** DONE 3x21/22 Zero Hour :Bendu:
 CLOSED: [2024-07-30 Tue 08:07]
 
-***** season 4 (16 eps) :P2017:S2026_Q1:
+***** Rebels season 4 (16 eps) :P2017:S2026_Q1:
 ****** DONE 4x01/02 Heroes of Mandalore :Mandalorian:Bo_Katan:Darksaber:
 CLOSED: [2026-03-11 Wed 22:48]
 
@@ -2527,7 +2539,7 @@ It was written by Jody Houser, illustrated by Luke Ross, and published by Marvel
 The limited comic series takes place between /Star Wars: Episode III Revenge of the Sith/ and /Star Wars: Episode IV A New Hope/, _it leads right into /Star Wars: Rebels season 3/ with /Steps Into Shadow (episodes 3.01 and 3.02)/_,
 and follows the life of /Mitth'raw'nuruodo/, Thrawn as he rises through the ranks of the Galactic Empire and makes many friends---and foes---alike.
 
-****** TODO Thrawn - Alliances :P2024:2BBY:19BBY:hanzify:Anakin:Vader:S2026_Q1:
+****** HALF Thrawn - Alliances :P2024:2BBY:19BBY:hanzify:Anakin:Vader:S2026_Q1:
 
 Set between the third and fourth seasons of the animated television show /Star Wars Rebels/.
 
