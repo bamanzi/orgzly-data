@@ -173,7 +173,8 @@ Vega的团队用着卑鄙的手段竞选，博士和Alpha必须击败一场凶�
 ***** 📂S3.3 Buried Threats :P2024_02:
 ****** [#E] 3.3.1 A Theatre of Cruelty :scripted:
 ****** CANCEL [#F] 3.3.2 The Running Men
-****** READY [#C] 3.3.3 Ancient History :Benny:bilibili:
+****** READY [#C] 3.3.3 Ancient History :Benny:bilibili:dw2026_q3a_doctor:
+SCHEDULED: <2026-08-22 Sat>
 
 【【神秘博士广播剧熟肉】Buried Threats 309 Ancient History 古代史-哔哩哔哩】 https://b23.tv/BV1geSEYTEvn
 
@@ -596,8 +597,8 @@ CLOSED: [2021-06-18 Fri 10:22]
 :END:
 
 **** 10DA vol.3 :P2019:Donna:
-***** HALF [#B] 10DA 3.1 - No Place :plot_yes:D2022_01_doctor:bilibili:dw2026_q2b_doctor:
-SCHEDULED: <2026-06-13 Sat>
+***** DONE [#B] 10DA 3.1 - No Place :plot_yes:D2022_01_doctor:bilibili:dw2026_q2b_doctor:
+CLOSED: [2026-07-05 Sun 16:57] SCHEDULED: <2026-06-13 Sat>
 :PROPERTIES:
 :rating:   8.3
 :END:
@@ -1084,7 +1085,8 @@ https://www.bigfinish.com/releases/v/doctor-who-the-eleventh-doctor-chronicles-v
 
 这是个圣诞奇迹！博士和Valarie终于又找到一位Clara，只可惜她想杀了他们。
 
-***** READY [#B] 5.2 All’s Fair :bilibili:
+***** READY [#B] 5.2 All's Fair :bilibili:dw2026_q3a_doctor:
+SCHEDULED: <2026-07-25 Sat>
 :PROPERTIES:
 :thetimescales: 8.4
 :tardis.guide: 4.10
@@ -1818,7 +1820,12 @@ CLOSED: [2023-12-24 Sun 22:02] SCHEDULED: <2023-12-24 Sun>
 
 ** audio
 *** 13DA
-**** READY 1. Vampire Weekend :P2025_07:bilibili:
+**** READY [#C] 1. Vampire Weekend :P2025_07:bilibili:dw2026_q3a_doctor:
+SCHEDULED: <2026-08-08 Sat>
+:PROPERTIES:
+:tardis.guide: 4.04
+:thetimescales: 7.5
+:END:
 
 【【神秘博士广播剧熟肉】The Thirteenth Doctor Adventures 101 Vampire Weekend 吸血鬼周末-哔哩哔哩】 https://b23.tv/BV1azGnz8E1C
 

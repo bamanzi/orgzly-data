@@ -242,7 +242,8 @@ CLOSED: [2021-06-26 Sat 09:13]
 :END:
 
 ***** [#D] CC8.9 Starborn :Vicki:Ian:Barbara:
-***** [#B] CC9.2 - The Unwinding World :Vicki:Ian:Barbara:
+***** [#B] CC9.2 - The Unwinding World :Vicki:Ian:Barbara:dw2026_q3a_doctor:
+SCHEDULED: <2026-08-22 Sat>
 :PROPERTIES:
 :rating:   8.0
 :END:
@@ -808,8 +809,22 @@ SCHEDULED: <2023-12-16 Sat>
 :rating:   8.2
 :END:
 
-***** DONE [#A] EA6.2 Daughter of the Gods (9.2) :Jamie:Zoe:Steven:Katarina:Daleks:P2019:D2021_04:
+***** DONE [#A] EA6.2 Daughter of the Gods (9.2) :Jamie:Zoe:Steven:Katarina:Daleks:P2019:D2021_04:bilibili:
 CLOSED: <2021-04-30 Fri 22:59>
+
+【【神秘博士广播剧熟肉】Early Adventures 早期冒险 602 Daughter of The Gods 众神之女 Part1&2-哔哩哔哩】 https://b23.tv/BV1oWEJ6AE4g
+
+【【神秘博士广播剧熟肉】Early Adventures 早期冒险 602 Daughter of The Gods 众神之女（Part3&4）-哔哩哔哩】 https://b23.tv/BV1z7EJ6MEyx
+
+
+当Zoe将一件旧设备重新连接到TARDIS控制台上时，她、Jamie和博士都非常幸运地避免了碰撞事故的发生
+但他们所处的环境可能更加危险
+因为在那里他们遇到了另一位博士、一位名叫Steven的太空飞行员，以及一位名叫Katarina的年轻女子，而她本不该出现在那里....
+
+本故事发生在老版第一任博士剧集S3E03“神话制造者”与S3E04“Dalek的阴谋”之间，并且与Katarina的结局和dalek的阴谋强相关
+
+有错误欢迎各位指正
+
 
 **** HALF [#D] LS4.2 - The Queen of Time :Jamie:Zoe:plot_yes:D2022_06_doctor:2CD:
 SCHEDULED: <2022-06-05 Sun>
@@ -817,7 +832,7 @@ SCHEDULED: <2022-06-05 Sun>
 :rating:   7.4
 :END:
 
-**** BLOCK [#B] LS4.3 - Lords of the Red Planet :Jamie:Zoe:ice_warriors:3CD:plot_yes:dw2026_q2b_doctor:
+**** HALF [#B] LS4.3 - Lords of the Red Planet :Jamie:Zoe:ice_warriors:3CD:plot_yes:dw2026_q2b_doctor:
 SCHEDULED: <2026-06-27 Sat>
 :PROPERTIES:
 :rating:   8.2
@@ -1206,7 +1221,8 @@ CLOSED: [2024-06-21 Fri 19:24] SCHEDULED: <2024-06-22 Sat>
 :rating:   7.5
 :END:
 
-***** [#C] 3.2 Storm of the Horofax :Jo:P2017:plot_no:
+***** [#C] 3.2 Storm of the Horofax :Jo:P2017:plot_no:dw2026_q3a_doctor:
+SCHEDULED: <2026-08-29 Sat>
 :PROPERTIES:
 :rating:   7.6
 :END:
@@ -2176,8 +2192,8 @@ SCHEDULED: <2022-10-29 Sat>
 ***** [#D] 2.2 The Demon of Paris
 ***** [#D] 2.3. A Shard of Ice
 **** 📂Serpent Crest
-***** [#C] 3.1. Tsar Wars :dw2026_q2b_doctor:
-SCHEDULED: <2026-06-27 Sat>
+***** HALF [#C] 3.1. Tsar Wars :dw2026_q2b_doctor:
+SCHEDULED: <2026-06-20 Sat>
 
 ***** [#C] 3.2. The Broken Crown
 ***** [#C] 3.3. Aladdin Time
@@ -2630,8 +2646,8 @@ https://b23.tv/BV1eE6FYwEYz
 ** 📂Sontarans vs Rutans
 *** [#C] 1. The Battle of Giant's Causeway :8th_Dr:Charley:Crizz:P2024_01:
 *** 3QTR [#B] 2. The Children of the Future :3rd_Dr:Sarah:P2024_02:
-*** [#D] 3. Born to Die :6th_Dr:Charley:P2024_03:dw2026_q2b_doctor:
-SCHEDULED: <2026-07-11 Sat>
+*** HALF [#D] 3. Born to Die :6th_Dr:Charley:P2024_03:dw2026_q2b_doctor:
+SCHEDULED: <2026-07-04 Sat>
 
 *** [#C] 4. In Name Only :War_Dr:P2024_04:
 ** 📂Dark Gallifrey :3CD:

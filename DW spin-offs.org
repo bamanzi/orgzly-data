@@ -521,8 +521,12 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 ***** [#B] 65X A Postcard from Mr Colchester :Colchester:plot_yes:
 ***** [#D] 65. Death in Venice :Colchester:Ace:plot_yes:
 ***** [#D] 66. SUV :Ianto:Tosh:
-***** [#A] 67. The Lincolnshire Poacher :Ianto:plot_yes:dw2026_q2b_spinoffs:
-      SCHEDULED: <2026-06-14 Sun>
+***** HALF [#B] 67. The Lincolnshire Poacher :Ianto:plot_yes:dw2026_q2b_spinoffs:
+      SCHEDULED: <2026-06-21 Sun>
+      :PROPERTIES:
+      :tardis.guide: 3.64
+      :thetimescales: 8.5
+      :END:
 
 ***** CANCEL [#F] 68. The Empire Man :Queen:plot_yes:
 ***** 3QTR [#C] 69. Double part1 :Autons:P2023_01:plot_yes:DW2024_Q4a_spinoffs:
@@ -548,7 +552,9 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 
 ***** [#C] 74. Sigil :Bilis_Manger:P2023_08:
 ***** [#D] 75. Dog Hop :Andy:plot_yes:P2024_09:
-***** FIXME [#C] 76. Odyssey :Ood:P2024_10:plot_yes:
+***** FIXME [#C] 76. Odyssey :Ood:P2024_10:plot_yes:dw2026_q3a_spinoffs:
+      SCHEDULED: <2026-07-19 Sun>
+
 ***** FIXME [#C] 77. Oodunnit :Ood:Zack:P2024_11:
 ***** FIXME [#D] 78. Oracle :Ood:P2023_12:
 ***** [#B] 79. Poppet :Rhys:P2024_01:
@@ -873,7 +879,9 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
 ***** HALF [#B] 7.11 Heistland :Yvonne:Orr:Tyler:dw2026_q2a_spinoffs:
       SCHEDULED: <2026-05-03 Sun>
 
-***** [#C] 7.12 The Apocalypse Starts at 6 PM :Yvonne:Og:
+***** [#C] 7.12 The Apocalypse Starts at 6 PM :Yvonne:Og:dw2026_q3a_spinoffs:
+      SCHEDULED: <2026-08-16 Sun>
+
 *** 📂The Lives of Captain Jack :🎧:Jack:1CD:
 **** vol.1 :P2017:
 ***** HALF [#D] 1.1 The Year After I Died
@@ -1340,7 +1348,9 @@ Roberts Master
 ***** HALF [#A] part2. The Key to the Door :dw2026_q2a_spinoffs:
       SCHEDULED: <2026-05-24 Sun>
 
-***** [#A] part3. The Bird from the Nest
+***** [#A] part3. The Bird from the Nest :dw2026_q3a_spinoffs:
+      SCHEDULED: <2026-08-09 Sun>
+
 ***** [#A] part4. The Isle on the Shore
 **** 📂DoRS 12 - The Orphan Quartet :P2023_08:
 ***** [#E] 12.1 The Excise Men
@@ -1528,10 +1538,11 @@ Roberts Master
     :rating:   8.2
     :END:
 
-*** [#A] 10.4 - The Museum of Curiosities :dw2026_q2b_spinoffs:
-    SCHEDULED: <2026-06-28 Sun>
+*** HALF [#B] 10.4 - The Museum of Curiosities :dw2026_q2b_spinoffs:
+    SCHEDULED: <2026-07-12 Sun>
     :PROPERTIES:
-    :rating:   8.5
+    :thetimescalea: 8.5
+    :tardis.guide: 4.12
     :END:
 
 *** [#A] 10.X Jago & Litefoot & Strax - The Haunting
@@ -2055,14 +2066,14 @@ http://drwhoguide.com/bs_a18.htm
      :rating:   7.9
      :END:
 
-**** [#C] 2.3 Paradise Frost :Jack_McSpringheel:dw2026_q2b_spinoffs:
-     SCHEDULED: <2026-07-12 Sun>
+**** HALF [#C] 2.3 Paradise Frost :dw2026_q2b_spinoffs:
+     SCHEDULED: <2026-06-14 Sun>
      :PROPERTIES:
      :rating:   7.6
      :END:
 
 **** novel: The Weather on Versimmon
-*** Boxset 3: Legion :P2012:plot_yes:
+*** Boxset 3: Legion :P2012:plot_yes:Jack_McSpringheel:
 **** [#C] 3.1 - Vesuvius Falling
      :PROPERTIES:
      :rating:   7.8
@@ -2971,13 +2982,15 @@ UNIT的黎明，外星人已开始入侵，而Eddie Wise远未做好准备
 *** HALF [#B] 2.1 The Man From Gallifrey :The_Eleven:dw2026_q1a_spinoffs:
     SCHEDULED: <2026-02-22 Sun>
 
-*** [#C] 2.2 Power of the Dominators :dw2026_q1b_spinoffs:
+*** HALF [#C] 2.2 Power of the Dominators :dw2026_q1b_spinoffs:
     SCHEDULED: <2026-04-19 Sun>
 
-*** [#C] 2.3 The War Factory :dw2026_q2b_spinoffs:
-    SCHEDULED: <2026-06-14 Sun>
+*** HALF [#C] 2.3 The War Factory :dw2026_q2b_spinoffs:
+    SCHEDULED: <2026-06-21 Sun>
 
-*** [#C] 2.4 Ten Minutes in Hell
+*** [#C] 2.4 Ten Minutes in Hell :dw2026_q3a_spinoffs:
+    SCHEDULED: <2026-07-26 Sun>
+
 ** 📂Nemesis 3: Objective: Earth :P2022_11:
 *** [#D] 3.1 The Vulpreen Encounter
 *** [#B] 3.2 By Jacqui McGee
@@ -3200,7 +3213,8 @@ http://www.drwhoguide.com/kaldor03.htm
      :difficulty: H
      :END:
 
-**** [#D] 3.3 The Houseguest :2nd_Dr:Zygons:
+**** [#D] 3.3 The Houseguest :2nd_Dr:Zygons:dw2026_q3a_spinoffs:
+     SCHEDULED: <2026-08-09 Sun>
      :PROPERTIES:
      :thetimescales: 6.5
      :tardis.guide: 3.70
@@ -3303,8 +3317,8 @@ http://www.drwhoguide.com/kaldor03.htm
     :tardis.guide: 3.64
     :END:
 
-*** [#C] 4.2 - The Keep :dw2026_q2b_spinoffs:
-    SCHEDULED: <2026-06-28 Sun>
+*** HALF [#C] 4.2 - The Keep :dw2026_q2b_spinoffs:
+    SCHEDULED: <2026-07-05 Sun>
     :PROPERTIES:
     :rating:   7.9
     :tardis.guide: 3.88
@@ -3636,7 +3650,8 @@ Rani起初并不相信，但当一位老朋友警告她不要插手时，她感�
 **** HALF [#D] 1.2 - Hounded   (7.2) :DW2023_06_spinoffs:
      SCHEDULED: <2023-06-18 Sun>
 
-**** TODO [#C] 1.3 - Living History              (7.9) :Daleks:11th_Dr:plot_yes:
+**** TODO [#C] 1.3 - Living History              (7.9) :Daleks:11th_Dr:plot_yes:dw2026_q3a_spinoffs:
+     SCHEDULED: <2026-08-23 Sun>
 
 4 out of 20 (20.0%) raters say this story requires a previous story.
 

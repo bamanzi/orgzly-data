@@ -348,7 +348,9 @@ CLOSED: [2021-02-27 Sat 18:02]
 
 Interludes #8
 
-**** BLOCK [#A] 5DA2022.2 The Auton Infinity :Tegan:Turlough:Brigadier:Master_tremas:Autons:3CD:P2022_09:plot_yes:
+**** [#A] 5DA2022.2 The Auton Infinity :Tegan:Turlough:Brigadier:Master_tremas:Autons:3CD:P2022_09:plot_yes:dw2026_q3a_doctor:
+SCHEDULED: <2026-08-08 Sat>
+
 **** 📂5DA2026. Helter Skelter :Tegan:Turlough:P2026_04:
 ***** 1. Field of Miracles
 ***** 2. Helter Skelter
@@ -1924,7 +1926,8 @@ SCHEDULED: <2023-03-25 Sat>
 CLOSED: [2023-07-04 Tue 08:31] SCHEDULED: <2023-07-08 Sat>
 
 **** 📂7DA2024B The Doctor and Carnacki :P2024_11:Carnacki:
-***** [#D] 24B.1 The Haunter of the Shore
+***** [#D] 24B.1 The Haunter of the Shore :dw2026_q3a_doctor:
+SCHEDULED: <2026-07-25 Sat>
 :PROPERTIES:
 :thetimescales: 6.3
 :tardis.guide: 3.68
