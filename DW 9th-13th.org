@@ -365,12 +365,16 @@ CLOSED: <2023-12-17 Sun 22:44> SCHEDULED: <2023-12-31 Sun>
 :END:
 
 ** short stories
-*** NEXT The Day She Saved the Doctor #2: Rose and the Snow Windows :hanzify:
-SCHEDULED: <2023-12-31 Sun>
+*** LATER The Day She Saved the Doctor #2: Rose and the Snow Windows :hanzify:S2026_Q3:
 
-https://link.zhihu.com/?target=http%3A//id24601.lofter.com/post/1cce6a8f_1c71baabb （1-2）
+http://id24601.lofter.com/post/1cce6a8f_1c71baabb （1-2）
 
-https://link.zhihu.com/?target=http%3A//id24601.lofter.com/post/1cce6a8f_1c757b093 （3-5）
+http://id24601.lofter.com/post/1cce6a8f_1c757b093 （3-5）
+
+https://id24601.lofter.com/post/1cce6a8f_1c95e8ac4 (6-7)
+
+https://id24601.lofter.com/post/1cce6a8f_2b50209d7 (8-9)
+
 
 ** comics :📚:
 *** DWM
@@ -392,7 +396,7 @@ SCHEDULED: <2023-12-31 Sun>
 ***** DONE Sin-Eaters (#11-12)
 ***** DONE Secret Agent Man (#13)
 ***** DONE The Bidding War (#14-15)
-**** Hacked (FCBD 2016 #4)
+**** Hacked (FCBD 2016 #4) :S2026_Q3:
 **** Once Upon a Time Lord #2: Rhyme or Reason :9th_Dr:Rose:P2023:
 * 10th Doctor :10th_Dr:
 ** tv :📺:
@@ -1071,7 +1075,7 @@ SCHEDULED: <2026-02-02 Mon 19:53>
 
 【伽罗瓦的数学遗产：群论 是什么？有什么用？-哔哩哔哩】 https://b23.tv/BV1Hs6CB4E2b
 
-**** 📂11DC vol.5 Everywhere and Anywhere :Valarie:P2023_12:
+**** 📂11DC vol.5 Everywhere and Anywhere :Valarie:P2023_12:plot_yes:
 ***** READY [#B] 5.1 Spirit of the Season :bilibili:dw2026_q2a_doctor:
 SCHEDULED: <2026-05-30 Sat>
 :PROPERTIES:
@@ -1269,7 +1273,7 @@ https://m.youtube.com/watch?v=7wrZUFIgiNE
 ***** DONE 09-10 Sky Jack
 CLOSED: [2020-08-16 Sun 16:52]
 
-***** DONE 11-14 Dead Man's Hand
+***** DONE 11-14 Dead Man's Hand :Edison:
 CLOSED: [2020-08-16 Sun 16:52]
 
 **** specials :已购:
@@ -1279,7 +1283,7 @@ CLOSED: [2020-08-16 Sun 16:52]
 ***** 50th Anniversary DVD special - Birthday Boy
 ***** DW special 2013 (The Girl Who Loved Doctor Who)
 **** A Fairytale Life
-**** Assimilation² (crossover with Star Trek)
+**** DONE Assimilation² (crossover with Star Trek)
 *** Titan :Titan_Comics:
 **** DONE 11DY1
 CLOSED: [2020-08-16 Sun 17:00]
@@ -1287,7 +1291,7 @@ CLOSED: [2020-08-16 Sun 17:00]
 **** DONE 11DY2 :War_Dr:
 CLOSED: [2020-08-16 Sun 17:00]
 
-**** DONE 11DY3
+**** DONE 11DY3 :P2017:
 CLOSED: [2023-02-22 Wed 13:49]
 
 ***** DONE 1. Remembrance
@@ -1314,7 +1318,9 @@ CLOSED: [2023-02-20 Mon 13:48]
 ***** DONE 12-13. Hungry Thirsty Roots
 CLOSED: [2023-02-22 Wed 13:49]
 
-**** Give Free or Die (FCBD 2015 #2)
+**** DONE Give Free or Die (FCBD 2015 #2) :S2026_Q3:
+CLOSED: [2026-07-25 Sat 13:29]
+
 **** Obsessions (FCBD 2016 #2) :Abslom_Daak:
 **** Midnight Feast (FCBD 2018 #3)
 *** DWM
@@ -1535,6 +1541,10 @@ SCHEDULED: <2026-01-07 Wed>
 :thetimescales: 9.0
 :END:
 
+*** 📂12DA vol.1 Run Fast Be Kind :Ash:
+**** 1.1 The Second Death :P2026_07:
+**** 1.2 The Broken Man :P2026_07:
+**** 1.3 The Beautiful and the Damned :P2026_07:
 *** Short Trips :🗣:
 **** 3QTR [#B] 9.2 - The Astrea Conspiracy :DW2023_08_doctor:
 CLOSED: [2023-09-03 Sun 11:45] SCHEDULED: <2023-09-03 Sun>
@@ -1755,7 +1765,7 @@ CLOSED: [2020-06-30 Tue 22:52]
 :rating:   4.1
 :END:
 
-**** DONE [#C] 12x4 Nikola Tesla's Night of Terror :Tesla:
+**** DONE [#C] 12x4 Nikola Tesla's Night of Terror :Tesla:Edison:
 CLOSED: [2020-07-01 Wed 21:35]
 :PROPERTIES:
 :rating:   6.5
@@ -1812,7 +1822,7 @@ CLOSED: [2021-12-12 Sun 14:53]
 *** DONE 298. Eve of the Daleks :time_loop:DW2023_Q4:
 CLOSED: [2023-12-17 Sun 10:28] SCHEDULED: <2023-12-17 Sun>
 
-*** DONE 299. Legend of the Sea Devil
+*** DONE 299. Legend of the Sea Devil :Sea_Devils:
 CLOSED: <2023-01-06 Fri 22:20>
 
 *** DONE 300. The Power of the Doctor :Master_spy:Yaz:Ace:Tegan:UNIT:Kate:DW2023_Q4:
@@ -1859,7 +1869,15 @@ https://www.bigfinish.com/releases/v/doctor-who-the-thirteenth-doctor-adventures
 
 博士能否在失去她最好的朋友前，阻止这一切？
 
-**** 5. The Violet Hour
+**** 5. The Violet Hour :P2026_03:
+**** READY 6. Aegis :P2026_05:bilibili:
+
+【【神秘博士广播剧】The Thirteenth Doctor Adventures 106 Aegis-神盾-哔哩哔哩】 https://b23.tv/BV1nXjq6nEVJ
+
+**** READY 7. The Hallamshire Incident :Ice_Warriors:P2026_07:
+
+【【神秘博士广播剧】The Thirteenth Doctor Adventures 107 The Hallamshire Incident-哈勒姆郡事件-哔哩哔哩】 https://b23.tv/BV1kZ3g6YEY5
+
 *** ST14.X The Wednesday That Wasn't :P2025_12:scripted:bilibili:
 
 【【神秘博士广播剧熟肉】短期旅行：不存在的星期三-哔哩哔哩】 https://b23.tv/BV1WjffBXEfR
@@ -1917,15 +1935,21 @@ CLOSED: [2020-06-20 Sat 20:37]
 **** DONE Hidden Human History (13DY1 #5-8)
 CLOSED: [2020-06-26 Fri 15:37]
 
-**** DONE Old Friends (13D 9-12)
+**** DONE Old Friends (13D 9-12) :P2019:
 CLOSED: [2020-07-01 Wed 18:45]
 
-**** DONE holiday specials
-CLOSED: [2020-08-02 Sun 16:17]
+**** DONE holiday specials :P2019:S2026_Q3:
+CLOSED: [2026-07-22 Wed 07:13]
 
-**** TODO A Little Help from My Friends (13DY2 1-4) :10th_Dr:
-**** Alternating Current (DWC20 #1-4)
-**** And Introducing... (FCBD 2018 #4)
+**** TODO A Little Help from My Friends (13DY2 1-4) :10th_Dr:P2020:
+**** DONE Alternating Current (DWC20 #1-4) :10th_Dr:Rose:Tesla:S2026_Q3:
+CLOSED: [2026-08-01 Sat 20:05] SCHEDULED: <2026-07-31 Fri>
+
+情节与 12x04 /Nikola Tesla's Night of Terror/ 紧密相关
+
+另外，此标题也有“交流电”的意思
+
+**** And Introducing... (FCBD 2018 #4) :S2026_Q3:
 **** Meet the Fam! (FCBD 2019)
 *** DWM
 **** DWMGN: Mistress of Chaos
@@ -1946,10 +1970,12 @@ CLOSED: [2023-12-14 Thu 13:48] SCHEDULED: <2023-12-17 Sun>
 ***** DONE The White Dragon (DWM559-562) :Graham:Yaz:Ryan:DW2023_Q4:
 CLOSED: [2023-12-19 Tue 13:12] SCHEDULED: <2023-12-23 Sat>
 
-***** LATER The Forest Bride (DWM570-571) :Yaz:
-SCHEDULED: <2024-01-07 Sun>
+***** DONE The Forest Bride (DWM570-571) :Yaz:S2026_Q3:
+CLOSED: [2026-07-22 Wed 22:31] SCHEDULED: <2024-01-07 Sun>
 
-***** It's Behind You (DWM572) :Yaz:Dan:
+***** DONE It's Behind You (DWM572) :Yaz:Dan:S2026_Q3:
+CLOSED: [2026-07-22 Wed 22:40]
+
 ***** Hydra's Gate (DWM574-577) :Yaz:Dan:
 **** DWM misc
 ***** Fear of the Future :Yaz:Dan:
@@ -1993,7 +2019,7 @@ CLOSED: [2020-06-21 Sun 06:03]
 
 https://tieba.baidu.com/p/6592330173
 
-*** 短篇 The Terror of Umpty-Ums 翻译版
+*** 短篇 The Terror of Umpty-Ums 翻译版 :S2026_Q3:
 
 http://tieba.baidu.com/p/6610135518?share=9105&fr=share&see_lz=0&sfc=copy&client_type=2&client_version=11.1.8.2&st=1593736160&unique=58A318B2D019E66209DFAEB93AC228AE
 

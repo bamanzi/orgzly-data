@@ -1068,7 +1068,11 @@ http://blog.sina.cn/dpool/blog/s/blog_6c777581010185u0.html?type=2
 
 5 issues
 
-**** Empire of the Wolf :P2022:11th_Dr:Rose:
+**** Empire of the Wolf :P2022:11th_Dr:Rose:S2026_Q3:
+SCHEDULED: <2026-08-09 Sun>
+
+另一 Rose 的来历与前面的 /Alternating Current/ 有关
+
 * Last Great Time War timeline :time_war:
 
 https://tardis.wiki/wiki/Theory:Timeline_-_Last_Great_Time_War
@@ -1122,7 +1126,6 @@ CLOSED: <2020-10-08 Thu 10:49>
 CLOSED: [2020-12-26 Sat 18:56]
 
 【[神秘博士广播剧] The War Master 202: The Glittering Prize 璀璨殊荣-哔哩哔哩】 https://b23.tv/BV1ShRZBUE95
-
 
 **** DONE 2.3 The Persistence of Dreams
 CLOSED: [2020-12-26 Sat 09:41]
@@ -1603,7 +1606,6 @@ CLOSED: [2021-11-12 Fri 18:30] SCHEDULED: <2021-11-20 Sat>
 
 【[神秘博士广播剧] Doctor Who: Time War 402 Dreadshade-哔哩哔哩】 https://b23.tv/BV1Sco9B6E82
 
-
 **** 3QTR [#A] 4.4 Restoration of the Daleks :Alex:D2021_11_davros:bilibili:
 CLOSED: <2021-11-26 Fri 09:50> DEADLINE: <2021-11-26 Fri 21:54> SCHEDULED: <2021-11-20 Sat>
 :PROPERTIES:
@@ -1751,7 +1753,11 @@ SCHEDULED: <2024-09-28 Sat>
 **** [#D] 2.2 Remnants
 **** [#A] 2.3 Transference
 **** [#B] 2.4 Ambition's Debt
-*** TBR 📂Gallifrey: War Room vol.3 Loyalties :P2026_06:
+*** 📂Gallifrey: War Room vol.3 Loyalties :P2026_06:
+**** 3.1 Propaganda :Rasmus:Rassilon:
+**** 3.2 Resistance
+**** 3.3 Hope
+**** 3.4 Eye for an Eye
 *** DONE PROSE: The Third Wise Man :War_Dr:
 CLOSED: <2019-10-29 Tue 13:59>
 

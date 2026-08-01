@@ -25,7 +25,7 @@ CLOSED: [2022-11-19 Sat 18:32] SCHEDULED: <2022-11-02 Wed>
 *** 20th anniversary special
 **** [#B] The Five Doctors (8.1)
 *** Season 21
-**** CANCEL [#E] Warriors of the Deep (6.5)
+**** CANCEL [#E] Warriors of the Deep (6.5) :Sea_Devils:
 **** [#D] The Awakening (7.3)
 **** [#D] Frontios (7.3)
 **** DONE [#B] Resurrection of the Daleks (7.9)
@@ -612,6 +612,7 @@ CLOSED: [2022-01-14 Fri 15:10]
 ***** My Dinner with Andrew
 ***** The Furies
 **** [#E] VI. Return to the Web Planet :1CD:
+**** [#E] No Place Like Home (DWM 326) :Erimem:
 **** READY [#C] X. The Five Companions :1CD:Ian:Sara_Kingdom:Steven:Polly:Nyssa:bilibili:
 
 【【神秘博士广播剧熟肉】The Five Companions-五位同伴-哔哩哔哩】 https://b23.tv/BV1dwmPBsE6a
@@ -697,7 +698,7 @@ CLOSED: <2021-12-02 Thu 21:20>
 CLOSED: [2021-12-12 Sun 17:32]
 
 *** Season 24
-**** Time and the Rani
+**** Time and the Rani :The_Rani:
 *** DONE short: A Fix with Sontarans
 CLOSED: [2024-01-07 Sun 20:27]
 
@@ -885,7 +886,7 @@ CLOSED: [2021-10-18 Mon 20:15]
 :rating:   8.4
 :END:
 
-***** [#C] 194. The Rani Elite :Peri_older:
+***** [#C] 194. The Rani Elite :Peri_older:The_Rani:
 :PROPERTIES:
 :rating:   7.8
 :END:
@@ -1115,7 +1116,6 @@ https://www.bigfinish.com/releases/v/doctor-who-the-condemned-271
 
 一个致命的阴谋正在发挥作用——其影响将远远超出阿克利之家的围墙......
 
-
 **** HALF [#D] 111 The Doomwood Curse :plot_yes_dwg:DW2024_02_doctor:
 SCHEDULED: <2024-02-24 Sat>
 :PROPERTIES:
@@ -1168,7 +1168,7 @@ SCHEDULED: <2025-10-15 Wed>
 **** CANCEL [#E] 183. The Brood of Erys :Flip:
 **** [#D] 184. Scavenger :Flip:
 **** [#C] 204. Criss-Cross :Constance:
-**** CANCEL [#E] 205. Planet of the Rani :Constance:
+**** CANCEL [#E] 205. Planet of the Rani :Constance:The_Rani:
 **** CANCEL [#E] 206. Shield of the Jötunn :Constance:
 **** [#C] 218. Order of the Daleks :Constance:Daleks:
 **** CANCEL [#F] 219. Absolute Power :Constance:
@@ -1459,7 +1459,6 @@ https://www.bigfinish.com/releases/v/doctor-who-you-are-the-doctor-and-other-sto
 你是博士，一位神秘的时空旅行者。你能成功地击败可怕猪人的邪恶计划吗？他们是全宇宙最无能的入侵者。还是你会让自己一次又一次地被他们杀害？
 
 互动版本：【【神秘博士广播剧 | 互动】你是博士, 你会怎么做? MR 207a You Are the Doctor-哔哩哔哩】 https://b23.tv/BV1dbSRYLEyv
-
 
 ****** 3QTR [#C] 207b. Come Die With Me :D2021_08_dr:Ace:
 :PROPERTIES:
@@ -1909,7 +1908,7 @@ SCHEDULED: <2026-01-17 Sat>
 :END:
 
 ***** [#D] 23A.2 Naomi's Ark
-**** 📂2025A. Past Forward :P2025_06:Harry:Naomi:
+**** 📂2025A. Past Forward :P2025_06:Harry:Naomi:Ray:
 ***** 1. With the Angels :Weeping_Angels:
 ***** 2. Catastrophix
 *** misc
@@ -1945,6 +1944,10 @@ SCHEDULED: <2026-07-25 Sat>
 :tardis.guide: 3.52
 :END:
 
+**** 📂7DA2026A Fixers :Ray:P2026_07:
+***** 1. The Executor
+***** 2.  Oil and Water
+***** 3. Much Ado About Racing
 *** unofficial
 **** [#A] BBV 21 Punchline :plot_yes_dwg:
 
@@ -2277,8 +2280,6 @@ https://doctorwho.guide/who_na55.htm
 :END:
 
 【《神秘博士：隆巴罗》中文译版-哔哩哔哩】 https://b23.tv/BV197PfzSERv
-
-
 
 ** short stories
 *** How You Get There :Benny:

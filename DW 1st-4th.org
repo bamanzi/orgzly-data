@@ -395,7 +395,12 @@ Old Steven 3/3
 :rating:   7.8
 :END:
 
-**** [#C] CC2.1 - Mother Russia
+**** READY [#C] CC2.1 - Mother Russia :bilibili:
+
+【【神秘博士广播剧熟肉】The Companion Chronicles 201Mother Russia-俄罗斯祖国母亲-哔哩哔哩】 https://b23.tv/BV1gEjJ6DERg
+
+1812年，博士、Steven和Dodo准备在一座俄国的村庄过冬，而法国人也在路上，但是旅行者要处理的不只有入侵的威胁。
+
 **** HALF [#B] CC7.5 - Return of the Rocket Men :D2021_06:
 :PROPERTIES:
 :rating:   8.2
@@ -737,11 +742,15 @@ CLOSED: [2022-08-24 Wed 09:37] SCHEDULED: <2022-08-10 Wed>
 :rating:   7.7
 :END:
 
-***** HALF [#C] CC10.1 - The Mouthless Dead :Jamie:Polly:Ben:plot_yes:scripted:DW2023_02_doctor:
+***** HALF [#C] CC10.1 - The Mouthless Dead :Jamie:Polly:Ben:plot_yes:scripted:DW2023_02_doctor:bilibili:
 SCHEDULED: <2023-02-07 Tue 21:50>
 :PROPERTIES:
 :rating:   7.7
 :END:
+
+【【神秘博士广播剧熟肉】Companion Chronicles 1001 The Mouthless Dead 无言的逝者-哔哩哔哩】 https://b23.tv/BV1nz3u6oEGc
+
+TARDIS到了20世纪20年代的英格兰，博士、Jamie、Ben和Polly发现自己在冬日黄昏之中的铁路上。旁边的站点似乎废弃了，但是从阴影里还能看到一些人影，他们都在等待一辆装载着逝者的火车。
 
 *** with Jamie & Victoria
 **** HALF [#B] EA2.3 The Black Hole (8.1) :Jamie:Victoria:P2015:2CD:D2021_06:Monk:
@@ -754,7 +763,6 @@ SCHEDULED: <2023-02-07 Tue 21:50>
 
 但事情远没有表面看起来那么简单。如果你能利用医生的同情心来对付他，你就设下了一个完美的陷阱……
 
-
 **** CC
 ***** START [#C] CC12.2 Dumb Waiter :Jamie:Leela:D2021_09_extra:plot_yes:ovedue:
 SCHEDULED: <2021-10-03 Sun>
@@ -762,10 +770,14 @@ SCHEDULED: <2021-10-03 Sun>
 :rating:   7.8
 :END:
 
-***** [#D] CC10.2 The Story of Extinction :Victoria:plot_no:scripted:
+***** [#D] CC10.2 The Story of Extinction :Victoria:plot_no:scripted:bilibili:
 :PROPERTIES:
 :rating:   7.2
 :END:
+
+【【神秘博士广播剧熟肉】The Companion Chronicles 1002 The Story of Extionction-灭绝的故事-哔哩哔哩】 https://b23.tv/BV1esGG6ZEzp
+
+文明的兴盛与衰弱，很少有星球可以比Amyryndaa的星球见证得更多，博士、Jamie和Victoria加入了调查小组，查出为什么这个星球适宜生命的出现，但是并没有存在很久
 
 *** with Jamie
 **** [#C] CC6.11 - The Jigsaw War :Jamie:
@@ -1104,7 +1116,7 @@ CLOSED: [2024-07-31 Wed 20:33]
 :rating:   7.6
 :END:
 
-**** DONE [#C] 9x03 The Sea Devil :Master_nemesis:DW2022_12_extra:
+**** DONE [#C] 9x03 The Sea Devil :Master_nemesis:Sea_Devils:DW2022_12_extra:
 CLOSED: [2023-01-01 Sun 16:07] SCHEDULED: <2022-12-31 Sat>
 :PROPERTIES:
 :rating:   7.7
@@ -1468,7 +1480,7 @@ CLOSED: [2025-04-29 Tue 19:04] SCHEDULED: <2025-05-03 Sat>
 
 *** BF shorts :BigFinish:audiobook:🗣:
 **** CC
-***** HALF [#C] CC4.3 - The Prisoner of Peladon :King_Peladon:DW2023_07_doctor:
+***** HALF [#C] CC4.3 - The Prisoner of Peladon :King_Peladon:Alpha_Centauri:DW2023_07_doctor:
 SCHEDULED: <2023-07-08 Sat>
 :PROPERTIES:
 :rating:   7.6
@@ -1953,7 +1965,11 @@ SCHEDULED: <2026-01-15 Thu>
 
 【【神秘博士广播剧熟肉】The Fourth Doctor's Adventure Legacy of Death-逝者的遗产-哔哩哔哩】 https://b23.tv/BV1ThMbzPERn
 
-***** READY 5.5 Gallery of Ghouls :bilibili:
+***** READY [#E] 5.5 Gallery of Ghouls :bilibili:
+:PROPERTIES:
+:tardis.guide: 3.27
+:thetimescales: 6.9
+:END:
 
 【【神秘博士广播剧熟肉】4DA 505 Gallery of Ghouls 遇难者画廊-哔哩哔哩】 https://b23.tv/BV1v9cLzxEp5
 
@@ -2086,7 +2102,7 @@ CLOSED: <2023-02-10 Fri 14:02> SCHEDULED: <2023-02-06 Mon 08:42>
 SCHEDULED: <2024-05-11 Sat>
 
 **** 📂4DA series 13 :Harry:Naomi:plot_yes:
-***** HALF [#D] 13.1 Storm of the Sea Devils :P2024_03:2CD:UNIT:dw2025_q3b_doctor:
+***** HALF [#D] 13.1 Storm of the Sea Devils :P2024_03:2CD:UNIT:Sea_Devils:dw2025_q3b_doctor:
 SCHEDULED: <2025-09-13 Sat>
 :PROPERTIES:
 :rating:   7.1
@@ -2641,7 +2657,7 @@ https://b23.tv/BV1eE6FYwEYz
 *** 34. The Mind Trap :P2026_01:2nd_Dr:Jamie:Zoe:P2026_01:
 *** 35. Star Flight :1st_Dr:Susan:Ian:Barbara:P2026_03:
 *** 36. Circle of Memory :11th_Dr:Amy:Rory:P2026_05:
-*** TBR 37. The Deadliest Weapon :Fugitive_Dr:Cybermen:P2026_07:
+*** 37. The Deadliest Weapon :Fugitive_Dr:Cybermen:P2026_07:
 *** TBR 38. Shard of Life :2nd_Dr:Jamie:Zoe:P2026_10:
 ** 📂Sontarans vs Rutans
 *** [#C] 1. The Battle of Giant's Causeway :8th_Dr:Charley:Crizz:P2024_01:
@@ -2658,10 +2674,11 @@ SCHEDULED: <2026-07-04 Sat>
 *** The War Master ↗ :Master_War:Unbound_Dr:War_Dr:Benny:Captain_John:P2024_09:
 *** Missy ↗ :P2025_06:7th_Dr:
 *** Master! ↗ :P2025_09:
-*** TBR The Meddling Monks :P2026_05:
+*** The Meddling Monks :P2026_06:
 
 【【神秘博士广播剧熟肉】Dark Gallifrey 501 The Meddling Monks Part 1-哔哩哔哩】 https://b23.tv/BV1ym5f6LEMd
 
+*** The Decayed Master ↗ :P2026_09:
 ** 📂Halloween: Sea Smoke and Other Stories :P2025_10:
 *** 1. Sea Smoke :1st_Dr:Dodo:
 *** 2. Party Favours :UNIT_new:
@@ -2674,9 +2691,9 @@ SCHEDULED: <2026-07-04 Sat>
 *** 4. It's a Wonderful War :8th_Dr:Daleks:
 ** 📂Rutans vs Sontarans :P2026:Sontarans:
 *** 2.1 Betrayal at the House of Sontar :Fugitive_Dr:P2026_04:
-*** TBR 2.2 Rendition :2nd_Dr:8th_Dr:Jamie:Zoe:P2026_05:
-*** TBR 2.3 Grave Moon :6th_Dr:Peri:
-*** TBR 2.4 Peace at Last :8th_Dr:Charley:Crizz:
+*** 2.2 Rendition :2nd_Dr:8th_Dr:Jamie:Zoe:P2026_05:
+*** 2.3 Grave Moon :6th_Dr:Peri:8th_Dr:P2026_06:
+*** 2.4 Peace at Last :8th_Dr:Charley:Crizz:P2026_06:
 * multi-doctor story
 ** tv
 *** 10x01 The Three Doctors :P1973:
@@ -2786,6 +2803,12 @@ CLOSED: <2018-07-13 Fri 08:03>
 http://www.drwhoguide.com/chronicles07.htm
 
 **** CC7.1 The Time Museum :Ian:
+**** [#D] The Veiled Leopard (DWM #367) :Ace:Hex:Peri:Erimem:
+:PROPERTIES:
+:thetimescales: 7.1
+:tardis.guide: 3.18
+:END:
+
 **** [#A] ST7.6 - How to Win Planets and Influence People [A⁺] :Monk:Sarah:Harry:
 **** 2DONE [#C] EA7.1 After the Daleks :P2021_08:Dalek_War_1st:Susan:D2021_10_daleks:
 CLOSED: [2021-11-01 Mon 22:54] SCHEDULED: <2021-11-01 Mon>

@@ -1359,16 +1359,25 @@ Roberts Master
 ***** [#E] 12.4 The Wife of River Song
 *** The Death and Life of River Song
 **** 📂DLRS1: Last Words :P2024_08:
-***** [#D] 1.1 Apokalypsis
-***** [#D] 1.2 Fate & Fatality
-***** [#D] 1.3 The Black Hours
+***** READY [#D] 1.1 Apokalypsis :bilibili:
+
+【【神秘博士广播剧熟肉】[BigFinish DLRS] 1.01 Last Words: Apokalypsis 启示录-哔哩哔哩】 https://b23.tv/BV14aKd6nEEi
+
+***** READY [#D] 1.2 Fate & Fatality :bilibili:
+
+【【神秘博士广播剧熟肉】[BigFinish DLRS] 1.02 Last Words: Fate and Fatality 命运与死亡-哔哩哔哩】 https://b23.tv/BV1rqNs6QErQ
+
+***** READY [#D] 1.3 The Black Hours
+
+【【神秘博士广播剧熟肉】[BigFinish DLRS] 1.03 Last Words: The Black Hours 黑色时祷书-哔哩哔哩】 https://b23.tv/BV116KA6PEAL
+
 ***** [#D] 1.4 Book of the Dead
 **** 📂DLRS2: Ace and Tegan :Tegan:Ace:P2025_03:
 ***** [#C] 2.1 Castaways
 ***** [#E] 2.2 Driftwood
 ***** [#D] 2.3 Dead Rising
 ***** [#D] 2.4 The End is the Beginning is the End
-**** DLRS3. The Dissolution of Time :P2025_08:
+**** [#B] DLRS3. The Dissolution of Time :P2025_08:
 
 1. The Armageddon Game
 2. Anne Boleyn Must Die
@@ -1384,8 +1393,12 @@ Roberts Master
      SCHEDULED: <2021-12-31 Fri>
 
 * Jago & Litefoot :🎧:Jago:Litefoot:
-** [#A] CC3.11 The Mahogany Murderers (8.9) :2009:
+** [#B] CC3.11 The Mahogany Murderers :2009:
    SCHEDULED: <2021-12-31 Fri>
+   :PROPERTIES:
+   :tardis.guide: 4.03
+   :thetimescales: 8.8
+   :END:
 
 ** J&L series 1 :P2010:
 *** [#B] 1.1 - The Bloodless Soldier           (8.1)
@@ -1813,7 +1826,20 @@ Leela大使尝试捍卫她的盟友的权力，城外人，摆脱了几代人的
 【[AI精校字幕][神秘博士广播剧]Companion Chronicles 807 Luna Romana-哔哩哔哩】 https://b23.tv/BV1TTHkzNEyu
 
 ** special: WoDW#4 Second Sight ↗
-** [#B] 7.0 - Intervention Earth :P2015:2CD:Omega:
+** READY [#B] 7.0 - Intervention Earth :P2015:2CD:Omega:bilibili:S2026_Q3:dw2026_q3a_spinoffs:
+
+【【神秘博士广播剧熟肉】Gallifrey Series 7 Intervention Earth-干预行动：地球-哔哩哔哩】 https://b23.tv/BV1gxKA6yEHb
+
+时间在变化……
+
+Romana在办公室中迎来了任期中最后的时光，并且希望以一种和平、和谐的方式离开。Narvin担心存在争议的预言程序的应用，其可以预测时间领主的未来。Ace担任了天体干预局的密探，知道了从某个大人物的干涉艺术。
+
+在某个地方，跨越无数的星球，古老的力量正在搅动：时间领主的一个伟大英雄回到了我们的宇宙，但是他是最大的威胁。
+
+当地球的历史遭遇威胁，古老的阴谋到达了时间领主政府的核心，即便是Romana的心腹是否值得信任？
+
+时间会告诉……但是之后，也许已经太晚了。
+
 ** READY [#A] 8.0 - Enemy Lines :P2016:bilibili:3CD:
 
 【[神秘博士广播剧]Gallifrey 8 Enemy Lines Part 1-哔哩哔哩】 https://b23.tv/BV18e4UzBECQ
@@ -2978,7 +3004,7 @@ UNIT的黎明，外星人已开始入侵，而Eddie Wise远未做好准备
 *** DONE [#B] 1.4 The Curator's Gambit :The_Eleven:The_Curator:dw2025_q3a_spinoffs:
     CLOSED: [2025-08-24 Sun 11:20] SCHEDULED: <2025-08-23 Sat>
 
-** 📂Nemesis 2: Agents of the Vulpreen :P2022_03:
+** 📂Nemesis 2: Agents of the Vulpreen :P2022_03:plot_yes:
 *** HALF [#B] 2.1 The Man From Gallifrey :The_Eleven:dw2026_q1a_spinoffs:
     SCHEDULED: <2026-02-22 Sun>
 
@@ -3001,6 +3027,7 @@ UNIT的黎明，外星人已开始入侵，而Eddie Wise远未做好准备
 *** [#E] 4.2 Traitors' Gate
 *** [#C] 4.3 The Destiny Labyrinth
 *** [#C] 4.4 True Nemesis :Master_missy:
+** The War Between the Land and the Sea :Sea_Devils:
 * Kaldor City / The Robots :🎧:Kaldor_androids:
 ** Kaldor City :plot_yes_dwg:
 *** HALF [#B] KC1. Occam's Razor :D2022_06_spinoffs:Uvanov:
@@ -3019,7 +3046,8 @@ http://www.drwhoguide.com/kaldor03.htm
 *** KC4. Taren Capel :Uvanov:
 *** KC5. Checkmate :Uvanov:
 *** KC6. Storm Mine
-** The Robots (Big Finish, 2019-)
+** The Robots (Big Finish, 2019-) :Liv:Tula:
+*** Escape from Kaldor (8DA Ravenous 2.1) :8th_Dr:
 *** The Robots vol.1 :P2019_12:
 **** 3QTR [#C] 1.1 - The Robots of Life :D2022_04_spinoffs:
      CLOSED: [2022-04-24 Sun 21:31] SCHEDULED: <2022-04-17 Sun>
@@ -3309,7 +3337,7 @@ http://www.drwhoguide.com/kaldor03.htm
     :tardis.guide: 4.08
     :END:
 
-** CM series 4 :P2015:
+** CM series 4 :P2015:plot_cast:
 *** HALF [#D] 4.1 - New Horizons :dw2025_q4a_spinoffs:
     SCHEDULED: <2025-12-28 Sun>
     :PROPERTIES:
@@ -3626,6 +3654,7 @@ Rani起初并不相信，但当一位老朋友警告她不要插手时，她感�
 **** 1.1 The Voord in London :Voord:
 **** 1.2 The Thal from G.R.A.C.E :Thal:
 **** 1.3 Allegiance
+*** vol.2 Bret Vyon Lives! :P2026_07:
 ** Smith & Sullivan :Sarah:Harry:
 *** TBR vol.1 Reunited :P2025_07:
 **** 1.1 The Caller
