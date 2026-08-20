@@ -31,6 +31,8 @@ download:
 **** DONE 卷4：迷雾季节 (Season of Mists, #21-#28)
 CLOSED: <2022-02-05 Sat 17:17>
 
+Dream 去地狱救前妻 Nana，但 Lucifer 借机将整个地域的钥匙交给了他，他得找到一个接管钥匙的人
+
 **** DONE 卷5：一场游戏一场梦 (A Game of You, #32-37)
 CLOSED: [2022-03-17 Thu 07:27]
 
@@ -51,7 +53,9 @@ bought https://breezewiki.com/dc/wiki/The_Sandman,_Book_Three_(Collected) (#38-5
 
 **** DONE TPB.7 Brief Lives (#41-49) :S2024_04:已购:
 
-bought https://breezewiki.com/dc/wiki/The_Sandman,_Book_Three_(Collected) (#38-56)
+已购 https://breezewiki.com/dc/wiki/The_Sandman,_Book_Three_(Collected) (#38-56)
+
+小妹瞻妄来找 Dream, 想让他陪她去清醒世界找哥哥 Destroy。但一路上与他们接头的人都先后遭遇不测，Dream 开始怀疑这趟旅程是否不应该。大哥 Destiny 给他们透露了一条道路，但这让 Dream 要求面对他的儿子
 
 **** TPB.8 Worlds' End (#51-56) :short:S2025_Q1:已购:
 
@@ -62,13 +66,13 @@ bought https://breezewiki.com/dc/wiki/The_Sandman,_Book_Three_(Collected) (#38-5
 - Sandman (Volume 2) #55: "Cerements"
 - Sandman (Volume 2) #56: "World's End"
 
-bought https://breezewiki.com/dc/wiki/The_Sandman,_Book_Three_(Collected) (#38-56)
+已购 https://breezewiki.com/dc/wiki/The_Sandman,_Book_Three_(Collected) (#38-56)
 
 
 **** DONE TPB.9 The Kindly Ones (#57-69) :S2025_Q1:已购:
 CLOSED: [2025-03-11 Tue 13:59]
 
-bought https://breezewiki.com/dc/wiki/The_Sandman,_Book_Four_(Collected) (#57-75)
+已购 https://breezewiki.com/dc/wiki/The_Sandman,_Book_Four_(Collected) (#57-75)
 
 **** DONE TPB.10 The Wake (#70-75) :已购:
 CLOSED: [2026-06-23 Tue 22:19]
@@ -80,7 +84,7 @@ CLOSED: [2026-06-23 Tue 22:19]
 - Sandman (Volume 2) #74: "Exiles"
 - Sandman (Volume 2) #75: "The Tempest"
 
-bought https://breezewiki.com/dc/wiki/The_Sandman,_Book_Four_(Collected) (#57-75)
+已购 https://breezewiki.com/dc/wiki/The_Sandman,_Book_Four_(Collected) (#57-75)
 
 
 **** Death (TPB) :Death:
@@ -231,7 +235,8 @@ CLOSED: [2025-03-07 Fri 21:58]
 - #14 "Collectors" (in part)
 - #16 "Lost Hearts"
 
-***** 1x11
+***** DONE 1x11
+CLOSED: [2026-07-05 Sun 21:32]
 
 - #18 "A Dream of a Thousand Cats"
 - #17 "Calliope"
@@ -299,8 +304,10 @@ Sandman (Volume 2) #20
 https://sandman.fandom.com/wiki/The_Sandman_(audio)#Act_II_2
 
 ***** 2.1-8 Season of Mist
-***** HALF 2.9 Thermidor 热月 (#29) :Orpheus:
-***** NOW 2.10 August (#30)
+***** 3QTR 2.9 Thermidor 热月 (#29) :Orpheus:
+CLOSED: <2026-07-01 Wed 06:37>
+
+***** HALF 2.10 August (#30)
 ***** TODO 2.11 Three Septembers and a January (#31)
 ***** 2.12-17 A Game of You
 ***** TODO 2.18 The Hunt (#38)
@@ -343,13 +350,20 @@ CLOSED: [2025-03-01 Sat 08:47]
 ***** TODO 3.19 Worlds' End - Worlds' Ends
 ** Lucifer
 *** Lucifer v1 (2000-2006, 75 issues) :📚:😈:lucifer:
-**** LATER vol.1 Devil in the Gateway :hanzify:
-DEADLINE: <2022-02-28 Mon>
+**** DONE vol.1 Devil in the Gateway :hanzify:
+CLOSED: [2026-07-08 Wed 23:41] DEADLINE: <2022-02-28 Mon>
 
-- [ ] Lucifer: The Morningstar Option #1-3
-- [ ] Lucifer v1 #1-4
+- [X] Lucifer: The Morningstar Option #1-3
+- [X] Lucifer v1 #1-3: A Six Card Spread
+- [X] Lucifer v1 #4: Born with the Dead
 
-**** vol.2 Children and Monsters (#5-13) :hanzify:
+**** TODO vol.2 Children and Monsters (#5-13) :hanzify:
+
+
+
+- [ ] #5-8 The House of Windowless Rooms (溪雨鑫烁汉化组 https://weibo.com/7369637794/5020651943364367 )
+- [ ] #9-13 亚马逊汉化组
+
 **** book two (#14-28, Nirvana)
 **** ?
 *** 路西法 Lucifer (tv) :📺:lucifer:😈:
@@ -561,7 +575,7 @@ CLOSED: [2026-06-19 Fri 22:15]
 ***** DONE 5x03
 CLOSED: [2026-06-21 Sun 09:46]
 
-***** DONE 5x04
+***** DONE [#E] 5x04
 CLOSED: [2026-06-21 Sun 20:00]
 
 ***** DONE 5x05
@@ -569,6 +583,24 @@ CLOSED: [2026-06-25 Thu 08:44]
 
 ***** DONE 5x06
 CLOSED: [2026-07-03 Fri 19:03]
+
+***** DONE 5x07
+CLOSED: [2026-07-07 Tue 23:04]
+
+***** DONE [#A] 5x08
+CLOSED: [2026-07-08 Wed 23:11]
+
+***** DONE [#B] 5x09
+CLOSED: [2026-07-11 Sat 23:30]
+
+***** DONE [#C] 5x10
+CLOSED: <2026-07-25 Sat 22:37>
+
+***** DONE [#B] 5x11
+CLOSED: [2026-07-29 Wed 23:16]
+
+***** DONE [#B] 5x12
+CLOSED: [2026-08-04 Tue 23:28]
 
 **** Lucifer S6 (10 eps) :P2021:
 ** Preacher
