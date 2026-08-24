@@ -348,8 +348,8 @@ CLOSED: [2021-02-27 Sat 18:02]
 
 Interludes #8
 
-**** [#A] 5DA2022.2 The Auton Infinity :Tegan:Turlough:Brigadier:Master_tremas:Autons:3CD:P2022_09:plot_yes:dw2026_q3a_doctor:
-SCHEDULED: <2026-08-08 Sat>
+**** HALF [#A] 5DA2022.2 The Auton Infinity (p1-4) :Tegan:Turlough:Brigadier:Master_tremas:Autons:3CD:P2022_09:plot_yes:dw2026_q3a_doctor:
+SCHEDULED: <2026-08-22 Sat>
 
 **** 📂5DA2026. Helter Skelter :Tegan:Turlough:P2026_04:
 ***** 1. Field of Miracles
@@ -680,7 +680,9 @@ part of /Short Trips: Monsters/
 CLOSED: [2022-12-15 Thu 08:21]
 
 **** DONE [#C] Vengeance on Varos (7.7)
-**** DONE [#D] The Mark of the Rani (6.9) :Master_tremas:The_Rani:
+**** DONE [#D] The Mark of the Rani (6.9) :Master_tremas:The_Rani:S2026_Q3:
+CLOSED: <2026-07-27 Mon 23:16> SCHEDULED: <2026-08-02 Sun>
+
 **** DONE [#C] The Two Doctors (7.5) :2nd_Dr:
 **** DONE [#E] Timelash (5.5)
 CLOSED: <2024-02-20 Tue 20:53>
@@ -886,7 +888,8 @@ CLOSED: [2021-10-18 Mon 20:15]
 :rating:   8.4
 :END:
 
-***** [#C] 194. The Rani Elite :Peri_older:The_Rani:
+***** TODO [#C] 194. The Rani Elite :Peri_older:The_Rani:dw2026_q3b_doctor:
+SCHEDULED: <2026-09-12 Sat>
 :PROPERTIES:
 :rating:   7.8
 :END:
@@ -1393,11 +1396,17 @@ https://archive.org/details/on-fleak-productions-doctor-who-conciousness
 **** DONE The World Shapers (DWM127-129) :Peri:Frobisher:Jamie:Voord:Cybermen:Grant_Morrison:
 *** Marvel :Marvel:
 **** Voyager :P1989:
-**** The Age of Chaos :Frobisher:
+**** The Age of Chaos :Frobisher:S2026_Q3:
+** short stories
+*** DONE Something Borrowed (Twelve Doctors 12 Stories #6) :The_Rani:Peri:
+CLOSED: [2026-08-08 Sat 10:56]
+
 * 7th Doctor :7th_Dr:
 ** tv :📺:
 *** S24
-**** CANCEL [#F] 24x01 - Time and the Rani (5.1)
+**** DONE [#F] 24x01 - Time and the Rani (5.1) :The_Rani:S2026_Q3:
+CLOSED: [2026-08-10 Mon 23:03] SCHEDULED: <2026-08-09 Sun>
+
 **** DONE [#F] 24x02 - Paradise Towers (6.1)
 CLOSED: [2024-07-17 Wed 20:45]
 
@@ -1925,12 +1934,14 @@ SCHEDULED: <2023-03-25 Sat>
 CLOSED: [2023-07-04 Tue 08:31] SCHEDULED: <2023-07-08 Sat>
 
 **** 📂7DA2024B The Doctor and Carnacki :P2024_11:Carnacki:
-***** [#D] 24B.1 The Haunter of the Shore :dw2026_q3a_doctor:
-SCHEDULED: <2026-07-25 Sat>
+***** 3QTR [#D] 24B.1 The Haunter of the Shore :plot_yes:dw2026_q3a_doctor:
+CLOSED: [2026-07-14 Tue 08:35] SCHEDULED: <2026-07-25 Sat>
 :PROPERTIES:
 :thetimescales: 6.3
 :tardis.guide: 3.68
 :END:
+
+https://tardis.wiki/wiki/The_Haunter_of_the_Shore_(audio_story)
 
 ***** [#C] 24B.2 The House
 :PROPERTIES:

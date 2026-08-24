@@ -173,8 +173,8 @@ Vega的团队用着卑鄙的手段竞选，博士和Alpha必须击败一场凶�
 ***** 📂S3.3 Buried Threats :P2024_02:
 ****** [#E] 3.3.1 A Theatre of Cruelty :scripted:
 ****** CANCEL [#F] 3.3.2 The Running Men
-****** READY [#C] 3.3.3 Ancient History :Benny:bilibili:dw2026_q3a_doctor:
-SCHEDULED: <2026-08-22 Sat>
+****** HALF [#C] 3.3.3 Ancient History :Benny:bilibili:dw2026_q3a_doctor:
+SCHEDULED: <2026-08-15 Sat>
 
 【【神秘博士广播剧熟肉】Buried Threats 309 Ancient History 古代史-哔哩哔哩】 https://b23.tv/BV1geSEYTEvn
 
@@ -383,8 +383,8 @@ https://id24601.lofter.com/post/1cce6a8f_2b50209d7 (8-9)
 ***** DONE Art Attack (DWM358) :Rose:
 ***** DONE The Cruel Sea (DWM359-362) :Rose:
 ***** DONE A Groatsworth of Wit (DWM363-364) :Rose:
-**** LATER Monstrous Beauty (DWM556-558) :Rose:
-SCHEDULED: <2023-12-31 Sun>
+**** DONE Monstrous Beauty (DWM556-558) :Rose:S2026_Q3:
+CLOSED: [2026-08-17 Mon 23:07] SCHEDULED: <2026-08-07 Fri>
 
 *** Titan :Titan_Comics:
 **** DONE Weapons of Past Destruction
@@ -834,9 +834,11 @@ SCHEDULED: <2024-03-02 Sat>
 :rating:   7.5
 :END:
 
-***** TODO [#B] 1.4 - Last Chance :Christina:plot_cast:
+***** TODO [#C] 1.4 - Last Chance :Christina:plot_cast:dw2026_q3b_doctor:
+SCHEDULED: <2026-08-29 Sat>
 :PROPERTIES:
-:rating:   8.0
+:thetimescales: 7.7
+:tardis.guide: 3.42
 :END:
 
 **** 📂10DC S2: Defender of the Earth :P2023_11:
@@ -1076,7 +1078,7 @@ SCHEDULED: <2026-02-02 Mon 19:53>
 【伽罗瓦的数学遗产：群论 是什么？有什么用？-哔哩哔哩】 https://b23.tv/BV1Hs6CB4E2b
 
 **** 📂11DC vol.5 Everywhere and Anywhere :Valarie:P2023_12:plot_yes:
-***** READY [#B] 5.1 Spirit of the Season :bilibili:dw2026_q2a_doctor:
+***** HALF [#B] 5.1 Spirit of the Season :bilibili:dw2026_q2a_doctor:
 SCHEDULED: <2026-05-30 Sat>
 :PROPERTIES:
 :thetimescales: 8.6
@@ -1089,7 +1091,7 @@ https://www.bigfinish.com/releases/v/doctor-who-the-eleventh-doctor-chronicles-v
 
 这是个圣诞奇迹！博士和Valarie终于又找到一位Clara，只可惜她想杀了他们。
 
-***** READY [#B] 5.2 All's Fair :bilibili:dw2026_q3a_doctor:
+***** HALF [#B] 5.2 All's Fair :bilibili:dw2026_q3a_doctor:
 SCHEDULED: <2026-07-25 Sat>
 :PROPERTIES:
 :thetimescales: 8.4
@@ -1360,8 +1362,8 @@ CLOSED: [2024-01-15 Mon 19:42] SCHEDULED: <2023-12-31 Sun>
 ***** NEXT Imaginary Enemies (DWM455) :Amy:Rory:Mels:
 SCHEDULED: <2024-01-21 Sun>
 
-***** NEXT Hunters of the Burning Stone (DWM456-461) :Ian:Barbara:
-SCHEDULED: <2024-01-28 Sun>
+***** NEXT Hunters of the Burning Stone (DWM456-461) :Ian:Barbara:S2026_Q3:
+SCHEDULED: <2026-08-22 Sat>
 
 **** DWMGN: The Blood of Azrael :已购:
 
@@ -1379,9 +1381,12 @@ SCHEDULED: <2024-01-28 Sun>
 :END:
 
 *** READY [#B] Borrowed Time 时间捕手 :已购:S2026_Q3:
+SCHEDULED: <2026-08-23 Sun>
 :PROPERTIES:
 :rating:   3.98
 :END:
+
+无电子书
 
 *** DONE [#B] The Silent Stars Go By 寂静星辰飞过 :已购:ebook:DW2023_Q4:
 CLOSED: [2024-01-20 Sat 21:58] SCHEDULED: <2024-01-07 Sun>
@@ -1561,11 +1566,8 @@ https://zhcn.eferrit.com/aphra-behn的传记/
 
 https://www.iiiff.com/article/404723
 
-**** 3QTR ST10.5 Regeneration Impossible :D2021_08_extra:12th_Dr:bilibili:
-
-【【神秘博士】短途旅行：不可能的重生 | Short Trips: Regeneration Impossible-哔哩哔哩】 https://b23.tv/BV1ZD4y1e7Je
-
-**** [#C] ST9.9 - Dead Media :P2019:
+**** TODO [#C] ST9.9 - Dead Media :P2019:dw2026_q3b_doctor:
+SCHEDULED: <2026-09-26 Sat>
 :PROPERTIES:
 :rating:   7.7
 :END:
@@ -1828,10 +1830,10 @@ CLOSED: <2023-01-06 Fri 22:20>
 *** DONE 300. The Power of the Doctor :Master_spy:Yaz:Ace:Tegan:UNIT:Kate:DW2023_Q4:
 CLOSED: [2023-12-24 Sun 22:02] SCHEDULED: <2023-12-24 Sun>
 
-** audio
+** audio :🎧:
 *** 13DA
-**** READY [#C] 1. Vampire Weekend :P2025_07:bilibili:dw2026_q3a_doctor:
-SCHEDULED: <2026-08-08 Sat>
+**** HALF [#C] 1. Vampire Weekend :P2025_07:bilibili:dw2026_q3a_doctor:
+SCHEDULED: <2026-08-01 Sat>
 :PROPERTIES:
 :tardis.guide: 4.04
 :thetimescales: 7.5
@@ -1976,7 +1978,9 @@ CLOSED: [2026-07-22 Wed 22:31] SCHEDULED: <2024-01-07 Sun>
 ***** DONE It's Behind You (DWM572) :Yaz:Dan:S2026_Q3:
 CLOSED: [2026-07-22 Wed 22:40]
 
-***** Hydra's Gate (DWM574-577) :Yaz:Dan:
+***** DONE Hydra's Gate (DWM574-577) :Yaz:Dan:S2026_Q3:
+CLOSED: [2026-08-18 Tue 06:49] SCHEDULED: <2026-08-22 Sat>
+
 **** DWM misc
 ***** Fear of the Future :Yaz:Dan:
 

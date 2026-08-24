@@ -2021,22 +2021,56 @@ https://b23.tv/BV1LF411j7D5
 *** HALF [#C] BSBox2.3 Paradise Frost :Jack_McSpringheel:
 *** HALF [#C] WM10.1 Runtime :Master_War:
 ** dw2026-q3a-doctor
-*** [#B] CC9.2 The Unwinding World :1st_Dr:Vicki:
-*** [#C] 3DA3.2 Storm of the Horofax :3rd_Dr:Jo:P2017:plot_no:
-*** BLOCK [#A] 5DA22.2 The Auton Infinity :5th_Dr:Tegan:Turlough:Brigadier:Master_tremas:Autons:3CD:P2022_09:plot_yes:
-*** [#D] 7DA24B.1 The Haunter of the Shore :7th_Dr:Carnacki:
-*** READY [#C] 9DA3.3.3 Ancient History :9th_Dr:Benny:bilibili:
-*** READY [#B] 11DC5.2 All’s Fair :11th_Dr:bilibili:Valarie:
-*** READY 13DA1.1. Vampire Weekend :P2025_07:bilibili:
+*** HALF [#C] CC9.2 The Unwinding World :1st_Dr:Vicki:
+*** 2DONE [#C] 3DA3.2 Storm of the Horofax :3rd_Dr:Jo:UNIT:P2017:plot_yes:
+*** HALF [#A] 5DA22.2 The Auton Infinity (p1-p4) :5th_Dr:Tegan:Turlough:Brigadier:Master_tremas:Autons:3CD:P2022_09:plot_yes:
+*** HALF [#D] 7DA24B.1 The Haunter of the Shore :7th_Dr:Carnacki:
+*** HALF [#C] 9DA3.3.3 Ancient History :9th_Dr:Benny:bilibili:
+*** HALF [#B] 11DC5.2 All’s Fair :11th_Dr:bilibili:Valarie:
+*** HALF 13DA1.1. Vampire Weekend :P2025_07:bilibili:
 ** dw2026-q3a-spinoffs
-*** TODO [#C] TW7.12 The Apocalypse Starts at 6 PM :Yvonne:Og:
-*** [#C] TW76. Odyssey :Ood:P2024_10:plot_yes:
+*** HALF [#C] TW7.12 The Apocalypse Starts at 6 PM :Yvonne:Og:
+*** HALF [#C] TW76. Odyssey :Ood:P2024_10:plot_yes:
 *** [#C] UNEM2.4 Ten Minutes in Hell
-*** TODO [#D] PGT3.3 The Houseguest :2nd_Dr:Zygons:
+*** HALF [#D] PGT3.3 The Houseguest :2nd_Dr:Zygons:
 *** (Master_tremas) ↑
-*** [#A] DoRS11.3 The Bird from the Nest
+*** HALF [#A] DoRS11.3 The Bird from the Nest
 *** (benny) ↑
-*** FIXME [#C] CY1.3 - Living History :Churchill:
+*** HALF [#B] GALL7.0 - Intervention Earth :P2015:2CD:Romana_3:Ace:Narvin:Omega:bilibili:
+** dw2026-q3b-doctor
+*** TODO [#B] LS4.3 - Lords of the Red Planet (part5-6) :Jamie:Zoe:ice_warriors:plot_yes:dw2026_q3b_doctor:
+    SCHEDULED: <2026-08-29 Sat>
+    :PROPERTIES:
+    :thetimescales: 8.2
+    :tardis.guode: 3.87
+    :END:
+
+*** [#C] 4DA10.1 The World Traders :4th_Dr:Leela:
+*** [#C] MR194. The Rani Elite :6th_Dr:Peri:
+*** [#C] FALM1.3 The House on the Edge of Chaos :8th_Dr:Lucie:
+*** [#B] 10DC1.4 Last Chance :10th_Dr:Christina:
+*** FIXME [#C] ST9.9 Dead Media :P2019:12th_Dr:🗣:
+    :PROPERTIES:
+    :rating:   7.7
+    :END:
+
+*** [#C] SvR4. In Name Only :War_Dr:P2024_04:
+** dw2026-q3b-spinoffs
+*** [#D] TW71. The Last Love Song of Suzie Costello :Suzie:plot_yes:
+    :PROPERTIES:
+    :thetimescales: 6.6
+    :tardis.guide: 3.93
+    :END:
+
+*** [#C] UBNW1.3 Dark Side of the Moon
+*** [#C] CM4.3 Rise and Shine
+*** [#A] 10.X Jago & Litefoot & Strax - The Haunting
+    :PROPERTIES:
+    :rating:   8.7
+    :END:
+
+*** FIXME [#C] BS6.2 The Kingdom of the Blind :Benny:
+*** Origin Stories #11 - Tempered :Master_early:Master_missy:🗣:📄:
 * FIXME pending
 ** special
 *** [#B] Jack 2.1 Piece of Mind :Jack:6th_Dr:
@@ -2242,40 +2276,72 @@ https://b23.tv/BV1LF411j7D5
 **** 📂The Lone Centurion vol.2
 **** 📂The Robots vol.4
 **** 📂Rose Tyler: The Dimension Cannon vol.3
+**** FIXME [#C] CY1.3 - Living History :Churchill:
 ** pending
 *** [#C] CC7.7 The Flames of Cadiz :1st_Dr:Ian:Susan:plot_yes:2CD:
 *** FIXME [#D] CC5.10 - The Sentinels of the New Dawn :3rd_Dr:Liz:
 *** FIXME [#B] DWUN2 Sympathy from the Devil :Unbound_Dr:Master_unbound:bilibili:
-** q3b
-*** BLOCK [#B] LS4.3 - Lords of the Red Planet (part5-6) :Jamie:Zoe:ice_warriors:3CD:plot_yes:
-    :PROPERTIES:
-    :thetimescales: 8.2
-    :tardis.guode: 3.87
-    :END:
-
-*** FIXME [#C] 4DA10.1 The World Traders :4th_Dr:Leela:
-*** FIXME [#C] MR194. The Rani Elite :6th_Dr:Peri:
-*** FIXME [#C] FALM1.3 The House on the Edge of Chaos :8th_Dr:Lucie:
-*** [#B] 10DC1.4 Last Chance :10th_Dr:Christina:
-*** [#C] SvR4. In Name Only :War_Dr:P2024_04:
-*** [#C] CM4.3 - Rise and Shine
-*** [#D] TW71. The Last Love Song of Suzie Costello :Suzie:plot_yes:
-    :PROPERTIES:
-    :thetimescales: 6.6
-    :tardis.guide: 3.93
-    :END:
-
-*** FIXME Origin Stories #11 - Tempered :Master_early:Master_missy:🗣:📄:
-** q4
+** q4a-doctor
 *** [#C] EA7.2 The Secrets of Det-Sen :Steven:Dodo:plot_yes:P2021_08:
-*** [#C] 3DA3.2 Storm of the Horofax (part5-6) :3rd_Dr:Jo:P2017:plot_no:
+*** [#C] ? 3rd
     :PROPERTIES:
     :rating:   7.6
     :END:
 
-*** FIXME [#D] CC2.3 Old Soldiers (Brig) no_doctor?
+**** FIXME [#D] CC2.3 Old Soldiers (Brig) no_doctor?
+*** [#D] MR095b. Urban Myths :5th_Dr:Peri:
+    :PROPERTIES:
+    :rating:   7.4
+    :END:
+
+*** [#A] 5DA22.2 The Auton Infinity (p5-p6) :5th_Dr:Tegan:Turlough:Brigadier:Master_tremas:Autons:3CD:P2022_09:plot_yes:
 *** READY [#A] NA6 Damaged Goods :7th_Dr:Roz:Chris:bilibili:
+*** READY 9DA4.1 Snare :9th_Dr:Rose:P2025_08:bilibili:
+
+【【神秘博士广播剧熟肉】The Ninth Doctor Adventures 401 Snare 陷阱-哔哩哔哩】 https://b23.tv/BV1mXb5z5Ec6
+
+https://www.bigfinish.com/releases/v/doctor-who-the-ninth-doctor-adventures-snare-3242
+
+Kevin在很早以前就离开了Powell小区。他不想被困在那。但多年后，他再次回到这里，清理他爸爸的旧公寓。至少他的邻居，Tyler一家还在。
+
+但Rose的身边多了一名神秘的男人。这个博士将让Kevin看到一个他未曾幻想过的世界。不幸的是，还有一些古老的邪恶在小区里潜伏。或许Kevin终究还是会被困在这...
+
+*** READY [#A] 11DC5.3 Sins of the Flesh :Cybermen:bilibili:
+    :PROPERTIES:
+    :thetimescales: 9.1
+    :tardis.guide: 4.57
+    :END:
+
+【【神秘博士广播剧熟肉】Everywhere and Anywhere 503 Sins of the Flesh 肉体之罪-哔哩哔哩】 https://b23.tv/BV1qGWxzCEP5
+
+https://www.bigfinish.com/releases/v/doctor-who-the-eleventh-doctor-chronicles-volume-05-everywhere-and-anywhere-2730#tab5
+
+您的孩子有没有表现出罪恶的行为？他们是否已经踏上通往永恒诅咒的道路？您尝试的所有方法是不是都失败了？感觉您已经无计可施？
+不用担心。我们能帮上忙。今天就带他们来新生组织。让他们接受转化。
+
+*** READY 13DA1.42. The Return of the Doctor :P2025_09:bilibili:
+** q4a-spinoffs
+*** PENDING TW5.6 A Kill to a View :Bilis_Manger:
+*** TW84. The Restoration of Catherine :Norton:Andy:
+*** PENDING Halloween 2. Party Favours :UNIT_new:
+*** [#C] PGT4.1 I Married a Zygon
+    :PROPERTIES:
+    :tardis.guide: 3.97
+    :thetimescales: 6.3
+    :END:
+
+*** [#A] DoRS11.4. The Isle on the Shore
+*** [#B] WM10.2 Manhunt :Master_War:
+** q4b
 *** START [#C] CC12.2 Dumb Waiter :2nd_Dr:Jamie:Leela:D2021_09_extra:plot_yes:
 *** LTV3.4 The Highlanders :2nd_Dr:Polly:Ben:Jamie:
+*** READY [#B] NA03 - The Romance of Crime :Romana_2:P2015:2CD:scripted:bilibili:
+    :PROPERTIES:
+    :rating:   8.0
+    :END:
+
+【【神秘博士广播剧熟肉】Romance of Crime-犯罪的浪漫-哔哩哔哩】 
+https://b23.tv/BV1dXKLe5EHb
+
 *** [#B] BSNA5.2 Clear History :Benny:Unbound_Dr:
 *** TODO BSNA 5.3 Dead and Breakfast :Benny:Unbound_Dr:

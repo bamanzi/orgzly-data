@@ -242,11 +242,14 @@ CLOSED: [2021-06-26 Sat 09:13]
 :END:
 
 ***** [#D] CC8.9 Starborn :Vicki:Ian:Barbara:
-***** [#B] CC9.2 - The Unwinding World :Vicki:Ian:Barbara:dw2026_q3a_doctor:
-SCHEDULED: <2026-08-22 Sat>
+***** HALF [#C] CC9.2 - The Unwinding World :Vicki:Ian:Barbara:plot_yes:dw2026_q3a_doctor:
+SCHEDULED: <2026-08-15 Sat>
 :PROPERTIES:
-:rating:   8.0
+:thetimescales: 8.0
+:tardis.guide: 3.46
 :END:
+
+https://tardis.wiki/wiki/The_Unwinding_World_(audio_story)#Plot
 
 ***** [#E] CC13.2 - Daybreak
 ***** [#B] CC15.1 The Temple of Light :P2025_04:
@@ -1227,20 +1230,26 @@ SCHEDULED: <2022-09-21 Wed>
 :rating:   7.3
 :END:
 
-***** 2DONE [#C] 3.1 The Conquest of Far :Jo:Daleks:P2017:plot_no:DW2024_Q3a_doctor:
+***** 2DONE [#C] 3.1 The Conquest of Far :Jo:Daleks:P2017:plot_yes:DW2024_Q3a_doctor:
 CLOSED: [2024-06-21 Fri 19:24] SCHEDULED: <2024-06-22 Sat>
 :PROPERTIES:
 :rating:   7.5
 :END:
 
-***** [#C] 3.2 Storm of the Horofax :Jo:P2017:plot_no:dw2026_q3a_doctor:
-SCHEDULED: <2026-08-29 Sat>
+https://tardis.wiki/wiki/The_Conquest_of_Far_(audio_story)#Plot
+
+***** 2DONE [#C] 3.2 Storm of the Horofax :Jo:P2017:plot_yes:dw2026_q3a_doctor:
+CLOSED: [2026-08-19 Wed 08:05] SCHEDULED: <2026-08-29 Sat>
 :PROPERTIES:
 :rating:   7.6
 :END:
 
-***** 2DONE [#B] 4.1 - The Rise of the New Humans (8.0) :Jo:Monk:P2018:D2021_05:plot_no:
+https://tardis.wiki/wiki/Storm_of_the_Horofax_(audio_story)#Plot
+
+***** 2DONE [#B] 4.1 - The Rise of the New Humans (8.0) :Jo:Monk:P2018:D2021_05:plot_yes:
 CLOSED: <2021-05-27 Thu 23:20>
+
+https://tardis.wiki/wiki/The_Rise_of_the_New_Humans_(audio_story)#Plot
 
 ***** 3QTR [#C] 4.2 - The Tyrants of Logic :Jo:P2018:cybermen:plot_yes:D2022_02_doctor:
 CLOSED: [2022-02-12 Sat 15:45] SCHEDULED: <2022-02-13 Sun>
@@ -1834,7 +1843,9 @@ CLOSED: [2020-07-15 Wed 19:13]
 【【神秘博士广播剧熟肉】四任博士冒险 第九季特别篇 太阳阴影 Shadow of the Sun-哔哩哔哩】 https://b23.tv/BV1hEV5zCEVJ
 
 **** 📂4DA series 10 :4DA:P2021:2CD:
-***** [#C] 10.1 The World Traders :2CD:
+***** TODO [#C] 10.1 The World Traders :2CD:dw2026_q3b_doctor:
+SCHEDULED: <2026-09-26 Sat>
+
 ***** [#C] 10.2 The Day of the Comet :2CD:
 ***** [#C] 10.3 The Tribulations of Tahdeus Nook
 ***** [#E] 10.4 The Primeval Design
@@ -2665,7 +2676,9 @@ https://b23.tv/BV1eE6FYwEYz
 *** HALF [#D] 3. Born to Die :6th_Dr:Charley:P2024_03:dw2026_q2b_doctor:
 SCHEDULED: <2026-07-04 Sat>
 
-*** [#C] 4. In Name Only :War_Dr:P2024_04:
+*** TODO [#C] 4. In Name Only :War_Dr:P2024_04:dw2026_q3b_doctor:
+SCHEDULED: <2026-09-19 Sat>
+
 ** 📂Dark Gallifrey :3CD:
 *** [#B] Morbius :P2024_06:
 

@@ -72,22 +72,30 @@ DWM 584-597
 **** DONE 2x04 Lucky Day :Ruby:UNIT:
      CLOSED: [2025-05-18 Sun 21:47]
 
-**** 2x05 The Story & the Engine
-**** 2x06 The Interstellar Song Contest
-**** 2x07 Wish World
-**** 2x08 The Reality War
+**** DONE 2x05 The Story & the Engine :S2026_Q3:
+     CLOSED: [2026-07-20 Mon 23:05]
+
+**** DONE 2x06 The Interstellar Song Contest :S2026_Q3:
+     CLOSED: [2026-07-25 Sat 20:39]
+
+**** DONE 2x07 Wish World :S2026_Q3:The_Rani:
+     CLOSED: [2026-08-14 Fri 22:03]
+
+**** 2x08 The Reality War :S2026_Q3:The_Rani:
 ** comics :📚:
 *** DWM
-**** Mancopolis (#599-603) :Ruby:
+**** NEXT Mancopolis (#599-603) :Ruby:S2026_Q3:
 **** The Hans of Fear (#604-607) :Ruby:
 **** The Monster Makers (#608-612) :Ruby:
-**** Run (#613)
-**** Dance Till You Drop (#614)
+**** DONE Run (#613) :S2026_Q3:
+     CLOSED: [2026-08-18 Tue 07:04]
+
+**** TODO Dance Till You Drop (#614) :S2026_Q3:
 **** No Signs of Life  (#615)
-**** His Mad Pranks (#616-621)
+**** His Mad Pranks (#616-621) :Belinda:
 **** Field Trip (#622-623)
 **** A Ghost Story for Christmas (#624)
-**** Corruption of the Daleks (#625-631)
+**** Corruption of the Daleks (#625-631) :Mel:Feyde:
 *** Titan
 **** FCBD 2024
 **** 15D #1-4 Everyone Must Go! :P2024:
@@ -232,7 +240,7 @@ https://tardis.wiki/wiki/The_Master%27s_early_life
 
 Twelve Angels Weeping #4
 
-*** FIXME Tempered :Master_early:Master_missy:🗣:📄:
+*** TODO Tempered :Master_early:Master_missy:🗣:📄:dw2026_q3b_spinoffs:
 
 Origin Stories #11
 
