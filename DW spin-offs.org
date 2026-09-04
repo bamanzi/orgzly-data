@@ -547,109 +547,151 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 ***** [#D] 72. The Thirst Trap :Andy:Rhys:plot_yes:
 **** series 9 (73-84)
 ***** READY [#E] 73. Launch Date :Ianto:P2023_04:
+      :PROPERTIES:
+      :thetimescales: 6.6
+      :END:
 
 【【机翻】火炬木广播剧：发射日期（文本见评论）-哔哩哔哩】 https://b23.tv/BV1awJnz3EpZ
 
-***** [#C] 74. Sigil :Bilis_Manger:P2023_08:
-***** [#D] 75. Dog Hop :Andy:plot_yes:P2024_09:
+***** [#B] 74. Sigil :Bilis_Manger:P2023_08:
+      :PROPERTIES:
+      :thetimescales: 7.9
+      :tardis.guide: 3.92
+      :END:
+
+***** [#E] 75. Dog Hop :Andy:plot_yes:P2024_09:
+      :PROPERTIES:
+      :tardis.guide: 3.26
+      :thetimescales: 6.3
+      :END:
+
 ***** HALF [#C] 76. Odyssey :Ood:P2024_10:plot_yes:dw2026_q3a_spinoffs:
       SCHEDULED: <2026-07-19 Sun>
+      :PROPERTIES:
+      :tardis.guide: 3.63
+      :thetimescales: 7.6
+      :END:
 
 ***** FIXME [#C] 77. Oodunnit :Ood:Zack:P2024_11:
-***** FIXME [#D] 78. Oracle :Ood:P2023_12:
+      :PROPERTIES:
+      :tardis.guide: 3.61
+      :thetimescales: 7.1
+      :END:
+
+***** [#E] 78. Oracle :Ood:P2023_12:
+      :PROPERTIES:
+      :tardis.guide: 3.37
+      :thetimescales: 6.3
+      :END:
+
 ***** [#B] 79. Poppet :Rhys:P2024_01:
       :PROPERTIES:
-      :tardis.guide: 4.10
-      :thetimescales: 8.0
+      :tardis.guide: 3.99
+      :thetimescales: 7.9
       :END:
 
 ***** [#C] 80. Sabotage :Colchester:Ace:P2024_02:
       :PROPERTIES:
       :tardis.guide: 3.51
-      :thetimescales: 8.0
+      :thetimescales: 7.6
       :END:
 
 ***** [#C] 80X. Another Postcard from Mr Colchester
       :PROPERTIES:
-      :thetimescales: 7.9
+      :thetimescales: 7.8
       :tardis.guide: 3.74
       :END:
 
 ***** [#D] 81. Tube Strike :Ianto:P2024_03:
       :PROPERTIES:
       :tardis.guide: 3.62
-      :thetimescales: 7.0
+      :thetimescales: 6.8
       :END:
 
 ***** [#A] 82. Missing Molly :Ianto:P2024_04:
       :PROPERTIES:
-      :tardis.guide: 4.40
-      :thetimescales: 9.6
+      :tardis.guide: 4.31
+      :thetimescales: 9.4
       :END:
 
 ***** [#A] 83. Disco :Ianto:P2024_05:
       :PROPERTIES:
-      :tardis.guide: 4.48
-      :thetimescales: 9.6
+      :tardis.guide: 4.43
+      :thetimescales: 9.3
       :END:
 
-***** [#C] 84. The Restoration of Catherine :Andy:Norton:P2024_06:
+***** [#D] 84. The Restoration of Catherine :Andy:Norton:P2024_06:
       :PROPERTIES:
-      :tardis.guide: 3.82
+      :tardis.guide: 3.67
       :thetimescales: 7.2
       :END:
 
 **** series 10
-***** [#B] 85. Art Decadence :The_Mara:P2024_07:
+***** FIXME [#B] 85. Art Decadence :The_Mara:P2024_07:
       :PROPERTIES:
-      :thetimescales: 8.8
-      :tardis.guide: 3.96
+      :thetimescales: 8.6
+      :tardis.guide: 3.83
       :END:
 
 ***** HALF [#B] 86. End Game :Tosh:P2024_08:dw2026_q1b_spinoffs:
       SCHEDULED: <2026-04-05 Sun>
       :PROPERTIES:
-      :thetimescales: 8.7
-      :tardis.guide: 4.15
+      :thetimescales: 8.2
+      :tardis.guide: 4.01
       :END:
 
 ***** [#B] 87. The Hollow Choir :Rhys:P2024_09:
       :PROPERTIES:
       :thetimescales: 8.2
-      :tardis.guide: 4.13
+      :tardis.guide: 3.95
       :END:
 
-***** [#D] 88. Widdershins :P2024_10:
+***** FIXME [#D] 88. Widdershins :P2024_10:
       :PROPERTIES:
-      :thetimescales: 6.5
-      :tardis.guide: 3.74
+      :thetimescales: 6.3
+      :tardis.guide: 3.55
       :END:
 
 ***** [#B] 89. Bad Connection :Suzie:P2024_11:
       :PROPERTIES:
-      :thetimescales: 8.5
-      :tardis.guide: 3.87
+      :thetimescales: 8.2
+      :tardis.guide: 3.80
       :END:
 
 ***** [#C] 90. Reflect :Colchester:Ace:P2024_12:
       :PROPERTIES:
-      :thetimescales: 7.3
-      :tardis.guide: 4.31
+      :thetimescales: 7.0
+      :tardis.guide: 4.22
       :END:
 
 ***** [#C] 90X. A Christmas Card from Mr Colchester :Colchester:P2024_12:
       :PROPERTIES:
-      :thetimescales: 7.7
+      :thetimescales: 7.5
       :tardis.guide: 3.70
       :END:
 
-***** 91. Ianto's Inferno :P2025_01:Ianto:
-***** 92. Inseparable :Yvonne:P2025_02:
-***** FIXME 93. Rictus :Zygons:P2025_03:
+***** [#B] 91. Ianto's Inferno :P2025_01:Ianto:
+      :PROPERTIES:
+      :tardis.guide: 3.90
+      :thetimescales: 8.0
+      :END:
+
+***** [#C] 92. Inseparable :Yvonne:P2025_02:
+      :PROPERTIES:
+      :tardis.guide: 3.66
+      :thetimescales: 8.0
+      :END:
+
+***** FIXME [#C] 93. Rictus :Zygons:P2025_03:
+      :PROPERTIES:
+      :tardis.guide: 3.79
+      :thetimescales: 7.9
+      :END:
+
 ***** READY [#A] 94. The Boy Who Never Laughed :Tyler:P2025_05:bilibili:
       :PROPERTIES:
       :thetimescales: 8.6
-      :tardis.guide: 4.54
+      :tardis.guide: 4.57
       :END:
 
 【【神秘博士广播剧熟肉】TWMR 094 The Boy Who Never Laughed 那个从来不笑的男孩-哔哩哔哩】 https://b23.tv/BV1TFPJzfEgz
@@ -659,12 +701,42 @@ https://www.bigfinish.com/releases/v/torchwood-the-boy-who-never-laughed-2995
 Tyler Steele为火炬木效力，也曾与他们作对，所以见识过不少事情。
 但当他醒来发现昨晚与自己同床的人究竟是谁后，他将经历自己一生中最大的震撼...
 
-***** 95. Child Free :Suzie:P2025_07:
-***** FIXME 96. Salvage :P2025_09:
-**** 97. The Flawless Man :Andy:P2025_11:
-**** 98. Everyone's Dead on Floor 3 :Norton:P2026_01:
-**** 99. Curtain :Bilis_Manger:P2026_03:
-**** 100. Fare Well :Ianto:Tommy:Cybermen:P2026_05:
+***** [#C] 95. Child Free :Suzie:P2025_07:
+      :PROPERTIES:
+      :tardis.guide: 3.55
+      :thetimescales: 7.0
+      :END:
+
+***** FIXME [#C] 96. Salvage :P2025_09:
+      :PROPERTIES:
+      :tardis.guide: 3.43
+      :thetimescales: 8.5
+      :END:
+
+**** [#B] 97. The Flawless Man :Andy:P2025_11:
+     :PROPERTIES:
+     :tardis.guide: 4.28
+     :thetimescales: 8.5
+     :END:
+
+**** [#B] 98. Everyone's Dead on Floor 3 :Norton:P2026_01:
+     :PROPERTIES:
+     :tardis.guide: 4.17
+     :thetimescales: 8.2
+     :END:
+
+**** [#B] 99. Curtain :Bilis_Manger:P2026_03:
+     :PROPERTIES:
+     :tardis.guide: 4.01
+     :thetimescales: 8.0
+     :END:
+
+**** [#A] 100. Fare Well :Ianto:Tommy:Cybermen:P2026_05:
+     :PROPERTIES:
+     :tardis.guide: 4.61
+     :thetimescales: 9.2
+     :END:
+
 *** specials
 **** 2DONE [#B] special 1: The Torchwood Archive :P2016:The_Commitee:2CD:plot_yes:
      CLOSED: [2020-11-19 Thu 18:33]
@@ -1062,6 +1134,11 @@ https://tardis.fandom.com/wiki/Parasite_(audio_story)
 - 6. Mandeville Walks
 
 **** [#B] TW Soho #4: Ascension :P2024_07:
+*** fan-made :fan_made:
+**** Torchwood: New Era (Overton Audios)
+
+https://m.soundcloud.com/overtonaudios/sets/torchwood-new-era-2021
+
 * River Song :River:
 ** prose
 *** [#A] The Ruby's Curse :P2021:
@@ -1384,6 +1461,11 @@ Roberts Master
 3. A Good Woman Goes to War
 4. Schism Bloom
 
+**** 📂DLRS4: War Widow :8th_Dr:P2026_09:
+***** 4.1 The Shape of Fear
+***** 4.2 Bad Timing
+***** 4.3 Unchained Melodies
+***** 4.4 The Reality Director
 *** misc
 **** DONE R&J (The Lives of Captain Jack #3.3) :Jack:
      CLOSED: <2020-09-14 Mon 21:12>
@@ -2000,7 +2082,8 @@ http://drwhoguide.com/bs_dwm5.htm
 **** anthology: Paralel Lives
 **** anthology: Something Changed
 **** [#F] +6.1 The Heat's Desire+
-**** TODO [#C] 6.2 The Kingdom of the Blind :dw2026_q3b_spinoffs:
+**** TODO [#C] 6.2 The Kingdom of the Blind
+     SCHEDULED: <2026-09-27 Sun>
      :PROPERTIES:
      :rating:   7.7
      :END:
@@ -2216,14 +2299,15 @@ https://www.bilibili.com/video/BV1QT41147a8
      :rating:   8.9
      :END:
 
-*** vol.5 Buried Memories :Unbound_Dr:P2019:
+*** vol.5 Buried Memories :Unbound_Dr:P2019:plot_cast:
 **** HALF [#C] 5.1 Pride of the Lampian (7.9) :DW2022_09_extra:
      SCHEDULED: <2022-09-10 Sat>
      :PROPERTIES:
      :rating:   7.9
      :END:
 
-**** TODO [#B] 5.2 Clear History
+**** HALF [#B] 5.2 Clear History :dw2026_q3b_spinoffs:
+     SCHEDULED: <2026-09-06 Sun>
      :PROPERTIES:
      :rating:   8.1
      :END:
@@ -2747,7 +2831,7 @@ rating 8.7/8.3
 *** [#C] 1.3 The Longest Night (7.9)
 *** [#C] 1.4 The Wasting :P2005:Brigadier:
 *** [#B] special: Dominion :7th_Dr:Klein:Ace:Master_bald:P2012:
-** UNIT: Brave New World
+** UNIT: Brave New World :🎧:
 
 /Brave New World/ was a subseries of the UNIT audio series produced by Big Finish Productions. Beginning in 2022, it focused on the exploits of UNIT under the command of /Winifred Bambera/ (TV: Battlefield) along with her new team: /Sergeant Jean-Paul Savarin/ and /Dr Louise Rix/.
 
@@ -3028,7 +3112,22 @@ UNIT的黎明，外星人已开始入侵，而Eddie Wise远未做好准备
 *** [#E] 4.2 Traitors' Gate
 *** [#C] 4.3 The Destiny Labyrinth
 *** [#C] 4.4 True Nemesis :Master_missy:
-** The War Between the Land and the Sea :Sea_Devils:
+** DONE The War Between the Land and the Sea :Sea_Devils:
+*** DONE ep1
+    CLOSED: <2026-07-26 Sun 09:57>
+
+*** DONE ep2
+    CLOSED: <2026-07-26 Sun 11:07>
+
+*** DONE ep3 The Deep
+    CLOSED: [2026-08-02 Sun 09:06]
+
+*** DONE ep4
+    CLOSED: <2026-08-02 Sun 21:34>
+
+*** DONE ep5
+    CLOSED: [2026-08-11 Tue 20:16]
+
 * Kaldor City / The Robots :🎧:Kaldor_androids:
 ** Kaldor City :plot_yes_dwg:
 *** HALF [#B] KC1. Occam's Razor :D2022_06_spinoffs:Uvanov:
@@ -3650,13 +3749,13 @@ Rani起初并不相信，但当一位老朋友警告她不要插手时，她感�
 *** DONE A Girl's Best Friend :P1981:
     CLOSED: [2024-07-15 Mon 20:32]
 
-** Space Security Service
+** Space Security Service :🎧:
 *** vol.1 The Voord in London :P2025_06:Anya:Mark_7:
 **** 1.1 The Voord in London :Voord:
 **** 1.2 The Thal from G.R.A.C.E :Thal:
 **** 1.3 Allegiance
 *** vol.2 Bret Vyon Lives! :P2026_07:
-** Smith & Sullivan :Sarah:Harry:
+** Smith & Sullivan :Sarah:Harry:🎧:
 *** TBR vol.1 Reunited :P2025_07:
 **** 1.1 The Caller
 **** 1.2 Union of the Snake

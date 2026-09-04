@@ -396,7 +396,7 @@ CLOSED: [2026-08-17 Mon 23:07] SCHEDULED: <2026-08-07 Fri>
 ***** DONE Sin-Eaters (#11-12)
 ***** DONE Secret Agent Man (#13)
 ***** DONE The Bidding War (#14-15)
-**** Hacked (FCBD 2016 #4) :S2026_Q3:
+**** Hacked (FCBD 2016 #4) :Rose:Jack:S2026_Q3:
 **** Once Upon a Time Lord #2: Rhyme or Reason :9th_Dr:Rose:P2023:
 * 10th Doctor :10th_Dr:
 ** tv :📺:
@@ -1005,7 +1005,7 @@ CLOSED: [2022-12-04 Sun 13:12]
 ** audio :🎧:
 *** with Valarie
 **** 📂11DC vol.3 Geronimo! :Valarie:P2022_10:plot_yes:
-***** Prequel to Geronimo! :Clara:bilibili:
+***** READY Prequel to Geronimo! :Clara:bilibili:
 
 https://tardis.fandom.com/wiki/Prequel_to_Geronimo!_(audio_story) 
 
@@ -1139,6 +1139,10 @@ https://www.bigfinish.com/releases/v/doctor-who-the-eleventh-doctor-chronicles-v
 
 ***** 1.2 The Tourist Trap
 ***** 1.3 A Delusion of Witches
+**** 📂11DA series 2 Hidden in Plain Sight :P2026_08:
+***** 2.1 Tyranny of the Judoon
+***** 2.2 Gambit of the Judoon
+***** 2.3 Wanted Dead and Alive
 *** misc
 **** 11DC vol.1 :🗣:
 ***** HALF [#D] 1.1 - The Calendar Man :DW2022_07_doctor:plot_yes:
@@ -1380,8 +1384,8 @@ SCHEDULED: <2026-08-22 Sat>
 :rating:   4.10
 :END:
 
-*** READY [#B] Borrowed Time 时间捕手 :已购:S2026_Q3:
-SCHEDULED: <2026-08-23 Sun>
+*** DONE [#B] Borrowed Time 时间捕手 :已购:S2026_Q3:
+CLOSED: [2026-08-23 Sun 16:58] SCHEDULED: <2026-08-23 Sun>
 :PROPERTIES:
 :rating:   3.98
 :END:
@@ -1550,8 +1554,13 @@ SCHEDULED: <2026-01-07 Wed>
 **** 1.1 The Second Death :P2026_07:
 **** 1.2 The Broken Man :P2026_07:
 **** 1.3 The Beautiful and the Damned :P2026_07:
+**** 1.4 Wings of Steel :P2026_08:
 *** Short Trips :🗣:
-**** 3QTR [#B] 9.2 - The Astrea Conspiracy :DW2023_08_doctor:
+**** 3QTR ST10.5 Regeneration Impossible :D2021_08_extra:12th_Dr:bilibili:
+
+【【神秘博士】短途旅行：不可能的重生 | Short Trips: Regeneration Impossible-哔哩哔哩】 https://b23.tv/BV1ZD4y1e7Je
+
+**** 3QTR [#B] ST9.2 - The Astrea Conspiracy :DW2023_08_doctor:
 CLOSED: [2023-09-03 Sun 11:45] SCHEDULED: <2023-09-03 Sun>
 :PROPERTIES:
 :rating:   8.0
@@ -1849,11 +1858,11 @@ https://www.bigfinish.com/releases/v/doctor-who-the-thirteenth-doctor-adventures
 
 博士加入了派对。但不幸的是，还有一个古老的敌人...
 
-**** READY 2. The Return of the Doctor :P2025_09:bilibili:
+**** READY 1.2 The Return of the Doctor :P2025_09:bilibili:
 
 【【神秘博士广播剧熟肉】The Thirteenth Doctor Adventures 102 The Return of the Doctor 博士的回归-哔哩哔哩】 https://b23.tv/BV1wjpzzsE5k
 
-**** READY 3. Lionesses in Winter :P2025_11:bilibili:
+**** READY 1.3 Lionesses in Winter :P2025_11:bilibili:
 
 【【神秘博士广播剧熟肉】The Thirteenth Doctor Adventures 103 Lionesses in Winter 冬日雌狮-哔哩哔哩】 https://b23.tv/BV1NQUfBYE2b
 
@@ -1861,7 +1870,7 @@ https://www.bigfinish.com/releases/v/doctor-who-the-thirteenth-doctor-adventures
 
 英格兰，1183年，亨利二世的宫廷。博士和Yaz闯入了一场不太正常的皇家圣诞家庭宴会，与Henry分居两地的妻子Eleanor回来和家人共度圣诞。博士和Yaz发现他们中间有一个冒牌货，但这个人究竟是谁？他又有什么阴谋？
 
-**** READY 4. Ride or Die :P2026_01:
+**** READY 1.4 Ride or Die :P2026_01:
 
 【【神秘博士广播剧熟肉】The Thirteenth Doctor Adventures 104 Ride or Die 生死与共-哔哩哔哩】 https://b23.tv/BV158F7zdEbq
 
@@ -1871,16 +1880,17 @@ https://www.bigfinish.com/releases/v/doctor-who-the-thirteenth-doctor-adventures
 
 博士能否在失去她最好的朋友前，阻止这一切？
 
-**** 5. The Violet Hour :P2026_03:
-**** READY 6. Aegis :P2026_05:bilibili:
+**** 1.5 The Violet Hour :P2026_03:
+**** READY 1.6 Aegis :P2026_05:bilibili:
 
 【【神秘博士广播剧】The Thirteenth Doctor Adventures 106 Aegis-神盾-哔哩哔哩】 https://b23.tv/BV1nXjq6nEVJ
 
-**** READY 7. The Hallamshire Incident :Ice_Warriors:P2026_07:
+**** READY 1.7 The Hallamshire Incident :Ice_Warriors:P2026_07:
 
 【【神秘博士广播剧】The Thirteenth Doctor Adventures 107 The Hallamshire Incident-哈勒姆郡事件-哔哩哔哩】 https://b23.tv/BV1kZ3g6YEY5
 
-*** ST14.X The Wednesday That Wasn't :P2025_12:scripted:bilibili:
+**** 1.8 The Greatest Train Robbery :P2026_09:
+*** READY ST14.X The Wednesday That Wasn't :P2025_12:scripted:bilibili:
 
 【【神秘博士广播剧熟肉】短期旅行：不存在的星期三-哔哩哔哩】 https://b23.tv/BV1WjffBXEfR
 

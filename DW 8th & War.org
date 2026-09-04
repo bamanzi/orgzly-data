@@ -472,10 +472,17 @@ SCHEDULED: <2026-10-10 Sat>
 :END:
 
 **** 8DA series 2 :scripted:plot_yes_dwg:
-***** CANCEL [#E] +2.1 Dead London+
+***** CANCEL [#E] +2.1 Dead London+ :bilibili:
 :PROPERTIES:
 :rating:   6.5
 :END:
+
+【【神秘博士广播剧熟肉】8DA 201 Dead London-致命的伦敦-哔哩哔哩】 https://b23.tv/BV1kabD6sEK5
+
+有人在玩弄我们，为了自己的目的控制时间和空间
+TARDIS降落在伦敦，但是是哪一个？博士和Lucie发现自己困在了迷宫般的互锁的伦敦之中，从罗马时代的伦敦到如今的伦敦。
+
+但是他们并不是唯一被困在这座迷宫的人：一位杀手正在赶来的路上
 
 ***** [#C] 2.2 - Max Warp
 :PROPERTIES:
@@ -1023,7 +1030,7 @@ http://blog.sina.cn/dpool/blog/s/blog_6c777581010185u0.html?type=2
 :goodreads: 4.05
 :END:
 
-** comics
+** comics :📚:
 *** Radio Times
 *** DWM
 **** Endgame
@@ -1069,7 +1076,7 @@ http://blog.sina.cn/dpool/blog/s/blog_6c777581010185u0.html?type=2
 
 5 issues
 
-**** Empire of the Wolf :P2022:11th_Dr:Rose:S2026_Q3:
+**** NEXT Empire of the Wolf :P2022:11th_Dr:Rose:S2026_Q3:
 SCHEDULED: <2026-08-23 Sun>
 
 另一 Rose 的来历与前面的 /Alternating Current/ 有关
@@ -1370,11 +1377,15 @@ CLOSED: [2024-12-16 Mon 21:52] SCHEDULED: <2024-12-14 Sat>
 https://b23.tv/BV1rt4y147Ys
 
 *** /📂The War Master series 6: Killing Time/ :Master_war:P2021:🎧:scripted:plot_cast:
-**** DONE [#B] 6.1 - The Sincerest Form of Flattery :DW2023_08_spinoffs:
+**** DONE [#B] 6.1 - The Sincerest Form of Flattery :DW2023_08_spinoffs:bilibili:
 CLOSED: [2023-12-16 Sat 19:21] SCHEDULED: <2023-09-03 Sun>
 
-**** 3QTR [#A] *6.2 - A Quiet Night In* #S :Jo:DW2023_09_spinoffs:
+【[神秘博士广播剧] The War Master 601: The Sincerest Form of Flattery-哔哩哔哩】 https://b23.tv/BV1Mi8J6LEj2
+
+**** 3QTR [#A] *6.2 - A Quiet Night In* #S :Jo:DW2023_09_spinoffs:bilibili:
 CLOSED: <2023-09-08 Fri 09:33> SCHEDULED: <2023-09-17 Sun>
+
+【[神秘博士广播剧] The War Master 602: A Quiet Night In-哔哩哔哩】 https://b23.tv/BV1Bh8z6JEVD
 
 **** HALF [#A] 6.3 - The Orphan :Nyssa:DW2023_11_spinoffs:
 SCHEDULED: <2023-11-19 Sun>
@@ -1389,29 +1400,40 @@ SCHEDULED: <2023-12-24 Sun>
 :END:
 
 *** /📂The War Master series 5: Hearts of Darkness/ :Master_War:🎧:
-**** 2DONE [#B] 5.1 - The Edge of Redemption :plot_yes:DW2022_11_spinoffs:
+**** 2DONE [#B] 5.1 - The Edge of Redemption :plot_yes:DW2022_11_spinoffs:bilibili:
 CLOSED: [2022-11-07 Mon 20:49] SCHEDULED: <2022-11-09 Wed>
 :PROPERTIES:
 :rating:   8.1
 :END:
 
-**** 3QTR [#C] 5.2 - The Scaramancer :plot_no:DW2022_12_spinoffs:
+【[神秘博士广播剧] The War Master 501: The Edge of Redemption-哔哩哔哩】 https://b23.tv/BV1WC3m6BEx6
+
+**** 3QTR [#C] 5.2 - The Scaramancer :plot_no:DW2022_12_spinoffs:bilibili:
 CLOSED: [2022-12-14 Wed 20:30] SCHEDULED: <2022-12-08 Thu>
 :PROPERTIES:
 :rating:   7.9
 :END:
 
-**** 3QTR [#A] 5.3 - The Castle of Kurnos 5 :plot_yes:8th_Dr:DW2023_01_spinoffs:
+【[神秘博士广播剧] The War Master 502: The Scaramancer-哔哩哔哩】 https://b23.tv/BV1Mg3d6PEWT
+
+**** 3QTR [#A] 5.3 - The Castle of Kurnos 5 :plot_yes:8th_Dr:DW2023_01_spinoffs:bilibili:
 CLOSED: [2023-01-05 Thu 08:38] SCHEDULED: <2023-01-05 Thu 08:38>
 :PROPERTIES:
 :rating:   8.6
 :END:
 
-**** 3QTR [#A] 5.4 - The Cognition Shift :plot_yes:8th_Dr:DW2023_02_spinoffs:
+【[神秘博士广播剧] The War Master 503: The Castle of Kurnos 5-哔哩哔哩】 https://b23.tv/BV1QNup66ExR
+
+**** 3QTR [#A] 5.4 - The Cognition Shift :plot_yes:8th_Dr:DW2023_02_spinoffs:bilibili:
 CLOSED: [2023-02-19 Sun 16:18] SCHEDULED: <2023-02-17 Fri 08:20>
 :PROPERTIES:
 :rating:   8.9
 :END:
+
+【[神秘博士广播剧] The War Master 504: The Cognition Shift (Part 1)-哔哩哔哩】 https://b23.tv/BV1bQu36zE9R
+
+【【中英】【神秘博士广播剧】以防你没听过麦秆马迷人的声线-战争法师广播剧504切片-哔哩哔哩】 https://b23.tv/BV1CH8RzQEJ8
+
 
 *** 📂Gallifrey: Time War vol.2 :P2019:🎧:
 **** DONE 2.1 Havoc :bilibili:
@@ -1637,7 +1659,7 @@ https://b23.tv/BV1eN4y1C7Kn
 
 【[神秘博士广播剧] Doctor Who: Time War 503 Previously, Next Time Part 2-哔哩哔哩】 https://b23.tv/BV1SnSXBpEXP
 
-*** 📂8D Time War vol.6 Reflections :Cass:Alex:P2024_10:
+*** 📂8D Time War vol.6 Reflections :Cass:Alex:P2024_10:🎧:
 **** [#D] 6.1 Nowhere, Never
 :PROPERTIES:
 :thetimescales: 6.8
@@ -1662,12 +1684,12 @@ https://b23.tv/BV1eN4y1C7Kn
 :tardis.guide: 4.09
 :END:
 
-*** 📂8D Time War vol.7 Uncharted: Pursuit :P2025_06:
+*** 📂8D Time War vol.7 Uncharted: Pursuit :P2025_06:🎧:
 **** 7.1 Spoil of War
 **** 7.2 The Tale of Alex
 **** 7.3 See-Saw
 **** 7.4 The First Forest
-*** 📂8D Time War vol.8 Branches :P2026_05:Alex:
+*** 📂8D Time War vol.8 Branches :P2026_05:Alex:🎧:
 **** 8.1 The Only Girl in the World
 **** 8.2 False Dawn
 **** 8.3 Council of Susan :Susan:

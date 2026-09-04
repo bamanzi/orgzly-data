@@ -773,7 +773,7 @@ SCHEDULED: <2021-10-03 Sun>
 :rating:   7.8
 :END:
 
-***** [#D] CC10.2 The Story of Extinction :Victoria:plot_no:scripted:bilibili:
+***** READY [#D] CC10.2 The Story of Extinction :Victoria:plot_no:scripted:bilibili:
 :PROPERTIES:
 :rating:   7.2
 :END:
@@ -798,7 +798,7 @@ CLOSED: <2026-01-18 Sun 21:19> SCHEDULED: <2025-11-29 Sat>
 There is a creature loose on the war-torn planet of Tersimmon. It has just destroyed an entire race, and following its arrival, others are dying too. Only one person will defend this killer, this murderer, this destroyer: because Jamie McCrimmon knows the Doctor isn't himself...
 
 **** [#C] CC14.2 The Phantom Piper :Jamie:
-**** [#B] ST8.X - The Last Day At Work :Jamie:bilibili:
+**** READY [#B] ST8.X - The Last Day At Work :Jamie:bilibili:
 :PROPERTIES:
 :rating:   8.1
 :END:
@@ -870,10 +870,12 @@ SCHEDULED: <2026-06-27 Sat>
 
 那是光荣革命的一年。还有一段全新的历史的诞生......
 
-***** CANCEL [#E] CC10.3 The Integral :plot_no:scripted:
+***** CANCEL [#E] CC10.3 The Integral :plot_no:scripted:bilibili:
 :PROPERTIES:
 :rating:   6.6
 :END:
+
+【【神秘博士广播剧熟肉】Companion Chronicles 1003 The Integral-哔哩哔哩】 https://b23.tv/BV1SAuu6eEwd
 
 ***** [#D] CC10.4. The Edge :Jamie:plot_no:scripted:
 :PROPERTIES:
@@ -945,6 +947,10 @@ SCHEDULED: <2024-12-21 Sat>
 ***** 25.1 Humpty Dumpty
 ***** 25.2 Secret of the Daleks
 ***** 25.3 War of the Morai
+**** 📂2026. The Haunted Windmill :P2026_08:
+***** 1. The Haunted Windmill :Jamie:Zoe:Raven:
+***** 2. The Crystal Ship :Raven:Krotons:
+***** 3. The Hungry Glass :Jamie:Raven:Daleks:
 *** BF misc :🗣:
 **** #The_Company :Zoe:
 ***** 2DONE [#D] CC5.02 - Echoes of Grey :Zoe:D2021_07_dr:
@@ -1375,7 +1381,7 @@ CLOSED: [2020-07-15 Wed 19:13]
 
 Inferno
 
-***** HALF [#C] 7.1 The Unzal Incursion :P2021:DW2023_01_doctor:
+***** HALF [#C] 7.1 The Unzal Incursion :P2021:plot_yes:DW2023_01_doctor:
 SCHEDULED: <2023-01-17 Tue 08:51>
 :PROPERTIES:
 :rating:   7.9
@@ -1457,11 +1463,13 @@ To escape his Earth exile, the Doctor is prepared to make any bargain, come 
 
 *** with Sarah :Sarah:
 **** 3DA :3DA:
-***** HALF [#A] 7.2 The Gulf :P2021:D2022_05_doctor:
+***** HALF [#A] 7.2 The Gulf :P2021:plot_yes:D2022_05_doctor:
 SCHEDULED: <2022-05-28 Sat>
 :PROPERTIES:
 :rating:   8.7
 :END:
+
+https://tardis.wiki/wiki/The_Gulf_(audio_story)#Plot
 
 ***** HALF [#B] 8.2 The Devil's Hoofprints :P2021:Brigadier:plot_yes:DW2023_09_doctor:
 SCHEDULED: <2023-09-21 Thu>
@@ -1528,7 +1536,10 @@ SCHEDULED: <2022-07-16 Sat>
 ***** 3QTR [#B] ST12.2 AWOL :Brigadier:DW2024_Q2a_doctor:
 CLOSED: <2024-03-15 Fri 08:16> SCHEDULED: <2024-03-09 Sat>
 
-***** ST14.5 The Tip of the Mind :Zoe:P2026_02:
+***** ST14.5 The Tip of the Mind :Zoe:P2026_02:plot_yes:
+
+adapted from short story /The Tip of the Mind/  https://tardis.wiki/wiki/The_Tip_of_the_Mind_(short_story)
+
 *** BBC :BBC:📄:
 **** [#C] Horrors of War :Jo:Annie:WW1:P2018:1CD:
 **** new short stories
@@ -1852,11 +1863,20 @@ SCHEDULED: <2026-09-26 Sat>
 **** 📂4DA series 12 :4DA:Margaret:P2023:
 ***** [#D] 12.1 Ice Heist :Ice_Warriors:P2023_03:2CD:
 ***** CANCEL [#F] 12.2 Antillia the Lost :P2023_03:2CD:
-***** DONE [#C] 12.3 The Wizard of Time :P2023_06:1CD:dw2025_q2b_doctor:
+***** DONE [#C] 12.3 The Wizard of Time :P2023_06:1CD:dw2025_q2b_doctor:bilibili:
 CLOSED: <2025-06-15 Sun 15:21> SCHEDULED: <2025-06-14 Sat>
 :PROPERTIES:
 :rating:   7.5
 :END:
+
+【【神秘博士广播剧熟肉】四任博士冒险1203 The Wizard of Time 时间巫师-哔哩哔哩】 https://b23.tv/BV1e1t96JEaR
+
+是时候讲个故事了……
+Jacob Harmer是位伟大的作家，他创作的儿童奇幻小说风靡一时
+
+然而，这些故事中究竟有多少是幻想，又有多少是真相？
+
+如今，他终于准备好讲述真正发生的故事……
 
 ***** [#D] 12.4 The Friendly Invasion :P2023_06:1CD:
 ***** [#D] 12.5 Stone Cold :Weeping_Angels:P2023_06:2CD:
@@ -1989,8 +2009,16 @@ SCHEDULED: <2026-01-15 Thu>
 
 Goole的美术馆中到底有何秘密？Tissot夫人真要走向崩溃，要对玛丽·安托瓦内特的头做什么
 
-***** 2DONE [#A] 5.6 The Trouble with Drax (8.7) :Drax:D2021_06:
+***** 2DONE [#A] 5.6 The Trouble with Drax (8.7) :Drax:D2021_06:bilibili:
 CLOSED: <2021-07-01 Thu 16:39>
+
+【【神秘博士广播剧熟肉】4DA 506 The Trouble With Drax - Drax的麻烦-哔哩哔哩】 https://b23.tv/BV1ZitJ64Ehk
+
+Altrazar——时间中的亚特兰蒂斯，一座时间中的失落之城。因很多谜团闻名于世，一直以来是作为权势滔天和富贵者藏匿他们那危险秘密的场所。
+直到现在。
+由于某些欺诈，至少没那么诚实，精美而善于做生意的时间领主Drax找到了一份通往这个地方的地图。在某为被骗到的商人的邀请下，他开始使用这份地图。
+当TARDIS脱离时空漩涡，它的船员不是特别高兴地见到了博士的老朋友，当他强行将飞船上的众人拉入突袭一座历史中最坚固的安全屋时，更加不满。然而随着Romana和K9被掳为人质，博士别无选择，只有答应。随着Drax，他前往了那颗星球。
+这里是麻烦的开始
 
 ***** [#D] 5.7 - The Pursuit of History (7.2)
 ***** [#D] 5.8 - Casualties of Time (7.1)
@@ -2060,7 +2088,7 @@ https://b23.tv/BV1ZZc3edExG
 :rating:   7.9
 :END:
 
-***** CC5.4 The Invasion of E-space :Romana_2:Adric:bilibili:
+***** READY CC5.4 The Invasion of E-space :Romana_2:Adric:bilibili:
 
 【Companion Chronicles 504:  The Invasion of E-Space-哔哩哔哩】 https://b23.tv/BV1KqXCBaEWm
 
@@ -2158,6 +2186,8 @@ CLOSED: [2022-09-03 Sat 17:41] SCHEDULED: <2022-09-04 Sun>
 ***** 15.3 Green and Pleasant Planet :P2026_06:
 ***** 15.4 The Continuum :P2026_06:
 ***** 15.5 The Audience :P2026_06:
+***** 15.6 Daughter of Destruction :P2026_09:
+***** 15.7 A New Occupaton :Harry:P2026_09:
 *** BF misc :BigFinish:
 **** DONE [#C] Night of the Vashta Nerada (7.8) (CDNM #2.1) :P2017:Vashta_Nerada:scripted:no_companion:bilibili:1CD:
 CLOSED: [2020-07-29 Wed 23:03]
@@ -2285,6 +2315,9 @@ CLOSED: [2020-07-19 Sun 23:00]
 :END:
 
 *** [#A] Scratchman (4.06) :Sarah:
+
+有声书字幕：https://b23.tv/BV1WY4Q6dEBz
+
 **** Scratchman (audiobook) 网易云音乐 :audiobook:
 
 分享了#Doctor Who Audiobooks#的节目《2019-01 - Scratchman (BBC Physical Audio - Baker)》:  http://music.163.com/program/2065027170/89011524/?userid=88763995  (来自@网易云音乐)

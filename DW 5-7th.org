@@ -16,7 +16,9 @@ CLOSED: [2022-11-19 Sat 18:32] SCHEDULED: <2022-11-02 Wed>
 
 **** CANCEL [#F] Time-Flight (6.0) :Master_tremas:
 *** Season 20 :Tegan:
-**** [#D] Arc of Infinity (7.1) :Nyssa:
+**** DONE [#D] Arc of Infinity (7.1) :Nyssa:
+CLOSED: [2026-08-02 Sun 11:49]
+
 **** LATER [#D] Snakedance (7.2) :Nyssa:The_Mara:S2024_Q4:
 **** [#C] Mawdryn Undead (7.8) :Nyssa:
 **** CANCEL [#E] Terminus (6.4) :Nyssa:
@@ -152,6 +154,9 @@ CLOSED: [2026-05-08 Fri 22:39] SCHEDULED: <2026-05-09 Sat>
 15 min
 
 **** [#D] ST9.10 The Second Oldest Question :Nyssa:
+**** TBR 📂2026B. Shock and Awe :P2026_09:
+***** Lair of the Voltaxa
+***** March of the Colossus
 *** with Nyssa & Tegan
 **** MR with Nyssa & Tegan :Nyssa:Tegan:scripted:2CD:
 ***** 2DONE [#B] 136. Cobwebs :D2021_08_dr:
@@ -624,7 +629,14 @@ CLOSED: [2022-01-14 Fri 15:10]
 *** short trips
 **** [#D] DotD #5 Smoke and Mirrors :Adric:Nyssa:Tegan:1CD:plot_yes:
 **** [#C] ST6.1 Gardens of the Dead :Turlough:Tegan:Nyssa:
-**** [#B] ST7.11. The Ingenious Gentleman Adric of Alzarius :Adric:Nyssa:Tegan:1CD:
+**** READY [#B] ST7.11. The Ingenious Gentleman Adric of Alzarius :Adric:Nyssa:Tegan:1CD:bilibili:
+
+【【熟肉】短途陆行7.11: The Ingenious Gentleman Adric of Alzarious 唐吉阿德-哔哩哔哩】 https://b23.tv/BV1c8b263EUw
+
+拉库拉的Keeyoht爵士和他忠实的扈从Adric正在执行一项任务。一项伟大而崇高的任务，旨在阻止那个最卑鄙的巫师——博士——夺取这片土地上最伟大的宝藏。一路上，他们将与巨人（或者可能是风车）战斗，激励冒险者们，营救一位公主，并最终直面所有怪物中最可怕的那一个——巨龙。
+
+只不过Adric知道，世界上根本没有龙这种东西……
+
 **** [#B] I, Kamelion :Turlough:Kamelion:P2022:
 
 Interludes #1
@@ -699,8 +711,6 @@ CLOSED: <2021-12-02 Thu 21:20>
 **** DONE [#D] The Ultimate Foe (7.2) :Master_tremas:
 CLOSED: [2021-12-12 Sun 17:32]
 
-*** Season 24
-**** Time and the Rani :The_Rani:
 *** DONE short: A Fix with Sontarans
 CLOSED: [2024-01-07 Sun 20:27]
 
@@ -1035,12 +1045,16 @@ SCHEDULED: <2023-11-01 Wed>
 ***** 1. The Reckoning
 ***** 2. A Crucible of Queens
 ***** 3. The Curse of the Duergar
+**** 📂2026B. Reunion :Peri:Toulough:P2026_08:
+***** 1. Save the Date
+***** 2. Poison's Reach
+***** 3. Broken House
 *** with Mel
 **** MR with Mel :Mel:scripted:2CD:
 ***** 3QTR [#A] 27. The One Doctor (9.0) :Mel:plot_no:D2022_04_doctor:
 CLOSED: [2022-04-22 Fri 08:22] SCHEDULED: <2022-04-30 Sat>
 
-***** [#A] 48. Davros [A⁺] :Mel:Davros:plot_yes:已购:bilibili:
+***** READY [#A] 48. Davros [A⁺] :Mel:Davros:plot_yes:已购:bilibili:
 :PROPERTIES:
 :rating:   9.0
 :END:
@@ -1771,7 +1785,15 @@ SCHEDULED: <2021-12-04 Sat>
 
 【【神秘博士广播剧汉化】The Two Masters 两个法师-哔哩哔哩】https://b23.tv/BV1aA411P7U4
 
-**** [#D] 261. The Psychic Circus :Master_inventor:
+**** READY [#D] 261. The Psychic Circus :Master_inventor:bilibili:
+
+【【7th广播剧熟肉】MR261 The Psychic Circus 超感马戏团-哔哩哔哩】 https://b23.tv/BV1p23m6iE4F
+
+“全家乐不够，银河大咖秀！”
+当一个垃圾邮件机器人闯入塔迪斯，博士被引向了一条令人不安的熟悉道路。
+与此同时，太空街头艺人Kingpin和Juniper Berry只想搭便车卖艺——直到一个更宏大的使命召唤了他们。
+博士的过去与Kingpin的未来被一股邪恶的力量纠缠在了一起。超感马戏团才刚刚开幕：它或许还缺小丑，但它已经有了一位“主人”……
+
 **** [#C] 262. Subterfuge :Churchill:Monk:
 :PROPERTIES:
 :rating:   7.8
@@ -1918,8 +1940,18 @@ SCHEDULED: <2026-01-17 Sat>
 
 ***** [#D] 23A.2 Naomi's Ark
 **** 📂2025A. Past Forward :P2025_06:Harry:Naomi:Ray:
-***** 1. With the Angels :Weeping_Angels:
-***** 2. Catastrophix
+***** [#B] 1. With the Angels :Weeping_Angels:2CD:
+:PROPERTIES:
+:thetimescales: 8.7
+:tardis.guide: 4.22
+:END:
+
+***** [#D] 2. Catastrophix
+:PROPERTIES:
+:thetimescales: 7.1
+:tardis.guide: 3.36
+:END:
+
 *** misc
 **** V. Return of the Daleks :Susan_Mendes:Kalendorf:P2006:
 **** HALF [#D] CC7.3 Project: Nirvana :Sally:Lysandra:P2012:plot_cast:DW2023_03_doctor:
