@@ -1,5 +1,5 @@
 #+TITLE: Batman, Superman
-#+TODO: TODO BLOCK READY NOW NEXT NEXT2 DOING LATER | 2DONE DONE CANCEL
+#+TODO: TODO BLOCK READY NOW NEXT DOING LATER | 2DONE DONE 3QTR CANCEL
 
 * Batman :🦇:
 ** comics :📚:
@@ -163,7 +163,7 @@ Legends of The Dark Knight: Norm Breyfogle
 
 *** 1993-1999
 **** DONE [#A] The Long Halloween :Falcone_Crime_Family:P1997:hanzify:
-**** 2DONE [#B] Cataclysm :P1998:无汉化:
+**** DONE [#B] Cataclysm :P1998:无汉化:
 **** [#A] No Man's Land :P1999:
 
 大灾变，无主之地
@@ -171,7 +171,7 @@ Legends of The Dark Knight: Norm Breyfogle
 这场大规模的联动事件涉及到了蝙蝠家族的每个成员。一场大地震摧毁了哥谭市，让它成为了一个无法无天的废土。
 蝙蝠侠和GCPD则努力将秩序带回哥谭。这些故事还介绍了卡珊德拉·该隐，第二任蝙蝠女郎。
 
-**** 2DONE [#B] Dark Victory :P2000:Falcone_Crime_Family:
+**** DONE [#B] Dark Victory :P2000:Falcone_Crime_Family:
 CLOSED: [2021-07-09 Fri 17:25]
 
  《漫长的万圣节》的续集，延续了许多故事情节。这个故事同时也详细介绍了初代罗宾迪克·格雷森。
@@ -181,9 +181,9 @@ CLOSED: [2021-07-09 Fri 17:25]
 
 一个探索蝙蝠侠内心思想和怀疑的短篇小说
 
-**** 2DONE [#C] Bruce Wayne - Murder／Fugitive (crossover) :P2002:
+**** DONE [#C] Bruce Wayne - Murder／Fugitive (crossover) :P2002:
 ***** DONE Bruce Wayne - Murder
-***** 2DONE Bruce Wayne - Fugitive
+***** DONE Bruce Wayne - Fugitive
 **** DONE Batman: Blink (LotDK #156-157) :P2002:
 
  一个侦探故事，蝙蝠侠必须与一个盲人结盟以阻止一场谋杀案，他可以通过别人的眼睛看到事物。
@@ -223,7 +223,7 @@ CLOSED: [2021-07-09 Fri 17:25]
 | #672-675   | The Black Glove        |
 
 **** DONE The Resurrection of Ra's Al Ghul :P2007:
-**** 2DONE [#B] Batman R.I.P. (story arc) :P2008:
+**** DONE [#B] Batman R.I.P. (story arc) :P2008:
 ***** DONE 1. Batman R.I.P.
 
 （莫里森史诗第3部分）黑手套协会决定玩弄蝙蝠侠的生命，直到他们决定结束它为止。
@@ -254,7 +254,7 @@ CLOSED: <2022-02-09 Wed 22:48>
 **** DONE [#B] Battle for the Cowl (2009.05-07) 披风争夺战 :P2009:
 CLOSED: [2022-02-13 Sun 19:37]
 
-**** 2DONE Batman Reborn (2009.08-12) :P2009:
+**** DONE Batman Reborn (2009.08-12) :P2009:
 SCHEDULED: <2022-08-13 Sat>
 
 ***** DONE Batgirl: Batgirl Rising (v3 #1-3)
@@ -474,12 +474,12 @@ SCHEDULED: <2022-09-30 Fri>
 ***** Joker's Asylum II (2010)
 *** 2011-2016 (new52)
 **** Batman v2 (52 issues) :Snyder:
-***** 2DONE [#B] Court of the Owls saga (#1-11)
+***** DONE [#B] Court of the Owls saga (#1-11)
 CLOSED: <2021-04-17 Sat 17:26>
 
 布鲁斯韦恩发现了一个关于哥谭市历史的黑暗秘密，甚至可能关系到他自己的家人。
 
-***** 2DONE [#B] Night of Owls
+***** DONE [#B] Night of Owls
 
 (tie-ins to Court of Owls)
 
@@ -495,8 +495,8 @@ CLOSED: <2021-04-17 Sat 17:26>
 - Nightwing #8-9
 - All-Star Western #9
 
-***** 2DONE [#B] Death of the Family (#13-17)
-***** 2DONE [#B] Year Zero (#21-33) :Snyder:
+***** DONE [#B] Death of the Family (#13-17)
+***** DONE [#B] Year Zero (#21-33) :Snyder:
 CLOSED: <2021-06-20 Sun 17:26>
 
 ****** Zero Year: Secret City (#21-24)
@@ -517,16 +517,16 @@ CLOSED: <2021-06-20 Sun 17:26>
 - Red Hood and The Outlaws #25
 - Action Comics #25
 
-***** 2DONE Endgame (#35-40)
-***** 2DONE Superheavy / Bloom (#41-50)
+***** DONE Endgame (#35-40)
+***** DONE Superheavy / Bloom (#41-50)
 **** DC v2
-***** 2DONE Gothtopia (#25-29)
+***** DONE Gothtopia (#25-29)
 CLOSED: <2021-06-05 Sat 17:34>
 
-***** 2DONE Icarus (#30-34, annual #3)
+***** DONE Icarus (#30-34, annual #3)
 CLOSED: <2021-06-12 Sat 17:34>
 
-***** 2DONE Anarky (#35-40)
+***** DONE Anarky (#35-40)
 CLOSED: <2021-06-20 Sun 17:34>
 
 **** DONE [#B] 蝙蝠侠群英会V2 ＃0-13
@@ -572,7 +572,7 @@ CLOSED: [2022-09-14 Wed 22:39]
 ****** [#B] Wanted (#19-26)
 ****** [#C] Deadline (#27-34)
 ***** TODO Nightwing v3
-***** 2DONE 格雷森 ＃1-20
+***** DONE 格雷森 ＃1-20
 CLOSED: <2021-05-23 Sun 17:27>
 
 在他的身份被揭露并被世人认定为死亡之后，迪克·格雷森决定成为一名间谍，潜入秘密犯罪组织诛网。
@@ -585,7 +585,7 @@ CLOSED: <2021-05-23 Sun 17:27>
 
 赛琳娜已成为狮王犯罪家族的负责人，但她能否保持和平，还是会在哥谭引发战争？
 
-**** 2DONE Robin War (crossover)
+**** DONE Robin War (crossover)
 CLOSED: <2021-05-13 Thu 17:35>
 
 *** 2016- (rebirth)
@@ -1005,7 +1005,7 @@ Joker's Asylum: Penguin #1
 
  这是布鲁斯与蝙蝠侠最早的反派之一：雨果·斯特兰奇教授的初次交手的现代版重写。也引入了朱莉·麦迪逊，布鲁斯·韦恩的第一任恋人
 
-**** 2DONE [#C] Batman and the Mad Monk :P2006:Hugo_Strange:
+**** DONE [#C] Batman and the Mad Monk :P2006:Hugo_Strange:
 
 《蝙蝠侠与 怪物军团》的续集，以1939年的故事《蝙蝠侠与吸血鬼》为基础，发生在侦探漫画＃31-32中。这个故
 事还进一步深入发展了布鲁斯韦恩和猫女之间的关系。

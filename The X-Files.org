@@ -388,21 +388,21 @@ CLOSED: <2020-12-14 Mon 12:54>
 ***** DONE 18 Monica & John :Doggett:
 CLOSED: <2020-12-14 Mon 22:38>
 
-***** 2DONE 19-20 G-23
+***** DONE 19-20 G-23
 CLOSED: [2020-10-23 Fri 13:05]
 
-***** 2DONE 21-25 Elders :Mytharc:
+***** DONE 21-25 Elders :Mytharc:
 CLOSED: [2020-10-23 Fri 13:05]
 
 **** Season 11 (2015-2016)
 ***** DONE 01 Cantus
-***** 2DONE 02-04 Home Again
+***** DONE 02-04 Home Again
 CLOSED: [2020-10-23 Fri 13:05]
 
-***** 2DONE 05 My Name is Gibson :Gibson:
+***** DONE 05 My Name is Gibson :Gibson:
 CLOSED: [2020-10-23 Fri 13:05]
 
-***** 2DONE 06-08 Endgames
+***** DONE 06-08 Endgames
 CLOSED: [2020-10-23 Fri 13:05]
 
 **** on-going (2016-2017)

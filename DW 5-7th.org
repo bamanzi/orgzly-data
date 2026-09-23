@@ -1,4 +1,4 @@
-#+TODO: TODO NEXT BLOCK TBR READY START HALF 3QTR LATER | 2DONE DONE CANCEL
+#+TODO: TODO NEXT BLOCK TBR READY START HALF LATER | DONE 3QTR CANCEL
 #+PRIORITIES: A F C
 
 * 5th Doctor :5th_Dr:
@@ -47,7 +47,7 @@ https://tardis.fandom.com/wiki/Fifth_Doctor_audio_stories
 :END:
 
 ***** CANCEL [#E] 010. Winter for the Adept
-***** 2DONE 015. The Mutant Phase :Daleks:Thal:
+***** DONE 015. The Mutant Phase :Daleks:Thal:
 CLOSED: [2021-10-23 Sat 20:14]
 
 ***** [#D] 026. Primeval
@@ -104,7 +104,7 @@ CLOSED: [2021-03-22 Mon 23:20]
 :END:
 
 ***** [#C] 127. Castle of Fear :Nyssa:
-***** 2DONE [#B] 128. The Eternal Summer :plot_yes:Nyssa:❤:
+***** DONE [#B] 128. The Eternal Summer :plot_yes:Nyssa:❤:
 CLOSED: [2021-06-17 Thu 23:01]
 :PROPERTIES:
 :rating:   8.4
@@ -127,7 +127,7 @@ CLOSED: [2021-06-17 Thu 23:01]
 ****** [#E] The Interplanetarian
 ****** [#D] Smuggling Tales
 ****** [#D] My Brother's Keeper
-***** 2DONE [#B] 178. 1963: Fanfare for the Common Men (8.2) :plot_yes:D2021_07_dr:
+***** DONE [#B] 178. 1963: Fanfare for the Common Men (8.2) :plot_yes:D2021_07_dr:
 CLOSED: [2021-07-01 Thu 22:54]
 
 ***** CANCEL [#E] 185. Moonflesh (6.1)
@@ -159,7 +159,7 @@ CLOSED: [2026-05-08 Fri 22:39] SCHEDULED: <2026-05-09 Sat>
 ***** March of the Colossus
 *** with Nyssa & Tegan
 **** MR with Nyssa & Tegan :Nyssa:Tegan:scripted:2CD:
-***** 2DONE [#B] 136. Cobwebs :D2021_08_dr:
+***** DONE [#B] 136. Cobwebs :D2021_08_dr:
 CLOSED: <2021-08-01 Sun 00:10>
 :PROPERTIES:
 :rating:   8.0
@@ -249,7 +249,7 @@ CLOSED: [2021-02-27 Sat 18:02]
 ***** [#D] 256. Tartarus :Marc:
 ***** CANCEL [#F] 257a. Interstitial :Marc:short:
 ***** CANCEL [#F] 257b. Feast of Fear :Marc:
-***** 2DONE [#B] 258a. Warzone :Marc:Cybermen:D2022_05_doctor:
+***** DONE [#B] 258a. Warzone :Marc:Cybermen:D2022_05_doctor:
 CLOSED: [2022-05-20 Fri 08:12] SCHEDULED: <2022-05-07 Sat>
 :PROPERTIES:
 :rating:   8.1
@@ -578,7 +578,7 @@ SCHEDULED: <2025-04-26 Sat>
 ***** [#D] 270d. Effect and Cause
 *** misc
 **** MR misc :scripted:2CD:
-***** 2DONE [#D] 087. The Gathering :Cybermen:Tegan:plot_no:D2022_03_doctor:
+***** DONE [#D] 087. The Gathering :Cybermen:Tegan:plot_no:D2022_03_doctor:
 CLOSED: [2022-03-27 Sun 12:08] SCHEDULED: <2022-03-30 Wed>
 :PROPERTIES:
 :rating:   7.0
@@ -743,7 +743,7 @@ http://drwhoguide.com/who_bf09.htm
 :rating:   7.4
 :END:
 
-***** 2DONE [#C] 23. Project Twilight :The_Forge:D2021_07_dr:plot_yes:
+***** DONE [#C] 23. Project Twilight :The_Forge:D2021_07_dr:plot_yes:
 CLOSED: [2021-07-15 Thu 14:15]
 :PROPERTIES:
 :rating:   7.8
@@ -756,7 +756,7 @@ CLOSED: [2021-03-30 Tue 17:52]
 
 or The Lass that Lost a Sailor 
 
-***** 2DONE [#C] 45. Project: Lazarus :7th_Dr:D2021_08_dr:2buy:
+***** DONE [#C] 45. Project: Lazarus :7th_Dr:D2021_08_dr:2buy:
 CLOSED: [2021-07-23 Fri 12:43]
 :PROPERTIES:
 :rating:   7.7
@@ -892,13 +892,13 @@ CLOSED: <2021-09-17 Fri 21:27> SCHEDULED: <2021-09-04 Sat>
 
   与剧集23x02 Mindwrap联系紧密
 
-***** 2DONE [#B] 193. Masters of Earth :Peri_older:plot_no:Daleks:D2021_10_daleks:
+***** DONE [#B] 193. Masters of Earth :Peri_older:plot_no:Daleks:D2021_10_daleks:
 CLOSED: [2021-10-18 Mon 20:15]
 :PROPERTIES:
 :rating:   8.4
 :END:
 
-***** TODO [#C] 194. The Rani Elite :Peri_older:The_Rani:dw2026_q3b_doctor:
+***** HALF [#C] 194. The Rani Elite :Peri_older:The_Rani:dw2026_q3b_doctor:
 SCHEDULED: <2026-09-12 Sat>
 :PROPERTIES:
 :rating:   7.8
@@ -917,7 +917,7 @@ SCHEDULED: <2026-09-12 Sat>
 
 Volume One
 
-***** 2DONE [#C] 1.1 - The Headless Ones :dw2025_q2b_doctor:
+***** DONE [#C] 1.1 - The Headless Ones :dw2025_q2b_doctor:
 CLOSED: [2025-06-07 Sat 16:02] SCHEDULED: <2025-05-24 Sat>
 :PROPERTIES:
 :rating:   7.5
@@ -1172,7 +1172,7 @@ CLOSED: <2021-04-18 Sun 08:14>
 
 **** [#D] SvsR#3 - Born to Die :Sontarans:P2024_03:
 *** MR with Flip & Constance :scripted:2CD:
-**** 2DONE [#C] 156. The Curse of Davros :Flip:plot_no:2buy:
+**** DONE [#C] 156. The Curse of Davros :Flip:plot_no:2buy:
 CLOSED: <2021-12-23 Thu 08:53>
 :PROPERTIES:
 :rating:   7.9
@@ -1218,7 +1218,7 @@ CLOSED: <2021-05-29 Sat 23:21>
 :rating:   7.5
 :END:
 
-**** 2DONE [#A] 94b. Urgent Calls (8.8) :plot_yes:Viyrans:short:
+**** DONE [#A] 94b. Urgent Calls (8.8) :plot_yes:Viyrans:short:
 CLOSED: [2021-03-22 Mon 20:39]
 
 **** HALF [#D] 133. City of Spires :Jamie:DW2022_12_doctor:
@@ -1279,7 +1279,7 @@ CLOSED: [2022-06-29 Wed 16:22] SCHEDULED: <2022-06-19 Sun>
 https://b23.tv/BV1G14y1a7pA
 
 **** 📂The Sixth Doctor: The Last Adventure :Valeyard:P2015:1CD:scripted:plot_yes:
-***** 2DONE [#B] The End of the Line :Constance:Master:D2021_12_master:bilibili:
+***** DONE [#B] The End of the Line :Constance:Master:D2021_12_master:bilibili:
 CLOSED: [2021-12-03 Fri 23:22] SCHEDULED: <2021-12-05 Sun>
 
  【【广播剧翻译】六任：最后的冒险 01 The end of the line-哔哩哔哩】 https://b23.tv/r4FWpnN
@@ -1346,10 +1346,10 @@ This anthology marked the 40th anniversary of Baker's debut as the Doctor.
 
 *** BF misc
 **** Jago and Litefoot: Series 4
-***** 2DONE Jago in Love
-***** 2DONE Beautiful Things
-***** 2DONE The Lonely Clock
-***** 2DONE The Hourglass Killers
+***** DONE Jago in Love
+***** DONE Beautiful Things
+***** DONE The Lonely Clock
+***** DONE The Hourglass Killers
 **** Classic Doctors, New Monsters
 ***** DONE [#B] 1.2 Judoon in Chains :Judoon:scripted:plot_cast:DW2024_Q2b_doctor:
 CLOSED: [2024-05-21 Tue 16:37] SCHEDULED: <2024-05-11 Sat>
@@ -1768,13 +1768,13 @@ SCHEDULED: <2021-11-07 Sun>
 **** 3QTR [#A] 49. Master [A⁺] :P2003:Master:Death:plot_yes:D2021_09_extra:
 CLOSED: <2021-09-23 Thu 21:27> SCHEDULED: <2021-09-04 Sat>
 
-**** 2DONE [#B] 149. Robophobia (8.4) :2buy:P2011:Liv:Kaldor_androids:plot_no:D2022_03_doctor:
+**** DONE [#B] 149. Robophobia (8.4) :2buy:P2011:Liv:Kaldor_androids:plot_no:D2022_03_doctor:
 CLOSED: <2022-03-31 Thu 21:41> SCHEDULED: <2022-03-12 Sat>
 :PROPERTIES:
 :rating:   8.4
 :END:
 
-**** 2DONE [#C] 152. House of Blue Fire :plot_no:D2021_07_dr:Sally:Great_Old_Ones:
+**** DONE [#C] 152. House of Blue Fire :plot_no:D2021_07_dr:Sally:Great_Old_Ones:
 CLOSED: <2021-07-09 Fri 14:15>
 :PROPERTIES:
 :rating:   7.7

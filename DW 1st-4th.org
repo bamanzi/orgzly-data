@@ -1,4 +1,4 @@
-#+TODO: TODO NEXT READY BLOCK TBR START HALF 3QTR | 2DONE DONE CANCEL
+#+TODO: TODO NEXT READY BLOCK TBR START HALF | DONE 3QTR CANCEL
 #+PRIORITIES: A F C
 
 * 1st Doctor :1st_Dr:
@@ -132,13 +132,13 @@ SCHEDULED: <2024-03-09 Sat>
 带有#的句子翻译存在问题
 
 ***** [#C] 1.2 The Great White Hurricane (7.5) :plot_yes:
-***** 2DONE [#A] 2.1 The Invention of Death :D2021_07_dr:P2018:plot_yes:
+***** DONE [#A] 2.1 The Invention of Death :D2021_07_dr:P2018:plot_yes:
 CLOSED: [2021-07-27 Tue 23:10]
 :PROPERTIES:
 :rating:   9.2
 :END:
 
-***** 2DONE [#A] 2.2 The Barbarians and the Samurai :P2018:plot_yes:dw2025_q2a_doctor:
+***** DONE [#A] 2.2 The Barbarians and the Samurai :P2018:plot_yes:dw2025_q2a_doctor:
 CLOSED: [2025-04-11 Fri 08:15] SCHEDULED: <2025-04-12 Sat>
 :PROPERTIES:
 :rating:   8.6
@@ -235,7 +235,7 @@ CLOSED: [2023-09-13 Wed 09:05] SCHEDULED: <2023-09-16 Sat>
 :END:
 
 **** CC
-***** 2DONE [#B] CC6.2 The Rocket Man :D2021_06:
+***** DONE [#B] CC6.2 The Rocket Man :D2021_06:
 CLOSED: [2021-06-26 Sat 09:13]
 :PROPERTIES:
 :rating:   8.3
@@ -953,7 +953,7 @@ SCHEDULED: <2024-12-21 Sat>
 ***** 3. The Hungry Glass :Jamie:Raven:Daleks:
 *** BF misc :🗣:
 **** #The_Company :Zoe:
-***** 2DONE [#D] CC5.02 - Echoes of Grey :Zoe:D2021_07_dr:
+***** DONE [#D] CC5.02 - Echoes of Grey :Zoe:D2021_07_dr:
 CLOSED: [2021-07-06 Tue 17:33]
 :PROPERTIES:
 :rating:   7.2
@@ -1224,7 +1224,7 @@ SCHEDULED: <2023-05-28 Sun>
 :rating:   7.6
 :END:
 
-***** 2DONE [#B] 2.1 The Transcendence of Ephros :Jo:P2016:D2021_07_dr:plot_yes:
+***** DONE [#B] 2.1 The Transcendence of Ephros :Jo:P2016:D2021_07_dr:plot_yes:
 CLOSED: [2021-07-27 Tue 23:10]
 :PROPERTIES:
 :rating:   7.9
@@ -1236,7 +1236,7 @@ SCHEDULED: <2022-09-21 Wed>
 :rating:   7.3
 :END:
 
-***** 2DONE [#C] 3.1 The Conquest of Far :Jo:Daleks:P2017:plot_yes:DW2024_Q3a_doctor:
+***** DONE [#C] 3.1 The Conquest of Far :Jo:Daleks:P2017:plot_yes:DW2024_Q3a_doctor:
 CLOSED: [2024-06-21 Fri 19:24] SCHEDULED: <2024-06-22 Sat>
 :PROPERTIES:
 :rating:   7.5
@@ -1244,7 +1244,7 @@ CLOSED: [2024-06-21 Fri 19:24] SCHEDULED: <2024-06-22 Sat>
 
 https://tardis.wiki/wiki/The_Conquest_of_Far_(audio_story)#Plot
 
-***** 2DONE [#C] 3.2 Storm of the Horofax :Jo:P2017:plot_yes:dw2026_q3a_doctor:
+***** DONE [#C] 3.2 Storm of the Horofax :Jo:P2017:plot_yes:dw2026_q3a_doctor:
 CLOSED: [2026-08-19 Wed 08:05] SCHEDULED: <2026-08-29 Sat>
 :PROPERTIES:
 :rating:   7.6
@@ -1252,7 +1252,7 @@ CLOSED: [2026-08-19 Wed 08:05] SCHEDULED: <2026-08-29 Sat>
 
 https://tardis.wiki/wiki/Storm_of_the_Horofax_(audio_story)#Plot
 
-***** 2DONE [#B] 4.1 - The Rise of the New Humans (8.0) :Jo:Monk:P2018:D2021_05:plot_yes:
+***** DONE [#B] 4.1 - The Rise of the New Humans (8.0) :Jo:Monk:P2018:D2021_05:plot_yes:
 CLOSED: <2021-05-27 Thu 23:20>
 
 https://tardis.wiki/wiki/The_Rise_of_the_New_Humans_(audio_story)#Plot
@@ -1428,7 +1428,7 @@ Her investigation ultimately uncovers a threat that could lead to the end of the
 
 Her mother.
 
-***** 2DONE [#C] CC4.9 Shadow of the Past (7.8) :UNIT:has_plot:
+***** DONE [#C] CC4.9 Shadow of the Past (7.8) :UNIT:has_plot:
 CLOSED: [2020-08-07 Fri 18:26] SCHEDULED: <2022-07-09 Sat>
 
 There's a secret locked up in UNIT's Vault 75-73/Whitehall. Dr Elizabeth Shaw is the only one left who knows what that secret is. Returning to UNIT for the first time in decades, she slowly unravels the past. The vault contains the remains of a spaceship that crashed in the Pennines in the seventies. For the young Liz Shaw, the priority is to ensure the thing's safe. However, the Doctor is more concerned about the alien pilot and the chance this ship offers for escape. Can he resist the temptation, or will the Third Doctor turn on his friends?
@@ -1438,7 +1438,7 @@ SCHEDULED: <2022-07-09 Sat>
 
 【广播剧 - The Blue Tooth 蓝色牙齿 (剧情解说)-哔哩哔哩】 https://b23.tv/SDbN8U7
 
-***** 2DONE [#D] CC6.9 Binary (7.3)
+***** DONE [#D] CC6.9 Binary (7.3)
 CLOSED: [2020-08-07 Fri 18:26]
 
 A damaged alien computer is being guarded by UNIT troops, but the soldiers simply vanish...
@@ -1779,7 +1779,7 @@ CLOSED: <2020-08-17 Mon 10:54>
 
 【【神秘博士广播剧熟肉】The Fourth Doctor's Adventure Trail of the White Worm-白虫的踪迹-哔哩哔哩】 https://b23.tv/HybCyP7
 
-***** 2DONE [#D] 1.6 - The Oseidon Adventure :Master_decayed:bilibili:
+***** DONE [#D] 1.6 - The Oseidon Adventure :Master_decayed:bilibili:
 CLOSED: [2020-08-18 Tue 13:03]
 :PROPERTIES:
 :rating:   7.2
@@ -1788,7 +1788,7 @@ CLOSED: [2020-08-18 Tue 13:03]
 【【神秘博士广播剧熟肉】The Fourth Doctor's Adventure 106 The Oseidon Adventure-Oseidon上的冒险-哔哩哔哩】 https://b23.tv/bNV0his
 
 **** 4DA series 3 :4DA:P2014:scripted:1CD:
-***** 2DONE [#C] 3.1 - The King of Sontar (7.7) :Sontarans:D2021_09_dr:
+***** DONE [#C] 3.1 - The King of Sontar (7.7) :Sontarans:D2021_09_dr:
 CLOSED: [2020-08-27 Thu 12:44] SCHEDULED: <2021-09-11 Sat>
 
 Dowcra base. The third Elite Sontaran Assassination Squad closes in on its target. A dozen trained killers, but even they will be unable to bring down the invincible Strang...
@@ -1799,16 +1799,16 @@ Manipulated by the Time Lords, the TARDIS also arrives on Dowcra. And the Do
 
 The Time Lords sent her and the Doctor to Dowcra. She saved Vilhol as she didn't think it was fair for an unarmed soldier to be killed with arms. She was told by Vilhol of the Sontaran plans and of Strang's betrayal. She went to find the Doctor but was informed by Irving that he went to see Strang. She went to the armoury to find bombs to destroy the portal and the hatching vats. She told Reaver that Strang would not need her when his army of clones was activated. She blew up the portal which then caused the whole site to collapse. Because the Doctor wasn't certain that he could make the Sontaran clones good, she destroyed all the vats. This caused a rift between the two of them. (AUDIO: The King of Sontar)
 
-***** 2DONE [#D] 3.2 - White Ghosts (7.4)
+***** DONE [#D] 3.2 - White Ghosts (7.4)
 CLOSED: [2020-08-27 Thu 12:44]
 
-***** 2DONE [#B] 3.3 The Crooked Man (8.2) :D2021_12_doctor:week1:
+***** DONE [#B] 3.3 The Crooked Man (8.2) :D2021_12_doctor:week1:
 CLOSED: [2020-08-27 Thu 12:44]
 
 ***** CANCEL [#E] +3.4 The Evil One+ (6.2)
 CLOSED: [2020-07-30 Thu 06:46]
 
-***** 2DONE [#C] 3.5 - Last of the Colophon (7.8)
+***** DONE [#C] 3.5 - Last of the Colophon (7.8)
 CLOSED: [2020-08-27 Thu 12:44]
 
 ***** HALF [#E] +3.6 - Destroy the Infinite (6.9)+ :Eminence:D2021_08_dr:
@@ -1820,10 +1820,10 @@ CLOSED: [2020-07-30 Thu 06:50]
 
 **** 4DA series 4 :4DA:P2015:1CD:
 ***** CANCEL [#E] 4.1 +The Exxilons+ (6.5)
-***** 2DONE [#C] 4.2 The Darkness of Glass :plot_yes:DW2023_08_doctor:
+***** DONE [#C] 4.2 The Darkness of Glass :plot_yes:DW2023_08_doctor:
 CLOSED: [2023-08-26 Sat 08:25] SCHEDULED: <2023-08-19 Sat>
 
-***** 2DONE [#B] 4.3 Requiem for the Rocket Men :Master_decayed:D2021_07_dr:
+***** DONE [#B] 4.3 Requiem for the Rocket Men :Master_decayed:D2021_07_dr:
 CLOSED: [2021-07-27 Tue 23:11]
 
 ***** START [#D] 4.4 Death Match :Master_decayed:
@@ -2009,7 +2009,7 @@ SCHEDULED: <2026-01-15 Thu>
 
 Goole的美术馆中到底有何秘密？Tissot夫人真要走向崩溃，要对玛丽·安托瓦内特的头做什么
 
-***** 2DONE [#A] 5.6 The Trouble with Drax (8.7) :Drax:D2021_06:bilibili:
+***** DONE [#A] 5.6 The Trouble with Drax (8.7) :Drax:D2021_06:bilibili:
 CLOSED: <2021-07-01 Thu 16:39>
 
 【【神秘博士广播剧熟肉】4DA 506 The Trouble With Drax - Drax的麻烦-哔哩哔哩】 https://b23.tv/BV1ZitJ64Ehk
@@ -2027,7 +2027,7 @@ Altrazar——时间中的亚特兰蒂斯，一座时间中的失落之城。因
 ***** [#D] 6.2 - The Eternal Battle (7.3) :Sontarans:plot_yes:
 ***** CANCEL [#E] 6.3 The Silent Scream :plot_yes:
 ***** CANCEL [#E] 6.4 Dethras :plot_yes:
-***** 2DONE [#C] 6.5 - The Haunting of Malkin Place :plot_cast:DW2023_12_doctor:
+***** DONE [#C] 6.5 - The Haunting of Malkin Place :plot_cast:DW2023_12_doctor:
 CLOSED: [2023-12-15 Fri 21:28] SCHEDULED: <2023-12-09 Sat>
 :PROPERTIES:
 :rating:   7.5
@@ -2158,7 +2158,7 @@ https://b23.tv/BV1BFWFejE22
 ***** [#D] 13.6 The Face in the Storm :P2024_09:1CD:
 ***** [#C] 13.7 Dominant Species :P2024_09:2CD:Dominators:
 *** with Sarah (& Harry) :Sarah:
-**** 2DONE [#B] LS6.1 - Return of the Cybermen :Cybermen:plot_half:DW2022_08_doctor:bilibili:
+**** DONE [#B] LS6.1 - Return of the Cybermen :Cybermen:plot_half:DW2022_08_doctor:bilibili:
 CLOSED: [2022-09-03 Sat 17:41] SCHEDULED: <2022-09-04 Sun>
 :PROPERTIES:
 :rating:   8.0
@@ -2856,7 +2856,7 @@ http://www.drwhoguide.com/chronicles07.htm
 :END:
 
 **** [#A] ST7.6 - How to Win Planets and Influence People [A⁺] :Monk:Sarah:Harry:
-**** 2DONE [#C] EA7.1 After the Daleks :P2021_08:Dalek_War_1st:Susan:D2021_10_daleks:
+**** DONE [#C] EA7.1 After the Daleks :P2021_08:Dalek_War_1st:Susan:D2021_10_daleks:
 CLOSED: [2021-11-01 Mon 22:54] SCHEDULED: <2021-11-01 Mon>
 :PROPERTIES:
 :rating:   7.6

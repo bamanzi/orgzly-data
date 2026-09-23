@@ -1,5 +1,5 @@
 #+PRIORITIES: A F D
-#+TODO: TODO NEXT READY BLOCK TBR START DOING HALF 3QTR FIXME PENDING LATER 2DONE | 2DONE DONE CANCEL
+#+TODO: TODO NEXT READY BLOCK TBR START DOING HALF FIXME PENDING LATER 2DONE | DONE 3QTR CANCEL
 
 * DW 2020 :S2020:
 *** MR 8D :8th_Dr:
@@ -48,7 +48,7 @@
      :rating:   9.4
      :END:
 
-**** 2DONE [#B] BF030 - Seasons of Fear (8.4).
+**** DONE [#B] BF030 - Seasons of Fear (8.4).
      CLOSED: [2020-11-26 Thu 08:26]
 
 *** Dark Eyes vol.1 :Molly:8th_Dr:
@@ -266,7 +266,7 @@
  - <last play position> (02:09:28)
  - music (02:09:47)
 
-**** 2DONE [#C] BF152 - House of Blue Fire :7th_Dr:Sally:
+**** DONE [#C] BF152 - House of Blue Fire :7th_Dr:Sally:
 
  - <second to last play position> (00:00:00)
  - <last play position> (00:24:10)
@@ -425,7 +425,7 @@
  - <second to last play position> (00:05:03)
  - <last play position> (00:57:10)
 
-**** 2DONE [#B] JACK3.2. Mighty and Despair :Jack:
+**** DONE [#B] JACK3.2. Mighty and Despair :Jack:
 
  - <last play position> (00:00:00)
  - <second to last play position> (00:00:00)
@@ -1075,7 +1075,7 @@
 | 052 | MR044 Creatures of Beauty | 5th | Nyssa |
 
 *** [#B] CC8.10 The War to End All Wars :Steven:Dodo:
-*** 2DONE [#C] 3DA4.2 - The Tyrants of Logic :3rd_Dr:Jo:Cybermen:
+*** DONE [#C] 3DA4.2 - The Tyrants of Logic :3rd_Dr:Jo:Cybermen:
 
 - <last play position> (00:00:00)
 - part2 (00:31:55)
@@ -1102,7 +1102,7 @@
 *** HALF [#A] BSNA4.2 Asking For a Friend :Benny:Unbound:
 *** HALF [#B] Gallifrey 2.3 Pandora :Romana_2:Leela:
 *** [#C] Gallifrey 2.4 Insugency :Romana_2:Leela:
-*** 2DONE [#C] Cybermen 1.3 Conversion :Cybermen:
+*** DONE [#C] Cybermen 1.3 Conversion :Cybermen:
 *** HALF [#D] Cybermen 1.4 Telos :Cybermen:
 *** HALF [#D] Jenny 1.1 Stolen Goods
 ** DW 2022-03-doctors
@@ -1124,7 +1124,7 @@
 - <last play position> (00:33:01)
 - part2 (00:33:08)
 
-*** 2DONE [#D] BF087 The Gathering :Cybermen:Tegan:5th_Dr:
+*** DONE [#D] BF087 The Gathering :Cybermen:Tegan:5th_Dr:
 
 - part1 (00:03:00)
 - part2 (00:54:45)
@@ -1132,7 +1132,7 @@
 - <second to last play position> (01:46:30)
 - end (01:51:00)
 
-*** 2DONE [#B] BF149. Robophobia :7th_Dr:Liv:
+*** DONE [#B] BF149. Robophobia :7th_Dr:Liv:
 
 - part2 (00:31:01)
 - <second to last play position> (00:39:10)
@@ -1177,7 +1177,7 @@
 | 056 | MR089 No Man's Land        | 7th | Ace, Hex               |
 | 057 | MR258 Warzone / Conversion | 5th | Tegan, Nyssa, Cybermen |
 
-*** 2DONE [#C] CC1.1 - Frostfire :1st_Dr:Vicki:
+*** DONE [#C] CC1.1 - Frostfire :1st_Dr:Vicki:
 
 - <second to last play position> (00:00:00)
 - <last play position> (00:05:24)
@@ -1218,18 +1218,18 @@
 *** DONE [#C] Redacted #1. SOS :13th_Dr:
 *** TODO [#C] Redacted #2. Hysteria :13th_Dr:
 ** DW 2022-05-spinoffs
-*** 2DONE [#C] UNIT5.3 - The Sontaran Project :UNIT:
+*** DONE [#C] UNIT5.3 - The Sontaran Project :UNIT:
 
 - <second to last play position> (00:15:43)
 - <last play position> (00:28:55)
 
-*** 2DONE [#D] UNIT5.4 - False Negative :UNIT:
+*** DONE [#D] UNIT5.4 - False Negative :UNIT:
 *** HALF [#B] TW48. Lease of Life :Owen:
 
 - <second to last play position> (00:34:59)
 - <last play position> (01:01:53)
 
-*** 2DONE [#C] J&L6.1 - The Skeleton Quay :Jago:Litefoot:
+*** DONE [#C] J&L6.1 - The Skeleton Quay :Jago:Litefoot:
 
 - <second to last play position> (00:15:33)
 - <last play position> (00:40:05)
@@ -1273,8 +1273,8 @@
 - tail (02:06:06)
 
 *** 3QTR [#D] 8DDC2.1 - Beachhead :8th_Dr:Liv:Helen:Voord:
-*** 2DONE [#C] 8DDC2.2 - Scenes From Her Life :8th_Dr:Liv:Helen:The_Eleven:
-*** 2DONE [#C] DU 1.3 The House of Kingdom :10th_Dr:Anya:Mark_7:
+*** DONE [#C] 8DDC2.2 - Scenes From Her Life :8th_Dr:Liv:Helen:The_Eleven:
+*** DONE [#C] DU 1.3 The House of Kingdom :10th_Dr:Anya:Mark_7:
 *** HALF [#D] 12DC1.1. The Charge of the Night Brigade :12th_Dr:Mary_Seacole:
 
 - next morning (00:22:50)
@@ -1286,8 +1286,8 @@
 *** 3QTR [#E] TW1-1.2 - Through the Ruins :Yvonne:
 *** HALF [#D] J&L6.3 - Military Intelligence :Jago:Litefoot:
 *** HALF [#C] J&L6.4 - The Trial of George Litefoot :Jago:Litefoot:
-*** 2DONE [#B] Rose 1.1 The Endless Night :Rose:
-*** 2DONE [#C] Rose 1.2 The Flood :Rose:
+*** DONE [#B] Rose 1.1 The Endless Night :Rose:
+*** DONE [#C] Rose 1.2 The Flood :Rose:
 *** 3QTR [#E] Jenny2.2. Altered Status :Jenny:
 *** 3QTR [#C] Rory1.1 Gladiator :Rory:
 *** HALF [#D] KC1 - Occam's Razor :Kaldor_Robots:
@@ -1295,11 +1295,11 @@
 
 | 059 | MR038 The Church and the Crown | 5th  | Peri, Erimem |
 
-*** 2DONE [#C] EA1.4 An Ordinary Life :1st_Dr:Steven:Sara_Kingdom:2CD:
+*** DONE [#C] EA1.4 An Ordinary Life :1st_Dr:Steven:Sara_Kingdom:2CD:
 *** HALF [#A] ST11.3 The Threshold :Master_nemesis:3rd_Dr:
-*** 2DONE [#C] MR038 The Church and the Crown :5th_Dr:Peri:Erimem:2CD:
-*** 2DONE [#D] 7DA1.1 The Trial of a Time Machine :7th_Dr:Roz:Chris:
-*** 2DONE [#B] 9DA 4.2 Way of the Burryma :9th_Dr:Cybermen:Brigadier:Sam_Bishop:
+*** DONE [#C] MR038 The Church and the Crown :5th_Dr:Peri:Erimem:2CD:
+*** DONE [#D] 7DA1.1 The Trial of a Time Machine :7th_Dr:Roz:Chris:
+*** DONE [#B] 9DA 4.2 Way of the Burryma :9th_Dr:Cybermen:Brigadier:Sam_Bishop:
 *** START [#B] 9DA4.3 The Forth Generation :9th_Dr:Cybermen:Brigadier:Sam_Bishop:
 *** HALF [#D] 11DC1.1 The Calendar Man :11th_Dr:Amy:
 *** 13th: Redacted #3/#4
@@ -1313,7 +1313,7 @@
 *** 3QTR [#A] Robots 1.3 Love Me Not :Liv:Kaldor_Robots:
 *** 3QTR [#C] Rory1.2 The Unwilling Assassin :Rory:
 *** 3QTR [#B] Master! 1.1. Faustian :Master_bruce:
-*** 2DONE [#D] DoRS6.2. The Web of Time :River:
+*** DONE [#D] DoRS6.2. The Web of Time :River:
 ** DW 2022-07-extra
 *** HALF [#C] CC1.3 The Blue Tooth(Liz, 3rd) :Liz:Cybermen:
 *** 3QTR [#E] UNIT6.1 Game Theory :Sam_Bishop:Osgood:UNIT:
@@ -1322,11 +1322,11 @@
 | 060 | MR006 The Marian Conspiracy | 6th | Evelyn |
 
 *** 3QTR [#C] CC6.8 The Selachian Gambit :Polly:2nd_Dr:Jamie:
-*** 2DONE [#B] LS6.1 Return of the Cybermen :4th_Dr:Sarah:Harry:bilibili:2CD:
-*** 2DONE [#A] MR006. The Marian Conspiracy :6th_Dr:Evelyn:2CD:
+*** DONE [#B] LS6.1 Return of the Cybermen :4th_Dr:Sarah:Harry:bilibili:2CD:
+*** DONE [#A] MR006. The Marian Conspiracy :6th_Dr:Evelyn:2CD:
 *** DONE [#E] 8DDC 2.3 The Gift :8th_Dr:Liv:Helen:
 *** HALF [#E] 8DDC 2.4 The Sonomancer :8th_Dr:Liv:Helen:River:
-*** 2DONE [#C] 10DA 3.2 One Mile Down :10th_Dr:Donna:bilibili:
+*** DONE [#C] 10DA 3.2 One Mile Down :10th_Dr:Donna:bilibili:
 *** HALF [#C] 12DC1.2 War Wounds :12th_Dr:Danny:
 *** 3QTR [#D] WDB 1.2 Lion Hearts :War_Dr:
 ** DW 2022-08-spinoffs
@@ -1335,7 +1335,7 @@
 *** HALF [#C] CM1.2 Artificial Intelligence
 *** [#E] UNIT 6.2 Telepresence
 *** 3QTR [#B] Gallifrey 3.2 Warfare :Romana_2:Leela:
-*** 2DONE [#A] BS5.1 - The Grel Escape :Benny:
+*** DONE [#A] BS5.1 - The Grel Escape :Benny:
 *** HALF KC #2 Death's Head :Kaldor_Robots:
 *** HALF [#D] Rose 1.4 The Last Party on Earth
 *** HALF [#E] Missy 2.2 Brimstone and Terror :Missy:Master:bilibili:
@@ -1346,18 +1346,18 @@
 *** HALF [#C] CC3.7 The Transit of Venus :Ian:Barbara:1st_Dr:
 *** 3QTR [#C] 3DA2.2 The Hidden Realm :3rd_Dr:Jo:
 *** 3QTR [#B] CDNM 1.1 Fallen Angles :5th_Dr:
-*** 2DONE [#B] MR079 Night Thoughts :7th_Dr:Ace:Hex:
+*** DONE [#B] MR079 Night Thoughts :7th_Dr:Ace:Hex:
 *** 3QTR [#C] 9DA 4.1 Fond Farewell :9th_Dr:
 *** START [#D] 11DC1.3 - The Light Keepers :11th_Dr:
 *** 3QTR [#C] BSNA 5.1 Pride of the Lampian :Unbound:Benny:
 ** DW 2022-09-spinoffs
-*** 2DONE [#A] TW6.6 Hostile Environment :Norton:
+*** DONE [#A] TW6.6 Hostile Environment :Norton:
 *** HALF [#A] TW21 We Always Get Out Alive :Rhys:Gwen:
 *** HALF [#C] UNIT 6.3 Code Silver :Cybermen:
 *** HALF [#B] UNIT 6.4 Master of Worlds :Cybermen:Master_War:
 *** HALF [#D] PG2.1 - Dining with Death
 *** DONE [#A] Rory 1.3 I, Rorius :Rory:
-*** 2DONE [#B] Robots 2.1 - The Robots of War
+*** DONE [#B] Robots 2.1 - The Robots of War
 *** 3QTR [#C] Gallifrey 4.1 Reborn
 ** DW 2022-10-doctor
 
@@ -1369,9 +1369,9 @@
 *** 3QTR [#B] MR103 The Girl Who Never Was :8th_Dr:Charley:Cyberman:
 *** 3QTR [#B] 10D&RS #3 Ghosts :10th_Dr:River:
 *** START [#C] 12DC1.4 Field Trip :12th_Dr:Osgood:
-*** 2DONE [#B] WDB 1.3 The Shadow Squad :War_Dr:
+*** DONE [#B] WDB 1.3 The Shadow Squad :War_Dr:
 ** DW 2022-10-spinoffs
-*** 2DONE [#A] TW6.7 Another Man's Shoes :Torchwood:
+*** DONE [#A] TW6.7 Another Man's Shoes :Torchwood:
 *** 3QTR [#A] TW6.8 Eye of the Storm :Torchwood:
 *** START [#C] CM1.3 The Pelage Project
 *** DONE [#B] Donna 1.1 Out of this World :Donna:bilibili:
@@ -1385,8 +1385,8 @@
 *** 3QTR [#D] 5DA40.1 Secrets of Telos :5th_Dr:Nyssa:Tegan:Adric:Cybermen:
 *** 3QTR [#B] 7DA1.3 The Jabari Countdown :7th_Dr:Roz:Chris:
 *** HALF [#C] 9DC1.4 Retail Therapy :9th_Dr:Jackie:
-*** 2DONE [#A] ST11.1 Rearguard (11th) :11th_Dr:Sontaran:
-*** 2DONE [#B] BSNA7.1. Willkommen :Unbound_Dr:Benny:Cybermen:
+*** DONE [#A] ST11.1 Rearguard (11th) :11th_Dr:Sontaran:
+*** DONE [#B] BSNA7.1. Willkommen :Unbound_Dr:Benny:Cybermen:
 ** DW 2022-11-spinoffs
 *** 3QTR [#B] TW5.9 A Mother's Son
 *** 3QTR [#D] TW47 Drive :Tosh:
@@ -1394,7 +1394,7 @@
 *** HALF [#B] UNIT 3.2 Square One
 *** 3QTR [#D] PG2.2 The Screaming Ceiling
 *** HALF [#C] Donna 1.2 Spinvasion :Donna:bilibili:
-*** 2DONE [#B] WM5.1 The Edge of Redemption :Master_war:
+*** DONE [#B] WM5.1 The Edge of Redemption :Master_war:
 *** HALF [#B] Robots 2.2 Toos and Poul :Liv:
 *** 3QTR [#B] Gallifrey 4.3 Annihilation
 ** DW 2022-12-doctor
@@ -1404,7 +1404,7 @@
 *** 3QTR MA04 The Patient Menace :fan_made:2nd_Dr:
 *** 3QTR [#C] 4DA 7.1 Sons of Kaldor :4th_Dr:Kaldor_Robots:
 *** HALF [#D] MR133 City of Spires :6th_Dr:Jamie:
-*** 2DONE [#A] MR153 The Silver Turk :8th_Dr:Cybermen:
+*** DONE [#A] MR153 The Silver Turk :8th_Dr:Cybermen:
 *** HALF [#D] 10DA 2.2 - The Sword of the Chevalier :10th_Dr:Rose:
 *** HALF The Last Days Before Dawn :12th_Dr:Ashidr:fan_made:
 *** 3QTR [#A] BSNA 7.2 Wulf :Unbound:Benny:
@@ -1413,7 +1413,7 @@
 *** 3QTR [#A] TW54. Curios :Bilis_Manger:
 *** HALF [#C] DoRS7.1 Colony of Strangers :River:
 *** DONE [#E] Donna1.3 The Sorcerer of Albion :Donna:bilibili:
-*** 2DONE [#C] WM5.2 Scaramancer :Master_war:8th_Dr:
+*** DONE [#C] WM5.2 Scaramancer :Master_war:8th_Dr:
 *** 3QTR [#C] Gallifrey 4.4 Forever
 * DW 2023 :S2023:
 ** dw2023-01-doctor
@@ -1425,7 +1425,7 @@
 *** 3QTR [#C] 7DA7.1 The Unzal Incursion :3rd_Dr:Liz:Brigadier:2CD:
 *** 3QTR [#C] MR267a Thin Time :5th_Dr:11th_Dr:
 *** 3QTR [#B] MR012. The Fires of Vulcan :7th_Dr:Mel:2CD:
-*** 2DONE [#B] 9DA5.1 Station to Station :9th_Dr:bilibili:
+*** DONE [#B] 9DA5.1 Station to Station :9th_Dr:bilibili:
 *** HALF [#D] WDB 2.1 Consequences :War_Dr:
 ** dw2023-01-spinoffs
 *** 3QTR [#A] TW6.11 Day Zero
@@ -1433,7 +1433,7 @@
 *** HALF [#A] UNIT3.3 Silent Majority :UNIT:Silents:
 *** HALF [#A] J&L7.3 Murder at Moorsey Manor :Jago:Litefoot:
 *** 3QTR [#A] WM5.3 The Castle of Kurnos 5 :Master_war:8th_Dr:
-*** 2DONE [#C] Donna 1.4 The Chiswick Cuckoos :Donna:10th_Dr:bilibili:
+*** DONE [#C] Donna 1.4 The Chiswick Cuckoos :Donna:10th_Dr:bilibili:
 *** 3QTR [#C] Robots2.3 Do No Harm :Liv:
 *** HALF [#D] DoRS7.2 Abbey of Heretics :River:
 ** dw2023-02-doctor
@@ -1480,7 +1480,7 @@
 *** HALF [#A] DU2.2 The Trojan Dalek :10th_Dr:Anya:Mark_7:bilibili:
 *** HALF [#D] WDB 2.2 Destroyer :War_Dr:
 ** dw2023-04-spinoffs
-*** 2DONE [#A] TW Soho: Parasite (p4-p6) :Norton:Andy:
+*** DONE [#A] TW Soho: Parasite (p4-p6) :Norton:Andy:
 *** HALF [#C] TW61 War Chest :Tosh:
 *** 3QTR [#C] CC6.1 Tales from the Vault :Ruth:the_Vault:
 *** HALF [#D] Mar8 1.3 Inside Every Warrior :TPG:
@@ -1516,7 +1516,7 @@
 *** [#B] TWO3.1 Retirement Plan :Yvonne:Ianto:
 *** 3QTR [#A] John #3 Peach Blossom Heights :Captain_John:Jack:
 *** 3QTR [#D] WoDW2 The Reesinger Process :ICMG:
-*** 2DONE [#A] ST8.10 I Am The Master :Master_decayed:bilibili:
+*** DONE [#A] ST8.10 I Am The Master :Master_decayed:bilibili:
 *** 3QTR [#C] BS11.4 Dead Man's Switch :Benny:
 *** HALF [#D] CY1.2 Hounded :Churchill:10th_Dr:
 ** dw2023-07-doctor
@@ -1610,7 +1610,7 @@
 *** HALF [#B] EA4.4 The Wreck of the World :2nd_Dr:Jamie:Zoe:2CD:
 *** 3QTR [#C] 4DA6.5 - The Haunting of Malkin Place :4th_Dr:Romana_2:
 *** HALF [#B] 8DDC 4.1 - Ship in a Bottle :8th_Dr:Liv:Helen:
-*** 2DONE [#B] 10DCC1.1 - Splinters :10th_Dr:Leela:K9
+*** DONE [#B] 10DCC1.1 - Splinters :10th_Dr:Leela:K9
 *** 3QTR [#A] WD2.3 - The Neverwhen :War_Dr:
 ** dw2023-12-spinoffs
 *** HALF [#B] TWS2 Outbreak #3 Kill :Jack:Gwen:Ianto:Rhys:Andy:Norton:
@@ -1618,7 +1618,7 @@
 *** HALF [#A] PG1.2. A Photograph to Remember
 *** HALF [#C] UNIT1.3 Bridgehead :UNIT:
 *** HALF [#A] WM6.4 - Unfinished Business :Master_war:
-*** 2DONE [#C] BSBOX1.3 - Private Enemy No. 1 :Benny:
+*** DONE [#C] BSBOX1.3 - Private Enemy No. 1 :Benny:
 * DW 2024 :S2024:
 ** dw2024-01-doctor
 
@@ -1643,7 +1643,7 @@
 *** 3QTR [#A] 3DA #9. The Annihilators - part 6-7 :3rd_Dr:Liz:Brigadier:2nd_Dr:Jamie:UNIT:
 *** 3QTR [#B] CA1.2 The Star Beast :4th_Dr:2CD:
 *** HALF [#B] MR111 The Doomwood Curse :6th_Dr:Charley:2CD:
-*** 2DONE [#C] 8DDC 4.2 - Songs of Love :8th_Dr:Liv:Helen:River:
+*** DONE [#C] 8DDC 4.2 - Songs of Love :8th_Dr:Liv:Helen:River:
 *** HALF [#C] 10DC1.3 - Wild Pastures :10th_Dr:plot_cast:Sylvia:
 *** 3QTR [#D] WDB3.1 - The Keeper of Light :War_Dr:
 ** dw2024-02-spinoffs
@@ -1693,14 +1693,14 @@
 
 | 076 | MR269 The Shadow of the Daleks 1 | 5th |  |
 
-*** 2DONE [#C] 1DA22.2 The Miniaturist :1st_Dr:Dodo:
-*** 2DONE [#C] 3DA3.1 The Conquest of Far :3rd_Dr:Jo:P2017:plot_no:2CD:
+*** DONE [#C] 1DA22.2 The Miniaturist :1st_Dr:Dodo:
+*** DONE [#C] 3DA3.1 The Conquest of Far :3rd_Dr:Jo:P2017:plot_no:2CD:
     :PROPERTIES:
     :rating:   7.5
     :END:
 
 *** HALF [#D] MR269c/d Shadow of the Daleks :5th_Dr:
-*** 2DONE [#C] 7DA22A.2 The Ribos Inheritance :7th_Dr:Mel:2CD:
+*** DONE [#C] 7DA22A.2 The Ribos Inheritance :7th_Dr:Mel:2CD:
 *** DONE [#A] 9DA8.3 Red Darkness :9th_Dr:Vashta_Nerada:bilibili:
 *** HALF [#D] 11DA4.2 The Yearn :11th_Dr:bilibili:
 ** dw2024-q3a-spinoffs
@@ -1709,7 +1709,7 @@
 *** [#C] CM3.1 - Changing of the Guard
 *** [#A] PG4.1 - Merry Christmas, Mr Jago :Vastra:Strax:Jenny:Jago:
 *** 3QTR [#B] BS5.3 The Relics of Jegg-Sau :Benny:
-*** 2DONE [#D] WM7.2 The Players :Master_war:bilibili:
+*** DONE [#D] WM7.2 The Players :Master_war:bilibili:
 *** HALF [#D] ROB3.1 - The Mystery of Sector 13
 ** dw2024-q3b-doctor
 
@@ -1784,7 +1784,7 @@
 *** 3QTR [#A] WM7.4 The Last Line :Master_war:10th_Dr:
 *** 3QTR [#C] WD3.1 - The Shadow Vortex :War_Dr:bilibili:Time_War:
 ** dw2024-q4b-spinoffs
-*** 2DONE [#B] BBC5.3 The House of the Dead :Jack:Gwen:Ianto:bilibili:
+*** DONE [#B] BBC5.3 The House of the Dead :Jack:Gwen:Ianto:bilibili:
 *** HALF [#A] TW70 Double part 2
 *** HALF [#C] UNIT2.3 The Battle of the Tower
 *** HALF [#E] PG4.2 - The Ghost Writers
@@ -1850,10 +1850,10 @@ Ashenden (4~6)
 
 | 082 | MR270 Shadow of the Daleks | 5th | Daleks |
 
-*** 2DONE [#A] 1DA2.2 The Barbarians and the Samurai :1st_Dr:Susan:Ian:Barbara:2CD:
+*** DONE [#A] 1DA2.2 The Barbarians and the Samurai :1st_Dr:Susan:Ian:Barbara:2CD:
 *** 3QTR [#B] SvsR#2 The Children of the Future :3rd_Dr:Sarah:Brigadier:UNIT:
 *** HALF [#C] MR270. Shadow of the Daleks 2a/b :5th_Dr:Daleks:
-*** 2DONE [#C] BSNA2.1 The Pyramid of Sutekh :Benny:7th_Dr:Sutekh:
+*** DONE [#C] BSNA2.1 The Pyramid of Sutekh :Benny:7th_Dr:Sutekh:
 *** HALF [#D] BSNA2.2 The Vault of Osiris :Benny:Ace:
 *** HALF [#E] 9DA3.1.3 The Beautiful Game :9th_Dr:bilibili:
 ** dw2025-q2a-spinoffs
@@ -1868,18 +1868,18 @@ Ashenden (4~6)
 ** dw2025-q2b-doctor
 *** 3QTR [#C] EA4.2 The Outliers :2nd_Dr:Jamie:Polly:Ben:plot_yes:
 *** DONE [#C] 4DA12.3 The Wizard of Time :4th_Dr:Leela:Margaret:
-*** 2DONE [#C] 6DnP1.1 - The Headless Ones :6th_Dr:Peri:
+*** DONE [#C] 6DnP1.1 - The Headless Ones :6th_Dr:Peri:
 *** 3QTR [#C] 8DTW5.1 Meanwhile, Elsewhere :8th_Dr:Cass:Time_War:
 *** HALF [#C] 8DTW5.2 Vespertine :8th_Dr:Cass:Time_War:
 *** HALF [#C] DU3.2 The Dalek Defense :10th_Dr:Anya:Mark_7:Davros:bilibili:
-*** 2DONE [#B] 12DC3.1 Sunstrike :12th_Dr:
+*** DONE [#B] 12DC3.1 Sunstrike :12th_Dr:
 ** dw2025-q2b-spinoffs
 *** DONE [#A] TW7.8 Pariahs :Yvonne:Colchester:Ng:Tyler:Orr:
 *** HALF [#C] UNEM1.3 Eleven's Eleven :UNIT_new:The_Eleven:
-*** 2DONE [#C] CM3.3 The Forgotten Village :ICMG:
+*** DONE [#C] CM3.3 The Forgotten Village :ICMG:
 *** DONE [#D] JL9.4 Return of the Nightmare
 *** HALF [#A] DoRS7.3 Barrister to the Stars :River:
-*** 2DONE [#A] WM9.1 The Walls of Absence :Master_War:bilibili:
+*** DONE [#A] WM9.1 The Walls of Absence :Master_War:bilibili:
 *** HALF [#B] FP2.2 The Ship of a Billion Years :P2006:Sutekh:Faction_Paradox:Justine:Eliza:
 ** dw2025-q2b-pending
 *** Fleeting Faces #2: Under Control :P2024_09:14th_Dr:
@@ -2022,7 +2022,7 @@ https://b23.tv/BV1LF411j7D5
 *** HALF [#C] WM10.1 Runtime :Master_War:
 ** dw2026-q3a-doctor
 *** HALF [#C] CC9.2 The Unwinding World :1st_Dr:Vicki:
-*** 2DONE [#C] 3DA3.2 Storm of the Horofax :3rd_Dr:Jo:UNIT:P2017:plot_yes:
+*** DONE [#C] 3DA3.2 Storm of the Horofax :3rd_Dr:Jo:UNIT:P2017:plot_yes:
 *** HALF [#A] 5DA22.2 The Auton Infinity (p1-p4) :5th_Dr:Tegan:Turlough:Brigadier:Master_tremas:Autons:3CD:P2022_09:plot_yes:
 *** HALF [#D] 7DA24B.1 The Haunter of the Shore :7th_Dr:Carnacki:
 *** HALF [#C] 9DA3.3.3 Ancient History :9th_Dr:Benny:bilibili:
@@ -2038,7 +2038,7 @@ https://b23.tv/BV1LF411j7D5
 *** (benny) ↑
 *** HALF [#B] GALL7.0 - Intervention Earth :P2015:2CD:Romana_3:Ace:Narvin:Omega:bilibili:
 ** dw2026-q3b-doctor
-*** TODO [#B] LS4.3 - Lords of the Red Planet (part5-6) :Jamie:Zoe:ice_warriors:plot_yes:dw2026_q3b_doctor:
+*** HALF [#B] LS4.3 - Lords of the Red Planet (part5-6) :Jamie:Zoe:ice_warriors:plot_yes:dw2026_q3b_doctor:
     SCHEDULED: <2026-08-29 Sat>
     :PROPERTIES:
     :thetimescales: 8.2

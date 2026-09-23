@@ -1,5 +1,5 @@
 #+TITLE: DW 14th-15th Doctor, The Master
-#+TODO: TODO NEXT READY BLOCK TBR START DOING HALF 3QTR FIXME PENDING LATER 2DONE | 2DONE DONE CANCEL
+#+TODO: TODO NEXT READY BLOCK TBR START DOING HALF FIXME PENDING LATER | DONE 3QTR CANCEL
 
 * 14th Doctor :14th_Dr:
 ** tv
@@ -191,7 +191,7 @@ https://www.bilibili.com/video/BV1QT41147a8
 **** Origins (#1-4) :Titan_Comics:
 ** Doctor Who Unbound :P2003:
 *** [#C] 1. Auld Mortality
-*** 2DONE [#B] DWUN2: Sympathy from the Devil :Master_unbound:
+*** DONE [#B] DWUN2: Sympathy from the Devil :Master_unbound:
     CLOSED: [2021-06-17 Thu 23:09]
 
 【【神秘博士广播剧熟肉】Unbound: Sympathy for the Devil 怜悯恶魔-哔哩哔哩】 
@@ -215,7 +215,7 @@ https://www.bilibili.com/video/BV1QT41147a8
 
 *** CANCEL [#F] 6. Exile
 *** [#D] 7. A Storm of Angels
-*** 2DONE [#B] DWUN8 - Masters of War :Davros:
+*** DONE [#B] DWUN8 - Masters of War :Davros:
 ** Unbound: Doctor of War :Thal:
 *** READY [#B] 1.1 - Dust Devil :bilibili:
 
@@ -327,18 +327,18 @@ https://tardis.wiki/wiki/Decayed_Master
 
 【【神秘博士广播剧汉化】法师三部曲之二 Vampire of the Mind 思维吸血鬼-哔哩哔哩】 https://b23.tv/BV1LS4y1K74U
 
-**** 2DONE [#D] 4DA 1.5 Trail of the White Worm / 1.6 The Oseidon Adventure :4th_Dr:
+**** DONE [#D] 4DA 1.5 Trail of the White Worm / 1.6 The Oseidon Adventure :4th_Dr:
 **** 3QTR [#C] 4DA 4.3 Requiem for the Rocket Men /  4.4 Death Match :4th_Dr:
 **** READY [#D] 4DA13.5 Metamorphosis :P2024_06:bilibili:
 **** [#A] 8DRAV 4.2 Planet of Dust :8th_Dr:Liv:Helen:
 **** The Light at the End :4th_Dr:5th_Dr:6th_Dr:7th_Dr:8th_Dr:Leela:Nyssa:Peri:Ace:Charley:
 **** 3QTR [#B] CC8.1 Mastermind :Ruth_Matheson:the_Vault:UNIT:
 **** 📂Jago & Litefoot S11 :P2016:
-**** 2DONE [#A] ST8.10 I Am The Master ⭐ :bilibili:🗣:
+**** DONE [#A] ST8.10 I Am The Master ⭐ :bilibili:🗣:
 
   【【神秘博士广播剧汉化】法师独白，关爱脆皮，人人有责 Short Trips: I am the Master-哔哩哔哩】 https://b23.tv/BV1Hr4y1S7en
 
-**** 2DONE [#D] DoRS5.2 Animal Instinct :plot_no:
+**** DONE [#D] DoRS5.2 Animal Instinct :plot_no:
 **** TBR Dark Gallifrey - The Decyed Master :P2026_09:
 ** Tremas Master :Master_tremas:
 
@@ -482,7 +482,7 @@ https://tardis.wiki/wiki/Saxon_Master
 ***** [#E] 4.2 Bad Apple Brigade
 ***** [#E] 4.3 The Baron Robbers
 **** misc
-***** 2DONE [#A] DoRS5.1 The Bekdel Test :Master_missy:plot_yes:bilibili:
+***** DONE [#A] DoRS5.1 The Bekdel Test :Master_missy:plot_yes:bilibili:
 ***** READY [#E] EoM3.2 - Fairies at the Bottom of the Garden :Amy:Master_missy:bilibili:
 
 【【神秘博士广播剧】The Eighth of March 302 Fairies at the Bottom of the Garden 园底仙灵-哔哩哔哩】 https://b23.tv/BV1saPezPEtS
@@ -583,7 +583,7 @@ https://www.bilibili.com/video/BV1QT41147a8
 **** HALF [#B] 3.4 - The Emporium At The End
 **** HALF [#A] 4.4 - The True Saviour Of The Universe
 *** 📂The War Master series 4: Anti-Genesis
-**** 2DONE [#A] 4.3 Shockwave :Master_war:
+**** DONE [#A] 4.3 Shockwave :Master_war:
 **** 3QTR [#A] 4.4 He Who Wins :Master_war:
 ** multiple masters
 *** HALF [#A] MR213. The Two Masters :P2016:Master_bald:Master_decayed:6th_Dr:plot_no:bilibili:🎧:

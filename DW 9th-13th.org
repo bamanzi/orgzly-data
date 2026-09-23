@@ -1,4 +1,4 @@
-#+TODO: TODO NEXT READY BLOCK TBR START FIXME HALF 3QTR | 2DONE DONE CANCEL
+#+TODO: TODO NEXT READY BLOCK TBR START FIXME HALF 3QTR | DONE CANCEL
 #+PRIORITIES: A F C
 
 * _novels rating
@@ -83,7 +83,7 @@ SCHEDULED: <2025-08-02 Sat>
 
 **** S2
 ***** 📂S2.1 Back to Earth :P2022_05:
-****** 2DONE [#B] 5.1 Station to Station :bilibili:DW2023_01_doctor:
+****** DONE [#B] 5.1 Station to Station :bilibili:DW2023_01_doctor:
 CLOSED: [2023-01-23 Mon 08:22] SCHEDULED: <2023-01-10 Tue 08:39>
 
 【【神秘博士广播剧熟肉】Back to Earth 101 Station to Station 车站之间-哔哩哔哩】 https://b23.tv/ueI1ubC
@@ -91,7 +91,7 @@ CLOSED: [2023-01-23 Mon 08:22] SCHEDULED: <2023-01-10 Tue 08:39>
 ****** CANCEL [#F] 5.2 The False Dimitry
 CLOSED: [2022-07-02 Sat 23:47]
 
-****** 2DONE [#A] 5.3 Auld Lang Syne :bilibili:DW2023_03_doctor:
+****** DONE [#A] 5.3 Auld Lang Syne :bilibili:DW2023_03_doctor:
 CLOSED: [2023-03-21 Tue 08:07] SCHEDULED: <2023-03-11 Sat>
 
 【【神秘博士广播剧熟肉】Back to Earth 503 Auld Lang Syne 逝去已久的时光-哔哩哔哩】 https://b23.tv/1NrKKIN
@@ -117,7 +117,7 @@ SCHEDULED: <2024-10-26 Sat>
 
 苏特纳1889年发表了小说《Die Waffen nieder!（放下武器！）》，此后就成为了奥地利和平运动的象征，1891年她创立了奥地利和平主义组织，在1905年獲得諾貝爾和平獎
 
-****** 2DONE [#A] 7.3 Flatpack :Liv:Tania:bilibili:DW2023_11_doctor:
+****** DONE [#A] 7.3 Flatpack :Liv:Tania:bilibili:DW2023_11_doctor:
 SCHEDULED: <2023-11-11 Sat>
 :PROPERTIES:
 :rating:   8.6
@@ -551,7 +551,7 @@ http://tardis.wikia.com/wiki/The_Crimson_Hand_(graphic_novel)
 ** audio :🎧:
 *** 10DA :10DA:
 **** 10DA vol.1 :P2016:Donna:scripted:
-***** 2DONE [#C] 10DA 1.1 - Technophobia :D2021_07_dr:bilibili:
+***** DONE [#C] 10DA 1.1 - Technophobia :D2021_07_dr:bilibili:
 CLOSED: [2021-08-01 Sun 15:54]
 :PROPERTIES:
 :rating:   7.7
@@ -629,7 +629,7 @@ SCHEDULED: <2023-08-26 Sat>
 
 哔哩哔哩有熟肉
 
-***** 2DONE [#B] 10D&RS 1.1 Expiry Dating :D2021_06:bilibili:
+***** DONE [#B] 10D&RS 1.1 Expiry Dating :D2021_06:bilibili:
 CLOSED: <2021-07-09 Fri 23:11>
 
 【【David Tennant】Big Finish广播剧The Tenth Doctor and River Song - Expiry Dating双语字幕-哔哩哔哩】 https://b23.tv/BV1t84y1c7pP
@@ -695,7 +695,7 @@ https://www.bigfinish.com/releases/v/doctor-who-out-of-time-3-wink-2297
 为了拯救一个文明，他们必须看着天使，不要眨眼，甚至一只眼都不要眨...
 
 **** 📂Tenth Doctor Classic Companions :P2022_09:
-***** 2DONE [#C] 1. Splinters :Leela:bilibili:DW2023_12_doctor:
+***** DONE [#C] 1. Splinters :Leela:bilibili:DW2023_12_doctor:
 CLOSED: [2023-12-29 Fri 22:07] SCHEDULED: <2023-12-23 Sat>
 
 【【神秘博士广播剧熟肉】Tenth Doctor Classic Companions 101 Splinters 碎片-哔哩哔哩】 https://b23.tv/BV1AD4y127J1
@@ -748,7 +748,7 @@ CLOSED: <2022-05-21 Sat 19:23> SCHEDULED: <2021-11-06 Sat>
 
 【【神秘博士广播剧汉化】听后感：？？？Dalek Universe 101 Buying Time-哔哩哔哩】 https://b23.tv/bPVKCTF
 
-***** 2DONE [#A] DU 1.2 - The Wrong Woman :D2022_06_extra:week2:bilibili:
+***** DONE [#A] DU 1.2 - The Wrong Woman :D2022_06_extra:week2:bilibili:
 CLOSED: <2022-05-28 Sat 20:33> SCHEDULED: <2022-06-05 Sun>
 :PROPERTIES:
 :rating:   8.8
@@ -1197,7 +1197,7 @@ SCHEDULED: <2022-03-30 Wed>
 
 【【神秘博士】短途旅行：不可能的重生 | Short Trips: Regeneration Impossible-哔哩哔哩】 https://b23.tv/BV1ZD4y1e7Je
 
-***** 2DONE [#A] ST11.1 Rearguard :Sontarans:P2022_02:DW2022_11_doctor:
+***** DONE [#A] ST11.1 Rearguard :Sontarans:P2022_02:DW2022_11_doctor:
 CLOSED: [2022-11-02 Wed 20:33] SCHEDULED: <2022-11-06 Sun>
 :PROPERTIES:
 :rating:   8.5

@@ -1,5 +1,5 @@
 #+TITLE: Doctor Who - Masterlist
-#+TODO: TODO NEXT READY BLOCK TBR START DOING HALF 3QTR FIXME LATER 2DONE | 2DONE DONE CANCEL
+#+TODO: TODO NEXT READY BLOCK TBR START DOING HALF FIXME LATER | DONE 3QTR CANCEL
 
 * TV / videos :📺:
 ** Classic TV Stories (Including Extras):
@@ -141,17 +141,17 @@ https://archive.org/details/doctor-who-reeltime-pictures/
 
 **** DONE S1 480p
 **** TODO S2 无??
-**** 2DONE S3 （低清）
+**** DONE S3 （低清）
 
 - 低清 rmvb, 200M https://xiaomapan.com/#/main/detail/a6c0eb2cfedf265dfb5de327c581e7d4
 - [X] 低清rmvb magnet:?xt=urn:btih:A1E6BBE2DA4AC17F1BCE8CCC1C0CB43AB90C09C4 
 
-**** 2DONE S4 （低清）
+**** DONE S4 （低清）
 
 - 低清 rmvb, 200M, http://www.waijutt.com/detail/273/ 
 - 低清 rmvb, 200M  磁力： magnet:?xt=urn:btih:D7B1E79C94918AC1AB97149B2B2B7F4485FDACC3 
 
-**** 2DONE S5（低清）
+**** DONE S5（低清）
 
 - 低清 rmvb (~220M)  https://xiaomapan.com/#/main/detail/7c5163a82dcfdf3fddd7f9a67e27e682
 - 低清 rmvb ed2k  http://m.ttkmj.tv/archives/1837.html
@@ -183,7 +183,7 @@ https://archive.org/details/doctor-who-reeltime-pictures/
 只做了第一集？
 
 **** DONE S12
-**** 2DONE S13
+**** DONE S13
 *** 人人影视
 
 人人影视的版本各季在 https://www.txmeiju.com/ 基本都可以搜索到 （大部分是720p, 少数是576p 和400p）

@@ -1,4 +1,4 @@
-#+TODO: TODO NEXT READY BLOCK TBR START HALF 3QTR | 2DONE DONE CANCEL
+#+TODO: TODO NEXT READY BLOCK TBR START HALF | DONE 3QTR CANCEL
 #+PRIORITIES: A F C
 
 * Torchwood :torchwood:
@@ -41,7 +41,7 @@ Torchwood India
      SCHEDULED: <2025-12-14 Sun>
 
 **** CANCEL [#E] 5.2 Submission :P2011:
-**** 2DONE [#B] 5.3 The House of the Dead :Jack:Ianto:bilibili:P2011:DW2024_Q4b_spinoffs:
+**** DONE [#B] 5.3 The House of the Dead :Jack:Ianto:bilibili:P2011:DW2024_Q4b_spinoffs:
      CLOSED: [2024-12-05 Thu 06:35] SCHEDULED: <2024-12-01 Sun>
 
 【John Barrowman 字幕组-火炬木广播剧中字-亡者之屋-哔哩哔哩】 https://b23.tv/WyjmysL
@@ -103,7 +103,7 @@ Mr Pugh doesn't believe the world needs Torchwood. Gwen sets out to prove him w
       :rating:   7.4
       :END:
 
-***** 2DONE [#B] 8. Zone 10 :Tosh:
+***** DONE [#B] 8. Zone 10 :Tosh:
       CLOSED: [2020-11-19 Thu 18:32]
       :PROPERTIES:
       :rating:   8.4
@@ -115,7 +115,7 @@ Mr Pugh doesn't believe the world needs Torchwood. Gwen sets out to prove him w
       :rating:   8.3
       :END:
 
-***** 2DONE [#A] 10. Moving Target :Suzie:
+***** DONE [#A] 10. Moving Target :Suzie:
       CLOSED: [2020-11-19 Thu 18:32]
       :PROPERTIES:
       :rating:   8.9
@@ -130,7 +130,7 @@ B站有字幕
 https://b23.tv/BV1Hx411s7KF
 https://b23.tv/BV1nx411j7T9
 
-***** 2DONE [#B] 12. Made You Look :Gwen:
+***** DONE [#B] 12. Made You Look :Gwen:
       CLOSED: [2021-04-27 Tue 08:33]
       :PROPERTIES:
       :rating:   8.4
@@ -153,7 +153,7 @@ https://b23.tv/BV1nx411j7T9
       :rating:   8.1
       :END:
 
-***** 2DONE [#A] 16. torchwood_cascade_CDRIP.tor :Tosh:
+***** DONE [#A] 16. torchwood_cascade_CDRIP.tor :Tosh:
       CLOSED: [2020-11-20 Fri 08:40]
       :PROPERTIES:
       :rating:   8.6
@@ -178,7 +178,7 @@ LeDuc was a member of Torchwood in the early 1940s.
       :rating:   7.9
       :END:
 
-***** 2DONE [#B] 20. The Last Beacon :Owen:Ianto:scripted:D2021_07_extra:bilibili:
+***** DONE [#B] 20. The Last Beacon :Owen:Ianto:scripted:D2021_07_extra:bilibili:
       CLOSED: [2021-07-15 Thu 20:04]
       :PROPERTIES:
       :r:        8.3
@@ -224,7 +224,7 @@ The streets of Soho are swarming with gangsters, rumours and betrayals. Somew
       :rating:   7.7
       :END:
 
-***** 2DONE [#A] 24. Deadbeat Escape [A⁺] :Bilis_Manger:
+***** DONE [#A] 24. Deadbeat Escape [A⁺] :Bilis_Manger:
       CLOSED: [2020-11-19 Thu 18:34]
       :PROPERTIES:
       :rating:   9.6
@@ -242,7 +242,7 @@ The streets of Soho are swarming with gangsters, rumours and betrayals. Somew
       :rating:   7.9
       :END:
 
-***** 2DONE [#B] 27. Sync :Suzie:
+***** DONE [#B] 27. Sync :Suzie:
       CLOSED: [2020-11-20 Fri 07:55]
       :PROPERTIES:
       :rating:   8.4
@@ -269,7 +269,7 @@ Bonded by an alien device, Margaret and Suzie find themselves on the run from To
 
 【【中字片段①】火炬木小组-Serenity（宁静社区）-哔哩哔哩】 https://b23.tv/PiaUCZy
 
-***** 2DONE [#A] 30. The Hope [A⁺] :Owen:Andy:
+***** DONE [#A] 30. The Hope [A⁺] :Owen:Andy:
       CLOSED: [2021-05-08 Sat 08:04]
       :PROPERTIES:
       :rating:   9.5
@@ -281,7 +281,7 @@ Ever since, Megwyn's kept her peace. Is she innocent? Is she guilty? Where are t
 
 The years have been long and hard on Megwyn and on the families of the children. But now Megwyn's dying, and she's agreed to go back to The Hope, to reveal the horrible secret she's kept all these years.
 
-***** 2DONE [#E] +31. The Vigil+ :Tosh:
+***** DONE [#E] +31. The Vigil+ :Tosh:
       CLOSED: [2020-11-20 Fri 07:52]
       :PROPERTIES:
       :rating:   6.6
@@ -294,7 +294,7 @@ Sebastian Vaughan is the brightest, newest recruit to Torchwood. He's come fro
       :rating:   6.8
       :END:
 
-***** 2DONE [#A] 33. Dead Man's Switch :Bilis_Manger:
+***** DONE [#A] 33. Dead Man's Switch :Bilis_Manger:
       CLOSED: [2021-04-08 Thu 19:31]
       :PROPERTIES:
       :rating:   8.6
@@ -315,14 +315,14 @@ Sebastian Vaughan is the brightest, newest recruit to Torchwood. He's come fro
       :rating:   7.5
       :END:
 
-***** 2DONE [#A] 36. Dissected :Gwen:Martha:plot_yes:D2021_06:
+***** DONE [#A] 36. Dissected :Gwen:Martha:plot_yes:D2021_06:
       CLOSED: [2021-06-17 Thu 23:10]
       :PROPERTIES:
       :rating:   8.9
       :END:
 
 **** series 6 (37-48) :P2020:
-***** 2DONE [#A] 37. Tropical Beach Sounds and Other Relaxing Seascapes #4 [A⁺]
+***** DONE [#A] 37. Tropical Beach Sounds and Other Relaxing Seascapes #4 [A⁺]
       :PROPERTIES:
       :rating:   9.3
       :END:
@@ -355,7 +355,7 @@ Jack不在的那些日子，两个孤独又悲伤的人不得不在情人节的�
       :rating:   9.1
       :END:
 
-***** 2DONE [#B] 41. Red Base :Andy:plot_cast:DW2024_Q3a_spinoffs:
+***** DONE [#B] 41. Red Base :Andy:plot_cast:DW2024_Q3a_spinoffs:
       CLOSED: [2025-05-07 Wed 16:58] SCHEDULED: <2024-06-30 Sun>
       :PROPERTIES:
       :rating:   8.1
@@ -387,7 +387,7 @@ Rhys is planning a lads' night in. Barbie in the back yard, few tins, mates and
 
 Something goes wrong. The two of them could be trapped together for eternity at a barbecue where the sausages never cook, and worse, the brewskis remain forever out of reach.
 
-***** 2DONE [#B] 45. The Crown :Queen:
+***** DONE [#B] 45. The Crown :Queen:
       CLOSED: [2021-05-08 Sat 22:59]
       :PROPERTIES:
       :rating:   8.4
@@ -738,7 +738,7 @@ Tyler Steele为火炬木效力，也曾与他们作对，所以见识过不少�
      :END:
 
 *** specials
-**** 2DONE [#B] special 1: The Torchwood Archive :P2016:The_Commitee:2CD:plot_yes:
+**** DONE [#B] special 1: The Torchwood Archive :P2016:The_Commitee:2CD:plot_yes:
      CLOSED: [2020-11-19 Thu 18:33]
      :PROPERTIES:
      :rating:   8.3
@@ -786,7 +786,7 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
       :rating:   9.2
       :END:
 
-***** 2DONE [#C] 1.4 - Darker Purposes :DW2023_08_spinoffs:
+***** DONE [#C] 1.4 - Darker Purposes :DW2023_08_spinoffs:
       CLOSED: [2023-08-12 Sat 10:02] SCHEDULED: <2023-08-13 Sun>
       :PROPERTIES:
       :rating:   7.5
@@ -794,25 +794,25 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
 
 *** tv continuation :1CD:
 **** 📂S5. Aliens Among Us :P2017_2018:
-***** 2DONE [#B] 5.01 Changes Everything
+***** DONE [#B] 5.01 Changes Everything
       CLOSED: [2021-01-31 Sun 18:37]
       :PROPERTIES:
       :rating:   8.0
       :END:
 
-***** 2DONE [#C] 5.02 Aliens & Sex & Chips & Gravy
+***** DONE [#C] 5.02 Aliens & Sex & Chips & Gravy
       CLOSED: [2021-01-31 Sun 18:37]
       :PROPERTIES:
       :rating:   7.6
       :END:
 
-***** 2DONE [#A] 5.03 Orr
+***** DONE [#A] 5.03 Orr
       CLOSED: [2021-01-31 Sun 18:37]
       :PROPERTIES:
       :rating:   8.8
       :END:
 
-***** 2DONE [#B] 5.04 Superiority Complex
+***** DONE [#B] 5.04 Superiority Complex
       CLOSED: [2021-01-31 Sun 18:37]
       :PROPERTIES:
       :rating:   8.1
@@ -824,7 +824,7 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
       :rating:   8.6
       :END:
 
-***** 2DONE [#B] 5.7 Zero Hour
+***** DONE [#B] 5.7 Zero Hour
       CLOSED: [2021-05-07 Fri 16:50]
       :PROPERTIES:
       :rating:   8.2
@@ -881,10 +881,10 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
       :rating:   8.5
       :END:
 
-***** 2DONE [#C] 6.5 Flight 405 (7.8) :Norton:P2019:DW2022_08_spinoffs:
+***** DONE [#C] 6.5 Flight 405 (7.8) :Norton:P2019:DW2022_08_spinoffs:
       CLOSED: [2022-08-23 Tue 08:55] SCHEDULED: <2022-08-06 Sat>
 
-***** 2DONE [#A] 6.6 Hostile Environment (9.0) :Tyler:DW2022_09_spinoffs:
+***** DONE [#A] 6.6 Hostile Environment (9.0) :Tyler:DW2022_09_spinoffs:
       CLOSED: [2022-09-26 Mon 19:42] SCHEDULED: <2022-09-11 Sun>
 
 ***** 3QTR [#A] 6.7 Another Man's Shoes (8.8) :Norton:P2019:DW2022_10_spinoffs:
@@ -1171,7 +1171,7 @@ https://m.soundcloud.com/overtonaudios/sets/torchwood-new-era-2021
 
 【【神秘博士广播剧】The Dairy of River Song 102 I Went to a Marvellous Party 我参加了个超棒的派对-哔哩哔哩】 https://b23.tv/BV1Lx4y1o7mS
 
-***** 2DONE [#B] 1.3 Signs :bilibili:
+***** DONE [#B] 1.3 Signs :bilibili:
       CLOSED: <2020-09-18 Fri 21:11>
 
 【【神秘博士广播剧】The Dairy of River Song 103 Signs 蛛丝马迹-哔哩哔哩】 https://b23.tv/BV1Lp4y1N7cs
@@ -1263,7 +1263,7 @@ The most exclusive, most discreet dining experience outside the universe. For
 
 It is here that the Doctor has a date. With River Song. And with death.
 
-***** 2DONE [#D] 3.4 The Furies (7.3) :5th_Dr:
+***** DONE [#D] 3.4 The Furies (7.3) :5th_Dr:
       CLOSED: [2021-06-17 Thu 23:09]
       :PROPERTIES:
       :rating:   7.3
@@ -1309,7 +1309,7 @@ With the Discordia on their tail, River and her friends run for their lives 
       :END:
 
 **** DoRS 5 :P2019:
-***** 2DONE [#A] 5.1 The Bekdel Test :Master_missy:plot_yes:bilibili:
+***** DONE [#A] 5.1 The Bekdel Test :Master_missy:plot_yes:bilibili:
       CLOSED: [2021-05-28 Fri 08:51]
       :PROPERTIES:
       :rating:   8.6
@@ -1317,7 +1317,7 @@ With the Discordia on their tail, River and her friends run for their lives 
 
 【［神秘博士广播剧］missy和river被绑架至神秘研究所，幕后黑手究竟是谁?《River Song的日记: 贝克德尔测验》-哔哩哔哩】 https://b23.tv/MNnZ13F
 
-***** 2DONE [#D] 5.2 Animal Instinct :Master_decayed:D2021_07_extra:plot_no:
+***** DONE [#D] 5.2 Animal Instinct :Master_decayed:D2021_07_extra:plot_no:
       CLOSED: [2021-07-27 Tue 23:11]
       :PROPERTIES:
       :rating:   7.4
@@ -2051,7 +2051,7 @@ Braxiatel的收藏被第五轴占据，由伯尼斯过去的人物领导。
 **** novel: The Big Hunt
 **** anthology: A Life Worth Living
 **** anthology: A Life in Pieces
-**** 2DONE [#A] 5.1 The Grel Escape :DW2022_08_spinoffs:
+**** DONE [#A] 5.1 The Grel Escape :DW2022_08_spinoffs:
      CLOSED: [2022-08-03 Wed 19:48] SCHEDULED: <2022-08-06 Sat>
      :PROPERTIES:
      :rating:   8.5
@@ -2151,7 +2151,7 @@ http://drwhoguide.com/bs_a18.htm
      :rating:   8.0
      :END:
 
-**** 2DONE [#C] 1.3 Private Enemy No. 1 :Ruth_Leonidas:DW2023_12_spinoffs:
+**** DONE [#C] 1.3 Private Enemy No. 1 :Ruth_Leonidas:DW2023_12_spinoffs:
      CLOSED: [2023-12-19 Tue 08:53] SCHEDULED: <2023-12-17 Sun>
      :PROPERTIES:
      :rating:   7.8
@@ -2164,7 +2164,7 @@ http://drwhoguide.com/bs_a18.htm
      :END:
 
 *** Boxset 2: Road Trip :P2012:plot_yes:Ruth_Leonidas:
-**** 2DONE [#C] 2.1 Brand Management :dw2025_q4b_spinoffs:
+**** DONE [#C] 2.1 Brand Management :dw2025_q4b_spinoffs:
      CLOSED: [2025-12-23 Tue 09:03] SCHEDULED: <2025-12-07 Sun>
      :PROPERTIES:
      :rating:   7.7
@@ -2228,7 +2228,7 @@ http://drwhoguide.com/bs_a18.htm
 Bernice Summerfield is on Skaro, and she's very much on her own. The Doctor can't get to her, not this time. All Benny can do is stay alive for as long as possible. And, in a city full of Daleks, that's not going to be very long.
 
 *** vol.2 The Triumph of Sutekh :Sutekh:P2015:
-**** 2DONE [#C] 2.1 - The Pyramid of Sutekh :7th_Dr:dw2025_q2a_doctor:
+**** DONE [#C] 2.1 - The Pyramid of Sutekh :7th_Dr:dw2025_q2a_doctor:
      CLOSED: <2025-04-10 Thu 12:58> SCHEDULED: <2025-04-05 Sat>
      :PROPERTIES:
      :rating:   7.9
@@ -2344,7 +2344,7 @@ https://www.bilibili.com/video/BV1QT41147a8
      :END:
 
 *** vol.7 Blood & Steel :P2022_09:Cybermen:Unbound_Dr:2buy:
-**** 2DONE [#B] 7.1 Willkommen 欢迎 :DW2022_11_doctor:
+**** DONE [#B] 7.1 Willkommen 欢迎 :DW2022_11_doctor:
      CLOSED: [2023-03-22 Wed 08:44] SCHEDULED: <2022-11-23 Wed>
 
 **** 3QTR [#B] 7.2 Wulf :DW2022_12_doctor:
@@ -2526,7 +2526,7 @@ Davros 只出现在新闻画面
 **** 3QTR MR015 The Mutant Phase :Dalek_War_1st:🎧:5th_Dr:Nyssa:D2021_10_daleks:
      CLOSED: [2021-10-23 Sat 20:14]
 
-**** 2DONE MR193 Masters of Earth :Dalek_War_1st:6th_Dr:Peri:🎧:D2021_10_daleks:
+**** DONE MR193 Masters of Earth :Dalek_War_1st:6th_Dr:Peri:🎧:D2021_10_daleks:
      CLOSED: [2021-10-18 Mon 20:19]
 
 **** HALF [#C] EA7.1 After the Daleks :Susan:
@@ -2540,7 +2540,7 @@ Davros 只出现在新闻画面
 *** Second Dalek War (25xx)
 **** tv: Frontier in Space
 **** tv: Planet of the Daleks
-**** 2DONE [#C] audio: Out of Time :Dalek_War_2nd:D2021_10_daleks:10th_Dr:🎧:bilibili:
+**** DONE [#C] audio: Out of Time :Dalek_War_2nd:D2021_10_daleks:10th_Dr:🎧:bilibili:
      CLOSED: [2021-10-24 Sun 22:15]
      :PROPERTIES:
      :rating:   7.9
@@ -2637,7 +2637,7 @@ https://www.youtube.com/watch?v=r1BCt3CQARs
 https://www.youtube.com/watch?v=zO1CxiQ2Dmk 
 
 ** CyberMondas
-*** 2DONE DWC: 04x02 The Tenth Planet :1D:
+*** DONE DWC: 04x02 The Tenth Planet :1D:
 *** DONE 10x11 World Enough and Time :12D:D2022_Q4:
 *** DONE [#A] MR034 Spare Parts :5th_Dr:
     CLOSED: [2021-03-16 Tue 20:59]
@@ -2650,12 +2650,12 @@ https://www.youtube.com/watch?v=zO1CxiQ2Dmk
     :rating:   8.4
     :END:
 
-*** 2DONE [#D] MR087 The Gathering :5th_Dr:
+*** DONE [#D] MR087 The Gathering :5th_Dr:
     :PROPERTIES:
     :rating:   7.0
     :END:
 
-*** 2DONE [#A] MR153 The Silver Turk :8th_Dr:Mary:DW2022_12_doctor:
+*** DONE [#A] MR153 The Silver Turk :8th_Dr:Mary:DW2022_12_doctor:
     CLOSED: [2022-12-09 Fri 20:16] SCHEDULED: <2022-11-26 Sat>
     :PROPERTIES:
     :rating:   8.6
@@ -2667,8 +2667,8 @@ DWM 175-178
 
 *** COMIC: The Cybermen :no_doctor:D2022_Q4:
 ** CyberTelosian
-*** 2DONE DWC 04x06 The Moonbase :2D:
-*** 2DONE DWC 05x01 The Tomb of the Cybermen
+*** DONE DWC 04x06 The Moonbase :2D:
+*** DONE DWC 05x01 The Tomb of the Cybermen
 *** CANCEL [#E] 4DA 4.8 Return to Telos :4D:
     CLOSED: [2021-03-16 Tue 23:18]
     :PROPERTIES:
@@ -2742,7 +2742,7 @@ https://tardis.fandom.com/wiki/Conversion_(Cyberman_audio_story)
       :rating:   7.7
       :END:
 
-**** 2DONE [#B] MR103 The Girl Who Never Was :8th_Dr:Charley:
+**** DONE [#B] MR103 The Girl Who Never Was :8th_Dr:Charley:
      :PROPERTIES:
      :rating:   8.4
      :END:
@@ -2762,7 +2762,7 @@ https://tardis.fandom.com/wiki/Conversion_(Cyberman_audio_story)
      :rating:   7.1
      :END:
 
-**** 2DONE [#C] 3DA 4.2 The Tyrants of Logic :3rd_Dr:
+**** DONE [#C] 3DA 4.2 The Tyrants of Logic :3rd_Dr:
      :PROPERTIES:
      :rating:   7.5
      :END:
@@ -3423,7 +3423,7 @@ http://www.drwhoguide.com/kaldor03.htm
     :rating:   7.5
     :END:
 
-*** 2DONE [#C] 3.3 - The Forgotten Village :dw2025_q2b_spinoffs:
+*** DONE [#C] 3.3 - The Forgotten Village :dw2025_q2b_spinoffs:
     CLOSED: <2025-06-12 Thu 09:26> SCHEDULED: <2025-06-08 Sun>
     :PROPERTIES:
     :rating:   7.8
@@ -3955,7 +3955,7 @@ From Donna's perspective, the anthology is set after /Forest of the Dead/.
 
 【【神秘博士广播剧熟肉】Kidnapped! 103 The Sorcerer of Albion 英格兰的巫师-哔哩哔哩】 https://b23.tv/N0bX4mv
 
-*** 2DONE [#C] 4. The Chiswick Cuckoos (7.9) :10th_Dr:bilibili:DW2023_01_spinoffs:
+*** DONE [#C] 4. The Chiswick Cuckoos (7.9) :10th_Dr:bilibili:DW2023_01_spinoffs:
     CLOSED: [2023-01-15 Sun 10:46] SCHEDULED: <2023-01-15 Sun>
 
 【【神秘博士广播剧熟肉】Kidnapped! 104 The Chiswick Cuckoos 奇斯威克的布谷鸟-哔哩哔哩】 https://b23.tv/tSBFEZL

@@ -1,4 +1,4 @@
-#+TODO: TODO NEXT READY BLOCK TBR START HALF 3QTR | 2DONE DONE CANCEL
+#+TODO: TODO NEXT READY BLOCK TBR START HALF | DONE 3QTR CANCEL
 #+PRIORITIES: A F C
 
 * 8th Doctor :8th_Dr:
@@ -70,7 +70,7 @@ CLOSED: [2020-09-24 Thu 08:32]
 【【神秘博士广播剧熟肉】MR029-The Chime of Midnight-午夜钟声-哔哩哔哩】 
 https://b23.tv/BV1DM4m1m7iD
 
-***** 2DONE [#B] 030 - Seasons of Fear :bilibili:
+***** DONE [#B] 030 - Seasons of Fear :bilibili:
 CLOSED: [2020-11-26 Thu 08:26]
 :PROPERTIES:
 :rating:   8.0
@@ -135,7 +135,7 @@ CLOSED: [2021-03-22 Mon 22:35]
 
 【[AI字幕][神秘博士广播剧] MR 053 The Creed of the Kromon-哔哩哔哩】 https://b23.tv/BV1Nc7ezaE9G
 
-***** 2DONE [#A] 54. The Natural History of Fear :plot_no:Charley:D2021_07_dr:bilibili:
+***** DONE [#A] 54. The Natural History of Fear :plot_no:Charley:D2021_07_dr:bilibili:
 CLOSED: [2021-07-06 Tue 17:15]
 :PROPERTIES:
 :rating:   8.5
@@ -394,13 +394,13 @@ https://b23.tv/BV1CA411Q7Yk
 ***** [#C] SvsR #1. The Battle of Giant's Causeway :P2024_01:Crizz:
 ***** [#F] ST13.4 Ahead of Time :P2025_04:
 *** with Mary
-**** 2DONE [#B] MR123d. Mary's Story :plot_yes:Mary:½CD:
+**** DONE [#B] MR123d. Mary's Story :plot_yes:Mary:½CD:
 CLOSED: [2021-03-22 Mon 22:31]
 :PROPERTIES:
 :rating:   8.4
 :END:
 
-**** 2DONE [#A] 153 Silver Turk :P2011:Mary:Cybermen:plot_yes:已购:bilibili:
+**** DONE [#A] 153 Silver Turk :P2011:Mary:Cybermen:plot_yes:已购:bilibili:
 CLOSED: <2021-03-20 Sat 21:30>
 :PROPERTIES:
 :rating:   8.6
@@ -447,7 +447,7 @@ CLOSED: <2021-01-01 Fri 07:40>
 :rating:   7.1
 :END:
 
-***** 2DONE [#B] 1.7/1.8 Human Resources :cybermen:2CD:D2022_04_doctor:
+***** DONE [#B] 1.7/1.8 Human Resources :cybermen:2CD:D2022_04_doctor:
 SCHEDULED: <2022-04-29 Fri>
 :PROPERTIES:
 :rating:   8.5
@@ -507,7 +507,7 @@ https://doctorwho.guide/bbc7_09.htm
 :rating:   7.9
 :END:
 
-***** 2DONE [#C] 2.6 - The Zygon Who Fell to Earth :Zygons:D2021_08_dr:
+***** DONE [#C] 2.6 - The Zygon Who Fell to Earth :Zygons:D2021_08_dr:
 :PROPERTIES:
 :rating:   7.9
 :END:
@@ -544,7 +544,7 @@ http://www.drwhoguide.com/bbc7_13.htm
 SCHEDULED: <2026-04-18 Sat>
 
 **** 8DA series 4 :P2010:scripted:
-***** 2DONE [#B] 4.1 _Death in Blackpool_ :Zygons:D2021_08_dr:
+***** DONE [#B] 4.1 _Death in Blackpool_ :Zygons:D2021_08_dr:
 :PROPERTIES:
 :rating:   8.4
 :END:
@@ -555,13 +555,13 @@ SCHEDULED: <2026-04-18 Sat>
 
 【神秘博士广播剧：8DA -凯鲁斯之书-哔哩哔哩】 https://b23.tv/BV1DDySBqEYZ
 
-***** 2DONE [#C] 4.5 Deimos :ice_warriors:2CD:
+***** DONE [#C] 4.5 Deimos :ice_warriors:2CD:
 CLOSED: [2021-06-17 Thu 23:27]
 :PROPERTIES:
 :rating:   7.8
 :END:
 
-***** 2DONE [#B] 4.6 The Resurrection of Mars :ice_warriors:Monk:
+***** DONE [#B] 4.6 The Resurrection of Mars :ice_warriors:Monk:
 CLOSED: [2021-06-17 Thu 23:27]
 :PROPERTIES:
 :rating:   8.2
@@ -569,10 +569,10 @@ CLOSED: [2021-06-17 Thu 23:27]
 
 ***** TODO [#C] 4.7  Relative Dimensions (7.6) :Susan:Alex:Lucie:
 ***** [#D] 4.8  Prisoner of the Sun (7.3)
-***** 2DONE [#A] 4x09 Lucie Miller (8.9) :2CD:
+***** DONE [#A] 4x09 Lucie Miller (8.9) :2CD:
 CLOSED: <2021-10-17 Sun 10:44>
 
-***** 2DONE [#A] 4x10 To the Death (9.1) :Daleks:Monk:Lucie:Tamsin:Susan:Alex:
+***** DONE [#A] 4x10 To the Death (9.1) :Daleks:Monk:Lucie:Tamsin:Susan:Alex:
 CLOSED: [2021-10-17 Sun 15:11]
 
 **** misc
@@ -603,7 +603,7 @@ CLOSED: <2020-09-26 Sat 20:15>
 CLOSED: [2020-09-27 Sun 18:36]
 
 **** Dark Eyes vol.2
-***** 2DONE [#C] 2.1 The Traitor (7.9) :Liv:
+***** DONE [#C] 2.1 The Traitor (7.9) :Liv:
 CLOSED: [2020-10-30 Fri 18:15]
 
 ***** HALF [#C] 2.2 The White Room (7.6) :Molly:Viyrans:
@@ -614,26 +614,26 @@ CLOSED: <2021-07-16 Fri 16:32>
 【【神秘博士广播剧】Dark Eyes 204 - Eyes of the Master 法师之眼-哔哩哔哩】 https://b23.tv/BV1SB4y1v7Bw
 
 **** Dark Eyes vol.3 :Master_reborn:Liv:
-***** 2DONE [#C] 3.1 The Death of Hope (7.5) :D2021_07_extra:
+***** DONE [#C] 3.1 The Death of Hope (7.5) :D2021_07_extra:
 CLOSED: [2021-07-27 Tue 23:10]
 
 ***** DONE [#D] DE3.2 The Reviled (7.2) :D2021_08_extra:
 CLOSED: <2021-08-20 Fri 08:56>
 
-***** 2DONE [#B] DE3.3 Masterplan (8.4) :D2021_08_extra:
-***** 2DONE [#C] DE3.4 Rule of the Eminence (7.5) :D2021_09_extra:
+***** DONE [#B] DE3.3 Masterplan (8.4) :D2021_08_extra:
+***** DONE [#C] DE3.4 Rule of the Eminence (7.5) :D2021_09_extra:
 SCHEDULED: <2021-09-24 Fri>
 
 **** Dark Eyes vol.4 :Liv:
 ***** DONE [#A] 4.1 A Life in the Day (8.9)
 ***** HALF [#C] 4.2 The Monster of Montmartre (7.8)
-***** 2DONE [#B] 4.3 Master of the Daleks :Master_reborn:D2021_10_master:
+***** DONE [#B] 4.3 Master of the Daleks :Master_reborn:D2021_10_master:
 CLOSED: <2021-10-28 Thu 14:30>
 
 *** with Liv & Helen :Liv:Helen:
 **** 📂Doom Coalition :plot_yes:scripted:
 ***** DC vol.1
-****** 2DONE [#B] 1.1 The Eleven :D2022_01_doctor:bilibili:
+****** DONE [#B] 1.1 The Eleven :D2022_01_doctor:bilibili:
 CLOSED: [2022-01-05 Wed 16:56] SCHEDULED: <2022-01-30 Sun>
 :PROPERTIES:
 :thetimescales: 8.4
@@ -642,7 +642,7 @@ CLOSED: [2022-01-05 Wed 16:56] SCHEDULED: <2022-01-30 Sun>
 【【神秘博士广播剧汉化】欢迎新反派十一光荣登场 Doom Coalition 101 The Eleven-哔哩哔哩】 
 https://b23.tv/BV1RY411b7Af
 
-****** 2DONE [#A] 1.2 The Red Lady :Helen:D2022_01_doctor:bilibili:
+****** DONE [#A] 1.2 The Red Lady :Helen:D2022_01_doctor:bilibili:
 CLOSED: <2022-01-19 Wed 20:06> SCHEDULED: <2022-01-30 Sun>
 :PROPERTIES:
 :thetimescales: 9.3
@@ -1219,7 +1219,7 @@ https://b23.tv/BV1ju411x7qo
 
 *** Master of Worlds (UNIT new #6.4) :Master_war:🎧:
 *** /📂The War Master series 9: Solitary Confinement/ :🎧:P2023_06:Master_war:plot_cast:
-**** 2DONE [#A] 9.1 - The Walls of Absence :bilibili:dw2025_q2b_spinoffs:
+**** DONE [#A] 9.1 - The Walls of Absence :bilibili:dw2025_q2b_spinoffs:
 CLOSED: [2025-06-29 Sun 06:52] SCHEDULED: <2025-06-15 Sun>
 :PROPERTIES:
 :rating:   8.6
@@ -1252,7 +1252,7 @@ SCHEDULED: <2025-10-26 Sun>
 【【广播剧汉化】法师的画饼日常 The War Master 战争法师 903 The Life and Loves of Mr Alexander-哔哩哔哩】
 https://b23.tv/BV1Nu411u79c
 
-**** 2DONE [#C] 9.4 - The Kicker :bilibili:dw2025_q4b_spinoffs:
+**** DONE [#C] 9.4 - The Kicker :bilibili:dw2025_q4b_spinoffs:
 CLOSED: [2026-01-07 Wed 08:35] SCHEDULED: <2026-01-11 Sun>
 :PROPERTIES:
 :rating:   7.8
@@ -1295,7 +1295,7 @@ As the Master inflitrates the Kaled scientific elite, the Time Lords seek to cou
 
 【[神秘博士广播剧] The War Master 402: The Master's Dalek Plan 法师的戴立克-哔哩哔哩】 https://b23.tv/BV14iGJ6eEqv
 
-**** 2DONE [#A] 4.3 Shockwave :Master_unbound:D2021_11_master:bilibili:
+**** DONE [#A] 4.3 Shockwave :Master_unbound:D2021_11_master:bilibili:
 CLOSED: <2021-11-16 Tue 14:35> SCHEDULED: <2021-11-13 Sat>
 :PROPERTIES:
 :rating:   4.3
@@ -1335,12 +1335,12 @@ CLOSED: [2020-11-09 Mon 18:14]
 
 【[神秘博士广播剧]Gallifrey: Time War 104  Desperate Measures-哔哩哔哩】 https://b23.tv/BV13MSqBjEyM
 
-*** 2DONE [#C] WM1.2 The Good Master :Master_war:Cole:D2021_08_extra:🎧:
+*** DONE [#C] WM1.2 The Good Master :Master_war:Cole:D2021_08_extra:🎧:
 :PROPERTIES:
 :rating:   7.8
 :END:
 
-*** 2DONE [#A] WM1.3 The Sky Man :Cole:D2021_09_extra:🎧:bilibili:
+*** DONE [#A] WM1.3 The Sky Man :Cole:D2021_09_extra:🎧:bilibili:
 CLOSED: [2021-09-24 Fri 18:50] SCHEDULED: <2021-09-04 Sat>
 :PROPERTIES:
 :rating:   9.2
@@ -1355,7 +1355,7 @@ CLOSED: [2024-12-14 Sat 15:18] SCHEDULED: <2024-05-26 Sun>
 【【广播剧汉化】恶魔的低语 The War Master 战争法师 701 The Forest Penitence-哔哩哔哩】 
 https://b23.tv/BV1Pa411W7xi
 
-**** 2DONE [#D] 7.2 The Players :bilibili:DW2024_Q3a_spinoffs:
+**** DONE [#D] 7.2 The Players :bilibili:DW2024_Q3a_spinoffs:
 CLOSED: [2024-07-09 Tue 13:25] SCHEDULED: <2024-06-23 Sun>
 
 【【广播剧汉化】蹩脚的自辩 The War Master 战争法师 702 The Players-哔哩哔哩】 
@@ -1400,7 +1400,7 @@ SCHEDULED: <2023-12-24 Sun>
 :END:
 
 *** /📂The War Master series 5: Hearts of Darkness/ :Master_War:🎧:
-**** 2DONE [#B] 5.1 - The Edge of Redemption :plot_yes:DW2022_11_spinoffs:bilibili:
+**** DONE [#B] 5.1 - The Edge of Redemption :plot_yes:DW2022_11_spinoffs:bilibili:
 CLOSED: [2022-11-07 Mon 20:49] SCHEDULED: <2022-11-09 Wed>
 :PROPERTIES:
 :rating:   8.1
@@ -1555,13 +1555,13 @@ SCHEDULED: <2024-05-31 Fri>
 **** [#E] 3.2 The Voord Alliance
 ** 6. Derilobia Lost
 *** 📂8D Time War vol.2 :Bliss:P2018:scripted:🎧:
-**** 2DONE [#C] 2.1 The Lords of Terror
+**** DONE [#C] 2.1 The Lords of Terror
 CLOSED: [2020-12-09 Wed 19:04]
 :PROPERTIES:
 :rating:   7.6
 :END:
 
-**** 2DONE [#B] 2.2 Planet of the Ogrons
+**** DONE [#B] 2.2 Planet of the Ogrons
 CLOSED: [2020-12-09 Wed 19:04]
 :PROPERTIES:
 :rating:   8.3
@@ -1621,7 +1621,7 @@ https://b23.tv/BV16a411T71i
 day 5: 博士来访，但 davros 并不认得，博士说不可能，昨天刚。。。；daleks 从 portal 过来，杀了他妻子
 day 4: davros 醒来，发现妻子还或者；博士和 bliss 才找他，说portal打开后他们一直在见面，davros 赶走了他们，带着妻子往城外逃，但车堵住了，天空出现了那种叫做 daleka 的
 
-**** 2DONE [#C] 4.3 Dreadshade :D2021_11_davros:bilibili:
+**** DONE [#C] 4.3 Dreadshade :D2021_11_davros:bilibili:
 CLOSED: [2021-11-12 Fri 18:30] SCHEDULED: <2021-11-20 Sat>
 :PROPERTIES:
 :rating:   7.9
@@ -1789,7 +1789,7 @@ CLOSED: <2019-10-29 Tue 13:59>
 CLOSED: [2020-09-23 Wed 14:01]
 
 *** 📂WDB vol.1 Forged in Fire :P2021_06:🎧:
-**** 2DONE [#B] 1.1 - Light the Flame :D2022_06_doctor:
+**** DONE [#B] 1.1 - Light the Flame :D2022_06_doctor:
 CLOSED: [2022-07-15 Fri 21:16] SCHEDULED: <2022-06-25 Sat>
 :PROPERTIES:
 :rating:   8.4
@@ -1931,7 +1931,7 @@ CLOSED: [2023-10-26 Thu 08:21] SCHEDULED: <2023-10-29 Sun>
 【【神秘博士广播剧汉化】 战争博士 The War Doctor 201 Legion of the Lost-哔哩哔哩】 
 https://b23.tv/BV1jq4y1P75e
 
-**** 2DONE [#E] 2.2 - A Thing of Guile :bilibili:DW2024_Q3b_doctor:
+**** DONE [#E] 2.2 - A Thing of Guile :bilibili:DW2024_Q3b_doctor:
 CLOSED: [2024-08-02 Fri 21:55] SCHEDULED: <2024-07-27 Sat>
 :PROPERTIES:
 :rating:   6 7

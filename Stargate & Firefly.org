@@ -7,12 +7,12 @@
 https://en.m.wikipedia.org/wiki/Serenity_(comics)
 
 *** DONE Serenity - Those Left Behind #01-03 :P2006:hanzify:
-*** 2DONE Serenity - Better Days #01-03 :P2008:mini:
-*** 2DONE Serenity - The Sheperd's Tale :P2010:hanzify:oneshot:
+*** DONE Serenity - Better Days #01-03 :P2008:mini:
+*** DONE Serenity - The Sheperd's Tale :P2010:hanzify:oneshot:
 *** Serenity - Downtime and The Other Half :P2011:oneshot:
 *** Serenity - Float Out :P2010:oneshot:
-*** 2DONE Serenity - Leaves On The Wind #01-06 :P2014:mini:
-*** 2DONE Serenity - No Power in the 'Verse #01-06 :P2014:mini:
+*** DONE Serenity - Leaves On The Wind #01-06 :P2014:mini:
+*** DONE Serenity - No Power in the 'Verse #01-06 :P2014:mini:
 CLOSED: <2021-07-18 Sun 23:20>
 
 *** The Warrior and the Wind ?
@@ -88,7 +88,7 @@ In this one-shot special detailing a collection of pivotal moments of the much-b
 CLOSED: [2022-11-05 Sat 12:09] SCHEDULED: <2022-10-06 Thu>
 
 ** SG-1 :sg1:📺:
-*** 2DONE SG-1 S1 :P1997:
+*** DONE SG-1 S1 :P1997:
 *** DONE SG-1 S2
 **** DONE 2x01 The Serpent's Lair
 **** DONE 2x02 In the Line of Duty
@@ -2105,7 +2105,7 @@ CLOSED: [2023-07-23 Sun 07:54]
 CLOSED: [2023-07-23 Sun 15:16]
 
 ****** DONE Darkness (Star Wars (1998) #32-35) :hanzify:Quinlan_Vos:
-***** 2DONE epic collection: The Menace Revealed Vol. 3 :P2023:S2024_07:
+***** DONE epic collection: The Menace Revealed Vol. 3 :P2023:S2024_07:
 CLOSED: [2024-06-14 Fri 12:40]
 
  - Star Wars: Republic (1998)

@@ -145,7 +145,7 @@ CLOSED: [2021-02-20 Sat 19:34]
 :rating:   5.4
 :END:
 
-**** 2DONE [#D] 3x05 Is There in Truth No Beauty?
+**** DONE [#D] 3x05 Is There in Truth No Beauty?
 CLOSED: [2021-04-02 Fri 20:38]
 :PROPERTIES:
 :rating:   7.1
@@ -173,7 +173,7 @@ CLOSED: [2022-06-26 Sun 10:44] SCHEDULED: <2022-06-18 Sat>
 
 一颗小行星，其实是艘飞船。但里面的人却懵然不知
 
-**** 2DONE [#B] 3x09 The Tholian Web :mirror_universe:
+**** DONE [#B] 3x09 The Tholian Web :mirror_universe:
 :PROPERTIES:
 :rating:   8.2
 :END:
@@ -337,13 +337,13 @@ download:
 - 
 
 ** movies :🎦:
-*** 2DONE 1. Star Trek: The Motion Picture 无限太空 :P1979:
-*** 2DONE 2. The Wrath of Khan 可汗怒吼 :P1982:Khan:genetically_engineered:
+*** DONE 1. Star Trek: The Motion Picture 无限太空 :P1979:
+*** DONE 2. The Wrath of Khan 可汗怒吼 :P1982:Khan:genetically_engineered:
 :PROPERTIES:
 :imdb:     7.7
 :END:
 
-*** 2DONE 3. The Search for Spock 石破天惊 :P1984:
+*** DONE 3. The Search for Spock 石破天惊 :P1984:
 :PROPERTIES:
 :imdb:     6.6
 :END:
@@ -438,27 +438,27 @@ https://memory-beta.breezewiki.com/wiki/Klingons_(comic)
 **** DONE [#C] Year Four :2007:
 CLOSED: [2021-02-14 Sun 16:09]
 
-***** 2DONE 01
+***** DONE 01
 
 进取号路遇一个巨大的行星系统，Kirk 等人在其中那颗宜居星球上发现一个基因科学家在这里做实验，他克隆/改造出了好些奇怪的类人生物。他最终的目的是想拯救他病危的妻子，但当发现他造的生物会袭击他人时，他把他们全部杀死了，包括他自己
 
-***** 2DONE 02
+***** DONE 02
 
 进取号与一个星球签署二锂资源开采协议，但却遭遇了传统反对派的暗杀抗议。进取号在为“不干涉原则是否与采矿行为矛盾”进行争论的时候，却发现此星球正反两边都打算干掉他们，而二锂主矿也在纠纷中被炸毁
 
-***** 2DONE 03
+***** DONE 03
 
 星联与一个殖民地 Phi-11 失联了，进取号前去调查发现人都神秘死亡了。回到舰上之后 Kirk 逐渐发现舰桥人员开始不听他的命令了，接着指挥权被McCoy解除，因为他感染上病毒了。但 Kirk 认为是其它人感染上了病毒，结果只有护士 Chapel 相信他...
 
-***** 2DONE 04
+***** DONE 04
 
 进取号遇到一个星球，上面的人在到处安装摄像头，什么都直播。Kirk 和他的船员们自然也成了新的素材，在被武力胁迫无法离开的情况下，Kirk 不得不跟他们签订了“演戏”的合同。要怎样才能脱身呢？
 
-***** 2DONE 05
+***** DONE 05
 
 进取号进行一项粒子加速科学实验，不料却造出一块奇怪的粒子云，Spock 被困其中
 
-***** 2DONE 06
+***** DONE 06
 
 一艘星舰出了事故，进取号只找到了一些残骸。他们去附近一个星球寻找幸存者，却被一个机器人捕获了，然后发现这个机器人以原来那些人为原材料来克隆出新的婴儿
 
@@ -509,7 +509,7 @@ CLOSED: [2022-07-03 Sun 23:06]
 **** DONE [#B] All the Infinite Ways :Marvel:P1981:Klingons:
 CLOSED: [2021-02-18 Thu 23:03]
 
-**** 2DONE Gold Key 100-page (IDW selection) :hanzify:TOS:
+**** DONE Gold Key 100-page (IDW selection) :hanzify:TOS:
 ***** DONE The Planet of No Return 不归之地
 CLOSED: <2021-01-24 Sun 13:18>
 
@@ -1147,7 +1147,7 @@ CLOSED: [2025-10-04 Sat 17:18]
 :imdb:     6.6
 :END:
 
-*** 2DONE 08. First Contact 第一类接触 :Y2373:P1996:Borg:Borg_Queen:Data:alternate_timeline:
+*** DONE 08. First Contact 第一类接触 :Y2373:P1996:Borg:Borg_Queen:Data:alternate_timeline:
 :PROPERTIES:
 :imdb:     7.6
 :END:
@@ -1928,9 +1928,9 @@ CLOSED: [2021-02-20 Sat 13:13]
 
 丑哭了
 
-**** LATER Divided We Fall :TNG:DS9:P2001:crossover:S2026_Q3:
+**** LATER Divided We Fall :TNG:DS9:P2001:crossover:S2027_Q1:
 *** IDW :IDW:
-**** 2DONE Fool's Gold :2010:
+**** DONE Fool's Gold :2010:
 **** DONE Too Long a Sacrifice (2020) :hanzify:
 CLOSED: [2021-01-18 Mon 22:11]
 
@@ -2514,24 +2514,24 @@ connections:
 *** Star Trek Beyond :P2016:
 ** comics :IDW:📚:
 *** on-going (2012-2016)
-**** 2DONE 01-02 Where No Man Has Gone Before :tv_based:hanzify:
-**** 2DONE 03-04 The Galileo Seven :tv_based:hanzify:
-**** 2DONE 05-06 Operation: Annihilate :tv_based:
-**** 2DONE 07-08 Vulcan's Vengeance :movie_continuation:
-**** 2DONE 09-10 The Return of the Archons :tv_based:
-**** 2DONE 11-12 The Truth About Tribbles :hanzify:
-**** 2DONE 13 Hendorff (The Redshirt's Tale) :hanzify:
-**** 2DONE 14 Keenser's Tale :hanzify:
+**** DONE 01-02 Where No Man Has Gone Before :tv_based:hanzify:
+**** DONE 03-04 The Galileo Seven :tv_based:hanzify:
+**** DONE 05-06 Operation: Annihilate :tv_based:
+**** DONE 07-08 Vulcan's Vengeance :movie_continuation:
+**** DONE 09-10 The Return of the Archons :tv_based:
+**** DONE 11-12 The Truth About Tribbles :hanzify:
+**** DONE 13 Hendorff (The Redshirt's Tale) :hanzify:
+**** DONE 14 Keenser's Tale :hanzify:
 **** DONE 15-16 Mirrored :mirror_universe:
 CLOSED: [2022-07-10 Sun 15:06] SCHEDULED: <2022-08-01 Mon>
 
-**** 2DONE 17 Bones :hanzify:
-**** 2DONE 18 The Voice of a Falling Star :hanzify:
-**** 2DONE 19 Scotty :hanzify:
-**** 2DONE 20 Red Level Down :hanzify:
-**** 2DONE 21-23 After Darkness :movie_continuation:
-**** 2DONE 24 Gorn
-**** 2DONE 25-28 The Khitomer Conflict :movie_continuation:
+**** DONE 17 Bones :hanzify:
+**** DONE 18 The Voice of a Falling Star :hanzify:
+**** DONE 19 Scotty :hanzify:
+**** DONE 20 Red Level Down :hanzify:
+**** DONE 21-23 After Darkness :movie_continuation:
+**** DONE 24 Gorn
+**** DONE 25-28 The Khitomer Conflict :movie_continuation:
 **** DONE 29-30 Parallel Lives :alternate_universe:
 CLOSED: [2022-07-10 Sun 16:10] SCHEDULED: <2022-08-01 Mon>
 
@@ -2563,9 +2563,9 @@ CLOSED: <2022-07-15 Fri 19:16> SCHEDULED: <2022-07-14 Thu>
 ***** 53-54 Reunion
 SCHEDULED: <2025-02-06 Thu>
 
-**** 2DONE 55-58 Legacy of Spock :Spock:
+**** DONE 55-58 Legacy of Spock :Spock:
 **** 59-60 final
-*** 2DONE Star Trek: Boldly Go
+*** DONE Star Trek: Boldly Go
 **** DONE IDIC #13-18 :alternate_universe:hanzify:
 CLOSED: [2022-08-02 Tue 06:20] SCHEDULED: <2022-07-24 Sun>
 
@@ -2574,10 +2574,10 @@ CLOSED: [2022-08-02 Tue 06:20] SCHEDULED: <2022-07-24 Sun>
 **** DONE Star Trek: Countdown
 **** DONE Star Trek: Nero
 **** DONE Star Trek: Movie Adaptation
-**** 2DONE 07-08 Vulcan's Vengeance ↗
+**** DONE 07-08 Vulcan's Vengeance ↗
 **** DONE Star Trek: Countdown to Darkness
 **** DONE Star Trek: Khan
-**** 2DONE 25-28 The Khitomer Conflict ↗
+**** DONE 25-28 The Khitomer Conflict ↗
 **** DONE Star Trek: Manifest Destiny
 *** Star Trek: Starfleet Academy
 ** novels :📔:
@@ -2709,9 +2709,9 @@ CLOSED: [2024-05-29 Wed 20:34]
 
 *** 📂Discovery S5 :P2024:
 ** comics :IDW:📚:
-*** 2DONE Discovery: The Light of Kahless (卡勒斯之光) :hanzify:Kahless:Klingons:
-*** 2DONE Discovery: Succession (继位) :mirror_universe:hanzify:
-*** 2DONE Discovery: Aftermath (余波) :hanzify:
+*** DONE Discovery: The Light of Kahless (卡勒斯之光) :hanzify:Kahless:Klingons:
+*** DONE Discovery: Succession (继位) :mirror_universe:hanzify:
+*** DONE Discovery: Aftermath (余波) :hanzify:
 *** DONE Adventures in the 32nd Century :P2022:
 CLOSED: [2025-01-24 Fri 13:12] SCHEDULED: <2025-01-26 Sun>
 
@@ -3002,7 +3002,7 @@ CLOSED: [2022-07-06 Wed 23:44] SCHEDULED: <2022-07-10 Sun>
 
 TOS 试播集The Cage开篇提到了这次在 Rigel VII 上的遭遇，然后 Telosian 人也利用这次遭遇制造了幻象来激发 Pike 的保护欲。本期漫画显然是基于 The Cage 里的这些画面拓展而来的
 
-**** 2DONE 04 Nor Iron Bars a Cage :Talosians:
+**** DONE 04 Nor Iron Bars a Cage :Talosians:
 **** DONE 05-06. Cloak & Dagger
 CLOSED: [2022-07-10 Sun 10:38] SCHEDULED: <2022-07-17 Sun>
 
@@ -3150,15 +3150,15 @@ CLOSED: <2023-06-29 Thu 01:25> SCHEDULED: <2023-06-27 Tue>
 CLOSED: <2021-01-13 Wed 12:20>
 
 ****** Waypoint #05
-******* 2DONE Frontier Doctor :DS9:
+******* DONE Frontier Doctor :DS9:
 CLOSED: [2021-01-13 Wed 12:45]
 
 ****** Waypoint 2018 special
-******* 2DONE Only You Can Save Yourself :DS9:
+******* DONE Only You Can Save Yourself :DS9:
 CLOSED: [2021-01-13 Wed 12:45]
 
 ****** Waypoint 2019 special
-******* 2DONE First Year :DS9:Worf:Jadzia:
+******* DONE First Year :DS9:Worf:Jadzia:
 CLOSED: [2021-01-13 Wed 12:45]
 
 ***** Captains' Log
