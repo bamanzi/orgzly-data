@@ -94,7 +94,9 @@ DWM 584-597
 **** DONE Run (#613) :S2026_Q3:
      CLOSED: [2026-08-18 Tue 07:04]
 
-**** TODO Dance Till You Drop (#614) :S2026_Q3:
+**** DONE Dance Till You Drop (#614) :S2026_Q3:
+     CLOSED: [2026-09-21 Mon 13:34]
+
 **** No Signs of Life  (#615)
 **** His Mad Pranks (#616-621) :Belinda:
 **** Field Trip (#622-623)

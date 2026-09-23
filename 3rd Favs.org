@@ -198,6 +198,45 @@ CLOSED: [2025-04-23 Wed 16:44]
 *** DONE 4x12
 CLOSED: [2025-04-23 Wed 17:35]
 
+** DONE S5 :P2015:S2026_Q3:
+CLOSED: [2026-09-19 Sat 19:37]
+
+*** DONE 5x01
+CLOSED: [2026-09-09 Wed 23:05]
+
+*** DONE 5x02
+CLOSED: [2026-09-12 Sat 09:27]
+
+*** DONE 5x03
+CLOSED: [2026-09-12 Sat 20:26]
+
+*** DONE 5x04
+CLOSED: [2026-09-13 Sun 09:18]
+
+*** DONE 5x05
+CLOSED: [2026-09-13 Sun 10:18]
+
+*** DONE 5x06
+CLOSED: [2026-09-13 Sun 16:21]
+
+*** DONE 5x07
+CLOSED: [2026-09-16 Wed 08:34]
+
+*** DONE 5x08
+CLOSED: [2026-09-19 Sat 00:09]
+
+*** DONE 5x09
+CLOSED: [2026-09-19 Sat 14:19]
+
+*** DONE 5x10
+CLOSED: [2026-09-19 Sat 15:14]
+
+*** DONE 5x11
+CLOSED: [2026-09-19 Sat 17:30]
+
+*** DONE 5x12
+CLOSED: [2026-09-19 Sat 19:37]
+
 * Slow Horses
 
 https://breezewiki.com/slow-horses/wiki/Slow_Horses_Wiki
@@ -249,15 +288,19 @@ CLOSED: <2025-05-05 Mon 14:24>
 *** DONE S2 :P2022:
 CLOSED: <2025-06-21 Sat 10:17>
 
+*** DONE S3 :P2023:
+CLOSED: <2026-09-06 Sun 22:54>
+
 * John le Carré 约翰·勒卡雷
 ** books
-*** [#B] 3. The Spy Who Came In from the Cold 柏林谍影 :Smiley:
+*** 史迈利系列
+**** [#B] 3. The Spy Who Came In from the Cold 柏林谍影/寒风孤谍/冷战谍魂
 :PROPERTIES:
 :douban:   8.5
 :goodreads: 4.09
 :END:
 
-*** DONE [#B] 5. Tinker, Tailor, Soldier, Spy 锅匠，裁缝，士兵，间谍 :Smiley:
+**** DONE [#B] 5. Tinker, Tailor, Soldier, Spy 锅匠，裁缝，士兵，间谍 :Smiley:
 CLOSED: [2025-06-04 Wed 22:53]
 :PROPERTIES:
 :douban:   8.4
@@ -270,25 +313,25 @@ CLOSED: [2025-06-04 Wed 22:53]
 
 译林出版社的翻译最差
 
-*** NEXT [#B] 6. The Honourable Schoolboy 荣誉学生 :Smiley:
+**** NEXT [#B] 6. The Honourable Schoolboy 荣誉学生 :Smiley:
 :PROPERTIES:
 :douban:   7.2
 :goodreads: 3.99
 :END:
 
-*** [#A] 7. Smiley's People 史迈利的人马 :Smiley:
+**** [#A] 7. Smiley's People 史迈利的人马/伦敦谍影 :Smiley:
 :PROPERTIES:
 :douban:   8.6
 :goodreads: 4.29
 :END:
 
-*** [#B] 8. The Secret Pilgrim 史迈利的告别 :Smiley:
+**** [#B] 8. The Secret Pilgrim 史迈利的告别 :Smiley:
 :PROPERTIES:
 :douban:   8.2
 :goodreads: 4.01
 :END:
 
-*** [#C] 9. A Legacy of Spies 间谍的遗产 :Smiley:
+**** [#C] 9. A Legacy of Spies 间谍的遗产 :Smiley:
 :PROPERTIES:
 :douban:   8.4
 :goodreads: 3.88
@@ -355,14 +398,15 @@ CLOSED: [2025-05-23 Fri 20:30]
 :imdb:     8.0
 :END:
 
-*** LATER [#C] The Little Drummer Girl 女鼓手 :P2018:
+*** TODO [#C] The Little Drummer Girl 女鼓手 :P2018:S2026_Q3:
 :PROPERTIES:
 :douban:   8.1
 :imdb:     7.4
 :END:
 
 ** movies
-*** [#B] The Spy Who Came in from the Cold  柏林谍影 :P1965:
+*** DONE [#B] The Spy Who Came in from the Cold  柏林谍影 :P1965:S2026_Q3:
+CLOSED: <2026-09-06 Sun 11:28>
 :PROPERTIES:
 :douban:   8.4
 :imdb:     7.5
@@ -393,19 +437,11 @@ CLOSED: <2025-05-25 Sun 16:01>
 :imdb:     6.9
 :END:
 
+** spin-offs
+*** DONE comic: John le Carré's The Circus - Losing Control :P2025:S2026_Q3:
+CLOSED: [2026-09-20 Sun 06:46]
+
 * Frederick Forsyth
-** [#A] The Day of the Jackal 豺狼的日子 :P1983:
-:PROPERTIES:
-:goodreads: 4.27
-:douban:   8.6
-:END:
-
-- 1979年11月，中国电影出版社出版“外国影片研究丛书”《豺狼的日子》，译者陈笃忱；
-- 1981年2月，江苏人民出版社出版《贾克尔的末日》，译者：包振南；
-- 1981年2月，群众出版社出版《职业刺客》，译者：陈静先；
-- 2000年9月，珠海出版社出版《豺狼的日子》，译者：胡兵；
-- 2009年6月，新星出版社出版姜焜译本《豺狼的日子》，2012年5月新星出版社、2013年3月同心出版社、2019年5月上海文艺出版社再版该译本。
-
 ** [#A] The Devil's Alternative 魔鬼的抉择 :P1979:
 :PROPERTIES:
 :goodreads: 4.09
@@ -417,11 +453,17 @@ CLOSED: <2025-05-25 Sun 16:01>
 1986年12月，昆仑出版社出版《魔鬼的选择》，译者：王爰飞；
 2012年7月，黄山书社采用丁剑译本。
 
-** [#B] The Fist of God 上帝的拳头 (4.07) :P1994:
+** TODO [#A] The Day of the Jackal 豺狼的日子 :P1983:S2026_Q3:
 :PROPERTIES:
-:goodreads: 4.07
-:douban:   8.7
+:goodreads: 4.27
+:douban:   8.6
 :END:
+
+- 1979年11月，中国电影出版社出版“外国影片研究丛书”《豺狼的日子》，译者陈笃忱；
+- 1981年2月，江苏人民出版社出版《贾克尔的末日》，译者：包振南；
+- 1981年2月，群众出版社出版《职业刺客》，译者：陈静先；
+- 2000年9月，珠海出版社出版《豺狼的日子》，译者：胡兵；
+- 2009年6月，新星出版社出版姜焜译本《豺狼的日子》，2012年5月新星出版社、2013年3月同心出版社、2019年5月上海文艺出版社再版该译本。
 
 ** [#B] The Fourth Protocol 第四秘密议定书 :P1984:
 :PROPERTIES:
@@ -445,6 +487,12 @@ CLOSED: <2025-05-25 Sun 16:01>
 :PROPERTIES:
 :goodreads: 4.05
 :douban:   8.6
+:END:
+
+** [#B] The Fist of God 上帝的拳头 :P1994:
+:PROPERTIES:
+:goodreads: 4.07
+:douban:   8.7
 :END:
 
 ** [#B] Avenger 复仇者 :P2003:

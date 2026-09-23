@@ -1450,6 +1450,15 @@ This story takes place eight years after "Samaritan Snare," (2x17)
 during Starfleet's battle against the Borg cube in Sector 001.
 
 **** "The Very Model" by Muri McCage
+** novels
+*** TNG 后续小说 :hanzify:
+
+- Resistance 抵抗
+- Before Dishonor耻辱之前
+- Greater than the Sum 超越整体
+
+https://weibo.com/7607350423/5227409021600142
+
 * DS9 - Deep Space Nine :DS9:
 ** DS9 tv (1993-1998) :📺:tv:
 *** DS9 S1 (Jan. - Jun. 1993) :Y2369:
@@ -2492,6 +2501,28 @@ connections:
 **** "A Taste of Spam" by L. E. Doggett :VOY:
 **** "Adjustments" by Laura Ware :VOY:
 **** "The Day the Borg Came" by M.C. DeMarco :VOY:
+** novels
+*** READY Full Circle 周而复始 :hanzify:
+
+https://weibo.com/7607350423/5338734400636266
+
+《星际迷航 航海家号：周而复始》(Full Circle) 全文中译完成 
+
+这是航海家号后续小说里最关键的一部承上启下之作。全书横跨两个年份：
+
+2378 年《耻辱之前》(Before Dishonor) 的故事尚未发生，珍妈还活着。这一半讲的是 B'Elanna 和女儿 Miral 遭克林贡战士绑架的故事线线。
+
+2381 年 从航海家号的视角，重新经历《命运》(Destiny) 三部曲里博格的大规模入侵：讲述了航海家号采取的一系列行动。以及此后 Full Circle 计划的启动航海家号率领星联远征舰队重返 Delta 象限。
+
+关于书名。Full Circle 为什么译成《周而复始》，是我和 AI 反复推敲的结果：
+
+「复」是归来——航海家号绕完整整一圈回到地球，Janeway 死后，众人各自归位；
+「始」是重启——舰队又要回到 Delta 象限，系列由此重开。
+
+epub网盘链接: http://t.cn/AX05GF0B 提取码: 55i2
+
+#星际迷航##星际迷航航海家号##科幻小说##VOY##StarTrek##星际迷航[超话]#
+
 * ENT - Enterprise
 ** Enterprise (2001-2004)
 ** short stories
@@ -2790,7 +2821,10 @@ CLOSED: <2022-06-04 Sat 17:14> SCHEDULED: <2022-06-03 Fri>
 set between seasons two and three of the Paramount+ hit series /Star Trek: Picard/
 
 ** audio :🎧:
-*** No Man's Land :P2022:Seven_of_Nine:Raffi:
+*** No Man's Land :P2022:Seven_of_Nine:Raffi:bilibili:
+
+【【双语字幕｜广播剧】《星际迷航：皮卡德》官方百合衍生作品｜七号×拉菲原班女演员回归，全卡司演绎-哔哩哔哩】 https://b23.tv/BV1ibM26EEyX
+
 ** novels :📔:
 *** [#B] #1. The Last Best Hope :Picard:ebook:
 :PROPERTIES:
@@ -2816,6 +2850,10 @@ set between seasons two and three of the Paramount+ hit series /Star Trek
 :PROPERTIES:
 :goodreads: 4.15
 :END:
+
+Firewall is a Star Trek: Picard prequel novel – starring Seven of Nine – written by David Mack. It was published by Pocket Books in February 2024.
+
+https://breezewiki.com/memory-alpha/wiki/Firewall_(novel)
 
 * LD - Lower Decks :LD:animated:
 ** tv :📺:
@@ -3254,6 +3292,19 @@ download: https://getcomics.org/other-comics/star-trek-classics-vol-1-5-2011-201
 **** Abyss :P2001:
 **** [#A] Disavowed :P2014:已购:
 **** [#A] Control :P2017:已购:
+*** READY Star Trek: Destiny :hanzify:
+
+https://breezewiki.com/memory-alpha/wiki/Star_Trek:_Destiny
+
+Star Trek: Destiny is a novel trilogy from Pocket Books, written by David Mack, and released over three consecutive months from September to November 2008.
+
+Set in February 2381, the trilogy is a crossover event featuring characters from /Star Trek: The Next Generation/, /Star Trek: Deep Space Nine/, /Star Trek: Voyager/, /Star Trek: Titan/ and, as announced by Marco Palmieri, "elements from Trek's past, coming together in an ambitious tale that will shape the future of the Star Trek universe."
+
+中文翻译：https://weibo.com/7607350423/5226414769966148
+
+**** 1. Gods of Night
+**** 2. Mere Mortals
+**** 3. Lost Souls
 ** short stories :📄:
 *** [#C] Strange New Worlds I (3.76)
 *** [#B] Strange New Worlds II (3.95) :P1999:
