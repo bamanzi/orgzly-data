@@ -353,8 +353,8 @@ CLOSED: [2021-02-27 Sat 18:02]
 
 Interludes #8
 
-**** HALF [#A] 5DA2022.2 The Auton Infinity (p1-4) :Tegan:Turlough:Brigadier:Master_tremas:Autons:3CD:P2022_09:plot_yes:dw2026_q3a_doctor:
-SCHEDULED: <2026-08-22 Sat>
+**** HALF [#A] 5DA2022.2 The Auton Infinity :Tegan:Turlough:Brigadier:Master_tremas:Autons:3CD:P2022_09:plot_yes:dw2026_q4a_doctor:
+SCHEDULED: <2026-10-10 Sat>
 
 **** 📂5DA2026. Helter Skelter :Tegan:Turlough:P2026_04:
 ***** 1. Field of Miracles
@@ -1842,7 +1842,8 @@ CLOSED: [2023-11-17 Fri 08:22] SCHEDULED: <2023-11-18 Sat>
 :rating:   8.6
 :END:
 
-**** READY [#A] NA06 Damaged Goods :Roz:Chris:plot_no:2CD:bilibili:
+**** READY [#A] NA06 Damaged Goods :Roz:Chris:plot_no:2CD:bilibili:dw2026_q4a_doctor:
+SCHEDULED: <2026-11-07 Sat>
 :PROPERTIES:
 :rating:   9.0
 :END:

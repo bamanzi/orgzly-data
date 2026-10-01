@@ -2007,7 +2007,7 @@ https://b23.tv/BV1LF411j7D5
 *** [#D] Missy3.3 Two Monks, One Mistress
 *** READY FP1.2 The Shadow Play :P2001:bilibili:
 ** dw2026-q2b-doctor
-*** HALF [#B] LS4.3 - Lords of the Red Planet :Jamie:Zoe:ice_warriors:3CD:plot_yes:
+*** HALF [#B] LS4.3 - Lords of the Red Planet (part 1-4) :Jamie:Zoe:ice_warriors:3CD:plot_yes:dw2026_q2b_doctor:
 *** HALF [#C] NCC3.1 Tsar Wars :4th_Dr:Wibbsey:
 *** HALF [#D] SvsR#3 Born to Die :6th_Dr:Charley:Sontarans:P2024_03:
 *** 3QTR [#B] 8DTW5.3 Previously, Next Time :8th_Dr:Cass:2CD:bilibili:
@@ -2023,7 +2023,7 @@ https://b23.tv/BV1LF411j7D5
 ** dw2026-q3a-doctor
 *** HALF [#C] CC9.2 The Unwinding World :1st_Dr:Vicki:
 *** DONE [#C] 3DA3.2 Storm of the Horofax :3rd_Dr:Jo:UNIT:P2017:plot_yes:
-*** HALF [#A] 5DA22.2 The Auton Infinity (p1-p4) :5th_Dr:Tegan:Turlough:Brigadier:Master_tremas:Autons:3CD:P2022_09:plot_yes:
+*** HALF [#A] 5DA22.2 The Auton Infinity (p1-p4) :5th_Dr:Tegan:Turlough:Brigadier:Master_tremas:Autons:3CD:P2022_09:plot_yes:dw2026_q3a_doctor:
 *** HALF [#D] 7DA24B.1 The Haunter of the Shore :7th_Dr:Carnacki:
 *** HALF [#C] 9DA3.3.3 Ancient History :9th_Dr:Benny:bilibili:
 *** HALF [#B] 11DC5.2 All’s Fair :11th_Dr:bilibili:Valarie:
@@ -2038,38 +2038,38 @@ https://b23.tv/BV1LF411j7D5
 *** (benny) ↑
 *** HALF [#B] GALL7.0 - Intervention Earth :P2015:2CD:Romana_3:Ace:Narvin:Omega:bilibili:
 ** dw2026-q3b-doctor
-*** HALF [#B] LS4.3 - Lords of the Red Planet (part5-6) :Jamie:Zoe:ice_warriors:plot_yes:dw2026_q3b_doctor:
-    SCHEDULED: <2026-08-29 Sat>
-    :PROPERTIES:
-    :thetimescales: 8.2
-    :tardis.guode: 3.87
-    :END:
-
-*** [#C] 4DA10.1 The World Traders :4th_Dr:Leela:
-*** [#C] MR194. The Rani Elite :6th_Dr:Peri:
-*** [#C] FALM1.3 The House on the Edge of Chaos :8th_Dr:Lucie:
-*** [#B] 10DC1.4 Last Chance :10th_Dr:Christina:
-*** FIXME [#C] ST9.9 Dead Media :P2019:12th_Dr:🗣:
-    :PROPERTIES:
-    :rating:   7.7
-    :END:
-
-*** [#C] SvR4. In Name Only :War_Dr:P2024_04:
+*** DONE [#B] LS4.3 - Lords of the Red Planet (part5-6) :Jamie:Zoe:ice_warriors:plot_yes:
+*** HALF [#C] 4DA10.1 The World Traders :4th_Dr:Leela:
+*** HALF [#C] MR194. The Rani Elite :6th_Dr:Peri:
+*** HALF [#C] FALM1.3 The House on the Edge of Chaos :8th_Dr:Lucie:
+*** HALF [#B] 10DC1.4 Last Chance :10th_Dr:Christina:
+*** 3QTR [#C] ST9.9 Dead Media :P2019:12th_Dr:🗣:
+*** HALF [#C] SvR4. In Name Only :War_Dr:P2024_04:
 ** dw2026-q3b-spinoffs
-*** [#D] TW71. The Last Love Song of Suzie Costello :Suzie:plot_yes:
-    :PROPERTIES:
-    :thetimescales: 6.6
-    :tardis.guide: 3.93
-    :END:
-
+*** HALF [#D] TW71. The Last Love Song of Suzie Costello :Suzie:plot_yes:
 *** [#C] UBNW1.3 Dark Side of the Moon
-*** [#C] CM4.3 Rise and Shine
-*** [#A] 10.X Jago & Litefoot & Strax - The Haunting
-    :PROPERTIES:
-    :rating:   8.7
-    :END:
+*** HALF [#A] NCM0.1 - Who Killed Toby Kinsella?
+*** HALF [#A] JL10.X Jago & Litefoot & Strax - The Haunting (part 1) :dw2026_q3b_spinoffs:
+    SCHEDULED: <2026-10-04 Sun>
 
-*** FIXME [#C] BS6.2 The Kingdom of the Blind :Benny:
+*** HALF [#B] BSNA5.2 Clear History :Benny:Unbound_Dr:
+*** 3QTR [#B] WM10.2 Manhunt :Master_War:benben:
+** dw2026-q4a-doctor
+*** [#C] EA7.2 The Secrets of Det-Sen :Steven:Dodo:plot_yes:P2021_08:
+*** FIXME [#D] CC2.3 Old Soldiers (Brig) no_doctor?
+*** [#A] 5DA22.2 The Auton Infinity (p5-p6) :5th_Dr:Tegan:Turlough:Brigadier:Master_tremas:Autons:3CD:P2022_09:plot_yes:
+    SCHEDULED: <2026-10-10 Sat>
+
+*** READY [#A] NA6 Damaged Goods :7th_Dr:Roz:Chris:bilibili:
+*** READY 9DA4.1 Snare :9th_Dr:Rose:P2025_08:bilibili:
+*** READY [#A] 11DC5.3 Sins of the Flesh :Cybermen:bilibili:
+*** READY 13DA1.2. The Return of the Doctor :P2025_09:bilibili:
+** dw2026-q4a-spinoffs
+*** FIXME [#D] TW84. The Restoration of Catherine :Andy:Norton:P2024_06:
+*** FIXME [#B] NCM0.2 - The Dead Don't Rise
+*** FIXME [#B] Halloween 2. Party Favours :UNIT_new:
+*** FIXME [#A] JL10.X Jago & Litefoot & Strax - The Haunting (part 2)
+*** [#A] DoRS11.4. The Isle on the Shore
 *** Origin Stories #11 - Tempered :Master_early:Master_missy:🗣:📄:
 * FIXME pending
 ** special
@@ -2242,10 +2242,8 @@ https://b23.tv/BV1LF411j7D5
 ***** READY [#C] BR08. An Earthly Child :Susan:Alex:P2009:bilibili:
 ***** READY [#D] MR123b. The Company of Friends - Fitz's Story :bilibili:
 *** 10th
-**** READY 10DA 3.3 - The Creeping Death :Donna:10th_Dr:
 **** READY [#D] 10DCC3. Quantum of Axos :Ace:
 **** READY [#A] NSA #7: Dead Air
-**** READY [#C] O&F5. The Martian Invasion of Planetoid 50 :bilibili:10th_Dr:Missy:TPG:P2023_09:
 **** READY Empire of the Sun :fan_made:
 *** 12th
 **** 12DC 3.1-3.3
@@ -2259,10 +2257,9 @@ https://b23.tv/BV1LF411j7D5
 ***** [#A] TW1 2.3 - 9 to 5 :Yvonne:Ianto:
 **** HALF [#A] TW16. torchwood_cascade_CDRIP.tor :Tosh:
 **** FIXME [#D] TW65. Death in Venice :Colchester:Ace:
-**** [#B] TW79. Poppet :Rhys:P2024_01:
+**** PENDING TW5.6 A Kill to a View :Bilis_Manger:
 *** Benny
 **** [#A] BSST.2 And Then Again :Benny:7th_Dr:
-**** FIXME [#C] BS6.2 The Kingdom of the Blind :Benny:
 *** River
 **** [#C] DoRS6.4 The Talents of Grel :River:Jago:
 **** [#C] DoRS8.2 A Brave New World :River:10th_Dr:
@@ -2281,67 +2278,66 @@ https://b23.tv/BV1LF411j7D5
 *** [#C] CC7.7 The Flames of Cadiz :1st_Dr:Ian:Susan:plot_yes:2CD:
 *** FIXME [#D] CC5.10 - The Sentinels of the New Dawn :3rd_Dr:Liz:
 *** FIXME [#B] DWUN2 Sympathy from the Devil :Unbound_Dr:Master_unbound:bilibili:
-** q4a-doctor
-*** [#C] EA7.2 The Secrets of Det-Sen :Steven:Dodo:plot_yes:P2021_08:
-*** [#C] ? 3rd
+** q4b-doctor
+*** LTV3.4 The Highlanders :2nd_Dr:Polly:Ben:Jamie:
+*** [#C] CDNM4.1 Invasion of the Body Stealers :4th_Dr:Sarah:
+*** [#D] 6DA21.1 One for All :6th_Dr:Constance:
+*** READY [#C] 8DSTR1.1. Lost Property :8th_Dr:Liv:Helen:The_Curator:bilibili:
+*** READY [#A] 8DSTR1.2. Wild Animals :8th_Dr:Liv:Helen:bilibili:
+*** READY [#C] O&F5. The Martian Invasion of Planetoid 50 :bilibili:10th_Dr:P2023_09:
+
+【【神秘博士六十周年纪念特辑】Once and Future 05 The Martian Invasion of Planetoid 50-哔哩哔哩】
+https://b23.tv/BV1Mp4y1P75j
+
+https://www.bigfinish.com/releases/v/doctor-who-once-and-future-the-martian-invasion-of-planetoid-50-2778
+
+第一任博士来到维多利亚时期火星人入侵的伦敦。但法师出现时，他发现一切并不像看起来那样…
+很快，博士被迫重生成未来的化身——第十任——但他不是唯一与法师和她的火星入侵者作战的人。维多利亚小队——Vastra夫人、Jenny和Strax——也前来协助。但他们能否帮博士解开他自己的退化之谜？
+
+*** READY [#D] FDA1.1 Fast Times :bilibili:
+    :PROPERTIES:
+    :thetimescales: 7.2
+    :tardis.guide: 3.55
+    :END:
+
+ 【【神秘博士广播剧熟肉】Most Wanted 101 Fast Times 疾速时刻-哔哩哔哩】 https://b23.tv/BV1UXFieVEr9
+
+*** [#D] WDB5.1 A Mother's Love
+    :PROPERTIES:
+    :thetimescales: 7.1
+    :tardis.guide: 3.62
+    :END:
+
+** q4b-spinoffs
+*** [#B] TW74. Sigil :Bilis_Manger:P2023_08:
+*** [#B] TW79. Poppet :Rhys:P2024_01:
+*** [#C] UTNS7.1/7.2 - Hosts of the Wirrn
+*** [#C] PGT4.1 I Married a Zygon
+*** TODO BSNA 5.3 Dead and Breakfast :Benny:Unbound_Dr:
+*** READY [#E] EoM3.2 - Fairies at the Bottom of the Garden :Amy:Master_missy:bilibili:
+** q1a
+*** FIXME [#C] MR180 - 1963: The Assassination Games :7th_Dr:Ace:ICMG:Allison:Gilmore:
+    :PROPERTIES:
+    :rating:   7.9
+    :END:
+
+*** READY [#B] 3.4.1 Swipe Right :9th_Dr:River:bilibili:
+
+【【神秘博士广播剧熟肉】Star-Crossed 310 Swipe Right 右划-哔哩哔哩】 https://b23.tv/BV1Nrq4YnEwL
+
+*** BLOCK [#C] CM4.3 Rise and Shine
+*** [#C] JL11.1 - Jago and Son
+*** [#C] TLV: Master Thief :Master_nemesis:
     :PROPERTIES:
     :rating:   7.6
     :END:
 
-**** FIXME [#D] CC2.3 Old Soldiers (Brig) no_doctor?
-*** [#D] MR095b. Urban Myths :5th_Dr:Peri:
-    :PROPERTIES:
-    :rating:   7.4
-    :END:
-
-*** [#A] 5DA22.2 The Auton Infinity (p5-p6) :5th_Dr:Tegan:Turlough:Brigadier:Master_tremas:Autons:3CD:P2022_09:plot_yes:
-*** READY [#A] NA6 Damaged Goods :7th_Dr:Roz:Chris:bilibili:
-*** READY 9DA4.1 Snare :9th_Dr:Rose:P2025_08:bilibili:
-
-【【神秘博士广播剧熟肉】The Ninth Doctor Adventures 401 Snare 陷阱-哔哩哔哩】 https://b23.tv/BV1mXb5z5Ec6
-
-https://www.bigfinish.com/releases/v/doctor-who-the-ninth-doctor-adventures-snare-3242
-
-Kevin在很早以前就离开了Powell小区。他不想被困在那。但多年后，他再次回到这里，清理他爸爸的旧公寓。至少他的邻居，Tyler一家还在。
-
-但Rose的身边多了一名神秘的男人。这个博士将让Kevin看到一个他未曾幻想过的世界。不幸的是，还有一些古老的邪恶在小区里潜伏。或许Kevin终究还是会被困在这...
-
-*** READY [#A] 11DC5.3 Sins of the Flesh :Cybermen:bilibili:
-    :PROPERTIES:
-    :thetimescales: 9.1
-    :tardis.guide: 4.57
-    :END:
-
-【【神秘博士广播剧熟肉】Everywhere and Anywhere 503 Sins of the Flesh 肉体之罪-哔哩哔哩】 https://b23.tv/BV1qGWxzCEP5
-
-https://www.bigfinish.com/releases/v/doctor-who-the-eleventh-doctor-chronicles-volume-05-everywhere-and-anywhere-2730#tab5
-
-您的孩子有没有表现出罪恶的行为？他们是否已经踏上通往永恒诅咒的道路？您尝试的所有方法是不是都失败了？感觉您已经无计可施？
-不用担心。我们能帮上忙。今天就带他们来新生组织。让他们接受转化。
-
-*** READY 13DA1.42. The Return of the Doctor :P2025_09:bilibili:
-** q4a-spinoffs
-*** PENDING TW5.6 A Kill to a View :Bilis_Manger:
-*** TW84. The Restoration of Catherine :Norton:Andy:
-*** PENDING Halloween 2. Party Favours :UNIT_new:
-*** [#C] PGT4.1 I Married a Zygon
-    :PROPERTIES:
-    :tardis.guide: 3.97
-    :thetimescales: 6.3
-    :END:
-
-*** [#A] DoRS11.4. The Isle on the Shore
-*** [#B] WM10.2 Manhunt :Master_War:
-** q4b
+** q1b
 *** START [#C] CC12.2 Dumb Waiter :2nd_Dr:Jamie:Leela:D2021_09_extra:plot_yes:
-*** LTV3.4 The Highlanders :2nd_Dr:Polly:Ben:Jamie:
 *** READY [#B] NA03 - The Romance of Crime :Romana_2:P2015:2CD:scripted:bilibili:
     :PROPERTIES:
     :rating:   8.0
     :END:
 
-【【神秘博士广播剧熟肉】Romance of Crime-犯罪的浪漫-哔哩哔哩】 
-https://b23.tv/BV1dXKLe5EHb
-
-*** [#B] BSNA5.2 Clear History :Benny:Unbound_Dr:
-*** TODO BSNA 5.3 Dead and Breakfast :Benny:Unbound_Dr:
+*** [#B] ST11.5 Fear of Flying :10th_Dr:P2022_02:
+*** FIXME [#C] BS6.2 The Kingdom of the Blind :Benny:

@@ -393,7 +393,8 @@ Old Steven 3/3
 **** CANCEL [#F] CC15.3 The White Ship :P2025_04:
 **** [#B] ST7.12 - O Tannenbaum :Steven:
 *** with Steven & Dodo
-**** [#C] EA7.2 The Secrets of Det-Sen :Steven:Dodo:plot_yes:P2021_08:
+**** [#C] EA7.2 The Secrets of Det-Sen :Steven:Dodo:plot_yes:P2021_08:dw2026_q4a_doctor:
+SCHEDULED: <2026-10-24 Sat>
 :PROPERTIES:
 :rating:   7.8
 :END:
@@ -840,15 +841,14 @@ CLOSED: <2021-04-30 Fri 22:59>
 
 有错误欢迎各位指正
 
-
 **** HALF [#D] LS4.2 - The Queen of Time :Jamie:Zoe:plot_yes:D2022_06_doctor:2CD:
 SCHEDULED: <2022-06-05 Sun>
 :PROPERTIES:
 :rating:   7.4
 :END:
 
-**** HALF [#B] LS4.3 - Lords of the Red Planet :Jamie:Zoe:ice_warriors:3CD:plot_yes:dw2026_q2b_doctor:
-SCHEDULED: <2026-06-27 Sat>
+**** 3QTR [#B] LS4.3 - Lords of the Red Planet :Jamie:Zoe:ice_warriors:3CD:plot_yes:dw2026_q2b_doctor:
+CLOSED: [2026-08-25 Tue 21:37] SCHEDULED: <2026-06-27 Sat>
 :PROPERTIES:
 :rating:   8.2
 :END:
@@ -1854,7 +1854,7 @@ CLOSED: [2020-07-15 Wed 19:13]
 【【神秘博士广播剧熟肉】四任博士冒险 第九季特别篇 太阳阴影 Shadow of the Sun-哔哩哔哩】 https://b23.tv/BV1hEV5zCEVJ
 
 **** 📂4DA series 10 :4DA:P2021:2CD:
-***** TODO [#C] 10.1 The World Traders :2CD:dw2026_q3b_doctor:
+***** HALF [#C] 10.1 The World Traders :2CD:plot_no:dw2026_q3b_doctor:
 SCHEDULED: <2026-09-26 Sat>
 
 ***** [#C] 10.2 The Day of the Comet :2CD:
@@ -2703,14 +2703,16 @@ https://b23.tv/BV1eE6FYwEYz
 *** 36. Circle of Memory :11th_Dr:Amy:Rory:P2026_05:
 *** 37. The Deadliest Weapon :Fugitive_Dr:Cybermen:P2026_07:
 *** TBR 38. Shard of Life :2nd_Dr:Jamie:Zoe:P2026_10:
-** 📂Sontarans vs Rutans
+** 📂Sontarans vs Rutans :plot_yes:
 *** [#C] 1. The Battle of Giant's Causeway :8th_Dr:Charley:Crizz:P2024_01:
 *** 3QTR [#B] 2. The Children of the Future :3rd_Dr:Sarah:P2024_02:
 *** HALF [#D] 3. Born to Die :6th_Dr:Charley:P2024_03:dw2026_q2b_doctor:
 SCHEDULED: <2026-07-04 Sat>
 
-*** TODO [#C] 4. In Name Only :War_Dr:P2024_04:dw2026_q3b_doctor:
-SCHEDULED: <2026-09-19 Sat>
+*** HALF [#C] 4. In Name Only :War_Dr:P2024_04:dw2026_q3b_doctor:
+SCHEDULED: <2026-09-12 Sat>
+
+https://tardis.wiki/wiki/In_Name_Only_(audio_story)#Plot
 
 ** 📂Dark Gallifrey :3CD:
 *** [#B] Morbius :P2024_06:
@@ -2727,7 +2729,13 @@ SCHEDULED: <2026-09-19 Sat>
 *** The Decayed Master ↗ :P2026_09:
 ** 📂Halloween: Sea Smoke and Other Stories :P2025_10:
 *** 1. Sea Smoke :1st_Dr:Dodo:
-*** 2. Party Favours :UNIT_new:
+*** [#A] 2. Party Favours :UNIT_new:dw2026_q4a_spinoffs:
+SCHEDULED: <2026-11-08 Sun>
+:PROPERTIES:
+:thetimescales: 9.0
+:tardis.guide: 4.34
+:END:
+
 *** 3. Bramble King :8th_Dr:Audacity:
 *** 4. Merlin's Trap :12th_Dr:
 ** 📂Christmas: It's a Wonderful War and Other Stories :P2025_12:
@@ -2841,7 +2849,8 @@ CLOSED: <2018-07-13 Fri 08:03>
 ** short stories
 ** audio :🎧:
 *** BF
-**** [#C] CC2.3 - Old Soldiers :Brigadier:plot_yes_dwg:
+**** [#C] CC2.3 - Old Soldiers :Brigadier:plot_yes_dwg:dw2026_q4a_doctor:
+SCHEDULED: <2026-10-31 Sat>
 :PROPERTIES:
 :rating:   7.5
 :END:

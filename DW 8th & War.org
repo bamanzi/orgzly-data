@@ -453,14 +453,14 @@ SCHEDULED: <2022-04-29 Fri>
 :rating:   8.5
 :END:
 
-**** The Further Adventures of Lucie Miller  vol.1 :P2019:
+**** The Further Adventures of Lucie Miller  vol.1 :P2019:plot_yes:
 
 It was set between series 1 and series 2 of the Eighth Doctor Adventures audio series
 
 ***** [#E] 1.1 The Dalek Trap
 ***** [#E] 1.2 The Revolution Game
-***** TODO [#C] 1.3 The House on the Edge of Chaos :dw2026_q3b_doctor:
-SCHEDULED: <2026-10-10 Sat>
+***** HALF [#C] 1.3 The House on the Edge of Chaos :dw2026_q3b_doctor:
+SCHEDULED: <2026-10-03 Sat>
 :PROPERTIES:
 :rating:   7.6
 :END:
@@ -1265,7 +1265,13 @@ https://b23.tv/BV1C841117ip
 **** HALF [#C] 10.1 Runtime :dw2026_q2b_spinoffs:
 SCHEDULED: <2026-07-12 Sun>
 
-**** [#B] 10.2 Manhunt
+**** 3QTR [#B] 10.2 Manhunt :dw2026_q3b_spinoffs:
+CLOSED: [2026-09-23 Wed 21:56] SCHEDULED: <2026-09-27 Sun>
+:PROPERTIES:
+:thetimescalea: 8.1
+:tardis.guide: 3.80
+:END:
+
 **** [#A] 10.3 The Sublime Porte :Bilis_Manger:
 **** [#A] 10.4 Alone
 *** /📂The War Master series 4: Anti-Genesis/ :Master_war:scripted:🎧:

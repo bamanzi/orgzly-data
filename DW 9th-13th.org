@@ -196,7 +196,8 @@ SCHEDULED: <2026-08-15 Sat>
 【【神秘博士广播剧熟肉】[BigFinish 9DA Series 3] Star-Crossed: Archipelago 群岛-哔哩哔哩】 https://b23.tv/BV1oMGB6eEqN
 
 **** S4 :Rose:
-***** READY 4.1 Snare :P2025_08:bilibili:
+***** READY 4.1 Snare :P2025_08:bilibili:dw2026_q4a_doctor:
+SCHEDULED: <2026-10-17 Sat>
 
 【【神秘博士广播剧熟肉】The Ninth Doctor Adventures 401 Snare 陷阱-哔哩哔哩】 https://b23.tv/BV1mXb5z5Ec6
 
@@ -834,8 +835,8 @@ SCHEDULED: <2024-03-02 Sat>
 :rating:   7.5
 :END:
 
-***** TODO [#C] 1.4 - Last Chance :Christina:plot_cast:dw2026_q3b_doctor:
-SCHEDULED: <2026-08-29 Sat>
+***** HALF [#C] 1.4 - Last Chance :Christina:plot_cast:dw2026_q3b_doctor:
+SCHEDULED: <2026-09-05 Sat>
 :PROPERTIES:
 :thetimescales: 7.7
 :tardis.guide: 3.42
@@ -1106,7 +1107,8 @@ https://www.bigfinish.com/releases/v/doctor-who-the-eleventh-doctor-chronicles-v
 
 但总有些事不该在约会时发生。一场不可能的重逢打乱了局面。怪物在街头潜行。你的情侣终将死去...
 
-***** READY [#A] 5.3 Sins of the Flesh :Cybermen:bilibili:
+***** READY [#A] 5.3 Sins of the Flesh :Cybermen:bilibili:dw2026_q4a_doctor:
+SCHEDULED: <2026-11-14 Sat>
 :PROPERTIES:
 :thetimescales: 9.1
 :tardis.guide: 4.57
@@ -1575,8 +1577,8 @@ https://zhcn.eferrit.com/aphra-behn的传记/
 
 https://www.iiiff.com/article/404723
 
-**** TODO [#C] ST9.9 - Dead Media :P2019:dw2026_q3b_doctor:
-SCHEDULED: <2026-09-26 Sat>
+**** 3QTR [#C] ST9.9 - Dead Media :P2019:dw2026_q3b_doctor:
+CLOSED: [2026-09-30 Wed 18:53] SCHEDULED: <2026-10-03 Sat>
 :PROPERTIES:
 :rating:   7.7
 :END:
@@ -1830,18 +1832,18 @@ CLOSED: <2021-12-10 Fri 20:53>
 **** DONE 13x06
 CLOSED: [2021-12-12 Sun 14:53]
 
-*** DONE 298. Eve of the Daleks :time_loop:DW2023_Q4:
+*** DONE 298. Eve of the Daleks :P2022:time_loop:DW2023_Q4:
 CLOSED: [2023-12-17 Sun 10:28] SCHEDULED: <2023-12-17 Sun>
 
-*** DONE 299. Legend of the Sea Devil :Sea_Devils:
+*** DONE 299. Legend of the Sea Devil :Sea_Devils:P2022:
 CLOSED: <2023-01-06 Fri 22:20>
 
-*** DONE 300. The Power of the Doctor :Master_spy:Yaz:Ace:Tegan:UNIT:Kate:DW2023_Q4:
+*** DONE 300. The Power of the Doctor :P2022:Master_spy:Yaz:Ace:Tegan:UNIT:Kate:DW2023_Q4:
 CLOSED: [2023-12-24 Sun 22:02] SCHEDULED: <2023-12-24 Sun>
 
 ** audio :🎧:
 *** 13DA
-**** HALF [#C] 1. Vampire Weekend :P2025_07:bilibili:dw2026_q3a_doctor:
+**** HALF [#C] 1.1 Vampire Weekend :P2025_07:bilibili:dw2026_q3a_doctor:
 SCHEDULED: <2026-08-01 Sat>
 :PROPERTIES:
 :tardis.guide: 4.04
@@ -1858,7 +1860,8 @@ https://www.bigfinish.com/releases/v/doctor-who-the-thirteenth-doctor-adventures
 
 博士加入了派对。但不幸的是，还有一个古老的敌人...
 
-**** READY 1.2 The Return of the Doctor :P2025_09:bilibili:
+**** READY 1.2 The Return of the Doctor :P2025_09:bilibili:dw2026_q4a_doctor:
+SCHEDULED: <2026-10-17 Sat>
 
 【【神秘博士广播剧熟肉】The Thirteenth Doctor Adventures 102 The Return of the Doctor 博士的回归-哔哩哔哩】 https://b23.tv/BV1wjpzzsE5k
 

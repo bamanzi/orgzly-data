@@ -538,7 +538,8 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
       :rating:   8.5
       :END:
 
-***** TODO [#D] 71. The Last Love Song of Suzie Costello :Suzie:plot_yes:dw2026_q3b_spinoffs:
+***** DONE [#D] 71. The Last Love Song of Suzie Costello :Suzie:plot_yes:dw2026_q3b_spinoffs:
+      CLOSED: [2026-09-04 Fri 08:10] SCHEDULED: <2026-08-30 Sun>
       :PROPERTIES:
       :thetimescales: 6.7
       :tardis.guide: 3.81
@@ -620,7 +621,8 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
       :thetimescales: 9.3
       :END:
 
-***** [#D] 84. The Restoration of Catherine :Andy:Norton:P2024_06:
+***** [#D] 84. The Restoration of Catherine :Andy:Norton:P2024_06:dw2026_q4a_spinoffs:
+      SCHEDULED: <2026-10-25 Sun>
       :PROPERTIES:
       :tardis.guide: 3.67
       :thetimescales: 7.2
@@ -1428,7 +1430,9 @@ Roberts Master
 ***** [#A] part3. The Bird from the Nest :dw2026_q3a_spinoffs:
       SCHEDULED: <2026-08-23 Sun>
 
-***** [#A] part4. The Isle on the Shore
+***** [#A] part4. The Isle on the Shore :dw2026_q4a_spinoffs:
+      SCHEDULED: <2026-11-15 Sun>
+
 **** 📂DoRS 12 - The Orphan Quartet :P2023_08:
 ***** [#E] 12.1 The Excise Men
 ***** [#E] 12.2 Harvest of the Krotons :Jackie:Krotons:
@@ -1640,9 +1644,11 @@ Roberts Master
     :tardis.guide: 4.12
     :END:
 
-*** TODO [#A] 10.X Jago & Litefoot & Strax - The Haunting :dw2026_q3b_spinoffs:
+*** TODO [#A] 10.X Jago & Litefoot & Strax - The Haunting :dw2026_q4a_spinoffs:
+    SCHEDULED: <2026-10-04 Sun>
     :PROPERTIES:
-    :rating:   8.7
+    :thetimescales: 8.6
+    :tardis.guide: 4.21
     :END:
 
 ** J&L series 11 :P2016:
@@ -1908,8 +1914,8 @@ Leela大使尝试捍卫她的盟友的权力，城外人，摆脱了几代人的
 【[AI精校字幕][神秘博士广播剧]Companion Chronicles 807 Luna Romana-哔哩哔哩】 https://b23.tv/BV1TTHkzNEyu
 
 ** special: WoDW#4 Second Sight ↗
-** HALF [#B] 7.0 - Intervention Earth :P2015:2CD:Romana_3:Ace:Narvin:Omega:bilibili:S2026_Q3:dw2026_q3a_spinoffs:
-   SCHEDULED: <2026-08-23 Sun>
+** 3QTR [#B] 7.0 - Intervention Earth :P2015:2CD:Romana_3:Ace:Narvin:Omega:bilibili:S2026_Q3:dw2026_q3a_spinoffs:
+   CLOSED: [2026-08-27 Thu 08:27] SCHEDULED: <2026-08-23 Sun>
 
 【【神秘博士广播剧熟肉】Gallifrey Series 7 Intervention Earth-干预行动：地球-哔哩哔哩】 https://b23.tv/BV1gxKA6yEHb
 
@@ -2306,10 +2312,11 @@ https://www.bilibili.com/video/BV1QT41147a8
      :rating:   7.9
      :END:
 
-**** HALF [#B] 5.2 Clear History :dw2026_q3b_spinoffs:
+**** HALF [#C] 5.2 Clear History :dw2026_q3b_spinoffs:
      SCHEDULED: <2026-09-06 Sun>
      :PROPERTIES:
-     :rating:   8.1
+     :thetimescales: 7.9
+     :tardis.guide: 3.49
      :END:
 
 **** TODO [#B] 5.3 Dead and Breakfast
@@ -2846,7 +2853,9 @@ rating 8.7/8.3
 **** HALF [#D] 1.2 Time Flies :dw2026_q2a_spinoffs:
      SCHEDULED: <2026-05-10 Sun>
 
-**** TODO [#C] 1.3 Dark Side of the Moon :dw2026_q3b_spinoffs:
+**** HALF [#C] 1.3 Dark Side of the Moon :dw2026_q3b_spinoffs:
+     SCHEDULED: <2026-09-20 Sun>
+
 *** 📂Visitants :P2022_12:
 **** [#D] 2.1 The Frequency
 **** [#D] 2.2 Haunt
@@ -3452,11 +3461,16 @@ http://www.drwhoguide.com/kaldor03.htm
     :tardis.guide: 3.88
     :END:
 
-*** TODO [#C] 4.3 - Rise and Shine :dw2026_q3b_spinoffs:
+*** BLOCK [#C] 4.3 - Rise and Shine
+    SCHEDULED: <2026-09-06 Sun>
     :PROPERTIES:
     :rating:   7.7
     :tardis.guide: 3.62
     :END:
+
+本集与下集涉及的大反派种族 The Light 出自 MR180 /1963: The Assassination Games/ 需要先听那一集。
+
+https://tardis.wiki/wiki/The_Light_(1963:_The_Assassination_Games)
 
 *** [#B] 4.4 - Clean Sweep
     :PROPERTIES:
@@ -3465,12 +3479,15 @@ http://www.drwhoguide.com/kaldor03.htm
     :END:
 
 ** special: Who Killed Toby Kinsella? :P2016:
-*** [#A] NCM0.1 - Who Killed Toby Kinsella?
+*** HALF [#B] NCM0.1 - Who Killed Toby Kinsella? :dw2026_q3b_spinoffs:
+    SCHEDULED: <2026-09-13 Sun>
     :PROPERTIES:
-    :rating:   8.5
+    :thetimescalea: 8.4
+    :tardis.guide: 3.86
     :END:
 
-*** [#B] NCM0.2 - The Dead Don't Rise
+*** [#B] NCM0.2 - The Dead Don't Rise :dw2026_q4a_spinoffs:
+    SCHEDULED: <2026-10-11 Sun>
     :PROPERTIES:
     :rating:   8.4
     :END:
