@@ -1039,8 +1039,18 @@ SCHEDULED: <2023-11-01 Wed>
 **** [#C] DotD #6 Trouble in Paradise :Peri:plot_no:1CD:
 **** TODO [#B] BBC08. The Flight of the Sun God :6th_Dr:Peri:BBC:
 **** 📂2025B. Bad Terms :P2025_08:2CD:
-***** 1. Saiorse of the Seven Seas
-***** 2. Red for Danger
+***** [#D] 1. Saiorse of the Seven Seas
+:PROPERTIES:
+:thetimescales: 6.8
+:tardis.guide: 3.20
+:END:
+
+***** [#C] 2. Red for Danger
+:PROPERTIES:
+:thetimescales: 7.6
+:tardis.guide: 4.20
+:END:
+
 **** 📂2026A. Expulsion :P2026_04:Peri:Turlough:
 ***** 1. The Reckoning
 ***** 2. A Crucible of Queens

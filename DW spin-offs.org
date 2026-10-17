@@ -521,6 +521,11 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
 ***** [#B] 65X A Postcard from Mr Colchester :Colchester:plot_yes:
 ***** [#D] 65. Death in Venice :Colchester:Ace:plot_yes:
 ***** [#D] 66. SUV :Ianto:Tosh:
+      :PROPERTIES:
+      :tardis.guide: 3.57
+      :thetimescales: 6.8
+      :END:
+
 ***** HALF [#B] 67. The Lincolnshire Poacher :Ianto:plot_yes:dw2026_q2b_spinoffs:
       SCHEDULED: <2026-06-21 Sun>
       :PROPERTIES:
@@ -1417,10 +1422,18 @@ Roberts Master
 
 **** 📂DoRS 10 - Two Rivers and a Firewall :P2022_08:
 ***** [#C] 10.1 The Two Rivers
+      :PROPERTIES:
+      :tardis.guide: 3.83
+      :thetimescales: 8.0
+      :END:
+
 ***** [#F] 10.2 Beauty on the Inside
 ***** [#E] 10.3 Black Friday :Autons:
 ***** [#E] 10.4 Firewall
-**** 📂DoRS 11 - Friend of the Family :P2023_01:
+**** 📂DoRS 11 - Friend of the Family :P2023_01:plot_yes:
+
+https://breezewiki.com/tardis/wiki/Friend_of_the_Family_(audio_story)#Plot
+
 ***** HALF [#A] part1. The Rules of the House :dw2026_q1b_spinoffs:
       SCHEDULED: <2026-03-08 Sun>
 
@@ -1448,11 +1461,14 @@ Roberts Master
 
 【【神秘博士广播剧熟肉】[BigFinish DLRS] 1.02 Last Words: Fate and Fatality 命运与死亡-哔哩哔哩】 https://b23.tv/BV1rqNs6QErQ
 
-***** READY [#D] 1.3 The Black Hours
+***** READY [#D] 1.3 The Black Hours :bilibili:
 
 【【神秘博士广播剧熟肉】[BigFinish DLRS] 1.03 Last Words: The Black Hours 黑色时祷书-哔哩哔哩】 https://b23.tv/BV116KA6PEAL
 
-***** [#D] 1.4 Book of the Dead
+***** READY [#D] 1.4 Book of the Dead :bilibili:
+
+【【神秘博士广播剧熟肉】[BigFinish DLRS] 1.04 Last Words: Book of the Dead 亡灵书-哔哩哔哩】 https://b23.tv/BV1qjWA6aEu9
+
 **** 📂DLRS2: Ace and Tegan :Tegan:Ace:P2025_03:
 ***** [#C] 2.1 Castaways
 ***** [#E] 2.2 Driftwood
@@ -2489,7 +2505,7 @@ http://drwhoguide.com/davros01.htm
 
 after /Resurrection of the Daleks/
 
-**** HALF [#C] +MR65. The Juggernauts+ :6th_Dr:Mel:Davros:D2021_11_davros:plot_no:
+**** HALF [#C] MR65. The Juggernauts :6th_Dr:Mel:Davros:D2021_11_davros:plot_no:
      SCHEDULED: <2021-11-13 Sat>
      :PROPERTIES:
      :rating:   7.8
@@ -3773,10 +3789,25 @@ Rani起初并不相信，但当一位老朋友警告她不要插手时，她感�
 **** 1.3 Allegiance
 *** vol.2 Bret Vyon Lives! :P2026_07:
 ** Smith & Sullivan :Sarah:Harry:🎧:
-*** TBR vol.1 Reunited :P2025_07:
-**** 1.1 The Caller
-**** 1.2 Union of the Snake
-**** 1.3 Blood Type
+*** TBR 📂vol.1 Reunited :P2025_07:
+**** [#D] 1.1 The Caller
+     :PROPERTIES:
+     :tardis.guide: 4.06
+     :thetimescales: 7.0
+     :END:
+
+**** [#D] 1.2 Union of the Snake
+     :PROPERTIES:
+     :tardis.guide: 3.73
+     :thetimescales: 6.7
+     :END:
+
+**** [#D] 1.3 Blood Type
+     :PROPERTIES:
+     :tardis.guide: 3.94
+     :thetimescales: 5.5
+     :END:
+
 ** (^)
 *** UNIT
 *** Bernice Summerfield

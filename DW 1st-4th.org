@@ -877,10 +877,14 @@ CLOSED: [2026-08-25 Tue 21:37] SCHEDULED: <2026-06-27 Sat>
 
 【【神秘博士广播剧熟肉】Companion Chronicles 1003 The Integral-哔哩哔哩】 https://b23.tv/BV1SAuu6eEwd
 
-***** [#D] CC10.4. The Edge :Jamie:plot_no:scripted:
+***** READY [#D] CC10.4. The Edge :Jamie:plot_no:scripted:bilibili:
 :PROPERTIES:
 :rating:   7.4
 :END:
+
+【【神秘博士广播剧熟肉】The Companion Chronicles 1004 The Edge 残刃-哔哩哔哩】 https://b23.tv/BV1KBaR6mE35
+
+残刃(The Edge)是星系中实验、理论突破和发明的科学中心，博士和Zoe对这种地方很感兴趣。但是秘密隐藏于残刃的实验室中。Jamie直觉有什么不对劲的地方，并且不用花很久就会证明他的直觉是对的
 
 ***** 3QTR [#D] CC12.3 The Iron Maid :Zoe:Jamie:dw2025_q3b_doctor:
 CLOSED: [2025-10-06 Mon 08:31] SCHEDULED: <2025-08-30 Sat>
@@ -1879,7 +1883,17 @@ Jacob Harmer是位伟大的作家，他创作的儿童奇幻小说风靡一时
 如今，他终于准备好讲述真正发生的故事……
 
 ***** [#D] 12.4 The Friendly Invasion :P2023_06:1CD:
-***** [#D] 12.5 Stone Cold :Weeping_Angels:P2023_06:2CD:
+***** READY [#D] 12.5 Stone Cold :Weeping_Angels:P2023_06:2CD:bilibili:
+
+【【神秘博士广播剧熟肉】四任博士冒险 1205 Stone Cold 冰冷如石-哔哩哔哩】 https://b23.tv/BV1czaD6hEdv
+
+TARDIS 降落在一个满是岩石且火山活跃的星球上，船员们很快发现他们并非孤身一人
+一艘休闲游轮最近坠毁在这颗星球上。然而，生存却变得异常危险......
+
+因为这颗星球上有什么东西在掳走人们。那是由石头构成的，还长着翅膀的某种东西
+无论如何，不要眨眼……
+
+
 ***** [#B] 12.6 The Ghost of Margaret :P2023_06:1CD:
 **** 📂4DA series 14
 ***** [#E] 14.1 The Hellwood Inheritance :P2025_03:2CD:
@@ -2507,6 +2521,31 @@ https://b23.tv/BV1CA411Q7Yk
 
 https://disk.yandex.ru/d/n_i2CRgIJW0xOw
 
+*** READY Echoes of Extinction :8th_Dr:10th_Dr:bilibili:
+
+【【神秘博士广播剧熟肉】Time Lord Victorious - Echoes of Extinction -哔哩哔哩】 
+- side A (8th Doctor):  https://b23.tv/BV1PF411A7fH
+- side B (10th Doctor): https://b23.tv/BV13d4y1U7nx
+
+https://www.bigfinish.com/releases/v/doctor-who-time-lord-victorious-echoes-of-extinction-2262
+一个被困住的精神怪物正等着吞噬新的受害者，它需要帮助，它需要一位医生。不幸的是，它还需要杀死它遇到的人。
+被迫闯入迫在眉睫的危险之中，并且处于不利地位，博士必须使出浑身解数才能取得胜利。
+
+两个相互关联的冒险，两位博士，同个敌人。
+
+*** He Kills Me, He Kills Me Not :8th_Dr:
+*** READY The Enemy of My Enemy :8th_Dr:Daleks:bilibili:
+
+【【熟肉】神秘博士广播剧 Time Lord  Victorious 02 | 《The Enemy of My Enemy》 敌人的敌人-哔哩哔哩】 https://b23.tv/BV1h8aC6WEjA
+
+*** READY Mutually Assured Destruction :8th_Dr:Daleks:bilibili:
+
+【【熟肉】神秘博士广播剧 Time Load Victorious 03 | 《Mutually Assured Destruction》相互确保毁灭-哔哩哔哩】 https://b23.tv/BV1dFHv61EbY
+
+*** READY Genetics of the Daleks :Daleks:4th_Dr:bilibili:
+
+【【熟肉】神秘博士广播剧 Time Load Victorious 04 | 《Genetics of the Daleks》戴立克的基因-哔哩哔哩】 https://b23.tv/BV1B5Ho61EfC
+
 ** Peladon :P2022_01:plot_yes:
 *** 3QTR [#B] 1. The Ordeal of Peladon :King_Peladon:Alpha_Centauri:14th_Dr:DW2024_Q3c_spinoffs:
 CLOSED: [2024-11-01 Fri 08:38] SCHEDULED: <2024-09-08 Sun>
@@ -2702,7 +2741,7 @@ https://b23.tv/BV1eE6FYwEYz
 *** 35. Star Flight :1st_Dr:Susan:Ian:Barbara:P2026_03:
 *** 36. Circle of Memory :11th_Dr:Amy:Rory:P2026_05:
 *** 37. The Deadliest Weapon :Fugitive_Dr:Cybermen:P2026_07:
-*** TBR 38. Shard of Life :2nd_Dr:Jamie:Zoe:P2026_10:
+*** 38. Shard of Life :2nd_Dr:Jamie:Zoe:P2026_10:
 ** 📂Sontarans vs Rutans :plot_yes:
 *** [#C] 1. The Battle of Giant's Causeway :8th_Dr:Charley:Crizz:P2024_01:
 *** 3QTR [#B] 2. The Children of the Future :3rd_Dr:Sarah:P2024_02:
@@ -2728,16 +2767,16 @@ https://tardis.wiki/wiki/In_Name_Only_(audio_story)#Plot
 
 *** The Decayed Master ↗ :P2026_09:
 ** 📂Halloween: Sea Smoke and Other Stories :P2025_10:
-*** 1. Sea Smoke :1st_Dr:Dodo:
-*** [#A] 2. Party Favours :UNIT_new:dw2026_q4a_spinoffs:
-SCHEDULED: <2026-11-08 Sun>
+*** 1.1 Sea Smoke :1st_Dr:Dodo:
+*** [#A] 1.2 Party Favours :UNIT_new:dw2026_q4a_spinoffs:
+SCHEDULED: <2026-11-04 Wed>
 :PROPERTIES:
 :thetimescales: 9.0
 :tardis.guide: 4.34
 :END:
 
-*** 3. Bramble King :8th_Dr:Audacity:
-*** 4. Merlin's Trap :12th_Dr:
+*** 1.3 Bramble King :8th_Dr:Audacity:
+*** 1.4 Merlin's Trap :12th_Dr:
 ** 📂Christmas: It's a Wonderful War and Other Stories :P2025_12:
 *** 1. Unholy Night :Missy:
 *** 2. Legacy of Blood :6th_Dr:Leela:Ellie:
@@ -2748,6 +2787,11 @@ SCHEDULED: <2026-11-08 Sun>
 *** 2.2 Rendition :2nd_Dr:8th_Dr:Jamie:Zoe:P2026_05:
 *** 2.3 Grave Moon :6th_Dr:Peri:8th_Dr:P2026_06:
 *** 2.4 Peace at Last :8th_Dr:Charley:Crizz:P2026_06:
+** 📂Halloween: Doctor, Doctor, Doctor and Other Stories :P2026_10:
+*** 2.1 Doctor, Doctor, Doctor :7th_Dr:
+*** 2.2 The Song of the Reed Man :3rd_Dr:Jo:
+*** 2.3 Office Space :UNIT:
+*** 2.4 Overworked :5th_Dr:Nyssa:
 * multi-doctor story
 ** tv
 *** 10x01 The Three Doctors :P1973:
