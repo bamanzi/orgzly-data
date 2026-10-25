@@ -35,7 +35,7 @@ Torchwood India
 **** 3QTR [#C] 4. The Dead Line :Jack:Gwen:Ianto:Rhys:bilibili:P2009:DW2024_Q2a_spinoffs:
      CLOSED: [2024-04-09 Tue 22:04] SCHEDULED: <2024-04-07 Sun>
 
-【John Barrowman字幕组-火炬木广播剧中字-无人来电-哔哩哔哩】 https://b23.tv/PmtaVMU
+【John Barrowman字幕组-火炬木广播剧中字-无人来电-哔哩哔哩】 https://b23.tv/BV19x411w7TR
 
 **** HALF [#C] 5.1 The Devil and Miss Carew :Jack:Gwen:Ianto:P2011:dw2025_q4b_spinoffs:
      SCHEDULED: <2025-12-14 Sun>
@@ -44,7 +44,7 @@ Torchwood India
 **** DONE [#B] 5.3 The House of the Dead :Jack:Ianto:bilibili:P2011:DW2024_Q4b_spinoffs:
      CLOSED: [2024-12-05 Thu 06:35] SCHEDULED: <2024-12-01 Sun>
 
-【John Barrowman 字幕组-火炬木广播剧中字-亡者之屋-哔哩哔哩】 https://b23.tv/WyjmysL
+【John Barrowman 字幕组-火炬木广播剧中字-亡者之屋-哔哩哔哩】 https://b23.tv/BV1Sx411K7sP
 
 *** BF monthly :1CD:
 **** series 1 (1-6) :P2015:scripted:
@@ -267,7 +267,9 @@ Bonded by an alien device, Margaret and Suzie find themselves on the run from To
       :rating:   7.6
       :END:
 
-【【中字片段①】火炬木小组-Serenity（宁静社区）-哔哩哔哩】 https://b23.tv/PiaUCZy
+【【中字片段①】火炬木小组-Serenity（宁静社区）-哔哩哔哩】 https://b23.tv/BV1Gu4y1G7G9
+
+杰克上校和杨桃为寻找Cell 114的Sleeper潜入一处封闭社区进行卧底，两人假扮成一对已婚夫夫。但在卧底搜寻的同时，他们也不得不面对日常生活中的种种问题。
 
 ***** DONE [#A] 30. The Hope [A⁺] :Owen:Andy:
       CLOSED: [2021-05-08 Sat 08:04]
@@ -307,7 +309,9 @@ Sebastian Vaughan is the brightest, newest recruit to Torchwood. He's come fro
       :rating:   5.8
       :END:
 
-【【自译中字/火炬木小组广播剧】Expectant（怀胎惊魂）-哔哩哔哩】 https://b23.tv/JBH410t
+【【自译中字/火炬木小组广播剧】Expectant（怀胎惊魂）-哔哩哔哩】 https://b23.tv/BV1TN4y167eG
+
+Yalnix帝国是一个由十几个星系组成的脆弱联盟，其族人繁殖后代的唯一方式只有通过其他种族进行代孕。当今的女皇不信任仍何一个联盟内的种族，便向老朋友杰克上校寻求帮助。即使这不是杰克第一次怀孕，事情似乎并不如他预料得那样进展顺利。
 
 ***** HALF [#C] 35. Fortitude :Queen:plot_yes:D2021_12_extra:week4:
       SCHEDULED: <2021-12-26 Sun>
@@ -1216,11 +1220,12 @@ River Song 以兼职工的身份入职“黄金未来”公司
 
 故事太乱了
 
-【【神秘博士广播剧】The Diary of River Song 204 The Eye of the Storm 暴风眼-哔哩哔哩】 https://b23.tv/Ey6OpEf
+【【神秘博士广播剧】The Diary of River Song 204 The Eye of the Storm 暴风眼-哔哩哔哩】 https://b23.tv/BV1FoPJzDEyz
 
 官网购买页在这儿：https://www.bigfinish.com/releases/v/the-diary-of-river-song-series-02-1471
 ————————
 1703年的大风暴即将来袭 地球的命运悬而未决
+
 唯一能拯救它的人是博士 或是River Song 也有可能是另一位博士 又或许这一切从一开始就是他们的错
 
 两位博士 汇入一条河流（和一位River）导向终末的方式无穷无尽 这注定是一段坎坷的旅途……
@@ -1316,13 +1321,13 @@ With the Discordia on their tail, River and her friends run for their lives 
       :END:
 
 **** DoRS 5 :P2019:
-***** DONE [#A] 5.1 The Bekdel Test :Master_missy:plot_yes:bilibili:
+***** DONE [#A] 5.1 The Bekdel Test :Master_missy:plot_yes:bilibili:D2021_05_extra:
       CLOSED: [2021-05-28 Fri 08:51]
       :PROPERTIES:
       :rating:   8.6
       :END:
 
-【［神秘博士广播剧］missy和river被绑架至神秘研究所，幕后黑手究竟是谁?《River Song的日记: 贝克德尔测验》-哔哩哔哩】 https://b23.tv/MNnZ13F
+【［神秘博士广播剧］missy和river被绑架至神秘研究所，幕后黑手究竟是谁?《River Song的日记: 贝克德尔测验》-哔哩哔哩】 https://b23.tv/BV1sb4y1z7p5
 
 ***** DONE [#D] 5.2 Animal Instinct :Master_decayed:D2021_07_extra:plot_no:
       CLOSED: [2021-07-27 Tue 23:11]
@@ -1340,7 +1345,7 @@ Beevers Master
 
 Roberts Master
 
-【【神秘博士广播剧】The Diary of River Song 503 The Lifeboat and The Deathboat 生死同舟-哔哩哔哩】 https://b23.tv/e4DTZDO
+【【神秘博士广播剧】The Diary of River Song 503 The Lifeboat and The Deathboat 生死同舟-哔哩哔哩】 https://b23.tv/BV1Hu4y1z7RU
 
 ***** 3QTR [#D] 5.4 Concealed Weapon :Master_war:D2021_08_extra:
       :PROPERTIES:
@@ -1822,7 +1827,7 @@ Gallifrey是一个与自己交战的世界。潘多拉实体身着罗马纳总�
     :rating:   8.9
     :END:
 
-【[英文字幕]Gallifrey 304 Mindbomb-哔哩哔哩】 https://b23.tv/9qLYsks
+【[英文字幕]Gallifrey 304 Mindbomb-哔哩哔哩】 https://b23.tv/BV1DwbGzrEzN
 
 *** HALF [#B] 3.5 - Panacea :DW2024_Q3c_spinoffs:bilibili:
     SCHEDULED: <2024-10-13 Sun>
@@ -2569,7 +2574,7 @@ Davros 只出现在新闻画面
      :rating:   7.9
      :END:
 
-【【David Tennant】Big Finish广播剧熟肉 Out of Time-哔哩哔哩】https://b23.tv/PTTovz
+【【David Tennant】Big Finish广播剧熟肉 Out of Time-哔哩哔哩】https://b23.tv/BV1jV411E7Yu
 
 **** DONE novel: Prisoner of the Daleks
      CLOSED: <2021-10-16 Sat 10:18>
@@ -3683,16 +3688,13 @@ Rani和Gita Chandra被邀请去一个豪华的岛屿度假胜地参加一场梦�
 **** s2	The Revenge of Wormwood :P2023:
 ***** READY 2x01 Time Scism :bilibili:
 
-【【神秘博士广播剧熟肉】Rani Takes On The World 201 Time Scism! 时间分裂-哔哩哔哩】 https://b23.tv/gWVWGIJ
+【【神秘博士广播剧熟肉】Rani Takes On The World 201 Time Scism! 时间分裂-哔哩哔哩】 https://b23.tv/BV1oeNFzoE7t
 
 播客的粉丝Anna认为在她当地的邮局里有一位时间旅行者。那么，除了Rani Chandra之外，她还能向谁求助来调查此事呢？
 
 Rani起初并不相信，但当一位老朋友警告她不要插手时，她感到震惊。
 
 如果UNIT不希望她调查此事，那么这种现象背后肯定有什么东西……但Rani对真相的追求是否会让她与Luke产生隔阂呢？
-
-带有#的句子翻译存在问题
-有问题欢迎各位指正
 
 ***** READY 2x02 The Star-Crossed Diversion :bilibili:
 
@@ -3936,7 +3938,14 @@ Rani起初并不相信，但当一位老朋友警告她不要插手时，她感�
 **** 3QTR [#D] 1.3 - Ghost Machines :DW2022_07_spinoffs:bilibili:
      CLOSED: [2022-07-15 Fri 05:40] SCHEDULED: <2022-07-10 Sun>
 
-【【神秘博士广播剧熟肉】The Dimension Cannon 103 Ghost Machines 幽灵机器-哔哩哔哩】 https://b23.tv/iSSh5YP
+【【神秘博士广播剧熟肉】The Dimension Cannon 103 Ghost Machines 幽灵机器-哔哩哔哩】 https://b23.tv/BV1pD4y1H7FF
+
+https://www.bigfinish.com/releases/v/rose-tyler-the-dimension-cannon-1-1989
+
+Pete决定是时候陪同Rose进行一次维度跳跃。但他选择了一个最糟糕的时间。他们来到了一个科技发展不同寻常的世界，而刚去世的Pete Tyler取得了截然不同的成功。
+
+随着机器开始故障，Pete遇到了他的遗孀，他和Rose必须面对他们家庭的真相。但他们或许无法活着逃离地球。
+
 
 **** HALF [#C] 1.4 - The Last Party on Earth :DW2022_08_spinoffs:bilibili:
      SCHEDULED: <2022-08-21 Sun>
@@ -3944,7 +3953,14 @@ Rani起初并不相信，但当一位老朋友警告她不要插手时，她感�
      :rating:   7.3
      :END:
 
-【【神秘博士广播剧熟肉】The Dimension Cannon 104 The Last Party on Earth 地球最后的狂欢-哔哩哔哩】 https://b23.tv/FHge6fG
+【【神秘博士广播剧熟肉】The Dimension Cannon 104 The Last Party on Earth 地球最后的狂欢-哔哩哔哩】 https://b23.tv/BV1od4y1p7W3
+
+https://www.bigfinish.com/releases/v/rose-tyler-the-dimension-cannon-1-1989
+
+Rose和Jackie拜访的平行宇宙像过去的家一样。但是，有些老朋友不见了，有些却意外地出现。Rose遇到了两个她知道应该在一起的年轻人——有时候，要等到世界末日，人们才能看见眼前的东西。
+
+与此同时，Powell小区正用唯一的方式面对世界末日——办一场聚会。
+
 
 *** RTDC vol.2 Other Worlds :P2022_10:
 **** HALF [#C] 2.1 Saltwater :bilibili:DW2024_Q3b_spinoffs:
@@ -3991,22 +4007,44 @@ From Donna's perspective, the anthology is set after /Forest of the Dead/.
 *** DONE [#B] 1. Out of this World (8.1) :plot_no:bilibili:DW2022_10_spinoffs:
     CLOSED: [2022-10-15 Sat 22:10] SCHEDULED: <2022-10-15 Sat>
 
-【【神秘博士广播剧熟肉】Kidnapped! 101 Out of this World 世界之外-哔哩哔哩】 https://b23.tv/By95ZJG
+【【神秘博士广播剧熟肉】Kidnapped! 101 Out of this World 世界之外-哔哩哔哩】 https://b23.tv/BV15S4y1H7bL
+
+https://www.bigfinish.com/releases/v/donna-noble-kidnapped-2107
+
+Donna回家了，但她不太对劲。Sylvia自有一些让她走出自我的方法 — 包括一个老朋友和一场快速约会...
+
+当Donna和闺蜜Natalie再度相见时，却有一个神秘的陌生人尾随着她们，是博士一直在监视她？还是有更加险恶的真相...
 
 *** HALF [#C] 2. Spinvasion (7.8) :DW2022_12_spinoffs:bilibili:
     SCHEDULED: <2022-12-08 Thu>
 
-【【神秘博士广播剧熟肉】Kidnapped! 102 Spinvasion 虚假宣传-哔哩哔哩】 https://b23.tv/bUsymNF
+【【神秘博士广播剧熟肉】Kidnapped! 102 Spinvasion 虚假宣传-哔哩哔哩】 https://b23.tv/BV1ug411f7qR
+
+https://www.bigfinish.com/releases/v/donna-noble-kidnapped-2107
+
+Donna、Nat和TARDIS一起被偷走了，他们发现自己迫降在了一个外星世界 — 星球Valdacki。然而一场成功的侵略已经开始了，它还拥有最好的公关...
 
 *** DONE [#E] +3. The Sorcerer of Albion+ (6.9) :bilibili:DW2022_12_spinoffs:
     CLOSED: [2022-12-25 Sun 15:47] SCHEDULED: <2022-12-24 Sat>
 
-【【神秘博士广播剧熟肉】Kidnapped! 103 The Sorcerer of Albion 英格兰的巫师-哔哩哔哩】 https://b23.tv/N0bX4mv
+【【神秘博士广播剧熟肉】Kidnapped! 103 The Sorcerer of Albion 英格兰的巫师-哔哩哔哩】 https://b23.tv/BV1rB4y1a7xL
+
+https://www.bigfinish.com/releases/v/donna-noble-kidnapped-2107
+
+试图回到地球，Donna和Nat却抵达了正确的地点的错误时间—中世纪！
+
+一座修道院正遭到火焰骑士的围攻，巫师Parval正准备请求另一位伟大魔法师的帮助。他召唤了Merlin，或者在Nat看来，是Donna Noble...
 
 *** DONE [#C] 4. The Chiswick Cuckoos (7.9) :10th_Dr:bilibili:DW2023_01_spinoffs:
     CLOSED: [2023-01-15 Sun 10:46] SCHEDULED: <2023-01-15 Sun>
 
-【【神秘博士广播剧熟肉】Kidnapped! 104 The Chiswick Cuckoos 奇斯威克的布谷鸟-哔哩哔哩】 https://b23.tv/tSBFEZL
+【【神秘博士广播剧熟肉】Kidnapped! 104 The Chiswick Cuckoos 奇斯威克的布谷鸟-哔哩哔哩】 https://b23.tv/BV1Na411D7UW
+
+https://www.bigfinish.com/releases/v/donna-noble-kidnapped-2107
+
+Donna回家了，但她好像不太像自己。Sylvia非常高兴地看到她的女儿终于开始了正常的生活。
+
+但外星人的阴谋即将完成，世界需要拯救；博士无处可寻，这一切都交给了Donna和Nat...
 
 ** The Year of Martha Jones :P2021:
 *** [#F] The Last Diner

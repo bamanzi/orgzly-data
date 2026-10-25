@@ -55,11 +55,13 @@ CLOSED: <2020-08-24 Mon 16:30>
 
 【[神秘博士广播剧]MR 019 Minuet in Hell-哔哩哔哩】 https://b23.tv/BV1SwwnzbE6Z
 
-***** DONE [#E] 028 - Invaders from Mars
+***** DONE [#E] 028 - Invaders from Mars :bilibili:
 CLOSED: <2020-09-19 Sat 13:56>
 :PROPERTIES:
 :rating:   6.8
 :END:
+
+【[神秘博士广播剧]MR 028 Invaders from Mar-哔哩哔哩】 https://b23.tv/BV1FknG6RERP
 
 ***** DONE [#A] 029 - The Chimes Of Midnight (A⁺) :bilibili:
 CLOSED: [2020-09-24 Thu 08:32]
@@ -427,6 +429,8 @@ CLOSED: [2021-06-04 Fri 07:34]
 :END:
 
 【【熟肉】神秘博士广播剧 8DA 101 |《Blood of the Daleks》Part 1 戴立克之血 第一部分-哔哩哔哩】 https://b23.tv/BV1oYHk6KEEz
+
+【【熟肉】神秘博士广播剧 8DA 101 |《Blood of the Daleks》Part 2 戴立克之血 第二部分-哔哩哔哩】 https://b23.tv/BV15tJv66EAL
 
 ***** HALF [#C] 1.3 Horror of Glam Rock
 :PROPERTIES:
@@ -820,7 +824,7 @@ https://b23.tv/BV1HbFVehEH2
 :rating:   7.3
 :END:
 
-【【神秘博士广播剧】Ravenous 401 Whisper 噤声-哔哩哔哩】 https://b23.tv/rbdjufW
+【【神秘博士广播剧】Ravenous 401 Whisper 噤声-哔哩哔哩】 https://b23.tv/rbdjufW (??)
 
 ****** READY [#A] 4.2 - Planet of Dust :bilibili:
 :PROPERTIES:
@@ -1011,6 +1015,16 @@ CLOSED: [2020-09-23 Wed 12:53]
 **** [#D] SST40. An Ocean of Sawdust :no_companion:
 **** [#C] The Scent of Blood :James:P2019:BBC:
 **** [#A] The Code of Flesh :James:P2022_10:BBC:
+**** READY [#D] CDNM5.4 Five Hundred Ways to Leave Your Lover :8th_Dr:bilibili:
+:PROPERTIES:
+:tardis.guide: 4.04
+:thetimesclaes: 6.7
+:END:
+
+【【神秘博士广播剧片段】博士反复被甩和被强吻的一天-哔哩哔哩】 https://b23.tv/BV1D1fUYkESE
+
+BF广播剧系列《Classic Doctors, New Monsters》八叔和新版剧集僧侣的较量。八叔遭*男友*反复分手hhhhhh
+
 ** short stories
 *** Model Train Set :🎧:short:
 
@@ -1565,11 +1579,13 @@ SCHEDULED: <2024-05-31 Fri>
 **** [#E] 3.2 The Voord Alliance
 ** 6. Derilobia Lost
 *** 📂8D Time War vol.2 :Bliss:P2018:scripted:🎧:
-**** DONE [#C] 2.1 The Lords of Terror
+**** DONE [#C] 2.1 The Lords of Terror :bilibili:
 CLOSED: [2020-12-09 Wed 19:04]
 :PROPERTIES:
 :rating:   7.6
 :END:
+
+【[神秘博士广播剧]8DTW 201 The Lords of Terror-哔哩哔哩】 https://b23.tv/BV1zXJ96NEVU
 
 **** DONE [#B] 2.2 Planet of the Ogrons
 CLOSED: [2020-12-09 Wed 19:04]
@@ -1768,11 +1784,19 @@ CLOSED: [2020-09-23 Wed 12:53]
 :rating:   7.7
 :END:
 
-**** DONE [#C] Day of the Vashta Nerada (CDNM #2.4) :Vashta_Nerada:🎧:
+**** DONE [#C] Day of the Vashta Nerada (CDNM #2.4) :Vashta_Nerada:🎧:bilibili:
 CLOSED: [2020-09-23 Wed 12:53]
 :PROPERTIES:
 :rating:   7.8
 :END:
+
+【【神秘博士广播剧熟肉】Classic Doctors New Monsters 204 Day of the Vashta Nerada 老博士新怪物 影魔之日-哔哩哔哩】 https://b23.tv/BV1xt421W72m
+
+由于时间之战，红衣主教Ollistra想要寻找更强大的武器对付敌人
+
+单博士碰巧来到Synthesis站，发现了时间领主在这里开展的研究，开始进行生物武器化的研究，但是这么做了之后，Eva Morrison的团队使用了某个殖民地上的影魔，它们拥有悲惨的命运。
+
+博士发觉他要开展一场逃往，而要命的是影子是他们最小的担忧
 
 **** HALF A Heart on Both Sides (Short Trips #7.9) :🎧:Nyssa:
 *** HALF [#B] ST11.4 Death Will Not Part Us 🗣 :8th_Dr:time_war:🎧:DW2024_Q3c_doctor:
@@ -2088,6 +2112,11 @@ CLOSED: [2020-09-23 Wed 12:53]
 **** 12.2 Last Girl Standing
 **** 12.3 The Worst of All Evils
 **** 12.4 The Blue Shift Ritual
+*** 📂The War Master series 13: Deeds Without Name :P2026_10:
+**** 13.1 The Unstately Home
+**** 13.2 The Unstately Home
+**** 13.3 The Devil in the Detail
+**** 13.4 In His Anecdotage
 ** unofficial
 *** Seasons of War (anthology) :War_Dr:
 

@@ -306,7 +306,7 @@ CLOSED: [2022-05-27 Fri 11:35] SCHEDULED: <2022-05-28 Sat>
 :rating:   7.8
 :END:
 
-【Doctor Who (1963) 广播剧 - Frostfire 霜火 【听译字幕】-哔哩哔哩】 https://b23.tv/ZUuW5gR
+【Doctor Who (1963) 广播剧 - Frostfire 霜火 【听译字幕】-哔哩哔哩】 https://b23.tv/ZUuW5gR (??)
 
 ***** [#B] CC4.7 - The Suffering :Vicki:Steven:
 :PROPERTIES:
@@ -674,7 +674,7 @@ UNIT 和 准将第一次正式出场
 了，所以本作品在一定程度上得到了BBC的认可，并且BBC在2009年发行 /The War Games/
 的DVD版本的时候，附带了本作品的删减版本。
 
-- BBC版本(iCelery 熟肉): https://b23.tv/av1780624/
+- BBC版本(iCelery 熟肉): https://b23.tv/BV1gx411N7KU
 - 完整版本: http://www.doctorwho-devious.com/
 
 ** comics
@@ -733,7 +733,7 @@ SCHEDULED: <2021-12-15 Wed>
 :rating:   7.7
 :END:
 
-中文解说 【广播剧 - Resistance 抵抗 (剧情解说)-哔哩哔哩】 https://b23.tv/eL2dEEG
+中文解说 【广播剧 - Resistance 抵抗 (剧情解说)-哔哩哔哩】 https://b23.tv/eL2dEEG (??)
 
 ***** [#C] CC5.9 - The Forbidden Time :Polly:Jamie:plot_yes:
 :PROPERTIES:
@@ -1440,7 +1440,7 @@ There's a secret locked up in UNIT's Vault 75-73/Whitehall. Dr Elizabeth Shaw�
 ***** HALF [#C] CC1.3 The Blue Tooth (7.5) :scripted:UNIT:cybermen:DW2022_07_doctor:
 SCHEDULED: <2022-07-09 Sat>
 
-【广播剧 - The Blue Tooth 蓝色牙齿 (剧情解说)-哔哩哔哩】 https://b23.tv/SDbN8U7
+【广播剧 - The Blue Tooth 蓝色牙齿 (剧情解说)-哔哩哔哩】 https://b23.tv/SDbN8U7 (??)
 
 ***** DONE [#D] CC6.9 Binary (7.3)
 CLOSED: [2020-08-07 Fri 18:26]
@@ -1528,7 +1528,17 @@ CLOSED: [2023-04-11 Tue 18:48] SCHEDULED: <2023-03-18 Sat>
 :rating:   7.6
 :END:
 
-【【神秘博士】短途旅行：以陆为牢 | Short Trips: Landbound-哔哩哔哩】 https://b23.tv/hbxNYVJ
+【【神秘博士】短途旅行：以陆为牢 | Short Trips: Landbound-哔哩哔哩】 https://b23.tv/BV1tT411j7sS
+
+翻译：琪琪 | 字幕：琪琪
+
+他曾经是一艘船的船长。然而自从失去了这个身份，他便终日郁郁，以陆为牢。然后，他遇到了一个同病相怜的人，一个和他一样有所失的人。
+
+故事发生在一座海边小镇。罗纳德·亨德森和博士都想要继续前行，但其中一人必须先面对自己的过去……
+
+这个故事是2017年“纪念保罗·斯普拉格的短途旅行创作赛”的获奖作品
+
+ATTENTION：视频中的注解字幕涉及老版剧透。
 
 ***** HALF [#B] ST11.3 The Threshold :Master_nemesis:P2022_02:DW2022_07_doctor:
 SCHEDULED: <2022-07-16 Sat>
@@ -1752,10 +1762,16 @@ CLOSED: [2020-08-03 Mon 23:17]
 ** audio :🎧:
 *** with Leela :Leela:
 **** 4DA series 1 :4DA:scripted:P2012:1CD:
-***** CANCEL [#E] 1.1 Destination - Nerva †6.5 :bilibili:
+***** CANCEL [#E] 1.1 Destination - Nerva :bilibili:
 CLOSED: [2020-06-28 Sun 13:30]
 
-【【神秘博士广播剧熟肉】The Fourth Doctor's Adventures 101 - Destination Nerva 目的地诺亚-哔哩哔哩】 https://b23.tv/djAC4kd
+【【神秘博士广播剧熟肉】The Fourth Doctor's Adventures 101 - Destination Nerva 目的地诺亚-哔哩哔哩】 https://b23.tv/BV1SF4m1N78K
+
+在和Litefoot和Henry Gordon Jago告别以后博士和Leela回应了来自维多利亚时代的外星人的救援信号，然后开启了一场前往新建诺亚空间站的旅行。
+
+但这场旅途中发现了一场足以毁灭人类的灾难
+
+本故事发生于文昌魔爪之后
 
 ***** DONE [#C] 1.2 The Renaissance Man †7.5)
 CLOSED: [2020-08-07 Fri 18:25]
@@ -1781,7 +1797,13 @@ CLOSED: <2020-08-17 Mon 10:54>
 :rating:   7.3
 :END:
 
-【【神秘博士广播剧熟肉】The Fourth Doctor's Adventure Trail of the White Worm-白虫的踪迹-哔哩哔哩】 https://b23.tv/HybCyP7
+【【神秘博士广播剧熟肉】The Fourth Doctor's Adventure Trail of the White Worm-白虫的踪迹-哔哩哔哩】 https://b23.tv/BV1kSWheVEqE
+
+传说可以追溯回罗马时期，至少是一个大的白虫，跟一个人一样宽，黑峰间隙之间砸破石头，用来捕食猎物，有时甚至是孩子。
+
+当博士和Leela到达了德比郡，抓取搜寻一个失踪的女孩Julie，不久他们发现了虫子的传说非常出名，哪怕是1979年
+
+更糟糕的是，好像不只有博士这一位时间领主的叛徒在寻找致命而又神秘的虫子的踪迹
 
 ***** DONE [#D] 1.6 - The Oseidon Adventure :Master_decayed:bilibili:
 CLOSED: [2020-08-18 Tue 13:03]
@@ -1789,7 +1811,12 @@ CLOSED: [2020-08-18 Tue 13:03]
 :rating:   7.2
 :END:
 
-【【神秘博士广播剧熟肉】The Fourth Doctor's Adventure 106 The Oseidon Adventure-Oseidon上的冒险-哔哩哔哩】 https://b23.tv/bNV0his
+【【神秘博士广播剧熟肉】The Fourth Doctor's Adventure 106 The Oseidon Adventure-Oseidon上的冒险-哔哩哔哩】 https://b23.tv/BV1DpWfeiEsQ
+
+可怕的Kraal第一次运用机器人，试图入侵地球，这场侵略行动被博士和UNIT挫败。
+这一次Marshal Grinmal和他好战的军队已经准备好入侵了，这次他们不会犯错，这次首席科学家Tyngworg不止有一个计划，还有很多备用计划
+
+由于博士被抓到Kraal充满辐射的母星Oseidon，这次只有Leela才能阻止这一切，和一个最不情愿的人结盟
 
 **** 4DA series 3 :4DA:P2014:scripted:1CD:
 ***** DONE [#C] 3.1 - The King of Sontar (7.7) :Sontarans:D2021_09_dr:
@@ -2182,8 +2209,9 @@ CLOSED: [2022-09-03 Sat 17:41] SCHEDULED: <2022-09-04 Sun>
 
 如今，这个剧本被大完结制作（Big Finish Production）委托编剧John Dorney改编成广播剧。对比改编版，本故事基调更为黑暗和恐怖，更会让人联想到幽闭恐惧症。
 
-【【神秘博士广播剧熟肉】The Lost Stories 601 Return of the Cybermen (Part 1&2) 赛博人的回归-哔哩哔哩】 https://b23.tv/TscHIKq
-【【神秘博士广播剧熟肉】The Lost Stories 601 Return of the Cybermen (Part 3&4) 赛博人的回归-哔哩哔哩】 https://b23.tv/fnaPGbZ
+【【神秘博士广播剧熟肉】The Lost Stories 601 Return of the Cybermen (Part 1&2) 赛博人的回归-哔哩哔哩】 https://b23.tv/BV1Ct4y1J7dV
+
+【【神秘博士广播剧熟肉】The Lost Stories 601 Return of the Cybermen (Part 3&4) 赛博人的回归-哔哩哔哩】 https://b23.tv/BV1yt4y1n7z7
 
 **** CANCEL [#E] LS7.1 The Ark :Harry:P2023_06:
 **** CANCEL [#F] LS7.2 Daleks! Genesis of Terror :Harry:P2023_05:
@@ -2206,9 +2234,14 @@ CLOSED: [2022-09-03 Sat 17:41] SCHEDULED: <2022-09-04 Sun>
 **** DONE [#C] Night of the Vashta Nerada (7.8) (CDNM #2.1) :P2017:Vashta_Nerada:scripted:no_companion:bilibili:1CD:
 CLOSED: [2020-07-29 Wed 23:03]
 
-mp3val fix
+【【广播剧翻译】四任对抗Vashta Nerada 老博士新怪物 201 Night of Vashta Nerada-哔哩哔哩】 https://b23.tv/BV15Z4y1d75i
 
-【【广播剧翻译】四任对抗Vashta Nerada 老博士新怪物 201 Night of Vashta Nerada-哔哩哔哩】 https://b23.tv/YCrcZhV
+欢乐世界本应该是整个宇宙最快乐的地方，充满着笑容与乐趣。但在建设期间，出现了关于怪物的报告，而在开张几天前，这颗星球便无了音信。
+
+欢乐世界的老板，Georgia Donnelly，等不及开张了。她雇佣了Amanda Steele的小队，来调查这颗星球上发生的事情。他们是精英中的精英。但即使他们也没法胜任这次调查。  
+
+在与博士同行，队员一个接一个消失之后，他们逐渐意识到在阴影中潜伏着可怕的威胁。
+
 
 **** [#A] Someone I Once Knew (The Diary of River Song #4.4) :P2018:River:
 :PROPERTIES:
@@ -2459,10 +2492,7 @@ https://b23.tv/BV1Yf421z7Q3
 **** DONE [#C] 2.1 Night of the Vashta Nerada :4th_Dr:Vashta_Nerada:
 **** CANCEL [#F] 2.2 Empire of the Racnoss :5th_Dr:
 **** [#D] 2.3 The Carrionite Curse :6th_Dr:
-**** DONE [#C] 2.4 Day of the Vashta Nerada :8th_Dr:Vashta_Nerada:time_war:bilibili:
-
-【【神秘博士广播剧熟肉】Classic Doctors New Monsters 204 Day of the Vashta Nerada 老博士新怪物 影魔之日-哔哩哔哩】 https://b23.tv/DDjZMQ7
-
+**** DONE [#C] 2.4 Day of the Vashta Nerada ↗ :8th_Dr:Vashta_Nerada:time_war:bilibili:
 *** 📂CDNM vol.3 The Stuff of Nightmares :P2022_07:
 **** HALF [#D] 3.1 The House That Hoxx Built :3rd_Dr:Sarah:
 **** [#C] 3.2 The Tivolian Who Knew Too Much :4th_Dr:Leela:
@@ -2500,13 +2530,11 @@ https://b23.tv/BV1CA411Q7Yk
 :thetimesclaes: 7.8
 :END:
 
-**** READY [#D] 5.4 Five Hundred Ways to Leave Your Lover :8th_Dr:bilibili:
+**** READY [#D] 5.4 Five Hundred Ways to Leave Your Lover ↗ :8th_Dr:
 :PROPERTIES:
 :tardis.guide: 4.04
 :thetimesclaes: 6.7
 :END:
-
-【【神秘博士广播剧片段】博士反复被甩和被强吻的一天-哔哩哔哩】 https://b23.tv/SkNZjPX
 
 ** The Legacy of Time :P2019:
 *** HALF [#B] Lies in Ruins :8th_Dr:River:Benny:
@@ -2556,7 +2584,7 @@ CLOSED: [2024-11-01 Fri 08:38] SCHEDULED: <2024-09-08 Sun>
 ** 📂Once and Future
 *** READY [#D] 1. Past Lives :P2023_05:4th_Dr:Sarah:Osgood:Monk:bilibili:
 
-【博士的作战记录-哔哩哔哩】 https://b23.tv/zGOAtiq
+【博士的作战记录-哔哩哔哩】 https://b23.tv/BV1Fo4y147G7
 
 *** 3QTR [#C] 2. The Artist at the End of Time :5th_Dr:Jenny:The_Curator:P2023_06:bilibili:dw2025_q4a_doctor:
 CLOSED: [2025-10-29 Wed 21:27] SCHEDULED: <2025-10-25 Sat>

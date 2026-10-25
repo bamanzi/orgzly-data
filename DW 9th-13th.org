@@ -25,17 +25,29 @@ CLOSED: [2022-06-30 Thu 08:12]
 ***** 📂S1.2 Respond to All Calls :P2021_05:
 ****** HALF [#C] 9DA 2.1 Girl, Deconstructed :D2021_08_dr:plot_yes:bilibili:
 
-【【神秘博士广播剧翻译】女孩离奇失踪，九叔英雄救美 九任冒险集 201 被解构的女孩-哔哩哔哩】 https://b23.tv/dXGOnq7
+【【神秘博士广播剧翻译】女孩离奇失踪，九叔英雄救美 九任冒险集 201 被解构的女孩-哔哩哔哩】 https://b23.tv/BV1Q34y1d7La
+
+Marnie失踪了，但并非是他父亲所惧怕的那样，她并没有离家出走。Marnie依旧在家，但和之前的状态不太一样。
+
+博士帮助失踪人口部侦探Jana Lee解决七零八落的女孩之谜。
 
 ****** HALF [#D] 9DA 2.2. Fright Motif :D2021_09_dr:plot_yes:bilibili:
 SCHEDULED: <2021-10-01 Fri>
 
-【【神秘博士广播剧翻译】如何打败无形且食人的声音？九任冒险集 202 Fright Motif-哔哩哔哩】 https://b23.tv/n9maru4
+【【神秘博士广播剧翻译】如何打败无形且食人的声音？九任冒险集 202 Fright Motif-哔哩哔哩】 https://b23.tv/BV1Gq4y1q74B
+
+在战后巴黎，音乐家Artie Berger失去了他的乐感，但却得到了一位追杀他的猎人。它穿过失调的裂缝，来吞噬大意之人。
+
+对Artie来说幸运的是，博士来了。对所有人来说不幸的是，他需要诱饵才能困住一个怪物......
 
 ****** HALF [#B] 9DA 2.3. Planet of the End :D2021_10_dr:plot_yes:bilibili:
 SCHEDULED: <2021-11-04 Thu>
 
-【【广播剧翻译】墓地星球中针对博士的阴谋 九任冒险集 203 Planet of the End-哔哩哔哩】 https://b23.tv/uwJY0f7
+【【广播剧翻译】墓地星球中针对博士的阴谋 九任冒险集 203 Planet of the End-哔哩哔哩】 https://b23.tv/BV1nu411S7qr
+
+博士来到了一颗陵墓星球，为了观光和卖弄学识，因为他准备改正行星上的记录。但星球上的AI却有其他想法。
+
+在陵墓深处，有什么在涌动。Occasus是一个危险到不能继续存在的种族的安息之地。而博士则是他们的返程票。
 
 ***** 📂S1.3 Lost Warriors :P2021_11:
 ****** [#E] 3.1. The Hunting Season
@@ -63,7 +75,9 @@ SCHEDULED: <2022-09-21 Wed>
 :rating:   7.6
 :END:
 
-【【广播剧翻译】死者复活参加自己的葬礼？九任冒险集：老朋友 401 Fond Farewell-哔哩哔哩】 https://b23.tv/TSaPh4d
+【【广播剧翻译】死者复活参加自己的葬礼？九任冒险集：老朋友 401 Fond Farewell-哔哩哔哩】 https://b23.tv/BV1ER4y1G7uJ
+
+圆满告别是一家跨星际殡仪馆，但它有一个特别之处：死者会参加自己的守灵会！被著名自然学家Flynn Beckett邀请来自己葬礼后，博士发现他似乎出了点状况，但谁会偷走死者的记忆呢？
 
 ****** 3QTR [#B] 4.2 Way of the Burryman :Cybermen:Sam_Bishop:Brigadier:plot_yes:bilibili:DW2022_07_doctor:
 CLOSED: [2022-07-03 Sun 17:05] SCHEDULED: <2022-07-06 Wed>
@@ -86,7 +100,11 @@ SCHEDULED: <2025-08-02 Sat>
 ****** DONE [#B] 5.1 Station to Station :bilibili:DW2023_01_doctor:
 CLOSED: [2023-01-23 Mon 08:22] SCHEDULED: <2023-01-10 Tue 08:39>
 
-【【神秘博士广播剧熟肉】Back to Earth 101 Station to Station 车站之间-哔哩哔哩】 https://b23.tv/ueI1ubC
+【【神秘博士广播剧熟肉】Back to Earth 101 Station to Station 车站之间-哔哩哔哩】 https://b23.tv/BV1ER4y1G7uJ
+
+https://www.bigfinish.com/releases/v/doctor-who-the-ninth-doctor-adventures-back-to-earth-2524
+
+一个废弃的车站是地球上最孤独的地方之一。但是当Saffron被困在桥下站时，她遇见了过去的回响和一些迷失的旅行者。然而博士知道，有什么东西正在猎捕他们...
 
 ****** CANCEL [#F] 5.2 The False Dimitry
 CLOSED: [2022-07-02 Sat 23:47]
@@ -94,19 +112,32 @@ CLOSED: [2022-07-02 Sat 23:47]
 ****** DONE [#A] 5.3 Auld Lang Syne :bilibili:DW2023_03_doctor:
 CLOSED: [2023-03-21 Tue 08:07] SCHEDULED: <2023-03-11 Sat>
 
-【【神秘博士广播剧熟肉】Back to Earth 503 Auld Lang Syne 逝去已久的时光-哔哩哔哩】 https://b23.tv/1NrKKIN
+【【神秘博士广播剧熟肉】Back to Earth 503 Auld Lang Syne 逝去已久的时光-哔哩哔哩】 https://b23.tv/BV1qB4y1W7po
+
+https://www.bigfinish.com/releases/v/doctor-who-the-ninth-doctor-adventures-back-to-earth-2524
+
+每年12月，Mandy Litherland就会和她的家人聚在Foulds别墅一起过新年。但不是每个人都愿意呆在这里。不过，至少管理员看起来很友好，就是有点奇怪...
 
 ***** 📂S2.2 Into the Stars :P2022_08:
-****** DONE [#A] _6.1 Salvation Nine_ :Sontarans:bilibili:plot_yes:DW2023_07_doctor:
+****** DONE [#A] 6.1 Salvation Nine :Sontarans:bilibili:plot_yes:DW2023_07_doctor:
 CLOSED: [2023-07-23 Sun 12:02] SCHEDULED: <2023-07-21 Fri 13:17>
 
-【【神秘博士广播剧熟肉】Into the Stars 601 Salvation Nine 救赎九号-哔哩哔哩】 https://b23.tv/ORzh7WU
+【【神秘博士广播剧熟肉】Into the Stars 601 Salvation Nine 救赎九号-哔哩哔哩】 https://b23.tv/BV1qW4y1q7hf
+
+https://www.bigfinish.com/releases/v/doctor-who-the-ninth-doctor-adventures-into-the-stars-2525
+
+博士偶然间来到一颗极其不寻常的卫星，而且发现它即将被摧毁。为了拯救救赎九号，他必须团结一个对于"战争"完全陌生的种族，并且保护Sontaran的未来...
 
 ****** CANCEL [#F] +6.2 Last of the Zetacene+
-****** HALF [#B] _6.3 Break the Ice_ :bilibili:DW2023_09_spinoffs:
+****** HALF [#B] 6.3 Break the Ice :bilibili:DW2023_09_spinoffs:
 SCHEDULED: <2023-09-24 Sun>
 
-【【神秘博士广播剧熟肉】Into the Stars 603 Break the Ice 破冰-哔哩哔哩】 https://b23.tv/FgizL7a
+【【神秘博士广播剧熟肉】Into the Stars 603 Break the Ice 破冰-哔哩哔哩】 https://b23.tv/BV1814y1Y7jJ
+
+https://www.bigfinish.com/releases/v/doctor-who-the-ninth-doctor-adventures-into-the-stars-2525
+
+在一座寒冷的空间站，博士遇到了一群正在进行低温实验的科学家。
+但正当一个实验对象从绝对零度升温时，他并不是一个人回来的。一个生物从被冻结的灵魂中醒来，带着冻结之力... 杰克冰人
 
 ***** 📂S2.3 Hidden Depth :P2022_11:
 ****** [#E] +7.1 The Seas of Titan+
@@ -123,7 +154,12 @@ SCHEDULED: <2023-11-11 Sat>
 :rating:   8.6
 :END:
 
-【【神秘博士广播剧熟肉】Hidden Depths 703 Flatpack 平板家居-哔哩哔哩】 https://b23.tv/ElXr5Mq
+【【神秘博士广播剧熟肉】Hidden Depths 703 Flatpack 平板家居-哔哩哔哩】 https://b23.tv/BV1814y1Y7jJ
+
+https://www.bigfinish.com/releases/v/doctor-who-the-ninth-doctor-adventures-hidden-depths-2526
+Liv Chenka和Tania Bell把周日下午花在最传统的情侣活动上——家具购物！
+
+但是伦敦的新店"平板家居"究竟营业了多久？那位神秘的经理又是谁？甚至今天是不是周日？Liv将会碰上一位久违的老朋友...
 
 ***** 📂S2.4 Shades of Fear :P2023_02:
 ****** 3QTR [#D] 8.1 The Colour of Terror :plot_cast:bilibili:DW2024_Q2a_doctor:
@@ -132,7 +168,12 @@ CLOSED: [2024-04-02 Tue 07:41] SCHEDULED: <2024-03-30 Sat>
 :rating:   7.4
 :END:
 
-【【神秘博士广播剧熟肉】Shades of Fear 801 The Colour of Terror 恐怖之色-哔哩哔哩】 https://b23.tv/upXcyWs
+【【神秘博士广播剧熟肉】Shades of Fear 801 The Colour of Terror 恐怖之色-哔哩哔哩】 https://b23.tv/BV1g54y1g7Zp
+
+https://www.bigfinish.com/releases/v/doctor-who-the-ninth-doctor-adventures-shades-of-fear-2527
+
+Bevell夫人想要不惜任何代价保住她慈善商店的星级，但她为什么要收藏那么多同一种颜色的商品呢?
+当西Morebry的居民开始注意到失踪，博士集合了一群各式各样的人准备战斗…与红色!
 
 ****** [#E] +8.2 The Blooming Menace+
 ****** DONE [#A] 8.3 Red Darkness :Vashta_Nerada:plot_cast:bilibili:DW2024_Q3a_doctor:
@@ -141,7 +182,13 @@ CLOSED: [2024-07-16 Tue 08:34] SCHEDULED: <2024-06-22 Sat>
 :rating:   8.9
 :END:
 
-【【神秘博士广播剧熟肉】Shades of Fear 803 Red Darkness 赤红黑暗-哔哩哔哩】 https://b23.tv/RPnCOqH
+【【神秘博士广播剧熟肉】Shades of Fear 803 Red Darkness 赤红黑暗-哔哩哔哩】
+https://b23.tv/BV1AY4y197Xs
+
+https://www.bigfinish.com/releases/v/doctor-who-the-ninth-doctor-adventures-shades-of-fear-2527
+
+来自Solis Kailya的阳光可能会彻底改变殖民地农业。当他的妈妈在研究阳光的特质，Callen和他的导盲犬(而且会说话!)Doyle遇见了一名新来者——并发现了迫在眉睫的威胁。
+Vashta Nerada正在靠近，而且它们并不孤单。
 
 **** S3
 ***** 📂S3.1 Pioneers :P2023_05:
@@ -196,8 +243,12 @@ SCHEDULED: <2026-08-15 Sat>
 【【神秘博士广播剧熟肉】[BigFinish 9DA Series 3] Star-Crossed: Archipelago 群岛-哔哩哔哩】 https://b23.tv/BV1oMGB6eEqN
 
 **** S4 :Rose:
-***** READY 4.1 Snare :P2025_08:bilibili:dw2026_q4a_doctor:
-SCHEDULED: <2026-10-17 Sat>
+***** 3QTR [#C] 4.1 Snare :Jackie:P2025_08:bilibili:dw2026_q4a_doctor:
+CLOSED: [2026-10-10 Sat 08:14] SCHEDULED: <2026-10-14 Wed>
+:PROPERTIES:
+:thetimescales: 7.6
+:tardis.guidw: 3.95
+:END:
 
 【【神秘博士广播剧熟肉】The Ninth Doctor Adventures 401 Snare 陷阱-哔哩哔哩】 https://b23.tv/BV1mXb5z5Ec6
 
@@ -237,6 +288,8 @@ https://www.bigfinish.com/releases/v/doctor-who-the-ninth-doctor-adventures-clou
 
 ***** 4.5 Pandemonium :Jackie:P2026_04:
 ***** 4.6 Thirteen O'Clock :P2026_06:
+***** 4.7 Dark Tides :P2026_08:
+***** 4.8 False Friends :Autons:P2026_10:
 *** 9DC :P2017:
 **** [#D] 1.1 The Bleeding Heart
 :PROPERTIES:
@@ -534,7 +587,7 @@ http://tardis.wikia.com/wiki/The_Widow's_Curse_(graphic_novel)
 ***** The Widow's Curse (DWM395-398) :Donna:Sycorax:
 ***** The Time of My Life (DWM399) :Donna:hanzify:
 
-【《第十任博士：生命中最美好的时光》The Time of My Life-哔哩哔哩】 https://b23.tv/1WqAIkw
+【《第十任博士：生命中最美好的时光》The Time of My Life-哔哩哔哩】 https://b23.tv/1WqAIkw (??)
 
 **** DWMGN: The Crimson Hand
 
@@ -733,13 +786,7 @@ SCHEDULED: <2026-04-11 Sat>
 
 要理清情节顺序的话大概是这么个顺序
 
-**** READY [#D] The Dalek Protocol :4th_Dr:Leela:K9_1:plot_no:bilibili:
-SCHEDULED: <2021-11-08 Mon>
-
-【【神秘博士广播剧熟肉】Dalek Universe - The Dalek Protocol (Part 1&2)-哔哩哔哩】 https://b23.tv/FWNLkZc
-
-【【神秘博士广播剧熟肉】Dalek Universe - The Dalek Protocol (Part 3&4)-哔哩哔哩】 https://b23.tv/MruDd4V
-
+**** READY [#D] The Dalek Protocol ↗ :4th_Dr:Leela:K9_1:plot_no:bilibili:
 **** Dalek Universe 1
 ***** DONE [#B] DU 1.1 - Buying Time :plot_no:D2021_11_daleks:bilibili:
 CLOSED: <2022-05-21 Sat 19:23> SCHEDULED: <2021-11-06 Sat>
@@ -747,7 +794,7 @@ CLOSED: <2022-05-21 Sat 19:23> SCHEDULED: <2021-11-06 Sat>
 :rating:   8.4
 :END:
 
-【【神秘博士广播剧汉化】听后感：？？？Dalek Universe 101 Buying Time-哔哩哔哩】 https://b23.tv/bPVKCTF
+【【神秘博士广播剧汉化】听后感：？？？Dalek Universe 101 Buying Time-哔哩哔哩】 https://b23.tv/BV1eS4y187K9
 
 ***** DONE [#A] DU 1.2 - The Wrong Woman :D2022_06_extra:week2:bilibili:
 CLOSED: <2022-05-28 Sat 20:33> SCHEDULED: <2022-06-05 Sun>
@@ -755,7 +802,7 @@ CLOSED: <2022-05-28 Sat 20:33> SCHEDULED: <2022-06-05 Sun>
 :rating:   8.8
 :END:
 
-【【神秘博士广播剧汉化】听后感：！！！ Dalek Universe 102 The Wrong Woman-哔哩哔哩】 https://b23.tv/a6fUWqp
+【【神秘博士广播剧汉化】听后感：！！！ Dalek Universe 102 The Wrong Woman-哔哩哔哩】 https://b23.tv/BV1yr4y1t7is
 
 ***** DONE [#C] DU 1.3 - The House of Kingdom :D2022_06_doctor:bilibili:Varga:
 CLOSED: [2022-06-18 Sat 10:57] SCHEDULED: <2022-06-25 Sat>
@@ -763,7 +810,15 @@ CLOSED: [2022-06-18 Sat 10:57] SCHEDULED: <2022-06-25 Sat>
 :rating:   7.9
 :END:
 
-【【神秘博士广播剧熟肉】Dalek Universe 103 The House of Kingdom 家族-哔哩哔哩】 https://b23.tv/bQCgXoT
+【【神秘博士广播剧熟肉】Dalek Universe 103 The House of Kingdom 家族-哔哩哔哩】 https://b23.tv/BV14Y4y157sb
+
+https://www.bigfinish.com/releases/v/doctor-who-dalek-universe-1-2347
+
+博士、Anya和Mark正试图寻找一位科学家，但中转站的一场袭击打乱了计划...
+
+Anya的外公Merrick救了他们，并带他们到海王星。博士和Mark了解到了Anya家族的历史，一段关于失去和背叛的故事。
+
+Kingdom家族能否和解，还是像以前一样继续坠向深渊...
 
 **** Dalek Universe 2
 ***** HALF [#D] DU2.1 - Cycle of Destruction :bilibili:DW2023_02_doctor:
@@ -772,7 +827,13 @@ SCHEDULED: <2023-02-21 Tue 08:51>
 :rating:   7.2
 :END:
 
-【【神秘博士广播剧熟肉】Dalek Universe 201 Cycle of Destruction-哔哩哔哩】 https://b23.tv/YGpWAbr
+【【神秘博士广播剧熟肉】Dalek Universe 201 Cycle of Destruction-哔哩哔哩】 https://b23.tv/BV1Vt4y1x7LK
+
+https://www.bigfinish.com/releases/v/doctor-who-dalek-universe-2-2348
+
+在Mark的行为表现奇怪之后，博士和Anya发现自己在一个森林遍布的星球上，Mark不见踪影
+
+为了寻找他，他们找到了一个研究基地，走廊墙上有动物的抓痕，科学家行为奇特，但还有更大的惊喜等着他们发现...
 
 ***** 3QTR [#A] DU2.2 - The Trojan Dalek :bilibili:DW2023_04_doctor:
 CLOSED: [2023-05-11 Thu 21:12] DEADLINE: <2023-04-29 Sat> SCHEDULED: <2023-04-23 Sun 21:42>
@@ -780,12 +841,28 @@ CLOSED: [2023-05-11 Thu 21:12] DEADLINE: <2023-04-29 Sat> SCHEDULED: <2023-04-23
 :rating:   8.6
 :END:
 
-【【神秘博士广播剧熟肉】Dalek Universe 202 The Trojan Dalek-哔哩哔哩】 https://b23.tv/ke8FadW
+【【神秘博士广播剧熟肉】Dalek Universe 202 The Trojan Dalek-哔哩哔哩】 https://b23.tv/BV1EY4y1t7A5
+
+https://www.bigfinish.com/releases/v/doctor-who-dalek-universe-2-2348
+
+博士、Mark和Anya前往Beltros基地寻找Arborecc，当时基地的指挥官否认他的到访，并希望他们离开。
+
+离开是不可能的，一行人开始分头调查... 却发现了令人发指的真相，博士的老敌人涉及其中。
+
+又或许，那不是Dalek...
 
 ***** HALF [#A] _DU2.3 - The Lost_ :bilibili:DW2023_06_doctor:
 SCHEDULED: <2023-06-23 Fri 19:51>
 
-【【神秘博士广播剧熟肉】Dalek Universe 203 The Lost 迷失-哔哩哔哩】 https://b23.tv/HGdsWE3
+【【神秘博士广播剧熟肉】Dalek Universe 203 The Lost 迷失-哔哩哔哩】 https://b23.tv/BV1V3411V7Vr
+
+https://www.bigfinish.com/releases/v/doctor-who-dalek-universe-2-2348
+
+当博士的最新计划失败，飞船坠毁在一个奇怪的世界，博士和Anya可能被永远困在这里...
+
+在探索的过程中，他们找到了一座宫殿，那里，有几张熟悉却让人心碎的面孔在等着他们。
+
+谎言将被戳穿，真相将被揭露，一切都将改变...
 
 **** Dalek Universe 3 :Movellan:plot_cast:
 
@@ -852,7 +929,15 @@ SCHEDULED: <2026-09-05 Sat>
 **** DONE [#D] ST10.X Free Speech :scripted:bilibili:DW2023_10_doctor:
 CLOSED: [2023-10-07 Sat 19:46] SCHEDULED: <2023-10-14 Sat>
 
-【【神秘博士】短途旅行：言谈无阻 | Short Trips: Free Speech-哔哩哔哩】 https://b23.tv/Ix7q1RY
+【【神秘博士】短途旅行：言谈无阻 | Short Trips: Free Speech-哔哩哔哩】 https://b23.tv/BV1S34y1H7JM
+
+翻译：琪琪 | 校对：墙 | 字幕：琪琪
+
+在斯卡兹星，开口说话就得掏钱。
+
+埃米尔斯·托德正在接受警察的审讯。警方想知道他与“饶舌解放”有什么联系，他跟一个叫博士的人又是怎么遇上的。然而，埃米尔斯能说的话即将告罄，要是他没法为自己的陈述买单，他就再也开不了口了。
+
+这个故事是2020年“纪念保罗·斯普拉格的短途旅行创作赛”的获奖作品
 
 **** [#B] ST11.5 Fear of Flying :P2022_02:
 :PROPERTIES:
@@ -1018,7 +1103,11 @@ CLOSED: <2023-06-04 Sun 20:22> SCHEDULED: <2023-05-20 Sat>
 :rating:   8.6
 :END:
 
-【【神秘博士广播剧熟肉】Geronimo! 301 The Inheritance 遗产-哔哩哔哩】 https://b23.tv/T5sKhn0
+【【神秘博士广播剧熟肉】Geronimo! 301 The Inheritance 遗产-哔哩哔哩】 https://b23.tv/BV1er421p7Br
+
+https://www.bigfinish.com/releases/v/doctor-who-the-eleventh-doctor-chronicles-volume-03-geronimo-2640
+
+对于Patricia和Valarie Lockwood来说，这只是个平常的夜晚。和几位朋友共进晚餐，放松一下，忘记世界的恐怖。然而一名神秘的陌生来客打乱了他们的计划。而他会为所到之处带来悲剧。
 
 ***** HALF [#B] 3.2 The House of Masks :DW2023_07_doctor:bilibili:
 SCHEDULED: <2023-07-28 Fri 08:02>
@@ -1026,7 +1115,13 @@ SCHEDULED: <2023-07-28 Fri 08:02>
 :rating:   8.4
 :END:
 
-【【神秘博士广播剧熟肉】Geronimo! 302 The House of Masks 面具屋-哔哩哔哩】 https://b23.tv/1aje2ro
+【【神秘博士广播剧熟肉】Geronimo! 302 The House of Masks 面具屋-哔哩哔哩】 https://b23.tv/BV1VD421E7Jj
+
+https://www.bigfinish.com/releases/v/doctor-who-the-eleventh-doctor-chronicles-volume-03-geronimo-2640
+
+Valarie的第一次时空之旅，TARDIS将他们带到了博士最喜欢的地方之一——威尼斯，而且是在狂欢节。
+
+但不幸的是，并不是每个人都在享受聚会。Tomasi船长要杀人，而他需要Valarie的帮助...
 
 ***** HALF [#A] 3.3 The End :DW2023_09_spinoffs:bilibili:
 SCHEDULED: <2023-09-17 Sun>
@@ -1034,7 +1129,13 @@ SCHEDULED: <2023-09-17 Sun>
 :dating:   8.8
 :END:
 
-【【神秘博士广播剧熟肉】Geronimo! 303 The End 结局-哔哩哔哩】 https://b23.tv/ByulmWk
+【【神秘博士广播剧熟肉】Geronimo! 303 The End 结局-哔哩哔哩】 https://b23.tv/BV1HJ4m1W7Hu
+
+https://www.bigfinish.com/releases/v/doctor-who-the-eleventh-doctor-chronicles-volume-03-geronimo-2640
+
+Valarie/博士即将死去。只有博士/Valarie才能拯救Valarie/博士，但为了让她/他活下来，博士/Valarie必须代替她/他死去。
+
+对于博士/Valarie来说，这是旅途的结束。
 
 **** 📂11DC vol.4 All of Time and Space :Valarie:plot_yes:
 ***** START [#B] 4.1 All of Time and Space :P2023_02:plot_yes:DW2024_Q2a_doctor:bilibili:
@@ -1208,7 +1309,15 @@ CLOSED: [2022-11-02 Wed 20:33] SCHEDULED: <2022-11-06 Sun>
 ***** 3QTR [#A] ST12.X The World Tree :P2022_12:plot_yes:bilibili:DW2024_01_doctor:
 CLOSED: [2024-01-28 Sun 07:16] SCHEDULED: <2024-01-28 Sun>
 
-【【神秘博士】短途旅行：世界树 | Short Trips: The World Tree-哔哩哔哩】 https://b23.tv/kE5PXA3
+【【神秘博士】短途旅行：世界树 | Short Trips: The World Tree-哔哩哔哩】 https://b23.tv/BV1Gh4y177sh
+
+听写 | 翻译 | 字幕：琪琪
+
+诺拉·维克有些健忘——不过忘记的也不算什么大事。她还记得自己的住址，也记得那些商店都在哪儿。她记得来看望她的人们，不论对方多么难得一见。
+
+可是她不记得自己花园中那株红色叶子的灌木从哪里来——更是完全不记得要求过第十一任博士提供上门服务。
+ 
+*这个故事是2022年“纪念保罗·斯普拉格的短途旅行创作赛”的获奖作品
 
 ***** [#E] ST13.3 Rise of the Eukaryans :P2025_04:
 :PROPERTIES:
@@ -1253,8 +1362,9 @@ CLOSED: [2024-01-28 Sun 07:16] SCHEDULED: <2024-01-28 Sun>
 *** fan-made :fan_made:
 **** Timerift :11th_Dr:12th_Dr:fan_made:
 
-【【神秘博士】时间裂缝｜粉丝重制博士有声故事 'TIMERIFT' -  A DOCTOR WHO Audio Adventure-哔哩哔哩】 https://b23.tv/bsdJT2U
+【【神秘博士】时间裂缝｜粉丝重制博士有声故事 'TIMERIFT' -  A DOCTOR WHO Audio Adventure-哔哩哔哩】 https://b23.tv/BV1Yp411f7t2
 
+TIMERIFT是设定在《神秘博士》第十季后半季中的插曲，由油管粉丝ADmiral提取原片中的原台词重新剪辑而成的新故事~
 
 https://m.youtube.com/watch?v=7wrZUFIgiNE
 
@@ -1860,8 +1970,12 @@ https://www.bigfinish.com/releases/v/doctor-who-the-thirteenth-doctor-adventures
 
 博士加入了派对。但不幸的是，还有一个古老的敌人...
 
-**** READY 1.2 The Return of the Doctor :P2025_09:bilibili:dw2026_q4a_doctor:
-SCHEDULED: <2026-10-17 Sat>
+**** HALF [#D] 1.2 The Return of the Doctor :P2025_09:bilibili:dw2026_q4a_doctor:
+SCHEDULED: <2026-10-24 Sat>
+:PROPERTIES:
+:thetimescales: 6.6
+:tardis.guide: 3.66
+:END:
 
 【【神秘博士广播剧熟肉】The Thirteenth Doctor Adventures 102 The Return of the Doctor 博士的回归-哔哩哔哩】 https://b23.tv/BV1wjpzzsE5k
 
