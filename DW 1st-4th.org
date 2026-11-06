@@ -393,10 +393,11 @@ Old Steven 3/3
 **** CANCEL [#F] CC15.3 The White Ship :P2025_04:
 **** [#B] ST7.12 - O Tannenbaum :Steven:
 *** with Steven & Dodo
-**** [#C] EA7.2 The Secrets of Det-Sen :Steven:Dodo:plot_yes:P2021_08:dw2026_q4a_doctor:
-SCHEDULED: <2026-10-24 Sat>
+**** HALF [#D] EA7.2 The Secrets of Det-Sen :Steven:Dodo:plot_yes:P2021_08:dw2026_q4a_doctor:
+SCHEDULED: <2026-10-17 Sat>
 :PROPERTIES:
-:rating:   7.8
+:thetimescales: 7.3
+:tardis.guide: 3.43
 :END:
 
 **** READY [#C] CC2.1 - Mother Russia :bilibili:
@@ -459,7 +460,7 @@ SCHEDULED: <2025-01-18 Sat>
 CLOSED: <2023-05-30 Tue 21:34> SCHEDULED: <2023-05-27 Sat>
 
 **** [#D] CC13.4 - The Crumbling Magician :Ben:Polly:
-**** ST7.5 - Falling :Ben:Polly:
+**** [#D] ST7.5 - Falling :Ben:Polly:
 *** CC misc :🗣:
 **** [#C] CC7.1 - The Time Museum :Ian:
 :PROPERTIES:
@@ -1222,7 +1223,7 @@ CLOSED: [2020-06-30 Tue 14:01]
 :rating:   7.0
 :END:
 
-***** [#C] 1.2 - The Havoc of Empires :Jo:Yates:P2015:plot_yes:DW2023_05_doctor:
+***** HALF [#C] 1.2 - The Havoc of Empires :Jo:Yates:P2015:plot_yes:DW2023_05_doctor:
 SCHEDULED: <2023-05-28 Sun>
 :PROPERTIES:
 :rating:   7.6
@@ -1490,7 +1491,9 @@ SCHEDULED: <2023-09-21 Thu>
 
 ***** 2025B. Operation: Vengeance :P2025_10:Brigadier:3CD:
 ***** 2026A. The Imposters :P2026_02:Sarah:Liz:Brigadier:3CD:
-**** START [#D] CDNM3.1 The House that Hoxx Built :P2022:plot_yes:
+**** HALF [#D] CDNM3.1 The House that Hoxx Built :P2022:plot_yes:dw2026_q4a_doctor:
+SCHEDULED: <2026-11-07 Sat>
+
 **** 3QTR [#B] SvsR#2 The Children of the Future :P2024_02:dw2025_q2a_doctor:
 CLOSED: [2025-04-29 Tue 19:04] SCHEDULED: <2025-05-03 Sat>
 

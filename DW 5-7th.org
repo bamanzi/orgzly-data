@@ -354,7 +354,11 @@ CLOSED: [2021-02-27 Sat 18:02]
 Interludes #8
 
 **** HALF [#A] 5DA2022.2 The Auton Infinity :Tegan:Turlough:Brigadier:Master_tremas:Autons:3CD:P2022_09:plot_yes:dw2026_q4a_doctor:
-SCHEDULED: <2026-10-10 Sat>
+SCHEDULED: <2026-10-07 Wed>
+:PROPERTIES:
+:thetimescales: 8.8
+:tardis.guide: 4.42
+:END:
 
 **** 📂5DA2026. Helter Skelter :Tegan:Turlough:P2026_04:
 ***** 1. Field of Miracles
@@ -1882,10 +1886,11 @@ CLOSED: [2023-11-17 Fri 08:22] SCHEDULED: <2023-11-18 Sat>
 :rating:   8.6
 :END:
 
-**** READY [#A] NA06 Damaged Goods :Roz:Chris:plot_no:2CD:bilibili:dw2026_q4a_doctor:
-SCHEDULED: <2026-11-07 Sat>
+**** HALF [#A] NA06 Damaged Goods :Roz:Chris:P2015:2CD:plot_cast:bilibili:dw2026_q4a_doctor:
+SCHEDULED: <2026-10-31 Sat>
 :PROPERTIES:
-:rating:   9.0
+:thetimescales: 8.8
+:tardis.guide: 4.03
 :END:
 
 【【神秘博士广播剧翻译】RTD早期作品 Damaged Goods-哔哩哔哩】 

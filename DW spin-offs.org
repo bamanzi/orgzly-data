@@ -630,12 +630,14 @@ Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. 
       :thetimescales: 9.3
       :END:
 
-***** [#D] 84. The Restoration of Catherine :Andy:Norton:P2024_06:dw2026_q4a_spinoffs:
-      SCHEDULED: <2026-10-25 Sun>
+***** HALF [#D] 84. The Restoration of Catherine :Andy:Norton:P2024_06:plot_yes:dw2026_q4a_spinoffs:
+      SCHEDULED: <2026-10-08 Thu>
       :PROPERTIES:
       :tardis.guide: 3.67
       :thetimescales: 7.2
       :END:
+
+https://tardis.wiki/wiki/The_Restoration_of_Catherine_(audio_story)#Plot
 
 **** series 10
 ***** FIXME [#B] 85. Art Decadence :The_Mara:P2024_07:
@@ -830,7 +832,7 @@ The Church of the Outsiders believe that mankind is about to evolve, to rea
       :END:
 
 ***** START [#D] 5.5 Love Rat
-***** HALF [#A] 5.6 A Kill to a View :Bilis_Manger:plot_yes:
+***** HALF [#A] 5.6 A Kill to a View :Bilis_Manger:plot_yes:dw2026_q4b_spinoffs:
       :PROPERTIES:
       :rating:   8.6
       :END:
@@ -1448,13 +1450,22 @@ https://breezewiki.com/tardis/wiki/Friend_of_the_Family_(audio_story)#Plot
 ***** [#A] part3. The Bird from the Nest :dw2026_q3a_spinoffs:
       SCHEDULED: <2026-08-23 Sun>
 
-***** [#A] part4. The Isle on the Shore :dw2026_q4a_spinoffs:
-      SCHEDULED: <2026-11-15 Sun>
+***** 3QTR [#A] part4. The Isle on the Shore :dw2026_q4a_spinoffs:
+      CLOSED: [2026-11-06 Fri 22:03] SCHEDULED: <2026-11-08 Sun>
+      :PROPERTIES:
+      :thetimescales: 9.1
+      :tardis.guide: 4.64
+      :END:
 
 **** 📂DoRS 12 - The Orphan Quartet :P2023_08:
 ***** [#E] 12.1 The Excise Men
 ***** [#E] 12.2 Harvest of the Krotons :Jackie:Krotons:
 ***** [#A] 12.3 Dead Man Talking
+      :PROPERTIES:
+      :tardis.guide: 4.06
+      :thetimescales: 8.5
+      :END:
+
 ***** [#E] 12.4 The Wife of River Song
 *** The Death and Life of River Song
 **** 📂DLRS1: Last Words :P2024_08:
@@ -1665,8 +1676,8 @@ https://breezewiki.com/tardis/wiki/Friend_of_the_Family_(audio_story)#Plot
     :tardis.guide: 4.12
     :END:
 
-*** TODO [#A] 10.X Jago & Litefoot & Strax - The Haunting :dw2026_q4a_spinoffs:
-    SCHEDULED: <2026-10-04 Sun>
+*** 3QTR [#A] 10.X Jago & Litefoot & Strax - The Haunting :dw2026_q4a_spinoffs:
+    CLOSED: [2026-10-15 Thu 08:29] SCHEDULED: <2026-10-15 Thu>
     :PROPERTIES:
     :thetimescales: 8.6
     :tardis.guide: 4.21
@@ -3236,7 +3247,8 @@ http://www.drwhoguide.com/kaldor03.htm
      :END:
 
 *** The Robots vol.4 :P2021_06:
-**** [#B] 4.1 - Closed Loop :Toos:Poul:
+**** [#B] 4.1 - Closed Loop :Toos:Poul:dw2026_q4a_spinoffs:
+     SCHEDULED: <2026-11-15 Sun>
      :PROPERTIES:
      :rating:   8.2
      :END:
@@ -3507,10 +3519,11 @@ https://tardis.wiki/wiki/The_Light_(1963:_The_Assassination_Games)
     :tardis.guide: 3.86
     :END:
 
-*** [#B] NCM0.2 - The Dead Don't Rise :dw2026_q4a_spinoffs:
-    SCHEDULED: <2026-10-11 Sun>
+*** 3QTR [#B] NCM0.2 - The Dead Don't Rise :dw2026_q4a_spinoffs:
+    CLOSED: [2026-10-21 Wed 20:38] SCHEDULED: <2026-10-25 Sun>
     :PROPERTIES:
-    :rating:   8.4
+    :thetimescales: 8.3
+    :tardis.guide: 3.94
     :END:
 
 ** The New Counter-Measures: Series 1 :P2016:
@@ -3945,7 +3958,6 @@ https://www.bigfinish.com/releases/v/rose-tyler-the-dimension-cannon-1-1989
 Pete决定是时候陪同Rose进行一次维度跳跃。但他选择了一个最糟糕的时间。他们来到了一个科技发展不同寻常的世界，而刚去世的Pete Tyler取得了截然不同的成功。
 
 随着机器开始故障，Pete遇到了他的遗孀，他和Rose必须面对他们家庭的真相。但他们或许无法活着逃离地球。
-
 
 **** HALF [#C] 1.4 - The Last Party on Earth :DW2022_08_spinoffs:bilibili:
      SCHEDULED: <2022-08-21 Sun>

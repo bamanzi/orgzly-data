@@ -2027,7 +2027,7 @@ https://b23.tv/BV1LF411j7D5
 *** HALF [#D] 7DA24B.1 The Haunter of the Shore :7th_Dr:Carnacki:
 *** HALF [#C] 9DA3.3.3 Ancient History :9th_Dr:Benny:bilibili:
 *** HALF [#B] 11DC5.2 All’s Fair :11th_Dr:bilibili:Valarie:
-*** HALF 13DA1.1. Vampire Weekend :P2025_07:bilibili:
+*** HALF [#C] 13DA1.1. Vampire Weekend :P2025_07:bilibili:
 ** dw2026-q3a-spinoffs
 *** HALF [#C] TW7.12 The Apocalypse Starts at 6 PM :Yvonne:Og:
 *** HALF [#C] TW76. Odyssey :Ood:P2024_10:plot_yes:
@@ -2042,35 +2042,54 @@ https://b23.tv/BV1LF411j7D5
 *** HALF [#C] 4DA10.1 The World Traders :4th_Dr:Leela:
 *** HALF [#C] MR194. The Rani Elite :6th_Dr:Peri:
 *** HALF [#C] FALM1.3 The House on the Edge of Chaos :8th_Dr:Lucie:
-*** HALF [#B] 10DC1.4 Last Chance :10th_Dr:Christina:
+*** HALF [#C] 10DC1.4 Last Chance :10th_Dr:Christina:
 *** 3QTR [#C] ST9.9 Dead Media :P2019:12th_Dr:🗣:
 *** HALF [#C] SvR4. In Name Only :War_Dr:P2024_04:
 ** dw2026-q3b-spinoffs
 *** HALF [#D] TW71. The Last Love Song of Suzie Costello :Suzie:plot_yes:
-*** [#C] UBNW1.3 Dark Side of the Moon
+*** START [#C] UBNW1.3 Dark Side of the Moon
 *** HALF [#A] NCM0.1 - Who Killed Toby Kinsella?
 *** HALF [#A] JL10.X Jago & Litefoot & Strax - The Haunting (part 1) :dw2026_q3b_spinoffs:
     SCHEDULED: <2026-10-04 Sun>
 
-*** HALF [#B] BSNA5.2 Clear History :Benny:Unbound_Dr:
+*** HALF [#C] BSNA5.2 Clear History :Benny:Unbound_Dr:
 *** 3QTR [#B] WM10.2 Manhunt :Master_War:benben:
 ** dw2026-q4a-doctor
-*** [#C] EA7.2 The Secrets of Det-Sen :Steven:Dodo:plot_yes:P2021_08:
-*** FIXME [#D] CC2.3 Old Soldiers (Brig) no_doctor?
-*** [#A] 5DA22.2 The Auton Infinity (p5-p6) :5th_Dr:Tegan:Turlough:Brigadier:Master_tremas:Autons:3CD:P2022_09:plot_yes:
-    SCHEDULED: <2026-10-10 Sat>
-
-*** READY [#A] NA6 Damaged Goods :7th_Dr:Roz:Chris:bilibili:
-*** READY 9DA4.1 Snare :9th_Dr:Rose:P2025_08:bilibili:
+*** 3QTR [#C] EA7.2 The Secrets of Det-Sen :Steven:Dodo:plot_yes:P2021_08:
+*** HALF [#D] CDNM 3.1 The House that Hoxx Built :3rd_Dr:Sarah:
+*** 3QTR [#A] 5DA22.2 The Auton Infinity (p5-p6) :5th_Dr:Tegan:Turlough:Brigadier:Master_tremas:Autons:3CD:P2022_09:plot_yes:
+*** HALF [#A] NA6 Damaged Goods :7th_Dr:Roz:Chris:bilibili:
+*** HALF 9DA4.1 Snare :9th_Dr:Rose:P2025_08:bilibili:
 *** READY [#A] 11DC5.3 Sins of the Flesh :Cybermen:bilibili:
-*** READY 13DA1.2. The Return of the Doctor :P2025_09:bilibili:
+*** HALF [#D] 13DA1.2. The Return of the Doctor :P2025_09:bilibili:
 ** dw2026-q4a-spinoffs
-*** FIXME [#D] TW84. The Restoration of Catherine :Andy:Norton:P2024_06:
-*** FIXME [#B] NCM0.2 - The Dead Don't Rise
-*** FIXME [#B] Halloween 2. Party Favours :UNIT_new:
-*** FIXME [#A] JL10.X Jago & Litefoot & Strax - The Haunting (part 2)
-*** [#A] DoRS11.4. The Isle on the Shore
+*** HALF [#D] TW84. The Restoration of Catherine :Andy:Norton:P2024_06:
+*** HALF [#B] NCM0.2 - The Dead Don't Rise
+*** 3QTR [#B] Halloween 2. Party Favours :UNIT_new:
+*** 3QTR [#A] JL10.X Jago & Litefoot & Strax - The Haunting (part 2)
+*** 3QTR [#A] DoRS11.4. The Isle on the Shore :River:
 *** Origin Stories #11 - Tempered :Master_early:Master_missy:🗣:📄:
+*** FIXME [#B] ROB4.1 - Closed Loop :Toos:Poul:
+    :PROPERTIES:
+    :rating:   8.2
+    :END:
+
+** dw2026-q4b-doctor
+*** LTV3.4 The Highlanders :2nd_Dr:Polly:Ben:Jamie:
+*** [#C] CDNM4.1 Invasion of the Body Stealers :4th_Dr:Sarah:
+*** [#D] 6DA21.1 One for All :6th_Dr:Constance:
+*** READY [#C] 8DSTR1.1. Lost Property :8th_Dr:Liv:Helen:The_Curator:bilibili:
+*** READY [#A] 8DSTR1.2. Wild Animals :8th_Dr:Liv:Helen:bilibili:
+*** READY [#C] O&F5. The Martian Invasion of Planetoid 50 :bilibili:10th_Dr:P2023_09:
+*** READY [#D] FDA1.1 Fast Times :bilibili:
+*** [#D] WDB5.1 A Mother's Love :War_Dr:
+** dw2026-q4b-spinoffs
+*** [#A] TW1 2.3 - 9 to 5 :Yvonne:Ianto:
+*** [#B] TW79. Poppet :Rhys:P2024_01:
+*** [#C] UTNS7.1/7.2 - Hosts of the Wirrn
+*** [#C] PGT4.1 I Married a Zygon
+*** TODO BSNA 5.3 Dead and Breakfast :Benny:Unbound_Dr:
+*** READY [#E] EoM3.2 - Fairies at the Bottom of the Garden :Amy:Master_missy:bilibili:
 * FIXME pending
 ** special
 *** [#B] Jack 2.1 Piece of Mind :Jack:6th_Dr:
@@ -2097,7 +2116,6 @@ https://b23.tv/BV1LF411j7D5
 **** Nyssa only
 ***** MR142c. Doing Time + 142d Special Features :5th_Dr:Nyssa:
 ***** [#D] MR91. Circular Time a/b :5th_Dr:Nyssa:
-***** [#C] MR127 Castle of Fear :5th_Dr:Nyssa:Rutans:
 ***** READY [#E] ST1.5 The Deep :Nyssa:P2010:bilibili:
 **** Nyssa + Tegan
 ***** [#D] MR234. Kingdom of Lies :5th_Dr:Nyssa:Tegan:Adric:
@@ -2107,13 +2125,26 @@ https://b23.tv/BV1LF411j7D5
 ***** READY [#B] LS9.1 Genesis of the Cybermen :Adric:Nyssa:Tegan:Cybermen:P2025_03:bilibili:
 **** misc
 ***** MR20 Loups-Garoux :5th_Dr:Turlough:
-***** [#C] MR165. The Burning Prince (no companion) :5th_Dr:
-***** MR266A. Ghost Station (no companion)
-***** [#B] ST7.11. The Ingenious Gentleman Adric of Alzarius :5th_Dr:Adric:Nyssa:
+***** READY [#B] ST7.11. The Ingenious Gentleman Adric of Alzarius :Adric:Nyssa:Tegan:1CD:bilibili:
+
+【【熟肉】短途陆行7.11: The Ingenious Gentleman Adric of Alzarious 唐吉阿德-哔哩哔哩】 https://b23.tv/BV1c8b263EUw
+
+拉库拉的Keeyoht爵士和他忠实的扈从Adric正在执行一项任务。一项伟大而崇高的任务，旨在阻止那个最卑鄙的巫师——博士——夺取这片土地上最伟大的宝藏。一路上，他们将与巨人（或者可能是风车）战斗，激励冒险者们，营救一位公主，并最终直面所有怪物中最可怕的那一个——巨龙。
+
+只不过Adric知道，世界上根本没有龙这种东西……
+
 ***** READY [#E] 117. The Judgement of Isskar :Zara:Abby:Ice_Warriors:bilibili:
 ***** READY [#D] 118. The Destroyer of Delights :Zara:Abby:bilibili:
 ***** READY [#F] 119. The Chaos Pool :Zara:Abby:bilibili:
 ***** READY [#C] X. The Five Companions :1CD:Ian:Sara_Kingdom:Steven:Polly:Nyssa:bilibili:
+**** alone
+***** [#C] MR165. The Burning Prince (no companion) :5th_Dr:
+***** MR266A. Ghost Station (no companion)
+**** [#D] MR095b. Urban Myths :5th_Dr:Peri:
+     :PROPERTIES:
+     :rating:   7.4
+     :END:
+
 *** 7th
 **** Mel
 ***** Mel [#D] MR046 Filp-flop :7th_Dr:Mel:
@@ -2187,10 +2218,8 @@ https://b23.tv/BV1LF411j7D5
 ***** READY [#A] 188d. The Curious Incident of the Doctor in the Night-Time :plot_no:bilibili:
 ***** READY [#B] ST4.6 - To Cut a Blade of Grass :Peri:plot_no:bilibili:
 **** Mel
-***** [#C] 169. The Wrong Doctors (Mel)
 **** Flip/Constance
 ***** [#C] 204. Criss-Cross (Constance)
-***** [#D] 6DA21.1 One for All :6th_Dr:Constance:
 **** Evelyn
 ***** [#D] 22. Bloodtied
 ***** [#C] 73. Thicker than Water (Mel, Eyelyn)
@@ -2246,7 +2275,6 @@ https://b23.tv/BV1LF411j7D5
 **** READY [#A] NSA #7: Dead Air
 **** READY Empire of the Sun :fan_made:
 *** 12th
-**** 12DC 3.1-3.3
 ** spinoffs
 *** Torchwood
 **** Jack
@@ -2254,90 +2282,116 @@ https://b23.tv/BV1LF411j7D5
 **** Andy
 ***** TW Soho #3 The Unbegotten :Norton:Andy:Lizbeth:P2022_10:plot_yes:
 **** Ianto
-***** [#A] TW1 2.3 - 9 to 5 :Yvonne:Ianto:
+**** FIXME [#A] Jack3.1 Crush :Jack:Jackie:
+     :PROPERTIES:
+     :rating:   8.2
+     :END:
+
 **** HALF [#A] TW16. torchwood_cascade_CDRIP.tor :Tosh:
 **** FIXME [#D] TW65. Death in Venice :Colchester:Ace:
-**** PENDING TW5.6 A Kill to a View :Bilis_Manger:
+**** FIXME [#B] TW5.6 A Kill to a View :Bilis_Manger:
 *** Benny
 **** [#A] BSST.2 And Then Again :Benny:7th_Dr:
 *** River
 **** [#C] DoRS6.4 The Talents of Grel :River:Jago:
 **** [#C] DoRS8.2 A Brave New World :River:10th_Dr:
-**** [#D] Peladon2. The Poison of Peladon :River:
 *** UNIT
 *** Master
 **** READY [#D] MAS3.3 Hellbound :bilibili:
-**** READY [#E] EoM3.2 - Fairies at the Bottom of the Garden :Amy:Master_missy:bilibili:
+**** READY [#C] WM8.4 The Master of Dorian Gray :bilibili:
+
+【【广播剧汉化】 你也有今天啊 The War Master 战争法师 804 The Master of Dorian Gray-哔哩哔哩】 
+https://b23.tv/BV1ju411x7qo
+
+**** READY [#D] SPY1.1 Self-Help :bilibili:
+     :PROPERTIES:
+     :tardis.guide: 3.96
+     :thetimescales: 6.1
+     :END:
+
+ 【【神秘博士广播剧】Call Me Master-101 Self-help 自救-哔哩哔哩】 https://b23.tv/BV18wLUzgEhL
+
 *** misc
 **** [#B] FP2.3 Body Politic :P2008:Sutekh:Justine:Eliza:
-**** 📂The Lone Centurion vol.2
+**** [#C] Rory2.3 The Last King of Camelot
+     :PROPERTIES:
+     :thetimescales: 7.9
+     :tardis.guide: 3.71
+     :END:
+
+**** FIXME [#C] CY1.3 - Living History :Churchill:
 **** 📂The Robots vol.4
 **** 📂Rose Tyler: The Dimension Cannon vol.3
-**** FIXME [#C] CY1.3 - Living History :Churchill:
 ** pending
+*** FIXME [#D] CC2.3 Old Soldiers （no_doctor?） :Brigadier:
 *** [#C] CC7.7 The Flames of Cadiz :1st_Dr:Ian:Susan:plot_yes:2CD:
 *** FIXME [#D] CC5.10 - The Sentinels of the New Dawn :3rd_Dr:Liz:
 *** FIXME [#B] DWUN2 Sympathy from the Devil :Unbound_Dr:Master_unbound:bilibili:
-** q4b-doctor
-*** LTV3.4 The Highlanders :2nd_Dr:Polly:Ben:Jamie:
-*** [#C] CDNM4.1 Invasion of the Body Stealers :4th_Dr:Sarah:
-*** [#D] 6DA21.1 One for All :6th_Dr:Constance:
-*** READY [#C] 8DSTR1.1. Lost Property :8th_Dr:Liv:Helen:The_Curator:bilibili:
-*** READY [#A] 8DSTR1.2. Wild Animals :8th_Dr:Liv:Helen:bilibili:
-*** READY [#C] O&F5. The Martian Invasion of Planetoid 50 :bilibili:10th_Dr:P2023_09:
-
-【【神秘博士六十周年纪念特辑】Once and Future 05 The Martian Invasion of Planetoid 50-哔哩哔哩】
-https://b23.tv/BV1Mp4y1P75j
-
-https://www.bigfinish.com/releases/v/doctor-who-once-and-future-the-martian-invasion-of-planetoid-50-2778
-
-第一任博士来到维多利亚时期火星人入侵的伦敦。但法师出现时，他发现一切并不像看起来那样…
-很快，博士被迫重生成未来的化身——第十任——但他不是唯一与法师和她的火星入侵者作战的人。维多利亚小队——Vastra夫人、Jenny和Strax——也前来协助。但他们能否帮博士解开他自己的退化之谜？
-
-*** READY [#D] FDA1.1 Fast Times :bilibili:
+** q1a-doctor
+*** [#D] CC13.4 - The Crumbling Magician :1st_Dr:Ben:Polly:
+*** [#A] 3DA2024B. The Quintessence (part1-4) :Jo:3CD:P2024_10:
     :PROPERTIES:
-    :thetimescales: 7.2
-    :tardis.guide: 3.55
+    :thetimescales: 8.5
+    :tardis.guide: 4.41
     :END:
 
- 【【神秘博士广播剧熟肉】Most Wanted 101 Fast Times 疾速时刻-哔哩哔哩】 https://b23.tv/BV1UXFieVEr9
-
-*** [#D] WDB5.1 A Mother's Love
-    :PROPERTIES:
-    :thetimescales: 7.1
-    :tardis.guide: 3.62
-    :END:
-
-** q4b-spinoffs
-*** [#B] TW74. Sigil :Bilis_Manger:P2023_08:
-*** [#B] TW79. Poppet :Rhys:P2024_01:
-*** [#C] UTNS7.1/7.2 - Hosts of the Wirrn
-*** [#C] PGT4.1 I Married a Zygon
-*** TODO BSNA 5.3 Dead and Breakfast :Benny:Unbound_Dr:
-*** READY [#E] EoM3.2 - Fairies at the Bottom of the Garden :Amy:Master_missy:bilibili:
-** q1a
+*** [#C] MR127 Castle of Fear :5th_Dr:Nyssa:Rutans:
 *** FIXME [#C] MR180 - 1963: The Assassination Games :7th_Dr:Ace:ICMG:Allison:Gilmore:
     :PROPERTIES:
     :rating:   7.9
     :END:
 
-*** READY [#B] 3.4.1 Swipe Right :9th_Dr:River:bilibili:
+*** READY [#B] 9DA3.4.1 Swipe Right :9th_Dr:River:bilibili:
+*** READY [#B] 11DA1.1 The Final Cut :bilibili:
+** q1a-spinoffs
+*** [#B] TW74. Sigil :Bilis_Manger:P2023_08:
+*** [#C] TW80. Sabotage :Colchester:Ace:P2024_02:
+    :PROPERTIES:
+    :tardis.guide: 3.51
+    :thetimescales: 7.6
+    :END:
 
-【【神秘博士广播剧熟肉】Star-Crossed 310 Swipe Right 右划-哔哩哔哩】 https://b23.tv/BV1Nrq4YnEwL
-
-*** BLOCK [#C] CM4.3 Rise and Shine
+*** [#D] UBNW2.1 The Frequency
 *** [#C] JL11.1 - Jago and Son
+*** [#D] Peladon2. The Poison of Peladon :River:
 *** [#C] TLV: Master Thief :Master_nemesis:
     :PROPERTIES:
     :rating:   7.6
     :END:
 
-** q1b
+*** [#C] GALL1. Damned if You Do :Narvin:
+** q1b-doctor
 *** START [#C] CC12.2 Dumb Waiter :2nd_Dr:Jamie:Leela:D2021_09_extra:plot_yes:
 *** READY [#B] NA03 - The Romance of Crime :Romana_2:P2015:2CD:scripted:bilibili:
     :PROPERTIES:
     :rating:   8.0
     :END:
 
+*** [#C] MR073. Thicker Than Water :6th_Dr:Mel:
+    :PROPERTIES:
+    :rating:   7.9
+    :END:
+
+*** [#C] SvsR #1. The Battle of Giant's Causeway :8th_Dr:P2024_01:Charley:Crizz:
 *** [#B] ST11.5 Fear of Flying :10th_Dr:P2022_02:
+*** READY [#C] BBC21. The Cuckoo :12th_Dr:P2023_12:BBC:bilibili:
+    :PROPERTIES:
+    :tardis.guide: 3.88
+    :END:
+
+*** [#C] WDB5.2 Berserker
+    :PROPERTIES:
+    :thetimescales: 7.8
+    :tardis.guide: 3.78
+    :END:
+
+** q1b-spinoffs
+*** BLOCK [#C] CM4.3 Rise and Shine
 *** FIXME [#C] BS6.2 The Kingdom of the Blind :Benny:
+** [#A] 3DA2024B. The Quintessence (part5-6) :Jo:3CD:P2024_10:
+   :PROPERTIES:
+   :thetimescales: 8.5
+   :tardis.guide: 4.41
+   :END:
+
+** 12DA1.1 The Second Death :P2026_07:12th_Dr:
